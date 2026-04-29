@@ -39,20 +39,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Getting Started with Power BI** (8 videos)
-- **2. 2. Importing and Transforming Data Using Power Query Editor** (13 videos)
-- **3. 3. Enhancing the Data Model: The Basics** (9 videos)
-- **4. 4. Enhancing the Data Model: DAX Basics** (9 videos)
-- **5. 5. Enhancing the Data Model: DAX Time Intelligence** (7 videos)
-- **6. 6. Enhancing the Data Model: Quick Measures** (2 videos)
-- **7. 7. Building Desktop Visualizations: The Basics** (8 videos)
-- **8. 8. Building Desktop Visualizations: Next Level** (14 videos)
-- **9. 9. Using the Power BI service: Reading View** (5 videos)
-- **10. 10. Using the Power BI Service Next Level** (6 videos)
-- **11. 11. Implementing Security and Access** (4 videos)
-- **12. 12. Summary** (1 videos)
+- **[[#1. Getting Started with Power BI]]** (8 videos)
+- **[[#2. Importing and Transforming Data Using Power Query Editor]]** (13 videos)
+- **[[#3. Enhancing the Data Model: The Basics]]** (9 videos)
+- **[[#4. Enhancing the Data Model: DAX Basics]]** (9 videos)
+- **[[#5. Enhancing the Data Model: DAX Time Intelligence]]** (7 videos)
+- **[[#6. Enhancing the Data Model: Quick Measures]]** (2 videos)
+- **[[#7. Building Desktop Visualizations: The Basics]]** (8 videos)
+- **[[#8. Building Desktop Visualizations: Next Level]]** (14 videos)
+- **[[#9. Using the Power BI service: Reading View]]** (5 videos)
+- **[[#10. Using the Power BI Service Next Level]]** (6 videos)
+- **[[#11. Implementing Security and Access]]** (4 videos)
+- **[[#12. Summary]]** (1 videos)
 
-### 1. 1. Getting Started with Power BI
+### 1. Getting Started with Power BI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20269078?u=76281980)
@@ -839,7 +841,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 2. 2. Importing and Transforming Data Using Power Query Editor
+### 2. Importing and Transforming Data Using Power Query Editor
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980)
@@ -3248,7 +3252,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 3. Enhancing the Data Model: The Basics
+### 3. Enhancing the Data Model: The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270073?u=76281980)
@@ -4369,7 +4375,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 4. Enhancing the Data Model: DAX Basics
+### 4. Enhancing the Data Model: DAX Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270072?u=76281980)
@@ -5620,7 +5628,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 5. Enhancing the Data Model: DAX Time Intelligence
+### 5. Enhancing the Data Model: DAX Time Intelligence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264875?u=76281980)
@@ -6257,7 +6267,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 6. 6. Enhancing the Data Model: Quick Measures
+### 6. Enhancing the Data Model: Quick Measures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270076?u=76281980)
@@ -6397,7 +6409,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 7. Building Desktop Visualizations: The Basics
+### 7. Building Desktop Visualizations: The Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264877?u=76281980)
@@ -7279,7 +7293,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 8. Building Desktop Visualizations: Next Level
+### 8. Building Desktop Visualizations: Next Level
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20266940?u=76281980)
@@ -8604,7 +8620,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 9. Using the Power BI service: Reading View
+### 9. Using the Power BI service: Reading View
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980)
@@ -8985,7 +9003,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 10. Using the Power BI Service Next Level
+### 10. Using the Power BI Service Next Level
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23451332?u=76281980)
@@ -9465,7 +9485,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 11. Implementing Security and Access
+### 11. Implementing Security and Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23455255?u=76281980)
@@ -9739,7 +9761,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 12. 12. Summary
+### 12. Summary
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980)

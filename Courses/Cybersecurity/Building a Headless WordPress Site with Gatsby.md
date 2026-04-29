@@ -48,16 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Setting Up** (3 videos)
-- **3. 2. WordPress as a Gatsby Data Resource** (2 videos)
-- **4. 3. Working with Pages** (6 videos)
-- **5. 4. Custom Menus** (6 videos)
-- **6. 5. Working with Posts** (7 videos)
-- **7. 6. Categories and Tags** (5 videos)
-- **8. 7. Custom Post Types and Taxonomies** (2 videos)
-- **9. 8. Considerations When Using WordPress and Gatsby** (1 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Setting Up]]** (3 videos)
+- **[[#3. 2. WordPress as a Gatsby Data Resource]]** (2 videos)
+- **[[#4. 3. Working with Pages]]** (6 videos)
+- **[[#5. 4. Custom Menus]]** (6 videos)
+- **[[#6. 5. Working with Posts]]** (7 videos)
+- **[[#7. 6. Categories and Tags]]** (5 videos)
+- **[[#8. 7. Custom Post Types and Taxonomies]]** (2 videos)
+- **[[#9. 8. Considerations When Using WordPress and Gatsby]]** (1 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

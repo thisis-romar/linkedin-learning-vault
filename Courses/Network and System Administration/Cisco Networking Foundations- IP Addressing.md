@@ -48,10 +48,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. IPv4 Addressing** (15 videos)
-- **3. 2. IPv6 Addressing** (14 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. IPv4 Addressing]]** (15 videos)
+- **[[#3. 2. IPv6 Addressing]]** (14 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

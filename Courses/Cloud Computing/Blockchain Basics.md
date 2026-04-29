@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Trust over the Internet** (2 videos)
-- **3. 2. What Is Blockchain Technology?** (5 videos)
-- **4. 3. Transforming Transactions** (3 videos)
-- **5. 4. Challenges to Be Solved** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Trust over the Internet]]** (2 videos)
+- **[[#2. What Is Blockchain Technology?]]** (5 videos)
+- **[[#3. Transforming Transactions]]** (3 videos)
+- **[[#4. Challenges to Be Solved]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building trust through software code
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Trust over the Internet
+### 1. Trust over the Internet
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Risk management on the internet today
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980)
@@ -303,7 +307,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. What Is Blockchain Technology?
+### 2. What Is Blockchain Technology?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What problems does blockchain solve?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980)
@@ -787,7 +793,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Transforming Transactions
+### 3. Transforming Transactions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The blockchain ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980)
@@ -1090,7 +1098,9 @@ created: 2026-04-28
 > **Speakers:** - blockchain (1)
 
 
-### 5. 4. Challenges to Be Solved
+### 4. Challenges to Be Solved
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Obstacles to broad blockchain adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980)
@@ -1265,7 +1275,9 @@ created: 2026-04-28
 > **Speakers:** - after (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking the next steps with blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980)

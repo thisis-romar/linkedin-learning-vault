@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Overview** (3 videos)
-- **3. 2. Creational Patterns** (8 videos)
-- **4. 3. Structural Patterns** (8 videos)
-- **5. 4. Behavioral Patterns** (11 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Overview]]** (3 videos)
+- **[[#3. 2. Creational Patterns]]** (8 videos)
+- **[[#4. 3. Structural Patterns]]** (8 videos)
+- **[[#5. 4. Behavioral Patterns]]** (11 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

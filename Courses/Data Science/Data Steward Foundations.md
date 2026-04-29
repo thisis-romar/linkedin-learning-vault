@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Data Stewardship Roles** (5 videos)
-- **3. 2. Maintaining Data Quality** (5 videos)
-- **4. 3. Protecting Data Security** (10 videos)
-- **5. 4. Preserving Individual Privacy** (4 videos)
-- **6. 5. Regulatory Compliance** (6 videos)
-- **7. 6. Getting Started** (6 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Data Stewardship Roles]]** (5 videos)
+- **[[#2. Maintaining Data Quality]]** (5 videos)
+- **[[#3. Protecting Data Security]]** (10 videos)
+- **[[#4. Preserving Individual Privacy]]** (4 videos)
+- **[[#5. Regulatory Compliance]]** (6 videos)
+- **[[#6. Getting Started]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data stewardship
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980)
@@ -116,7 +118,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Data Stewardship Roles
+### 1. Data Stewardship Roles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data stewardship?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980)
@@ -396,7 +400,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Maintaining Data Quality
+### 2. Maintaining Data Quality
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing master data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980)
@@ -671,7 +677,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Protecting Data Security
+### 3. Protecting Data Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Goals of information security
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980)
@@ -1406,7 +1414,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Preserving Individual Privacy
+### 4. Preserving Individual Privacy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Privacy program development
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980)
@@ -1637,7 +1647,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Regulatory Compliance
+### 5. Regulatory Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Today's regulatory landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980)
@@ -2100,7 +2112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Getting Started
+### 6. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data inventory
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980)
@@ -2482,7 +2496,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your studies
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980)

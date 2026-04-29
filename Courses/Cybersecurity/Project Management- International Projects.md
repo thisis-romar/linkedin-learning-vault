@@ -44,13 +44,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Collaboration** (3 videos)
-- **3. 2. True Communication** (4 videos)
-- **4. 3. Distance** (3 videos)
-- **5. 4. Culture** (4 videos)
-- **6. 5. Language** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Collaboration]]** (3 videos)
+- **[[#3. 2. True Communication]]** (4 videos)
+- **[[#4. 3. Distance]]** (3 videos)
+- **[[#5. 4. Culture]]** (4 videos)
+- **[[#6. 5. Language]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

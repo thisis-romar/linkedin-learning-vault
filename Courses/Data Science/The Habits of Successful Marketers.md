@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Analytical Skills for Marketers** (3 videos)
-- **3. 2. Implementation Skills for Marketers** (3 videos)
-- **4. 3. Collaborative Skills for Marketers** (3 videos)
-- **5. 4. Creative Thinking Skills for Marketers** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Analytical Skills for Marketers]]** (3 videos)
+- **[[#3. 2. Implementation Skills for Marketers]]** (3 videos)
+- **[[#4. 3. Collaborative Skills for Marketers]]** (3 videos)
+- **[[#5. 4. Creative Thinking Skills for Marketers]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

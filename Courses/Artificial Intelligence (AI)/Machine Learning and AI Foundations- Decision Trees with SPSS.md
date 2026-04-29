@@ -51,12 +51,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Decision Trees in IBM SPSS Modeler** (5 videos)
-- **3. 2. Understanding CHAID** (9 videos)
-- **4. 3. Understanding C&RT** (6 videos)
-- **5. 4. Improving Your Model** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Decision Trees in IBM SPSS Modeler]]** (5 videos)
+- **[[#3. 2. Understanding CHAID]]** (9 videos)
+- **[[#4. 3. Understanding C&RT]]** (6 videos)
+- **[[#5. 4. Improving Your Model]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Linux Overview** (5 videos)
-- **3. 2. Before Installing Linux** (4 videos)
-- **4. 3. Installing Linux** (6 videos)
-- **5. 4. Configuring Linux** (5 videos)
-- **6. 5. Using Linux** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Linux Overview]]** (5 videos)
+- **[[#3. 2. Before Installing Linux]]** (4 videos)
+- **[[#4. 3. Installing Linux]]** (6 videos)
+- **[[#5. 4. Configuring Linux]]** (5 videos)
+- **[[#6. 5. Using Linux]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

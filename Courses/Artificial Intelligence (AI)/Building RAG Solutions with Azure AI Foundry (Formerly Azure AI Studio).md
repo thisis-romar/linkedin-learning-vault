@@ -54,14 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Fundamentals of RAG** (5 videos)
-- **3. 2. Introduction to Azure AI Foundry** (3 videos)
-- **4. 3. Setting Up Azure AI Foundry** (5 videos)
-- **5. 4. Creating an Index for RAG Using Azure** (4 videos)
-- **6. 5. Introduction to Azure Prompt Flow** (4 videos)
-- **7. 6. Deploying a RAG Solution** (3 videos)
-- **8. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Fundamentals of RAG]]** (5 videos)
+- **[[#3. 2. Introduction to Azure AI Foundry]]** (3 videos)
+- **[[#4. 3. Setting Up Azure AI Foundry]]** (5 videos)
+- **[[#5. 4. Creating an Index for RAG Using Azure]]** (4 videos)
+- **[[#6. 5. Introduction to Azure Prompt Flow]]** (4 videos)
+- **[[#7. 6. Deploying a RAG Solution]]** (3 videos)
+- **[[#8. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

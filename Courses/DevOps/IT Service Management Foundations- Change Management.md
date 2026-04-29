@@ -53,11 +53,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Change Management Fundamentals** (4 videos)
-- **3. 2. Your Change Control Process** (13 videos)
-- **4. 3. Implementing Change Management** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Change Management Fundamentals]]** (4 videos)
+- **[[#3. 2. Your Change Control Process]]** (13 videos)
+- **[[#4. 3. Implementing Change Management]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -45,13 +45,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Ensemble Learning** (3 videos)
-- **3. 2. Bagging and Random Forests** (5 videos)
-- **4. 3. Boosting and Gradient Boosting** (5 videos)
-- **5. 4. XGBoost** (5 videos)
-- **6. 5. Stacking** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Ensemble Learning]]** (3 videos)
+- **[[#3. 2. Bagging and Random Forests]]** (5 videos)
+- **[[#4. 3. Boosting and Gradient Boosting]]** (5 videos)
+- **[[#5. 4. XGBoost]]** (5 videos)
+- **[[#6. 5. Stacking]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

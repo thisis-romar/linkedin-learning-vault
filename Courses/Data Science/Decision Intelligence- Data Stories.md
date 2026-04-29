@@ -40,11 +40,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Data Stories** (8 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Data Stories]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Theory is good, but practice can be better
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/theory-is-good-but-practice-can-be-better?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Data Stories
+### 1. Data Stories
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why perfect predictions can backfire
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980)
@@ -991,7 +995,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Boost your data skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980)

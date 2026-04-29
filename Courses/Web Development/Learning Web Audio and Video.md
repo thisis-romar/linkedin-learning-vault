@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Get Started with Web-Based Media** (6 videos)
-- **3. 2. Work with Audio Elements** (7 videos)
-- **4. 3. Work with Video Elements** (6 videos)
-- **5. 4. Create Media Playback Controls** (6 videos)
-- **6. 5. Style Media Playback Controls** (6 videos)
-- **7. 6. Work with the Media API** (7 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Get Started with Web-Based Media]]** (6 videos)
+- **[[#3. 2. Work with Audio Elements]]** (7 videos)
+- **[[#4. 3. Work with Video Elements]]** (6 videos)
+- **[[#5. 4. Create Media Playback Controls]]** (6 videos)
+- **[[#6. 5. Style Media Playback Controls]]** (6 videos)
+- **[[#7. 6. Work with the Media API]]** (7 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

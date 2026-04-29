@@ -46,12 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Call Control Strategies** (6 videos)
-- **3. 2. Proactive Conversation Management** (2 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Call Control Strategies]]** (6 videos)
+- **[[#2. Proactive Conversation Management]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get customer calls resolved faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980)
@@ -74,7 +76,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 2. 1. Call Control Strategies
+### 1. Call Control Strategies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Give a limited response on your customer call
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/give-a-limited-response-on-your-customer-call?u=76281980)
@@ -530,7 +534,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Proactive Conversation Management
+### 2. Proactive Conversation Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When customers feel understood, they talk less
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/when-customers-feel-understood-they-talk-less-22343811?u=76281980)
@@ -655,7 +661,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep building your customer phone skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980)

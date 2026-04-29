@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Organizational Structure of a Cloud Center of Excellence (CCoE)** (3 videos)
-- **3. 2. Components of a CCoE** (6 videos)
-- **4. 3. Analytics and Measuring Success** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Organizational Structure of a Cloud Center of Excellence (CCoE)]]** (3 videos)
+- **[[#2. Components of a CCoE]]** (6 videos)
+- **[[#3. Analytics and Measuring Success]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Beginning your cloud center of excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980)
@@ -285,7 +287,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Organizational Structure of a Cloud Center of Excellence (CCoE)
+### 1. Organizational Structure of a Cloud Center of Excellence (CCoE)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structure and service of a CCoE
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980)
@@ -546,7 +550,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Components of a CCoE
+### 2. Components of a CCoE
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Subject matter experts (SMEs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980)
@@ -845,7 +851,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Analytics and Measuring Success
+### 3. Analytics and Measuring Success
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Power of analytics: Were you successful?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/power-of-analytics-were-you-successful?u=76281980)
@@ -948,7 +956,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980)

@@ -48,16 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Getting Started with Python and Tkinter** (3 videos)
-- **3. 2. Tkinter Concepts** (5 videos)
-- **4. 3. Basic Widgets** (6 videos)
-- **5. 4. Organizational Widgets** (4 videos)
-- **6. 5. Advanced Widgets** (10 videos)
-- **7. 6. Geometry Management** (3 videos)
-- **8. 7. Event Handling** (5 videos)
-- **9. 8. Building an Application** (6 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Getting Started with Python and Tkinter]]** (3 videos)
+- **[[#3. 2. Tkinter Concepts]]** (5 videos)
+- **[[#4. 3. Basic Widgets]]** (6 videos)
+- **[[#5. 4. Organizational Widgets]]** (4 videos)
+- **[[#6. 5. Advanced Widgets]]** (10 videos)
+- **[[#7. 6. Geometry Management]]** (3 videos)
+- **[[#8. 7. Event Handling]]** (5 videos)
+- **[[#9. 8. Building an Application]]** (6 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

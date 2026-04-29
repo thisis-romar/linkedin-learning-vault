@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Idea Behind Exponential Smoothing** (4 videos)
-- **3. 2. The Forecasting Equation** (4 videos)
-- **4. 3. Measuring Forecast Accuracy** (2 videos)
-- **5. 4. Optimizing Forecasts** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Idea Behind Exponential Smoothing]]** (4 videos)
+- **[[#3. 2. The Forecasting Equation]]** (4 videos)
+- **[[#4. 3. Measuring Forecast Accuracy]]** (2 videos)
+- **[[#5. 4. Optimizing Forecasts]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

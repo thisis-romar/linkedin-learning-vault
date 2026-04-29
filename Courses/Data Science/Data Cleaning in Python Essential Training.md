@@ -53,13 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Bad Data** (4 videos)
-- **3. 2. Causes of Errors** (5 videos)
-- **4. 3. Detecting Errors** (8 videos)
-- **5. 4. Preventing Errors** (8 videos)
-- **6. 5. Fixing Errors** (8 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Bad Data]]** (4 videos)
+- **[[#3. 2. Causes of Errors]]** (5 videos)
+- **[[#4. 3. Detecting Errors]]** (8 videos)
+- **[[#5. 4. Preventing Errors]]** (8 videos)
+- **[[#6. 5. Fixing Errors]]** (8 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

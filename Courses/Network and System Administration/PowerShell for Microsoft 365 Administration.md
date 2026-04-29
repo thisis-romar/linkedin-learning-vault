@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Connecting to Microsoft 365 Using PowerShell** (9 videos)
-- **3. 2. Managing SharePoint Online and OneDrive for Business** (7 videos)
-- **4. 3. Managing Exchange Online** (3 videos)
-- **5. 4. Managing Microsoft Teams** (6 videos)
-- **6. 5. Managing Security and Compliance** (8 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Connecting to Microsoft 365 Using PowerShell]]** (9 videos)
+- **[[#2. Managing SharePoint Online and OneDrive for Business]]** (7 videos)
+- **[[#3. Managing Exchange Online]]** (3 videos)
+- **[[#4. Managing Microsoft Teams]]** (6 videos)
+- **[[#5. Managing Security and Compliance]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PowerShell for Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Connecting to Microsoft 365 Using PowerShell
+### 1. Connecting to Microsoft 365 Using PowerShell
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use PowerShell to manage Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980)
@@ -868,7 +872,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Managing SharePoint Online and OneDrive for Business
+### 2. Managing SharePoint Online and OneDrive for Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connect to SharePoint Online and OneDrive for Business
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980)
@@ -2227,7 +2233,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 4. 3. Managing Exchange Online
+### 3. Managing Exchange Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to connect to Exchange Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980)
@@ -2821,7 +2829,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Managing Microsoft Teams
+### 4. Managing Microsoft Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to connect to Microsoft Teams with PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980)
@@ -3742,7 +3752,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 6. 5. Managing Security and Compliance
+### 5. Managing Security and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explain the security and compliance features
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980)
@@ -5076,7 +5088,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise file (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980)

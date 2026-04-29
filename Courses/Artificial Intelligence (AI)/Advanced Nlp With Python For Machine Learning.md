@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to NLP Libraries** (3 videos)
-- **3. 2. Review NLP and Python Basics** (3 videos)
-- **4. 3. Using spaCy for Customer Feedback Analysis** (4 videos)
-- **5. 4. Modern NLP: Transformers and Large Language Models** (5 videos)
-- **6. 5. Methods That Improve LLM Performance** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introduction to NLP Libraries]]** (3 videos)
+- **[[#3. 2. Review NLP and Python Basics]]** (3 videos)
+- **[[#4. 3. Using spaCy for Customer Feedback Analysis]]** (4 videos)
+- **[[#5. 4. Modern NLP: Transformers and Large Language Models]]** (5 videos)
+- **[[#6. 5. Methods That Improve LLM Performance]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Agile Testing?** (5 videos)
-- **3. 2. The Agile Testing Approach** (8 videos)
-- **4. 3. Testing Process and Responsibilities** (4 videos)
-- **5. 4. Agile Testing In Action** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Agile Testing?]]** (5 videos)
+- **[[#2. The Agile Testing Approach]]** (8 videos)
+- **[[#3. Testing Process and Responsibilities]]** (4 videos)
+- **[[#4. Agile Testing In Action]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing agile projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/testing-agile-projects?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - testing (1)
 
 
-### 2. 1. What Is Agile Testing?
+### 1. What Is Agile Testing?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing in the agile context
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/testing-in-the-agile-context-19300571?u=76281980)
@@ -355,7 +359,9 @@ created: 2026-04-28
 > **Speakers:** - being (1)
 
 
-### 3. 2. The Agile Testing Approach
+### 2. The Agile Testing Approach
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Backlog grooming
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/backlog-grooming-19801484?u=76281980)
@@ -685,7 +691,9 @@ created: 2026-04-28
 > **Speakers:** - welcome (1)
 
 
-### 4. 3. Testing Process and Responsibilities
+### 3. Testing Process and Responsibilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bug tracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/bug-tracking-19295906?u=76281980)
@@ -966,7 +974,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Agile Testing In Action
+### 4. Agile Testing In Action
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/manual-testing-19295905?u=76281980)
@@ -1105,7 +1115,9 @@ created: 2026-04-28
 > **Speakers:** - continuous (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/next-steps-23016445?u=76281980)

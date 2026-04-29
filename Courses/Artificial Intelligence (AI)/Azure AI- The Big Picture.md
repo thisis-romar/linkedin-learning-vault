@@ -51,16 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Azure AI Big Picture** (3 videos)
-- **3. 2. Azure Machine Learning** (3 videos)
-- **4. 3. Azure OpenAI Service** (6 videos)
-- **5. 4. Image and Video Analysis** (5 videos)
-- **6. 5. Text Analysis and Services** (4 videos)
-- **7. 6. Speech Analysis and Creation** (5 videos)
-- **8. 7. Azure Applied AI Services** (5 videos)
-- **9. 8. Additional Services** (2 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Azure AI Big Picture]]** (3 videos)
+- **[[#3. 2. Azure Machine Learning]]** (3 videos)
+- **[[#4. 3. Azure OpenAI Service]]** (6 videos)
+- **[[#5. 4. Image and Video Analysis]]** (5 videos)
+- **[[#6. 5. Text Analysis and Services]]** (4 videos)
+- **[[#7. 6. Speech Analysis and Creation]]** (5 videos)
+- **[[#8. 7. Azure Applied AI Services]]** (5 videos)
+- **[[#9. 8. Additional Services]]** (2 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

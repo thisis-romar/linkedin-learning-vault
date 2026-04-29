@@ -46,12 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding Learning in the Age of AI** (6 videos)
-- **3. 2. Learning in Context with AI** (5 videos)
-- **4. 3. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Learning in the Age of AI]]** (6 videos)
+- **[[#2. Learning in Context with AI]]** (5 videos)
+- **[[#3. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of developing a learning mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/the-importance-of-developing-a-learning-mindset?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - look (1)
 
 
-### 2. 1. Understanding Learning in the Age of AI
+### 1. Understanding Learning in the Age of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tap into your learning mindset, skill set, and toolset
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/tap-into-your-learning-mindset-skillset-and-toolset?u=76281980)
@@ -545,7 +549,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 3. 2. Learning in Context with AI
+### 2. Learning in Context with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connect to your motivation to learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/connect-to-your-motivation-to-learn?u=76281980)
@@ -975,7 +981,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 4. 3. Conclusion
+### 3. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-a-learning-mindset-in-the-age-of-ai/your-learning-journey?u=76281980)

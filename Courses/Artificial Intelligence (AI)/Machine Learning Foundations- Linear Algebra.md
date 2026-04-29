@@ -58,15 +58,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Linear Algebra** (2 videos)
-- **3. 2. Vectors Basics** (3 videos)
-- **4. 3. Vector Projections and Basis** (4 videos)
-- **5. 4. Introduction to Matrices** (4 videos)
-- **6. 5. Gaussian Elimination** (3 videos)
-- **7. 6. Matrices from Orthogonality to Gram–Schmidt Process** (4 videos)
-- **8. 7. Eigenvalues and Eigenvectors** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Linear Algebra]]** (2 videos)
+- **[[#3. 2. Vectors Basics]]** (3 videos)
+- **[[#4. 3. Vector Projections and Basis]]** (4 videos)
+- **[[#5. 4. Introduction to Matrices]]** (4 videos)
+- **[[#6. 5. Gaussian Elimination]]** (3 videos)
+- **[[#7. 6. Matrices from Orthogonality to Gram–Schmidt Process]]** (4 videos)
+- **[[#8. 7. Eigenvalues and Eigenvectors]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

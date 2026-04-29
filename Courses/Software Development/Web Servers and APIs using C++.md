@@ -50,14 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Installing Our Tools** (8 videos)
-- **3. 2. Deploying to AWS ElasticBeanstalk** (2 videos)
-- **4. 3. Building Websites** (5 videos)
-- **5. 4. Data Access** (7 videos)
-- **6. 5. RESTful APIs** (6 videos)
-- **7. 6. WebSockets and Crow** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Installing Our Tools]]** (8 videos)
+- **[[#3. 2. Deploying to AWS ElasticBeanstalk]]** (2 videos)
+- **[[#4. 3. Building Websites]]** (5 videos)
+- **[[#5. 4. Data Access]]** (7 videos)
+- **[[#6. 5. RESTful APIs]]** (6 videos)
+- **[[#7. 6. WebSockets and Crow]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -55,13 +55,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Decision-Maker in Isolation** (8 videos)
-- **3. 2. Decision Intelligence** (5 videos)
-- **4. 3. Data-Driven Leadership** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Decision-Maker in Isolation]]** (8 videos)
+- **[[#2. Decision Intelligence]]** (5 videos)
+- **[[#3. Data-Driven Leadership]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The steering wheel for your life
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-steering-wheel-for-your-life?u=76281980)
@@ -138,7 +140,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. The Decision-Maker in Isolation
+### 1. The Decision-Maker in Isolation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The most important lesson in decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-most-important-lesson-in-decision-making?u=76281980)
@@ -996,7 +1000,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 3. 2. Decision Intelligence
+### 2. Decision Intelligence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Upgrade 1: Using data and technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/upgrade-1-using-data-and-technology?u=76281980)
@@ -1621,7 +1627,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Data-Driven Leadership
+### 3. Data-Driven Leadership
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Group decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/group-decisions?u=76281980)
@@ -2095,7 +2103,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Are you a good decision-maker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/are-you-a-good-decision-maker?u=76281980)

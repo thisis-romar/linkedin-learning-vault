@@ -36,10 +36,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Vibe Coding Fundamentals** (6 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Vibe Coding Fundamentals]]** (6 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The quiet shift in how developers are writing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-quiet-shift-in-how-developers-are-writing-code?u=76281980)
@@ -67,7 +69,9 @@ created: 2026-04-28
 > **Speakers:** - something (1)
 
 
-### 2. 1. Vibe Coding Fundamentals
+### 1. Vibe Coding Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What happens when AI starts writing code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980)

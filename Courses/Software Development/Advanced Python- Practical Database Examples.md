@@ -49,11 +49,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Creating an API that Serves Data from a Database with FastAPI** (12 videos)
-- **3. 2. Developing Analysis Applications with Pandas** (8 videos)
-- **4. 3. Building a Full-Stack Task List Application with Flask** (14 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Creating an API that Serves Data from a Database with FastAPI]]** (12 videos)
+- **[[#3. 2. Developing Analysis Applications with Pandas]]** (8 videos)
+- **[[#4. 3. Building a Full-Stack Task List Application with Flask]]** (14 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

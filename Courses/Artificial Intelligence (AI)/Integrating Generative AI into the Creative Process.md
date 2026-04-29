@@ -42,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Cultivation: Develop Your Creative Skills with AI** (4 videos)
-- **3. 2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas** (3 videos)
-- **4. 3. Imagination: Get Help Developing Fresh and Impactful Ideas** (5 videos)
-- **5. 4. Implementation: Using AI to Improve the Chances of Ideas Happening** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Cultivation: Develop Your Creative Skills with AI]]** (4 videos)
+- **[[#2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas]]** (3 videos)
+- **[[#3. Imagination: Get Help Developing Fresh and Impactful Ideas]]** (5 videos)
+- **[[#4. Implementation: Using AI to Improve the Chances of Ideas Happening]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI as a creative booster
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/ai-as-a-creative-booster?u=76281980)
@@ -251,7 +253,9 @@ created: 2026-04-28
 > **Speakers:** - many (1)
 
 
-### 2. 1. Cultivation: Develop Your Creative Skills with AI
+### 1. Cultivation: Develop Your Creative Skills with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to test and develop your creativity
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980)
@@ -913,7 +917,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas
+### 2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to understand your audience's motivations
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-your-audience-s-motivations?u=76281980)
@@ -1310,7 +1316,9 @@ created: 2026-04-28
 > **Analogies:** it's like (1)
 
 
-### 4. 3. Imagination: Get Help Developing Fresh and Impactful Ideas
+### 3. Imagination: Get Help Developing Fresh and Impactful Ideas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to nudge your thinking in fresh directions
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-nudge-your-thinking-in-fresh-directions?u=76281980)
@@ -1954,7 +1962,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 5. 4. Implementation: Using AI to Improve the Chances of Ideas Happening
+### 4. Implementation: Using AI to Improve the Chances of Ideas Happening
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to understand how to make an idea happen
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980)
@@ -2285,7 +2295,9 @@ created: 2026-04-28
 > **Cross-References:** coming up (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980)

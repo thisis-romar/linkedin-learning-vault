@@ -49,18 +49,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to AI Agents in the Cloud** (7 videos)
-- **3. 2. Generative AI Tools and Platforms** (9 videos)
-- **4. 3. Building Agentic AI Solutions in the Cloud** (9 videos)
-- **5. 4. Integrating Agentic AI in the Cloud into DevOps Practices** (3 videos)
-- **6. 5. Agentic AI and Cloud Architecture** (7 videos)
-- **7. 6. AI Workflows and Prompt Engineering** (4 videos)
-- **8. 7. Important Topics for Agentic AI** (3 videos)
-- **9. 8. Future of Agentic AI in Cloud** (6 videos)
-- **10. Conclusion** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to AI Agents in the Cloud]]** (7 videos)
+- **[[#2. Generative AI Tools and Platforms]]** (9 videos)
+- **[[#3. Building Agentic AI Solutions in the Cloud]]** (9 videos)
+- **[[#4. Integrating Agentic AI in the Cloud into DevOps Practices]]** (3 videos)
+- **[[#5. Agentic AI and Cloud Architecture]]** (7 videos)
+- **[[#6. AI Workflows and Prompt Engineering]]** (4 videos)
+- **[[#7. Important Topics for Agentic AI]]** (3 videos)
+- **[[#8. Future of Agentic AI in Cloud]]** (6 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI agents in cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Introduction to AI Agents in the Cloud
+### 1. Introduction to AI Agents in the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of cloud-based agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980)
@@ -500,7 +504,9 @@ created: 2026-04-28
 > **Non-Speech:** (energetic electronic music) (1)
 
 
-### 3. 2. Generative AI Tools and Platforms
+### 2. Generative AI Tools and Platforms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of generative AI tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980)
@@ -888,7 +894,9 @@ created: 2026-04-28
 > **Non-Speech:** (energetic electronic music) (1)
 
 
-### 4. 3. Building Agentic AI Solutions in the Cloud
+### 3. Building Agentic AI Solutions in the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Autonomous resource management
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980)
@@ -1299,7 +1307,9 @@ created: 2026-04-28
 > **Non-Speech:** (lively techno upbeat music) (1)
 
 
-### 5. 4. Integrating Agentic AI in the Cloud into DevOps Practices
+### 4. Integrating Agentic AI in the Cloud into DevOps Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enhancing CI/CD pipelines with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980)
@@ -1469,7 +1479,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Agentic AI and Cloud Architecture
+### 5. Agentic AI and Cloud Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI agents and data integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980)
@@ -1772,7 +1784,9 @@ created: 2026-04-28
 > **Non-Speech:** (energetic music) (1)
 
 
-### 7. 6. AI Workflows and Prompt Engineering
+### 6. AI Workflows and Prompt Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Crafting prompts to guide agentic behavior in AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980)
@@ -1939,7 +1953,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 8. 7. Important Topics for Agentic AI
+### 7. Important Topics for Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intelligent monitoring and incident management
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980)
@@ -2065,7 +2081,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Future of Agentic AI in Cloud
+### 8. Future of Agentic AI in Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Multi-agent systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980)
@@ -2368,7 +2386,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980)

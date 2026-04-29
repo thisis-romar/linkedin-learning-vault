@@ -46,11 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. How to Make Block Patterns** (8 videos)
-- **3. 2. The Block Patterns Cookbook** (10 videos)
-- **4. 3. Refactoring** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. How to Make Block Patterns]]** (8 videos)
+- **[[#3. 2. The Block Patterns Cookbook]]** (10 videos)
+- **[[#4. 3. Refactoring]]** (2 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

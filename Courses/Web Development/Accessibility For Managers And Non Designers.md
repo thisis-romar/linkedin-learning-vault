@@ -35,15 +35,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Breaking Down Accessibility** (5 videos)
-- **3. 2. Developing Accessible Products** (7 videos)
-- **4. 3. Testing for Accessibility** (3 videos)
-- **5. 4. Leading Designers and Developers** (5 videos)
-- **6. 5. Leveraging Accessibility** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Breaking Down Accessibility]]** (5 videos)
+- **[[#2. Developing Accessible Products]]** (7 videos)
+- **[[#3. Testing for Accessibility]]** (3 videos)
+- **[[#4. Leading Designers and Developers]]** (5 videos)
+- **[[#5. Leveraging Accessibility]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessibility for managers and non-designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980)
@@ -342,7 +344,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Breaking Down Accessibility
+### 1. Breaking Down Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing for accessible visual perception
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-accessible-visual-perception?u=76281980)
@@ -710,7 +714,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Developing Accessible Products
+### 2. Developing Accessible Products
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Development standards for accessible products
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980)
@@ -1215,7 +1221,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Testing for Accessibility
+### 3. Testing for Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing with impacted users
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980)
@@ -1446,7 +1454,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Leading Designers and Developers
+### 4. Leading Designers and Developers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an inclusive-conscious environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980)
@@ -1759,7 +1769,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Leveraging Accessibility
+### 5. Leveraging Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making a11y features visible to all users
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980)
@@ -1885,7 +1897,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980)

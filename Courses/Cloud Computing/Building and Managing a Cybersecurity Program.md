@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Defining Key Terms** (6 videos)
-- **3. 2. Cybersecurity Program Goals** (6 videos)
-- **4. 3. Cybersecurity Program Components** (7 videos)
-- **5. 4. Structuring a Cybersecurity Program** (5 videos)
-- **6. 5. Demonstrate Compliance and Progress** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Defining Key Terms]]** (6 videos)
+- **[[#2. Cybersecurity Program Goals]]** (6 videos)
+- **[[#3. Cybersecurity Program Components]]** (7 videos)
+- **[[#4. Structuring a Cybersecurity Program]]** (5 videos)
+- **[[#5. Demonstrate Compliance and Progress]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protect against cyberattacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/protect-against-cyberattacks-22157268?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Defining Key Terms
+### 1. Defining Key Terms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is information security?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/what-is-information-security-22156753?u=76281980)
@@ -445,7 +449,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Cybersecurity Program Goals
+### 2. Cybersecurity Program Goals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Achieve your customers’ expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/achieve-your-customers-expectations-22158262?u=76281980)
@@ -836,7 +842,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Cybersecurity Program Components
+### 3. Cybersecurity Program Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Essential functions of a program
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/essential-functions-of-a-program-22157265?u=76281980)
@@ -1306,7 +1314,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Structuring a Cybersecurity Program
+### 4. Structuring a Cybersecurity Program
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sources of controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/sources-of-controls-22158261?u=76281980)
@@ -1676,7 +1686,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Demonstrate Compliance and Progress
+### 5. Demonstrate Compliance and Progress
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communicate with executives
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/communicate-with-executives-22157264?u=76281980)
@@ -2100,7 +2112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for cybersecurity programs
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-and-managing-a-cybersecurity-program/next-steps-for-cybersecurity-programs-22157266?u=76281980)

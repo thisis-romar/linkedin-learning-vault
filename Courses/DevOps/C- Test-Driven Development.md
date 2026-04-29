@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. TDD Theory** (4 videos)
-- **3. 2. Getting Started with TDD** (7 videos)
-- **4. 3. Advanced TDD Techniques** (9 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. TDD Theory]]** (4 videos)
+- **[[#2. Getting Started with TDD]]** (7 videos)
+- **[[#3. Advanced TDD Techniques]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing web applications and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980)
@@ -174,7 +176,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. TDD Theory
+### 1. TDD Theory
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### About testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/about-testing?u=76281980)
@@ -481,7 +485,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 3. 2. Getting Started with TDD
+### 2. Getting Started with TDD
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Demo project introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980)
@@ -949,7 +955,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Advanced TDD Techniques
+### 3. Advanced TDD Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to mocking
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/introduction-to-mocking?u=76281980)
@@ -1671,7 +1679,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980)

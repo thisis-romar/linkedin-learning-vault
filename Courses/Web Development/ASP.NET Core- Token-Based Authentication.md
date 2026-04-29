@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started with Authentication** (4 videos)
-- **3. 2. Token-Based Authentication** (11 videos)
-- **4. 3. Role-Based Authentication** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started with Authentication]]** (4 videos)
+- **[[#2. Token-Based Authentication]]** (11 videos)
+- **[[#3. Role-Based Authentication]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use exception token-based authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980)
@@ -117,7 +119,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started with Authentication
+### 1. Getting Started with Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Authentication vs. authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/authentication-vs-authorization?u=76281980)
@@ -319,7 +323,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Token-Based Authentication
+### 2. Token-Based Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up Entity Framework Core
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980)
@@ -1870,7 +1876,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. Role-Based Authentication
+### 3. Role-Based Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Seeding the database with roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/seeding-the-database-with-roles?u=76281980)
@@ -2311,7 +2319,9 @@ created: 2026-04-28
 > **API Endpoints:** post  (2)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for learning more token-based authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/next-steps-for-learning-more-token-based-authentication?u=76281980)

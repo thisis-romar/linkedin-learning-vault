@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Access Control** (2 videos)
-- **3. 2. Tainted Input** (3 videos)
-- **4. 3. Insecure Design** (3 videos)
-- **5. 4. Industry Trends** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Access Control]]** (2 videos)
+- **[[#2. Tainted Input]]** (3 videos)
+- **[[#3. Insecure Design]]** (3 videos)
+- **[[#4. Industry Trends]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn to secure applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/learn-to-secure-applications?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Access Control
+### 1. Access Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improper authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980)
@@ -250,7 +254,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Tainted Input
+### 2. Tainted Input
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Insecure direct object references (IDOR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/insecure-direct-object-references-idor?u=76281980)
@@ -471,7 +477,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Insecure Design
+### 3. Insecure Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Information disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980)
@@ -679,7 +687,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Industry Trends
+### 4. Industry Trends
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Web application firewall (WAF)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980)
@@ -936,7 +946,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980)

@@ -7,7 +7,7 @@ course_count: 3
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 22
+louvain_cluster: 18
 tags:
   - professional-certificate
   - topic/data-science

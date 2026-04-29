@@ -51,9 +51,9 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. DevOps with Snowflake** (10 videos)
-- **3. 2. Observability with Snowflake** (11 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. DevOps with Snowflake]]** (10 videos)
+- **[[#3. 2. Observability with Snowflake]]** (11 videos)
 
 ### 1. Introduction
 

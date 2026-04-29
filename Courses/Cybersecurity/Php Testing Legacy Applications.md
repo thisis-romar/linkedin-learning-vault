@@ -44,12 +44,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. What Changes When Testing Legacy Code** (5 videos)
-- **3. 2. Why Legacy Code Can Be Hard to Test** (5 videos)
-- **4. 3. Laying the Foundation** (4 videos)
-- **5. 4. Testing Legacy Code** (8 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. What Changes When Testing Legacy Code]]** (5 videos)
+- **[[#3. 2. Why Legacy Code Can Be Hard to Test]]** (5 videos)
+- **[[#4. 3. Laying the Foundation]]** (4 videos)
+- **[[#5. 4. Testing Legacy Code]]** (8 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

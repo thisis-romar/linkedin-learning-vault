@@ -43,16 +43,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Create a New Presentation with Copilot** (4 videos)
-- **3. 2. Adding New Slides with Copilot** (2 videos)
-- **4. 3. Refining a Presentation with Copilot** (3 videos)
-- **5. 4. Understanding a Presentation with Copilot Chat** (3 videos)
-- **6. 5. Asking Copilot for Help** (1 videos)
-- **7. 6. New AI Features on the Horizon** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Create a New Presentation with Copilot]]** (4 videos)
+- **[[#2. Adding New Slides with Copilot]]** (2 videos)
+- **[[#3. Refining a Presentation with Copilot]]** (3 videos)
+- **[[#4. Understanding a Presentation with Copilot Chat]]** (3 videos)
+- **[[#5. Asking Copilot for Help]]** (1 videos)
+- **[[#6. New AI Features on the Horizon]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Copilot in PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/copilot-in-powerpoint?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. Create a New Presentation with Copilot
+### 1. Create a New Presentation with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a new presentation starting from a blank file
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/create-a-new-presentation-starting-from-a-blank-file?u=76281980)
@@ -530,7 +534,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Adding New Slides with Copilot
+### 2. Adding New Slides with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add a slide about a specific subject
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/add-a-slide-about-a-specific-subject?u=76281980)
@@ -616,7 +622,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 4. 3. Refining a Presentation with Copilot
+### 3. Refining a Presentation with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rewrite slide text
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/rewrite-slide-text?u=76281980)
@@ -965,7 +973,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Understanding a Presentation with Copilot Chat
+### 4. Understanding a Presentation with Copilot Chat
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarize a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/summarize-a-presentation?u=76281980)
@@ -1085,7 +1095,9 @@ created: 2026-04-28
 > **[1:48](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/retrieve-information-from-a-presentation?u=76281980&t=108)** So try out Copilot Chat next time you receive a comprehensive presentation and experiment with prompting Copilot to retrieve exactly the information you need to know or act upon.
 
 
-### 6. 5. Asking Copilot for Help
+### 5. Asking Copilot for Help
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ways that Copilot can help
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/ways-that-copilot-can-help?u=76281980)
@@ -1137,7 +1149,9 @@ created: 2026-04-28
 > **Code Keywords:** switch (2)
 
 
-### 7. 6. New AI Features on the Horizon
+### 6. New AI Features on the Horizon
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agent mode in Copilot Chat
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/agent-mode-in-copilot-chat?u=76281980)
@@ -1301,7 +1315,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-powerpoint-from-prompt-to-presentation-30342076/next-steps?u=76281980)

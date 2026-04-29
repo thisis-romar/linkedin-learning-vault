@@ -61,13 +61,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Machine Learning** (6 videos)
-- **3. 2. Collecting Data for Machine Learning** (2 videos)
-- **4. 3. Understanding Data for Machine Learning** (4 videos)
-- **5. 4. Preparing Data for Machine Learning** (7 videos)
-- **6. 5. Types of Machine Learning Models** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Machine Learning]]** (6 videos)
+- **[[#3. 2. Collecting Data for Machine Learning]]** (2 videos)
+- **[[#4. 3. Understanding Data for Machine Learning]]** (4 videos)
+- **[[#5. 4. Preparing Data for Machine Learning]]** (7 videos)
+- **[[#6. 5. Types of Machine Learning Models]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

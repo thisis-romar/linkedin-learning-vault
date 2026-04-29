@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Agentic AI** (4 videos)
-- **3. 2. Agent AI Tools Landscape and Applications** (5 videos)
-- **4. 3. Building Agentic AI Products with No-Code** (5 videos)
-- **5. 4. Designing Human Computer Interface (HCI) for Agent AI Products** (5 videos)
-- **6. 5. Top Business Questions around Agentic AI** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Agentic AI]]** (4 videos)
+- **[[#2. Agent AI Tools Landscape and Applications]]** (5 videos)
+- **[[#3. Building Agentic AI Products with No-Code]]** (5 videos)
+- **[[#4. Designing Human Computer Interface (HCI) for Agent AI Products]]** (5 videos)
+- **[[#5. Top Business Questions around Agentic AI]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing autonomous agentic products
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980)
@@ -92,7 +94,9 @@ created: 2026-04-28
 > **Speakers:** - wouldn (1)
 
 
-### 2. 1. Introduction to Agentic AI
+### 1. Introduction to Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an autonomous Agent AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980)
@@ -352,7 +356,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Agent AI Tools Landscape and Applications
+### 2. Agent AI Tools Landscape and Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agent AI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980)
@@ -653,7 +659,9 @@ created: 2026-04-28
 > **Speakers:** - agent (1)
 
 
-### 4. 3. Building Agentic AI Products with No-Code
+### 3. Building Agentic AI Products with No-Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is reasoning in LLM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980)
@@ -918,7 +926,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Designing Human Computer Interface (HCI) for Agent AI Products
+### 4. Designing Human Computer Interface (HCI) for Agent AI Products
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Job roles in designing agentic products
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980)
@@ -1306,7 +1316,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Top Business Questions around Agentic AI
+### 5. Top Business Questions around Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The cost of agentic AI applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980)
@@ -1573,7 +1585,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980)

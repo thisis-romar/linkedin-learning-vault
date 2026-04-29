@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Installing the Stark Web Tools** (2 videos)
-- **3. 2. Using Stark** (11 videos)
-- **4. 3. Stark for Teams and Enterprises** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Installing the Stark Web Tools]]** (2 videos)
+- **[[#2. Using Stark]]** (11 videos)
+- **[[#3. Stark for Teams and Enterprises]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessible design with Stark
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980)
@@ -122,7 +124,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Installing the Stark Web Tools
+### 1. Installing the Stark Web Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install the Stark browser extension
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980)
@@ -221,7 +225,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Using Stark
+### 2. Using Stark
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conducting a WCAG audit
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/conducting-a-wcag-audit?u=76281980)
@@ -954,7 +960,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Stark for Teams and Enterprises
+### 3. Stark for Teams and Enterprises
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the Stark dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980)
@@ -1371,7 +1379,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980)

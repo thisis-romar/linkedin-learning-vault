@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Continuous Integration and Continuous Delivery** (3 videos)
-- **3. 2. Build Your Own Pipeline** (15 videos)
-- **4. 3. Putting It All Together** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Continuous Integration and Continuous Delivery]]** (3 videos)
+- **[[#2. Build Your Own Pipeline]]** (15 videos)
+- **[[#3. Putting It All Together]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DevOps foundations: CD/CI
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980)
@@ -142,7 +144,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Continuous Integration and Continuous Delivery
+### 1. Continuous Integration and Continuous Delivery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DevOps core concept: CI/CD
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980)
@@ -419,7 +423,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2. Build Your Own Pipeline
+### 2. Build Your Own Pipeline
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the delivery pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980)
@@ -2396,7 +2402,9 @@ created: 2026-04-28
 > **URLs:** [gauntlt.org](https://gauntlt.org) (1), [github.com](https://github.com) (1)
 
 
-### 4. 3. Putting It All Together
+### 3. Putting It All Together
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CI/CD best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980)
@@ -2632,7 +2640,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980)

@@ -48,15 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Section 1: Why Segment Routing (SR)?** (3 videos)
-- **3. 2. Segment Routing (SR) Foundation** (6 videos)
-- **4. 3. Segment Routing (SR) Configuration** (4 videos)
-- **5. 4. Segment Routing (SR) and LDP** (6 videos)
-- **6. 5. Topology-Independent Loop-Free Alternate (TI-LFA)** (7 videos)
-- **7. 6. Segment Routing Traffic Engineering (SR-TE)** (8 videos)
-- **8. 7. SR-TE Traffic Steering** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Section 1: Why Segment Routing (SR)?]]** (3 videos)
+- **[[#3. 2. Segment Routing (SR) Foundation]]** (6 videos)
+- **[[#4. 3. Segment Routing (SR) Configuration]]** (4 videos)
+- **[[#5. 4. Segment Routing (SR) and LDP]]** (6 videos)
+- **[[#6. 5. Topology-Independent Loop-Free Alternate (TI-LFA)]]** (7 videos)
+- **[[#7. 6. Segment Routing Traffic Engineering (SR-TE)]]** (8 videos)
+- **[[#8. 7. SR-TE Traffic Steering]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

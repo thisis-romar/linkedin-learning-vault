@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding Extractive Text Summarization** (4 videos)
-- **3. 2. Performing Extractive Text Summarization Using Hugging Face** (4 videos)
-- **4. 3. Understanding Abstractive Text Summarization** (2 videos)
-- **5. 4. Understanding Transformers** (4 videos)
-- **6. 5. Performing Summarization Using a Hugging Face Pipeline** (6 videos)
-- **7. 6. Fine-Tuning a Transformer Model for Summarization** (4 videos)
-- **8. 7. Exploring Different Hugging Face Transformers for Summarization** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understanding Extractive Text Summarization]]** (4 videos)
+- **[[#3. 2. Performing Extractive Text Summarization Using Hugging Face]]** (4 videos)
+- **[[#4. 3. Understanding Abstractive Text Summarization]]** (2 videos)
+- **[[#5. 4. Understanding Transformers]]** (4 videos)
+- **[[#6. 5. Performing Summarization Using a Hugging Face Pipeline]]** (6 videos)
+- **[[#7. 6. Fine-Tuning a Transformer Model for Summarization]]** (4 videos)
+- **[[#8. 7. Exploring Different Hugging Face Transformers for Summarization]]** (6 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

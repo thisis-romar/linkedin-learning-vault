@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Build Your Brand into Your LinkedIn Profile** (2 videos)
-- **3. 2. Craft Your LinkedIn Profile Intro** (5 videos)
-- **4. 3. Craft Your Profile Summary and Feature Content on LinkedIn** (3 videos)
-- **5. 4. Outline Your Career Journey** (4 videos)
-- **6. 5. Build Credibility with Skills, Endorsements, and Recommendations** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Build Your Brand into Your LinkedIn Profile]]** (2 videos)
+- **[[#3. 2. Craft Your LinkedIn Profile Intro]]** (5 videos)
+- **[[#4. 3. Craft Your Profile Summary and Feature Content on LinkedIn]]** (3 videos)
+- **[[#5. 4. Outline Your Career Journey]]** (4 videos)
+- **[[#6. 5. Build Credibility with Skills, Endorsements, and Recommendations]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

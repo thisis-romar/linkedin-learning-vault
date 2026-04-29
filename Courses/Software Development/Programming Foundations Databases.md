@@ -56,17 +56,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Database Foundations** (5 videos)
-- **3. 2. Tables** (5 videos)
-- **4. 3. Relationships** (5 videos)
-- **5. 4. Database Optimization** (5 videos)
-- **6. 5. Querying a Database** (8 videos)
-- **7. 6. Further Database Topics** (3 videos)
-- **8. Glossaries** (0 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Database Foundations]]** (5 videos)
+- **[[#2. Tables]]** (5 videos)
+- **[[#3. Relationships]]** (5 videos)
+- **[[#4. Database Optimization]]** (5 videos)
+- **[[#5. Querying a Database]]** (8 videos)
+- **[[#6. Further Database Topics]]** (3 videos)
+- **[[#Glossaries]]** (0 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980)
@@ -224,7 +226,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 2. 1. Database Foundations
+### 1. Database Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980)
@@ -560,7 +564,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 3. 2. Tables
+### 2. Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modeling and planning a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/modeling-and-planning-a-database?u=76281980)
@@ -917,7 +923,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Relationships
+### 3. Relationships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=76281980)
@@ -1203,7 +1211,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 5. 4. Database Optimization
+### 4. Database Optimization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980)
@@ -1463,7 +1473,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 6. 5. Querying a Database
+### 5. Querying a Database
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980)
@@ -2010,7 +2022,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Further Database Topics
+### 6. Further Database Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Indexes, transactions, and stored procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/indexes-transactions-and-stored-procedures?u=76281980)
@@ -2209,10 +2223,14 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 8. Glossaries
+### Glossaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980)

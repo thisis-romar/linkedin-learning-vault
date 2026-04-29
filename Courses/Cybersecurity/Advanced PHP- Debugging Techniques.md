@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Default Tools for Logging and Identifying Issues** (7 videos)
-- **3. 2. Local Development Tools** (9 videos)
-- **4. 3. Debugging on Non-Local Environments** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Default Tools for Logging and Identifying Issues]]** (7 videos)
+- **[[#3. 2. Local Development Tools]]** (9 videos)
+- **[[#4. 3. Debugging on Non-Local Environments]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

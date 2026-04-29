@@ -57,12 +57,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What is the EU AI Act and What Does it Cover?** (6 videos)
-- **3. 2. What Does the EU AI Act Mean for Businesses?** (4 videos)
-- **4. 3. Learn More About the EU AI Act** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What is the EU AI Act and What Does it Cover?]]** (6 videos)
+- **[[#2. What Does the EU AI Act Mean for Businesses?]]** (4 videos)
+- **[[#3. Learn More About the EU AI Act]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - all (1), - sure (1), - excellent (1), - right (1)
 
 
-### 2. 1. What is the EU AI Act and What Does it Cover?
+### 1. What is the EU AI Act and What Does it Cover?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An overview of the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/an-overview-of-the-eu-ai-act?u=76281980)
@@ -509,7 +513,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. What Does the EU AI Act Mean for Businesses?
+### 2. What Does the EU AI Act Mean for Businesses?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What does this mean for businesses outside the EU?
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/what-does-this-mean-for-businesses-outside-the-eu?u=76281980)
@@ -752,7 +758,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Learn More About the EU AI Act
+### 3. Learn More About the EU AI Act
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/additional-resources?u=76281980)

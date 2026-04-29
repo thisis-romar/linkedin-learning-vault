@@ -41,15 +41,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Today's Interaction Designer** (4 videos)
-- **3. 2. A Model of Psychology and Interaction Design** (4 videos)
-- **4. 3. Introductory Psychology** (17 videos)
-- **5. 4. The Interaction Design Model** (6 videos)
-- **6. 5. Interaction Design** (22 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Today's Interaction Designer]]** (4 videos)
+- **[[#2. A Model of Psychology and Interaction Design]]** (4 videos)
+- **[[#3. Introductory Psychology]]** (17 videos)
+- **[[#4. The Interaction Design Model]]** (6 videos)
+- **[[#5. Interaction Design]]** (22 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - interaction (1)
 
 
-### 2. 1. Today's Interaction Designer
+### 1. Today's Interaction Designer
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Project types and deliverables
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980)
@@ -287,7 +291,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. A Model of Psychology and Interaction Design
+### 2. A Model of Psychology and Interaction Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why psychology?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980)
@@ -600,7 +606,9 @@ created: 2026-04-28
 > **Speakers:** - context (1)
 
 
-### 4. 3. Introductory Psychology
+### 3. Introductory Psychology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sensation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensation-14242595?u=76281980)
@@ -1977,7 +1985,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 5. 4. The Interaction Design Model
+### 4. The Interaction Design Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of the IxD model
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/overview-of-the-ixd-model-14238700?u=76281980)
@@ -2478,7 +2488,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 6. 5. Interaction Design
+### 5. Interaction Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dimensions of interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980)
@@ -3972,7 +3984,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A solid foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980)

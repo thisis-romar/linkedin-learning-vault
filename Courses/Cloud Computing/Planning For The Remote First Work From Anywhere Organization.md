@@ -41,12 +41,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Benefits of Remote-First Work** (3 videos)
-- **3. 2. Remote-First Models, Tools, and Obstacles** (5 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Benefits of Remote-First Work]]** (3 videos)
+- **[[#2. Remote-First Models, Tools, and Obstacles]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to the remote-first world
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - 90 (1)
 
 
-### 2. 1. The Benefits of Remote-First Work
+### 1. The Benefits of Remote-First Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning to lead the remote-first organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/planning-to-lead-the-remote-first-organization?u=76281980)
@@ -274,7 +278,9 @@ created: 2026-04-28
 > **Speakers:** - remote (1)
 
 
-### 3. 2. Remote-First Models, Tools, and Obstacles
+### 2. Remote-First Models, Tools, and Obstacles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Asynchronous work in practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/asynchronous-work-in-practice?u=76281980)
@@ -543,7 +549,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making remote-first work for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/making-remote-first-work-for-you?u=76281980)

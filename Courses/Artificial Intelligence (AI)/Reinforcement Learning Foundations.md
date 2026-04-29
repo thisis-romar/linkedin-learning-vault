@@ -56,13 +56,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started with Reinforcement Learning** (4 videos)
-- **3. 2. Reinforcement Learning Algorithms** (3 videos)
-- **4. 3. Monte Carlo Method** (6 videos)
-- **5. 4. Temporal Difference Methods** (4 videos)
-- **6. 5. Modified Forms of Reinforcement** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Started with Reinforcement Learning]]** (4 videos)
+- **[[#3. 2. Reinforcement Learning Algorithms]]** (3 videos)
+- **[[#4. 3. Monte Carlo Method]]** (6 videos)
+- **[[#5. 4. Temporal Difference Methods]]** (4 videos)
+- **[[#6. 5. Modified Forms of Reinforcement]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

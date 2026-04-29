@@ -39,14 +39,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introducing Lean Six Sigma** (3 videos)
-- **3. 2. Understanding Six Sigma** (6 videos)
-- **4. 3. Understanding Lean** (6 videos)
-- **5. 4. Implementing Lean Six Sigma** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introducing Lean Six Sigma]]** (3 videos)
+- **[[#2. Understanding Six Sigma]]** (6 videos)
+- **[[#3. Understanding Lean]]** (6 videos)
+- **[[#4. Implementing Lean Six Sigma]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The continuous improvement culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/the-continuous-improvement-culture-24002420?u=76281980)
@@ -74,7 +76,9 @@ created: 2026-04-28
 > **Speakers:** - every (1)
 
 
-### 2. 1. Introducing Lean Six Sigma
+### 1. Introducing Lean Six Sigma
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why Six Sigma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980)
@@ -300,7 +304,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 3. 2. Understanding Six Sigma
+### 2. Understanding Six Sigma
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Six Sigma: Define
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-define?u=76281980)
@@ -738,7 +744,9 @@ created: 2026-04-28
 > **Speakers:** - sometimes (1)
 
 
-### 4. 3. Understanding Lean
+### 3. Understanding Lean
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Lean metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980)
@@ -1195,7 +1203,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 5. 4. Implementing Lean Six Sigma
+### 4. Implementing Lean Six Sigma
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Lead the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980)
@@ -1481,7 +1491,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/next-steps-24008071?u=76281980)

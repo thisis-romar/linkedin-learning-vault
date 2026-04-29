@@ -37,13 +37,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Producing Image Assets** (3 videos)
-- **3. 2. Translating CSS Rules** (4 videos)
-- **4. 3. Implementing CSS within HTML** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Producing Image Assets]]** (3 videos)
+- **[[#2. Translating CSS Rules]]** (4 videos)
+- **[[#3. Implementing CSS within HTML]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing CSS from your Figma designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980)
@@ -114,7 +116,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Producing Image Assets
+### 1. Producing Image Assets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An overview of the design project
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/an-overview-of-the-design-project?u=76281980)
@@ -288,7 +292,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Translating CSS Rules
+### 2. Translating CSS Rules
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the Inspect workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980)
@@ -621,7 +627,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 4. 3. Implementing CSS within HTML
+### 3. Implementing CSS within HTML
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980)
@@ -985,7 +993,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/what-s-next?u=76281980)

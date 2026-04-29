@@ -50,11 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Managing Work in Jira and Confluence** (5 videos)
-- **3. 2. Setting Up and Connecting Applications** (6 videos)
-- **4. 3. Using Confluence and Jira Together** (8 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Managing Work in Jira and Confluence]]** (5 videos)
+- **[[#3. 2. Setting Up and Connecting Applications]]** (6 videos)
+- **[[#4. 3. Using Confluence and Jira Together]]** (8 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

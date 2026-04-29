@@ -51,11 +51,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started with Jigsaw** (5 videos)
-- **3. 2. Jigsaw Internals** (7 videos)
-- **4. 3. Deploying Jigsaw on Netlify** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Started with Jigsaw]]** (5 videos)
+- **[[#3. 2. Jigsaw Internals]]** (7 videos)
+- **[[#4. 3. Deploying Jigsaw on Netlify]]** (5 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

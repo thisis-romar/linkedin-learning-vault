@@ -60,13 +60,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Data Governance?** (7 videos)
-- **3. 2. Data Governance Deployment** (8 videos)
-- **4. 3. Managing a Data Governance Program** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Data Governance?]]** (7 videos)
+- **[[#2. Data Governance Deployment]]** (8 videos)
+- **[[#3. Managing a Data Governance Program]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data governance affects everyone
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980)
@@ -104,7 +106,9 @@ created: 2026-04-28
 > **Speakers:** - done (1)
 
 
-### 2. 1. What Is Data Governance?
+### 1. What Is Data Governance?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The role of data in the 21st century
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980)
@@ -578,7 +582,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 3. 2. Data Governance Deployment
+### 2. Data Governance Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Who owns the data and why does that matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980)
@@ -1310,7 +1316,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Managing a Data Governance Program
+### 3. Managing a Data Governance Program
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data governance in compliance, privacy, and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980)
@@ -1689,7 +1697,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The value of data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980)

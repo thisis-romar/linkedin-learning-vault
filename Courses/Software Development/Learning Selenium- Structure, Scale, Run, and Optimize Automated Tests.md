@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started with Selenium** (10 videos)
-- **3. 2. Structuring Your Tests** (7 videos)
-- **4. 3. Running Tests at Scale** (5 videos)
-- **5. 4. Enhancing Tests with Modern Tools** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started with Selenium]]** (10 videos)
+- **[[#3. 2. Structuring Your Tests]]** (7 videos)
+- **[[#4. 3. Running Tests at Scale]]** (5 videos)
+- **[[#5. 4. Enhancing Tests with Modern Tools]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

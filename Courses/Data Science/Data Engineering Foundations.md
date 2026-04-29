@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Data Engineering** (3 videos)
-- **3. 2. Databases and Dataframes** (3 videos)
-- **4. 3. Data Engineering Tools** (4 videos)
-- **5. 4. ETL Pipelines** (11 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Data Engineering]]** (3 videos)
+- **[[#2. Databases and Dataframes]]** (3 videos)
+- **[[#3. Data Engineering Tools]]** (4 videos)
+- **[[#4. ETL Pipelines]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980)
@@ -100,7 +102,9 @@ created: 2026-04-28
 > **Speakers:** - [harshit] (1)
 
 
-### 2. 1. Introduction to Data Engineering
+### 1. Introduction to Data Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980)
@@ -302,7 +306,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2. Databases and Dataframes
+### 2. Databases and Dataframes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to databases and their types
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980)
@@ -582,7 +588,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Engineering Tools
+### 3. Data Engineering Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### MapReduce and Hadoop
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980)
@@ -867,7 +875,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. ETL Pipelines
+### 4. ETL Pipelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sources of data extraction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980)
@@ -1678,7 +1688,9 @@ created: 2026-04-28
 > **Code Identifiers:** server_config (1), mysql (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980)

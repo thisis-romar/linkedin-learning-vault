@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding AI and GenAI's Unique Capabilities** (3 videos)
-- **3. 2. Generative AI Technical Concepts** (4 videos)
-- **4. 3. Working with Generative AI Tools** (2 videos)
-- **5. 4. Data and Quality Considerations** (3 videos)
-- **6. 5. Ethics and Compliance** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding AI and GenAI's Unique Capabilities]]** (3 videos)
+- **[[#2. Generative AI Technical Concepts]]** (4 videos)
+- **[[#3. Working with Generative AI Tools]]** (2 videos)
+- **[[#4. Data and Quality Considerations]]** (3 videos)
+- **[[#5. Ethics and Compliance]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Answers to your most common AI questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 2. 1. Understanding AI and GenAI's Unique Capabilities
+### 1. Understanding AI and GenAI's Unique Capabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A quick history of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980)
@@ -329,7 +333,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Generative AI Technical Concepts
+### 2. Generative AI Technical Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's an LLM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980)
@@ -569,7 +575,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Generative AI Tools
+### 3. Working with Generative AI Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What makes an effective prompt?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-makes-an-effective-prompt?u=76281980)
@@ -707,7 +715,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Data and Quality Considerations
+### 4. Data and Quality Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why does quality matter in AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980)
@@ -856,7 +866,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Ethics and Compliance
+### 5. Ethics and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are the ethical considerations in AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980)

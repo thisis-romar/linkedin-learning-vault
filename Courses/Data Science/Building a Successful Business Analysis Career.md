@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Overview of the Business Analysis Profession** (4 videos)
-- **3. 2. Strategize: Develop Your Career Strategy** (4 videos)
-- **4. 3. Plan: Create Your Career Development Plan** (3 videos)
-- **5. 4. Act: Locate Opportunities to Expand Your Skills and Experience** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Overview of the Business Analysis Profession]]** (4 videos)
+- **[[#2. Strategize: Develop Your Career Strategy]]** (4 videos)
+- **[[#3. Plan: Create Your Career Development Plan]]** (3 videos)
+- **[[#4. Act: Locate Opportunities to Expand Your Skills and Experience]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking charge of your business analysis career
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/taking-charge-of-your-business-analysis-career?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 2. 1. Overview of the Business Analysis Profession
+### 1. Overview of the Business Analysis Profession
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is business analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/what-is-business-analysis?u=76281980)
@@ -403,7 +407,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 3. 2. Strategize: Develop Your Career Strategy
+### 2. Strategize: Develop Your Career Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify your business analysis career goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/identify-your-business-analysis-career-goals?u=76281980)
@@ -703,7 +709,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 4. 3. Plan: Create Your Career Development Plan
+### 3. Plan: Create Your Career Development Plan
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Find what motivates you as a business analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/find-what-motivates-you-as-a-business-analyst?u=76281980)
@@ -962,7 +970,9 @@ created: 2026-04-28
 > **Speakers:** - throughout (1)
 
 
-### 5. 4. Act: Locate Opportunities to Expand Your Skills and Experience
+### 4. Act: Locate Opportunities to Expand Your Skills and Experience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Opportunities to expand business analysis experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/opportunities-to-expand-business-analysis-experience?u=76281980)
@@ -1286,7 +1296,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Owning your business analysis career
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-successful-business-analysis-career/owning-your-business-analysis-career?u=76281980)

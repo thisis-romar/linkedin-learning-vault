@@ -55,12 +55,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Build a Basic LLM App** (6 videos)
-- **3. 2. First Steps in Ops** (7 videos)
-- **4. 3. BYOD with RAG** (11 videos)
-- **5. 4. RAG and Ops** (10 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Build a Basic LLM App]]** (6 videos)
+- **[[#3. 2. First Steps in Ops]]** (7 videos)
+- **[[#4. 3. BYOD with RAG]]** (11 videos)
+- **[[#5. 4. RAG and Ops]]** (10 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

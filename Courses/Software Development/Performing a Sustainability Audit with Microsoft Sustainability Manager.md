@@ -46,18 +46,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Explore and Overview of Case Study** (1 videos)
-- **3. 2. Well-Architected for Microsoft Cloud for Sustainability** (6 videos)
-- **4. 3. Deploying Microsoft Cloud for Sustainability** (2 videos)
-- **5. 4. Microsoft Sustainability Manager** (11 videos)
-- **6. 5. Working with the ESG Data Model** (3 videos)
-- **7. 6. Managing the ESG Value Chain** (2 videos)
-- **8. 7. Sustainable IT Practices** (2 videos)
-- **9. 8. Preview Features** (1 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Explore and Overview of Case Study]]** (1 videos)
+- **[[#2. Well-Architected for Microsoft Cloud for Sustainability]]** (6 videos)
+- **[[#3. Deploying Microsoft Cloud for Sustainability]]** (2 videos)
+- **[[#4. Microsoft Sustainability Manager]]** (11 videos)
+- **[[#5. Working with the ESG Data Model]]** (3 videos)
+- **[[#6. Managing the ESG Value Chain]]** (2 videos)
+- **[[#7. Sustainable IT Practices]]** (2 videos)
+- **[[#8. Preview Features]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Microsoft Cloud for Sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980)
@@ -103,7 +105,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. Explore and Overview of Case Study
+### 1. Explore and Overview of Case Study
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Case study overview: Global supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980)
@@ -132,7 +136,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Well-Architected for Microsoft Cloud for Sustainability
+### 2. Well-Architected for Microsoft Cloud for Sustainability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building and operating sustainability solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980)
@@ -405,7 +411,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Deploying Microsoft Cloud for Sustainability
+### 3. Deploying Microsoft Cloud for Sustainability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Acquiring licenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980)
@@ -499,7 +507,9 @@ created: 2026-04-28
 > **Speakers:** - next (1)
 
 
-### 5. 4. Microsoft Sustainability Manager
+### 4. Microsoft Sustainability Manager
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Walkthrough of MSM
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980)
@@ -1165,7 +1175,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Working with the ESG Data Model
+### 5. Working with the ESG Data Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing Dataverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introducing-dataverse?u=76281980)
@@ -1266,7 +1278,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Managing the ESG Value Chain
+### 6. Managing the ESG Value Chain
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the ESG value chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/understanding-the-esg-value-chain?u=76281980)
@@ -1327,7 +1341,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Sustainable IT Practices
+### 7. Sustainable IT Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measuring the carbon footprint of your IT infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/measuring-the-carbon-footprint-of-your-it-infrastructure?u=76281980)
@@ -1366,7 +1382,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. 8. Preview Features
+### 8. Preview Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preview features not covered in the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980)
@@ -1406,7 +1424,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980)

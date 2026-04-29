@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Network Services** (12 videos)
-- **3. 2. Network Security** (9 videos)
-- **4. 3. Wireless Networks** (9 videos)
-- **5. 4. Network Virtualization** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Network Services]]** (12 videos)
+- **[[#3. 2. Network Security]]** (9 videos)
+- **[[#4. 3. Wireless Networks]]** (9 videos)
+- **[[#5. 4. Network Virtualization]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

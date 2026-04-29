@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Public Cloud Basics** (6 videos)
-- **3. 2. Business Purpose of Public Clouds** (5 videos)
-- **4. 3. Public Cloud Platforms** (4 videos)
-- **5. 4. Amazon Web Services (AWS)** (4 videos)
-- **6. 5. Microsoft Azure** (4 videos)
-- **7. 6. Google Cloud Platform (GCP)** (4 videos)
-- **8. 7. Other Public Clouds** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Public Cloud Basics]]** (6 videos)
+- **[[#2. Business Purpose of Public Clouds]]** (5 videos)
+- **[[#3. Public Cloud Platforms]]** (4 videos)
+- **[[#4. Amazon Web Services (AWS)]]** (4 videos)
+- **[[#5. Microsoft Azure]]** (4 videos)
+- **[[#6. Google Cloud Platform (GCP)]]** (4 videos)
+- **[[#7. Other Public Clouds]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding public cloud platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-public-cloud-platforms?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Public Cloud Basics
+### 1. Public Cloud Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Private versus public cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980)
@@ -380,7 +384,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Business Purpose of Public Clouds
+### 2. Business Purpose of Public Clouds
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-the-business-case?u=76281980)
@@ -599,7 +605,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Public Cloud Platforms
+### 3. Public Cloud Platforms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evaluating public cloud platform offerings
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980)
@@ -790,7 +798,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Amazon Web Services (AWS)
+### 4. Amazon Web Services (AWS)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Application and data compatibility: AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980)
@@ -948,7 +958,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Microsoft Azure
+### 5. Microsoft Azure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Application and data compatibility: Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980)
@@ -1049,7 +1061,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Google Cloud Platform (GCP)
+### 6. Google Cloud Platform (GCP)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Application and data compatibility: GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980)
@@ -1156,7 +1170,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Other Public Clouds
+### 7. Other Public Clouds
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Oracle
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980)
@@ -1298,7 +1314,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/next-steps?u=76281980)

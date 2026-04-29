@@ -48,9 +48,9 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI Tips for Sales** (10 videos)
-- **3. Conclusion** (0 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. AI Tips for Sales]]** (10 videos)
+- **[[#3. Conclusion]]** (0 videos)
 
 ### 1. Introduction
 

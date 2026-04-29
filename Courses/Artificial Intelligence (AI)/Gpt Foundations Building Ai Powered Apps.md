@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to OpenAI** (2 videos)
-- **3. 2. Beginner Prompting** (4 videos)
-- **4. 3. Intermediate Prompting** (5 videos)
-- **5. 4. Advanced Prompting** (5 videos)
-- **6. 5. Building a BigStarCollectibles Chatbot** (8 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to OpenAI]]** (2 videos)
+- **[[#2. Beginner Prompting]]** (4 videos)
+- **[[#3. Intermediate Prompting]]** (5 videos)
+- **[[#4. Advanced Prompting]]** (5 videos)
+- **[[#5. Building a BigStarCollectibles Chatbot]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to GPT-4 foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. Introduction to OpenAI
+### 1. Introduction to OpenAI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with ChatGPT-4
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980)
@@ -327,7 +331,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 3. 2. Beginner Prompting
+### 2. Beginner Prompting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980)
@@ -617,7 +623,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Intermediate Prompting
+### 3. Intermediate Prompting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarization and classification prompt techniques with GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980)
@@ -1023,7 +1031,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Advanced Prompting
+### 4. Advanced Prompting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring the system prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/configuring-the-system-prompt?u=76281980)
@@ -1543,7 +1553,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 6. 5. Building a BigStarCollectibles Chatbot
+### 5. Building a BigStarCollectibles Chatbot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vibe coding a chatbot with GPT-4
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980)
@@ -2404,7 +2416,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980)

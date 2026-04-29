@@ -49,11 +49,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Exploring Key Marketing Metrics** (3 videos)
-- **3. 2. Understanding Key Performance Indicators** (5 videos)
-- **4. 3. Building Your Marketing Metrics Dashboard** (4 videos)
-- **5. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Exploring Key Marketing Metrics]]** (3 videos)
+- **[[#3. 2. Understanding Key Performance Indicators]]** (5 videos)
+- **[[#4. 3. Building Your Marketing Metrics Dashboard]]** (4 videos)
+- **[[#5. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

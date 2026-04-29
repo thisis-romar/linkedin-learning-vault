@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Power of Data** (3 videos)
-- **3. 2. Framework to Solve Problems with Data** (6 videos)
-- **4. 3. Analytics Foundations** (6 videos)
-- **5. 4. Types of Data Sources** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Power of Data]]** (3 videos)
+- **[[#3. 2. Framework to Solve Problems with Data]]** (6 videos)
+- **[[#4. 3. Analytics Foundations]]** (6 videos)
+- **[[#5. 4. Types of Data Sources]]** (7 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

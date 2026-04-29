@@ -46,16 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Focusing Data Using Filters** (6 videos)
-- **3. 2. Managing Files Using VBA** (7 videos)
-- **4. 3. Managing Worksheets Using VBA** (8 videos)
-- **5. 4. Taking Advantage of Built-In Functions** (5 videos)
-- **6. 5. Managing Charts in VBA** (8 videos)
-- **7. 6. Creating UserForms** (10 videos)
-- **8. 7. Managing PivotTables Using VBA** (4 videos)
-- **9. 8. Incorporating New Excel Functions** (5 videos)
-- **10. 9. Continuing Your Excel VBA Learning Journey** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Focusing Data Using Filters]]** (6 videos)
+- **[[#3. 2. Managing Files Using VBA]]** (7 videos)
+- **[[#4. 3. Managing Worksheets Using VBA]]** (8 videos)
+- **[[#5. 4. Taking Advantage of Built-In Functions]]** (5 videos)
+- **[[#6. 5. Managing Charts in VBA]]** (8 videos)
+- **[[#7. 6. Creating UserForms]]** (10 videos)
+- **[[#8. 7. Managing PivotTables Using VBA]]** (4 videos)
+- **[[#9. 8. Incorporating New Excel Functions]]** (5 videos)
+- **[[#10. 9. Continuing Your Excel VBA Learning Journey]]** (1 videos)
 
 ### 1. Introduction
 

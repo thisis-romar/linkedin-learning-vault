@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Prompt Best Practices** (4 videos)
-- **3. 2. Advanced Techniques** (7 videos)
-- **4. 3. DALL-E 3 in ChatGPT** (4 videos)
-- **5. 4. Security Considerations** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Prompt Best Practices]]** (4 videos)
+- **[[#2. Advanced Techniques]]** (7 videos)
+- **[[#3. DALL-E 3 in ChatGPT]]** (4 videos)
+- **[[#4. Security Considerations]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ChatGPT: The AI game changer
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980)
@@ -122,7 +124,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Prompt Best Practices
+### 1. Prompt Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Providing context and using delimiters
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980)
@@ -368,7 +372,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. 2. Advanced Techniques
+### 2. Advanced Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Personas
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980)
@@ -785,7 +791,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. DALL-E 3 in ChatGPT
+### 3. DALL-E 3 in ChatGPT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is DALL-E?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980)
@@ -926,7 +934,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Security Considerations
+### 4. Security Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ChatGPT security considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980)
@@ -1113,7 +1123,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980)

@@ -48,19 +48,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Planning Your Data Tracker** (2 videos)
-- **3. 2. Helpful Data Tracking Features** (6 videos)
-- **4. 3. Protecting Your Work and Calculations** (3 videos)
-- **5. 4. Managing Inputs and Calculations** (5 videos)
-- **6. 5. Midterm: Building a Tracker** (2 videos)
-- **7. 6. Dynamic Arrays and the New Excel Calculation Engine** (3 videos)
-- **8. 7. VLOOKUP and XLOOKUP** (4 videos)
-- **9. 8. PivotTable Basics** (3 videos)
-- **10. 9. Using Power Query to Clean, Format, and Automate** (4 videos)
-- **11. 10. Pretty It Up!** (4 videos)
-- **12. 11. Get Hands On** (4 videos)
-- **13. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Planning Your Data Tracker]]** (2 videos)
+- **[[#3. 2. Helpful Data Tracking Features]]** (6 videos)
+- **[[#4. 3. Protecting Your Work and Calculations]]** (3 videos)
+- **[[#5. 4. Managing Inputs and Calculations]]** (5 videos)
+- **[[#6. 5. Midterm: Building a Tracker]]** (2 videos)
+- **[[#7. 6. Dynamic Arrays and the New Excel Calculation Engine]]** (3 videos)
+- **[[#8. 7. VLOOKUP and XLOOKUP]]** (4 videos)
+- **[[#9. 8. PivotTable Basics]]** (3 videos)
+- **[[#10. 9. Using Power Query to Clean, Format, and Automate]]** (4 videos)
+- **[[#11. 10. Pretty It Up!]]** (4 videos)
+- **[[#12. 11. Get Hands On]]** (4 videos)
+- **[[#13. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

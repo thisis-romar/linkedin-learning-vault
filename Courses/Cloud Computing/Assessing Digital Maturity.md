@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Thinking Outside of your Organization** (5 videos)
-- **3. 2. Five Stages of Digital Maturity** (3 videos)
-- **4. 3. Putting the Model into Action: The Development of Capability Teams** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Thinking Outside of your Organization]]** (5 videos)
+- **[[#2. Five Stages of Digital Maturity]]** (3 videos)
+- **[[#3. Putting the Model into Action: The Development of Capability Teams]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to assess digital maturity
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/how-to-assess-digital-maturity?u=76281980)
@@ -185,7 +187,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Thinking Outside of your Organization
+### 1. Thinking Outside of your Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Speed is the new currency of business
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980)
@@ -541,7 +545,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 3. 2. Five Stages of Digital Maturity
+### 2. Five Stages of Digital Maturity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Five stages of digital maturity
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980)
@@ -783,7 +789,9 @@ created: 2026-04-28
 > **Speakers:** - customers (1)
 
 
-### 4. 3. Putting the Model into Action: The Development of Capability Teams
+### 3. Putting the Model into Action: The Development of Capability Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Capability teams defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980)
@@ -918,7 +926,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/next-steps?u=76281980)

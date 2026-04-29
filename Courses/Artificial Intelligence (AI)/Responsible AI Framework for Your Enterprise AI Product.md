@@ -50,12 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Before You Build Your AI Products** (2 videos)
-- **3. 2. What We Talk About When We Talk About Responsible AI** (5 videos)
-- **4. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Before You Build Your AI Products]]** (2 videos)
+- **[[#2. What We Talk About When We Talk About Responsible AI]]** (5 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The five rings of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-five-rings-of-responsible-ai?u=76281980)
@@ -146,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Before You Build Your AI Products
+### 1. Before You Build Your AI Products
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Three Laws of Robotics by Isaac Asimov
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980)
@@ -293,7 +297,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. What We Talk About When We Talk About Responsible AI
+### 2. What We Talk About When We Talk About Responsible AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ethical AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980)
@@ -816,7 +822,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The limitation of this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980)

@@ -48,15 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introducing Cloud-Native Kafka on Confluent** (6 videos)
-- **3. 2. Observing Consumers and Brokers** (4 videos)
-- **4. 3. Processing Kafka Streams** (4 videos)
-- **5. 4. Monitoring Consumer Groups** (6 videos)
-- **6. 5. Monitoring Multi-Broker Clusters** (5 videos)
-- **7. 6. Debugging Brokers and Consumers** (3 videos)
-- **8. 7. Configuring Alerts** (2 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introducing Cloud-Native Kafka on Confluent]]** (6 videos)
+- **[[#3. 2. Observing Consumers and Brokers]]** (4 videos)
+- **[[#4. 3. Processing Kafka Streams]]** (4 videos)
+- **[[#5. 4. Monitoring Consumer Groups]]** (6 videos)
+- **[[#6. 5. Monitoring Multi-Broker Clusters]]** (5 videos)
+- **[[#7. 6. Debugging Brokers and Consumers]]** (3 videos)
+- **[[#8. 7. Configuring Alerts]]** (2 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

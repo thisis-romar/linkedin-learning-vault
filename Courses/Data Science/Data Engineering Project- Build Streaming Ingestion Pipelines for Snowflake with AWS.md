@@ -51,12 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Data Streaming, AWS, and Snowflake** (4 videos)
-- **3. 2. Building a Streaming Pipeline** (9 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to Data Streaming, AWS, and Snowflake]]** (4 videos)
+- **[[#2. Building a Streaming Pipeline]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building streaming data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980)
@@ -160,7 +162,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 2. 1. Introduction to Data Streaming, AWS, and Snowflake
+### 1. Introduction to Data Streaming, AWS, and Snowflake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why AWS and Snowflake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980)
@@ -363,7 +367,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Building a Streaming Pipeline
+### 2. Building a Streaming Pipeline
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up your MSK cluster and EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980)
@@ -1149,7 +1155,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course review and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980)

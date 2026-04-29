@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to SQL Server and Relational Database Concepts** (4 videos)
-- **3. 2. Single Table Select Statements** (5 videos)
-- **4. 3. Multiple Table Select Statements** (6 videos)
-- **5. 4. Additional SQL Query Tools** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to SQL Server and Relational Database Concepts]]** (4 videos)
+- **[[#3. 2. Single Table Select Statements]]** (5 videos)
+- **[[#4. 3. Multiple Table Select Statements]]** (6 videos)
+- **[[#5. 4. Additional SQL Query Tools]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -39,13 +39,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Web Content Accessibilty Guidelines** (4 videos)
-- **3. 2.  Who Needs Accommodations?** (6 videos)
-- **4. 3.  Making Learning Accessible** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Web Content Accessibilty Guidelines]]** (4 videos)
+- **[[#2.  Who Needs Accommodations?]]** (6 videos)
+- **[[#3.  Making Learning Accessible]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create training that's accessible to all
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980)
@@ -129,7 +131,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Web Content Accessibilty Guidelines
+### 1. Web Content Accessibilty Guidelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Expectations for providing accommodations
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/expectations-for-providing-accommodations?u=76281980)
@@ -494,7 +498,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2.  Who Needs Accommodations?
+### 2.  Who Needs Accommodations?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980)
@@ -897,7 +903,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3.  Making Learning Accessible
+### 3.  Making Learning Accessible
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using learning management systems and other tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980)
@@ -1460,7 +1468,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/next-steps?u=76281980)

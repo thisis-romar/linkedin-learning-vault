@@ -50,18 +50,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Kali Basics** (6 videos)
-- **3. 2. System Shells** (6 videos)
-- **4. 3. Exploiting Targets from Kali** (5 videos)
-- **5. 4. Passwords** (2 videos)
-- **6. 5. Exploiting the Metasploitable Server** (9 videos)
-- **7. 6. End-to-End Testing** (6 videos)
-- **8. 7. Crafting Exploit Scripts** (5 videos)
-- **9. 8. Command and Control with Sliver** (2 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Kali Basics]]** (6 videos)
+- **[[#2. System Shells]]** (6 videos)
+- **[[#3. Exploiting Targets from Kali]]** (5 videos)
+- **[[#4. Passwords]]** (2 videos)
+- **[[#5. Exploiting the Metasploitable Server]]** (9 videos)
+- **[[#6. End-to-End Testing]]** (6 videos)
+- **[[#7. Crafting Exploit Scripts]]** (5 videos)
+- **[[#8. Command and Control with Sliver]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Kali Linux as the basis for advanced penetration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Kali Basics
+### 1. Kali Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing with Kali Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980)
@@ -766,7 +770,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise file (1)
 
 
-### 3. 2. System Shells
+### 2. System Shells
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to shells
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980)
@@ -1375,7 +1381,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. Exploiting Targets from Kali
+### 3. Exploiting Targets from Kali
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploiting systems with Kali
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980)
@@ -1649,7 +1657,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 5. 4. Passwords
+### 4. Passwords
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Obtaining Windows passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980)
@@ -1831,7 +1841,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Exploiting the Metasploitable Server
+### 5. Exploiting the Metasploitable Server
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Targeting Metasploitable
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/targeting-metasploitable?u=76281980)
@@ -2392,7 +2404,9 @@ created: 2026-04-28
 > **Code Identifiers:** lsb_release (1)
 
 
-### 7. 6. End-to-End Testing
+### 6. End-to-End Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starting with online labs
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980)
@@ -3136,7 +3150,9 @@ created: 2026-04-28
 > **Code Identifiers:** sju (1)
 
 
-### 8. 7. Crafting Exploit Scripts
+### 7. Crafting Exploit Scripts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing kali-autopilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980)
@@ -3478,7 +3494,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Command and Control with Sliver
+### 8. Command and Control with Sliver
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install Sliver server
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/install-silver-server?u=76281980)
@@ -3610,7 +3628,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980)

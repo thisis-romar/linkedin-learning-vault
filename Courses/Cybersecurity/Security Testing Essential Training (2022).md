@@ -51,17 +51,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding Security Assessments** (10 videos)
-- **3. 2. Your Testing Environment** (11 videos)
-- **4. 3. Planning Your Assessment** (6 videos)
-- **5. 4. Review Techniques** (9 videos)
-- **6. 5. Identifying Your Targets** (10 videos)
-- **7. 6. Vulnerability Validation** (7 videos)
-- **8. 7. Additional Considerations** (6 videos)
-- **9. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding Security Assessments]]** (10 videos)
+- **[[#2. Your Testing Environment]]** (11 videos)
+- **[[#3. Planning Your Assessment]]** (6 videos)
+- **[[#4. Review Techniques]]** (9 videos)
+- **[[#5. Identifying Your Targets]]** (10 videos)
+- **[[#6. Vulnerability Validation]]** (7 videos)
+- **[[#7. Additional Considerations]]** (6 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-importance-of-security-testing?u=76281980)
@@ -127,7 +129,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding Security Assessments
+### 1. Understanding Security Assessments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Language is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980)
@@ -594,7 +598,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Your Testing Environment
+### 2. Your Testing Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The security tester's toolkit
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-tester-s-toolkit?u=76281980)
@@ -1172,7 +1178,9 @@ created: 2026-04-28
 > **CLI Commands:** tar (1)
 
 
-### 4. 3. Planning Your Assessment
+### 3. Planning Your Assessment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding your scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980)
@@ -1468,7 +1476,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Review Techniques
+### 4. Review Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Documentation review
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/documentation-review?u=76281980)
@@ -2153,7 +2163,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Identifying Your Targets
+### 5. Identifying Your Targets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Network discovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-discovery?u=76281980)
@@ -2928,7 +2940,9 @@ created: 2026-04-28
 > **Cross-References:** previous video (1)
 
 
-### 7. 6. Vulnerability Validation
+### 6. Vulnerability Validation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Password cracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980)
@@ -3454,7 +3468,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Additional Considerations
+### 7. Additional Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Coordinating your assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/coordinating-your-assessments?u=76281980)
@@ -3798,7 +3814,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980)

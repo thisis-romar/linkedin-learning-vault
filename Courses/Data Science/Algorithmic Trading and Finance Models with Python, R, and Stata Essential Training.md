@@ -53,14 +53,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Basics of Algo Trading** (8 videos)
-- **3. 2. Stock Trading with Python** (6 videos)
-- **4. 3. R and Bond Trading** (5 videos)
-- **5. 4. Investment Analysis and Stata** (6 videos)
-- **6. 5. Data and Trading** (4 videos)
-- **7. 6. Strategies, Patterns, and Wall Street** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. The Basics of Algo Trading]]** (8 videos)
+- **[[#3. 2. Stock Trading with Python]]** (6 videos)
+- **[[#4. 3. R and Bond Trading]]** (5 videos)
+- **[[#5. 4. Investment Analysis and Stata]]** (6 videos)
+- **[[#6. 5. Data and Trading]]** (4 videos)
+- **[[#7. 6. Strategies, Patterns, and Wall Street]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

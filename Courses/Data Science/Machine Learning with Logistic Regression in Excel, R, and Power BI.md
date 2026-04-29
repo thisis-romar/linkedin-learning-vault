@@ -56,13 +56,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. Distributions and Probabilities** (6 videos)
-- **3. 2. Binomial Logistic Regression** (9 videos)
-- **4. 3. Fine-Tuning the Model** (7 videos)
-- **5. 4. Multinomial Regression** (5 videos)
-- **6. 5. Working in Power BI with R** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (6 videos)
+- **[[#2. 1. Distributions and Probabilities]]** (6 videos)
+- **[[#3. 2. Binomial Logistic Regression]]** (9 videos)
+- **[[#4. 3. Fine-Tuning the Model]]** (7 videos)
+- **[[#5. 4. Multinomial Regression]]** (5 videos)
+- **[[#6. 5. Working in Power BI with R]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Socio-Historical Perspective** (2 videos)
-- **3. 2. The Data Science Workplace** (3 videos)
-- **4. 3. Future Career Toolkit** (2 videos)
-- **5. 4. Finding Your VOICE** (7 videos)
-- **6. 5. Developing Your ANTENNA** (6 videos)
-- **7. 6. Connecting via Your MESH** (11 videos)
-- **8. Conclusion** (3 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Socio-Historical Perspective]]** (2 videos)
+- **[[#3. 2. The Data Science Workplace]]** (3 videos)
+- **[[#4. 3. Future Career Toolkit]]** (2 videos)
+- **[[#5. 4. Finding Your VOICE]]** (7 videos)
+- **[[#6. 5. Developing Your ANTENNA]]** (6 videos)
+- **[[#7. 6. Connecting via Your MESH]]** (11 videos)
+- **[[#8. Conclusion]]** (3 videos)
 
 ### 1. Introduction
 

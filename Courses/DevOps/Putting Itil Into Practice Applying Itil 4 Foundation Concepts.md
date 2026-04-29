@@ -43,16 +43,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1.  ITIL® Foundation Concepts** (1 videos)
-- **3. 2. Seven Ways to Apply  ITIL® Foundation Concepts** (11 videos)
-- **4. 3. Service Management Key Concepts** (4 videos)
-- **5. 4. Service Management Dimensions** (3 videos)
-- **6. 5. Service Value System** (2 videos)
-- **7. 6. Service Management Guiding Principles** (3 videos)
-- **8. 7. Service Value Chain Activities** (3 videos)
-- **9. 8. 18 Practices** (9 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1.  ITIL® Foundation Concepts]]** (1 videos)
+- **[[#3. 2. Seven Ways to Apply  ITIL® Foundation Concepts]]** (11 videos)
+- **[[#4. 3. Service Management Key Concepts]]** (4 videos)
+- **[[#5. 4. Service Management Dimensions]]** (3 videos)
+- **[[#6. 5. Service Value System]]** (2 videos)
+- **[[#7. 6. Service Management Guiding Principles]]** (3 videos)
+- **[[#8. 7. Service Value Chain Activities]]** (3 videos)
+- **[[#9. 8. 18 Practices]]** (9 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -51,10 +51,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Local Users and Groups** (7 videos)
-- **3. 2. Authentication Tools** (3 videos)
-- **4. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Local Users and Groups]]** (7 videos)
+- **[[#3. 2. Authentication Tools]]** (3 videos)
+- **[[#4. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

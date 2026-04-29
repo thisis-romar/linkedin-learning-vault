@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Starting with Data Analytics** (2 videos)
-- **3. 2. Data Collection and Utilization** (2 videos)
-- **4. 3. Strategically Use Data for Decisions** (3 videos)
-- **5. 4. Overcoming Challenges in Data-Driven Operations** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Starting with Data Analytics]]** (2 videos)
+- **[[#2. Data Collection and Utilization]]** (2 videos)
+- **[[#3. Strategically Use Data for Decisions]]** (3 videos)
+- **[[#4. Overcoming Challenges in Data-Driven Operations]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Investigating the use of data in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 2. 1. Starting with Data Analytics
+### 1. Starting with Data Analytics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparing business data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980)
@@ -188,7 +192,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Data Collection and Utilization
+### 2. Data Collection and Utilization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collect business data effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980)
@@ -312,7 +318,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 4. 3. Strategically Use Data for Decisions
+### 3. Strategically Use Data for Decisions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze business operations data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980)
@@ -486,7 +494,9 @@ created: 2026-04-28
 > **Code Keywords:** yield (1), finally, (1)
 
 
-### 5. 4. Overcoming Challenges in Data-Driven Operations
+### 4. Overcoming Challenges in Data-Driven Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Address data quality issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980)
@@ -697,7 +707,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/create-your-action-plan?u=76281980)

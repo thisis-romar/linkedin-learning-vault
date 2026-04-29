@@ -44,13 +44,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Ahead of Problems** (6 videos)
-- **3. 2. Common Troubleshooting Steps** (6 videos)
-- **4. 3. Common Problems and Solutions** (7 videos)
-- **5. 4. Problems That Require Working with Your Server** (6 videos)
-- **6. 5. Advanced Problems** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Ahead of Problems]]** (6 videos)
+- **[[#3. 2. Common Troubleshooting Steps]]** (6 videos)
+- **[[#4. 3. Common Problems and Solutions]]** (7 videos)
+- **[[#5. 4. Problems That Require Working with Your Server]]** (6 videos)
+- **[[#6. 5. Advanced Problems]]** (6 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

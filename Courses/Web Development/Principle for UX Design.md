@@ -31,8 +31,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Principle%20for%20UX%20Design.md)
-
 ![Principle for UX Design](https://media.licdn.com/dms/image/v2/D560DAQE0PyG36XKe-Q/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1691431562795?e=2147483647&amp;v=beta&amp;t=N-iXDePBE29bwTSXoEz5qtWBDP-WW2YI3jT82PPT3ug)
 
 # Principle for UX Design
@@ -46,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started with Principle** (10 videos)
-- **3. 2. Managing Content in Principle** (7 videos)
-- **4. 3. Using the Principle Timeline** (7 videos)
-- **5. 4. Using the Principle Drivers** (5 videos)
-- **6. 5. Practical Principle Projects** (11 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started with Principle]]** (10 videos)
+- **[[#2. Managing Content in Principle]]** (7 videos)
+- **[[#3. Using the Principle Timeline]]** (7 videos)
+- **[[#4. Using the Principle Drivers]]** (5 videos)
+- **[[#5. Practical Principle Projects]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Principle?
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-is-principle?u=76281980)
@@ -99,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started with Principle
+### 1. Getting Started with Principle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review of the Principle interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/review-of-the-principle-interface?u=76281980)
@@ -1012,7 +1014,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Managing Content in Principle
+### 2. Managing Content in Principle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What Principle doesn't do
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-principle-doesn-t-do?u=76281980)
@@ -1763,7 +1767,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Using the Principle Timeline
+### 3. Using the Principle Timeline
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980)
@@ -2506,7 +2512,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Using the Principle Drivers
+### 4. Using the Principle Drivers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of Driver channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/overview-of-driver-channel?u=76281980)
@@ -2966,7 +2974,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Practical Principle Projects
+### 5. Practical Principle Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a drag-and-drop effect
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-drag-and-drop-effect?u=76281980)
@@ -4373,7 +4383,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/next-steps?u=76281980)
@@ -4455,10 +4467,4 @@ _Courses sharing skills:_
 
 - [[Lo-Fi to Hi-Fi- Prototyping in Figma]] — User Interface Prototyping
 - [[Adobe XD Essential Training- Prototype]] — User Interface Prototyping
-- [[Surveys and Questionnaires for UX Projects]] — User Experience (UX)
-- [[UX Foundations- Generational Design]] — User Experience (UX)
-- [[Ux Foundations Research]] — User Experience (UX)
-
----
-
-[↑ Back to top](#)
+- [[Surveys and Questionnaires for UX Projects]] — User Experi

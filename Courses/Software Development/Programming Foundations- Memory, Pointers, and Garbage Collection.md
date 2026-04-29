@@ -39,14 +39,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Memory Management Concepts** (9 videos)
-- **3. 2. Memory Management in Code** (5 videos)
-- **4. 3. Memory Leaks and Best Practices** (4 videos)
-- **5. Glossaries** (0 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Memory Management Concepts]]** (9 videos)
+- **[[#2. Memory Management in Code]]** (5 videos)
+- **[[#3. Memory Leaks and Best Practices]]** (4 videos)
+- **[[#Glossaries]]** (0 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/getting-started-with-memory-management?u=76281980)
@@ -139,7 +141,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Memory Management Concepts
+### 1. Memory Management Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is memory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980)
@@ -1011,7 +1015,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Memory Management in Code
+### 2. Memory Management in Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The C way: Allocating memory
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980)
@@ -1602,7 +1608,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Memory Leaks and Best Practices
+### 3. Memory Leaks and Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are memory leaks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-are-memory-leaks?u=76281980)
@@ -2209,10 +2217,14 @@ created: 2026-04-28
 > **Versions:** 16.6 (1)
 
 
-### 5. Glossaries
+### Glossaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980)

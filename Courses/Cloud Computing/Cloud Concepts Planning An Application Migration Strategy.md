@@ -37,16 +37,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Cloud Migration** (6 videos)
-- **3. 2. Selecting the Workloads** (4 videos)
-- **4. 3. Selecting a Target Platform** (4 videos)
-- **5. 4. Cloud-Based Tools** (3 videos)
-- **6. 5. Setting Up a Migration Factory** (5 videos)
-- **7. 6. Migration at Scale** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Cloud Migration]]** (6 videos)
+- **[[#2. Selecting the Workloads]]** (4 videos)
+- **[[#3. Selecting a Target Platform]]** (4 videos)
+- **[[#4. Cloud-Based Tools]]** (3 videos)
+- **[[#5. Setting Up a Migration Factory]]** (5 videos)
+- **[[#6. Migration at Scale]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take the migration journey with your applications to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/take-the-migration-journey-with-your-applications-to-the-cloud?u=76281980)
@@ -92,7 +94,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Cloud Migration
+### 1. Introduction to Cloud Migration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980)
@@ -458,7 +462,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Selecting the Workloads
+### 2. Selecting the Workloads
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Good candidates for migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980)
@@ -680,7 +686,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Selecting a Target Platform
+### 3. Selecting a Target Platform
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Public clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980)
@@ -864,7 +872,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Cloud-Based Tools
+### 4. Cloud-Based Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS migration tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980)
@@ -1036,7 +1046,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Setting Up a Migration Factory
+### 5. Setting Up a Migration Factory
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Workload triage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/workload-triage?u=76281980)
@@ -1298,7 +1310,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Migration at Scale
+### 6. Migration at Scale
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting up to 100 applications a day
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/getting-as-many-as-10-100-applications-a-day?u=76281980)
@@ -1502,7 +1516,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980)

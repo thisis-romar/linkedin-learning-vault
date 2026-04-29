@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. AI Data Strategy** (5 videos)
-- **3. 2. Data Procurement and Sources** (9 videos)
-- **4. 3. Storage Considerations for AI Products** (4 videos)
-- **5. 4. Case Study Assessments** (1 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. AI Data Strategy]]** (5 videos)
+- **[[#2. Data Procurement and Sources]]** (9 videos)
+- **[[#3. Storage Considerations for AI Products]]** (4 videos)
+- **[[#4. Case Study Assessments]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI data strategy: Data procurement and storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. AI Data Strategy
+### 1. AI Data Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategic decision-making in AI product development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980)
@@ -754,7 +758,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 3. 2. Data Procurement and Sources
+### 2. Data Procurement and Sources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sourcing structured data for ML-driven AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980)
@@ -1816,7 +1822,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Storage Considerations for AI Products
+### 3. Storage Considerations for AI Products
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing scalable storage solutions for ML-driven AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980)
@@ -2263,7 +2271,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Case Study Assessments
+### 4. Case Study Assessments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design a real-world data strategy for an AI-powered product
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980)
@@ -2408,7 +2418,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980)

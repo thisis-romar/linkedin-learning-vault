@@ -60,18 +60,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Cloud Computing Basics** (5 videos)
-- **3. 2. Cloud Computing Deployment Models** (5 videos)
-- **4. 3. Cloud Computing Services** (5 videos)
-- **5. 4. Case Studies: Select the Right Cloud Type, Service, and Deployment** (4 videos)
-- **6. 5. Cloud Security** (4 videos)
-- **7. 6. Cloud Operations** (3 videos)
-- **8. 7. Cloud FinOps** (4 videos)
-- **9. 8. Cloud Computing Migration Planning: Key Considerations** (8 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Cloud Computing Basics]]** (5 videos)
+- **[[#2. Cloud Computing Deployment Models]]** (5 videos)
+- **[[#3. Cloud Computing Services]]** (5 videos)
+- **[[#4. Case Studies: Select the Right Cloud Type, Service, and Deployment]]** (4 videos)
+- **[[#5. Cloud Security]]** (4 videos)
+- **[[#6. Cloud Operations]]** (3 videos)
+- **[[#7. Cloud FinOps]]** (4 videos)
+- **[[#8. Cloud Computing Migration Planning: Key Considerations]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Change your career with cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - cloud (1)
 
 
-### 2. 1. Cloud Computing Basics
+### 1. Cloud Computing Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980)
@@ -378,7 +382,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Cloud Computing Deployment Models
+### 2. Cloud Computing Deployment Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of cloud deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980)
@@ -651,7 +657,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 4. 3. Cloud Computing Services
+### 3. Cloud Computing Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud computing storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980)
@@ -840,7 +848,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 5. 4. Case Studies: Select the Right Cloud Type, Service, and Deployment
+### 4. Case Studies: Select the Right Cloud Type, Service, and Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep data storage on-premises
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980)
@@ -958,7 +968,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 6. 5. Cloud Security
+### 5. Cloud Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud security planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-planning?u=76281980)
@@ -1240,7 +1252,9 @@ created: 2026-04-28
 > **Speakers:** - establishing (1)
 
 
-### 7. 6. Cloud Operations
+### 6. Cloud Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud operations overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980)
@@ -1423,7 +1437,9 @@ created: 2026-04-28
 > **Speakers:** - monitoring (1)
 
 
-### 8. 7. Cloud FinOps
+### 7. Cloud FinOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's FinOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980)
@@ -1557,7 +1573,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 9. 8. Cloud Computing Migration Planning: Key Considerations
+### 8. Cloud Computing Migration Planning: Key Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify which apps to move
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-apps-to-move?u=76281980)
@@ -1988,7 +2006,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud news and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980)

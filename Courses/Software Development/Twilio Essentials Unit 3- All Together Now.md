@@ -46,7 +46,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. All Together Now** (9 videos)
+- **[[#1. 1. All Together Now]]** (9 videos)
 
 ### 1. 1. All Together Now
 

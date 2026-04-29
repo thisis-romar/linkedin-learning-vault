@@ -40,12 +40,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Cloud Computing?** (5 videos)
-- **3. 2. Introduction to Microsoft Azure** (5 videos)
-- **4. 3. Azure Services for Modern Workloads** (6 videos)
-- **5. 4. Security, Governance, and Cost Essentials** (6 videos)
-- **6. Summary** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. What Is Cloud Computing?]]** (5 videos)
+- **[[#3. 2. Introduction to Microsoft Azure]]** (5 videos)
+- **[[#4. 3. Azure Services for Modern Workloads]]** (6 videos)
+- **[[#5. 4. Security, Governance, and Cost Essentials]]** (6 videos)
+- **[[#6. Summary]]** (1 videos)
 
 ### 1. Introduction
 

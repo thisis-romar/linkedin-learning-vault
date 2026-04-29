@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Soft skills** (7 videos)
-- **2. Productivity** (6 videos)
-- **3. Testing skills** (11 videos)
+- **[[#Soft skills]]** (7 videos)
+- **[[#Productivity]]** (6 videos)
+- **[[#Testing skills]]** (11 videos)
 
-### 1. Soft skills
+### Soft skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Top tips for talking with developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980)
@@ -618,7 +620,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. Productivity
+### Productivity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Screen recording for better bug reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/screen-recording-for-better-bug-reports?u=76281980)
@@ -979,7 +983,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Testing skills
+### Testing skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Better bug reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/better-bug-reports?u=76281980)

@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Security Overview** (3 videos)
-- **3. 2. Securing Your PHP Installation** (5 videos)
-- **4. 3. Filtering Input and Controlling Output** (5 videos)
-- **5. 4. Defending the Most Common Attacks** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Security Overview]]** (3 videos)
+- **[[#3. 2. Securing Your PHP Installation]]** (5 videos)
+- **[[#4. 3. Filtering Input and Controlling Output]]** (5 videos)
+- **[[#5. 4. Defending the Most Common Attacks]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

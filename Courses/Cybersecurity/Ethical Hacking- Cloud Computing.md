@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Cloud Overview** (4 videos)
-- **3. 2. Cloud Identity Management** (5 videos)
-- **4. 3. Cloud High Availability** (8 videos)
-- **5. 4. Hardening the Cloud** (10 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Cloud Overview]]** (4 videos)
+- **[[#2. Cloud Identity Management]]** (5 videos)
+- **[[#3. Cloud High Availability]]** (8 videos)
+- **[[#4. Hardening the Cloud]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get prepped for ethical hacking cloud computing certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980)
@@ -130,7 +132,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Cloud Overview
+### 1. Cloud Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud computing characteristics and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980)
@@ -582,7 +586,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Cloud Identity Management
+### 2. Cloud Identity Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud identity management
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980)
@@ -1230,7 +1236,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 4. 3. Cloud High Availability
+### 3. Cloud High Availability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud service high availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980)
@@ -2046,7 +2054,9 @@ created: 2026-04-28
 > **Prerequisites:** required to (1)
 
 
-### 5. 4. Hardening the Cloud
+### 4. Hardening the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980)
@@ -3149,7 +3159,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1), required to (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/next-steps?u=76281980)

@@ -52,12 +52,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Diving into Codespaces** (2 videos)
-- **3. 2. Understanding TensorFlow** (5 videos)
-- **4. 3. Building Your First Model** (8 videos)
-- **5. 4. Mastering TensorBoard** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Diving into Codespaces]]** (2 videos)
+- **[[#3. 2. Understanding TensorFlow]]** (5 videos)
+- **[[#4. 3. Building Your First Model]]** (8 videos)
+- **[[#5. 4. Mastering TensorBoard]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

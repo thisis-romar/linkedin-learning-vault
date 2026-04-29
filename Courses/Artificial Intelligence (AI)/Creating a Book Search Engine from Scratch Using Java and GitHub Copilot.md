@@ -56,14 +56,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Setting Up Java, Maven, and Spring Boot** (6 videos)
-- **3. 2. Dockerizing the Project with PostgreSQL** (2 videos)
-- **4. 3. Designing the Database Schema and Implementing Full-Text Search** (5 videos)
-- **5. 4. Ingesting and Validating Data** (3 videos)
-- **6. 5. Implementing Business Logic and Writing Tests** (3 videos)
-- **7. 6. Designing and Creating APIs** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Setting Up Java, Maven, and Spring Boot]]** (6 videos)
+- **[[#3. 2. Dockerizing the Project with PostgreSQL]]** (2 videos)
+- **[[#4. 3. Designing the Database Schema and Implementing Full-Text Search]]** (5 videos)
+- **[[#5. 4. Ingesting and Validating Data]]** (3 videos)
+- **[[#6. 5. Implementing Business Logic and Writing Tests]]** (3 videos)
+- **[[#7. 6. Designing and Creating APIs]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -48,17 +48,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Stable Diffusion Basics** (5 videos)
-- **3. 2. Digging Deeper into Stable Diffusion Prompts** (12 videos)
-- **4. 3. Advanced Stable Diffusion** (7 videos)
-- **5. 4. Training and Customizing Stable Diffusion** (13 videos)
-- **6. 5. Working with ControlNet** (9 videos)
-- **7. 6. Refining Your Workflow** (4 videos)
-- **8. 7. Customization and Model Training** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Stable Diffusion Basics]]** (5 videos)
+- **[[#2. Digging Deeper into Stable Diffusion Prompts]]** (12 videos)
+- **[[#3. Advanced Stable Diffusion]]** (7 videos)
+- **[[#4. Training and Customizing Stable Diffusion]]** (13 videos)
+- **[[#5. Working with ControlNet]]** (9 videos)
+- **[[#6. Refining Your Workflow]]** (4 videos)
+- **[[#7. Customization and Model Training]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Stable Diffusion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-is-stable-diffusion?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 1. Stable Diffusion Basics
+### 1. Stable Diffusion Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What can you do with Stable Diffusion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980)
@@ -597,7 +601,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 3. 2. Digging Deeper into Stable Diffusion Prompts
+### 2. Digging Deeper into Stable Diffusion Prompts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What does a prompt do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980)
@@ -2252,7 +2258,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 4. 3. Advanced Stable Diffusion
+### 3. Advanced Stable Diffusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sampling and steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980)
@@ -3779,7 +3787,9 @@ created: 2026-04-28
 > **Cross-References:** later in (1)
 
 
-### 5. 4. Training and Customizing Stable Diffusion
+### 4. Training and Customizing Stable Diffusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### img2img basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980)
@@ -6127,7 +6137,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 6. 5. Working with ControlNet
+### 5. Working with ControlNet
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to ControlNet
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980)
@@ -7709,7 +7721,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 7. 6. Refining Your Workflow
+### 6. Refining Your Workflow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using models to influence image style
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980)
@@ -8212,7 +8226,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/complete-a-stable-diffusion-workflow?u=76281980)
 
 
-### 8. 7. Customization and Model Training
+### 7. Customization and Model Training
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a custom model
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980)
@@ -9174,7 +9190,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980)

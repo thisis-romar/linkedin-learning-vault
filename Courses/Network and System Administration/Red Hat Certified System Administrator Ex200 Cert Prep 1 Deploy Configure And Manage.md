@@ -44,13 +44,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Deploy Systems** (8 videos)
-- **3. 2. System Config and Services** (12 videos)
-- **4. 3. Essential Tools** (16 videos)
-- **5. 4. Manage System Software** (16 videos)
-- **6. 5. Create Simple Shell Scripts** (12 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Deploy Systems]]** (8 videos)
+- **[[#3. 2. System Config and Services]]** (12 videos)
+- **[[#4. 3. Essential Tools]]** (16 videos)
+- **[[#5. 4. Manage System Software]]** (16 videos)
+- **[[#6. 5. Create Simple Shell Scripts]]** (12 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

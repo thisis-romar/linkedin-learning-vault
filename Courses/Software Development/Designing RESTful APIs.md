@@ -40,14 +40,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Who Needs Your API?** (6 videos)
-- **3. 2. What Does Your API Look Like?** (3 videos)
-- **4. 3. How Does Your API Work?** (4 videos)
-- **5. 4. Common Design Challenges** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Who Needs Your API?]]** (6 videos)
+- **[[#2. What Does Your API Look Like?]]** (3 videos)
+- **[[#3. How Does Your API Work?]]** (4 videos)
+- **[[#4. Common Design Challenges]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design a RESTful API for your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980)
@@ -127,7 +129,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Who Needs Your API?
+### 1. Who Needs Your API?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why good API design is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980)
@@ -584,7 +588,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. What Does Your API Look Like?
+### 2. What Does Your API Look Like?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating and grouping API methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/creating-and-grouping-api-methods-14392975?u=76281980)
@@ -1033,7 +1039,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 4. 3. How Does Your API Work?
+### 3. How Does Your API Work?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### REST and HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980)
@@ -1527,7 +1535,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 5. 4. Common Design Challenges
+### 4. Common Design Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Authentication and authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980)
@@ -2213,7 +2223,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps toward designing a RESTful API
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/next-steps-toward-designing-a-restful-api?u=76281980)

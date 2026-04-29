@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. XAI Basics and Techniques** (5 videos)
-- **3. 2. Integrating XAI in Cybersecurity Frameworks** (6 videos)
-- **4. 3. XAI for AI-Powered Threat Identification** (4 videos)
-- **5. 4. Decision-Making with XAI in Cybersecurity** (4 videos)
-- **6. 5. Ethical Implications of AI in Cybersecurity** (3 videos)
-- **7. Conclusion** (2 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. XAI Basics and Techniques]]** (5 videos)
+- **[[#2. Integrating XAI in Cybersecurity Frameworks]]** (6 videos)
+- **[[#3. XAI for AI-Powered Threat Identification]]** (4 videos)
+- **[[#4. Decision-Making with XAI in Cybersecurity]]** (4 videos)
+- **[[#5. Ethical Implications of AI in Cybersecurity]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unlock the power of explainable AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/unlock-the-power-of-explainable-ai?u=76281980)
@@ -307,7 +309,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. XAI Basics and Techniques
+### 1. XAI Basics and Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Brief introduction to model-agnostic methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/brief-introduction-to-model-agnostic-methods?u=76281980)
@@ -797,7 +801,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Integrating XAI in Cybersecurity Frameworks
+### 2. Integrating XAI in Cybersecurity Frameworks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cybersecurity framework fundamentals applicable to XAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/cybersecurity-framework-fundamentals-applicability-to-xai?u=76281980)
@@ -1406,7 +1412,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. XAI for AI-Powered Threat Identification
+### 3. XAI for AI-Powered Threat Identification
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the role of AI in threat identification?
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/what-is-the-role-of-ai-in-threat-identification?u=76281980)
@@ -1840,7 +1848,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Decision-Making with XAI in Cybersecurity
+### 4. Decision-Making with XAI in Cybersecurity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of decision-making in cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-decision-making-in-cybersecurity?u=76281980)
@@ -2227,7 +2237,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Ethical Implications of AI in Cybersecurity
+### 5. Ethical Implications of AI in Cybersecurity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of ethics in XAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/the-importance-of-ethics-in-xai?u=76281980)
@@ -2505,7 +2517,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/xai-and-interpretability-in-cybersecurity/next-steps?u=76281980)

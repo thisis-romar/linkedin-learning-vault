@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Why** (4 videos)
-- **3. 2. Visual Analysis in Six Easy Lessons** (6 videos)
-- **4. 3. Visual Communication in 10 Easy Lessons** (10 videos)
-- **5. 4. In Practice** (3 videos)
-- **6. 5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Why]]** (4 videos)
+- **[[#2. Visual Analysis in Six Easy Lessons]]** (6 videos)
+- **[[#3. Visual Communication in 10 Easy Lessons]]** (10 videos)
+- **[[#4. In Practice]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Moving from analysis to visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/moving-from-analasys-to-visualization?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. Why
+### 1. Why
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Humans are visual creatures
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/humans-are-visual-creatures?u=76281980)
@@ -581,7 +585,9 @@ created: 2026-04-28
 > **CLI Commands:** find (1)
 
 
-### 3. 2. Visual Analysis in Six Easy Lessons
+### 2. Visual Analysis in Six Easy Lessons
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to begin? Matrix heatmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980)
@@ -907,7 +913,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Visual Communication in 10 Easy Lessons
+### 3. Visual Communication in 10 Easy Lessons
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the right data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980)
@@ -2096,7 +2104,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 5. 4. In Practice
+### 4. In Practice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding the missing link with visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/finding-the-missing-link-with-visuals?u=76281980)
@@ -2719,7 +2729,9 @@ created: 2026-04-28
 > **Versions:** 15.5 (1)
 
 
-### 6. 5. Conclusion
+### 5. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980)

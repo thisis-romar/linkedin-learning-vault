@@ -46,11 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Cloning** (6 videos)
-- **3. 2. Database Scaling** (4 videos)
-- **4. 3. Microservices** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Cloning]]** (6 videos)
+- **[[#3. 2. Database Scaling]]** (4 videos)
+- **[[#4. 3. Microservices]]** (5 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

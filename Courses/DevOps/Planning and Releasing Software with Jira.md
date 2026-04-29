@@ -60,14 +60,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. Planning Projects and Releases** (3 videos)
-- **3. 2. Developing Software** (5 videos)
-- **4. 3. Testing Software** (3 videos)
-- **5. 4. Releasing Software** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. Planning Projects and Releases]]** (3 videos)
+- **[[#2. Developing Software]]** (5 videos)
+- **[[#3. Testing Software]]** (3 videos)
+- **[[#4. Releasing Software]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning and releasing software with Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980)
@@ -413,7 +415,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Planning Projects and Releases
+### 1. Planning Projects and Releases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Crafting requirements in Confluence
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980)
@@ -924,7 +928,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1), download the (1), exercise files (1)
 
 
-### 3. 2. Developing Software
+### 2. Developing Software
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tracking development work in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980)
@@ -1488,7 +1494,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Testing Software
+### 3. Testing Software
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing test cases in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980)
@@ -1675,7 +1683,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Releasing Software
+### 4. Releasing Software
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Releasing versions in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980)
@@ -1966,7 +1976,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980)

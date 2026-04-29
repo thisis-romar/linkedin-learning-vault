@@ -44,16 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Upgrade from Skype for Business to Microsoft Teams** (2 videos)
-- **3. 2. Plan and Configure Network Settings for Microsoft Teams** (6 videos)
-- **4. 3. Identify Licensing Requirements for Microsoft Teams** (5 videos)
-- **5. 4. Governance and Life-Cycle Management for Microsoft Teams** (8 videos)
-- **6. 5. Configure and Manage Guest Access** (4 videos)
-- **7. 6. Manage Security and Compliance** (7 videos)
-- **8. 7. Deploy and Manage Microsoft Teams Endpoints** (3 videos)
-- **9. 8. Monitor and Analyze Service Usage** (5 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Upgrade from Skype for Business to Microsoft Teams]]** (2 videos)
+- **[[#3. 2. Plan and Configure Network Settings for Microsoft Teams]]** (6 videos)
+- **[[#4. 3. Identify Licensing Requirements for Microsoft Teams]]** (5 videos)
+- **[[#5. 4. Governance and Life-Cycle Management for Microsoft Teams]]** (8 videos)
+- **[[#6. 5. Configure and Manage Guest Access]]** (4 videos)
+- **[[#7. 6. Manage Security and Compliance]]** (7 videos)
+- **[[#8. 7. Deploy and Manage Microsoft Teams Endpoints]]** (3 videos)
+- **[[#9. 8. Monitor and Analyze Service Usage]]** (5 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

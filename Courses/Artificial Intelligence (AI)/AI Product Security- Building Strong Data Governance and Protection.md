@@ -56,15 +56,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Data Governance and Security in AI Products** (4 videos)
-- **3. 2. Establish Robust Data Governance Throughout the AI Product's Lifecycle** (4 videos)
-- **4. 3. Implement Comprehensive Security for AI Data** (4 videos)
-- **5. 4. Embed Compliance in AI Product Development** (5 videos)
-- **6. 5. Maintain Data Governance and Security Over Time** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Data Governance and Security in AI Products]]** (4 videos)
+- **[[#2. Establish Robust Data Governance Throughout the AI Product's Lifecycle]]** (4 videos)
+- **[[#3. Implement Comprehensive Security for AI Data]]** (4 videos)
+- **[[#4. Embed Compliance in AI Product Development]]** (5 videos)
+- **[[#5. Maintain Data Governance and Security Over Time]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unlock the essentials of AI data governance and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 1. Introduction to Data Governance and Security in AI Products
+### 1. Introduction to Data Governance and Security in AI Products
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI governance and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980)
@@ -386,7 +390,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 3. 2. Establish Robust Data Governance Throughout the AI Product's Lifecycle
+### 2. Establish Robust Data Governance Throughout the AI Product's Lifecycle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining data governance for AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980)
@@ -655,7 +661,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Implement Comprehensive Security for AI Data
+### 3. Implement Comprehensive Security for AI Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build a foundation for AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/build-a-foundation-for-ai-systems?u=76281980)
@@ -917,7 +925,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 5. 4. Embed Compliance in AI Product Development
+### 4. Embed Compliance in AI Product Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigating regulatory requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980)
@@ -1256,7 +1266,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Maintain Data Governance and Security Over Time
+### 5. Maintain Data Governance and Security Over Time
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing AI data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980)
@@ -1593,7 +1605,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting it into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980)

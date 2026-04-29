@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Cross-Functional Collaboration** (8 videos)
-- **3. 2. Software Delivery Is a Team Sport** (6 videos)
-- **4. 3.  Develop Emotional Intelligence** (6 videos)
-- **5. 4. Be Heard with Compelling Communication** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Cross-Functional Collaboration]]** (8 videos)
+- **[[#2. Software Delivery Is a Team Sport]]** (6 videos)
+- **[[#3.  Develop Emotional Intelligence]]** (6 videos)
+- **[[#4. Be Heard with Compelling Communication]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leveling up your software development career
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/leveling-up-your-software-development-career?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - [janan] (1)
 
 
-### 2. 1. Cross-Functional Collaboration
+### 1. Cross-Functional Collaboration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why form cross-functional teams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980)
@@ -474,7 +478,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Software Delivery Is a Team Sport
+### 2. Software Delivery Is a Team Sport
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Psychological safety and risk-taking
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980)
@@ -794,7 +800,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 4. 3.  Develop Emotional Intelligence
+### 3.  Develop Emotional Intelligence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why EQ is a critical skill?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/why-eq-is-a-critical-skill?u=76281980)
@@ -1103,7 +1111,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Be Heard with Compelling Communication
+### 4. Be Heard with Compelling Communication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communicate proactively
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/communicate-proactively?u=76281980)
@@ -1368,7 +1378,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980)

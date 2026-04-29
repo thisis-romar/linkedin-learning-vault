@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Manage Security with Microsoft Defender for Cloud** (6 videos)
-- **3. 2. Cloud Security** (5 videos)
-- **4. 3. Working with Security Center Recommendations** (6 videos)
-- **5. 4. Firewall Manager** (6 videos)
-- **6. 5. Managing Security Solutions** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Manage Security with Microsoft Defender for Cloud]]** (6 videos)
+- **[[#2. Cloud Security]]** (5 videos)
+- **[[#3. Working with Security Center Recommendations]]** (6 videos)
+- **[[#4. Firewall Manager]]** (6 videos)
+- **[[#5. Managing Security Solutions]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of securing your workloads on the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/importance-of-securing-your-workloads-on-the-cloud?u=76281980)
@@ -194,7 +196,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 2. 1. Manage Security with Microsoft Defender for Cloud
+### 1. Manage Security with Microsoft Defender for Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microsoft Defender for Cloud overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/microsoft-defender-for-cloud-overview?u=76281980)
@@ -919,7 +923,9 @@ created: 2026-04-28
 > **Speakers:** - security (1)
 
 
-### 3. 2. Cloud Security
+### 2. Cloud Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with security alerts
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/working-with-security-alerts?u=76281980)
@@ -1430,7 +1436,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Security Center Recommendations
+### 3. Working with Security Center Recommendations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure Score: Access and track your secure score
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/secure-score-access-and-track-your-secure-score?u=76281980)
@@ -1927,7 +1935,9 @@ created: 2026-04-28
 > **Speakers:** - [woman] (1)
 
 
-### 5. 4. Firewall Manager
+### 4. Firewall Manager
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get started with Firewall Manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/get-started-with-firewall-manager?u=76281980)
@@ -2946,7 +2956,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 6. 5. Managing Security Solutions
+### 5. Managing Security Solutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrate security solutions and data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/integrate-security-solutions-and-data-sources?u=76281980)
@@ -3433,7 +3445,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### More about Azure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-cloud-resources-with-microsoft-defender-for-cloud/more-about-azure-security?u=76281980)

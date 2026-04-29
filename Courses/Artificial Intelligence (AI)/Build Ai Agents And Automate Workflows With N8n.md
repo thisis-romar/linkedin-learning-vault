@@ -48,9 +48,9 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Building AI Agents with n8n** (13 videos)
-- **3. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Building AI Agents with n8n]]** (13 videos)
+- **[[#3. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

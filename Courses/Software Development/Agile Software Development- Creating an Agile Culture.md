@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Defining Success** (4 videos)
-- **3. 2. Agile Anti-Patterns and Antidotes** (6 videos)
-- **4. 3. Building Your Team** (6 videos)
-- **5. 4. Empowering Individuals** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Defining Success]]** (4 videos)
+- **[[#2. Agile Anti-Patterns and Antidotes]]** (6 videos)
+- **[[#3. Building Your Team]]** (6 videos)
+- **[[#4. Empowering Individuals]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create an agile culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980)
@@ -177,7 +179,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. Defining Success
+### 1. Defining Success
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why culture matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980)
@@ -539,7 +543,9 @@ created: 2026-04-28
 > **Speakers:** - crystal (1)
 
 
-### 3. 2. Agile Anti-Patterns and Antidotes
+### 2. Agile Anti-Patterns and Antidotes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Shame versus empathy
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980)
@@ -1131,7 +1137,9 @@ created: 2026-04-28
 > **Speakers:** - silos (1)
 
 
-### 4. 3. Building Your Team
+### 3. Building Your Team
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collection of individuals versus teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/collection-of-individuals-versus-teams?u=76281980)
@@ -1530,7 +1538,9 @@ created: 2026-04-28
 > **Speakers:** - setting (1)
 
 
-### 5. 4. Empowering Individuals
+### 4. Empowering Individuals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Candor and conflict
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/candor-and-conflict?u=76281980)
@@ -2005,7 +2015,9 @@ created: 2026-04-28
 > **Speakers:** - communication (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980)

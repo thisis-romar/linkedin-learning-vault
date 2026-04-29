@@ -40,12 +40,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Essence of Vibe Coding** (2 videos)
-- **3. 2. Your AI's Guiding Documents** (5 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Essence of Vibe Coding]]** (2 videos)
+- **[[#2. Your AI's Guiding Documents]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Save time by structuring your vibe coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/save-time-by-using-vibe-coding-structure?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. The Essence of Vibe Coding
+### 1. The Essence of Vibe Coding
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is vibe coding and why do most people get it wrong?
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980)
@@ -269,7 +273,9 @@ created: 2026-04-28
 > **Speakers:** - another (1)
 
 
-### 3. 2. Your AI's Guiding Documents
+### 2. Your AI's Guiding Documents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define the spec, blueprint, and todos
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980)
@@ -1058,7 +1064,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Move forward with structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/move-forward-with-structure?u=76281980)

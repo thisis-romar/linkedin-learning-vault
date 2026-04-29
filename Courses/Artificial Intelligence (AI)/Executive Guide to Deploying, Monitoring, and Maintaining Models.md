@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. The Phases of a Machine Learning Project** (4 videos)
-- **2. 2. Model Evaluation** (2 videos)
-- **3. 3. Scoring** (3 videos)
-- **4. 4. Deployment** (3 videos)
-- **5. 5. Monitoring and Maintenance** (2 videos)
+- **[[#1. The Phases of a Machine Learning Project]]** (4 videos)
+- **[[#2. Model Evaluation]]** (2 videos)
+- **[[#3. Scoring]]** (3 videos)
+- **[[#4. Deployment]]** (3 videos)
+- **[[#5. Monitoring and Maintenance]]** (2 videos)
 
-### 1. 1. The Phases of a Machine Learning Project
+### 1. The Phases of a Machine Learning Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data and supervised machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980)
@@ -299,7 +301,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 2. Model Evaluation
+### 2. Model Evaluation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The business evaluation phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980)
@@ -451,7 +455,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 3. 3. Scoring
+### 3. Scoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scoring traditional ML models
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980)
@@ -656,7 +662,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 4. Deployment
+### 4. Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Batch vs. real-time scoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/batch-vs-real-time-scoring?u=76281980)
@@ -895,7 +903,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 5. Monitoring and Maintenance
+### 5. Monitoring and Maintenance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is model monitoring?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980)

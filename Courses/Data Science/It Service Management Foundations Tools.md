@@ -44,18 +44,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Tools Included** (1 videos)
-- **3. 2. Considerations Covered** (1 videos)
-- **4. 3. Accessible Consideration** (2 videos)
-- **5. 4. Auditable Consideration** (2 videos)
-- **6. 5. Efficient Consideration** (2 videos)
-- **7. 6. Functional Consideration** (2 videos)
-- **8. 7. Measureable Consideration** (2 videos)
-- **9. 8. Permissive Consideration** (2 videos)
-- **10. 9. Reportable Consideration** (2 videos)
-- **11. 10. Upgradeable Consideration** (2 videos)
-- **12. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Tools Included]]** (1 videos)
+- **[[#3. 2. Considerations Covered]]** (1 videos)
+- **[[#4. 3. Accessible Consideration]]** (2 videos)
+- **[[#5. 4. Auditable Consideration]]** (2 videos)
+- **[[#6. 5. Efficient Consideration]]** (2 videos)
+- **[[#7. 6. Functional Consideration]]** (2 videos)
+- **[[#8. 7. Measureable Consideration]]** (2 videos)
+- **[[#9. 8. Permissive Consideration]]** (2 videos)
+- **[[#10. 9. Reportable Consideration]]** (2 videos)
+- **[[#11. 10. Upgradeable Consideration]]** (2 videos)
+- **[[#12. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

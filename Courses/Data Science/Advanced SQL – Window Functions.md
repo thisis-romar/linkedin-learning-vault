@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Tools, Files, and Query Processing Review** (3 videos)
-- **3. 2. Window Functions and the OVER Clause** (3 videos)
-- **4. 3. Framing, Exclusions, and Shortcuts** (3 videos)
-- **5. 4. Aggregate Window Functions** (5 videos)
-- **6. 5. Rank and Distribution Window Functions** (6 videos)
-- **7. 6. Offset Window Functions** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Tools, Files, and Query Processing Review]]** (3 videos)
+- **[[#3. 2. Window Functions and the OVER Clause]]** (3 videos)
+- **[[#4. 3. Framing, Exclusions, and Shortcuts]]** (3 videos)
+- **[[#5. 4. Aggregate Window Functions]]** (5 videos)
+- **[[#6. 5. Rank and Distribution Window Functions]]** (6 videos)
+- **[[#7. 6. Offset Window Functions]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

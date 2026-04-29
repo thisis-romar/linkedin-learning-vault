@@ -50,11 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Soft Skills** (7 videos)
-- **3. 2. Technology** (5 videos)
-- **4. 3. Career Building** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Soft Skills]]** (7 videos)
+- **[[#3. 2. Technology]]** (5 videos)
+- **[[#4. 3. Career Building]]** (5 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

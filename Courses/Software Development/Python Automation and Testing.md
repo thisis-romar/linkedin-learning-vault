@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. What Is Automation Testing and Python-Selenium Framework?** (5 videos)
-- **3. 2. Parsing the HTML DOM Structure** (11 videos)
-- **4. 3. Navigating through Pages** (5 videos)
-- **5. 4. Waits** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. What Is Automation Testing and Python-Selenium Framework?]]** (5 videos)
+- **[[#3. 2. Parsing the HTML DOM Structure]]** (11 videos)
+- **[[#4. 3. Navigating through Pages]]** (5 videos)
+- **[[#5. 4. Waits]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

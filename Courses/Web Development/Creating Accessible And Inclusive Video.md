@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Why Create Accessible and Inclusive Videos?** (2 videos)
-- **3. 2. Create an Accessible Experience** (10 videos)
-- **4. 3. Create Inclusive Content** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Why Create Accessible and Inclusive Videos?]]** (2 videos)
+- **[[#2. Create an Accessible Experience]]** (10 videos)
+- **[[#3. Create Inclusive Content]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prioritize video accessibility and inclusivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-video-accessibility-and-inclusivity?u=76281980)
@@ -76,7 +78,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. Why Create Accessible and Inclusive Videos?
+### 1. Why Create Accessible and Inclusive Videos?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of creating an accessible experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980)
@@ -259,7 +263,9 @@ created: 2026-04-28
 > **Cross-References:** later in (1)
 
 
-### 3. 2. Create an Accessible Experience
+### 2. Create an Accessible Experience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be thoughtful about color, contrast, and light
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-color-contrast-and-light?u=76281980)
@@ -1091,7 +1097,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 4. 3. Create Inclusive Content
+### 3. Create Inclusive Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be thoughtful about featuring diverse video topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980)
@@ -1562,7 +1570,9 @@ created: 2026-04-28
 > **Warnings:** be careful (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980)

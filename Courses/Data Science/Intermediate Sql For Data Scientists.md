@@ -47,16 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Foundations of SQL for Data Science** (4 videos)
-- **3. 2. Basic Statistics with SQL** (8 videos)
-- **4. 3. Data Munging with SQL** (7 videos)
-- **5. 4. Filtering and Aggregation** (9 videos)
-- **6. 5. Window Functions and Ordered Data** (6 videos)
-- **7. 6. Common Table Expressions** (6 videos)
-- **8. 7. Types of Joins** (7 videos)
-- **9. 8. Working with JSON** (7 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Foundations of SQL for Data Science]]** (4 videos)
+- **[[#3. 2. Basic Statistics with SQL]]** (8 videos)
+- **[[#4. 3. Data Munging with SQL]]** (7 videos)
+- **[[#5. 4. Filtering and Aggregation]]** (9 videos)
+- **[[#6. 5. Window Functions and Ordered Data]]** (6 videos)
+- **[[#7. 6. Common Table Expressions]]** (6 videos)
+- **[[#8. 7. Types of Joins]]** (7 videos)
+- **[[#9. 8. Working with JSON]]** (7 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

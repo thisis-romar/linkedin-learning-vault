@@ -37,16 +37,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding the Need** (3 videos)
-- **3. 2. Laying the Groundwork** (3 videos)
-- **4. 3. Core AI Policy Components** (4 videos)
-- **5. 4. AI Policy Development and Roll Out** (3 videos)
-- **6. 5. AI Use Monitoring and Policy Enforcement** (3 videos)
-- **7. 6. A Living Document** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding the Need]]** (3 videos)
+- **[[#2. Laying the Groundwork]]** (3 videos)
+- **[[#3. Core AI Policy Components]]** (4 videos)
+- **[[#4. AI Policy Development and Roll Out]]** (3 videos)
+- **[[#5. AI Use Monitoring and Policy Enforcement]]** (3 videos)
+- **[[#6. A Living Document]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an effective policy for responsible AI adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/creating-an-effective-policy-for-responsible-ai-adoption-24919276?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Understanding the Need
+### 1. Understanding the Need
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The rise of generative AI in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980)
@@ -344,7 +348,9 @@ created: 2026-04-28
 > **Speakers:** - picture (1)
 
 
-### 3. 2. Laying the Groundwork
+### 2. Laying the Groundwork
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assessing your company's AI readiness
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980)
@@ -607,7 +613,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Core AI Policy Components
+### 3. Core AI Policy Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define acceptable use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980)
@@ -976,7 +984,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. AI Policy Development and Roll Out
+### 4. AI Policy Development and Roll Out
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Drafting the policy document
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/drafting-the-policy-document-24917282?u=76281980)
@@ -1280,7 +1290,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. AI Use Monitoring and Policy Enforcement
+### 5. AI Use Monitoring and Policy Enforcement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Establishing monitoring mechanisms
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980)
@@ -1522,7 +1534,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. A Living Document
+### 6. A Living Document
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Staying current with tech
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980)
@@ -1647,7 +1661,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps on the path to success with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980)

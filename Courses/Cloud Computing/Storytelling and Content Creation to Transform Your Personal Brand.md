@@ -53,12 +53,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Story We Tell Ourselves** (3 videos)
-- **3. 2. Unlock the Secrets of Storytelling for Creators** (3 videos)
-- **4. 3. Research for Building a Winning Strategy** (3 videos)
-- **5. 4. Execution for Effective Writing and Building Visibility** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Story We Tell Ourselves]]** (3 videos)
+- **[[#3. 2. Unlock the Secrets of Storytelling for Creators]]** (3 videos)
+- **[[#4. 3. Research for Building a Winning Strategy]]** (3 videos)
+- **[[#5. 4. Execution for Effective Writing and Building Visibility]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

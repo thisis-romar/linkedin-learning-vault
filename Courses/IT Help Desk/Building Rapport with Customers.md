@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Simple Ways to Build Rapport with Customers** (2 videos)
-- **3. 2. Techniques for Maintaining Rapport with Your Customers** (3 videos)
-- **4. 3. How to Build Rapport in Specific Customer Interactions** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Simple Ways to Build Rapport with Customers]]** (2 videos)
+- **[[#2. Techniques for Maintaining Rapport with Your Customers]]** (3 videos)
+- **[[#3. How to Build Rapport in Specific Customer Interactions]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why rapport really matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/why-rapport-really-matters?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **Cross-References:** we discussed (1)
 
 
-### 2. 1. Simple Ways to Build Rapport with Customers
+### 1. Simple Ways to Build Rapport with Customers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build rapport with your customers in six seconds or less
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/build-rapport-with-your-customers-in-six-seconds-or-less?u=76281980)
@@ -212,7 +216,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 3. 2. Techniques for Maintaining Rapport with Your Customers
+### 2. Techniques for Maintaining Rapport with Your Customers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pace your customers to build agreement and rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/pace-your-customers-to-build-agreement-and-rapport?u=76281980)
@@ -395,7 +401,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 4. 3. How to Build Rapport in Specific Customer Interactions
+### 3. How to Build Rapport in Specific Customer Interactions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create rapport in customer emails
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/create-rapport-in-a-customer-emails?u=76281980)
@@ -667,7 +675,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practice building rapport with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-21402583/practice-building-rapport-with-customers?u=76281980)

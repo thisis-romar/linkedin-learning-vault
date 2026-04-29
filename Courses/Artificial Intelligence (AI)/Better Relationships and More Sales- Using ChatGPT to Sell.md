@@ -52,12 +52,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Building Trust in a Digital-First Sales World** (3 videos)
-- **3. 2. Building Relationships to Get More Meetings** (4 videos)
-- **4. 3. Modeling Conversations to Build Trust throughout the Sales Process** (4 videos)
-- **5. 4. Building Better Relationships with Current Clients** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Building Trust in a Digital-First Sales World]]** (3 videos)
+- **[[#3. 2. Building Relationships to Get More Meetings]]** (4 videos)
+- **[[#4. 3. Modeling Conversations to Build Trust throughout the Sales Process]]** (4 videos)
+- **[[#5. 4. Building Better Relationships with Current Clients]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

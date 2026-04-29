@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding Power Query and Power Pivot** (1 videos)
-- **3. 2. Using Power Query** (5 videos)
-- **4. 3. Using Power Pivot** (6 videos)
-- **5. 4. Using Power Query with Power Pivot** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understanding Power Query and Power Pivot]]** (1 videos)
+- **[[#3. 2. Using Power Query]]** (5 videos)
+- **[[#4. 3. Using Power Pivot]]** (6 videos)
+- **[[#5. 4. Using Power Query with Power Pivot]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

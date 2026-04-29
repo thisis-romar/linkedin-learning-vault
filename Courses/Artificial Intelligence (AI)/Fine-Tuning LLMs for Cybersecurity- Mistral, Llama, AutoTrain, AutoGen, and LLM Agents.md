@@ -56,17 +56,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Open-Source LLMs and Why They're Important** (7 videos)
-- **3. 2. LLMs and Cybersecurity** (7 videos)
-- **4. 3. Code Vulnerability Scanning with LLMs** (6 videos)
-- **5. 4. OSINT with LLM Agents** (6 videos)
-- **6. 5. Web Vulnerability Scanning with LLM Agents** (6 videos)
-- **7. 6. LLM-Powered Firewall** (7 videos)
-- **8. 7. The Future of Cybersecurity with LLMs** (7 videos)
-- **9. Conclusion** (2 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Open-Source LLMs and Why They're Important]]** (7 videos)
+- **[[#2. LLMs and Cybersecurity]]** (7 videos)
+- **[[#3. Code Vulnerability Scanning with LLMs]]** (6 videos)
+- **[[#4. OSINT with LLM Agents]]** (6 videos)
+- **[[#5. Web Vulnerability Scanning with LLM Agents]]** (6 videos)
+- **[[#6. LLM-Powered Firewall]]** (7 videos)
+- **[[#7. The Future of Cybersecurity with LLMs]]** (7 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to LLMs and LLM agents for cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980)
@@ -354,7 +356,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Open-Source LLMs and Why They're Important
+### 1. Open-Source LLMs and Why They're Important
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GenAI and top LLMs: GPT4, Claude, and Gemini (closed source)
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980)
@@ -942,7 +946,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 3. 2. LLMs and Cybersecurity
+### 2. LLMs and Cybersecurity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### New evolving threats, powered by LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980)
@@ -1480,7 +1486,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1), select the (1)
 
 
-### 4. 3. Code Vulnerability Scanning with LLMs
+### 3. Code Vulnerability Scanning with LLMs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to code vulnerability scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980)
@@ -1884,7 +1892,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. OSINT with LLM Agents
+### 4. OSINT with LLM Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to OSINT and how LLMs can help
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980)
@@ -2469,7 +2479,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Web Vulnerability Scanning with LLM Agents
+### 5. Web Vulnerability Scanning with LLM Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to web vulnerability scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980)
@@ -3105,7 +3117,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 7. 6. LLM-Powered Firewall
+### 6. LLM-Powered Firewall
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to LLM-powered firewall projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980)
@@ -3632,7 +3646,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. The Future of Cybersecurity with LLMs
+### 7. The Future of Cybersecurity with LLMs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Threats of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980)
@@ -4114,7 +4130,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarizing the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980)

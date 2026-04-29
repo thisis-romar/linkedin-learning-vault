@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The React Native UI Libraries** (5 videos)
-- **3. 2. Development Resources** (2 videos)
-- **4. 3. Backend Options for a React Native Project** (2 videos)
-- **5. 4. Testing Your App** (1 videos)
-- **6. 5. Deploying to the Stores** (1 videos)
-- **7. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. The React Native UI Libraries]]** (5 videos)
+- **[[#3. 2. Development Resources]]** (2 videos)
+- **[[#4. 3. Backend Options for a React Native Project]]** (2 videos)
+- **[[#5. 4. Testing Your App]]** (1 videos)
+- **[[#6. 5. Deploying to the Stores]]** (1 videos)
+- **[[#7. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

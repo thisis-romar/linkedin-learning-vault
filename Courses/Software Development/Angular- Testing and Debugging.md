@@ -52,17 +52,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (3 videos)
-- **3. 2. How Angular Reports Errors** (6 videos)
-- **4. 3. Common Syntax Errors** (10 videos)
-- **5. 4. Common Async Errors** (4 videos)
-- **6. 5. Unit Testing in Angular** (8 videos)
-- **7. 6. End-to-End Testing in Angular** (6 videos)
-- **8. 7. Static Code Linting in Angular** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (3 videos)
+- **[[#2. How Angular Reports Errors]]** (6 videos)
+- **[[#3. Common Syntax Errors]]** (10 videos)
+- **[[#4. Common Async Errors]]** (4 videos)
+- **[[#5. Unit Testing in Angular]]** (8 videos)
+- **[[#6. End-to-End Testing in Angular]]** (6 videos)
+- **[[#7. Static Code Linting in Angular]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Angular: Testing and debugging
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980)
@@ -190,7 +192,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Application overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980)
@@ -423,7 +427,9 @@ created: 2026-04-28
 > **Cross-References:** earlier in (1)
 
 
-### 3. 2. How Angular Reports Errors
+### 2. How Angular Reports Errors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Error handling in Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/error-handling-in-angular?u=76281980)
@@ -778,7 +784,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 4. 3. Common Syntax Errors
+### 3. Common Syntax Errors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding a local storage service
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980)
@@ -1644,7 +1652,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Common Async Errors
+### 4. Common Async Errors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting data using REST requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980)
@@ -2089,7 +2099,9 @@ created: 2026-04-28
 > **Best Practices:** good practice (1)
 
 
-### 6. 5. Unit Testing in Angular
+### 5. Unit Testing in Angular
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980)
@@ -2913,7 +2925,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 7. 6. End-to-End Testing in Angular
+### 6. End-to-End Testing in Angular
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic Protractor configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980)
@@ -3446,7 +3460,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. 7. Static Code Linting in Angular
+### 7. Static Code Linting in Angular
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing and running ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980)
@@ -3941,7 +3957,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/next-steps?u=76281980)

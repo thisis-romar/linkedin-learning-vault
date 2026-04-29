@@ -40,11 +40,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Using Bolt** (5 videos)
-- **3. 2. Vibe Coding with Bolt** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Using Bolt]]** (5 videos)
+- **[[#2. Vibe Coding with Bolt]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What if you could build an app just by chatting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/what-if-you-could-build-an-app-just-by-chatting?u=76281980)
@@ -71,7 +73,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. Using Bolt
+### 1. Using Bolt
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Skip the setup and build apps faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980)
@@ -518,7 +522,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Vibe Coding with Bolt
+### 2. Vibe Coding with Bolt
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vibe coding a project with the Bolt interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980)

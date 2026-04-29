@@ -47,12 +47,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started** (6 videos)
-- **3. 2. Specialized Data Type and Query Support** (6 videos)
-- **4. 3. Advanced Queries** (6 videos)
-- **5. 4. Modifying Data** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Started]]** (6 videos)
+- **[[#3. 2. Specialized Data Type and Query Support]]** (6 videos)
+- **[[#4. 3. Advanced Queries]]** (6 videos)
+- **[[#5. 4. Modifying Data]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

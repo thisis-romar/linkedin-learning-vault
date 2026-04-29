@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Preparation** (4 videos)
-- **3. 2. PyTorch Basics** (5 videos)
-- **4. 3. Torchvision** (2 videos)
-- **5. 4. Torchaudio** (2 videos)
-- **6. 5. Torchtext** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Preparation]]** (4 videos)
+- **[[#3. 2. PyTorch Basics]]** (5 videos)
+- **[[#4. 3. Torchvision]]** (2 videos)
+- **[[#5. 4. Torchaudio]]** (2 videos)
+- **[[#6. 5. Torchtext]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

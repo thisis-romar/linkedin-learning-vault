@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Pre-empt an Escalation** (5 videos)
-- **3. 2. Three-Step De-escalation** (3 videos)
-- **4. 3. Double Your Effectiveness De-escalation** (4 videos)
-- **5. 4. Common Customer Issues** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Pre-empt an Escalation]]** (5 videos)
+- **[[#2. Three-Step De-escalation]]** (3 videos)
+- **[[#3. Double Your Effectiveness De-escalation]]** (4 videos)
+- **[[#4. Common Customer Issues]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why you've been unsuccessful with angry customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/why-you-ve-been-unsuccessful-with-angry-customers-14475727?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 2. 1. Pre-empt an Escalation
+### 1. Pre-empt an Escalation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three reasons situations escalate and how to stop the cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/three-reasons-situations-escalate-and-how-to-stop-the-cycle-14475728?u=76281980)
@@ -525,7 +529,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2. Three-Step De-escalation
+### 2. Three-Step De-escalation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recognize the customer's emotions
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/recognize-the-customer-s-emotions-14470751?u=76281980)
@@ -710,7 +716,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 4. 3. Double Your Effectiveness De-escalation
+### 3. Double Your Effectiveness De-escalation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Listen with the intent to understand
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/listen-with-the-intent-to-understand-14471747?u=76281980)
@@ -1045,7 +1053,9 @@ created: 2026-04-28
 > **Speakers:** - three (1)
 
 
-### 5. 4. Common Customer Issues
+### 4. Common Customer Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When a customer asks for a manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/when-a-customer-asks-for-a-manager-14471748?u=76281980)
@@ -1362,7 +1372,9 @@ created: 2026-04-28
 > **Speakers:** - your (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start, stop, continue exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/de-escalating-conversations-for-customer-service/start-stop-continue-exercise-14472676?u=76281980)

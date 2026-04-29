@@ -59,12 +59,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Search Functions in a Vector Database** (10 videos)
-- **3. 2. Building a Vector Database** (8 videos)
-- **4. 3. Building a Vector Database-Powered App** (7 videos)
-- **5. 4. Making a Vector Database Work for Your Data** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Search Functions in a Vector Database]]** (10 videos)
+- **[[#3. 2. Building a Vector Database]]** (8 videos)
+- **[[#4. 3. Building a Vector Database-Powered App]]** (7 videos)
+- **[[#5. 4. Making a Vector Database Work for Your Data]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

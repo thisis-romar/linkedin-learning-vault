@@ -44,18 +44,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Essential Migration Considerations** (6 videos)
-- **3. 2. Rehosting** (4 videos)
-- **4. 3. Replatforming** (4 videos)
-- **5. 4. Adopting SaaS** (4 videos)
-- **6. 5. Refactoring Workloads** (2 videos)
-- **7. 6. Retiring Workloads** (2 videos)
-- **8. 7. The Migration Process** (8 videos)
-- **9. 8. Your Exit Strategy** (5 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Essential Migration Considerations]]** (6 videos)
+- **[[#2. Rehosting]]** (4 videos)
+- **[[#3. Replatforming]]** (4 videos)
+- **[[#4. Adopting SaaS]]** (4 videos)
+- **[[#5. Refactoring Workloads]]** (2 videos)
+- **[[#6. Retiring Workloads]]** (2 videos)
+- **[[#7. The Migration Process]]** (8 videos)
+- **[[#8. Your Exit Strategy]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning a cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/planning-a-cloud-migration?u=76281980)
@@ -100,7 +102,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Essential Migration Considerations
+### 1. Essential Migration Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify migration goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980)
@@ -663,7 +667,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Rehosting
+### 2. Rehosting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Which applications should be rehosted?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980)
@@ -1058,7 +1064,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Replatforming
+### 3. Replatforming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is replatforming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980)
@@ -1322,7 +1330,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Adopting SaaS
+### 4. Adopting SaaS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why transition to SaaS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980)
@@ -1606,7 +1616,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Refactoring Workloads
+### 5. Refactoring Workloads
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The case for application refactoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980)
@@ -1758,7 +1770,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Retiring Workloads
+### 6. Retiring Workloads
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why retiring an application may be the best option
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-retiring-an-application-may-be-the-best-option?u=76281980)
@@ -1886,7 +1900,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. The Migration Process
+### 7. The Migration Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Are your goals still relevant?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/are-your-goals-still-relevant?u=76281980)
@@ -2442,7 +2458,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Your Exit Strategy
+### 8. Your Exit Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a cloud exit strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-a-cloud-exit-strategy?u=76281980)
@@ -2848,7 +2866,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980)

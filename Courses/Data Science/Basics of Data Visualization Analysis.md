@@ -52,14 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Basics of Analysis** (3 videos)
-- **3. 2. Distributional Analysis with Continuous Data** (4 videos)
-- **4. 3. Distributional Analysis with Discrete Data** (3 videos)
-- **5. 4. Visualizing Multiple Distributions** (4 videos)
-- **6. 5. Visualizing Relationships** (4 videos)
-- **7. 6. Visualizing Multi-Dimensional Relationships** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Basics of Analysis]]** (3 videos)
+- **[[#3. 2. Distributional Analysis with Continuous Data]]** (4 videos)
+- **[[#4. 3. Distributional Analysis with Discrete Data]]** (3 videos)
+- **[[#5. 4. Visualizing Multiple Distributions]]** (4 videos)
+- **[[#6. 5. Visualizing Relationships]]** (4 videos)
+- **[[#7. 6. Visualizing Multi-Dimensional Relationships]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

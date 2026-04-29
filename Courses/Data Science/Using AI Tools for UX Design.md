@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Project Overview** (1 videos)
-- **3. 2. Creating Concepts Using Text-to-Image AI** (6 videos)
-- **4. 3. Using AI Tools to Increase Image Resolution** (1 videos)
-- **5. 4. Building Image Assets Using AI Tools** (3 videos)
-- **6. 5. Using AI Tools to Create Brand Style Guides** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Project Overview]]** (1 videos)
+- **[[#2. Creating Concepts Using Text-to-Image AI]]** (6 videos)
+- **[[#3. Using AI Tools to Increase Image Resolution]]** (1 videos)
+- **[[#4. Building Image Assets Using AI Tools]]** (3 videos)
+- **[[#5. Using AI Tools to Create Brand Style Guides]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI tools for UX designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/ai-tools-for-ux-designers?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Project Overview
+### 1. Project Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Client's ask
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/client-s-ask?u=76281980)
@@ -202,7 +206,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creating Concepts Using Text-to-Image AI
+### 2. Creating Concepts Using Text-to-Image AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to text-to-image AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980)
@@ -1306,7 +1312,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2)
 
 
-### 4. 3. Using AI Tools to Increase Image Resolution
+### 3. Using AI Tools to Increase Image Resolution
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Upscaling your image assets
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980)
@@ -1410,7 +1418,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Building Image Assets Using AI Tools
+### 4. Building Image Assets Using AI Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating hero imagery with Midjourney
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980)
@@ -2125,7 +2135,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 6. 5. Using AI Tools to Create Brand Style Guides
+### 5. Using AI Tools to Create Brand Style Guides
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating color swatches with Colormind and the other tools in Obsidian
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980)
@@ -3146,7 +3158,9 @@ created: 2026-04-28
 > **Tools:** figma (2)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980)

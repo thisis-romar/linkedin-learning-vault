@@ -49,14 +49,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to AWS CLI** (3 videos)
-- **3. 2. Managing EC2 Instances with AWS CLI** (3 videos)
-- **4. 3. Working with S3 and AWS CLI** (3 videos)
-- **5. 4. Managing Permissions with IAM and AWS CLI** (3 videos)
-- **6. 5. Managing Other AWS Services with AWS CLI** (3 videos)
-- **7. 6. Advanced AWS CLI Topics** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to AWS CLI]]** (3 videos)
+- **[[#3. 2. Managing EC2 Instances with AWS CLI]]** (3 videos)
+- **[[#4. 3. Working with S3 and AWS CLI]]** (3 videos)
+- **[[#5. 4. Managing Permissions with IAM and AWS CLI]]** (3 videos)
+- **[[#6. 5. Managing Other AWS Services with AWS CLI]]** (3 videos)
+- **[[#7. 6. Advanced AWS CLI Topics]]** (2 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

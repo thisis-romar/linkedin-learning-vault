@@ -39,14 +39,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Graph Fundamentals** (4 videos)
-- **3. 2. Color Deep Dive** (3 videos)
-- **4. 3. Applied Visual Design** (3 videos)
-- **5. 4. Putting It Together** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Graph Fundamentals]]** (4 videos)
+- **[[#2. Color Deep Dive]]** (3 videos)
+- **[[#3. Applied Visual Design]]** (3 videos)
+- **[[#4. Putting It Together]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing dashboards and data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/designing-dashboards-and-data?u=76281980)
@@ -72,7 +74,9 @@ created: 2026-04-28
 > **Speakers:** - [diane] (1)
 
 
-### 2. 1. Graph Fundamentals
+### 1. Graph Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Displaying the right data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980)
@@ -336,7 +340,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Color Deep Dive
+### 2. Color Deep Dive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Color foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-foundations?u=76281980)
@@ -552,7 +558,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Applied Visual Design
+### 3. Applied Visual Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Layout and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980)
@@ -771,7 +779,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Putting It Together
+### 4. Putting It Together
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conceptualizing a dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/conceptualizing-a-dashboard?u=76281980)
@@ -1067,7 +1077,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/goodbye?u=76281980)

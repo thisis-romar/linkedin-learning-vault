@@ -52,20 +52,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Using Tables and Dynamic Arrays for Data Integrity and Consistency** (3 videos)
-- **3. 2. The World of IF Statements and Conditions** (3 videos)
-- **4. 3. Looking Up, Down, and All Around: Comparing and Combining with Lookups** (8 videos)
-- **5. 4. Formula Tips and Strategies** (10 videos)
-- **6. 5. Mid-Term Challenges** (3 videos)
-- **7. 6. Date and Time Functions** (3 videos)
-- **8. 7. Working with Text and Arrays** (8 videos)
-- **9. 8. Statistical Functions** (4 videos)
-- **10. 9. Math Functions** (3 videos)
-- **11. 10. Wild Cards** (2 videos)
-- **12. 11. New, Handy, and Fun Functions** (3 videos)
-- **13. 12. Final Challenges** (4 videos)
-- **14. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Using Tables and Dynamic Arrays for Data Integrity and Consistency]]** (3 videos)
+- **[[#3. 2. The World of IF Statements and Conditions]]** (3 videos)
+- **[[#4. 3. Looking Up, Down, and All Around: Comparing and Combining with Lookups]]** (8 videos)
+- **[[#5. 4. Formula Tips and Strategies]]** (10 videos)
+- **[[#6. 5. Mid-Term Challenges]]** (3 videos)
+- **[[#7. 6. Date and Time Functions]]** (3 videos)
+- **[[#8. 7. Working with Text and Arrays]]** (8 videos)
+- **[[#9. 8. Statistical Functions]]** (4 videos)
+- **[[#10. 9. Math Functions]]** (3 videos)
+- **[[#11. 10. Wild Cards]]** (2 videos)
+- **[[#12. 11. New, Handy, and Fun Functions]]** (3 videos)
+- **[[#13. 12. Final Challenges]]** (4 videos)
+- **[[#14. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

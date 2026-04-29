@@ -44,14 +44,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Building a High-Performance Culture** (4 videos)
-- **3. 2. Setting Direction for a High-Performance Culture** (3 videos)
-- **4. 3. Communicating the Culture** (3 videos)
-- **5. 4. Organizing to Succeed** (2 videos)
-- **6. 5. Managing Performance** (3 videos)
-- **7. 6. Living the Culture** (3 videos)
-- **8. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Building a High-Performance Culture]]** (4 videos)
+- **[[#3. 2. Setting Direction for a High-Performance Culture]]** (3 videos)
+- **[[#4. 3. Communicating the Culture]]** (3 videos)
+- **[[#5. 4. Organizing to Succeed]]** (2 videos)
+- **[[#6. 5. Managing Performance]]** (3 videos)
+- **[[#7. 6. Living the Culture]]** (3 videos)
+- **[[#8. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

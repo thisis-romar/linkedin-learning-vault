@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Cloud Native Computing Foundation** (2 videos)
-- **3. 2. Management and Orchestration** (3 videos)
-- **4. 3. Networking and Runtime** (2 videos)
-- **5. 4. Application Observability, Analysis, and Security** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Cloud Native Computing Foundation]]** (2 videos)
+- **[[#3. 2. Management and Orchestration]]** (3 videos)
+- **[[#4. 3. Networking and Runtime]]** (2 videos)
+- **[[#5. 4. Application Observability, Analysis, and Security]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

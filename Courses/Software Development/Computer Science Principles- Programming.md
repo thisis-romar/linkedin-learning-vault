@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Control Computers with Code** (2 videos)
-- **3. 2. Define Actions Using Code** (7 videos)
-- **4. 3. Repeat Actions and Test for Conditions** (9 videos)
-- **5. 4. Objects and OOP** (6 videos)
-- **6. 5. Beyond Programming** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Control Computers with Code]]** (2 videos)
+- **[[#3. 2. Define Actions Using Code]]** (7 videos)
+- **[[#4. 3. Repeat Actions and Test for Conditions]]** (9 videos)
+- **[[#5. 4. Objects and OOP]]** (6 videos)
+- **[[#6. 5. Beyond Programming]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

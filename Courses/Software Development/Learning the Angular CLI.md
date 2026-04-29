@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Exploring the Angular CLI** (3 videos)
-- **3. 2. Updating Angular Versions** (3 videos)
-- **4. 3. Creating New Angular Projects** (6 videos)
-- **5. 4. Serving Angular Applications for Development** (2 videos)
-- **6. 5. Generating Angular Application Code** (9 videos)
-- **7. 6. Building Angular Applications** (5 videos)
-- **8. 7. Running Tests** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Exploring the Angular CLI]]** (3 videos)
+- **[[#2. Updating Angular Versions]]** (3 videos)
+- **[[#3. Creating New Angular Projects]]** (6 videos)
+- **[[#4. Serving Angular Applications for Development]]** (2 videos)
+- **[[#5. Generating Angular Application Code]]** (9 videos)
+- **[[#6. Building Angular Applications]]** (5 videos)
+- **[[#7. Running Tests]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Maximize productivity with Angular CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980)
@@ -166,7 +168,9 @@ created: 2026-04-28
 > **Non-Speech:** (keyboard typing) (1)
 
 
-### 2. 1. Exploring the Angular CLI
+### 1. Exploring the Angular CLI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the Angular CLI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980)
@@ -290,7 +294,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Updating Angular Versions
+### 2. Updating Angular Versions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the Angular Update Guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980)
@@ -539,7 +545,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Creating New Angular Projects
+### 3. Creating New Angular Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The ng new command
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980)
@@ -959,7 +967,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 5. 4. Serving Angular Applications for Development
+### 4. Serving Angular Applications for Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The ng serve command
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980)
@@ -1082,7 +1092,9 @@ created: 2026-04-28
 > **Versions:** 127.0.0 (1)
 
 
-### 6. 5. Generating Angular Application Code
+### 5. Generating Angular Application Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating new code with schematics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980)
@@ -1397,7 +1409,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Building Angular Applications
+### 6. Building Angular Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A build pipeline for an Angular app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980)
@@ -1605,7 +1619,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 8. 7. Running Tests
+### 7. Running Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Built-in test runner
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980)
@@ -1798,7 +1814,9 @@ created: 2026-04-28
 > **File Paths:** karma.conf.js (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980)

@@ -54,16 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Pathfinding Algorithms in a Maze Game** (2 videos)
-- **3. 2. The Stack Data Structure** (3 videos)
-- **4. 3. The 2D List Data Structure** (5 videos)
-- **5. 4. Depth-First Search Algorithm** (6 videos)
-- **6. 5. The Queue Data Structure** (3 videos)
-- **7. 6. The Breadth-First Search Algorithm** (5 videos)
-- **8. 7. The Priority Queue Data Structure** (3 videos)
-- **9. 8. The A* Search Algorithm** (5 videos)
-- **10. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Pathfinding Algorithms in a Maze Game]]** (2 videos)
+- **[[#3. 2. The Stack Data Structure]]** (3 videos)
+- **[[#4. 3. The 2D List Data Structure]]** (5 videos)
+- **[[#5. 4. Depth-First Search Algorithm]]** (6 videos)
+- **[[#6. 5. The Queue Data Structure]]** (3 videos)
+- **[[#7. 6. The Breadth-First Search Algorithm]]** (5 videos)
+- **[[#8. 7. The Priority Queue Data Structure]]** (3 videos)
+- **[[#9. 8. The A* Search Algorithm]]** (5 videos)
+- **[[#10. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

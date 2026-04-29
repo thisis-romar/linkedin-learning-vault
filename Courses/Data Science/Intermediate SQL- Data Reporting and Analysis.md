@@ -52,13 +52,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Prepare to Code in SQL** (3 videos)
-- **3. 2. Reporting Data with SQL** (9 videos)
-- **4. 3. Editing Data** (7 videos)
-- **5. 4. Inserting Data** (6 videos)
-- **6. 5. Deleting Data** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Prepare to Code in SQL]]** (3 videos)
+- **[[#3. 2. Reporting Data with SQL]]** (9 videos)
+- **[[#4. 3. Editing Data]]** (7 videos)
+- **[[#5. 4. Inserting Data]]** (6 videos)
+- **[[#6. 5. Deleting Data]]** (6 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

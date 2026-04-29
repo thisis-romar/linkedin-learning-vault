@@ -61,21 +61,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Malware and Ransomware** (2 videos)
-- **3. 2. Phishing and Smishing** (2 videos)
-- **4. 3. Business Email Compromise** (2 videos)
-- **5. 4. Botnets and DDoS attacks** (2 videos)
-- **6. 5. Zero-Day Attacks** (2 videos)
-- **7. 6. AI-Based cyberattacks** (2 videos)
-- **8. 7. Advanced Persistent Threats (APTs)** (2 videos)
-- **9. 8. Insider Threats** (2 videos)
-- **10. 9. Unmanaged IoT Devices** (2 videos)
-- **11. 10. Shadow IT** (2 videos)
-- **12. 11. Supply Chain Attacks and Third-Party Risks** (2 videos)
-- **13. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Malware and Ransomware]]** (2 videos)
+- **[[#2. Phishing and Smishing]]** (2 videos)
+- **[[#3. Business Email Compromise]]** (2 videos)
+- **[[#4. Botnets and DDoS attacks]]** (2 videos)
+- **[[#5. Zero-Day Attacks]]** (2 videos)
+- **[[#6. AI-Based cyberattacks]]** (2 videos)
+- **[[#7. Advanced Persistent Threats (APTs)]]** (2 videos)
+- **[[#8. Insider Threats]]** (2 videos)
+- **[[#9. Unmanaged IoT Devices]]** (2 videos)
+- **[[#10. Shadow IT]]** (2 videos)
+- **[[#11. Supply Chain Attacks and Third-Party Risks]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Examine the cybersecurity threat landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [marc] (1)
 
 
-### 2. 1. Malware and Ransomware
+### 1. Malware and Ransomware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the threat of malware and ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980)
@@ -258,7 +262,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Phishing and Smishing
+### 2. Phishing and Smishing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the threat of phishing and smishing
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980)
@@ -419,7 +425,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Business Email Compromise
+### 3. Business Email Compromise
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the threat of business email compromise
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980)
@@ -550,7 +558,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Botnets and DDoS attacks
+### 4. Botnets and DDoS attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the threat of botnets and DDoS attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980)
@@ -680,7 +690,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Zero-Day Attacks
+### 5. Zero-Day Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring the threat of zero-day attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980)
@@ -791,7 +803,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 7. 6. AI-Based cyberattacks
+### 6. AI-Based cyberattacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring the threat of AI-based cyberattacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-ai-based-cyberattacks?u=76281980)
@@ -881,7 +895,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Advanced Persistent Threats (APTs)
+### 7. Advanced Persistent Threats (APTs)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring the threat of advanced persistent threats (APTs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980)
@@ -997,7 +1013,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Insider Threats
+### 8. Insider Threats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the risk of insider threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980)
@@ -1131,7 +1149,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Unmanaged IoT Devices
+### 9. Unmanaged IoT Devices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the threat of unmanaged IoT devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980)
@@ -1265,7 +1285,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Shadow IT
+### 10. Shadow IT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the threat of shadow IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980)
@@ -1399,7 +1421,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. 11. Supply Chain Attacks and Third-Party Risks
+### 11. Supply Chain Attacks and Third-Party Risks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The threat of supply chain attacks and third-party risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980)
@@ -1554,7 +1578,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stay up to date on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980)

@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Find Your Data Framework** (3 videos)
-- **3. 2. Select Data Stewards** (4 videos)
-- **4. 3. Build Your Data Governance Council** (4 videos)
-- **5. 4. Tackle Your First Data Governance Tasks** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Find Your Data Framework]]** (3 videos)
+- **[[#3. 2. Select Data Stewards]]** (4 videos)
+- **[[#4. 3. Build Your Data Governance Council]]** (4 videos)
+- **[[#5. 4. Tackle Your First Data Governance Tasks]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

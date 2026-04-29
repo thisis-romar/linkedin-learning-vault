@@ -42,12 +42,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Network Basics** (9 videos)
-- **3. 2. Network Concepts and Components** (9 videos)
-- **4. 3. Network Cabling** (4 videos)
-- **5. 4. Cisco Router and Catalyst Switch Configuration** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Network Basics]]** (9 videos)
+- **[[#3. 2. Network Concepts and Components]]** (9 videos)
+- **[[#4. 3. Network Cabling]]** (4 videos)
+- **[[#5. 4. Cisco Router and Catalyst Switch Configuration]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

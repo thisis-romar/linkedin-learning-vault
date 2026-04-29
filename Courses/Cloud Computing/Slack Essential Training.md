@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Get Started with Slack** (5 videos)
-- **3. 2. Work with Messages** (9 videos)
-- **4. 3. Work with Channels** (3 videos)
-- **5. 4. Add Apps to Slack** (3 videos)
-- **6. 5. Search and Preferences** (3 videos)
-- **7. 6. Create a New Workspace** (1 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Get Started with Slack]]** (5 videos)
+- **[[#3. 2. Work with Messages]]** (9 videos)
+- **[[#4. 3. Work with Channels]]** (3 videos)
+- **[[#5. 4. Add Apps to Slack]]** (3 videos)
+- **[[#6. 5. Search and Preferences]]** (3 videos)
+- **[[#7. 6. Create a New Workspace]]** (1 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

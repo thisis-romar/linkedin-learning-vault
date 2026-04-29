@@ -53,16 +53,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Welcome to the Course** (1 videos)
-- **2. 1. Foundations of LLM Integration** (4 videos)
-- **3. 2. Integrating LLMs into Your Product** (6 videos)
-- **4. 3. Deployment Strategies** (6 videos)
-- **5. 4. Optimizing Performance and Reliability** (4 videos)
-- **6. 5. Production Readiness: Testing, Validation, and Monitoring** (5 videos)
-- **7. 6. User Experience, Ethics, and Governance** (4 videos)
-- **8. Conclusion** (2 videos)
+- **[[#Welcome to the Course]]** (1 videos)
+- **[[#1. Foundations of LLM Integration]]** (4 videos)
+- **[[#2. Integrating LLMs into Your Product]]** (6 videos)
+- **[[#3. Deployment Strategies]]** (6 videos)
+- **[[#4. Optimizing Performance and Reliability]]** (4 videos)
+- **[[#5. Production Readiness: Testing, Validation, and Monitoring]]** (5 videos)
+- **[[#6. User Experience, Ethics, and Governance]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Welcome to the Course
+### Welcome to the Course
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introduction and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/course-introduction-and-prerequisites?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 2. 1. Foundations of LLM Integration
+### 1. Foundations of LLM Integration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What LLMs can (and can't) do in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/what-llms-can-and-can-t-do-in-production?u=76281980)
@@ -446,7 +450,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Integrating LLMs into Your Product
+### 2. Integrating LLMs into Your Product
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing your LLM provider: Navigating the LLM landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/choosing-your-llm-provider-navigating-the-llm-landscape?u=76281980)
@@ -936,7 +942,9 @@ created: 2026-04-28
 > **Warnings:** common mistake (1)
 
 
-### 4. 3. Deployment Strategies
+### 3. Deployment Strategies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding deployment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/understanding-deployment-options?u=76281980)
@@ -1462,7 +1470,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Optimizing Performance and Reliability
+### 4. Optimizing Performance and Reliability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fine-tuning overview: Tailoring LLMs to specific needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/fine-tuning-overview-tailoring-llms-to-specific-needs?u=76281980)
@@ -1846,7 +1856,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Production Readiness: Testing, Validation, and Monitoring
+### 5. Production Readiness: Testing, Validation, and Monitoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Validating and sanitizing LLM inputs and outputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/validating-and-sanitizing-llm-inputs-and-outputs?u=76281980)
@@ -2297,7 +2309,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. User Experience, Ethics, and Governance
+### 6. User Experience, Ethics, and Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Graceful degradation and transparent communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/graceful-degradation-and-transparent-communication?u=76281980)
@@ -2709,7 +2723,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LLMs for business growth: Revisiting the potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/llms-for-business-growth-revisiting-the-potential?u=76281980)

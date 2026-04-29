@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Graphic Design Projects** (6 videos)
-- **3. 2. Learning about Type and Typography** (7 videos)
-- **4. 3. Layout and Composition** (6 videos)
-- **5. 4. Color** (7 videos)
-- **6. 5. Imagery** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Graphic Design Projects]]** (6 videos)
+- **[[#2. Learning about Type and Typography]]** (7 videos)
+- **[[#3. Layout and Composition]]** (6 videos)
+- **[[#4. Color]]** (7 videos)
+- **[[#5. Imagery]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. Graphic Design Projects
+### 1. Graphic Design Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The creative process
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980)
@@ -270,7 +274,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 3. 2. Learning about Type and Typography
+### 2. Learning about Type and Typography
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Font vs. type
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980)
@@ -757,7 +763,9 @@ created: 2026-04-28
 > **[0:25](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-quote-poster?u=76281980&t=25)** Have fun.
 
 
-### 4. 3. Layout and Composition
+### 3. Layout and Composition
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Principles of layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980)
@@ -1013,7 +1021,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 5. 4. Color
+### 4. Color
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Color
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980)
@@ -1283,7 +1293,9 @@ created: 2026-04-28
 > **CLI Commands:** make (4)
 
 
-### 6. 5. Imagery
+### 5. Imagery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Photo vs. illustration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980)
@@ -1428,7 +1440,9 @@ created: 2026-04-28
 > **[0:26](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/challenge-the-art-of-cropping?u=76281980&t=26)** It's a good thing to do and something you will probably never stop doing although the card is like training wheels and once your eye gets accustomed to it you kind of don't need the card anymore.
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980)

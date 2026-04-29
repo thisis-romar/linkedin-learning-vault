@@ -40,15 +40,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Accessibility** (6 videos)
-- **3. 2. Making Websites Work for People with Vision Impairments** (8 videos)
-- **4. 3. Making Websites Work for D/deaf People** (3 videos)
-- **5. 4. Making Websites Work for Neurodiverse People** (5 videos)
-- **6. 5. Ensuring People Can Use Your Website Regardless of Mobility Status** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Accessibility]]** (6 videos)
+- **[[#2. Making Websites Work for People with Vision Impairments]]** (8 videos)
+- **[[#3. Making Websites Work for D/deaf People]]** (3 videos)
+- **[[#4. Making Websites Work for Neurodiverse People]]** (5 videos)
+- **[[#5. Ensuring People Can Use Your Website Regardless of Mobility Status]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Gain a new perspective on accessibility in your designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/gain-a-new-perspective-on-accessibility-in-your-designs?u=76281980)
@@ -104,7 +106,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Accessibility
+### 1. Introduction to Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why should you prioritize accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/why-should-you-prioritize-accessibility?u=76281980)
@@ -527,7 +531,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Making Websites Work for People with Vision Impairments
+### 2. Making Websites Work for People with Vision Impairments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How vision impairments affect access
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980)
@@ -1377,7 +1383,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Making Websites Work for D/deaf People
+### 3. Making Websites Work for D/deaf People
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is D/deafness?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980)
@@ -1627,7 +1635,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Making Websites Work for Neurodiverse People
+### 4. Making Websites Work for Neurodiverse People
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making websites understandable
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980)
@@ -2140,7 +2150,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Ensuring People Can Use Your Website Regardless of Mobility Status
+### 5. Ensuring People Can Use Your Website Regardless of Mobility Status
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making websites operable
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-operable?u=76281980)
@@ -2618,7 +2630,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary of course and exercises
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/summary-of-course-and-exercises?u=76281980)

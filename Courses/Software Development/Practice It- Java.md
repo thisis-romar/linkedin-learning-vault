@@ -45,11 +45,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Variables** (5 videos)
-- **3. 2. Classes and Objects** (7 videos)
-- **4. 3. Control Flow** (7 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Variables]]** (5 videos)
+- **[[#3. 2. Classes and Objects]]** (7 videos)
+- **[[#4. 3. Control Flow]]** (7 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

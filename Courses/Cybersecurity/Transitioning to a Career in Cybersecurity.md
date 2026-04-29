@@ -58,16 +58,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (7 videos)
-- **3. 2. Transitioning from an IT Career** (5 videos)
-- **4. 3. Transitioning from a Non-IT Career** (2 videos)
-- **5. 4. Job Search Essentials** (3 videos)
-- **6. 5. Increasing Your Chances of Success** (7 videos)
-- **7. 6. Practical Skills and Real-World Insights** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (7 videos)
+- **[[#2. Transitioning from an IT Career]]** (5 videos)
+- **[[#3. Transitioning from a Non-IT Career]]** (2 videos)
+- **[[#4. Job Search Essentials]]** (3 videos)
+- **[[#5. Increasing Your Chances of Success]]** (7 videos)
+- **[[#6. Practical Skills and Real-World Insights]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making the transition to a career in cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/making-the-transition-to-a-career-in-cybersecurity?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Speakers:** - cybersecurity (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leverage your current advantages
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980)
@@ -587,7 +591,9 @@ created: 2026-04-28
 > **Speakers:** - staying (1)
 
 
-### 3. 2. Transitioning from an IT Career
+### 2. Transitioning from an IT Career
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assessing IT skills gaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980)
@@ -907,7 +913,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Transitioning from a Non-IT Career
+### 3. Transitioning from a Non-IT Career
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Studying IT basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980)
@@ -1031,7 +1039,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Job Search Essentials
+### 4. Job Search Essentials
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Revising your resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980)
@@ -1232,7 +1242,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Increasing Your Chances of Success
+### 5. Increasing Your Chances of Success
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Personal development and goal-setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980)
@@ -1664,7 +1676,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. Practical Skills and Real-World Insights
+### 6. Practical Skills and Real-World Insights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hands-on tools and labs
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980)
@@ -1929,7 +1943,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your career transition action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980)

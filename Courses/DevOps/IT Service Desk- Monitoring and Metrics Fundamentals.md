@@ -45,12 +45,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Collecting Valid Service Management Data Points** (5 videos)
-- **3. 2. Why Monitor Service Management Performance?** (3 videos)
-- **4. 3. Determining Which Metrics to Monitor** (4 videos)
-- **5. 4. Exploring Tools and Reporting** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Collecting Valid Service Management Data Points]]** (5 videos)
+- **[[#3. 2. Why Monitor Service Management Performance?]]** (3 videos)
+- **[[#4. 3. Determining Which Metrics to Monitor]]** (4 videos)
+- **[[#5. 4. Exploring Tools and Reporting]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

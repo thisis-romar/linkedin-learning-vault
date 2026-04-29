@@ -53,12 +53,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Databases in Python** (4 videos)
-- **3. 2. Using SQLite in Python** (11 videos)
-- **4. 3. Using MySQL in Python** (13 videos)
-- **5. 4. Using PostgreSQL in Python** (11 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to Databases in Python]]** (4 videos)
+- **[[#3. 2. Using SQLite in Python]]** (11 videos)
+- **[[#4. 3. Using MySQL in Python]]** (13 videos)
+- **[[#5. 4. Using PostgreSQL in Python]]** (11 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

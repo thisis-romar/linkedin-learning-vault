@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. First Steps with Terraform** (4 videos)
-- **3. 2. Terraform in Action** (6 videos)
-- **4. 3. Infrastructure as Code** (7 videos)
-- **5. 4. Advanced Topics** (8 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. First Steps with Terraform]]** (4 videos)
+- **[[#3. 2. Terraform in Action]]** (6 videos)
+- **[[#4. 3. Infrastructure as Code]]** (7 videos)
+- **[[#5. 4. Advanced Topics]]** (8 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

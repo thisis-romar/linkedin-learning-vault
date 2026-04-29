@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Mobile Technology** (4 videos)
-- **3. 2. Android** (12 videos)
-- **4. 3. iOS** (8 videos)
-- **5. 4. Security Shepherd** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Mobile Technology]]** (4 videos)
+- **[[#2. Android]]** (12 videos)
+- **[[#3. iOS]]** (8 videos)
+- **[[#4. Security Shepherd]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keeping your mobile devices safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/keeping-your-mobile-devices-safe?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Mobile Technology
+### 1. Mobile Technology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand and test for mobile vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980)
@@ -434,7 +438,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Android
+### 2. Android
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the Android operating system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980)
@@ -1602,7 +1608,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. iOS
+### 3. iOS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### iOS applications and vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980)
@@ -2570,7 +2578,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (2)
 
 
-### 5. 4. Security Shepherd
+### 4. Security Shepherd
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking a look at Security Shepherd
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980)
@@ -2768,7 +2778,9 @@ created: 2026-04-28
 > **Definitions:** is called (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980)

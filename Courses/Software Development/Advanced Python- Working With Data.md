@@ -53,12 +53,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Built-In Data Functions** (7 videos)
-- **3. 2. Collection Classes** (6 videos)
-- **4. 3. Serializing Data in Python** (6 videos)
-- **5. 4. Python Logging** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Built-In Data Functions]]** (7 videos)
+- **[[#3. 2. Collection Classes]]** (6 videos)
+- **[[#4. 3. Serializing Data in Python]]** (6 videos)
+- **[[#5. 4. Python Logging]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

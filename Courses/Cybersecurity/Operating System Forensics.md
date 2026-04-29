@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Operating Systems and Digital Forensics** (7 videos)
-- **3. 2. File System Types** (7 videos)
-- **4. 3. File Recovery** (7 videos)
-- **5. 4. Live Acquisition** (9 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Operating Systems and Digital Forensics]]** (7 videos)
+- **[[#2. File System Types]]** (7 videos)
+- **[[#3. File Recovery]]** (7 videos)
+- **[[#4. Live Acquisition]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Operating system forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. Operating Systems and Digital Forensics
+### 1. Operating Systems and Digital Forensics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to OSs and digital forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980)
@@ -492,7 +496,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. File System Types
+### 2. File System Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to file system types
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980)
@@ -939,7 +945,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. File Recovery
+### 3. File Recovery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to file recovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980)
@@ -1568,7 +1576,9 @@ created: 2026-04-28
 > **UI Navigation:** switch to (1)
 
 
-### 5. 4. Live Acquisition
+### 4. Live Acquisition
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to live acquisition
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379529?u=76281980)
@@ -2057,7 +2067,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980)

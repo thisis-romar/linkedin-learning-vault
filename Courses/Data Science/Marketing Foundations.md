@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Building Blocks of Your Marketing Strategy** (5 videos)
-- **3. 2. Developing a Value Proposition for Your Brand** (5 videos)
-- **4. 3. Creating the Customer-Brand Experience** (5 videos)
-- **5. 4. Creating the Marketing Plan and Learning from Your Work** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Building Blocks of Your Marketing Strategy]]** (5 videos)
+- **[[#3. 2. Developing a Value Proposition for Your Brand]]** (5 videos)
+- **[[#4. 3. Creating the Customer-Brand Experience]]** (5 videos)
+- **[[#5. 4. Creating the Marketing Plan and Learning from Your Work]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

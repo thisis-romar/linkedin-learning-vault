@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Learn CSS calc()** (4 videos)
-- **3. 2. Learn CSS Custom Properties** (7 videos)
-- **4. 3. Create Layouts** (8 videos)
-- **5. 4. Refactor a Web Page** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Learn CSS calc()]]** (4 videos)
+- **[[#2. Learn CSS Custom Properties]]** (7 videos)
+- **[[#3. Create Layouts]]** (8 videos)
+- **[[#4. Refactor a Web Page]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The evolution of responsive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/the-evolution-of-responsive-design-25743926?u=76281980)
@@ -129,7 +131,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Learn CSS calc()
+### 1. Learn CSS calc()
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CSS calc() overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-calc-overview?u=76281980)
@@ -422,7 +426,9 @@ created: 2026-04-28
 > **Non-Speech:** (exciting music) (1)
 
 
-### 3. 2. Learn CSS Custom Properties
+### 2. Learn CSS Custom Properties
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CSS custom properties overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980)
@@ -896,7 +902,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Create Layouts
+### 3. Create Layouts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mark up a simple four-column grid system
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980)
@@ -1871,7 +1879,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Refactor a Web Page
+### 4. Refactor a Web Page
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Project: Use calc() and custom properties
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980)
@@ -2467,7 +2477,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/next-steps-25743925?u=76281980)

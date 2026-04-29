@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Leading Practices** (10 videos)
-- **3. 2. Security Documentation** (7 videos)
-- **4. 3. Source Code Security Reviews** (9 videos)
-- **5. 4. Static Testing for the OWASP Top 10 (2021)** (11 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Leading Practices]]** (10 videos)
+- **[[#2. Security Documentation]]** (7 videos)
+- **[[#3. Source Code Security Reviews]]** (9 videos)
+- **[[#4. Static Testing for the OWASP Top 10 (2021)]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of static testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-importance-of-static-testing?u=76281980)
@@ -133,7 +135,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Leading Practices
+### 1. Leading Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security in the SDLC
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980)
@@ -955,7 +959,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Security Documentation
+### 2. Security Documentation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Internal project plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980)
@@ -1660,7 +1666,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Source Code Security Reviews
+### 3. Source Code Security Reviews
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenges of assessing source code
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980)
@@ -2592,7 +2600,9 @@ created: 2026-04-28
 > **File Paths:** users.xml (1)
 
 
-### 5. 4. Static Testing for the OWASP Top 10 (2021)
+### 4. Static Testing for the OWASP Top 10 (2021)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980)
@@ -3788,7 +3798,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Static application security testing next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980)

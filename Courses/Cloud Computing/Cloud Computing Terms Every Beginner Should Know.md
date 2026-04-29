@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Foundational Cloud Concepts** (3 videos)
-- **3. 2. Cloud Technologies and Architectures** (3 videos)
-- **4. 3. Benefits of the Cloud** (3 videos)
-- **5. 4. Cloud Deployment** (3 videos)
-- **6. 5. Cloud Computing Future Trends** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Foundational Cloud Concepts]]** (3 videos)
+- **[[#2. Cloud Technologies and Architectures]]** (3 videos)
+- **[[#3. Benefits of the Cloud]]** (3 videos)
+- **[[#4. Cloud Deployment]]** (3 videos)
+- **[[#5. Cloud Computing Future Trends]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to cloud terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/introduction-to-cloud-terminology?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Env Vars:** aws (1)
 
 
-### 2. 1. Foundational Cloud Concepts
+### 1. Foundational Cloud Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is cloud computing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/what-is-cloud-computing?u=76281980)
@@ -315,7 +319,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 3. 2. Cloud Technologies and Architectures
+### 2. Cloud Technologies and Architectures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/virtualization?u=76281980)
@@ -538,7 +544,9 @@ created: 2026-04-28
 > **Analogies:** picture (1)
 
 
-### 4. 3. Benefits of the Cloud
+### 3. Benefits of the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scalability
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/scalability?u=76281980)
@@ -697,7 +705,9 @@ created: 2026-04-28
 > **Cross-References:** next chapter (1)
 
 
-### 5. 4. Cloud Deployment
+### 4. Cloud Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/migration?u=76281980)
@@ -860,7 +870,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 6. 5. Cloud Computing Future Trends
+### 5. Cloud Computing Future Trends
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Serverless computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/serverless-computing?u=76281980)
@@ -1022,7 +1034,9 @@ created: 2026-04-28
 > **Definitions:** refers to (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-terms-every-beginner-should-know/next-steps?u=76281980)

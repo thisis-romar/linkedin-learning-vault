@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Extreme Programming (XP)** (4 videos)
-- **3. 2. Feedback Loops** (7 videos)
-- **4. 3. Continuous Process** (4 videos)
-- **5. 4. The Extreme Programming (XP) Mindset** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Extreme Programming (XP)]]** (4 videos)
+- **[[#2. Feedback Loops]]** (7 videos)
+- **[[#3. Continuous Process]]** (4 videos)
+- **[[#4. The Extreme Programming (XP) Mindset]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be more productive, with higher quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - agility (1)
 
 
-### 2. 1. Extreme Programming (XP)
+### 1. Extreme Programming (XP)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### History of extreme programming (XP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980)
@@ -447,7 +451,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Feedback Loops
+### 2. Feedback Loops
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Feedback scales
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980)
@@ -1185,7 +1191,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Continuous Process
+### 3. Continuous Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### If it's good, do it all the time
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980)
@@ -1675,7 +1683,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. The Extreme Programming (XP) Mindset
+### 4. The Extreme Programming (XP) Mindset
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Programmer welfare and sustainable pace
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980)
@@ -2018,7 +2028,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980)

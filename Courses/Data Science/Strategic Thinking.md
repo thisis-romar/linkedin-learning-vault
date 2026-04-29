@@ -55,13 +55,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Setting the Stage for Strategic Thinking** (4 videos)
-- **3. 2. Developing Your Strategic Thinking** (4 videos)
-- **4. 3. Implementing Strategic Thinking** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Setting the Stage for Strategic Thinking]]** (4 videos)
+- **[[#2. Developing Your Strategic Thinking]]** (4 videos)
+- **[[#3. Implementing Strategic Thinking]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/welcome-strategic-thinking?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 2. 1. Setting the Stage for Strategic Thinking
+### 1. Setting the Stage for Strategic Thinking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Embrace the strategic thinking mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980)
@@ -427,7 +431,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 3. 2. Developing Your Strategic Thinking
+### 2. Developing Your Strategic Thinking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Consider the future and learn from the past
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/consider-the-future-and-learn-from-the-past-29714002?u=76281980)
@@ -702,7 +708,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Implementing Strategic Thinking
+### 3. Implementing Strategic Thinking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategic thinking with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980)
@@ -1005,7 +1013,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make strategic thinking a habit
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980)

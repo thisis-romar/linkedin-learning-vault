@@ -53,16 +53,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Building a Weather App with AI Power** (3 videos)
-- **3. 2. The Core App** (4 videos)
-- **4. 3. Connecting to the OpenAI API** (4 videos)
-- **5. 4. Using AI as a Human-to-Machine Translator** (4 videos)
-- **6. 5. Integrating AI into the Weather App** (6 videos)
-- **7. 6. Creating Rich AI Outputs** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Building a Weather App with AI Power]]** (3 videos)
+- **[[#2. The Core App]]** (4 videos)
+- **[[#3. Connecting to the OpenAI API]]** (4 videos)
+- **[[#4. Using AI as a Human-to-Machine Translator]]** (4 videos)
+- **[[#5. Integrating AI into the Weather App]]** (6 videos)
+- **[[#6. Creating Rich AI Outputs]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build a JavaScript AI app with React and the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980)
@@ -244,7 +246,9 @@ created: 2026-04-28
 > **Prerequisites:** getting started (1)
 
 
-### 2. 1. Building a Weather App with AI Power
+### 1. Building a Weather App with AI Power
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Beyond ChatGPT: What AI can do for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980)
@@ -548,7 +552,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Core App
+### 2. The Core App
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sidebar: Build a React app using Vite and GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980)
@@ -984,7 +990,9 @@ created: 2026-04-28
 > **Tools:** terminal (1)
 
 
-### 4. 3. Connecting to the OpenAI API
+### 3. Connecting to the OpenAI API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the OpenAI API, and how does it relate to ChatGPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980)
@@ -1431,7 +1439,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 5. 4. Using AI as a Human-to-Machine Translator
+### 4. Using AI as a Human-to-Machine Translator
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a location string from a prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980)
@@ -1751,7 +1761,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Integrating AI into the Weather App
+### 5. Integrating AI into the Weather App
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sequence API calls in an app
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sequence-api-calls-in-an-app?u=76281980)
@@ -2402,7 +2414,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Creating Rich AI Outputs
+### 6. Creating Rich AI Outputs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompt engineering for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980)
@@ -2869,7 +2883,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Go further
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980)

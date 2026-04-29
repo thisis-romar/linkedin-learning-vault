@@ -53,17 +53,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. CSS Grid: Core Concepts** (9 videos)
-- **3. 2. Planning for Grid Layouts** (5 videos)
-- **4. 3. Multi-Column Layout** (7 videos)
-- **5. 4. Full-Bleed Layout** (4 videos)
-- **6. 5. A Very Uniform Card Layout** (4 videos)
-- **7. 6. A Variable Card Layout** (7 videos)
-- **8. 7. Asymmetrical or Broken Layout** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. CSS Grid: Core Concepts]]** (9 videos)
+- **[[#2. Planning for Grid Layouts]]** (5 videos)
+- **[[#3. Multi-Column Layout]]** (7 videos)
+- **[[#4. Full-Bleed Layout]]** (4 videos)
+- **[[#5. A Very Uniform Card Layout]]** (4 videos)
+- **[[#6. A Variable Card Layout]]** (7 videos)
+- **[[#7. Asymmetrical or Broken Layout]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to CSS Grid
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980)
@@ -184,7 +186,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. CSS Grid: Core Concepts
+### 1. CSS Grid: Core Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is CSS Grid?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980)
@@ -1099,7 +1103,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Planning for Grid Layouts
+### 2. Planning for Grid Layouts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to use Grid?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/when-to-use-grid?u=76281980)
@@ -1343,7 +1349,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Multi-Column Layout
+### 3. Multi-Column Layout
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What you're creating: A multi-column layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-multi-column-layout?u=76281980)
@@ -1930,7 +1938,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Full-Bleed Layout
+### 4. Full-Bleed Layout
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What you're creating: A full-bleed layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-full-bleed-layout?u=76281980)
@@ -2240,7 +2250,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. A Very Uniform Card Layout
+### 5. A Very Uniform Card Layout
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What you're creating: A uniform card layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-uniform-card-layout?u=76281980)
@@ -2523,7 +2535,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. A Variable Card Layout
+### 6. A Variable Card Layout
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What you're creating: A variable card layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-variable-card-layout?u=76281980)
@@ -3026,7 +3040,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. 7. Asymmetrical or Broken Layout
+### 7. Asymmetrical or Broken Layout
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What you're creating: An asymmetrical layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-an-asymmetrical-layout?u=76281980)
@@ -3430,7 +3446,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980)

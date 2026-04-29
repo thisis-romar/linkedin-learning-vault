@@ -46,11 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Strategy and Business Management for Project Managers** (1 videos)
-- **3. 2. Aligning Projects with Business Strategy** (8 videos)
-- **4. 3. Recognizing Business Function Priorities** (13 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Strategy and Business Management for Project Managers]]** (1 videos)
+- **[[#3. 2. Aligning Projects with Business Strategy]]** (8 videos)
+- **[[#4. 3. Recognizing Business Function Priorities]]** (13 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

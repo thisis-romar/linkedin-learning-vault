@@ -53,14 +53,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Big Data Applications** (5 videos)
-- **3. 2. Big Data Architecture Principles** (5 videos)
-- **4. 3. Batch Application Architecture Principles** (5 videos)
-- **5. 4. Use Case 1: Audit Trail Data Archive** (6 videos)
-- **6. 5. Use Case 2: Advertising Analytics** (6 videos)
-- **7. 6. Use Case 3: Product Recommendations** (6 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to Big Data Applications]]** (5 videos)
+- **[[#3. 2. Big Data Architecture Principles]]** (5 videos)
+- **[[#4. 3. Batch Application Architecture Principles]]** (5 videos)
+- **[[#5. 4. Use Case 1: Audit Trail Data Archive]]** (6 videos)
+- **[[#6. 5. Use Case 2: Advertising Analytics]]** (6 videos)
+- **[[#7. 6. Use Case 3: Product Recommendations]]** (6 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

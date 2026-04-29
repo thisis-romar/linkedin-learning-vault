@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Internet Basics** (2 videos)
-- **3. 2. Addressing and Routing Information** (7 videos)
-- **4. 3. Web Servers** (5 videos)
-- **5. 4. Encryption** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Internet Basics]]** (2 videos)
+- **[[#2. Addressing and Routing Information]]** (7 videos)
+- **[[#3. Web Servers]]** (5 videos)
+- **[[#4. Encryption]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980)
@@ -133,7 +135,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Internet Basics
+### 1. Internet Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How the Internet was born
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980)
@@ -301,7 +305,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Addressing and Routing Information
+### 2. Addressing and Routing Information
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sending and receiving information
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/sending-and-receiving-information?u=76281980)
@@ -723,7 +729,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 4. 3. Web Servers
+### 3. Web Servers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying a server with URLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/identifying-a-server-with-urls?u=76281980)
@@ -1101,7 +1109,9 @@ created: 2026-04-28
 > **Speakers:** - whenever (1)
 
 
-### 5. 4. Encryption
+### 4. Encryption
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Caesar's cypher and keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980)
@@ -1278,7 +1288,9 @@ created: 2026-04-28
 > **Speakers:** - simple (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/goodbye?u=76281980)

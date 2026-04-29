@@ -56,10 +56,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AIOps Explained** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AIOps Explained]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring AIOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-aiops/exploring-aiops?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - aiops (1)
 
 
-### 2. 1. AIOps Explained
+### 1. AIOps Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AIOps defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-aiops/aiops-defined?u=76281980)

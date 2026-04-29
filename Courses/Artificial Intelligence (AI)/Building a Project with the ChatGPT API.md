@@ -53,17 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding the OpenAI Platform** (3 videos)
-- **3. 2. Exploring the OpenAI API** (8 videos)
-- **4. 3. Setting Up Your Environment** (3 videos)
-- **5. 4. Writing a Prompt for ChatGPT** (4 videos)
-- **6. 5. Constructing a Multi-Turn Conversation with ChatGPT** (3 videos)
-- **7. 6. Generating an Image Using DALL-E** (4 videos)
-- **8. 7. Integrating with the Twitter API** (4 videos)
-- **9. 8. Troubleshooting Errors and Getting Help** (2 videos)
-- **10. 9. Effectively Managing API Costs** (1 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understanding the OpenAI Platform]]** (3 videos)
+- **[[#3. 2. Exploring the OpenAI API]]** (8 videos)
+- **[[#4. 3. Setting Up Your Environment]]** (3 videos)
+- **[[#5. 4. Writing a Prompt for ChatGPT]]** (4 videos)
+- **[[#6. 5. Constructing a Multi-Turn Conversation with ChatGPT]]** (3 videos)
+- **[[#7. 6. Generating an Image Using DALL-E]]** (4 videos)
+- **[[#8. 7. Integrating with the Twitter API]]** (4 videos)
+- **[[#9. 8. Troubleshooting Errors and Getting Help]]** (2 videos)
+- **[[#10. 9. Effectively Managing API Costs]]** (1 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

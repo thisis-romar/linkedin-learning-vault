@@ -43,14 +43,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. PKI Overview** (8 videos)
-- **3. 2. Certificate Authorities** (4 videos)
-- **4. 3. Acquiring Certificates** (5 videos)
-- **5. 4. PKI Certificate Usage** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. PKI Overview]]** (8 videos)
+- **[[#2. Certificate Authorities]]** (4 videos)
+- **[[#3. Acquiring Certificates]]** (5 videos)
+- **[[#4. PKI Certificate Usage]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn to secure your network communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/learn-to-secure-your-network-communications?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. PKI Overview
+### 1. PKI Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980)
@@ -1053,7 +1057,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Certificate Authorities
+### 2. Certificate Authorities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configure a Microsoft AD CS certificate authority
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980)
@@ -1650,7 +1656,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Acquiring Certificates
+### 3. Acquiring Certificates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Acquire a certificate using Microsoft AD CS
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980)
@@ -2609,7 +2617,9 @@ created: 2026-04-28
 > **Tools:** azure portal (1)
 
 
-### 5. 4. PKI Certificate Usage
+### 4. PKI Certificate Usage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configure a Windows website certificate
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980)
@@ -3700,7 +3710,9 @@ created: 2026-04-28
 > **URLs:** [azurewebsites.net](https://azurewebsites.net) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980)

@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Connected Components Software** (6 videos)
-- **3. 2. Factory I/O Software** (3 videos)
-- **4. 3. CCW and Factory I/O First Project: Control Panel** (3 videos)
-- **5. 4. CCW and Factory I/O Conveyor Belt Project** (5 videos)
-- **6. 5. CCW and Factory I/O Filling Tank with Timer Project** (7 videos)
-- **7. 6. Sorting Boxes by Height** (9 videos)
-- **8. 7. Troubleshooting** (1 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Connected Components Software]]** (6 videos)
+- **[[#3. 2. Factory I/O Software]]** (3 videos)
+- **[[#4. 3. CCW and Factory I/O First Project: Control Panel]]** (3 videos)
+- **[[#5. 4. CCW and Factory I/O Conveyor Belt Project]]** (5 videos)
+- **[[#6. 5. CCW and Factory I/O Filling Tank with Timer Project]]** (7 videos)
+- **[[#7. 6. Sorting Boxes by Height]]** (9 videos)
+- **[[#8. 7. Troubleshooting]]** (1 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

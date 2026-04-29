@@ -45,12 +45,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI for Water, Health, and Climate Resilience** (3 videos)
-- **3. 2. Small AI and the Global Goals** (2 videos)
-- **4. 3. AI and City Services in Asia-Pacific** (3 videos)
-- **5. 4. Youth Perspectives on Generative AI** (3 videos)
-- **6. 5. AI and the Global Goals** (3 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. AI for Water, Health, and Climate Resilience]]** (3 videos)
+- **[[#3. 2. Small AI and the Global Goals]]** (2 videos)
+- **[[#4. 3. AI and City Services in Asia-Pacific]]** (3 videos)
+- **[[#5. 4. Youth Perspectives on Generative AI]]** (3 videos)
+- **[[#6. 5. AI and the Global Goals]]** (3 videos)
 
 ### 1. Introduction
 

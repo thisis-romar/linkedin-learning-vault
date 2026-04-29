@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Design Your Slides** (10 videos)
-- **3. 2. Audio and Video** (2 videos)
-- **4. 3. Sharing and Coediting** (4 videos)
-- **5. 4. Viewing and Printing** (7 videos)
-- **6. 5. Uploading and Saving to Cloud Libraries** (3 videos)
-- **7. 6. PowerPoint Help** (2 videos)
-- **8. 7. Working with the Mobile App** (1 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Design Your Slides]]** (10 videos)
+- **[[#2. Audio and Video]]** (2 videos)
+- **[[#3. Sharing and Coediting]]** (4 videos)
+- **[[#4. Viewing and Printing]]** (7 videos)
+- **[[#5. Uploading and Saving to Cloud Libraries]]** (3 videos)
+- **[[#6. PowerPoint Help]]** (2 videos)
+- **[[#7. Working with the Mobile App]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting to know PowerPoint for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980)
@@ -116,7 +118,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Design Your Slides
+### 1. Design Your Slides
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a new presentation in OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980)
@@ -1034,7 +1038,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Audio and Video
+### 2. Audio and Video
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dictate slide content
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980)
@@ -1218,7 +1224,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Sharing and Coediting
+### 3. Sharing and Coediting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Share a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980)
@@ -1516,7 +1524,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Viewing and Printing
+### 4. Viewing and Printing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add and view slide notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980)
@@ -2131,7 +2141,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Uploading and Saving to Cloud Libraries
+### 5. Uploading and Saving to Cloud Libraries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Upload a presentation to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980)
@@ -2339,7 +2351,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. PowerPoint Help
+### 6. PowerPoint Help
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get assistance with Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980)
@@ -2539,7 +2553,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Working with the Mobile App
+### 7. Working with the Mobile App
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Work with the iOS PowerPoint app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-the-ios-powerpoint-app?u=76281980)
@@ -2632,7 +2648,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create more with PowerPoint for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980)

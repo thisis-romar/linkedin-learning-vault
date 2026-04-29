@@ -50,14 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Continuous Wavelet Transform** (1 videos)
-- **3. 2. Discrete Wavelets** (1 videos)
-- **4. 3. Wavelet Filter Bank** (1 videos)
-- **5. 4. Discrete Wavelet Data** (1 videos)
-- **6. 5. Wavelet Best Basis** (1 videos)
-- **7. 6. Wavelet Thresholding** (1 videos)
-- **8. References** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Continuous Wavelet Transform]]** (1 videos)
+- **[[#3. 2. Discrete Wavelets]]** (1 videos)
+- **[[#4. 3. Wavelet Filter Bank]]** (1 videos)
+- **[[#5. 4. Discrete Wavelet Data]]** (1 videos)
+- **[[#6. 5. Wavelet Best Basis]]** (1 videos)
+- **[[#7. 6. Wavelet Thresholding]]** (1 videos)
+- **[[#8. References]]** (1 videos)
 
 ### 1. Introduction
 

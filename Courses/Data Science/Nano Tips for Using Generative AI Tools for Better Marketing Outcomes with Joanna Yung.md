@@ -46,7 +46,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Harness AI for Better Marketing Outcomes** (10 videos)
+- **[[#1. 1. Harness AI for Better Marketing Outcomes]]** (10 videos)
 
 ### 1. 1. Harness AI for Better Marketing Outcomes
 

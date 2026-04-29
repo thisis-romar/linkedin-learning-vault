@@ -47,12 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Approaches to Process Discovery** (5 videos)
-- **3. 2. Automating Business Automation** (7 videos)
-- **4. Conclusion** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Approaches to Process Discovery]]** (5 videos)
+- **[[#2. Automating Business Automation]]** (7 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A leading enterprise technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-leading-enterprise-technology-25742338?u=76281980)
@@ -144,7 +146,9 @@ created: 2026-04-28
 > **Speakers:** - my (1)
 
 
-### 2. 1. Approaches to Process Discovery
+### 1. Approaches to Process Discovery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Laying the groundwork
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980)
@@ -350,7 +354,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Automating Business Automation
+### 2. Automating Business Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting an initial scope for automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/setting-an-initial-scope-for-automation?u=76281980)
@@ -664,7 +670,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat pop music) (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A summary of hurdles
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-summary-of-hurdles?u=76281980)

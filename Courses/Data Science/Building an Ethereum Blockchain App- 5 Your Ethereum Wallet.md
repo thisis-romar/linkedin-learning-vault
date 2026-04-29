@@ -54,7 +54,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Your Ethereum Wallet** (5 videos)
+- **[[#1. 1. Your Ethereum Wallet]]** (5 videos)
 
 ### 1. 1. Your Ethereum Wallet
 

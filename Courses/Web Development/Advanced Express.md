@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Know the Building Blocks and Internals of Express** (3 videos)
-- **3. 2. Use MongoDB and Mongoose to Manage Users** (8 videos)
-- **4. 3. Authenticate and Authorize Users** (11 videos)
-- **5. 4. Handle File Uploads and Process Images** (5 videos)
-- **6. 5. Deployment and Running in Production** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Know the Building Blocks and Internals of Express]]** (3 videos)
+- **[[#2. Use MongoDB and Mongoose to Manage Users]]** (8 videos)
+- **[[#3. Authenticate and Authorize Users]]** (11 videos)
+- **[[#4. Handle File Uploads and Process Images]]** (5 videos)
+- **[[#5. Deployment and Running in Production]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tackle any project with Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980)
@@ -245,7 +247,9 @@ created: 2026-04-28
 > **Ports:** :3000 (1)
 
 
-### 2. 1. Know the Building Blocks and Internals of Express
+### 1. Know the Building Blocks and Internals of Express
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring Express components and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/exploring-express-components-and-apis?u=76281980)
@@ -488,7 +492,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Use MongoDB and Mongoose to Manage Users
+### 2. Use MongoDB and Mongoose to Manage Users
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up a hosted MongoDB server
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980)
@@ -979,7 +985,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Authenticate and Authorize Users
+### 3. Authenticate and Authorize Users
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding cookies and sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980)
@@ -1686,7 +1694,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Handle File Uploads and Process Images
+### 4. Handle File Uploads and Process Images
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### File upload basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/file-upload-basics?u=76281980)
@@ -2116,7 +2126,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (2)
 
 
-### 6. 5. Deployment and Running in Production
+### 5. Deployment and Running in Production
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tuning Express performance: NODE_ENV and compression
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980)
@@ -2632,7 +2644,9 @@ created: 2026-04-28
 > **Ports:** port 3000 (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980)

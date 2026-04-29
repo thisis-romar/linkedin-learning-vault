@@ -57,12 +57,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Generative AI Recruitment Basics** (2 videos)
-- **3. 2. Generative AI in Talent Acquisition** (8 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Generative AI Recruitment Basics]]** (2 videos)
+- **[[#2. Generative AI in Talent Acquisition]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI for recruiting talent
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 2. 1. Generative AI Recruitment Basics
+### 1. Generative AI Recruitment Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI and the future of talent acquisition
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980)
@@ -183,7 +187,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 3. 2. Generative AI in Talent Acquisition
+### 2. Generative AI in Talent Acquisition
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visualizing how generative AI can be used in TA: Use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980)
@@ -657,7 +663,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980)

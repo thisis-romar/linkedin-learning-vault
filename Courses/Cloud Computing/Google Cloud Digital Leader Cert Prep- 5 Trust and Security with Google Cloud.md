@@ -50,11 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Trust and Security in the Cloud** (5 videos)
-- **3. 2. Google’s Trusted Infrastructure** (6 videos)
-- **4. 3. Google Cloud’s Trust Principles and Compliance** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Trust and Security in the Cloud]]** (5 videos)
+- **[[#3. 2. Google’s Trusted Infrastructure]]** (6 videos)
+- **[[#4. 3. Google Cloud’s Trust Principles and Compliance]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

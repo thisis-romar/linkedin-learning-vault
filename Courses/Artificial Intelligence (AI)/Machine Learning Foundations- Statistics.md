@@ -55,14 +55,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Statistics** (3 videos)
-- **3. 2. The Summary Statistics** (8 videos)
-- **4. 3. From Quantiles to Correlation** (6 videos)
-- **5. 4. Random Variables and Probability Distribution** (5 videos)
-- **6. 5. Sampling and Replacement** (3 videos)
-- **7. 6. Linear Regression** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Statistics]]** (3 videos)
+- **[[#3. 2. The Summary Statistics]]** (8 videos)
+- **[[#4. 3. From Quantiles to Correlation]]** (6 videos)
+- **[[#5. 4. Random Variables and Probability Distribution]]** (5 videos)
+- **[[#6. 5. Sampling and Replacement]]** (3 videos)
+- **[[#7. 6. Linear Regression]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

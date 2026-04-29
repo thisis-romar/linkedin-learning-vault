@@ -51,11 +51,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Foundations: AI, Society, and Literacy** (5 videos)
-- **3. 2. Bias, Fairness, and Case Studies** (4 videos)
-- **4. 3. Responsibility, Transparency, and Safety** (5 videos)
-- **5. 4. Information Integrity, Privacy, and Profiling** (7 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Foundations: AI, Society, and Literacy]]** (5 videos)
+- **[[#3. 2. Bias, Fairness, and Case Studies]]** (4 videos)
+- **[[#4. 3. Responsibility, Transparency, and Safety]]** (5 videos)
+- **[[#5. 4. Information Integrity, Privacy, and Profiling]]** (7 videos)
 
 ### 1. Introduction
 

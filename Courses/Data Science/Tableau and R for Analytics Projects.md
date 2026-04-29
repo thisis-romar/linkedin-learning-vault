@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introducing Tableau and R** (5 videos)
-- **3. 2. Preparing for Analysis Using Tableau and R** (5 videos)
-- **4. 3. Creating and Visualizing Linear Regression Models** (5 videos)
-- **5. 4. Classifying Data Using Logistic Regression** (4 videos)
-- **6. 5. Classifying Data Using Support Vector Machines** (4 videos)
-- **7. 6. Grouping Data Using Cluster Analysis** (4 videos)
-- **8. 7. Classifying Data Using Random Forests** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introducing Tableau and R]]** (5 videos)
+- **[[#3. 2. Preparing for Analysis Using Tableau and R]]** (5 videos)
+- **[[#4. 3. Creating and Visualizing Linear Regression Models]]** (5 videos)
+- **[[#5. 4. Classifying Data Using Logistic Regression]]** (4 videos)
+- **[[#6. 5. Classifying Data Using Support Vector Machines]]** (4 videos)
+- **[[#7. 6. Grouping Data Using Cluster Analysis]]** (4 videos)
+- **[[#8. 7. Classifying Data Using Random Forests]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

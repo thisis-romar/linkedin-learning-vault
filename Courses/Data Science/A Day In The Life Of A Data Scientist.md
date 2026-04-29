@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Kickstart the Day with Clarity** (3 videos)
-- **3. 2. Explore and Challenge the Data** (3 videos)
-- **4. 3. Interpret Results with Confidence** (3 videos)
-- **5. 4. Collaborate beyond the Dataset** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Kickstart the Day with Clarity]]** (3 videos)
+- **[[#3. 2. Explore and Challenge the Data]]** (3 videos)
+- **[[#4. 3. Interpret Results with Confidence]]** (3 videos)
+- **[[#5. 4. Collaborate beyond the Dataset]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

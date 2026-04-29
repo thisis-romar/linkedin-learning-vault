@@ -50,10 +50,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Foundations of Responsible AI** (5 videos)
-- **3. 2. Using the Responsible AI Dashboard** (8 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Foundations of Responsible AI]]** (5 videos)
+- **[[#3. 2. Using the Responsible AI Dashboard]]** (8 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

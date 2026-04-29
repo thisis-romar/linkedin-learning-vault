@@ -48,8 +48,8 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Using the OpenAI API** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Using the OpenAI API]]** (1 videos)
 
 ### 1. Introduction
 

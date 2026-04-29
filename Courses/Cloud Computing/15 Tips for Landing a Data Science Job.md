@@ -53,13 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Find Opportunities** (3 videos)
-- **3. 2. Present Your Experience** (4 videos)
-- **4. 3. Build Your Online Presence** (3 videos)
-- **5. 4. Leverage Your Network** (2 videos)
-- **6. 5. Ace Your Interviews** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Find Opportunities]]** (3 videos)
+- **[[#3. 2. Present Your Experience]]** (4 videos)
+- **[[#4. 3. Build Your Online Presence]]** (3 videos)
+- **[[#5. 4. Leverage Your Network]]** (2 videos)
+- **[[#6. 5. Ace Your Interviews]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

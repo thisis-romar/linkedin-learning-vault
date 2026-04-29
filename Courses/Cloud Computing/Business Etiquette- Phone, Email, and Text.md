@@ -33,8 +33,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Business%20Etiquette-%20Phone%2C%20Email%2C%20and%20Text.md)
-
 ![Business Etiquette: Phone, Email, and Text](https://media.licdn.com/dms/image/v2/D4D0DAQEeIR2p0mtCvA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1701901089763?e=2147483647&amp;v=beta&amp;t=V7SCY3k2U3cCIAu5XFpwNdaW0UpfK1gYsnupUHLgVR0)
 
 # Business Etiquette: Phone, Email, and Text
@@ -48,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Etiquette for Business Emails** (5 videos)
-- **3. 2. Etiquette for Business Messaging** (2 videos)
-- **4. 3. Etiquette for Business Phone Calls** (4 videos)
-- **5. 4. Etiquette for Written Business Communication** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Etiquette for Business Emails]]** (5 videos)
+- **[[#2. Etiquette for Business Messaging]]** (2 videos)
+- **[[#3. Etiquette for Business Phone Calls]]** (4 videos)
+- **[[#4. Etiquette for Written Business Communication]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business etiquette for today's workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/business-etiquette-for-today-s-workplace?u=76281980)
@@ -80,7 +80,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 2. 1. Etiquette for Business Emails
+### 1. Etiquette for Business Emails
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Email etiquette: Subjects, salutations, and signatures
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980)
@@ -473,7 +475,9 @@ created: 2026-04-28
 > **Best Practices:** pro tip (1)
 
 
-### 3. 2. Etiquette for Business Messaging
+### 2. Etiquette for Business Messaging
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Messaging etiquette: Texting
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-texting?u=76281980)
@@ -653,7 +657,9 @@ created: 2026-04-28
 > **Tools:** slack (1)
 
 
-### 4. 3. Etiquette for Business Phone Calls
+### 3. Etiquette for Business Phone Calls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding etiquette for phone calls
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980)
@@ -998,7 +1004,9 @@ created: 2026-04-28
 > **Best Practices:** pro tip (1)
 
 
-### 5. 4. Etiquette for Written Business Communication
+### 4. Etiquette for Written Business Communication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Written communication etiquette: Business letter
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-business-letter?u=76281980)
@@ -1268,7 +1276,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Etiquette is all about relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/etiquette-is-all-about-relationships?u=76281980)

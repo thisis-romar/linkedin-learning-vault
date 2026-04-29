@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Business Analysis Communication?** (3 videos)
-- **3. 2. Key Business Analysis Communication Skills** (4 videos)
-- **4. 3. Ways to Visually Communicate in Business Analysis** (4 videos)
-- **5. 4. Tips For Improving Business Analysis Communication** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Business Analysis Communication?]]** (3 videos)
+- **[[#2. Key Business Analysis Communication Skills]]** (4 videos)
+- **[[#3. Ways to Visually Communicate in Business Analysis]]** (4 videos)
+- **[[#4. Tips For Improving Business Analysis Communication]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business analysts are the bridge between stakeholders and IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysts-are-the-bridge-between-stakeholders-and-it?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. What Is Business Analysis Communication?
+### 1. What Is Business Analysis Communication?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business analysis communication defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/business-analysis-communication-defined?u=76281980)
@@ -339,7 +343,9 @@ created: 2026-04-28
 > **Speakers:** - communication (1)
 
 
-### 3. 2. Key Business Analysis Communication Skills
+### 2. Key Business Analysis Communication Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Verbal and nonverbal communication skills in business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/verbal-and-nonverbal-communication-skills-in-business-analysis?u=76281980)
@@ -653,7 +659,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 4. 3. Ways to Visually Communicate in Business Analysis
+### 3. Ways to Visually Communicate in Business Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visually communicate scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/visually-communicate-scope?u=76281980)
@@ -1035,7 +1043,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 5. 4. Tips For Improving Business Analysis Communication
+### 4. Tips For Improving Business Analysis Communication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improving how you write text-based requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/improving-how-you-write-text-based-requirements?u=76281980)
@@ -1300,7 +1310,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making communication a focus in your business analyst development plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-communication/making-communication-a-focus-in-your-business-analyst-development-plan?u=76281980)

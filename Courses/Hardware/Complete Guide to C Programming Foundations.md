@@ -51,18 +51,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. C Programming Fundamentals** (13 videos)
-- **3. 2. Variables and Values** (14 videos)
-- **4. 3. Operators and Math** (14 videos)
-- **5. 4. Decisions and Loops** (15 videos)
-- **6. 5. Functions** (15 videos)
-- **7. 6. Arrays and Structures** (14 videos)
-- **8. 7. Characters and Strings** (13 videos)
-- **9. 8. Pointers** (15 videos)
-- **10. 9. Files and the Operating System** (14 videos)
-- **11. 10. The Interesting and Extraordinary** (7 videos)
-- **12. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. C Programming Fundamentals]]** (13 videos)
+- **[[#3. 2. Variables and Values]]** (14 videos)
+- **[[#4. 3. Operators and Math]]** (14 videos)
+- **[[#5. 4. Decisions and Loops]]** (15 videos)
+- **[[#6. 5. Functions]]** (15 videos)
+- **[[#7. 6. Arrays and Structures]]** (14 videos)
+- **[[#8. 7. Characters and Strings]]** (13 videos)
+- **[[#9. 8. Pointers]]** (15 videos)
+- **[[#10. 9. Files and the Operating System]]** (14 videos)
+- **[[#11. 10. The Interesting and Extraordinary]]** (7 videos)
+- **[[#12. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

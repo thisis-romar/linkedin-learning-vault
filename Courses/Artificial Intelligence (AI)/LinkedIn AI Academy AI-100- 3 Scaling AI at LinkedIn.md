@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Data Representation Applications** (4 videos)
-- **3. 2. Application 1: Building Professional Communities** (4 videos)
-- **4. 3. Application 2: Jobs Marketplace** (4 videos)
-- **5. 4. Industrialization** (3 videos)
-- **6. 5. Building Trusted AI Products Responsibly** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Data Representation Applications]]** (4 videos)
+- **[[#3. 2. Application 1: Building Professional Communities]]** (4 videos)
+- **[[#4. 3. Application 2: Jobs Marketplace]]** (4 videos)
+- **[[#5. 4. Industrialization]]** (3 videos)
+- **[[#6. 5. Building Trusted AI Products Responsibly]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

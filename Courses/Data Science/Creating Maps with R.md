@@ -55,14 +55,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Mapping Fundamentals** (7 videos)
-- **3. 2. Processing GIS Data from Excel** (5 videos)
-- **4. 3. Working with GIS Data Formats** (5 videos)
-- **5. 4. Static Maps with ggplot2** (10 videos)
-- **6. 5. Interactive Maps with Leaflet** (10 videos)
-- **7. 6. CRS, Projections, and Map Tiles** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Mapping Fundamentals]]** (7 videos)
+- **[[#3. 2. Processing GIS Data from Excel]]** (5 videos)
+- **[[#4. 3. Working with GIS Data Formats]]** (5 videos)
+- **[[#5. 4. Static Maps with ggplot2]]** (10 videos)
+- **[[#6. 5. Interactive Maps with Leaflet]]** (10 videos)
+- **[[#7. 6. CRS, Projections, and Map Tiles]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

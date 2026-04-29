@@ -55,20 +55,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Python Data Structures** (5 videos)
-- **3. 2. Project: Finding Anagrams** (4 videos)
-- **4. 3. NumPy** (5 videos)
-- **5. 4. Project: Weather Data** (6 videos)
-- **6. 5. pandas** (5 videos)
-- **7. 6. Project: Baby Names** (5 videos)
-- **8. 7. Importing and Wrangling Data with pandas** (6 videos)
-- **9. 8. Summarizing and Visualizing Data** (5 videos)
-- **10. 9. Introduction to Data Modeling** (6 videos)
-- **11. 10. Project: COVID-19 Data** (4 videos)
-- **12. Conclusion** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Python Data Structures]]** (5 videos)
+- **[[#2. Project: Finding Anagrams]]** (4 videos)
+- **[[#3. NumPy]]** (5 videos)
+- **[[#4. Project: Weather Data]]** (6 videos)
+- **[[#5. pandas]]** (5 videos)
+- **[[#6. Project: Baby Names]]** (5 videos)
+- **[[#7. Importing and Wrangling Data with pandas]]** (6 videos)
+- **[[#8. Summarizing and Visualizing Data]]** (5 videos)
+- **[[#9. Introduction to Data Modeling]]** (6 videos)
+- **[[#10. Project: COVID-19 Data]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From data to insight with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/from-data-to-insight-with-python?u=76281980)
@@ -298,7 +300,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Python Data Structures
+### 1. Python Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Warmup with Python loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/warmup-with-python-loops?u=76281980)
@@ -866,7 +870,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Project: Finding Anagrams
+### 2. Project: Finding Anagrams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Finding anagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-finding-anagrams?u=76281980)
@@ -1132,7 +1138,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. NumPy
+### 3. NumPy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### NumPy overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/numpy-overview?u=76281980)
@@ -1711,7 +1719,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Project: Weather Data
+### 4. Project: Weather Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Analyzing weather
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-analyzing-weather?u=76281980)
@@ -2200,7 +2210,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. pandas
+### 5. pandas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### pandas overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/pandas-overview?u=76281980)
@@ -2726,7 +2738,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Project: Baby Names
+### 6. Project: Baby Names
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Analyzing baby names
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-analyzing-baby-names?u=76281980)
@@ -3058,7 +3072,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Importing and Wrangling Data with pandas
+### 7. Importing and Wrangling Data with pandas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: The structure of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-the-structure-of-data?u=76281980)
@@ -3609,7 +3625,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Summarizing and Visualizing Data
+### 8. Summarizing and Visualizing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Exploring data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-exploring-data?u=76281980)
@@ -4078,7 +4096,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Introduction to Data Modeling
+### 9. Introduction to Data Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Understanding data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-understanding-data?u=76281980)
@@ -4598,7 +4618,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Project: COVID-19 Data
+### 10. Project: COVID-19 Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: COVID-19 data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/overview-covid-19-data?u=76281980)
@@ -4984,7 +5006,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Extending your Python data analysis skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-24296803/extending-your-python-data-analysis-skills?u=76281980)

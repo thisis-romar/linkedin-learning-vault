@@ -45,12 +45,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Welcome to Blockchain Programming in iOS** (2 videos)
-- **2. 1. Understand Blockchain Technology** (6 videos)
-- **3. 2. Implementing the Blockchain Core Engine** (5 videos)
-- **4. 3. Smart Contracts** (2 videos)
-- **5. 4. Implementing Blockchain Web API** (5 videos)
-- **6. 5. Decentralizing Blockchain** (3 videos)
+- **[[#1. Welcome to Blockchain Programming in iOS]]** (2 videos)
+- **[[#2. 1. Understand Blockchain Technology]]** (6 videos)
+- **[[#3. 2. Implementing the Blockchain Core Engine]]** (5 videos)
+- **[[#4. 3. Smart Contracts]]** (2 videos)
+- **[[#5. 4. Implementing Blockchain Web API]]** (5 videos)
+- **[[#6. 5. Decentralizing Blockchain]]** (3 videos)
 
 ### 1. Welcome to Blockchain Programming in iOS
 

@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Validating ML Models and LLMs** (10 videos)
-- **3. 2. Evaluating ML Models and LLMs** (17 videos)
-- **4. 3. Collecting and Using User Feedback in LLMs** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Validating ML Models and LLMs]]** (10 videos)
+- **[[#2. Evaluating ML Models and LLMs]]** (17 videos)
+- **[[#3. Collecting and Using User Feedback in LLMs]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980)
@@ -136,7 +138,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Validating ML Models and LLMs
+### 1. Validating ML Models and LLMs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Validation in the ML workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validation-in-the-ml-workflow?u=76281980)
@@ -964,7 +968,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Evaluating ML Models and LLMs
+### 2. Evaluating ML Models and LLMs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evaluating models using metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-models-using-metrics?u=76281980)
@@ -2219,7 +2225,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 4. 3. Collecting and Using User Feedback in LLMs
+### 3. Collecting and Using User Feedback in LLMs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### User feedback in LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/user-feedback-in-llms?u=76281980)
@@ -2627,7 +2635,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980)

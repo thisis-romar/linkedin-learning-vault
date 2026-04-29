@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started with Excel Online** (6 videos)
-- **3. 2. Collaborating Effectively in Excel Online** (3 videos)
-- **4. 3. Visualizing Data with Charts in Excel Online** (3 videos)
-- **5. 4. Supercharging Your Data with Copilot** (5 videos)
-- **6. 5. Taking Your Excel Skills to the Next Level** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Started with Excel Online]]** (6 videos)
+- **[[#2. Collaborating Effectively in Excel Online]]** (3 videos)
+- **[[#3. Visualizing Data with Charts in Excel Online]]** (3 videos)
+- **[[#4. Supercharging Your Data with Copilot]]** (5 videos)
+- **[[#5. Taking Your Excel Skills to the Next Level]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kickstart your Excel Online journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - [joshua] (1)
 
 
-### 2. 1. Getting Started with Excel Online
+### 1. Getting Started with Excel Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting acquainted with Excel Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980)
@@ -377,7 +381,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 3. 2. Collaborating Effectively in Excel Online
+### 2. Collaborating Effectively in Excel Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sharing your work and collaborating with others
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/sharing-your-work-and-collaborating-with-others?u=76281980)
@@ -523,7 +529,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Visualizing Data with Charts in Excel Online
+### 3. Visualizing Data with Charts in Excel Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What you need to know before creating charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/what-you-need-to-know-before-creating-charts?u=76281980)
@@ -664,7 +672,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Supercharging Your Data with Copilot
+### 4. Supercharging Your Data with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Copilot in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980)
@@ -888,7 +898,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Taking Your Excel Skills to the Next Level
+### 5. Taking Your Excel Skills to the Next Level
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Streamlining your layout with modern grids
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/streamlining-your-layout-with-modern-grids?u=76281980)
@@ -986,7 +998,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting the most out of Excel Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980)

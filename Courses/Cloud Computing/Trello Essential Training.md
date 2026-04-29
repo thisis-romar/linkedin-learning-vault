@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Basic Features of Trello Boards and Cards** (10 videos)
-- **3. 2. More Advanced Features** (8 videos)
-- **4. 3. Essential Trello Power-Ups** (6 videos)
-- **5. 4. Automations and Custom Fields** (6 videos)
-- **6. 5. Getting Things Done Using Trello and Kanban** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. The Basic Features of Trello Boards and Cards]]** (10 videos)
+- **[[#3. 2. More Advanced Features]]** (8 videos)
+- **[[#4. 3. Essential Trello Power-Ups]]** (6 videos)
+- **[[#5. 4. Automations and Custom Fields]]** (6 videos)
+- **[[#6. 5. Getting Things Done Using Trello and Kanban]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

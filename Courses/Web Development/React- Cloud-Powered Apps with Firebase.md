@@ -46,15 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Setting Up Your Development Environment** (4 videos)
-- **3. 2. Firebase Authentication** (9 videos)
-- **4. 3. Storing and Syncing Data with Firebase Cloud Firestore** (7 videos)
-- **5. 4. Storing Files with Firebase Cloud Storage** (7 videos)
-- **6. 5. Control Access with Custom Claims and Security Rules** (7 videos)
-- **7. 6. Going Serverless with Firebase Cloud Functions** (3 videos)
-- **8. 7. Hosting with Firebase** (2 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Setting Up Your Development Environment]]** (4 videos)
+- **[[#3. 2. Firebase Authentication]]** (9 videos)
+- **[[#4. 3. Storing and Syncing Data with Firebase Cloud Firestore]]** (7 videos)
+- **[[#5. 4. Storing Files with Firebase Cloud Storage]]** (7 videos)
+- **[[#6. 5. Control Access with Custom Claims and Security Rules]]** (7 videos)
+- **[[#7. 6. Going Serverless with Firebase Cloud Functions]]** (3 videos)
+- **[[#8. 7. Hosting with Firebase]]** (2 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

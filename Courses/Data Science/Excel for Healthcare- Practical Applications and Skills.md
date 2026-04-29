@@ -51,12 +51,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Patient Data Management and Analysis with Excel** (7 videos)
-- **3. 2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management** (5 videos)
-- **4. 3. Excel for Clinical Use and Research in Healthcare** (4 videos)
-- **5. 4. Healthcare Supply Chain Management with Excel** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Patient Data Management and Analysis with Excel]]** (7 videos)
+- **[[#3. 2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management]]** (5 videos)
+- **[[#4. 3. Excel for Clinical Use and Research in Healthcare]]** (4 videos)
+- **[[#5. 4. Healthcare Supply Chain Management with Excel]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

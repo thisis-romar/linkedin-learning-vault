@@ -39,18 +39,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Design Patterns** (3 videos)
-- **3. 2. The Strategy Pattern** (10 videos)
-- **4. 3. The Adapter Pattern** (5 videos)
-- **5. 4. The Observer Pattern** (6 videos)
-- **6. 5. The Decorator Pattern** (7 videos)
-- **7. 6. The Iterator Pattern** (8 videos)
-- **8. 7. The Factory Patterns** (5 videos)
-- **9. Glossaries** (0 videos)
-- **10. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Design Patterns]]** (3 videos)
+- **[[#2. The Strategy Pattern]]** (10 videos)
+- **[[#3. The Adapter Pattern]]** (5 videos)
+- **[[#4. The Observer Pattern]]** (6 videos)
+- **[[#5. The Decorator Pattern]]** (7 videos)
+- **[[#6. The Iterator Pattern]]** (8 videos)
+- **[[#7. The Factory Patterns]]** (5 videos)
+- **[[#Glossaries]]** (0 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Don't reinvent the wheel
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/don-t-reinvent-the-wheel?u=76281980)
@@ -115,7 +117,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 2. 1. Design Patterns
+### 1. Design Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Object-oriented design experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980)
@@ -297,7 +301,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Strategy Pattern
+### 2. The Strategy Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Revisiting inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/revisiting-inheritance?u=76281980)
@@ -920,7 +926,9 @@ created: 2026-04-28
 > **Non-Speech:** (energetic music) (1)
 
 
-### 4. 3. The Adapter Pattern
+### 3. The Adapter Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-adapter-pattern?u=76281980)
@@ -1189,7 +1197,9 @@ created: 2026-04-28
 > **Non-Speech:** (electronic music) (1)
 
 
-### 5. 4. The Observer Pattern
+### 4. The Observer Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the Observer pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-observer-pattern?u=76281980)
@@ -1459,7 +1469,9 @@ created: 2026-04-28
 > **Non-Speech:** (energetic music) (1)
 
 
-### 6. 5. The Decorator Pattern
+### 5. The Decorator Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating chaos with inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/creating-chaos-with-inheritance?u=76281980)
@@ -1934,7 +1946,9 @@ created: 2026-04-28
 > **Non-Speech:** (funky upbeat music) (1)
 
 
-### 7. 6. The Iterator Pattern
+### 6. The Iterator Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Encapsulating iteration
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980)
@@ -2302,7 +2316,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. The Factory Patterns
+### 7. The Factory Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The need for factory patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980)
@@ -2601,10 +2617,14 @@ created: 2026-04-28
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 9. Glossaries
+### Glossaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applying patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980)

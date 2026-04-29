@@ -55,15 +55,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introducing the Generative AI Models and Libraries** (3 videos)
-- **3. 2. Create Your First Next-Gen App (Node.js)** (5 videos)
-- **4. 3. Extending the Chatbot Capabilities with External Tools** (6 videos)
-- **5. 4. Getting Started with the OpenAI Assistants API** (7 videos)
-- **6. 5. Build an AI-powered Virtual Assistant (Assistants API)** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introducing the Generative AI Models and Libraries]]** (3 videos)
+- **[[#2. Create Your First Next-Gen App (Node.js)]]** (5 videos)
+- **[[#3. Extending the Chatbot Capabilities with External Tools]]** (6 videos)
+- **[[#4. Getting Started with the OpenAI Assistants API]]** (7 videos)
+- **[[#5. Build an AI-powered Virtual Assistant (Assistants API)]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrate generative AI into your web projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980)
@@ -193,7 +195,9 @@ created: 2026-04-28
 > **UI Navigation:** select the (1)
 
 
-### 2. 1. Introducing the Generative AI Models and Libraries
+### 1. Introducing the Generative AI Models and Libraries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI: Genesis and evolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980)
@@ -449,7 +453,9 @@ created: 2026-04-28
 > **Documentation:** api reference (1)
 
 
-### 3. 2. Create Your First Next-Gen App (Node.js)
+### 2. Create Your First Next-Gen App (Node.js)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Node project setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980)
@@ -1110,7 +1116,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (1)
 
 
-### 4. 3. Extending the Chatbot Capabilities with External Tools
+### 3. Extending the Chatbot Capabilities with External Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing function calling
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980)
@@ -1817,7 +1825,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 5. 4. Getting Started with the OpenAI Assistants API
+### 4. Getting Started with the OpenAI Assistants API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assistants API overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980)
@@ -2634,7 +2644,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (2)
 
 
-### 6. 5. Build an AI-powered Virtual Assistant (Assistants API)
+### 5. Build an AI-powered Virtual Assistant (Assistants API)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starter project and set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980)
@@ -3396,7 +3408,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Last words and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980)

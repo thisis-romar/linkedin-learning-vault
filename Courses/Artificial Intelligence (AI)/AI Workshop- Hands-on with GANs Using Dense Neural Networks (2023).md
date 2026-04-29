@@ -53,11 +53,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introducing Generative Adversarial Networks** (5 videos)
-- **3. 2. Stand-Alone Training of Adversaries** (6 videos)
-- **4. 3. Training Generative Adversarial Networks** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introducing Generative Adversarial Networks]]** (5 videos)
+- **[[#3. 2. Stand-Alone Training of Adversaries]]** (6 videos)
+- **[[#4. 3. Training Generative Adversarial Networks]]** (5 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

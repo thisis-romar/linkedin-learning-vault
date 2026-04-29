@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Starting Your Project** (3 videos)
-- **3. 2. Authorization** (5 videos)
-- **4. 3. Advanced Eloquent Features** (5 videos)
-- **5. 4. Do More with Laravel** (3 videos)
-- **6. 5. Notifications, Queuing, and Scheduling** (4 videos)
-- **7. 6. Testing** (4 videos)
-- **8. 7. Understand How Laravel Works** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Starting Your Project]]** (3 videos)
+- **[[#3. 2. Authorization]]** (5 videos)
+- **[[#4. 3. Advanced Eloquent Features]]** (5 videos)
+- **[[#5. 4. Do More with Laravel]]** (3 videos)
+- **[[#6. 5. Notifications, Queuing, and Scheduling]]** (4 videos)
+- **[[#7. 6. Testing]]** (4 videos)
+- **[[#8. 7. Understand How Laravel Works]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -46,19 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started** (2 videos)
-- **3. 2. Setting Up Shop with WooCommerce** (3 videos)
-- **4. 3. Adding Products** (12 videos)
-- **5. 4. Customizing Your Theme** (7 videos)
-- **6. 5. Setting Up Shipping Options** (7 videos)
-- **7. 6. Setting Up Payment** (4 videos)
-- **8. 7. Setting Up Taxes** (4 videos)
-- **9. 8. Connecting to Services** (3 videos)
-- **10. 9. Managing Sales** (5 videos)
-- **11. 10. WooCommerce Settings** (5 videos)
-- **12. 11. Mobile Apps** (1 videos)
-- **13. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Getting Started]]** (2 videos)
+- **[[#3. 2. Setting Up Shop with WooCommerce]]** (3 videos)
+- **[[#4. 3. Adding Products]]** (12 videos)
+- **[[#5. 4. Customizing Your Theme]]** (7 videos)
+- **[[#6. 5. Setting Up Shipping Options]]** (7 videos)
+- **[[#7. 6. Setting Up Payment]]** (4 videos)
+- **[[#8. 7. Setting Up Taxes]]** (4 videos)
+- **[[#9. 8. Connecting to Services]]** (3 videos)
+- **[[#10. 9. Managing Sales]]** (5 videos)
+- **[[#11. 10. WooCommerce Settings]]** (5 videos)
+- **[[#12. 11. Mobile Apps]]** (1 videos)
+- **[[#13. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

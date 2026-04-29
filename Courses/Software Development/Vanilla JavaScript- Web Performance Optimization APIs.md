@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Reactive Web Performance** (5 videos)
-- **3. 2. Performance Basics** (5 videos)
-- **4. 3. Measure Performance** (8 videos)
-- **5. 4. Decision-Making Helpers** (4 videos)
-- **6. 5. Execute Code More Efficiently** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Reactive Web Performance]]** (5 videos)
+- **[[#3. 2. Performance Basics]]** (5 videos)
+- **[[#4. 3. Measure Performance]]** (8 videos)
+- **[[#5. 4. Decision-Making Helpers]]** (4 videos)
+- **[[#6. 5. Execute Code More Efficiently]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

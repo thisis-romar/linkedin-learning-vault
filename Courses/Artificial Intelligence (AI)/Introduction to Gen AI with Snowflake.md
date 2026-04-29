@@ -54,10 +54,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to GenAI on Snowflake** (2 videos)
-- **3. 2. Snowflake Cortex’s LLM-Based Functions** (8 videos)
-- **4. 3. Customize LLM Responses with Cortex Fine-Tuning** (9 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to GenAI on Snowflake]]** (2 videos)
+- **[[#3. 2. Snowflake Cortex’s LLM-Based Functions]]** (8 videos)
+- **[[#4. 3. Customize LLM Responses with Cortex Fine-Tuning]]** (9 videos)
 
 ### 1. Introduction
 

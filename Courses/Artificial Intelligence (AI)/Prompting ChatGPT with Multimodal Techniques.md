@@ -54,10 +54,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Multimodal Prompting with ChatGPT 4.5 Turbo** (8 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Multimodal Prompting with ChatGPT 4.5 Turbo]]** (8 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Level up your prompting with Multimodal features
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Multimodal Prompting with ChatGPT 4.5 Turbo
+### 1. Multimodal Prompting with ChatGPT 4.5 Turbo
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ChatGPT Free versus ChatGPT Plus
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980)

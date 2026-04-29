@@ -54,18 +54,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Modern Software Development** (3 videos)
-- **3. 2. Have an Agile Mindset** (2 videos)
-- **4. 3. Individuals and Interactions** (7 videos)
-- **5. 4. Deliver Working Software** (3 videos)
-- **6. 5. Respond to Change** (5 videos)
-- **7. 6. Popular Agile Frameworks** (3 videos)
-- **8. 7. Improve Customer Collaboration** (5 videos)
-- **9. 8. Start an Agile Transformation** (2 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Modern Software Development]]** (3 videos)
+- **[[#2. Have an Agile Mindset]]** (2 videos)
+- **[[#3. Individuals and Interactions]]** (7 videos)
+- **[[#4. Deliver Working Software]]** (3 videos)
+- **[[#5. Respond to Change]]** (5 videos)
+- **[[#6. Popular Agile Frameworks]]** (3 videos)
+- **[[#7. Improve Customer Collaboration]]** (5 videos)
+- **[[#8. Start an Agile Transformation]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/understanding-agile-21059664?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Modern Software Development
+### 1. Modern Software Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The agile mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980)
@@ -385,7 +389,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2. Have an Agile Mindset
+### 2. Have an Agile Mindset
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The agile manifesto: Values
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980)
@@ -537,7 +543,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Individuals and Interactions
+### 3. Individuals and Interactions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The cost of multitasking
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980)
@@ -1054,7 +1062,9 @@ created: 2026-04-28
 > **Speakers:** - user (1)
 
 
-### 5. 4. Deliver Working Software
+### 4. Deliver Working Software
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start with the highest value
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980)
@@ -1258,7 +1268,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 6. 5. Respond to Change
+### 5. Respond to Change
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inspect and adapt
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980)
@@ -1657,7 +1669,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 7. 6. Popular Agile Frameworks
+### 6. Popular Agile Frameworks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980)
@@ -1895,7 +1909,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 8. 7. Improve Customer Collaboration
+### 7. Improve Customer Collaboration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common roles on the team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980)
@@ -2271,7 +2287,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 9. 8. Start an Agile Transformation
+### 8. Start an Agile Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Major agile challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/major-agile-challenges-21062182?u=76281980)
@@ -2426,7 +2444,9 @@ created: 2026-04-28
 > **Speakers:** - with (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing with agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980)

@@ -47,11 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Data-First AI Agents** (10 videos)
-- **3. 2. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Data-First AI Agents]]** (10 videos)
+- **[[#2. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data-first AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/data-first-ai-agents?u=76281980)
@@ -71,7 +73,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 2. 1. Data-First AI Agents
+### 1. Data-First AI Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of data in AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/the-importance-of-data-in-ai-agents?u=76281980)
@@ -954,7 +958,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 3. 2. Conclusion
+### 2. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agentive AI as an opportunity space
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/agentive-ai-as-an-opportunity-space?u=76281980)

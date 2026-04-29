@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to AI and Machine Learning** (4 videos)
-- **3. 2. Data and Feature Engineering** (4 videos)
-- **4. 3. High-Level Machine Learning Techniques** (5 videos)
-- **5. 4. Implementation and Future Trends** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to AI and Machine Learning]]** (4 videos)
+- **[[#2. Data and Feature Engineering]]** (4 videos)
+- **[[#3. High-Level Machine Learning Techniques]]** (5 videos)
+- **[[#4. Implementation and Future Trends]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 2. 1. Introduction to AI and Machine Learning
+### 1. Introduction to AI and Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI and machine learning overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980)
@@ -359,7 +363,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 3. 2. Data and Feature Engineering
+### 2. Data and Feature Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data types and sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980)
@@ -660,7 +666,9 @@ created: 2026-04-28
 > **Speakers:** - feature (1)
 
 
-### 4. 3. High-Level Machine Learning Techniques
+### 3. High-Level Machine Learning Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Supervised learning overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980)
@@ -1049,7 +1057,9 @@ created: 2026-04-28
 > **Speakers:** - switching (1)
 
 
-### 5. 4. Implementation and Future Trends
+### 4. Implementation and Future Trends
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Model evaluation and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980)
@@ -1373,7 +1383,9 @@ created: 2026-04-28
 > **Speakers:** - balancing (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bring it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980)

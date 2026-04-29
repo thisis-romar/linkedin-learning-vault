@@ -51,11 +51,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Balancing Effectiveness and Ethics** (4 videos)
-- **3. 2. Ethical Strategies for Responsible Data Collection** (4 videos)
-- **4. 3. Practical Concerns Blocking Responsible Data Collection** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Balancing Effectiveness and Ethics]]** (4 videos)
+- **[[#3. 2. Ethical Strategies for Responsible Data Collection]]** (4 videos)
+- **[[#4. 3. Practical Concerns Blocking Responsible Data Collection]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -52,13 +52,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Defining the Problem and Researching a Solution** (4 videos)
-- **3. 2. Learning PlantUML** (4 videos)
-- **4. 3. Planning for the Development** (3 videos)
-- **5. 4. Building a Python Script to Convert Data into PlantUML Code** (9 videos)
-- **6. 5. Going Above and Beyond** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Defining the Problem and Researching a Solution]]** (4 videos)
+- **[[#3. 2. Learning PlantUML]]** (4 videos)
+- **[[#4. 3. Planning for the Development]]** (3 videos)
+- **[[#5. 4. Building a Python Script to Convert Data into PlantUML Code]]** (9 videos)
+- **[[#6. 5. Going Above and Beyond]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

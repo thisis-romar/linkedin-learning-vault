@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Spark DataFrames** (2 videos)
-- **3. 2. Installing Spark** (3 videos)
-- **4. 3. Getting Started with Spark DataFrames** (8 videos)
-- **5. 4. SQL for DataFrames** (6 videos)
-- **6. 5. Data Analysis with Spark** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Spark DataFrames]]** (2 videos)
+- **[[#3. 2. Installing Spark]]** (3 videos)
+- **[[#4. 3. Getting Started with Spark DataFrames]]** (8 videos)
+- **[[#5. 4. SQL for DataFrames]]** (6 videos)
+- **[[#6. 5. Data Analysis with Spark]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Get Started with SharePoint Online** (7 videos)
-- **3. 2. Work with Libraries and Documents** (8 videos)
-- **4. 3. Personal and News** (2 videos)
-- **5. 4. Customize with List Apps** (6 videos)
-- **6. 5. SharePoint on the Road** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Get Started with SharePoint Online]]** (7 videos)
+- **[[#2. Work with Libraries and Documents]]** (8 videos)
+- **[[#3. Personal and News]]** (2 videos)
+- **[[#4. Customize with List Apps]]** (6 videos)
+- **[[#5. SharePoint on the Road]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creative collaborative digital spaces with SharePoint Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/creative-collaborative-digital-spaces-with-sharepoint-online?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - [gini] (1)
 
 
-### 2. 1. Get Started with SharePoint Online
+### 1. Get Started with SharePoint Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tools and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980)
@@ -636,7 +640,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Work with Libraries and Documents
+### 2. Work with Libraries and Documents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Store documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980)
@@ -1346,7 +1352,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Personal and News
+### 3. Personal and News
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Edit your profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980)
@@ -1552,7 +1560,9 @@ created: 2026-04-28
 > **Non-Speech:** (keyboard typing) (1)
 
 
-### 5. 4. Customize with List Apps
+### 4. Customize with List Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use a list
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980)
@@ -2055,7 +2065,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. SharePoint on the Road
+### 5. SharePoint on the Road
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use the SharePoint mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980)
@@ -2360,7 +2372,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980)

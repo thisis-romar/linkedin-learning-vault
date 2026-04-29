@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Basics of Business Benefits Realization** (3 videos)
-- **3. 2. Benefits Realization across the Enterprise** (3 videos)
-- **4. 3. The Business Benefits Realization Life Cycle** (5 videos)
-- **5. 4. Key Roles in Business Benefits Realization** (4 videos)
-- **6. 5. Business Benefits Realization Deliverables** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Basics of Business Benefits Realization]]** (3 videos)
+- **[[#2. Benefits Realization across the Enterprise]]** (3 videos)
+- **[[#3. The Business Benefits Realization Life Cycle]]** (5 videos)
+- **[[#4. Key Roles in Business Benefits Realization]]** (4 videos)
+- **[[#5. Business Benefits Realization Deliverables]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/exploring-the-basics?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. The Basics of Business Benefits Realization
+### 1. The Basics of Business Benefits Realization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is business benefits realization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/what-is-business-benefits-realization?u=76281980)
@@ -303,7 +307,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 3. 2. Benefits Realization across the Enterprise
+### 2. Benefits Realization across the Enterprise
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vision, mission, goals, objectives, and strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/vision-mission-goals-objectives-and-strategy?u=76281980)
@@ -499,7 +505,9 @@ created: 2026-04-28
 > **Speakers:** - even (1)
 
 
-### 4. 3. The Business Benefits Realization Life Cycle
+### 3. The Business Benefits Realization Life Cycle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Step one: Identifying benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-one-identifying-benefits?u=76281980)
@@ -860,7 +868,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Key Roles in Business Benefits Realization
+### 4. Key Roles in Business Benefits Realization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sponsor role in business benefits realization
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/sponsor-role-in-business-benefits-realization?u=76281980)
@@ -1087,7 +1097,9 @@ created: 2026-04-28
 > **Speakers:** - on (1)
 
 
-### 6. 5. Business Benefits Realization Deliverables
+### 5. Business Benefits Realization Deliverables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a business benefits roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-roadmap?u=76281980)
@@ -1432,7 +1444,9 @@ created: 2026-04-28
 > **Speakers:** - deciding (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business benefits realization key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-benefits-realization-key-takeaways?u=76281980)

@@ -60,14 +60,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Data Engineering Concepts** (5 videos)
-- **3. 2. Spark Capabilities for ETL** (5 videos)
-- **4. 3. Batch Processing Pipelines** (5 videos)
-- **5. 4. Real-Time Processing Pipelines** (5 videos)
-- **6. 5. Data Engineering with Spark: Best Practices** (4 videos)
-- **7. 6. End-to-End Exercise Project** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Data Engineering Concepts]]** (5 videos)
+- **[[#3. 2. Spark Capabilities for ETL]]** (5 videos)
+- **[[#4. 3. Batch Processing Pipelines]]** (5 videos)
+- **[[#5. 4. Real-Time Processing Pipelines]]** (5 videos)
+- **[[#6. 5. Data Engineering with Spark: Best Practices]]** (4 videos)
+- **[[#7. 6. End-to-End Exercise Project]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

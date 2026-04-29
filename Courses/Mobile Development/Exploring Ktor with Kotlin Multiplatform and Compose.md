@@ -48,15 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started with Ktor Server** (6 videos)
-- **3. 2. Data Storage and Caching** (6 videos)
-- **4. 3. Advanced API Features** (6 videos)
-- **5. 4. Kotlin Multiplatform Foundations** (5 videos)
-- **6. 5. Shared Network Layer** (5 videos)
-- **7. 6. Compose Multiplatform UI** (6 videos)
-- **8. 7. iOS Integration** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Started with Ktor Server]]** (6 videos)
+- **[[#3. 2. Data Storage and Caching]]** (6 videos)
+- **[[#4. 3. Advanced API Features]]** (6 videos)
+- **[[#5. 4. Kotlin Multiplatform Foundations]]** (5 videos)
+- **[[#6. 5. Shared Network Layer]]** (5 videos)
+- **[[#7. 6. Compose Multiplatform UI]]** (6 videos)
+- **[[#8. 7. iOS Integration]]** (5 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

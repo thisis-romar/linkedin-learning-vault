@@ -48,10 +48,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Data Acquisition** (6 videos)
-- **3. 2. Data Prep** (6 videos)
-- **4. 3. EDA** (5 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Data Acquisition]]** (6 videos)
+- **[[#3. 2. Data Prep]]** (6 videos)
+- **[[#4. 3. EDA]]** (5 videos)
 
 ### 1. Introduction
 

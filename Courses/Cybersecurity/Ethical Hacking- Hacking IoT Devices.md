@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Understanding the IoT** (5 videos)
-- **3. 2. Recognizing IoT Security Issues** (5 videos)
-- **4. 3. Hacking the IoT** (5 videos)
-- **5. 4. Controlling Systems with OT** (5 videos)
-- **6. 5. Exploiting OT Systems** (5 videos)
-- **7. 6. Defending against Attacks** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Understanding the IoT]]** (5 videos)
+- **[[#2. Recognizing IoT Security Issues]]** (5 videos)
+- **[[#3. Hacking the IoT]]** (5 videos)
+- **[[#4. Controlling Systems with OT]]** (5 videos)
+- **[[#5. Exploiting OT Systems]]** (5 videos)
+- **[[#6. Defending against Attacks]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hacking IoT and OT systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/hacking-iot-and-ot-systems?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Understanding the IoT
+### 1. Understanding the IoT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining the IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/defining-the-iot?u=76281980)
@@ -405,7 +409,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat electronic music) (1)
 
 
-### 3. 2. Recognizing IoT Security Issues
+### 2. Recognizing IoT Security Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Outlining IoT threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/outlining-iot-threats?u=76281980)
@@ -745,7 +751,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Hacking the IoT
+### 3. Hacking the IoT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describing IoT hacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-iot-hacking?u=76281980)
@@ -1147,7 +1155,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 5. 4. Controlling Systems with OT
+### 4. Controlling Systems with OT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describing OT
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/describing-ot?u=76281980)
@@ -1493,7 +1503,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Exploiting OT Systems
+### 5. Exploiting OT Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pentesting OT systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/pentesting-ot-systems?u=76281980)
@@ -1829,7 +1841,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Defending against Attacks
+### 6. Defending against Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Countering IoT attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/countering-iot-attacks?u=76281980)
@@ -2185,7 +2199,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-iot-devices-21053658/next-steps?u=76281980)

@@ -45,18 +45,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Cloud Computing** (1 videos)
-- **3. 2. Introduction to AWS** (2 videos)
-- **4. 3. Managing Identities and Access** (5 videos)
-- **5. 4. Managing Compute** (10 videos)
-- **6. 5. Managing Storage** (7 videos)
-- **7. 6. Monitoring and Logging** (3 videos)
-- **8. 7. Managing Security** (6 videos)
-- **9. 8. Management and Compliance** (14 videos)
-- **10. 9. Controlling Costs** (4 videos)
-- **11. 10. Migration** (4 videos)
-- **12. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Cloud Computing]]** (1 videos)
+- **[[#3. 2. Introduction to AWS]]** (2 videos)
+- **[[#4. 3. Managing Identities and Access]]** (5 videos)
+- **[[#5. 4. Managing Compute]]** (10 videos)
+- **[[#6. 5. Managing Storage]]** (7 videos)
+- **[[#7. 6. Monitoring and Logging]]** (3 videos)
+- **[[#8. 7. Managing Security]]** (6 videos)
+- **[[#9. 8. Management and Compliance]]** (14 videos)
+- **[[#10. 9. Controlling Costs]]** (4 videos)
+- **[[#11. 10. Migration]]** (4 videos)
+- **[[#12. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

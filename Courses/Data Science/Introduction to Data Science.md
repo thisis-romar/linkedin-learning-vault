@@ -52,17 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Defining Data Science** (3 videos)
-- **3. 2. Starting with Data Design** (2 videos)
-- **4. 3. Utilizing Computational Tools** (2 videos)
-- **5. 4. Structuring Your Tabular Data** (5 videos)
-- **6. 5. Using Exploratory Data Analysis** (3 videos)
-- **7. 6. Cleaning Your Data** (2 videos)
-- **8. 7. Using Data Visualization** (3 videos)
-- **9. 8. Using Inference and Statistical Analysis** (5 videos)
-- **10. 9. Using Prediction in Data Science** (7 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Defining Data Science]]** (3 videos)
+- **[[#3. 2. Starting with Data Design]]** (2 videos)
+- **[[#4. 3. Utilizing Computational Tools]]** (2 videos)
+- **[[#5. 4. Structuring Your Tabular Data]]** (5 videos)
+- **[[#6. 5. Using Exploratory Data Analysis]]** (3 videos)
+- **[[#7. 6. Cleaning Your Data]]** (2 videos)
+- **[[#8. 7. Using Data Visualization]]** (3 videos)
+- **[[#9. 8. Using Inference and Statistical Analysis]]** (5 videos)
+- **[[#10. 9. Using Prediction in Data Science]]** (7 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. C# in Context of .NET** (5 videos)
-- **3. 2. Working with Classes, Structs, and Records** (9 videos)
-- **4. 3. Organizing C# Code** (4 videos)
-- **5. 4. Variables Revisited** (5 videos)
-- **6. 5. Working with Enums and Nullables** (9 videos)
-- **7. 6. Using Patterns in Control Flow** (8 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **1. C# in Context of .NET** (5 videos)
+- **[[#2. Working with Classes, Structs, and Records]]** (9 videos)
+- **3. Organizing C# Code** (4 videos)
+- **[[#4. Variables Revisited]]** (5 videos)
+- **[[#5. Working with Enums and Nullables]]** (9 videos)
+- **[[#6. Using Patterns in Control Flow]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/explore-the-essentials?u=76281980)
@@ -183,7 +185,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. C# in Context of .NET
+### 1. C# in Context of .NET
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### C# compiles to MSIL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/c-sharp-compiles-to-msil?u=76281980)
@@ -466,7 +470,9 @@ created: 2026-04-28
 > **Speakers:** - [matt] (1)
 
 
-### 3. 2. Working with Classes, Structs, and Records
+### 2. Working with Classes, Structs, and Records
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding classes, structs, and records
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/understanding-classes-structs-and-records?u=76281980)
@@ -1573,7 +1579,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Organizing C# Code
+### 3. Organizing C# Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using namespaces to organize code
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/using-namespaces-to-organize-code?u=76281980)
@@ -1915,7 +1923,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Variables Revisited
+### 4. Variables Revisited
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Declaring variables using types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/declaring-variables-using-types?u=76281980)
@@ -2171,7 +2181,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Working with Enums and Nullables
+### 5. Working with Enums and Nullables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining enums
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/defining-enums?u=76281980)
@@ -2879,7 +2891,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Using Patterns in Control Flow
+### 6. Using Patterns in Control Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### If and switch revisited
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/if-and-switch-revisited?u=76281980)
@@ -3687,7 +3701,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn more and build something
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow/learn-more-and-build-something?u=76281980)

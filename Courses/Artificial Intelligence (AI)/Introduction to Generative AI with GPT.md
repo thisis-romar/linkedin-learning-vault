@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI in Business** (1 videos)
-- **3. 2. AI Background** (3 videos)
-- **4. 3. Introducing GPT** (7 videos)
-- **5. 4. The Future of AI** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. AI in Business]]** (1 videos)
+- **[[#3. 2. AI Background]]** (3 videos)
+- **[[#4. 3. Introducing GPT]]** (7 videos)
+- **[[#5. 4. The Future of AI]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -48,7 +48,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Programmable Voice** (5 videos)
+- **[[#1. 1. Programmable Voice]]** (5 videos)
 
 ### 1. 1. Programmable Voice
 

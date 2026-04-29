@@ -39,15 +39,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Patterns Overview** (5 videos)
-- **3. 2. Page Structure and Organization** (5 videos)
-- **4. 3. Form and Data Controls** (8 videos)
-- **5. 4. Indicating Progress and Feedback** (5 videos)
-- **6. 5. Search and Filtering** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Patterns Overview]]** (5 videos)
+- **[[#2. Page Structure and Organization]]** (5 videos)
+- **[[#3. Form and Data Controls]]** (8 videos)
+- **[[#4. Indicating Progress and Feedback]]** (5 videos)
+- **[[#5. Search and Filtering]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980)
@@ -75,7 +77,9 @@ created: 2026-04-28
 > **Speakers:** - [diane] (1)
 
 
-### 2. 1. Patterns Overview
+### 1. Patterns Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980)
@@ -380,7 +384,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Page Structure and Organization
+### 2. Page Structure and Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Global navigation
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980)
@@ -677,7 +683,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Form and Data Controls
+### 3. Form and Data Controls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fitts's law, grouping, and cognitive load
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980)
@@ -1158,7 +1166,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Indicating Progress and Feedback
+### 4. Indicating Progress and Feedback
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Feedback in UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/feedback-in-ux?u=76281980)
@@ -1427,7 +1437,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Search and Filtering
+### 5. Search and Filtering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Search input
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-input?u=76281980)
@@ -1682,7 +1694,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980)

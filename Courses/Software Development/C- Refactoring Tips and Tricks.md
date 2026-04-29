@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Refactoring Strategies** (4 videos)
-- **3. 2. Before You Refactor** (3 videos)
-- **4. 3. Optimizing Code** (3 videos)
-- **5. 4. Creating Clean Code** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Refactoring Strategies]]** (4 videos)
+- **[[#2. Before You Refactor]]** (3 videos)
+- **[[#3. Optimizing Code]]** (3 videos)
+- **[[#4. Creating Clean Code]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/welcome-22867113?u=76281980)
@@ -123,7 +125,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Refactoring Strategies
+### 1. Refactoring Strategies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-a-baseline-22863229?u=76281980)
@@ -410,7 +414,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Before You Refactor
+### 2. Before You Refactor
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980)
@@ -591,7 +597,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Optimizing Code
+### 3. Optimizing Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify problem areas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/identify-problem-areas-22862983?u=76281980)
@@ -796,7 +804,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Creating Clean Code
+### 4. Creating Clean Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Code readability
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/code-readability-22867114?u=76281980)
@@ -1042,7 +1052,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/next-steps-22867112?u=76281980)

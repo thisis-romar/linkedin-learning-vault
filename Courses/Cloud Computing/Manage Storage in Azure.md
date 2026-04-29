@@ -49,15 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Overview of Azure Storage** (10 videos)
-- **3. 2. Redundancy, Disaster Recovery, and Replication** (5 videos)
-- **4. 3. Networking and Infrastructure as Code for Azure Storage** (7 videos)
-- **5. 4. Authorizing Operations on Azure Storage** (7 videos)
-- **6. 5. Mounting and Synching to Azure File Shares** (3 videos)
-- **7. 6. Protecting Azure Storage Data** (6 videos)
-- **8. 7. Managing Cost and Monitoring Azure Storage** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Overview of Azure Storage]]** (10 videos)
+- **[[#3. 2. Redundancy, Disaster Recovery, and Replication]]** (5 videos)
+- **[[#4. 3. Networking and Infrastructure as Code for Azure Storage]]** (7 videos)
+- **[[#5. 4. Authorizing Operations on Azure Storage]]** (7 videos)
+- **[[#6. 5. Mounting and Synching to Azure File Shares]]** (3 videos)
+- **[[#7. 6. Protecting Azure Storage Data]]** (6 videos)
+- **[[#8. 7. Managing Cost and Monitoring Azure Storage]]** (6 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

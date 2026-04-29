@@ -45,15 +45,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Comparing Two Populations: Proportions** (3 videos)
-- **3. 2. Comparing Two Populations: Means** (4 videos)
-- **4. 3. T-Tests** (3 videos)
-- **5. 4. ANOVA: Analysis of Variance** (4 videos)
-- **6. 5. Regression Analysis** (4 videos)
-- **7. Continuing Your Advanced Statistics Learning Journey** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Comparing Two Populations: Proportions]]** (3 videos)
+- **[[#2. Comparing Two Populations: Means]]** (4 videos)
+- **[[#3. T-Tests]]** (3 videos)
+- **[[#4. ANOVA: Analysis of Variance]]** (4 videos)
+- **[[#5. Regression Analysis]]** (4 videos)
+- **[[#Continuing Your Advanced Statistics Learning Journey]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of advanced statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-power-of-advanced-statistics?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - statistics (1)
 
 
-### 2. 1. Comparing Two Populations: Proportions
+### 1. Comparing Two Populations: Proportions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explanation of two population comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-comparisons?u=76281980)
@@ -464,7 +468,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2. Comparing Two Populations: Means
+### 2. Comparing Two Populations: Means
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explanation of two population mean comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-mean-comparisons?u=76281980)
@@ -866,7 +872,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. 3. T-Tests
+### 3. T-Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### T-distribution vs. z-distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-distribution-vs-z-distribution?u=76281980)
@@ -1129,7 +1137,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 5. 4. ANOVA: Analysis of Variance
+### 4. ANOVA: Analysis of Variance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ANOVA: What is analysis of variance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/anova-what-is-analysis-of-variance?u=76281980)
@@ -1555,7 +1565,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Regression Analysis
+### 5. Regression Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/what-is-regression?u=76281980)
@@ -1950,7 +1962,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. Continuing Your Advanced Statistics Learning Journey
+### Continuing Your Advanced Statistics Learning Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980)

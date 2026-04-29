@@ -55,18 +55,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Scrum Roles** (5 videos)
-- **3. 2. Scrum Artifacts** (7 videos)
-- **4. 3. Scrum Events: Sprints and Sprint Planning** (6 videos)
-- **5. 4. Scrum Events: Daily Scrum** (3 videos)
-- **6. 5. Scrum Events: Sprint Review** (1 videos)
-- **7. 6. Scrum Events: Daily Retrospective** (2 videos)
-- **8. 7. Product Backlog Refinement** (3 videos)
-- **9. 8. Certifications** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Scrum Roles]]** (5 videos)
+- **[[#2. Scrum Artifacts]]** (7 videos)
+- **[[#3. Scrum Events: Sprints and Sprint Planning]]** (6 videos)
+- **[[#4. Scrum Events: Daily Scrum]]** (3 videos)
+- **[[#5. Scrum Events: Sprint Review]]** (1 videos)
+- **[[#6. Scrum Events: Daily Retrospective]]** (2 videos)
+- **[[#7. Product Backlog Refinement]]** (3 videos)
+- **[[#8. Certifications]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scrum for agile software development
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980)
@@ -121,7 +123,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Scrum Roles
+### 1. Scrum Roles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Product owner: The what
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-the-what?u=76281980)
@@ -408,7 +412,9 @@ created: 2026-04-28
 > **Speakers:** - last (1)
 
 
-### 3. 2. Scrum Artifacts
+### 2. Scrum Artifacts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Software tools for scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/software-tools-for-scrum?u=76281980)
@@ -692,7 +698,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Scrum Events: Sprints and Sprint Planning
+### 3. Scrum Events: Sprints and Sprint Planning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sprint overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-overview?u=76281980)
@@ -976,7 +984,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Scrum Events: Daily Scrum
+### 4. Scrum Events: Daily Scrum
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Daily scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980)
@@ -1146,7 +1156,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Scrum Events: Sprint Review
+### 5. Scrum Events: Sprint Review
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sprint review overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980)
@@ -1204,7 +1216,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Scrum Events: Daily Retrospective
+### 6. Scrum Events: Daily Retrospective
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sprint retrospective overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980)
@@ -1307,7 +1321,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Product Backlog Refinement
+### 7. Product Backlog Refinement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Product backlog refinement
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980)
@@ -1497,7 +1513,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Certifications
+### 8. Certifications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scrum certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-certifications?u=76281980)
@@ -1652,7 +1670,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980)

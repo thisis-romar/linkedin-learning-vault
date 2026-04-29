@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Definition and Installation** (2 videos)
-- **3. 2. Getting Started with npm** (7 videos)
-- **4. 3. Publishing Your Package** (3 videos)
-- **5. 4. Advanced Subjects** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Definition and Installation]]** (2 videos)
+- **[[#2. Getting Started with npm]]** (7 videos)
+- **[[#3. Publishing Your Package]]** (3 videos)
+- **[[#4. Advanced Subjects]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning npm
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980)
@@ -250,7 +252,9 @@ created: 2026-04-28
 > **Prerequisites:** getting started (1)
 
 
-### 2. 1. Definition and Installation
+### 1. Definition and Installation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining a package and npm
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980)
@@ -341,7 +345,9 @@ created: 2026-04-28
 > **Code Identifiers:** macos (1)
 
 
-### 3. 2. Getting Started with npm
+### 2. Getting Started with npm
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Initializing a package.json file
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980)
@@ -728,7 +734,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 4. 3. Publishing Your Package
+### 3. Publishing Your Package
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Publishing an unscoped package
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980)
@@ -1018,7 +1026,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Advanced Subjects
+### 4. Advanced Subjects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with your npm cache
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/working-with-your-npm-cache?u=76281980)
@@ -1480,7 +1490,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Furthering your npm journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980)

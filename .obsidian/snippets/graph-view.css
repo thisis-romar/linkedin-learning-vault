@@ -1,41 +1,43 @@
-/* Graph view — fine-tuned contrast for 3.6k-node vault
+/* Graph view — theme-aware contrast for 3.6k-node vault.
+ * Defers to Obsidian's CSS variables so labels/edges stay readable
+ * on both light and dark themes.
  * Enabled via Appearance → CSS snippets → graph-view. */
 
 .graph-view.color-line {
-  color: rgba(128, 128, 128, 0.35);
+  color: var(--graph-line);
 }
 
 .graph-view.color-line-highlight,
 .graph-view.color-line-selection {
-  color: rgba(255, 255, 255, 0.95);
+  color: var(--text-accent);
 }
 
 .graph-view.color-arrow {
-  color: rgba(200, 200, 200, 0.85);
+  color: var(--graph-line);
 }
 
 .graph-view.color-circle,
 .graph-view.color-fill {
-  color: rgba(180, 180, 180, 0.9);
+  color: var(--graph-node);
 }
 
 .graph-view.color-fill-unresolved {
-  color: rgba(239, 68, 68, 0.9);
+  color: var(--graph-node-unresolved);
 }
 
 .graph-view.color-fill-tag {
-  color: rgba(14, 165, 233, 0.9);
+  color: var(--graph-node-tag);
 }
 
 .graph-view.color-fill-attachment {
-  color: rgba(245, 158, 11, 0.85);
+  color: var(--graph-node-attachment);
 }
 
 .graph-view.color-text {
-  color: rgba(255, 255, 255, 0.85);
+  color: var(--text-normal);
 }
 
 .graph-view.color-fill-focused,
 .graph-view.color-circle-focused {
-  color: rgba(255, 165, 0, 1);
+  color: var(--graph-node-focused);
 }

@@ -54,15 +54,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Inheritance** (7 videos)
-- **3. 2. Polymorphism** (4 videos)
-- **4. 3. Abstraction** (4 videos)
-- **5. 4. Interfaces** (5 videos)
-- **6. 5. Data Structures** (9 videos)
-- **7. 6. Functional Programming** (4 videos)
-- **8. 7. Exception Handling** (9 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Inheritance]]** (7 videos)
+- **[[#3. 2. Polymorphism]]** (4 videos)
+- **[[#4. 3. Abstraction]]** (4 videos)
+- **[[#5. 4. Interfaces]]** (5 videos)
+- **[[#6. 5. Data Structures]]** (9 videos)
+- **[[#7. 6. Functional Programming]]** (4 videos)
+- **[[#8. 7. Exception Handling]]** (9 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

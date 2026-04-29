@@ -54,16 +54,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. An Introduction to Troubleshooting** (1 videos)
-- **3. 2. The Most Common Fixes** (5 videos)
-- **4. 3. Troubleshooting Tools** (8 videos)
-- **5. 4. Fixing Boot Problems** (2 videos)
-- **6. 5. Remote Troubleshooting** (3 videos)
-- **7. 6. Troubleshooting Applications** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. An Introduction to Troubleshooting]]** (1 videos)
+- **[[#2. The Most Common Fixes]]** (5 videos)
+- **[[#3. Troubleshooting Tools]]** (8 videos)
+- **[[#4. Fixing Boot Problems]]** (2 videos)
+- **[[#5. Remote Troubleshooting]]** (3 videos)
+- **[[#6. Troubleshooting Applications]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn the basics of troubleshooting in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - [brian] (1)
 
 
-### 2. 1. An Introduction to Troubleshooting
+### 1. An Introduction to Troubleshooting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Windows 10 troubleshooting best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980)
@@ -185,7 +189,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Most Common Fixes
+### 2. The Most Common Fixes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Booting into Safe Mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980)
@@ -667,7 +673,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Troubleshooting Tools
+### 3. Troubleshooting Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with the Reliability Monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980)
@@ -1376,7 +1384,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Fixing Boot Problems
+### 4. Fixing Boot Problems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fixing boot problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980)
@@ -1565,7 +1575,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Remote Troubleshooting
+### 5. Remote Troubleshooting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Remote Assistance
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980)
@@ -1900,7 +1912,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 7. 6. Troubleshooting Applications
+### 6. Troubleshooting Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reinstalling a Windows Store application
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-windows-store-application?u=76281980)
@@ -2231,7 +2245,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980)

@@ -59,16 +59,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Cyber Threats** (12 videos)
-- **3. 2. Frameworks for Protection against Cyber Threats** (12 videos)
-- **4. 3. Making Cybersecurity Effective** (10 videos)
-- **5. 4. Detecting and Managing Cyber Incidents** (6 videos)
-- **6. 5. Cybersecurity and AI** (4 videos)
-- **7. 6. Cyber Diplomacy** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Cyber Threats]]** (12 videos)
+- **[[#2. Frameworks for Protection against Cyber Threats]]** (12 videos)
+- **[[#3. Making Cybersecurity Effective]]** (10 videos)
+- **[[#4. Detecting and Managing Cyber Incidents]]** (6 videos)
+- **[[#5. Cybersecurity and AI]]** (4 videos)
+- **[[#6. Cyber Diplomacy]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the cybersecurity frameworks and standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cybersecurity-frameworks-and-standards?u=76281980)
@@ -118,7 +120,9 @@ created: 2026-04-28
 > **Speakers:** - [host] (1)
 
 
-### 2. 1. Cyber Threats
+### 1. Cyber Threats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the Cyber Kill Chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980)
@@ -1164,7 +1168,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 3. 2. Frameworks for Protection against Cyber Threats
+### 2. Frameworks for Protection against Cyber Threats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Orange Book: Early concepts in computer security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-orange-book-early-concepts-in-computer-security?u=76281980)
@@ -1923,7 +1929,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Making Cybersecurity Effective
+### 3. Making Cybersecurity Effective
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Architecting for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/architecting-for-security?u=76281980)
@@ -2667,7 +2675,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Detecting and Managing Cyber Incidents
+### 4. Detecting and Managing Cyber Incidents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Incident management basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980)
@@ -3104,7 +3114,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Cybersecurity and AI
+### 5. Cybersecurity and AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intoduction to AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980)
@@ -3391,7 +3403,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Cyber Diplomacy
+### 6. Cyber Diplomacy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cybersecurity goes global
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980)
@@ -3631,7 +3645,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980)

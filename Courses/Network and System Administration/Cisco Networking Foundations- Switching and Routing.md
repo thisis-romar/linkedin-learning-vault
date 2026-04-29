@@ -50,10 +50,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Ethernet Switching** (16 videos)
-- **3. 2. IP Routing** (9 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Ethernet Switching]]** (16 videos)
+- **[[#3. 2. IP Routing]]** (9 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

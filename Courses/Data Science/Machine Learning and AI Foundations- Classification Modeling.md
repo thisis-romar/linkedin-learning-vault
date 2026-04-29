@@ -54,12 +54,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Big Picture: Defining Your Classification Strategy** (6 videos)
-- **3. 2. How Do I Choose a "Winner"?** (4 videos)
-- **4. 3. Algorithms on Parade** (14 videos)
-- **5. 4. Common Modeling Challenges** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. The Big Picture: Defining Your Classification Strategy]]** (6 videos)
+- **[[#3. 2. How Do I Choose a "Winner"?]]** (4 videos)
+- **[[#4. 3. Algorithms on Parade]]** (14 videos)
+- **[[#5. 4. Common Modeling Challenges]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

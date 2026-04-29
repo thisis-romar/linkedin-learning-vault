@@ -51,19 +51,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Parallel Computing Hardware** (3 videos)
-- **3. 2. Threads and Processes** (9 videos)
-- **4. 3. Mutual Exclusion** (5 videos)
-- **5. 4. Locks** (6 videos)
-- **6. 5. Liveness** (8 videos)
-- **7. 6. Synchronization** (6 videos)
-- **8. 7. Barriers** (5 videos)
-- **9. 8. Asynchronous Tasks** (7 videos)
-- **10. 9. Evaluating Parallel Performance** (4 videos)
-- **11. 10. Designing Parallel Programs** (4 videos)
-- **12. 11. Challenge Problems** (7 videos)
-- **13. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Parallel Computing Hardware]]** (3 videos)
+- **[[#3. 2. Threads and Processes]]** (9 videos)
+- **[[#4. 3. Mutual Exclusion]]** (5 videos)
+- **[[#5. 4. Locks]]** (6 videos)
+- **[[#6. 5. Liveness]]** (8 videos)
+- **[[#7. 6. Synchronization]]** (6 videos)
+- **[[#8. 7. Barriers]]** (5 videos)
+- **[[#9. 8. Asynchronous Tasks]]** (7 videos)
+- **[[#10. 9. Evaluating Parallel Performance]]** (4 videos)
+- **[[#11. 10. Designing Parallel Programs]]** (4 videos)
+- **[[#12. 11. Challenge Problems]]** (7 videos)
+- **[[#13. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

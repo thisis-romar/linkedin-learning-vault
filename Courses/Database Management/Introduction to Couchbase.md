@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started with Couchbase Capella** (8 videos)
-- **3. 2. Completing Key Value Operations** (5 videos)
-- **4. 3. Querying with Couchbase** (2 videos)
-- **5. 4. Getting Your Couchbase Database to Perform Effectively** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Getting Started with Couchbase Capella]]** (8 videos)
+- **[[#3. 2. Completing Key Value Operations]]** (5 videos)
+- **[[#4. 3. Querying with Couchbase]]** (2 videos)
+- **[[#5. 4. Getting Your Couchbase Database to Perform Effectively]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -77,13 +77,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Data and Charts** (2 videos)
-- **3. 2. The Middle** (3 videos)
-- **4. 3. Variability** (7 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Data and Charts]]** (2 videos)
+- **[[#2. The Middle]]** (3 videos)
+- **[[#3. Variability]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The beginning of your statistics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980)
@@ -116,7 +118,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 2. 1. Data and Charts
+### 1. Data and Charts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data and charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980)
@@ -206,7 +210,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Middle
+### 2. The Middle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The middle of your data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980)
@@ -453,7 +459,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Variability
+### 3. Variability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to variability
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-variability?u=76281980)
@@ -910,7 +918,9 @@ created: 2026-04-28
 > **Speakers:** - nowadays (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980)

@@ -45,19 +45,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Why Cybersecurity?** (7 videos)
-- **3. 2. Antivirus** (4 videos)
-- **4. 3. Firewalls** (7 videos)
-- **5. 4. Network Scanning** (2 videos)
-- **6. 5. Network Connections** (5 videos)
-- **7. 6. Vulnerability Scanning** (5 videos)
-- **8. 7. Web Applications** (5 videos)
-- **9. 8. Network Protocols** (3 videos)
-- **10. 9. AI Security** (4 videos)
-- **11. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Why Cybersecurity?]]** (7 videos)
+- **[[#2. Antivirus]]** (4 videos)
+- **[[#3. Firewalls]]** (7 videos)
+- **[[#4. Network Scanning]]** (2 videos)
+- **[[#5. Network Connections]]** (5 videos)
+- **[[#6. Vulnerability Scanning]]** (5 videos)
+- **[[#7. Web Applications]]** (5 videos)
+- **[[#8. Network Protocols]]** (3 videos)
+- **[[#9. AI Security]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Why Cybersecurity?
+### 1. Why Cybersecurity?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A history of hackers
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980)
@@ -810,7 +814,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Antivirus
+### 2. Antivirus
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing Microsoft Defender Antivirus
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980)
@@ -1091,7 +1097,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Firewalls
+### 3. Firewalls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why firewalls?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980)
@@ -1767,7 +1775,9 @@ created: 2026-04-28
 > **URLs:** [github.com](https://github.com) (1)
 
 
-### 5. 4. Network Scanning
+### 4. Network Scanning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Nmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980)
@@ -1936,7 +1946,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. Network Connections
+### 5. Network Connections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with netcat
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980)
@@ -2345,7 +2357,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 7. 6. Vulnerability Scanning
+### 6. Vulnerability Scanning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing Nessus
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/preparing-nessus?u=76281980)
@@ -2664,7 +2678,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Web Applications
+### 7. Web Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Combating application level threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980)
@@ -2958,7 +2974,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Network Protocols
+### 8. Network Protocols
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explaining data communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/explaining-data-communications?u=76281980)
@@ -3201,7 +3219,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. AI Security
+### 9. AI Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980)
@@ -3493,7 +3513,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980)

@@ -46,9 +46,9 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Up and Running with Microsoft Word** (8 videos)
-- **3. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Up and Running with Microsoft Word]]** (8 videos)
+- **[[#3. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

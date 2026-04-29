@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Basics** (6 videos)
-- **3. 2. Financial Metrics** (3 videos)
-- **4. 3. Forecasting in Finance** (3 videos)
-- **5. 4. Performing Forecasting** (3 videos)
-- **6. 5. Interpret Forecast Results** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Basics]]** (6 videos)
+- **[[#3. 2. Financial Metrics]]** (3 videos)
+- **[[#4. 3. Forecasting in Finance]]** (3 videos)
+- **[[#5. 4. Performing Forecasting]]** (3 videos)
+- **[[#6. 5. Interpret Forecast Results]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

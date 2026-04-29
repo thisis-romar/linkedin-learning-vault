@@ -54,17 +54,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is WordPress?** (4 videos)
-- **3. 2. Setting Up WordPress** (5 videos)
-- **4. 3. WordPress Security** (3 videos)
-- **5. 4. Pages** (3 videos)
-- **6. 5. Posts** (4 videos)
-- **7. 6. Plugins and Themes** (3 videos)
-- **8. 7. Design Customization** (3 videos)
-- **9. 8. Media Library** (2 videos)
-- **10. 9. WordPress Maintenance** (4 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. What Is WordPress?]]** (4 videos)
+- **[[#3. 2. Setting Up WordPress]]** (5 videos)
+- **[[#4. 3. WordPress Security]]** (3 videos)
+- **[[#5. 4. Pages]]** (3 videos)
+- **[[#6. 5. Posts]]** (4 videos)
+- **[[#7. 6. Plugins and Themes]]** (3 videos)
+- **[[#8. 7. Design Customization]]** (3 videos)
+- **[[#9. 8. Media Library]]** (2 videos)
+- **[[#10. 9. WordPress Maintenance]]** (4 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

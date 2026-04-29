@@ -53,13 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Comparing Excel and SQL** (2 videos)
-- **3. 2. SQL Basics** (7 videos)
-- **4. 3. Working with Functions** (4 videos)
-- **5. 4. Organizing Data** (5 videos)
-- **6. 5. Combining Data** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Comparing Excel and SQL]]** (2 videos)
+- **[[#3. 2. SQL Basics]]** (7 videos)
+- **[[#4. 3. Working with Functions]]** (4 videos)
+- **[[#5. 4. Organizing Data]]** (5 videos)
+- **[[#6. 5. Combining Data]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

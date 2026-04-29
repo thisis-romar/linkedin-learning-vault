@@ -39,18 +39,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Starting with Excel** (2 videos)
-- **3. 2. Dataset Basics** (2 videos)
-- **4. 3. Looking at Data** (2 videos)
-- **5. 4. Dataset Variability** (4 videos)
-- **6. 5. Excel Descriptive Tools** (2 videos)
-- **7. 6. Basic Probability Concepts** (7 videos)
-- **8. 7. Discrete Probabilities** (4 videos)
-- **9. 8. Continuous Probabilities** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Starting with Excel]]** (2 videos)
+- **[[#2. Dataset Basics]]** (2 videos)
+- **[[#3. Looking at Data]]** (2 videos)
+- **[[#4. Dataset Variability]]** (4 videos)
+- **[[#5. Excel Descriptive Tools]]** (2 videos)
+- **[[#6. Basic Probability Concepts]]** (7 videos)
+- **[[#7. Discrete Probabilities]]** (4 videos)
+- **[[#8. Continuous Probabilities]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980)
@@ -136,7 +138,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Starting with Excel
+### 1. Starting with Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Excel basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980)
@@ -674,7 +678,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Dataset Basics
+### 2. Dataset Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sum, Count, Max, Min, and Range
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980)
@@ -1182,7 +1188,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Looking at Data
+### 3. Looking at Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Frequency table
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980)
@@ -1497,7 +1505,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Dataset Variability
+### 4. Dataset Variability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Standard deviation
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980)
@@ -2185,7 +2195,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Excel Descriptive Tools
+### 5. Excel Descriptive Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Descriptive tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980)
@@ -2483,7 +2495,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Basic Probability Concepts
+### 6. Basic Probability Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980)
@@ -3653,7 +3667,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Discrete Probabilities
+### 7. Discrete Probabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discrete probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980)
@@ -4241,7 +4257,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Continuous Probabilities
+### 8. Continuous Probabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuous: Z-score tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-z-score-tables?u=76281980)
@@ -4663,7 +4681,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980)

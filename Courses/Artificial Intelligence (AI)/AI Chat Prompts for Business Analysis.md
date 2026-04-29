@@ -50,11 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Defining Good Questions** (4 videos)
-- **3. 2. Getting Chat Prompts to Work for You** (4 videos)
-- **4. 3. Driving Analysis Products with Generative AI** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Defining Good Questions]]** (4 videos)
+- **[[#3. 2. Getting Chat Prompts to Work for You]]** (4 videos)
+- **[[#4. 3. Driving Analysis Products with Generative AI]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

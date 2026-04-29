@@ -55,12 +55,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Comfortable with the Basics** (5 videos)
-- **3. 2. Why Should Anyone Care About Privacy?** (6 videos)
-- **4. 3. What's the Harm? Does Privacy Matter in the Age of AI?** (5 videos)
-- **5. 4. Privacy Solutions and Futures** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Comfortable with the Basics]]** (5 videos)
+- **[[#3. 2. Why Should Anyone Care About Privacy?]]** (6 videos)
+- **[[#4. 3. What's the Harm? Does Privacy Matter in the Age of AI?]]** (5 videos)
+- **[[#5. 4. Privacy Solutions and Futures]]** (7 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (8 videos)
-- **3. 2. Retrieving Data** (12 videos)
-- **4. 3. Writing Data** (9 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (8 videos)
+- **[[#2. Retrieving Data]]** (12 videos)
+- **[[#3. Writing Data]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Web APIs with ASP.NET Core 8
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980)
@@ -175,7 +177,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prerequisites and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980)
@@ -1063,7 +1067,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Retrieving Data
+### 2. Retrieving Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Controllers and actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980)
@@ -2089,7 +2095,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Writing Data
+### 3. Writing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### HTTP methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-methods?u=76281980)
@@ -3067,7 +3075,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980)

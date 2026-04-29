@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Setting Up** (6 videos)
-- **3. 2. Testing with Jest** (8 videos)
-- **4. 3. Debugging with Chrome and Extensions** (5 videos)
-- **5. 4. ESLint and Types** (3 videos)
-- **6. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Setting Up]]** (6 videos)
+- **[[#3. 2. Testing with Jest]]** (8 videos)
+- **[[#4. 3. Debugging with Chrome and Extensions]]** (5 videos)
+- **[[#5. 4. ESLint and Types]]** (3 videos)
+- **[[#6. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

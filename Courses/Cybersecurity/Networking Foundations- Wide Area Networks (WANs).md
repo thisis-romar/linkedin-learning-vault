@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to WAN** (5 videos)
-- **3. 2. Private WAN** (4 videos)
-- **4. 3. Public WAN** (4 videos)
-- **5. 4. Modern WAN** (5 videos)
-- **6. Conclusion** (3 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to WAN]]** (5 videos)
+- **[[#2. Private WAN]]** (4 videos)
+- **[[#3. Public WAN]]** (4 videos)
+- **[[#4. Modern WAN]]** (5 videos)
+- **[[#Conclusion]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/introduction?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to WAN
+### 1. Introduction to WAN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is WAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-is-wan?u=76281980)
@@ -475,7 +479,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Private WAN
+### 2. Private WAN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### T1/E1 and T3/E3 leased lines for WAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/t1-e1-and-t3-e3-leased-lines-for-wan?u=76281980)
@@ -755,7 +761,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Public WAN
+### 3. Public WAN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### WAN via DSL
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-dsl?u=76281980)
@@ -1123,7 +1131,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Modern WAN
+### 4. Modern WAN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dedicated internet access (DIA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/dedicated-internet-access-dia?u=76281980)
@@ -1598,7 +1608,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### WAN consideration
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980)

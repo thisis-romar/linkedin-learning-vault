@@ -45,17 +45,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Starting Your Django Project** (4 videos)
-- **3. 2. Django Built-In User Management** (3 videos)
-- **4. 3. How Django Interacts with Databases** (6 videos)
-- **5. 4. Building Dynamic Webpages** (6 videos)
-- **6. 5. Building Robust Front-Ends in Django** (5 videos)
-- **7. 6. Django Forms: Validation Shouldn’t Be Hard** (5 videos)
-- **8. 7. Working with Existing Data** (4 videos)
-- **9. 8. Using Django to Store and Display User-Specific Data** (5 videos)
-- **10. 9. Login, Logout, and Signup Are Simple** (5 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Starting Your Django Project]]** (4 videos)
+- **[[#3. 2. Django Built-In User Management]]** (3 videos)
+- **[[#4. 3. How Django Interacts with Databases]]** (6 videos)
+- **[[#5. 4. Building Dynamic Webpages]]** (6 videos)
+- **[[#6. 5. Building Robust Front-Ends in Django]]** (5 videos)
+- **[[#7. 6. Django Forms: Validation Shouldn’t Be Hard]]** (5 videos)
+- **[[#8. 7. Working with Existing Data]]** (4 videos)
+- **[[#9. 8. Using Django to Store and Display User-Specific Data]]** (5 videos)
+- **[[#10. 9. Login, Logout, and Signup Are Simple]]** (5 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

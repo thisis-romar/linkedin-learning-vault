@@ -54,15 +54,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. MPLS TE Foundation** (2 videos)
-- **3. 2. MPLS TE Components** (3 videos)
-- **4. 3. MPLS TE Configuration** (7 videos)
-- **5. 4. Advanced MPLS TE Features** (7 videos)
-- **6. 5. MPLS TE Fast Reroute (FRR)** (5 videos)
-- **7. 6. Cost Calculation of IGP Routes over TE Tunnels** (5 videos)
-- **8. 7. MPLS TE and MPLS VPN** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. MPLS TE Foundation]]** (2 videos)
+- **[[#3. 2. MPLS TE Components]]** (3 videos)
+- **[[#4. 3. MPLS TE Configuration]]** (7 videos)
+- **[[#5. 4. Advanced MPLS TE Features]]** (7 videos)
+- **[[#6. 5. MPLS TE Fast Reroute (FRR)]]** (5 videos)
+- **[[#7. 6. Cost Calculation of IGP Routes over TE Tunnels]]** (5 videos)
+- **[[#8. 7. MPLS TE and MPLS VPN]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

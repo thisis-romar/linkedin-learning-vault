@@ -44,10 +44,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Regular Search Features** (5 videos)
-- **3. 2. Code Search Beta** (3 videos)
-- **4. Conclusion** (0 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Regular Search Features]]** (5 videos)
+- **[[#3. 2. Code Search Beta]]** (3 videos)
+- **[[#4. Conclusion]]** (0 videos)
 
 ### 1. Introduction
 

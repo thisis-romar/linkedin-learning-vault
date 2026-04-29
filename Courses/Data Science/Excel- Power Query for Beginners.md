@@ -46,10 +46,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Data with Power Query** (2 videos)
-- **3. 2. Cleaning and Transforming Data with Power Query** (5 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Getting Data with Power Query]]** (2 videos)
+- **[[#3. 2. Cleaning and Transforming Data with Power Query]]** (5 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -66,10 +66,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What is Data Science?** (2 videos)
-- **3. 2. Imperative Nontechnical Skills** (10 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. What is Data Science?]]** (2 videos)
+- **[[#3. 2. Imperative Nontechnical Skills]]** (10 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

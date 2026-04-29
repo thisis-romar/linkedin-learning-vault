@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Organizational Penetration Testing** (5 videos)
-- **3. 2. Types of Penetration Testing** (7 videos)
-- **4. 3. Penetration Testing Techniques** (7 videos)
-- **5. 4. Penetration Testing Blueprint** (7 videos)
-- **6. 5. Outsourcing Penetration Testing** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Organizational Penetration Testing]]** (5 videos)
+- **[[#2. Types of Penetration Testing]]** (7 videos)
+- **[[#3. Penetration Testing Techniques]]** (7 videos)
+- **[[#4. Penetration Testing Blueprint]]** (7 videos)
+- **[[#5. Outsourcing Penetration Testing]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing an organization's defenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/testing-an-organization-s-defenses?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Organizational Penetration Testing
+### 1. Organizational Penetration Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding penetration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/understanding-penetration-testing?u=76281980)
@@ -492,7 +496,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Types of Penetration Testing
+### 2. Types of Penetration Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparing different environments
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/comparing-different-environments?u=76281980)
@@ -977,7 +983,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Penetration Testing Techniques
+### 3. Penetration Testing Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Following a structured plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/following-a-structured-plan?u=76281980)
@@ -1401,7 +1409,9 @@ created: 2026-04-28
 > **Versions:** 9.1 (1)
 
 
-### 5. 4. Penetration Testing Blueprint
+### 4. Penetration Testing Blueprint
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Checking physical security
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/checking-physical-security?u=76281980)
@@ -1884,7 +1894,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Outsourcing Penetration Testing
+### 5. Outsourcing Penetration Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Contracting the pen test
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/contracting-the-pen-test?u=76281980)
@@ -2210,7 +2222,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-pen-testing-for-cybersecurity-professionals/what-s-next?u=76281980)

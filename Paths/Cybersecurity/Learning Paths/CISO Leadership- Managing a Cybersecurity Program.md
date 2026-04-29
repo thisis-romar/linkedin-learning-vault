@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/ciso-leadership-managing-a-cybersec
 course_count: 8
 linkedin_topics:
   - Cybersecurity
-louvain_cluster: 12
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/security

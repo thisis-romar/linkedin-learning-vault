@@ -50,16 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Presenting Financial Data** (6 videos)
-- **3. 2. Cleaning Up Excel Data for Finance Presentations** (5 videos)
-- **4. 3. Dynamic Charting with Formulas and Pivots** (4 videos)
-- **5. 4. Building Excel Charts for Presentations** (5 videos)
-- **6. 5. Crafting Graphics for Presentations** (4 videos)
-- **7. 6. Communicate Your Message with Conditional Formatting** (5 videos)
-- **8. 7. Getting Excel Content into PowerPoint** (5 videos)
-- **9. 8. Finalizing Your PowerPoint Presentation** (5 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Presenting Financial Data]]** (6 videos)
+- **[[#3. 2. Cleaning Up Excel Data for Finance Presentations]]** (5 videos)
+- **[[#4. 3. Dynamic Charting with Formulas and Pivots]]** (4 videos)
+- **[[#5. 4. Building Excel Charts for Presentations]]** (5 videos)
+- **[[#6. 5. Crafting Graphics for Presentations]]** (4 videos)
+- **[[#7. 6. Communicate Your Message with Conditional Formatting]]** (5 videos)
+- **[[#8. 7. Getting Excel Content into PowerPoint]]** (5 videos)
+- **[[#9. 8. Finalizing Your PowerPoint Presentation]]** (5 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

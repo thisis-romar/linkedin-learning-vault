@@ -43,17 +43,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Basics** (8 videos)
-- **3. 2. Control Structures** (8 videos)
-- **4. 3. Math in PHP** (5 videos)
-- **5. 4. Loops** (6 videos)
-- **6. 5. Functions and Objects** (11 videos)
-- **7. 6. Including External Files** (6 videos)
-- **8. 7. Troubleshooting Your Code** (7 videos)
-- **9. 8. Processing Forms** (9 videos)
-- **10. 9. Advanced Topics** (4 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. The Basics]]** (8 videos)
+- **[[#3. 2. Control Structures]]** (8 videos)
+- **[[#4. 3. Math in PHP]]** (5 videos)
+- **[[#5. 4. Loops]]** (6 videos)
+- **[[#6. 5. Functions and Objects]]** (11 videos)
+- **[[#7. 6. Including External Files]]** (6 videos)
+- **[[#8. 7. Troubleshooting Your Code]]** (7 videos)
+- **[[#9. 8. Processing Forms]]** (9 videos)
+- **[[#10. 9. Advanced Topics]]** (4 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -39,14 +39,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Web Application and Software Patterns Overview** (4 videos)
-- **3. 2. Setup and User Assistance** (5 videos)
-- **4. 3. Tables and Data** (4 videos)
-- **5. 4. Controls** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Web Application and Software Patterns Overview]]** (4 videos)
+- **[[#2. Setup and User Assistance]]** (5 videos)
+- **[[#3. Tables and Data]]** (4 videos)
+- **[[#4. Controls]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing web and software applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/designing-web-and-software-applications?u=76281980)
@@ -74,7 +76,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Web Application and Software Patterns Overview
+### 1. Web Application and Software Patterns Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Web applications and software patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/web-applications-and-software-patterns?u=76281980)
@@ -319,7 +323,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Setup and User Assistance
+### 2. Setup and User Assistance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### First time experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/first-time-experience?u=76281980)
@@ -624,7 +630,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Tables and Data
+### 3. Tables and Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tables: Column, sort, and pagination
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tables-column-sort-and-pagination?u=76281980)
@@ -837,7 +845,9 @@ created: 2026-04-28
 > **UI Navigation:** checkbox (1)
 
 
-### 5. 4. Controls
+### 4. Controls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tool bars
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/tool-bars?u=76281980)
@@ -1119,7 +1129,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-software-and-web-design-patterns/next-steps?u=76281980)

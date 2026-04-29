@@ -42,17 +42,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Using Units and Options** (4 videos)
-- **3. 2. Drawing More Objects** (4 videos)
-- **4. 3. Modifying Objects** (14 videos)
-- **5. 4. Hatching and Gradients** (3 videos)
-- **6. 5. More Text Techniques** (2 videos)
-- **7. 6. More Dimensioning Techniques** (5 videos)
-- **8. 7. Reusing Content** (6 videos)
-- **9. 8. Attributes and Tables** (5 videos)
-- **10. 9. External References (XRefs)** (5 videos)
-- **11. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Using Units and Options]]** (4 videos)
+- **[[#3. 2. Drawing More Objects]]** (4 videos)
+- **[[#4. 3. Modifying Objects]]** (14 videos)
+- **[[#5. 4. Hatching and Gradients]]** (3 videos)
+- **[[#6. 5. More Text Techniques]]** (2 videos)
+- **[[#7. 6. More Dimensioning Techniques]]** (5 videos)
+- **[[#8. 7. Reusing Content]]** (6 videos)
+- **[[#9. 8. Attributes and Tables]]** (5 videos)
+- **[[#10. 9. External References (XRefs)]]** (5 videos)
+- **[[#11. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

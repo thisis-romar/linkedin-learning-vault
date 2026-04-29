@@ -48,10 +48,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting to Know GraphQL** (5 videos)
-- **3. 2. Building GraphQL APIs** (8 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Getting to Know GraphQL]]** (5 videos)
+- **[[#3. 2. Building GraphQL APIs]]** (8 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

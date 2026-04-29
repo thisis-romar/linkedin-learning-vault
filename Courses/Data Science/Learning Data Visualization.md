@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Big Idea** (3 videos)
-- **3. 2. What to Think About** (7 videos)
-- **4. 3. Selecting the Visualization Type** (12 videos)
-- **5. 4. Designing Visualizations for Impact** (11 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Big Idea]]** (3 videos)
+- **[[#2. What to Think About]]** (7 videos)
+- **[[#3. Selecting the Visualization Type]]** (12 videos)
+- **[[#4. Designing Visualizations for Impact]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The essence of data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980)
@@ -106,7 +108,9 @@ created: 2026-04-28
 > **Speakers:** - [bill] (1)
 
 
-### 2. 1. Big Idea
+### 1. Big Idea
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data visualization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-is-data-visualization?u=76281980)
@@ -272,7 +276,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. What to Think About
+### 2. What to Think About
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three focal points
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980)
@@ -745,7 +751,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Selecting the Visualization Type
+### 3. Selecting the Visualization Type
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choose charts with intention
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/choose-charts-with-intention?u=76281980)
@@ -1680,7 +1688,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Designing Visualizations for Impact
+### 4. Designing Visualizations for Impact
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of sketching
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980)
@@ -2495,7 +2505,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980)

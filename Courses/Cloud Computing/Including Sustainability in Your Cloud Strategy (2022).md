@@ -52,15 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Foundations of Cloud Sustainability** (6 videos)
-- **3. 2. Why Are Some Technologies More Efficient than Others?** (1 videos)
-- **4. 3. Carbon Measurements and Their Implications** (3 videos)
-- **5. 4. Energy Consumption Case Studies** (2 videos)
-- **6. 5. Consolidation for a Greener Future** (1 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Foundations of Cloud Sustainability]]** (6 videos)
+- **[[#2. Why Are Some Technologies More Efficient than Others?]]** (1 videos)
+- **[[#3. Carbon Measurements and Their Implications]]** (3 videos)
+- **[[#4. Energy Consumption Case Studies]]** (2 videos)
+- **[[#5. Consolidation for a Greener Future]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Do not waste water
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980)
@@ -176,7 +178,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Foundations of Cloud Sustainability
+### 1. Foundations of Cloud Sustainability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Factors impacting carbon consumption in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/factors-impacting-carbon-consumption-in-the-cloud?u=76281980)
@@ -548,7 +552,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Why Are Some Technologies More Efficient than Others?
+### 2. Why Are Some Technologies More Efficient than Others?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measuring parallel efficiency of the cloud systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980)
@@ -634,7 +640,9 @@ created: 2026-04-28
 > **Speakers:** - since (1)
 
 
-### 4. 3. Carbon Measurements and Their Implications
+### 3. Carbon Measurements and Their Implications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Carbon tax rates and carbon intensity
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/carbon-tax-rates-and-carbon-intensity?u=76281980)
@@ -765,7 +773,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Energy Consumption Case Studies
+### 4. Energy Consumption Case Studies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Energy consumption case study 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/energy-consumption-case-study-1?u=76281980)
@@ -843,7 +853,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 6. 5. Consolidation for a Greener Future
+### 5. Consolidation for a Greener Future
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of consolidation
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980)
@@ -889,7 +901,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980)

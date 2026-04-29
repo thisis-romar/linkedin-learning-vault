@@ -42,12 +42,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Managing Dynamic Content and Behavior** (6 videos)
-- **3. 2. Form Control Bindings** (5 videos)
-- **4. 3. Rendering and Styling Logic** (5 videos)
-- **5. 4. Using Vue Components** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Managing Dynamic Content and Behavior]]** (6 videos)
+- **[[#3. 2. Form Control Bindings]]** (5 videos)
+- **[[#4. 3. Rendering and Styling Logic]]** (5 videos)
+- **[[#5. 4. Using Vue Components]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

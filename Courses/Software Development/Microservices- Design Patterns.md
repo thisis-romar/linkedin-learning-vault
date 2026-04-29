@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Decomposition Patterns** (6 videos)
-- **3. 2. Integration Patterns** (3 videos)
-- **4. 3. Data Patterns** (4 videos)
-- **5. 4. Operational Patterns** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Decomposition Patterns]]** (6 videos)
+- **[[#2. Integration Patterns]]** (3 videos)
+- **[[#3. Data Patterns]]** (4 videos)
+- **[[#4. Operational Patterns]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solving microservices problems with patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980)
@@ -213,7 +215,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. Decomposition Patterns
+### 1. Decomposition Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Decomposition of a system
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/decomposition-of-a-system?u=76281980)
@@ -669,7 +673,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. Integration Patterns
+### 2. Integration Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Gateway pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980)
@@ -989,7 +995,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Data Patterns
+### 3. Data Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Single service database
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980)
@@ -1226,7 +1234,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Operational Patterns
+### 4. Operational Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Log aggregation patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980)
@@ -1734,7 +1744,9 @@ created: 2026-04-28
 > **Speakers:** - documentation (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/next-steps?u=76281980)

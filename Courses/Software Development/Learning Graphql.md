@@ -43,13 +43,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is GraphQL?** (3 videos)
-- **3. 2. GraphQL Queries** (4 videos)
-- **4. 3. Mutations and Subscriptions** (5 videos)
-- **5. 4. Creating a GraphQL Server Schema** (4 videos)
-- **6. 5. Schema Enhancements** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What Is GraphQL?]]** (3 videos)
+- **[[#3. 2. GraphQL Queries]]** (4 videos)
+- **[[#4. 3. Mutations and Subscriptions]]** (5 videos)
+- **[[#5. 4. Creating a GraphQL Server Schema]]** (4 videos)
+- **[[#6. 5. Schema Enhancements]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

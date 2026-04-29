@@ -46,11 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Preventing Customer Anger** (3 videos)
-- **3. 2. Serving Angry Customers** (5 videos)
-- **4. 3. Learning from Angry Customers** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Preventing Customer Anger]]** (3 videos)
+- **[[#3. 2. Serving Angry Customers]]** (5 videos)
+- **[[#4. 3. Learning from Angry Customers]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

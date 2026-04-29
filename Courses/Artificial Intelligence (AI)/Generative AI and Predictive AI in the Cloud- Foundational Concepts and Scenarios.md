@@ -57,15 +57,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI Basics** (3 videos)
-- **3. 2. Cloud AI Basics** (4 videos)
-- **4. 3. Using Predictive AI to Improve Decision-Making** (5 videos)
-- **5. 4. Using Predictive AI to Automate More Intelligently** (5 videos)
-- **6. 5. Using Generative AI to Create New Business Value** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI Basics]]** (3 videos)
+- **[[#2. Cloud AI Basics]]** (4 videos)
+- **[[#3. Using Predictive AI to Improve Decision-Making]]** (5 videos)
+- **[[#4. Using Predictive AI to Automate More Intelligently]]** (5 videos)
+- **[[#5. Using Generative AI to Create New Business Value]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI and the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. AI Basics
+### 1. AI Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980)
@@ -212,7 +216,9 @@ created: 2026-04-28
 > **Analogies:** for example (1), similar to (1)
 
 
-### 3. 2. Cloud AI Basics
+### 2. Cloud AI Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI, clouds, and quantum computers
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980)
@@ -419,7 +425,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Using Predictive AI to Improve Decision-Making
+### 3. Using Predictive AI to Improve Decision-Making
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How humans make decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980)
@@ -605,7 +613,9 @@ created: 2026-04-28
 > **Warnings:** be careful (1)
 
 
-### 5. 4. Using Predictive AI to Automate More Intelligently
+### 4. Using Predictive AI to Automate More Intelligently
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automation without AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980)
@@ -810,7 +820,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. 5. Using Generative AI to Create New Business Value
+### 5. Using Generative AI to Create New Business Value
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating new content and ideas without AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980)
@@ -1053,7 +1065,9 @@ created: 2026-04-28
 > **Speakers:** - working (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980)

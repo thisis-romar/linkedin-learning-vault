@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Build a Troubleshooting Mindset** (4 videos)
-- **3. 2. Introducing Microservices** (4 videos)
-- **4. 3. Effective Logging Strategies** (10 videos)
-- **5. 4. Debugging Node.js Applications** (5 videos)
-- **6. 5. Measuring Performance** (4 videos)
-- **7. Conclusion** (3 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Build a Troubleshooting Mindset]]** (4 videos)
+- **[[#3. 2. Introducing Microservices]]** (4 videos)
+- **[[#4. 3. Effective Logging Strategies]]** (10 videos)
+- **[[#5. 4. Debugging Node.js Applications]]** (5 videos)
+- **[[#6. 5. Measuring Performance]]** (4 videos)
+- **[[#7. Conclusion]]** (3 videos)
 
 ### 1. Introduction
 

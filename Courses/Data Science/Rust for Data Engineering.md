@@ -49,18 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Getting Started with the Modern Rust Development Ecosystem** (8 videos)
-- **2. 2. Rust Sequences and Maps** (8 videos)
-- **3. 3. Rust Sets, Graphs, and Miscellaneous Data Structures** (8 videos)
-- **4. 4. Rust Safety and Security Features** (7 videos)
-- **5. 5. Security Programming with Rust** (8 videos)
-- **6. 6. Concurrency with Rust** (8 videos)
-- **7. 7. Using Rust to Manage Data, Files, and Network Storage** (6 videos)
-- **8. 8. DataFrames with Rust, Python, and Notebooks** (7 videos)
-- **9. 9. Using Rust with Cloud SDKs and CLIs for Data Engineering** (8 videos)
-- **10. 10. Getting Started with Rust Data Pipelines (Including ETL)** (7 videos)
-- **11. 11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines** (7 videos)
-- **12. 12. Building SQL Solutions with Rust, Generative AI, and Cloud** (9 videos)
+- **[[#1. 1. Getting Started with the Modern Rust Development Ecosystem]]** (8 videos)
+- **[[#2. 2. Rust Sequences and Maps]]** (8 videos)
+- **[[#3. 3. Rust Sets, Graphs, and Miscellaneous Data Structures]]** (8 videos)
+- **[[#4. 4. Rust Safety and Security Features]]** (7 videos)
+- **[[#5. 5. Security Programming with Rust]]** (8 videos)
+- **[[#6. 6. Concurrency with Rust]]** (8 videos)
+- **[[#7. 7. Using Rust to Manage Data, Files, and Network Storage]]** (6 videos)
+- **[[#8. 8. DataFrames with Rust, Python, and Notebooks]]** (7 videos)
+- **[[#9. 9. Using Rust with Cloud SDKs and CLIs for Data Engineering]]** (8 videos)
+- **[[#10. 10. Getting Started with Rust Data Pipelines (Including ETL)]]** (7 videos)
+- **[[#11. 11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines]]** (7 videos)
+- **[[#12. 12. Building SQL Solutions with Rust, Generative AI, and Cloud]]** (9 videos)
 
 ### 1. 1. Getting Started with the Modern Rust Development Ecosystem
 

@@ -50,11 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Use Agents in Microsoft 365 Copilot** (3 videos)
-- **3. 2. Create Your Own Agents** (5 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Use Agents in Microsoft 365 Copilot]]** (3 videos)
+- **[[#2. Create Your Own Agents]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use agents for specialized AI tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980)
@@ -151,7 +153,9 @@ created: 2026-04-28
 > **Speakers:** - not (1)
 
 
-### 2. 1. Use Agents in Microsoft 365 Copilot
+### 1. Use Agents in Microsoft 365 Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand how Copilot agents work
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980)
@@ -391,7 +395,9 @@ created: 2026-04-28
 > **Tools:** confluence (1)
 
 
-### 3. 2. Create Your Own Agents
+### 2. Create Your Own Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a basic Copilot agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980)

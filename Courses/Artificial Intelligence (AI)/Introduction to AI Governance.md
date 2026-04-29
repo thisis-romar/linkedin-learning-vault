@@ -73,14 +73,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding the Governance Landscape** (4 videos)
-- **3. 2. Building the Governance Lens** (3 videos)
-- **4. 3. Measures to Introduce Governance** (3 videos)
-- **5. 4. Future of AI Governance** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding the Governance Landscape]]** (4 videos)
+- **[[#2. Building the Governance Lens]]** (3 videos)
+- **[[#3. Measures to Introduce Governance]]** (3 videos)
+- **[[#4. Future of AI Governance]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing the lens of AI governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/developing-the-lens-of-ai-governance?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [vidhi] (1)
 
 
-### 2. 1. Understanding the Governance Landscape
+### 1. Understanding the Governance Landscape
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of AI governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980)
@@ -435,7 +439,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Building the Governance Lens
+### 2. Building the Governance Lens
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dimensions of governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980)
@@ -682,7 +688,9 @@ created: 2026-04-28
 > **Speakers:** - [educator] (1)
 
 
-### 4. 3. Measures to Introduce Governance
+### 3. Measures to Introduce Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up an ethics board
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980)
@@ -960,7 +968,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Future of AI Governance
+### 4. Future of AI Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The road ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980)
@@ -1129,7 +1139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advancing AI governance in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980)

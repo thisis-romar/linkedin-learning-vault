@@ -54,13 +54,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Security at Work** (2 videos)
-- **3. 2. Security in the Home** (2 videos)
-- **4. 3. Security While Traveling** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Security at Work]]** (2 videos)
+- **[[#2. Security in the Home]]** (2 videos)
+- **[[#3. Security While Traveling]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud security basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980)
@@ -357,7 +359,9 @@ created: 2026-04-28
 > **Env Vars:** mfa (2)
 
 
-### 2. 1. Security at Work
+### 1. Security at Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoiding security misconfigurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980)
@@ -537,7 +541,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 3. 2. Security in the Home
+### 2. Security in the Home
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing your smart home (IoT) devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980)
@@ -723,7 +729,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 4. 3. Security While Traveling
+### 3. Security While Traveling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding public Wi-Fi and hotspots
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980)
@@ -904,7 +912,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bringing it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980)

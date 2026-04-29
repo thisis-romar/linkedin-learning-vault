@@ -51,14 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Who Uses Forecasted Financial Statements?** (5 videos)
-- **3. 2. It All Starts with an Accurate Sales Forecast** (4 videos)
-- **4. 3. What Causes Financial Statement Numbers to Change?** (4 videos)
-- **5. 4. Constructing a Forecasted Income Statement** (4 videos)
-- **6. 5. Constructing a Forecasted Balance Sheet** (4 videos)
-- **7. 6. Constructing a Forecasted Statement of Cash Flows** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Who Uses Forecasted Financial Statements?]]** (5 videos)
+- **[[#3. 2. It All Starts with an Accurate Sales Forecast]]** (4 videos)
+- **[[#4. 3. What Causes Financial Statement Numbers to Change?]]** (4 videos)
+- **[[#5. 4. Constructing a Forecasted Income Statement]]** (4 videos)
+- **[[#6. 5. Constructing a Forecasted Balance Sheet]]** (4 videos)
+- **[[#7. 6. Constructing a Forecasted Statement of Cash Flows]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

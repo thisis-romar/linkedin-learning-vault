@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Business and Hybrid Multicloud Networking** (4 videos)
-- **3. 2. Hybrid Multicloud Network Options** (5 videos)
-- **4. 3. Planning a Hybrid Multicloud Network** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Business and Hybrid Multicloud Networking]]** (4 videos)
+- **[[#2. Hybrid Multicloud Network Options]]** (5 videos)
+- **[[#3. Planning a Hybrid Multicloud Network]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bringing hybrid multicloud networking to the real world
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. The Business and Hybrid Multicloud Networking
+### 1. The Business and Hybrid Multicloud Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring cloud migration strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980)
@@ -474,7 +478,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Hybrid Multicloud Network Options
+### 2. Hybrid Multicloud Network Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of hybrid multicloud networking options
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980)
@@ -917,7 +923,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/multicloud-networking-software?u=76281980)
 
 
-### 4. 3. Planning a Hybrid Multicloud Network
+### 3. Planning a Hybrid Multicloud Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The shifting acquisition landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980)
@@ -1467,7 +1475,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Moving forward with your hybrid multicloud networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/moving-forward-with-your-hybrid-multicloud-networking?u=76281980)

@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Working with Playbooks** (9 videos)
-- **3. 2. Creating Reusable Playbooks** (5 videos)
-- **4. 3. Using Variables** (4 videos)
-- **5. 4. Using Flow Control** (6 videos)
-- **6. 5. Grouping Content** (3 videos)
-- **7. 6. Using Ansible to Deploy Files** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Working with Playbooks]]** (9 videos)
+- **[[#3. 2. Creating Reusable Playbooks]]** (5 videos)
+- **[[#4. 3. Using Variables]]** (4 videos)
+- **[[#5. 4. Using Flow Control]]** (6 videos)
+- **[[#6. 5. Grouping Content]]** (3 videos)
+- **[[#7. 6. Using Ansible to Deploy Files]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

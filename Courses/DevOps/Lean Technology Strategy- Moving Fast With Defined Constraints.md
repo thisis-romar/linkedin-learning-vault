@@ -38,9 +38,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Moving Fast With Defined Constraints** (4 videos)
+- **[[#1. Moving Fast With Defined Constraints]]** (4 videos)
 
-### 1. 1. Moving Fast With Defined Constraints
+### 1. Moving Fast With Defined Constraints
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the boundaries
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980)

@@ -44,10 +44,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Get Them to Stay: The Basics** (3 videos)
-- **3. 2. Inspire Them to Grow: The Core Work** (3 videos)
-- **4. 3. Help Them Love Their Work: The Challenge** (3 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Get Them to Stay: The Basics]]** (3 videos)
+- **[[#3. 2. Inspire Them to Grow: The Core Work]]** (3 videos)
+- **[[#4. 3. Help Them Love Their Work: The Challenge]]** (3 videos)
 
 ### 1. Introduction
 

@@ -60,11 +60,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Regression** (3 videos)
-- **3. 2. Logistic Regression** (4 videos)
-- **4. 3. Classifying Data with Logistic Regression** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Regression]]** (3 videos)
+- **[[#3. 2. Logistic Regression]]** (4 videos)
+- **[[#4. 3. Classifying Data with Logistic Regression]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

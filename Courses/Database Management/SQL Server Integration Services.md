@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Get Started with Integration Services** (4 videos)
-- **3. 2. SSIS Designer** (6 videos)
-- **4. 3. Control Flow Tasks** (8 videos)
-- **5. 4. Data Sources and Connections** (5 videos)
-- **6. 5. The Data Flow Task and Transformations** (8 videos)
-- **7. 6. Controlling Package Execution** (6 videos)
-- **8. 7. Deploy and Run SSIS Projects** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Get Started with Integration Services]]** (4 videos)
+- **[[#3. 2. SSIS Designer]]** (6 videos)
+- **[[#4. 3. Control Flow Tasks]]** (8 videos)
+- **[[#5. 4. Data Sources and Connections]]** (5 videos)
+- **[[#6. 5. The Data Flow Task and Transformations]]** (8 videos)
+- **[[#7. 6. Controlling Package Execution]]** (6 videos)
+- **[[#8. 7. Deploy and Run SSIS Projects]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -53,13 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding the AI Ecosystem** (5 videos)
-- **3. 2. AI Models and Architecture** (6 videos)
-- **4. 3. AI Datasets** (7 videos)
-- **5. 4. AI APIs: Access and Integration** (11 videos)
-- **6. 5. AI  Resources and Community** (8 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understanding the AI Ecosystem]]** (5 videos)
+- **[[#3. 2. AI Models and Architecture]]** (6 videos)
+- **[[#4. 3. AI Datasets]]** (7 videos)
+- **[[#5. 4. AI APIs: Access and Integration]]** (11 videos)
+- **[[#6. 5. AI  Resources and Community]]** (8 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

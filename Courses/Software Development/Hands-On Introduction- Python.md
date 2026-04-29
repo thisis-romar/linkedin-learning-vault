@@ -38,8 +38,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Software%20Development/Hands-On%20Introduction-%20Python.md)
-
 ![Hands-On Introduction: Python](https://media.licdn.com/dms/image/v2/D560DAQGMn-0MyDgvMA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1666990089517?e=2147483647&amp;v=beta&amp;t=kPGoj89jEDZ85eOQ8Y9_7EAFUDEsnR5iN4g7bDhXEw4)
 
 # Hands-On Introduction: Python
@@ -53,16 +51,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Running Python** (1 videos)
-- **3. 2. Diving into a Python Project** (5 videos)
-- **4. 3. Let's Build Something!** (5 videos)
-- **5. 4. Extending a Service** (5 videos)
-- **6. 5. Hands-on Python for AI** (3 videos)
-- **7. 6. Python Cheat Sheets** (0 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Running Python]]** (1 videos)
+- **[[#2. Diving into a Python Project]]** (5 videos)
+- **[[#3. Let's Build Something!]]** (5 videos)
+- **[[#4. Extending a Service]]** (5 videos)
+- **[[#5. Hands-on Python for AI]]** (3 videos)
+- **[[#6. Python Cheat Sheets]]** (0 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn Python by doing
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/learn-python-by-doing-25081203?u=76281980)
@@ -255,7 +255,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 2. 1. Running Python
+### 1. Running Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hello Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/hello-python-24501588?u=76281980)
@@ -356,7 +358,9 @@ created: 2026-04-28
 > **Analogies:** such as (1), similar to (1)
 
 
-### 3. 2. Diving into a Python Project
+### 2. Diving into a Python Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scope and indentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/scope-and-indentation-24503428?u=76281980)
@@ -781,7 +785,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Let's Build Something!
+### 3. Let's Build Something!
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reading a CSV file
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/reading-a-csv-file-24504403?u=76281980)
@@ -1145,7 +1151,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Extending a Service
+### 4. Extending a Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loading a JSON dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/loading-a-json-dataset-25082158?u=76281980)
@@ -1543,7 +1551,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Hands-on Python for AI
+### 5. Hands-on Python for AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Python and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/python-and-ai?u=76281980)
@@ -1697,10 +1707,14 @@ created: 2026-04-28
 > **Exercise Files:** source code (1), exercise files (1)
 
 
-### 7. 6. Python Cheat Sheets
+### 6. Python Cheat Sheets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Extend your new Python skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-python/extend-your-new-python-skills-25081202?u=76281980)

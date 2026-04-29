@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding the Current Security Awareness Foundation** (3 videos)
-- **3. 2. Developing a Solid Awareness Plan** (3 videos)
-- **4. 3. Implementing and Communicating the Security Awareness Program** (4 videos)
-- **5. 4. Engaging Employees with Ongoing Awareness Initiatives** (4 videos)
-- **6. 5. Measuring the Effectiveness of Your Security Awareness Program** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understanding the Current Security Awareness Foundation]]** (3 videos)
+- **[[#3. 2. Developing a Solid Awareness Plan]]** (3 videos)
+- **[[#4. 3. Implementing and Communicating the Security Awareness Program]]** (4 videos)
+- **[[#5. 4. Engaging Employees with Ongoing Awareness Initiatives]]** (4 videos)
+- **[[#6. 5. Measuring the Effectiveness of Your Security Awareness Program]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

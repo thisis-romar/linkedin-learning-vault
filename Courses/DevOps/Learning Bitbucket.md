@@ -46,11 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Getting Started with Bitbucket** (8 videos)
-- **3. 2. Working with Branches and Pull Requests** (5 videos)
-- **4. 3. Working with Jira Cloud** (7 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Getting Started with Bitbucket]]** (8 videos)
+- **[[#3. 2. Working with Branches and Pull Requests]]** (5 videos)
+- **[[#4. 3. Working with Jira Cloud]]** (7 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

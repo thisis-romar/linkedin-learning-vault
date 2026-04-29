@@ -53,23 +53,25 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Artificial Intelligence?** (3 videos)
-- **3. 2. Popular Uses for Artificial Intelligence** (2 videos)
-- **4. 3. The Rise of Machine Learning** (2 videos)
-- **5. 4. Common AI Systems** (5 videos)
-- **6. 5. Learn from Data** (3 videos)
-- **7. 6. Identify Patterns** (3 videos)
-- **8. 7. Machine Learning Algorithms** (5 videos)
-- **9. 8. Fit the Algorithm** (3 videos)
-- **10. 9. Artificial Neural Networks** (3 videos)
-- **11. 10. Improve Accuracy** (2 videos)
-- **12. 11. The Rise of Generative AI** (4 videos)
-- **13. 12. Generative AI Architecture** (3 videos)
-- **14. 13. Ethical and Legal Challenges** (4 videos)
-- **15. 14. Where to Go from Here** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Artificial Intelligence?]]** (3 videos)
+- **[[#2. Popular Uses for Artificial Intelligence]]** (2 videos)
+- **[[#3. The Rise of Machine Learning]]** (2 videos)
+- **[[#4. Common AI Systems]]** (5 videos)
+- **[[#5. Learn from Data]]** (3 videos)
+- **[[#6. Identify Patterns]]** (3 videos)
+- **[[#7. Machine Learning Algorithms]]** (5 videos)
+- **[[#8. Fit the Algorithm]]** (3 videos)
+- **[[#9. Artificial Neural Networks]]** (3 videos)
+- **[[#10. Improve Accuracy]]** (2 videos)
+- **[[#11. The Rise of Generative AI]]** (4 videos)
+- **[[#12. Generative AI Architecture]]** (3 videos)
+- **[[#13. Ethical and Legal Challenges]]** (4 videos)
+- **[[#14. Where to Go from Here]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why you need to know about artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - artificial (1)
 
 
-### 2. 1. What Is Artificial Intelligence?
+### 1. What Is Artificial Intelligence?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define general intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980)
@@ -376,7 +380,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Popular Uses for Artificial Intelligence
+### 2. Popular Uses for Artificial Intelligence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Predictive AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980)
@@ -543,7 +549,9 @@ created: 2026-04-28
 > **Speakers:** - over (1)
 
 
-### 4. 3. The Rise of Machine Learning
+### 3. The Rise of Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980)
@@ -738,7 +746,9 @@ created: 2026-04-28
 > **Speakers:** - machine (1)
 
 
-### 5. 4. Common AI Systems
+### 4. Common AI Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Searching for patterns in data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980)
@@ -1192,7 +1202,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 6. 5. Learn from Data
+### 5. Learn from Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Labeled and unlabeled data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980)
@@ -1476,7 +1488,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 7. 6. Identify Patterns
+### 6. Identify Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Classify data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980)
@@ -1760,7 +1774,9 @@ created: 2026-04-28
 > **Speakers:** - online (1)
 
 
-### 8. 7. Machine Learning Algorithms
+### 7. Machine Learning Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980)
@@ -2221,7 +2237,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 9. 8. Fit the Algorithm
+### 8. Fit the Algorithm
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Select the best algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980)
@@ -2487,7 +2505,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 10. 9. Artificial Neural Networks
+### 9. Artificial Neural Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build a neural network
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980)
@@ -2740,7 +2760,9 @@ created: 2026-04-28
 > **Speakers:** - an (1)
 
 
-### 11. 10. Improve Accuracy
+### 10. Improve Accuracy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning from mistakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980)
@@ -2931,7 +2953,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 12. 11. The Rise of Generative AI
+### 11. The Rise of Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Self-supervised learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980)
@@ -3294,7 +3318,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 13. 12. Generative AI Architecture
+### 12. Generative AI Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative adversarial networks (GAN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980)
@@ -3543,7 +3569,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 14. 13. Ethical and Legal Challenges
+### 13. Ethical and Legal Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The alignment problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980)
@@ -3886,7 +3914,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 15. 14. Where to Go from Here
+### 14. Where to Go from Here
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980)

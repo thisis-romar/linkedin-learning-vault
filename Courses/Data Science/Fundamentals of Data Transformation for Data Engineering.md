@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Setup and Beyond** (4 videos)
-- **3. 2. Data Transformation with SQL and DuckDB** (12 videos)
-- **4. 3. Data Transformation with Python and pandas** (10 videos)
-- **5. Conclusion** (3 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Setup and Beyond]]** (4 videos)
+- **[[#2. Data Transformation with SQL and DuckDB]]** (12 videos)
+- **[[#3. Data Transformation with Python and pandas]]** (10 videos)
+- **[[#Conclusion]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to data transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980)
@@ -254,7 +256,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1), set up (1)
 
 
-### 2. 1. Setup and Beyond
+### 1. Setup and Beyond
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Codespaces and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980)
@@ -586,7 +590,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Data Transformation with SQL and DuckDB
+### 2. Data Transformation with SQL and DuckDB
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DuckDB basics and query structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980)
@@ -2693,7 +2699,9 @@ created: 2026-04-28
 > **Code Identifiers:** lis_has_any (1)
 
 
-### 4. 3. Data Transformation with Python and pandas
+### 3. Data Transformation with Python and pandas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DataFrame basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980)
@@ -4727,7 +4735,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (2)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What you learned, how to practice and grow, and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980)

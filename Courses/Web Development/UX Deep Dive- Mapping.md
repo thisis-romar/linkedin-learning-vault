@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. UX Mapping** (1 videos)
-- **2. 1. Mapping Overview** (1 videos)
-- **3. 2. Empathy Map** (2 videos)
-- **4. 3. Journey Map** (3 videos)
-- **5. 4. Experience Map** (2 videos)
-- **6. 5. Other Maps** (1 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. UX Mapping]]** (1 videos)
+- **[[#2. 1. Mapping Overview]]** (1 videos)
+- **[[#3. 2. Empathy Map]]** (2 videos)
+- **[[#4. 3. Journey Map]]** (3 videos)
+- **[[#5. 4. Experience Map]]** (2 videos)
+- **[[#6. 5. Other Maps]]** (1 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. UX Mapping
 

@@ -54,10 +54,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Project Planning and Setup** (3 videos)
-- **3. 2. Full-Stack Implementation** (6 videos)
-- **4. 3. Testing and Validation** (5 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Project Planning and Setup]]** (3 videos)
+- **[[#3. 2. Full-Stack Implementation]]** (6 videos)
+- **[[#4. 3. Testing and Validation]]** (5 videos)
 
 ### 1. Introduction
 

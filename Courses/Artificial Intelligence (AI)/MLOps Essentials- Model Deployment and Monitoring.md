@@ -56,15 +56,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Continuous Delivery** (6 videos)
-- **3. 2. Model Serving** (5 videos)
-- **4. 3. Continuous Monitoring** (6 videos)
-- **5. 4. Drift Management** (5 videos)
-- **6. 5. Responsible AI** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Continuous Delivery]]** (6 videos)
+- **[[#2. Model Serving]]** (5 videos)
+- **[[#3. Continuous Monitoring]]** (6 videos)
+- **[[#4. Drift Management]]** (5 videos)
+- **[[#5. Responsible AI]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980)
@@ -270,7 +272,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. Continuous Delivery
+### 1. Continuous Delivery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An ML production setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/an-ml-production-setup?u=76281980)
@@ -647,7 +651,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Model Serving
+### 2. Model Serving
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Model serving patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980)
@@ -992,7 +998,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Continuous Monitoring
+### 3. Continuous Monitoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The monitoring pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980)
@@ -1385,7 +1393,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Drift Management
+### 4. Drift Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to model drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/introduction-to-model-drift?u=76281980)
@@ -1731,7 +1741,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Responsible AI
+### 5. Responsible AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elements of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980)
@@ -2005,7 +2017,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/continuing-on-with-mlops?u=76281980)

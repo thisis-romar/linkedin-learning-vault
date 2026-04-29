@@ -39,10 +39,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Custom GPTs** (5 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Custom GPTs]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your own powerful GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980)
@@ -76,7 +78,9 @@ created: 2026-04-28
 > **Speakers:** - with (1)
 
 
-### 2. 1. Custom GPTs
+### 1. Custom GPTs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze an archive of PDFs
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980)

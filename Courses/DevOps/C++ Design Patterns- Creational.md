@@ -49,15 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. Design Patterns Overview** (3 videos)
-- **3. 2. Creational Patterns** (4 videos)
-- **4. 3. Factory Method** (4 videos)
-- **5. 4. Abstract Factory** (7 videos)
-- **6. 5. Builder** (5 videos)
-- **7. 6. Prototype** (4 videos)
-- **8. 7. Singleton** (4 videos)
-- **9. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (6 videos)
+- **[[#2. 1. Design Patterns Overview]]** (3 videos)
+- **[[#3. 2. Creational Patterns]]** (4 videos)
+- **[[#4. 3. Factory Method]]** (4 videos)
+- **[[#5. 4. Abstract Factory]]** (7 videos)
+- **[[#6. 5. Builder]]** (5 videos)
+- **[[#7. 6. Prototype]]** (4 videos)
+- **[[#8. 7. Singleton]]** (4 videos)
+- **[[#9. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

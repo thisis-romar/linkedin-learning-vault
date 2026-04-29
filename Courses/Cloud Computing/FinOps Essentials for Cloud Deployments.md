@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. FinOps Introduction** (8 videos)
-- **3. 2. Establishing FinOps in Your Organization** (8 videos)
-- **4. 3. Externalizing FinOps to the Organization** (9 videos)
-- **5. 4. Optimizing for FinOps in Your Organization** (10 videos)
-- **6. 5. Automating for FinOps** (7 videos)
-- **7. 6. Operating for FinOps Success** (9 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. FinOps Introduction]]** (8 videos)
+- **[[#2. Establishing FinOps in Your Organization]]** (8 videos)
+- **[[#3. Externalizing FinOps to the Organization]]** (9 videos)
+- **[[#4. Optimizing for FinOps in Your Organization]]** (10 videos)
+- **[[#5. Automating for FinOps]]** (7 videos)
+- **[[#6. Operating for FinOps Success]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to FinOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980)
@@ -106,7 +108,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. FinOps Introduction
+### 1. FinOps Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding FinOps and its importance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980)
@@ -591,7 +595,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Establishing FinOps in Your Organization
+### 2. Establishing FinOps in Your Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Determining your business requirements and business case for FinOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/determining-your-business-requirements-and-business-case-for-finops?u=76281980)
@@ -973,7 +979,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Externalizing FinOps to the Organization
+### 3. Externalizing FinOps to the Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud spending visibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980)
@@ -1510,7 +1518,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 5. 4. Optimizing for FinOps in Your Organization
+### 4. Optimizing for FinOps in Your Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud spending observability
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-observability?u=76281980)
@@ -1972,7 +1982,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Automating for FinOps
+### 5. Automating for FinOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying what you should automate
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/identifying-what-you-should-automate?u=76281980)
@@ -2461,7 +2473,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Operating for FinOps Success
+### 6. Operating for FinOps Success
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### FinOps continuous improvement
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980)
@@ -2832,7 +2846,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/next-steps?u=76281980)

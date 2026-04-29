@@ -51,16 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. AWS Security Foundations** (12 videos)
-- **3. 2. IAM Concepts in AWS** (34 videos)
-- **4. 3. Multi-Account Access** (7 videos)
-- **5. 4. Detection and Response** (20 videos)
-- **6. 5. Network and Application Protection** (10 videos)
-- **7. 6. Data Protection and Operations** (31 videos)
-- **8. 7. S3 Access Management** (22 videos)
-- **9. 8. Security Audits in AWS** (9 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. AWS Security Foundations]]** (12 videos)
+- **[[#3. 2. IAM Concepts in AWS]]** (34 videos)
+- **[[#4. 3. Multi-Account Access]]** (7 videos)
+- **[[#5. 4. Detection and Response]]** (20 videos)
+- **[[#6. 5. Network and Application Protection]]** (10 videos)
+- **[[#7. 6. Data Protection and Operations]]** (31 videos)
+- **[[#8. 7. S3 Access Management]]** (22 videos)
+- **[[#9. 8. Security Audits in AWS]]** (9 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

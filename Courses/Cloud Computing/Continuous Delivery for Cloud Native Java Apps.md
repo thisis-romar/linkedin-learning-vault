@@ -52,14 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Foundations of Continuous Delivery** (5 videos)
-- **3. 2. Developing Modern Java Apps** (5 videos)
-- **4. 3. Building Applications with Gradle** (8 videos)
-- **5. 4. Packaging Applications with Maven** (6 videos)
-- **6. 5. Continuous Integration with Jenkins** (11 videos)
-- **7. 6. Continuous Delivery with Argo CD** (10 videos)
-- **8. Course Wrap-Up** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Foundations of Continuous Delivery]]** (5 videos)
+- **[[#3. 2. Developing Modern Java Apps]]** (5 videos)
+- **[[#4. 3. Building Applications with Gradle]]** (8 videos)
+- **[[#5. 4. Packaging Applications with Maven]]** (6 videos)
+- **[[#6. 5. Continuous Integration with Jenkins]]** (11 videos)
+- **[[#7. 6. Continuous Delivery with Argo CD]]** (10 videos)
+- **[[#8. Course Wrap-Up]]** (1 videos)
 
 ### 1. Introduction
 

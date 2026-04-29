@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. PLC Programming** (2 videos)
-- **3. 2. Ladder Logic Basics** (8 videos)
-- **4. 3. Rung Operation** (10 videos)
-- **5. 4. Timers and Counters** (7 videos)
-- **6. 5. Detailed Case Study: Plywood Sheets Process** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. PLC Programming]]** (2 videos)
+- **[[#3. 2. Ladder Logic Basics]]** (8 videos)
+- **[[#4. 3. Rung Operation]]** (10 videos)
+- **[[#5. 4. Timers and Counters]]** (7 videos)
+- **[[#6. 5. Detailed Case Study: Plywood Sheets Process]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

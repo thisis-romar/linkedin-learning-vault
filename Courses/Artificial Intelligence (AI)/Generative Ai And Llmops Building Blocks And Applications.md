@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to LLMs and Their Applications** (2 videos)
-- **3. 2. Diving Into LLM Architectures** (6 videos)
-- **4. 3. Fine-Tuning Strategies for Custom Tasks** (5 videos)
-- **5. 4. Compression Techniques for LLMs** (5 videos)
-- **6. 5. Prompt Engineering for Effective LLM Communication** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to LLMs and Their Applications]]** (2 videos)
+- **[[#3. 2. Diving Into LLM Architectures]]** (6 videos)
+- **[[#4. 3. Fine-Tuning Strategies for Custom Tasks]]** (5 videos)
+- **[[#5. 4. Compression Techniques for LLMs]]** (5 videos)
+- **[[#6. 5. Prompt Engineering for Effective LLM Communication]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -51,12 +51,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Machine Learning Foundations** (4 videos)
-- **3. 2. Intentional Failure Modes/Attacks** (9 videos)
-- **4. 3. Unintentional Failure Modes/Intrinsic Design Flaws** (5 videos)
-- **5. 4. Building Resilient ML** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Machine Learning Foundations]]** (4 videos)
+- **[[#3. 2. Intentional Failure Modes/Attacks]]** (9 videos)
+- **[[#4. 3. Unintentional Failure Modes/Intrinsic Design Flaws]]** (5 videos)
+- **[[#5. 4. Building Resilient ML]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

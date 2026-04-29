@@ -53,13 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Large Language Models (LLMs)** (6 videos)
-- **3. 2. Utilizing LLMs with Prompt Engineering** (7 videos)
-- **4. 3. Transfer Learning for NLP Tasks** (6 videos)
-- **5. 4. PEFT Fine-Tuning with LoRA** (7 videos)
-- **6. 5. Project: Creating a Full NLP Solution** (4 videos)
-- **7. Conclusion** (4 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introduction to Large Language Models (LLMs)]]** (6 videos)
+- **[[#3. 2. Utilizing LLMs with Prompt Engineering]]** (7 videos)
+- **[[#4. 3. Transfer Learning for NLP Tasks]]** (6 videos)
+- **[[#5. 4. PEFT Fine-Tuning with LoRA]]** (7 videos)
+- **[[#6. 5. Project: Creating a Full NLP Solution]]** (4 videos)
+- **[[#7. Conclusion]]** (4 videos)
 
 ### 1. Introduction
 

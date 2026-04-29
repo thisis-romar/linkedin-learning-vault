@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Creating a Trial Microsoft 365 Account** (3 videos)
-- **3. 2. Implementing OneDrive for Business** (3 videos)
-- **4. 3. Managing OneDrive Storage** (2 videos)
-- **5. 4. Managing OneDrive for Business** (4 videos)
-- **6. 5. Monitoring OneDrive for Business** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Creating a Trial Microsoft 365 Account]]** (3 videos)
+- **[[#2. Implementing OneDrive for Business]]** (3 videos)
+- **[[#3. Managing OneDrive Storage]]** (2 videos)
+- **[[#4. Managing OneDrive for Business]]** (4 videos)
+- **[[#5. Monitoring OneDrive for Business]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/welcome-to-onedrive?u=76281980)
@@ -112,7 +114,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Creating a Trial Microsoft 365 Account
+### 1. Creating a Trial Microsoft 365 Account
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a free Microsoft 365 E5 trial account
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/create-a-free-microsoft-365-e5-trial-account?u=76281980)
@@ -542,7 +546,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Implementing OneDrive for Business
+### 2. Implementing OneDrive for Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OneDrive for Business overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/onedrive-for-business-overview?u=76281980)
@@ -693,7 +699,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Managing OneDrive Storage
+### 3. Managing OneDrive Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing storage space
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-storage-space?u=76281980)
@@ -887,7 +895,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Managing OneDrive for Business
+### 4. Managing OneDrive for Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing sharing
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/managing-sharing?u=76281980)
@@ -1265,7 +1275,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 6. 5. Monitoring OneDrive for Business
+### 5. Monitoring OneDrive for Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Activity reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/activity-reports?u=76281980)
@@ -1437,7 +1449,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue learning OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-onedrive/continue-learning-onedrive?u=76281980)

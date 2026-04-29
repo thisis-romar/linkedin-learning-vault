@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Overview of IT Architecture** (6 videos)
-- **3. 2. Context, Roles, Activities, and Frameworks** (5 videos)
-- **4. 3. Achieving the Goals of IT Architecture** (4 videos)
-- **5. 4. Contribution to IT Practices** (7 videos)
-- **6. 5. Advances in IT Architecture** (10 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Overview of IT Architecture]]** (6 videos)
+- **[[#2. Context, Roles, Activities, and Frameworks]]** (5 videos)
+- **[[#3. Achieving the Goals of IT Architecture]]** (4 videos)
+- **[[#4. Contribution to IT Practices]]** (7 videos)
+- **[[#5. Advances in IT Architecture]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stand apart with IT architecture know-how
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/stand-apart-with-it-architecture-know-how?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - picture (1)
 
 
-### 2. 1. Overview of IT Architecture
+### 1. Overview of IT Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IT infrastructure: The product of IT architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980)
@@ -588,7 +592,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. Context, Roles, Activities, and Frameworks
+### 2. Context, Roles, Activities, and Frameworks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IT architecture in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980)
@@ -965,7 +971,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 4. 3. Achieving the Goals of IT Architecture
+### 3. Achieving the Goals of IT Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reducing unnecessary complexity
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980)
@@ -1276,7 +1284,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 5. 4. Contribution to IT Practices
+### 4. Contribution to IT Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IT risk management
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980)
@@ -1682,7 +1692,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 6. 5. Advances in IT Architecture
+### 5. Advances in IT Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hybrid and multicloud IT architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980)
@@ -2250,7 +2262,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further your journey into IT architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980)

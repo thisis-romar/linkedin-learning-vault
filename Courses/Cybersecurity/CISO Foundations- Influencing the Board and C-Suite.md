@@ -50,14 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Benefits of Mastering Your Executive Relationships** (2 videos)
-- **3. 2. How Can the CISO Tackle the CEO?** (3 videos)
-- **4. 3. The Wonders of A CFO Who Gets It** (3 videos)
-- **5. 4. The Power Duo Relationship with Your CRO** (3 videos)
-- **6. 5. The Friendship between the CIO and the CISO** (3 videos)
-- **7. 6. Let’s Take It to the Boardroom!** (1 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Benefits of Mastering Your Executive Relationships]]** (2 videos)
+- **[[#3. 2. How Can the CISO Tackle the CEO?]]** (3 videos)
+- **[[#4. 3. The Wonders of A CFO Who Gets It]]** (3 videos)
+- **[[#5. 4. The Power Duo Relationship with Your CRO]]** (3 videos)
+- **[[#6. 5. The Friendship between the CIO and the CISO]]** (3 videos)
+- **[[#7. 6. Let’s Take It to the Boardroom!]]** (1 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

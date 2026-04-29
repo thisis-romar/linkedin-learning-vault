@@ -67,16 +67,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. React Fundamentals** (5 videos)
-- **3. 2. Creating React Elements** (6 videos)
-- **4. 3. Writing React Components** (4 videos)
-- **5. 4. Handling State in a React Project** (6 videos)
-- **6. 5. React Server Components** (5 videos)
-- **7. 6. Asynchronous React in Next.js** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. React Fundamentals]]** (5 videos)
+- **[[#2. Creating React Elements]]** (6 videos)
+- **[[#3. Writing React Components]]** (4 videos)
+- **[[#4. Handling State in a React Project]]** (6 videos)
+- **[[#5. React Server Components]]** (5 videos)
+- **[[#6. Asynchronous React in Next.js]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building modern user interfaces with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. React Fundamentals
+### 1. React Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980)
@@ -414,7 +418,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creating React Elements
+### 2. Creating React Elements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Initializing a project with Vite
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980)
@@ -799,7 +805,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Writing React Components
+### 3. Writing React Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/working-with-lists?u=76281980)
@@ -1111,7 +1119,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Handling State in a React Project
+### 4. Handling State in a React Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Destructuring arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980)
@@ -1559,7 +1569,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. React Server Components
+### 5. React Server Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a project with Next.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980)
@@ -1965,7 +1977,9 @@ created: 2026-04-28
 > **Ports:** :3000 (1)
 
 
-### 7. 6. Asynchronous React in Next.js
+### 6. Asynchronous React in Next.js
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fetching data in React applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980)
@@ -2559,7 +2573,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing performant apps with React Server Components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980)

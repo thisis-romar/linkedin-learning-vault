@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Key Principles of Leadership** (4 videos)
-- **3. 2. Core Leadership Competencies** (7 videos)
-- **4. 3. Navigating Leadership Complexity** (4 videos)
-- **5. 4. Real-World Leadership Lessons** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Key Principles of Leadership]]** (4 videos)
+- **[[#2. Core Leadership Competencies]]** (7 videos)
+- **[[#3. Navigating Leadership Complexity]]** (4 videos)
+- **[[#4. Real-World Leadership Lessons]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to leadership foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/welcome-to-leadership-foundations?u=76281980)
@@ -78,7 +80,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Key Principles of Leadership
+### 1. Key Principles of Leadership
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leading yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-yourself?u=76281980)
@@ -448,7 +452,9 @@ created: 2026-04-28
 > **Speakers:** - effective (1)
 
 
-### 3. 2. Core Leadership Competencies
+### 2. Core Leadership Competencies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980)
@@ -988,7 +994,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Navigating Leadership Complexity
+### 3. Navigating Leadership Complexity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leading change through agility and resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-change-through-agility-and-resilience?u=76281980)
@@ -1272,7 +1280,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Real-World Leadership Lessons
+### 4. Real-World Leadership Lessons
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing Richard Davis and Steve Miranda
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/introducing-richard-davis-and-steve-miranda?u=76281980)
@@ -1332,7 +1342,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Action planning and next steps to becoming a leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980)

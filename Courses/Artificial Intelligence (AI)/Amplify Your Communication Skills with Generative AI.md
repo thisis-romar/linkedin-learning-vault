@@ -39,12 +39,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Writing with Style and Impact Using Generative AI** (4 videos)
-- **3. 2. Boost Interpersonal Communication with AI** (4 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Writing with Style and Impact Using Generative AI]]** (4 videos)
+- **[[#2. Boost Interpersonal Communication with AI]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use AI to take your communication to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/use-ai-to-take-your-communication-to-the-next-level?u=76281980)
@@ -388,7 +390,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 1. Writing with Style and Impact Using Generative AI
+### 1. Writing with Style and Impact Using Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Write clear, persuasive, and warm emails with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980)
@@ -885,7 +889,9 @@ created: 2026-04-28
 > **Speakers:** - writing (1)
 
 
-### 3. 2. Boost Interpersonal Communication with AI
+### 2. Boost Interpersonal Communication with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Develop your conversation skills with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980)
@@ -1270,7 +1276,9 @@ created: 2026-04-28
 > **Speakers:** - ever (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Put your generative AI communication skills into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/put-your-generative-ai-communication-skills-into-practice?u=76281980)

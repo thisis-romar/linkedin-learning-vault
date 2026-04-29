@@ -44,14 +44,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to AI** (4 videos)
-- **3. 2. Supervised Learning** (1 videos)
-- **4. 3. Regression** (5 videos)
-- **5. 4. Classification** (3 videos)
-- **6. 5. Nonlinear Models** (2 videos)
-- **7. 6. Do It Right** (1 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to AI]]** (4 videos)
+- **[[#3. 2. Supervised Learning]]** (1 videos)
+- **[[#4. 3. Regression]]** (5 videos)
+- **[[#5. 4. Classification]]** (3 videos)
+- **[[#6. 5. Nonlinear Models]]** (2 videos)
+- **[[#7. 6. Do It Right]]** (1 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

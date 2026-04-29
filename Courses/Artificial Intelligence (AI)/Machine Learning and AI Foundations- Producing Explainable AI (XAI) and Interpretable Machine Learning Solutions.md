@@ -53,15 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. What Are XAI and IML?** (7 videos)
-- **3. 2. Why Isolating a Variable’s Contribution Is Difficult** (3 videos)
-- **4. 3. Black Box Model 101** (4 videos)
-- **5. 4. Introduction to KNIME for XAI and IML** (4 videos)
-- **6. 5. XAI Techniques: Global Explanations** (5 videos)
-- **7. 6. Techniques for Local Explanations** (6 videos)
-- **8. 7. IML Techniques** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. What Are XAI and IML?]]** (7 videos)
+- **[[#3. 2. Why Isolating a Variable’s Contribution Is Difficult]]** (3 videos)
+- **[[#4. 3. Black Box Model 101]]** (4 videos)
+- **[[#5. 4. Introduction to KNIME for XAI and IML]]** (4 videos)
+- **[[#6. 5. XAI Techniques: Global Explanations]]** (5 videos)
+- **[[#7. 6. Techniques for Local Explanations]]** (6 videos)
+- **[[#8. 7. IML Techniques]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

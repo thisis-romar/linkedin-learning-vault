@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. What Is a Denial of Service?** (2 videos)
-- **3. 2. Infrastructure Denial of Service** (7 videos)
-- **4. 3. Wireless Denial of Service** (1 videos)
-- **5. 4. Application Denial of Service** (6 videos)
-- **6. 5. SIP Service Attacks** (1 videos)
-- **7. 6. Ransomware** (3 videos)
-- **8. 7. Mitigation Techniques** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. What Is a Denial of Service?]]** (2 videos)
+- **[[#2. Infrastructure Denial of Service]]** (7 videos)
+- **[[#3. Wireless Denial of Service]]** (1 videos)
+- **[[#4. Application Denial of Service]]** (6 videos)
+- **[[#5. SIP Service Attacks]]** (1 videos)
+- **[[#6. Ransomware]]** (3 videos)
+- **[[#7. Mitigation Techniques]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding and defeating denial-of-service attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Is a Denial of Service?
+### 1. What Is a Denial of Service?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding denial of service
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980)
@@ -352,7 +356,9 @@ created: 2026-04-28
 > **Prerequisites:** initialization (1)
 
 
-### 3. 2. Infrastructure Denial of Service
+### 2. Infrastructure Denial of Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### TCP SYN flooding using hping3
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980)
@@ -1002,7 +1008,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Wireless Denial of Service
+### 3. Wireless Denial of Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deauthenticating a wireless host
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980)
@@ -1071,7 +1079,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Application Denial of Service
+### 4. Application Denial of Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Flooding HTTP using GoldenEye
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980)
@@ -1514,7 +1524,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 6. 5. SIP Service Attacks
+### 5. SIP Service Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Flooding a SIP server
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980)
@@ -1655,7 +1667,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 7. 6. Ransomware
+### 6. Ransomware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explaining ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980)
@@ -1861,7 +1875,9 @@ created: 2026-04-28
 > **Speakers:** - petya (1)
 
 
-### 8. 7. Mitigation Techniques
+### 7. Mitigation Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defeating denial-of-service attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980)
@@ -2235,7 +2251,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980)

@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Installation and Setup** (5 videos)
-- **3. 2. Data Structures in Pure Python** (5 videos)
-- **4. 3. Wordplay: Anagrams and Palindromes** (5 videos)
-- **5. 4. Arrays with NumPy** (5 videos)
-- **6. 5. Use Case: Weather Data** (7 videos)
-- **7. 6. pandas** (4 videos)
-- **8. 7. Use Case: Baby Names** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Installation and Setup]]** (5 videos)
+- **[[#3. 2. Data Structures in Pure Python]]** (5 videos)
+- **[[#4. 3. Wordplay: Anagrams and Palindromes]]** (5 videos)
+- **[[#5. 4. Arrays with NumPy]]** (5 videos)
+- **[[#6. 5. Use Case: Weather Data]]** (7 videos)
+- **[[#7. 6. pandas]]** (4 videos)
+- **[[#8. 7. Use Case: Baby Names]]** (6 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

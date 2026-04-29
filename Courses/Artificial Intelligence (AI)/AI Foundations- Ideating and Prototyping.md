@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Identifying the Problem** (2 videos)
-- **3. 2. Ideation Techniques** (2 videos)
-- **4. 3. Building a Prototype** (2 videos)
-- **5. 4. Resource Allocation and Funding Strategies** (2 videos)
-- **6. 5. Presenting and Refining Your AI Product Idea** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Identifying the Problem]]** (2 videos)
+- **[[#3. 2. Ideation Techniques]]** (2 videos)
+- **[[#4. 3. Building a Prototype]]** (2 videos)
+- **[[#5. 4. Resource Allocation and Funding Strategies]]** (2 videos)
+- **[[#6. 5. Presenting and Refining Your AI Product Idea]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

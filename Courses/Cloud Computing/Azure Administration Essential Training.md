@@ -57,15 +57,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Familiar with Microsoft Azure** (4 videos)
-- **3. 2. Managing Microsoft Azure resources** (10 videos)
-- **4. 3. Microsoft Azure Storage** (5 videos)
-- **5. 4. Microsoft Azure  Web Apps** (2 videos)
-- **6. 5. Microsoft Azure Virtual Machines** (5 videos)
-- **7. 6. Microsoft Microsoft Entra ID** (8 videos)
-- **8. 7. Microsoft Azure Networking** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Familiar with Microsoft Azure]]** (4 videos)
+- **[[#3. 2. Managing Microsoft Azure resources]]** (10 videos)
+- **[[#4. 3. Microsoft Azure Storage]]** (5 videos)
+- **[[#5. 4. Microsoft Azure  Web Apps]]** (2 videos)
+- **[[#6. 5. Microsoft Azure Virtual Machines]]** (5 videos)
+- **[[#7. 6. Microsoft Microsoft Entra ID]]** (8 videos)
+- **[[#8. 7. Microsoft Azure Networking]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

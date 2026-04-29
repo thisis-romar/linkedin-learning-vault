@@ -45,14 +45,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Setting Up Your Coding Environment** (3 videos)
-- **3. 2. Programming Building Blocks: Variables** (4 videos)
-- **4. 3. Using Variables to Build a UI** (8 videos)
-- **5. 4. Programming Building Blocks: Methods** (9 videos)
-- **6. 5. Programming Building Blocks: Control Flow** (7 videos)
-- **7. 6. Finishing the Application** (7 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Setting Up Your Coding Environment]]** (3 videos)
+- **[[#3. 2. Programming Building Blocks: Variables]]** (4 videos)
+- **[[#4. 3. Using Variables to Build a UI]]** (8 videos)
+- **[[#5. 4. Programming Building Blocks: Methods]]** (9 videos)
+- **[[#6. 5. Programming Building Blocks: Control Flow]]** (7 videos)
+- **[[#7. 6. Finishing the Application]]** (7 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

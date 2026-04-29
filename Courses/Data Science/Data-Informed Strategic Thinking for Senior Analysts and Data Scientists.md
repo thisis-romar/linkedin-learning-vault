@@ -40,17 +40,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is Strategy: Vision, Mission, and Values** (6 videos)
-- **3. 2. Analyzing a Market and a Strategy: How Competitive Is a Firm?** (5 videos)
-- **4. 3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?** (4 videos)
-- **5. 4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values** (5 videos)
-- **6. 5. Analytical Strategy Deep Dive: Analyzing Key Market Participants** (7 videos)
-- **7. 6. Operational Strategy Deep Dive: Monitoring and Measuring Success** (5 videos)
-- **8. 7. Course Review: Data-Informed Strategic Thinking and Decision-Making** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is Strategy: Vision, Mission, and Values]]** (6 videos)
+- **[[#2. Analyzing a Market and a Strategy: How Competitive Is a Firm?]]** (5 videos)
+- **[[#3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?]]** (4 videos)
+- **[[#4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values]]** (5 videos)
+- **[[#5. Analytical Strategy Deep Dive: Analyzing Key Market Participants]]** (7 videos)
+- **[[#6. Operational Strategy Deep Dive: Monitoring and Measuring Success]]** (5 videos)
+- **[[#7. Course Review: Data-Informed Strategic Thinking and Decision-Making]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data-informed strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/data-informed-strategic-thinking?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Is Strategy: Vision, Mission, and Values
+### 1. What Is Strategy: Vision, Mission, and Values
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is strategy, and what role does data science play?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980)
@@ -731,7 +735,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Analyzing a Market and a Strategy: How Competitive Is a Firm?
+### 2. Analyzing a Market and a Strategy: How Competitive Is a Firm?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analytical strategy: Assessing a competitive market
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980)
@@ -1328,7 +1334,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 4. 3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?
+### 3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Operational strategy: Scorecards and action plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980)
@@ -1682,7 +1690,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values
+### 4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deeper conceptual thinking: Values, leadership, and conflict
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980)
@@ -2202,7 +2212,9 @@ created: 2026-04-28
 > **Versions:** 3.100 (1)
 
 
-### 6. 5. Analytical Strategy Deep Dive: Analyzing Key Market Participants
+### 5. Analytical Strategy Deep Dive: Analyzing Key Market Participants
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deeper analytics: Assessing key market participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980)
@@ -2759,7 +2771,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Operational Strategy Deep Dive: Monitoring and Measuring Success
+### 6. Operational Strategy Deep Dive: Monitoring and Measuring Success
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deeper operational thinking: The balanced scorecard and action planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-operational-thinking-the-balanced-scorecard-and-action-planning?u=76281980)
@@ -3290,7 +3304,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Course Review: Data-Informed Strategic Thinking and Decision-Making
+### 7. Course Review: Data-Informed Strategic Thinking and Decision-Making
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review of course objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/review-of-course-objectives?u=76281980)
@@ -3401,7 +3417,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where do you go from here: Other courses of interest
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980)

@@ -53,13 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Identify Data Science Job Openings** (3 videos)
-- **3. 2. Create a Data Science Portfolio** (4 videos)
-- **4. 3. Build Your Online Presence** (3 videos)
-- **5. 4. Leverage Your Network** (2 videos)
-- **6. 5. Ace Your Interviews** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Identify Data Science Job Openings]]** (3 videos)
+- **[[#3. 2. Create a Data Science Portfolio]]** (4 videos)
+- **[[#4. 3. Build Your Online Presence]]** (3 videos)
+- **[[#5. 4. Leverage Your Network]]** (2 videos)
+- **[[#6. 5. Ace Your Interviews]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

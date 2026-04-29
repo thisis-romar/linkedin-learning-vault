@@ -40,9 +40,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Speaking Confidently and Effectively** (10 videos)
+- **[[#1. Speaking Confidently and Effectively]]** (10 videos)
 
-### 1. 1. Speaking Confidently and Effectively
+### 1. Speaking Confidently and Effectively
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Great speaking skills are a must-have
 > [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980)

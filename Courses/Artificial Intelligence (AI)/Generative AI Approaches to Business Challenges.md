@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Generative AI** (3 videos)
-- **3. 2. Applying Gen AI to Business Challenges** (6 videos)
-- **4. 3. Resources and Ethical Considerations** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Generative AI]]** (3 videos)
+- **[[#2. Applying Gen AI to Business Challenges]]** (6 videos)
+- **[[#3. Resources and Ethical Considerations]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transform your business with gen AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. Introduction to Generative AI
+### 1. Introduction to Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980)
@@ -275,7 +279,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Applying Gen AI to Business Challenges
+### 2. Applying Gen AI to Business Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify common business challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/identify-common-business-challenges?u=76281980)
@@ -631,7 +637,9 @@ created: 2026-04-28
 > **Speakers:** - usually (1)
 
 
-### 4. 3. Resources and Ethical Considerations
+### 3. Resources and Ethical Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore generative AI resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980)
@@ -796,7 +804,9 @@ created: 2026-04-28
 > **Speakers:** - consider (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get started
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980)

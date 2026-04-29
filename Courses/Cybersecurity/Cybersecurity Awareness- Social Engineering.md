@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Social Engineering Tactics** (8 videos)
-- **3. 2. Safeguarding Your Company from Attacks** (10 videos)
-- **4. 3. Testing Your Defenses** (2 videos)
-- **5. 4. Cybersecurity Awareness** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Social Engineering Tactics]]** (8 videos)
+- **[[#2. Safeguarding Your Company from Attacks]]** (10 videos)
+- **[[#3. Testing Your Defenses]]** (2 videos)
+- **[[#4. Cybersecurity Awareness]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defeat social engineers and cyber scammers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/defeat-social-engineers-and-cyber-scammers?u=76281980)
@@ -114,7 +116,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Social Engineering Tactics
+### 1. Social Engineering Tactics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Influence and decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/influence-and-decision-making?u=76281980)
@@ -669,7 +673,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. 2. Safeguarding Your Company from Attacks
+### 2. Safeguarding Your Company from Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cybersecurity awareness training
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980)
@@ -1296,7 +1302,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Testing Your Defenses
+### 3. Testing Your Defenses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Phishing simulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980)
@@ -1410,7 +1418,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Cybersecurity Awareness
+### 4. Cybersecurity Awareness
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Active and passive education
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980)
@@ -1517,7 +1527,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your cybersecurity awareness journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980)

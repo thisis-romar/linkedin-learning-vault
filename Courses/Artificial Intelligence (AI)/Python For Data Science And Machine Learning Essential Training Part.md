@@ -59,16 +59,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to the Data Professions** (4 videos)
-- **3. 2. Data Preparation Basics** (7 videos)
-- **4. 3. Data Visualization 101** (4 videos)
-- **5. 4. Practical Data Visualization** (7 videos)
-- **6. 5. Exploratory Data Analysis** (7 videos)
-- **7. 6. Getting Started with Machine Learning** (3 videos)
-- **8. 7. Data Sourcing via Web Scraping** (7 videos)
-- **9. 8. Collaborative Analytics with Streamlit** (6 videos)
-- **10. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to the Data Professions]]** (4 videos)
+- **[[#3. 2. Data Preparation Basics]]** (7 videos)
+- **[[#4. 3. Data Visualization 101]]** (4 videos)
+- **[[#5. 4. Practical Data Visualization]]** (7 videos)
+- **[[#6. 5. Exploratory Data Analysis]]** (7 videos)
+- **[[#7. 6. Getting Started with Machine Learning]]** (3 videos)
+- **[[#8. 7. Data Sourcing via Web Scraping]]** (7 videos)
+- **[[#9. 8. Collaborative Analytics with Streamlit]]** (6 videos)
+- **[[#10. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

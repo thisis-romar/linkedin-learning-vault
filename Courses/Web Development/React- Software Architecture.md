@@ -49,14 +49,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Software Architecture Basics** (1 videos)
-- **3. 2. Server-Side Rendering (SSR)** (7 videos)
-- **4. 3. State Management Architecture** (10 videos)
-- **5. 4. Data Loading and WebSockets** (4 videos)
-- **6. 5. Code Splitting** (4 videos)
-- **7. 6. Folder Structure and Naming Conventions** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Software Architecture Basics]]** (1 videos)
+- **[[#3. 2. Server-Side Rendering (SSR)]]** (7 videos)
+- **[[#4. 3. State Management Architecture]]** (10 videos)
+- **[[#5. 4. Data Loading and WebSockets]]** (4 videos)
+- **[[#6. 5. Code Splitting]]** (4 videos)
+- **[[#7. 6. Folder Structure and Naming Conventions]]** (2 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

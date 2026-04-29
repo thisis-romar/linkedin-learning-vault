@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding the Python any() and all() Methods** (3 videos)
-- **3. 2. Using the Python enumerate() and zip() Method** (3 videos)
-- **4. 3. Understanding the Python reversed() Method** (2 videos)
-- **5. 4. Working with Python min() and max()** (2 videos)
-- **6. 5. Understanding and Using the Python sorted() Method** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understanding the Python any() and all() Methods]]** (3 videos)
+- **[[#3. 2. Using the Python enumerate() and zip() Method]]** (3 videos)
+- **[[#4. 3. Understanding the Python reversed() Method]]** (2 videos)
+- **[[#5. 4. Working with Python min() and max()]]** (2 videos)
+- **[[#6. 5. Understanding and Using the Python sorted() Method]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

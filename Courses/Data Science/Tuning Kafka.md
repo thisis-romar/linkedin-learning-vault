@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introducing Kafka Tuning** (7 videos)
-- **3. 2. Tuning Kafka Producers** (8 videos)
-- **4. 3. Tuning Kafka Consumers** (4 videos)
-- **5. 4. Tuning Kafka Brokers** (3 videos)
-- **6. 5. Performance Testing with Python** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introducing Kafka Tuning]]** (7 videos)
+- **[[#3. 2. Tuning Kafka Producers]]** (8 videos)
+- **[[#4. 3. Tuning Kafka Consumers]]** (4 videos)
+- **[[#5. 4. Tuning Kafka Brokers]]** (3 videos)
+- **[[#6. 5. Performance Testing with Python]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

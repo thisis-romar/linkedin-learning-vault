@@ -47,16 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. What Are Custom Post Types and Taxonomies?** (3 videos)
-- **3. 2. Creating Custom Post Types without Code** (5 videos)
-- **4. 3. Creating Custom Taxonomies without Code** (4 videos)
-- **5. 4. Coding Your Own Custom Post Types** (9 videos)
-- **6. 5. Coding Your Own Custom Taxonomies** (6 videos)
-- **7. 6. Creating Custom Post Type Templates** (7 videos)
-- **8. 7. Custom Post Types and Taxonomies in Other Templates** (5 videos)
-- **9. 8. Moving Your Post Types to Your Theme** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. What Are Custom Post Types and Taxonomies?]]** (3 videos)
+- **[[#3. 2. Creating Custom Post Types without Code]]** (5 videos)
+- **[[#4. 3. Creating Custom Taxonomies without Code]]** (4 videos)
+- **[[#5. 4. Coding Your Own Custom Post Types]]** (9 videos)
+- **[[#6. 5. Coding Your Own Custom Taxonomies]]** (6 videos)
+- **[[#7. 6. Creating Custom Post Type Templates]]** (7 videos)
+- **[[#8. 7. Custom Post Types and Taxonomies in Other Templates]]** (5 videos)
+- **[[#9. 8. Moving Your Post Types to Your Theme]]** (3 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

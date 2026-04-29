@@ -42,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. PC Security** (7 videos)
-- **3. 2. PC Backup** (6 videos)
-- **4. 3. Windows Update** (3 videos)
-- **5. 4. Improving PC Performance** (3 videos)
-- **6. 5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. PC Security]]** (7 videos)
+- **[[#2. PC Backup]]** (6 videos)
+- **[[#3. Windows Update]]** (3 videos)
+- **[[#4. Improving PC Performance]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keeping your computer in tiptop shape
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980)
@@ -78,7 +80,9 @@ created: 2026-04-28
 > **Speakers:** - [dan] (1)
 
 
-### 2. 1. PC Security
+### 1. PC Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applying account security
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-account-security?u=76281980)
@@ -532,7 +536,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. PC Backup
+### 2. PC Backup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring Windows Backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980)
@@ -1006,7 +1012,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Windows Update
+### 3. Windows Update
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring Windows Update
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980)
@@ -1288,7 +1296,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Improving PC Performance
+### 4. Improving PC Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Monitoring system resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980)
@@ -1539,7 +1549,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Conclusion
+### 5. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/next-steps?u=76281980)

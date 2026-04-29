@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Appetizer: The Web Is Made of Boxes** (3 videos)
-- **3. 2. Entrée: The Origin of the Box in Typography** (3 videos)
-- **4. 3. Main Course: Understanding the Box Model** (8 videos)
-- **5. 4. Dessert: The Brave New World of Layouts** (5 videos)
-- **6. 5. Nightcap** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Appetizer: The Web Is Made of Boxes]]** (3 videos)
+- **[[#3. 2. Entrée: The Origin of the Box in Typography]]** (3 videos)
+- **[[#4. 3. Main Course: Understanding the Box Model]]** (8 videos)
+- **[[#5. 4. Dessert: The Brave New World of Layouts]]** (5 videos)
+- **[[#6. 5. Nightcap]]** (2 videos)
 
 ### 1. Introduction
 

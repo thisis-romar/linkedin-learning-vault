@@ -39,15 +39,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Accessibility?** (3 videos)
-- **3. 2. Accessibility by Example** (6 videos)
-- **4. 3. Tools and Techniques** (4 videos)
-- **5. 4. Personas for People with Disabilities** (6 videos)
-- **6. 5. Integrating Accessibility into Your UX Work and Process** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Accessibility?]]** (3 videos)
+- **[[#2. Accessibility by Example]]** (6 videos)
+- **[[#3. Tools and Techniques]]** (4 videos)
+- **[[#4. Personas for People with Disabilities]]** (6 videos)
+- **[[#5. Integrating Accessibility into Your UX Work and Process]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=76281980)
@@ -74,7 +76,9 @@ created: 2026-04-28
 > **Speakers:** - hi (1)
 
 
-### 2. 1. What Is Accessibility?
+### 1. What Is Accessibility?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/what-is-accessibility?u=76281980)
@@ -370,7 +374,9 @@ created: 2026-04-28
 > **Speakers:** - user (1)
 
 
-### 3. 2. Accessibility by Example
+### 2. Accessibility by Example
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980)
@@ -971,7 +977,9 @@ created: 2026-04-28
 > **Speakers:** - here (1)
 
 
-### 4. 3. Tools and Techniques
+### 3. Tools and Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of voice recognition software
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980)
@@ -1204,7 +1212,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Personas for People with Disabilities
+### 4. Personas for People with Disabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### People are people
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980)
@@ -1751,7 +1761,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 6. 5. Integrating Accessibility into Your UX Work and Process
+### 5. Integrating Accessibility into Your UX Work and Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessibility in content strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980)
@@ -2099,7 +2111,9 @@ created: 2026-04-28
 > **Speakers:** - listen (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### More resources and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/more-resources-and-next-steps?u=76281980)

@@ -45,12 +45,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Doing Research on AI Systems** (2 videos)
-- **3. 2. Using AI to Improve Research** (7 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Doing Research on AI Systems]]** (2 videos)
+- **[[#2. Using AI to Improve Research]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Artificial intelligence for research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/artificial-intelligence-for-research?u=76281980)
@@ -73,7 +75,9 @@ created: 2026-04-28
 > **Env Vars:** uxpa (1)
 
 
-### 2. 1. Doing Research on AI Systems
+### 1. Doing Research on AI Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Doing research on AI when it's not AI research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-when-it-s-not-ai-research?u=76281980)
@@ -183,7 +187,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 3. 2. Using AI to Improve Research
+### 2. Using AI to Improve Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting corporate buy-in for using AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980)
@@ -546,7 +552,9 @@ created: 2026-04-28
 > **Warnings:** caveat (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future of AI and research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/the-future-of-ai-and-research?u=76281980)

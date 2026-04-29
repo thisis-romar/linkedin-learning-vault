@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Securing Identities** (8 videos)
-- **3. 2. Securing Network Connectivity** (10 videos)
-- **4. 3. Securing Data** (4 videos)
-- **5. 4. Defender for Cloud** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Securing Identities]]** (8 videos)
+- **[[#3. 2. Securing Network Connectivity]]** (10 videos)
+- **[[#4. 3. Securing Data]]** (4 videos)
+- **[[#5. 4. Defender for Cloud]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

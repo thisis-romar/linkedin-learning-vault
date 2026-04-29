@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Wide World of Infrastructure** (8 videos)
-- **3. 2. Adventures in Automation** (5 videos)
-- **4. 3. Bringing It All Together** (7 videos)
-- **5. 4. With Great Power Comes Great Responsibility** (10 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Wide World of Infrastructure]]** (8 videos)
+- **[[#2. Adventures in Automation]]** (5 videos)
+- **[[#3. Bringing It All Together]]** (7 videos)
+- **[[#4. With Great Power Comes Great Responsibility]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make your systems better with infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. The Wide World of Infrastructure
+### 1. The Wide World of Infrastructure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### It's all about the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980)
@@ -858,7 +862,9 @@ created: 2026-04-28
 > **Cross-References:** in the last (1), in the next (1)
 
 
-### 3. 2. Adventures in Automation
+### 2. Adventures in Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building the boxes and lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980)
@@ -1480,7 +1486,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Bringing It All Together
+### 3. Bringing It All Together
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Provisioning lab overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980)
@@ -2375,7 +2383,9 @@ created: 2026-04-28
 > **API Endpoints:** get  (1)
 
 
-### 5. 4. With Great Power Comes Great Responsibility
+### 4. With Great Power Comes Great Responsibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is infrastructure as code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980)
@@ -3479,7 +3489,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (2)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980)

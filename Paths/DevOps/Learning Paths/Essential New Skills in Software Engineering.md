@@ -7,14 +7,14 @@ course_count: 4
 linkedin_topics:
   - DevOps
   - Software Development
-louvain_cluster: 9
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops
   - topic/software-development
   - status/in-progress
-last_activity: 2026-04-28T20:20:42.670Z
-activity_total: 2
+last_activity: 2026-04-28T23:45:35.738Z
+activity_total: 1
 courses_visited: 1
 videos_visited: 0
 progress_status: in-progress

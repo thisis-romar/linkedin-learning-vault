@@ -57,12 +57,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introducing Decision Trees** (5 videos)
-- **3. 2. Introducing the C5.0 Algorithm** (12 videos)
-- **4. 3. Introducing Classification Trees** (7 videos)
-- **5. 4. Introducing Regression Trees** (9 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introducing Decision Trees]]** (5 videos)
+- **[[#3. 2. Introducing the C5.0 Algorithm]]** (12 videos)
+- **[[#4. 3. Introducing Classification Trees]]** (7 videos)
+- **[[#5. 4. Introducing Regression Trees]]** (9 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

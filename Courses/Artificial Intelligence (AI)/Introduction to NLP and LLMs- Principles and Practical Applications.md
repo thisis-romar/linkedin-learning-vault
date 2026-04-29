@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to NLP and LLMs** (4 videos)
-- **3. 2. NLP and LLMs Use Cases** (3 videos)
-- **4. 3. Ethical Considerations and Responsible AI** (3 videos)
-- **5. 4. Leading NLP and LLM Projects** (4 videos)
-- **6. 5. Future Trends** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to NLP and LLMs]]** (4 videos)
+- **[[#2. NLP and LLMs Use Cases]]** (3 videos)
+- **[[#3. Ethical Considerations and Responsible AI]]** (3 videos)
+- **[[#4. Leading NLP and LLM Projects]]** (4 videos)
+- **[[#5. Future Trends]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Principles and practical applications of NLP and LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/principles-and-practical-applications-of-nlp-and-llms?u=76281980)
@@ -103,7 +105,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Introduction to NLP and LLMs
+### 1. Introduction to NLP and LLMs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is natural language processing (NLP)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/what-is-natural-language-processing-nlp?u=76281980)
@@ -324,7 +328,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. NLP and LLMs Use Cases
+### 2. NLP and LLMs Use Cases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying opportunities for NLP and LLM
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/identifying-opportunities-for-nlp-and-llm?u=76281980)
@@ -494,7 +500,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Ethical Considerations and Responsible AI
+### 3. Ethical Considerations and Responsible AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bias and fairness in NLP and LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/bias-and-fairness-in-nlp-and-llms?u=76281980)
@@ -727,7 +735,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Leading NLP and LLM Projects
+### 4. Leading NLP and LLM Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key roles in an NLP/LLM team
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/key-roles-in-an-nlp-llm-team?u=76281980)
@@ -1024,7 +1034,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Future Trends
+### 5. Future Trends
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The evolving landscape of NLP and LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/the-evolving-landscape-of-nlp-and-llms?u=76281980)
@@ -1184,7 +1196,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/next-steps?u=76281980)

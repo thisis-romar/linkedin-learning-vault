@@ -53,13 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. SQL for Data Engineers** (5 videos)
-- **3. 2. Modeling in SQL** (6 videos)
-- **4. 3. Table Materializations** (5 videos)
-- **5. 4. Common Table Expressions vs. Subqueries** (5 videos)
-- **6. 5. Testing SQL with dbt** (5 videos)
-- **7. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. SQL for Data Engineers]]** (5 videos)
+- **[[#3. 2. Modeling in SQL]]** (6 videos)
+- **[[#4. 3. Table Materializations]]** (5 videos)
+- **[[#5. 4. Common Table Expressions vs. Subqueries]]** (5 videos)
+- **[[#6. 5. Testing SQL with dbt]]** (5 videos)
+- **[[#7. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

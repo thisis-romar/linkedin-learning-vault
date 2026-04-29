@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Xcode Fundamentals** (3 videos)
-- **3. 2. UI Development with Storyboards** (12 videos)
-- **4. 3. SwiftUI Basics** (6 videos)
-- **5. 4. SwiftUI Binding** (6 videos)
-- **6. 5. Working with Multiple Screen Views in SwiftUI** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Xcode Fundamentals]]** (3 videos)
+- **[[#3. 2. UI Development with Storyboards]]** (12 videos)
+- **[[#4. 3. SwiftUI Basics]]** (6 videos)
+- **[[#5. 4. SwiftUI Binding]]** (6 videos)
+- **[[#6. 5. Working with Multiple Screen Views in SwiftUI]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

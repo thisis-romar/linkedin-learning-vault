@@ -44,16 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Financial Modeling Basics** (8 videos)
-- **3. 2. Corporate Financial Modeling: Three-Statement Financial Model** (8 videos)
-- **4. 3. Evaluating Corporate Financial Models: Three-Statement Model** (3 videos)
-- **5. 4. Investment Models: DCF Model** (4 videos)
-- **6. 5. Banking Models** (7 videos)
-- **7. 6. Buyout Models** (7 videos)
-- **8. 7. Financial Modeling across Industries** (4 videos)
-- **9. 8. Building and Maintaining Models** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Financial Modeling Basics]]** (8 videos)
+- **[[#3. 2. Corporate Financial Modeling: Three-Statement Financial Model]]** (8 videos)
+- **[[#4. 3. Evaluating Corporate Financial Models: Three-Statement Model]]** (3 videos)
+- **[[#5. 4. Investment Models: DCF Model]]** (4 videos)
+- **[[#6. 5. Banking Models]]** (7 videos)
+- **[[#7. 6. Buyout Models]]** (7 videos)
+- **[[#8. 7. Financial Modeling across Industries]]** (4 videos)
+- **[[#9. 8. Building and Maintaining Models]]** (4 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

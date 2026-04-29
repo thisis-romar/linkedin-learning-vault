@@ -59,16 +59,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. GenAIOps Fundamentals** (5 videos)
-- **3. 2. Model Training in Gen AI** (5 videos)
-- **4. 3. Developing Gen AI Applications** (6 videos)
-- **5. 4. Model Deployment and Serving** (5 videos)
-- **6. 5. Monitoring and Troubleshooting** (5 videos)
-- **7. 6. Security and Compliance** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. GenAIOps Fundamentals]]** (5 videos)
+- **[[#2. Model Training in Gen AI]]** (5 videos)
+- **[[#3. Developing Gen AI Applications]]** (6 videos)
+- **[[#4. Model Deployment and Serving]]** (5 videos)
+- **[[#5. Monitoring and Troubleshooting]]** (5 videos)
+- **[[#6. Security and Compliance]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GenAIOps foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980)
@@ -95,7 +97,9 @@ created: 2026-04-28
 > **Speakers:** - [kumaran] (1)
 
 
-### 2. 1. GenAIOps Fundamentals
+### 1. GenAIOps Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The machine learning lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980)
@@ -430,7 +434,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Model Training in Gen AI
+### 2. Model Training in Gen AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Training phase in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/training-phase-in-gen-ai?u=76281980)
@@ -807,7 +813,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Developing Gen AI Applications
+### 3. Developing Gen AI Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The generative AI application stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980)
@@ -1167,7 +1175,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Model Deployment and Serving
+### 4. Model Deployment and Serving
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GenAI deployment patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980)
@@ -1431,7 +1441,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Monitoring and Troubleshooting
+### 5. Monitoring and Troubleshooting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI monitoring pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-monitoring-pipelines?u=76281980)
@@ -1670,7 +1682,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Security and Compliance
+### 6. Security and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ethics and compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980)
@@ -1984,7 +1998,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/next-steps?u=76281980)

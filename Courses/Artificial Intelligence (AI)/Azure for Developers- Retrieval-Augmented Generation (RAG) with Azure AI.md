@@ -54,12 +54,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. RAG Core Concepts** (5 videos)
-- **3. 2. Azure AI Search** (11 videos)
-- **4. 3. Azure Cosmos DB** (5 videos)
-- **5. 4. Evaluating RAG** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. RAG Core Concepts]]** (5 videos)
+- **[[#3. 2. Azure AI Search]]** (11 videos)
+- **[[#4. 3. Azure Cosmos DB]]** (5 videos)
+- **[[#5. 4. Evaluating RAG]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

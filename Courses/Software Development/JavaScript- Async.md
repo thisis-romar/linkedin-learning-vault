@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Programming Asynchronously with Callbacks** (5 videos)
-- **3. 2. Programming Asynchronously with Promises** (8 videos)
-- **4. 3. Programming Asynchronously with Async/Await** (4 videos)
-- **5. 4. Programming Asynchronously with Web Workers** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Programming Asynchronously with Callbacks]]** (5 videos)
+- **[[#3. 2. Programming Asynchronously with Promises]]** (8 videos)
+- **[[#4. 3. Programming Asynchronously with Async/Await]]** (4 videos)
+- **[[#5. 4. Programming Asynchronously with Web Workers]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

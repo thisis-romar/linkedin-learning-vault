@@ -52,13 +52,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Defining Big Data** (7 videos)
-- **3. 2. How Is Big Data Used?** (3 videos)
-- **4. 3. Ethics in Big Data** (6 videos)
-- **5. 4. Data Logistics** (4 videos)
-- **6. 5. Analyzing Big Data** (9 videos)
-- **7. Continuing Your Big Data in AI Learning Journey** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Defining Big Data]]** (7 videos)
+- **[[#3. 2. How Is Big Data Used?]]** (3 videos)
+- **[[#4. 3. Ethics in Big Data]]** (6 videos)
+- **[[#5. 4. Data Logistics]]** (4 videos)
+- **[[#6. 5. Analyzing Big Data]]** (9 videos)
+- **[[#7. Continuing Your Big Data in AI Learning Journey]]** (1 videos)
 
 ### 1. Introduction
 

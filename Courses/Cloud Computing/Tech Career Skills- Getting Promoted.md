@@ -54,18 +54,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding the Promotion Process** (4 videos)
-- **3. 2. Execution and Results** (2 videos)
-- **4. 3. Creating Efficiency** (2 videos)
-- **5. 4. Software Engineering** (2 videos)
-- **6. 5. Design and Architecture** (2 videos)
-- **7. 6. Collaboration** (2 videos)
-- **8. 7. Citizenship** (2 videos)
-- **9. 8. Specific Promotion-Related Activities** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding the Promotion Process]]** (4 videos)
+- **[[#2. Execution and Results]]** (2 videos)
+- **[[#3. Creating Efficiency]]** (2 videos)
+- **[[#4. Software Engineering]]** (2 videos)
+- **[[#5. Design and Architecture]]** (2 videos)
+- **[[#6. Collaboration]]** (2 videos)
+- **[[#7. Citizenship]]** (2 videos)
+- **[[#8. Specific Promotion-Related Activities]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get promoted in your tech job
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/get-promoted-in-your-tech-job?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - [nishant] (1)
 
 
-### 2. 1. Understanding the Promotion Process
+### 1. Understanding the Promotion Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How promotion cycles work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980)
@@ -470,7 +474,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Execution and Results
+### 2. Execution and Results
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What the committee is looking for by way of impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980)
@@ -609,7 +615,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Creating Efficiency
+### 3. Creating Efficiency
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What the committee is looking for by way of efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980)
@@ -756,7 +764,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. 4. Software Engineering
+### 4. Software Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What the committee is looking for in this key competency
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-this-key-competency?u=76281980)
@@ -893,7 +903,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Design and Architecture
+### 5. Design and Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What the committee is looking for by way of design skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-design-skill?u=76281980)
@@ -1037,7 +1049,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. Collaboration
+### 6. Collaboration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What the committee is looking for in collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980)
@@ -1178,7 +1192,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. 7. Citizenship
+### 7. Citizenship
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What the committee is looking for by way of citizenship
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-citizenship?u=76281980)
@@ -1308,7 +1324,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. 8. Specific Promotion-Related Activities
+### 8. Specific Promotion-Related Activities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an impact resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980)
@@ -1609,7 +1627,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Boost your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/boost-your-career?u=76281980)

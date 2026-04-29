@@ -39,13 +39,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Design and Innovation** (3 videos)
-- **3. 2. AI and Accessibility** (3 videos)
-- **4. 3. Accessible Copilots** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Design and Innovation]]** (3 videos)
+- **[[#2. AI and Accessibility]]** (3 videos)
+- **[[#3. Accessible Copilots]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Breaking barriers in accessibility and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980)
@@ -74,7 +76,9 @@ created: 2026-04-28
 > **Prerequisites:** getting started (1)
 
 
-### 2. 1. Design and Innovation
+### 1. Design and Innovation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The case for AI innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980)
@@ -302,7 +306,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 3. 2. AI and Accessibility
+### 2. AI and Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrating APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980)
@@ -544,7 +550,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 4. 3. Accessible Copilots
+### 3. Accessible Copilots
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Copilot accessibility considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980)
@@ -712,7 +720,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bridging the disability divide
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980)

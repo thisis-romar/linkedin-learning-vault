@@ -44,16 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Setting Up Your Kotlin Development Environment** (4 videos)
-- **3. 2. Common Data Types** (4 videos)
-- **4. 3. Working with Functions** (6 videos)
-- **5. 4. Control Flow Structures** (8 videos)
-- **6. 5. Debugging Kotlin Code** (3 videos)
-- **7. 6. Working with Collections** (7 videos)
-- **8. 7. Working with Inputs and Outputs** (5 videos)
-- **9. 8. Testing Kotlin Code** (2 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Setting Up Your Kotlin Development Environment]]** (4 videos)
+- **[[#3. 2. Common Data Types]]** (4 videos)
+- **[[#4. 3. Working with Functions]]** (6 videos)
+- **[[#5. 4. Control Flow Structures]]** (8 videos)
+- **[[#6. 5. Debugging Kotlin Code]]** (3 videos)
+- **[[#7. 6. Working with Collections]]** (7 videos)
+- **[[#8. 7. Working with Inputs and Outputs]]** (5 videos)
+- **[[#9. 8. Testing Kotlin Code]]** (2 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

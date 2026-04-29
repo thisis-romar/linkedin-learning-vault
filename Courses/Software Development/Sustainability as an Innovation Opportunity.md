@@ -45,13 +45,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The What and Why of Sustainability** (5 videos)
-- **3. 2. The Full Life Story** (5 videos)
-- **4. 3. Circular ReDesign** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The What and Why of Sustainability]]** (5 videos)
+- **[[#2. The Full Life Story]]** (5 videos)
+- **[[#3. Circular ReDesign]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How the economy is transforming
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. The What and Why of Sustainability
+### 1. The What and Why of Sustainability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sustainability in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980)
@@ -460,7 +464,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 3. 2. The Full Life Story
+### 2. The Full Life Story
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing waste out of the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980)
@@ -804,7 +810,9 @@ created: 2026-04-28
 > **Speakers:** - want (1)
 
 
-### 4. 3. Circular ReDesign
+### 3. Circular ReDesign
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing for the circular economy
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-for-the-circular-economy?u=76281980)
@@ -1145,7 +1153,9 @@ created: 2026-04-28
 > **Speakers:** - both (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Innovate for sustainability in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980)

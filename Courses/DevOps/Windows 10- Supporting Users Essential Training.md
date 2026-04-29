@@ -41,17 +41,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Navigate the Windows 10 Interface** (11 videos)
-- **3. 2. Manage Application Performance and Compatibility** (11 videos)
-- **4. 3. Understand Browser Support** (6 videos)
-- **5. 4. Connectivity and Hardware** (6 videos)
-- **6. 5. Remote Connectivity** (4 videos)
-- **7. 6. Use Backup and Recovery Options** (7 videos)
-- **8. 7. Manage OneDrive Integration** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Navigate the Windows 10 Interface]]** (11 videos)
+- **[[#2. Manage Application Performance and Compatibility]]** (11 videos)
+- **[[#3. Understand Browser Support]]** (6 videos)
+- **[[#4. Connectivity and Hardware]]** (6 videos)
+- **[[#5. Remote Connectivity]]** (4 videos)
+- **[[#6. Use Backup and Recovery Options]]** (7 videos)
+- **[[#7. Manage OneDrive Integration]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Supporting users in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980)
@@ -109,7 +111,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Navigate the Windows 10 Interface
+### 1. Navigate the Windows 10 Interface
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980)
@@ -889,7 +893,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Manage Application Performance and Compatibility
+### 2. Manage Application Performance and Compatibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage application compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-application-compatibility?u=76281980)
@@ -1708,7 +1714,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Understand Browser Support
+### 3. Understand Browser Support
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An overview of Microsoft Edge
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980)
@@ -2095,7 +2103,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 5. 4. Connectivity and Hardware
+### 4. Connectivity and Hardware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Smartphone connectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980)
@@ -2585,7 +2595,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Remote Connectivity
+### 5. Remote Connectivity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enable remote connectivity to Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980)
@@ -3010,7 +3022,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Use Backup and Recovery Options
+### 6. Use Backup and Recovery Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a traditional backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980)
@@ -3475,7 +3489,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Manage OneDrive Integration
+### 7. Manage OneDrive Integration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add an account to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980)
@@ -3692,7 +3708,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### More about Windows 10 IT support
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980)

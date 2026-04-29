@@ -54,14 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Business Rule Development** (7 videos)
-- **3. 2. Database Design** (6 videos)
-- **4. 3. Data Generation and Datasets** (4 videos)
-- **5. 4. Database Implementation** (5 videos)
-- **6. 5. SQL Querying** (5 videos)
-- **7. 6. Final Project** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Business Rule Development]]** (7 videos)
+- **[[#3. 2. Database Design]]** (6 videos)
+- **[[#4. 3. Data Generation and Datasets]]** (4 videos)
+- **[[#5. 4. Database Implementation]]** (5 videos)
+- **[[#6. 5. SQL Querying]]** (5 videos)
+- **[[#7. 6. Final Project]]** (2 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

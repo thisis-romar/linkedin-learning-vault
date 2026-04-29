@@ -39,14 +39,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. TDD Methodology** (6 videos)
-- **3. 2. TDD Structure and Syntax** (5 videos)
-- **4. 3. Scaling TDD** (6 videos)
-- **5. Glossaries** (0 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. TDD Methodology]]** (6 videos)
+- **[[#2. TDD Structure and Syntax]]** (5 videos)
+- **[[#3. Scaling TDD]]** (6 videos)
+- **[[#Glossaries]]** (0 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Small steps to great things
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980)
@@ -516,7 +518,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. TDD Methodology
+### 1. TDD Methodology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### TDD and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980)
@@ -1117,7 +1121,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. TDD Structure and Syntax
+### 2. TDD Structure and Syntax
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980)
@@ -1618,7 +1624,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Scaling TDD
+### 3. Scaling TDD
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### TDD tools and frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980)
@@ -2219,10 +2227,14 @@ created: 2026-04-28
 > **File Paths:** wordsource.txt (1)
 
 
-### 5. Glossaries
+### Glossaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/next-steps?u=76281980)

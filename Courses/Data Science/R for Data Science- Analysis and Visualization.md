@@ -57,13 +57,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is R?** (2 videos)
-- **3. 2. Getting Started** (11 videos)
-- **4. 3. Data Visualization** (7 videos)
-- **5. 4. Data Wrangling** (3 videos)
-- **6. 5. Data Analysis** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What Is R?]]** (2 videos)
+- **[[#3. 2. Getting Started]]** (11 videos)
+- **[[#4. 3. Data Visualization]]** (7 videos)
+- **[[#5. 4. Data Wrangling]]** (3 videos)
+- **[[#6. 5. Data Analysis]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

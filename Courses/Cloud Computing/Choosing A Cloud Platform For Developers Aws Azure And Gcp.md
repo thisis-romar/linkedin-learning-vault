@@ -49,15 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. On-Premise vs. Cloud Services** (3 videos)
-- **3. 2. Baseline Functionality Available in the Cloud** (4 videos)
-- **4. 3. Historical Strengths of Three Major Cloud Providers** (3 videos)
-- **5. 4. Compliance in the Cloud** (3 videos)
-- **6. 5. Human Resources for the Cloud** (3 videos)
-- **7. 6. Prototype for Your Needs** (3 videos)
-- **8. 7. Design for Adaptability** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. On-Premise vs. Cloud Services]]** (3 videos)
+- **[[#3. 2. Baseline Functionality Available in the Cloud]]** (4 videos)
+- **[[#4. 3. Historical Strengths of Three Major Cloud Providers]]** (3 videos)
+- **[[#5. 4. Compliance in the Cloud]]** (3 videos)
+- **[[#6. 5. Human Resources for the Cloud]]** (3 videos)
+- **[[#7. 6. Prototype for Your Needs]]** (3 videos)
+- **[[#8. 7. Design for Adaptability]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

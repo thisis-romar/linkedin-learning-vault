@@ -58,15 +58,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Vector Databases** (5 videos)
-- **3. 2. Milvus Database Concepts** (8 videos)
-- **4. 3. Milvus Database Operations** (8 videos)
-- **5. 4. Vector DB for LLM Query Caching** (5 videos)
-- **6. 5. Introduction to Retrieval Augmented Generation (RAG)** (5 videos)
-- **7. 6. Implementing RAG with Milvus** (4 videos)
-- **8. 7. Vector Databases Best Practices** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Vector Databases]]** (5 videos)
+- **[[#3. 2. Milvus Database Concepts]]** (8 videos)
+- **[[#4. 3. Milvus Database Operations]]** (8 videos)
+- **[[#5. 4. Vector DB for LLM Query Caching]]** (5 videos)
+- **[[#6. 5. Introduction to Retrieval Augmented Generation (RAG)]]** (5 videos)
+- **[[#7. 6. Implementing RAG with Milvus]]** (4 videos)
+- **[[#8. 7. Vector Databases Best Practices]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

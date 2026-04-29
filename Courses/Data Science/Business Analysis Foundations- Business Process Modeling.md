@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Create a Context Diagram** (4 videos)
-- **3. 2. Create a Functional Flow Diagram** (4 videos)
-- **4. 3. Create a Cross-Functional Flow Diagram** (4 videos)
-- **5. 4. Create a Flowchart Diagram** (4 videos)
-- **6. Put It All Together** (2 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Create a Context Diagram]]** (4 videos)
+- **[[#2. Create a Functional Flow Diagram]]** (4 videos)
+- **[[#3. Create a Cross-Functional Flow Diagram]]** (4 videos)
+- **[[#4. Create a Flowchart Diagram]]** (4 videos)
+- **[[#Put It All Together]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing common business modeling tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/introducing-common-business-modeling-tools?u=76281980)
@@ -289,7 +291,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 2. 1. Create a Context Diagram
+### 1. Create a Context Diagram
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The purpose of the context diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-context-diagram?u=76281980)
@@ -608,7 +612,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Create a Functional Flow Diagram
+### 2. Create a Functional Flow Diagram
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The purpose of the functional flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-functional-flow-diagram?u=76281980)
@@ -867,7 +873,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 4. 3. Create a Cross-Functional Flow Diagram
+### 3. Create a Cross-Functional Flow Diagram
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The purpose of the cross-functional flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-cross-functional-flow-diagram?u=76281980)
@@ -1207,7 +1215,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 5. 4. Create a Flowchart Diagram
+### 4. Create a Flowchart Diagram
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The purpose of the flowchart diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-flowchart-diagram?u=76281980)
@@ -1519,7 +1529,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 6. Put It All Together
+### Put It All Together
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to determine which diagram to use and why
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-determine-which-diagram-to-use-and-why?u=76281980)

@@ -45,9 +45,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Amazon Web Services Quick Tips** (21 videos)
+- **[[#Amazon Web Services Quick Tips]]** (21 videos)
 
-### 1. Amazon Web Services Quick Tips
+### Amazon Web Services Quick Tips
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Amazon Web Services quick tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980)

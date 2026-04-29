@@ -53,13 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. How to Optimize Your DB Software** (2 videos)
-- **3. 2. Get Familiar with Your Database and Its Data** (5 videos)
-- **4. 3. Understand Simple and Powerful Syntax to Filter and Analyze Data** (5 videos)
-- **5. 4. Filter Data Based on More than One Condition** (2 videos)
-- **6. 5. Analyze Data with Flexibility, Efficiency, and Calculated Fields** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. How to Optimize Your DB Software]]** (2 videos)
+- **[[#3. 2. Get Familiar with Your Database and Its Data]]** (5 videos)
+- **[[#4. 3. Understand Simple and Powerful Syntax to Filter and Analyze Data]]** (5 videos)
+- **[[#5. 4. Filter Data Based on More than One Condition]]** (2 videos)
+- **[[#6. 5. Analyze Data with Flexibility, Efficiency, and Calculated Fields]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

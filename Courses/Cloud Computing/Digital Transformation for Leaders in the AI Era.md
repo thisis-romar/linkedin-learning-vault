@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Transforming the Digital Business Landscape** (2 videos)
-- **3. 2.Translate Big Ideas into Transformation Initiatives** (3 videos)
-- **4. 3. Digital Transformation Core Competencies** (5 videos)
-- **5. 4. Delivering Ongoing Impact through Transformation** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Transforming the Digital Business Landscape]]** (2 videos)
+- **[[#2.Translate Big Ideas into Transformation Initiatives]]** (3 videos)
+- **[[#3. Digital Transformation Core Competencies]]** (5 videos)
+- **[[#4. Delivering Ongoing Impact through Transformation]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Digital transformation for leaders
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-for-leaders?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - over (1)
 
 
-### 2. 1. Transforming the Digital Business Landscape
+### 1. Transforming the Digital Business Landscape
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Digital transformation's next wave
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/digital-transformation-s-next-wave?u=76281980)
@@ -247,7 +251,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2.Translate Big Ideas into Transformation Initiatives
+### 2.Translate Big Ideas into Transformation Initiatives
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evolving a digital strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/evolving-a-digital-strategy?u=76281980)
@@ -523,7 +529,9 @@ created: 2026-04-28
 > **Speakers:** - according (1)
 
 
-### 4. 3. Digital Transformation Core Competencies
+### 3. Digital Transformation Core Competencies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key leadership roles in transformation initiatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-leadership-roles-in-transformation-initiatives?u=76281980)
@@ -996,7 +1004,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 5. 4. Delivering Ongoing Impact through Transformation
+### 4. Delivering Ongoing Impact through Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to find AI's transformational use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/where-to-find-ai-s-transformational-use-cases?u=76281980)
@@ -1260,7 +1270,9 @@ created: 2026-04-28
 > **Speakers:** - your (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key takeaways for leading digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-for-leaders-in-the-ai-era/key-takeaways-for-leading-digital-transformation?u=76281980)

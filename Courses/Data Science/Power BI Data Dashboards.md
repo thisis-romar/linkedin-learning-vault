@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Working with Data** (9 videos)
-- **3. 2. Visualizing Data** (8 videos)
-- **4. 3. Comparing Multiple Variables** (7 videos)
-- **5. 4. Mapping Options** (6 videos)
-- **6. 5. Putting It All Together** (6 videos)
-- **7. 6. Sharing Your Work** (3 videos)
-- **8. Conclusion ** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Working with Data]]** (9 videos)
+- **[[#2. Visualizing Data]]** (8 videos)
+- **[[#3. Comparing Multiple Variables]]** (7 videos)
+- **[[#4. Mapping Options]]** (6 videos)
+- **[[#5. Putting It All Together]]** (6 videos)
+- **[[#6. Sharing Your Work]]** (3 videos)
+- **[[#Conclusion ]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building data dashboards in Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980)
@@ -289,7 +291,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Working with Data
+### 1. Working with Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring table and matrix visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980)
@@ -1059,7 +1063,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Visualizing Data
+### 2. Visualizing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visualizing time-intelligence trends
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980)
@@ -1615,7 +1621,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Comparing Multiple Variables
+### 3. Comparing Multiple Variables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analytics options: Reference, trend, and forecast lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980)
@@ -1974,7 +1982,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Mapping Options
+### 4. Mapping Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring map options
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980)
@@ -2346,7 +2356,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Putting It All Together
+### 5. Putting It All Together
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Customing tooltips
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980)
@@ -2772,7 +2784,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Sharing Your Work
+### 6. Sharing Your Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a phone view
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-a-phone-view?u=76281980)
@@ -2996,7 +3010,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion 
+### Conclusion 
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting more out of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980)

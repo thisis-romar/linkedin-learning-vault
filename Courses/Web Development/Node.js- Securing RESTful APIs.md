@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Setting Up** (4 videos)
-- **3. 2. Setting Up the Node API** (4 videos)
-- **4. 3. Securing the Node API** (6 videos)
-- **5. 4. Other Options** (1 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Setting Up]]** (4 videos)
+- **[[#2. Setting Up the Node API]]** (4 videos)
+- **[[#3. Securing the Node API]]** (6 videos)
+- **[[#4. Other Options]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing Node RESTful APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/securing-node-restful-apis?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 2. 1. Setting Up
+### 1. Setting Up
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of the security threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/overview-of-the-security-threats?u=76281980)
@@ -313,7 +317,9 @@ created: 2026-04-28
 > **Tools:** postman (1)
 
 
-### 3. 2. Setting Up the Node API
+### 2. Setting Up the Node API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Base project template intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/base-project-template-intro?u=76281980)
@@ -670,7 +676,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Securing the Node API
+### 3. Securing the Node API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add the handlers for loginRequired
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/add-the-handlers-for-loginrequired?u=76281980)
@@ -1212,7 +1220,9 @@ created: 2026-04-28
 > **UI Navigation:** switch to (1), select the (1), go to (1)
 
 
-### 5. 4. Other Options
+### 4. Other Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Alternatives for securing APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/alternatives-for-securing-apis?u=76281980)
@@ -1259,7 +1269,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore and build your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-securing-restful-apis-2/explore-and-build-your-skills?u=76281980)

@@ -52,17 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Visual Studio Code** (3 videos)
-- **3. 2. NumPy Basics** (9 videos)
-- **4. 3. pandas** (8 videos)
-- **5. 4. Folium and Geospatial Data** (5 videos)
-- **6. 5. NYC Taxi Data** (8 videos)
-- **7. 6. scikit-learn** (8 videos)
-- **8. 7. Plotting** (9 videos)
-- **9. 8. Other Packages** (6 videos)
-- **10. 9. Development Process** (5 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Visual Studio Code]]** (3 videos)
+- **[[#3. 2. NumPy Basics]]** (9 videos)
+- **[[#4. 3. pandas]]** (8 videos)
+- **[[#5. 4. Folium and Geospatial Data]]** (5 videos)
+- **[[#6. 5. NYC Taxi Data]]** (8 videos)
+- **[[#7. 6. scikit-learn]]** (8 videos)
+- **[[#8. 7. Plotting]]** (9 videos)
+- **[[#9. 8. Other Packages]]** (6 videos)
+- **[[#10. 9. Development Process]]** (5 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

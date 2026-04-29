@@ -45,10 +45,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Why You Need DevSecOps** (2 videos)
-- **3. 2. Tips to Succeed at DevSecOps** (10 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Why You Need DevSecOps]]** (2 videos)
+- **[[#3. 2. Tips to Succeed at DevSecOps]]** (10 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

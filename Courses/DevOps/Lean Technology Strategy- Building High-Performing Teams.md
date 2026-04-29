@@ -40,9 +40,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Building High-Performing Teams** (5 videos)
+- **[[#1. Building High-Performing Teams]]** (5 videos)
 
-### 1. 1. Building High-Performing Teams
+### 1. Building High-Performing Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taylorist management vs. Lean management
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/taylorist-management-vs-lean-management?u=76281980)

@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Collections Code Challenges** (6 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Collections Code Challenges]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practice your C# generic collections skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/practice-your-c-sharp-generic-collections-skills?u=76281980)
@@ -336,7 +338,9 @@ created: 2026-04-28
 > **Exercise Files:** sample code (1)
 
 
-### 2. 1. Collections Code Challenges
+### 1. Collections Code Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Insert into List<T>
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/4481725?u=76281980)
@@ -753,7 +757,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/next-steps?u=76281980)

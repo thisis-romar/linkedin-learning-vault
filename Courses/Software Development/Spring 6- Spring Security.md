@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Spring Security Concepts** (2 videos)
-- **3. 2. Securing Web Applications with Spring** (9 videos)
-- **4. 3. LDAP Authentication** (4 videos)
-- **5. 4. Leveraging OAuth 2.0 with Spring Security** (3 videos)
-- **6. 5. WebFlux Security** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Spring Security Concepts]]** (2 videos)
+- **[[#3. 2. Securing Web Applications with Spring]]** (9 videos)
+- **[[#4. 3. LDAP Authentication]]** (4 videos)
+- **[[#5. 4. Leveraging OAuth 2.0 with Spring Security]]** (3 videos)
+- **[[#6. 5. WebFlux Security]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

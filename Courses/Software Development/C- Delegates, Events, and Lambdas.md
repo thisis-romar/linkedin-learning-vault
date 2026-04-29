@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Getting Started** (2 videos)
-- **3. 2. C# Delegates** (5 videos)
-- **4. 3. C# Events** (4 videos)
-- **5. 4. C# Lambdas** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Getting Started]]** (2 videos)
+- **2. C# Delegates** (5 videos)
+- **3. C# Events** (4 videos)
+- **4. C# Lambdas** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using C# delegates, events, and lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-c-sharp-delegates-events-and-lambdas-23315218?u=76281980)
@@ -189,7 +191,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of C# delegates, events, and lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/overview-of-c-sharp-delegates-events-and-lambdas?u=76281980)
@@ -314,7 +318,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. C# Delegates
+### 2. C# Delegates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating C# delegates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-delegates?u=76281980)
@@ -945,7 +951,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. C# Events
+### 3. C# Events
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating C# event handlers
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980)
@@ -1349,7 +1357,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. C# Lambdas
+### 4. C# Lambdas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding C# lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/understanding-c-sharp-lambdas?u=76281980)
@@ -1662,7 +1672,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/where-to-go-next?u=76281980)

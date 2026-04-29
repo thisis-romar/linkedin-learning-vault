@@ -55,7 +55,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Leading with Generative AI: Master Change Management for Success** (15 videos)
+- **[[#1. 1. Leading with Generative AI: Master Change Management for Success]]** (15 videos)
 
 ### 1. 1. Leading with Generative AI: Master Change Management for Success
 

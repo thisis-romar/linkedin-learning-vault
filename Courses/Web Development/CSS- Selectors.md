@@ -46,24 +46,28 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Review of Basic CSS** (4 videos)
-- **3. 2. Combinator Selectors** (5 videos)
-- **4. 3. Attribute Selectors** (4 videos)
-- **5. 4. Pseudo-classes for document structures** (4 videos)
-- **6. 5. Pseudo-classes for links** (4 videos)
-- **7. 6. Pseudo-classes for forms** (5 videos)
-- **8. 7. Additional pseudo-classes, pseudo-elements, and the universal selector** (5 videos)
-- **9. 8. Choosing Selectors** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Review of Basic CSS]]** (4 videos)
+- **[[#2. Combinator Selectors]]** (5 videos)
+- **[[#3. Attribute Selectors]]** (4 videos)
+- **[[#4. Pseudo-classes for document structures]]** (4 videos)
+- **[[#5. Pseudo-classes for links]]** (4 videos)
+- **[[#6. Pseudo-classes for forms]]** (5 videos)
+- **[[#7. Additional pseudo-classes, pseudo-elements, and the universal selector]]** (5 videos)
+- **[[#8. Choosing Selectors]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of selectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-power-of-selectors-23420115?u=76281980)
 
 
-### 2. 1. Review of Basic CSS
+### 1. Review of Basic CSS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CSS terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/css-terminology?u=76281980)
@@ -308,7 +312,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Combinator Selectors
+### 2. Combinator Selectors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The HTML family tree: Parents, children, ancestor, descendant, and siblings
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980)
@@ -640,7 +646,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Attribute Selectors
+### 3. Attribute Selectors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simple attribute selectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/simple-attribute-selectors?u=76281980)
@@ -903,7 +911,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Pseudo-classes for document structures
+### 4. Pseudo-classes for document structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding only selectors, :only-child, :only-of-type
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/understanding-only-selectors-only-child-only-of-type?u=76281980)
@@ -1184,7 +1194,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Pseudo-classes for links
+### 5. Pseudo-classes for links
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic link states: :link, :visited, :hover, :active
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980)
@@ -1455,7 +1467,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Pseudo-classes for forms
+### 6. Pseudo-classes for forms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Form controls: :required and :optional; :enabled and :disabled
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980)
@@ -2198,7 +2212,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Additional pseudo-classes, pseudo-elements, and the universal selector
+### 7. Additional pseudo-classes, pseudo-elements, and the universal selector
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparing is() and where()
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980)
@@ -2788,7 +2804,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Choosing Selectors
+### 8. Choosing Selectors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CSS selectors and browser support
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/css-selectors-and-browser-support?u=76281980)
@@ -2929,7 +2947,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional CSS practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/additional-css-practice?u=76281980)

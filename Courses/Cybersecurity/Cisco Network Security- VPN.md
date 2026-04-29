@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Understand VPN Concepts** (7 videos)
-- **3. 2. Discover IP Security (IPsec)** (5 videos)
-- **4. 3. Configure a VPN** (4 videos)
-- **5. 4. Examine a Remote Access VPN** (4 videos)
-- **6. 5. Investigate a Site-to-Site VPN** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Understand VPN Concepts]]** (7 videos)
+- **[[#3. 2. Discover IP Security (IPsec)]]** (5 videos)
+- **[[#4. 3. Configure a VPN]]** (4 videos)
+- **[[#5. 4. Examine a Remote Access VPN]]** (4 videos)
+- **[[#6. 5. Investigate a Site-to-Site VPN]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. SQL Basics** (4 videos)
-- **3. 2. Testing for SQL Injections** (6 videos)
-- **4. 3. Automating SQL Injection Exploits** (10 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. SQL Basics]]** (4 videos)
+- **[[#2. Testing for SQL Injections]]** (6 videos)
+- **[[#3. Automating SQL Injection Exploits]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding how SQL injections work
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. SQL Basics
+### 1. SQL Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starting with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980)
@@ -454,7 +458,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Testing for SQL Injections
+### 2. Testing for SQL Injections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Checking out the Security Shepherd
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980)
@@ -1103,7 +1109,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Automating SQL Injection Exploits
+### 3. Automating SQL Injection Exploits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inferring TRUE when blind
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980)
@@ -2000,7 +2008,9 @@ created: 2026-04-28
 > **Tools:** github (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980)

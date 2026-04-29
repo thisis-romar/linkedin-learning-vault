@@ -54,17 +54,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introducing Apache Airflow** (4 videos)
-- **3. 2. Running Workflows on Airflow** (4 videos)
-- **4. 3. Defining Tasks and Dependencies** (3 videos)
-- **5. 4. Using the Python Operator and XCom** (7 videos)
-- **6. 5. Using the SQLite Operator for SQL Operations** (4 videos)
-- **7. 6. Conditional Branching and TaskGroups** (3 videos)
-- **8. 7. Catch Up, Backfill, and CRON Expressions** (2 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introducing Apache Airflow]]** (4 videos)
+- **[[#2. Running Workflows on Airflow]]** (4 videos)
+- **[[#3. Defining Tasks and Dependencies]]** (3 videos)
+- **[[#4. Using the Python Operator and XCom]]** (7 videos)
+- **[[#5. Using the SQLite Operator for SQL Operations]]** (4 videos)
+- **[[#6. Conditional Branching and TaskGroups]]** (3 videos)
+- **[[#7. Catch Up, Backfill, and CRON Expressions]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An overview of Apache Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980)
@@ -176,7 +178,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introducing Apache Airflow
+### 1. Introducing Apache Airflow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apache Airflow concepts and architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980)
@@ -696,7 +700,9 @@ created: 2026-04-28
 > **Env Vars:** sql (1)
 
 
-### 3. 2. Running Workflows on Airflow
+### 2. Running Workflows on Airflow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigating and exploring the Airflow UI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980)
@@ -1239,7 +1245,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Defining Tasks and Dependencies
+### 3. Defining Tasks and Dependencies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Specifying task dependencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/specifying-task-dependencies?u=76281980)
@@ -1598,7 +1606,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Using the Python Operator and XCom
+### 4. Using the Python Operator and XCom
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the Python operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-python-operator?u=76281980)
@@ -2367,7 +2377,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Using the SQLite Operator for SQL Operations
+### 5. Using the SQLite Operator for SQL Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up the SQLite DB and connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/setting-up-the-sqlite-db-and-connection?u=76281980)
@@ -2702,7 +2714,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 7. 6. Conditional Branching and TaskGroups
+### 6. Conditional Branching and TaskGroups
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing branching
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-branching?u=76281980)
@@ -3150,7 +3164,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 8. 7. Catch Up, Backfill, and CRON Expressions
+### 7. Catch Up, Backfill, and CRON Expressions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Catch up with all previously scheduled runs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980)
@@ -3407,7 +3423,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980)

@@ -52,14 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Exploring the Many Decision Tree Algorithms** (3 videos)
-- **3. 2. Using Extensions** (3 videos)
-- **4. 3. What Is Rule Induction?** (3 videos)
-- **5. 4. Low Code Python Options in KNIME** (4 videos)
-- **6. 5. Ensembles and Random Forests** (3 videos)
-- **7. 6. Advanced Tips and Tricks** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Exploring the Many Decision Tree Algorithms]]** (3 videos)
+- **[[#3. 2. Using Extensions]]** (3 videos)
+- **[[#4. 3. What Is Rule Induction?]]** (3 videos)
+- **[[#5. 4. Low Code Python Options in KNIME]]** (4 videos)
+- **[[#6. 5. Ensembles and Random Forests]]** (3 videos)
+- **[[#7. 6. Advanced Tips and Tricks]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

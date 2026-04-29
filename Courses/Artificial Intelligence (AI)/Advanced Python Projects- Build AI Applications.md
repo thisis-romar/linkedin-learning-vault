@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1.  NLP: Build a Chatbot with Sentiment Analyzer** (5 videos)
-- **3. 2. Machine Learning: Using Python to Find Your Next Business Opportunity** (6 videos)
-- **4. 3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI** (9 videos)
-- **5. 4. Chat with Your Documents Using LLM: Front-end with Streamlit** (8 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1.  NLP: Build a Chatbot with Sentiment Analyzer]]** (5 videos)
+- **[[#3. 2. Machine Learning: Using Python to Find Your Next Business Opportunity]]** (6 videos)
+- **[[#4. 3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI]]** (9 videos)
+- **[[#5. 4. Chat with Your Documents Using LLM: Front-end with Streamlit]]** (8 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

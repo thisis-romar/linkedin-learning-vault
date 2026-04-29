@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Start Strong with Power BI Foundations** (4 videos)
-- **3. 2. Connect, Clean, and Transform Data** (5 videos)
-- **4. 3. Create Visualizations in Power BI** (7 videos)
-- **5. 4. Share Your Insights** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Start Strong with Power BI Foundations]]** (4 videos)
+- **[[#3. 2. Connect, Clean, and Transform Data]]** (5 videos)
+- **[[#4. 3. Create Visualizations in Power BI]]** (7 videos)
+- **[[#5. 4. Share Your Insights]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

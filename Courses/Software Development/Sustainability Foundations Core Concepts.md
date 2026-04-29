@@ -42,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Sustainability?** (3 videos)
-- **3. 2. Three Paradigms at the Root of the World’s Unsustainable Path** (4 videos)
-- **4. 3. Environmental Sustainability** (3 videos)
-- **5. 4. Sustainability Accounting and Reporting** (2 videos)
-- **6. 5. Need for Transformation** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Sustainability?]]** (3 videos)
+- **[[#2. Three Paradigms at the Root of the World’s Unsustainable Path]]** (4 videos)
+- **[[#3. Environmental Sustainability]]** (3 videos)
+- **[[#4. Sustainability Accounting and Reporting]]** (2 videos)
+- **[[#5. Need for Transformation]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sustainability and transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980)
@@ -78,7 +80,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. What Is Sustainability?
+### 1. What Is Sustainability?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Definition of sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/definition-of-sustainability?u=76281980)
@@ -353,7 +357,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 3. 2. Three Paradigms at the Root of the World’s Unsustainable Path
+### 2. Three Paradigms at the Root of the World’s Unsustainable Path
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Circular model of production and consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980)
@@ -671,7 +677,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Environmental Sustainability
+### 3. Environmental Sustainability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Net zero
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980)
@@ -950,7 +958,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 5. 4. Sustainability Accounting and Reporting
+### 4. Sustainability Accounting and Reporting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Carbon and environmental accounting
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980)
@@ -1125,7 +1135,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Need for Transformation
+### 5. Need for Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three transformations for a sustainable world
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/three-transformations-for-a-sustainable-world?u=76281980)

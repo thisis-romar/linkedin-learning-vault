@@ -48,17 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Creating and Pivoting PivotTables** (9 videos)
-- **3. 2. Summarizing PivotTable Data** (6 videos)
-- **4. 3. Sorting and Filtering PivotTable Data** (10 videos)
-- **5. 4. Formatting PivotTables** (4 videos)
-- **6. 5. Applying Conditional Formats to PivotTables** (8 videos)
-- **7. 6. Creating and Formatting PivotCharts** (7 videos)
-- **8. 7. Printing PivotTables** (4 videos)
-- **9. 8. Manipulating PivotTables** (4 videos)
-- **10. 9. Enabling and Adding Tables to the Data Model** (5 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Creating and Pivoting PivotTables]]** (9 videos)
+- **[[#3. 2. Summarizing PivotTable Data]]** (6 videos)
+- **[[#4. 3. Sorting and Filtering PivotTable Data]]** (10 videos)
+- **[[#5. 4. Formatting PivotTables]]** (4 videos)
+- **[[#6. 5. Applying Conditional Formats to PivotTables]]** (8 videos)
+- **[[#7. 6. Creating and Formatting PivotCharts]]** (7 videos)
+- **[[#8. 7. Printing PivotTables]]** (4 videos)
+- **[[#9. 8. Manipulating PivotTables]]** (4 videos)
+- **[[#10. 9. Enabling and Adding Tables to the Data Model]]** (5 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

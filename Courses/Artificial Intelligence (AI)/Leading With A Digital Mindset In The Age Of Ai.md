@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Collaboration, Computation, and Change for the Digital Age** (3 videos)
-- **3. 2. Collaborating with Colleagues in a Digital Environment** (3 videos)
-- **4. 3. Collaborating with Machines in the Digital Age** (3 videos)
-- **5. 4. Making Sense of Data in the Digital Age** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Collaboration, Computation, and Change for the Digital Age]]** (3 videos)
+- **[[#3. 2. Collaborating with Colleagues in a Digital Environment]]** (3 videos)
+- **[[#4. 3. Collaborating with Machines in the Digital Age]]** (3 videos)
+- **[[#5. 4. Making Sense of Data in the Digital Age]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

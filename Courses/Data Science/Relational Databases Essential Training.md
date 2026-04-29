@@ -48,15 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Get to Know Relational Databases** (4 videos)
-- **3. 2. Entity Relationship Diagrams** (6 videos)
-- **4. 3. Data Integrity and Validation** (6 videos)
-- **5. 4. Relationships** (8 videos)
-- **6. 5. Normalization** (2 videos)
-- **7. 6. Structured Query Language** (8 videos)
-- **8. 7. Beyond the Relational Model** (2 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Get to Know Relational Databases]]** (4 videos)
+- **[[#3. 2. Entity Relationship Diagrams]]** (6 videos)
+- **[[#4. 3. Data Integrity and Validation]]** (6 videos)
+- **[[#5. 4. Relationships]]** (8 videos)
+- **[[#6. 5. Normalization]]** (2 videos)
+- **[[#7. 6. Structured Query Language]]** (8 videos)
+- **[[#8. 7. Beyond the Relational Model]]** (2 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -53,14 +53,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. A Brief Overview of SQL** (7 videos)
-- **3. 2. Patient Care Management** (3 videos)
-- **4. 3. Population Health Management** (6 videos)
-- **5. 4. Clinical Research** (4 videos)
-- **6. 5. Healthcare Administration** (5 videos)
-- **7. 6. Final Project: Healthcare Analytics** (8 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. A Brief Overview of SQL]]** (7 videos)
+- **[[#3. 2. Patient Care Management]]** (3 videos)
+- **[[#4. 3. Population Health Management]]** (6 videos)
+- **[[#5. 4. Clinical Research]]** (4 videos)
+- **[[#6. 5. Healthcare Administration]]** (5 videos)
+- **[[#7. 6. Final Project: Healthcare Analytics]]** (8 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -38,14 +38,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding VoIP Fundamentals** (5 videos)
-- **3. 2. Enhancing VoIP Performance** (4 videos)
-- **4. 3. Optimizing DHCP** (3 videos)
-- **5. 4. Managing Common SIP Issues** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding VoIP Fundamentals]]** (5 videos)
+- **[[#2. Enhancing VoIP Performance]]** (4 videos)
+- **[[#3. Optimizing DHCP]]** (3 videos)
+- **[[#4. Managing Common SIP Issues]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ensuring seamless communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-seamless-communication?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding VoIP Fundamentals
+### 1. Understanding VoIP Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recognizing key VoIP protocols
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/recognizing-key-voip-protocols?u=76281980)
@@ -526,7 +530,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Enhancing VoIP Performance
+### 2. Enhancing VoIP Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tuning network devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980)
@@ -915,7 +921,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Optimizing DHCP
+### 3. Optimizing DHCP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing DHCP servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980)
@@ -1166,7 +1174,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Managing Common SIP Issues
+### 4. Managing Common SIP Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Resolving SIP registration issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-sip-registration-issues?u=76281980)
@@ -1533,7 +1543,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What’s next
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980)

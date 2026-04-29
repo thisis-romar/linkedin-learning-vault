@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started with Razor Pages** (4 videos)
-- **3. 2. Working with Forms in Razor Pages** (7 videos)
-- **4. 3. Working with Data in Razor Pages** (5 videos)
-- **5. 4. Securing Razor Pages Applications** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started with Razor Pages]]** (4 videos)
+- **[[#2. Working with Forms in Razor Pages]]** (7 videos)
+- **[[#3. Working with Data in Razor Pages]]** (5 videos)
+- **[[#4. Securing Razor Pages Applications]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use Razor Pages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980)
@@ -116,7 +118,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started with Razor Pages
+### 1. Getting Started with Razor Pages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is ASP.NET Razor Pages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980)
@@ -532,7 +536,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Working with Forms in Razor Pages
+### 2. Working with Forms in Razor Pages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data binding in ASP.NET Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/data-binding-in-asp-dot-net-razor-pages?u=76281980)
@@ -1331,7 +1337,9 @@ created: 2026-04-28
 > **Definitions:** stands for (1)
 
 
-### 4. 3. Working with Data in Razor Pages
+### 3. Working with Data in Razor Pages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up Entity Framework Core in ASP.NET Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980)
@@ -2202,7 +2210,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Securing Razor Pages Applications
+### 4. Securing Razor Pages Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Authentication vs. authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/authentication-vs-authorization?u=76281980)
@@ -2503,7 +2513,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for learning more about Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980)

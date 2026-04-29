@@ -47,17 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (7 videos)
-- **3. 2. Logging in to the Server** (4 videos)
-- **4. 3. Creating Databases** (9 videos)
-- **5. 4. Table Design for Healthy Databases** (10 videos)
-- **6. 5. Structured Query Language** (17 videos)
-- **7. 6. Writing Efficient Queries** (9 videos)
-- **8. 7. Backup and Restore** (5 videos)
-- **9. 8. Security** (5 videos)
-- **10. 9. Monitoring and Management** (5 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started]]** (7 videos)
+- **[[#3. 2. Logging in to the Server]]** (4 videos)
+- **[[#4. 3. Creating Databases]]** (9 videos)
+- **[[#5. 4. Table Design for Healthy Databases]]** (10 videos)
+- **[[#6. 5. Structured Query Language]]** (17 videos)
+- **[[#7. 6. Writing Efficient Queries]]** (9 videos)
+- **[[#8. 7. Backup and Restore]]** (5 videos)
+- **[[#9. 8. Security]]** (5 videos)
+- **[[#10. 9. Monitoring and Management]]** (5 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

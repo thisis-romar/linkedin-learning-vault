@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/prepare-for-digital-accessibility
 course_count: 8
 linkedin_topics:
   - Web Development
-louvain_cluster: 14
+louvain_cluster: 10
 tags:
   - learning-path
   - topic/web-development

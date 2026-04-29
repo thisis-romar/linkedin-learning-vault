@@ -37,13 +37,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Orienting Yourself within Figma** (2 videos)
-- **3. 2. Project Creation** (5 videos)
-- **4. 3. Prototyping, Collaborating, and Exporting** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Orienting Yourself within Figma]]** (2 videos)
+- **[[#2. Project Creation]]** (5 videos)
+- **[[#3. Prototyping, Collaborating, and Exporting]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Migrating to Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/migrating-to-figma?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Tools:** figma (2)
 
 
-### 2. 1. Orienting Yourself within Figma
+### 1. Orienting Yourself within Figma
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating your first team
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980)
@@ -428,7 +432,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Project Creation
+### 2. Project Creation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating project styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980)
@@ -1439,7 +1445,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (2)
 
 
-### 4. 3. Prototyping, Collaborating, and Exporting
+### 3. Prototyping, Collaborating, and Exporting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prototyping with smart animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980)
@@ -1947,7 +1955,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/wrap-up?u=76281980)

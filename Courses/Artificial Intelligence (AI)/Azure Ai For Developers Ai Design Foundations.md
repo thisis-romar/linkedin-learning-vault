@@ -49,14 +49,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding Large Language Models** (2 videos)
-- **3. 2. Grounding LLMs to Data** (4 videos)
-- **4. 3. Introduction to LLMOps** (3 videos)
-- **5. 4. Ensuring the Safe and Responsible Operation of Your AI** (3 videos)
-- **6. 5. Multimodal AI** (4 videos)
-- **7. 6. Introduction to AI Agents** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understanding Large Language Models]]** (2 videos)
+- **[[#3. 2. Grounding LLMs to Data]]** (4 videos)
+- **[[#4. 3. Introduction to LLMOps]]** (3 videos)
+- **[[#5. 4. Ensuring the Safe and Responsible Operation of Your AI]]** (3 videos)
+- **[[#6. 5. Multimodal AI]]** (4 videos)
+- **[[#7. 6. Introduction to AI Agents]]** (2 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

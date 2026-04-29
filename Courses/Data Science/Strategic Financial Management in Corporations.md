@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Navigate Corporate Financial Structures** (2 videos)
-- **3. 2. Optimize Investment Decisions and Capital Allocation** (3 videos)
-- **4. 3. Enhance Financing Strategies and Capital Structure** (2 videos)
-- **5. 4. Streamline Working Capital and Cash Flow Strategies** (2 videos)
-- **6. 5. Assess Valuation and Navigate Post-Merger Integration** (2 videos)
-- **7. 6. Develop Risk Management Strategies and Ensure Compliance** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Navigate Corporate Financial Structures]]** (2 videos)
+- **[[#3. 2. Optimize Investment Decisions and Capital Allocation]]** (3 videos)
+- **[[#4. 3. Enhance Financing Strategies and Capital Structure]]** (2 videos)
+- **[[#5. 4. Streamline Working Capital and Cash Flow Strategies]]** (2 videos)
+- **[[#6. 5. Assess Valuation and Navigate Post-Merger Integration]]** (2 videos)
+- **[[#7. 6. Develop Risk Management Strategies and Ensure Compliance]]** (2 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

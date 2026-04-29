@@ -43,13 +43,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Principles of Data Decision-Making and Communication** (4 videos)
-- **2. 1. Communicating Action from Data through Storytelling** (3 videos)
-- **3. 2. Using Slidedocs to Communicate Data to the Wider Organization** (3 videos)
-- **4. 3. Using AI to Critique and Observe Data** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Principles of Data Decision-Making and Communication]]** (4 videos)
+- **[[#1. Communicating Action from Data through Storytelling]]** (3 videos)
+- **[[#2. Using Slidedocs to Communicate Data to the Wider Organization]]** (3 videos)
+- **[[#3. Using AI to Critique and Observe Data]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Principles of Data Decision-Making and Communication
+### Principles of Data Decision-Making and Communication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Become a data-driven leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/introduction-to-data-decision-making?u=76281980)
@@ -391,7 +393,9 @@ created: 2026-04-28
 > **Speakers:** - business (1)
 
 
-### 2. 1. Communicating Action from Data through Storytelling
+### 1. Communicating Action from Data through Storytelling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Customize your message to the audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/customize-your-message-to-the-audience?u=76281980)
@@ -656,7 +660,9 @@ created: 2026-04-28
 > **Speakers:** - usually (1)
 
 
-### 3. 2. Using Slidedocs to Communicate Data to the Wider Organization
+### 2. Using Slidedocs to Communicate Data to the Wider Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What’s a Slidedoc?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/what-s-a-slidedoc?u=76281980)
@@ -883,7 +889,9 @@ created: 2026-04-28
 > **Speakers:** - even (1)
 
 
-### 4. 3. Using AI to Critique and Observe Data
+### 3. Using AI to Critique and Observe Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use AI to critique a chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-critique-a-chart?u=76281980)
@@ -1063,7 +1071,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of communicating data well
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980)

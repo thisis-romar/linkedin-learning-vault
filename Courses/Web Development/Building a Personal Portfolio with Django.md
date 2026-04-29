@@ -44,13 +44,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Portfolio Project Overview** (1 videos)
-- **3. 2. Creating Django Apps** (3 videos)
-- **4. 3. Django and Databases** (7 videos)
-- **5. 4. Designing Your Django Project** (6 videos)
-- **6. 5. Object Details in Django** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Portfolio Project Overview]]** (1 videos)
+- **[[#3. 2. Creating Django Apps]]** (3 videos)
+- **[[#4. 3. Django and Databases]]** (7 videos)
+- **[[#5. 4. Designing Your Django Project]]** (6 videos)
+- **[[#6. 5. Object Details in Django]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

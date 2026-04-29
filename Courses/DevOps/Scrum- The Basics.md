@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Problems to Solve** (3 videos)
-- **3. 2. The Heart of the Framework** (3 videos)
-- **4. 3. Getting Ready to Work** (5 videos)
-- **5. 4. Getting Down to Work** (4 videos)
-- **6. 5. Wrapping Up a Sprint** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Problems to Solve]]** (3 videos)
+- **[[#3. 2. The Heart of the Framework]]** (3 videos)
+- **[[#4. 3. Getting Ready to Work]]** (5 videos)
+- **[[#5. 4. Getting Down to Work]]** (4 videos)
+- **[[#6. 5. Wrapping Up a Sprint]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

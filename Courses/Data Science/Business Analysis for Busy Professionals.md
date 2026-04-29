@@ -39,12 +39,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Know Your Business Inside Out** (3 videos)
-- **3. 2. Analyze and Prioritize Your Options** (3 videos)
-- **4. 3. Evaluate a Business Change Scenario** (2 videos)
-- **5. 4. Craft a Bulletproof Business Case** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Know Your Business Inside Out]]** (3 videos)
+- **[[#3. 2. Analyze and Prioritize Your Options]]** (3 videos)
+- **[[#4. 3. Evaluate a Business Change Scenario]]** (2 videos)
+- **[[#5. 4. Craft a Bulletproof Business Case]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

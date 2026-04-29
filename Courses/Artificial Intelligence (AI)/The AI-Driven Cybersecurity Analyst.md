@@ -53,11 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI Tips for Cybersecurity Analysts** (10 videos)
-- **3. 2. Helpful Resources** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI Tips for Cybersecurity Analysts]]** (10 videos)
+- **[[#2. Helpful Resources]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How AI is transforming cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - why (1)
 
 
-### 2. 1. AI Tips for Cybersecurity Analysts
+### 1. AI Tips for Cybersecurity Analysts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompt engineering and productivity tips for cybersecurity analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980)
@@ -909,7 +913,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Helpful Resources
+### 2. Helpful Resources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future of cybersecurity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980)

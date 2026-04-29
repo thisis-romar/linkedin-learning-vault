@@ -42,12 +42,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction** (5 videos)
-- **3. 2. Global Policies** (6 videos)
-- **4. 3. Data Types and Data Rights** (4 videos)
-- **5. 4. Data Protection and Security** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction]]** (5 videos)
+- **[[#3. 2. Global Policies]]** (6 videos)
+- **[[#4. 3. Data Types and Data Rights]]** (4 videos)
+- **[[#5. 4. Data Protection and Security]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

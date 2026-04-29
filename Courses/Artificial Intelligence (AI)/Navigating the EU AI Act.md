@@ -53,17 +53,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. EU AI Act Fundamentals** (4 videos)
-- **3. 2. Classifications and Requirements** (9 videos)
-- **4. 3. Provider and User Obligations** (4 videos)
-- **5. 4. Notify Authority** (2 videos)
-- **6. 5. Certification and Registration** (3 videos)
-- **7. 6. Support Innovation and Governance** (3 videos)
-- **8. 7. Monitoring, Enforcement, and Penalties** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. EU AI Act Fundamentals]]** (4 videos)
+- **[[#2. Classifications and Requirements]]** (9 videos)
+- **[[#3. Provider and User Obligations]]** (4 videos)
+- **[[#4. Notify Authority]]** (2 videos)
+- **[[#5. Certification and Registration]]** (3 videos)
+- **[[#6. Support Innovation and Governance]]** (3 videos)
+- **[[#7. Monitoring, Enforcement, and Penalties]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get started with the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/get-started-with-the-eu-ai-act?u=76281980)
@@ -167,7 +169,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. EU AI Act Fundamentals
+### 1. EU AI Act Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The goals of the AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980)
@@ -378,7 +382,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Classifications and Requirements
+### 2. Classifications and Requirements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prohibited artificial intelligence practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980)
@@ -931,7 +937,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Provider and User Obligations
+### 3. Provider and User Obligations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### High-risk AI system provider obligations
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980)
@@ -1118,7 +1126,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Notify Authority
+### 4. Notify Authority
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define the notifying authority and bodies
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980)
@@ -1239,7 +1249,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Certification and Registration
+### 5. Certification and Registration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conformity assessment procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/conformity-assessment-procedures?u=76281980)
@@ -1392,7 +1404,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Support Innovation and Governance
+### 6. Support Innovation and Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI regulatory sandboxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-regulatory-sandboxes?u=76281980)
@@ -1542,7 +1556,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Monitoring, Enforcement, and Penalties
+### 7. Monitoring, Enforcement, and Penalties
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Post-market monitoring of AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/post-market-monitoring-of-ai-systems?u=76281980)
@@ -1750,7 +1766,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional references for AI Act compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/additional-references-for-ai-act-compliance?u=76281980)

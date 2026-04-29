@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Reliable Sources** (6 videos)
-- **3. 2. Mastering Search** (5 videos)
-- **4. 3. Community Search and Participation** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Reliable Sources]]** (6 videos)
+- **[[#2. Mastering Search]]** (5 videos)
+- **[[#3. Community Search and Participation]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding what you're looking for
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Reliable Sources
+### 1. Reliable Sources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to find reliable information
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/where-to-find-reliable-information?u=76281980)
@@ -500,7 +504,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Mastering Search
+### 2. Mastering Search
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mastering search
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/mastering-search?u=76281980)
@@ -910,7 +916,9 @@ created: 2026-04-28
 > **URLs:** [github.com](https://github.com) (2)
 
 
-### 4. 3. Community Search and Participation
+### 3. Community Search and Participation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Humans, software, and community
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/humans-software-and-community?u=76281980)
@@ -1228,7 +1236,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The end
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/the-end?u=76281980)

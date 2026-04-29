@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Test Case Management** (9 videos)
-- **3. 2. Understanding Attacks** (10 videos)
-- **4. 3. Responsible and Secure AI Model Testing** (10 videos)
-- **5. 4. Red Teaming** (3 videos)
-- **6. 5. Operational Testing** (4 videos)
-- **7. Access Control** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Test Case Management]]** (9 videos)
+- **[[#2. Understanding Attacks]]** (10 videos)
+- **[[#3. Responsible and Secure AI Model Testing]]** (10 videos)
+- **[[#4. Red Teaming]]** (3 videos)
+- **[[#5. Operational Testing]]** (4 videos)
+- **[[#Access Control]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ensuring safe and responsible use of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ensuring-safe-and-responible-use-of-ai?u=76281980)
@@ -123,7 +125,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Test Case Management
+### 1. Test Case Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/introduction-to-ai-security?u=76281980)
@@ -922,7 +926,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Understanding Attacks
+### 2. Understanding Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing the vulnerable LLM application
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/installing-the-vulnerable-llm-application?u=76281980)
@@ -1673,7 +1679,9 @@ created: 2026-04-28
 > **Warnings:** be careful (1)
 
 
-### 4. 3. Responsible and Secure AI Model Testing
+### 3. Responsible and Secure AI Model Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI testing tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ai-testing-tools?u=76281980)
@@ -2256,7 +2264,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Red Teaming
+### 4. Red Teaming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is AI red teaming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/what-is-ai-red-teaming?u=76281980)
@@ -2458,7 +2468,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 6. 5. Operational Testing
+### 5. Operational Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI guardrails
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ai-guardrails?u=76281980)
@@ -2706,7 +2718,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Access Control
+### Access Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing to control access
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-to-control-access?u=76281980)
@@ -2939,7 +2953,9 @@ created: 2026-04-28
 > **Exercise Files:** sample code (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/what-s-next?u=76281980)

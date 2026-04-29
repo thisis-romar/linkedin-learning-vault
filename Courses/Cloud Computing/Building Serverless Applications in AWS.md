@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started** (7 videos)
-- **3. 2. AWS Account and Website Setup** (3 videos)
-- **4. 3. Amazon DynamoDB and AWS Lambda Setup** (2 videos)
-- **5. 4. API Gateway Setup and Testing** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started]]** (7 videos)
+- **[[#2. AWS Account and Website Setup]]** (3 videos)
+- **[[#3. Amazon DynamoDB and AWS Lambda Setup]]** (2 videos)
+- **[[#4. API Gateway Setup and Testing]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a serverless application in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/building-a-serverless-application-in-aws?u=76281980)
@@ -115,7 +117,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a serverless application?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980)
@@ -419,7 +423,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. AWS Account and Website Setup
+### 2. AWS Account and Website Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating and using an AWS account
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/creating-and-using-an-aws-account?u=76281980)
@@ -584,7 +590,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Amazon DynamoDB and AWS Lambda Setup
+### 3. Amazon DynamoDB and AWS Lambda Setup
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set up a DynamoDB table for data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/set-up-a-dynamodb-table-for-data-storage?u=76281980)
@@ -727,7 +735,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 5. 4. API Gateway Setup and Testing
+### 4. API Gateway Setup and Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configure API Gateway
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-api-gateway?u=76281980)
@@ -871,7 +881,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980)

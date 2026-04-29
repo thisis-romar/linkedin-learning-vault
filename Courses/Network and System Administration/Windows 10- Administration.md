@@ -52,21 +52,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Windows 10 Editions and Features** (2 videos)
-- **3. 2. Configuring Windows 10** (2 videos)
-- **4. 3. Drivers and Notifications** (2 videos)
-- **5. 4. Windows Group Policy** (3 videos)
-- **6. 5. Windows Authentication** (4 videos)
-- **7. 6. Windows Encryption** (2 videos)
-- **8. 7. Windows Boot Process** (2 videos)
-- **9. 8. Virtualization** (2 videos)
-- **10. 9. Networking** (2 videos)
-- **11. 10. Backup and Recovery** (5 videos)
-- **12. 11. Troubleshooting** (3 videos)
-- **13. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Windows 10 Editions and Features]]** (2 videos)
+- **[[#2. Configuring Windows 10]]** (2 videos)
+- **[[#3. Drivers and Notifications]]** (2 videos)
+- **[[#4. Windows Group Policy]]** (3 videos)
+- **[[#5. Windows Authentication]]** (4 videos)
+- **[[#6. Windows Encryption]]** (2 videos)
+- **[[#7. Windows Boot Process]]** (2 videos)
+- **[[#8. Virtualization]]** (2 videos)
+- **[[#9. Networking]]** (2 videos)
+- **[[#10. Backup and Recovery]]** (5 videos)
+- **[[#11. Troubleshooting]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### About the 2023 update
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/about-the-summer-2020-update?u=76281980)
@@ -122,7 +124,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/what-you-should-know-before-starting-20220578?u=76281980)
 
 
-### 2. 1. Windows 10 Editions and Features
+### 1. Windows 10 Editions and Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the desktop versions of Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980)
@@ -239,7 +243,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Configuring Windows 10
+### 2. Configuring Windows 10
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of the settings interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980)
@@ -384,7 +390,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Drivers and Notifications
+### 3. Drivers and Notifications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing and updating drivers
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980)
@@ -506,7 +514,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Windows Group Policy
+### 4. Windows Group Policy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of Group Policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980)
@@ -618,7 +628,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Windows Authentication
+### 5. Windows Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding domain users to a Windows 10 PC
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/adding-domain-users-to-a-windows-10-pc?u=76281980)
@@ -796,7 +808,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Windows Encryption
+### 6. Windows Encryption
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Administering BitLocker
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/administering-bitlocker?u=76281980)
@@ -995,7 +1009,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Windows Boot Process
+### 7. Windows Boot Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the boot process
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980)
@@ -1109,7 +1125,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Virtualization
+### 8. Virtualization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Client Hyper-V
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980)
@@ -1241,7 +1259,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Networking
+### 9. Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the Windows 10 network settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/using-the-windows-10-network-settings?u=76281980)
@@ -1450,7 +1470,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Backup and Recovery
+### 10. Backup and Recovery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### File History
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980)
@@ -1844,7 +1866,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 12. 11. Troubleshooting
+### 11. Troubleshooting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using log files to troubleshoot Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980)
@@ -2079,7 +2103,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980)

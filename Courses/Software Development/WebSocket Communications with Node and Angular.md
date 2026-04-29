@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Environment: TypeScript, Node, and Angular** (6 videos)
-- **3. 2. Stand Up a WebSocket Service** (6 videos)
-- **4. 3. Build the UI with Angular** (4 videos)
-- **5. 4. Turn On WebSockets in the UI** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Environment: TypeScript, Node, and Angular]]** (6 videos)
+- **[[#2. Stand Up a WebSocket Service]]** (6 videos)
+- **[[#3. Build the UI with Angular]]** (4 videos)
+- **[[#4. Turn On WebSockets in the UI]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are WebSockets?
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980)
@@ -206,7 +208,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Environment: TypeScript, Node, and Angular
+### 1. Environment: TypeScript, Node, and Angular
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to clone the code at any stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980)
@@ -777,7 +781,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 3. 2. Stand Up a WebSocket Service
+### 2. Stand Up a WebSocket Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Receive your first WebSocket connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980)
@@ -1411,7 +1417,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Build the UI with Angular
+### 3. Build the UI with Angular
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A quick look at Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980)
@@ -1930,7 +1938,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 5. 4. Turn On WebSockets in the UI
+### 4. Turn On WebSockets in the UI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simulate authentication on new connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980)
@@ -2921,7 +2931,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980)

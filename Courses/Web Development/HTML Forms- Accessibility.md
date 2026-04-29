@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Form Accessibility** (3 videos)
-- **3. 2. Improving Form Accessibility with Form Controls** (3 videos)
-- **4. 3. Helping Users Input Data into Forms** (6 videos)
-- **5. 4. Managing Data Entry Errors** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Form Accessibility]]** (3 videos)
+- **[[#2. Improving Form Accessibility with Form Controls]]** (3 videos)
+- **[[#3. Helping Users Input Data into Forms]]** (6 videos)
+- **[[#4. Managing Data Entry Errors]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be an HTML forms MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980)
@@ -127,7 +129,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 2. 1. Introduction to Form Accessibility
+### 1. Introduction to Form Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/course-use-case?u=76281980)
@@ -219,7 +223,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Improving Form Accessibility with Form Controls
+### 2. Improving Form Accessibility with Form Controls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to HTML form controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-controls?u=76281980)
@@ -356,7 +362,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Helping Users Input Data into Forms
+### 3. Helping Users Input Data into Forms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to HTML form attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980)
@@ -714,7 +722,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Managing Data Entry Errors
+### 4. Managing Data Entry Errors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Required attribute
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/required-attribute?u=76281980)
@@ -848,7 +858,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980)

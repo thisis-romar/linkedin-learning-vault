@@ -57,13 +57,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. From Digital Transformation to Autonomous Transformation** (3 videos)
-- **3. 2. From Data-Driven to Reason-Driven Leadership** (4 videos)
-- **4. 3. How to Solve for the Future** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. From Digital Transformation to Autonomous Transformation]]** (3 videos)
+- **[[#2. From Data-Driven to Reason-Driven Leadership]]** (4 videos)
+- **[[#3. How to Solve for the Future]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Technology breakthroughs need management breakthroughs
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980)
@@ -252,7 +254,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. From Digital Transformation to Autonomous Transformation
+### 1. From Digital Transformation to Autonomous Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding autonomous transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980)
@@ -503,7 +507,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 3. 2. From Data-Driven to Reason-Driven Leadership
+### 2. From Data-Driven to Reason-Driven Leadership
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reason-driven vs. data-driven strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reason-driven-vs-data-driven-strategy?u=76281980)
@@ -782,7 +788,9 @@ created: 2026-04-28
 > **Speakers:** - your (1)
 
 
-### 4. 3. How to Solve for the Future
+### 3. How to Solve for the Future
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Replace problem-solving with future solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-problem-solving-with-future-solving?u=76281980)
@@ -1080,7 +1088,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reaching new heights of value creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980)

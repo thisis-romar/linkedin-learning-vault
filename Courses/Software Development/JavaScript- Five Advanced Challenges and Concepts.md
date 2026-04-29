@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Nested Relationships** (5 videos)
-- **3. 2. Classes and Inheritance** (5 videos)
-- **4. 3. Singletons and Proxy Objects** (5 videos)
-- **5. 4. Observer Pattern** (5 videos)
-- **6. 5. Reactive Objects and Factories** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Nested Relationships]]** (5 videos)
+- **[[#2. Classes and Inheritance]]** (5 videos)
+- **[[#3. Singletons and Proxy Objects]]** (5 videos)
+- **[[#4. Observer Pattern]]** (5 videos)
+- **[[#5. Reactive Objects and Factories]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advance your skills with JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advance-your-skills-with-javascript?u=76281980)
@@ -163,7 +165,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Nested Relationships
+### 1. Nested Relationships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing nested comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-nested-comments?u=76281980)
@@ -617,7 +621,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music begins) (1)
 
 
-### 3. 2. Classes and Inheritance
+### 2. Classes and Inheritance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing users and capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-users-and-capabilities?u=76281980)
@@ -1182,7 +1188,9 @@ created: 2026-04-28
 > **Non-Speech:** (electronic music intro) (1)
 
 
-### 4. 3. Singletons and Proxy Objects
+### 3. Singletons and Proxy Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building robust applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/building-robust-applications?u=76281980)
@@ -1710,7 +1718,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Observer Pattern
+### 4. Observer Pattern
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Push info to many nodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/push-info-to-many-nodes?u=76281980)
@@ -2143,7 +2153,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 6. 5. Reactive Objects and Factories
+### 5. Reactive Objects and Factories
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keeping a shopping cart up to date
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980)
@@ -2603,7 +2615,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980)

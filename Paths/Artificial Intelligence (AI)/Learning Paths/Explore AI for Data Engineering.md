@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - Database Management
   - Software Development
-louvain_cluster: 6
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence

@@ -49,11 +49,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Working with Files** (13 videos)
-- **3. 2. Working with Directories** (7 videos)
-- **4. 3. Accepting User-Uploaded Files** (9 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Working with Files]]** (13 videos)
+- **[[#3. 2. Working with Directories]]** (7 videos)
+- **[[#4. 3. Accepting User-Uploaded Files]]** (9 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

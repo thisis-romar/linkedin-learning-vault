@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Basics** (5 videos)
-- **3. 2. Financial Analysis** (5 videos)
-- **4. 3. Forecasting in Finance** (5 videos)
-- **5. 4. Interpret Forecast Results** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Basics]]** (5 videos)
+- **[[#3. 2. Financial Analysis]]** (5 videos)
+- **[[#4. 3. Forecasting in Finance]]** (5 videos)
+- **[[#5. 4. Interpret Forecast Results]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

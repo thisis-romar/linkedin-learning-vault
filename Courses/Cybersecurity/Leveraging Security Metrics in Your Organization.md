@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Why Cybersecurity Practitioners Need Metrics** (4 videos)
-- **3. 2. Know Your Audience** (3 videos)
-- **4. 3. Risk Management Objectives** (3 videos)
-- **5. 4. Example Cybersecurity Metrics** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Why Cybersecurity Practitioners Need Metrics]]** (4 videos)
+- **[[#3. 2. Know Your Audience]]** (3 videos)
+- **[[#4. 3. Risk Management Objectives]]** (3 videos)
+- **[[#5. 4. Example Cybersecurity Metrics]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

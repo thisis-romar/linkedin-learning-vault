@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Agile and Jira** (3 videos)
-- **3. 2. Project Boards** (3 videos)
-- **4. 3. Enrich Issues** (3 videos)
-- **5. 4. Kanban Method** (3 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Agile and Jira]]** (3 videos)
+- **[[#3. 2. Project Boards]]** (3 videos)
+- **[[#4. 3. Enrich Issues]]** (3 videos)
+- **[[#5. 4. Kanban Method]]** (3 videos)
 
 ### 1. Introduction
 

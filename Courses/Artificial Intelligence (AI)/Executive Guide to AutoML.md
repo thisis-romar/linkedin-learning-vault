@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introducing AutoML** (5 videos)
-- **3. 2. Stages in the ML Lifecycle** (6 videos)
-- **4. 3. AutoML Options** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introducing AutoML]]** (5 videos)
+- **[[#2. Stages in the ML Lifecycle]]** (6 videos)
+- **[[#3. AutoML Options]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How AutoML is changing analytics teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/how-automl-is-changing-analytics-teams?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introducing AutoML
+### 1. Introducing AutoML
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is AutoML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980)
@@ -407,7 +411,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 3. 2. Stages in the ML Lifecycle
+### 2. Stages in the ML Lifecycle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Which phases have been automated most successfully?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980)
@@ -853,7 +859,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. AutoML Options
+### 3. AutoML Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The AutoML vendor landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980)
@@ -1278,7 +1286,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980)

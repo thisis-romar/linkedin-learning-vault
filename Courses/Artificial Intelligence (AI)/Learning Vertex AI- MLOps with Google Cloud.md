@@ -51,14 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to MLOps** (4 videos)
-- **3. 2. Feature Engineering** (2 videos)
-- **4. 3. Training and Hyperparameter** (4 videos)
-- **5. 4. Model Serving and Deployment** (3 videos)
-- **6. 5. Model Monitoring and Management** (2 videos)
-- **7. 6. Deploy Your Project Using Vertex AI** (2 videos)
-- **8. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to MLOps]]** (4 videos)
+- **[[#3. 2. Feature Engineering]]** (2 videos)
+- **[[#4. 3. Training and Hyperparameter]]** (4 videos)
+- **[[#5. 4. Model Serving and Deployment]]** (3 videos)
+- **[[#6. 5. Model Monitoring and Management]]** (2 videos)
+- **[[#7. 6. Deploy Your Project Using Vertex AI]]** (2 videos)
+- **[[#8. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

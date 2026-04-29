@@ -54,12 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Streamlining AI Workflows with Modern Tools** (8 videos)
-- **3. 2. Developing Future-Ready AI Skills** (5 videos)
-- **4. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Streamlining AI Workflows with Modern Tools]]** (8 videos)
+- **[[#2. Developing Future-Ready AI Skills]]** (5 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Warnings:** troubleshoot (1)
 
 
-### 2. 1. Streamlining AI Workflows with Modern Tools
+### 1. Streamlining AI Workflows with Modern Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data versioning and management
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980)
@@ -648,7 +652,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 3. 2. Developing Future-Ready AI Skills
+### 2. Developing Future-Ready AI Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assessing and upskilling existing teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980)
@@ -1019,7 +1025,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recap of key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980)

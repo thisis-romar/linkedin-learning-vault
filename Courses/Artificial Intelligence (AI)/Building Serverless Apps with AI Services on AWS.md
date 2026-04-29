@@ -51,14 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to AI** (5 videos)
-- **3. 2. Getting started with Serverless** (3 videos)
-- **4. 3. Infrastructure as code** (4 videos)
-- **5. 4. Introduction to Step Functions** (9 videos)
-- **6. 5. Building a Workflow with AI** (8 videos)
-- **7. 6. Build a Chatbot with GenAI** (9 videos)
-- **8. Conclusion** (3 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introduction to AI]]** (5 videos)
+- **[[#3. 2. Getting started with Serverless]]** (3 videos)
+- **[[#4. 3. Infrastructure as code]]** (4 videos)
+- **[[#5. 4. Introduction to Step Functions]]** (9 videos)
+- **[[#6. 5. Building a Workflow with AI]]** (8 videos)
+- **[[#7. 6. Build a Chatbot with GenAI]]** (9 videos)
+- **[[#8. Conclusion]]** (3 videos)
 
 ### 1. Introduction
 

@@ -47,12 +47,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Python: What's Built In?** (9 videos)
-- **3. 2. Python: Math** (7 videos)
-- **4. 3. Python Input/Output** (8 videos)
-- **5. 4. Python: Date and Time, HTML Parsing, and HTTP** (8 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Python: What's Built In?]]** (9 videos)
+- **[[#3. 2. Python: Math]]** (7 videos)
+- **[[#4. 3. Python Input/Output]]** (8 videos)
+- **[[#5. 4. Python: Date and Time, HTML Parsing, and HTTP]]** (8 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

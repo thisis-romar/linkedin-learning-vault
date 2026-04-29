@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Firewalls** (8 videos)
-- **3. 2. Hardware Firewalls** (2 videos)
-- **4. 3. Network Simulation Using GNS3** (5 videos)
-- **5. 4. Special Purpose Perimeter Devices** (4 videos)
-- **6. 5. Protection from Intrusion** (6 videos)
-- **7. 6. Evasion Techniques** (10 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Firewalls]]** (8 videos)
+- **[[#2. Hardware Firewalls]]** (2 videos)
+- **[[#3. Network Simulation Using GNS3]]** (5 videos)
+- **[[#4. Special Purpose Perimeter Devices]]** (4 videos)
+- **[[#5. Protection from Intrusion]]** (6 videos)
+- **[[#6. Evasion Techniques]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding weaknesses in the perimeter
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Firewalls
+### 1. Firewalls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980)
@@ -834,7 +838,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Hardware Firewalls
+### 2. Hardware Firewalls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set up a Cisco PIX firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-cisco-pix-firewall-2?u=76281980)
@@ -996,7 +1002,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Network Simulation Using GNS3
+### 3. Network Simulation Using GNS3
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install GNS3
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980)
@@ -1509,7 +1517,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Special Purpose Perimeter Devices
+### 4. Special Purpose Perimeter Devices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand Web Application Firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980)
@@ -1901,7 +1911,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Protection from Intrusion
+### 5. Protection from Intrusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intrusion response techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980)
@@ -2327,7 +2339,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Evasion Techniques
+### 6. Evasion Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evading antivirus detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980)
@@ -2938,7 +2952,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980)

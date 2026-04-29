@@ -56,17 +56,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. A Network's Purpose in Life** (3 videos)
-- **3. 2. Network Addresses** (3 videos)
-- **4. 3. Pieces and Parts of a Network** (6 videos)
-- **5. 4. The OSI Model** (3 videos)
-- **6. 5. Network Services** (5 videos)
-- **7. 6. Wireless Networks** (4 videos)
-- **8. 7. Emerging Trends in Networking** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. A Network's Purpose in Life]]** (3 videos)
+- **[[#2. Network Addresses]]** (3 videos)
+- **[[#3. Pieces and Parts of a Network]]** (6 videos)
+- **[[#4. The OSI Model]]** (3 videos)
+- **[[#5. Network Services]]** (5 videos)
+- **[[#6. Wireless Networks]]** (4 videos)
+- **[[#7. Emerging Trends in Networking]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/welcome-to-the-network-24998881?u=76281980)
@@ -99,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 2. 1. A Network's Purpose in Life
+### 1. A Network's Purpose in Life
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A high-level look at a network
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980)
@@ -292,7 +296,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 3. 2. Network Addresses
+### 2. Network Addresses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### MAC addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/mac-addresses-25201754?u=76281980)
@@ -450,7 +456,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 4. 3. Pieces and Parts of a Network
+### 3. Pieces and Parts of a Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Network interface cards
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/network-interface-cards-25000814?u=76281980)
@@ -847,7 +855,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 5. 4. The OSI Model
+### 4. The OSI Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning the seven layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980)
@@ -1083,7 +1093,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. 5. Network Services
+### 5. Network Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DHCP overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/dhcp-overview-25000813?u=76281980)
@@ -1528,7 +1540,9 @@ created: 2026-04-28
 > **Speakers:** - sometimes (1)
 
 
-### 7. 6. Wireless Networks
+### 6. Wireless Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of wireless LANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980)
@@ -1797,7 +1811,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 8. 7. Emerging Trends in Networking
+### 7. Emerging Trends in Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Software-defined networking (SDN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980)
@@ -2171,7 +2187,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980)

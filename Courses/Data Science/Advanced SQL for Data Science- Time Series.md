@@ -50,14 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Time Series Data** (4 videos)
-- **3. 2. Installing Database and Tools** (4 videos)
-- **4. 3. Querying Time Series Data** (5 videos)
-- **5. 4. Modeling Time Series Data** (7 videos)
-- **6. 5. Commonly Used Functions for Time Series** (4 videos)
-- **7. 6. Time Series Analysis** (7 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Time Series Data]]** (4 videos)
+- **[[#3. 2. Installing Database and Tools]]** (4 videos)
+- **[[#4. 3. Querying Time Series Data]]** (5 videos)
+- **[[#5. 4. Modeling Time Series Data]]** (7 videos)
+- **[[#6. 5. Commonly Used Functions for Time Series]]** (4 videos)
+- **[[#7. 6. Time Series Analysis]]** (7 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

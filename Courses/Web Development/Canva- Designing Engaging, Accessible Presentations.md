@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Design for Non-Designers** (3 videos)
-- **3. 2. Designing Presentations in Canva** (4 videos)
-- **4. 3. Designing with Your Brand in Mind** (4 videos)
-- **5. 4. Designing for Accessibility** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Design for Non-Designers]]** (3 videos)
+- **[[#2. Designing Presentations in Canva]]** (4 videos)
+- **[[#3. Designing with Your Brand in Mind]]** (4 videos)
+- **[[#4. Designing for Accessibility]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design better presentations in Canva
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva?u=76281980)
@@ -120,7 +122,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Design for Non-Designers
+### 1. Design for Non-Designers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design pillars
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980)
@@ -233,7 +237,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Designing Presentations in Canva
+### 2. Designing Presentations in Canva
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starting from a template
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980)
@@ -687,7 +693,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Designing with Your Brand in Mind
+### 3. Designing with Your Brand in Mind
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why branding matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980)
@@ -1104,7 +1112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Designing for Accessibility
+### 4. Designing for Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Checking presentations for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980)
@@ -1410,7 +1420,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980)

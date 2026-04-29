@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 2. AI and Your Organization** (3 videos)
-- **3. 3. AI and Your Workforce** (4 videos)
-- **4. 4. AI and Business Value** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#2. AI and Your Organization]]** (3 videos)
+- **[[#3. AI and Your Workforce]]** (4 videos)
+- **[[#4. AI and Business Value]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tackling AI as a leadership challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/debunking-myths-and-misconceptions-about-ai?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 2. AI and Your Organization
+### 2. AI and Your Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building an AI-friendly culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980)
@@ -293,7 +297,9 @@ created: 2026-04-28
 > **Speakers:** - remember (1)
 
 
-### 3. 3. AI and Your Workforce
+### 3. AI and Your Workforce
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI and employee retention
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980)
@@ -585,7 +591,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 4. 4. AI and Business Value
+### 4. AI and Business Value
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI and business differentiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980)
@@ -845,7 +853,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leadership in the age of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980)

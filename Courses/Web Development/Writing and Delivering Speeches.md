@@ -46,12 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Before You Write and Deliver Your Speech** (2 videos)
-- **3. 2. Writing and Delivering Speeches for Various Scenarios** (8 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Before You Write and Deliver Your Speech]]** (2 videos)
+- **[[#2. Writing and Delivering Speeches for Various Scenarios]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### So, you're giving a speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/so-you-re-giving-a-speech?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. Before You Write and Deliver Your Speech
+### 1. Before You Write and Deliver Your Speech
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand your target audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/understand-your-target-audience?u=76281980)
@@ -320,7 +324,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 3. 2. Writing and Delivering Speeches for Various Scenarios
+### 2. Writing and Delivering Speeches for Various Scenarios
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Staging your virtual speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/staging-your-virtual-speech?u=76281980)
@@ -1047,7 +1053,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deliver with confidence
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/deliver-with-confidence?u=76281980)

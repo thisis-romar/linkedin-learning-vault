@@ -58,14 +58,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Setting Up Access to Gemini API** (4 videos)
-- **3. 2. Building the Interface** (5 videos)
-- **4. 3. Building the Backend: Connecting to Gemini** (5 videos)
-- **5. 4. Bringing It All Together** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Setting Up Access to Gemini API]]** (4 videos)
+- **[[#2. Building the Interface]]** (5 videos)
+- **[[#3. Building the Backend: Connecting to Gemini]]** (5 videos)
+- **[[#4. Bringing It All Together]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Image captioning with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/image-captioning-with-ai?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Env Vars:** api (2)
 
 
-### 2. 1. Setting Up Access to Gemini API
+### 1. Setting Up Access to Gemini API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Gemini models
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980)
@@ -434,7 +438,9 @@ created: 2026-04-28
 > **Best Practices:** the key is (1)
 
 
-### 3. 2. Building the Interface
+### 2. Building the Interface
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloning the seed project
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980)
@@ -904,7 +910,9 @@ created: 2026-04-28
 > **Prerequisites:** before we start (1)
 
 
-### 4. 3. Building the Backend: Connecting to Gemini
+### 3. Building the Backend: Connecting to Gemini
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building out the Express.js API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980)
@@ -1337,7 +1345,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 5. 4. Bringing It All Together
+### 4. Bringing It All Together
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connecting the frontend to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980)
@@ -1631,7 +1641,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980)

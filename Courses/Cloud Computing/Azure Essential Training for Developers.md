@@ -49,20 +49,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Cloud Fundamentals** (1 videos)
-- **3. 2. Core Azure Concepts** (5 videos)
-- **4. 3. Azure App Services** (2 videos)
-- **5. 4. Azure Storage** (3 videos)
-- **6. 5. Azure Functions** (5 videos)
-- **7. 6. Virtual Machines and Batch** (3 videos)
-- **8. 7. Kubernetes and Containers in Azure** (3 videos)
-- **9. 8. Securing your applications** (3 videos)
-- **10. 9. Monitoring your applications** (2 videos)
-- **11. 10. Optimizing your applications** (3 videos)
-- **12. 11. AI in Azure** (4 videos)
-- **13. 12. Interesting Advancements for Developers** (3 videos)
-- **14. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Cloud Fundamentals]]** (1 videos)
+- **[[#3. 2. Core Azure Concepts]]** (5 videos)
+- **[[#4. 3. Azure App Services]]** (2 videos)
+- **[[#5. 4. Azure Storage]]** (3 videos)
+- **[[#6. 5. Azure Functions]]** (5 videos)
+- **[[#7. 6. Virtual Machines and Batch]]** (3 videos)
+- **[[#8. 7. Kubernetes and Containers in Azure]]** (3 videos)
+- **[[#9. 8. Securing your applications]]** (3 videos)
+- **[[#10. 9. Monitoring your applications]]** (2 videos)
+- **[[#11. 10. Optimizing your applications]]** (3 videos)
+- **[[#12. 11. AI in Azure]]** (4 videos)
+- **[[#13. 12. Interesting Advancements for Developers]]** (3 videos)
+- **[[#14. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

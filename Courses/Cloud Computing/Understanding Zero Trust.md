@@ -40,13 +40,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Background** (3 videos)
-- **3. 2. Zero Trust** (8 videos)
-- **4. 3. Implementing Zero Trust** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Background]]** (3 videos)
+- **[[#2. Zero Trust]]** (8 videos)
+- **[[#3. Implementing Zero Trust]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Zero Trust to protect against cyberattack
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/using-zero-trust-to-protect-against-cyberattack?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Background
+### 1. Background
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A brief history of technology trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980)
@@ -270,7 +274,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Zero Trust
+### 2. Zero Trust
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Zero Trust?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980)
@@ -979,7 +985,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Implementing Zero Trust
+### 3. Implementing Zero Trust
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a Zero Trust foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980)
@@ -1151,7 +1159,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980)

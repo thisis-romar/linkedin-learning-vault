@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Generating Content and Interactions** (7 videos)
-- **3. 2. Modifying and Organizing Content** (6 videos)
-- **4. 3. AI in FigJam and Figma Slides** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Generating Content and Interactions]]** (7 videos)
+- **[[#2. Modifying and Organizing Content]]** (6 videos)
+- **[[#3. AI in FigJam and Figma Slides]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore AI workflows with Figma Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980)
@@ -202,7 +204,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Generating Content and Interactions
+### 1. Generating Content and Interactions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the Figma Design project
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-the-figma-design-project?u=76281980)
@@ -705,7 +709,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Modifying and Organizing Content
+### 2. Modifying and Organizing Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rename layers in a Figma Design file
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980)
@@ -1042,7 +1048,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. AI in FigJam and Figma Slides
+### 3. AI in FigJam and Figma Slides
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use the generate feature in FigJam
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-generate-feature-in-figjam?u=76281980)
@@ -1304,7 +1312,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/next-steps?u=76281980)

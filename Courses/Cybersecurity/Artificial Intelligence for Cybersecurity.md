@@ -43,15 +43,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Demystifying Artificial Intelligence for Cybersecurity** (6 videos)
-- **3. 2. Cybersecurity Gaps and Goals** (5 videos)
-- **4. 3. Solving Cybersecurity Problems with AI** (6 videos)
-- **5. 4. Applying Machine Learning to Security** (5 videos)
-- **6. 5. Practical Considerations, Risks, and Limitations** (6 videos)
-- **7. Conclusion** (0 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Demystifying Artificial Intelligence for Cybersecurity]]** (6 videos)
+- **[[#2. Cybersecurity Gaps and Goals]]** (5 videos)
+- **[[#3. Solving Cybersecurity Problems with AI]]** (6 videos)
+- **[[#4. Applying Machine Learning to Security]]** (5 videos)
+- **[[#5. Practical Considerations, Risks, and Limitations]]** (6 videos)
+- **[[#Conclusion]]** (0 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unleashing the power of AI for cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - artificial (1)
 
 
-### 2. 1. Demystifying Artificial Intelligence for Cybersecurity
+### 1. Demystifying Artificial Intelligence for Cybersecurity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980)
@@ -483,7 +487,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Cybersecurity Gaps and Goals
+### 2. Cybersecurity Gaps and Goals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CIA model of security
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cia-model-of-security?u=76281980)
@@ -747,7 +753,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Solving Cybersecurity Problems with AI
+### 3. Solving Cybersecurity Problems with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intrusion detection at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980)
@@ -1249,7 +1257,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Applying Machine Learning to Security
+### 4. Applying Machine Learning to Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing the right ML approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980)
@@ -1563,7 +1573,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Practical Considerations, Risks, and Limitations
+### 5. Practical Considerations, Risks, and Limitations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The ways AI can fail you
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980)
@@ -1993,7 +2005,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
 ## Instructor

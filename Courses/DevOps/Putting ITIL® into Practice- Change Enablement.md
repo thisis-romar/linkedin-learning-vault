@@ -51,15 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Request for Change** (6 videos)
-- **3. 2. Change Proposal** (6 videos)
-- **4. 3. Change Evaluation** (6 videos)
-- **5. 4. Change Advisory Board** (6 videos)
-- **6. 5. Change Scheduling** (6 videos)
-- **7. 6. Change Communication** (6 videos)
-- **8. 7. Change Implementation** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Request for Change]]** (6 videos)
+- **[[#3. 2. Change Proposal]]** (6 videos)
+- **[[#4. 3. Change Evaluation]]** (6 videos)
+- **[[#5. 4. Change Advisory Board]]** (6 videos)
+- **[[#6. 5. Change Scheduling]]** (6 videos)
+- **[[#7. 6. Change Communication]]** (6 videos)
+- **[[#8. 7. Change Implementation]]** (6 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

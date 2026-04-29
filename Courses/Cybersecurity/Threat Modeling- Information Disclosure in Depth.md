@@ -46,14 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Data at Rest** (3 videos)
-- **3. 2. Data in Motion** (3 videos)
-- **4. 3. Information Disclosure by Processes** (2 videos)
-- **5. 4. Side Effects** (3 videos)
-- **6. 5. Disclosure in Certain Technologies** (3 videos)
-- **7. 6. Defenses** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Data at Rest]]** (3 videos)
+- **[[#3. 2. Data in Motion]]** (3 videos)
+- **[[#4. 3. Information Disclosure by Processes]]** (2 videos)
+- **[[#5. 4. Side Effects]]** (3 videos)
+- **[[#6. 5. Disclosure in Certain Technologies]]** (3 videos)
+- **[[#7. 6. Defenses]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

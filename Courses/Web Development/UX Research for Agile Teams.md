@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Software Development Frameworks** (4 videos)
-- **3. 2. Team Preparation** (3 videos)
-- **4. 3. Research Adaption** (4 videos)
-- **5. 4. Analyzing Research** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Software Development Frameworks]]** (4 videos)
+- **[[#2. Team Preparation]]** (3 videos)
+- **[[#3. Research Adaption]]** (4 videos)
+- **[[#4. Analyzing Research]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980)
@@ -99,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Software Development Frameworks
+### 1. Software Development Frameworks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### UX research overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/ux-research-overview?u=76281980)
@@ -239,7 +243,9 @@ created: 2026-04-28
 > **Speakers:** - because (1)
 
 
-### 3. 2. Team Preparation
+### 2. Team Preparation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Team makeup
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980)
@@ -489,7 +495,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 4. 3. Research Adaption
+### 3. Research Adaption
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing research method
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980)
@@ -711,7 +719,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Analyzing Research
+### 4. Analyzing Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Interpreting research findings
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980)
@@ -874,7 +884,9 @@ created: 2026-04-28
 > **Speakers:** - assuming (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980)

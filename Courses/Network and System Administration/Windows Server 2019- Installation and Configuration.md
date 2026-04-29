@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Planning the Installation** (4 videos)
-- **3. 2. Installing Windows Server 2019** (7 videos)
-- **4. 3. Configuring Storage** (4 videos)
-- **5. 4. Managing Server Roles and Features** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Planning the Installation]]** (4 videos)
+- **[[#3. 2. Installing Windows Server 2019]]** (7 videos)
+- **[[#4. 3. Configuring Storage]]** (4 videos)
+- **[[#5. 4. Managing Server Roles and Features]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

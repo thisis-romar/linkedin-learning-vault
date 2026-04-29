@@ -37,10 +37,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Leveraging the LinkedIn AI Agent Hiring Assistant** (6 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Leveraging the LinkedIn AI Agent Hiring Assistant]]** (6 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Launching your hiring journey with Hiring Assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980)
@@ -74,7 +76,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Leveraging the LinkedIn AI Agent Hiring Assistant
+### 1. Leveraging the LinkedIn AI Agent Hiring Assistant
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up your first Hiring Assistant project
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980)

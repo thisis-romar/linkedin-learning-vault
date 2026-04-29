@@ -47,16 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Basics of Redis** (5 videos)
-- **3. 2. Representing Complex Data Structures: Hashes** (3 videos)
-- **4. 3. Lists and Sets in Redis** (11 videos)
-- **5. 4. Sorted Sets** (2 videos)
-- **6. 5. Key Naming Strategies** (3 videos)
-- **7. 6. Beyond Data Storage** (5 videos)
-- **8. 7. Watching Keys for Updates** (4 videos)
-- **9. 8. An introduction to Redis at Scale** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Basics of Redis]]** (5 videos)
+- **[[#3. 2. Representing Complex Data Structures: Hashes]]** (3 videos)
+- **[[#4. 3. Lists and Sets in Redis]]** (11 videos)
+- **[[#5. 4. Sorted Sets]]** (2 videos)
+- **[[#6. 5. Key Naming Strategies]]** (3 videos)
+- **[[#7. 6. Beyond Data Storage]]** (5 videos)
+- **[[#8. 7. Watching Keys for Updates]]** (4 videos)
+- **[[#9. 8. An introduction to Redis at Scale]]** (3 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

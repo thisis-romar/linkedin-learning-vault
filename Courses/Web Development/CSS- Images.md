@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Basic Image Fitting and Positioning** (7 videos)
-- **3. 2. Clip Masks, Paths, and Custom Shapes** (9 videos)
-- **4. 3. Filtering and Blending** (7 videos)
-- **5. 4. Transformations and Animations** (4 videos)
-- **6. 5. Image Optimization and Performance** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Basic Image Fitting and Positioning]]** (7 videos)
+- **[[#2. Clip Masks, Paths, and Custom Shapes]]** (9 videos)
+- **[[#3. Filtering and Blending]]** (7 videos)
+- **[[#4. Transformations and Animations]]** (4 videos)
+- **[[#5. Image Optimization and Performance]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with images in CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/working-with-images-in-css?u=76281980)
@@ -176,7 +178,9 @@ created: 2026-04-28
 > **Env Vars:** url (1)
 
 
-### 2. 1. Basic Image Fitting and Positioning
+### 1. Basic Image Fitting and Positioning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modern image markup
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980)
@@ -1058,7 +1062,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Clip Masks, Paths, and Custom Shapes
+### 2. Clip Masks, Paths, and Custom Shapes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rounded corners with border-radius
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/rounded-corners-with-border-radius?u=76281980)
@@ -1792,7 +1798,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Filtering and Blending
+### 3. Filtering and Blending
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Filtering and blending
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/filtering-and-blending?u=76281980)
@@ -2211,7 +2219,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Transformations and Animations
+### 4. Transformations and Animations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Translate, scale, rotate, and manipulate perspective
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/translate-scale-rotate-and-manipulate-perspective?u=76281980)
@@ -2669,7 +2679,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Image Optimization and Performance
+### 5. Image Optimization and Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Delivering responsive images
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/delivering-responsive-images?u=76281980)
@@ -2800,7 +2812,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/next-steps?u=76281980)

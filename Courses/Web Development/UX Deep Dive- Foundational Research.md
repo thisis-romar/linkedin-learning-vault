@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Foundational Research** (1 videos)
-- **2. 1. Essentials of Foundational Research** (3 videos)
-- **3. 2. Existing Data** (1 videos)
-- **4. 3. Interviews** (1 videos)
-- **5. 4. Fieldwork** (1 videos)
-- **6. 5. Longitudinal Work** (1 videos)
-- **7. 6. Generating Ideas** (1 videos)
-- **8. 7. Integrating Foundational Research** (1 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Foundational Research]]** (1 videos)
+- **[[#1. Essentials of Foundational Research]]** (3 videos)
+- **[[#2. Existing Data]]** (1 videos)
+- **[[#3. Interviews]]** (1 videos)
+- **[[#4. Fieldwork]]** (1 videos)
+- **[[#5. Longitudinal Work]]** (1 videos)
+- **[[#6. Generating Ideas]]** (1 videos)
+- **[[#7. Integrating Foundational Research]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Foundational Research
+### Foundational Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Diving into foundational research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. Essentials of Foundational Research
+### 1. Essentials of Foundational Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is foundational research and why does it matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980)
@@ -284,7 +288,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 3. 2. Existing Data
+### 2. Existing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Look at existing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/look-at-existing-data?u=76281980)
@@ -327,7 +333,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 4. 3. Interviews
+### 3. Interviews
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conducting basic interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/conducting-basic-interviews?u=76281980)
@@ -369,7 +377,9 @@ created: 2026-04-28
 > **Speakers:** - interviews (1)
 
 
-### 5. 4. Fieldwork
+### 4. Fieldwork
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting in the field
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/getting-in-the-field?u=76281980)
@@ -438,7 +448,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 6. 5. Longitudinal Work
+### 5. Longitudinal Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using longitudinal studies
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/using-longitudinal-studies?u=76281980)
@@ -498,7 +510,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 7. 6. Generating Ideas
+### 6. Generating Ideas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Focus on ideation exercises
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/focus-on-ideation-exercises?u=76281980)
@@ -541,7 +555,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 8. 7. Integrating Foundational Research
+### 7. Integrating Foundational Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analysis and integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/analysis-and-integration?u=76281980)
@@ -616,7 +632,9 @@ created: 2026-04-28
 > **Speakers:** - analyzing (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Foundational research toolset
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-toolset?u=76281980)

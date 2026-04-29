@@ -62,16 +62,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Think with Data** (10 videos)
-- **3. 2. Prepare Data** (9 videos)
-- **4. 3. Adapt Data** (9 videos)
-- **5. 4. Explore Data** (11 videos)
-- **6. 5. Describe Data** (12 videos)
-- **7. 6. Probability and Inference** (6 videos)
-- **8. 7. Continuing Your Data Fluency Learning Quest** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Think with Data]]** (10 videos)
+- **[[#2. Prepare Data]]** (9 videos)
+- **[[#3. Adapt Data]]** (9 videos)
+- **[[#4. Explore Data]]** (11 videos)
+- **[[#5. Describe Data]]** (12 videos)
+- **[[#6. Probability and Inference]]** (6 videos)
+- **[[#7. Continuing Your Data Fluency Learning Quest]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make better decisions with your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980)
@@ -99,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - [barton] (1)
 
 
-### 2. 1. Think with Data
+### 1. Think with Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The meaning of data fluency
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980)
@@ -1410,7 +1414,9 @@ created: 2026-04-28
 > **Best Practices:** don't forget (1)
 
 
-### 3. 2. Prepare Data
+### 2. Prepare Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980)
@@ -2535,7 +2541,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Adapt Data
+### 3. Adapt Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sort data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980)
@@ -3640,7 +3648,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 5. 4. Explore Data
+### 4. Explore Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visual primacy: The importance of starting with pictures
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980)
@@ -5292,7 +5302,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Describe Data
+### 5. Describe Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Numerical descriptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/numerical-descriptions?u=76281980)
@@ -6626,7 +6638,9 @@ created: 2026-04-28
 > **Env Vars:** gui (1)
 
 
-### 7. 6. Probability and Inference
+### 6. Probability and Inference
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980)
@@ -7397,7 +7411,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1)
 
 
-### 8. 7. Continuing Your Data Fluency Learning Quest
+### 7. Continuing Your Data Fluency Learning Quest
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980)

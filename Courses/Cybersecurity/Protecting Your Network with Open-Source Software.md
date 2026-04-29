@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Understanding Open-Source Software** (5 videos)
-- **3. 2. Firewalls** (6 videos)
-- **4. 3. Host as a Router** (10 videos)
-- **5. 4. Host as a Network Firewall** (10 videos)
-- **6. 5. Packet Analysis** (7 videos)
-- **7. 6. IDSs and Vulnerability Assessment** (8 videos)
-- **8. 7. Logging and Monitoring** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Understanding Open-Source Software]]** (5 videos)
+- **[[#2. Firewalls]]** (6 videos)
+- **[[#3. Host as a Router]]** (10 videos)
+- **[[#4. Host as a Network Firewall]]** (10 videos)
+- **[[#5. Packet Analysis]]** (7 videos)
+- **[[#6. IDSs and Vulnerability Assessment]]** (8 videos)
+- **[[#7. Logging and Monitoring]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protect your network with free and open-source software
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980)
@@ -149,7 +151,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding Open-Source Software
+### 1. Understanding Open-Source Software
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is open-source software?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980)
@@ -434,7 +438,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Firewalls
+### 2. Firewalls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a firewall?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980)
@@ -776,7 +782,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Host as a Router
+### 3. Host as a Router
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Netfilter and iptables
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980)
@@ -1477,7 +1485,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Host as a Network Firewall
+### 4. Host as a Network Firewall
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up hosts as network firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980)
@@ -2128,7 +2138,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Packet Analysis
+### 5. Packet Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is packet analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980)
@@ -2549,7 +2561,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. IDSs and Vulnerability Assessment
+### 6. IDSs and Vulnerability Assessment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an IDS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980)
@@ -3111,7 +3125,9 @@ created: 2026-04-28
 > **Env Vars:** url (1)
 
 
-### 8. 7. Logging and Monitoring
+### 7. Logging and Monitoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/logging?u=76281980)
@@ -3499,7 +3515,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980)

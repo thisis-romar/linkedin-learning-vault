@@ -31,8 +31,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Data%20Science/Power%20BI%20Quick%20Tips.md)
-
 ![Power BI Quick Tips](https://media.licdn.com/dms/image/v2/D4D0DAQE_qsU1MHnSAw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1736814215640?e=2147483647&amp;v=beta&amp;t=CvWiB_NbrXdTQHQrlqNVN20zM8WYQBJoR_0VGajBoyw)
 
 # Power BI Quick Tips
@@ -46,17 +44,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Creating Workspaces and Sharing Content** (8 videos)
-- **3. 2. Connecting Data** (2 videos)
-- **4. 3. Creating Visualizations, Reports, and Dashboards** (11 videos)
-- **5. 4. Bookmarks, Favorites, and Notifications** (4 videos)
-- **6. 5. Embedding and Exporting Data** (5 videos)
-- **7. 6. Working with the Power BI Mobile App** (1 videos)
-- **8. 7. Interacting with Power BI Reports in Microsoft Teams** (3 videos)
-- **9. 8. Getting Assistance from Copilot in Power BI** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Creating Workspaces and Sharing Content]]** (8 videos)
+- **[[#2. Connecting Data]]** (2 videos)
+- **[[#3. Creating Visualizations, Reports, and Dashboards]]** (11 videos)
+- **[[#4. Bookmarks, Favorites, and Notifications]]** (4 videos)
+- **[[#5. Embedding and Exporting Data]]** (5 videos)
+- **[[#6. Working with the Power BI Mobile App]]** (1 videos)
+- **[[#7. Interacting with Power BI Reports in Microsoft Teams]]** (3 videos)
+- **[[#8. Getting Assistance from Copilot in Power BI]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working faster in Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980)
@@ -78,7 +78,9 @@ created: 2026-04-28
 > **[0:42](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980&t=42)** Please join me in my LinkedIn Learning course to eliminate obstacles and be more productive with the Microsoft Power BI Service.
 
 
-### 2. 1. Creating Workspaces and Sharing Content
+### 1. Creating Workspaces and Sharing Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessing workspaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980)
@@ -359,7 +361,9 @@ created: 2026-04-28
 > **[0:48](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-shared-with-me-25205177?u=76281980&t=48)** And that's how you can access Power BI Service content shared with you.
 
 
-### 3. 2. Connecting Data
+### 2. Connecting Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Uploading a file to the Power BI service
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980)
@@ -439,7 +443,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 4. 3. Creating Visualizations, Reports, and Dashboards
+### 3. Creating Visualizations, Reports, and Dashboards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Auto-create a report from a dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980)
@@ -872,7 +878,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Bookmarks, Favorites, and Notifications
+### 4. Bookmarks, Favorites, and Notifications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Subscribing for email notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980)
@@ -1043,7 +1051,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 6. 5. Embedding and Exporting Data
+### 5. Embedding and Exporting Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get a link to embed a report to a SharePoint page
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980)
@@ -1205,13 +1215,17 @@ created: 2026-04-28
 > **Env Vars:** jpeg (1)
 
 
-### 7. 6. Working with the Power BI Mobile App
+### 6. Working with the Power BI Mobile App
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with the Power BI iOS mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-with-the-power-bi-ios-mobile-app-25205179?u=76281980)
 
 
-### 8. 7. Interacting with Power BI Reports in Microsoft Teams
+### 7. Interacting with Power BI Reports in Microsoft Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding a Power BI report to a team channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980)
@@ -1314,7 +1328,9 @@ created: 2026-04-28
 > **UI Navigation:** in the sidebar (1), right-click (1)
 
 
-### 9. 8. Getting Assistance from Copilot in Power BI
+### 8. Getting Assistance from Copilot in Power BI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Asking Copilot to create a report page
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-create-a-report-page-25202747?u=76281980)

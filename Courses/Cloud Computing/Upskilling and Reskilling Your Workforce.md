@@ -40,13 +40,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Transformation to Skills-Based Organizations** (3 videos)
-- **3. 2. How to Start a Skilling Program** (3 videos)
-- **4. 3. Building Your Upskilling or Reskilling Strategy** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Transformation to Skills-Based Organizations]]** (3 videos)
+- **[[#2. How to Start a Skilling Program]]** (3 videos)
+- **[[#3. Building Your Upskilling or Reskilling Strategy]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why you need an upskilling strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-you-need-an-upskilling-strategy?u=76281980)
@@ -68,7 +70,9 @@ created: 2026-04-28
 > **Speakers:** - developing (1)
 
 
-### 2. 1. The Transformation to Skills-Based Organizations
+### 1. The Transformation to Skills-Based Organizations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why skills?
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980)
@@ -281,7 +285,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. How to Start a Skilling Program
+### 2. How to Start a Skilling Program
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The supply chain management of skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/the-supply-chain-management-of-skills?u=76281980)
@@ -544,7 +550,9 @@ created: 2026-04-28
 > **Speakers:** - every (1)
 
 
-### 4. 3. Building Your Upskilling or Reskilling Strategy
+### 3. Building Your Upskilling or Reskilling Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Invest in content libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980)
@@ -886,7 +894,9 @@ created: 2026-04-28
 > **Speakers:** - every (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Execute your upskilling strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/execute-your-upskilling-strategy?u=76281980)

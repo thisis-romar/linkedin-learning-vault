@@ -44,13 +44,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Design Patterns and Spring** (4 videos)
-- **3. 2. Creation Patterns in Spring** (8 videos)
-- **4. 3. Structural Patterns in Spring** (5 videos)
-- **5. 4. Operational Patterns in Spring** (5 videos)
-- **6. 5. Other Framework Patterns in Spring** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Design Patterns and Spring]]** (4 videos)
+- **[[#3. 2. Creation Patterns in Spring]]** (8 videos)
+- **[[#4. 3. Structural Patterns in Spring]]** (5 videos)
+- **[[#5. 4. Operational Patterns in Spring]]** (5 videos)
+- **[[#6. 5. Other Framework Patterns in Spring]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

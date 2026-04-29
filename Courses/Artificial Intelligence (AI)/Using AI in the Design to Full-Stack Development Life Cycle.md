@@ -56,13 +56,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Wireframing** (5 videos)
-- **3. 2. Frontend Development** (5 videos)
-- **4. 3. Backend Development** (4 videos)
-- **5. 4. Testing Your Full Stack Project** (5 videos)
-- **6. 5. Deployment and Documentation** (5 videos)
-- **7. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Wireframing]]** (5 videos)
+- **[[#3. 2. Frontend Development]]** (5 videos)
+- **[[#4. 3. Backend Development]]** (4 videos)
+- **[[#5. 4. Testing Your Full Stack Project]]** (5 videos)
+- **[[#6. 5. Deployment and Documentation]]** (5 videos)
+- **[[#7. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

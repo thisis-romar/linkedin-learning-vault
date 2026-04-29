@@ -44,11 +44,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Getting Innovative with Your Customer Service** (3 videos)
-- **2. 1. Influencing Customer Perceptions** (4 videos)
-- **3. 2. Enhancing Your Service Senses** (4 videos)
-- **4. 3. Building Teamwork** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Getting Innovative with Your Customer Service]]** (3 videos)
+- **[[#2. 1. Influencing Customer Perceptions]]** (4 videos)
+- **[[#3. 2. Enhancing Your Service Senses]]** (4 videos)
+- **[[#4. 3. Building Teamwork]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Getting Innovative with Your Customer Service
 

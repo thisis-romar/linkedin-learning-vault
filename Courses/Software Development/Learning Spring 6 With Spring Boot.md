@@ -52,14 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started with Spring Boot** (5 videos)
-- **3. 2. Data Access in Spring** (6 videos)
-- **4. 3. Service Tier** (3 videos)
-- **5. 4. Web Pages with Spring** (5 videos)
-- **6. 5. Exposing RESTful Endpoints** (4 videos)
-- **7. 6. Additional Topics with Spring Boot** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started with Spring Boot]]** (5 videos)
+- **[[#3. 2. Data Access in Spring]]** (6 videos)
+- **[[#4. 3. Service Tier]]** (3 videos)
+- **[[#5. 4. Web Pages with Spring]]** (5 videos)
+- **[[#6. 5. Exposing RESTful Endpoints]]** (4 videos)
+- **[[#7. 6. Additional Topics with Spring Boot]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

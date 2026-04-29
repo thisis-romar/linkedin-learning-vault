@@ -61,15 +61,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Machine Learning** (5 videos)
-- **3. 2. Regression Models** (10 videos)
-- **4. 3. Clustering Models** (3 videos)
-- **5. 4. Dimension Reduction Methods** (2 videos)
-- **6. 5. Other Popular Machine Learning Methods** (7 videos)
-- **7. 6. Getting Started with Natural Language Processing** (3 videos)
-- **8. 7. Getting Started with Generative AI Models** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introduction to Machine Learning]]** (5 videos)
+- **[[#3. 2. Regression Models]]** (10 videos)
+- **[[#4. 3. Clustering Models]]** (3 videos)
+- **[[#5. 4. Dimension Reduction Methods]]** (2 videos)
+- **[[#6. 5. Other Popular Machine Learning Methods]]** (7 videos)
+- **[[#7. 6. Getting Started with Natural Language Processing]]** (3 videos)
+- **[[#8. 7. Getting Started with Generative AI Models]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

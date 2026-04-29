@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Object-Oriented Programming with Kotlin** (9 videos)
-- **3. 2. Writing Idiomatic Kotlin** (5 videos)
-- **4. 3. Writing Asynchronous Code with Kotlin Coroutines** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Object-Oriented Programming with Kotlin]]** (9 videos)
+- **[[#3. 2. Writing Idiomatic Kotlin]]** (5 videos)
+- **[[#4. 3. Writing Asynchronous Code with Kotlin Coroutines]]** (5 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

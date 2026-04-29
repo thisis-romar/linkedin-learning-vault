@@ -45,16 +45,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Get Started with Outlook on the Web** (4 videos)
-- **3. 2. Compose and Send Messages** (10 videos)
-- **4. 3. Receive and Manage Messages** (11 videos)
-- **5. 4. Use the Calendar** (9 videos)
-- **6. 5. Work with Meetings and Bookings** (6 videos)
-- **7. 6. Work with People and To-Do** (6 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Get Started with Outlook on the Web]]** (4 videos)
+- **[[#2. Compose and Send Messages]]** (10 videos)
+- **[[#3. Receive and Manage Messages]]** (11 videos)
+- **[[#4. Use the Calendar]]** (9 videos)
+- **[[#5. Work with Meetings and Bookings]]** (6 videos)
+- **[[#6. Work with People and To-Do]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage your email and calendar with Outlook on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/manage-your-email-and-calendar-with-outlook-on-the-web?u=76281980)
@@ -143,7 +145,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Get Started with Outlook on the Web
+### 1. Get Started with Outlook on the Web
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sign in to Outlook on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980)
@@ -384,7 +388,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Compose and Send Messages
+### 2. Compose and Send Messages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a new message
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980)
@@ -1261,7 +1267,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Receive and Manage Messages
+### 3. Receive and Manage Messages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### View, reply to, and forward messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980)
@@ -2218,7 +2226,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Use the Calendar
+### 4. Use the Calendar
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigate in the Calendar app
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-the-calendar-app?u=76281980)
@@ -3134,7 +3144,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Work with Meetings and Bookings
+### 5. Work with Meetings and Bookings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three ways to create a meeting including Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980)
@@ -3740,7 +3752,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 7. 6. Work with People and To-Do
+### 6. Work with People and To-Do
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use the People app
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-people-app?u=76281980)
@@ -4428,7 +4442,9 @@ created: 2026-04-28
 > **Best Practices:** don't forget (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980)

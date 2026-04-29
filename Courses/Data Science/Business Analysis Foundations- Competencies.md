@@ -46,15 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Relationship Building and Management Skills for Business Analysts** (3 videos)
-- **3. 2. Leadership Skills for Business Analysts** (3 videos)
-- **4. 3. Facilitation Skills for Business Analysts** (3 videos)
-- **5. 4. Communication Skills for Business Analysts** (4 videos)
-- **6. 5. Business Skills for Business Analysts** (3 videos)
-- **7. 6. Analytical Skills for Business Analysts** (5 videos)
-- **8. 7. Technical Skills for Business Analysts** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Relationship Building and Management Skills for Business Analysts]]** (3 videos)
+- **[[#3. 2. Leadership Skills for Business Analysts]]** (3 videos)
+- **[[#4. 3. Facilitation Skills for Business Analysts]]** (3 videos)
+- **[[#5. 4. Communication Skills for Business Analysts]]** (4 videos)
+- **[[#6. 5. Business Skills for Business Analysts]]** (3 videos)
+- **[[#7. 6. Analytical Skills for Business Analysts]]** (5 videos)
+- **[[#8. 7. Technical Skills for Business Analysts]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -42,15 +42,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started** (7 videos)
-- **3. 2. Management and Administration** (6 videos)
-- **4. 3. Windows Server Environments** (6 videos)
-- **5. 4. Storage Solutions** (6 videos)
-- **6. 5. Identity and Access Roles** (4 videos)
-- **7. 6. Virtualization** (4 videos)
-- **8. 7. Going Forward** (2 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Getting Started]]** (7 videos)
+- **[[#3. 2. Management and Administration]]** (6 videos)
+- **[[#4. 3. Windows Server Environments]]** (6 videos)
+- **[[#5. 4. Storage Solutions]]** (6 videos)
+- **[[#6. 5. Identity and Access Roles]]** (4 videos)
+- **[[#7. 6. Virtualization]]** (4 videos)
+- **[[#8. 7. Going Forward]]** (2 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

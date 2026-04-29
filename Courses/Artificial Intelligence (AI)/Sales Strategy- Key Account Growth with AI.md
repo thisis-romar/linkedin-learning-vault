@@ -52,12 +52,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Strategic Account Management** (3 videos)
-- **3. 2. Crucial Frameworks for Key Account Expansion** (2 videos)
-- **4. 3. Strategy, Growth, and Top Accounts** (3 videos)
-- **5. 4. Powerful Client Touchpoint Programs** (3 videos)
-- **6. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Strategic Account Management]]** (3 videos)
+- **[[#3. 2. Crucial Frameworks for Key Account Expansion]]** (2 videos)
+- **[[#4. 3. Strategy, Growth, and Top Accounts]]** (3 videos)
+- **[[#5. 4. Powerful Client Touchpoint Programs]]** (3 videos)
+- **[[#6. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

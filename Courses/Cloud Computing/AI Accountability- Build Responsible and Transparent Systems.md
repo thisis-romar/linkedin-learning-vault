@@ -49,14 +49,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Context for AI** (4 videos)
-- **3. 2. Technical Challenges of AI** (10 videos)
-- **4. 3. Social Challenges of AI** (3 videos)
-- **5. 4. Legal Challenges of AI** (7 videos)
-- **6. 5. Safety Challenges of AI** (4 videos)
-- **7. 6. Confronting the Challenges of AI** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Context for AI]]** (4 videos)
+- **[[#3. 2. Technical Challenges of AI]]** (10 videos)
+- **[[#4. 3. Social Challenges of AI]]** (3 videos)
+- **[[#5. 4. Legal Challenges of AI]]** (7 videos)
+- **[[#6. 5. Safety Challenges of AI]]** (4 videos)
+- **[[#7. 6. Confronting the Challenges of AI]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Role of Artificial Intelligence in Your Workflows** (4 videos)
-- **3. 2. Using AI in Photoshop** (13 videos)
-- **4. 3. Using AI in Lightroom** (9 videos)
-- **5. 4. Using AI in Illustrator** (8 videos)
-- **6. 5. Using AI in InDesign** (6 videos)
-- **7. 6. Using AI in Adobe Stock** (7 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Role of Artificial Intelligence in Your Workflows]]** (4 videos)
+- **[[#2. Using AI in Photoshop]]** (13 videos)
+- **[[#3. Using AI in Lightroom]]** (9 videos)
+- **[[#4. Using AI in Illustrator]]** (8 videos)
+- **[[#5. Using AI in InDesign]]** (6 videos)
+- **[[#6. Using AI in Adobe Stock]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Artificial intelligence for all
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 2. 1. The Role of Artificial Intelligence in Your Workflows
+### 1. The Role of Artificial Intelligence in Your Workflows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to the age of artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980)
@@ -319,7 +323,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Using AI in Photoshop
+### 2. Using AI in Photoshop
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Removing basic subjects from an image
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980)
@@ -2023,7 +2029,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Using AI in Lightroom
+### 3. Using AI in Lightroom
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimizing images automatically
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimizing-images-automatically?u=76281980)
@@ -3031,7 +3039,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Using AI in Illustrator
+### 4. Using AI in Illustrator
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Selecting and editing visually similar objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-and-editing-visually-similar-objects?u=76281980)
@@ -3907,7 +3917,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Using AI in InDesign
+### 5. Using AI in InDesign
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimize image cropping
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980)
@@ -4576,7 +4588,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 7. 6. Using AI in Adobe Stock
+### 6. Using AI in Adobe Stock
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing Adobe Stock
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-stock?u=76281980)
@@ -5229,7 +5243,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/goodbye?u=76281980)

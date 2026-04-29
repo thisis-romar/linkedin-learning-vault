@@ -62,13 +62,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Getting Your Bearings** (4 videos)
-- **3. 2. Airflow Introduction** (6 videos)
-- **4. 3. Basic ETL in Airflow** (11 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Getting Your Bearings]]** (4 videos)
+- **[[#2. Airflow Introduction]]** (6 videos)
+- **[[#3. Basic ETL in Airflow]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hands-on data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980)
@@ -288,7 +290,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Your Bearings
+### 1. Getting Your Bearings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data engineering and data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980)
@@ -526,7 +530,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. 2. Airflow Introduction
+### 2. Airflow Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980)
@@ -1149,7 +1155,9 @@ created: 2026-04-28
 > **File Paths:** two_task_dag.py (1)
 
 
-### 4. 3. Basic ETL in Airflow
+### 3. Basic ETL in Airflow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ETL in Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/etl-in-airflow?u=76281980)
@@ -2150,7 +2158,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future of data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980)

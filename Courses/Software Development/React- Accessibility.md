@@ -51,12 +51,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Accessibility on the Web** (3 videos)
-- **3. 2. Keyboard Focus** (4 videos)
-- **4. 3. Mouse and Pointer Events** (2 videos)
-- **5. 4. Testing Your Application** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Accessibility on the Web]]** (3 videos)
+- **[[#3. 2. Keyboard Focus]]** (4 videos)
+- **[[#4. 3. Mouse and Pointer Events]]** (2 videos)
+- **[[#5. 4. Testing Your Application]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

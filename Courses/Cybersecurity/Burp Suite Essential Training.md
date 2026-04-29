@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Burp Suite Basics** (5 videos)
-- **3. 2. Scanning** (4 videos)
-- **4. 3. Man in the Middle** (5 videos)
-- **5. 4. Being an Intruder** (3 videos)
-- **6. 5. Extensions** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Burp Suite Basics]]** (5 videos)
+- **[[#2. Scanning]]** (4 videos)
+- **[[#3. Man in the Middle]]** (5 videos)
+- **[[#4. Being an Intruder]]** (3 videos)
+- **[[#5. Extensions]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning how to use Burp Suite effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980)
@@ -136,7 +138,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Burp Suite Basics
+### 1. Burp Suite Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Burp Suite?
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980)
@@ -616,7 +620,9 @@ created: 2026-04-28
 > **File Paths:** nanoxvwa/config.php (1)
 
 
-### 3. 2. Scanning
+### 2. Scanning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Crawling the website
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/crawling-the-website?u=76281980)
@@ -1023,7 +1029,9 @@ created: 2026-04-28
 > **Env Vars:** http (1)
 
 
-### 4. 3. Man in the Middle
+### 3. Man in the Middle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intercepting bank transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980)
@@ -1438,7 +1446,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1)
 
 
-### 5. 4. Being an Intruder
+### 4. Being an Intruder
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the Intruder
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/introducing-the-intruder?u=76281980)
@@ -1709,7 +1719,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Extensions
+### 5. Extensions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using CO2 to integrate SQLMap
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980)
@@ -1858,7 +1870,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980)

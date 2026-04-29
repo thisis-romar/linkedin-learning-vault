@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. IPython and Jupyter Notebook** (3 videos)
-- **3. 2. NumPy and Pandas** (7 videos)
-- **4. 3. Visualization with Matplotlib** (3 videos)
-- **5. 4. Machine Learning Tips** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. IPython and Jupyter Notebook]]** (3 videos)
+- **[[#3. 2. NumPy and Pandas]]** (7 videos)
+- **[[#4. 3. Visualization with Matplotlib]]** (3 videos)
+- **[[#5. 4. Machine Learning Tips]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

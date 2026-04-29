@@ -44,14 +44,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Formula and Function Basics** (5 videos)
-- **3. 2. Identifying Values** (7 videos)
-- **4. 3. Count Functions** (4 videos)
-- **5. 4. Text Functions** (7 videos)
-- **6. 5. Index, Match, and Lookups** (4 videos)
-- **7. 6. Avoiding Errors and Invalid Formulas** (2 videos)
-- **8. Conclusion** (0 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Formula and Function Basics]]** (5 videos)
+- **[[#3. 2. Identifying Values]]** (7 videos)
+- **[[#4. 3. Count Functions]]** (4 videos)
+- **[[#5. 4. Text Functions]]** (7 videos)
+- **[[#6. 5. Index, Match, and Lookups]]** (4 videos)
+- **[[#7. 6. Avoiding Errors and Invalid Formulas]]** (2 videos)
+- **[[#8. Conclusion]]** (0 videos)
 
 ### 1. Introduction
 

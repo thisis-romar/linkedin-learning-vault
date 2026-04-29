@@ -52,10 +52,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Impact of AI on Strategic Business Analysis** (6 videos)
-- **3. 2. Being a Strategic BA in an AI World** (9 videos)
-- **4. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Impact of AI on Strategic Business Analysis]]** (6 videos)
+- **[[#3. 2. Being a Strategic BA in an AI World]]** (9 videos)
+- **[[#4. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

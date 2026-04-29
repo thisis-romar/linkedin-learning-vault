@@ -57,17 +57,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Overview** (3 videos)
-- **3. 2. Common Data Structures** (7 videos)
-- **4. 3. Recursion** (3 videos)
-- **5. 4. Sorting Information** (6 videos)
-- **6. 5. Searching for Data** (3 videos)
-- **7. 6. Practical Examples with Data Structures** (4 videos)
-- **8. Glossaries** (0 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Overview]]** (3 videos)
+- **[[#2. Common Data Structures]]** (7 videos)
+- **[[#3. Recursion]]** (3 videos)
+- **[[#4. Sorting Information]]** (6 videos)
+- **[[#5. Searching for Data]]** (3 videos)
+- **[[#6. Practical Examples with Data Structures]]** (4 videos)
+- **[[#Glossaries]]** (0 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Algorithms power the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980)
@@ -201,7 +203,9 @@ created: 2026-04-28
 > **Env Vars:** dir (1)
 
 
-### 2. 1. Overview
+### 1. Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are algorithms?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980)
@@ -456,7 +460,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Common Data Structures
+### 2. Common Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to common data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980)
@@ -1044,7 +1050,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Recursion
+### 3. Recursion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding recursion
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/understanding-recursion?u=76281980)
@@ -1314,7 +1322,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Sorting Information
+### 4. Sorting Information
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of sorting
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/overview-of-sorting?u=76281980)
@@ -1775,7 +1785,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Searching for Data
+### 5. Searching for Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unordered list search
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unordered-list-search?u=76281980)
@@ -2015,7 +2027,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Practical Examples with Data Structures
+### 6. Practical Examples with Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unique filtering with sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980)
@@ -2369,10 +2383,14 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Glossaries
+### Glossaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/next-steps?u=76281980)

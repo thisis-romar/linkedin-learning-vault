@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to the Azure AI Model Catalog** (3 videos)
-- **3. 2. Navigating the Model Catalog** (3 videos)
-- **4. 3. Types of Models Available** (4 videos)
-- **5. 4. Model Selection and Comparison** (3 videos)
-- **6. 5. Deploying Models** (3 videos)
-- **7. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to the Azure AI Model Catalog]]** (3 videos)
+- **[[#3. 2. Navigating the Model Catalog]]** (3 videos)
+- **[[#4. 3. Types of Models Available]]** (4 videos)
+- **[[#5. 4. Model Selection and Comparison]]** (3 videos)
+- **[[#6. 5. Deploying Models]]** (3 videos)
+- **[[#7. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

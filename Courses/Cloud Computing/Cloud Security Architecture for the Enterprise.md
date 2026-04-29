@@ -58,15 +58,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Cloud Security Architecture** (4 videos)
-- **3. 2. Identity and Access Management** (6 videos)
-- **4. 3. Logging and Monitoring** (6 videos)
-- **5. 4. Cloud Network Security** (4 videos)
-- **6. 5. Communicating Across Teams** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Cloud Security Architecture]]** (4 videos)
+- **[[#2. Identity and Access Management]]** (6 videos)
+- **[[#3. Logging and Monitoring]]** (6 videos)
+- **[[#4. Cloud Network Security]]** (4 videos)
+- **[[#5. Communicating Across Teams]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of cloud security architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/importance-of-cloud-security-architecture?u=76281980)
@@ -122,7 +124,9 @@ created: 2026-04-28
 > **Speakers:** - [karl] (1)
 
 
-### 2. 1. Introduction to Cloud Security Architecture
+### 1. Introduction to Cloud Security Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud security architecture components
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-architecture-components?u=76281980)
@@ -382,7 +386,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Identity and Access Management
+### 2. Identity and Access Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud identity providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-identity-providers?u=76281980)
@@ -737,7 +743,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Logging and Monitoring
+### 3. Logging and Monitoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud security posture monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/cloud-security-posture-monitoring?u=76281980)
@@ -1195,7 +1203,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Cloud Network Security
+### 4. Cloud Network Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IaaS network controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/iaas-network-controls?u=76281980)
@@ -1448,7 +1458,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 6. 5. Communicating Across Teams
+### 5. Communicating Across Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Effective communication of cloud security designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/effective-communication-of-cloud-security-designs?u=76281980)
@@ -1623,7 +1635,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about cloud security architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-architecture-for-the-enterprise-24395220/learning-more-about-cloud-security-architecture?u=76281980)

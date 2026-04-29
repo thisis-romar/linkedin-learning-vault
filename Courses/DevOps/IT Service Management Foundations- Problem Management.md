@@ -51,14 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is Problem Management?** (4 videos)
-- **3. 2. Phase I: Problem Identification** (1 videos)
-- **4. 3. Phase II: Problem Control** (3 videos)
-- **5. 4. Phase III: Error Control** (2 videos)
-- **6. 5. Techniques** (7 videos)
-- **7. 6. Tools and Frameworks** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What Is Problem Management?]]** (4 videos)
+- **[[#3. 2. Phase I: Problem Identification]]** (1 videos)
+- **[[#4. 3. Phase II: Problem Control]]** (3 videos)
+- **[[#5. 4. Phase III: Error Control]]** (2 videos)
+- **[[#6. 5. Techniques]]** (7 videos)
+- **[[#7. 6. Tools and Frameworks]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

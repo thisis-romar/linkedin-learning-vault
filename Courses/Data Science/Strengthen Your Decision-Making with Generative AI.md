@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Determine Your Decision** (6 videos)
-- **3. 2. Harness AI to Refine Your Decision** (4 videos)
-- **4. 3. Use Generative AI to Continuously Improve Decisions** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Determine Your Decision]]** (6 videos)
+- **[[#3. 2. Harness AI to Refine Your Decision]]** (4 videos)
+- **[[#4. 3. Use Generative AI to Continuously Improve Decisions]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

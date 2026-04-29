@@ -62,14 +62,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Generative AI: What Business Leaders Need to Know** (5 videos)
-- **3. 2. Business Implications of Generative AI** (2 videos)
-- **4. 3. Getting Started with Generative AI** (4 videos)
-- **5. 4. Key Pitfalls, Concerns, and Limitations of Generative AI** (2 videos)
-- **6. 5. Future Trends and Outlook** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Generative AI: What Business Leaders Need to Know]]** (5 videos)
+- **[[#2. Business Implications of Generative AI]]** (2 videos)
+- **[[#3. Getting Started with Generative AI]]** (4 videos)
+- **[[#4. Key Pitfalls, Concerns, and Limitations of Generative AI]]** (2 videos)
+- **[[#5. Future Trends and Outlook]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI for business leaders
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/generative-ai-for-business-leaders?u=76281980)
@@ -190,7 +192,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 2. 1. Generative AI: What Business Leaders Need to Know
+### 1. Generative AI: What Business Leaders Need to Know
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/what-is-generative-ai?u=76281980)
@@ -570,7 +574,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 3. 2. Business Implications of Generative AI
+### 2. Business Implications of Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What processes and products can be transformed by AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/what-processes-and-products-can-be-transformed-by-ai?u=76281980)
@@ -716,7 +722,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 4. 3. Getting Started with Generative AI
+### 3. Getting Started with Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to assess your company's needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/how-to-assess-your-company-s-needs?u=76281980)
@@ -969,7 +977,9 @@ created: 2026-04-28
 > **Speakers:** - at (1)
 
 
-### 5. 4. Key Pitfalls, Concerns, and Limitations of Generative AI
+### 4. Key Pitfalls, Concerns, and Limitations of Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key pitfalls and limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/key-pitfalls-and-limitations?u=76281980)
@@ -1177,7 +1187,9 @@ created: 2026-04-28
 > **Speakers:** - an (1)
 
 
-### 6. 5. Future Trends and Outlook
+### 5. Future Trends and Outlook
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How generative AI is likely to evolve
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-business-leaders/how-generative-ai-is-likely-to-evolve?u=76281980)

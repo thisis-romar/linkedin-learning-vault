@@ -48,17 +48,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Advanced Accessibility Topics in Adobe Acrobat** (15 videos)
-- **3. 2. Working with Tables in Adobe Acrobat** (11 videos)
-- **4. 3. Working with Forms in Adobe Acrobat** (6 videos)
-- **5. 4. Advanced Accessibility Topics in Microsoft Word** (6 videos)
-- **6. 5. Advanced Accessibility Topics in Adobe InDesign** (11 videos)
-- **7. 6. PDF/UA Remediation** (15 videos)
-- **8. 7. Third-Party Tools** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Advanced Accessibility Topics in Adobe Acrobat]]** (15 videos)
+- **[[#2. Working with Tables in Adobe Acrobat]]** (11 videos)
+- **[[#3. Working with Forms in Adobe Acrobat]]** (6 videos)
+- **[[#4. Advanced Accessibility Topics in Microsoft Word]]** (6 videos)
+- **[[#5. Advanced Accessibility Topics in Adobe InDesign]]** (11 videos)
+- **[[#6. PDF/UA Remediation]]** (15 videos)
+- **[[#7. Third-Party Tools]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Is your document accessible?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/is-your-document-accessible?u=76281980)
@@ -118,7 +120,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Advanced Accessibility Topics in Adobe Acrobat
+### 1. Advanced Accessibility Topics in Adobe Acrobat
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Shortcuts for walking the tags tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/shortcuts-for-walking-the-tags-tree?u=76281980)
@@ -1976,7 +1980,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 3. 2. Working with Tables in Adobe Acrobat
+### 2. Working with Tables in Adobe Acrobat
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining header cells in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/defining-header-cells-in-a-table?u=76281980)
@@ -3517,7 +3523,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Working with Forms in Adobe Acrobat
+### 3. Working with Forms in Adobe Acrobat
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding form fields in Adobe Acrobat
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-adobe-acrobat?u=76281980)
@@ -4532,7 +4540,9 @@ created: 2026-04-28
 > **Non-Speech:** (interface chimes) (1)
 
 
-### 5. 4. Advanced Accessibility Topics in Microsoft Word
+### 4. Advanced Accessibility Topics in Microsoft Word
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Saving accessible PDFs from Microsoft Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/saving-accessible-pdfs-from-microsoft-word?u=76281980)
@@ -5231,7 +5241,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Advanced Accessibility Topics in Adobe InDesign
+### 5. Advanced Accessibility Topics in Adobe InDesign
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with merged table cells
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/working-with-merged-table-cells?u=76281980)
@@ -6779,7 +6791,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. PDF/UA Remediation
+### 6. PDF/UA Remediation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding PDF/UA
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/understanding-pdf-ua?u=76281980)
@@ -8036,7 +8050,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Third-Party Tools
+### 7. Third-Party Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tools for visualizing document structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/tools-for-visualizing-document-structure?u=76281980)
@@ -8465,7 +8481,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/next-steps-for-accessibility?u=76281980)

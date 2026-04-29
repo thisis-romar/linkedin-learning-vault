@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started with API Testing** (5 videos)
-- **3. 2. Exploratory API Testing** (4 videos)
-- **4. 3. API Authorization** (5 videos)
-- **5. 4. Hands-On API Testing** (9 videos)
-- **6. 5. Additional API Testing Consideration** (4 videos)
-- **7. Conclusion** (0 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Started with API Testing]]** (5 videos)
+- **[[#3. 2. Exploratory API Testing]]** (4 videos)
+- **[[#4. 3. API Authorization]]** (5 videos)
+- **[[#5. 4. Hands-On API Testing]]** (9 videos)
+- **[[#6. 5. Additional API Testing Consideration]]** (4 videos)
+- **[[#7. Conclusion]]** (0 videos)
 
 ### 1. Introduction
 

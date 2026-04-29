@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Stark** (12 videos)
-- **3. 2. Adee** (5 videos)
-- **4. 3. Contrast Checkers** (3 videos)
-- **5. 4. Humaaans** (4 videos)
-- **6. 5. Lokalise** (2 videos)
-- **7. 6. Inclusivity Sources** (2 videos)
-- **8. Taking Accessibilty and Inclusivity Forward** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Stark]]** (12 videos)
+- **[[#2. Adee]]** (5 videos)
+- **[[#3. Contrast Checkers]]** (3 videos)
+- **[[#4. Humaaans]]** (4 videos)
+- **[[#5. Lokalise]]** (2 videos)
+- **[[#6. Inclusivity Sources]]** (2 videos)
+- **[[#Taking Accessibilty and Inclusivity Forward]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Figma accessibility plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - [tom] (1)
 
 
-### 2. 1. Stark
+### 1. Stark
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980)
@@ -936,7 +940,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Adee
+### 2. Adee
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Adee
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-adee?u=76281980)
@@ -1330,7 +1336,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Contrast Checkers
+### 3. Contrast Checkers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Able and Ally
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980)
@@ -1512,7 +1520,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Humaaans
+### 4. Humaaans
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980)
@@ -1832,7 +1842,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Lokalise
+### 5. Lokalise
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An overview of Lokalise
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-lokalise?u=76281980)
@@ -2039,7 +2051,9 @@ created: 2026-04-28
 > **Best Practices:** the key is (1)
 
 
-### 7. 6. Inclusivity Sources
+### 6. Inclusivity Sources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An overview of inclusive design in Microsoft
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980)
@@ -2169,7 +2183,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Taking Accessibilty and Inclusivity Forward
+### Taking Accessibilty and Inclusivity Forward
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for accessible, inclusive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980)

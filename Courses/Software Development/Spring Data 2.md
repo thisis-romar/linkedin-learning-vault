@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Spring Data Umbrella Project** (2 videos)
-- **3. 2. Introduction to Spring Data JPA** (5 videos)
-- **4. 3. Spring Data JPA Query Methods** (6 videos)
-- **5. 4. Dynamic Spring Data JPA Queries** (5 videos)
-- **6. 5. More Spring Data Features** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Spring Data Umbrella Project]]** (2 videos)
+- **[[#3. 2. Introduction to Spring Data JPA]]** (5 videos)
+- **[[#4. 3. Spring Data JPA Query Methods]]** (6 videos)
+- **[[#5. 4. Dynamic Spring Data JPA Queries]]** (5 videos)
+- **[[#6. 5. More Spring Data Features]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

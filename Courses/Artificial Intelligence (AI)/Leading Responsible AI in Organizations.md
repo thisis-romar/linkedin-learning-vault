@@ -42,10 +42,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Key Factors to Build a Responsible AI Culture** (12 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Key Factors to Build a Responsible AI Culture]]** (12 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leading responsible AI in organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980)
@@ -70,7 +72,9 @@ created: 2026-04-28
 > **Speakers:** - business (1)
 
 
-### 2. 1. Key Factors to Build a Responsible AI Culture
+### 1. Key Factors to Build a Responsible AI Culture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leading responsible AI with ethics as core values
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980)

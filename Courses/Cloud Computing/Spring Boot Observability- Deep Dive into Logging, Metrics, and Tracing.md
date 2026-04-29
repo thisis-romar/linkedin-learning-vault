@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understand Why Observability Is Important** (3 videos)
-- **3. 2. Logging** (3 videos)
-- **4. 3. Metrics** (3 videos)
-- **5. 4. Tracing** (2 videos)
-- **6. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understand Why Observability Is Important]]** (3 videos)
+- **[[#3. 2. Logging]]** (3 videos)
+- **[[#4. 3. Metrics]]** (3 videos)
+- **[[#5. 4. Tracing]]** (2 videos)
+- **[[#6. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

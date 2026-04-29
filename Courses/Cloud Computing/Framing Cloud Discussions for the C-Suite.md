@@ -45,13 +45,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Core Distinctions** (4 videos)
-- **3. 2. Cloud for Executives** (5 videos)
-- **4. 3. Leveraging the Cloud** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Core Distinctions]]** (4 videos)
+- **[[#2. Cloud for Executives]]** (5 videos)
+- **[[#3. Leveraging the Cloud]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-the-audience?u=76281980)
@@ -162,7 +164,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Core Distinctions
+### 1. Core Distinctions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discussing dynamic application infrastructures
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980)
@@ -481,7 +485,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Cloud for Executives
+### 2. Cloud for Executives
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding what “the cloud” means to your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980)
@@ -807,7 +813,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Leveraging the Cloud
+### 3. Leveraging the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discussing cloud metrics and OKRs
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980)
@@ -1065,7 +1073,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing cloud discussions with the C-Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980)

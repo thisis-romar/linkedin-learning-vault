@@ -58,14 +58,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Building a New Tech Team** (5 videos)
-- **3. 2. Leading an Established Tech Team** (5 videos)
-- **4. 3. Challenges to Inclusivity** (4 videos)
-- **5. 4. Beyond Your Tech Team** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Building a New Tech Team]]** (5 videos)
+- **[[#2. Leading an Established Tech Team]]** (5 videos)
+- **[[#3. Challenges to Inclusivity]]** (4 videos)
+- **[[#4. Beyond Your Tech Team]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inclusive leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980)
@@ -216,7 +218,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Building a New Tech Team
+### 1. Building a New Tech Team
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building and leading a new team from inclusive foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980)
@@ -539,7 +543,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Leading an Established Tech Team
+### 2. Leading an Established Tech Team
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leading existing teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/leading-existing-teams?u=76281980)
@@ -961,7 +967,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Challenges to Inclusivity
+### 3. Challenges to Inclusivity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inclusive leadership as a marathon
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership-as-a-marathon?u=76281980)
@@ -1176,7 +1184,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Beyond Your Tech Team
+### 4. Beyond Your Tech Team
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inclusive culture change throughout your company
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-culture-change-throughout-your-company?u=76281980)
@@ -1320,7 +1330,9 @@ created: 2026-04-28
 > **Non-Speech:** (pleasant electronic music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980)

@@ -60,20 +60,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is Data Assessment?** (5 videos)
-- **3. 2. Collect Initial Data** (5 videos)
-- **4. 3. First Look at the Data** (9 videos)
-- **5. 4. Data Loading and Unit of Analysis** (5 videos)
-- **6. 5. Describe Data** (4 videos)
-- **7. 6. Data Description Case Studies** (3 videos)
-- **8. 7. Explore Data Basics** (8 videos)
-- **9. 8. Explore Data Tips and Tricks** (9 videos)
-- **10. 9. Verify Data Quality** (3 videos)
-- **11. 10. Missing Data Case Study** (4 videos)
-- **12. 11. Explore and Verify Case Studies** (3 videos)
-- **13. 12. Making the Transition to Data Preparation** (3 videos)
-- **14. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What Is Data Assessment?]]** (5 videos)
+- **[[#3. 2. Collect Initial Data]]** (5 videos)
+- **[[#4. 3. First Look at the Data]]** (9 videos)
+- **[[#5. 4. Data Loading and Unit of Analysis]]** (5 videos)
+- **[[#6. 5. Describe Data]]** (4 videos)
+- **[[#7. 6. Data Description Case Studies]]** (3 videos)
+- **[[#8. 7. Explore Data Basics]]** (8 videos)
+- **[[#9. 8. Explore Data Tips and Tricks]]** (9 videos)
+- **[[#10. 9. Verify Data Quality]]** (3 videos)
+- **[[#11. 10. Missing Data Case Study]]** (4 videos)
+- **[[#12. 11. Explore and Verify Case Studies]]** (3 videos)
+- **[[#13. 12. Making the Transition to Data Preparation]]** (3 videos)
+- **[[#14. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

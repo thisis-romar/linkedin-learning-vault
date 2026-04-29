@@ -45,15 +45,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started with Django** (3 videos)
-- **3. 2. Models and Fields** (5 videos)
-- **4. 3. Views** (3 videos)
-- **5. 4. Interacting with the Database** (3 videos)
-- **6. 5. Templates** (4 videos)
-- **7. 6. Improving Performance** (4 videos)
-- **8. 7. Staying Connected** (2 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started with Django]]** (3 videos)
+- **[[#3. 2. Models and Fields]]** (5 videos)
+- **[[#4. 3. Views]]** (3 videos)
+- **[[#5. 4. Interacting with the Database]]** (3 videos)
+- **[[#6. 5. Templates]]** (4 videos)
+- **[[#7. 6. Improving Performance]]** (4 videos)
+- **[[#8. 7. Staying Connected]]** (2 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

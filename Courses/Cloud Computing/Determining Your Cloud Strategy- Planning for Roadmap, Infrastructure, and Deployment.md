@@ -58,15 +58,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Starting the Journey with the Cloud** (5 videos)
-- **3. 2. Identifying a Proof of Concept (POC) Project** (2 videos)
-- **4. 3. Creating a Center of Excellence (COE)** (3 videos)
-- **5. 4. Leveraging the Partner Ecosystem** (2 videos)
-- **6. 5. Designing for Emerging Tech Use Cases** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Starting the Journey with the Cloud]]** (5 videos)
+- **[[#2. Identifying a Proof of Concept (POC) Project]]** (2 videos)
+- **[[#3. Creating a Center of Excellence (COE)]]** (3 videos)
+- **[[#4. Leveraging the Partner Ecosystem]]** (2 videos)
+- **[[#5. Designing for Emerging Tech Use Cases]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to determine your cloud strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/how-to-determine-your-cloud-strategy?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Starting the Journey with the Cloud
+### 1. Starting the Journey with the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining the need to move to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980)
@@ -326,7 +330,9 @@ created: 2026-04-28
 > **Speakers:** - many (1)
 
 
-### 3. 2. Identifying a Proof of Concept (POC) Project
+### 2. Identifying a Proof of Concept (POC) Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying the right candidate for a POC
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/identifying-the-right-candidate-for-poc?u=76281980)
@@ -404,7 +410,9 @@ created: 2026-04-28
 > **Speakers:** - after (1)
 
 
-### 4. 3. Creating a Center of Excellence (COE)
+### 3. Creating a Center of Excellence (COE)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining the roles and responsibilities of the COE
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-roles-and-responsibilities-of-the-coe?u=76281980)
@@ -542,7 +550,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 5. 4. Leveraging the Partner Ecosystem
+### 4. Leveraging the Partner Ecosystem
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding the right partner
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/finding-the-right-partner?u=76281980)
@@ -616,7 +626,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 6. 5. Designing for Emerging Tech Use Cases
+### 5. Designing for Emerging Tech Use Cases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing for GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980)
@@ -743,7 +755,9 @@ created: 2026-04-28
 > **Speakers:** - natural (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980)

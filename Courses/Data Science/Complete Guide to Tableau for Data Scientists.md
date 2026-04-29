@@ -55,19 +55,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Green and Blue Fields, What Do They Mean?** (7 videos)
-- **3. 2. Connecting to a Source of Data** (8 videos)
-- **4. 3. Combining Data** (9 videos)
-- **5. 4. When and How to Create Data Extracts** (4 videos)
-- **6. 5. Comparing Measures** (10 videos)
-- **7. 6. Transform Your Data with Calculations** (14 videos)
-- **8. 7. Mapping Your Data** (10 videos)
-- **9. 8 . The Analytics Tab** (13 videos)
-- **10. 9. Using Parameters for Viewer Input** (9 videos)
-- **11. 10. Dashboard Actions and Design Tips** (12 videos)
-- **12. 11. Analysis Tips and Tricks** (25 videos)
-- **13. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Green and Blue Fields, What Do They Mean?]]** (7 videos)
+- **[[#3. 2. Connecting to a Source of Data]]** (8 videos)
+- **[[#4. 3. Combining Data]]** (9 videos)
+- **[[#5. 4. When and How to Create Data Extracts]]** (4 videos)
+- **[[#6. 5. Comparing Measures]]** (10 videos)
+- **[[#7. 6. Transform Your Data with Calculations]]** (14 videos)
+- **[[#8. 7. Mapping Your Data]]** (10 videos)
+- **[[#9. 8 . The Analytics Tab]]** (13 videos)
+- **[[#10. 9. Using Parameters for Viewer Input]]** (9 videos)
+- **[[#11. 10. Dashboard Actions and Design Tips]]** (12 videos)
+- **[[#12. 11. Analysis Tips and Tricks]]** (25 videos)
+- **[[#13. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

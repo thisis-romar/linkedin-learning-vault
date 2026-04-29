@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. GDPR Basics** (3 videos)
-- **3. 2. GDPR Responsibilities** (3 videos)
-- **4. 3. Technical Components** (5 videos)
-- **5. 4. Requirements** (4 videos)
-- **6. 5. Data Subject Rights** (7 videos)
-- **7. 6. Breach Notification** (3 videos)
-- **8. 7. Real-World Guidance** (3 videos)
-- **9. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. GDPR Basics]]** (3 videos)
+- **[[#3. 2. GDPR Responsibilities]]** (3 videos)
+- **[[#4. 3. Technical Components]]** (5 videos)
+- **[[#5. 4. Requirements]]** (4 videos)
+- **[[#6. 5. Data Subject Rights]]** (7 videos)
+- **[[#7. 6. Breach Notification]]** (3 videos)
+- **[[#8. 7. Real-World Guidance]]** (3 videos)
+- **[[#9. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

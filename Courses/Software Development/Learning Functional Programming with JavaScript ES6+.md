@@ -59,13 +59,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introductory Functional Concepts** (9 videos)
-- **3. 2. First-Class Functions** (9 videos)
-- **4. 3. JavaScript Array Manipulation** (10 videos)
-- **5. 4. Advanced Functional Concepts** (3 videos)
-- **6. 5. Code Conversion Challenges** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introductory Functional Concepts]]** (9 videos)
+- **[[#3. 2. First-Class Functions]]** (9 videos)
+- **[[#4. 3. JavaScript Array Manipulation]]** (10 videos)
+- **[[#5. 4. Advanced Functional Concepts]]** (3 videos)
+- **[[#6. 5. Code Conversion Challenges]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

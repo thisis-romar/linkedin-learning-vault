@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Pillars of Ecommerce** (4 videos)
-- **3. 2. Niche Marketing in Ecommerce** (4 videos)
-- **4. 3. Free Traffic for Ecommerce** (5 videos)
-- **5. 4. Paid Traffic for Ecommerce** (4 videos)
-- **6. 5. Increasing Conversions for Ecommerce** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Pillars of Ecommerce]]** (4 videos)
+- **[[#3. 2. Niche Marketing in Ecommerce]]** (4 videos)
+- **[[#4. 3. Free Traffic for Ecommerce]]** (5 videos)
+- **[[#5. 4. Paid Traffic for Ecommerce]]** (4 videos)
+- **[[#6. 5. Increasing Conversions for Ecommerce]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

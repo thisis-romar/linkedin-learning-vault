@@ -58,15 +58,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Identifying the Optimal Type of Analytics for Your Challenge** (5 videos)
-- **3. 2. Getting Serious about Analytics** (5 videos)
-- **4. 3. Hiring and Staffing** (8 videos)
-- **5. 4. Software and Technology** (5 videos)
-- **6. 5. Organizational Structure** (5 videos)
-- **7. 6. Continuing Your Predictive Analytics Learning Journey** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Identifying the Optimal Type of Analytics for Your Challenge]]** (5 videos)
+- **[[#2. Getting Serious about Analytics]]** (5 videos)
+- **[[#3. Hiring and Staffing]]** (8 videos)
+- **[[#4. Software and Technology]]** (5 videos)
+- **[[#5. Organizational Structure]]** (5 videos)
+- **[[#6. Continuing Your Predictive Analytics Learning Journey]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Give yourself the executive analytics edge
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980)
@@ -136,7 +138,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 2. 1. Identifying the Optimal Type of Analytics for Your Challenge
+### 1. Identifying the Optimal Type of Analytics for Your Challenge
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Predictive analytics vs. forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980)
@@ -400,7 +404,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. Getting Serious about Analytics
+### 2. Getting Serious about Analytics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analytics is about making decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-is-about-making-decisions?u=76281980)
@@ -774,7 +780,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Hiring and Staffing
+### 3. Hiring and Staffing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Who should you hire first for your new data science team?
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980)
@@ -1174,7 +1182,9 @@ created: 2026-04-28
 > **Speakers:** - excellent (1)
 
 
-### 5. 4. Software and Technology
+### 4. Software and Technology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud and enterprise analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980)
@@ -1493,7 +1503,9 @@ created: 2026-04-28
 > **Speakers:** - responsible (1)
 
 
-### 6. 5. Organizational Structure
+### 5. Organizational Structure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analytics project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980)
@@ -1864,7 +1876,9 @@ created: 2026-04-28
 > **Speakers:** - who (1)
 
 
-### 7. 6. Continuing Your Predictive Analytics Learning Journey
+### 6. Continuing Your Predictive Analytics Learning Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980)

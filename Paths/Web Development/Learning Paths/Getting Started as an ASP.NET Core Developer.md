@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-as-an-asp-dot-net-c
 course_count: 9
 linkedin_topics:
   - Web Development
-louvain_cluster: 15
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/web-development

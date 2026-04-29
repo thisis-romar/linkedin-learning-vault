@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction** (7 videos)
-- **3. 2. Getting Started** (6 videos)
-- **4. 3. Reading Data** (7 videos)
-- **5. 4. Writing Data** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction]]** (7 videos)
+- **[[#3. 2. Getting Started]]** (6 videos)
+- **[[#4. 3. Reading Data]]** (7 videos)
+- **[[#5. 4. Writing Data]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

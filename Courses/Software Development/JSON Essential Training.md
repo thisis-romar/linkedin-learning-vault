@@ -52,14 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Understanding JSON** (7 videos)
-- **3. 2. Processing JSON Data** (5 videos)
-- **4. 3. Using JSON Data** (7 videos)
-- **5. 4. Applying Techniques for Working with JSON** (3 videos)
-- **6. 5. Working with JSON Schema** (7 videos)
-- **7. 6. Structuring Data with JSON-LD** (7 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Understanding JSON]]** (7 videos)
+- **[[#3. 2. Processing JSON Data]]** (5 videos)
+- **[[#4. 3. Using JSON Data]]** (7 videos)
+- **[[#5. 4. Applying Techniques for Working with JSON]]** (3 videos)
+- **[[#6. 5. Working with JSON Schema]]** (7 videos)
+- **[[#7. 6. Structuring Data with JSON-LD]]** (7 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

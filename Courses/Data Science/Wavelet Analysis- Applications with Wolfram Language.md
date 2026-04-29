@@ -50,14 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Frequency Detection in a Time Series** (1 videos)
-- **3. 2. Filtering Frequencies from Time Series** (1 videos)
-- **4. 3. Applying Wavelet Analysis to Finance** (1 videos)
-- **5. 4. Edge Detection on Images** (1 videos)
-- **6. 5. Denoising Images** (1 videos)
-- **7. 6. Wavelet Thresholding** (1 videos)
-- **8. References** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Frequency Detection in a Time Series]]** (1 videos)
+- **[[#3. 2. Filtering Frequencies from Time Series]]** (1 videos)
+- **[[#4. 3. Applying Wavelet Analysis to Finance]]** (1 videos)
+- **[[#5. 4. Edge Detection on Images]]** (1 videos)
+- **[[#6. 5. Denoising Images]]** (1 videos)
+- **[[#7. 6. Wavelet Thresholding]]** (1 videos)
+- **[[#8. References]]** (1 videos)
 
 ### 1. Introduction
 

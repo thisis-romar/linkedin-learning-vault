@@ -55,21 +55,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to MLflow** (4 videos)
-- **3. 2. MLflow Projects** (4 videos)
-- **4. 3. MLflow Models** (4 videos)
-- **5. 4. Introduction to Hugging Face** (5 videos)
-- **6. 5. Introduction to Applied Hugging Face** (3 videos)
-- **7. 6. Using Hugging Face** (6 videos)
-- **8. 7. Packaging Hugging Face** (4 videos)
-- **9. 8. Hugging Face and Azure ML Studio** (5 videos)
-- **10. 9. Hugging Face Automation** (4 videos)
-- **11. 10. Hugging Face with Azure Containers** (4 videos)
-- **12. 11. Fine-Tuning and ONNX Exporting** (4 videos)
-- **13. 12. Hugging Face Spaces** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to MLflow]]** (4 videos)
+- **[[#2. MLflow Projects]]** (4 videos)
+- **[[#3. MLflow Models]]** (4 videos)
+- **[[#4. Introduction to Hugging Face]]** (5 videos)
+- **[[#5. Introduction to Applied Hugging Face]]** (3 videos)
+- **[[#6. Using Hugging Face]]** (6 videos)
+- **[[#7. Packaging Hugging Face]]** (4 videos)
+- **[[#8. Hugging Face and Azure ML Studio]]** (5 videos)
+- **[[#9. Hugging Face Automation]]** (4 videos)
+- **[[#10. Hugging Face with Azure Containers]]** (4 videos)
+- **[[#11. Fine-Tuning and ONNX Exporting]]** (4 videos)
+- **[[#12. Hugging Face Spaces]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### MLOps platforms introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - welcome (1)
 
 
-### 2. 1. Introduction to MLflow
+### 1. Introduction to MLflow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of MLflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980)
@@ -784,7 +788,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (2)
 
 
-### 3. 2. MLflow Projects
+### 2. MLflow Projects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with MLflow projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980)
@@ -1261,7 +1267,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. MLflow Models
+### 3. MLflow Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Components of the MLflow package
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980)
@@ -1792,7 +1800,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1), is a  (1)
 
 
-### 5. 4. Introduction to Hugging Face
+### 4. Introduction to Hugging Face
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Hugging Face?
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980)
@@ -2569,7 +2579,9 @@ created: 2026-04-28
 > **Tools:** command line (2), github (1)
 
 
-### 6. 5. Introduction to Applied Hugging Face
+### 5. Introduction to Applied Hugging Face
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to applied Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980)
@@ -2778,7 +2790,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 7. 6. Using Hugging Face
+### 6. Using Hugging Face
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the Model Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980)
@@ -3803,7 +3817,9 @@ created: 2026-04-28
 > **Tools:** command line (2)
 
 
-### 8. 7. Packaging Hugging Face
+### 7. Packaging Hugging Face
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hugging Face and FastAPI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980)
@@ -4312,7 +4328,9 @@ created: 2026-04-28
 > **Definitions:** means that (2), is a  (1)
 
 
-### 9. 8. Hugging Face and Azure ML Studio
+### 8. Hugging Face and Azure ML Studio
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hugging Face and Azure ML Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980)
@@ -4921,7 +4939,9 @@ created: 2026-04-28
 > **UI Navigation:** select the (1)
 
 
-### 10. 9. Hugging Face Automation
+### 9. Hugging Face Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using GitHub Actions for model deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980)
@@ -5469,7 +5489,9 @@ created: 2026-04-28
 > **Definitions:** means that (2)
 
 
-### 11. 10. Hugging Face with Azure Containers
+### 10. Hugging Face with Azure Containers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create an Azure container application
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980)
@@ -6062,7 +6084,9 @@ created: 2026-04-28
 > **Warnings:** watch out (1)
 
 
-### 12. 11. Fine-Tuning and ONNX Exporting
+### 11. Fine-Tuning and ONNX Exporting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to fine-tuning theory
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-fine-tuning-theory?u=76281980)
@@ -6539,7 +6563,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 13. 12. Hugging Face Spaces
+### 12. Hugging Face Spaces
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Hugging Face Spaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980)

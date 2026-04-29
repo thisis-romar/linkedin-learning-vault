@@ -7,7 +7,7 @@ course_count: 6
 linkedin_topics:
   - Data Science
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/data-science

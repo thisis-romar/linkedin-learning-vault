@@ -53,10 +53,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Vibe Code the Infographics Tool** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Vibe Code the Infographics Tool]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vibe coding an AI-based tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-ai-powered-branded-infographics-tool/vibe-coding-an-ai-based-tool?u=76281980)
@@ -72,7 +74,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Vibe Code the Infographics Tool
+### 1. Vibe Code the Infographics Tool
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating the PRD for the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-ai-powered-branded-infographics-tool/creating-the-prd-for-the-project?u=76281980)

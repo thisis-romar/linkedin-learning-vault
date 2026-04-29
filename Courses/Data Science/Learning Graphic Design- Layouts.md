@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Universal Principles** (4 videos)
-- **3. 2. Page Margins and the Grid** (3 videos)
-- **4. 3. Putting a Layout Together** (2 videos)
-- **5. Closing** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Universal Principles]]** (4 videos)
+- **[[#2. Page Margins and the Grid]]** (3 videos)
+- **[[#3. Putting a Layout Together]]** (2 videos)
+- **[[#Closing]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/welcome?u=76281980)
@@ -224,7 +226,9 @@ created: 2026-04-28
 > **Speakers:** - layout (1)
 
 
-### 2. 1. Universal Principles
+### 1. Universal Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep it simple
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/keep-it-simple?u=76281980)
@@ -496,7 +500,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 3. 2. Page Margins and the Grid
+### 2. Page Margins and the Grid
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Symmetrical
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980)
@@ -754,7 +760,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 4. 3. Putting a Layout Together
+### 3. Putting a Layout Together
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A campus poster
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980)
@@ -1301,7 +1309,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Closing
+### Closing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/conclusion?u=76281980)

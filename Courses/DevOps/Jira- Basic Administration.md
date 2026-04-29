@@ -49,16 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. What Is Jira and How Is It Used?** (5 videos)
-- **3. 2. Admin Types and Responsibilities** (3 videos)
-- **4. 3. Setting Up a Test Environment** (2 videos)
-- **5. 4. Managing Users** (4 videos)
-- **6. 5. Creating Jira Projects** (4 videos)
-- **7. 6. Creating Workflows** (5 videos)
-- **8. 7. Troubleshooting Permission Problems** (4 videos)
-- **9. 8. Troubleshooting Missing Notifications** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. What Is Jira and How Is It Used?]]** (5 videos)
+- **[[#3. 2. Admin Types and Responsibilities]]** (3 videos)
+- **[[#4. 3. Setting Up a Test Environment]]** (2 videos)
+- **[[#5. 4. Managing Users]]** (4 videos)
+- **[[#6. 5. Creating Jira Projects]]** (4 videos)
+- **[[#7. 6. Creating Workflows]]** (5 videos)
+- **[[#8. 7. Troubleshooting Permission Problems]]** (4 videos)
+- **[[#9. 8. Troubleshooting Missing Notifications]]** (4 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

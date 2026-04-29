@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Deconstructing the Web** (6 videos)
-- **3. 2. The Duality of Web Programming** (4 videos)
-- **4. 3. Which Came First: The Browser or the Editor?** (3 videos)
-- **5. 4. The Parts That Make up the Web** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Deconstructing the Web]]** (6 videos)
+- **[[#2. The Duality of Web Programming]]** (4 videos)
+- **[[#3. Which Came First: The Browser or the Editor?]]** (3 videos)
+- **[[#4. The Parts That Make up the Web]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Deconstructing the Web
+### 1. Deconstructing the Web
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From URL to website
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980)
@@ -377,7 +381,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. The Duality of Web Programming
+### 2. The Duality of Web Programming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The dual purpose of web code
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-dual-purpose-of-web-code?u=76281980)
@@ -588,7 +594,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 4. 3. Which Came First: The Browser or the Editor?
+### 3. Which Came First: The Browser or the Editor?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The web browser of today and of tomorrow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980)
@@ -844,7 +852,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. The Parts That Make up the Web
+### 4. The Parts That Make up the Web
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980)
@@ -1150,7 +1160,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980)

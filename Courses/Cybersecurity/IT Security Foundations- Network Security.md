@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Recognize Security Devices** (6 videos)
-- **3. 2. Isolate the Network** (6 videos)
-- **4. 3. Secure the Cloud** (4 videos)
-- **5. 4. Identify Attacks** (5 videos)
-- **6. 5. Secure Protocols and Procedures** (6 videos)
-- **7. 6. Limiting Access** (7 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Recognize Security Devices]]** (6 videos)
+- **[[#2. Isolate the Network]]** (6 videos)
+- **[[#3. Secure the Cloud]]** (4 videos)
+- **[[#4. Identify Attacks]]** (5 videos)
+- **[[#5. Secure Protocols and Procedures]]** (6 videos)
+- **[[#6. Limiting Access]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-the-network?u=76281980)
@@ -117,7 +119,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Recognize Security Devices
+### 1. Recognize Security Devices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980)
@@ -631,7 +635,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise file (1)
 
 
-### 3. 2. Isolate the Network
+### 2. Isolate the Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Segmenting using routers and VLANS
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980)
@@ -1117,7 +1123,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Secure the Cloud
+### 3. Secure the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarize cloud concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980)
@@ -1385,7 +1393,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Identify Attacks
+### 4. Identify Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparing attack methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980)
@@ -1861,7 +1871,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 6. 5. Secure Protocols and Procedures
+### 5. Secure Protocols and Procedures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using antivirus
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-antivirus?u=76281980)
@@ -2361,7 +2373,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Limiting Access
+### 6. Limiting Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the principle of least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-the-principle-of-least-privilege?u=76281980)
@@ -2802,7 +2816,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980)

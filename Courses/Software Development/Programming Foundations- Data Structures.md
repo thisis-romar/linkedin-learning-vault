@@ -43,18 +43,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Data Fundamentals** (5 videos)
-- **3. 2. Array-Like Structures** (12 videos)
-- **4. 3. Dictionaries** (8 videos)
-- **5. 4. Sets** (8 videos)
-- **6. 5. Queues** (4 videos)
-- **7. 6. Stacks** (5 videos)
-- **8. 7. Practice Using Data Structures in Python Applications** (6 videos)
-- **9. 8. Glossaries** (0 videos)
-- **10. 9. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Data Fundamentals]]** (5 videos)
+- **[[#2. Array-Like Structures]]** (12 videos)
+- **[[#3. Dictionaries]]** (8 videos)
+- **[[#4. Sets]]** (8 videos)
+- **[[#5. Queues]]** (4 videos)
+- **[[#6. Stacks]]** (5 videos)
+- **[[#7. Practice Using Data Structures in Python Applications]]** (6 videos)
+- **[[#8. Glossaries]]** (0 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why to use data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/why-use-data-structures-24503276?u=76281980)
@@ -212,7 +214,9 @@ created: 2026-04-28
 > **Definitions:** stands for (1), is a  (1)
 
 
-### 2. 1. Data Fundamentals
+### 1. Data Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-data-24506004?u=76281980)
@@ -512,7 +516,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Array-Like Structures
+### 2. Array-Like Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an array?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980)
@@ -1308,7 +1314,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Dictionaries
+### 3. Dictionaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a dictionary?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-dictionary-24502365?u=76281980)
@@ -1668,7 +1676,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Sets
+### 4. Sets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a set?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-set-24296967?u=76281980)
@@ -2017,7 +2027,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Queues
+### 5. Queues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a queue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-queue-24502368?u=76281980)
@@ -2188,7 +2200,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Stacks
+### 6. Stacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a stack?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-stack-24506006?u=76281980)
@@ -2434,7 +2448,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Practice Using Data Structures in Python Applications
+### 7. Practice Using Data Structures in Python Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GitHub Codespace challenge: To-do list
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980)
@@ -2786,10 +2802,14 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Glossaries
+### 8. Glossaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 10. 9. Conclusion
+### 9. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to decide which data structure to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980)

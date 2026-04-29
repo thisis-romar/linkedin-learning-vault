@@ -51,12 +51,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Why AI for Data Analytics?** (2 videos)
-- **3. 2. Intro to AI, LLMs, and ChatGPT** (6 videos)
-- **4. 3. Prompt Engineering** (5 videos)
-- **5. 4. ChatGPT for SQL** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Why AI for Data Analytics?]]** (2 videos)
+- **[[#3. 2. Intro to AI, LLMs, and ChatGPT]]** (6 videos)
+- **[[#4. 3. Prompt Engineering]]** (5 videos)
+- **[[#5. 4. ChatGPT for SQL]]** (7 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

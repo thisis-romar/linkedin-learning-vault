@@ -51,15 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (7 videos)
-- **3. 2. Fundamental Concepts in LlamaIndex** (7 videos)
-- **4. 3. Introduction to RAG** (7 videos)
-- **5. 4. RAG Evaluation** (3 videos)
-- **6. 5. Advanced RAG: Pre-Retrieval and Indexing Techniques** (7 videos)
-- **7. 6. Advanced RAG: Post-Retrieval and Other Techniques** (5 videos)
-- **8. 7. Modular RAG** (4 videos)
-- **9. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started]]** (7 videos)
+- **[[#3. 2. Fundamental Concepts in LlamaIndex]]** (7 videos)
+- **[[#4. 3. Introduction to RAG]]** (7 videos)
+- **[[#5. 4. RAG Evaluation]]** (3 videos)
+- **[[#6. 5. Advanced RAG: Pre-Retrieval and Indexing Techniques]]** (7 videos)
+- **[[#7. 6. Advanced RAG: Post-Retrieval and Other Techniques]]** (5 videos)
+- **[[#8. 7. Modular RAG]]** (4 videos)
+- **[[#9. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

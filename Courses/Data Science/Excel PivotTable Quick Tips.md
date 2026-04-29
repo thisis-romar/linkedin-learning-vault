@@ -46,14 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Excel PivotTable Basics** (4 videos)
-- **3. 2. Adjusting Excel PivotTable Data** (6 videos)
-- **4. 3. Filtering and Sorting Data in a PivotTable** (2 videos)
-- **5. 4. Conditional Formatting with PivotTables** (2 videos)
-- **6. 5. PivotCharts and Slicers** (2 videos)
-- **7. 6. Data Grouping with Excel Functions** (2 videos)
-- **8. 7. Addressing Common Error Messages in PivotTables** (3 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Excel PivotTable Basics]]** (4 videos)
+- **[[#3. 2. Adjusting Excel PivotTable Data]]** (6 videos)
+- **[[#4. 3. Filtering and Sorting Data in a PivotTable]]** (2 videos)
+- **[[#5. 4. Conditional Formatting with PivotTables]]** (2 videos)
+- **[[#6. 5. PivotCharts and Slicers]]** (2 videos)
+- **[[#7. 6. Data Grouping with Excel Functions]]** (2 videos)
+- **[[#8. 7. Addressing Common Error Messages in PivotTables]]** (3 videos)
 
 ### 1. Introduction
 

@@ -59,15 +59,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Generative AI Fundamentals** (5 videos)
-- **3. 2. Main Governance and Compliance Topics** (6 videos)
-- **4. 3. Regulation Case: EU AI Act** (4 videos)
-- **5. 4. Other Governance Topics** (3 videos)
-- **6. 5. Case Study: ACME EdTech** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Generative AI Fundamentals]]** (5 videos)
+- **[[#2. Main Governance and Compliance Topics]]** (6 videos)
+- **[[#3. Regulation Case: EU AI Act]]** (4 videos)
+- **[[#4. Other Governance Topics]]** (3 videos)
+- **[[#5. Case Study: ACME EdTech]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Gen AI compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/introduction-to-gen-ai-compliance?u=76281980)
@@ -110,7 +112,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Generative AI Fundamentals
+### 1. Generative AI Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Origins of artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/origins-of-artificial-intelligence?u=76281980)
@@ -242,7 +246,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Main Governance and Compliance Topics
+### 2. Main Governance and Compliance Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI ethics and regulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/ai-ethics-and-regulations?u=76281980)
@@ -436,7 +442,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Regulation Case: EU AI Act
+### 3. Regulation Case: EU AI Act
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Backstory for the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/backstory-for-the-eu-ai-act?u=76281980)
@@ -561,7 +569,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Other Governance Topics
+### 4. Other Governance Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/ai-principles?u=76281980)
@@ -694,7 +704,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Case Study: ACME EdTech
+### 5. Case Study: ACME EdTech
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Company introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/company-introduction?u=76281980)
@@ -888,7 +900,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/compliance-and-regulations-for-generative-ai/next-steps?u=76281980)

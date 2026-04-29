@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Remote and Virtual Projects Overview** (3 videos)
-- **3. 2. Engaging Remote Project Teams** (3 videos)
-- **4. 3. Getting Project Work Done Virtually** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Remote and Virtual Projects Overview]]** (3 videos)
+- **[[#3. 2. Engaging Remote Project Teams]]** (3 videos)
+- **[[#4. 3. Getting Project Work Done Virtually]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

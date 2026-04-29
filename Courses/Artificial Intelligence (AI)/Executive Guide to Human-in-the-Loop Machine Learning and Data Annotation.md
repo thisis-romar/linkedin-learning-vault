@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introducing Human-in-the-Loop** (4 videos)
-- **3. 2. Common Use Cases** (4 videos)
-- **4. 3. The Data Annotation Ecosystem** (4 videos)
-- **5. 4. Managing a Data Annotation Project** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introducing Human-in-the-Loop]]** (4 videos)
+- **[[#2. Common Use Cases]]** (4 videos)
+- **[[#3. The Data Annotation Ecosystem]]** (4 videos)
+- **[[#4. Managing a Data Annotation Project]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Meet the human-in-the-loop
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **[0:32](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980&t=32)** In this course, we'll discuss what it is, and why if you're a data professional or in analytics leadership, or even just a consumer, you should know more about it.
 
 
-### 2. 1. Introducing Human-in-the-Loop
+### 1. Introducing Human-in-the-Loop
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Human-in-the-loop is everywhere
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/human-in-the-loop-is-everywhere?u=76281980)
@@ -312,7 +316,9 @@ created: 2026-04-28
 > **Cross-References:** later in (1)
 
 
-### 3. 2. Common Use Cases
+### 2. Common Use Cases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Healthcare use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980)
@@ -628,7 +634,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. The Data Annotation Ecosystem
+### 3. The Data Annotation Ecosystem
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The world of data annotation vendors
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-world-of-data-annotation-vendors?u=76281980)
@@ -839,7 +847,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 5. 4. Managing a Data Annotation Project
+### 4. Managing a Data Annotation Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Quality control
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980)
@@ -1147,7 +1157,9 @@ created: 2026-04-28
 > **Tools:** notion (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980)

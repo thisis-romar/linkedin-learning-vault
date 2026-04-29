@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Setting Up** (2 videos)
-- **3. 2. Building the Core Application** (3 videos)
-- **4. 3. Refactoring and Enhancing the Application** (4 videos)
-- **5. 4. Integrating a Database** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Setting Up]]** (2 videos)
+- **[[#2. Building the Core Application]]** (3 videos)
+- **[[#3. Refactoring and Enhancing the Application]]** (4 videos)
+- **[[#4. Integrating a Database]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Setting Up
+### 1. Setting Up
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing .NET 7 SDK
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980)
@@ -204,7 +208,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Building the Core Application
+### 2. Building the Core Application
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating the note model
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980)
@@ -542,7 +548,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1)
 
 
-### 4. 3. Refactoring and Enhancing the Application
+### 3. Refactoring and Enhancing the Application
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a note command
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-note-command?u=76281980)
@@ -953,7 +961,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Integrating a Database
+### 4. Integrating a Database
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing note search
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/implementing-note-search?u=76281980)
@@ -1114,7 +1124,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leveling up with .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980)

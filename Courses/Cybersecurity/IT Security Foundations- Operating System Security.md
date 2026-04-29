@@ -43,16 +43,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Working with a Window OS** (7 videos)
-- **3. 2. Locking Down Linux and macOS** (4 videos)
-- **4. 3. Understand User Authentication** (5 videos)
-- **5. 4. Protecting and Monitoring the OS** (4 videos)
-- **6. 5. Providing Email Protection** (3 videos)
-- **7. 6. Understanding Encryption** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Working with a Window OS]]** (7 videos)
+- **[[#2. Locking Down Linux and macOS]]** (4 videos)
+- **[[#3. Understand User Authentication]]** (5 videos)
+- **[[#4. Protecting and Monitoring the OS]]** (4 videos)
+- **[[#5. Providing Email Protection]]** (3 videos)
+- **[[#6. Understanding Encryption]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ensuring system security
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ensuring-system-security?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Working with a Window OS
+### 1. Working with a Window OS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing the Windows OS
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980)
@@ -628,7 +632,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Locking Down Linux and macOS
+### 2. Locking Down Linux and macOS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protecting your macOS
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protecting-your-macos?u=76281980)
@@ -886,7 +892,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Understand User Authentication
+### 3. Understand User Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify and authenticate
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/identify-and-authenticate?u=76281980)
@@ -1251,7 +1259,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Protecting and Monitoring the OS
+### 4. Protecting and Monitoring the OS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using a firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980)
@@ -1538,7 +1548,9 @@ created: 2026-04-28
 > **Best Practices:** it's best to (1)
 
 
-### 6. 5. Providing Email Protection
+### 5. Providing Email Protection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Email clients and servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980)
@@ -1770,7 +1782,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Understanding Encryption
+### 6. Understanding Encryption
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cryptographic techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980)
@@ -2148,7 +2162,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980)

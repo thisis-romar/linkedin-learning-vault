@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Overview** (2 videos)
-- **3. 2. Functional Programming in Modern C++** (10 videos)
-- **4. 3. Template Metaprogramming** (7 videos)
-- **5. 4. Functional Reactive Programming** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Overview]]** (2 videos)
+- **[[#3. 2. Functional Programming in Modern C++]]** (10 videos)
+- **[[#4. 3. Template Metaprogramming]]** (7 videos)
+- **[[#5. 4. Functional Reactive Programming]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

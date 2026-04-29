@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Discovering Data Science** (1 videos)
-- **3. 2. Understanding the Data Science Profession** (4 videos)
-- **4. 3. Data Science and You** (2 videos)
-- **5. 4. How to Learn Data Science** (4 videos)
-- **6. 5. Creating Your First Data Science Resume** (2 videos)
-- **7. 6. Personal Branding for Data Scientists** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Discovering Data Science]]** (1 videos)
+- **[[#3. 2. Understanding the Data Science Profession]]** (4 videos)
+- **[[#4. 3. Data Science and You]]** (2 videos)
+- **[[#5. 4. How to Learn Data Science]]** (4 videos)
+- **[[#6. 5. Creating Your First Data Science Resume]]** (2 videos)
+- **[[#7. 6. Personal Branding for Data Scientists]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

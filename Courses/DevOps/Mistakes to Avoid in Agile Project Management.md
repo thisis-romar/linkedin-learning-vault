@@ -44,14 +44,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Launching Agile Project Management** (4 videos)
-- **3. 2. Mistakes When Gaining Buy-In** (3 videos)
-- **4. 3. Mistakes When Building Teams** (4 videos)
-- **5. 4. Mistakes When Setting Cadence** (4 videos)
-- **6. 5. Mistakes When Making Improvements** (4 videos)
-- **7. 6. Mistakes When Managing Work** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Launching Agile Project Management]]** (4 videos)
+- **[[#3. 2. Mistakes When Gaining Buy-In]]** (3 videos)
+- **[[#4. 3. Mistakes When Building Teams]]** (4 videos)
+- **[[#5. 4. Mistakes When Setting Cadence]]** (4 videos)
+- **[[#6. 5. Mistakes When Making Improvements]]** (4 videos)
+- **[[#7. 6. Mistakes When Managing Work]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

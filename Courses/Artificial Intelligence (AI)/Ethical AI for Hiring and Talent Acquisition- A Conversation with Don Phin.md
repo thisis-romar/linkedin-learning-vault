@@ -39,14 +39,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Bias and Fairness** (3 videos)
-- **3. 2. Accuracy and Reliability** (2 videos)
-- **4. 3. Transparency and Explainability** (2 videos)
-- **5. 4. Privacy and Security** (2 videos)
-- **6. 5. Best Practices and Future Trends** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Bias and Fairness]]** (3 videos)
+- **[[#2. Accuracy and Reliability]]** (2 videos)
+- **[[#3. Transparency and Explainability]]** (2 videos)
+- **[[#4. Privacy and Security]]** (2 videos)
+- **[[#5. Best Practices and Future Trends]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Embracing responsible AI practices in hiring
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980)
@@ -181,7 +183,9 @@ created: 2026-04-28
 > **Code Keywords:** private (1)
 
 
-### 2. 1. Bias and Fairness
+### 1. Bias and Fairness
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When is hiring bias problematic?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/when-is-hiring-bias-problematic?u=76281980)
@@ -382,7 +386,9 @@ created: 2026-04-28
 > **Env Vars:** eeoc (1)
 
 
-### 3. 2. Accuracy and Reliability
+### 2. Accuracy and Reliability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do we ensure AI makes fair, accurate hiring decisions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-do-we-ensure-ai-makes-fair-accurate-hiring-decisions?u=76281980)
@@ -470,7 +476,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 4. 3. Transparency and Explainability
+### 3. Transparency and Explainability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why are transparency in AI hiring tools so important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/why-are-transparency-in-ai-hiring-tools-so-important?u=76281980)
@@ -582,7 +590,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Privacy and Security
+### 4. Privacy and Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How is candidate data handled by AI, and what are the risks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980)
@@ -690,7 +700,9 @@ created: 2026-04-28
 > **Code Keywords:** require (1)
 
 
-### 6. 5. Best Practices and Future Trends
+### 5. Best Practices and Future Trends
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is key when using AI in hiring ethically and wisely?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-key-when-using-ai-in-hiring-ethically-and-wisely?u=76281980)

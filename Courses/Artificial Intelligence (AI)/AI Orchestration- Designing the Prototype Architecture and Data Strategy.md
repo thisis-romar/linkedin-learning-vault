@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Prompt Engineering Fundamentals** (3 videos)
-- **3. 2. AI Systems and Architecture** (4 videos)
-- **4. 3. Tools and Implementation** (16 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Prompt Engineering Fundamentals]]** (3 videos)
+- **[[#2. AI Systems and Architecture]]** (4 videos)
+- **[[#3. Tools and Implementation]]** (16 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980)
@@ -292,7 +294,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Prompt Engineering Fundamentals
+### 1. Prompt Engineering Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompt engineering pyramid
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980)
@@ -624,7 +628,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. AI Systems and Architecture
+### 2. AI Systems and Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explaining chain of thought Rust prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980)
@@ -950,7 +956,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 4. 3. Tools and Implementation
+### 3. Tools and Implementation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Llamafile getting started Gemma
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980)
@@ -2283,7 +2291,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980)

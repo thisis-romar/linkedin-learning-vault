@@ -42,12 +42,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Four Question Framework** (4 videos)
-- **3. 2. STRIDE** (8 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Four Question Framework]]** (4 videos)
+- **[[#2. STRIDE]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Develop secure products
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=76281980)
@@ -161,7 +163,9 @@ created: 2026-04-28
 > **Speakers:** - at (1)
 
 
-### 2. 1. The Four Question Framework
+### 1. The Four Question Framework
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are we working on?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-working-on?u=76281980)
@@ -498,7 +502,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. STRIDE
+### 2. STRIDE
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Spoofing a specific server
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980)
@@ -1104,7 +1110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980)

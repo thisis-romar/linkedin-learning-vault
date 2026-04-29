@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Making Choices Legally and Ethically** (5 videos)
-- **3. 2. Ethics and Generative AI** (4 videos)
-- **4. 3. Encountering AI Ethics at Work** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Making Choices Legally and Ethically]]** (5 videos)
+- **[[#2. Ethics and Generative AI]]** (4 videos)
+- **[[#3. Encountering AI Ethics at Work]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ethical considerations of AI and practical applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. Making Choices Legally and Ethically
+### 1. Making Choices Legally and Ethically
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recognize ethical choices with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980)
@@ -526,7 +530,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Ethics and Generative AI
+### 2. Ethics and Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand hard truths about generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980)
@@ -887,7 +893,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 4. 3. Encountering AI Ethics at Work
+### 3. Encountering AI Ethics at Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining different uses of AI at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980)
@@ -1298,7 +1306,9 @@ created: 2026-04-28
 > **Speakers:** - luna (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Being kind
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980)

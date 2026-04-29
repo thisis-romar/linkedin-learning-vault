@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Phases of a Machine Learning Project** (4 videos)
-- **3. 2. Designing a Machine Learning Dataset** (6 videos)
-- **4. 3. Data Prep Challenges** (4 videos)
-- **5. 4. Chapter Name** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Phases of a Machine Learning Project]]** (4 videos)
+- **[[#2. Designing a Machine Learning Dataset]]** (6 videos)
+- **[[#3. Data Prep Challenges]]** (4 videos)
+- **[[#4. Chapter Name]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scaling machine learning initiatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/scaling-machine-learning-initiatives-23239794?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Phases of a Machine Learning Project
+### 1. The Phases of a Machine Learning Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data and supervised machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980)
@@ -427,7 +431,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Designing a Machine Learning Dataset
+### 2. Designing a Machine Learning Dataset
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How much data do I need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-much-data-do-i-need?u=76281980)
@@ -824,7 +830,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Prep Challenges
+### 3. Data Prep Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data and the data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980)
@@ -1017,7 +1025,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Chapter Name
+### 4. Chapter Name
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the modeling process
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980)
@@ -1407,7 +1417,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your predictive modeling journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980)

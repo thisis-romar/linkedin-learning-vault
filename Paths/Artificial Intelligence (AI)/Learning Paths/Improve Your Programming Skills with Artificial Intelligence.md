@@ -8,7 +8,7 @@ linkedin_topics:
   - Artificial Intelligence (AI)
   - DevOps
   - Software Development
-louvain_cluster: 5
+louvain_cluster: 4
 tags:
   - learning-path
   - topic/artificial-intelligence

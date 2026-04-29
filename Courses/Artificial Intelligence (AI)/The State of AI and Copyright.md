@@ -49,10 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Excerpts from the Conversation** (10 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Excerpts from the Conversation]]** (10 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the state of AI and copyright
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 2. 1. Excerpts from the Conversation
+### 1. Excerpts from the Conversation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introductions
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980)

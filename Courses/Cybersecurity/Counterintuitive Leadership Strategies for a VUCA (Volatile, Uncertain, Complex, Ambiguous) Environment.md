@@ -46,17 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Adopt the Strategic Pause** (2 videos)
-- **3. 2. Disrupt Your Thinking** (2 videos)
-- **4. 3. Embrace Soft Intelligence** (2 videos)
-- **5. 4. Reevaluate Your To-Do List** (2 videos)
-- **6. 5. Communicate to Influence** (2 videos)
-- **7. 6. Approach Challenges as a Novice** (2 videos)
-- **8. 7. Blaze New Trails** (2 videos)
-- **9. 8. Maintain Timeless Principles** (1 videos)
-- **10. 9. Conquer the Chaos** (1 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Adopt the Strategic Pause]]** (2 videos)
+- **[[#3. 2. Disrupt Your Thinking]]** (2 videos)
+- **[[#4. 3. Embrace Soft Intelligence]]** (2 videos)
+- **[[#5. 4. Reevaluate Your To-Do List]]** (2 videos)
+- **[[#6. 5. Communicate to Influence]]** (2 videos)
+- **[[#7. 6. Approach Challenges as a Novice]]** (2 videos)
+- **[[#8. 7. Blaze New Trails]]** (2 videos)
+- **[[#9. 8. Maintain Timeless Principles]]** (1 videos)
+- **[[#10. 9. Conquer the Chaos]]** (1 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

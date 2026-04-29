@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Set Up Your Environment** (3 videos)
-- **3. 2. Understand the File Setup** (2 videos)
-- **4. 3. Build a KPI Box Visual Using "Single" Data** (14 videos)
-- **5. 4. Build a Scatter Chart Using "Categorical" Data** (6 videos)
-- **6. 5. Convert to a Bubble Chart with Group by Data** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Set Up Your Environment]]** (3 videos)
+- **[[#3. 2. Understand the File Setup]]** (2 videos)
+- **[[#4. 3. Build a KPI Box Visual Using "Single" Data]]** (14 videos)
+- **[[#5. 4. Build a Scatter Chart Using "Categorical" Data]]** (6 videos)
+- **[[#6. 5. Convert to a Bubble Chart with Group by Data]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

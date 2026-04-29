@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Tools, Materials, and Environments** (5 videos)
-- **3. 2. Looking the AI in the Mouth** (9 videos)
-- **4. 3. Iteration, Experimentation, and Expansion** (7 videos)
-- **5. 4. Tests and Test-Driven Development** (5 videos)
-- **6. 5. Pushing Forward with Conservative Tools** (5 videos)
-- **7. 6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Tools, Materials, and Environments]]** (5 videos)
+- **[[#2. Looking the AI in the Mouth]]** (9 videos)
+- **[[#3. Iteration, Experimentation, and Expansion]]** (7 videos)
+- **[[#4. Tests and Test-Driven Development]]** (5 videos)
+- **[[#5. Pushing Forward with Conservative Tools]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pair-programming with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/pair-programming-with-ai?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Tools, Materials, and Environments
+### 1. Tools, Materials, and Environments
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tools, materials, and environments
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/tools-materials-and-environments?u=76281980)
@@ -452,7 +456,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Looking the AI in the Mouth
+### 2. Looking the AI in the Mouth
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to start and how to start
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980)
@@ -1181,7 +1187,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Iteration, Experimentation, and Expansion
+### 3. Iteration, Experimentation, and Expansion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Let's build an app together!
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980)
@@ -2008,7 +2016,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 5. 4. Tests and Test-Driven Development
+### 4. Tests and Test-Driven Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI and the renewed importance of tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-the-renewed-importance-of-tests?u=76281980)
@@ -2610,7 +2620,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 6. 5. Pushing Forward with Conservative Tools
+### 5. Pushing Forward with Conservative Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding bias in LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980)
@@ -2965,7 +2977,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Conclusion
+### 6. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Upskilling is the new skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/upskilling-is-the-new-skill?u=76281980)

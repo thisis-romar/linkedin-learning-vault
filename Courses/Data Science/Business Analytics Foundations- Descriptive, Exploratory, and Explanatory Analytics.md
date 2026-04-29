@@ -42,12 +42,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. Descriptive Analytics (DEA)** (4 videos)
-- **3. 2. Exploratory Analytics (EDA)** (4 videos)
-- **4. 3. Explanatory Analytics (EPA)** (4 videos)
-- **5. 4. Emerging Trends in Business Analytics** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (6 videos)
+- **[[#2. 1. Descriptive Analytics (DEA)]]** (4 videos)
+- **[[#3. 2. Exploratory Analytics (EDA)]]** (4 videos)
+- **[[#4. 3. Explanatory Analytics (EPA)]]** (4 videos)
+- **[[#5. 4. Emerging Trends in Business Analytics]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -38,19 +38,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. What Is OAuth?** (3 videos)
-- **3. 2. Foundational Concepts** (5 videos)
-- **4. 3. OAuth Tokens** (3 videos)
-- **5. 4. Grant Type: Authorization Code** (7 videos)
-- **6. 5. Grant Type: Resource Owner Password** (4 videos)
-- **7. 6. Grant Type: Client Credential** (4 videos)
-- **8. 7. Grant Type: Device Grant Type** (4 videos)
-- **9. 8. Using an OAuth Architecture** (4 videos)
-- **10. 9. State of the Industry** (2 videos)
-- **11. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. What Is OAuth?]]** (3 videos)
+- **[[#2. Foundational Concepts]]** (5 videos)
+- **[[#3. OAuth Tokens]]** (3 videos)
+- **[[#4. Grant Type: Authorization Code]]** (7 videos)
+- **[[#5. Grant Type: Resource Owner Password]]** (4 videos)
+- **[[#6. Grant Type: Client Credential]]** (4 videos)
+- **[[#7. Grant Type: Device Grant Type]]** (4 videos)
+- **[[#8. Using an OAuth Architecture]]** (4 videos)
+- **[[#9. State of the Industry]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using OAuth 2.0 and OpenID Connect
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/using-oauth-2-0-and-openid-connect?u=76281980)
@@ -189,7 +191,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Is OAuth?
+### 1. What Is OAuth?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describing OAuth 2.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/describing-oauth-2-0?u=76281980)
@@ -428,7 +432,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Foundational Concepts
+### 2. Foundational Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OAuth 2.0 fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-fundamentals?u=76281980)
@@ -850,7 +856,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. OAuth Tokens
+### 3. OAuth Tokens
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OAuth 2.0 tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-2-0-tokens?u=76281980)
@@ -1123,7 +1131,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Grant Type: Authorization Code
+### 4. Grant Type: Authorization Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Authorization Code Flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-authorization-code-flow?u=76281980)
@@ -1631,7 +1641,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Grant Type: Resource Owner Password
+### 5. Grant Type: Resource Owner Password
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Resource Owner Password flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-resource-owner-password-flow?u=76281980)
@@ -1837,7 +1849,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Grant Type: Client Credential
+### 6. Grant Type: Client Credential
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Client Credential Flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-client-credential-flow?u=76281980)
@@ -2143,7 +2157,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Grant Type: Device Grant Type
+### 7. Grant Type: Device Grant Type
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Device flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/overview-device-flow?u=76281980)
@@ -2369,7 +2385,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Using an OAuth Architecture
+### 8. Using an OAuth Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OAuth recommended practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-recommended-practices?u=76281980)
@@ -2692,7 +2710,9 @@ created: 2026-04-28
 > **Versions:** 127.0.0 (1)
 
 
-### 10. 9. State of the Industry
+### 9. State of the Industry
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OAuth extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/oauth-extensions?u=76281980)
@@ -2846,7 +2866,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-security-oauth-and-openid-connect-23016424/next-steps?u=76281980)

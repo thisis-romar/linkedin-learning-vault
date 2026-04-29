@@ -27,8 +27,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Communication%20Foundations.md)
-
 ![Communication Foundations](https://media.licdn.com/dms/image/v2/D560DAQHKwoWZ8QK6Hw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1700601056751?e=2147483647&amp;v=beta&amp;t=aCB0k3ELSGIFYrocfiGn_cJsi-xovxi7ko8EJZUZBpY)
 
 # Communication Foundations
@@ -42,13 +40,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Four Communication Building Blocks** (4 videos)
-- **3. 2. Communication for Common Situations** (10 videos)
-- **4. 3. Communication in Difficult Situations** (8 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Four Communication Building Blocks]]** (4 videos)
+- **[[#2. Communication for Common Situations]]** (10 videos)
+- **[[#3. Communication in Difficult Situations]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communication for career success
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/communication-for-career-success?u=76281980)
@@ -80,7 +80,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. The Four Communication Building Blocks
+### 1. The Four Communication Building Blocks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The four building blocks: People and perspective
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-people-and-perspective?u=76281980)
@@ -369,7 +371,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. Communication for Common Situations
+### 2. Communication for Common Situations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When you give an update
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980)
@@ -1194,7 +1198,9 @@ created: 2026-04-28
 > **Speakers:** - quick (1)
 
 
-### 4. 3. Communication in Difficult Situations
+### 3. Communication in Difficult Situations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When you are nervous
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-are-nervous?u=76281980)
@@ -1814,7 +1820,9 @@ created: 2026-04-28
 > **Speakers:** - prioritize (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting your communication skills into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/putting-your-communication-skills-into-practice?u=76281980)

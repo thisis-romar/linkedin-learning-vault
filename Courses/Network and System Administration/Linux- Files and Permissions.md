@@ -44,12 +44,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. Linux Files** (11 videos)
-- **3. Manage Linux Files** (9 videos)
-- **4. Linux Permissions** (10 videos)
-- **5. Access Control Lists** (8 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. Linux Files]]** (11 videos)
+- **[[#3. Manage Linux Files]]** (9 videos)
+- **[[#4. Linux Permissions]]** (10 videos)
+- **[[#5. Access Control Lists]]** (8 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

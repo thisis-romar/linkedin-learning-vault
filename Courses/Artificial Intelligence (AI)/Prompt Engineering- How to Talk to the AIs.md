@@ -60,11 +60,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is Prompt Engineering?** (7 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is Prompt Engineering?]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Talking to the AIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/talking-to-the-ais?u=76281980)
@@ -129,7 +131,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Is Prompt Engineering?
+### 1. What Is Prompt Engineering?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The generative AI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/the-generative-ai-revolution?u=76281980)
@@ -650,7 +654,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/next-steps-and-resources?u=76281980)

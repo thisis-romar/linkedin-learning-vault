@@ -66,14 +66,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Microsoft Entra ID Basics** (6 videos)
-- **3. 2. Core Components of Entra ID** (6 videos)
-- **4. 3. Standards and Compliance** (2 videos)
-- **5. 4. Administering an Entra Tenant** (4 videos)
-- **6. Conclusion** (2 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Microsoft Entra ID Basics]]** (6 videos)
+- **[[#2. Core Components of Entra ID]]** (6 videos)
+- **[[#3. Standards and Compliance]]** (2 videos)
+- **[[#4. Administering an Entra Tenant]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A world of modern identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980)
@@ -415,7 +417,9 @@ created: 2026-04-28
 > **Speakers:** - [kunal] (1)
 
 
-### 2. 1. Microsoft Entra ID Basics
+### 1. Microsoft Entra ID Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identity and access
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980)
@@ -992,7 +996,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Core Components of Entra ID
+### 2. Core Components of Entra ID
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand Entra Cloud Sync
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980)
@@ -1895,7 +1901,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Standards and Compliance
+### 3. Standards and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Industry standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980)
@@ -2074,7 +2082,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Administering an Entra Tenant
+### 4. Administering an Entra Tenant
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing an Entra tenant
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980)
@@ -2288,7 +2298,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980)

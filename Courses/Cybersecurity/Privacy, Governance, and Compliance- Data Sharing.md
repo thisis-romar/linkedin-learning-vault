@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Data Sharing: Risks and Possibilities** (5 videos)
-- **3. 2. Solving for Data Sharing** (4 videos)
-- **4. 3. k-Anonymity and Data Sharing** (5 videos)
-- **5. 4. l-Diversity** (2 videos)
-- **6. 5. The Challenge of Privacy: Your Digital Fingerprint** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Data Sharing: Risks and Possibilities]]** (5 videos)
+- **[[#3. 2. Solving for Data Sharing]]** (4 videos)
+- **[[#4. 3. k-Anonymity and Data Sharing]]** (5 videos)
+- **[[#5. 4. l-Diversity]]** (2 videos)
+- **[[#6. 5. The Challenge of Privacy: Your Digital Fingerprint]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

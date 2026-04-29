@@ -75,18 +75,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Web** (7 videos)
-- **3. 2. Formatting Text** (12 videos)
-- **4. 3. The HTML Document and Page Structure** (9 videos)
-- **5. 4. Links and Navigation** (6 videos)
-- **6. 5. Images** (10 videos)
-- **7. 6. More Media Elements** (6 videos)
-- **8. 7. Web Forms** (8 videos)
-- **9. 8. Accessibility and Internationalization** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Web]]** (7 videos)
+- **[[#2. Formatting Text]]** (12 videos)
+- **[[#3. The HTML Document and Page Structure]]** (9 videos)
+- **[[#4. Links and Navigation]]** (6 videos)
+- **[[#5. Images]]** (10 videos)
+- **[[#6. More Media Elements]]** (6 videos)
+- **[[#7. Web Forms]]** (8 videos)
+- **[[#8. Accessibility and Internationalization]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why should I learn HTML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980)
@@ -166,7 +168,9 @@ created: 2026-04-28
 > **Speakers:** - [christina] (1)
 
 
-### 2. 1. The Web
+### 1. The Web
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Languages of the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980)
@@ -874,7 +878,9 @@ created: 2026-04-28
 > **URLs:** [websitename.com](https://websitename.com) (1)
 
 
-### 3. 2. Formatting Text
+### 2. Formatting Text
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Paragraphs and headings
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980)
@@ -1796,7 +1802,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 4. 3. The HTML Document and Page Structure
+### 3. The HTML Document and Page Structure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The basic HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980)
@@ -2600,7 +2608,9 @@ created: 2026-04-28
 > **Prerequisites:** make sure you have (1)
 
 
-### 5. 4. Links and Navigation
+### 4. Links and Navigation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The hyperlink
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980)
@@ -3002,7 +3012,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Images
+### 5. Images
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Image formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980)
@@ -4010,7 +4022,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. More Media Elements
+### 6. More Media Elements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Video
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980)
@@ -4443,7 +4457,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Web Forms
+### 7. Web Forms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are web forms?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980)
@@ -5195,7 +5211,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. 8. Accessibility and Internationalization
+### 8. Accessibility and Internationalization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980)
@@ -5416,7 +5434,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980)

@@ -51,15 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Building a Basic Express Application** (5 videos)
-- **3. 2. Template Engines** (3 videos)
-- **4. 3. Express Routes and Middleware** (5 videos)
-- **5. 4. Professional Templating with Express** (8 videos)
-- **6. 5. Handling Errors Gracefully** (3 videos)
-- **7. 6. Handling Form Data** (4 videos)
-- **8. 7. Creating APIs with Express** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Building a Basic Express Application]]** (5 videos)
+- **[[#3. 2. Template Engines]]** (3 videos)
+- **[[#4. 3. Express Routes and Middleware]]** (5 videos)
+- **[[#5. 4. Professional Templating with Express]]** (8 videos)
+- **[[#6. 5. Handling Errors Gracefully]]** (3 videos)
+- **[[#7. 6. Handling Form Data]]** (4 videos)
+- **[[#8. 7. Creating APIs with Express]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

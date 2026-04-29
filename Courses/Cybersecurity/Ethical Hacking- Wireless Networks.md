@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Wi-Fi Networks** (10 videos)
-- **3. 2. Rogue Access Points** (5 videos)
-- **4. 3. Bluetooth** (3 videos)
-- **5. 4. Additional Tools** (7 videos)
-- **6. 5. Internet of Things** (1 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Wi-Fi Networks]]** (10 videos)
+- **[[#2. Rogue Access Points]]** (5 videos)
+- **[[#3. Bluetooth]]** (3 videos)
+- **[[#4. Additional Tools]]** (7 videos)
+- **[[#5. Internet of Things]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn how to protect your wireless network
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Wi-Fi Networks
+### 1. Wi-Fi Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding wireless networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980)
@@ -887,7 +891,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Rogue Access Points
+### 2. Rogue Access Points
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Harvesting connections with an evil twin
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980)
@@ -1255,7 +1261,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Bluetooth
+### 3. Bluetooth
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Bluetooth
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980)
@@ -1547,7 +1555,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Additional Tools
+### 4. Additional Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using FernWi-Fi Cracker
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-fernwi-fi-cracker?u=76281980)
@@ -2269,7 +2279,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 6. 5. Internet of Things
+### 5. Internet of Things
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing the Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980)
@@ -2360,7 +2372,9 @@ created: 2026-04-28
 > **CLI Commands:** find (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980)

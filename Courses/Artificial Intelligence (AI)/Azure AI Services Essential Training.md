@@ -47,16 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Vision** (6 videos)
-- **3. 2. Speech** (7 videos)
-- **4. 3. Language** (7 videos)
-- **5. 4. Search** (5 videos)
-- **6. 5. Content Safety** (2 videos)
-- **7. 6. Translator** (2 videos)
-- **8. 7. Document Intelligence** (2 videos)
-- **9. 8. Azure AI Studio** (5 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Vision]]** (6 videos)
+- **[[#3. 2. Speech]]** (7 videos)
+- **[[#4. 3. Language]]** (7 videos)
+- **[[#5. 4. Search]]** (5 videos)
+- **[[#6. 5. Content Safety]]** (2 videos)
+- **[[#7. 6. Translator]]** (2 videos)
+- **[[#8. 7. Document Intelligence]]** (2 videos)
+- **[[#9. 8. Azure AI Studio]]** (5 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

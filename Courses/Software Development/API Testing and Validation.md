@@ -40,15 +40,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Behavior Testing with Cucumber and Gherkin** (5 videos)
-- **3. 2. Build Your First API Test** (3 videos)
-- **4. 3. Handling Authentication in API Testing** (5 videos)
-- **5. 4. Advanced API Testing in Practice** (7 videos)
-- **6. 5. Planning Your API Testing Strategy** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Behavior Testing with Cucumber and Gherkin]]** (5 videos)
+- **[[#2. Build Your First API Test]]** (3 videos)
+- **[[#3. Handling Authentication in API Testing]]** (5 videos)
+- **[[#4. Advanced API Testing in Practice]]** (7 videos)
+- **[[#5. Planning Your API Testing Strategy]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be an API testing and validation MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/be-an-api-testing-and-validation-mvp?u=76281980)
@@ -273,7 +275,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Behavior Testing with Cucumber and Gherkin
+### 1. Behavior Testing with Cucumber and Gherkin
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Acceptance testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/acceptance-testing?u=76281980)
@@ -626,7 +630,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Build Your First API Test
+### 2. Build Your First API Test
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make your first request
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980)
@@ -919,7 +925,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 4. 3. Handling Authentication in API Testing
+### 3. Handling Authentication in API Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Expand your testing environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980)
@@ -1712,7 +1720,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (1)
 
 
-### 5. 4. Advanced API Testing in Practice
+### 4. Advanced API Testing in Practice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Writing to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980)
@@ -2482,7 +2492,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 6. 5. Planning Your API Testing Strategy
+### 5. Planning Your API Testing Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mapping your API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980)
@@ -2936,7 +2948,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980)

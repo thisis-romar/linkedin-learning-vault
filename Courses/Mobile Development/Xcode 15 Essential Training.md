@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started** (10 videos)
-- **3. 2. Efficient Coding with SwiftUI and Prototyping** (5 videos)
-- **4. 3. Source Control** (7 videos)
-- **5. 4. Storyboard Design Basics** (6 videos)
-- **6. 5. Debugging and Testing** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Getting Started]]** (10 videos)
+- **[[#3. 2. Efficient Coding with SwiftUI and Prototyping]]** (5 videos)
+- **[[#4. 3. Source Control]]** (7 videos)
+- **[[#5. 4. Storyboard Design Basics]]** (6 videos)
+- **[[#6. 5. Debugging and Testing]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

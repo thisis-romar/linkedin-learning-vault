@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Basic Inclusion Principles** (5 videos)
-- **3. 2. Inclusive Content Practices** (4 videos)
-- **4. 3. Inclusive Meeting Technology** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Basic Inclusion Principles]]** (5 videos)
+- **[[#2. Inclusive Content Practices]]** (4 videos)
+- **[[#3. Inclusive Meeting Technology]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inclusive workplace basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/inclusive-workplace-basics?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 2. 1. Basic Inclusion Principles
+### 1. Basic Inclusion Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pillars of success
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/pillars-of-success?u=76281980)
@@ -418,7 +422,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 3. 2. Inclusive Content Practices
+### 2. Inclusive Content Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Formatting matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/formatting-matters?u=76281980)
@@ -731,7 +737,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 4. 3. Inclusive Meeting Technology
+### 3. Inclusive Meeting Technology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agenda and materials
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980)
@@ -1130,7 +1138,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Review and assess
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980)

@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Using AI for Code Completion** (4 videos)
-- **3. 2. Leveraging AI for Documentation** (3 videos)
-- **4. 3. AI-Assisted Technical Writing Based on Code** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Using AI for Code Completion]]** (4 videos)
+- **[[#2. Leveraging AI for Documentation]]** (3 videos)
+- **[[#3. AI-Assisted Technical Writing Based on Code]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What to expect in this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-to-expect-in-this-course?u=76281980)
@@ -103,7 +105,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Using AI for Code Completion
+### 1. Using AI for Code Completion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI autocomplete tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980)
@@ -697,7 +701,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Leveraging AI for Documentation
+### 2. Leveraging AI for Documentation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Documenting your code with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980)
@@ -1050,7 +1056,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. AI-Assisted Technical Writing Based on Code
+### 3. AI-Assisted Technical Writing Based on Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Technical writing with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980)
@@ -1303,7 +1311,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/next-steps?u=76281980)

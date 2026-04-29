@@ -47,7 +47,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Governing Agentic AI Systems** (1 videos)
+- **[[#1. Governing Agentic AI Systems]]** (1 videos)
 
 ### 1. Governing Agentic AI Systems
 

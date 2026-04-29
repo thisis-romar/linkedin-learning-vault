@@ -50,11 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Advanced Data Visualizations** (12 videos)
-- **3. 2. Continuing Your Data Viz Learning Journey** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Advanced Data Visualizations]]** (12 videos)
+- **[[#2. Continuing Your Data Viz Learning Journey]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take your data viz game to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/take-your-data-viz-game-to-the-next-level?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Advanced Data Visualizations
+### 1. Advanced Data Visualizations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ridgeline plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980)
@@ -1417,7 +1421,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Continuing Your Data Viz Learning Journey
+### 2. Continuing Your Data Viz Learning Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980)

@@ -46,14 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Urgency of Getting Data Privacy Right** (3 videos)
-- **3. 2. Privacy: From a Compliance Chore to a Strategic Advantage** (3 videos)
-- **4. 3. Tie Privacy to Your Corporate Values** (2 videos)
-- **5. 4. Create Advocates throughout the Organization** (3 videos)
-- **6. 5. Build Privacy into Products** (2 videos)
-- **7. 6. Integrate the Privacy Program into the Existing Business** (1 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. The Urgency of Getting Data Privacy Right]]** (3 videos)
+- **[[#3. 2. Privacy: From a Compliance Chore to a Strategic Advantage]]** (3 videos)
+- **[[#4. 3. Tie Privacy to Your Corporate Values]]** (2 videos)
+- **[[#5. 4. Create Advocates throughout the Organization]]** (3 videos)
+- **[[#6. 5. Build Privacy into Products]]** (2 videos)
+- **[[#7. 6. Integrate the Privacy Program into the Existing Business]]** (1 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

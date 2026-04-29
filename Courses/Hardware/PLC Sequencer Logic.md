@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. PLC Sequencer Output Instruction (SQO)** (10 videos)
-- **3. 2. SQO Examples** (12 videos)
-- **4. 3.PLC Sequencer Compare Instruction (SQC)** (8 videos)
-- **5. 4. PLC Sequencer Load Instruction (SQL)** (8 videos)
-- **6. 5. Final Challenge** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. PLC Sequencer Output Instruction (SQO)]]** (10 videos)
+- **[[#3. 2. SQO Examples]]** (12 videos)
+- **[[#4. 3.PLC Sequencer Compare Instruction (SQC)]]** (8 videos)
+- **[[#5. 4. PLC Sequencer Load Instruction (SQL)]]** (8 videos)
+- **[[#6. 5. Final Challenge]]** (6 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

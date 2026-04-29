@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Overview and Project Set Up** (2 videos)
-- **3. 2. Object Basics** (7 videos)
-- **4. 3. Class Inheritance** (5 videos)
-- **5. 4. Object Access Control** (5 videos)
-- **6. 5. Static Properties and Methods** (7 videos)
-- **7. 6. Magic Methods** (7 videos)
-- **8. 7. A PHP OOP Project** (7 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Overview and Project Set Up]]** (2 videos)
+- **[[#3. 2. Object Basics]]** (7 videos)
+- **[[#4. 3. Class Inheritance]]** (5 videos)
+- **[[#5. 4. Object Access Control]]** (5 videos)
+- **[[#6. 5. Static Properties and Methods]]** (7 videos)
+- **[[#7. 6. Magic Methods]]** (7 videos)
+- **[[#8. 7. A PHP OOP Project]]** (7 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Introducing SELECT** (4 videos)
-- **3. 2. Filtering the Result Set** (7 videos)
-- **4. 3. Manipulating the Result Set** (4 videos)
-- **5. 4. Joins** (5 videos)
-- **6. 5. DDL and DML: Creating and Changing Data** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Introducing SELECT]]** (4 videos)
+- **[[#3. 2. Filtering the Result Set]]** (7 videos)
+- **[[#4. 3. Manipulating the Result Set]]** (4 videos)
+- **[[#5. 4. Joins]]** (5 videos)
+- **[[#6. 5. DDL and DML: Creating and Changing Data]]** (6 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

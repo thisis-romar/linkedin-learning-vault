@@ -43,16 +43,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Concepts Review** (5 videos)
-- **3. 2. Create a Basic ReAct Agent** (6 videos)
-- **4. 3. Build a Product Q&A Chatbot** (5 videos)
-- **5. 4. Custom Agents and Chatbots with LangGraph** (5 videos)
-- **6. 5. Reflection-Based LangGraph Agents** (5 videos)
-- **7. 6. Multi-agent Systems with LangGraph** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Concepts Review]]** (5 videos)
+- **[[#2. Create a Basic ReAct Agent]]** (6 videos)
+- **[[#3. Build a Product Q&A Chatbot]]** (5 videos)
+- **[[#4. Custom Agents and Chatbots with LangGraph]]** (5 videos)
+- **[[#5. Reflection-Based LangGraph Agents]]** (5 videos)
+- **[[#6. Multi-agent Systems with LangGraph]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/introduction-to-the-course-25231480?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Concepts Review
+### 1. Concepts Review
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI chatbots: A review
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/ai-chatbots-a-review-25230459?u=76281980)
@@ -418,7 +422,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Create a Basic ReAct Agent
+### 2. Create a Basic ReAct Agent
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is ReAct?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/what-is-react-25234395?u=76281980)
@@ -769,7 +775,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Build a Product Q&A Chatbot
+### 3. Build a Product Q&A Chatbot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Product Q&A chatbot design
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/product-q-a-chatbot-design-25228458?u=76281980)
@@ -1064,7 +1072,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Custom Agents and Chatbots with LangGraph
+### 4. Custom Agents and Chatbots with LangGraph
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LangGraph concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/langgraph-concepts-25230460?u=76281980)
@@ -1494,7 +1504,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Reflection-Based LangGraph Agents
+### 5. Reflection-Based LangGraph Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reflection-based summary agent: Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/reflection-based-summary-agent-design-25231481?u=76281980)
@@ -1779,7 +1791,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Multi-agent Systems with LangGraph
+### 6. Multi-agent Systems with LangGraph
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Multi-agent systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/multi-agent-systems-25228455?u=76281980)
@@ -2105,7 +2119,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph/next-steps-25228453?u=76281980)

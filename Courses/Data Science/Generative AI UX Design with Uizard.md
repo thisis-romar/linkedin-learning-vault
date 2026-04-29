@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. UIzard Overview** (5 videos)
-- **3. 2. Autolayout and AI Magic** (6 videos)
-- **4. 3. Scanning Designs** (3 videos)
-- **5. 4. Making Your Prototype Interactive** (2 videos)
-- **6. 5. Advanced Techniques** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. UIzard Overview]]** (5 videos)
+- **[[#2. Autolayout and AI Magic]]** (6 videos)
+- **[[#3. Scanning Designs]]** (3 videos)
+- **[[#4. Making Your Prototype Interactive]]** (2 videos)
+- **[[#5. Advanced Techniques]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of Uizard on UX design
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. UIzard Overview
+### 1. UIzard Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Uizard, the magic prototyping tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980)
@@ -706,7 +710,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 3. 2. Autolayout and AI Magic
+### 2. Autolayout and AI Magic
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a new app with Autodesigner
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/create-a-new-app-with-autodesigner?u=76281980)
@@ -1391,7 +1397,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Scanning Designs
+### 3. Scanning Designs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scanning a screenshot
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-screenshot?u=76281980)
@@ -1648,7 +1656,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Making Your Prototype Interactive
+### 4. Making Your Prototype Interactive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Interactive prototypes
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/interactive-prototypes?u=76281980)
@@ -1817,7 +1827,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 6. 5. Advanced Techniques
+### 5. Advanced Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using design review
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-design-review?u=76281980)
@@ -2089,7 +2101,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thank you and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980)

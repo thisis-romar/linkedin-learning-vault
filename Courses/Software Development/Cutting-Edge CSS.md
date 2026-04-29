@@ -49,11 +49,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Core Principles** (3 videos)
-- **3. 2. Selectors** (3 videos)
-- **4. 3. Layout** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Core Principles]]** (3 videos)
+- **[[#3. 2. Selectors]]** (3 videos)
+- **[[#4. 3. Layout]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

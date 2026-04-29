@@ -31,8 +31,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Learning%20Microsoft%20365.md)
-
 ![Learning Microsoft 365](https://media.licdn.com/dms/image/v2/D4D0DAQG1Ld5Hu48pZw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719008948508?e=2147483647&amp;v=beta&amp;t=-_kDdzDlJdffrAiwgx8yXakcqe_mAxRHiInucTsQctI)
 
 # Learning Microsoft 365
@@ -46,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. About Microsoft 365** (3 videos)
-- **3. 2. Get Started with Microsoft 365** (5 videos)
-- **4. 3. Share and Collaborate** (4 videos)
-- **5. 4. Connect with Colleagues** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. About Microsoft 365]]** (3 videos)
+- **[[#2. Get Started with Microsoft 365]]** (5 videos)
+- **[[#3. Share and Collaborate]]** (4 videos)
+- **[[#4. Connect with Colleagues]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Increase your productivity with Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980)
@@ -119,7 +119,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. About Microsoft 365
+### 1. About Microsoft 365
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980)
@@ -333,7 +335,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Get Started with Microsoft 365
+### 2. Get Started with Microsoft 365
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sign in to Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980)
@@ -953,7 +957,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Share and Collaborate
+### 3. Share and Collaborate
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add and share files on OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980)
@@ -1442,7 +1448,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Connect with Colleagues
+### 4. Connect with Colleagues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Join or create a team in Microsoft Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980)
@@ -1900,7 +1908,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980)

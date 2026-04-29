@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Stochastic Processes** (1 videos)
-- **2. 2. Financial Data Function** (1 videos)
-- **3. 3. Time Series Model Fit** (1 videos)
-- **4. 4. Differences** (1 videos)
-- **5. 5. MapThread** (1 videos)
-- **6. 6. Hyperbolic Distribution** (1 videos)
-- **7. 7. Ito Process** (1 videos)
+- **[[#1. 1. Stochastic Processes]]** (1 videos)
+- **[[#2. 2. Financial Data Function]]** (1 videos)
+- **[[#3. 3. Time Series Model Fit]]** (1 videos)
+- **[[#4. 4. Differences]]** (1 videos)
+- **[[#5. 5. MapThread]]** (1 videos)
+- **[[#6. 6. Hyperbolic Distribution]]** (1 videos)
+- **[[#7. 7. Ito Process]]** (1 videos)
 
 ### 1. 1. Stochastic Processes
 

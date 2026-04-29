@@ -46,16 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Six Sigma** (4 videos)
-- **3. 2. Key Concepts in Six Sigma** (4 videos)
-- **4. 3. Selection of Six Sigma Projects** (2 videos)
-- **5. 4. Define Phase** (4 videos)
-- **6. 5. Measure Phase** (6 videos)
-- **7. 6. Analyze Phase** (6 videos)
-- **8. 7. Improve Phase** (5 videos)
-- **9. 8. Control Phase** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to Six Sigma]]** (4 videos)
+- **[[#3. 2. Key Concepts in Six Sigma]]** (4 videos)
+- **[[#4. 3. Selection of Six Sigma Projects]]** (2 videos)
+- **[[#5. 4. Define Phase]]** (4 videos)
+- **[[#6. 5. Measure Phase]]** (6 videos)
+- **[[#7. 6. Analyze Phase]]** (6 videos)
+- **[[#8. 7. Improve Phase]]** (5 videos)
+- **[[#9. 8. Control Phase]]** (3 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

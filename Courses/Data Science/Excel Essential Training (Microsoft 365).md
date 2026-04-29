@@ -54,21 +54,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started with Excel** (6 videos)
-- **3. 2. Entering Data in Excel** (4 videos)
-- **4. 3. Formulas and Functions in Excel** (4 videos)
-- **5. 4. Formatting in Excel** (3 videos)
-- **6. 5. Adjusting Excel Worksheet Layouts and Data** (3 videos)
-- **7. 6. Adjusting Excel Page Layouts and Printing** (2 videos)
-- **8. 7. Working with Charts in Excel** (2 videos)
-- **9. 8. Adjusting Excel Worksheet Views** (2 videos)
-- **10. 9. Working with Multiple Excel Worksheets and Workbooks** (3 videos)
-- **11. 10. Excel Data Management Features** (3 videos)
-- **12. 11. Security and Sharing in Excel** (2 videos)
-- **13. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Started with Excel]]** (6 videos)
+- **[[#2. Entering Data in Excel]]** (4 videos)
+- **[[#3. Formulas and Functions in Excel]]** (4 videos)
+- **[[#4. Formatting in Excel]]** (3 videos)
+- **[[#5. Adjusting Excel Worksheet Layouts and Data]]** (3 videos)
+- **[[#6. Adjusting Excel Page Layouts and Printing]]** (2 videos)
+- **[[#7. Working with Charts in Excel]]** (2 videos)
+- **[[#8. Adjusting Excel Worksheet Views]]** (2 videos)
+- **[[#9. Working with Multiple Excel Worksheets and Workbooks]]** (3 videos)
+- **[[#10. Excel Data Management Features]]** (3 videos)
+- **[[#11. Security and Sharing in Excel]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Excel for Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - [dennis] (1)
 
 
-### 2. 1. Getting Started with Excel
+### 1. Getting Started with Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Excel fundamentals: What can it do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980)
@@ -810,7 +814,9 @@ created: 2026-04-28
 > **Non-Speech:** (mouse clicking) (1)
 
 
-### 3. 2. Entering Data in Excel
+### 2. Entering Data in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring data entry, editing, and AutoFill
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980)
@@ -1309,7 +1315,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Formulas and Functions in Excel
+### 3. Formulas and Functions in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using simple formulas in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980)
@@ -2020,7 +2028,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Formatting in Excel
+### 4. Formatting in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring font styles, borders, and color backgrounds
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980)
@@ -2494,7 +2504,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Adjusting Excel Worksheet Layouts and Data
+### 5. Adjusting Excel Worksheet Layouts and Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rows and columns: Insert/delete and hide/unhide
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980)
@@ -2842,7 +2854,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Adjusting Excel Page Layouts and Printing
+### 6. Adjusting Excel Page Layouts and Printing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Page Layout view and commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980)
@@ -3166,7 +3180,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Working with Charts in Excel
+### 7. Working with Charts in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980)
@@ -3611,7 +3627,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 9. 8. Adjusting Excel Worksheet Views
+### 8. Adjusting Excel Worksheet Views
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Freezing and unfreezing panes
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/freezing-and-unfreezing-panes?u=76281980)
@@ -3882,7 +3900,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Working with Multiple Excel Worksheets and Workbooks
+### 9. Working with Multiple Excel Worksheets and Workbooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Renaming, inserting, and deleting sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/renaming-inserting-and-deleting-sheets?u=76281980)
@@ -4269,7 +4289,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Excel Data Management Features
+### 10. Excel Data Management Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sorting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980)
@@ -4816,7 +4838,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. 11. Security and Sharing in Excel
+### 11. Security and Sharing in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protecting worksheets and workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/protecting-worksheets-and-workbooks?u=76281980)
@@ -5128,7 +5152,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your Excel journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980)

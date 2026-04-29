@@ -56,14 +56,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Common Sense Customer Service: A Two-Step Approach** (3 videos)
-- **3. 2. Critical Customer Service Problem-Solving Skills** (3 videos)
-- **4. 3. Critical Troubleshooting Skills** (3 videos)
-- **5. 4. Customer Service Mindset and Playbook** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Common Sense Customer Service: A Two-Step Approach]]** (3 videos)
+- **[[#2. Critical Customer Service Problem-Solving Skills]]** (3 videos)
+- **[[#3. Critical Troubleshooting Skills]]** (3 videos)
+- **[[#4. Customer Service Mindset and Playbook]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build your customer service skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-customer-service-skills?u=76281980)
@@ -161,7 +163,9 @@ created: 2026-04-28
 > **Speakers:** - ask (1)
 
 
-### 2. 1. Common Sense Customer Service: A Two-Step Approach
+### 1. Common Sense Customer Service: A Two-Step Approach
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore a model for common sense customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/explore-a-model-for-common-sense-customer-service?u=76281980)
@@ -386,7 +390,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 3. 2. Critical Customer Service Problem-Solving Skills
+### 2. Critical Customer Service Problem-Solving Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Diagnose a customer's concerns as the first step
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/diagnose-a-customer-s-concerns-as-the-first-step?u=76281980)
@@ -627,7 +633,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 4. 3. Critical Troubleshooting Skills
+### 3. Critical Troubleshooting Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calming down angry and upset customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/calming-down-angry-and-upset-customers?u=76281980)
@@ -865,7 +873,9 @@ created: 2026-04-28
 > **Speakers:** - here (1)
 
 
-### 5. 4. Customer Service Mindset and Playbook
+### 4. Customer Service Mindset and Playbook
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Maintain your mindset during stressful times
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/maintain-your-mindset-during-stressful-times?u=76281980)
@@ -1007,7 +1017,9 @@ created: 2026-04-28
 > **Speakers:** - look (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Being strong at problem-solving and troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/being-strong-at-problem-solving-and-troubleshooting?u=76281980)

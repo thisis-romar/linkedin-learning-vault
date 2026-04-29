@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding AI and AI-Enhanced Threats** (4 videos)
-- **3. 2. Ethics, Privacy, and Responsible Use** (3 videos)
-- **4. 3. Defending against AI-Enhanced Threats** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding AI and AI-Enhanced Threats]]** (4 videos)
+- **[[#2. Ethics, Privacy, and Responsible Use]]** (3 videos)
+- **[[#3. Defending against AI-Enhanced Threats]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cybersecurity and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 2. 1. Understanding AI and AI-Enhanced Threats
+### 1. Understanding AI and AI-Enhanced Threats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI's impact on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980)
@@ -430,7 +434,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 3. 2. Ethics, Privacy, and Responsible Use
+### 2. Ethics, Privacy, and Responsible Use
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarizing data privacy, compliance, and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980)
@@ -725,7 +731,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Defending against AI-Enhanced Threats
+### 3. Defending against AI-Enhanced Threats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing AI tool usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980)
@@ -1045,7 +1053,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980)

@@ -46,15 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Tampering with a Process** (3 videos)
-- **3. 2. Tampering with Storage** (3 videos)
-- **4. 3. Tampering with Things** (2 videos)
-- **5. 4. Tampering with Time Itself** (1 videos)
-- **6. 5. Tampering with Cloud** (2 videos)
-- **7. 6. Tampering with Data Flows** (3 videos)
-- **8. 7. Integrity Defenses** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Tampering with a Process]]** (3 videos)
+- **[[#3. 2. Tampering with Storage]]** (3 videos)
+- **[[#4. 3. Tampering with Things]]** (2 videos)
+- **[[#5. 4. Tampering with Time Itself]]** (1 videos)
+- **[[#6. 5. Tampering with Cloud]]** (2 videos)
+- **[[#7. 6. Tampering with Data Flows]]** (3 videos)
+- **[[#8. 7. Integrity Defenses]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

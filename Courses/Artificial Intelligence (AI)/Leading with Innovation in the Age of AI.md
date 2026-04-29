@@ -57,14 +57,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Innovation Fundamentals** (3 videos)
-- **3. 2. The Innovation Process** (5 videos)
-- **4. 3. Theaters of Innovation** (4 videos)
-- **5. 4. The Role of Leaders** (2 videos)
-- **6. Conclusion** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Innovation Fundamentals]]** (3 videos)
+- **[[#2. The Innovation Process]]** (5 videos)
+- **[[#3. Theaters of Innovation]]** (4 videos)
+- **[[#4. The Role of Leaders]]** (2 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The innovation imperative
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-innovation-imperative?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 2. 1. Innovation Fundamentals
+### 1. Innovation Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why organizations often fail at innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/why-organizations-often-fail-at-innovation?u=76281980)
@@ -340,7 +344,9 @@ created: 2026-04-28
 > **Definitions:** stands for (1)
 
 
-### 3. 2. The Innovation Process
+### 2. The Innovation Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fostering creativity without losing control
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980)
@@ -769,7 +775,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 4. 3. Theaters of Innovation
+### 3. Theaters of Innovation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rethinking the target customer
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980)
@@ -1120,7 +1128,9 @@ created: 2026-04-28
 > **Analogies:** it's like (1), such as (1)
 
 
-### 5. 4. The Role of Leaders
+### 4. The Role of Leaders
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The role of leaders in driving innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980)
@@ -1294,7 +1304,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Balancing order and chaos in innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980)

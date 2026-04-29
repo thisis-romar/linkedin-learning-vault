@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
+- **[[#1. Introduction]]** (4 videos)
 - **2. 1. Answering Foundational C# and .NET Questions** (4 videos)
 - **3. 2. Answering C# Language-Specific Questions** (5 videos)
-- **4. 3. Solving Technical Interview Questions: String Manipulation** (7 videos)
-- **5. 4. Solving Technical Interview Questions: Arrays and Linked Lists** (4 videos)
-- **6. 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures** (6 videos)
-- **7. 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#4. 3. Solving Technical Interview Questions: String Manipulation]]** (7 videos)
+- **[[#5. 4. Solving Technical Interview Questions: Arrays and Linked Lists]]** (4 videos)
+- **[[#6. 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures]]** (6 videos)
+- **[[#7. 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

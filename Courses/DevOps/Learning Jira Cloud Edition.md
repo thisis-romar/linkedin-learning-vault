@@ -46,15 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started with Jira** (5 videos)
-- **3. 2. Navigating Jira** (5 videos)
-- **4. 3. Working in Projects** (4 videos)
-- **5. 4. Working with Issues** (7 videos)
-- **6. 5. Finding Issues** (6 videos)
-- **7. 6. Using Reporting Features** (9 videos)
-- **8. 7. Managing Profile Settings** (1 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started with Jira]]** (5 videos)
+- **[[#3. 2. Navigating Jira]]** (5 videos)
+- **[[#4. 3. Working in Projects]]** (4 videos)
+- **[[#5. 4. Working with Issues]]** (7 videos)
+- **[[#6. 5. Finding Issues]]** (6 videos)
+- **[[#7. 6. Using Reporting Features]]** (9 videos)
+- **[[#8. 7. Managing Profile Settings]]** (1 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

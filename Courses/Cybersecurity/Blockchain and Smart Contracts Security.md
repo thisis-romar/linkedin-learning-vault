@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Demystifying Blockchain** (3 videos)
-- **3. 2. Security Properties of Blockchain** (4 videos)
-- **4. 3. Security Model for the Blockchain Ecosystem** (3 videos)
-- **5. 4. Blockchain Platform Security** (2 videos)
-- **6. 5. Distributed Apps and Smart Contracts Security** (6 videos)
-- **7. 6. Non-distributed Apps and Enabler Services** (3 videos)
-- **8. 7. End User Security** (2 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Demystifying Blockchain]]** (3 videos)
+- **[[#3. 2. Security Properties of Blockchain]]** (4 videos)
+- **[[#4. 3. Security Model for the Blockchain Ecosystem]]** (3 videos)
+- **[[#5. 4. Blockchain Platform Security]]** (2 videos)
+- **[[#6. 5. Distributed Apps and Smart Contracts Security]]** (6 videos)
+- **[[#7. 6. Non-distributed Apps and Enabler Services]]** (3 videos)
+- **[[#8. 7. End User Security]]** (2 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

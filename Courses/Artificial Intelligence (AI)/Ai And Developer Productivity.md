@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Exploring GPT Technology and Effective Use of Prompts** (4 videos)
-- **3. 2. Code Optimization with AI** (6 videos)
-- **4. 3. Automated Testing and Quality Assurance Enhanced by AI** (4 videos)
-- **5. 4. Intelligent Debugging and Issue Resolution Strategies** (4 videos)
-- **6. 5. Collaborative Development for Remote Teams with AI** (2 videos)
-- **7. 6. AI-Powered Code Documentation Techniques** (2 videos)
-- **8. 7. AI Interview Preparation: Technical Questions and Confidence Building** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Exploring GPT Technology and Effective Use of Prompts]]** (4 videos)
+- **[[#3. 2. Code Optimization with AI]]** (6 videos)
+- **[[#4. 3. Automated Testing and Quality Assurance Enhanced by AI]]** (4 videos)
+- **[[#5. 4. Intelligent Debugging and Issue Resolution Strategies]]** (4 videos)
+- **[[#6. 5. Collaborative Development for Remote Teams with AI]]** (2 videos)
+- **[[#7. 6. AI-Powered Code Documentation Techniques]]** (2 videos)
+- **[[#8. 7. AI Interview Preparation: Technical Questions and Confidence Building]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

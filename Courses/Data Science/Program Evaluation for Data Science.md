@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Program Evaluation** (4 videos)
-- **3. 2. A/B Testing** (5 videos)
-- **4. 3. Beyond A/B Testing and Randomization** (2 videos)
-- **5. 4. Matching Methods** (5 videos)
-- **6. 5. Difference in Difference** (5 videos)
-- **7. 6. Regression Discontinuity** (5 videos)
-- **8. 7. Interrupted Time Series** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Program Evaluation]]** (4 videos)
+- **[[#2. A/B Testing]]** (5 videos)
+- **[[#3. Beyond A/B Testing and Randomization]]** (2 videos)
+- **[[#4. Matching Methods]]** (5 videos)
+- **[[#5. Difference in Difference]]** (5 videos)
+- **[[#6. Regression Discontinuity]]** (5 videos)
+- **[[#7. Interrupted Time Series]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Going beyond A/B testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/going-beyond-a-b-testing?u=76281980)
@@ -117,7 +119,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. Introduction to Program Evaluation
+### 1. Introduction to Program Evaluation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is program evaluation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980)
@@ -331,7 +335,9 @@ created: 2026-04-28
 > **Speakers:** - throughout (1)
 
 
-### 3. 2. A/B Testing
+### 2. A/B Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are randomized studies?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-are-randomized-studies?u=76281980)
@@ -646,7 +652,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Beyond A/B Testing and Randomization
+### 3. Beyond A/B Testing and Randomization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Limitations of A/B testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/limitations-of-a-b-testing?u=76281980)
@@ -761,7 +769,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 5. 4. Matching Methods
+### 4. Matching Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to apply matching methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-matching-methods?u=76281980)
@@ -1012,7 +1022,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Difference in Difference
+### 5. Difference in Difference
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to apply difference in difference
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-difference-in-difference?u=76281980)
@@ -1243,7 +1255,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. 6. Regression Discontinuity
+### 6. Regression Discontinuity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to apply regression discontinuity
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-regression-discontinuity?u=76281980)
@@ -1480,7 +1494,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 8. 7. Interrupted Time Series
+### 7. Interrupted Time Series
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to apply interrupted time series
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-interrupted-time-series?u=76281980)
@@ -1740,7 +1756,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in program evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980)

@@ -53,11 +53,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Application Layers** (4 videos)
-- **3. 2. PostgreSQL and PHP** (10 videos)
-- **4. 3. SQL Server and ASP.NET Core** (7 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Application Layers]]** (4 videos)
+- **[[#3. 2. PostgreSQL and PHP]]** (10 videos)
+- **[[#4. 3. SQL Server and ASP.NET Core]]** (7 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

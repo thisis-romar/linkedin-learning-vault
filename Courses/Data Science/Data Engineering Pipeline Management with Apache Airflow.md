@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Working with Role-Based Access Control** (12 videos)
-- **3. 2. Managing SLAs** (5 videos)
-- **4. 3. Scheduling DAGs with Datasets** (5 videos)
-- **5. 4. Working with Airflow Plugins** (4 videos)
-- **6. 5. Scaling Airflow** (9 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Working with Role-Based Access Control]]** (12 videos)
+- **[[#2. Managing SLAs]]** (5 videos)
+- **[[#3. Scheduling DAGs with Datasets]]** (5 videos)
+- **[[#4. Working with Airflow Plugins]]** (4 videos)
+- **[[#5. Scaling Airflow]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Features for data engineering pipeline management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980)
@@ -190,7 +192,9 @@ created: 2026-04-28
 > **Best Practices:** good practice (1)
 
 
-### 2. 1. Working with Role-Based Access Control
+### 1. Working with Role-Based Access Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980)
@@ -1202,7 +1206,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Managing SLAs
+### 2. Managing SLAs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring emails for SLA management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980)
@@ -1719,7 +1725,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 4. 3. Scheduling DAGs with Datasets
+### 3. Scheduling DAGs with Datasets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dataset producer pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980)
@@ -2222,7 +2230,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Working with Airflow Plugins
+### 4. Working with Airflow Plugins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980)
@@ -2586,7 +2596,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Scaling Airflow
+### 5. Scaling Airflow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scaling Apache Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980)
@@ -3313,7 +3325,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980)

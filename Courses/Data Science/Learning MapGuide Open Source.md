@@ -46,15 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding and Installing MapGuide** (3 videos)
-- **3. 2. Connecting and Loading Data with MapGuide Maestro** (3 videos)
-- **4. 3. Stylizing Data** (6 videos)
-- **5. 4. Maps** (1 videos)
-- **6. 5. Basic Web Layouts** (2 videos)
-- **7. 6. Application Definitions** (4 videos)
-- **8. 7. Publishing to the Web** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understanding and Installing MapGuide]]** (3 videos)
+- **[[#3. 2. Connecting and Loading Data with MapGuide Maestro]]** (3 videos)
+- **[[#4. 3. Stylizing Data]]** (6 videos)
+- **[[#5. 4. Maps]]** (1 videos)
+- **[[#6. 5. Basic Web Layouts]]** (2 videos)
+- **[[#7. 6. Application Definitions]]** (4 videos)
+- **[[#8. 7. Publishing to the Web]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

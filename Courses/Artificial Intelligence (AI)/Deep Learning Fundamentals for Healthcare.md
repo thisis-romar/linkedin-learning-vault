@@ -40,12 +40,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Deep Learning for Healthcare** (10 videos)
-- **3. 2. Computer Vision for Healthcare** (10 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Deep Learning for Healthcare]]** (10 videos)
+- **[[#2. Computer Vision for Healthcare]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with deep learning for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/getting-started-with-deep-learning-for-healthcare?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Introduction to Deep Learning for Healthcare
+### 1. Introduction to Deep Learning for Healthcare
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980)
@@ -1120,7 +1124,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Computer Vision for Healthcare
+### 2. Computer Vision for Healthcare
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to computer vision in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980)
@@ -2620,7 +2626,9 @@ created: 2026-04-28
 > **Tools:** colab (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980)

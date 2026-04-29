@@ -51,16 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Java Collections Framework** (5 videos)
-- **3. 2. The Foundations of Java Collections** (10 videos)
-- **4. 3. Iterating Collections** (7 videos)
-- **5. 4. Set** (3 videos)
-- **6. 5. List** (4 videos)
-- **7. 6. Queue and Deque** (4 videos)
-- **8. 7. Map** (7 videos)
-- **9. 8. Collections Utilities** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Java Collections Framework]]** (5 videos)
+- **[[#3. 2. The Foundations of Java Collections]]** (10 videos)
+- **[[#4. 3. Iterating Collections]]** (7 videos)
+- **[[#5. 4. Set]]** (3 videos)
+- **[[#6. 5. List]]** (4 videos)
+- **[[#7. 6. Queue and Deque]]** (4 videos)
+- **[[#8. 7. Map]]** (7 videos)
+- **[[#9. 8. Collections Utilities]]** (4 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

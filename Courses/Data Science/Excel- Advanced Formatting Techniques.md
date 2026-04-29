@@ -49,17 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Formatting and Aligning Text** (5 videos)
-- **3. 2. Formatting Numbers and Dates** (6 videos)
-- **4. 3. Working with Images and Shapes** (3 videos)
-- **5. 4. Conditional Formatting** (4 videos)
-- **6. 5. Formatting for Print** (3 videos)
-- **7. 6. Workbooks and Worksheets** (2 videos)
-- **8. 7. Tables, Slicers, Themes** (3 videos)
-- **9. 8. Charts and Graphs** (2 videos)
-- **10. 9. Advanced, Random, and Fascinating Formatting** (5 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Formatting and Aligning Text]]** (5 videos)
+- **[[#3. 2. Formatting Numbers and Dates]]** (6 videos)
+- **[[#4. 3. Working with Images and Shapes]]** (3 videos)
+- **[[#5. 4. Conditional Formatting]]** (4 videos)
+- **[[#6. 5. Formatting for Print]]** (3 videos)
+- **[[#7. 6. Workbooks and Worksheets]]** (2 videos)
+- **[[#8. 7. Tables, Slicers, Themes]]** (3 videos)
+- **[[#9. 8. Charts and Graphs]]** (2 videos)
+- **[[#10. 9. Advanced, Random, and Fascinating Formatting]]** (5 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

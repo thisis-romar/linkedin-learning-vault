@@ -54,13 +54,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Choosing a Neural Network** (6 videos)
-- **3. 2. The Building Blocks of Neural Networks** (9 videos)
-- **4. 3. Building Your Network** (4 videos)
-- **5. 4. Training Your Network** (8 videos)
-- **6. 5. Let's Make a Segment Display Classifier** (8 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Choosing a Neural Network]]** (6 videos)
+- **[[#3. 2. The Building Blocks of Neural Networks]]** (9 videos)
+- **[[#4. 3. Building Your Network]]** (4 videos)
+- **[[#5. 4. Training Your Network]]** (8 videos)
+- **[[#6. 5. Let's Make a Segment Display Classifier]]** (8 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

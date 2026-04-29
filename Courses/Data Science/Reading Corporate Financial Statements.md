@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Basics of Financial Statement Preparation** (6 videos)
-- **3. 2. The Basics of Income Statement Preparation** (4 videos)
-- **4. 3. The Basics of Balance Sheet Preparation** (5 videos)
-- **5. 4. The Basics of Statement of Cash Flow Preparation** (5 videos)
-- **6. 5. The Basics of Statement of Stockholders' Equity Preparation** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Basics of Financial Statement Preparation]]** (6 videos)
+- **[[#3. 2. The Basics of Income Statement Preparation]]** (4 videos)
+- **[[#4. 3. The Basics of Balance Sheet Preparation]]** (5 videos)
+- **[[#5. 4. The Basics of Statement of Cash Flow Preparation]]** (5 videos)
+- **[[#6. 5. The Basics of Statement of Stockholders' Equity Preparation]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

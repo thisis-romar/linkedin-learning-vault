@@ -31,8 +31,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Empathy%20in%20UX%20Design.md)
-
 ![Empathy in UX Design](https://media.licdn.com/dms/image/v2/D4E0DAQHrfj6kO86P6A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733504573568?e=2147483647&amp;v=beta&amp;t=pApeDVQQTTH7We-OO3QceFw5sCC8TAUGAvIlHB1HGfw)
 
 # Empathy in UX Design
@@ -46,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Empathy and UX** (2 videos)
-- **3. 2. Building Personal Empathy** (7 videos)
-- **4. 3. Empathy in UX Research** (7 videos)
-- **5. 4. Designing and Delivering Empathy** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Empathy and UX]]** (2 videos)
+- **[[#2. Building Personal Empathy]]** (7 videos)
+- **[[#3. Empathy in UX Research]]** (7 videos)
+- **[[#4. Designing and Delivering Empathy]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Empathy and user experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980)
@@ -82,7 +82,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 2. 1. Empathy and UX
+### 1. Empathy and UX
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is empathy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980)
@@ -220,7 +222,9 @@ created: 2026-04-28
 > **Analogies:** picture (1)
 
 
-### 3. 2. Building Personal Empathy
+### 2. Building Personal Empathy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where is your starting point?
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/where-is-your-starting-point?u=76281980)
@@ -630,7 +634,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. Empathy in UX Research
+### 3. Empathy in UX Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing methods to tell a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980)
@@ -1048,7 +1054,9 @@ created: 2026-04-28
 > **CLI Commands:** find (1)
 
 
-### 5. 4. Designing and Delivering Empathy
+### 4. Designing and Delivering Empathy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Storytelling with research findings
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980)
@@ -1363,7 +1371,9 @@ created: 2026-04-28
 > **Warnings:** caution (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use your empathy for good
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980)

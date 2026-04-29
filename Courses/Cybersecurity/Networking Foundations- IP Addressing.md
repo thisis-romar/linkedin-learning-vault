@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. IP Addressing Basics** (6 videos)
-- **3. 2. IP Address Components** (8 videos)
-- **4. 3. CIDR and Aggregation** (4 videos)
-- **5. 4. Special Use Addresses** (3 videos)
-- **6. 5. Some IP Services** (8 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. IP Addressing Basics]]** (6 videos)
+- **[[#2. IP Address Components]]** (8 videos)
+- **[[#3. CIDR and Aggregation]]** (4 videos)
+- **[[#4. Special Use Addresses]]** (3 videos)
+- **[[#5. Some IP Services]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980)
@@ -133,7 +135,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. IP Addressing Basics
+### 1. IP Addressing Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The IP address and its purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980)
@@ -642,7 +646,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. IP Address Components
+### 2. IP Address Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Classful addressing
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/classful-addressing?u=76281980)
@@ -1068,7 +1074,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. CIDR and Aggregation
+### 3. CIDR and Aggregation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IP address prefixes
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980)
@@ -1260,7 +1268,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Special Use Addresses
+### 4. Special Use Addresses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IPv4 to IPv6 translators
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ipv4-to-ipv6-translators?u=76281980)
@@ -1387,7 +1397,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Some IP Services
+### 5. Some IP Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980)
@@ -1910,7 +1922,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980)

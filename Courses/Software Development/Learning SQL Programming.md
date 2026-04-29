@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. Ask for Data from a Database** (7 videos)
-- **3. 2. Ask for Data from Two or More Tables** (4 videos)
-- **4. 3. Data Types, Math, and Helpful Features** (6 videos)
-- **5. 4. Add or Modify Data** (4 videos)
-- **6. Conclusion** (2 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. Ask for Data from a Database]]** (7 videos)
+- **[[#2. Ask for Data from Two or More Tables]]** (4 videos)
+- **[[#3. Data Types, Math, and Helpful Features]]** (6 videos)
+- **[[#4. Add or Modify Data]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning SQL programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980)
@@ -616,7 +618,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Ask for Data from a Database
+### 1. Ask for Data from a Database
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ask for data with SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980)
@@ -1144,7 +1148,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Ask for Data from Two or More Tables
+### 2. Ask for Data from Two or More Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ask for data across two or more tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980)
@@ -1548,7 +1554,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Types, Math, and Helpful Features
+### 3. Data Types, Math, and Helpful Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data types in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980)
@@ -2096,7 +2104,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Add or Modify Data
+### 4. Add or Modify Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add data to a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980)
@@ -2440,7 +2450,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overcoming common SQL mistakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980)

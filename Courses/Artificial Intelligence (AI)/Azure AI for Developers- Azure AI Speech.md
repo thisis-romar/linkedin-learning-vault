@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Azure Speech in Action: Common Use Cases** (1 videos)
-- **3. 2. Speech to Text and Transcription** (5 videos)
-- **4. 3. Text to Speech** (3 videos)
-- **5. 4. Avatars** (3 videos)
-- **6. 5. Advanced Speech Capabilities** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Azure Speech in Action: Common Use Cases]]** (1 videos)
+- **[[#3. 2. Speech to Text and Transcription]]** (5 videos)
+- **[[#4. 3. Text to Speech]]** (3 videos)
+- **[[#5. 4. Avatars]]** (3 videos)
+- **[[#6. 5. Advanced Speech Capabilities]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

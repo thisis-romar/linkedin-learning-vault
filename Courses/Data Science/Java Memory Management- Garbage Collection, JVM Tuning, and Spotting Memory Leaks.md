@@ -50,11 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Garbage Collection** (9 videos)
-- **3. 2. JVM Tuning** (5 videos)
-- **4. 3. Memory Leaks** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Garbage Collection]]** (9 videos)
+- **[[#3. 2. JVM Tuning]]** (5 videos)
+- **[[#4. 3. Memory Leaks]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

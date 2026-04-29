@@ -54,12 +54,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Gemini** (2 videos)
-- **3. 2. Using Gemini Day-to-Day** (8 videos)
-- **4. 3. Advance Your Prompts to Improve Results** (6 videos)
-- **5. 4. Multi-Modal Gemini** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to Gemini]]** (2 videos)
+- **[[#3. 2. Using Gemini Day-to-Day]]** (8 videos)
+- **[[#4. 3. Advance Your Prompts to Improve Results]]** (6 videos)
+- **[[#5. 4. Multi-Modal Gemini]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

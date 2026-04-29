@@ -50,13 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Stakeholder Management** (4 videos)
-- **3. 2. Stakeholder Analysis and Prioritization** (4 videos)
-- **4. 3. Coordinating Stakeholder Relationships** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Stakeholder Management]]** (4 videos)
+- **[[#2. Stakeholder Analysis and Prioritization]]** (4 videos)
+- **[[#3. Coordinating Stakeholder Relationships]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of stakeholder management
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-of-stakeholder-management?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 2. 1. Introduction to Stakeholder Management
+### 1. Introduction to Stakeholder Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying your stakeholders
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/identifying-your-stakeholders?u=76281980)
@@ -411,7 +415,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 3. 2. Stakeholder Analysis and Prioritization
+### 2. Stakeholder Analysis and Prioritization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power/interest stakeholder matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/the-power-interest-stakeholder-matrix?u=76281980)
@@ -766,7 +772,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 4. 3. Coordinating Stakeholder Relationships
+### 3. Coordinating Stakeholder Relationships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Aligning stakeholders with organization strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/aligning-stakeholders-with-organization-strategy?u=76281980)
@@ -1151,7 +1159,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Never stop communicating
 > [LinkedIn Learning](https://www.linkedin.com/learning/stakeholder-management-for-leaders-and-managers/never-stop-communicating?u=76281980)

@@ -41,14 +41,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Planning for a Hybrid Environment** (3 videos)
-- **3. 2. Implementing Security in a Hybrid Workforce** (5 videos)
-- **4. 3. Wrangling User Hardware to Work Properly** (3 videos)
-- **5. 4. Collaboration and Communication** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Planning for a Hybrid Environment]]** (3 videos)
+- **[[#2. Implementing Security in a Hybrid Workforce]]** (5 videos)
+- **[[#3. Wrangling User Hardware to Work Properly]]** (3 videos)
+- **[[#4. Collaboration and Communication]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the needs of a hybrid team
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - your (1)
 
 
-### 2. 1. Planning for a Hybrid Environment
+### 1. Planning for a Hybrid Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are the workforce types that exist today?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980)
@@ -276,7 +280,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Implementing Security in a Hybrid Workforce
+### 2. Implementing Security in a Hybrid Workforce
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do users need to connect?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980)
@@ -614,7 +620,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 4. 3. Wrangling User Hardware to Work Properly
+### 3. Wrangling User Hardware to Work Properly
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What devices will cause the biggest headaches?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980)
@@ -857,7 +865,9 @@ created: 2026-04-28
 > **Best Practices:** it's best to (1)
 
 
-### 5. 4. Collaboration and Communication
+### 4. Collaboration and Communication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How will users communicate with each other?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980)
@@ -1277,7 +1287,9 @@ created: 2026-04-28
 > **Speakers:** - ever (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protecting data and remote users
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/protecting-data-and-remote-users?u=76281980)

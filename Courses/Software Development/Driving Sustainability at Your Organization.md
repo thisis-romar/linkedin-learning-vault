@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Case for Business Sustainability** (4 videos)
-- **3. 2. Foundations of a Sustainable Business** (5 videos)
-- **4. 3. Implementing Sustainability** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Case for Business Sustainability]]** (4 videos)
+- **[[#2. Foundations of a Sustainable Business]]** (5 videos)
+- **[[#3. Implementing Sustainability]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sustainability in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-in-business?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. The Case for Business Sustainability
+### 1. The Case for Business Sustainability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Healthy ecosystems = healthy businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980)
@@ -360,7 +364,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise file (1)
 
 
-### 3. 2. Foundations of a Sustainable Business
+### 2. Foundations of a Sustainable Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Energy efficiencies and renewables
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980)
@@ -742,7 +748,9 @@ created: 2026-04-28
 > **Speakers:** - for (1)
 
 
-### 4. 3. Implementing Sustainability
+### 3. Implementing Sustainability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benchmarking
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980)
@@ -1107,7 +1115,9 @@ created: 2026-04-28
 > **Speakers:** - any (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Actualize your goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980)

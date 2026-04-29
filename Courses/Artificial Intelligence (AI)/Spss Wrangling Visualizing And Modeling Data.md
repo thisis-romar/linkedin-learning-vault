@@ -47,18 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What is SPSS?** (2 videos)
-- **3. 2. Getting Started** (7 videos)
-- **4. 3. Data Visualization** (7 videos)
-- **5. 4. Data Wrangling** (5 videos)
-- **6. 5. Recoding Data** (8 videos)
-- **7. 6. Exploring Data** (7 videos)
-- **8. 7. Clustering and Classification** (6 videos)
-- **9. 8. Analyzing Data** (6 videos)
-- **10. 9. Building Predictive Models** (4 videos)
-- **11. 10. Sharing Your Work** (1 videos)
-- **12. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What is SPSS?]]** (2 videos)
+- **[[#3. 2. Getting Started]]** (7 videos)
+- **[[#4. 3. Data Visualization]]** (7 videos)
+- **[[#5. 4. Data Wrangling]]** (5 videos)
+- **[[#6. 5. Recoding Data]]** (8 videos)
+- **[[#7. 6. Exploring Data]]** (7 videos)
+- **[[#8. 7. Clustering and Classification]]** (6 videos)
+- **[[#9. 8. Analyzing Data]]** (6 videos)
+- **[[#10. 9. Building Predictive Models]]** (4 videos)
+- **[[#11. 10. Sharing Your Work]]** (1 videos)
+- **[[#12. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

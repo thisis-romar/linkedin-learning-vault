@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Catalyzing HR with Generative AI** (2 videos)
-- **3. 2. Generative AI Application in HR** (5 videos)
-- **4. 3. Preparing the Workforce for Generative AI** (5 videos)
-- **5. 4. Legal Considerations and the Future of Generative AI** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Catalyzing HR with Generative AI]]** (2 videos)
+- **[[#2. Generative AI Application in HR]]** (5 videos)
+- **[[#3. Preparing the Workforce for Generative AI]]** (5 videos)
+- **[[#4. Legal Considerations and the Future of Generative AI]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI and the transformation of HR
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/generative-ai-and-the-transformation-of-hr?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. 1. Catalyzing HR with Generative AI
+### 1. Catalyzing HR with Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future of work and the age of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/the-future-of-work-and-the-age-of-generative-ai?u=76281980)
@@ -161,7 +165,9 @@ created: 2026-04-28
 > **Speakers:** - according (1)
 
 
-### 3. 2. Generative AI Application in HR
+### 2. Generative AI Application in HR
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Talent acquisition and onboarding
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/talent-acquisition-and-onboarding?u=76281980)
@@ -485,7 +491,9 @@ created: 2026-04-28
 > **Speakers:** - with (1)
 
 
-### 4. 3. Preparing the Workforce for Generative AI
+### 3. Preparing the Workforce for Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assess organizational readiness
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/assess-organizational-readiness?u=76281980)
@@ -794,7 +802,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 5. 4. Legal Considerations and the Future of Generative AI
+### 4. Legal Considerations and the Future of Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Legal and ethical responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/legal-and-ethical-responsibilities?u=76281980)
@@ -911,7 +921,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your Gen AI for HR journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-in-hr/continue-your-gen-ai-for-hr-journey?u=76281980)

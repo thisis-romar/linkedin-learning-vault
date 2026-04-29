@@ -54,7 +54,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Integrating Non-Blockchain Apps with Ethereum** (5 videos)
+- **[[#1. 1. Integrating Non-Blockchain Apps with Ethereum]]** (5 videos)
 
 ### 1. 1. Integrating Non-Blockchain Apps with Ethereum
 

@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Developing Your Identity Management Program** (3 videos)
-- **3. 2. Developing Your Vulnerability Management Program** (3 videos)
-- **4. 3. Developing Your Threat Management Program** (3 videos)
-- **5. 4. Developing Your Trust Management Program** (3 videos)
-- **6. 5. Developing Security Architecture Patterns** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Developing Your Identity Management Program]]** (3 videos)
+- **[[#2. Developing Your Vulnerability Management Program]]** (3 videos)
+- **[[#3. Developing Your Threat Management Program]]** (3 videos)
+- **[[#4. Developing Your Trust Management Program]]** (3 videos)
+- **[[#5. Developing Security Architecture Patterns]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protect your enterprise with the four disciplines of cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/protect-your-enterprise-with-the-four-disciplines-of-cybersecurity?u=76281980)
@@ -239,7 +241,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Developing Your Identity Management Program
+### 1. Developing Your Identity Management Program
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating your identity management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-identity-management-objectives?u=76281980)
@@ -381,7 +385,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Developing Your Vulnerability Management Program
+### 2. Developing Your Vulnerability Management Program
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating your vulnerability management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980)
@@ -555,7 +561,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Developing Your Threat Management Program
+### 3. Developing Your Threat Management Program
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating your threat management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980)
@@ -691,7 +699,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Developing Your Trust Management Program
+### 4. Developing Your Trust Management Program
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating your trust management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980)
@@ -839,7 +849,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Developing Security Architecture Patterns
+### 5. Developing Security Architecture Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building an enterprise reference security architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980)
@@ -941,7 +953,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980)

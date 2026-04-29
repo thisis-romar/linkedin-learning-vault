@@ -55,14 +55,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Probability** (5 videos)
-- **3. 2. The Rules of Probability** (6 videos)
-- **4. 3. The Joint and Marginal Probability** (3 videos)
-- **5. 4. Discrete Probability Distributions** (6 videos)
-- **6. 5. Continuous Probability Distributions** (3 videos)
-- **7. 6. The Bayes' Theorem** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Probability]]** (5 videos)
+- **[[#3. 2. The Rules of Probability]]** (6 videos)
+- **[[#4. 3. The Joint and Marginal Probability]]** (3 videos)
+- **[[#5. 4. Discrete Probability Distributions]]** (6 videos)
+- **[[#6. 5. Continuous Probability Distributions]]** (3 videos)
+- **[[#7. 6. The Bayes' Theorem]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

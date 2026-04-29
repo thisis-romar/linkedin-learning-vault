@@ -46,10 +46,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Excel Dashboard Components** (4 videos)
-- **3. 2. Creating Your First Dashboard** (5 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Excel Dashboard Components]]** (4 videos)
+- **[[#3. 2. Creating Your First Dashboard]]** (5 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

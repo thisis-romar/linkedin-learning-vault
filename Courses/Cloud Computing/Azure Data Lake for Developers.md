@@ -41,14 +41,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Azure Data Lake** (4 videos)
-- **3. 2. Hierarchical Namespaces** (3 videos)
-- **4. 3. Data Access in Azure Data Lake** (4 videos)
-- **5. 4. Security in Azure Data Lake** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Azure Data Lake]]** (4 videos)
+- **[[#2. Hierarchical Namespaces]]** (3 videos)
+- **[[#3. Data Access in Azure Data Lake]]** (4 videos)
+- **[[#4. Security in Azure Data Lake]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Azure Data Lake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Azure Data Lake
+### 1. Introduction to Azure Data Lake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure Storage overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980)
@@ -503,7 +507,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1), is an  (1)
 
 
-### 3. 2. Hierarchical Namespaces
+### 2. Hierarchical Namespaces
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a hierarchical namespace?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980)
@@ -683,7 +689,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Data Access in Azure Data Lake
+### 3. Data Access in Azure Data Lake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are the options for accessing data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980)
@@ -1191,7 +1199,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Security in Azure Data Lake
+### 4. Security in Azure Data Lake
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SAS tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980)
@@ -1534,7 +1544,9 @@ created: 2026-04-28
 > **CLI Commands:** dotnet (1), find (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### More Azure Data Lake resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980)

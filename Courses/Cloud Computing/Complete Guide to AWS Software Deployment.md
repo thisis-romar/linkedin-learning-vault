@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. AWS Elastic Compute Cloud (EC2) Foundations** (5 videos)
-- **3. 2. EC2 Creation and Provisioning** (13 videos)
-- **4. 3. Deployment Concepts** (3 videos)
-- **5. 4. Elastic Beanstalk** (10 videos)
-- **6. 5. CodeDeploy** (18 videos)
-- **7. 6. Elastic Container Service** (7 videos)
-- **8. 7. Automating ECS Deployments** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. AWS Elastic Compute Cloud (EC2) Foundations]]** (5 videos)
+- **[[#3. 2. EC2 Creation and Provisioning]]** (13 videos)
+- **[[#4. 3. Deployment Concepts]]** (3 videos)
+- **[[#5. 4. Elastic Beanstalk]]** (10 videos)
+- **[[#6. 5. CodeDeploy]]** (18 videos)
+- **[[#7. 6. Elastic Container Service]]** (7 videos)
+- **[[#8. 7. Automating ECS Deployments]]** (6 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

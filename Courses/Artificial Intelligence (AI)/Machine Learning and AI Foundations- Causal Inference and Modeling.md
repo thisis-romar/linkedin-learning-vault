@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Experimental Design and Statistical Controls** (10 videos)
-- **3. 2. Conditional Probability and Bayes' Theorem** (8 videos)
-- **4. 3. Prediction and Proof with Bayesian statistics** (6 videos)
-- **5. 4. Causal Modeling with Structural Equation Modeling (SEM)** (6 videos)
-- **6. 5. Causal Modeling with Bayesian Networks** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Experimental Design and Statistical Controls]]** (10 videos)
+- **[[#3. 2. Conditional Probability and Bayes' Theorem]]** (8 videos)
+- **[[#4. 3. Prediction and Proof with Bayesian statistics]]** (6 videos)
+- **[[#5. 4. Causal Modeling with Structural Equation Modeling (SEM)]]** (6 videos)
+- **[[#6. 5. Causal Modeling with Bayesian Networks]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

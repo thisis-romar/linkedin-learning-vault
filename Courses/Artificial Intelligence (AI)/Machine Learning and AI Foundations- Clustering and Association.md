@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. What Is Cluster Analysis?** (6 videos)
-- **3. 2. K-Means** (11 videos)
-- **4. 3. Visualizing and Reporting Cluster Solutions** (3 videos)
-- **5. 4. HDBSCAN** (2 videos)
-- **6. 5. Cluster Methods for Categorical Variables** (7 videos)
-- **7. 6. Anomaly Detection** (4 videos)
-- **8. 7. Association Rules and Sequence Detection** (7 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. What Is Cluster Analysis?]]** (6 videos)
+- **[[#3. 2. K-Means]]** (11 videos)
+- **[[#4. 3. Visualizing and Reporting Cluster Solutions]]** (3 videos)
+- **[[#5. 4. HDBSCAN]]** (2 videos)
+- **[[#6. 5. Cluster Methods for Categorical Variables]]** (7 videos)
+- **[[#7. 6. Anomaly Detection]]** (4 videos)
+- **[[#8. 7. Association Rules and Sequence Detection]]** (7 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

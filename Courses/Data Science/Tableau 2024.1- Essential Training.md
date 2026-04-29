@@ -48,20 +48,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introducing Tableau** (4 videos)
-- **3. 2. Managing Data Sources and Visualizations** (7 videos)
-- **4. 3. Managing Tableau Worksheets and Workbooks** (9 videos)
-- **5. 4. Creating Custom Calculations and Fields** (5 videos)
-- **6. 5. Analyzing Data** (5 videos)
-- **7. 6. Sorting and Filtering Tableau Data** (9 videos)
-- **8. 7. Defining Groups and Sets** (8 videos)
-- **9. 8. Creating Basic Visualizations** (8 videos)
-- **10. 9. Formatting Tableau Visualizations** (6 videos)
-- **11. 10. Annotating and Formatting Visualizations** (5 videos)
-- **12. 11. Mapping Geographic Data** (5 videos)
-- **13. 12. Creating Dashboards and Actions** (7 videos)
-- **14. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introducing Tableau]]** (4 videos)
+- **[[#3. 2. Managing Data Sources and Visualizations]]** (7 videos)
+- **[[#4. 3. Managing Tableau Worksheets and Workbooks]]** (9 videos)
+- **[[#5. 4. Creating Custom Calculations and Fields]]** (5 videos)
+- **[[#6. 5. Analyzing Data]]** (5 videos)
+- **[[#7. 6. Sorting and Filtering Tableau Data]]** (9 videos)
+- **[[#8. 7. Defining Groups and Sets]]** (8 videos)
+- **[[#9. 8. Creating Basic Visualizations]]** (8 videos)
+- **[[#10. 9. Formatting Tableau Visualizations]]** (6 videos)
+- **[[#11. 10. Annotating and Formatting Visualizations]]** (5 videos)
+- **[[#12. 11. Mapping Geographic Data]]** (5 videos)
+- **[[#13. 12. Creating Dashboards and Actions]]** (7 videos)
+- **[[#14. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

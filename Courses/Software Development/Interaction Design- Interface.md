@@ -39,13 +39,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Visual Principles** (4 videos)
-- **3. 2. Visual Interface Design** (4 videos)
-- **4. 3. Taking Visual Design Further** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Visual Principles]]** (4 videos)
+- **[[#2. Visual Interface Design]]** (4 videos)
+- **[[#3. Taking Visual Design Further]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/introducing-the-interface?u=76281980)
@@ -73,7 +75,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. Visual Principles
+### 1. Visual Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Aesthetics in user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980)
@@ -336,7 +340,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Visual Interface Design
+### 2. Visual Interface Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Grids and information density
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/grids-and-information-density?u=76281980)
@@ -614,7 +620,9 @@ created: 2026-04-28
 > **Speakers:** - principles (1)
 
 
-### 4. 3. Taking Visual Design Further
+### 3. Taking Visual Design Further
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Incorporate illustrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980)
@@ -800,7 +808,9 @@ created: 2026-04-28
 > **Speakers:** - animation (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take the interface further
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/take-the-interface-further?u=76281980)

@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Constructing Query Source Data Sets** (5 videos)
-- **3. 2. Row Filters** (3 videos)
-- **4. 3. Grouping** (5 videos)
-- **5. 4. Ordering and Paging** (3 videos)
-- **6. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Constructing Query Source Data Sets]]** (5 videos)
+- **[[#3. 2. Row Filters]]** (3 videos)
+- **[[#4. 3. Grouping]]** (5 videos)
+- **[[#5. 4. Ordering and Paging]]** (3 videos)
+- **[[#6. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

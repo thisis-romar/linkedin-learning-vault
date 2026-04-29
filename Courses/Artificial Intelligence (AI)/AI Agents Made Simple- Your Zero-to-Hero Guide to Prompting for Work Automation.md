@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting to Know AI Agents** (3 videos)
-- **3. 2. Agent Prompting Fundamentals: Asking for What You Need** (3 videos)
-- **4. 3. Intermediate Techniques: Breaking It Down** (6 videos)
-- **5. 4. Advanced Techniques: Thinking and Acting** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting to Know AI Agents]]** (3 videos)
+- **[[#3. 2. Agent Prompting Fundamentals: Asking for What You Need]]** (3 videos)
+- **[[#4. 3. Intermediate Techniques: Breaking It Down]]** (6 videos)
+- **[[#5. 4. Advanced Techniques: Thinking and Acting]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

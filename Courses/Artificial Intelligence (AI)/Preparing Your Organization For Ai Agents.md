@@ -51,11 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. How AI Agents Will Change Business** (7 videos)
-- **3. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. How AI Agents Will Change Business]]** (7 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leading AI-driven change
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980)
@@ -185,7 +187,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. How AI Agents Will Change Business
+### 1. How AI Agents Will Change Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accelerating organizational change with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980)
@@ -592,7 +596,9 @@ created: 2026-04-28
 > **Speakers:** - sales (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing for a future with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/preparing-for-a-future-with-ai-agents?u=76281980)

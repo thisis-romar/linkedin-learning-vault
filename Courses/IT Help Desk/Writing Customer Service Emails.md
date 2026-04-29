@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Answer the Customer's Question** (6 videos)
-- **3. 2. Show Customers You've Read Their Email** (5 videos)
-- **4. 3. Use an Engaging Tone with Customers** (2 videos)
-- **5. 4. If You Must Apologize, Be Sincere** (6 videos)
-- **6. 5. Customize Templates to Avoid Sounding Robotic** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Answer the Customer's Question]]** (6 videos)
+- **[[#3. 2. Show Customers You've Read Their Email]]** (5 videos)
+- **[[#4. 3. Use an Engaging Tone with Customers]]** (2 videos)
+- **[[#5. 4. If You Must Apologize, Be Sincere]]** (6 videos)
+- **[[#6. 5. Customize Templates to Avoid Sounding Robotic]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

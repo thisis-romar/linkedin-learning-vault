@@ -50,17 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Building Circuits** (2 videos)
-- **3. 2. Resistors** (4 videos)
-- **4. 3. Resistive Circuits** (10 videos)
-- **5. 4. Oscilloscope Measurements** (4 videos)
-- **6. 5. Capacitors** (9 videos)
-- **7. 6. Alternating Current** (3 videos)
-- **8. 7. Electrical Signals** (3 videos)
-- **9. 8. Reactive Circuits** (10 videos)
-- **10. 9. Inductors** (5 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Building Circuits]]** (2 videos)
+- **[[#3. 2. Resistors]]** (4 videos)
+- **[[#4. 3. Resistive Circuits]]** (10 videos)
+- **[[#5. 4. Oscilloscope Measurements]]** (4 videos)
+- **[[#6. 5. Capacitors]]** (9 videos)
+- **[[#7. 6. Alternating Current]]** (3 videos)
+- **[[#8. 7. Electrical Signals]]** (3 videos)
+- **[[#9. 8. Reactive Circuits]]** (10 videos)
+- **[[#10. 9. Inductors]]** (5 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

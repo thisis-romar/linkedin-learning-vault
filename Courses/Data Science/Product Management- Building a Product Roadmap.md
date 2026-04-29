@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Product Roadmap Foundations** (4 videos)
-- **3. 2. Laying the Groundwork for Your Product Roadmap** (5 videos)
-- **4. 3. Product Roadmap: Decision-Making and Alignment** (4 videos)
-- **5. 4. Common Challenges in a Product Roadmap** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Product Roadmap Foundations]]** (4 videos)
+- **[[#2. Laying the Groundwork for Your Product Roadmap]]** (5 videos)
+- **[[#3. Product Roadmap: Decision-Making and Alignment]]** (4 videos)
+- **[[#4. Common Challenges in a Product Roadmap]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started in building your product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/getting-started-in-building-your-product-roadmap?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Code Keywords:** let (2)
 
 
-### 2. 1. Product Roadmap Foundations
+### 1. Product Roadmap Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Product roadmap definition and purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980)
@@ -310,7 +314,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 3. 2. Laying the Groundwork for Your Product Roadmap
+### 2. Laying the Groundwork for Your Product Roadmap
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of process when developing a product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980)
@@ -660,7 +666,9 @@ created: 2026-04-28
 > **Speakers:** - suppose (1)
 
 
-### 4. 3. Product Roadmap: Decision-Making and Alignment
+### 3. Product Roadmap: Decision-Making and Alignment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify key milestones for high-impact product roadmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980)
@@ -940,7 +948,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 5. 4. Common Challenges in a Product Roadmap
+### 4. Common Challenges in a Product Roadmap
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evangelize the product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980)
@@ -1076,7 +1086,9 @@ created: 2026-04-28
 > **Speakers:** - even (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three steps for building your product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980)

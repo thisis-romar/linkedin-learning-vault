@@ -53,14 +53,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Introduction to Jupyter Notebook and Python** (5 videos)
-- **3. 2. Array/Python List** (6 videos)
-- **4. 3. String in Python** (5 videos)
-- **5. 4. Two-Dimensional Array** (5 videos)
-- **6. 5. Time Complexity and Big O** (8 videos)
-- **7. 6. Hash Table/Python Dictionary** (5 videos)
-- **8. 7. FAQ about Coding Interviews** (3 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Introduction to Jupyter Notebook and Python]]** (5 videos)
+- **[[#3. 2. Array/Python List]]** (6 videos)
+- **[[#4. 3. String in Python]]** (5 videos)
+- **[[#5. 4. Two-Dimensional Array]]** (5 videos)
+- **[[#6. 5. Time Complexity and Big O]]** (8 videos)
+- **[[#7. 6. Hash Table/Python Dictionary]]** (5 videos)
+- **[[#8. 7. FAQ about Coding Interviews]]** (3 videos)
 
 ### 1. Introduction
 

@@ -43,13 +43,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Guiding Principles of Responsible AI in Management** (2 videos)
-- **3. 2. Accountability for Responsible AI in Management** (2 videos)
-- **4. 3. Management Practices in AI Implementation** (2 videos)
-- **5. 4. Responsible AI: Real-World Examples in Management** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Guiding Principles of Responsible AI in Management]]** (2 videos)
+- **[[#2. Accountability for Responsible AI in Management]]** (2 videos)
+- **[[#3. Management Practices in AI Implementation]]** (2 videos)
+- **[[#4. Responsible AI: Real-World Examples in Management]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The manager's role in responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/the-manager-s-role-in-responsible-ai?u=76281980)
@@ -71,7 +73,9 @@ created: 2026-04-28
 > **Speakers:** - many (1)
 
 
-### 2. 1. Guiding Principles of Responsible AI in Management
+### 1. Guiding Principles of Responsible AI in Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ethical AI principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980)
@@ -173,7 +177,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 3. 2. Accountability for Responsible AI in Management
+### 2. Accountability for Responsible AI in Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data privacy and safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980)
@@ -301,7 +307,9 @@ created: 2026-04-28
 > **Speakers:** - hr (1)
 
 
-### 4. 3. Management Practices in AI Implementation
+### 3. Management Practices in AI Implementation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI  and decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980)
@@ -431,7 +439,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. 4. Responsible AI: Real-World Examples in Management
+### 4. Responsible AI: Real-World Examples in Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responsible AI in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980)

@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Get Started** (2 videos)
-- **3. 2. Work with Files and Folders** (6 videos)
-- **4. 3. Use OneDrive with Microsoft 365** (5 videos)
-- **5. 4. Collaborate with Others** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Get Started]]** (2 videos)
+- **[[#2. Work with Files and Folders]]** (6 videos)
+- **[[#3. Use OneDrive with Microsoft 365]]** (5 videos)
+- **[[#4. Collaborate with Others]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collaborate with your team using OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980)
@@ -122,7 +124,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Get Started
+### 1. Get Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sign in, access, and navigate OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980)
@@ -333,7 +337,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 3. 2. Work with Files and Folders
+### 2. Work with Files and Folders
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Upload files via the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980)
@@ -930,7 +936,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Use OneDrive with Microsoft 365
+### 3. Use OneDrive with Microsoft 365
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Save a file to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980)
@@ -1368,7 +1376,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Collaborate with Others
+### 4. Collaborate with Others
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Share files and use an expiring link
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980)
@@ -1798,7 +1808,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Master the Microsoft 365 Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980)

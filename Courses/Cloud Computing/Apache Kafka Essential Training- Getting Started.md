@@ -49,14 +49,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Kafka** (6 videos)
-- **3. 2. Basic Concepts** (5 videos)
-- **4. 3. Using Kafka Command Line** (7 videos)
-- **5. 4. Kafka Partitions and Groups** (6 videos)
-- **6. 5. Kafka Java Programming** (5 videos)
-- **7. 6. Use Case Project** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to Kafka]]** (6 videos)
+- **[[#3. 2. Basic Concepts]]** (5 videos)
+- **[[#4. 3. Using Kafka Command Line]]** (7 videos)
+- **[[#5. 4. Kafka Partitions and Groups]]** (6 videos)
+- **[[#6. 5. Kafka Java Programming]]** (5 videos)
+- **[[#7. 6. Use Case Project]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

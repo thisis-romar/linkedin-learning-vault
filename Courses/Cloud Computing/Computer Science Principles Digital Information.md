@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Innovation and Technology** (2 videos)
-- **3. 2. Computer Communications** (4 videos)
-- **4. 3. Number Systems** (4 videos)
-- **5. 4. Encoding and Sending Text** (2 videos)
-- **6. 5. Working with Large Amounts of Data** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Innovation and Technology]]** (2 videos)
+- **[[#2. Computer Communications]]** (4 videos)
+- **[[#3. Number Systems]]** (4 videos)
+- **[[#4. Encoding and Sending Text]]** (2 videos)
+- **[[#5. Working with Large Amounts of Data]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980)
@@ -176,7 +178,9 @@ created: 2026-04-28
 > **Speakers:** - [voiceover] (1)
 
 
-### 2. 1. Innovation and Technology
+### 1. Innovation and Technology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### History of innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980)
@@ -363,7 +367,9 @@ created: 2026-04-28
 > **Speakers:** - with (1)
 
 
-### 3. 2. Computer Communications
+### 2. Computer Communications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Yes and no answers with binary
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/yes-and-no-answers-with-binary?u=76281980)
@@ -728,7 +734,9 @@ created: 2026-04-28
 > **Speakers:** - transmitting (1)
 
 
-### 4. 3. Number Systems
+### 3. Number Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Abstraction of numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/abstraction-of-numbers?u=76281980)
@@ -1151,7 +1159,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. 4. Encoding and Sending Text
+### 4. Encoding and Sending Text
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ASCII and Unicode
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/ascii-and-unicode?u=76281980)
@@ -1287,7 +1297,9 @@ created: 2026-04-28
 > **Speakers:** - [voiceover] (1)
 
 
-### 6. 5. Working with Large Amounts of Data
+### 5. Working with Large Amounts of Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### File sizes and bytes
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/file-sizes-and-bytes?u=76281980)
@@ -1701,7 +1713,9 @@ created: 2026-04-28
 > **Speakers:** - images (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/summary?u=76281980)

@@ -39,15 +39,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Critical Tasks in Corporate Finance** (7 videos)
-- **3. 2. Project Selection in Excel** (8 videos)
-- **4. 3. WACC and Capital Structure in Excel** (8 videos)
-- **5. 4. Operational Budgeting in Excel** (6 videos)
-- **6. 5. Valuation in Excel** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Critical Tasks in Corporate Finance]]** (7 videos)
+- **[[#2. Project Selection in Excel]]** (8 videos)
+- **[[#3. WACC and Capital Structure in Excel]]** (8 videos)
+- **[[#4. Operational Budgeting in Excel]]** (6 videos)
+- **[[#5. Valuation in Excel]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Excel's tools for corporate finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980)
@@ -75,7 +77,9 @@ created: 2026-04-28
 > **Speakers:** - did (1)
 
 
-### 2. 1. Critical Tasks in Corporate Finance
+### 1. Critical Tasks in Corporate Finance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describe corporate finance and its purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980)
@@ -739,7 +743,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Project Selection in Excel
+### 2. Project Selection in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define a capital budgeting scenario in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980)
@@ -1750,7 +1756,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. WACC and Capital Structure in Excel
+### 3. WACC and Capital Structure in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Capital structure in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/capital-structure-in-excel?u=76281980)
@@ -2729,7 +2737,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Operational Budgeting in Excel
+### 4. Operational Budgeting in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduce operational budgeting in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980)
@@ -3391,7 +3401,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Valuation in Excel
+### 5. Valuation in Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Valuation of assets in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980)
@@ -4033,7 +4045,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your corporate finance journey with Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980)

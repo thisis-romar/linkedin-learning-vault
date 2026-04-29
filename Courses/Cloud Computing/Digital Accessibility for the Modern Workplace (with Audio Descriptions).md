@@ -44,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding Accessibility** (4 videos)
-- **3. 2. Disability Types and Solutions** (4 videos)
-- **4. 3. Developing Accessible Experiences** (5 videos)
-- **5. 4. Accessibility Best Practices** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Accessibility]]** (4 videos)
+- **[[#2. Disability Types and Solutions]]** (4 videos)
+- **[[#3. Developing Accessible Experiences]]** (5 videos)
+- **[[#4. Accessibility Best Practices]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessibility at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/accessibility-at-work?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Non-Speech:** (gentle music) (1)
 
 
-### 2. 1. Understanding Accessibility
+### 1. Understanding Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/importance-of-accessibility?u=76281980)
@@ -438,7 +442,9 @@ created: 2026-04-28
 > **Warnings:** be careful (1)
 
 
-### 3. 2. Disability Types and Solutions
+### 2. Disability Types and Solutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hearing accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/hearing-accessibility?u=76281980)
@@ -1003,7 +1009,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 4. 3. Developing Accessible Experiences
+### 3. Developing Accessible Experiences
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing accessible experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/developing-accessible-experiences?u=76281980)
@@ -1471,7 +1479,9 @@ created: 2026-04-28
 > **Best Practices:** recommended (1)
 
 
-### 5. 4. Accessibility Best Practices
+### 4. Accessibility Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessibility best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace-with-audio-descriptions/accessibility-best-practices?u=76281980)

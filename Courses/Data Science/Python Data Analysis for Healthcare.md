@@ -57,14 +57,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Data Analysis for Healthcare** (6 videos)
-- **3. 2. Analyze Visit Data from an Outpatient Clinic Using Python** (11 videos)
-- **4. 3. Medication Demand Forecasting Using Python** (5 videos)
-- **5. 4. Patient Experience Analytics Using Python** (2 videos)
-- **6. 5. Public Health Facilities GeoSpatial Analysis Using Python** (5 videos)
-- **7. 6. Healthcare Data Wrangling Using Python** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Data Analysis for Healthcare]]** (6 videos)
+- **[[#3. 2. Analyze Visit Data from an Outpatient Clinic Using Python]]** (11 videos)
+- **[[#4. 3. Medication Demand Forecasting Using Python]]** (5 videos)
+- **[[#5. 4. Patient Experience Analytics Using Python]]** (2 videos)
+- **[[#6. 5. Public Health Facilities GeoSpatial Analysis Using Python]]** (5 videos)
+- **[[#7. 6. Healthcare Data Wrangling Using Python]]** (2 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

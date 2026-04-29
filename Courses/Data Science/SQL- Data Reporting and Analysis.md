@@ -56,15 +56,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Prepare to Code in SQL** (3 videos)
-- **3. 2. Use SQL to Report Data** (12 videos)
-- **4. 3. Group Your SQL Results** (6 videos)
-- **5. 4. Merge Data from Multiple Tables** (10 videos)
-- **6. 5. More Advanced SQL** (4 videos)
-- **7. Continuing Your SQL Learning Journey** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Prepare to Code in SQL]]** (3 videos)
+- **[[#2. Use SQL to Report Data]]** (12 videos)
+- **[[#3. Group Your SQL Results]]** (6 videos)
+- **[[#4. Merge Data from Multiple Tables]]** (10 videos)
+- **[[#5. More Advanced SQL]]** (4 videos)
+- **[[#Continuing Your SQL Learning Journey]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Don't let your reporting system hold you back
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980)
@@ -229,7 +231,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 2. 1. Prepare to Code in SQL
+### 1. Prepare to Code in SQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get familiar with phpMyAdmin
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980)
@@ -429,7 +433,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Use SQL to Report Data
+### 2. Use SQL to Report Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Retrieve data with SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980)
@@ -1503,7 +1509,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Group Your SQL Results
+### 3. Group Your SQL Results
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use GROUP BY with count
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980)
@@ -1991,7 +1999,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Merge Data from Multiple Tables
+### 4. Merge Data from Multiple Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make your queries faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980)
@@ -2959,7 +2969,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 6. 5. More Advanced SQL
+### 5. More Advanced SQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Save your queries using a VIEW
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980)
@@ -3526,7 +3538,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Continuing Your SQL Learning Journey
+### Continuing Your SQL Learning Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980)

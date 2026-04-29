@@ -46,10 +46,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Action Basics** (4 videos)
-- **3. 2. Publishing a Marketplace Action** (6 videos)
-- **4. Conclusion** (0 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Action Basics]]** (4 videos)
+- **[[#3. 2. Publishing a Marketplace Action]]** (6 videos)
+- **[[#4. Conclusion]]** (0 videos)
 
 ### 1. Introduction
 

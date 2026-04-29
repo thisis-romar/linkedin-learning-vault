@@ -55,12 +55,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Data Warehouses** (6 videos)
-- **3. 2. Dimension Modeling** (6 videos)
-- **4. 3. Create Your First Data Warehouse** (3 videos)
-- **5. 4. Modern Data Warehouses** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to Data Warehouses]]** (6 videos)
+- **[[#3. 2. Dimension Modeling]]** (6 videos)
+- **[[#4. 3. Create Your First Data Warehouse]]** (3 videos)
+- **[[#5. 4. Modern Data Warehouses]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

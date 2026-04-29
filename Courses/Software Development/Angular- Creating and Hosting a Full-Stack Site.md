@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Creating an Angular Front End** (14 videos)
-- **3. 2. Creating a Node Back End** (7 videos)
-- **4. 3. Adding MySQL to Your Back End** (10 videos)
-- **5. 4. Connecting the Front and Back Ends** (7 videos)
-- **6. 5. Authentication** (9 videos)
-- **7. 6. Hosting Your Site** (6 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Creating an Angular Front End]]** (14 videos)
+- **[[#2. Creating a Node Back End]]** (7 videos)
+- **[[#3. Adding MySQL to Your Back End]]** (10 videos)
+- **[[#4. Connecting the Front and Back Ends]]** (7 videos)
+- **[[#5. Authentication]]** (9 videos)
+- **[[#6. Hosting Your Site]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Front-end to back-end creating and hosting a full-stack site
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980)
@@ -240,7 +242,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Creating an Angular Front End
+### 1. Creating an Angular Front End
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why Angular?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980)
@@ -1683,7 +1687,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creating a Node Back End
+### 2. Creating a Node Back End
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980)
@@ -2221,7 +2227,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Adding MySQL to Your Back End
+### 3. Adding MySQL to Your Back End
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why MySQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980)
@@ -3178,7 +3186,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Connecting the Front and Back Ends
+### 4. Connecting the Front and Back Ends
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Services in Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980)
@@ -3887,7 +3897,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Authentication
+### 5. Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Firebase Auth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980)
@@ -4652,7 +4664,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Hosting Your Site
+### 6. Hosting Your Site
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Move a full-stack app to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980)
@@ -5236,7 +5250,9 @@ created: 2026-04-28
  (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980)

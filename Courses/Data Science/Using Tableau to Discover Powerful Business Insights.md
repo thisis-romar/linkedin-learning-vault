@@ -57,16 +57,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introducing Tableau** (6 videos)
-- **3. 2. Connecting to Data** (9 videos)
-- **4. 3. Exploring Data and Building Visualizations** (12 videos)
-- **5. 4. Sharing Insights** (6 videos)
-- **6. 5. Tableau Concepts** (5 videos)
-- **7. 6. Expanding Your Tableau Skills** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introducing Tableau]]** (6 videos)
+- **[[#2. Connecting to Data]]** (9 videos)
+- **[[#3. Exploring Data and Building Visualizations]]** (12 videos)
+- **[[#4. Sharing Insights]]** (6 videos)
+- **[[#5. Tableau Concepts]]** (5 videos)
+- **[[#6. Expanding Your Tableau Skills]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Tableau to create business insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 2. 1. Introducing Tableau
+### 1. Introducing Tableau
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Tableau?
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980)
@@ -519,7 +523,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Connecting to Data
+### 2. Connecting to Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data connection screen
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980)
@@ -1092,7 +1098,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Exploring Data and Building Visualizations
+### 3. Exploring Data and Building Visualizations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Interface overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980)
@@ -1872,7 +1880,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Sharing Insights
+### 4. Sharing Insights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dashboard interface overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980)
@@ -2303,7 +2313,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Tableau Concepts
+### 5. Tableau Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dimension vs. measure
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dimension-vs-measure?u=76281980)
@@ -2646,7 +2658,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Expanding Your Tableau Skills
+### 6. Expanding Your Tableau Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Public Tableau forums
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tableau-public-forums?u=76281980)
@@ -2802,7 +2816,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrap up your Tableau journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980)

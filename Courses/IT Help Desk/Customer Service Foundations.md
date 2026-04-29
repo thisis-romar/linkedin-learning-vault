@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Building Your Customer Service Skills** (4 videos)
-- **3. 2. Building Rapport with Your Customers** (4 videos)
-- **4. 3. Exceeding Customer Expectations** (5 videos)
-- **5. 4. Solving Customer Service Challenges** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Building Your Customer Service Skills]]** (4 videos)
+- **[[#2. Building Rapport with Your Customers]]** (4 videos)
+- **[[#3. Exceeding Customer Expectations]]** (5 videos)
+- **[[#4. Solving Customer Service Challenges]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keeping your customers happy
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/keeping-your-customers-happy?u=76281980)
@@ -148,7 +150,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 2. 1. Building Your Customer Service Skills
+### 1. Building Your Customer Service Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/defining-customer-service?u=76281980)
@@ -473,7 +477,9 @@ created: 2026-04-28
 > **Speakers:** - burnout (1)
 
 
-### 3. 2. Building Rapport with Your Customers
+### 2. Building Rapport with Your Customers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connecting rapport to outstanding service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/connecting-rapport-to-outstanding-service?u=76281980)
@@ -853,7 +859,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 4. 3. Exceeding Customer Expectations
+### 3. Exceeding Customer Expectations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Uncovering customer needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/uncovering-customer-needs?u=76281980)
@@ -1336,7 +1344,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 5. 4. Solving Customer Service Challenges
+### 4. Solving Customer Service Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking ownership of problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/taking-ownership-of-problems?u=76281980)
@@ -1967,7 +1977,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing to build your customer service skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/continuing-to-build-your-customer-service-skills?u=76281980)

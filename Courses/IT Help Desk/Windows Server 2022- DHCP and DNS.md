@@ -49,18 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. DHCP Overview** (3 videos)
-- **3. 2. Setting Up DHCP** (6 videos)
-- **4. 3. Managing DHCP** (6 videos)
-- **5. 4. Advanced DHCP** (6 videos)
-- **6. 5. DNS Overview** (3 videos)
-- **7. 6. Deploying DNS** (3 videos)
-- **8. 7. DNS Zones** (4 videos)
-- **9. 8. DNS Resource Records** (4 videos)
-- **10. 9. Advanced DNS** (3 videos)
-- **11. 10. DNS Security** (4 videos)
-- **12. 11. DHCP and DNS Management** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. DHCP Overview]]** (3 videos)
+- **[[#3. 2. Setting Up DHCP]]** (6 videos)
+- **[[#4. 3. Managing DHCP]]** (6 videos)
+- **[[#5. 4. Advanced DHCP]]** (6 videos)
+- **[[#6. 5. DNS Overview]]** (3 videos)
+- **[[#7. 6. Deploying DNS]]** (3 videos)
+- **[[#8. 7. DNS Zones]]** (4 videos)
+- **[[#9. 8. DNS Resource Records]]** (4 videos)
+- **[[#10. 9. Advanced DNS]]** (3 videos)
+- **[[#11. 10. DNS Security]]** (4 videos)
+- **[[#12. 11. DHCP and DNS Management]]** (2 videos)
 
 ### 1. Introduction
 

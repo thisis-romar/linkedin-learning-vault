@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction: Diving Into Cryptography** (3 videos)
-- **2. 1. Clarifying Cryptography Concepts** (2 videos)
-- **3. 2. Types of Cryptography Methods** (7 videos)
-- **4. 3. Examining the Fundamental of Cryptographic Algorithms** (5 videos)
-- **5. 4. Explaining Public Key Infrastructure (PKI)** (5 videos)
-- **6. 5. Investigating Cryptoanalysis** (6 videos)
-- **7. 6. Guidelines and Standards** (1 videos)
-- **8. Conclusion** (2 videos)
+- **[[#Introduction: Diving Into Cryptography]]** (3 videos)
+- **[[#1. Clarifying Cryptography Concepts]]** (2 videos)
+- **[[#2. Types of Cryptography Methods]]** (7 videos)
+- **[[#3. Examining the Fundamental of Cryptographic Algorithms]]** (5 videos)
+- **[[#4. Explaining Public Key Infrastructure (PKI)]]** (5 videos)
+- **[[#5. Investigating Cryptoanalysis]]** (6 videos)
+- **[[#6. Guidelines and Standards]]** (1 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction: Diving Into Cryptography
+### Introduction: Diving Into Cryptography
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Take a crack at cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980)
@@ -204,7 +206,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. Clarifying Cryptography Concepts
+### 1. Clarifying Cryptography Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding cryptography terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980)
@@ -426,7 +430,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Types of Cryptography Methods
+### 2. Types of Cryptography Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Symmetric cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980)
@@ -1255,7 +1261,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Examining the Fundamental of Cryptographic Algorithms
+### 3. Examining the Fundamental of Cryptographic Algorithms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Desirable qualities of an algorithm and key
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980)
@@ -1853,7 +1861,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Explaining Public Key Infrastructure (PKI)
+### 4. Explaining Public Key Infrastructure (PKI)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fundamentals of public key infrastructure (PKI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980)
@@ -2411,7 +2421,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Investigating Cryptoanalysis
+### 5. Investigating Cryptoanalysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cryptanalysis goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980)
@@ -2921,7 +2933,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. Guidelines and Standards
+### 6. Guidelines and Standards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Guidelines and standards in cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980)
@@ -3010,7 +3024,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fusion of AI and quantum cryptography: What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980)

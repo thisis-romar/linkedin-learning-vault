@@ -47,10 +47,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Taxonomy Explained** (5 videos)
-- **3. 2. Media Explained** (3 videos)
-- **4. 3. Modules Explained** (8 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Taxonomy Explained]]** (5 videos)
+- **[[#3. 2. Media Explained]]** (3 videos)
+- **[[#4. 3. Modules Explained]]** (8 videos)
 
 ### 1. Introduction
 

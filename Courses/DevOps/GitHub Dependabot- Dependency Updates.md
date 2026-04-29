@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Dependabot Features and Use Cases** (5 videos)
-- **3. 2. Dependabot and Python** (5 videos)
-- **4. 3. Dependabot and PHP** (5 videos)
-- **5. 4. Dependabot and JavaScript** (5 videos)
-- **6. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Dependabot Features and Use Cases]]** (5 videos)
+- **[[#3. 2. Dependabot and Python]]** (5 videos)
+- **[[#4. 3. Dependabot and PHP]]** (5 videos)
+- **[[#5. 4. Dependabot and JavaScript]]** (5 videos)
+- **[[#6. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

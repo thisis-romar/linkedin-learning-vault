@@ -55,15 +55,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Understanding AI Incidents** (5 videos)
-- **3. 2. Planning for an Incident** (6 videos)
-- **4. 3. Detect and Log AI Issues** (4 videos)
-- **5. 4. AI Incident Response** (2 videos)
-- **6. 5. Incident Communications** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Understanding AI Incidents]]** (5 videos)
+- **[[#2. Planning for an Incident]]** (6 videos)
+- **[[#3. Detect and Log AI Issues]]** (4 videos)
+- **[[#4. AI Incident Response]]** (2 videos)
+- **[[#5. Incident Communications]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing AI incidents to minimize damage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/managing-ai-incidents-to-minimize-damage?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Understanding AI Incidents
+### 1. Understanding AI Incidents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Incidents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980)
@@ -377,7 +381,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Planning for an Incident
+### 2. Planning for an Incident
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing for an incident
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980)
@@ -904,7 +910,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Detect and Log AI Issues
+### 3. Detect and Log AI Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test harness for AI logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980)
@@ -1154,7 +1162,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. AI Incident Response
+### 4. AI Incident Response
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responding to an AI incident
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/responding-to-an-ai-incident?u=76281980)
@@ -1354,7 +1364,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 6. 5. Incident Communications
+### 5. Incident Communications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the Knight-Nurse framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980)
@@ -1593,7 +1605,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980)

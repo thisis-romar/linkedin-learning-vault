@@ -41,14 +41,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Chatbots** (2 videos)
-- **3. 2. Chatbot Terminology and Architecture** (5 videos)
-- **4. 3. Design a Chatbot** (4 videos)
-- **5. 4. Enhancing Your Chatbot Actions** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Chatbots]]** (2 videos)
+- **[[#2. Chatbot Terminology and Architecture]]** (5 videos)
+- **[[#3. Design a Chatbot]]** (4 videos)
+- **[[#4. Enhancing Your Chatbot Actions]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Chatbots are revolutionizing the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - [bhavani] (1)
 
 
-### 2. 1. Introduction to Chatbots
+### 1. Introduction to Chatbots
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a chatbot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/what-is-a-chatbot?u=76281980)
@@ -170,7 +174,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Chatbot Terminology and Architecture
+### 2. Chatbot Terminology and Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Components of a chatbot system
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980)
@@ -417,7 +423,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Design a Chatbot
+### 3. Design a Chatbot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing conversation for chatbots
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980)
@@ -717,7 +725,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Enhancing Your Chatbot Actions
+### 4. Enhancing Your Chatbot Actions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up the Azure account and building an echobot
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980)
@@ -1518,7 +1528,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advancing the chatbot ladder
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980)

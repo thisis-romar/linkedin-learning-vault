@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. SQL Tips and Tricks** (12 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. SQL Tips and Tricks]]** (12 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Extract meaning from data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980)
@@ -129,7 +131,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. SQL Tips and Tricks
+### 1. SQL Tips and Tricks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Retrieve data using SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980)
@@ -1455,7 +1459,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Becoming a powerful data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980)

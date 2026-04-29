@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1.  Foundations of AI Security, Governance, Risk, and Compliance** (6 videos)
-- **3. 2. AI Risk Management Frameworks** (5 videos)
-- **4. 3. AI Security Threats and Adversarial Attacks** (5 videos)
-- **5. 4. Secure AI Deployment and Access Controls** (4 videos)
-- **6. 5. Securing AI in the Software Development Lifecycle** (4 videos)
-- **7. 6. AI Security Case Studies and Playbooks** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1.  Foundations of AI Security, Governance, Risk, and Compliance]]** (6 videos)
+- **[[#2. AI Risk Management Frameworks]]** (5 videos)
+- **[[#3. AI Security Threats and Adversarial Attacks]]** (5 videos)
+- **[[#4. Secure AI Deployment and Access Controls]]** (4 videos)
+- **[[#5. Securing AI in the Software Development Lifecycle]]** (4 videos)
+- **[[#6. AI Security Case Studies and Playbooks]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Weave security into your AI product design process
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - artificial (1)
 
 
-### 2. 1.  Foundations of AI Security, Governance, Risk, and Compliance
+### 1.  Foundations of AI Security, Governance, Risk, and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why governance, risk, and compliance matter from day one
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980)
@@ -565,7 +569,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. AI Risk Management Frameworks
+### 2. AI Risk Management Frameworks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to Risk Management Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980)
@@ -932,7 +938,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. AI Security Threats and Adversarial Attacks
+### 3. AI Security Threats and Adversarial Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the AI lifecycle?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980)
@@ -1398,7 +1406,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Secure AI Deployment and Access Controls
+### 4. Secure AI Deployment and Access Controls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Access control for AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980)
@@ -1755,7 +1765,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Securing AI in the Software Development Lifecycle
+### 5. Securing AI in the Software Development Lifecycle
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building Secure CI/CD Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980)
@@ -2092,7 +2104,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. AI Security Case Studies and Playbooks
+### 6. AI Security Case Studies and Playbooks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Case studies: Lessons from AI security incidents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980)
@@ -2281,7 +2295,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conclusion and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980)

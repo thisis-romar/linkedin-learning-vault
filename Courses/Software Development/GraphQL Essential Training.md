@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Setup and Introduction** (5 videos)
-- **3. 2. Types and Schemas** (6 videos)
-- **4. 3. Setting Up Persistence** (4 videos)
-- **5. 4. Mutations** (3 videos)
-- **6. 5. Queries in Depth** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Setup and Introduction]]** (5 videos)
+- **[[#3. 2. Types and Schemas]]** (6 videos)
+- **[[#4. 3. Setting Up Persistence]]** (4 videos)
+- **[[#5. 4. Mutations]]** (3 videos)
+- **[[#6. 5. Queries in Depth]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

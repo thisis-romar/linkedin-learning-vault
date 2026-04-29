@@ -48,16 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Diodes** (3 videos)
-- **3. 2. Diode Applications** (7 videos)
-- **4. 3. Special Purpose Diodes** (3 videos)
-- **5. 4. Bipolar Junction Transistors** (4 videos)
-- **6. 5. Transistor Applications** (4 videos)
-- **7. 6. Field-Effect Transistors** (3 videos)
-- **8. 7. Operational Amplifiers** (3 videos)
-- **9. 8. Op-Amp Applications** (8 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Diodes]]** (3 videos)
+- **[[#3. 2. Diode Applications]]** (7 videos)
+- **[[#4. 3. Special Purpose Diodes]]** (3 videos)
+- **[[#5. 4. Bipolar Junction Transistors]]** (4 videos)
+- **[[#6. 5. Transistor Applications]]** (4 videos)
+- **[[#7. 6. Field-Effect Transistors]]** (3 videos)
+- **[[#8. 7. Operational Amplifiers]]** (3 videos)
+- **[[#9. 8. Op-Amp Applications]]** (8 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -57,15 +57,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. User Authentication Basics** (16 videos)
-- **3. 2. Email Verification** (8 videos)
-- **4. 3. Resetting Passwords** (5 videos)
-- **5. 4. OAuth** (8 videos)
-- **6. 5. Prebuilt Auth Options** (6 videos)
-- **7. 6. Best Practices** (7 videos)
-- **8. Conclusion** (1 videos)
-- **9. Appendix** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. User Authentication Basics]]** (16 videos)
+- **[[#3. 2. Email Verification]]** (8 videos)
+- **[[#4. 3. Resetting Passwords]]** (5 videos)
+- **[[#5. 4. OAuth]]** (8 videos)
+- **[[#6. 5. Prebuilt Auth Options]]** (6 videos)
+- **[[#7. 6. Best Practices]]** (7 videos)
+- **[[#8. Conclusion]]** (1 videos)
+- **[[#9. Appendix]]** (1 videos)
 
 ### 1. Introduction
 

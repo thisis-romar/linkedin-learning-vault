@@ -56,14 +56,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Fundamentals of Management** (5 videos)
-- **3. 2. Letting Go of the Keyboard** (6 videos)
-- **4. 3. Managers as Advocates** (4 videos)
-- **5. 4. Growing Management and Technical Skills** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Fundamentals of Management]]** (5 videos)
+- **[[#2. Letting Go of the Keyboard]]** (6 videos)
+- **[[#3. Managers as Advocates]]** (4 videos)
+- **[[#4. Growing Management and Technical Skills]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Moving to management
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/moving-to-management?u=76281980)
@@ -112,7 +114,9 @@ created: 2026-04-28
 > **Speakers:** - hello (1)
 
 
-### 2. 1. Fundamentals of Management
+### 1. Fundamentals of Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What do managers do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/what-do-managers-do?u=76281980)
@@ -488,7 +492,9 @@ created: 2026-04-28
 > **Speakers:** - review (1)
 
 
-### 3. 2. Letting Go of the Keyboard
+### 2. Letting Go of the Keyboard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Shifting your mindset from coding to coaching
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/shifting-your-mindset-from-coding-to-coaching?u=76281980)
@@ -918,7 +924,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 4. 3. Managers as Advocates
+### 3. Managers as Advocates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mentoring as an engineering manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/mentoring-as-an-engineering-manager?u=76281980)
@@ -1144,7 +1152,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. 4. Growing Management and Technical Skills
+### 4. Growing Management and Technical Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Maintain and expand your technical skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/maintain-and-expand-your-technical-skills?u=76281980)
@@ -1340,7 +1350,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tailoring your management journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-moving-from-developer-to-engineering-manager/tailoring-your-management-journey?u=76281980)

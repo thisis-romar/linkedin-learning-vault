@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Defining Necessary VBA Constructs** (5 videos)
-- **3. 2. Developing Process Control Structures** (8 videos)
-- **4. 3. Adding a Ticker to Track Time** (5 videos)
-- **5. 4. Adding Customers during the Simulation** (5 videos)
-- **6. 5. Modifying the Simulation** (7 videos)
-- **7. 6. Allowing Conditional Processing** (6 videos)
-- **8. 7. Analyzing Simulation Results** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Defining Necessary VBA Constructs]]** (5 videos)
+- **[[#3. 2. Developing Process Control Structures]]** (8 videos)
+- **[[#4. 3. Adding a Ticker to Track Time]]** (5 videos)
+- **[[#5. 4. Adding Customers during the Simulation]]** (5 videos)
+- **[[#6. 5. Modifying the Simulation]]** (7 videos)
+- **[[#7. 6. Allowing Conditional Processing]]** (6 videos)
+- **[[#8. 7. Analyzing Simulation Results]]** (5 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

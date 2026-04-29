@@ -44,11 +44,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Setup** (3 videos)
-- **3. 2. SwiftUI Fundamentals** (6 videos)
-- **4. 3. Finishing the App** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Setup]]** (3 videos)
+- **[[#3. 2. SwiftUI Fundamentals]]** (6 videos)
+- **[[#4. 3. Finishing the App]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

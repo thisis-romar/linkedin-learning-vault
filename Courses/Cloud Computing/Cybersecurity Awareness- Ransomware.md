@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding Ransomware** (4 videos)
-- **3. 2. Impact of Ransomware** (2 videos)
-- **4. 3. Preventing Ransomware Attacks** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Ransomware]]** (4 videos)
+- **[[#2. Impact of Ransomware]]** (2 videos)
+- **[[#3. Preventing Ransomware Attacks]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ransomware: The new cyber extortion
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-the-new-cyber-extortion?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - ransomware (1)
 
 
-### 2. 1. Understanding Ransomware
+### 1. Understanding Ransomware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ransomware 101
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980)
@@ -310,7 +314,9 @@ created: 2026-04-28
 > **Speakers:** - ransomware (1)
 
 
-### 3. 2. Impact of Ransomware
+### 2. Impact of Ransomware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Notable ransomware attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/notable-ransomware-attacks?u=76281980)
@@ -428,7 +434,9 @@ created: 2026-04-28
 > **Speakers:** - ransomware (1)
 
 
-### 4. 3. Preventing Ransomware Attacks
+### 3. Preventing Ransomware Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unpacking ransomware attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/unpacking-ransomware-attacks?u=76281980)
@@ -615,7 +623,9 @@ created: 2026-04-28
 > **Speakers:** - among (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improving your security hygiene
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980)

@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Planning the Project** (5 videos)
-- **3. 2. Retrieving Content** (5 videos)
-- **4. 3. Emailing the Digest** (3 videos)
-- **5. 4. Building the GUI** (2 videos)
-- **6. 5. Iterating on the Design** (2 videos)
-- **7. 6. Packaging and Distribution** (1 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Planning the Project]]** (5 videos)
+- **[[#3. 2. Retrieving Content]]** (5 videos)
+- **[[#4. 3. Emailing the Digest]]** (3 videos)
+- **[[#5. 4. Building the GUI]]** (2 videos)
+- **[[#6. 5. Iterating on the Design]]** (2 videos)
+- **[[#7. 6. Packaging and Distribution]]** (1 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -49,11 +49,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Fundamentals of Generics** (5 videos)
-- **3. 2. Generic Classes and Methods** (7 videos)
-- **4. 3. Generics: Deep Dive** (7 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Fundamentals of Generics]]** (5 videos)
+- **[[#3. 2. Generic Classes and Methods]]** (7 videos)
+- **[[#4. 3. Generics: Deep Dive]]** (7 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

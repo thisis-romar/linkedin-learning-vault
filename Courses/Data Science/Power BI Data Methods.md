@@ -52,17 +52,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Extracting Data from Files** (3 videos)
-- **3. 2. Extracting Data from Files** (16 videos)
-- **4. 3. Transforming Data with Cleaning Operations** (9 videos)
-- **5. 4. Working with Dates and Times** (5 videos)
-- **6. 5. Data Functions** (8 videos)
-- **7. 6. Relational Databases and Queries** (3 videos)
-- **8. 7. Loading Data** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Extracting Data from Files]]** (3 videos)
+- **[[#2. Extracting Data from Files]]** (16 videos)
+- **[[#3. Transforming Data with Cleaning Operations]]** (9 videos)
+- **[[#4. Working with Dates and Times]]** (5 videos)
+- **[[#5. Data Functions]]** (8 videos)
+- **[[#6. Relational Databases and Queries]]** (3 videos)
+- **[[#7. Loading Data]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The data at the core of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/the-data-at-the-core-of-power-bi?u=76281980)
@@ -230,7 +232,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 2. 1. Extracting Data from Files
+### 1. Extracting Data from Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with Power Query
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-power-query?u=76281980)
@@ -385,7 +389,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Extracting Data from Files
+### 2. Extracting Data from Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connecting to text files
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/connecting-to-text-files?u=76281980)
@@ -1676,7 +1682,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright upbeat music) (1)
 
 
-### 4. 3. Transforming Data with Cleaning Operations
+### 3. Transforming Data with Cleaning Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cleaning text fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/cleaning-text-fields?u=76281980)
@@ -2233,7 +2241,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Working with Dates and Times
+### 4. Working with Dates and Times
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dates functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/dates-functions?u=76281980)
@@ -2573,7 +2583,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Data Functions
+### 5. Data Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using conditional functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/using-conditional-functions?u=76281980)
@@ -3332,7 +3344,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Relational Databases and Queries
+### 6. Relational Databases and Queries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/working-with-relational-databases?u=76281980)
@@ -3596,7 +3610,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Loading Data
+### 7. Loading Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/loading-data?u=76281980)
@@ -3880,7 +3896,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-methods-23487089/continuing-on-with-power-bi?u=76281980)

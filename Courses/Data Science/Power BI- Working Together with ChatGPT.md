@@ -55,12 +55,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding Power BI and OpenAI** (3 videos)
-- **3. 2. Power BI ChatGPT Data Integration** (5 videos)
-- **4. 3. Power BI ChatGPT Data Manipulation** (8 videos)
-- **5. 4. Power BI ChatGPT Data Analysis** (5 videos)
-- **6. Continuing Your Power BI and Generative AI Learning Journey** (3 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understanding Power BI and OpenAI]]** (3 videos)
+- **[[#3. 2. Power BI ChatGPT Data Integration]]** (5 videos)
+- **[[#4. 3. Power BI ChatGPT Data Manipulation]]** (8 videos)
+- **[[#5. 4. Power BI ChatGPT Data Analysis]]** (5 videos)
+- **[[#6. Continuing Your Power BI and Generative AI Learning Journey]]** (3 videos)
 
 ### 1. Introduction
 

@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding Hybrid Cloud** (3 videos)
-- **3. 2. Hybrid Cloud Vendors** (6 videos)
-- **4. 3. Learning Hybrid Cloud Strategies** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Hybrid Cloud]]** (3 videos)
+- **[[#2. Hybrid Cloud Vendors]]** (6 videos)
+- **[[#3. Learning Hybrid Cloud Strategies]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the benefits of hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - [dominique] (1)
 
 
-### 2. 1. Understanding Hybrid Cloud
+### 1. Understanding Hybrid Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining cloud concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980)
@@ -292,7 +296,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Hybrid Cloud Vendors
+### 2. Hybrid Cloud Vendors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of hybrid cloud vendors
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980)
@@ -566,7 +572,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Learning Hybrid Cloud Strategies
+### 3. Learning Hybrid Cloud Strategies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hybrid cloud strategy considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980)
@@ -777,7 +785,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980)

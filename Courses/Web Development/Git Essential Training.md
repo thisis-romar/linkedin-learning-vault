@@ -55,16 +55,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Why Do You Want to Use Git?** (4 videos)
-- **3. 2. How Does Git Work?** (4 videos)
-- **4. 3. Install and Configure Git** (7 videos)
-- **5. 4. Push Your Code with Git** (10 videos)
-- **6. 5. Make Changes to Files** (12 videos)
-- **7. 6. Important Concepts in Git** (8 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Why Do You Want to Use Git?]]** (4 videos)
+- **[[#2. How Does Git Work?]]** (4 videos)
+- **[[#3. Install and Configure Git]]** (7 videos)
+- **[[#4. Push Your Code with Git]]** (10 videos)
+- **[[#5. Make Changes to Files]]** (12 videos)
+- **[[#6. Important Concepts in Git]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get started with Git
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980)
@@ -138,7 +140,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Why Do You Want to Use Git?
+### 1. Why Do You Want to Use Git?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Git for version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980)
@@ -402,7 +406,9 @@ created: 2026-04-28
 > **Speakers:** - git (1)
 
 
-### 3. 2. How Does Git Work?
+### 2. How Does Git Work?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Git locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980)
@@ -580,7 +586,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 4. 3. Install and Configure Git
+### 3. Install and Configure Git
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use a Codespace for this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980)
@@ -1007,7 +1015,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Push Your Code with Git
+### 4. Push Your Code with Git
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set up a remote repository
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980)
@@ -1547,7 +1557,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 6. 5. Make Changes to Files
+### 5. Make Changes to Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Git status
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-status?u=76281980)
@@ -2394,7 +2406,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 7. 6. Important Concepts in Git
+### 6. Important Concepts in Git
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ignoring files
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/ignoring-files?u=76281980)
@@ -3011,7 +3025,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980)

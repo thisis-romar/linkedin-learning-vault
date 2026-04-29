@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started with Codespaces** (5 videos)
-- **3. 2. Configuring Your Codespaces** (6 videos)
-- **4. 3. Developing in a Codespace** (5 videos)
-- **5. 4. Advanced Concepts** (5 videos)
-- **6. 5. Using Codespaces with GitHub Models** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started with Codespaces]]** (5 videos)
+- **[[#3. 2. Configuring Your Codespaces]]** (6 videos)
+- **[[#4. 3. Developing in a Codespace]]** (5 videos)
+- **[[#5. 4. Advanced Concepts]]** (5 videos)
+- **[[#6. 5. Using Codespaces with GitHub Models]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

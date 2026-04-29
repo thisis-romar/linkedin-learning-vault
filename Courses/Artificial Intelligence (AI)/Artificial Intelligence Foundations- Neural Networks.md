@@ -56,13 +56,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Are Neural Networks?** (4 videos)
-- **3. 2. Key Components in Neural Network Architecture** (3 videos)
-- **4. 3. Other Types of Neural Networks** (4 videos)
-- **5. 4. Build a Simple Neural Network Using Keras** (8 videos)
-- **6. 5. Best Practices for Optimizing a Neural Network** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What Are Neural Networks?]]** (4 videos)
+- **[[#3. 2. Key Components in Neural Network Architecture]]** (3 videos)
+- **[[#4. 3. Other Types of Neural Networks]]** (4 videos)
+- **[[#5. 4. Build a Simple Neural Network Using Keras]]** (8 videos)
+- **[[#6. 5. Best Practices for Optimizing a Neural Network]]** (6 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

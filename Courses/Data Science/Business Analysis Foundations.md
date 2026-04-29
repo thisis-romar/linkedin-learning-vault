@@ -49,19 +49,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Business Analysis?** (4 videos)
-- **3. 2. Doing a Needs Assessment** (2 videos)
-- **4. 3. Identifying Stakeholders** (3 videos)
-- **5. 4. Creating a Business Case** (2 videos)
-- **6. 5. Planning the Project** (3 videos)
-- **7. 6. Determining Requirements** (3 videos)
-- **8. 7. Traceability and Monitoring Requirements** (2 videos)
-- **9. 8. Evaluating the Solution** (2 videos)
-- **10. 9. Preparing for Release and Transition** (3 videos)
-- **11. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Business Analysis?]]** (4 videos)
+- **[[#2. Doing a Needs Assessment]]** (2 videos)
+- **[[#3. Identifying Stakeholders]]** (3 videos)
+- **[[#4. Creating a Business Case]]** (2 videos)
+- **[[#5. Planning the Project]]** (3 videos)
+- **[[#6. Determining Requirements]]** (3 videos)
+- **[[#7. Traceability and Monitoring Requirements]]** (2 videos)
+- **[[#8. Evaluating the Solution]]** (2 videos)
+- **[[#9. Preparing for Release and Transition]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prevent project failure with business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/prevent-project-failure-with-business-analysis?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - currently (1)
 
 
-### 2. 1. What Is Business Analysis?
+### 1. What Is Business Analysis?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is business analysis (BA)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/what-is-business-analysis-ba?u=76281980)
@@ -366,7 +370,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Doing a Needs Assessment
+### 2. Doing a Needs Assessment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Needs assessment basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/needs-assessment-basics-15250136?u=76281980)
@@ -498,7 +504,9 @@ created: 2026-04-28
 > **Speakers:** - since (1)
 
 
-### 4. 3. Identifying Stakeholders
+### 3. Identifying Stakeholders
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Who are the stakeholders?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/who-are-the-stakeholders?u=76281980)
@@ -752,7 +760,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Creating a Business Case
+### 4. Creating a Business Case
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Purpose of a business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/purpose-of-a-business-case-15243951?u=76281980)
@@ -849,7 +859,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 6. 5. Planning the Project
+### 5. Planning the Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Project planning: Vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-vision-15249134?u=76281980)
@@ -1072,7 +1084,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 7. 6. Determining Requirements
+### 6. Determining Requirements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Requirement types
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980)
@@ -1331,7 +1345,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 8. 7. Traceability and Monitoring Requirements
+### 7. Traceability and Monitoring Requirements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Traceability matrix and taskboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/traceability-matrix-and-taskboard?u=76281980)
@@ -1474,7 +1490,9 @@ created: 2026-04-28
 > **Speakers:** - change (1)
 
 
-### 9. 8. Evaluating the Solution
+### 8. Evaluating the Solution
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing and verifying the requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/testing-and-verifying-the-requirements?u=76281980)
@@ -1564,7 +1582,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 10. 9. Preparing for Release and Transition
+### 9. Preparing for Release and Transition
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Project release planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980)
@@ -1804,7 +1824,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/next-steps-15244958?u=76281980)

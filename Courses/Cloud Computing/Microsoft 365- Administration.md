@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Managing Microsoft 365 General Settings** (8 videos)
-- **3. 2. Managing Microsoft 365 Email Services** (5 videos)
-- **4. 3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance** (4 videos)
-- **5. 4. Manage Microsoft 365 Authentication, Teams, and SharePoint** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Managing Microsoft 365 General Settings]]** (8 videos)
+- **[[#2. Managing Microsoft 365 Email Services]]** (5 videos)
+- **[[#3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance]]** (4 videos)
+- **[[#4. Manage Microsoft 365 Authentication, Teams, and SharePoint]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microsoft 365: Administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 2. 1. Managing Microsoft 365 General Settings
+### 1. Managing Microsoft 365 General Settings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring Microsoft 365 core functionalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980)
@@ -799,7 +803,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 3. 2. Managing Microsoft 365 Email Services
+### 2. Managing Microsoft 365 Email Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get familiar with Exchange Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980)
@@ -1400,7 +1406,9 @@ created: 2026-04-28
 > **Best Practices:** don't forget (1)
 
 
-### 4. 3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance
+### 3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing the SharePoint admin center in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980)
@@ -1817,7 +1825,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 5. 4. Manage Microsoft 365 Authentication, Teams, and SharePoint
+### 4. Manage Microsoft 365 Authentication, Teams, and SharePoint
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configure multifactor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980)
@@ -2193,7 +2203,9 @@ created: 2026-04-28
 > **Cross-References:** in the last (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Beyond Microsoft 365 Administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980)

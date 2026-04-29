@@ -47,18 +47,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Microsoft 365 Overview** (6 videos)
-- **3. 2. Configuring Microsoft 365** (5 videos)
-- **4. 3. Managing Users and Identities** (7 videos)
-- **5. 4. Microsoft 365 Device Management** (4 videos)
-- **6. 5. Microsoft 365 Security and Data** (5 videos)
-- **7. 6. Microsoft 365 Threat Protection** (7 videos)
-- **8. 7. Microsoft 365 Compliance and Reporting** (3 videos)
-- **9. 8. Supporting Microsoft 365** (2 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Microsoft 365 Overview]]** (6 videos)
+- **[[#2. Configuring Microsoft 365]]** (5 videos)
+- **[[#3. Managing Users and Identities]]** (7 videos)
+- **[[#4. Microsoft 365 Device Management]]** (4 videos)
+- **[[#5. Microsoft 365 Security and Data]]** (5 videos)
+- **[[#6. Microsoft 365 Threat Protection]]** (7 videos)
+- **[[#7. Microsoft 365 Compliance and Reporting]]** (3 videos)
+- **[[#8. Supporting Microsoft 365]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implement and maintain Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/implement-and-maintain-microsoft-365?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Speakers:** - historically (1)
 
 
-### 2. 1. Microsoft 365 Overview
+### 1. Microsoft 365 Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/what-is-microsoft-365?u=76281980)
@@ -883,7 +887,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Configuring Microsoft 365
+### 2. Configuring Microsoft 365
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring a trial Microsoft 365 subscription
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-a-trial-microsoft-365-subscription?u=76281980)
@@ -1621,7 +1627,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 4. 3. Managing Users and Identities
+### 3. Managing Users and Identities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding users
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/adding-users?u=76281980)
@@ -2392,7 +2400,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Microsoft 365 Device Management
+### 4. Microsoft 365 Device Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up Intune
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/setting-up-intune?u=76281980)
@@ -2841,7 +2851,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Microsoft 365 Security and Data
+### 5. Microsoft 365 Security and Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microsoft Information Protection
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/microsoft-information-protection?u=76281980)
@@ -3559,7 +3571,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Microsoft 365 Threat Protection
+### 6. Microsoft 365 Threat Protection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Configuring preset security policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/configuring-preset-security-policies?u=76281980)
@@ -4405,7 +4419,9 @@ created: 2026-04-28
 > **Exercise Files:** template (1)
 
 
-### 8. 7. Microsoft 365 Compliance and Reporting
+### 7. Microsoft 365 Compliance and Reporting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Service Trust Portal from Microsoft
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/service-trust-portal-from-microsoft?u=76281980)
@@ -4653,7 +4669,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Supporting Microsoft 365
+### 8. Supporting Microsoft 365
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Purchasing licenses and add-on services
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/purchasing-licenses-and-add-on-services?u=76281980)
@@ -4825,7 +4843,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue learning Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-essential-training-for-administrators-22660793/continue-learning-microsoft-365?u=76281980)

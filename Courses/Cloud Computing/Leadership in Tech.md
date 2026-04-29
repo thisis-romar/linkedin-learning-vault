@@ -47,10 +47,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Promo** (1 videos)
-- **2. 1. Tech Leader Interviews** (14 videos)
+- **[[#Promo]]** (1 videos)
+- **[[#1. Tech Leader Interviews]]** (14 videos)
 
-### 1. Promo
+### Promo
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leadership in tech: Promo
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980)
@@ -74,7 +76,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat and pleasant rock music) (1)
 
 
-### 2. 1. Tech Leader Interviews
+### 1. Tech Leader Interviews
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Awareness, Synthesis, and Inspiration: Jeff Weiner
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980)

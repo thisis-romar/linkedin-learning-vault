@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. SEO Principles** (6 videos)
-- **3. 2. SEO All in One Pack** (7 videos)
-- **4. 3. WordPress SEO by Yoast** (6 videos)
-- **5. 4. WordPress SEO by Yoast Settings** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. SEO Principles]]** (6 videos)
+- **[[#3. 2. SEO All in One Pack]]** (7 videos)
+- **[[#4. 3. WordPress SEO by Yoast]]** (6 videos)
+- **[[#5. 4. WordPress SEO by Yoast Settings]]** (7 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

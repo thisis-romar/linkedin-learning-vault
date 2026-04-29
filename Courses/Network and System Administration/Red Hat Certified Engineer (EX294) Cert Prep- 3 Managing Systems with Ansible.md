@@ -46,15 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Ansible Roles** (6 videos)
-- **3. 2. Using Ansible in Large Environments** (4 videos)
-- **4. 3. Templating with Jinja2** (4 videos)
-- **5. 4. Managing Software with Ansible** (3 videos)
-- **6. 5. Managing Users with Ansible** (4 videos)
-- **7. 6. Managing Processes and Tasks** (3 videos)
-- **8. 7. Troubleshooting Ansible** (2 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Ansible Roles]]** (6 videos)
+- **[[#3. 2. Using Ansible in Large Environments]]** (4 videos)
+- **[[#4. 3. Templating with Jinja2]]** (4 videos)
+- **[[#5. 4. Managing Software with Ansible]]** (3 videos)
+- **[[#6. 5. Managing Users with Ansible]]** (4 videos)
+- **[[#7. 6. Managing Processes and Tasks]]** (3 videos)
+- **[[#8. 7. Troubleshooting Ansible]]** (2 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

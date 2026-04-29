@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. PLC Data Input/Output BCD** (11 videos)
-- **3. 2. Math Instructions** (10 videos)
-- **4. 3. Data Compare Instructions** (7 videos)
-- **5. 4. Data Transfer Operation** (7 videos)
-- **6. 5. Sequence Logic** (11 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. PLC Data Input/Output BCD]]** (11 videos)
+- **[[#3. 2. Math Instructions]]** (10 videos)
+- **[[#4. 3. Data Compare Instructions]]** (7 videos)
+- **[[#5. 4. Data Transfer Operation]]** (7 videos)
+- **[[#6. 5. Sequence Logic]]** (11 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

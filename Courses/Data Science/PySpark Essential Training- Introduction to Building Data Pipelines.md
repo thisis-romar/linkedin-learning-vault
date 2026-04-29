@@ -58,14 +58,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Spark and PySpark** (3 videos)
-- **3. 2. Setting Up PySpark** (2 videos)
-- **4. 3. Working with PySpark DataFrames** (6 videos)
-- **5. 4. Essential PySpark Data Manipulation** (7 videos)
-- **6. 5. PySpark SQL** (5 videos)
-- **7. 6. PySpark in a Production Environment** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introduction to Spark and PySpark]]** (3 videos)
+- **[[#3. 2. Setting Up PySpark]]** (2 videos)
+- **[[#4. 3. Working with PySpark DataFrames]]** (6 videos)
+- **[[#5. 4. Essential PySpark Data Manipulation]]** (7 videos)
+- **[[#6. 5. PySpark SQL]]** (5 videos)
+- **[[#7. 6. PySpark in a Production Environment]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

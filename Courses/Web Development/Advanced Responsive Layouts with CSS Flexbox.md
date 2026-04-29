@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is Flexbox?** (2 videos)
-- **3. 2. Flexbox-Powered Menus** (7 videos)
-- **4. 3. Responsive Card Layouts** (5 videos)
-- **5. 4. Holy Grail Layout** (4 videos)
-- **6. 5. Handing Control to the User** (5 videos)
-- **7. 6. Putting It All Together** (1 videos)
-- **8. Next steps** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is Flexbox?]]** (2 videos)
+- **[[#2. Flexbox-Powered Menus]]** (7 videos)
+- **[[#3. Responsive Card Layouts]]** (5 videos)
+- **[[#4. Holy Grail Layout]]** (4 videos)
+- **[[#5. Handing Control to the User]]** (5 videos)
+- **[[#6. Putting It All Together]]** (1 videos)
+- **[[#Next steps]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/welcome?u=76281980)
@@ -174,7 +176,9 @@ created: 2026-04-28
 > **Speakers:** - for (1)
 
 
-### 2. 1. What Is Flexbox?
+### 1. What Is Flexbox?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Flexbox?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980)
@@ -293,7 +297,9 @@ created: 2026-04-28
 > **Prerequisites:** make sure you have (1)
 
 
-### 3. 2. Flexbox-Powered Menus
+### 2. Flexbox-Powered Menus
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring common menu layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/exploring-common-menu-layouts?u=76281980)
@@ -1038,7 +1044,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 4. 3. Responsive Card Layouts
+### 3. Responsive Card Layouts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenges with card layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/challenges-with-card-layouts?u=76281980)
@@ -1419,7 +1427,9 @@ created: 2026-04-28
 > **Speakers:** - all (1)
 
 
-### 5. 4. Holy Grail Layout
+### 4. Holy Grail Layout
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the holy grail layout?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980)
@@ -1737,7 +1747,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. Handing Control to the User
+### 5. Handing Control to the User
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Handing control to the user
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980)
@@ -2194,7 +2206,9 @@ created: 2026-04-28
 > **Speakers:** - css (1)
 
 
-### 7. 6. Putting It All Together
+### 6. Putting It All Together
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980)
@@ -2377,7 +2391,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 8. Next steps
+### Next steps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980)

@@ -45,15 +45,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Why Prototyping?** (3 videos)
-- **3. 2. Where in the Design Process?** (4 videos)
-- **4. 3. Modern Uses and Solutions** (2 videos)
-- **5. 4. Methods and Approaches** (2 videos)
-- **6. 5. Choosing What to Prototype** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Why Prototyping?]]** (3 videos)
+- **[[#2. Where in the Design Process?]]** (4 videos)
+- **[[#3. Modern Uses and Solutions]]** (2 videos)
+- **[[#4. Methods and Approaches]]** (2 videos)
+- **[[#5. Choosing What to Prototype]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prototyping for creative problem solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/prototyping-for-creative-problem-solving?u=76281980)
@@ -168,7 +170,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 2. 1. Why Prototyping?
+### 1. Why Prototyping?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generate ideas rapidly
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980)
@@ -382,7 +386,9 @@ created: 2026-04-28
 > **Speakers:** - product (1)
 
 
-### 3. 2. Where in the Design Process?
+### 2. Where in the Design Process?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use simulations to study interactions and flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980)
@@ -656,7 +662,9 @@ created: 2026-04-28
 > **Speakers:** - user (1)
 
 
-### 4. 3. Modern Uses and Solutions
+### 3. Modern Uses and Solutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Document: When requirement docs and pages fall short
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980)
@@ -790,7 +798,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Methods and Approaches
+### 4. Methods and Approaches
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get to the next steps faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980)
@@ -938,7 +948,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 6. 5. Choosing What to Prototype
+### 5. Choosing What to Prototype
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deciding what to prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980)
@@ -1217,7 +1229,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980)

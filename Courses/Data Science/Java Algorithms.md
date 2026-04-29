@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. String Algorithms** (8 videos)
-- **3. 2. Array Algorithms** (6 videos)
-- **4. 3. Linked List Algorithms** (5 videos)
-- **5. 4. Queue and Stack Algorithms** (9 videos)
-- **6. 5. Algorithms for Hash-Based Structures** (5 videos)
-- **7. 6. Tree Algorithms** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (6 videos)
+- **[[#2. 1. String Algorithms]]** (8 videos)
+- **[[#3. 2. Array Algorithms]]** (6 videos)
+- **[[#4. 3. Linked List Algorithms]]** (5 videos)
+- **[[#5. 4. Queue and Stack Algorithms]]** (9 videos)
+- **[[#6. 5. Algorithms for Hash-Based Structures]]** (5 videos)
+- **[[#7. 6. Tree Algorithms]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

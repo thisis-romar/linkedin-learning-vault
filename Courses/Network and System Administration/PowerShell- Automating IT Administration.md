@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Creating Reusable Code Using PowerShell** (7 videos)
-- **3. 2. Remote and Delegated Administration** (6 videos)
-- **4. 3. Creating and Scheduling Tasks and Jobs** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Creating Reusable Code Using PowerShell]]** (7 videos)
+- **[[#2. Remote and Delegated Administration]]** (6 videos)
+- **[[#3. Creating and Scheduling Tasks and Jobs]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IT automation with PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980)
@@ -106,7 +108,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Creating Reusable Code Using PowerShell
+### 1. Creating Reusable Code Using PowerShell
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why automate IT administration tasks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980)
@@ -1338,7 +1342,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-error-handling?u=76281980)
 
 
-### 3. 2. Remote and Delegated Administration
+### 2. Remote and Delegated Administration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding delegated administration in PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980)
@@ -2842,7 +2848,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 4. 3. Creating and Scheduling Tasks and Jobs
+### 3. Creating and Scheduling Tasks and Jobs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding PowerShell background jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980)
@@ -3562,7 +3570,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/creating-scheduled-tasks-within-windows?u=76281980)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980)

@@ -51,10 +51,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Benefits and Advantages** (3 videos)
-- **3. 2. Increased Risks** (4 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Benefits and Advantages]]** (3 videos)
+- **[[#3. 2. Increased Risks]]** (4 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

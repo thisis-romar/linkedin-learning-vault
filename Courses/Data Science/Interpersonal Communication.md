@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Communicating with Your Colleagues** (4 videos)
-- **3. 2. Communicating with Your Supervisor** (4 videos)
-- **4. 3. Communicating in Tricky Situations** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Communicating with Your Colleagues]]** (4 videos)
+- **[[#2. Communicating with Your Supervisor]]** (4 videos)
+- **[[#3. Communicating in Tricky Situations]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build your interpersonal communication skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 2. 1. Communicating with Your Colleagues
+### 1. Communicating with Your Colleagues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980)
@@ -415,7 +419,9 @@ created: 2026-04-28
 > **Speakers:** - communication (1)
 
 
-### 3. 2. Communicating with Your Supervisor
+### 2. Communicating with Your Supervisor
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to manage expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-manage-expectations?u=76281980)
@@ -696,7 +702,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 4. 3. Communicating in Tricky Situations
+### 3. Communicating in Tricky Situations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communication and cultural differences
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/communication-and-cultural-differences?u=76281980)
@@ -1080,7 +1088,9 @@ created: 2026-04-28
 > **Speakers:** - unfortunately (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Investing in communication skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/investing-in-communication-skills?u=76281980)

@@ -53,11 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The World of AI Imaging** (9 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The World of AI Imaging]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get ready for AI imaging
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/get-ready-for-ai-imaging?u=76281980)
@@ -115,7 +117,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. The World of AI Imaging
+### 1. The World of AI Imaging
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980)
@@ -1058,7 +1062,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Some final thoughts on AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980)

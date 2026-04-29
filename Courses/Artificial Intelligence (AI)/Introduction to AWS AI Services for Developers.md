@@ -53,11 +53,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. AWS CodeWhisperer** (3 videos)
-- **3. 2. CodeGuru Security** (8 videos)
-- **4. 3. CodeGuru Profiler** (5 videos)
-- **5. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. AWS CodeWhisperer]]** (3 videos)
+- **[[#3. 2. CodeGuru Security]]** (8 videos)
+- **[[#4. 3. CodeGuru Profiler]]** (5 videos)
+- **[[#5. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

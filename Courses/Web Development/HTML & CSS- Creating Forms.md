@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Designing a Form Experience** (4 videos)
-- **3. 2. Creating Forms with HTML** (9 videos)
-- **4. 3. Making Forms Interactive** (2 videos)
-- **5. 4. Styling Form Fields with CSS** (8 videos)
-- **6. 5. Form Layout with CSS** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Designing a Form Experience]]** (4 videos)
+- **[[#3. 2. Creating Forms with HTML]]** (9 videos)
+- **[[#4. 3. Making Forms Interactive]]** (2 videos)
+- **[[#5. 4. Styling Form Fields with CSS]]** (8 videos)
+- **[[#6. 5. Form Layout with CSS]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

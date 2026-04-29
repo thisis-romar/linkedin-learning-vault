@@ -54,14 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. How Can We Use AI in Power BI?** (10 videos)
-- **3. 2. Configuring the Semantic Model and Power Query** (8 videos)
-- **4. 3. Analyzing Data Loaded into a Model** (4 videos)
-- **5. 4. Analyzing Trends** (6 videos)
-- **6. 5. Analyzing Groups** (9 videos)
-- **7. 6. Determining Outliers and Anomalies** (6 videos)
-- **8. 7. Natural Language Processing Visuals** (2 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. How Can We Use AI in Power BI?]]** (10 videos)
+- **[[#3. 2. Configuring the Semantic Model and Power Query]]** (8 videos)
+- **[[#4. 3. Analyzing Data Loaded into a Model]]** (4 videos)
+- **[[#5. 4. Analyzing Trends]]** (6 videos)
+- **[[#6. 5. Analyzing Groups]]** (9 videos)
+- **[[#7. 6. Determining Outliers and Anomalies]]** (6 videos)
+- **[[#8. 7. Natural Language Processing Visuals]]** (2 videos)
 
 ### 1. Introduction
 

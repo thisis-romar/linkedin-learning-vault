@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (5 videos)
-- **3. 2. Variables and Types** (6 videos)
-- **4. 3. Objects, Arrays, and More** (9 videos)
-- **5. 4. Operators and Control Structures** (8 videos)
-- **6. 5. Iterating with Loops** (4 videos)
-- **7. 6. Functions** (10 videos)
-- **8. 7. A Few More Advanced Pieces** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started]]** (5 videos)
+- **[[#3. 2. Variables and Types]]** (6 videos)
+- **[[#4. 3. Objects, Arrays, and More]]** (9 videos)
+- **[[#5. 4. Operators and Control Structures]]** (8 videos)
+- **[[#6. 5. Iterating with Loops]]** (4 videos)
+- **[[#7. 6. Functions]]** (10 videos)
+- **[[#8. 7. A Few More Advanced Pieces]]** (6 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

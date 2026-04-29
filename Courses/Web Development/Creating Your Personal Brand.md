@@ -44,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Personal Branding** (3 videos)
-- **3. 2. Creating Your Brand** (3 videos)
-- **4. 3. Marketing and Positioning Your Brand** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Personal Branding]]** (3 videos)
+- **[[#2. Creating Your Brand]]** (3 videos)
+- **[[#3. Marketing and Positioning Your Brand]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is personal branding?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/what-is-personal-branding?u=76281980)
@@ -77,7 +79,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Personal Branding
+### 1. Personal Branding
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating your personal brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-personal-brand?u=76281980)
@@ -240,7 +244,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Creating Your Brand
+### 2. Creating Your Brand
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining your current brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/defining-your-current-brand-2?u=76281980)
@@ -448,7 +454,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 4. 3. Marketing and Positioning Your Brand
+### 3. Marketing and Positioning Your Brand
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a personal marketing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-personal-marketing-strategy?u=76281980)
@@ -864,7 +872,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start today to take control of your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/start-today-to-take-control-of-your-brand?u=76281980)

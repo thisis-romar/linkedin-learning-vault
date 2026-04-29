@@ -55,10 +55,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Association Rules** (6 videos)
-- **3. 2. Discovering Patterns with Association Rules** (4 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Association Rules]]** (6 videos)
+- **[[#3. 2. Discovering Patterns with Association Rules]]** (4 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

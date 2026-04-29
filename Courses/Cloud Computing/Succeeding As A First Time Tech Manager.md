@@ -62,14 +62,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Build the Right Team** (7 videos)
-- **3. 2. Implement a Shared Vision** (3 videos)
-- **4. 3. Talking Tech to Any Audience** (3 videos)
-- **5. 4. Working with Global Teams** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Build the Right Team]]** (7 videos)
+- **[[#2. Implement a Shared Vision]]** (3 videos)
+- **[[#3. Talking Tech to Any Audience]]** (3 videos)
+- **[[#4. Working with Global Teams]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What it takes to lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Speakers:** - congratulations (1)
 
 
-### 2. 1. Build the Right Team
+### 1. Build the Right Team
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing for the leadership role
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980)
@@ -551,7 +555,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 3. 2. Implement a Shared Vision
+### 2. Implement a Shared Vision
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communicating organizational vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980)
@@ -777,7 +783,9 @@ created: 2026-04-28
 > **Speakers:** - key (1)
 
 
-### 4. 3. Talking Tech to Any Audience
+### 3. Talking Tech to Any Audience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrating your team with the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/integrating-your-team-with-the-business-24920109?u=76281980)
@@ -906,7 +914,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. 4. Working with Global Teams
+### 4. Working with Global Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leading a global team
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leading-a-global-team-24915135?u=76281980)
@@ -1201,7 +1211,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/next-steps-24919131?u=76281980)

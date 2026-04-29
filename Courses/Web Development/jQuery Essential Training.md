@@ -47,19 +47,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. jQuery Overview** (2 videos)
-- **3. 2. A Quick jQuery Feature Tour** (6 videos)
-- **4. 3. Accessing Page Content** (10 videos)
-- **5. 4. Manipulating Page Content** (8 videos)
-- **6. 5. Event Handling** (5 videos)
-- **7. 6. Effects and Animations** (5 videos)
-- **8. 7. AJAX Operations** (6 videos)
-- **9. 8. jQuery Plugins** (3 videos)
-- **10. 9. Migrating from jQuery** (5 videos)
-- **11. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. jQuery Overview]]** (2 videos)
+- **[[#2. A Quick jQuery Feature Tour]]** (6 videos)
+- **[[#3. Accessing Page Content]]** (10 videos)
+- **[[#4. Manipulating Page Content]]** (8 videos)
+- **[[#5. Event Handling]]** (5 videos)
+- **[[#6. Effects and Animations]]** (5 videos)
+- **[[#7. AJAX Operations]]** (6 videos)
+- **[[#8. jQuery Plugins]]** (3 videos)
+- **[[#9. Migrating from jQuery]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### jQuery: Write less, do more
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980)
@@ -172,7 +174,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2)
 
 
-### 2. 1. jQuery Overview
+### 1. jQuery Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of jQuery
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980)
@@ -300,7 +304,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. A Quick jQuery Feature Tour
+### 2. A Quick jQuery Feature Tour
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enabling jQuery in your web app
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980)
@@ -826,7 +832,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Accessing Page Content
+### 3. Accessing Page Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to selectors and filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980)
@@ -1879,7 +1887,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 5. 4. Manipulating Page Content
+### 4. Manipulating Page Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating content
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980)
@@ -2927,7 +2937,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat instrumental music) (1)
 
 
-### 6. 5. Event Handling
+### 5. Event Handling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### jQuery event handling features
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980)
@@ -3383,7 +3395,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Effects and Animations
+### 6. Effects and Animations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to jQuery animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-jquery-animations?u=76281980)
@@ -3863,7 +3877,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 8. 7. AJAX Operations
+### 7. AJAX Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### jQuery and AJAX
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980)
@@ -4614,7 +4630,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. jQuery Plugins
+### 8. jQuery Plugins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DataTables
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980)
@@ -4979,7 +4997,9 @@ created: 2026-04-28
 > **Documentation:** the documentation (1)
 
 
-### 10. 9. Migrating from jQuery
+### 9. Migrating from jQuery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing to migrate
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980)
@@ -5616,7 +5636,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980)

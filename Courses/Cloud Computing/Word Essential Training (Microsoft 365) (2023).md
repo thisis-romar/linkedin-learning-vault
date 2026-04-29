@@ -48,19 +48,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (3 videos)
-- **3. 2. Working with Text** (3 videos)
-- **4. 3. Formatting Text** (3 videos)
-- **5. 4. Working with Paragraph Text** (4 videos)
-- **6. 5. Formatting Pages** (3 videos)
-- **7. 6. Creating Lists** (2 videos)
-- **8. 7. Illustrating Documents** (3 videos)
-- **9. 8. Proofing Documents** (3 videos)
-- **10. 9. Sharing and Collaborating** (4 videos)
-- **11. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (3 videos)
+- **[[#2. Working with Text]]** (3 videos)
+- **[[#3. Formatting Text]]** (3 videos)
+- **[[#4. Working with Paragraph Text]]** (4 videos)
+- **[[#5. Formatting Pages]]** (3 videos)
+- **[[#6. Creating Lists]]** (2 videos)
+- **[[#7. Illustrating Documents]]** (3 videos)
+- **[[#8. Proofing Documents]]** (3 videos)
+- **[[#9. Sharing and Collaborating]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create brilliant documents with Microsoft Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980)
@@ -178,7 +180,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Open, close, and read documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980)
@@ -606,7 +610,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Working with Text
+### 2. Working with Text
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inserting new text
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/inserting-new-text?u=76281980)
@@ -969,7 +975,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 4. 3. Formatting Text
+### 3. Formatting Text
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Change font formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980)
@@ -1388,7 +1396,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Working with Paragraph Text
+### 4. Working with Paragraph Text
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Change paragraph alignment
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980)
@@ -1903,7 +1913,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Formatting Pages
+### 5. Formatting Pages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Change page layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980)
@@ -2246,7 +2258,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Creating Lists
+### 6. Creating Lists
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create bulleted and numbered lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980)
@@ -2562,7 +2576,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Illustrating Documents
+### 7. Illustrating Documents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Illustrate with a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980)
@@ -3058,7 +3074,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Proofing Documents
+### 8. Proofing Documents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set proofing and autocorrect options
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/set-proofing-and-autocorrect-options?u=76281980)
@@ -3569,7 +3587,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 10. 9. Sharing and Collaborating
+### 9. Sharing and Collaborating
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Print your documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/print-your-documents?u=76281980)
@@ -3981,7 +4001,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980)

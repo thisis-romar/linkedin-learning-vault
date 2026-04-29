@@ -51,15 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Web Performance: An Introduction** (3 videos)
-- **3. 2. Web Performance Basics** (5 videos)
-- **4. 3. Creating a Performance Budget** (3 videos)
-- **5. 4. Optimizing Images** (8 videos)
-- **6. 5. Markup and Content** (8 videos)
-- **7. 6. Web Fonts** (5 videos)
-- **8. 7. Optimizing Delivery** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Web Performance: An Introduction]]** (3 videos)
+- **[[#3. 2. Web Performance Basics]]** (5 videos)
+- **[[#4. 3. Creating a Performance Budget]]** (3 videos)
+- **[[#5. 4. Optimizing Images]]** (8 videos)
+- **[[#6. 5. Markup and Content]]** (8 videos)
+- **[[#7. 6. Web Fonts]]** (5 videos)
+- **[[#8. 7. Optimizing Delivery]]** (5 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

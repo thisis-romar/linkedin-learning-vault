@@ -35,20 +35,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is Finance?** (3 videos)
-- **3. 2. Risk and Return** (9 videos)
-- **4. 3. Understanding Financial Statements** (8 videos)
-- **5. 4. Short-Term Financial Management** (6 videos)
-- **6. 5. Obtaining Long-Term Financing** (7 videos)
-- **7. 6. Understanding Securities Markets** (7 videos)
-- **8. 7. Financial Institutions** (6 videos)
-- **9. 8. Capital Budgeting** (4 videos)
-- **10. 9. Advances Using Technology in Finance** (4 videos)
-- **11. 10. Personal Financial Planning** (4 videos)
-- **12. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is Finance?]]** (3 videos)
+- **[[#2. Risk and Return]]** (9 videos)
+- **[[#3. Understanding Financial Statements]]** (8 videos)
+- **[[#4. Short-Term Financial Management]]** (6 videos)
+- **[[#5. Obtaining Long-Term Financing]]** (7 videos)
+- **[[#6. Understanding Securities Markets]]** (7 videos)
+- **[[#7. Financial Institutions]]** (6 videos)
+- **[[#8. Capital Budgeting]]** (4 videos)
+- **[[#9. Advances Using Technology in Finance]]** (4 videos)
+- **[[#10. Personal Financial Planning]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The essentials of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980)
@@ -139,7 +141,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. What Is Finance?
+### 1. What Is Finance?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The board of directors discusses finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-board-of-directors-discusses-finance?u=76281980)
@@ -393,7 +397,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Risk and Return
+### 2. Risk and Return
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing risk and return
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-risk-and-return?u=76281980)
@@ -1212,7 +1218,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 4. 3. Understanding Financial Statements
+### 3. Understanding Financial Statements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980)
@@ -2040,7 +2048,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 5. 4. Short-Term Financial Management
+### 4. Short-Term Financial Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing short-term financial management
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-short-term-financial-management?u=76281980)
@@ -2497,7 +2507,9 @@ created: 2026-04-28
 > **Speakers:** - another (1)
 
 
-### 6. 5. Obtaining Long-Term Financing
+### 5. Obtaining Long-Term Financing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing long-term financing
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980)
@@ -3118,7 +3130,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 7. 6. Understanding Securities Markets
+### 6. Understanding Securities Markets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing securities markets
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-securities-markets?u=76281980)
@@ -3746,7 +3760,9 @@ created: 2026-04-28
 > **Speakers:** - can (1)
 
 
-### 8. 7. Financial Institutions
+### 7. Financial Institutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing financial institutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-financial-institutions?u=76281980)
@@ -4281,7 +4297,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 9. 8. Capital Budgeting
+### 8. Capital Budgeting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing capital budgeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-capital-budgeting?u=76281980)
@@ -4660,7 +4678,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 10. 9. Advances Using Technology in Finance
+### 9. Advances Using Technology in Finance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is fintech?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980)
@@ -5040,7 +5060,9 @@ created: 2026-04-28
 > **Speakers:** - alternative (1)
 
 
-### 11. 10. Personal Financial Planning
+### 10. Personal Financial Planning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing personal financing planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-personal-financing-planning?u=76281980)
@@ -5408,7 +5430,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reviewing corporate finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980)

@@ -57,12 +57,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Overview** (6 videos)
-- **3. 2. Adding Tests to Existing Code with Copilot** (4 videos)
-- **4. 3. Use Copilot to Generate Code from Tests** (3 videos)
-- **5. 4. Real-World Benefits** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Overview]]** (6 videos)
+- **[[#3. 2. Adding Tests to Existing Code with Copilot]]** (4 videos)
+- **[[#4. 3. Use Copilot to Generate Code from Tests]]** (3 videos)
+- **[[#5. 4. Real-World Benefits]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

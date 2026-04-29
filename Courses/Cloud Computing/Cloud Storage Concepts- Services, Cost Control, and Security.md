@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Cloud Storage Basics** (8 videos)
-- **3. 2. Cloud Services That Leverage Cloud Storage** (7 videos)
-- **4. 3. Cloud Storage Planning** (7 videos)
-- **5. 4. AWS Cloud Storage** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Cloud Storage Basics]]** (8 videos)
+- **[[#2. Cloud Services That Leverage Cloud Storage]]** (7 videos)
+- **[[#3. Cloud Storage Planning]]** (7 videos)
+- **[[#4. AWS Cloud Storage]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Cloud Storage Basics
+### 1. Cloud Storage Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud storage types
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980)
@@ -474,7 +478,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Cloud Services That Leverage Cloud Storage
+### 2. Cloud Services That Leverage Cloud Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980)
@@ -775,7 +781,9 @@ created: 2026-04-28
 > **Non-Speech:** (lively music) (1)
 
 
-### 4. 3. Cloud Storage Planning
+### 3. Cloud Storage Planning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding your storage requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980)
@@ -1149,7 +1157,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. AWS Cloud Storage
+### 4. AWS Cloud Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Allocating storage instances
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980)
@@ -1344,7 +1354,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### More about cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980)

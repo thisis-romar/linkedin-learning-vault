@@ -46,17 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started with Java** (2 videos)
-- **3. 2. Java Basics** (5 videos)
-- **4. 3. Variables** (7 videos)
-- **5. 4. Decision Structures** (9 videos)
-- **6. 5. Repetition Structures** (6 videos)
-- **7. 6. Methods** (7 videos)
-- **8. 7. Objects** (8 videos)
-- **9. 8. Arrays** (3 videos)
-- **10. 9. Text Processing** (3 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started with Java]]** (2 videos)
+- **[[#3. 2. Java Basics]]** (5 videos)
+- **[[#4. 3. Variables]]** (7 videos)
+- **[[#5. 4. Decision Structures]]** (9 videos)
+- **[[#6. 5. Repetition Structures]]** (6 videos)
+- **[[#7. 6. Methods]]** (7 videos)
+- **[[#8. 7. Objects]]** (8 videos)
+- **[[#9. 8. Arrays]]** (3 videos)
+- **[[#10. 9. Text Processing]]** (3 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

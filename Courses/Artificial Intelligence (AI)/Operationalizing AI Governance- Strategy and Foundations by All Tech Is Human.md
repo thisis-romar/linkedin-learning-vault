@@ -50,7 +50,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Operationalizing AI Governance** (2 videos)
+- **[[#1. Operationalizing AI Governance]]** (2 videos)
 
 ### 1. Operationalizing AI Governance
 

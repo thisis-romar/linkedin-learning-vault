@@ -47,18 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Docker Explained** (5 videos)
-- **3. 2. Installing Docker: The Hard Way** (7 videos)
-- **4. 3. Docker Images Demystified** (6 videos)
-- **5. 4. Exploring Dockerfiles** (16 videos)
-- **6. 5. Advanced Docker Operations** (6 videos)
-- **7. 6. Docker in Docker** (4 videos)
-- **8. 7. Networking** (6 videos)
-- **9. 8. Storing Data** (6 videos)
-- **10. 9. The Docker Registry** (5 videos)
-- **11. 10. Additional Docker Resources** (3 videos)
-- **12. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Docker Explained]]** (5 videos)
+- **[[#3. 2. Installing Docker: The Hard Way]]** (7 videos)
+- **[[#4. 3. Docker Images Demystified]]** (6 videos)
+- **[[#5. 4. Exploring Dockerfiles]]** (16 videos)
+- **[[#6. 5. Advanced Docker Operations]]** (6 videos)
+- **[[#7. 6. Docker in Docker]]** (4 videos)
+- **[[#8. 7. Networking]]** (6 videos)
+- **[[#9. 8. Storing Data]]** (6 videos)
+- **[[#10. 9. The Docker Registry]]** (5 videos)
+- **[[#11. 10. Additional Docker Resources]]** (3 videos)
+- **[[#12. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

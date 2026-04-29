@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Links in HTML** (10 videos)
-- **3. 2. Styling Links with CSS** (6 videos)
-- **4. 3. Maintaining Links** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Links in HTML]]** (10 videos)
+- **[[#3. 2. Styling Links with CSS]]** (6 videos)
+- **[[#4. 3. Maintaining Links]]** (5 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

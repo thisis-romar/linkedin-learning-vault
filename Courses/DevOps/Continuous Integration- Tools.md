@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. Self-Hosted** (4 videos)
-- **3. 2. Software as a Service (SaaS)** (3 videos)
-- **4. 3. Cloud Service Providers** (4 videos)
-- **5. 4. Code Repositories** (4 videos)
-- **6. 5. Selecting a CI Tool** (1 videos)
+- **[[#1. Introduction]]** (6 videos)
+- **[[#2. 1. Self-Hosted]]** (4 videos)
+- **[[#3. 2. Software as a Service (SaaS)]]** (3 videos)
+- **[[#4. 3. Cloud Service Providers]]** (4 videos)
+- **[[#5. 4. Code Repositories]]** (4 videos)
+- **[[#6. 5. Selecting a CI Tool]]** (1 videos)
 
 ### 1. Introduction
 

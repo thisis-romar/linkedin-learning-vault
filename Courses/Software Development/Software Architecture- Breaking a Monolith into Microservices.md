@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understand the Status Quo and the Project Goals** (4 videos)
-- **3. 2. Splitting Capabilities into Services** (9 videos)
-- **4. 3. Required Operational and Organizational Maturity** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understand the Status Quo and the Project Goals]]** (4 videos)
+- **[[#2. Splitting Capabilities into Services]]** (9 videos)
+- **[[#3. Required Operational and Organizational Maturity]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Embark on a journey to refactor your architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understand the Status Quo and the Project Goals
+### 1. Understand the Status Quo and the Project Goals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to your new role!
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980)
@@ -471,7 +475,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Splitting Capabilities into Services
+### 2. Splitting Capabilities into Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design mistakes and how to avoid them
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980)
@@ -1105,7 +1111,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Required Operational and Organizational Maturity
+### 3. Required Operational and Organizational Maturity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### It's not just about code: Meet Mr. Conway
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980)
@@ -1556,7 +1564,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980)

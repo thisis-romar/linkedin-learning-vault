@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions** (10 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Put away your data and listen carefully
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/put-away-your-data-and-listen-carefully?u=76281980)
@@ -74,7 +76,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 2. 1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions
+### 1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Know your role: The guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/know-your-role-the-guide?u=76281980)
@@ -895,7 +899,9 @@ created: 2026-04-28
 > **Speakers:** - did (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your data analyst learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/continue-your-data-analyst-learning-journey?u=76281980)

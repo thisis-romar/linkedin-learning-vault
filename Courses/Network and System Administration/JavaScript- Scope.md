@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Variable Scope** (6 videos)
-- **3. 2. Global Variables** (1 videos)
-- **4. 3. Local Variables** (1 videos)
-- **5. 4. Block-Scoped Variables** (2 videos)
-- **6. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Variable Scope]]** (6 videos)
+- **[[#3. 2. Global Variables]]** (1 videos)
+- **[[#4. 3. Local Variables]]** (1 videos)
+- **[[#5. 4. Block-Scoped Variables]]** (2 videos)
+- **[[#6. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

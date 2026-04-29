@@ -45,13 +45,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Setting Up Jenkins** (8 videos)
-- **3. 2. Create a Build Environment** (6 videos)
-- **4. 3. Connect Jenkins with Webhooks** (5 videos)
-- **5. 4. Deploy Code to AWS Lambda** (6 videos)
-- **6. 5. Shut Down AWS Resources** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Setting Up Jenkins]]** (8 videos)
+- **[[#3. 2. Create a Build Environment]]** (6 videos)
+- **[[#4. 3. Connect Jenkins with Webhooks]]** (5 videos)
+- **[[#5. 4. Deploy Code to AWS Lambda]]** (6 videos)
+- **[[#6. 5. Shut Down AWS Resources]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

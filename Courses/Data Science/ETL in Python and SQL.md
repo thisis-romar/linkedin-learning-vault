@@ -60,14 +60,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Are ETLs?** (6 videos)
-- **3. 2. Extracting and Transforming Data with Python** (6 videos)
-- **4. 3. Loading Data into Target Systems** (5 videos)
-- **5. 4. Automating ETL Jobs: Scheduling ETL Jobs with Python** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Are ETLs?]]** (6 videos)
+- **[[#2. Extracting and Transforming Data with Python]]** (6 videos)
+- **[[#3. Loading Data into Target Systems]]** (5 videos)
+- **[[#4. Automating ETL Jobs: Scheduling ETL Jobs with Python]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create an ETL in Python and SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Are ETLs?
+### 1. What Are ETLs?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are ETLs and how do you create them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980)
@@ -565,7 +569,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Extracting and Transforming Data with Python
+### 2. Extracting and Transforming Data with Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Loading data from different sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980)
@@ -1079,7 +1085,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Loading Data into Target Systems
+### 3. Loading Data into Target Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data warehouses and data lakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980)
@@ -1550,7 +1558,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Automating ETL Jobs: Scheduling ETL Jobs with Python
+### 4. Automating ETL Jobs: Scheduling ETL Jobs with Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Querying your data with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980)
@@ -2054,7 +2064,9 @@ created: 2026-04-28
 > **Cross-References:** next video (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Expand your knowledge of ETLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980)

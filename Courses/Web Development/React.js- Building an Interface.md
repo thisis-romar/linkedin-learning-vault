@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Set Up and Install** (5 videos)
-- **3. 2. Getting Started** (4 videos)
-- **4. 3. Sort and Search** (3 videos)
-- **5. 4. Mutating Data** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Set Up and Install]]** (5 videos)
+- **[[#2. Getting Started]]** (4 videos)
+- **[[#3. Sort and Search]]** (3 videos)
+- **[[#4. Mutating Data]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why React is so important
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980)
@@ -154,7 +156,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1), install (1)
 
 
-### 2. 1. Set Up and Install
+### 1. Set Up and Install
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980)
@@ -806,7 +810,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 3. 2. Getting Started
+### 2. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your first component
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980)
@@ -1168,7 +1174,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 4. 3. Sort and Search
+### 3. Sort and Search
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Passing data to a component
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-data-to-a-component?u=76281980)
@@ -1447,7 +1455,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Mutating Data
+### 4. Mutating Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### useEffect and useCallback Hooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980)
@@ -2136,7 +2146,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980)

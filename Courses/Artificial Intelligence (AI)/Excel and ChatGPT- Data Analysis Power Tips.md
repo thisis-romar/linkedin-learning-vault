@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. How AI Is Revolutionizing Data Analysis** (2 videos)
-- **3. 2. A Crash Course in AI, LLMs, and ChatGPT** (6 videos)
-- **4. 3. Prompt Engineering Tips** (5 videos)
-- **5. 4. ChatGPT for Excel** (14 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. How AI Is Revolutionizing Data Analysis]]** (2 videos)
+- **[[#2. A Crash Course in AI, LLMs, and ChatGPT]]** (6 videos)
+- **[[#3. Prompt Engineering Tips]]** (5 videos)
+- **[[#4. ChatGPT for Excel]]** (14 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future is now: Intro to AI for data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
@@ -164,7 +166,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. How AI Is Revolutionizing Data Analysis
+### 1. How AI Is Revolutionizing Data Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why AI is a game-changer for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
@@ -313,7 +317,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. A Crash Course in AI, LLMs, and ChatGPT
+### 2. A Crash Course in AI, LLMs, and ChatGPT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The AI landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980)
@@ -720,7 +726,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Prompt Engineering Tips
+### 3. Prompt Engineering Tips
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980)
@@ -917,7 +925,9 @@ created: 2026-04-28
 > **Speakers:** - [lecturer] (1)
 
 
-### 5. 4. ChatGPT for Excel
+### 4. ChatGPT for Excel
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to ChatGPT for Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980)
@@ -3049,7 +3059,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980)

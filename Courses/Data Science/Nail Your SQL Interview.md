@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Data Definition Language Review** (3 videos)
-- **3. 2. Data Query Language Review and Logical Operators** (5 videos)
-- **4. 3. Data Manipulation Language Review** (2 videos)
-- **5. 4. Transaction Control Language** (1 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Data Definition Language Review]]** (3 videos)
+- **[[#3. 2. Data Query Language Review and Logical Operators]]** (5 videos)
+- **[[#4. 3. Data Manipulation Language Review]]** (2 videos)
+- **[[#5. 4. Transaction Control Language]]** (1 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

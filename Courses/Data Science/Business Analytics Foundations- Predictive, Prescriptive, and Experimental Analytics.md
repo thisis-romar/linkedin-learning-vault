@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Business Analytics (BA)** (5 videos)
-- **3. 2. Predictive Analytics (PRA)** (4 videos)
-- **4. 3. Prescriptive Analytics (PSA)** (4 videos)
-- **5. 4. Experimental Analytics (EXA)** (4 videos)
-- **6. 5. Trust and Safety Considerations** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Business Analytics (BA)]]** (5 videos)
+- **[[#3. 2. Predictive Analytics (PRA)]]** (4 videos)
+- **[[#4. 3. Prescriptive Analytics (PSA)]]** (4 videos)
+- **[[#5. 4. Experimental Analytics (EXA)]]** (4 videos)
+- **[[#6. 5. Trust and Safety Considerations]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

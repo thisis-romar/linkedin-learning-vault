@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Scanning Purpose and Methodology** (6 videos)
-- **3. 2. Discovering Hosts** (5 videos)
-- **4. 3. Identifying Open Services** (5 videos)
-- **5. 4. Determining Operating Systems** (5 videos)
-- **6. 5. Moving through the Network** (4 videos)
-- **7. 6. Avoiding Detection** (4 videos)
-- **8. 7. Counteracting Scanning** (5 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Scanning Purpose and Methodology]]** (6 videos)
+- **[[#2. Discovering Hosts]]** (5 videos)
+- **[[#3. Identifying Open Services]]** (5 videos)
+- **[[#4. Determining Operating Systems]]** (5 videos)
+- **[[#5. Moving through the Network]]** (4 videos)
+- **[[#6. Avoiding Detection]]** (4 videos)
+- **[[#7. Counteracting Scanning]]** (5 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scanning the LAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-the-lan?u=76281980)
@@ -176,7 +178,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Scanning Purpose and Methodology
+### 1. Scanning Purpose and Methodology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Roadmapping a scan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980)
@@ -660,7 +664,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Discovering Hosts
+### 2. Discovering Hosts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Locating network hosts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980)
@@ -1057,7 +1063,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Identifying Open Services
+### 3. Identifying Open Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evaluating port scanning methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980)
@@ -1467,7 +1475,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 5. 4. Determining Operating Systems
+### 4. Determining Operating Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fingerprinting the OS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980)
@@ -1882,7 +1892,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 6. 5. Moving through the Network
+### 5. Moving through the Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generating less noise
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980)
@@ -2156,7 +2168,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Avoiding Detection
+### 6. Avoiding Detection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manipulating packets
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980)
@@ -2433,7 +2447,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Counteracting Scanning
+### 7. Counteracting Scanning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preventing scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/preventing-scanning?u=76281980)

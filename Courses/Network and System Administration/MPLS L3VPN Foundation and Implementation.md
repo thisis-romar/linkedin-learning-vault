@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to MPLS and L3VPN** (4 videos)
-- **3. 2. MPLS Fundamentals** (5 videos)
-- **4. 3. L3VPN Core Concepts** (5 videos)
-- **5. 4. Designing MPLS L3VPN** (5 videos)
-- **6. 5. Implementing MPLS L3VPN** (6 videos)
-- **7. 6. Advanced Topics and Wrap-Up** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to MPLS and L3VPN]]** (4 videos)
+- **[[#3. 2. MPLS Fundamentals]]** (5 videos)
+- **[[#4. 3. L3VPN Core Concepts]]** (5 videos)
+- **[[#5. 4. Designing MPLS L3VPN]]** (5 videos)
+- **[[#6. 5. Implementing MPLS L3VPN]]** (6 videos)
+- **[[#7. 6. Advanced Topics and Wrap-Up]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

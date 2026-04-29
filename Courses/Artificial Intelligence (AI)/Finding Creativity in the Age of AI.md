@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Measuring Your Own Creativity** (2 videos)
-- **3. 2. Finding Creativity with AI** (8 videos)
-- **4. 3. Finding Creativity without AI** (9 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Measuring Your Own Creativity]]** (2 videos)
+- **[[#2. Finding Creativity with AI]]** (8 videos)
+- **[[#3. Finding Creativity without AI]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where does creativity live?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/where-does-creativity-live?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Measuring Your Own Creativity
+### 1. Measuring Your Own Creativity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your creative baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980)
@@ -202,7 +206,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 3. 2. Finding Creativity with AI
+### 2. Finding Creativity with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The FINDS framework: How AI can assist creativity
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980)
@@ -783,7 +789,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/ai-and-copyright?u=76281980)
 
 
-### 4. 3. Finding Creativity without AI
+### 3. Finding Creativity without AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The CREATE framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-create-framework?u=76281980)
@@ -1316,7 +1324,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980)

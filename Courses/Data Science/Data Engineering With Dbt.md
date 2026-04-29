@@ -53,21 +53,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Prepare Your Coding Environment** (4 videos)
-- **3. 2. Prepare Your Database Environment** (2 videos)
-- **4. 3. Create a dbt Project** (1 videos)
-- **5. 4. Prepare Your dbt Environment** (3 videos)
-- **6. 5. Your First dbt Model** (2 videos)
-- **7. 6. Introduction to dbt Ref Function** (3 videos)
-- **8. 7. Implementing Medallion Architecture with dbt** (4 videos)
-- **9. 8. Materialization of dbt Models** (2 videos)
-- **10. 9. Documentation as Code via dbt** (2 videos)
-- **11. 10. Implementing Tests within Your dbt Project** (2 videos)
-- **12. 11. Deploying Your dbt Project** (2 videos)
-- **13. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Prepare Your Coding Environment]]** (4 videos)
+- **[[#2. Prepare Your Database Environment]]** (2 videos)
+- **[[#3. Create a dbt Project]]** (1 videos)
+- **[[#4. Prepare Your dbt Environment]]** (3 videos)
+- **[[#5. Your First dbt Model]]** (2 videos)
+- **[[#6. Introduction to dbt Ref Function]]** (3 videos)
+- **[[#7. Implementing Medallion Architecture with dbt]]** (4 videos)
+- **[[#8. Materialization of dbt Models]]** (2 videos)
+- **[[#9. Documentation as Code via dbt]]** (2 videos)
+- **[[#10. Implementing Tests within Your dbt Project]]** (2 videos)
+- **[[#11. Deploying Your dbt Project]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build your first dbt project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980)
@@ -194,7 +196,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Prepare Your Coding Environment
+### 1. Prepare Your Coding Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install the dbt Core via pip
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-core-via-pip?u=76281980)
@@ -328,7 +332,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Prepare Your Database Environment
+### 2. Prepare Your Database Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your database file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980)
@@ -487,7 +493,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Create a dbt Project
+### 3. Create a dbt Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start your project with dbt init
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/start-your-project-with-dbt-init?u=76281980)
@@ -534,7 +542,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Prepare Your dbt Environment
+### 4. Prepare Your dbt Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the dbt_project.yml file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/understand-the-dbt-project-yml-file?u=76281980)
@@ -715,7 +725,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Your First dbt Model
+### 5. Your First dbt Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your first dbt model file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-first-dbt-model-file?u=76281980)
@@ -868,7 +880,9 @@ created: 2026-04-28
 > **Warnings:** heads up (1)
 
 
-### 7. 6. Introduction to dbt Ref Function
+### 6. Introduction to dbt Ref Function
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your dbt model utilizing ref
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-dbt-model-utilizing-ref?u=76281980)
@@ -1032,7 +1046,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Implementing Medallion Architecture with dbt
+### 7. Implementing Medallion Architecture with dbt
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning your medallion architecture project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/planning-your-medallion-architecture-project?u=76281980)
@@ -1362,7 +1378,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Materialization of dbt Models
+### 8. Materialization of dbt Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Materialization in your dbt project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980)
@@ -1466,7 +1484,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Documentation as Code via dbt
+### 9. Documentation as Code via dbt
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further documentation via schema.yml file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/further-documentation-via-schema-yml-file?u=76281980)
@@ -1631,7 +1651,9 @@ created: 2026-04-28
 > **Code Identifiers:** violation_code (1)
 
 
-### 11. 10. Implementing Tests within Your dbt Project
+### 10. Implementing Tests within Your dbt Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating custom singular tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980)
@@ -1836,7 +1858,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 12. 11. Deploying Your dbt Project
+### 11. Deploying Your dbt Project
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Utilizing multiple dbt profiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980)
@@ -2071,7 +2095,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1), python (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/next-steps?u=76281980)

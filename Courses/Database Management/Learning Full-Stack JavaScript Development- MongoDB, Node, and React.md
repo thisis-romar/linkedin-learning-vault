@@ -55,12 +55,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started** (7 videos)
-- **3. 2. React Fundamentals** (5 videos)
-- **4. 3. Working with Data** (8 videos)
-- **5. 4. Routing and History** (7 videos)
-- **6. 5. Persisting Data** (7 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Started]]** (7 videos)
+- **[[#3. 2. React Fundamentals]]** (5 videos)
+- **[[#4. 3. Working with Data]]** (8 videos)
+- **[[#5. 4. Routing and History]]** (7 videos)
+- **[[#6. 5. Persisting Data]]** (7 videos)
 
 ### 1. Introduction
 

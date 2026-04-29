@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Basics of Code Reviews** (4 videos)
-- **3. 2. Performing a Code Review** (7 videos)
-- **4. 3. Reviewing Code on the Cloud** (6 videos)
-- **5. 4. Implementing a Feature** (4 videos)
-- **6. 5. Submitting Code for Review** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Basics of Code Reviews]]** (4 videos)
+- **[[#2. Performing a Code Review]]** (7 videos)
+- **[[#3. Reviewing Code on the Cloud]]** (6 videos)
+- **[[#4. Implementing a Feature]]** (4 videos)
+- **[[#5. Submitting Code for Review]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Write great code reviews to advance your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-great-code-reviews-to-advance-your-career?u=76281980)
@@ -127,7 +129,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Basics of Code Reviews
+### 1. Basics of Code Reviews
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a code review?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980)
@@ -318,7 +322,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Performing a Code Review
+### 2. Performing a Code Review
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the author’s purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/understand-the-author-s-purpose?u=76281980)
@@ -757,7 +763,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 4. 3. Reviewing Code on the Cloud
+### 3. Reviewing Code on the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Find code to review on GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980)
@@ -1373,7 +1381,9 @@ created: 2026-04-28
 > **UI Navigation:** navigate to (1)
 
 
-### 5. 4. Implementing a Feature
+### 4. Implementing a Feature
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scope of a code change
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/scope-of-a-code-change?u=76281980)
@@ -1673,7 +1683,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Submitting Code for Review
+### 5. Submitting Code for Review
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a pull request (PR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/create-a-pull-request-pr?u=76281980)
@@ -2133,7 +2145,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add code reviews into your daily job
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980)

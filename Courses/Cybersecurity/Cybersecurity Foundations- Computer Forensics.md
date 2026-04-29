@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding Computer Forensics** (10 videos)
-- **3. 2. Areas of Computer Forensics** (9 videos)
-- **4. 3. Preparing for an Investigation** (9 videos)
-- **5. 4. File System Fundamentals** (7 videos)
-- **6. 5. Persisting Data** (11 videos)
-- **7. 6. Aquiring Data** (7 videos)
-- **8. 7. Putting It All Together: Analyzing Data and Generating Reports** (7 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding Computer Forensics]]** (10 videos)
+- **[[#2. Areas of Computer Forensics]]** (9 videos)
+- **[[#3. Preparing for an Investigation]]** (9 videos)
+- **[[#4. File System Fundamentals]]** (7 videos)
+- **[[#5. Persisting Data]]** (11 videos)
+- **[[#6. Aquiring Data]]** (7 videos)
+- **[[#7. Putting It All Together: Analyzing Data and Generating Reports]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980)
@@ -114,7 +116,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. Understanding Computer Forensics
+### 1. Understanding Computer Forensics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Definition and goals of computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/definition-and-goals-of-computer-forensics?u=76281980)
@@ -624,7 +628,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Areas of Computer Forensics
+### 2. Areas of Computer Forensics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Specializations in computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980)
@@ -1214,7 +1220,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Preparing for an Investigation
+### 3. Preparing for an Investigation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tools and knowledge requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980)
@@ -1703,7 +1711,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. File System Fundamentals
+### 4. File System Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding file systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980)
@@ -2037,7 +2047,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Persisting Data
+### 5. Persisting Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evidence preservation approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980)
@@ -2734,7 +2746,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Aquiring Data
+### 6. Aquiring Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data acquisition approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980)
@@ -3048,7 +3062,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Putting It All Together: Analyzing Data and Generating Reports
+### 7. Putting It All Together: Analyzing Data and Generating Reports
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Forensic data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980)
@@ -3533,7 +3549,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980)

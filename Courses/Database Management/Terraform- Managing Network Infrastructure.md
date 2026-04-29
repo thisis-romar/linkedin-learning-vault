@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Terraform Basics** (5 videos)
-- **3. 2. Foundational Networking in AWS with Terraform** (5 videos)
-- **4. 3. Advanced Networking in AWS with Terraform** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Terraform Basics]]** (5 videos)
+- **[[#2. Foundational Networking in AWS with Terraform]]** (5 videos)
+- **[[#3. Advanced Networking in AWS with Terraform]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Network management in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/network-management-in-the-cloud?u=76281980)
@@ -127,7 +129,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. Terraform Basics
+### 1. Terraform Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Terraform's composition
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980)
@@ -570,7 +574,9 @@ created: 2026-04-28
 > **Prerequisites:** make sure you have (1), set up (1)
 
 
-### 3. 2. Foundational Networking in AWS with Terraform
+### 2. Foundational Networking in AWS with Terraform
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a bare minimum VPC with Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/creating-a-bare-minimum-vpc-with-terraform?u=76281980)
@@ -1082,7 +1088,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Advanced Networking in AWS with Terraform
+### 3. Advanced Networking in AWS with Terraform
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Terraform to expand our infrastructure footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980)
@@ -1533,7 +1541,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What comes next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980)

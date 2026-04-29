@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Security Testing in QA** (6 videos)
-- **3. 2. Assessing Deployed Apps** (8 videos)
-- **4. 3. Web App Pen Testing** (8 videos)
-- **5. 4. Testing for the OWASP Top Ten (2021)** (11 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Security Testing in QA]]** (6 videos)
+- **[[#2. Assessing Deployed Apps]]** (8 videos)
+- **[[#3. Web App Pen Testing]]** (8 videos)
+- **[[#4. Testing for the OWASP Top Ten (2021)]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of dynamic testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Security Testing in QA
+### 1. Security Testing in QA
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Software quality assurance process
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980)
@@ -690,7 +694,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 3. 2. Assessing Deployed Apps
+### 2. Assessing Deployed Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manual vs. automated testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980)
@@ -1553,7 +1559,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 4. 3. Web App Pen Testing
+### 3. Web App Pen Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scoping a web app pen test
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980)
@@ -2426,7 +2434,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Testing for the OWASP Top Ten (2021)
+### 4. Testing for the OWASP Top Ten (2021)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980)
@@ -3539,7 +3549,9 @@ created: 2026-04-28
 > **Speakers:** - [teacher] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980)

@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Setting Up Your Workbench for Soldering** (5 videos)
-- **3. 2. Making Connections with Solder** (5 videos)
-- **4. 3. Soldering through Hole Components** (10 videos)
-- **5. 4. Surface Mount Soldering** (4 videos)
-- **6. 5. How to Fix Mistakes** (8 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Setting Up Your Workbench for Soldering]]** (5 videos)
+- **[[#3. 2. Making Connections with Solder]]** (5 videos)
+- **[[#4. 3. Soldering through Hole Components]]** (10 videos)
+- **[[#5. 4. Surface Mount Soldering]]** (4 videos)
+- **[[#6. 5. How to Fix Mistakes]]** (8 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

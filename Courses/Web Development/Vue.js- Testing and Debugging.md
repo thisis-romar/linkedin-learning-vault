@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Setting Up Testing Tools** (4 videos)
-- **3. 2. Unit Testing** (7 videos)
-- **4. 3. Testing Vue Components** (3 videos)
-- **5. 4. Debugging with Vue and Chrome Developer tools** (5 videos)
-- **6. 5. Functional and Automated Testing** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Setting Up Testing Tools]]** (4 videos)
+- **[[#3. 2. Unit Testing]]** (7 videos)
+- **[[#4. 3. Testing Vue Components]]** (3 videos)
+- **[[#5. 4. Debugging with Vue and Chrome Developer tools]]** (5 videos)
+- **[[#6. 5. Functional and Automated Testing]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

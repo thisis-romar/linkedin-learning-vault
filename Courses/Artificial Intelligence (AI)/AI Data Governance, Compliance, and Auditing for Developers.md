@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. National and International Foundations for AI Data Governance** (5 videos)
-- **3. 2. The Role of Data Transparency in AI Data Governance** (4 videos)
-- **4. 3. Compliance for AI Data Governance** (4 videos)
-- **5. 4. AI Data Governance Auditing** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. National and International Foundations for AI Data Governance]]** (5 videos)
+- **[[#2. The Role of Data Transparency in AI Data Governance]]** (4 videos)
+- **[[#3. Compliance for AI Data Governance]]** (4 videos)
+- **[[#4. AI Data Governance Auditing]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your developer guide to AI data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/your-developer-guide-to-ai-data-governance?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - is (1)
 
 
-### 2. 1. National and International Foundations for AI Data Governance
+### 1. National and International Foundations for AI Data Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to national and international foundation for AI data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980)
@@ -674,7 +678,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Role of Data Transparency in AI Data Governance
+### 2. The Role of Data Transparency in AI Data Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the role of data transparency
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980)
@@ -1016,7 +1022,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Compliance for AI Data Governance
+### 3. Compliance for AI Data Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI data compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980)
@@ -1384,7 +1392,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. 4. AI Data Governance Auditing
+### 4. AI Data Governance Auditing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI data governance auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980)
@@ -1601,7 +1611,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your AI data governance journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980)

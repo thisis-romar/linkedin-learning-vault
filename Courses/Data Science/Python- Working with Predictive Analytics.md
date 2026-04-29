@@ -53,10 +53,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Data Preprocessing** (8 videos)
-- **3. 2. Predictive Models** (11 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Data Preprocessing]]** (8 videos)
+- **[[#3. 2. Predictive Models]]** (11 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

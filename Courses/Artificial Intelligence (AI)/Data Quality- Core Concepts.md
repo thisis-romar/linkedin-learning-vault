@@ -47,12 +47,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Data Quality Fundamentals** (16 videos)
-- **3. 2. Data Quality Across the Data Lifecycle** (13 videos)
-- **4. 3. Common Data Quality Issues and How to Measure Them** (8 videos)
-- **5. 4. Data Quality Tooling** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Data Quality Fundamentals]]** (16 videos)
+- **[[#3. 2. Data Quality Across the Data Lifecycle]]** (13 videos)
+- **[[#4. 3. Common Data Quality Issues and How to Measure Them]]** (8 videos)
+- **[[#5. 4. Data Quality Tooling]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

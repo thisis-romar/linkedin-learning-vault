@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. A New Citizen for the Web** (9 videos)
-- **3. 2. Work with Service Workers** (10 videos)
-- **4. 3. Acting as a Network Proxy** (7 videos)
-- **5. 4. Cache Storage** (11 videos)
-- **6. 5. Work with APIs in the Service Worker** (6 videos)
-- **7. 6. Tips and Tricks for Web Performance** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. A New Citizen for the Web]]** (9 videos)
+- **[[#3. 2. Work with Service Workers]]** (10 videos)
+- **[[#4. 3. Acting as a Network Proxy]]** (7 videos)
+- **[[#5. 4. Cache Storage]]** (11 videos)
+- **[[#6. 5. Work with APIs in the Service Worker]]** (6 videos)
+- **[[#7. 6. Tips and Tricks for Web Performance]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

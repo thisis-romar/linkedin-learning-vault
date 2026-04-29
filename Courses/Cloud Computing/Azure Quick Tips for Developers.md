@@ -49,8 +49,8 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Azure Quick Tips for Developers** (44 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Azure Quick Tips for Developers]]** (44 videos)
 
 ### 1. Introduction
 

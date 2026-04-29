@@ -55,14 +55,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Setup: Data Engineering Foundations** (4 videos)
-- **3. 2. Extraction** (4 videos)
-- **4. 3. Data Modeling** (7 videos)
-- **5. 4. Transform** (2 videos)
-- **6. 5. Load** (5 videos)
-- **7. 6. Using the Knowledge Graph with AI** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Setup: Data Engineering Foundations]]** (4 videos)
+- **[[#3. 2. Extraction]]** (4 videos)
+- **[[#4. 3. Data Modeling]]** (7 videos)
+- **[[#5. 4. Transform]]** (2 videos)
+- **[[#6. 5. Load]]** (5 videos)
+- **[[#7. 6. Using the Knowledge Graph with AI]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Foundational Concepts** (2 videos)
-- **3. 2. Threats and Attacks** (3 videos)
-- **4. 3. Modern Security Approaches** (5 videos)
-- **5. 4. Cloud and Compliance** (2 videos)
-- **6. 5. Topics of the Future** (1 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Foundational Concepts]]** (2 videos)
+- **[[#2. Threats and Attacks]]** (3 videos)
+- **[[#3. Modern Security Approaches]]** (5 videos)
+- **[[#4. Cloud and Compliance]]** (2 videos)
+- **[[#5. Topics of the Future]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advanced cyber concepts simplified
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/advanced-cyber-concepts-simplified?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 2. 1. Foundational Concepts
+### 1. Foundational Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Threats, risks, and vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980)
@@ -228,7 +232,9 @@ created: 2026-04-28
 > **Speakers:** - defense (1)
 
 
-### 3. 2. Threats and Attacks
+### 2. Threats and Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Insider threat
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980)
@@ -384,7 +390,9 @@ created: 2026-04-28
 > **Speakers:** - denial (1)
 
 
-### 4. 3. Modern Security Approaches
+### 3. Modern Security Approaches
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Passwordless authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980)
@@ -678,7 +686,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 5. 4. Cloud and Compliance
+### 4. Cloud and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Compliance vs. security
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980)
@@ -798,7 +808,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. 5. Topics of the Future
+### 5. Topics of the Future
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Post-quantum cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980)
@@ -856,7 +868,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Spread your new found expertise
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/spread-your-new-found-expertise?u=76281980)

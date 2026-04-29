@@ -47,18 +47,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Fundamentals of Data Management** (8 videos)
-- **3. 2. Data Collection and Acquisition** (9 videos)
-- **4. 3. Data Processing and Integration** (9 videos)
-- **5. 4. Data Storage and Management** (8 videos)
-- **6. 5. Data Analysis and Interpretation** (8 videos)
-- **7. 6. Data Visualization and Reporting** (9 videos)
-- **8. 7. Data Governance and Compliance** (8 videos)
-- **9. 8. Data Management Meets AI** (7 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Fundamentals of Data Management]]** (8 videos)
+- **[[#2. Data Collection and Acquisition]]** (9 videos)
+- **[[#3. Data Processing and Integration]]** (9 videos)
+- **[[#4. Data Storage and Management]]** (8 videos)
+- **[[#5. Data Analysis and Interpretation]]** (8 videos)
+- **[[#6. Data Visualization and Reporting]]** (9 videos)
+- **[[#7. Data Governance and Compliance]]** (8 videos)
+- **[[#8. Data Management Meets AI]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dive into data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/dive-into-data-management?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Fundamentals of Data Management
+### 1. Fundamentals of Data Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-management?u=76281980)
@@ -579,7 +583,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 3. 2. Data Collection and Acquisition
+### 2. Data Collection and Acquisition
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-collection?u=76281980)
@@ -1184,7 +1190,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Data Processing and Integration
+### 3. Data Processing and Integration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-processing?u=76281980)
@@ -1737,7 +1745,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data Storage and Management
+### 4. Data Storage and Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-storage?u=76281980)
@@ -2172,7 +2182,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Data Analysis and Interpretation
+### 5. Data Analysis and Interpretation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-analysis?u=76281980)
@@ -2523,7 +2535,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. Data Visualization and Reporting
+### 6. Data Visualization and Reporting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-visualization?u=76281980)
@@ -3019,7 +3033,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Data Governance and Compliance
+### 7. Data Governance and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-governance?u=76281980)
@@ -3488,7 +3504,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Data Management Meets AI
+### 8. Data Management Meets AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI in data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-ai-in-data-management?u=76281980)
@@ -3855,7 +3873,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/next-steps?u=76281980)

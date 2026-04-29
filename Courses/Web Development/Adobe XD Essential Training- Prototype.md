@@ -31,8 +31,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Adobe%20XD%20Essential%20Training-%20Prototype.md)
-
 ![Adobe XD Essential Training: Prototype](https://media.licdn.com/dms/image/v2/C560DAQEXXWYA_QRuDw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1635877344665?e=2147483647&amp;v=beta&amp;t=5rcMogn5-W2jzc436Frp4YlETSFrWfO3lGwfDMIMFOQ)
 
 # Adobe XD Essential Training: Prototype
@@ -46,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Windows Management** (3 videos)
-- **3. 2. Triggers and Interactions** (10 videos)
-- **4. 3. Auto-Animate Interactions** (5 videos)
-- **5. 4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Windows Management]]** (3 videos)
+- **[[#2. Triggers and Interactions]]** (10 videos)
+- **[[#3. Auto-Animate Interactions]]** (5 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to Adobe XD: Prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980)
@@ -87,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Windows Management
+### 1. Windows Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Desktop preview app
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980)
@@ -260,7 +262,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Triggers and Interactions
+### 2. Triggers and Interactions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tap and Previous Artboard transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980)
@@ -1349,7 +1353,9 @@ created: 2026-04-28
 > **Prerequisites:** make sure you have (1)
 
 
-### 4. 3. Auto-Animate Interactions
+### 3. Auto-Animate Interactions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing auto-animate
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/introducing-auto-animate?u=76281980)
@@ -1843,7 +1849,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Conclusion
+### 4. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go to from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/where-to-go-to-from-here?u=76281980)
@@ -1892,8 +1900,4 @@ created: 2026-04-28
 _Courses sharing skills:_
 
 - [[Principle for UX Design]] — User Interface Prototyping
-- [[Lo-Fi to Hi-Fi- Prototyping in Figma]] — User Interface Prototyping
-
----
-
-[↑ Back to top](#)
+- [[Lo-Fi to Hi-Fi- Prototyping in Figma]] — User Interfa

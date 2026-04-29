@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Language Features** (5 videos)
-- **3. 2. Advanced Functions** (5 videos)
-- **4. 3. Python Comprehensions** (5 videos)
-- **5. 4. Classes and Objects** (7 videos)
-- **6. 5. Structural Pattern Matching** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Language Features]]** (5 videos)
+- **[[#3. 2. Advanced Functions]]** (5 videos)
+- **[[#4. 3. Python Comprehensions]]** (5 videos)
+- **[[#5. 4. Classes and Objects]]** (7 videos)
+- **[[#6. 5. Structural Pattern Matching]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

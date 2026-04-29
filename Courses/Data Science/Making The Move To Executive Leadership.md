@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Personal Leadership Skills** (6 videos)
-- **3. 2. Team Leadership Skills** (3 videos)
-- **4. 3. Leadership for Organizational Impact** (4 videos)
-- **5. 4. Managing the Executive Promotion Process** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Personal Leadership Skills]]** (6 videos)
+- **[[#3. 2. Team Leadership Skills]]** (3 videos)
+- **[[#4. 3. Leadership for Organizational Impact]]** (4 videos)
+- **[[#5. 4. Managing the Executive Promotion Process]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

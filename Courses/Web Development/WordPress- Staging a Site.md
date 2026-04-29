@@ -48,15 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is a WordPress Staging Site?** (3 videos)
-- **3. 2. How to Create a WordPress Staging Site with Plug-Ins** (4 videos)
-- **4. 3. How to Create a WordPress Staging Site with Local Tools** (2 videos)
-- **5. 4. How to Create a Staging Site with Hosting** (3 videos)
-- **6. 5. How to Manually Create a Staging Site** (2 videos)
-- **7. 6. Using a Staging Site** (5 videos)
-- **8. 7. Troubleshooting Common Issues with Staging Sites** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. What Is a WordPress Staging Site?]]** (3 videos)
+- **[[#3. 2. How to Create a WordPress Staging Site with Plug-Ins]]** (4 videos)
+- **[[#4. 3. How to Create a WordPress Staging Site with Local Tools]]** (2 videos)
+- **[[#5. 4. How to Create a Staging Site with Hosting]]** (3 videos)
+- **[[#6. 5. How to Manually Create a Staging Site]]** (2 videos)
+- **[[#7. 6. Using a Staging Site]]** (5 videos)
+- **[[#8. 7. Troubleshooting Common Issues with Staging Sites]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -76,15 +76,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is Generative AI?** (4 videos)
-- **3. 2. Main Models** (5 videos)
-- **4. 3. The Future of AI** (2 videos)
-- **5. 4. Ethics and Responsibility** (2 videos)
-- **6. 5. Working with Generative AI** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is Generative AI?]]** (4 videos)
+- **[[#2. Main Models]]** (5 videos)
+- **[[#3. The Future of AI]]** (2 videos)
+- **[[#4. Ethics and Responsibility]]** (2 videos)
+- **[[#5. Working with Generative AI]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI is a tool in service of humanity
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - hello (1)
 
 
-### 2. 1. What Is Generative AI?
+### 1. What Is Generative AI?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980)
@@ -403,7 +407,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Main Models
+### 2. Main Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The most famous tools for generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/the-most-famous-tools-for-generative-ai?u=76281980)
@@ -672,7 +678,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 4. 3. The Future of AI
+### 3. The Future of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Future predictions
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980)
@@ -771,7 +779,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. 4. Ethics and Responsibility
+### 4. Ethics and Responsibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Moral and executive skill set required to work with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980)
@@ -855,7 +865,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 6. 5. Working with Generative AI
+### 5. Working with Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Productivity enhancements in large language models (LLMs) through APIs and real-time interactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980)
@@ -1146,7 +1158,9 @@ created: 2026-04-28
 > **Speakers:** - generative (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980)

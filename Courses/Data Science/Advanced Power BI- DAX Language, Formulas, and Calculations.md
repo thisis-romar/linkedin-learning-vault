@@ -39,15 +39,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. DAX Overview** (5 videos)
-- **3. 2. Measures** (7 videos)
-- **4. 3. Time Intelligence** (10 videos)
-- **5. 4. Advanced DAX** (7 videos)
-- **6. 5. Advanced DAX Calculations** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. DAX Overview]]** (5 videos)
+- **[[#2. Measures]]** (7 videos)
+- **[[#3. Time Intelligence]]** (10 videos)
+- **[[#4. Advanced DAX]]** (7 videos)
+- **[[#5. Advanced DAX Calculations]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore advanced features of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980)
@@ -68,7 +70,9 @@ created: 2026-04-28
 > **Env Vars:** dax (1)
 
 
-### 2. 1. DAX Overview
+### 1. DAX Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DAX intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980)
@@ -357,7 +361,9 @@ created: 2026-04-28
 > **Env Vars:** dax (1)
 
 
-### 3. 2. Measures
+### 2. Measures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DAX measures
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980)
@@ -856,7 +862,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 4. 3. Time Intelligence
+### 3. Time Intelligence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CALENDAR and CALENDARAUTO
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980)
@@ -1363,7 +1371,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 5. 4. Advanced DAX
+### 4. Advanced DAX
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ALL and ALLSELECTED DAX function
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980)
@@ -1833,7 +1843,9 @@ created: 2026-04-28
 > **Env Vars:** dax (1)
 
 
-### 6. 5. Advanced DAX Calculations
+### 5. Advanced DAX Calculations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### TMDL View
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/tmdl-view?u=76281980)
@@ -2097,7 +2109,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980)

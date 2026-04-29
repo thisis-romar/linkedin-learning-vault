@@ -56,10 +56,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. Module 1: AI-Augmented Test-Driven Development (TDD)** (6 videos)
-- **3. Module 2: Large-Scale Refactoring** (6 videos)
-- **4. Module 3: Infrastructure as Code (IaC) with Copilot** (4 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. Module 1: AI-Augmented Test-Driven Development (TDD)]]** (6 videos)
+- **[[#3. Module 2: Large-Scale Refactoring]]** (6 videos)
+- **[[#4. Module 3: Infrastructure as Code (IaC) with Copilot]]** (4 videos)
 
 ### 1. Introduction
 

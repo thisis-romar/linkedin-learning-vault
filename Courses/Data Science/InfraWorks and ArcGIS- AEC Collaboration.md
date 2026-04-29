@@ -46,15 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Setting up ArcGIS Online** (7 videos)
-- **3. 2. Adding Data to ArcGIS Online** (3 videos)
-- **4. 3. Working with ArcGIS Online Data within InfraWorks** (9 videos)
-- **5. 4. Creating Content for Publication Back to ArcGIS Online** (3 videos)
-- **6. 5. Viewing and Consuming Content Published from InfraWorks in ArcGIS Online** (4 videos)
-- **7. 6. Create Content for Use in Field Data Collection and InfraWorks** (2 videos)
-- **8. 7. Using a Web App for Collecting Data in the Field via Mobile Devices** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Setting up ArcGIS Online]]** (7 videos)
+- **[[#3. 2. Adding Data to ArcGIS Online]]** (3 videos)
+- **[[#4. 3. Working with ArcGIS Online Data within InfraWorks]]** (9 videos)
+- **[[#5. 4. Creating Content for Publication Back to ArcGIS Online]]** (3 videos)
+- **[[#6. 5. Viewing and Consuming Content Published from InfraWorks in ArcGIS Online]]** (4 videos)
+- **[[#7. 6. Create Content for Use in Field Data Collection and InfraWorks]]** (2 videos)
+- **[[#8. 7. Using a Web App for Collecting Data in the Field via Mobile Devices]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

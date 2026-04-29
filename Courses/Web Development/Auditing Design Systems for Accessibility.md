@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Accessibility, Design, and Development** (4 videos)
-- **3. 2. Design Systems and Accessibility** (4 videos)
-- **4. 3. Setting Up a Design System Audit** (5 videos)
-- **5. 4. Auditing a Design System for Accessibility** (4 videos)
-- **6. 5. Documenting a Design System Accessibility Audit** (4 videos)
-- **7. 6. Acting on a Design System Accessibility Audit** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Accessibility, Design, and Development]]** (4 videos)
+- **[[#2. Design Systems and Accessibility]]** (4 videos)
+- **[[#3. Setting Up a Design System Audit]]** (5 videos)
+- **[[#4. Auditing a Design System for Accessibility]]** (4 videos)
+- **[[#5. Documenting a Design System Accessibility Audit]]** (4 videos)
+- **[[#6. Acting on a Design System Accessibility Audit]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Auditing design systems for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980)
@@ -147,7 +149,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 2. 1. Accessibility, Design, and Development
+### 1. Accessibility, Design, and Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why accessibility matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters?u=76281980)
@@ -420,7 +424,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Design Systems and Accessibility
+### 2. Design Systems and Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Atomic design principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980)
@@ -680,7 +686,9 @@ created: 2026-04-28
 > **Speakers:** - accessibility (1)
 
 
-### 4. 3. Setting Up a Design System Audit
+### 3. Setting Up a Design System Audit
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an accessibility audit?
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980)
@@ -1077,7 +1085,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 5. 4. Auditing a Design System for Accessibility
+### 4. Auditing a Design System for Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reviewing designs for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980)
@@ -1378,7 +1388,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 6. 5. Documenting a Design System Accessibility Audit
+### 5. Documenting a Design System Accessibility Audit
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding issues to your original document
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/adding-issues-to-your-original-document?u=76281980)
@@ -1728,7 +1740,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 7. 6. Acting on a Design System Accessibility Audit
+### 6. Acting on a Design System Accessibility Audit
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sharing results with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980)
@@ -2064,7 +2078,9 @@ created: 2026-04-28
 > **Speakers:** - for (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### There's no such thing as "perfect" accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980)

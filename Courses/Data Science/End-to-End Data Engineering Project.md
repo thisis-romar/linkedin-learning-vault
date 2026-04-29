@@ -54,15 +54,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Project Overview and Preparation** (4 videos)
-- **3. 2. Data Extraction and Loading** (5 videos)
-- **4. 3. Starting Data Transformation and Modeling** (6 videos)
-- **5. 4. Data Transformation and Modeling** (7 videos)
-- **6. 5. Data Orchestration** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Project Overview and Preparation]]** (4 videos)
+- **[[#2. Data Extraction and Loading]]** (5 videos)
+- **[[#3. Starting Data Transformation and Modeling]]** (6 videos)
+- **[[#4. Data Transformation and Modeling]]** (7 videos)
+- **[[#5. Data Orchestration]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transform complex data into insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980)
@@ -144,7 +146,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 2. 1. Project Overview and Preparation
+### 1. Project Overview and Preparation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Project architecture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980)
@@ -499,7 +503,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Data Extraction and Loading
+### 2. Data Extraction and Loading
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with ELT tools: An introduction to Airbyte
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980)
@@ -850,7 +856,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Starting Data Transformation and Modeling
+### 3. Starting Data Transformation and Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data modeling with dbt
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980)
@@ -1209,7 +1217,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Data Transformation and Modeling
+### 4. Data Transformation and Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating and customizing your dbt models
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/creating-and-customizing-your-dbt-models?u=76281980)
@@ -1636,7 +1646,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Data Orchestration
+### 5. Data Orchestration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data orchestration with Dagster
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980)
@@ -1967,7 +1979,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An evolving field
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980)

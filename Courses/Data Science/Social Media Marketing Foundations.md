@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Create a Social Media Strategy** (4 videos)
-- **3. 2. Choose the Right Social Networks** (4 videos)
-- **4. 3. Publish Engaging Social Content** (3 videos)
-- **5. 4. Interact with Customers** (3 videos)
-- **6. 5. Foster Social Media Partnerships** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Create a Social Media Strategy]]** (4 videos)
+- **[[#3. 2. Choose the Right Social Networks]]** (4 videos)
+- **[[#4. 3. Publish Engaging Social Content]]** (3 videos)
+- **[[#5. 4. Interact with Customers]]** (3 videos)
+- **[[#6. 5. Foster Social Media Partnerships]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

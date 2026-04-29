@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Docker Explained** (5 videos)
-- **3. 2. Installing Docker** (4 videos)
-- **4. 3. Using Docker** (16 videos)
-- **5. 4. When Things Go Wrong** (5 videos)
-- **6. 5. Additional Docker Resources** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Docker Explained]]** (5 videos)
+- **[[#2. Installing Docker]]** (4 videos)
+- **[[#3. Using Docker]]** (16 videos)
+- **[[#4. When Things Go Wrong]]** (5 videos)
+- **[[#5. Additional Docker Resources]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get up and running quick with Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=76281980)
@@ -179,7 +181,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Docker Explained
+### 1. Docker Explained
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Docker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980)
@@ -533,7 +537,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Installing Docker
+### 2. Installing Docker
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Docker Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980)
@@ -981,7 +987,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (2)
 
 
-### 4. 3. Using Docker
+### 3. Using Docker
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring the Docker CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980)
@@ -2464,7 +2472,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 5. 4. When Things Go Wrong
+### 4. When Things Go Wrong
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Help! I can't seem to create more containers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980)
@@ -3056,7 +3066,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 6. 5. Additional Docker Resources
+### 5. Additional Docker Resources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Docker best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980)
@@ -3299,7 +3311,9 @@ created: 2026-04-28
 > **Speakers:** - docker (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Until next time
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980)

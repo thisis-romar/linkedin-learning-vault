@@ -40,9 +40,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Running Agile at Scale** (5 videos)
+- **[[#1. Running Agile at Scale]]** (5 videos)
 
-### 1. 1. Running Agile at Scale
+### 1. Running Agile at Scale
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The problems with agile at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980)

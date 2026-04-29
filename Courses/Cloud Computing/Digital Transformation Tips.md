@@ -49,14 +49,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Foundations of Digital Transformation** (5 videos)
-- **3. 2. Check Readiness: Look Before You Leap** (4 videos)
-- **4. 3. Planning for Success** (4 videos)
-- **5. 4. Communication Best Practices** (4 videos)
-- **6. 5. Iterate** (5 videos)
-- **7. 6. Workplace Transformation** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Foundations of Digital Transformation]]** (5 videos)
+- **[[#3. 2. Check Readiness: Look Before You Leap]]** (4 videos)
+- **[[#4. 3. Planning for Success]]** (4 videos)
+- **[[#5. 4. Communication Best Practices]]** (4 videos)
+- **[[#6. 5. Iterate]]** (5 videos)
+- **[[#7. 6. Workplace Transformation]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

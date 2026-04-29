@@ -49,16 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Data Ingestion Overview** (5 videos)
-- **3. 2. Reading Files** (6 videos)
-- **4. 3. Calling APIs** (4 videos)
-- **5. 4. Web Scraping** (6 videos)
-- **6. 5. Schema** (5 videos)
-- **7. 6. Working with Databases** (7 videos)
-- **8. 7. Troubleshooting Data** (6 videos)
-- **9. 8. Data KPIs and Process** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Data Ingestion Overview]]** (5 videos)
+- **[[#3. 2. Reading Files]]** (6 videos)
+- **[[#4. 3. Calling APIs]]** (4 videos)
+- **[[#5. 4. Web Scraping]]** (6 videos)
+- **[[#6. 5. Schema]]** (5 videos)
+- **[[#7. 6. Working with Databases]]** (7 videos)
+- **[[#8. 7. Troubleshooting Data]]** (6 videos)
+- **[[#9. 8. Data KPIs and Process]]** (3 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

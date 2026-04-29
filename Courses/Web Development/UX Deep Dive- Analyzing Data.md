@@ -31,8 +31,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Analyzing%20Data.md)
-
 ![UX Deep Dive: Analyzing Data](https://media.licdn.com/dms/image/v2/C560DAQHqF_LIR_8vXQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1597179288976?e=2147483647&amp;v=beta&amp;t=8ZhjqM8L3FhijlT6IG1Mbocfasya6daXGtLRHd6gs7I)
 
 # UX Deep Dive: Analyzing Data
@@ -46,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Analyzing Data** (1 videos)
-- **2. 1. Research Goals and Hypotheses** (2 videos)
-- **3. 2. Types of Data** (2 videos)
-- **4. 3. Analyzing Qualitative Data** (1 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Analyzing Data]]** (1 videos)
+- **[[#1. Research Goals and Hypotheses]]** (2 videos)
+- **[[#2. Types of Data]]** (2 videos)
+- **[[#3. Analyzing Qualitative Data]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Analyzing Data
+### Analyzing Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data is king
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/data-is-king?u=76281980)
@@ -81,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Research Goals and Hypotheses
+### 1. Research Goals and Hypotheses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting your objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980)
@@ -216,7 +218,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Types of Data
+### 2. Types of Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Breaking down qualitative data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/breaking-down-qualitative-data?u=76281980)
@@ -409,7 +413,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Analyzing Qualitative Data
+### 3. Analyzing Qualitative Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Filtering into actionable insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980)
@@ -544,7 +550,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Turning raw data into deep insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980)

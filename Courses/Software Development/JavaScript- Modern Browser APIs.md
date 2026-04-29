@@ -59,13 +59,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Improving Performance** (5 videos)
-- **3. 2. Better Data Management** (7 videos)
-- **4. 3. Advanced User Experiences** (8 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Improving Performance]]** (5 videos)
+- **[[#2. Better Data Management]]** (7 videos)
+- **[[#3. Advanced User Experiences]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building apps with modern JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980)
@@ -186,7 +188,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 2. 1. Improving Performance
+### 1. Improving Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Smoother animation with requestAnimationFrame()
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/smoother-animation-with-requestanimationframe?u=76281980)
@@ -690,7 +694,9 @@ created: 2026-04-28
 > **File Paths:** intersection_start.html (1)
 
 
-### 3. 2. Better Data Management
+### 2. Better Data Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of data handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980)
@@ -1319,7 +1325,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 4. 3. Advanced User Experiences
+### 3. Advanced User Experiences
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Native overlays with the Dialog API
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980)
@@ -2099,7 +2107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980)

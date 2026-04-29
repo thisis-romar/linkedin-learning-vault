@@ -39,16 +39,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The IT Service Desk** (3 videos)
-- **3. 2. IT Service Desk Technical Skills** (3 videos)
-- **4. 3. IT Service Desk Nontechnical Skills** (5 videos)
-- **5. 4. IT Service Desk Certifications** (5 videos)
-- **6. 5. IT Service Desk Career Paths** (2 videos)
-- **7. 6. IT Service Desk Workplace Scenarios** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The IT Service Desk]]** (3 videos)
+- **[[#2. IT Service Desk Technical Skills]]** (3 videos)
+- **[[#3. IT Service Desk Nontechnical Skills]]** (5 videos)
+- **[[#4. IT Service Desk Certifications]]** (5 videos)
+- **[[#5. IT Service Desk Career Paths]]** (2 videos)
+- **[[#6. IT Service Desk Workplace Scenarios]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IT service desk careers and certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-careers-and-certifications?u=76281980)
@@ -77,7 +79,9 @@ created: 2026-04-28
 > **Speakers:** - [sarah] (1)
 
 
-### 2. 1. The IT Service Desk
+### 1. The IT Service Desk
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IT service desk responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980)
@@ -223,7 +227,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. IT Service Desk Technical Skills
+### 2. IT Service Desk Technical Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/hardware?u=76281980)
@@ -348,7 +354,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. IT Service Desk Nontechnical Skills
+### 3. IT Service Desk Nontechnical Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/customer-service?u=76281980)
@@ -578,7 +586,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. IT Service Desk Certifications
+### 4. IT Service Desk Certifications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Certification options
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/certification-options?u=76281980)
@@ -849,7 +859,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. IT Service Desk Career Paths
+### 5. IT Service Desk Career Paths
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Service desk career paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/service-desk-career-paths?u=76281980)
@@ -959,7 +971,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. IT Service Desk Workplace Scenarios
+### 6. IT Service Desk Workplace Scenarios
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Office based workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980)
@@ -1076,7 +1090,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/next-steps?u=76281980)

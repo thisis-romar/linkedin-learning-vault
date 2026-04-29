@@ -44,13 +44,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Decision Journey Basics** (3 videos)
-- **3. 2. Buyer Personas** (3 videos)
-- **4. 3. Decision Journey Stages** (4 videos)
-- **5. 4. Map Across Touch Points** (3 videos)
-- **6. 5. Align Messaging and Content** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Decision Journey Basics]]** (3 videos)
+- **[[#3. 2. Buyer Personas]]** (3 videos)
+- **[[#4. 3. Decision Journey Stages]]** (4 videos)
+- **[[#5. 4. Map Across Touch Points]]** (3 videos)
+- **[[#6. 5. Align Messaging and Content]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

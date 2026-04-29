@@ -48,16 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Prepare to Outsource Cybersecurity Work** (7 videos)
-- **3. 2. Identify Candidate Work to Outsource** (3 videos)
-- **4. 3. Document Requirements** (4 videos)
-- **5. 4. Select a Vendor** (4 videos)
-- **6. 5. Contract with the Vendor** (3 videos)
-- **7. 6. Implement the Agreement** (3 videos)
-- **8. 7. Managing the Vendor** (3 videos)
-- **9. 8. Renewing the Agreement** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Prepare to Outsource Cybersecurity Work]]** (7 videos)
+- **[[#3. 2. Identify Candidate Work to Outsource]]** (3 videos)
+- **[[#4. 3. Document Requirements]]** (4 videos)
+- **[[#5. 4. Select a Vendor]]** (4 videos)
+- **[[#6. 5. Contract with the Vendor]]** (3 videos)
+- **[[#7. 6. Implement the Agreement]]** (3 videos)
+- **[[#8. 7. Managing the Vendor]]** (3 videos)
+- **[[#9. 8. Renewing the Agreement]]** (3 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Planning** (6 videos)
-- **3. 2. Writing Code** (5 videos)
-- **4. 3. Testing Your Code** (5 videos)
-- **5. 4. Documentation** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Planning]]** (6 videos)
+- **[[#2. Writing Code]]** (5 videos)
+- **[[#3. Testing Your Code]]** (5 videos)
+- **[[#4. Documentation]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How can generative AI help with PHP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980)
@@ -152,7 +154,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Planning
+### 1. Planning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980)
@@ -704,7 +708,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 3. 2. Writing Code
+### 2. Writing Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using ChatGPT to get code snippets
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980)
@@ -1199,7 +1205,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Testing Your Code
+### 3. Testing Your Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automated testing vs. AI testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980)
@@ -1611,7 +1619,9 @@ created: 2026-04-28
 > **Cross-References:** previous video (1)
 
 
-### 5. 4. Documentation
+### 4. Documentation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/types-of-documentation?u=76281980)
@@ -1830,7 +1840,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980)

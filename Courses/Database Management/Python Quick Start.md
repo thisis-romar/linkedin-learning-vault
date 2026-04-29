@@ -48,18 +48,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Defining Python** (4 videos)
-- **3. 2. Working with Data in Python** (3 videos)
-- **4. 3. Using Functions in Python** (5 videos)
-- **5. 4. Leveraging Sequences in Python** (3 videos)
-- **6. 5. Using Conditional Statements in Python** (4 videos)
-- **7. 6. Working with Iteration in Python** (3 videos)
-- **8. 7. Using Recursive Functions in Python** (2 videos)
-- **9. 8. Object-Oriented Programming in Python** (2 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Defining Python]]** (4 videos)
+- **[[#2. Working with Data in Python]]** (3 videos)
+- **[[#3. Using Functions in Python]]** (5 videos)
+- **[[#4. Leveraging Sequences in Python]]** (3 videos)
+- **[[#5. Using Conditional Statements in Python]]** (4 videos)
+- **[[#6. Working with Iteration in Python]]** (3 videos)
+- **[[#7. Using Recursive Functions in Python]]** (2 videos)
+- **[[#8. Object-Oriented Programming in Python]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advancing your career with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. Defining Python
+### 1. Defining Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Demystifying Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980)
@@ -231,7 +235,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 3. 2. Working with Data in Python
+### 2. Working with Data in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up your Python environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/setting-up-your-python-environment?u=76281980)
@@ -484,7 +490,9 @@ created: 2026-04-28
 > **Definitions:** known as (2)
 
 
-### 4. 3. Using Functions in Python
+### 3. Using Functions in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining functions in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-functions-in-python?u=76281980)
@@ -1040,7 +1048,9 @@ created: 2026-04-28
 > **Versions:** 7.0 (1)
 
 
-### 5. 4. Leveraging Sequences in Python
+### 4. Leveraging Sequences in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining sequences
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-sequences?u=76281980)
@@ -1320,7 +1330,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. 5. Using Conditional Statements in Python
+### 5. Using Conditional Statements in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining conditional statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-conditional-statements?u=76281980)
@@ -1777,7 +1789,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (2)
 
 
-### 7. 6. Working with Iteration in Python
+### 6. Working with Iteration in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining iteration
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980)
@@ -2055,7 +2069,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 8. 7. Using Recursive Functions in Python
+### 7. Using Recursive Functions in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Demystifying recursive functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-recursive-functions?u=76281980)
@@ -2245,7 +2261,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 9. 8. Object-Oriented Programming in Python
+### 8. Object-Oriented Programming in Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is object-oriented programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980)
@@ -2509,7 +2527,9 @@ created: 2026-04-28
 > **CLI Commands:** python (1), make (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980)

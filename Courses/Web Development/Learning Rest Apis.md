@@ -41,14 +41,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. REST API: Representational State Transfer Application Programming Interface** (7 videos)
-- **3. 2. Request** (4 videos)
-- **4. 3. Response** (3 videos)
-- **5. 4. Request/Response Pairs** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. REST API: Representational State Transfer Application Programming Interface]]** (7 videos)
+- **[[#2. Request]]** (4 videos)
+- **[[#3. Response]]** (3 videos)
+- **[[#4. Request/Response Pairs]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/welcome?u=76281980)
@@ -104,7 +106,9 @@ created: 2026-04-28
 > **Speakers:** - open (1)
 
 
-### 2. 1. REST API: Representational State Transfer Application Programming Interface
+### 1. REST API: Representational State Transfer Application Programming Interface
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The RESTful librarian
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/the-restful-librarian?u=76281980)
@@ -605,7 +609,9 @@ created: 2026-04-28
 > **URLs:** [https://reqres.in/api/users](https://reqres.in/api/users) (2)
 
 
-### 3. 2. Request
+### 2. Request
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Anatomy of a REST request
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980)
@@ -881,7 +887,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 4. 3. Response
+### 3. Response
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Response header
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/response-header?u=76281980)
@@ -1050,7 +1058,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Request/Response Pairs
+### 4. Request/Response Pairs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Request/response pairs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/request-response-pairs?u=76281980)
@@ -1432,7 +1442,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/next-steps?u=76281980)

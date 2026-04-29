@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Core Networking Concepts** (4 videos)
-- **3. 2. Manage Azure Virtual Networking for Existing Resources** (4 videos)
-- **4. 3. Create and Configure New Azure Networking Resources** (5 videos)
-- **5. 4. Connecting Your On-Premises Network to Azure** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Core Networking Concepts]]** (4 videos)
+- **[[#3. 2. Manage Azure Virtual Networking for Existing Resources]]** (4 videos)
+- **[[#4. 3. Create and Configure New Azure Networking Resources]]** (5 videos)
+- **[[#5. 4. Connecting Your On-Premises Network to Azure]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

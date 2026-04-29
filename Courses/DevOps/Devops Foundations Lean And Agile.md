@@ -41,16 +41,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Lean, Agile, and DevOps Basics** (8 videos)
-- **3. 2. Implementing Agile, Lean, and DevOps in Practice** (1 videos)
-- **4. 3. First Iteration: Empowering the Individual** (6 videos)
-- **5. 4. Second Iteration: Empowering the Team** (10 videos)
-- **6. 5. Third Iteration: Empowering the Organization** (6 videos)
-- **7. 6. The Road Ahead** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Lean, Agile, and DevOps Basics]]** (8 videos)
+- **[[#2. Implementing Agile, Lean, and DevOps in Practice]]** (1 videos)
+- **[[#3. First Iteration: Empowering the Individual]]** (6 videos)
+- **[[#4. Second Iteration: Empowering the Team]]** (10 videos)
+- **[[#5. Third Iteration: Empowering the Organization]]** (6 videos)
+- **[[#6. The Road Ahead]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with lean and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. Lean, Agile, and DevOps Basics
+### 1. Lean, Agile, and DevOps Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is agile?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980)
@@ -775,7 +779,9 @@ created: 2026-04-28
 > **Speakers:** - part (1)
 
 
-### 3. 2. Implementing Agile, Lean, and DevOps in Practice
+### 2. Implementing Agile, Lean, and DevOps in Practice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to Red30 Technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980)
@@ -866,7 +872,9 @@ created: 2026-04-28
 > **Warnings:** troubleshoot (1)
 
 
-### 4. 3. First Iteration: Empowering the Individual
+### 3. First Iteration: Empowering the Individual
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agile: Updating our practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980)
@@ -1408,7 +1416,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Second Iteration: Empowering the Team
+### 4. Second Iteration: Empowering the Team
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agile: Building a resilient team
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980)
@@ -2112,7 +2122,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 6. 5. Third Iteration: Empowering the Organization
+### 5. Third Iteration: Empowering the Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agile: Organizational scaling
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980)
@@ -2577,7 +2589,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 7. 6. The Road Ahead
+### 6. The Road Ahead
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Organizing for action
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980)
@@ -2870,7 +2884,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with lean and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980)

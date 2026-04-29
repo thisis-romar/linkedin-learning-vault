@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Scala Basics** (8 videos)
-- **3. 2. Object-Oriented Programming in Scala** (11 videos)
-- **4. 3. Functional Programming in Scala** (9 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Scala Basics]]** (8 videos)
+- **[[#2. Object-Oriented Programming in Scala]]** (11 videos)
+- **[[#3. Functional Programming in Scala]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980)
@@ -278,7 +280,9 @@ created: 2026-04-28
 > **URLs:** [rockthejvm.com](https://rockthejvm.com) (2), [jetbrains.com](https://jetbrains.com) (2)
 
 
-### 2. 1. Scala Basics
+### 1. Scala Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Values and types
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980)
@@ -1791,7 +1795,9 @@ created: 2026-04-28
 > **Prerequisites:** you'll need (1)
 
 
-### 3. 2. Object-Oriented Programming in Scala
+### 2. Object-Oriented Programming in Scala
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Classes, instances, fields, and methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980)
@@ -3980,7 +3986,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Functional Programming in Scala
+### 3. Functional Programming in Scala
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Functional programming basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980)
@@ -5848,7 +5856,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recap and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/recap-and-next-steps?u=76281980)

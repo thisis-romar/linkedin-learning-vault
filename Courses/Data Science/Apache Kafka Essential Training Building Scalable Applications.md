@@ -46,15 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Kafka** (4 videos)
-- **3. 2. Kafka Scaling Concepts** (5 videos)
-- **4. 3. Building a Kafka Cluster** (5 videos)
-- **5. 4. Building Scalable Producers** (5 videos)
-- **6. 5. Building Scalable Consumers** (5 videos)
-- **7. 6. Kafka Best Practices** (4 videos)
-- **8. 7. Use Case Project** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to Kafka]]** (4 videos)
+- **[[#3. 2. Kafka Scaling Concepts]]** (5 videos)
+- **[[#4. 3. Building a Kafka Cluster]]** (5 videos)
+- **[[#5. 4. Building Scalable Producers]]** (5 videos)
+- **[[#6. 5. Building Scalable Consumers]]** (5 videos)
+- **[[#7. 6. Kafka Best Practices]]** (4 videos)
+- **[[#8. 7. Use Case Project]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

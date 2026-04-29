@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Defining AI Terms for Marketers** (3 videos)
-- **3. 2. Navigating AI Tools for Marketers** (5 videos)
-- **4. 3. Developing Your AI Marketing Strategy** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Defining AI Terms for Marketers]]** (3 videos)
+- **[[#2. Navigating AI Tools for Marketers]]** (5 videos)
+- **[[#3. Developing Your AI Marketing Strategy]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Digital marketing meets generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 2. 1. Defining AI Terms for Marketers
+### 1. Defining AI Terms for Marketers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Narrow versus general AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980)
@@ -225,7 +229,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Navigating AI Tools for Marketers
+### 2. Navigating AI Tools for Marketers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI and writing in marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980)
@@ -506,7 +512,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Developing Your AI Marketing Strategy
+### 3. Developing Your AI Marketing Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI issues, risks, and policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980)
@@ -633,7 +641,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI and your marketing and creative team
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980)

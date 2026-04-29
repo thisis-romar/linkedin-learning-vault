@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Setting Up Your Test Tools** (6 videos)
-- **3. 2. Planning Your Alpha Test** (7 videos)
-- **4. 3. Planning Your Beta Test** (7 videos)
-- **5. 4. Short Term and Long Term Planning** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Setting Up Your Test Tools]]** (6 videos)
+- **[[#3. 2. Planning Your Alpha Test]]** (7 videos)
+- **[[#4. 3. Planning Your Beta Test]]** (7 videos)
+- **[[#5. 4. Short Term and Long Term Planning]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -55,12 +55,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Setting Up Google AI Speech-to-Text** (5 videos)
-- **3. 2. Building the Video Transcriber Interface** (5 videos)
-- **4. 3. Building the Backend: Connecting to the AI** (5 videos)
-- **5. 4. Bringing It All Together** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Setting Up Google AI Speech-to-Text]]** (5 videos)
+- **[[#3. 2. Building the Video Transcriber Interface]]** (5 videos)
+- **[[#4. 3. Building the Backend: Connecting to the AI]]** (5 videos)
+- **[[#5. 4. Bringing It All Together]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

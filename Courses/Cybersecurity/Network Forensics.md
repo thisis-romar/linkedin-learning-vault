@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding Network Forensics** (7 videos)
-- **3. 2. Preparing for a Network Forensics Investigation** (7 videos)
-- **4. 3. Investigating Network Events** (10 videos)
-- **5. 4. Investigating Network Traffic** (8 videos)
-- **6. 5. Network Forensics Tools** (8 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding Network Forensics]]** (7 videos)
+- **[[#2. Preparing for a Network Forensics Investigation]]** (7 videos)
+- **[[#3. Investigating Network Events]]** (10 videos)
+- **[[#4. Investigating Network Traffic]]** (8 videos)
+- **[[#5. Network Forensics Tools]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning network forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980)
@@ -118,7 +120,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. Understanding Network Forensics
+### 1. Understanding Network Forensics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Goals of network forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980)
@@ -475,7 +479,9 @@ created: 2026-04-28
 > **Non-Speech:** (bouncy upbeat music) (1)
 
 
-### 3. 2. Preparing for a Network Forensics Investigation
+### 2. Preparing for a Network Forensics Investigation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Network forensics investigation hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980)
@@ -805,7 +811,9 @@ created: 2026-04-28
 > **Non-Speech:** (techno upbeat music) (1)
 
 
-### 4. 3. Investigating Network Events
+### 3. Investigating Network Events
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Network logs
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980)
@@ -1284,7 +1292,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Investigating Network Traffic
+### 4. Investigating Network Traffic
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980)
@@ -1709,7 +1719,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Network Forensics Tools
+### 5. Network Forensics Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### tcpdump and WinDump
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980)
@@ -2319,7 +2331,9 @@ created: 2026-04-28
 > **File Paths:** sample.pcap.csv (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980)

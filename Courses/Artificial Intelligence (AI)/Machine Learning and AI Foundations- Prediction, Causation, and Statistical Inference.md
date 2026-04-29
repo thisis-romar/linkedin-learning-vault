@@ -49,15 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is a Casual Model?** (3 videos)
-- **3. 2. Healthy Skepticism about Our Data and Our Results** (3 videos)
-- **4. 3. Correlation Does Not Imply Causation** (5 videos)
-- **5. 4. Prediction and Proof in Statistics** (6 videos)
-- **6. 5. Deduction and Induction** (5 videos)
-- **7. 6. Prediction and Proof in Data Mining** (3 videos)
-- **8. 7. The Two Cultures: Contrasting Statistics and Data Mining** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. What Is a Casual Model?]]** (3 videos)
+- **[[#3. 2. Healthy Skepticism about Our Data and Our Results]]** (3 videos)
+- **[[#4. 3. Correlation Does Not Imply Causation]]** (5 videos)
+- **[[#5. 4. Prediction and Proof in Statistics]]** (6 videos)
+- **[[#6. 5. Deduction and Induction]]** (5 videos)
+- **[[#7. 6. Prediction and Proof in Data Mining]]** (3 videos)
+- **[[#8. 7. The Two Cultures: Contrasting Statistics and Data Mining]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

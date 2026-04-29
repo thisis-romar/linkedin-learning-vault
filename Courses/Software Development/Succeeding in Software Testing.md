@@ -44,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. You've Got the Skills** (3 videos)
-- **3. 2. Thinking Critically about Software Testing** (7 videos)
-- **4. 3. Continuing Success in Software Testing** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. You've Got the Skills]]** (3 videos)
+- **[[#2. Thinking Critically about Software Testing]]** (7 videos)
+- **[[#3. Continuing Success in Software Testing]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Possibilities are endless in testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980)
@@ -124,7 +126,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. You've Got the Skills
+### 1. You've Got the Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The greatest testers in the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980)
@@ -309,7 +313,9 @@ created: 2026-04-28
 > **Speakers:** - from (1)
 
 
-### 3. 2. Thinking Critically about Software Testing
+### 2. Thinking Critically about Software Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The skills to succeed
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980)
@@ -925,7 +931,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Continuing Success in Software Testing
+### 3. Continuing Success in Software Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thinking about your career growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/thinking-about-your-career-growth?u=76281980)
@@ -1240,7 +1248,9 @@ created: 2026-04-28
 > **Code Keywords:** from, (1), for. (1), this. (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/create-your-career?u=76281980)

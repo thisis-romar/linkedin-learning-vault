@@ -53,18 +53,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Quickstart** (2 videos)
-- **3. 2. Basic Data Types** (2 videos)
-- **4. 3. Basic Data Structures** (2 videos)
-- **5. 4. Control Flow** (2 videos)
-- **6. 5. Functions** (2 videos)
-- **7. 6. Classes and Objects** (2 videos)
-- **8. 7. Errors** (2 videos)
-- **9. 8. Threads and Processes** (2 videos)
-- **10. 9. Working with Files** (2 videos)
-- **11. 10. Packaging Python** (2 videos)
-- **12. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Quickstart]]** (2 videos)
+- **[[#3. 2. Basic Data Types]]** (2 videos)
+- **[[#4. 3. Basic Data Structures]]** (2 videos)
+- **[[#5. 4. Control Flow]]** (2 videos)
+- **[[#6. 5. Functions]]** (2 videos)
+- **[[#7. 6. Classes and Objects]]** (2 videos)
+- **[[#8. 7. Errors]]** (2 videos)
+- **[[#9. 8. Threads and Processes]]** (2 videos)
+- **[[#10. 9. Working with Files]]** (2 videos)
+- **[[#11. 10. Packaging Python]]** (2 videos)
+- **[[#12. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

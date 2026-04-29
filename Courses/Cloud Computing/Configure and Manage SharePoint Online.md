@@ -47,20 +47,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Creating a Trial Account** (3 videos)
-- **3. 2. SharePoint Online Overview** (4 videos)
-- **4. 3. Configure Site Collections** (3 videos)
-- **5. 4. Manage Site Collections** (3 videos)
-- **6. 5. Manage User Profiles** (4 videos)
-- **7. 6. Configure Customization and Apps** (6 videos)
-- **8. 7. Configure Managed Metadata** (2 videos)
-- **9. 8. Managing Search** (4 videos)
-- **10. 9. Managing SharePoint Policies** (2 videos)
-- **11. 10. Monitor SharePoint Online** (2 videos)
-- **12. 11. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Creating a Trial Account]]** (3 videos)
+- **[[#2. SharePoint Online Overview]]** (4 videos)
+- **[[#3. Configure Site Collections]]** (3 videos)
+- **[[#4. Manage Site Collections]]** (3 videos)
+- **[[#5. Manage User Profiles]]** (4 videos)
+- **[[#6. Configure Customization and Apps]]** (6 videos)
+- **[[#7. Configure Managed Metadata]]** (2 videos)
+- **[[#8. Managing Search]]** (4 videos)
+- **[[#9. Managing SharePoint Policies]]** (2 videos)
+- **[[#10. Monitor SharePoint Online]]** (2 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to SharePoint Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/welcome-to-sharepoint-online?u=76281980)
@@ -106,7 +108,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Creating a Trial Account
+### 1. Creating a Trial Account
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a free M365 E5 trial account
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/create-a-free-m365-e5-trial-account?u=76281980)
@@ -532,7 +536,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. SharePoint Online Overview
+### 2. SharePoint Online Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SharePoint Online overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-online-overview?u=76281980)
@@ -948,7 +954,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Configure Site Collections
+### 3. Configure Site Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating site collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/creating-site-collections?u=76281980)
@@ -1267,7 +1275,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Manage Site Collections
+### 4. Manage Site Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage site collection admins
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-site-collection-admins?u=76281980)
@@ -1560,7 +1570,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Manage User Profiles
+### 5. Manage User Profiles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add a property for user profiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/add-a-property-for-user-profiles?u=76281980)
@@ -2008,7 +2020,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 7. 6. Configure Customization and Apps
+### 6. Configure Customization and Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding an app from the SharePoint Store
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/adding-an-app-from-the-sharepoint-store?u=76281980)
@@ -2405,7 +2419,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Configure Managed Metadata
+### 7. Configure Managed Metadata
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage term sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-term-sets?u=76281980)
@@ -2715,7 +2731,9 @@ created: 2026-04-28
 > **Analogies:** it's like (1)
 
 
-### 9. 8. Managing Search
+### 8. Managing Search
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage the search schema
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-the-search-schema?u=76281980)
@@ -3109,7 +3127,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Managing SharePoint Policies
+### 9. Managing SharePoint Policies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage sharing in SharePoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/manage-sharing-in-sharepoint?u=76281980)
@@ -3382,7 +3402,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Monitor SharePoint Online
+### 10. Monitor SharePoint Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SharePoint activity reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/sharepoint-activity-reports?u=76281980)
@@ -3597,7 +3619,9 @@ created: 2026-04-28
 > **Speakers:** - another (1)
 
 
-### 12. 11. Conclusion
+### 11. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing learning SharePoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/configure-and-manage-sharepoint-online-22340807/continuing-learning-sharepoint?u=76281980)

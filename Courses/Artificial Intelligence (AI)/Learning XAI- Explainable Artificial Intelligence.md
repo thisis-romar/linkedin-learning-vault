@@ -52,17 +52,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding the AI Landscape** (3 videos)
-- **3. 2. Bias in GenAI** (3 videos)
-- **4. 3. Bias in Model Training** (7 videos)
-- **5. 4. Counterfactuals in Bias Analysis** (5 videos)
-- **6. 5. Data Sampling for Bias Reduction** (7 videos)
-- **7. 6. Post-Training Model Constraints** (4 videos)
-- **8. 7. Case Study: Breakdown of a GenAI Story** (1 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding the AI Landscape]]** (3 videos)
+- **[[#2. Bias in GenAI]]** (3 videos)
+- **[[#3. Bias in Model Training]]** (7 videos)
+- **[[#4. Counterfactuals in Bias Analysis]]** (5 videos)
+- **[[#5. Data Sampling for Bias Reduction]]** (7 videos)
+- **[[#6. Post-Training Model Constraints]]** (4 videos)
+- **[[#7. Case Study: Breakdown of a GenAI Story]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### XAI: the key to fair and transparent AI for all
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/xai-the-key-to-fair-and-transparent-ai-for-all?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 1. Understanding the AI Landscape
+### 1. Understanding the AI Landscape
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bias in AI and its impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980)
@@ -252,7 +256,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Bias in GenAI
+### 2. Bias in GenAI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bias in data: "Bad data in, bad data out"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980)
@@ -541,7 +547,9 @@ created: 2026-04-28
 > **Speakers:** - queen (1)
 
 
-### 4. 3. Bias in Model Training
+### 3. Bias in Model Training
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to GenAI model training
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-genai-model-training?u=76281980)
@@ -1005,7 +1013,9 @@ created: 2026-04-28
 > **File Paths:** requirements.txt (1)
 
 
-### 5. 4. Counterfactuals in Bias Analysis
+### 4. Counterfactuals in Bias Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a counterfactual?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980)
@@ -1427,7 +1437,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Data Sampling for Bias Reduction
+### 5. Data Sampling for Bias Reduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of sampling data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/the-power-of-sampling-data?u=76281980)
@@ -1997,7 +2009,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 7. 6. Post-Training Model Constraints
+### 6. Post-Training Model Constraints
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to model constraints to control bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980)
@@ -2325,7 +2339,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Case Study: Breakdown of a GenAI Story
+### 7. Case Study: Breakdown of a GenAI Story
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore an example of GenAI output
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980)
@@ -2394,7 +2410,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your XAI learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980)

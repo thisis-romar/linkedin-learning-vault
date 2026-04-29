@@ -45,14 +45,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Google Cloud Compliance Requirements** (2 videos)
-- **3. 2. Gemini for Google Cloud overview** (2 videos)
-- **4. 3. Google Cloud Resource Hierarchy** (2 videos)
-- **5. 4. Controlling and Optimizing Google Cloud Costs** (3 videos)
-- **6. 5. Google Cloud Geographical Segmentation Strategy** (2 videos)
-- **7. 6. Google Cloud Support Options** (2 videos)
-- **8. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Google Cloud Compliance Requirements]]** (2 videos)
+- **[[#3. 2. Gemini for Google Cloud overview]]** (2 videos)
+- **[[#4. 3. Google Cloud Resource Hierarchy]]** (2 videos)
+- **[[#5. 4. Controlling and Optimizing Google Cloud Costs]]** (3 videos)
+- **[[#6. 5. Google Cloud Geographical Segmentation Strategy]]** (2 videos)
+- **[[#7. 6. Google Cloud Support Options]]** (2 videos)
+- **[[#8. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

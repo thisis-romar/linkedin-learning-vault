@@ -51,15 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Simple Linear Regression** (6 videos)
-- **3. 2. Introduction to Multiple Linear Regression** (8 videos)
-- **4. 3. Dummy Code and Interaction Terms** (4 videos)
-- **5. 4. Three Regression Strategies** (11 videos)
-- **6. 5. Spotting Problems and Taking Corrective Action** (7 videos)
-- **7. 6. Other Approaches to Regression** (8 videos)
-- **8. 7. Advanced Alternatives Using the Extension Hub** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Simple Linear Regression]]** (6 videos)
+- **[[#3. 2. Introduction to Multiple Linear Regression]]** (8 videos)
+- **[[#4. 3. Dummy Code and Interaction Terms]]** (4 videos)
+- **[[#5. 4. Three Regression Strategies]]** (11 videos)
+- **[[#6. 5. Spotting Problems and Taking Corrective Action]]** (7 videos)
+- **[[#7. 6. Other Approaches to Regression]]** (8 videos)
+- **[[#8. 7. Advanced Alternatives Using the Extension Hub]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

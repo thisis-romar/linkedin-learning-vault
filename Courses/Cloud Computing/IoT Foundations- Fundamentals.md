@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Software-Defined Product** (4 videos)
-- **3. 2. The Hardware-Defined Product** (4 videos)
-- **4. 3. The Network Fabric** (4 videos)
-- **5. 4. External Systems** (5 videos)
-- **6. Conclusion** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Software-Defined Product]]** (4 videos)
+- **[[#2. The Hardware-Defined Product]]** (4 videos)
+- **[[#3. The Network Fabric]]** (4 videos)
+- **[[#4. External Systems]]** (5 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From physical to digital: Your first step into the Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980)
@@ -172,7 +174,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Software-Defined Product
+### 1. The Software-Defined Product
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The digital twin
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980)
@@ -405,7 +409,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Hardware-Defined Product
+### 2. The Hardware-Defined Product
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hardware overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980)
@@ -553,7 +559,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. The Network Fabric
+### 3. The Network Fabric
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview and standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980)
@@ -811,7 +819,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. External Systems
+### 4. External Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of external systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980)
@@ -1062,7 +1072,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Main takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/main-takeaways?u=76281980)

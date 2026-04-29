@@ -51,15 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Data Types** (9 videos)
-- **3. 2. Design a Normalized Database** (6 videos)
-- **4. 3. Identify Rows with Primary Keys** (8 videos)
-- **5. 4. Link Data with Foreign Keys** (5 videos)
-- **6. 5. Formalize Data Relationships** (8 videos)
-- **7. 6. Indexes** (3 videos)
-- **8. 7. Constraints** (8 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Data Types]]** (9 videos)
+- **[[#3. 2. Design a Normalized Database]]** (6 videos)
+- **[[#4. 3. Identify Rows with Primary Keys]]** (8 videos)
+- **[[#5. 4. Link Data with Foreign Keys]]** (5 videos)
+- **[[#6. 5. Formalize Data Relationships]]** (8 videos)
+- **[[#7. 6. Indexes]]** (3 videos)
+- **[[#8. 7. Constraints]]** (8 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

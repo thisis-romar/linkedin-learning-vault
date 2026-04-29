@@ -46,14 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Fundamentals of Performance** (4 videos)
-- **3. 2. Hosting** (3 videos)
-- **4. 3. Media** (5 videos)
-- **5. 4. Plugins and Themes** (3 videos)
-- **6. 5. Database** (3 videos)
-- **7. 6. Caching** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Fundamentals of Performance]]** (4 videos)
+- **[[#3. 2. Hosting]]** (3 videos)
+- **[[#4. 3. Media]]** (5 videos)
+- **[[#5. 4. Plugins and Themes]]** (3 videos)
+- **[[#6. 5. Database]]** (3 videos)
+- **[[#7. 6. Caching]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

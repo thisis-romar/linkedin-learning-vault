@@ -54,15 +54,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Backup and Restore** (8 videos)
-- **3. 2. Server Security** (5 videos)
-- **4. 3. Database Security** (4 videos)
-- **5. 4. High Availability** (4 videos)
-- **6. 5. Health and Maintenance of the System** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Backup and Restore]]** (8 videos)
+- **[[#2. Server Security]]** (5 videos)
+- **[[#3. Database Security]]** (4 videos)
+- **[[#4. High Availability]]** (4 videos)
+- **[[#5. Health and Maintenance of the System]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Administer a database server
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980)
@@ -248,7 +250,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Backup and Restore
+### 1. Backup and Restore
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Backup plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980)
@@ -1176,7 +1180,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 3. 2. Server Security
+### 2. Server Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Principals and securables
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980)
@@ -1793,7 +1799,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Database Security
+### 3. Database Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### View permissions on PostgreSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980)
@@ -2183,7 +2191,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. High Availability
+### 4. High Availability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing server uptime
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/managing-server-uptime?u=76281980)
@@ -2449,7 +2459,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Health and Maintenance of the System
+### 5. Health and Maintenance of the System
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Server maintenance tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980)
@@ -2799,7 +2811,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980)

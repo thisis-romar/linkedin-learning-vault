@@ -46,11 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Why Cloud Technology Is Transforming Business** (10 videos)
-- **3. 2. Fundamental Cloud Concepts** (9 videos)
-- **4. 3. Cloud Computing Models and Shared Responsibility** (9 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Why Cloud Technology Is Transforming Business]]** (10 videos)
+- **[[#3. 2. Fundamental Cloud Concepts]]** (9 videos)
+- **[[#4. 3. Cloud Computing Models and Shared Responsibility]]** (9 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

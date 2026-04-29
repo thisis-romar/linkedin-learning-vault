@@ -55,8 +55,8 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Built-in Machine Learning in the Wolfram Language** (1 videos)
-- **2. 2. Dedicated Functions: Natural Language Processing** (1 videos)
+- **[[#1. 1. Built-in Machine Learning in the Wolfram Language]]** (1 videos)
+- **[[#2. 2. Dedicated Functions: Natural Language Processing]]** (1 videos)
 
 ### 1. 1. Built-in Machine Learning in the Wolfram Language
 

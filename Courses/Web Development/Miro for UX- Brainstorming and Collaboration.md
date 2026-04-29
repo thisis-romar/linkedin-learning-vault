@@ -44,11 +44,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Get Started with Collaborative Sessions** (6 videos)
-- **3. 2. Create a Brainstorming Session with Brainwriting** (2 videos)
-- **4. 3. Create a Mind Map for Organizing Ideas** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Get Started with Collaborative Sessions]]** (6 videos)
+- **[[#3. 2. Create a Brainstorming Session with Brainwriting]]** (2 videos)
+- **[[#4. 3. Create a Mind Map for Organizing Ideas]]** (2 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

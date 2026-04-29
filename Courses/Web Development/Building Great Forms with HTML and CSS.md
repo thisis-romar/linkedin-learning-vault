@@ -50,17 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Welcome** (3 videos)
-- **2. 1. General Form Setup** (3 videos)
-- **3. 2. Form Elements** (10 videos)
-- **4. 3. Form-Specific CSS** (10 videos)
-- **5. 4. Login and Registration Form** (8 videos)
-- **6. 5. A Booking Form: Flight, Hotel, Movie, and More** (7 videos)
-- **7. 6. Payment Forms** (12 videos)
-- **8. 7. Search Form and Filter Forms** (7 videos)
-- **9. 8. Accessibility** (3 videos)
-- **10. 9. Submission** (5 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Welcome]]** (3 videos)
+- **[[#2. 1. General Form Setup]]** (3 videos)
+- **[[#3. 2. Form Elements]]** (10 videos)
+- **[[#4. 3. Form-Specific CSS]]** (10 videos)
+- **[[#5. 4. Login and Registration Form]]** (8 videos)
+- **[[#6. 5. A Booking Form: Flight, Hotel, Movie, and More]]** (7 videos)
+- **[[#7. 6. Payment Forms]]** (12 videos)
+- **[[#8. 7. Search Form and Filter Forms]]** (7 videos)
+- **[[#9. 8. Accessibility]]** (3 videos)
+- **[[#10. 9. Submission]]** (5 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Welcome
 

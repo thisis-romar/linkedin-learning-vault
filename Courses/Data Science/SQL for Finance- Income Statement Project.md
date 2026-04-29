@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Balance Sheets and Assets Accounts** (13 videos)
-- **3. 2. Balance Sheets: Liability and Owner's Equity Accounts** (5 videos)
-- **4. 3. Building the Balance Sheet** (5 videos)
-- **5. 4. Income Statement** (3 videos)
-- **6. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Balance Sheets and Assets Accounts]]** (13 videos)
+- **[[#3. 2. Balance Sheets: Liability and Owner's Equity Accounts]]** (5 videos)
+- **[[#4. 3. Building the Balance Sheet]]** (5 videos)
+- **[[#5. 4. Income Statement]]** (3 videos)
+- **[[#6. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

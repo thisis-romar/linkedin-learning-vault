@@ -43,12 +43,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Installing Jenkins** (6 videos)
-- **3. 2. Jenkins Jobs** (9 videos)
-- **4. 3. Job Workspaces, Artifacts, and Parameters** (9 videos)
-- **5. 4. Organize Jobs with Views and Folders** (6 videos)
-- **6. Conclusion** (3 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Installing Jenkins]]** (6 videos)
+- **[[#3. 2. Jenkins Jobs]]** (9 videos)
+- **[[#4. 3. Job Workspaces, Artifacts, and Parameters]]** (9 videos)
+- **[[#5. 4. Organize Jobs with Views and Folders]]** (6 videos)
+- **[[#6. Conclusion]]** (3 videos)
 
 ### 1. Introduction
 

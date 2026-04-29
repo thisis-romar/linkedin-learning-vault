@@ -29,8 +29,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Foundations-%20Generational%20Design.md)
-
 ![UX Foundations: Generational Design](https://media.licdn.com/dms/image/v2/C560DAQGT2m2g7nf38w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1589562655399?e=2147483647&amp;v=beta&amp;t=1Ds6_nyk5uZc3u7cqeUiA3DCR0yI4w9pi1WsbHDRQc8)
 
 # UX Foundations: Generational Design
@@ -44,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding the Generations** (6 videos)
-- **3. 2. Research Techniques** (5 videos)
-- **4. 3. Planning Your UX Research** (2 videos)
-- **5. 4. Design Patterns for Different Generations** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding the Generations]]** (6 videos)
+- **[[#2. Research Techniques]]** (5 videos)
+- **[[#3. Planning Your UX Research]]** (2 videos)
+- **[[#4. Design Patterns for Different Generations]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing for different generations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980)
@@ -100,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Understanding the Generations
+### 1. Understanding the Generations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding Baby Boomers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980)
@@ -546,7 +548,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Research Techniques
+### 2. Research Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Qualitative research techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980)
@@ -928,7 +932,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Planning Your UX Research
+### 3. Planning Your UX Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recruiting tips for different audiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980)
@@ -1076,7 +1082,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. 4. Design Patterns for Different Generations
+### 4. Design Patterns for Different Generations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Translating research to design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980)
@@ -1624,7 +1632,9 @@ created: 2026-04-28
 > **Speakers:** - designing (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980)

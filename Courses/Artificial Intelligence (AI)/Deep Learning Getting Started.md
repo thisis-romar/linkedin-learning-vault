@@ -59,14 +59,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Deep Learning** (6 videos)
-- **3. 2. Neural Network Architecture** (5 videos)
-- **4. 3. Training a Neural Network** (10 videos)
-- **5. 4. Deep Learning Example 1** (6 videos)
-- **6. 5. Deep Learning Example 2** (4 videos)
-- **7. 6. Deep Learning Exercise** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introduction to Deep Learning]]** (6 videos)
+- **[[#3. 2. Neural Network Architecture]]** (5 videos)
+- **[[#4. 3. Training a Neural Network]]** (10 videos)
+- **[[#5. 4. Deep Learning Example 1]]** (6 videos)
+- **[[#6. 5. Deep Learning Example 2]]** (4 videos)
+- **[[#7. 6. Deep Learning Exercise]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

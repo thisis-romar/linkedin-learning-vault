@@ -47,12 +47,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Model Objects** (3 videos)
-- **3. 2. External Data Sources** (3 videos)
-- **4. 3. Utility Classes** (3 videos)
-- **5. 4. State Management** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Model Objects]]** (3 videos)
+- **[[#3. 2. External Data Sources]]** (3 videos)
+- **[[#4. 3. Utility Classes]]** (3 videos)
+- **[[#5. 4. State Management]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -49,15 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Data Science Basics** (5 videos)
-- **3. 2. Representing Data in Java** (3 videos)
-- **4. 3. Data Manipulation Techniques** (6 videos)
-- **5. 4. Loading Data in Java** (9 videos)
-- **6. 5. Data Visualization with JavaFX** (8 videos)
-- **7. 6. Modeling and Machine Learning** (3 videos)
-- **8. 7. K-Nearest Neighbors (KNN)** (7 videos)
-- **9. 8. Naive Bayes** (5 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Data Science Basics]]** (5 videos)
+- **[[#3. 2. Representing Data in Java]]** (3 videos)
+- **[[#4. 3. Data Manipulation Techniques]]** (6 videos)
+- **[[#5. 4. Loading Data in Java]]** (9 videos)
+- **[[#6. 5. Data Visualization with JavaFX]]** (8 videos)
+- **[[#7. 6. Modeling and Machine Learning]]** (3 videos)
+- **[[#8. 7. K-Nearest Neighbors (KNN)]]** (7 videos)
+- **[[#9. 8. Naive Bayes]]** (5 videos)
 
 ### 1. Introduction
 

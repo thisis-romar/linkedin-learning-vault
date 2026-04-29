@@ -51,18 +51,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Definition and Importance of Agentic AI** (3 videos)
-- **3. 2. Agentic Behavior and Adaptation** (2 videos)
-- **4. 3. Core Methodology and Tools in Agentic AI** (4 videos)
-- **5. 4. Agent Architectures in Agentic AI** (2 videos)
-- **6. 5. Advanced Communication Frameworks in Agentic AI** (4 videos)
-- **7. 6. Ethical and Societal Implications** (2 videos)
-- **8. 7. Security and Robustness** (2 videos)
-- **9. 8. Agentic AI in the Future** (2 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Definition and Importance of Agentic AI]]** (3 videos)
+- **[[#2. Agentic Behavior and Adaptation]]** (2 videos)
+- **[[#3. Core Methodology and Tools in Agentic AI]]** (4 videos)
+- **[[#4. Agent Architectures in Agentic AI]]** (2 videos)
+- **[[#5. Advanced Communication Frameworks in Agentic AI]]** (4 videos)
+- **[[#6. Ethical and Societal Implications]]** (2 videos)
+- **[[#7. Security and Robustness]]** (2 videos)
+- **[[#8. Agentic AI in the Future]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agentic AI: The future of smart AI is here!
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agentic-ai-the-future-of-smart-ai-is-here?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Definition and Importance of Agentic AI
+### 1. Definition and Importance of Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is agentic AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/what-is-agentic-ai?u=76281980)
@@ -310,7 +314,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Agentic Behavior and Adaptation
+### 2. Agentic Behavior and Adaptation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How AI systems perceive their environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/how-ai-systems-perceive-their-environment?u=76281980)
@@ -470,7 +476,9 @@ created: 2026-04-28
 > **Speakers:** - agentic (1)
 
 
-### 4. 3. Core Methodology and Tools in Agentic AI
+### 3. Core Methodology and Tools in Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Machine learning for agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/machine-learning-for-agents?u=76281980)
@@ -741,7 +749,9 @@ created: 2026-04-28
 > **Speakers:** - reinforcement (1)
 
 
-### 5. 4. Agent Architectures in Agentic AI
+### 4. Agent Architectures in Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agent architectures: major
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/agent-architectures-major?u=76281980)
@@ -874,7 +884,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Advanced Communication Frameworks in Agentic AI
+### 5. Advanced Communication Frameworks in Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing a cooperative multiagent system
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/developing-a-cooperative-multi-agent-system?u=76281980)
@@ -1165,7 +1177,9 @@ created: 2026-04-28
 > **Speakers:** - negotiation (1)
 
 
-### 7. 6. Ethical and Societal Implications
+### 6. Ethical and Societal Implications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ethical frameworks and considerations in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/ethical-frameworks-and-considerations-in-ai?u=76281980)
@@ -1306,7 +1320,9 @@ created: 2026-04-28
 > **Speakers:** - along (1)
 
 
-### 8. 7. Security and Robustness
+### 7. Security and Robustness
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/security-challenges?u=76281980)
@@ -1481,7 +1497,9 @@ created: 2026-04-28
 > **Speakers:** - many (1)
 
 
-### 9. 8. Agentic AI in the Future
+### 8. Agentic AI in the Future
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future role of agentic AI in industry 4.0 and beyond
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/the-future-role-of-agentic-ai-in-industry-4-0-and-beyond?u=76281980)
@@ -1627,7 +1645,9 @@ created: 2026-04-28
 > **Speakers:** - not (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-fundamentals-architectures-frameworks-and-applications/next-steps?u=76281980)

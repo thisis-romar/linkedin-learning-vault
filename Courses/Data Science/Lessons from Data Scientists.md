@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Start with the Right Mindset** (3 videos)
-- **3. 2. Work Like a Real Data Scientist** (3 videos)
-- **4. 3. Communicate with Credibility** (3 videos)
-- **5. 4. Learn from Mistakes and Stay Resilient** (3 videos)
-- **6. 5. Own Your Career, Not Just Your Work** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Start with the Right Mindset]]** (3 videos)
+- **[[#3. 2. Work Like a Real Data Scientist]]** (3 videos)
+- **[[#4. 3. Communicate with Credibility]]** (3 videos)
+- **[[#5. 4. Learn from Mistakes and Stay Resilient]]** (3 videos)
+- **[[#6. 5. Own Your Career, Not Just Your Work]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

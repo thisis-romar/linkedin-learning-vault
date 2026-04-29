@@ -43,13 +43,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Python Features** (6 videos)
-- **3. 2. Using Iterators** (8 videos)
-- **4. 3. String Processing** (5 videos)
-- **5. 4. Working with Sequences** (7 videos)
-- **6. 5. Exceptions** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Python Features]]** (6 videos)
+- **[[#3. 2. Using Iterators]]** (8 videos)
+- **[[#4. 3. String Processing]]** (5 videos)
+- **[[#5. 4. Working with Sequences]]** (7 videos)
+- **[[#6. 5. Exceptions]]** (6 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

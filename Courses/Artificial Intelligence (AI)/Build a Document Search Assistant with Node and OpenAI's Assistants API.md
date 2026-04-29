@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Building the Smart Document Search Assistant** (6 videos)
-- **3. 2. Implementing Core Features** (5 videos)
-- **4. 3. Advanced Features and Debugging** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Building the Smart Document Search Assistant]]** (6 videos)
+- **[[#2. Implementing Core Features]]** (5 videos)
+- **[[#3. Advanced Features and Debugging]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980)
@@ -291,7 +293,9 @@ created: 2026-04-28
 > **Definitions:** is an  (2), is a  (1)
 
 
-### 2. 1. Building the Smart Document Search Assistant
+### 1. Building the Smart Document Search Assistant
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating your first assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980)
@@ -1152,7 +1156,9 @@ created: 2026-04-28
 > **Documentation:** the docs (1)
 
 
-### 3. 2. Implementing Core Features
+### 2. Implementing Core Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Handling user input and generating responses
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980)
@@ -1809,7 +1815,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Features and Debugging
+### 3. Advanced Features and Debugging
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the Code Interpreter
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980)
@@ -2424,7 +2432,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (3)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980)

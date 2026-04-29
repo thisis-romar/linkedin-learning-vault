@@ -49,11 +49,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Approaches to Data Integration** (7 videos)
-- **3. 2. Integrate Data into a Unified Analytics Platform** (3 videos)
-- **4. 3. API Development for AI Applications** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Approaches to Data Integration]]** (7 videos)
+- **[[#3. 2. Integrate Data into a Unified Analytics Platform]]** (3 videos)
+- **[[#4. 3. API Development for AI Applications]]** (6 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

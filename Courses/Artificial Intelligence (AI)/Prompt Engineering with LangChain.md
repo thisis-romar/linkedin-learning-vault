@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Language Models** (1 videos)
-- **3. 2. LLMs and Text Generation** (4 videos)
-- **4. 3. Components of LangChain** (7 videos)
-- **5. 4. Basics of Prompting** (2 videos)
-- **6. 5. Prompt Templates Deep Dive** (17 videos)
-- **7. 6. Prompting Techniques** (7 videos)
-- **8. 7. Prompt Management a.k.a. PromptOps** (6 videos)
-- **9. 8. The LLM Landscape** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to Language Models]]** (1 videos)
+- **[[#3. 2. LLMs and Text Generation]]** (4 videos)
+- **[[#4. 3. Components of LangChain]]** (7 videos)
+- **[[#5. 4. Basics of Prompting]]** (2 videos)
+- **[[#6. 5. Prompt Templates Deep Dive]]** (17 videos)
+- **[[#7. 6. Prompting Techniques]]** (7 videos)
+- **[[#8. 7. Prompt Management a.k.a. PromptOps]]** (6 videos)
+- **[[#9. 8. The LLM Landscape]]** (2 videos)
 
 ### 1. Introduction
 

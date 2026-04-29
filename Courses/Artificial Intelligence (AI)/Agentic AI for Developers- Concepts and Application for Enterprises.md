@@ -57,17 +57,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Agentic AI** (5 videos)
-- **3. 2. An Agentic AI System** (7 videos)
-- **4. 3. Your First Agentic AI Application** (5 videos)
-- **5. 4. Design Patterns for Agentic AI** (5 videos)
-- **6. 5. Enterprise Use Cases for Agentic AI** (5 videos)
-- **7. 6. Implementing a Customer Service AI Agent** (5 videos)
-- **8. 7. Responsible AI Considerations for AI Agents** (4 videos)
-- **9. 8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Agentic AI]]** (5 videos)
+- **[[#2. An Agentic AI System]]** (7 videos)
+- **[[#3. Your First Agentic AI Application]]** (5 videos)
+- **[[#4. Design Patterns for Agentic AI]]** (5 videos)
+- **[[#5. Enterprise Use Cases for Agentic AI]]** (5 videos)
+- **[[#6. Implementing a Customer Service AI Agent]]** (5 videos)
+- **[[#7. Responsible AI Considerations for AI Agents]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building your own AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Agentic AI
+### 1. Introduction to Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic GenAI uses and limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980)
@@ -426,7 +430,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. An Agentic AI System
+### 2. An Agentic AI System
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Components of an agentic AI system
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980)
@@ -956,7 +962,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Your First Agentic AI Application
+### 3. Your First Agentic AI Application
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A basic AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980)
@@ -1226,7 +1234,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 5. 4. Design Patterns for Agentic AI
+### 4. Design Patterns for Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reflection pattern in agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/reflection-pattern-in-agentic-ai?u=76281980)
@@ -1539,7 +1549,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Enterprise Use Cases for Agentic AI
+### 5. Enterprise Use Cases for Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI agents in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980)
@@ -1912,7 +1924,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Implementing a Customer Service AI Agent
+### 6. Implementing a Customer Service AI Agent
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A customer service AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980)
@@ -2180,7 +2194,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Responsible AI Considerations for AI Agents
+### 7. Responsible AI Considerations for AI Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hallucinations in agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980)
@@ -2346,7 +2362,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Conclusion
+### 8. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/continuing-on-with-agentic-ai?u=76281980)

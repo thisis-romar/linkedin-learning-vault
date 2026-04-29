@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Beginning Your Organization’s AI Journey Now** (2 videos)
-- **3. 2. The AI Upskilling Framework** (6 videos)
-- **4. 3. From Framework to Action** (2 videos)
-- **5. 4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Beginning Your Organization’s AI Journey Now]]** (2 videos)
+- **[[#2. The AI Upskilling Framework]]** (6 videos)
+- **[[#3. From Framework to Action]]** (2 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How is AI reshaping the skills today's organizations need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/how-is-ai-reshaping-the-skills-today-s-organizations-need?u=76281980)
@@ -92,7 +94,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 2. 1. Beginning Your Organization’s AI Journey Now
+### 1. Beginning Your Organization’s AI Journey Now
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your organization's AI upskilling opportunity
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/your-organizations-ai-upskilling-opportunity?u=76281980)
@@ -187,7 +191,9 @@ created: 2026-04-28
 > **Speakers:** - at (1)
 
 
-### 3. 2. The AI Upskilling Framework
+### 2. The AI Upskilling Framework
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the LinkedIn AI Content Framework?
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-is-linkedin-s-ai-content-framework?u=76281980)
@@ -446,7 +452,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 4. 3. From Framework to Action
+### 3. From Framework to Action
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build your AI upskilling strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/build-your-ai-up-skilling-strategy?u=76281980)
@@ -565,7 +573,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 5. 4. Conclusion
+### 4. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-practical-guide-to-upskilling-your-organization-on-ai/what-s-next?u=76281980)

@@ -47,20 +47,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. Lesson 1: Installing and Using SQL Server Administration and Development Tools** (6 videos)
-- **3. Lesson 2: Introducing Database Server Components** (5 videos)
-- **4. Lesson 3: Provisioning SQL Server SQL Databases** (6 videos)
-- **5. Lesson 4: Provisioning Azure SQL Database** (5 videos)
-- **6. Lesson 5: Implementing and Managing SQL Server User Security and Permissions** (5 videos)
-- **7. Lesson 6: Securing the Server and Data** (5 videos)
-- **8. Lesson 7: Understanding and Designing SQL Server Tables** (7 videos)
-- **9. Lesson 8: Performance Tuning and Optimizing SQL** (6 videos)
-- **10. Lesson 9: Developing, Deploying, and Managing Data Recovery** (8 videos)
-- **11. Lesson 10: Implementing SQL Server High Availability and Disaster Recovery** (5 videos)
-- **12. Lesson 11: Managing and Monitoring SQL Server Databases** (11 videos)
-- **13. Lesson 12: Automating SQL Server Administration** (4 videos)
-- **14. Summary** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. Lesson 1: Installing and Using SQL Server Administration and Development Tools]]** (6 videos)
+- **[[#3. Lesson 2: Introducing Database Server Components]]** (5 videos)
+- **[[#4. Lesson 3: Provisioning SQL Server SQL Databases]]** (6 videos)
+- **[[#5. Lesson 4: Provisioning Azure SQL Database]]** (5 videos)
+- **[[#6. Lesson 5: Implementing and Managing SQL Server User Security and Permissions]]** (5 videos)
+- **[[#7. Lesson 6: Securing the Server and Data]]** (5 videos)
+- **[[#8. Lesson 7: Understanding and Designing SQL Server Tables]]** (7 videos)
+- **[[#9. Lesson 8: Performance Tuning and Optimizing SQL]]** (6 videos)
+- **[[#10. Lesson 9: Developing, Deploying, and Managing Data Recovery]]** (8 videos)
+- **[[#11. Lesson 10: Implementing SQL Server High Availability and Disaster Recovery]]** (5 videos)
+- **[[#12. Lesson 11: Managing and Monitoring SQL Server Databases]]** (11 videos)
+- **[[#13. Lesson 12: Automating SQL Server Administration]]** (4 videos)
+- **[[#14. Summary]]** (1 videos)
 
 ### 1. Introduction
 

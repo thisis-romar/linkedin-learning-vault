@@ -58,14 +58,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Machine Learning** (2 videos)
-- **3. 2. Predictive Artificial Intelligence** (5 videos)
-- **4. 3. Generative Artificial Intelligence** (4 videos)
-- **5. 4. Legal and Ethical Issues** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Machine Learning]]** (2 videos)
+- **[[#2. Predictive Artificial Intelligence]]** (5 videos)
+- **[[#3. Generative Artificial Intelligence]]** (4 videos)
+- **[[#4. Legal and Ethical Issues]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is artificial intelligence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/what-is-artificial-intelligence?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - artificial (1)
 
 
-### 2. 1. Machine Learning
+### 1. Machine Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A machine that learns by doing (and redoing)
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980)
@@ -284,7 +288,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 3. 2. Predictive Artificial Intelligence
+### 2. Predictive Artificial Intelligence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accurately predict what someone will do
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980)
@@ -751,7 +757,9 @@ created: 2026-04-28
 > **Speakers:** - earlier (1)
 
 
-### 4. 3. Generative Artificial Intelligence
+### 3. Generative Artificial Intelligence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build a system that generates something new
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980)
@@ -1095,7 +1103,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. 4. Legal and Ethical Issues
+### 4. Legal and Ethical Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Who owns what the machine learned?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980)
@@ -1375,7 +1385,9 @@ created: 2026-04-28
 > **Speakers:** - humans (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in AI concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980)

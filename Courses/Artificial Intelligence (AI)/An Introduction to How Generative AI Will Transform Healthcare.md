@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Foundations of Generative AI in Healthcare** (2 videos)
-- **3. 2. Planning for the Generative AI Revolution in Healthcare** (2 videos)
-- **4. 3. Special Topics in Generative AI and Healthcare** (3 videos)
-- **5. 4. Ethical, Social, and Professional Considerations** (3 videos)
-- **6. 5. The Future of Healthcare with Generative AI** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Foundations of Generative AI in Healthcare]]** (2 videos)
+- **[[#2. Planning for the Generative AI Revolution in Healthcare]]** (2 videos)
+- **[[#3. Special Topics in Generative AI and Healthcare]]** (3 videos)
+- **[[#4. Ethical, Social, and Professional Considerations]]** (3 videos)
+- **[[#5. The Future of Healthcare with Generative AI]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to generative AI in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Non-Speech:** (gentle bright music) (1)
 
 
-### 2. 1. The Foundations of Generative AI in Healthcare
+### 1. The Foundations of Generative AI in Healthcare
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GPT passes medical exams: Breakthrough or hype?
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980)
@@ -242,7 +246,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Planning for the Generative AI Revolution in Healthcare
+### 2. Planning for the Generative AI Revolution in Healthcare
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing generative AI: Bottom-up or top-down?
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980)
@@ -388,7 +394,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Special Topics in Generative AI and Healthcare
+### 3. Special Topics in Generative AI and Healthcare
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI: The key to unlocking medical knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980)
@@ -671,7 +679,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 5. 4. Ethical, Social, and Professional Considerations
+### 4. Ethical, Social, and Professional Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bias in generative AI for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980)
@@ -892,7 +902,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 6. 5. The Future of Healthcare with Generative AI
+### 5. The Future of Healthcare with Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The next wave: Multimodal AI in patient care
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980)
@@ -1147,7 +1159,9 @@ created: 2026-04-28
 > **Speakers:** - did (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing the AI healthcare journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980)

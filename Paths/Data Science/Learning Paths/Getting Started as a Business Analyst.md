@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-as-a-business-analy
 course_count: 18
 linkedin_topics:
   - Data Science
-louvain_cluster: 7
+louvain_cluster: 8
 tags:
   - learning-path
   - topic/data-science

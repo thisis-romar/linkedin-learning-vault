@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Where Design Thinking Fits in a Business** (3 videos)
-- **3. 2. Design Thinking Isn't Magic** (3 videos)
-- **4. 3. The Design Thinking Process** (4 videos)
-- **5. 4. Pros and Cons of Design Thinking** (4 videos)
-- **6. 5. Making Design Thinking Happen in Your Organization** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Where Design Thinking Fits in a Business]]** (3 videos)
+- **[[#2. Design Thinking Isn't Magic]]** (3 videos)
+- **[[#3. The Design Thinking Process]]** (4 videos)
+- **[[#4. Pros and Cons of Design Thinking]]** (4 videos)
+- **[[#5. Making Design Thinking Happen in Your Organization]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is design thinking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/what-is-design-thinking?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 2. 1. Where Design Thinking Fits in a Business
+### 1. Where Design Thinking Fits in a Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agile, lean, and design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/agile-lean-and-design-thinking?u=76281980)
@@ -263,7 +267,9 @@ created: 2026-04-28
 > **Speakers:** - at (1)
 
 
-### 3. 2. Design Thinking Isn't Magic
+### 2. Design Thinking Isn't Magic
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Celebrity design thinking vs. real design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/celebrity-design-thinking-vs-real-design-thinking?u=76281980)
@@ -415,7 +421,9 @@ created: 2026-04-28
 > **Speakers:** - good (1)
 
 
-### 4. 3. The Design Thinking Process
+### 3. The Design Thinking Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Finding the real problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/finding-the-real-problem?u=76281980)
@@ -567,7 +575,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 5. 4. Pros and Cons of Design Thinking
+### 4. Pros and Cons of Design Thinking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design thinking in non-agile organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/design-thinking-in-non-agile-organizations?u=76281980)
@@ -765,7 +775,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Making Design Thinking Happen in Your Organization
+### 5. Making Design Thinking Happen in Your Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Guerilla design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/guerilla-design-thinking?u=76281980)
@@ -1011,7 +1023,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-understanding-the-process/implementing-design-thinking?u=76281980)

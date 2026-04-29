@@ -57,16 +57,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Kubernetes and the Cloud-Native Ecosystem** (3 videos)
-- **3. 2. Setting Up and Getting Oriented** (7 videos)
-- **4. 3. Application Deployment** (8 videos)
-- **5. 4. Complex Application Deployment** (3 videos)
-- **6. 5. Kubernetes Architecture** (3 videos)
-- **7. 6. Advanced Topics** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Kubernetes and the Cloud-Native Ecosystem]]** (3 videos)
+- **[[#2. Setting Up and Getting Oriented]]** (7 videos)
+- **[[#3. Application Deployment]]** (8 videos)
+- **[[#4. Complex Application Deployment]]** (3 videos)
+- **[[#5. Kubernetes Architecture]]** (3 videos)
+- **[[#6. Advanced Topics]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting sail on your Kubernetes voyage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 2. 1. Kubernetes and the Cloud-Native Ecosystem
+### 1. Kubernetes and the Cloud-Native Ecosystem
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Kubernetes?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980)
@@ -323,7 +327,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 3. 2. Setting Up and Getting Oriented
+### 2. Setting Up and Getting Oriented
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install Docker on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980)
@@ -752,7 +758,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Application Deployment
+### 3. Application Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reading and writing YAML
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980)
@@ -1406,7 +1414,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Complex Application Deployment
+### 4. Complex Application Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Expose your application to the internet with a LoadBalancer
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980)
@@ -1623,7 +1633,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Kubernetes Architecture
+### 5. Kubernetes Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The Kubernetes control plane
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980)
@@ -1805,7 +1817,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. 6. Advanced Topics
+### 6. Advanced Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ways to manage Kubernetes pods
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/ways-to-manage-kubernetes-pods?u=76281980)
@@ -2011,7 +2025,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps on your Kubernetes voyage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980)

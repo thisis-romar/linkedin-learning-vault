@@ -46,16 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Life as a Programmer** (4 videos)
-- **3. 2. Software Development** (5 videos)
-- **4. 3. Tools of the Trade** (6 videos)
-- **5. 4. Programming Languages** (6 videos)
-- **6. 5. Python Show and Tell** (7 videos)
-- **7. 6. Working with Python** (5 videos)
-- **8. 7. Exploring Different Languages** (6 videos)
-- **9. 8. Your First Programming Job** (5 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Life as a Programmer]]** (4 videos)
+- **[[#3. 2. Software Development]]** (5 videos)
+- **[[#4. 3. Tools of the Trade]]** (6 videos)
+- **[[#5. 4. Programming Languages]]** (6 videos)
+- **[[#6. 5. Python Show and Tell]]** (7 videos)
+- **[[#7. 6. Working with Python]]** (5 videos)
+- **[[#8. 7. Exploring Different Languages]]** (6 videos)
+- **[[#9. 8. Your First Programming Job]]** (5 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

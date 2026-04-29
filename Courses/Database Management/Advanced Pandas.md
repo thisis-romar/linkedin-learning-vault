@@ -45,13 +45,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. From Beginner to Advanced pandas** (4 videos)
-- **3. 2. Advanced Calculations** (5 videos)
-- **4. 3. Transforming DataFrames** (4 videos)
-- **5. 4. Exploratory Data Analysis and Visualization** (2 videos)
-- **6. 5. Beyond pandas** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. From Beginner to Advanced pandas]]** (4 videos)
+- **[[#3. 2. Advanced Calculations]]** (5 videos)
+- **[[#4. 3. Transforming DataFrames]]** (4 videos)
+- **[[#5. 4. Exploratory Data Analysis and Visualization]]** (2 videos)
+- **[[#6. 5. Beyond pandas]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

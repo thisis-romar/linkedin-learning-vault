@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started in Blockchain and Hyperledger** (2 videos)
-- **3. 2. Hyperledger Concepts** (6 videos)
-- **4. 3. Blockchain in Azure** (3 videos)
-- **5. 4. Set Up Your Blockchain Environment** (5 videos)
-- **6. 5. Create Your Azure Blockchain Application** (6 videos)
-- **7. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started in Blockchain and Hyperledger]]** (2 videos)
+- **[[#3. 2. Hyperledger Concepts]]** (6 videos)
+- **[[#4. 3. Blockchain in Azure]]** (3 videos)
+- **[[#5. 4. Set Up Your Blockchain Environment]]** (5 videos)
+- **[[#6. 5. Create Your Azure Blockchain Application]]** (6 videos)
+- **[[#7. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

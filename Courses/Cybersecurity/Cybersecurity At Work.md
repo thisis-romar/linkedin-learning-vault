@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Social Engineering Scams and Attacks** (5 videos)
-- **3. 2. Wireless Security** (3 videos)
-- **4. 3. Account Security** (3 videos)
-- **5. 4. Software and Internet Security** (5 videos)
-- **6. 5. Hybrid Work Security** (5 videos)
-- **7. 6. Data Security** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Social Engineering Scams and Attacks]]** (5 videos)
+- **[[#2. Wireless Security]]** (3 videos)
+- **[[#3. Account Security]]** (3 videos)
+- **[[#4. Software and Internet Security]]** (5 videos)
+- **[[#5. Hybrid Work Security]]** (5 videos)
+- **[[#6. Data Security]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure behavior in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 2. 1. Social Engineering Scams and Attacks
+### 1. Social Engineering Scams and Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Social engineering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980)
@@ -344,7 +348,9 @@ created: 2026-04-28
 > **Warnings:** warning (1)
 
 
-### 3. 2. Wireless Security
+### 2. Wireless Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Public Wi-Fi
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980)
@@ -506,7 +512,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 4. 3. Account Security
+### 3. Account Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Password security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/password-security?u=76281980)
@@ -665,7 +673,9 @@ created: 2026-04-28
 > **Speakers:** - multifactor (1)
 
 
-### 5. 4. Software and Internet Security
+### 4. Software and Internet Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Updating software
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/updating-software?u=76281980)
@@ -974,7 +984,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 6. 5. Hybrid Work Security
+### 5. Hybrid Work Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Physical office security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980)
@@ -1320,7 +1332,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 7. 6. Data Security
+### 6. Data Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intellectual property
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980)
@@ -1424,7 +1438,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### You are part of the security team
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980)

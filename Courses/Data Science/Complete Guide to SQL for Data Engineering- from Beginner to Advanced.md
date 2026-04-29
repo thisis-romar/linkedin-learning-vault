@@ -55,20 +55,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. SQL Introduction** (4 videos)
-- **3. 2. SQL Basics** (7 videos)
-- **4. 3. Data Manipulation** (6 videos)
-- **5. 4. Advanced Data Querying** (11 videos)
-- **6. 5. SQL Functions** (8 videos)
-- **7. 6. SQL Analytical Functions** (9 videos)
-- **8. 7. Views and Stored Procedures** (6 videos)
-- **9. 8. Indexes and Performance** (6 videos)
-- **10. 9. Database Security and User Management** (8 videos)
-- **11. 10. Debugging: Common Mistakes and SQL Errors** (4 videos)
-- **12. 11. ETL Overview** (3 videos)
-- **13. 12. Real-World Project** (2 videos)
-- **14. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. SQL Introduction]]** (4 videos)
+- **[[#3. 2. SQL Basics]]** (7 videos)
+- **[[#4. 3. Data Manipulation]]** (6 videos)
+- **[[#5. 4. Advanced Data Querying]]** (11 videos)
+- **[[#6. 5. SQL Functions]]** (8 videos)
+- **[[#7. 6. SQL Analytical Functions]]** (9 videos)
+- **[[#8. 7. Views and Stored Procedures]]** (6 videos)
+- **[[#9. 8. Indexes and Performance]]** (6 videos)
+- **[[#10. 9. Database Security and User Management]]** (8 videos)
+- **[[#11. 10. Debugging: Common Mistakes and SQL Errors]]** (4 videos)
+- **[[#12. 11. ETL Overview]]** (3 videos)
+- **[[#13. 12. Real-World Project]]** (2 videos)
+- **[[#14. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

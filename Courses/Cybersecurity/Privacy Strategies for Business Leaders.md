@@ -49,16 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Privacy: The Big Picture** (4 videos)
-- **3. 2. Privacy: Your Responsibilities as an Executive** (3 videos)
-- **4. 3. Building a Privacy Team and Culture** (3 videos)
-- **5. 4. Your Privacy Program** (3 videos)
-- **6. 5. Tactical Privacy in Action** (3 videos)
-- **7. 6. User Data Management** (3 videos)
-- **8. 7. A Proactive Privacy Program** (5 videos)
-- **9. 8. Staffing Your Privacy Team** (7 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Privacy: The Big Picture]]** (4 videos)
+- **[[#3. 2. Privacy: Your Responsibilities as an Executive]]** (3 videos)
+- **[[#4. 3. Building a Privacy Team and Culture]]** (3 videos)
+- **[[#5. 4. Your Privacy Program]]** (3 videos)
+- **[[#6. 5. Tactical Privacy in Action]]** (3 videos)
+- **[[#7. 6. User Data Management]]** (3 videos)
+- **[[#8. 7. A Proactive Privacy Program]]** (5 videos)
+- **[[#9. 8. Staffing Your Privacy Team]]** (7 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

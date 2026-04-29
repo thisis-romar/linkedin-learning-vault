@@ -43,13 +43,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Traffic Capture Overview** (5 videos)
-- **3. 2. Getting Started with Wireshark** (6 videos)
-- **4. 3. Examining the Internet Suite** (11 videos)
-- **5. 4. Deep Packet Analysis of Common Protocols** (7 videos)
-- **6. 5. Working with Packet Captures** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Traffic Capture Overview]]** (5 videos)
+- **[[#3. 2. Getting Started with Wireshark]]** (6 videos)
+- **[[#4. 3. Examining the Internet Suite]]** (11 videos)
+- **[[#5. 4. Deep Packet Analysis of Common Protocols]]** (7 videos)
+- **[[#6. 5. Working with Packet Captures]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

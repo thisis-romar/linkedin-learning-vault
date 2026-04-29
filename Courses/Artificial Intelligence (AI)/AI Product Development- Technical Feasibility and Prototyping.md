@@ -54,13 +54,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is "Feasible"?** (2 videos)
-- **3. 2. Tech Feasibility in Detail** (16 videos)
-- **4. 3. Prototyping** (10 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is "Feasible"?]]** (2 videos)
+- **[[#2. Tech Feasibility in Detail]]** (16 videos)
+- **[[#3. Prototyping]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/introduction?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. What Is "Feasible"?
+### 1. What Is "Feasible"?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The goal: Feasibility and prototyping
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility?u=76281980)
@@ -259,7 +263,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Tech Feasibility in Detail
+### 2. Tech Feasibility in Detail
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### "Must knows" for feasibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980)
@@ -1571,7 +1577,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Prototyping
+### 3. Prototyping
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fundamentals of prototyping and prototyping timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980)
@@ -2669,7 +2677,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980)

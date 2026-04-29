@@ -49,7 +49,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. History of Responsible AI** (1 videos)
+- **[[#1. History of Responsible AI]]** (1 videos)
 
 ### 1. History of Responsible AI
 

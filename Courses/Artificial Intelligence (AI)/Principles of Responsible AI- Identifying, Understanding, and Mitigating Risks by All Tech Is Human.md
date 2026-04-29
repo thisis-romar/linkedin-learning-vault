@@ -46,7 +46,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Principles of Responsible AI** (1 videos)
+- **[[#1. Principles of Responsible AI]]** (1 videos)
 
 ### 1. Principles of Responsible AI
 

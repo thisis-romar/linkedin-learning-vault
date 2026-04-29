@@ -48,7 +48,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Use AI for Better Marketing** (10 videos)
+- **[[#1. Use AI for Better Marketing]]** (10 videos)
 
 ### 1. Use AI for Better Marketing
 

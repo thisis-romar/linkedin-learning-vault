@@ -42,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Ethics 101** (2 videos)
-- **3. 2. Ethics in the Workplace** (5 videos)
-- **4. 3. Ethics and the Researcher** (4 videos)
-- **5. 4. Ethics on the Global Stage** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Ethics 101]]** (2 videos)
+- **[[#2. Ethics in the Workplace]]** (5 videos)
+- **[[#3. Ethics and the Researcher]]** (4 videos)
+- **[[#4. Ethics on the Global Stage]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **CLI Commands:** find (1)
 
 
-### 2. 1. Ethics 101
+### 1. Ethics 101
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Morals, ethics, and laws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980)
@@ -200,7 +204,9 @@ created: 2026-04-28
 > **Versions:** 3.5 (1)
 
 
-### 3. 2. Ethics in the Workplace
+### 2. Ethics in the Workplace
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Handling sensitive information
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980)
@@ -513,7 +519,9 @@ created: 2026-04-28
 > **Tools:** slack (1)
 
 
-### 4. 3. Ethics and the Researcher
+### 3. Ethics and the Researcher
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responsible disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980)
@@ -762,7 +770,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 5. 4. Ethics on the Global Stage
+### 4. Ethics on the Global Stage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Global impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980)
@@ -1019,7 +1029,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting ethics into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/putting-ethics-into-practice?u=76281980)

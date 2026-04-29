@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/atlassian-agile-project-management-
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 9
+louvain_cluster: 6
 tags:
   - professional-certificate
   - topic/devops

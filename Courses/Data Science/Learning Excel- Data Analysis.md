@@ -51,16 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Foundational Concepts of Data Analysis** (8 videos)
-- **3. 2. Visualizing Data** (8 videos)
-- **4. 3. Testing a Hypothesis** (5 videos)
-- **5. 4. Utilizing Data Distributions** (7 videos)
-- **6. 5. Measuring Covariance and Correlation** (8 videos)
-- **7. 6. Calculating Probabilities, Combinations, and Permutations** (9 videos)
-- **8. 7. Performing Bayesian Analysis** (6 videos)
-- **9. 8. Performing Regression Analysis** (7 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Foundational Concepts of Data Analysis]]** (8 videos)
+- **[[#3. 2. Visualizing Data]]** (8 videos)
+- **[[#4. 3. Testing a Hypothesis]]** (5 videos)
+- **[[#5. 4. Utilizing Data Distributions]]** (7 videos)
+- **[[#6. 5. Measuring Covariance and Correlation]]** (8 videos)
+- **[[#7. 6. Calculating Probabilities, Combinations, and Permutations]]** (9 videos)
+- **[[#8. 7. Performing Bayesian Analysis]]** (6 videos)
+- **[[#9. 8. Performing Regression Analysis]]** (7 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Fetch Data from Tables** (3 videos)
-- **3. 2. Filtering Data** (4 videos)
-- **4. 3. Single Row Functions** (5 videos)
-- **5. 4. Multiple Row Functions/ Group Functions** (3 videos)
-- **6. 5. Joins and Subqueries** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Fetch Data from Tables]]** (3 videos)
+- **[[#2. Filtering Data]]** (4 videos)
+- **[[#3. Single Row Functions]]** (5 videos)
+- **[[#4. Multiple Row Functions/ Group Functions]]** (3 videos)
+- **[[#5. Joins and Subqueries]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to RDBMS and SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980)
@@ -151,7 +153,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1)
 
 
-### 2. 1. Fetch Data from Tables
+### 1. Fetch Data from Tables
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic select statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980)
@@ -418,7 +422,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Filtering Data
+### 2. Filtering Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparison conditions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980)
@@ -830,7 +836,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Single Row Functions
+### 3. Single Row Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of functions and number functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980)
@@ -1321,7 +1329,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Multiple Row Functions/ Group Functions
+### 4. Multiple Row Functions/ Group Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of group functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-group-functions?u=76281980)
@@ -1526,7 +1536,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Joins and Subqueries
+### 5. Joins and Subqueries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980)
@@ -1788,7 +1800,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980)

@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Artificial Intelligence (AI)** (7 videos)
-- **3. 2. Data Analytics and Optimization** (4 videos)
-- **4. 3. Using AI in Business** (9 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Artificial Intelligence (AI)]]** (7 videos)
+- **[[#3. 2. Data Analytics and Optimization]]** (4 videos)
+- **[[#4. 3. Using AI in Business]]** (9 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

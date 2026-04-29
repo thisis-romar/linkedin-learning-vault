@@ -48,15 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Identity and Access Management** (6 videos)
-- **3. 2. Amazon Simple Storage Service (S3)** (7 videos)
-- **4. 3. Key Management Service Encryption** (5 videos)
-- **5. 4. User Identities with Cognito and Web** (6 videos)
-- **6. 5. Certificate Manager** (3 videos)
-- **7. 6. Parameter Store and Secrets Manager** (3 videos)
-- **8. 7. Security Alerts in AWS** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Identity and Access Management]]** (6 videos)
+- **[[#3. 2. Amazon Simple Storage Service (S3)]]** (7 videos)
+- **[[#4. 3. Key Management Service Encryption]]** (5 videos)
+- **[[#5. 4. User Identities with Cognito and Web]]** (6 videos)
+- **[[#6. 5. Certificate Manager]]** (3 videos)
+- **[[#7. 6. Parameter Store and Secrets Manager]]** (3 videos)
+- **[[#8. 7. Security Alerts in AWS]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

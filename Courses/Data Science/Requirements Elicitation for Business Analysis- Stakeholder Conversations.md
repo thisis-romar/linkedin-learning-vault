@@ -51,14 +51,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Requirements Conversations** (3 videos)
-- **3. 2. Prepare for a Requirements Conversation** (5 videos)
-- **4. 3. Conduct Effective Conversations** (14 videos)
-- **5. 4. Additional Tips for Your Conversations** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Requirements Conversations]]** (3 videos)
+- **[[#2. Prepare for a Requirements Conversation]]** (5 videos)
+- **[[#3. Conduct Effective Conversations]]** (14 videos)
+- **[[#4. Additional Tips for Your Conversations]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discover requirements of stakeholders
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/discover-requirements-of-stakeholders?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - requirements (1)
 
 
-### 2. 1. Introduction to Requirements Conversations
+### 1. Introduction to Requirements Conversations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When to use interviewing and conversations as a technique
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/when-to-use-interviewing-and-conversations-as-a-technique?u=76281980)
@@ -272,7 +276,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 3. 2. Prepare for a Requirements Conversation
+### 2. Prepare for a Requirements Conversation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define the requirements conversation's purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/define-the-requirements-conversation-s-purpose?u=76281980)
@@ -608,7 +614,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 4. 3. Conduct Effective Conversations
+### 3. Conduct Effective Conversations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Examine an example requirements conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/examine-an-example-requirements-conversation?u=76281980)
@@ -1680,7 +1688,9 @@ created: 2026-04-28
 > **Speakers:** - requirements (1)
 
 
-### 5. 4. Additional Tips for Your Conversations
+### 4. Additional Tips for Your Conversations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Acknowledge the stakeholders' time and input
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980)
@@ -1849,7 +1859,9 @@ created: 2026-04-28
 > **Speakers:** - generative (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep practicing
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/keep-practicing?u=76281980)

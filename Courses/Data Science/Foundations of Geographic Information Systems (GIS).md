@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding GIS** (5 videos)
-- **3. 2. GIS Core Concepts** (5 videos)
-- **4. 3. Geospatial Analysis** (3 videos)
-- **5. 4. Spatial Data Sources** (2 videos)
-- **6. 5. GIS as a Spatial Platform** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understanding GIS]]** (5 videos)
+- **[[#3. 2. GIS Core Concepts]]** (5 videos)
+- **[[#4. 3. Geospatial Analysis]]** (3 videos)
+- **[[#5. 4. Spatial Data Sources]]** (2 videos)
+- **[[#6. 5. GIS as a Spatial Platform]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

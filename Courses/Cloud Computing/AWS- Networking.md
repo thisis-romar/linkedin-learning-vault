@@ -49,16 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. AWS Network Foundations** (5 videos)
-- **3. 2. Virtual Private Cloud** (10 videos)
-- **4. 3. VPC Security** (10 videos)
-- **5. 4. VPC Peering** (4 videos)
-- **6. 5. Transit Gateway** (6 videos)
-- **7. 6. Route 53** (8 videos)
-- **8. 7. Global Considerations** (16 videos)
-- **9. 8. Troubleshooting Strategies** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. AWS Network Foundations]]** (5 videos)
+- **[[#3. 2. Virtual Private Cloud]]** (10 videos)
+- **[[#4. 3. VPC Security]]** (10 videos)
+- **[[#5. 4. VPC Peering]]** (4 videos)
+- **[[#6. 5. Transit Gateway]]** (6 videos)
+- **[[#7. 6. Route 53]]** (8 videos)
+- **[[#8. 7. Global Considerations]]** (16 videos)
+- **[[#9. 8. Troubleshooting Strategies]]** (4 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

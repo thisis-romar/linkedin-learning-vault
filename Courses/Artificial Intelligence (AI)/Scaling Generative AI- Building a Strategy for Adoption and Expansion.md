@@ -54,13 +54,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Generative AI and Why It is Important** (3 videos)
-- **3. 2. Introduction to the Right Governance Structure** (4 videos)
-- **4. 3. Setting Up the Right Culture So Generative AI Can Thrive** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Generative AI and Why It is Important]]** (3 videos)
+- **[[#2. Introduction to the Right Governance Structure]]** (4 videos)
+- **[[#3. Setting Up the Right Culture So Generative AI Can Thrive]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up Generative AI for success in your organisation
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/setting-up-generative-ai-for-success-in-your-organisation?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - generative (1)
 
 
-### 2. 1. Generative AI and Why It is Important
+### 1. Generative AI and Why It is Important
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/what-is-genai?u=76281980)
@@ -280,7 +284,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Introduction to the Right Governance Structure
+### 2. Introduction to the Right Governance Structure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Establishing a governance framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/establishing-a-governance-framework?u=76281980)
@@ -621,7 +627,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. 3. Setting Up the Right Culture So Generative AI Can Thrive
+### 3. Setting Up the Right Culture So Generative AI Can Thrive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI and company culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/genai-and-company-culture?u=76281980)
@@ -770,7 +778,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scaling generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/scaling-generative-ai-building-a-strategy-for-adoption-and-expansion/scaling-genai?u=76281980)

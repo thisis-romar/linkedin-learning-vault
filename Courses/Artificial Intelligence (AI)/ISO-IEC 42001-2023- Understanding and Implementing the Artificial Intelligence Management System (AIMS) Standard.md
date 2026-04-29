@@ -53,16 +53,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Need and Overview of an AI Management System (AIMS) ISO 42001:2023** (7 videos)
-- **3. 2. Define Organizational Context: Clauses 4.1-4.4** (3 videos)
-- **4. 3. Identify Leadership and Create AI Policy: Clauses 5.1-5.3** (3 videos)
-- **5. 4. AI Planning: Clause 6.1.1- 6.3** (4 videos)
-- **6. 5. AI Support and Operations: Clause 7.1- 8.4** (5 videos)
-- **7. 6. AI Performance Evaluation and Improvement: Clause 9.1-10.2** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Need and Overview of an AI Management System (AIMS) ISO 42001:2023]]** (7 videos)
+- **[[#2. Define Organizational Context: Clauses 4.1-4.4]]** (3 videos)
+- **[[#3. Identify Leadership and Create AI Policy: Clauses 5.1-5.3]]** (3 videos)
+- **[[#4. AI Planning: Clause 6.1.1- 6.3]]** (4 videos)
+- **[[#5. AI Support and Operations: Clause 7.1- 8.4]]** (5 videos)
+- **[[#6. AI Performance Evaluation and Improvement: Clause 9.1-10.2]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The benefits of implementing AIMS
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/the-benefits-of-implementing-aims?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 1. The Need and Overview of an AI Management System (AIMS) ISO 42001:2023
+### 1. The Need and Overview of an AI Management System (AIMS) ISO 42001:2023
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the categories of AI uses
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/understanding-the-categories-of-ai-uses?u=76281980)
@@ -594,7 +598,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Define Organizational Context: Clauses 4.1-4.4
+### 2. Define Organizational Context: Clauses 4.1-4.4
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Context of organization: Clause 4
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/context-of-organization-clause-4-1-24108924?u=76281980)
@@ -795,7 +801,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Identify Leadership and Create AI Policy: Clauses 5.1-5.3
+### 3. Identify Leadership and Create AI Policy: Clauses 5.1-5.3
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI leadership and commitment: Clause 5.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-leadership-and-commitment-clause-5-1?u=76281980)
@@ -1006,7 +1014,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. AI Planning: Clause 6.1.1- 6.3
+### 4. AI Planning: Clause 6.1.1- 6.3
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### General: Clause 6.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/general-clause-6-1?u=76281980)
@@ -1297,7 +1307,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. AI Support and Operations: Clause 7.1- 8.4
+### 5. AI Support and Operations: Clause 7.1- 8.4
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI resources, competence, and awareness: Clauses 7.1-7.3
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-resources-competence-and-awareness-clauses-7-1-7-3?u=76281980)
@@ -1586,7 +1598,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. AI Performance Evaluation and Improvement: Clause 9.1-10.2
+### 6. AI Performance Evaluation and Improvement: Clause 9.1-10.2
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI monitoring, management, and analysis evaluation: Clause 9.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/ai-monitoring-management-and-analysis-evaluation-clause-9-1?u=76281980)
@@ -1806,7 +1820,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Consider your role as you work with AIMS
 > [LinkedIn Learning](https://www.linkedin.com/learning/iso-iec-42001-2023-understanding-and-implementing-the-artificial-intelligence-management-system-aims-standard/consider-your-role-as-you-work-with-aims?u=76281980)

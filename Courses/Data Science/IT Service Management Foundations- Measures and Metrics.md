@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is Your Vision?** (3 videos)
-- **3. 2. Measurements** (7 videos)
-- **4. 3. Measurement Models** (5 videos)
-- **5. 4. Assessments and Reporting** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What Is Your Vision?]]** (3 videos)
+- **[[#3. 2. Measurements]]** (7 videos)
+- **[[#4. 3. Measurement Models]]** (5 videos)
+- **[[#5. 4. Assessments and Reporting]]** (7 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

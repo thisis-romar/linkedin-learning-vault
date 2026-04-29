@@ -58,13 +58,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. What Is NoSQL?** (7 videos)
-- **3. 2. Different Types of NoSQL Databases** (7 videos)
-- **4. 3. Pros and Cons of NoSQL** (4 videos)
-- **5. 4. Is NoSQL Right for Your Job?** (3 videos)
-- **6. 5. Vector Databases** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. What Is NoSQL?]]** (7 videos)
+- **[[#3. 2. Different Types of NoSQL Databases]]** (7 videos)
+- **[[#4. 3. Pros and Cons of NoSQL]]** (4 videos)
+- **[[#5. 4. Is NoSQL Right for Your Job?]]** (3 videos)
+- **[[#6. 5. Vector Databases]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

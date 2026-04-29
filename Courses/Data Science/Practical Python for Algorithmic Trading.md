@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Working with Stock Market Data** (2 videos)
-- **3. 2. Backtesting with Classification Models** (5 videos)
-- **4. 3. Backtesting with Regression Models** (4 videos)
-- **5. 4. Backtesting Optimization** (4 videos)
-- **6. 5. The Overfitting Problem in Backtesting** (8 videos)
-- **7. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Working with Stock Market Data]]** (2 videos)
+- **[[#3. 2. Backtesting with Classification Models]]** (5 videos)
+- **[[#4. 3. Backtesting with Regression Models]]** (4 videos)
+- **[[#5. 4. Backtesting Optimization]]** (4 videos)
+- **[[#6. 5. The Overfitting Problem in Backtesting]]** (8 videos)
+- **[[#7. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

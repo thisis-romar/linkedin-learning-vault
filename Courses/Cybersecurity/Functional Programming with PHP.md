@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introductory Functional Concepts** (5 videos)
-- **3. 2. First-Class Functions** (7 videos)
-- **4. 3. PHP: The Functional Parts** (11 videos)
-- **5. 4. Advanced Functional Concepts** (5 videos)
-- **6. 5. Code Conversion Challenges** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introductory Functional Concepts]]** (5 videos)
+- **[[#3. 2. First-Class Functions]]** (7 videos)
+- **[[#4. 3. PHP: The Functional Parts]]** (11 videos)
+- **[[#5. 4. Advanced Functional Concepts]]** (5 videos)
+- **[[#6. 5. Code Conversion Challenges]]** (6 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. AI for Data-Driven Insights** (10 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. AI for Data-Driven Insights]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of AI for data-driven insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980)
@@ -269,7 +271,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. AI for Data-Driven Insights
+### 1. AI for Data-Driven Insights
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify key business questions with ChatGPT for data-driven decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980)
@@ -1193,7 +1197,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps in leveraging AI for data-driven business growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980)

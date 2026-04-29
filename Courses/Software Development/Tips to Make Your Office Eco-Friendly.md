@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Encourage and Embrace Sustainable Personal Habits at Work** (4 videos)
-- **3. 2. Energy-Efficient Shifts for Your Office** (5 videos)
-- **4. 3. Easy Eco-Shifts in the Workplace** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Encourage and Embrace Sustainable Personal Habits at Work]]** (4 videos)
+- **[[#2. Energy-Efficient Shifts for Your Office]]** (5 videos)
+- **[[#3. Easy Eco-Shifts in the Workplace]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Greening your workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. 1. Encourage and Embrace Sustainable Personal Habits at Work
+### 1. Encourage and Embrace Sustainable Personal Habits at Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bring your own reusables
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980)
@@ -452,7 +456,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Energy-Efficient Shifts for Your Office
+### 2. Energy-Efficient Shifts for Your Office
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conduct an energy audit at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980)
@@ -874,7 +880,9 @@ created: 2026-04-28
 > **Speakers:** - by (1)
 
 
-### 4. 3. Easy Eco-Shifts in the Workplace
+### 3. Easy Eco-Shifts in the Workplace
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secondhand-first at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980)
@@ -1279,7 +1287,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### You are part of the solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980)

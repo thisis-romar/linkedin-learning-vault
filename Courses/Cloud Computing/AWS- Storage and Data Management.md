@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Overview** (3 videos)
-- **3. 2. Object Storage** (11 videos)
-- **4. 3. File Systems** (10 videos)
-- **5. 4. Database Services** (9 videos)
-- **6. 5. Getting Data to AWS** (20 videos)
-- **7. 6. Moving Data in AWS** (7 videos)
-- **8. 7. Backup** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Overview]]** (3 videos)
+- **[[#3. 2. Object Storage]]** (11 videos)
+- **[[#4. 3. File Systems]]** (10 videos)
+- **[[#5. 4. Database Services]]** (9 videos)
+- **[[#6. 5. Getting Data to AWS]]** (20 videos)
+- **[[#7. 6. Moving Data in AWS]]** (7 videos)
+- **[[#8. 7. Backup]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

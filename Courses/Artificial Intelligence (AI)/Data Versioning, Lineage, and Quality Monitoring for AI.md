@@ -53,12 +53,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Importance of Data Versioning** (7 videos)
-- **3. 2. Implementing Data Versioning using DVC (Data Version Control)** (4 videos)
-- **4. 3. Tracking Data Lineage** (7 videos)
-- **5. 4. Monitoring Model and Data Quality** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Importance of Data Versioning]]** (7 videos)
+- **[[#3. 2. Implementing Data Versioning using DVC (Data Version Control)]]** (4 videos)
+- **[[#4. 3. Tracking Data Lineage]]** (7 videos)
+- **[[#5. 4. Monitoring Model and Data Quality]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

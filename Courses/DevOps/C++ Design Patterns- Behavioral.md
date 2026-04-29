@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Design Patterns** (1 videos)
-- **3. 2. Behavioral Patterns Group 1** (15 videos)
-- **4. 3. Behavioral Patterns Group 2: Strategies, States, and Interpretations** (18 videos)
-- **5. 4. Behavioral Patterns Group 3** (12 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Design Patterns]]** (1 videos)
+- **[[#3. 2. Behavioral Patterns Group 1]]** (15 videos)
+- **[[#4. 3. Behavioral Patterns Group 2: Strategies, States, and Interpretations]]** (18 videos)
+- **[[#5. 4. Behavioral Patterns Group 3]]** (12 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

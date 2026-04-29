@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Incident Reduction** (6 videos)
-- **3. 2. Incident Shift-Left** (6 videos)
-- **4. 3. Incident Monitoring Optimization** (6 videos)
-- **5. 4. Incident Cycle Time Reduction** (6 videos)
-- **6. 5. Incident Reassignment Reduction** (6 videos)
-- **7. 6. First-Contact Closure Rate Optimization** (6 videos)
-- **8. 7. Knowledge Base Optimization** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Incident Reduction]]** (6 videos)
+- **[[#3. 2. Incident Shift-Left]]** (6 videos)
+- **[[#4. 3. Incident Monitoring Optimization]]** (6 videos)
+- **[[#5. 4. Incident Cycle Time Reduction]]** (6 videos)
+- **[[#6. 5. Incident Reassignment Reduction]]** (6 videos)
+- **[[#7. 6. First-Contact Closure Rate Optimization]]** (6 videos)
+- **[[#8. 7. Knowledge Base Optimization]]** (6 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

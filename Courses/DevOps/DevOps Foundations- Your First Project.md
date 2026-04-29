@@ -44,15 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Project/The Mission** (3 videos)
-- **3. 2. Testing Locally with Docker** (4 videos)
-- **4. 3. Getting Started with Git** (4 videos)
-- **5. 4. Collaborative Version Control** (6 videos)
-- **6. 5.  Testing Your App with RSpec, Capybara, and Selenium** (9 videos)
-- **7. 6. Infrastructure as Code with OpenTofu** (10 videos)
-- **8. 7. CI/CD as Code** (8 videos)
-- **9. 8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. The Project/The Mission]]** (3 videos)
+- **[[#3. 2. Testing Locally with Docker]]** (4 videos)
+- **[[#4. 3. Getting Started with Git]]** (4 videos)
+- **[[#5. 4. Collaborative Version Control]]** (6 videos)
+- **[[#6. 5.  Testing Your App with RSpec, Capybara, and Selenium]]** (9 videos)
+- **[[#7. 6. Infrastructure as Code with OpenTofu]]** (10 videos)
+- **[[#8. 7. CI/CD as Code]]** (8 videos)
+- **[[#9. 8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

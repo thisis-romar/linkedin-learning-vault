@@ -35,12 +35,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Measuring Your Processes** (6 videos)
-- **3. 2. Improving Your Processes** (13 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Measuring Your Processes]]** (6 videos)
+- **[[#2. Improving Your Processes]]** (13 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is process improvement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/what-is-process-improvement?u=76281980)
@@ -68,7 +70,9 @@ created: 2026-04-28
 > **Speakers:** - process (1)
 
 
-### 2. 1. Measuring Your Processes
+### 1. Measuring Your Processes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measuring and managing
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/measuring-and-managing-2?u=76281980)
@@ -563,7 +567,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. Improving Your Processes
+### 2. Improving Your Processes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimizing your quality, costs, and time tradeoff
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/optimizing-your-quality-costs-and-time-tradeoff?u=76281980)
@@ -1716,7 +1722,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final thoughts
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980)

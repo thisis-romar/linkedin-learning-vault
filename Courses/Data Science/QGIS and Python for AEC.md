@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Beginning Python** (4 videos)
-- **3. 2. Managing Layers and Projects with Python** (4 videos)
-- **4. 3. Geometry Handling** (4 videos)
-- **5. 4. Importing DWG and DXF** (3 videos)
-- **6. 5. Creating Plugins** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Beginning Python]]** (4 videos)
+- **[[#3. 2. Managing Layers and Projects with Python]]** (4 videos)
+- **[[#4. 3. Geometry Handling]]** (4 videos)
+- **[[#5. 4. Importing DWG and DXF]]** (3 videos)
+- **[[#6. 5. Creating Plugins]]** (6 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

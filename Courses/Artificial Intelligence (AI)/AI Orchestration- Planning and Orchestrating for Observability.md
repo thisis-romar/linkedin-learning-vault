@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding AI Observability** (4 videos)
-- **3. 2. Observability in AI Application Layers** (4 videos)
-- **4. 3. Planning for Observability** (5 videos)
-- **5. 4. Orchestrating for Observability** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding AI Observability]]** (4 videos)
+- **[[#2. Observability in AI Application Layers]]** (4 videos)
+- **[[#3. Planning for Observability]]** (5 videos)
+- **[[#4. Orchestrating for Observability]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI orchestration for observability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/ai-orchestration-for-observability?u=76281980)
@@ -135,7 +137,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding AI Observability
+### 1. Understanding AI Observability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is AI observability?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980)
@@ -485,7 +489,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Observability in AI Application Layers
+### 2. Observability in AI Application Layers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Observing infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980)
@@ -927,7 +933,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 4. 3. Planning for Observability
+### 3. Planning for Observability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an observability strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980)
@@ -1425,7 +1433,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Orchestrating for Observability
+### 4. Orchestrating for Observability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a simple orchestrated AI application
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980)
@@ -2326,7 +2336,9 @@ created: 2026-04-28
 > **File Paths:** agent.js (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980)

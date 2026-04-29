@@ -52,10 +52,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI and ML Fundamentals** (6 videos)
-- **3. 2. Google Cloud’s AI and ML Solutions** (8 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. AI and ML Fundamentals]]** (6 videos)
+- **[[#3. 2. Google Cloud’s AI and ML Solutions]]** (8 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

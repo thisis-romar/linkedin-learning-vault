@@ -38,13 +38,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Smart Digital Transformation** (3 videos)
-- **3. 2. Smart Digital Transformation Technology** (6 videos)
-- **4. 3. Design a Smart Product or Architect Smart Operations** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Smart Digital Transformation]]** (3 videos)
+- **[[#2. Smart Digital Transformation Technology]]** (6 videos)
+- **[[#3. Design a Smart Product or Architect Smart Operations]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From Physical to Digital with AI, IoT, and Digital Twins
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980)
@@ -72,7 +74,9 @@ created: 2026-04-28
 > **Speakers:** - [bruce] (1)
 
 
-### 2. 1. Smart Digital Transformation
+### 1. Smart Digital Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is digital transformation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980)
@@ -301,7 +305,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Smart Digital Transformation Technology
+### 2. Smart Digital Transformation Technology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tech overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980)
@@ -898,7 +904,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Design a Smart Product or Architect Smart Operations
+### 3. Design a Smart Product or Architect Smart Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying value
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980)
@@ -1166,7 +1174,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Main takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980)

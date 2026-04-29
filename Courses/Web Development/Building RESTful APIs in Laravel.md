@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. An Introduction to APIs in Laravel** (4 videos)
-- **3. 2. Setting Up Our Application** (6 videos)
-- **4. 3. Building RESTful API** (7 videos)
-- **5. 4. Testing Our API with Postman** (8 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. An Introduction to APIs in Laravel]]** (4 videos)
+- **[[#3. 2. Setting Up Our Application]]** (6 videos)
+- **[[#4. 3. Building RESTful API]]** (7 videos)
+- **[[#5. 4. Testing Our API with Postman]]** (8 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

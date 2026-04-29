@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Our First Methods and Testing** (6 videos)
-- **3. 2. Implementing Our ETL** (4 videos)
-- **4. 3. Refactoring with Config and JSON** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (5 videos)
+- **[[#1. Our First Methods and Testing]]** (6 videos)
+- **[[#2. Implementing Our ETL]]** (4 videos)
+- **[[#3. Refactoring with Config and JSON]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build your first Scala app
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/build-your-first-scala-app?u=76281980)
@@ -301,7 +303,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Our First Methods and Testing
+### 1. Our First Methods and Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scala project structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980)
@@ -968,7 +972,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Implementing Our ETL
+### 2. Implementing Our ETL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Traits, generics, givens, and using
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980)
@@ -1736,7 +1742,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Refactoring with Config and JSON
+### 3. Refactoring with Config and JSON
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adding configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980)
@@ -2597,7 +2605,9 @@ created: 2026-04-28
 > **URLs:** [testapplication.com](https://testapplication.com) (1), [application.com](https://application.com) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980)

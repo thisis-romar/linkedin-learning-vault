@@ -71,13 +71,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Establish Standards** (7 videos)
-- **3. 2. Effective Meetings** (5 videos)
-- **4. 3. Handle Challenges to Communication** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Establish Standards]]** (7 videos)
+- **[[#2. Effective Meetings]]** (5 videos)
+- **[[#3. Handle Challenges to Communication]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Upgrade your technical communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Establish Standards
+### 1. Establish Standards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why standards are needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980)
@@ -767,7 +771,9 @@ created: 2026-04-28
 > **Speakers:** - many (1)
 
 
-### 3. 2. Effective Meetings
+### 2. Effective Meetings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What makes a meeting effective
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980)
@@ -1212,7 +1218,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 4. 3. Handle Challenges to Communication
+### 3. Handle Challenges to Communication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communicating across cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-cultures?u=76281980)
@@ -1491,7 +1499,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980)

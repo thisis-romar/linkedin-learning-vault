@@ -48,17 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Dynamic Host Configuration Protocol (DHCP) Overview** (3 videos)
-- **3. 2. Setting Up DHCP** (7 videos)
-- **4. 3. Managing DHCP** (5 videos)
-- **5. 4. DHCP Advanced Features** (5 videos)
-- **6. 5. Deploying DNS (Domain Name System)** (3 videos)
-- **7. 6. DNS Zones** (6 videos)
-- **8. 7. DNS Resource Record Types** (4 videos)
-- **9. 8. Name Resoution** (6 videos)
-- **10. 9. DNS Security** (3 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Dynamic Host Configuration Protocol (DHCP) Overview]]** (3 videos)
+- **[[#3. 2. Setting Up DHCP]]** (7 videos)
+- **[[#4. 3. Managing DHCP]]** (5 videos)
+- **[[#5. 4. DHCP Advanced Features]]** (5 videos)
+- **[[#6. 5. Deploying DNS (Domain Name System)]]** (3 videos)
+- **[[#7. 6. DNS Zones]]** (6 videos)
+- **[[#8. 7. DNS Resource Record Types]]** (4 videos)
+- **[[#9. 8. Name Resoution]]** (6 videos)
+- **[[#10. 9. DNS Security]]** (3 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

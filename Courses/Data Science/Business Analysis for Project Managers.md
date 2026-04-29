@@ -46,16 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Preproject Activities** (4 videos)
-- **3. 2. Stakeholders** (2 videos)
-- **4. 3. Initial Project Understanding** (2 videos)
-- **5. 4. Project Plans** (3 videos)
-- **6. 5. Analyzing Requirements** (4 videos)
-- **7. 6. Agile Approach** (2 videos)
-- **8. 7. Verification and Validation** (2 videos)
-- **9. 8. Project Closure and Deployment** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Preproject Activities]]** (4 videos)
+- **[[#3. 2. Stakeholders]]** (2 videos)
+- **[[#4. 3. Initial Project Understanding]]** (2 videos)
+- **[[#5. 4. Project Plans]]** (3 videos)
+- **[[#6. 5. Analyzing Requirements]]** (4 videos)
+- **[[#7. 6. Agile Approach]]** (2 videos)
+- **[[#8. 7. Verification and Validation]]** (2 videos)
+- **[[#9. 8. Project Closure and Deployment]]** (3 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

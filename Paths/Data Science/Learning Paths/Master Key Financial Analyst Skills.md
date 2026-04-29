@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/master-key-financial-analyst-skills
 course_count: 6
 linkedin_topics:
   - Data Science
-louvain_cluster: 18
+louvain_cluster: 13
 tags:
   - learning-path
   - topic/data-science

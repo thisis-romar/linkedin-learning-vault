@@ -48,16 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Azure VM Basics** (4 videos)
-- **3. 2. Architecture** (5 videos)
-- **4. 3. Security and Identity** (5 videos)
-- **5. 4. Storage** (2 videos)
-- **6. 5. Virtual Machine Management, Maintenance, and Protection** (5 videos)
-- **7. 6. Networking** (5 videos)
-- **8. 7. Applications and Customization** (2 videos)
-- **9. 8. Working with VMs** (11 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Azure VM Basics]]** (4 videos)
+- **[[#3. 2. Architecture]]** (5 videos)
+- **[[#4. 3. Security and Identity]]** (5 videos)
+- **[[#5. 4. Storage]]** (2 videos)
+- **[[#6. 5. Virtual Machine Management, Maintenance, and Protection]]** (5 videos)
+- **[[#7. 6. Networking]]** (5 videos)
+- **[[#8. 7. Applications and Customization]]** (2 videos)
+- **[[#9. 8. Working with VMs]]** (11 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

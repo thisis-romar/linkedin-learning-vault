@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Lean and Agile Principles** (1 videos)
-- **3. 2. Scrum Overview** (1 videos)
-- **4. 3. Scrum Overview 2** (3 videos)
-- **5. 4. Quick Search and Basic Search** (2 videos)
-- **6. 5. Jira Query Language (JQL)** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Lean and Agile Principles]]** (1 videos)
+- **[[#3. 2. Scrum Overview]]** (1 videos)
+- **[[#4. 3. Scrum Overview 2]]** (3 videos)
+- **[[#5. 4. Quick Search and Basic Search]]** (2 videos)
+- **[[#6. 5. Jira Query Language (JQL)]]** (2 videos)
 
 ### 1. Introduction
 

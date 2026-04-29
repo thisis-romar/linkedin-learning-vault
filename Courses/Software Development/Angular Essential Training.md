@@ -44,17 +44,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Overview of Angular** (5 videos)
-- **3. 2. Core Building Blocks** (8 videos)
-- **4. 3. Common Patterns** (7 videos)
-- **5. 4. Coding Essentials** (7 videos)
-- **6. 5. Routing and Navigation** (6 videos)
-- **7. 6. Reactive Programming** (5 videos)
-- **8. 7. Testing and Debugging** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Overview of Angular]]** (5 videos)
+- **[[#2. Core Building Blocks]]** (8 videos)
+- **[[#3. Common Patterns]]** (7 videos)
+- **[[#4. Coding Essentials]]** (7 videos)
+- **[[#5. Routing and Navigation]]** (6 videos)
+- **[[#6. Reactive Programming]]** (5 videos)
+- **[[#7. Testing and Debugging]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### More than just a framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/more-than-just-a-framework?u=76281980)
@@ -340,7 +342,9 @@ created: 2026-04-28
 > **Tools:** github (1)
 
 
-### 2. 1. Overview of Angular
+### 1. Overview of Angular
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### History and ownership
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980)
@@ -591,7 +595,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Core Building Blocks
+### 2. Core Building Blocks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Angular decorators
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980)
@@ -1345,7 +1351,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Common Patterns
+### 3. Common Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of Angular pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980)
@@ -2058,7 +2066,9 @@ created: 2026-04-28
 > **CLI Commands:** npm (1)
 
 
-### 5. 4. Coding Essentials
+### 4. Coding Essentials
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Angular project configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980)
@@ -2643,7 +2653,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 6. 5. Routing and Navigation
+### 5. Routing and Navigation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining routes for Angular Router
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980)
@@ -3262,7 +3274,9 @@ created: 2026-04-28
 > **Exercise Files:** exercise files (1)
 
 
-### 7. 6. Reactive Programming
+### 6. Reactive Programming
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Angular signals and the Signal function
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980)
@@ -3695,7 +3709,9 @@ created: 2026-04-28
 > **File Paths:** api.service.ts (1)
 
 
-### 8. 7. Testing and Debugging
+### 7. Testing and Debugging
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of unit testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980)
@@ -4112,7 +4128,9 @@ created: 2026-04-28
 > **Exercise Files:** source code (1), exercise files (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A deeper look at Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/a-deeper-look-at-angular?u=76281980)

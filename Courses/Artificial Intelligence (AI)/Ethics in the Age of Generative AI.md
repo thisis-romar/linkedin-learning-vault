@@ -81,12 +81,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. Developing the skill of ethical analysis in AI** (3 videos)
-- **3. Preparing Your Organization to address Ethics in AI** (6 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#Developing the skill of ethical analysis in AI]]** (3 videos)
+- **[[#Preparing Your Organization to address Ethics in AI]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI and ethics: The urgency of now
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/generative-ai-and-ethics-the-urgency-of-now?u=76281980)
@@ -153,7 +155,9 @@ created: 2026-04-28
 > **Speakers:** - since (1)
 
 
-### 2. Developing the skill of ethical analysis in AI
+### Developing the skill of ethical analysis in AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Distinguishing responsible tech from human behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/distinguishing-responsible-tech-from-human-behavior?u=76281980)
@@ -371,7 +375,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 3. Preparing Your Organization to address Ethics in AI
+### Preparing Your Organization to address Ethics in AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Organizing data with ethics in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/organizing-data-with-ethics-in-mind?u=76281980)
@@ -799,7 +805,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting an intention of continual questioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/setting-an-intention-of-continual-questioning?u=76281980)

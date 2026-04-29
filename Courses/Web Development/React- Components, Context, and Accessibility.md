@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What’s New in React** (4 videos)
-- **3. 2. Advanced Components** (4 videos)
-- **4. 3. Enhanced Components** (4 videos)
-- **5. 4. React Patterns** (7 videos)
-- **6. 5. React Accessibility** (6 videos)
-- **7. Conclusion** (1 videos)
-- **8. Appendix** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What’s New in React]]** (4 videos)
+- **[[#2. Advanced Components]]** (4 videos)
+- **[[#3. Enhanced Components]]** (4 videos)
+- **[[#4. React Patterns]]** (7 videos)
+- **[[#5. React Accessibility]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
+- **[[#Appendix]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### React components, context, and accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/react-components-context-and-accessibility?u=76281980)
@@ -78,7 +80,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 2. 1. What’s New in React
+### 1. What’s New in React
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rendering arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980)
@@ -396,7 +400,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Advanced Components
+### 2. Advanced Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Compound components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/compound-components-2?u=76281980)
@@ -608,7 +614,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Enhanced Components
+### 3. Enhanced Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with fragments
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-fragments?u=76281980)
@@ -910,7 +918,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. React Patterns
+### 4. React Patterns
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the context API
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/understanding-the-context-api?u=76281980)
@@ -1502,7 +1512,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. React Accessibility
+### 5. React Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Web accessibility overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/web-accessibility-overview?u=76281980)
@@ -1869,7 +1881,9 @@ created: 2026-04-28
 > **Non-Speech:** (light upbeat music) (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980)
@@ -1900,7 +1914,9 @@ created: 2026-04-28
 > **Speakers:** - [eve] (1)
 
 
-### 8. Appendix
+### Appendix
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-the-exercise-files?u=76281980)

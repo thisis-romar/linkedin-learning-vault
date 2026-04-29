@@ -50,16 +50,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Cloud Computing Networking** (3 videos)
-- **3. 2. Virtual Networks in the Cloud** (3 videos)
-- **4. 3. Cloud-Based Network Services** (5 videos)
-- **5. 4. Network Security in the Cloud** (4 videos)
-- **6. 5. Interconnecting Cloud Networks** (4 videos)
-- **7. 6. Network Monitoring and Troubleshooting** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Cloud Computing Networking]]** (3 videos)
+- **[[#2. Virtual Networks in the Cloud]]** (3 videos)
+- **[[#3. Cloud-Based Network Services]]** (5 videos)
+- **[[#4. Network Security in the Cloud]]** (4 videos)
+- **[[#5. Interconnecting Cloud Networks]]** (4 videos)
+- **[[#6. Network Monitoring and Troubleshooting]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/welcome?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - welcome (1)
 
 
-### 2. 1. Introduction to Cloud Computing Networking
+### 1. Introduction to Cloud Computing Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud computing basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980)
@@ -252,7 +256,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Virtual Networks in the Cloud
+### 2. Virtual Networks in the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding virtual networks and their purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980)
@@ -403,7 +409,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Cloud-Based Network Services
+### 3. Cloud-Based Network Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud-based network services: DNS, DHCP, and VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980)
@@ -666,7 +674,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Network Security in the Cloud
+### 4. Network Security in the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud security and its challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980)
@@ -903,7 +913,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Interconnecting Cloud Networks
+### 5. Interconnecting Cloud Networks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Establishing connectivity between cloud environments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/establishing-connectivity-between-cloud-environments?u=76281980)
@@ -1108,7 +1120,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Network Monitoring and Troubleshooting
+### 6. Network Monitoring and Troubleshooting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Network monitoring tools and techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980)
@@ -1296,7 +1310,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about cloud networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/learning-more-about-cloud-networking?u=76281980)

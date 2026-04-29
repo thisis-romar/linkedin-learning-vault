@@ -46,15 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Database Core Concepts** (4 videos)
-- **3. 2. Set Up a Database Playground** (7 videos)
-- **4. 3. Graphical Interfaces** (7 videos)
-- **5. 4. Create Table Objects** (9 videos)
-- **6. 5. Add Data to a Table** (7 videos)
-- **7. 6. Retrieve Information** (7 videos)
-- **8. 7. Manipulate Data** (8 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Database Core Concepts]]** (4 videos)
+- **[[#3. 2. Set Up a Database Playground]]** (7 videos)
+- **[[#4. 3. Graphical Interfaces]]** (7 videos)
+- **[[#5. 4. Create Table Objects]]** (9 videos)
+- **[[#6. 5. Add Data to a Table]]** (7 videos)
+- **[[#7. 6. Retrieve Information]]** (7 videos)
+- **[[#8. 7. Manipulate Data]]** (8 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

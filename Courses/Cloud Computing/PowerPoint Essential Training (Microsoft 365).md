@@ -50,21 +50,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Get Started Quickly** (2 videos)
-- **3. 2. Work with Slides** (6 videos)
-- **4. 3. Images and Shapes** (9 videos)
-- **5. 4. Add Diagrams and Charts** (2 videos)
-- **6. 5. Add Video, Audio and Animation to Slides** (7 videos)
-- **7. 6. Helpful Accessibility Features** (2 videos)
-- **8. 7. Collaborate and Prepare** (4 videos)
-- **9. 8. Deliver the Presentation** (2 videos)
-- **10. 9. Reuse the Presentation** (4 videos)
-- **11. 10. Use Copilot in PowerPoint** (2 videos)
-- **12. 11. PowerPoint Challenges** (2 videos)
-- **13. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Get Started Quickly]]** (2 videos)
+- **[[#2. Work with Slides]]** (6 videos)
+- **[[#3. Images and Shapes]]** (9 videos)
+- **[[#4. Add Diagrams and Charts]]** (2 videos)
+- **[[#5. Add Video, Audio and Animation to Slides]]** (7 videos)
+- **[[#6. Helpful Accessibility Features]]** (2 videos)
+- **[[#7. Collaborate and Prepare]]** (4 videos)
+- **[[#8. Deliver the Presentation]]** (2 videos)
+- **[[#9. Reuse the Presentation]]** (4 videos)
+- **[[#10. Use Copilot in PowerPoint]]** (2 videos)
+- **[[#11. PowerPoint Challenges]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deliver a powerful message with a powerful presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - today (1)
 
 
-### 2. 1. Get Started Quickly
+### 1. Get Started Quickly
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start quickly with a theme or template
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/start-quickly-with-a-theme-or-template-25896388?u=76281980)
@@ -263,7 +267,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Work with Slides
+### 2. Work with Slides
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add, remove, and rearrange slides
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-remove-and-rearrange-slides-25898408?u=76281980)
@@ -914,7 +920,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Images and Shapes
+### 3. Images and Shapes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add images
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980)
@@ -1780,7 +1788,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Add Diagrams and Charts
+### 4. Add Diagrams and Charts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create and format charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980)
@@ -2039,7 +2049,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Add Video, Audio and Animation to Slides
+### 5. Add Video, Audio and Animation to Slides
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add and format video
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-format-video-25899366?u=76281980)
@@ -2736,7 +2748,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 7. 6. Helpful Accessibility Features
+### 6. Helpful Accessibility Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Features for PowerPoint users with disabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980)
@@ -2871,7 +2885,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Collaborate and Prepare
+### 7. Collaborate and Prepare
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add speaker notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-speaker-notes-26202393?u=76281980)
@@ -3137,7 +3153,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Deliver the Presentation
+### 8. Deliver the Presentation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Presenter View to run the show
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-presenter-view-to-run-the-show-26201384?u=76281980)
@@ -3338,7 +3356,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Reuse the Presentation
+### 9. Reuse the Presentation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Save a custom theme
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-custom-theme-26203373?u=76281980)
@@ -3733,7 +3753,9 @@ created: 2026-04-28
 > **Prerequisites:** make sure you have (1)
 
 
-### 11. 10. Use Copilot in PowerPoint
+### 10. Use Copilot in PowerPoint
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Copilot to create and summarize presentations
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980)
@@ -3932,7 +3954,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. 11. PowerPoint Challenges
+### 11. PowerPoint Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenge: Make gears turn
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-make-gears-turn-26201378?u=76281980)
@@ -4167,7 +4191,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980)

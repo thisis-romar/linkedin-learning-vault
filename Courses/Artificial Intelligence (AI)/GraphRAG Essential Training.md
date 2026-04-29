@@ -57,13 +57,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Graphs Made Simple: Understanding the Basics** (7 videos)
-- **3. 2. Getting Started with Graph Tools** (8 videos)
-- **4. 3. Building Your First Knowledge Graph for Graph Retrieval-Augmented Generation (GraphRAG)** (8 videos)
-- **5. 4. Connecting Knowledge Graphs to Generative AI** (7 videos)
-- **6. 5. Putting It All Together: Creating a Question-Answering Bot with GraphRAG** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Graphs Made Simple: Understanding the Basics]]** (7 videos)
+- **[[#3. 2. Getting Started with Graph Tools]]** (8 videos)
+- **[[#4. 3. Building Your First Knowledge Graph for Graph Retrieval-Augmented Generation (GraphRAG)]]** (8 videos)
+- **[[#5. 4. Connecting Knowledge Graphs to Generative AI]]** (7 videos)
+- **[[#6. 5. Putting It All Together: Creating a Question-Answering Bot with GraphRAG]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

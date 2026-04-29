@@ -40,15 +40,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started with Prioritizing** (5 videos)
-- **3. 2. Database Selection and Quality Checks** (5 videos)
-- **4. 3. Simple Models First** (6 videos)
-- **5. 4. Tracking Performance** (4 videos)
-- **6. 5. Communicating the 80/20 of Data Science** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started with Prioritizing]]** (5 videos)
+- **[[#2. Database Selection and Quality Checks]]** (5 videos)
+- **[[#3. Simple Models First]]** (6 videos)
+- **[[#4. Tracking Performance]]** (4 videos)
+- **[[#5. Communicating the 80/20 of Data Science]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the 80/20 rule of data science?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/what-is-the-80-20-rule-of-data-science?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 2. 1. Getting Started with Prioritizing
+### 1. Getting Started with Prioritizing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining success
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/defining-success?u=76281980)
@@ -569,7 +573,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 3. 2. Database Selection and Quality Checks
+### 2. Database Selection and Quality Checks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comb the literature
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/comb-the-literature?u=76281980)
@@ -1003,7 +1009,9 @@ created: 2026-04-28
 > **Speakers:** - not (1)
 
 
-### 4. 3. Simple Models First
+### 3. Simple Models First
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Feature transformations
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/feature-transformations?u=76281980)
@@ -1405,7 +1413,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Tracking Performance
+### 4. Tracking Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/choosing-metrics?u=76281980)
@@ -1710,7 +1720,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 6. 5. Communicating the 80/20 of Data Science
+### 5. Communicating the 80/20 of Data Science
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Focus on outcome, not technique
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/focus-on-outcome-not-technique?u=76281980)
@@ -1906,7 +1918,9 @@ created: 2026-04-28
 > **Speakers:** - clients (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key takeaways for your future career in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-80-20-rule-of-data-science/key-takeaways-for-your-future-career-in-data-science?u=76281980)

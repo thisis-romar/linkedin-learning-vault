@@ -40,13 +40,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Coaching Fundamentals** (3 videos)
-- **3. 2. Coaching Models** (2 videos)
-- **4. 3. Coaching Skills** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Coaching Fundamentals]]** (3 videos)
+- **[[#2. Coaching Models]]** (2 videos)
+- **[[#3. Coaching Skills]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unlock your team's potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/unlock-your-team-s-potential?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Coaching Fundamentals
+### 1. Coaching Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Coaching basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-basics?u=76281980)
@@ -360,7 +364,9 @@ created: 2026-04-28
 > **Speakers:** - organizations (1)
 
 
-### 3. 2. Coaching Models
+### 2. Coaching Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Coaching frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-frameworks?u=76281980)
@@ -558,7 +564,9 @@ created: 2026-04-28
 > **Speakers:** - another (1)
 
 
-### 4. 3. Coaching Skills
+### 3. Coaching Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Listen as a coach
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980)
@@ -829,7 +837,9 @@ created: 2026-04-28
 > **Speakers:** - many (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/next-steps?u=76281980)

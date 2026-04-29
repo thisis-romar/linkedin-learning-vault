@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Lean Defined** (3 videos)
-- **3. 2. Lean Processes** (7 videos)
-- **4. 3. Lean Manufacturing** (7 videos)
-- **5. 4. Lean Services** (4 videos)
-- **6. 5. Lean Thinking** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Lean Defined]]** (3 videos)
+- **[[#2. Lean Processes]]** (7 videos)
+- **[[#3. Lean Manufacturing]]** (7 videos)
+- **[[#4. Lean Services]]** (4 videos)
+- **[[#5. Lean Thinking]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Trim the fat by going lean
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/trim-the-fat-by-going-lean?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Lean Defined
+### 1. Lean Defined
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is lean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/what-is-lean-10016083?u=76281980)
@@ -304,7 +308,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Lean Processes
+### 2. Lean Processes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Process mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/process-mapping-10019051?u=76281980)
@@ -949,7 +955,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. Lean Manufacturing
+### 3. Lean Manufacturing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Demand-driven business
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/demand-driven-business-10017070?u=76281980)
@@ -1528,7 +1536,9 @@ created: 2026-04-28
 > **Speakers:** - henry (1)
 
 
-### 5. 4. Lean Services
+### 4. Lean Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Lean delivery
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/lean-delivery-10017068?u=76281980)
@@ -1841,7 +1851,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. 5. Lean Thinking
+### 5. Lean Thinking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The lean culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/the-lean-culture-10019050?u=76281980)
@@ -2195,7 +2207,9 @@ created: 2026-04-28
 > **Speakers:** - according (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Go leaner
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-foundations/go-leaner?u=76281980)

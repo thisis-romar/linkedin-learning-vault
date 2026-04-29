@@ -63,15 +63,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Planning** (3 videos)
-- **3. 2. Design** (2 videos)
-- **4. 3. Development** (3 videos)
-- **5. 4. Testing** (2 videos)
-- **6. 5. Release** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Planning]]** (3 videos)
+- **[[#2. Design]]** (2 videos)
+- **[[#3. Development]]** (3 videos)
+- **[[#4. Testing]]** (2 videos)
+- **[[#5. Release]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980)
@@ -130,7 +132,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Planning
+### 1. Planning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting involved early
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/getting-involved-early?u=76281980)
@@ -272,7 +276,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Design
+### 2. Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Flexible architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980)
@@ -373,7 +379,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Development
+### 3. Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Determining velocity
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/determining-velocity?u=76281980)
@@ -511,7 +519,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Testing
+### 4. Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing your testing regimen
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980)
@@ -611,7 +621,9 @@ created: 2026-04-28
 > **Best Practices:** good practice (1)
 
 
-### 6. 5. Release
+### 5. Release
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuous integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980)
@@ -728,7 +740,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The big picture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980)

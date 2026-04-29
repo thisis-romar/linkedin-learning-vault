@@ -42,16 +42,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Research Overview** (13 videos)
-- **3. 2. Choosing the Right Research Method** (4 videos)
-- **4. 3. Environmental Considerations** (3 videos)
-- **5. 4. Planning Effective Research** (5 videos)
-- **6. 5. Executing Effective Research** (2 videos)
-- **7. 6. Analyzing and Presenting Your Findings** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Research Overview]]** (13 videos)
+- **[[#2. Choosing the Right Research Method]]** (4 videos)
+- **[[#3. Environmental Considerations]]** (3 videos)
+- **[[#4. Planning Effective Research]]** (5 videos)
+- **[[#5. Executing Effective Research]]** (2 videos)
+- **[[#6. Analyzing and Presenting Your Findings]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### User experience research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980)
@@ -84,7 +86,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 2. 1. Research Overview
+### 1. Research Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why is user experience research important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980)
@@ -540,7 +544,9 @@ created: 2026-04-28
 > **Speakers:** - personas (1)
 
 
-### 3. 2. Choosing the Right Research Method
+### 2. Choosing the Right Research Method
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting research goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980)
@@ -769,7 +775,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 4. 3. Environmental Considerations
+### 3. Environmental Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### In-house vs. external
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/in-house-vs-external?u=76281980)
@@ -944,7 +952,9 @@ created: 2026-04-28
 > **Speakers:** - regardless (1)
 
 
-### 5. 4. Planning Effective Research
+### 4. Planning Effective Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Determining the right participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980)
@@ -1270,7 +1280,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 6. 5. Executing Effective Research
+### 5. Executing Effective Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applying moderated research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-moderated-research?u=76281980)
@@ -1420,7 +1432,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 7. 6. Analyzing and Presenting Your Findings
+### 6. Analyzing and Presenting Your Findings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Gathering and mining data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/gathering-and-mining-data?u=76281980)
@@ -1650,7 +1664,9 @@ created: 2026-04-28
 > **Speakers:** - by (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980)

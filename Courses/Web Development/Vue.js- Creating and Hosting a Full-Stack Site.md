@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Creating a Vue.js Front End** (15 videos)
-- **3. 2. Creating a Node Back End** (8 videos)
-- **4. 3. Adding MongoDB to Your Back-end** (8 videos)
-- **5. 4. Connecting the Front- and Back-end** (7 videos)
-- **6. 5. Adding Authentication with Firebase Authentication** (7 videos)
-- **7. 6. Hosting Your Site** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Creating a Vue.js Front End]]** (15 videos)
+- **[[#3. 2. Creating a Node Back End]]** (8 videos)
+- **[[#4. 3. Adding MongoDB to Your Back-end]]** (8 videos)
+- **[[#5. 4. Connecting the Front- and Back-end]]** (7 videos)
+- **[[#6. 5. Adding Authentication with Firebase Authentication]]** (7 videos)
+- **[[#7. 6. Hosting Your Site]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

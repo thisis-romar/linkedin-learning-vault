@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Transforming Your Projects: Part 1, Human Interaction** (4 videos)
-- **3. 2. Transforming Your Projects: Part 2, Data Tools** (5 videos)
-- **4. 3. Impact to Requirements and Business Analysis** (5 videos)
-- **5. 4. Technique Highlights** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Transforming Your Projects: Part 1, Human Interaction]]** (4 videos)
+- **[[#3. 2. Transforming Your Projects: Part 2, Data Tools]]** (5 videos)
+- **[[#4. 3. Impact to Requirements and Business Analysis]]** (5 videos)
+- **[[#5. 4. Technique Highlights]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

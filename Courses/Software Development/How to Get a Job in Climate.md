@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The State of the Climate Job Industry** (5 videos)
-- **3. 2. Barriers to Working in Climate** (3 videos)
-- **4. 3. The Climate Job Search Isn't Traditional** (2 videos)
-- **5. 4. How to Get a Job in Climate** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The State of the Climate Job Industry]]** (5 videos)
+- **[[#2. Barriers to Working in Climate]]** (3 videos)
+- **[[#3. The Climate Job Search Isn't Traditional]]** (2 videos)
+- **[[#4. How to Get a Job in Climate]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Growing demand for climate jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980)
@@ -140,7 +142,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. The State of the Climate Job Industry
+### 1. The State of the Climate Job Industry
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is climate tech?
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980)
@@ -508,7 +512,9 @@ created: 2026-04-28
 > **Speakers:** - terra (1)
 
 
-### 3. 2. Barriers to Working in Climate
+### 2. Barriers to Working in Climate
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why climate experience isn't necessary
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-experience-isn-t-necessary?u=76281980)
@@ -718,7 +724,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. The Climate Job Search Isn't Traditional
+### 3. The Climate Job Search Isn't Traditional
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why climate job searches are different
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980)
@@ -850,7 +858,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. How to Get a Job in Climate
+### 4. How to Get a Job in Climate
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Five steps for getting your foot in the door in climate
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980)
@@ -1428,7 +1438,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Act now
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980)

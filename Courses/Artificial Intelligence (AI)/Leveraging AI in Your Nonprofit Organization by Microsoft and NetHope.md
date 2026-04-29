@@ -50,10 +50,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Organizational AI Readiness and Integration for Nonprofits** (5 videos)
-- **2. 2. Sustainable AI Adoption for Nonprofits** (5 videos)
-- **3. 3. Responsible AI for Nonprofits** (5 videos)
-- **4. 4. AI and Data Governance for Nonprofits** (5 videos)
+- **[[#1. 1. Organizational AI Readiness and Integration for Nonprofits]]** (5 videos)
+- **[[#2. 2. Sustainable AI Adoption for Nonprofits]]** (5 videos)
+- **[[#3. 3. Responsible AI for Nonprofits]]** (5 videos)
+- **[[#4. 4. AI and Data Governance for Nonprofits]]** (5 videos)
 
 ### 1. 1. Organizational AI Readiness and Integration for Nonprofits
 

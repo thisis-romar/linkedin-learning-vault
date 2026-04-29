@@ -54,13 +54,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Identifying Opportunities for Generative AI in Your Business** (4 videos)
-- **3. 2. Building a Generative AI-Powered Tech Strategy** (3 videos)
-- **4. 3. Designing and Implementing Generative AI Applications** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Identifying Opportunities for Generative AI in Your Business]]** (4 videos)
+- **[[#2. Building a Generative AI-Powered Tech Strategy]]** (3 videos)
+- **[[#3. Designing and Implementing Generative AI Applications]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a generative AI tech strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/building-a-generative-ai-tech-strategy?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - generative (1)
 
 
-### 2. 1. Identifying Opportunities for Generative AI in Your Business
+### 1. Identifying Opportunities for Generative AI in Your Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conducting a generative AI opportunity assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/conducting-a-generative-ai-opportunity-assessment?u=76281980)
@@ -261,7 +265,9 @@ created: 2026-04-28
 > **Speakers:** - like (1)
 
 
-### 3. 2. Building a Generative AI-Powered Tech Strategy
+### 2. Building a Generative AI-Powered Tech Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining your generative AI vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/defining-your-generative-ai-vision?u=76281980)
@@ -413,7 +419,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 4. 3. Designing and Implementing Generative AI Applications
+### 3. Designing and Implementing Generative AI Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a user-centric solutions approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/creating-a-user-centric-solutions-approach?u=76281980)
@@ -684,7 +692,9 @@ created: 2026-04-28
 > **Speakers:** - generative (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-generative-ai-tech-strategy/next-steps?u=76281980)

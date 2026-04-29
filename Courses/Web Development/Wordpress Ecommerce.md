@@ -42,16 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Ingredients for Ecommerce** (2 videos)
-- **3. 2. Getting Paid** (4 videos)
-- **4. 3. Calculating Shipping** (2 videos)
-- **5. 4. Taxes** (3 videos)
-- **6. 5. Using WordPress for Ecommerce** (2 videos)
-- **7. 6. Understand Your Market** (4 videos)
-- **8. 7. Marketing Your Site** (4 videos)
-- **9. 8. Testing and Optimizing** (2 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Ingredients for Ecommerce]]** (2 videos)
+- **[[#3. 2. Getting Paid]]** (4 videos)
+- **[[#4. 3. Calculating Shipping]]** (2 videos)
+- **[[#5. 4. Taxes]]** (3 videos)
+- **[[#6. 5. Using WordPress for Ecommerce]]** (2 videos)
+- **[[#7. 6. Understand Your Market]]** (4 videos)
+- **[[#8. 7. Marketing Your Site]]** (4 videos)
+- **[[#9. 8. Testing and Optimizing]]** (2 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

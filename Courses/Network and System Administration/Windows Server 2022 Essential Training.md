@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started** (7 videos)
-- **3. 2. Managing Windows Server 2022** (6 videos)
-- **4. 3. Active Directory Creation and Administration** (8 videos)
-- **5. 4. Monitoring and Maintenance** (6 videos)
-- **6. 5. Windows Server 2022 in the Azure Cloud** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Started]]** (7 videos)
+- **[[#3. 2. Managing Windows Server 2022]]** (6 videos)
+- **[[#4. 3. Active Directory Creation and Administration]]** (8 videos)
+- **[[#5. 4. Monitoring and Maintenance]]** (6 videos)
+- **[[#6. 5. Windows Server 2022 in the Azure Cloud]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

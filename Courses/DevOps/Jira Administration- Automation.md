@@ -49,14 +49,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. What Is Automation?** (3 videos)
-- **3. 2. Jira Automation Concepts** (10 videos)
-- **4. 3. Managing Automation Rules** (7 videos)
-- **5. 4. Extending Capabilities with Smart Values** (8 videos)
-- **6. 5. Use Cases and Examples** (9 videos)
-- **7. 6. Automation with Apps** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. What Is Automation?]]** (3 videos)
+- **[[#3. 2. Jira Automation Concepts]]** (10 videos)
+- **[[#4. 3. Managing Automation Rules]]** (7 videos)
+- **[[#5. 4. Extending Capabilities with Smart Values]]** (8 videos)
+- **[[#6. 5. Use Cases and Examples]]** (9 videos)
+- **[[#7. 6. Automation with Apps]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

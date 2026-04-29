@@ -51,12 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Linux Fundamentals** (8 videos)
-- **3. 2. Developing your knowledge** (2 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Linux Fundamentals]]** (8 videos)
+- **[[#2. Developing your knowledge]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980)
@@ -156,7 +158,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Linux Fundamentals
+### 1. Linux Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The kernel
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980)
@@ -981,7 +985,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Developing your knowledge
+### 2. Developing your knowledge
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980)
@@ -1137,7 +1143,9 @@ created: 2026-04-28
 > **Best Practices:** remember to (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/next-steps?u=76281980)

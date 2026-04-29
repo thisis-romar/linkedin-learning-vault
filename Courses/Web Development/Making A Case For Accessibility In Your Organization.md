@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Beginning Your Accessibility Journey** (4 videos)
-- **3. 2. Building Momentum** (4 videos)
-- **4. 3. Innovating for Accessibility** (3 videos)
-- **5. 4. Developing Your Narrative** (1 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Beginning Your Accessibility Journey]]** (4 videos)
+- **[[#2. Building Momentum]]** (4 videos)
+- **[[#3. Innovating for Accessibility]]** (3 videos)
+- **[[#4. Developing Your Narrative]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building an accessibility program
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 2. 1. Beginning Your Accessibility Journey
+### 1. Beginning Your Accessibility Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Focus on culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-culture?u=76281980)
@@ -364,7 +368,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 3. 2. Building Momentum
+### 2. Building Momentum
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create good habits and model behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980)
@@ -577,7 +583,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 4. 3. Innovating for Accessibility
+### 3. Innovating for Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build inclusive experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980)
@@ -737,7 +745,9 @@ created: 2026-04-28
 > **Speakers:** - assessing (1)
 
 
-### 5. 4. Developing Your Narrative
+### 4. Developing Your Narrative
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Storytelling for your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980)
@@ -820,7 +830,9 @@ created: 2026-04-28
 > **Speakers:** - storytelling (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980)

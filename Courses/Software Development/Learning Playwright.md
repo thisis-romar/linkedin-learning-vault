@@ -50,11 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Playwright Installation and Configuration** (7 videos)
-- **3. 2. Creating Tests with Playwright** (11 videos)
-- **4. 3. Maintaining Playwright Tests** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Playwright Installation and Configuration]]** (7 videos)
+- **[[#3. 2. Creating Tests with Playwright]]** (11 videos)
+- **[[#4. 3. Maintaining Playwright Tests]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

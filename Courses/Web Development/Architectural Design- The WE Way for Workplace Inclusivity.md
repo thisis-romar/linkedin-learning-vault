@@ -39,14 +39,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Your Commons** (4 videos)
-- **3. 2. Your Sanctuary** (4 videos)
-- **4. 3. Your Neighborhood** (4 videos)
-- **5. 4. Your Cocoon** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Your Commons]]** (4 videos)
+- **[[#2. Your Sanctuary]]** (4 videos)
+- **[[#3. Your Neighborhood]]** (4 videos)
+- **[[#4. Your Cocoon]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to the WE Way
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/welcome-to-the-we-way?u=76281980)
@@ -153,7 +155,9 @@ created: 2026-04-28
 > **Speakers:** - whether (1)
 
 
-### 2. 1. Your Commons
+### 1. Your Commons
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your commons: Where your space speaks
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-where-your-space-speaks?u=76281980)
@@ -439,7 +443,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 3. 2. Your Sanctuary
+### 2. Your Sanctuary
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your sanctuary: Where your people restore, recuperate, and rejuvenate
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-where-your-people-restore-recuperate-and-rejuvenate?u=76281980)
@@ -647,7 +653,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 4. 3. Your Neighborhood
+### 3. Your Neighborhood
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your neighborhood: Where your people connect
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-where-your-people-connect?u=76281980)
@@ -914,7 +922,9 @@ created: 2026-04-28
 > **Speakers:** - well (1)
 
 
-### 5. 4. Your Cocoon
+### 4. Your Cocoon
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your cocoon: Love and honor your worker
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980)
@@ -1114,7 +1124,9 @@ created: 2026-04-28
 > **Speakers:** - great (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A call to action
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/a-call-to-action?u=76281980)

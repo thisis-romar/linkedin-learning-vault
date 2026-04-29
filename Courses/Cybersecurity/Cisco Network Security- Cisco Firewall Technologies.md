@@ -49,14 +49,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Review Firewall Technologies** (6 videos)
-- **3. 2. Compare Firewall Types** (4 videos)
-- **4. 3. Manage Access Control Lists** (4 videos)
-- **5. 4. Implement NAT on Cisco ASA** (4 videos)
-- **6. 5. Examine Zone-Based Firewalls** (4 videos)
-- **7. 6. Review Firewall Features on a Cisco ASA** (8 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Review Firewall Technologies]]** (6 videos)
+- **[[#3. 2. Compare Firewall Types]]** (4 videos)
+- **[[#4. 3. Manage Access Control Lists]]** (4 videos)
+- **[[#5. 4. Implement NAT on Cisco ASA]]** (4 videos)
+- **[[#6. 5. Examine Zone-Based Firewalls]]** (4 videos)
+- **[[#7. 6. Review Firewall Features on a Cisco ASA]]** (8 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -46,14 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Fundamentals of Testing** (5 videos)
-- **3. 2. Testing Throughout the Software Development Lifecycle** (3 videos)
-- **4. 3. Static Testing** (2 videos)
-- **5. 4. Test Analysis and Design** (5 videos)
-- **6. 5. Managing the Test Activities** (4 videos)
-- **7. 6. Test Tools** (2 videos)
-- **8. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Fundamentals of Testing]]** (5 videos)
+- **[[#3. 2. Testing Throughout the Software Development Lifecycle]]** (3 videos)
+- **[[#4. 3. Static Testing]]** (2 videos)
+- **[[#5. 4. Test Analysis and Design]]** (5 videos)
+- **[[#6. 5. Managing the Test Activities]]** (4 videos)
+- **[[#7. 6. Test Tools]]** (2 videos)
+- **[[#8. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

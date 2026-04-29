@@ -42,20 +42,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. Determine and Configure Hardware** (7 videos)
-- **3. 2. Boot the System** (5 videos)
-- **4. 3. System Services and Logging** (9 videos)
-- **5. 4. Use Debian Package Management** (4 videos)
-- **6. 5. Use Red Hat Package Management** (4 videos)
-- **7. 6. Linux as a Virtualized Guest** (5 videos)
-- **8. 7. Working on the Command Line** (10 videos)
-- **9. 8. Manage Processes** (6 videos)
-- **10. 9. Pattern Matching and Editing Text** (11 videos)
-- **11. 10. Working with Files** (7 videos)
-- **12. 11. Permissions and Ownership** (14 videos)
-- **13. 12. Create Partitions and Filesystems** (15 videos)
-- **14. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (6 videos)
+- **[[#2. 1. Determine and Configure Hardware]]** (7 videos)
+- **[[#3. 2. Boot the System]]** (5 videos)
+- **[[#4. 3. System Services and Logging]]** (9 videos)
+- **[[#5. 4. Use Debian Package Management]]** (4 videos)
+- **[[#6. 5. Use Red Hat Package Management]]** (4 videos)
+- **[[#7. 6. Linux as a Virtualized Guest]]** (5 videos)
+- **[[#8. 7. Working on the Command Line]]** (10 videos)
+- **[[#9. 8. Manage Processes]]** (6 videos)
+- **[[#10. 9. Pattern Matching and Editing Text]]** (11 videos)
+- **[[#11. 10. Working with Files]]** (7 videos)
+- **[[#12. 11. Permissions and Ownership]]** (14 videos)
+- **[[#13. 12. Create Partitions and Filesystems]]** (15 videos)
+- **[[#14. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

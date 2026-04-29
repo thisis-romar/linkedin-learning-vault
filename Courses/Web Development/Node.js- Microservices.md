@@ -52,17 +52,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Prepare Your Development Environment** (5 videos)
-- **3. 2. Planning Your Microservice Migration** (4 videos)
-- **4. 3. Your First Service: The Catalog Service** (7 videos)
-- **5. 4. Creating a Service Registry** (9 videos)
-- **6. 5. Using Services** (7 videos)
-- **7. 6. Authenticating APIs** (6 videos)
-- **8. 7. Adding Fault Tolerance and Resilience** (8 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Prepare Your Development Environment]]** (5 videos)
+- **[[#2. Planning Your Microservice Migration]]** (4 videos)
+- **[[#3. Your First Service: The Catalog Service]]** (7 videos)
+- **[[#4. Creating a Service Registry]]** (9 videos)
+- **[[#5. Using Services]]** (7 videos)
+- **[[#6. Authenticating APIs]]** (6 videos)
+- **[[#7. Adding Fault Tolerance and Resilience]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding how microservices are built and used
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980)
@@ -125,7 +127,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Prepare Your Development Environment
+### 1. Prepare Your Development Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Installing Git, Node.js, and Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980)
@@ -401,7 +405,9 @@ created: 2026-04-28
 > **Speakers:** - [tutor] (1)
 
 
-### 3. 2. Planning Your Microservice Migration
+### 2. Planning Your Microservice Migration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up and exploring your sample application
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980)
@@ -775,7 +781,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Your First Service: The Catalog Service
+### 3. Your First Service: The Catalog Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980)
@@ -1511,7 +1519,9 @@ created: 2026-04-28
 > **Tools:** visual studio (1)
 
 
-### 5. 4. Creating a Service Registry
+### 4. Creating a Service Registry
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664578?u=76281980)
@@ -2619,7 +2629,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Using Services
+### 5. Using Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664580?u=76281980)
@@ -3337,7 +3349,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Authenticating APIs
+### 6. Authenticating APIs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### API authentication with JWT
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980)
@@ -4025,7 +4039,9 @@ created: 2026-04-28
 > **CLI Commands:** find (1)
 
 
-### 8. 7. Adding Fault Tolerance and Resilience
+### 7. Adding Fault Tolerance and Resilience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980)
@@ -4746,7 +4762,9 @@ created: 2026-04-28
 > **Versions:** 127.0.01 (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980)

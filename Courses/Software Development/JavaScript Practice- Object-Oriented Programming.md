@@ -44,11 +44,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. CoderPad Challenges** (5 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. CoderPad Challenges]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Object oriented programming in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980)
@@ -136,7 +138,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. CoderPad Challenges
+### 1. CoderPad Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution: Create a roster with functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980)
@@ -381,7 +385,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980)

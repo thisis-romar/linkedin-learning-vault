@@ -59,17 +59,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding the Cybersecurity Career Field** (2 videos)
-- **3. 2. Cybersecurity Marketplace** (5 videos)
-- **4. 3. Cybersecurity Success Traits** (3 videos)
-- **5. 4. Cybersecurity Careers** (10 videos)
-- **6. 5. Cybersecurity Certifications** (9 videos)
-- **7. 6. Your Cybersecurity Career Path** (4 videos)
-- **8. 7. Cybersecurity Career Advice** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding the Cybersecurity Career Field]]** (2 videos)
+- **[[#2. Cybersecurity Marketplace]]** (5 videos)
+- **[[#3. Cybersecurity Success Traits]]** (3 videos)
+- **[[#4. Cybersecurity Careers]]** (10 videos)
+- **[[#5. Cybersecurity Certifications]]** (9 videos)
+- **[[#6. Your Cybersecurity Career Path]]** (4 videos)
+- **[[#7. Cybersecurity Career Advice]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cybersecurity careers and certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding the Cybersecurity Career Field
+### 1. Understanding the Cybersecurity Career Field
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An overview of cybersecurity key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980)
@@ -288,7 +292,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Cybersecurity Marketplace
+### 2. Cybersecurity Marketplace
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Government (FISMA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980)
@@ -559,7 +565,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 4. 3. Cybersecurity Success Traits
+### 3. Cybersecurity Success Traits
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analytical and technology savvy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980)
@@ -724,7 +732,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Cybersecurity Careers
+### 4. Cybersecurity Careers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cybersecurity careers overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980)
@@ -1274,7 +1284,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Cybersecurity Certifications
+### 5. Cybersecurity Certifications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cybersecurity certifications overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certifications-overview?u=76281980)
@@ -1674,7 +1686,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 7. 6. Your Cybersecurity Career Path
+### 6. Your Cybersecurity Career Path
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/prerequisites?u=76281980)
@@ -1943,7 +1957,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. 7. Cybersecurity Career Advice
+### 7. Cybersecurity Career Advice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Begin with the end in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980)
@@ -2218,7 +2234,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue your career and continuing education journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980)

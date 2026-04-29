@@ -45,12 +45,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Security Principles** (9 videos)
-- **3. 2. Common Security Threats** (7 videos)
-- **4. 3. Cryptography** (6 videos)
-- **5. 4. Describe Network Topologies** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Security Principles]]** (9 videos)
+- **[[#3. 2. Common Security Threats]]** (7 videos)
+- **[[#4. 3. Cryptography]]** (6 videos)
+- **[[#5. 4. Describe Network Topologies]]** (7 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

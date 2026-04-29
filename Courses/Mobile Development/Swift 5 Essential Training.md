@@ -48,15 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started** (3 videos)
-- **3. 2. Getting to Know Your Data** (13 videos)
-- **4. 3. Working with Collections** (10 videos)
-- **5. 4. Application Control Flow** (9 videos)
-- **6. 5. The Wide World of Functions** (10 videos)
-- **7. 6. Classes, Structs, and Beyond** (9 videos)
-- **8. 7. Leveling Up with Enums, Protocols, and Errors** (9 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Getting Started]]** (3 videos)
+- **[[#3. 2. Getting to Know Your Data]]** (13 videos)
+- **[[#4. 3. Working with Collections]]** (10 videos)
+- **[[#5. 4. Application Control Flow]]** (9 videos)
+- **[[#6. 5. The Wide World of Functions]]** (10 videos)
+- **[[#7. 6. Classes, Structs, and Beyond]]** (9 videos)
+- **[[#8. 7. Leveling Up with Enums, Protocols, and Errors]]** (9 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

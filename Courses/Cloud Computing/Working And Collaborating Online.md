@@ -43,15 +43,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Access Information Online** (10 videos)
-- **3. 2. Participate Safely and Responsibly Online** (8 videos)
-- **4. 3. Collaborating with Outlook** (4 videos)
-- **5. 4. Collaborate Online in Word** (3 videos)
-- **6. 5. Sharing Content with OneDrive** (5 videos)
-- **7. 6. Using Chat, Video Calls, and Group Video Meetings** (6 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Access Information Online]]** (10 videos)
+- **[[#2. Participate Safely and Responsibly Online]]** (8 videos)
+- **[[#3. Collaborating with Outlook]]** (4 videos)
+- **[[#4. Collaborate Online in Word]]** (3 videos)
+- **[[#5. Sharing Content with OneDrive]]** (5 videos)
+- **[[#6. Using Chat, Video Calls, and Group Video Meetings]]** (6 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Computing with confidence, getting job skills, and staying safe online
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/computing-with-confidence-getting-job-skills-and-staying-safe-online?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - computers (1)
 
 
-### 2. 1. Access Information Online
+### 1. Access Information Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Methods of connecting to the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-connecting-to-the-internet?u=76281980)
@@ -803,7 +807,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Participate Safely and Responsibly Online
+### 2. Participate Safely and Responsibly Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Methods of communicating online
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980)
@@ -1268,7 +1274,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Collaborating with Outlook
+### 3. Collaborating with Outlook
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collaborate via email and calendars
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980)
@@ -1431,7 +1439,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Collaborate Online in Word
+### 4. Collaborate Online in Word
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collaborate on Word documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980)
@@ -1622,7 +1632,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Sharing Content with OneDrive
+### 5. Sharing Content with OneDrive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand cloud-based services
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980)
@@ -1822,7 +1834,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Using Chat, Video Calls, and Group Video Meetings
+### 6. Using Chat, Video Calls, and Group Video Meetings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand instant messaging, voice, and video chat
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980)

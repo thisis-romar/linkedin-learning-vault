@@ -47,7 +47,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Quantile and Box-Whisker Plots** (1 videos)
+- **[[#1. 1. Quantile and Box-Whisker Plots]]** (1 videos)
 
 ### 1. 1. Quantile and Box-Whisker Plots
 

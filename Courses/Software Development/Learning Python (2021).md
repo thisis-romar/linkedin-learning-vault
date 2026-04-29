@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (5 videos)
-- **3. 2. Python Basics** (9 videos)
-- **4. 3. Working with Files** (4 videos)
-- **5. 4. Using Dates and Times** (5 videos)
-- **6. 5. Internet Data Formats** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started]]** (5 videos)
+- **[[#3. 2. Python Basics]]** (9 videos)
+- **[[#4. 3. Working with Files]]** (4 videos)
+- **[[#5. 4. Using Dates and Times]]** (5 videos)
+- **[[#6. 5. Internet Data Formats]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -44,12 +44,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Supply Chain Certifications** (14 videos)
-- **3. 2. Supply Chain Functions** (9 videos)
-- **4. 3. Supply Chain Processes** (10 videos)
-- **5. 4. Supply Chain Jargon Basics** (12 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Supply Chain Certifications]]** (14 videos)
+- **[[#3. 2. Supply Chain Functions]]** (9 videos)
+- **[[#4. 3. Supply Chain Processes]]** (10 videos)
+- **[[#5. 4. Supply Chain Jargon Basics]]** (12 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

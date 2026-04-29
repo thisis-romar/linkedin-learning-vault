@@ -40,14 +40,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is IT Automation?** (6 videos)
-- **3. 2. When to Use Automation** (5 videos)
-- **4. 3. Automation Tools** (8 videos)
-- **5. 4. Automation Using Scripts** (8 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Is IT Automation?]]** (6 videos)
+- **[[#2. When to Use Automation]]** (5 videos)
+- **[[#3. Automation Tools]]** (8 videos)
+- **[[#4. Automation Using Scripts]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An overview of IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Is IT Automation?
+### 1. What Is IT Automation?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is IT automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980)
@@ -483,7 +487,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. When to Use Automation
+### 2. When to Use Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### When should you automate?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980)
@@ -999,7 +1005,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 4. 3. Automation Tools
+### 3. Automation Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using automation tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980)
@@ -2140,7 +2148,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Automation Using Scripts
+### 4. Automation Using Scripts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Automation using scripts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980)
@@ -3947,7 +3957,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (2), select the (2)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue exploring IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980)

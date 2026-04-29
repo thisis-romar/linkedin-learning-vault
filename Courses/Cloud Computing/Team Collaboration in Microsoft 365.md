@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understand Microsoft 365 Accounts and Core Services** (4 videos)
-- **3. 2. Tools for Team Collaboration** (7 videos)
-- **4. 3. File Storage and Sharing** (5 videos)
-- **5. 4. Edit Word, Excel, and PowerPoint Documents Collaboratively** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understand Microsoft 365 Accounts and Core Services]]** (4 videos)
+- **[[#2. Tools for Team Collaboration]]** (7 videos)
+- **[[#3. File Storage and Sharing]]** (5 videos)
+- **[[#4. Edit Word, Excel, and PowerPoint Documents Collaboratively]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn team collaboration tools in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - [nick] (1)
 
 
-### 2. 1. Understand Microsoft 365 Accounts and Core Services
+### 1. Understand Microsoft 365 Accounts and Core Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify which Microsoft 365 services you have
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980)
@@ -457,7 +461,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Tools for Team Collaboration
+### 2. Tools for Team Collaboration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use groups for email in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980)
@@ -1269,7 +1275,9 @@ created: 2026-04-28
 > **Speakers:** - [nick] (1)
 
 
-### 4. 3. File Storage and Sharing
+### 3. File Storage and Sharing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980)
@@ -1771,7 +1779,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Edit Word, Excel, and PowerPoint Documents Collaboratively
+### 4. Edit Word, Excel, and PowerPoint Documents Collaboratively
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Edit Word, Excel, and PowerPoint documents online
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980)
@@ -2116,7 +2126,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn more about Microsoft 365 applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980)

@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Planning to Be a Developer** (4 videos)
-- **3. 2. Education** (5 videos)
-- **4. 3. Finding a Job** (4 videos)
-- **5. 4. The Application Process** (4 videos)
-- **6. 5. Negotiating Compensation** (3 videos)
-- **7. 6. Getting the Job** (3 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Planning to Be a Developer]]** (4 videos)
+- **[[#3. 2. Education]]** (5 videos)
+- **[[#4. 3. Finding a Job]]** (4 videos)
+- **[[#5. 4. The Application Process]]** (4 videos)
+- **[[#6. 5. Negotiating Compensation]]** (3 videos)
+- **[[#7. 6. Getting the Job]]** (3 videos)
 
 ### 1. Introduction
 

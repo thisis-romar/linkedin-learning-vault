@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Arrays: The Basics** (5 videos)
-- **3. 2.  Working with Ordered Data** (5 videos)
-- **4. 3. Evaluating Data for a Single Value** (4 videos)
-- **5. 4.  Implementing Stacks and Queues** (4 videos)
-- **6. 5.  Bringing It Together: Advanced Methods** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Arrays: The Basics]]** (5 videos)
+- **[[#3. 2.  Working with Ordered Data]]** (5 videos)
+- **[[#4. 3. Evaluating Data for a Single Value]]** (4 videos)
+- **[[#5. 4.  Implementing Stacks and Queues]]** (4 videos)
+- **[[#6. 5.  Bringing It Together: Advanced Methods]]** (6 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

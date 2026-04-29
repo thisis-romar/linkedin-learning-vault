@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Product Strategy Overview** (4 videos)
-- **3. 2. Filling in the Elevator Pitch Step by Step** (6 videos)
-- **4. 3. How to Develop Product Strategy** (4 videos)
-- **5. 4. You Have a Strategy, Now What?** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Product Strategy Overview]]** (4 videos)
+- **[[#2. Filling in the Elevator Pitch Step by Step]]** (6 videos)
+- **[[#3. How to Develop Product Strategy]]** (4 videos)
+- **[[#4. You Have a Strategy, Now What?]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why you need a product strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. Product Strategy Overview
+### 1. Product Strategy Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is product strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980)
@@ -444,7 +448,9 @@ created: 2026-04-28
 > **Best Practices:** you should always (1)
 
 
-### 3. 2. Filling in the Elevator Pitch Step by Step
+### 2. Filling in the Elevator Pitch Step by Step
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Determine your target customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980)
@@ -1011,7 +1017,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. How to Develop Product Strategy
+### 3. How to Develop Product Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make strategy work
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/make-strategy-work-8536488?u=76281980)
@@ -1334,7 +1342,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 5. 4. You Have a Strategy, Now What?
+### 4. You Have a Strategy, Now What?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Maintain your strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980)
@@ -1482,7 +1492,9 @@ created: 2026-04-28
 > **Speakers:** - sometimes (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980)

@@ -51,14 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is the BRFSS?** (13 videos)
-- **3. 2. Designing Your Metadata** (8 videos)
-- **4. 3. Reading in Data and Applying Exclusions** (11 videos)
-- **5. 4. Preparing for Descriptive Analysis** (8 videos)
-- **6. 5. Conducting Descriptive Analysis** (7 videos)
-- **7. 6. Descriptive Analysis: Weights and Tests** (8 videos)
-- **8. Conclusion** (4 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What Is the BRFSS?]]** (13 videos)
+- **[[#3. 2. Designing Your Metadata]]** (8 videos)
+- **[[#4. 3. Reading in Data and Applying Exclusions]]** (11 videos)
+- **[[#5. 4. Preparing for Descriptive Analysis]]** (8 videos)
+- **[[#6. 5. Conducting Descriptive Analysis]]** (7 videos)
+- **[[#7. 6. Descriptive Analysis: Weights and Tests]]** (8 videos)
+- **[[#8. Conclusion]]** (4 videos)
 
 ### 1. Introduction
 

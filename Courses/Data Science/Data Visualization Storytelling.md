@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Why Storytelling?** (3 videos)
-- **3. 2. Story Structure** (6 videos)
-- **4. 3. Story Mechanisms** (7 videos)
-- **5. 4. Final Touches** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Why Storytelling?]]** (3 videos)
+- **[[#2. Story Structure]]** (6 videos)
+- **[[#3. Story Mechanisms]]** (7 videos)
+- **[[#4. Final Touches]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The art of storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - storytelling (1)
 
 
-### 2. 1. Why Storytelling?
+### 1. Why Storytelling?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Humans are wired for story
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980)
@@ -343,7 +347,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Story Structure
+### 2. Story Structure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The KWYs
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/the-kwys?u=76281980)
@@ -1076,7 +1082,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Story Mechanisms
+### 3. Story Mechanisms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Change over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/change-over-time?u=76281980)
@@ -1665,7 +1673,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Final Touches
+### 4. Final Touches
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Labeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980)
@@ -2142,7 +2152,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980)

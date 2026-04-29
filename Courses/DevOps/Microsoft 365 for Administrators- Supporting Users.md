@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Get Started** (4 videos)
-- **2. 1. Getting Users Started** (6 videos)
-- **3. 2. Productivity** (8 videos)
-- **4. 3. Communications** (3 videos)
-- **5. 4. Getting Things Done** (6 videos)
-- **6. 5. Collaboration** (4 videos)
-- **7. 6. Media Rich Apps** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Get Started]]** (4 videos)
+- **[[#2. 1. Getting Users Started]]** (6 videos)
+- **[[#3. 2. Productivity]]** (8 videos)
+- **[[#4. 3. Communications]]** (3 videos)
+- **[[#5. 4. Getting Things Done]]** (6 videos)
+- **[[#6. 5. Collaboration]]** (4 videos)
+- **[[#7. 6. Media Rich Apps]]** (3 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Get Started
 

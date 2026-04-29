@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Web Servers** (9 videos)
-- **3. 2. Getting Ready to Test** (6 videos)
-- **4. 3. Running Basic Web Application Tests** (4 videos)
-- **5. 4. Advanced Web Application Tests** (6 videos)
-- **6. 5. Practicing Your Skills** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to Web Servers]]** (9 videos)
+- **[[#2. Getting Ready to Test]]** (6 videos)
+- **[[#3. Running Basic Web Application Tests]]** (4 videos)
+- **[[#4. Advanced Web Application Tests]]** (6 videos)
+- **[[#5. Practicing Your Skills]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing to make sure your website is safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980)
@@ -143,7 +145,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Web Servers
+### 1. Introduction to Web Servers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elements of web-based applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980)
@@ -940,7 +944,9 @@ created: 2026-04-28
 > **Versions:** 192.168.1 (1)
 
 
-### 3. 2. Getting Ready to Test
+### 2. Getting Ready to Test
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the Zero Bank
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-the-zero-bank?u=76281980)
@@ -1353,7 +1359,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2)
 
 
-### 4. 3. Running Basic Web Application Tests
+### 3. Running Basic Web Application Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fingerprinting web servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980)
@@ -1607,7 +1615,9 @@ created: 2026-04-28
 > **Warnings:** be careful (1)
 
 
-### 5. 4. Advanced Web Application Tests
+### 4. Advanced Web Application Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manipulating URL parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980)
@@ -2105,7 +2115,9 @@ created: 2026-04-28
 > **Tools:** bash (1)
 
 
-### 6. 5. Practicing Your Skills
+### 5. Practicing Your Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practicing with online banking websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/practicing-with-online-banking-websites?u=76281980)
@@ -2320,7 +2332,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (2)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980)

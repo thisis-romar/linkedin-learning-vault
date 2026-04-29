@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Why Data Viz Matters** (8 videos)
-- **3. 2. Identifying and Shaping Your Data** (7 videos)
-- **4. 3. Data Viz Mistakes to Avoid** (9 videos)
-- **5. 4. Designing Charts and Graphs** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Why Data Viz Matters]]** (8 videos)
+- **[[#2. Identifying and Shaping Your Data]]** (7 videos)
+- **[[#3. Data Viz Mistakes to Avoid]]** (9 videos)
+- **[[#4. Designing Charts and Graphs]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Best practices of data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/best-practices-of-data-visualization-14398183?u=76281980)
@@ -166,7 +168,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Why Data Viz Matters
+### 1. Why Data Viz Matters
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of data viz in today's market
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-importance-of-data-viz-in-today-s-market-14393399?u=76281980)
@@ -685,7 +689,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Identifying and Shaping Your Data
+### 2. Identifying and Shaping Your Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Key questions to ask
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/key-questions-to-ask-14393402?u=76281980)
@@ -1235,7 +1241,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Viz Mistakes to Avoid
+### 3. Data Viz Mistakes to Avoid
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Being a data fiduciary
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/being-a-data-fiduciary-14395248?u=76281980)
@@ -1743,7 +1751,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Designing Charts and Graphs
+### 4. Designing Charts and Graphs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The best free data visualization tools to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980)
@@ -2206,7 +2216,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980)

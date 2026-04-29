@@ -40,13 +40,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Benefits of the Cloud in CXO Terms** (6 videos)
-- **3. 2. How to Focus the Discussion** (4 videos)
-- **4. 3. Migrating to the Cloud** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Benefits of the Cloud in CXO Terms]]** (6 videos)
+- **[[#2. How to Focus the Discussion]]** (4 videos)
+- **[[#3. Migrating to the Cloud]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining the audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/defining-the-audience?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Benefits of the Cloud in CXO Terms
+### 1. Benefits of the Cloud in CXO Terms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reintroducing Explore California
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/reintroducing-explore-california?u=76281980)
@@ -510,7 +514,9 @@ created: 2026-04-28
 > **Speakers:** - [lee] (1)
 
 
-### 3. 2. How to Focus the Discussion
+### 2. How to Focus the Discussion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structuring the conversation for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/structuring-the-conversation-for-success?u=76281980)
@@ -702,7 +708,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Migrating to the Cloud
+### 3. Migrating to the Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Outlining a cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/outlining-a-cloud-migration?u=76281980)
@@ -817,7 +825,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further conversations with the C-suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/presenting-cloud-migration-benefits-to-the-c-suite/further-conversations-with-the-c-suite?u=76281980)

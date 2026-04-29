@@ -50,17 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Spring Framework Introduction** (5 videos)
-- **3. 2. Create a Spring Boot Microservice** (5 videos)
-- **4. 3. Leverage Spring-Data-JPA Repository Interfaces** (8 videos)
-- **5. 4. Expose RESTful API's with Spring Data REST** (6 videos)
-- **6. 5. Expose RESTful API's with Spring MVC** (7 videos)
-- **7. 6. Best Practices** (5 videos)
-- **8. 7. Dockerized Microservices and Databases** (4 videos)
-- **9. 8. Create a RESTful MongoDB Microservice** (5 videos)
-- **10. 9. Create an API Gateway with Spring Cloud** (6 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Spring Framework Introduction]]** (5 videos)
+- **[[#3. 2. Create a Spring Boot Microservice]]** (5 videos)
+- **[[#4. 3. Leverage Spring-Data-JPA Repository Interfaces]]** (8 videos)
+- **[[#5. 4. Expose RESTful API's with Spring Data REST]]** (6 videos)
+- **[[#6. 5. Expose RESTful API's with Spring MVC]]** (7 videos)
+- **[[#7. 6. Best Practices]]** (5 videos)
+- **[[#8. 7. Dockerized Microservices and Databases]]** (4 videos)
+- **[[#9. 8. Create a RESTful MongoDB Microservice]]** (5 videos)
+- **[[#10. 9. Create an API Gateway with Spring Cloud]]** (6 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

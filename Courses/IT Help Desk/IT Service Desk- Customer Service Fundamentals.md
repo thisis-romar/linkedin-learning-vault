@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Anatomy of a Contact** (7 videos)
-- **3. 2. Customer Service Tasks** (6 videos)
-- **4. 3. Language and Professionalism** (9 videos)
-- **5. 4. Common Help Desk Customer Service Situations** (8 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Anatomy of a Contact]]** (7 videos)
+- **[[#3. 2. Customer Service Tasks]]** (6 videos)
+- **[[#4. 3. Language and Professionalism]]** (9 videos)
+- **[[#5. 4. Common Help Desk Customer Service Situations]]** (8 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

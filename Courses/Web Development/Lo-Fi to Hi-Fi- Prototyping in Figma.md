@@ -31,8 +31,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/Lo-Fi%20to%20Hi-Fi-%20Prototyping%20in%20Figma.md)
-
 ![Lo-Fi to Hi-Fi: Prototyping in Figma](https://media.licdn.com/dms/image/v2/C4E0DAQGoBjOAjI9yQA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1668799442072?e=2147483647&amp;v=beta&amp;t=fuvPaDBuvTEq2gE1-4j2R7iOq2BfyuFJ3q0qG2t1xvc)
 
 # Lo-Fi to Hi-Fi: Prototyping in Figma
@@ -46,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Low Fidelity** (4 videos)
-- **3. 2. Medium Fidelity** (5 videos)
-- **4. 3. High-Fidelity** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Low Fidelity]]** (4 videos)
+- **[[#2. Medium Fidelity]]** (5 videos)
+- **[[#3. High-Fidelity]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Going from wireframes to prototypes in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980)
@@ -157,7 +157,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Low Fidelity
+### 1. Low Fidelity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Digital vs. physical wireframing mediums
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980)
@@ -742,7 +744,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Medium Fidelity
+### 2. Medium Fidelity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Brush up on the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/brush-up-on-the-basics?u=76281980)
@@ -1572,7 +1576,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 4. 3. High-Fidelity
+### 3. High-Fidelity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing the layout for your high-fidelity mock-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980)
@@ -2173,7 +2179,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and helpful resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980)
@@ -2299,8 +2307,4 @@ _Courses sharing skills:_
 - [[Adobe XD Essential Training- Prototype]] — User Interface Prototyping
 - [[Figma for UX Research- Presentations that Stand Out]] — Figma (Software)
 - [[Designing Accessible Components In Figma]] — Figma (Software)
-- [[Accessibility and Inclusion with Figma]] — Figma (Software)
-
----
-
-[↑ Back to top](#)
+- [[Accessibility and Inclusion with Figma]] — Fi

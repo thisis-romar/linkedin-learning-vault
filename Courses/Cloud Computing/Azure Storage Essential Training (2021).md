@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Develop Solutions for Azure Blob Storage** (6 videos)
-- **3. 2. Develop Solutions for Azure Files** (7 videos)
-- **4. 3. Develop Solutions for Azure Queues** (3 videos)
-- **5. 4. Secure Azure Storage** (6 videos)
-- **6. 5. Manage Azure Storage** (4 videos)
-- **7. 6. Backup Azure Storage** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Develop Solutions for Azure Blob Storage]]** (6 videos)
+- **[[#3. 2. Develop Solutions for Azure Files]]** (7 videos)
+- **[[#4. 3. Develop Solutions for Azure Queues]]** (3 videos)
+- **[[#5. 4. Secure Azure Storage]]** (6 videos)
+- **[[#6. 5. Manage Azure Storage]]** (4 videos)
+- **[[#7. 6. Backup Azure Storage]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

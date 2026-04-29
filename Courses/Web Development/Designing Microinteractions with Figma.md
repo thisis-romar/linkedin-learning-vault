@@ -39,13 +39,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Figma Prototyping Basics** (6 videos)
-- **3. 2. Simple Microinteractions** (9 videos)
-- **4. 3. Advanced Microinteractions** (7 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Figma Prototyping Basics]]** (6 videos)
+- **[[#2. Simple Microinteractions]]** (9 videos)
+- **[[#3. Advanced Microinteractions]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microinteractions in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. Figma Prototyping Basics
+### 1. Figma Prototyping Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start prototyping in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/start-prototyping-in-figma?u=76281980)
@@ -580,7 +584,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Simple Microinteractions
+### 2. Simple Microinteractions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create an On Click toggle
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980)
@@ -1125,7 +1131,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Microinteractions
+### 3. Advanced Microinteractions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create interactive components in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980)
@@ -1852,7 +1860,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Feel confident designing your own Figma microinteraction
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980)

@@ -49,17 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Start a Database-Driven Project** (5 videos)
-- **3. 2. Build Web Pages with PHP** (7 videos)
-- **4. 3. Headers and Redirects** (3 videos)
-- **5. 4. Build Forms with PHP** (6 videos)
-- **6. 5. MySQL Basics** (8 videos)
-- **7. 6. Use PHP to Access MySQL** (7 videos)
-- **8. 7. CRUD with PHP** (7 videos)
-- **9. 8. Validate Data with PHP** (6 videos)
-- **10. 9. Prevent SQL Injection** (4 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Start a Database-Driven Project]]** (5 videos)
+- **[[#3. 2. Build Web Pages with PHP]]** (7 videos)
+- **[[#4. 3. Headers and Redirects]]** (3 videos)
+- **[[#5. 4. Build Forms with PHP]]** (6 videos)
+- **[[#6. 5. MySQL Basics]]** (8 videos)
+- **[[#7. 6. Use PHP to Access MySQL]]** (7 videos)
+- **[[#8. 7. CRUD with PHP]]** (7 videos)
+- **[[#9. 8. Validate Data with PHP]]** (6 videos)
+- **[[#10. 9. Prevent SQL Injection]]** (4 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

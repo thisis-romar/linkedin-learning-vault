@@ -62,19 +62,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Data Analytics in the Business World** (8 videos)
-- **3. 2. Predictive and Prescriptive Analytics** (4 videos)
-- **4. 3. Asking the Right Questions** (4 videos)
-- **5. 4. Unlocking the Data Within** (4 videos)
-- **6. 5. Understanding Averages** (4 videos)
-- **7. 6. Sampling** (4 videos)
-- **8. 7. What Is Cherry Picking?** (3 videos)
-- **9. 8. Forecasting** (4 videos)
-- **10. 9. Correlation versus Causation** (4 videos)
-- **11. 10. Continuing Your Learning Journey in Data Analytics** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Data Analytics in the Business World]]** (8 videos)
+- **[[#2. Predictive and Prescriptive Analytics]]** (4 videos)
+- **[[#3. Asking the Right Questions]]** (4 videos)
+- **[[#4. Unlocking the Data Within]]** (4 videos)
+- **[[#5. Understanding Averages]]** (4 videos)
+- **[[#6. Sampling]]** (4 videos)
+- **[[#7. What Is Cherry Picking?]]** (3 videos)
+- **[[#8. Forecasting]]** (4 videos)
+- **[[#9. Correlation versus Causation]]** (4 videos)
+- **[[#10. Continuing Your Learning Journey in Data Analytics]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making data more useful
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980)
@@ -134,7 +136,9 @@ created: 2026-04-28
 > **Speakers:** - data (1)
 
 
-### 2. 1. Data Analytics in the Business World
+### 1. Data Analytics in the Business World
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business leaders and data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980)
@@ -562,7 +566,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Predictive and Prescriptive Analytics
+### 2. Predictive and Prescriptive Analytics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980)
@@ -747,7 +753,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 4. 3. Asking the Right Questions
+### 3. Asking the Right Questions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Guidelines for formulating questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/guidelines-for-formulating-questions?u=76281980)
@@ -967,7 +975,9 @@ created: 2026-04-28
 > **Speakers:** - business (1)
 
 
-### 5. 4. Unlocking the Data Within
+### 4. Unlocking the Data Within
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data-collection issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980)
@@ -1223,7 +1233,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Understanding Averages
+### 5. Understanding Averages
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Nature of averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/nature-of-averages?u=76281980)
@@ -1372,7 +1384,9 @@ created: 2026-04-28
 > **Speakers:** - having (1)
 
 
-### 7. 6. Sampling
+### 6. Sampling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pros and cons
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/pros-and-cons?u=76281980)
@@ -1553,7 +1567,9 @@ created: 2026-04-28
 > **Speakers:** - our (1)
 
 
-### 8. 7. What Is Cherry Picking?
+### 7. What Is Cherry Picking?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is cherry picking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980)
@@ -1728,7 +1744,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 9. 8. Forecasting
+### 8. Forecasting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hurricane Matthew
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980)
@@ -1933,7 +1951,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 10. 9. Correlation versus Causation
+### 9. Correlation versus Causation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cause and effect
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/cause-and-effect?u=76281980)
@@ -2103,7 +2123,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 11. 10. Continuing Your Learning Journey in Data Analytics
+### 10. Continuing Your Learning Journey in Data Analytics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing your learning journey in data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/continuing-your-data-analytics-learning-journey?u=76281980)

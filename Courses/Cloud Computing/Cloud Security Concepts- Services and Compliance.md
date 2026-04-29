@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Cloud Security Basics** (10 videos)
-- **3. 2. Cloud Security Services** (8 videos)
-- **4. 3. Cloud Compliance Services** (7 videos)
-- **5. 4. Planning Cloud Security** (4 videos)
-- **6. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Cloud Security Basics]]** (10 videos)
+- **[[#2. Cloud Security Services]]** (8 videos)
+- **[[#3. Cloud Compliance Services]]** (7 videos)
+- **[[#4. Planning Cloud Security]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to cloud security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/introduction-to-cloud-security?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Cloud Security Basics
+### 1. Cloud Security Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business case for cloud security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/business-case-for-cloud-security?u=76281980)
@@ -613,7 +617,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. 2. Cloud Security Services
+### 2. Cloud Security Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS cloud security services
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/aws-cloud-security-services?u=76281980)
@@ -998,7 +1004,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Cloud Compliance Services
+### 3. Cloud Compliance Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud compliance services in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/cloud-compliance-services-in-healthcare?u=76281980)
@@ -1325,7 +1333,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Planning Cloud Security
+### 4. Planning Cloud Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding your security requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/understanding-your-security-requirements?u=76281980)
@@ -1502,7 +1512,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Current cloud security trends to watch
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/current-cloud-security-trends-to-watch?u=76281980)

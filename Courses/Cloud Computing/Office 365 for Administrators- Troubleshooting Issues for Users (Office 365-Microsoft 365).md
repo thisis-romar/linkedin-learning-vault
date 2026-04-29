@@ -49,18 +49,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Word** (5 videos)
-- **3. 2. PowerPoint** (5 videos)
-- **4. 3. Excel and Access** (6 videos)
-- **5. 4. Teams and OneNote** (3 videos)
-- **6. 5. Visio** (3 videos)
-- **7. 6. OneDrive and SharePoint** (4 videos)
-- **8. 7. Publisher** (2 videos)
-- **9. 8. Outlook** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Word]]** (5 videos)
+- **[[#2. PowerPoint]]** (5 videos)
+- **[[#3. Excel and Access]]** (6 videos)
+- **[[#4. Teams and OneNote]]** (3 videos)
+- **[[#5. Visio]]** (3 videos)
+- **[[#6. OneDrive and SharePoint]]** (4 videos)
+- **[[#7. Publisher]]** (2 videos)
+- **[[#8. Outlook]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Office 365 administration troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Word
+### 1. Word
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshoot: Word startup
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980)
@@ -737,7 +741,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. PowerPoint
+### 2. PowerPoint
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshoot: PowerPoint startup
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980)
@@ -1169,7 +1175,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Excel and Access
+### 3. Excel and Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshoot: Excel startup
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980)
@@ -1668,7 +1676,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Teams and OneNote
+### 4. Teams and OneNote
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshoot: Teams audio and video
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980)
@@ -1954,7 +1964,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Visio
+### 5. Visio
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshoot: Visio printing
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-printing?u=76281980)
@@ -2137,7 +2149,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. OneDrive and SharePoint
+### 6. OneDrive and SharePoint
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OneDrive synchronization limits
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980)
@@ -2489,7 +2503,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Publisher
+### 7. Publisher
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshoot: Publisher mail merge
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-mail-merge?u=76281980)
@@ -2675,7 +2691,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. 8. Outlook
+### 8. Outlook
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshoot: Damaged Outlook data files
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980)
@@ -2978,7 +2996,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/next-steps?u=76281980)

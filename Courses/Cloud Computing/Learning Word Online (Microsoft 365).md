@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Get Started with Word Online** (3 videos)
-- **3. 2. Document Basics** (7 videos)
-- **4. 3. Sharing and Collaboration** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Get Started with Word Online]]** (3 videos)
+- **[[#2. Document Basics]]** (7 videos)
+- **[[#3. Sharing and Collaboration]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get the power of Word in your browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Get Started with Word Online
+### 1. Get Started with Word Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sign in and create a new document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980)
@@ -440,7 +444,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Document Basics
+### 2. Document Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Type or dictate text into a Word document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980)
@@ -1519,7 +1525,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Sharing and Collaboration
+### 3. Sharing and Collaboration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Share a document with others
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980)
@@ -1936,7 +1944,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980)

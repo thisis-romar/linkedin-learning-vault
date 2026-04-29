@@ -44,13 +44,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Microsoft Office Specialist (MOS) Expert Exam Overview** (2 videos)
-- **3. 2. Manage Workbook Options and Settings** (7 videos)
-- **4. 3. Manage and Format Data** (11 videos)
-- **5. 4. Create Advanced Formulas** (14 videos)
-- **6. 5. Manage Advanced Charts and Tables** (7 videos)
-- **7. 6. Final Challenge** (2 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Microsoft Office Specialist (MOS) Expert Exam Overview]]** (2 videos)
+- **[[#3. 2. Manage Workbook Options and Settings]]** (7 videos)
+- **[[#4. 3. Manage and Format Data]]** (11 videos)
+- **[[#5. 4. Create Advanced Formulas]]** (14 videos)
+- **[[#6. 5. Manage Advanced Charts and Tables]]** (7 videos)
+- **[[#7. 6. Final Challenge]]** (2 videos)
 
 ### 1. Introduction
 

@@ -44,9 +44,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Using GPT in Business** (10 videos)
+- **[[#1. Using GPT in Business]]** (10 videos)
 
-### 1. 1. Using GPT in Business
+### 1. Using GPT in Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980)

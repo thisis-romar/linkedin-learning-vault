@@ -47,15 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. PHP Overview** (3 videos)
-- **3. 2. First Steps** (4 videos)
-- **4. 3. Explore Data Types** (12 videos)
-- **5. 4. Control Structures: Logical Expressions** (4 videos)
-- **6. 5. Control Structures: Loops** (6 videos)
-- **7. 6. User-Defined Functions** (6 videos)
-- **8. 7. Debug** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. PHP Overview]]** (3 videos)
+- **[[#3. 2. First Steps]]** (4 videos)
+- **[[#4. 3. Explore Data Types]]** (12 videos)
+- **[[#5. 4. Control Structures: Logical Expressions]]** (4 videos)
+- **[[#6. 5. Control Structures: Loops]]** (6 videos)
+- **[[#7. 6. User-Defined Functions]]** (6 videos)
+- **[[#8. 7. Debug]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

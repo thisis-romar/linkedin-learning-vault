@@ -43,16 +43,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Cloud Foundations** (9 videos)
-- **3. 2. Looking at the Clouds** (8 videos)
-- **4. 3. Cloud Flaws, Incidents. and Failures** (6 videos)
-- **5. 4. Hands-On with Cloud Flaws** (4 videos)
-- **6. 5. Cloud Security Management** (5 videos)
-- **7. 6. Cloud Security Capabilities** (7 videos)
-- **8. What's Next** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Cloud Foundations]]** (9 videos)
+- **[[#2. Looking at the Clouds]]** (8 videos)
+- **[[#3. Cloud Flaws, Incidents. and Failures]]** (6 videos)
+- **[[#4. Hands-On with Cloud Flaws]]** (4 videos)
+- **[[#5. Cloud Security Management]]** (5 videos)
+- **[[#6. Cloud Security Capabilities]]** (7 videos)
+- **[[#What's Next]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making your cloud deployments secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/making-your-cloud-deployments-secure?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Cloud Foundations
+### 1. Cloud Foundations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud security guidance
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/cloud-security-guidance-23670522?u=76281980)
@@ -679,7 +683,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/cloud-security-certification?u=76281980)
 
 
-### 3. 2. Looking at the Clouds
+### 2. Looking at the Clouds
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microsoft Azure cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/microsoft-azure-cloud?u=76281980)
@@ -1324,7 +1330,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Cloud Flaws, Incidents. and Failures
+### 3. Cloud Flaws, Incidents. and Failures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Incidents in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/incidents-in-the-cloud?u=76281980)
@@ -1718,7 +1726,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Hands-On with Cloud Flaws
+### 4. Hands-On with Cloud Flaws
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Threats to cloud deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/threats-to-cloud-deployments?u=76281980)
@@ -1926,7 +1936,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 6. 5. Cloud Security Management
+### 5. Cloud Security Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Architecting governance and risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/architecting-governance-and-risk?u=76281980)
@@ -2363,7 +2375,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Cloud Security Capabilities
+### 6. Cloud Security Capabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cryptography foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/cryptography-foundations?u=76281980)
@@ -2981,7 +2995,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. What's Next
+### What's Next
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/next-steps?u=76281980)

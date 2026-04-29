@@ -51,11 +51,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Current Supply Chain Technologies** (9 videos)
-- **3. 2. Emerging Supply Chain Technologies** (12 videos)
-- **4. 3. Transforming Your Supply Chain** (7 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Current Supply Chain Technologies]]** (9 videos)
+- **[[#3. 2. Emerging Supply Chain Technologies]]** (12 videos)
+- **[[#4. 3. Transforming Your Supply Chain]]** (7 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

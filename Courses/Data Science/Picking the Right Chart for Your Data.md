@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting to KWYRWTS** (2 videos)
-- **3. 2. The Standards** (14 videos)
-- **4. 3. Beyond the Standards** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting to KWYRWTS]]** (2 videos)
+- **[[#2. The Standards]]** (14 videos)
+- **[[#3. Beyond the Standards]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choose wisely
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/choose-wisely?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting to KWYRWTS
+### 1. Getting to KWYRWTS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are the KWYs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-are-the-kwys?u=76281980)
@@ -353,7 +357,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. The Standards
+### 2. The Standards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Chart categories
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/chart-categories-23470796?u=76281980)
@@ -1830,7 +1836,9 @@ created: 2026-04-28
 > **Speakers:** - [male (1)
 
 
-### 4. 3. Beyond the Standards
+### 3. Beyond the Standards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### To cumulative or not cumulative?
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/to-cumulative-or-not-cumulative?u=76281980)
@@ -2118,7 +2126,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrapping it up
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/wrapping-it-up?u=76281980)

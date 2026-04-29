@@ -49,15 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Creating Our First Multiplatform App** (7 videos)
-- **3. 2. Combining Native with Multiplatform** (6 videos)
-- **4. 3. KMP and Swift** (3 videos)
-- **5. 4. Architecture** (2 videos)
-- **6. 5. Sharing Network** (4 videos)
-- **7. 6. Sharing Database** (4 videos)
-- **8. 7. Quality of Life** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Creating Our First Multiplatform App]]** (7 videos)
+- **[[#3. 2. Combining Native with Multiplatform]]** (6 videos)
+- **[[#4. 3. KMP and Swift]]** (3 videos)
+- **[[#5. 4. Architecture]]** (2 videos)
+- **[[#6. 5. Sharing Network]]** (4 videos)
+- **[[#7. 6. Sharing Database]]** (4 videos)
+- **[[#8. 7. Quality of Life]]** (5 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

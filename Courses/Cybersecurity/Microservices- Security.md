@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Microservice Security Foundations** (3 videos)
-- **3. 2. Identity Management and Access Control** (5 videos)
-- **4. 3. Token-Based Security and Standards** (9 videos)
-- **5. 4. Security between Microservices** (4 videos)
-- **6. 5. Application and Container Security** (8 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Microservice Security Foundations]]** (3 videos)
+- **[[#3. 2. Identity Management and Access Control]]** (5 videos)
+- **[[#4. 3. Token-Based Security and Standards]]** (9 videos)
+- **[[#5. 4. Security between Microservices]]** (4 videos)
+- **[[#6. 5. Application and Container Security]]** (8 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (4 videos)
-- **3. 2. Data Types** (14 videos)
-- **4. 3. Structures, Classes, and Pointers** (12 videos)
-- **5. 4. Control Flow** (6 videos)
-- **6. 5. Functions** (5 videos)
-- **7. 6. File I/O** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started]]** (4 videos)
+- **[[#3. 2. Data Types]]** (14 videos)
+- **[[#4. 3. Structures, Classes, and Pointers]]** (12 videos)
+- **[[#5. 4. Control Flow]]** (6 videos)
+- **[[#6. 5. Functions]]** (5 videos)
+- **[[#7. 6. File I/O]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

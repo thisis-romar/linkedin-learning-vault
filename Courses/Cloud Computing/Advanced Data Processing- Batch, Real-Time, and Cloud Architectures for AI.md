@@ -54,15 +54,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI Architectures** (6 videos)
-- **3. 2. Batch AI Architectures** (7 videos)
-- **4. 3. Real-Time AI Architectures** (7 videos)
-- **5. 4. Cloud AI Architectures** (6 videos)
-- **6. 5. Hybrid AI Architectures** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI Architectures]]** (6 videos)
+- **[[#2. Batch AI Architectures]]** (7 videos)
+- **[[#3. Real-Time AI Architectures]]** (7 videos)
+- **[[#4. Cloud AI Architectures]]** (6 videos)
+- **[[#5. Hybrid AI Architectures]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Processing data for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/processing-data-for-ai?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. AI Architectures
+### 1. AI Architectures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The ML life cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980)
@@ -519,7 +523,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Batch AI Architectures
+### 2. Batch AI Architectures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Characteristics of batch AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980)
@@ -1015,7 +1021,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Real-Time AI Architectures
+### 3. Real-Time AI Architectures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Characteristics of real-time AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980)
@@ -1517,7 +1525,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Cloud AI Architectures
+### 4. Cloud AI Architectures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud and serverless computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980)
@@ -1849,7 +1859,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 6. 5. Hybrid AI Architectures
+### 5. Hybrid AI Architectures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hybrid computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980)
@@ -2138,7 +2150,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing with AI data processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980)

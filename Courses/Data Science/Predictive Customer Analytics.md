@@ -52,15 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Customer Analytics Overview** (6 videos)
-- **3. 2. Will You Become My Customer?** (5 videos)
-- **4. 3. What Else Are You Interested In?** (5 videos)
-- **5. 4. How Much Is Your Future Business Worth?** (5 videos)
-- **6. 5. Are You Happy with Me?** (5 videos)
-- **7. 6. Will You Leave Me?** (5 videos)
-- **8. 7. Best Practices** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Customer Analytics Overview]]** (6 videos)
+- **[[#3. 2. Will You Become My Customer?]]** (5 videos)
+- **[[#4. 3. What Else Are You Interested In?]]** (5 videos)
+- **[[#5. 4. How Much Is Your Future Business Worth?]]** (5 videos)
+- **[[#6. 5. Are You Happy with Me?]]** (5 videos)
+- **[[#7. 6. Will You Leave Me?]]** (5 videos)
+- **[[#8. 7. Best Practices]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

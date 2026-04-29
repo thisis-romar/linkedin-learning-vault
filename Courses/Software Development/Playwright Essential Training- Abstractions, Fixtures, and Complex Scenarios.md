@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Abstractions in Playwright** (10 videos)
-- **3. 2. Fixtures in Playwright** (7 videos)
-- **4. 3. Mocking and Emulation in Playwright** (8 videos)
-- **5. 4. Customizing the Playwright Config** (4 videos)
-- **6. 5. Handling Complex Scenarios and Interactions in Playwright** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Abstractions in Playwright]]** (10 videos)
+- **[[#3. 2. Fixtures in Playwright]]** (7 videos)
+- **[[#4. 3. Mocking and Emulation in Playwright]]** (8 videos)
+- **[[#5. 4. Customizing the Playwright Config]]** (4 videos)
+- **[[#6. 5. Handling Complex Scenarios and Interactions in Playwright]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

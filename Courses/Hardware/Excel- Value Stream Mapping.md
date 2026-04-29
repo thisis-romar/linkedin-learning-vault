@@ -37,13 +37,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introducing Value Stream Maps** (4 videos)
-- **3. 2. Create a Manufacturing Value Stream Map** (6 videos)
-- **4. 3. Create a Service Value Stream Map** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introducing Value Stream Maps]]** (4 videos)
+- **[[#2. Create a Manufacturing Value Stream Map]]** (6 videos)
+- **[[#3. Create a Service Value Stream Map]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Capture and present information with value stream mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980)
@@ -95,7 +97,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introducing Value Stream Maps
+### 1. Introducing Value Stream Maps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describe the philosophy and goals of value stream maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/describe-the-philosophy-and-goals-of-value-stream-maps?u=76281980)
@@ -380,7 +384,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Create a Manufacturing Value Stream Map
+### 2. Create a Manufacturing Value Stream Map
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculate takt time for the process
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980)
@@ -773,7 +779,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Create a Service Value Stream Map
+### 3. Create a Service Value Stream Map
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calculate takt time for the process
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980)
@@ -1108,7 +1116,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### More resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/more-resources?u=76281980)

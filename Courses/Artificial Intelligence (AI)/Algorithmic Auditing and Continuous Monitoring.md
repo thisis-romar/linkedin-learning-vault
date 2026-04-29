@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Algorithmic Auditing and Continuous Monitoring** (4 videos)
-- **3. 2. Skills for Algorithmic Auditors and Continuous Monitoring Teams** (4 videos)
-- **4. 3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Algorithmic Auditing and Continuous Monitoring]]** (4 videos)
+- **[[#2. Skills for Algorithmic Auditors and Continuous Monitoring Teams]]** (4 videos)
+- **[[#3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Algorithmic auditing and continuous monitoring uses
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-continuous-monitoring-uses?u=76281980)
@@ -149,7 +151,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Algorithmic Auditing and Continuous Monitoring
+### 1. Algorithmic Auditing and Continuous Monitoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is algorithmic auditing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980)
@@ -432,7 +436,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 3. 2. Skills for Algorithmic Auditors and Continuous Monitoring Teams
+### 2. Skills for Algorithmic Auditors and Continuous Monitoring Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Establishing an effective governance structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980)
@@ -876,7 +882,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice
+### 3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Case study: RedTech 30
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980)
@@ -1332,7 +1340,9 @@ created: 2026-04-28
 > **Speakers:** - earlier (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responsible AI resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980)

@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Uncovering Information** (7 videos)
-- **3. 2. Using Email and Websites** (6 videos)
-- **4. 3. Searching the Network** (5 videos)
-- **5. 4. Discovering Reconnaissance Tools** (5 videos)
-- **6. 5. Footprinting Capstone** (4 videos)
-- **7. 6. Wrapping up the Recon** (4 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Uncovering Information]]** (7 videos)
+- **[[#2. Using Email and Websites]]** (6 videos)
+- **[[#3. Searching the Network]]** (5 videos)
+- **[[#4. Discovering Reconnaissance Tools]]** (5 videos)
+- **[[#5. Footprinting Capstone]]** (4 videos)
+- **[[#6. Wrapping up the Recon]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scouting the target
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scouting-the-target?u=76281980)
@@ -129,7 +131,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Uncovering Information
+### 1. Uncovering Information
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Footprinting and reconnaissance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980)
@@ -672,7 +676,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Using Email and Websites
+### 2. Using Email and Websites
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Harvesting email addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980)
@@ -1135,7 +1141,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Searching the Network
+### 3. Searching the Network
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Footprinting using DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980)
@@ -1582,7 +1590,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 5. 4. Discovering Reconnaissance Tools
+### 4. Discovering Reconnaissance Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using OSINT tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980)
@@ -1960,7 +1970,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Footprinting Capstone
+### 5. Footprinting Capstone
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conducting a forensic exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980)
@@ -2224,7 +2236,9 @@ created: 2026-04-28
 > **Speakers:** - [lisa] (1)
 
 
-### 7. 6. Wrapping up the Recon
+### 6. Wrapping up the Recon
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Guarding social media
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980)

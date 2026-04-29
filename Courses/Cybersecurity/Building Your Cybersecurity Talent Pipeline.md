@@ -50,11 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Why Is Building a Pipeline Important?** (3 videos)
-- **3. 2. Where to Start** (3 videos)
-- **4. 3. The Pipeline Mentality** (4 videos)
-- **5. 4. Additional Outcomes** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Why Is Building a Pipeline Important?]]** (3 videos)
+- **[[#3. 2. Where to Start]]** (3 videos)
+- **[[#4. 3. The Pipeline Mentality]]** (4 videos)
+- **[[#5. 4. Additional Outcomes]]** (2 videos)
 
 ### 1. Introduction
 

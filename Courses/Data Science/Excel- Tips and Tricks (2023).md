@@ -46,20 +46,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Seven Super Shortcuts** (7 videos)
-- **3. 2. Ribbon and Quick Access Toolbar Tips** (2 videos)
-- **4. 3. Display Shortcuts** (2 videos)
-- **5. 4. Navigation and Selection Shortcuts** (5 videos)
-- **6. 5. Data Entry and Editing Shortcuts** (4 videos)
-- **7. 6. Drag-and-Drop Techniques** (4 videos)
-- **8. 7. Formula Shortcuts** (5 videos)
-- **9. 8. Operational Shortcuts** (3 videos)
-- **10. 9. Formatting Shortcuts** (5 videos)
-- **11. 10. Data Management Techniques** (3 videos)
-- **12. 11. Charting and Visual Object Tips** (3 videos)
-- **13. 12. Ten Tiny Tips** (1 videos)
-- **14. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Seven Super Shortcuts]]** (7 videos)
+- **[[#3. 2. Ribbon and Quick Access Toolbar Tips]]** (2 videos)
+- **[[#4. 3. Display Shortcuts]]** (2 videos)
+- **[[#5. 4. Navigation and Selection Shortcuts]]** (5 videos)
+- **[[#6. 5. Data Entry and Editing Shortcuts]]** (4 videos)
+- **[[#7. 6. Drag-and-Drop Techniques]]** (4 videos)
+- **[[#8. 7. Formula Shortcuts]]** (5 videos)
+- **[[#9. 8. Operational Shortcuts]]** (3 videos)
+- **[[#10. 9. Formatting Shortcuts]]** (5 videos)
+- **[[#11. 10. Data Management Techniques]]** (3 videos)
+- **[[#12. 11. Charting and Visual Object Tips]]** (3 videos)
+- **[[#13. 12. Ten Tiny Tips]]** (1 videos)
+- **[[#14. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

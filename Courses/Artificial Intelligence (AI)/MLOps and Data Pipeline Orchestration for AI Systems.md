@@ -56,14 +56,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Need for MLOps** (4 videos)
-- **3. 2. MLOps with MLflow** (4 videos)
-- **4. 3. LLMOps for Large Language Models** (5 videos)
-- **5. 4. Data Orchestration Pipelines** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Need for MLOps]]** (4 videos)
+- **[[#2. MLOps with MLflow]]** (4 videos)
+- **[[#3. LLMOps for Large Language Models]]** (5 videos)
+- **[[#4. Data Orchestration Pipelines]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. The Need for MLOps
+### 1. The Need for MLOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agile development and DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980)
@@ -550,7 +554,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. MLOps with MLflow
+### 2. MLOps with MLflow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing MLflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980)
@@ -943,7 +949,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. LLMOps for Large Language Models
+### 3. LLMOps for Large Language Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing LLMOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980)
@@ -1424,7 +1432,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data Orchestration Pipelines
+### 4. Data Orchestration Pipelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Components of a data orchestration pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980)
@@ -1699,7 +1709,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and further study
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980)

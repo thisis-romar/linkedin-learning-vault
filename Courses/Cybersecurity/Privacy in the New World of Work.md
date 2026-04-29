@@ -49,11 +49,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Protecting Your Privacy During COVID** (3 videos)
-- **3. 2. Protecting Privacy in the New WFH World** (3 videos)
-- **4. 3. How to Protect Your Employees' Privacy During COVID** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Protecting Your Privacy During COVID]]** (3 videos)
+- **[[#3. 2. Protecting Privacy in the New WFH World]]** (3 videos)
+- **[[#4. 3. How to Protect Your Employees' Privacy During COVID]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -57,15 +57,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Defining Cybersecurity and People, Process, and Technology** (2 videos)
-- **3. 2. People** (4 videos)
-- **4. 3. Process** (2 videos)
-- **5. 4. Technology** (3 videos)
-- **6. 5. Threat Actors and Risks** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Defining Cybersecurity and People, Process, and Technology]]** (2 videos)
+- **[[#2. People]]** (4 videos)
+- **[[#3. Process]]** (2 videos)
+- **[[#4. Technology]]** (3 videos)
+- **[[#5. Threat Actors and Risks]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to Cybersecurity Terminology 101
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/welcome-to-cybersecurity-terminology-101?u=76281980)
@@ -100,7 +102,9 @@ created: 2026-04-28
 > **Non-Speech:** (cheerful music) (1)
 
 
-### 2. 1. Defining Cybersecurity and People, Process, and Technology
+### 1. Defining Cybersecurity and People, Process, and Technology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is cybersecurity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/what-is-cybersecurity?u=76281980)
@@ -181,7 +185,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. People
+### 2. People
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security awareness and leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/security-awareness-and-leadership?u=76281980)
@@ -394,7 +400,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Process
+### 3. Process
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding processes and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/understanding-processes-and-documentation?u=76281980)
@@ -531,7 +539,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Technology
+### 4. Technology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure practices, terms, and exercises
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/secure-practices-terms-and-exercises?u=76281980)
@@ -694,7 +704,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Threat Actors and Risks
+### 5. Threat Actors and Risks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Threat actors and definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/threat-actors-and-definitions?u=76281980)
@@ -888,7 +900,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply cybersecurity terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cybersecurity-terminology/apply-cybersecurity-terminology?u=76281980)

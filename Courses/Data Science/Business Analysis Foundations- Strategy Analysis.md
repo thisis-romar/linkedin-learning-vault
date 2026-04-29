@@ -39,13 +39,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding Strategy Analysis Basics** (3 videos)
-- **3. 2. Analyzing the Current State** (5 videos)
-- **4. 3. Defining the Future State** (6 videos)
-- **5. 4. Assessing Risks of Solutions** (2 videos)
-- **6. 5. Defining the Change Strategy** (2 videos)
-- **7. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understanding Strategy Analysis Basics]]** (3 videos)
+- **[[#3. 2. Analyzing the Current State]]** (5 videos)
+- **[[#4. 3. Defining the Future State]]** (6 videos)
+- **[[#5. 4. Assessing Risks of Solutions]]** (2 videos)
+- **[[#6. 5. Defining the Change Strategy]]** (2 videos)
+- **[[#7. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

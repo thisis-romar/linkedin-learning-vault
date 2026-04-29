@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Agile and the Business Analyst** (5 videos)
-- **3. 2. Agile Point of View** (5 videos)
-- **4. 3. Backlog Management** (6 videos)
-- **5. 4. Techniques for Agile Business Analysts** (7 videos)
-- **6. 5. Agile Concepts for Business Analysts** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Agile and the Business Analyst]]** (5 videos)
+- **[[#2. Agile Point of View]]** (5 videos)
+- **[[#3. Backlog Management]]** (6 videos)
+- **[[#4. Techniques for Agile Business Analysts]]** (7 videos)
+- **[[#5. Agile Concepts for Business Analysts]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Agile and the Business Analyst
+### 1. Agile and the Business Analyst
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The business analyst role in agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-role-in-agile?u=76281980)
@@ -543,7 +547,9 @@ created: 2026-04-28
 > **Speakers:** - ok (1)
 
 
-### 3. 2. Agile Point of View
+### 2. Agile Point of View
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The business analyst point of view on an agile team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-point-of-view-on-an-agile-team?u=76281980)
@@ -963,7 +969,9 @@ created: 2026-04-28
 > **Speakers:** - being (1)
 
 
-### 4. 3. Backlog Management
+### 3. Backlog Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A healthy backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/a-healthy-backlog?u=76281980)
@@ -1380,7 +1388,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Techniques for Agile Business Analysts
+### 4. Techniques for Agile Business Analysts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Product decomposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980)
@@ -1851,7 +1861,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. 5. Agile Concepts for Business Analysts
+### 5. Agile Concepts for Business Analysts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Last responsible moment
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980)
@@ -2261,7 +2273,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980)

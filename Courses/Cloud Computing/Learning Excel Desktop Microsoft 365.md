@@ -42,11 +42,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Get Started with Excel** (8 videos)
-- **3. 2. Modify Worksheets** (7 videos)
-- **4. 3. Share and Print Workbooks** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Get Started with Excel]]** (8 videos)
+- **[[#3. 2. Modify Worksheets]]** (7 videos)
+- **[[#4. 3. Share and Print Workbooks]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

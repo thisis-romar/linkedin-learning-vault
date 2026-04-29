@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Recurrent Neural Networks to Learn Sequential Data** (5 videos)
-- **3. 2. Encoder-Decoder Networks for Language Models** (2 videos)
-- **4. 3. Attention-Based Neural Networks** (6 videos)
-- **5. 4. Image Captioning Model without Attention** (9 videos)
-- **6. 5. Image Captioning Model Using Attention** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Recurrent Neural Networks to Learn Sequential Data]]** (5 videos)
+- **[[#3. 2. Encoder-Decoder Networks for Language Models]]** (2 videos)
+- **[[#4. 3. Attention-Based Neural Networks]]** (6 videos)
+- **[[#5. 4. Image Captioning Model without Attention]]** (9 videos)
+- **[[#6. 5. Image Captioning Model Using Attention]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

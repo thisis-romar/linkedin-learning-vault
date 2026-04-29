@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. Traffic Capture and Analysis** (8 videos)
-- **3. Using Time as a Metric** (5 videos)
-- **4. Wireshark Tools** (5 videos)
-- **5. Recognizing Abnormal or Malicious Traffic** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. Traffic Capture and Analysis]]** (8 videos)
+- **[[#3. Using Time as a Metric]]** (5 videos)
+- **[[#4. Wireshark Tools]]** (5 videos)
+- **[[#5. Recognizing Abnormal or Malicious Traffic]]** (7 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

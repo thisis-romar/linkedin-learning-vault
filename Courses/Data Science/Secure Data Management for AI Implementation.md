@@ -57,15 +57,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Data Security Fundamentals** (4 videos)
-- **3. 2. Granular Access Control** (4 videos)
-- **4. 3.  Securing database-to-database communications** (4 videos)
-- **5. 4. Multi-level security in database systems** (3 videos)
-- **6. 5. Case study: Use AI to Secure Your Data** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Data Security Fundamentals]]** (4 videos)
+- **[[#2. Granular Access Control]]** (4 videos)
+- **[[#3.  Securing database-to-database communications]]** (4 videos)
+- **[[#4. Multi-level security in database systems]]** (3 videos)
+- **[[#5. Case study: Use AI to Secure Your Data]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protecting data communications in AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980)
@@ -92,7 +94,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 2. 1. Data Security Fundamentals
+### 1. Data Security Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Database security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980)
@@ -353,7 +357,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Granular Access Control
+### 2. Granular Access Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Database control language overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980)
@@ -611,7 +617,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3.  Securing database-to-database communications
+### 3.  Securing database-to-database communications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Monitoring and protecting data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980)
@@ -849,7 +857,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Multi-level security in database systems
+### 4. Multi-level security in database systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vulnerability assessment and patch management
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980)
@@ -1039,7 +1049,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Case study: Use AI to Secure Your Data
+### 5. Case study: Use AI to Secure Your Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Case study setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980)
@@ -1157,7 +1169,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980)

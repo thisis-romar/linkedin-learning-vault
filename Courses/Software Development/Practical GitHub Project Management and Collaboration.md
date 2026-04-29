@@ -48,10 +48,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Creating a Project** (9 videos)
-- **3. 2. Working with Projects** (5 videos)
-- **4. Conclusion** (0 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Creating a Project]]** (9 videos)
+- **[[#3. 2. Working with Projects]]** (5 videos)
+- **[[#4. Conclusion]]** (0 videos)
 
 ### 1. Introduction
 

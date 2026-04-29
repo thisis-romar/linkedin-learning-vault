@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Quick Tips for Effective Emails** (13 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Quick Tips for Effective Emails]]** (13 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Email: An extension of your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980)
@@ -76,7 +78,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. 1. Quick Tips for Effective Emails
+### 1. Quick Tips for Effective Emails
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Select the audience for your email thoughtfully
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/select-the-audience-for-your-email-thoughtfully?u=76281980)
@@ -928,7 +932,9 @@ created: 2026-04-28
 > **Speakers:** - most (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Happy emailing
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/happy-emailing-22822193?u=76281980)

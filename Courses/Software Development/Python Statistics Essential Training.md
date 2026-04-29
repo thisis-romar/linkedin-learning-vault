@@ -54,12 +54,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Loading and Cleaning Data** (6 videos)
-- **3. 2. Exploring and Visualizing** (9 videos)
-- **4. 3. Linear Regressions** (6 videos)
-- **5. 4. Hypothesis Tests** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Loading and Cleaning Data]]** (6 videos)
+- **[[#3. 2. Exploring and Visualizing]]** (9 videos)
+- **[[#4. 3. Linear Regressions]]** (6 videos)
+- **[[#5. 4. Hypothesis Tests]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Basics of Measuring Business Performance** (3 videos)
-- **3. 2. Developing a Metric** (3 videos)
-- **4. 3. Systems of Metrics** (3 videos)
-- **5. 4. Performance Measurement Tools** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Basics of Measuring Business Performance]]** (3 videos)
+- **[[#3. 2. Developing a Metric]]** (3 videos)
+- **[[#4. 3. Systems of Metrics]]** (3 videos)
+- **[[#5. 4. Performance Measurement Tools]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

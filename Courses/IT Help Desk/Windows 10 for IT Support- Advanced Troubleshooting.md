@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Devices and Services** (6 videos)
-- **3. 2. Network Troubleshooting** (8 videos)
-- **4. 3. Troubleshooting Logins** (3 videos)
-- **5. 4. Troubleshooting System Updates and Integrity** (7 videos)
-- **6. 5. Performance Troubleshooting** (4 videos)
-- **7. 6. Troubleshooting the Blue Screen of Death** (6 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Devices and Services]]** (6 videos)
+- **[[#3. 2. Network Troubleshooting]]** (8 videos)
+- **[[#4. 3. Troubleshooting Logins]]** (3 videos)
+- **[[#5. 4. Troubleshooting System Updates and Integrity]]** (7 videos)
+- **[[#6. 5. Performance Troubleshooting]]** (4 videos)
+- **[[#7. 6. Troubleshooting the Blue Screen of Death]]** (6 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

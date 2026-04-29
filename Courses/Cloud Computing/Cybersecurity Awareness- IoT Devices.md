@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding IoT** (4 videos)
-- **3. 2. How Devices Operate** (3 videos)
-- **4. 3. Outcome of IoT** (3 videos)
-- **5. 4. Iot Security** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding IoT]]** (4 videos)
+- **[[#2. How Devices Operate]]** (3 videos)
+- **[[#3. Outcome of IoT]]** (3 videos)
+- **[[#4. Iot Security]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Importance of cybersecurity awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980)
@@ -108,7 +110,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding IoT
+### 1. Understanding IoT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cybersecurity and IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980)
@@ -398,7 +402,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. How Devices Operate
+### 2. How Devices Operate
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Daily activities of IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980)
@@ -631,7 +637,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 4. 3. Outcome of IoT
+### 3. Outcome of IoT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of IoT in real life and the society
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980)
@@ -921,7 +929,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Iot Security
+### 4. Iot Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to create strong passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980)
@@ -1210,7 +1220,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980)

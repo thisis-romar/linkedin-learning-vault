@@ -49,16 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Configuration Options** (6 videos)
-- **3. 2. Using Schemes** (5 videos)
-- **4. 3. Creating Custom Schemes** (6 videos)
-- **5. 4. Managing Project Settings** (5 videos)
-- **6. 5. Working with Groups and Roles** (5 videos)
-- **7. 6. Restricting and Sharing Information** (5 videos)
-- **8. 7. Extending Jira** (5 videos)
-- **9. 8. Advanced Features** (6 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Configuration Options]]** (6 videos)
+- **[[#3. 2. Using Schemes]]** (5 videos)
+- **[[#4. 3. Creating Custom Schemes]]** (6 videos)
+- **[[#5. 4. Managing Project Settings]]** (5 videos)
+- **[[#6. 5. Working with Groups and Roles]]** (5 videos)
+- **[[#7. 6. Restricting and Sharing Information]]** (5 videos)
+- **[[#8. 7. Extending Jira]]** (5 videos)
+- **[[#9. 8. Advanced Features]]** (6 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

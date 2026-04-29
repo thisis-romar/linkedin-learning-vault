@@ -49,19 +49,21 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Understanding System Hacking** (5 videos)
-- **3. 2. Gaining Access** (5 videos)
-- **4. 3. Exploiting Vulnerabilities** (3 videos)
-- **5. 4. Escalating Privileges** (3 videos)
-- **6. 5. Maintaining Access** (4 videos)
-- **7. 6. Grasping Keyloggers** (2 videos)
-- **8. 7. Recognizing Spyware** (3 videos)
-- **9. 8. Hiding in Plain Sight** (4 videos)
-- **10. 9. Maintaining Persistence** (3 videos)
-- **11. 10. Covering Tracks** (3 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Understanding System Hacking]]** (5 videos)
+- **[[#2. Gaining Access]]** (5 videos)
+- **[[#3. Exploiting Vulnerabilities]]** (3 videos)
+- **[[#4. Escalating Privileges]]** (3 videos)
+- **[[#5. Maintaining Access]]** (4 videos)
+- **[[#6. Grasping Keyloggers]]** (2 videos)
+- **[[#7. Recognizing Spyware]]** (3 videos)
+- **[[#8. Hiding in Plain Sight]]** (4 videos)
+- **[[#9. Maintaining Persistence]]** (3 videos)
+- **[[#10. Covering Tracks]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hacking the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-the-system?u=76281980)
@@ -144,7 +146,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding System Hacking
+### 1. Understanding System Hacking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting the stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/setting-the-stage?u=76281980)
@@ -417,7 +421,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 3. 2. Gaining Access
+### 2. Gaining Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Acquiring passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980)
@@ -817,7 +823,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Exploiting Vulnerabilities
+### 3. Exploiting Vulnerabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leveraging security flaws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980)
@@ -1033,7 +1041,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. 4. Escalating Privileges
+### 4. Escalating Privileges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding privilege escalation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/understanding-privilege-escalation?u=76281980)
@@ -1262,7 +1272,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Maintaining Access
+### 5. Maintaining Access
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dissecting rootkits
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980)
@@ -1555,7 +1567,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Grasping Keyloggers
+### 6. Grasping Keyloggers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Outlining keystroke loggers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980)
@@ -1710,7 +1724,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Recognizing Spyware
+### 7. Recognizing Spyware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explaining spyware behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/explaining-spyware-behavior?u=76281980)
@@ -1917,7 +1933,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 9. 8. Hiding in Plain Sight
+### 8. Hiding in Plain Sight
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using steganography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-steganography?u=76281980)
@@ -2253,7 +2271,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Maintaining Persistence
+### 9. Maintaining Persistence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Remaining in the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/remaining-in-the-system?u=76281980)
@@ -2428,7 +2448,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Covering Tracks
+### 10. Covering Tracks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Disabling logging and hiding files
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980)

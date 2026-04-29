@@ -43,18 +43,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started** (4 videos)
-- **3. 2. Hosting and Attending Meetings** (8 videos)
-- **4. 3. Scheduling Meetings and Co-host Options** (2 videos)
-- **5. 4. Collaborating in Meetings** (3 videos)
-- **6. 5. Using Zoom Chat** (3 videos)
-- **7. 6. Ensuring Inclusion in a Hybrid Work Environment** (3 videos)
-- **8. 7. Accessibility** (3 videos)
-- **9. 8. Zoom on Mobile Devices** (1 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Getting Started]]** (4 videos)
+- **[[#2. Hosting and Attending Meetings]]** (8 videos)
+- **[[#3. Scheduling Meetings and Co-host Options]]** (2 videos)
+- **[[#4. Collaborating in Meetings]]** (3 videos)
+- **[[#5. Using Zoom Chat]]** (3 videos)
+- **[[#6. Ensuring Inclusion in a Hybrid Work Environment]]** (3 videos)
+- **[[#7. Accessibility]]** (3 videos)
+- **[[#8. Zoom on Mobile Devices]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stay connected with Zoom meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/stay-connected-with-zoom-meetings?u=76281980)
@@ -74,7 +76,9 @@ created: 2026-04-28
 > **Speakers:** - zoom (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Access your account from the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/access-your-account-from-the-web?u=76281980)
@@ -346,7 +350,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1)
 
 
-### 3. 2. Hosting and Attending Meetings
+### 2. Hosting and Attending Meetings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start a meeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980)
@@ -1327,7 +1333,9 @@ created: 2026-04-28
 > **Exercise Files:** download the (1)
 
 
-### 4. 3. Scheduling Meetings and Co-host Options
+### 3. Scheduling Meetings and Co-host Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Schedule a meeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980)
@@ -1549,7 +1557,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. 4. Collaborating in Meetings
+### 4. Collaborating in Meetings
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use non-verbal feedback
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980)
@@ -1909,7 +1919,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 6. 5. Using Zoom Chat
+### 5. Using Zoom Chat
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Chat outside of meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980)
@@ -2156,7 +2168,9 @@ created: 2026-04-28
 > **Speakers:** - [garrick] (1)
 
 
-### 7. 6. Ensuring Inclusion in a Hybrid Work Environment
+### 6. Ensuring Inclusion in a Hybrid Work Environment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of fostering inclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980)
@@ -2306,7 +2320,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. 7. Accessibility
+### 7. Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enable live transcriptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/enable-live-transcriptions?u=76281980)
@@ -2561,7 +2577,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 9. 8. Zoom on Mobile Devices
+### 8. Zoom on Mobile Devices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Zoom meetings on mobile devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980)
@@ -2622,7 +2640,9 @@ created: 2026-04-28
 > **Non-Speech:** (computer keys clicking) (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Keep learning about Zoom
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/keep-learning-about-zoom?u=76281980)

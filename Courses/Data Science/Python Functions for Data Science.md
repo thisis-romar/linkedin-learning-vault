@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Core Python Essentials** (4 videos)
-- **3. 2. NumPy and SciPy Fundamentals** (7 videos)
-- **4. 3. pandas for Data Manipulation** (6 videos)
-- **5. 4. Visualization Essentials** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Core Python Essentials]]** (4 videos)
+- **[[#3. 2. NumPy and SciPy Fundamentals]]** (7 videos)
+- **[[#4. 3. pandas for Data Manipulation]]** (6 videos)
+- **[[#5. 4. Visualization Essentials]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

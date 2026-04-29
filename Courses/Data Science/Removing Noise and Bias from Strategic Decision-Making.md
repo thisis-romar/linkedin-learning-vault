@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Recognizing Decision Noise** (4 videos)
-- **3. 2. Reducing Decision Bias** (5 videos)
-- **4. 3. Performing Decision Hygiene** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Recognizing Decision Noise]]** (4 videos)
+- **[[#2. Reducing Decision Bias]]** (5 videos)
+- **[[#3. Performing Decision Hygiene]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What causes strategic decision errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-strategic-decision-errors?u=76281980)
@@ -333,7 +335,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 2. 1. Recognizing Decision Noise
+### 1. Recognizing Decision Noise
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What causes noise?
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-noise?u=76281980)
@@ -673,7 +677,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 3. 2. Reducing Decision Bias
+### 2. Reducing Decision Bias
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoiding the cascade bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/avoiding-the-cascade-bias?u=76281980)
@@ -1111,7 +1117,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 4. 3. Performing Decision Hygiene
+### 3. Performing Decision Hygiene
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Becoming a decision architect
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/becoming-a-decision-architect?u=76281980)
@@ -1524,7 +1532,9 @@ created: 2026-04-28
 > **Speakers:** - strategic (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making personal strategic decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-personal-strategic-decisions?u=76281980)

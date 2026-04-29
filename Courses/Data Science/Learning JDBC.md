@@ -52,11 +52,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introducing Java Data Access** (7 videos)
-- **3. 2. Data Access Basics** (11 videos)
-- **4. 3. Advanced Data Access** (6 videos)
-- **5. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introducing Java Data Access]]** (7 videos)
+- **[[#3. 2. Data Access Basics]]** (11 videos)
+- **[[#4. 3. Advanced Data Access]]** (6 videos)
+- **[[#5. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

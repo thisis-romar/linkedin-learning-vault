@@ -56,14 +56,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Self-Assessment** (3 videos)
-- **3. 2. Fundamentals** (3 videos)
-- **4. 3. Ethical Hacking Techniques** (3 videos)
-- **5. 4. Get Experience** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Self-Assessment]]** (3 videos)
+- **[[#2. Fundamentals]]** (3 videos)
+- **[[#3. Ethical Hacking Techniques]]** (3 videos)
+- **[[#4. Get Experience]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How do I get into pentesting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/how-do-i-get-into-pentesting?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - [tennisha] (1)
 
 
-### 2. 1. Self-Assessment
+### 1. Self-Assessment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is pentesting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980)
@@ -349,7 +353,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Fundamentals
+### 2. Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OS fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980)
@@ -615,7 +621,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 4. 3. Ethical Hacking Techniques
+### 3. Ethical Hacking Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Penetration testing stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980)
@@ -888,7 +896,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Get Experience
+### 4. Get Experience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hands-on experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980)
@@ -1055,7 +1065,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are you waiting for?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-are-you-waiting-for?u=76281980)

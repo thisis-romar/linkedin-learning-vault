@@ -48,16 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding AI** (2 videos)
-- **3. 2. Azure Machine Learning** (11 videos)
-- **4. 3. Computer Vision** (9 videos)
-- **5. 4. Natural Language Processing** (9 videos)
-- **6. 5. Document Intelligence, Content Safety, and Knowledge Mining** (9 videos)
-- **7. 6. Generative AI** (11 videos)
-- **8. 7. Responsible AI** (8 videos)
-- **9. 8. Transform Your Business with Microsoft AI** (4 videos)
-- **10. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understanding AI]]** (2 videos)
+- **[[#3. 2. Azure Machine Learning]]** (11 videos)
+- **[[#4. 3. Computer Vision]]** (9 videos)
+- **[[#5. 4. Natural Language Processing]]** (9 videos)
+- **[[#6. 5. Document Intelligence, Content Safety, and Knowledge Mining]]** (9 videos)
+- **[[#7. 6. Generative AI]]** (11 videos)
+- **[[#8. 7. Responsible AI]]** (8 videos)
+- **[[#9. 8. Transform Your Business with Microsoft AI]]** (4 videos)
+- **[[#10. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

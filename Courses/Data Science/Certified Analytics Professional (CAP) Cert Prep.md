@@ -44,18 +44,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Certified Analytics Professional (CAP)** (5 videos)
-- **3. 2. Business Problem Framing** (5 videos)
-- **4. 3. Analytics Problem Framing** (6 videos)
-- **5. 4. Data** (7 videos)
-- **6. 5. Methodology (Approach) Selection** (7 videos)
-- **7. 6. Case Study 1** (5 videos)
-- **8. 7. Model Building** (8 videos)
-- **9. 8. Deployment** (8 videos)
-- **10. 9. Model Lifecycle Management** (6 videos)
-- **11. 10. Case Study 2** (5 videos)
-- **12. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Certified Analytics Professional (CAP)]]** (5 videos)
+- **[[#3. 2. Business Problem Framing]]** (5 videos)
+- **[[#4. 3. Analytics Problem Framing]]** (6 videos)
+- **[[#5. 4. Data]]** (7 videos)
+- **[[#6. 5. Methodology (Approach) Selection]]** (7 videos)
+- **[[#7. 6. Case Study 1]]** (5 videos)
+- **[[#8. 7. Model Building]]** (8 videos)
+- **[[#9. 8. Deployment]]** (8 videos)
+- **[[#10. 9. Model Lifecycle Management]]** (6 videos)
+- **[[#11. 10. Case Study 2]]** (5 videos)
+- **[[#12. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

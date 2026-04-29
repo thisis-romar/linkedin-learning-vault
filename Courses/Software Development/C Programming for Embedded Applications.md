@@ -53,14 +53,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Embedded Systems** (7 videos)
-- **3. 2. Data Types** (4 videos)
-- **4. 3. Bit Manipulation** (4 videos)
-- **5. 4. Qualifiers** (4 videos)
-- **6. 5. Function Alternatives** (6 videos)
-- **7. 6. Floating-Point Unit Alternatives** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Embedded Systems]]** (7 videos)
+- **[[#3. 2. Data Types]]** (4 videos)
+- **[[#4. 3. Bit Manipulation]]** (4 videos)
+- **[[#5. 4. Qualifiers]]** (4 videos)
+- **[[#6. 5. Function Alternatives]]** (6 videos)
+- **[[#7. 6. Floating-Point Unit Alternatives]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

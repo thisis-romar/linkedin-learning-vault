@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Your Approach to Using AI in Business** (8 videos)
-- **3. 2. AI Prompts to Make Your Job Easier** (8 videos)
-- **4. 3. AI Prompts to Help Make Your Work Better** (8 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Your Approach to Using AI in Business]]** (8 videos)
+- **[[#2. AI Prompts to Make Your Job Easier]]** (8 videos)
+- **[[#3. AI Prompts to Help Make Your Work Better]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI is a dream for productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/ai-is-a-dream-for-productivity-29809099?u=76281980)
@@ -122,7 +124,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 1. Your Approach to Using AI in Business
+### 1. Your Approach to Using AI in Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The two reasons to use AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980)
@@ -698,7 +702,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 3. 2. AI Prompts to Make Your Job Easier
+### 2. AI Prompts to Make Your Job Easier
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using GenAI to write better email replies
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980)
@@ -2060,7 +2066,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 4. 3. AI Prompts to Help Make Your Work Better
+### 3. AI Prompts to Help Make Your Work Better
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Broadening your idea generation with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/broadening-your-idea-generation-with-gen-ai-29813073?u=76281980)
@@ -3223,7 +3231,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980)

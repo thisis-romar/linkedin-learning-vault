@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Why Best Practices?** (4 videos)
-- **3. 2. Declaring Variables** (7 videos)
-- **4. 3. Assigning Values** (6 videos)
-- **5. 4. Type Casting** (6 videos)
-- **6. 5. Comparing Values** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Why Best Practices?]]** (4 videos)
+- **[[#3. 2. Declaring Variables]]** (7 videos)
+- **[[#4. 3. Assigning Values]]** (6 videos)
+- **[[#5. 4. Type Casting]]** (6 videos)
+- **[[#6. 5. Comparing Values]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

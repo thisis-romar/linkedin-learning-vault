@@ -48,11 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Publishing GPTs in the GPT Store** (5 videos)
-- **3. 2. Going further** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Publishing GPTs in the GPT Store]]** (5 videos)
+- **[[#2. Going further]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the GPT Store
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-your-gpts-in-the-gpt-store?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - custom (1)
 
 
-### 2. 1. Publishing GPTs in the GPT Store
+### 1. Publishing GPTs in the GPT Store
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the GPT Store?
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/what-is-the-gpt-store?u=76281980)
@@ -604,7 +608,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Going further
+### 2. Going further
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Going further with GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980)

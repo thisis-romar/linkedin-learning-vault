@@ -50,14 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Tidyverse Fundamentals** (12 videos)
-- **3. 2. Tidy Data: The Fundamental Idea behind the Tidyverse** (6 videos)
-- **4. 3. Reading Data In and Out of the Tidyverse** (4 videos)
-- **5. 4. Grouping and Summarizing Data with the Tidyverse** (10 videos)
-- **6. 5. Important Packages and Functions in the Tidyverse** (5 videos)
-- **7. 6. Working Smart with the Tidyverse** (8 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Tidyverse Fundamentals]]** (12 videos)
+- **[[#3. 2. Tidy Data: The Fundamental Idea behind the Tidyverse]]** (6 videos)
+- **[[#4. 3. Reading Data In and Out of the Tidyverse]]** (4 videos)
+- **[[#5. 4. Grouping and Summarizing Data with the Tidyverse]]** (10 videos)
+- **[[#6. 5. Important Packages and Functions in the Tidyverse]]** (5 videos)
+- **[[#7. 6. Working Smart with the Tidyverse]]** (8 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -52,12 +52,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Vertex AI Studio** (7 videos)
-- **3. 2. Vertex AI Notebooks** (7 videos)
-- **4. 3. Model Development** (5 videos)
-- **5. 4. Model Deployment** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Vertex AI Studio]]** (7 videos)
+- **[[#3. 2. Vertex AI Notebooks]]** (7 videos)
+- **[[#4. 3. Model Development]]** (5 videos)
+- **[[#5. 4. Model Deployment]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

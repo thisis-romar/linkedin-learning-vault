@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Implementing AI Solutions** (2 videos)
-- **3. 2. Evaluating Cloud AI Platforms** (2 videos)
-- **4. 3. Ensuring Responsible AI** (2 videos)
-- **5. 4. Monitoring and Improving AI Systems** (2 videos)
-- **6. 5. Case Studies and Real-World Applications** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Implementing AI Solutions]]** (2 videos)
+- **[[#3. 2. Evaluating Cloud AI Platforms]]** (2 videos)
+- **[[#4. 3. Ensuring Responsible AI]]** (2 videos)
+- **[[#5. 4. Monitoring and Improving AI Systems]]** (2 videos)
+- **[[#6. 5. Case Studies and Real-World Applications]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

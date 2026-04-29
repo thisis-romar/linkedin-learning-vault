@@ -54,11 +54,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding DALL-E** (2 videos)
-- **3. 2. Using DALL-E in the Real World** (2 videos)
-- **4. 3. Generate Images via the Images API** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understanding DALL-E]]** (2 videos)
+- **[[#3. 2. Using DALL-E in the Real World]]** (2 videos)
+- **[[#4. 3. Generate Images via the Images API]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

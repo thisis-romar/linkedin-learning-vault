@@ -46,12 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Microsoft Security Copilot Fundamentals** (4 videos)
-- **3. 2. Microsoft Security Copilot in Action** (7 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Microsoft Security Copilot Fundamentals]]** (4 videos)
+- **[[#2. Microsoft Security Copilot in Action]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing Microsoft Security Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Microsoft Security Copilot Fundamentals
+### 1. Microsoft Security Copilot Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Microsoft Security Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980)
@@ -372,7 +376,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 3. 2. Microsoft Security Copilot in Action
+### 2. Microsoft Security Copilot in Action
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create effective prompts in Microsoft Security Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980)
@@ -949,7 +955,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980)

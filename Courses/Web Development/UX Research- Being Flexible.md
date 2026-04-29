@@ -46,12 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Research Basics** (5 videos)
-- **3. 2. Running Sessions** (6 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Research Basics]]** (5 videos)
+- **[[#2. Running Sessions]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why is it important to be flexible?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/why-is-it-important-to-be-flexible?u=76281980)
@@ -98,7 +100,9 @@ created: 2026-04-28
 > **Speakers:** - [cory] (1)
 
 
-### 2. 1. Research Basics
+### 1. Research Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What can go wrong?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/what-can-go-wrong?u=76281980)
@@ -346,7 +350,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Running Sessions
+### 2. Running Sessions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Properly set stakeholder expectations for surprises
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/properly-set-stakeholder-expectations-for-surprises?u=76281980)
@@ -686,7 +692,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be the best researcher you can be
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-being-flexible/be-the-best-researcher-you-can-be?u=76281980)

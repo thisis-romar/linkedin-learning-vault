@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Language Constructs** (5 videos)
-- **3. 2. Structural Pattern Matching** (7 videos)
-- **4. 3. Object-Oriented Programming Features** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Language Constructs]]** (5 videos)
+- **[[#2. Structural Pattern Matching]]** (7 videos)
+- **[[#3. Object-Oriented Programming Features]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### C# language features
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/c-sharp-language-features?u=76281980)
@@ -193,7 +195,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 2. 1. Language Constructs
+### 1. Language Constructs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Indexes and ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/indexes-and-ranges?u=76281980)
@@ -820,7 +824,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Structural Pattern Matching
+### 2. Structural Pattern Matching
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of pattern matching
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/overview-of-pattern-matching?u=76281980)
@@ -1700,7 +1706,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Object-Oriented Programming Features
+### 3. Object-Oriented Programming Features
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Working with indexers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/working-with-indexers?u=76281980)
@@ -2396,7 +2404,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/conclusion?u=76281980)

@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Model Monitoring** (4 videos)
-- **3. 2. Model Drift Basics** (5 videos)
-- **4. 3. Detecting Model Drift** (6 videos)
-- **5. 4. Drift Monitoring Process and Best Practices** (4 videos)
-- **6. 5. Introduction to Model Bias** (5 videos)
-- **7. 6. Bias Detection and Best Practices** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Model Monitoring]]** (4 videos)
+- **[[#2. Model Drift Basics]]** (5 videos)
+- **[[#3. Detecting Model Drift]]** (6 videos)
+- **[[#4. Drift Monitoring Process and Best Practices]]** (4 videos)
+- **[[#5. Introduction to Model Bias]]** (5 videos)
+- **[[#6. Bias Detection and Best Practices]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The need for model monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/the-need-for-model-monitoring?u=76281980)
@@ -151,7 +153,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. Introduction to Model Monitoring
+### 1. Introduction to Model Monitoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ML models in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980)
@@ -359,7 +363,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Model Drift Basics
+### 2. Model Drift Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to model drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/introduction-to-model-drift?u=76281980)
@@ -642,7 +648,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Detecting Model Drift
+### 3. Detecting Model Drift
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Detecting concept drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-concept-drift?u=76281980)
@@ -959,7 +967,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Drift Monitoring Process and Best Practices
+### 4. Drift Monitoring Process and Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Drift monitoring pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-monitoring-pipeline?u=76281980)
@@ -1171,7 +1181,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Introduction to Model Bias
+### 5. Introduction to Model Bias
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fairness and bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/fairness-and-bias?u=76281980)
@@ -1381,7 +1393,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Bias Detection and Best Practices
+### 6. Bias Detection and Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Bias detection techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-techniques?u=76281980)
@@ -1639,7 +1653,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/next-steps?u=76281980)

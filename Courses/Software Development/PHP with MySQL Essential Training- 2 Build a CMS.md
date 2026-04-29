@@ -49,14 +49,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Create a Content Management System** (3 videos)
-- **3. 2. Build Dynamic Content Navigation** (7 videos)
-- **4. 3. Use Context and Options** (8 videos)
-- **5. 4. Cookies and Sessions** (7 videos)
-- **6. 5. Regulate Page Access** (10 videos)
-- **7. 6. Nesting Related Resources** (8 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Create a Content Management System]]** (3 videos)
+- **[[#3. 2. Build Dynamic Content Navigation]]** (7 videos)
+- **[[#4. 3. Use Context and Options]]** (8 videos)
+- **[[#5. 4. Cookies and Sessions]]** (7 videos)
+- **[[#6. 5. Regulate Page Access]]** (10 videos)
+- **[[#7. 6. Nesting Related Resources]]** (8 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

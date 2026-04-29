@@ -7,7 +7,7 @@ course_count: 10
 linkedin_topics:
   - Database Management
   - Software Development
-louvain_cluster: 4
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/database-management

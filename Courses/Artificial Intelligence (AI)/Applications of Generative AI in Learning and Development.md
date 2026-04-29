@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Laying the Foundation with GenAI:  Needs and Strategic Alignment** (2 videos)
-- **3. 2. Designing the Program: Structure and Content Development** (2 videos)
-- **4. 3. Developing and Delivering Effective Training: Content ,Tools, Techniques, and Methods** (2 videos)
-- **5. 4. Assessing and Evaluating  Effectiveness** (1 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Laying the Foundation with GenAI:  Needs and Strategic Alignment]]** (2 videos)
+- **[[#2. Designing the Program: Structure and Content Development]]** (2 videos)
+- **[[#3. Developing and Delivering Effective Training: Content ,Tools, Techniques, and Methods]]** (2 videos)
+- **[[#4. Assessing and Evaluating  Effectiveness]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discover the power of generative AI for learning and development
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/discover-the-power-of-gen-ai-for-learning-and-development?u=76281980)
@@ -92,7 +94,9 @@ created: 2026-04-28
 > **Speakers:** - gen (1)
 
 
-### 2. 1. Laying the Foundation with GenAI:  Needs and Strategic Alignment
+### 1. Laying the Foundation with GenAI:  Needs and Strategic Alignment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating needs assessments with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980)
@@ -246,7 +250,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Designing the Program: Structure and Content Development
+### 2. Designing the Program: Structure and Content Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Crafting a program structure with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980)
@@ -366,7 +372,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Developing and Delivering Effective Training: Content ,Tools, Techniques, and Methods
+### 3. Developing and Delivering Effective Training: Content ,Tools, Techniques, and Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating and curating content with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980)
@@ -516,7 +524,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Assessing and Evaluating  Effectiveness
+### 4. Assessing and Evaluating  Effectiveness
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing assessment tools with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980)
@@ -594,7 +604,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/completed-after-script-development?u=76281980)

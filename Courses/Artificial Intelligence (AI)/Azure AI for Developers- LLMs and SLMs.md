@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Small Language Models** (4 videos)
-- **3. 2. Large Language Models** (4 videos)
-- **4. 3. Choosing a Model** (3 videos)
-- **5. 4. Sample Projects** (4 videos)
-- **6. 5.  Implementing Best Practices** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Small Language Models]]** (4 videos)
+- **[[#3. 2. Large Language Models]]** (4 videos)
+- **[[#4. 3. Choosing a Model]]** (3 videos)
+- **[[#5. 4. Sample Projects]]** (4 videos)
+- **[[#6. 5.  Implementing Best Practices]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

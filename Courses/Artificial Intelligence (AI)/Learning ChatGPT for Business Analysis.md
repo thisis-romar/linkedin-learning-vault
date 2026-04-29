@@ -52,10 +52,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. All about ChatGPT** (5 videos)
-- **3. 2. ChatGPT Use Cases** (17 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. All about ChatGPT]]** (5 videos)
+- **[[#3. 2. ChatGPT Use Cases]]** (17 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

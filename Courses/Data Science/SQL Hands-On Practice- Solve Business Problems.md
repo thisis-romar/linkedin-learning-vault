@@ -63,15 +63,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Product Analytics in SQL with CTEs** (6 videos)
-- **3. 2. Data Transformation in SQL with CASE** (5 videos)
-- **4. 3. Combining Multiple Data Sources in SQL with UNION** (5 videos)
-- **5. 4. Dealing with Hierarchical Data in SQL with Self Joins** (5 videos)
-- **6. 5. Solving Advanced Problems in SQL with Window Functions** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Product Analytics in SQL with CTEs]]** (6 videos)
+- **[[#2. Data Transformation in SQL with CASE]]** (5 videos)
+- **[[#3. Combining Multiple Data Sources in SQL with UNION]]** (5 videos)
+- **[[#4. Dealing with Hierarchical Data in SQL with Self Joins]]** (5 videos)
+- **[[#5. Solving Advanced Problems in SQL with Window Functions]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Advancing your skills with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Product Analytics in SQL with CTEs
+### 1. Product Analytics in SQL with CTEs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarizing customer data for leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/summarizing-customer-data-for-leadership?u=76281980)
@@ -893,7 +897,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Data Transformation in SQL with CASE
+### 2. Data Transformation in SQL with CASE
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Translating status codes into business acumen
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/translating-status-codes-into-business-acumen?u=76281980)
@@ -1424,7 +1430,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Combining Multiple Data Sources in SQL with UNION
+### 3. Combining Multiple Data Sources in SQL with UNION
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Combining multiple email lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980)
@@ -1824,7 +1832,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Dealing with Hierarchical Data in SQL with Self Joins
+### 4. Dealing with Hierarchical Data in SQL with Self Joins
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dealing with hierarchical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/dealing-with-hierarchical-data?u=76281980)
@@ -2280,7 +2290,9 @@ created: 2026-04-28
 > **Best Practices:** don't forget (1)
 
 
-### 6. 5. Solving Advanced Problems in SQL with Window Functions
+### 5. Solving Advanced Problems in SQL with Window Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Pulling the most recent sales data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980)
@@ -2863,7 +2875,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing on with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980)

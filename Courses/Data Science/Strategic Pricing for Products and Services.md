@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Define Your Business Model and Strategy** (4 videos)
-- **3. 2. Create a Price/Value Positioning Map** (3 videos)
-- **4. 3. Research Your Customer's Willingness to Pay** (3 videos)
-- **5. 4. Identify the Best Price and Communicate It Effectively** (3 videos)
-- **6. Conclusion** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Define Your Business Model and Strategy]]** (4 videos)
+- **[[#2. Create a Price/Value Positioning Map]]** (3 videos)
+- **[[#3. Research Your Customer's Willingness to Pay]]** (3 videos)
+- **[[#4. Identify the Best Price and Communicate It Effectively]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of strategic pricing
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/the-power-of-strategic-pricing?u=76281980)
@@ -269,7 +271,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Define Your Business Model and Strategy
+### 1. Define Your Business Model and Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business model first, then pricing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980)
@@ -567,7 +571,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Create a Price/Value Positioning Map
+### 2. Create a Price/Value Positioning Map
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify the job-to-be-done to articulate your value proposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980)
@@ -854,7 +860,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Research Your Customer's Willingness to Pay
+### 3. Research Your Customer's Willingness to Pay
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze customer price sensitivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/analyze-customer-price-sensitivity?u=76281980)
@@ -1192,7 +1200,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Identify the Best Price and Communicate It Effectively
+### 4. Identify the Best Price and Communicate It Effectively
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Run what-if scenarios with three different prices
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/run-what-if-scenarios-with-three-different-prices?u=76281980)
@@ -1427,7 +1437,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Value-based pricing is both customer and profit oriented
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980)

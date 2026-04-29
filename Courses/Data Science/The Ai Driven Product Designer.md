@@ -49,11 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI Tips for Product Designers** (11 videos)
-- **3. 2. Helpful Resources** (0 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI Tips for Product Designers]]** (11 videos)
+- **[[#2. Helpful Resources]]** (0 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How AI is transforming product design
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980)
@@ -76,7 +78,9 @@ created: 2026-04-28
 > **Speakers:** - [drew] (1)
 
 
-### 2. 1. AI Tips for Product Designers
+### 1. AI Tips for Product Designers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating mood boards using AI image tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980)
@@ -2272,7 +2276,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Helpful Resources
+### 2. Helpful Resources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
 ## Skills Covered

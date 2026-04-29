@@ -48,20 +48,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. KNIME Analytics Platform** (9 videos)
-- **2. 2. Data Access** (2 videos)
-- **3. 3. Data Cleaning** (3 videos)
-- **4. 4. Data Transformation** (2 videos)
-- **5. 5. Workflow Documentation** (1 videos)
-- **6. 6. Data Merging** (3 videos)
-- **7. 7. Data Aggregation** (3 videos)
-- **8. 8. Data Export and Visualization** (3 videos)
-- **9. 9. Flow Variables** (1 videos)
-- **10. 10. Components** (2 videos)
-- **11. 11. Workflow Control** (3 videos)
-- **12. 12. Error Handling** (1 videos)
-- **13. 13. Date and Time Data** (2 videos)
-- **14. 14. Databases** (2 videos)
+- **[[#1. 1. KNIME Analytics Platform]]** (9 videos)
+- **[[#2. 2. Data Access]]** (2 videos)
+- **[[#3. 3. Data Cleaning]]** (3 videos)
+- **[[#4. 4. Data Transformation]]** (2 videos)
+- **[[#5. 5. Workflow Documentation]]** (1 videos)
+- **[[#6. 6. Data Merging]]** (3 videos)
+- **[[#7. 7. Data Aggregation]]** (3 videos)
+- **[[#8. 8. Data Export and Visualization]]** (3 videos)
+- **[[#9. 9. Flow Variables]]** (1 videos)
+- **[[#10. 10. Components]]** (2 videos)
+- **[[#11. 11. Workflow Control]]** (3 videos)
+- **[[#12. 12. Error Handling]]** (1 videos)
+- **[[#13. 13. Date and Time Data]]** (2 videos)
+- **[[#14. 14. Databases]]** (2 videos)
 
 ### 1. 1. KNIME Analytics Platform
 

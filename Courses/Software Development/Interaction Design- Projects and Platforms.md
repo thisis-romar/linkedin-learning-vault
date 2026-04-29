@@ -37,14 +37,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding User Motivations, Goals, and Tasks** (7 videos)
-- **3. 2. Designing Consumer Experiences** (5 videos)
-- **4. 3. Designing for Enterprise Experiences** (4 videos)
-- **5. 4. Designing for Modern Interfaces** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding User Motivations, Goals, and Tasks]]** (7 videos)
+- **[[#2. Designing Consumer Experiences]]** (5 videos)
+- **[[#3. Designing for Enterprise Experiences]]** (4 videos)
+- **[[#4. Designing for Modern Interfaces]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design anything
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/design-anything?u=76281980)
@@ -86,7 +88,9 @@ created: 2026-04-28
 > **Speakers:** - [diane] (1)
 
 
-### 2. 1. Understanding User Motivations, Goals, and Tasks
+### 1. Understanding User Motivations, Goals, and Tasks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### User research overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980)
@@ -567,7 +571,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Designing Consumer Experiences
+### 2. Designing Consumer Experiences
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Consumer experience considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980)
@@ -1084,7 +1090,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Designing for Enterprise Experiences
+### 3. Designing for Enterprise Experiences
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enterprise experience considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980)
@@ -1567,7 +1575,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Designing for Modern Interfaces
+### 4. Designing for Modern Interfaces
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing smart home devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980)
@@ -2183,7 +2193,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980)

@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Data Entry Tips** (8 videos)
-- **3. 2. Working with Data** (7 videos)
-- **4. 3. Formatting Tips** (12 videos)
-- **5. 4. Viewing Options** (4 videos)
-- **6. 5. Collaborating on Spreadsheets** (4 videos)
-- **7. 6. Working with Files** (7 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Data Entry Tips]]** (8 videos)
+- **[[#2. Working with Data]]** (7 videos)
+- **[[#3. Formatting Tips]]** (12 videos)
+- **[[#4. Viewing Options]]** (4 videos)
+- **[[#5. Collaborating on Spreadsheets]]** (4 videos)
+- **[[#6. Working with Files]]** (7 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get answers to common Excel questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980)
@@ -76,7 +78,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Data Entry Tips
+### 1. Data Entry Tips
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Fill in a series of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980)
@@ -352,7 +356,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Working with Data
+### 2. Working with Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Select specific rows or columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980)
@@ -559,7 +565,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Formatting Tips
+### 3. Formatting Tips
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Text wrap
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980)
@@ -894,7 +902,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Viewing Options
+### 4. Viewing Options
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Change magnification
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/change-magnification?u=76281980)
@@ -999,7 +1009,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Collaborating on Spreadsheets
+### 5. Collaborating on Spreadsheets
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Insert and respond to comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-and-respond-to-comments?u=76281980)
@@ -1120,7 +1132,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Working with Files
+### 6. Working with Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Encrypt a workbook with a password
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/encrypt-a-workbook-with-a-password?u=76281980)

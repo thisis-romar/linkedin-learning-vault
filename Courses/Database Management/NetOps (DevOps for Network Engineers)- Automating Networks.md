@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. DevOps for Network Engineers Overview** (7 videos)
-- **3. 2. GitLab and CI/CD** (9 videos)
-- **4. 3. Network DevOps Examples** (4 videos)
-- **5. 4. Testing in DevOps** (4 videos)
-- **6. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. DevOps for Network Engineers Overview]]** (7 videos)
+- **[[#2. GitLab and CI/CD]]** (9 videos)
+- **[[#3. Network DevOps Examples]]** (4 videos)
+- **[[#4. Testing in DevOps]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DevOps for network engineers
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980)
@@ -133,7 +135,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. DevOps for Network Engineers Overview
+### 1. DevOps for Network Engineers Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DevOps principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980)
@@ -1159,7 +1163,9 @@ created: 2026-04-28
 > **Definitions:** is a  (2), in other words (1)
 
 
-### 3. 2. GitLab and CI/CD
+### 2. GitLab and CI/CD
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to Git
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980)
@@ -2222,7 +2228,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Network DevOps Examples
+### 3. Network DevOps Examples
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Network configuration backup with Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980)
@@ -2751,7 +2759,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (2)
 
 
-### 5. 4. Testing in DevOps
+### 4. Testing in DevOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980)
@@ -3153,7 +3163,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980)

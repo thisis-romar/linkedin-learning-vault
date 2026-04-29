@@ -42,16 +42,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Ready for PowerShell** (5 videos)
-- **3. 2. Introduction to PowerShell 7** (3 videos)
-- **4. 3. Commands and Syntax** (6 videos)
-- **5. 4. Scripting and Automation** (10 videos)
-- **6. 5. Managing Servers, Operating Systems, and Services** (4 videos)
-- **7. 6. PowerShell Remoting** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Ready for PowerShell]]** (5 videos)
+- **[[#2. Introduction to PowerShell 7]]** (3 videos)
+- **[[#3. Commands and Syntax]]** (6 videos)
+- **[[#4. Scripting and Automation]]** (10 videos)
+- **[[#5. Managing Servers, Operating Systems, and Services]]** (4 videos)
+- **[[#6. PowerShell Remoting]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get up and running with PowerShell 7
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980)
@@ -105,7 +107,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Ready for PowerShell
+### 1. Getting Ready for PowerShell
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use PowerShell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980)
@@ -826,7 +830,9 @@ created: 2026-04-28
 > **Versions:** 6.0 (1)
 
 
-### 3. 2. Introduction to PowerShell 7
+### 2. Introduction to PowerShell 7
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PowerShell 7
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980)
@@ -1241,7 +1247,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (2)
 
 
-### 4. 3. Commands and Syntax
+### 3. Commands and Syntax
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discover commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980)
@@ -2348,7 +2356,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Scripting and Automation
+### 4. Scripting and Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PowerShell security
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980)
@@ -4169,7 +4179,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Managing Servers, Operating Systems, and Services
+### 5. Managing Servers, Operating Systems, and Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigate the file system
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980)
@@ -5022,7 +5034,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. PowerShell Remoting
+### 6. PowerShell Remoting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to PowerShell remoting
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980)
@@ -5639,7 +5653,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980)

@@ -66,15 +66,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Technical Skills and Soft Skills** (3 videos)
-- **3. 2. Communication Is Key** (3 videos)
-- **4. 3. Don't Be Afraid to Dig Deep** (3 videos)
-- **5. 4. Keep Learning** (4 videos)
-- **6. 5. Big Picture Thinking** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Technical Skills and Soft Skills]]** (3 videos)
+- **[[#2. Communication Is Key]]** (3 videos)
+- **[[#3. Don't Be Afraid to Dig Deep]]** (3 videos)
+- **[[#4. Keep Learning]]** (4 videos)
+- **[[#5. Big Picture Thinking]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communicating your expertise
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - technical (1)
 
 
-### 2. 1. Technical Skills and Soft Skills
+### 1. Technical Skills and Soft Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why soft skills matter
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/why-soft-skills-matter?u=76281980)
@@ -312,7 +316,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. Communication Is Key
+### 2. Communication Is Key
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Know your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980)
@@ -629,7 +635,9 @@ created: 2026-04-28
 > **Speakers:** - everyone (1)
 
 
-### 4. 3. Don't Be Afraid to Dig Deep
+### 3. Don't Be Afraid to Dig Deep
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Do your research
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/do-your-research?u=76281980)
@@ -985,7 +993,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. 4. Keep Learning
+### 4. Keep Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Curiosity is encouraged
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980)
@@ -1451,7 +1461,9 @@ created: 2026-04-28
 > **Speakers:** - aristotle (1)
 
 
-### 6. 5. Big Picture Thinking
+### 5. Big Picture Thinking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The language of risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980)
@@ -1919,7 +1931,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980)

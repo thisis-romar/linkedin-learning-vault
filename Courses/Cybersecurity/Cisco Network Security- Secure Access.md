@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Packet Tracer** (2 videos)
-- **3. 2. Secure Management** (7 videos)
-- **4. 3. AAA Concepts** (4 videos)
-- **5. 4. RADIUS and TACACS+** (3 videos)
-- **6. 5. BYOD** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Packet Tracer]]** (2 videos)
+- **[[#3. 2. Secure Management]]** (7 videos)
+- **[[#4. 3. AAA Concepts]]** (4 videos)
+- **[[#5. 4. RADIUS and TACACS+]]** (3 videos)
+- **[[#6. 5. BYOD]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

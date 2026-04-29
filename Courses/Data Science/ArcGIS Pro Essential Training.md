@@ -46,18 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding ArcGIS Pro** (6 videos)
-- **3. 2. Vector Data** (4 videos)
-- **4. 3. Raster Data** (5 videos)
-- **5. 4. Styling Data** (5 videos)
-- **6. 5. Labeling Features** (2 videos)
-- **7. 6. 3D Maps** (4 videos)
-- **8. 7. Printing with Map Layouts** (3 videos)
-- **9. 8. Creating Data** (5 videos)
-- **10. 9. Geospatial Tools** (3 videos)
-- **11. 10. Sharing Data** (4 videos)
-- **12. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understanding ArcGIS Pro]]** (6 videos)
+- **[[#3. 2. Vector Data]]** (4 videos)
+- **[[#4. 3. Raster Data]]** (5 videos)
+- **[[#5. 4. Styling Data]]** (5 videos)
+- **[[#6. 5. Labeling Features]]** (2 videos)
+- **[[#7. 6. 3D Maps]]** (4 videos)
+- **[[#8. 7. Printing with Map Layouts]]** (3 videos)
+- **[[#9. 8. Creating Data]]** (5 videos)
+- **[[#10. 9. Geospatial Tools]]** (3 videos)
+- **[[#11. 10. Sharing Data]]** (4 videos)
+- **[[#12. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

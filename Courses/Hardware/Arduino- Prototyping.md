@@ -48,16 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Understand Prototyping** (3 videos)
-- **3. 2. Plan the Prototype** (6 videos)
-- **4. 3. Your Prototype "Hello World"** (4 videos)
-- **5. 4. Animate the Display** (4 videos)
-- **6. 5. Add Interaction** (5 videos)
-- **7. 6. Improve Responsiveness** (3 videos)
-- **8. 7. Advanced Interaction** (5 videos)
-- **9. 8. Iterating your Prototype** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Understand Prototyping]]** (3 videos)
+- **[[#3. 2. Plan the Prototype]]** (6 videos)
+- **[[#4. 3. Your Prototype "Hello World"]]** (4 videos)
+- **[[#5. 4. Animate the Display]]** (4 videos)
+- **[[#6. 5. Add Interaction]]** (5 videos)
+- **[[#7. 6. Improve Responsiveness]]** (3 videos)
+- **[[#8. 7. Advanced Interaction]]** (5 videos)
+- **[[#9. 8. Iterating your Prototype]]** (4 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

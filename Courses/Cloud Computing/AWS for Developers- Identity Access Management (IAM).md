@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. AWS IAM Concepts** (4 videos)
-- **3. 2. Users and Policies** (5 videos)
-- **4. 3. Groups and Roles** (3 videos)
-- **5. 4. Advanced IAM** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. AWS IAM Concepts]]** (4 videos)
+- **[[#2. Users and Policies]]** (5 videos)
+- **[[#3. Groups and Roles]]** (3 videos)
+- **[[#4. Advanced IAM]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS user security with IAM
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/aws-user-security-with-iam-15113020?u=76281980)
@@ -130,7 +132,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. AWS IAM Concepts
+### 1. AWS IAM Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IAM overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/iam-overview-15108756?u=76281980)
@@ -453,7 +457,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 3. 2. Users and Policies
+### 2. Users and Policies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Password settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/password-settings-15111296?u=76281980)
@@ -884,7 +890,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Groups and Roles
+### 3. Groups and Roles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Grouping users
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/grouping-users-15110625?u=76281980)
@@ -1199,7 +1207,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Advanced IAM
+### 4. Advanced IAM
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Multi-factor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/multi-factor-authentication-15106896?u=76281980)
@@ -1445,7 +1455,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/next-steps-15110624?u=76281980)

@@ -52,12 +52,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Intro to Spring Boot Actuator** (6 videos)
-- **3. 2. Creating and Securing Actuator Endpoints** (3 videos)
-- **4. 3. Metrics and Prometheus** (7 videos)
-- **5. 4. Grafana Dashboards** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Intro to Spring Boot Actuator]]** (6 videos)
+- **[[#3. 2. Creating and Securing Actuator Endpoints]]** (3 videos)
+- **[[#4. 3. Metrics and Prometheus]]** (7 videos)
+- **[[#5. 4. Grafana Dashboards]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

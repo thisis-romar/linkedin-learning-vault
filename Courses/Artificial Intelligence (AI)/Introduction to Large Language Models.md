@@ -55,11 +55,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Transformers in NLP** (3 videos)
-- **3. 2. Large Language Model Components** (4 videos)
-- **4. 3. Large Language Models** (11 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Transformers in NLP]]** (3 videos)
+- **[[#3. 2. Large Language Model Components]]** (4 videos)
+- **[[#4. 3. Large Language Models]]** (11 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

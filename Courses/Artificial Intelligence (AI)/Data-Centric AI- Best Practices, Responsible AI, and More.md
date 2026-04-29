@@ -53,18 +53,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is Data-Centric AI?** (3 videos)
-- **3. 2. Why Is Data-Centric AI Important?** (3 videos)
-- **4. 3. Workflow of Data-Centric AI** (3 videos)
-- **5. 4. MLOps: Introduction and Importance** (2 videos)
-- **6. 5. Building Optimized MLOps with Data-Centric AI** (4 videos)
-- **7. 6. Data-Centric AI in Action** (3 videos)
-- **8. 7. Explainability and Interpretability** (3 videos)
-- **9. 8. Bias Detection and Mitigation** (3 videos)
-- **10. 9. Data Drift and Model Drift** (2 videos)
-- **11. 10. Responsible AI** (2 videos)
-- **12. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What Is Data-Centric AI?]]** (3 videos)
+- **[[#3. 2. Why Is Data-Centric AI Important?]]** (3 videos)
+- **[[#4. 3. Workflow of Data-Centric AI]]** (3 videos)
+- **[[#5. 4. MLOps: Introduction and Importance]]** (2 videos)
+- **[[#6. 5. Building Optimized MLOps with Data-Centric AI]]** (4 videos)
+- **[[#7. 6. Data-Centric AI in Action]]** (3 videos)
+- **[[#8. 7. Explainability and Interpretability]]** (3 videos)
+- **[[#9. 8. Bias Detection and Mitigation]]** (3 videos)
+- **[[#10. 9. Data Drift and Model Drift]]** (2 videos)
+- **[[#11. 10. Responsible AI]]** (2 videos)
+- **[[#12. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

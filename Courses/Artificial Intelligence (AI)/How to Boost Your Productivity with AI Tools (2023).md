@@ -61,13 +61,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Your Approach to Using AI in Business** (5 videos)
-- **3. 2. AI Prompts to Make Your Job Easier** (5 videos)
-- **4. 3. AI Prompts to Help Make Your Work Better** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Your Approach to Using AI in Business]]** (5 videos)
+- **[[#2. AI Prompts to Make Your Job Easier]]** (5 videos)
+- **[[#3. AI Prompts to Help Make Your Work Better]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI is a dream for productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/ai-is-a-dream-for-productivity?u=76281980)
@@ -113,7 +115,9 @@ created: 2026-04-28
 > **Analogies:** it's like (1)
 
 
-### 2. 1. Your Approach to Using AI in Business
+### 1. Your Approach to Using AI in Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The two reasons to use AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/the-two-reasons-to-use-ai-in-business?u=76281980)
@@ -461,7 +465,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. AI Prompts to Make Your Job Easier
+### 2. AI Prompts to Make Your Job Easier
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to respond to an email
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/using-ai-to-respond-to-an-email?u=76281980)
@@ -1161,7 +1167,9 @@ created: 2026-04-28
 > **Analogies:** picture (1), imagine (1)
 
 
-### 4. 3. AI Prompts to Help Make Your Work Better
+### 3. AI Prompts to Help Make Your Work Better
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to help generate ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/using-ai-to-help-generate-ideas?u=76281980)
@@ -1620,7 +1628,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/summary-and-next-steps?u=76281980)

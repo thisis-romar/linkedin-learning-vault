@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Your Cybersecurity Role Has Become Mundane** (4 videos)
-- **3. 2. Advance Your Cybersecurity Career** (4 videos)
-- **4. 3. Improve Your Soft Skills** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Your Cybersecurity Role Has Become Mundane]]** (4 videos)
+- **[[#2. Advance Your Cybersecurity Career]]** (4 videos)
+- **[[#3. Improve Your Soft Skills]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### To maintain longevity, you need to keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 2. 1. Your Cybersecurity Role Has Become Mundane
+### 1. Your Cybersecurity Role Has Become Mundane
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Self-evaluate your cybersecurity career
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/self-evaluate-your-cybersecurity-career?u=76281980)
@@ -313,7 +317,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Advance Your Cybersecurity Career
+### 2. Advance Your Cybersecurity Career
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuously learn new skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980)
@@ -511,7 +517,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Improve Your Soft Skills
+### 3. Improve Your Soft Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improve your soft skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980)
@@ -655,7 +663,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Excel and advance in your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/excel-and-advance-in-your-career?u=76281980)

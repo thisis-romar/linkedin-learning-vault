@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Test Types** (5 videos)
-- **3. 2. How to Approach Automation** (5 videos)
-- **4. 3. Testing Tools** (3 videos)
-- **5. 4. Decide What to Automate** (5 videos)
-- **6. 5. Adopt Test Automation** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Test Types]]** (5 videos)
+- **[[#3. 2. How to Approach Automation]]** (5 videos)
+- **[[#4. 3. Testing Tools]]** (3 videos)
+- **[[#5. 4. Decide What to Automate]]** (5 videos)
+- **[[#6. 5. Adopt Test Automation]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

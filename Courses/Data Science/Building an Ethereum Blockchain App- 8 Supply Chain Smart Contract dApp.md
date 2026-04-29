@@ -55,7 +55,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Your Supply Chain Smart Contract dApp** (18 videos)
+- **[[#1. 1. Your Supply Chain Smart Contract dApp]]** (18 videos)
 
 ### 1. 1. Your Supply Chain Smart Contract dApp
 

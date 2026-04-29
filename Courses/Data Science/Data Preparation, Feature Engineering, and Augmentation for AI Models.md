@@ -58,16 +58,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Data Preparation for Predictive AI** (9 videos)
-- **3. 2. Data Preparation for Generative AI** (6 videos)
-- **4. 3. Data Quality Assessment** (4 videos)
-- **5. 4. Data Augmentation for Generative AI** (6 videos)
-- **6. 5. Knowledge Augmentation for Generative AI** (5 videos)
-- **7. 6. Development Practices for AI Applications** (6 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Data Preparation for Predictive AI]]** (9 videos)
+- **[[#2. Data Preparation for Generative AI]]** (6 videos)
+- **[[#3. Data Quality Assessment]]** (4 videos)
+- **[[#4. Data Augmentation for Generative AI]]** (6 videos)
+- **[[#5. Knowledge Augmentation for Generative AI]]** (5 videos)
+- **[[#6. Development Practices for AI Applications]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/welcome-to-this-course?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Data Preparation for Predictive AI
+### 1. Data Preparation for Predictive AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data exploration and initial quality assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980)
@@ -670,7 +674,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Data Preparation for Generative AI
+### 2. Data Preparation for Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structured vs. unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980)
@@ -1007,7 +1013,9 @@ created: 2026-04-28
 > **Non-Speech:** (light music) (1)
 
 
-### 4. 3. Data Quality Assessment
+### 3. Data Quality Assessment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elements of data quality: Consistency, accuracy, and completeness
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980)
@@ -1204,7 +1212,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. 4. Data Augmentation for Generative AI
+### 4. Data Augmentation for Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of data augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980)
@@ -1634,7 +1644,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Knowledge Augmentation for Generative AI
+### 5. Knowledge Augmentation for Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of knowledge augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980)
@@ -1952,7 +1964,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Development Practices for AI Applications
+### 6. Development Practices for AI Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Determining what data sources to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980)
@@ -2375,7 +2389,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980)

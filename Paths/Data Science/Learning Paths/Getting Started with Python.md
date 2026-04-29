@@ -12,12 +12,12 @@ tags:
   - learning-path
   - topic/data-science
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-04-28T23:44:56.668Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
   - course: '[[Python Essential Training]]'
     last_opened: null

@@ -49,16 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Build vs. Buy** (4 videos)
-- **3. 2. Costs of Using an AI API** (10 videos)
-- **4. 3. Examining Major Vendor Pricing** (6 videos)
-- **5. 4. Costs of Training AI** (13 videos)
-- **6. 5. Costs of Hosting AI** (9 videos)
-- **7. 6. Other Costs** (5 videos)
-- **8. 7. Revenue-Generating Models** (11 videos)
-- **9. 8. ROI on AI Use Cases** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Build vs. Buy]]** (4 videos)
+- **[[#3. 2. Costs of Using an AI API]]** (10 videos)
+- **[[#4. 3. Examining Major Vendor Pricing]]** (6 videos)
+- **[[#5. 4. Costs of Training AI]]** (13 videos)
+- **[[#6. 5. Costs of Hosting AI]]** (9 videos)
+- **[[#7. 6. Other Costs]]** (5 videos)
+- **[[#8. 7. Revenue-Generating Models]]** (11 videos)
+- **[[#9. 8. ROI on AI Use Cases]]** (4 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

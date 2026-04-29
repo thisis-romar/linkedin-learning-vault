@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Welcome** (3 videos)
-- **2. 1. Introduction to DevOps for ITIL®-Driven Shops** (3 videos)
-- **3. 2. DevOps and Enterprise IT Challenges** (4 videos)
-- **4. 3. DevOps and ITIL®-Driven Shops** (5 videos)
-- **5. 4. ITIL®-Driven Shops and DevOps** (11 videos)
-- **6. Conclusion** (2 videos)
+- **[[#1. Welcome]]** (3 videos)
+- **[[#2. 1. Introduction to DevOps for ITIL®-Driven Shops]]** (3 videos)
+- **[[#3. 2. DevOps and Enterprise IT Challenges]]** (4 videos)
+- **[[#4. 3. DevOps and ITIL®-Driven Shops]]** (5 videos)
+- **[[#5. 4. ITIL®-Driven Shops and DevOps]]** (11 videos)
+- **[[#6. Conclusion]]** (2 videos)
 
 ### 1. Welcome
 

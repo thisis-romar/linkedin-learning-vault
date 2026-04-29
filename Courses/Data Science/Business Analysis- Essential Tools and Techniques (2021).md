@@ -39,11 +39,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction to Business Analysis Techniques** (2 videos)
-- **2. 1. Requirements Traceability Matrix** (3 videos)
-- **3. 2. Process Modeling** (3 videos)
-- **4. 3. Context Diagrams** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction to Business Analysis Techniques]]** (2 videos)
+- **[[#2. 1. Requirements Traceability Matrix]]** (3 videos)
+- **[[#3. 2. Process Modeling]]** (3 videos)
+- **[[#4. 3. Context Diagrams]]** (3 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction to Business Analysis Techniques
 

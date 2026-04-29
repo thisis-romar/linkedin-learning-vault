@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Spring Overview** (2 videos)
-- **3. 2. Configuring the ApplicationContext** (7 videos)
-- **4. 3. Component Scanning** (3 videos)
-- **5. 4. The Bean Lifecycle** (10 videos)
-- **6. 5. Aspect-Oriented Programming** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Spring Overview]]** (2 videos)
+- **[[#3. 2. Configuring the ApplicationContext]]** (7 videos)
+- **[[#4. 3. Component Scanning]]** (3 videos)
+- **[[#5. 4. The Bean Lifecycle]]** (10 videos)
+- **[[#6. 5. Aspect-Oriented Programming]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

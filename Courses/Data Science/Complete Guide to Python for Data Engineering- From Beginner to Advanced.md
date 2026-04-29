@@ -60,19 +60,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Python Basics** (11 videos)
-- **3. 2. Python Collections** (6 videos)
-- **4. 3. Python File Handling** (4 videos)
-- **5. 4. pandas DataFrame API** (7 videos)
-- **6. 5. NumPy** (7 videos)
-- **7. 6. OOP with Python** (4 videos)
-- **8. 7. Advanced Data Engineering** (6 videos)
-- **9. 8. Web Scraping with Python** (8 videos)
-- **10. 9. Advanced Built-in Functions** (5 videos)
-- **11. 10. Logging in Python** (3 videos)
-- **12. 11. Final Project** (2 videos)
-- **13. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Python Basics]]** (11 videos)
+- **[[#3. 2. Python Collections]]** (6 videos)
+- **[[#4. 3. Python File Handling]]** (4 videos)
+- **[[#5. 4. pandas DataFrame API]]** (7 videos)
+- **[[#6. 5. NumPy]]** (7 videos)
+- **[[#7. 6. OOP with Python]]** (4 videos)
+- **[[#8. 7. Advanced Data Engineering]]** (6 videos)
+- **[[#9. 8. Web Scraping with Python]]** (8 videos)
+- **[[#10. 9. Advanced Built-in Functions]]** (5 videos)
+- **[[#11. 10. Logging in Python]]** (3 videos)
+- **[[#12. 11. Final Project]]** (2 videos)
+- **[[#13. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

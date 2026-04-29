@@ -45,16 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Road to NoSQL** (4 videos)
-- **3. 2. Understanding NoSQL Databases** (5 videos)
-- **4. 3. Use Key-Value NoSQL** (4 videos)
-- **5. 4. Use Columnar NoSQL** (5 videos)
-- **6. 5. Use Document NoSQL** (5 videos)
-- **7. 6. Use Graph NoSQL** (4 videos)
-- **8. 7. Use Specialty NoSQL** (8 videos)
-- **9. 8. Understand NoSQL Trends** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. The Road to NoSQL]]** (4 videos)
+- **[[#3. 2. Understanding NoSQL Databases]]** (5 videos)
+- **[[#4. 3. Use Key-Value NoSQL]]** (4 videos)
+- **[[#5. 4. Use Columnar NoSQL]]** (5 videos)
+- **[[#6. 5. Use Document NoSQL]]** (5 videos)
+- **[[#7. 6. Use Graph NoSQL]]** (4 videos)
+- **[[#8. 7. Use Specialty NoSQL]]** (8 videos)
+- **[[#9. 8. Understand NoSQL Trends]]** (3 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

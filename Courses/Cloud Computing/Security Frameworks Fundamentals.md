@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Frameworks, Regulation, and Risk** (6 videos)
-- **3. 2. Security Framework Deep Dive** (4 videos)
-- **4. 3. Framework Comparison** (4 videos)
-- **5. 4. The Core Security Set** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Frameworks, Regulation, and Risk]]** (6 videos)
+- **[[#2. Security Framework Deep Dive]]** (4 videos)
+- **[[#3. Framework Comparison]]** (4 videos)
+- **[[#4. The Core Security Set]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-frameworks?u=76281980)
@@ -256,7 +258,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Frameworks, Regulation, and Risk
+### 1. Frameworks, Regulation, and Risk
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Major security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980)
@@ -690,7 +694,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Security Framework Deep Dive
+### 2. Security Framework Deep Dive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### PCI DSS and credit card payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980)
@@ -1028,7 +1034,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Framework Comparison
+### 3. Framework Comparison
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How the frameworks compare
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-the-frameworks-compare?u=76281980)
@@ -1269,7 +1277,9 @@ created: 2026-04-28
 > **Speakers:** - beginning (1)
 
 
-### 5. 4. The Core Security Set
+### 4. The Core Security Set
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding control families and domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/understanding-control-families-and-domains?u=76281980)
@@ -1519,7 +1529,9 @@ created: 2026-04-28
 > **Speakers:** - being (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to get started
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-to-get-started?u=76281980)

@@ -55,11 +55,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Understanding Gemini Models** (5 videos)
-- **3. 2. How the Gemini API Works** (5 videos)
-- **4. 3. Developing with the Gemini API** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Understanding Gemini Models]]** (5 videos)
+- **[[#3. 2. How the Gemini API Works]]** (5 videos)
+- **[[#4. 3. Developing with the Gemini API]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -52,7 +52,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. The Ethereum Ecosystem and Development Life Cycle** (10 videos)
+- **[[#1. 1. The Ethereum Ecosystem and Development Life Cycle]]** (10 videos)
 
 ### 1. 1. The Ethereum Ecosystem and Development Life Cycle
 

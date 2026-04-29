@@ -43,15 +43,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Laravel Basics: Routes, Views, and Controllers** (7 videos)
-- **3. 2. Laravel Basics: Configuration, Database, Migrations, and Eloquent** (6 videos)
-- **4. 3. Starting Your Project** (7 videos)
-- **5. 4. Creating, Indexing, and Showing** (9 videos)
-- **6. 5. Editing, Updating, and Deleting** (6 videos)
-- **7. 6. Relationships** (5 videos)
-- **8. 7. Soft Deleting** (5 videos)
-- **9. Conclusion** (3 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Laravel Basics: Routes, Views, and Controllers]]** (7 videos)
+- **[[#3. 2. Laravel Basics: Configuration, Database, Migrations, and Eloquent]]** (6 videos)
+- **[[#4. 3. Starting Your Project]]** (7 videos)
+- **[[#5. 4. Creating, Indexing, and Showing]]** (9 videos)
+- **[[#6. 5. Editing, Updating, and Deleting]]** (6 videos)
+- **[[#7. 6. Relationships]]** (5 videos)
+- **[[#8. 7. Soft Deleting]]** (5 videos)
+- **[[#9. Conclusion]]** (3 videos)
 
 ### 1. Introduction
 

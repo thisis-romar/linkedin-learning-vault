@@ -31,8 +31,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Cloud%20Computing/Administrative%20Professional%20Foundations.md)
-
 ![Administrative Professional Foundations](https://media.licdn.com/dms/image/v2/D4E0DAQFhuwcUc49Tbg/learning-public-crop_675_1200/B4EZjxWiR.IMAY-/0/1756395873698?e=2147483647&amp;v=beta&amp;t=xuOfwzFC8ZWPOPSuv7H8UHwSXYttW5zgzSMlzGwMLws)
 
 # Administrative Professional Foundations
@@ -46,12 +44,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Interpersonal Skills** (6 videos)
-- **3. 2. Job-Specific Skills** (8 videos)
-- **4. 3. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Interpersonal Skills]]** (6 videos)
+- **[[#2. Job-Specific Skills]]** (8 videos)
+- **[[#3. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/welcome?u=76281980)
@@ -276,7 +276,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Interpersonal Skills
+### 1. Interpersonal Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Confidentiality in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980)
@@ -688,7 +690,9 @@ created: 2026-04-28
 > **Speakers:** - throughout (1)
 
 
-### 3. 2. Job-Specific Skills
+### 2. Job-Specific Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Calendar and schedule management for maximum efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/calendar-and-schedule-management-for-maximum-efficiency?u=76281980)
@@ -1296,7 +1300,9 @@ created: 2026-04-28
 > **Speakers:** - clear (1)
 
 
-### 4. 3. Conclusion
+### 3. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps to advance your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980)

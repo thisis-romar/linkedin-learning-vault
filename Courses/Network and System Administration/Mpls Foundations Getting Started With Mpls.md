@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. MPLS Architecture** (5 videos)
-- **3. 2. MPLS Terminology** (4 videos)
-- **4. 3. Label Distribution Protocol (LDP)** (5 videos)
-- **5. 4. Advanced LDP Configuration** (5 videos)
-- **6. 5.Different MPLS Modes** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. MPLS Architecture]]** (5 videos)
+- **[[#3. 2. MPLS Terminology]]** (4 videos)
+- **[[#4. 3. Label Distribution Protocol (LDP)]]** (5 videos)
+- **[[#5. 4. Advanced LDP Configuration]]** (5 videos)
+- **[[#6. 5.Different MPLS Modes]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

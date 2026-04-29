@@ -38,13 +38,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Getting Started** (1 videos)
-- **2. 1. XaaS: The Origin Story** (2 videos)
-- **3. 2. Understanding the Value of XaaS** (3 videos)
-- **4. 3. Implementing XaaS at Your Business** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Getting Started]]** (1 videos)
+- **[[#1. XaaS: The Origin Story]]** (2 videos)
+- **[[#2. Understanding the Value of XaaS]]** (3 videos)
+- **[[#3. Implementing XaaS at Your Business]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Getting Started
+### Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future of business is XaaS
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/the-future-of-business-is-xaas?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Non-Speech:** (light music) (1)
 
 
-### 2. 1. XaaS: The Origin Story
+### 1. XaaS: The Origin Story
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A brief history of business computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980)
@@ -211,7 +215,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. Understanding the Value of XaaS
+### 2. Understanding the Value of XaaS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are the different types of XaaS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980)
@@ -444,7 +450,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Implementing XaaS at Your Business
+### 3. Implementing XaaS at Your Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic architecture of XaaS
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980)
@@ -739,7 +747,9 @@ created: 2026-04-28
 > **Speakers:** - even (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What you can do next
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980)

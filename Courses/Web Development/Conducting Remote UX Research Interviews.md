@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Remote Research Interviews** (6 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Remote Research Interviews]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Remote is here to stay
 > [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - [amanda] (1)
 
 
-### 2. 1. Remote Research Interviews
+### 1. Remote Research Interviews
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Research planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980)
@@ -552,7 +556,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get started on your own
 > [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/get-started-on-your-own?u=76281980)

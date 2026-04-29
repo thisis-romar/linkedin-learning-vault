@@ -47,8 +47,8 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Blockchain?** (14 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. What Is Blockchain?]]** (14 videos)
 
 ### 1. Introduction
 

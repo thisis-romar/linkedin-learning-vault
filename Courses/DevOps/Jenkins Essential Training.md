@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Jenkins and DevOps** (3 videos)
-- **3. 2. The Jenkins Pipeline** (8 videos)
-- **4. 3. Integrate Jenkins with Version Control Systems** (6 videos)
-- **5. 4. Agents and Distributed Builds** (5 videos)
-- **6. 5. Artifacts and Testing** (5 videos)
-- **7. 6. Securing Jenkins** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Jenkins and DevOps]]** (3 videos)
+- **[[#3. 2. The Jenkins Pipeline]]** (8 videos)
+- **[[#4. 3. Integrate Jenkins with Version Control Systems]]** (6 videos)
+- **[[#5. 4. Agents and Distributed Builds]]** (5 videos)
+- **[[#6. 5. Artifacts and Testing]]** (5 videos)
+- **[[#7. 6. Securing Jenkins]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -51,17 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Server Architecture** (3 videos)
-- **3. 2. Server Administration** (4 videos)
-- **4. 3. Server Maintenance** (5 videos)
-- **5. 4. Networking** (4 videos)
-- **6. 5. Storage** (3 videos)
-- **7. 6. Security** (4 videos)
-- **8. 7. Environmental Protection** (3 videos)
-- **9. 8. Virtualization and Cloud Computing** (3 videos)
-- **10. 9. Disaster Recovery** (3 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Server Architecture]]** (3 videos)
+- **[[#3. 2. Server Administration]]** (4 videos)
+- **[[#4. 3. Server Maintenance]]** (5 videos)
+- **[[#5. 4. Networking]]** (4 videos)
+- **[[#6. 5. Storage]]** (3 videos)
+- **[[#7. 6. Security]]** (4 videos)
+- **[[#8. 7. Environmental Protection]]** (3 videos)
+- **[[#9. 8. Virtualization and Cloud Computing]]** (3 videos)
+- **[[#10. 9. Disaster Recovery]]** (3 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

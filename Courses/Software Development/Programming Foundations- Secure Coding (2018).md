@@ -39,16 +39,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Security and Risk Overview** (5 videos)
-- **3. 2. Web Client Server Interaction Code Issues** (3 videos)
-- **4. 3. Thick App and Client-Server Interaction Issues** (8 videos)
-- **5. 4. Crypto and Security Misuse Issues** (3 videos)
-- **6. 5. Security in the SDLC** (5 videos)
-- **7. Glossaries** (0 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Security and Risk Overview]]** (5 videos)
+- **[[#2. Web Client Server Interaction Code Issues]]** (3 videos)
+- **[[#3. Thick App and Client-Server Interaction Issues]]** (8 videos)
+- **[[#4. Crypto and Security Misuse Issues]]** (3 videos)
+- **[[#5. Security in the SDLC]]** (5 videos)
+- **[[#Glossaries]]** (0 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implement secure code with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980)
@@ -118,7 +120,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. Security and Risk Overview
+### 1. Security and Risk Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The goal of secure coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980)
@@ -435,7 +439,9 @@ created: 2026-04-28
 > **Speakers:** - documenting (1)
 
 
-### 3. 2. Web Client Server Interaction Code Issues
+### 2. Web Client Server Interaction Code Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Input validation issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980)
@@ -689,7 +695,9 @@ created: 2026-04-28
 > **Speakers:** - session (1)
 
 
-### 4. 3. Thick App and Client-Server Interaction Issues
+### 3. Thick App and Client-Server Interaction Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Error handling issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/error-handling-issues?u=76281980)
@@ -1237,7 +1245,9 @@ created: 2026-04-28
 > **Speakers:** - dependency (1)
 
 
-### 5. 4. Crypto and Security Misuse Issues
+### 4. Crypto and Security Misuse Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Authentication and password issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980)
@@ -1500,7 +1510,9 @@ created: 2026-04-28
 > **Speakers:** - cryptography (1)
 
 
-### 6. 5. Security in the SDLC
+### 5. Security in the SDLC
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Embrace security in design
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980)
@@ -1801,10 +1813,14 @@ created: 2026-04-28
 > **Speakers:** - security (1)
 
 
-### 7. Glossaries
+### Glossaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/next-steps?u=76281980)

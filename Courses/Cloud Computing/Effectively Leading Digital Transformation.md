@@ -40,15 +40,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Background for Business Transformation** (6 videos)
-- **3. 2. Blockers to Successful Transformation** (4 videos)
-- **4. 3. Preparing for Your Transformation** (6 videos)
-- **5. 4. AI in the Workplace** (6 videos)
-- **6. 5. Beyond the Launch** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Background for Business Transformation]]** (6 videos)
+- **[[#2. Blockers to Successful Transformation]]** (4 videos)
+- **[[#3. Preparing for Your Transformation]]** (6 videos)
+- **[[#4. AI in the Workplace]]** (6 videos)
+- **[[#5. Beyond the Launch]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Being a leader in business transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/being-a-leader-in-business-transformation?u=76281980)
@@ -117,7 +119,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Background for Business Transformation
+### 1. Background for Business Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Living in an age of disruption
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/living-in-an-age-of-disruption?u=76281980)
@@ -480,7 +484,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Blockers to Successful Transformation
+### 2. Blockers to Successful Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Not understanding the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/not-understanding-the-problem?u=76281980)
@@ -725,7 +731,9 @@ created: 2026-04-28
 > **Speakers:** - here (1)
 
 
-### 4. 3. Preparing for Your Transformation
+### 3. Preparing for Your Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying what's broken
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/identifying-what-s-broken?u=76281980)
@@ -1069,7 +1077,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. AI in the Workplace
+### 4. AI in the Workplace
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/defining-ai?u=76281980)
@@ -1405,7 +1415,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Beyond the Launch
+### 5. Beyond the Launch
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explaining in plain language
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/explaining-in-plain-language?u=76281980)
@@ -1676,7 +1688,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/next-steps?u=76281980)

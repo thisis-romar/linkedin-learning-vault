@@ -52,10 +52,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Text Encoding Using Embedding Vectors** (6 videos)
-- **3. 2. Document Chunking and Enrichment Strategies** (6 videos)
-- **4. 3. Improving Document Retrieval** (5 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Text Encoding Using Embedding Vectors]]** (6 videos)
+- **[[#3. 2. Document Chunking and Enrichment Strategies]]** (6 videos)
+- **[[#4. 3. Improving Document Retrieval]]** (5 videos)
 
 ### 1. Introduction
 

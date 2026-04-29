@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Jira Software Features** (9 videos)
-- **3. 2. Power User Tips** (1 videos)
-- **4. 3. Creating Filters** (4 videos)
-- **5. 4. Creating Dashboards** (5 videos)
-- **6. 5. Best Practices for Jira Users** (1 videos)
-- **7. 6. Creating Boards** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Jira Software Features]]** (9 videos)
+- **[[#3. 2. Power User Tips]]** (1 videos)
+- **[[#4. 3. Creating Filters]]** (4 videos)
+- **[[#5. 4. Creating Dashboards]]** (5 videos)
+- **[[#6. 5. Best Practices for Jira Users]]** (1 videos)
+- **[[#7. 6. Creating Boards]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

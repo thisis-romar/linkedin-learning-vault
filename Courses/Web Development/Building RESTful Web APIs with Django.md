@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Serializing, Listing, Filtering, and Paginating Models** (6 videos)
-- **3. 2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models** (6 videos)
-- **4. 3. Managing Serializer Fields, Relations, and Validation** (6 videos)
-- **5. 4. Testing API Views** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Serializing, Listing, Filtering, and Paginating Models]]** (6 videos)
+- **[[#3. 2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models]]** (6 videos)
+- **[[#4. 3. Managing Serializer Fields, Relations, and Validation]]** (6 videos)
+- **[[#5. 4. Testing API Views]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

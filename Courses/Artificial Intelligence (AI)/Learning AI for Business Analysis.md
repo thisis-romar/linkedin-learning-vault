@@ -50,12 +50,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. AI: Language Interactions and Processing** (5 videos)
-- **3. 2. AI: Processing Non-Language Things** (9 videos)
-- **4. 3. Impact to Requirements and Business Analysis** (5 videos)
-- **5. 4. Technique Highlights** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (6 videos)
+- **[[#2. 1. AI: Language Interactions and Processing]]** (5 videos)
+- **[[#3. 2. AI: Processing Non-Language Things]]** (9 videos)
+- **[[#4. 3. Impact to Requirements and Business Analysis]]** (5 videos)
+- **[[#5. 4. Technique Highlights]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

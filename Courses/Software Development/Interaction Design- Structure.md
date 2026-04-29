@@ -39,13 +39,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding Structure** (5 videos)
-- **3. 2. Designing Page-Level Structure** (4 videos)
-- **4. 3. Interface Design Considerations** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Structure]]** (5 videos)
+- **[[#2. Designing Page-Level Structure]]** (4 videos)
+- **[[#3. Interface Design Considerations]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structure is the backbone of UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/structure-is-the-backbone-of-ux?u=76281980)
@@ -68,7 +70,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding Structure
+### 1. Understanding Structure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding the big picture
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/understanding-the-big-picture?u=76281980)
@@ -400,7 +404,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Designing Page-Level Structure
+### 2. Designing Page-Level Structure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Information scent and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/information-scent-and-hierarchy?u=76281980)
@@ -689,7 +695,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Interface Design Considerations
+### 3. Interface Design Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sitemap and flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/sitemap-and-flow-diagram?u=76281980)
@@ -1035,7 +1043,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980)

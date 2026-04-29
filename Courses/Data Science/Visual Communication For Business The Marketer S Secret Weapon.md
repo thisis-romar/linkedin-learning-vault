@@ -40,9 +40,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Visual Communication Tips** (15 videos)
+- **[[#1. Visual Communication Tips]]** (15 videos)
 
-### 1. 1. Visual Communication Tips
+### 1. Visual Communication Tips
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is visual communication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-communication?u=76281980)

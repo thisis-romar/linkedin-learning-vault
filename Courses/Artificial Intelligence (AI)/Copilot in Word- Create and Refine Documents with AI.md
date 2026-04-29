@@ -53,10 +53,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Creating with Copilot** (4 videos)
-- **3. 2. Editing and Revising with Copilot** (2 videos)
-- **4. 3. Summarizing and Understanding with Copilot** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Creating with Copilot]]** (4 videos)
+- **[[#3. 2. Editing and Revising with Copilot]]** (2 videos)
+- **[[#4. 3. Summarizing and Understanding with Copilot]]** (2 videos)
 
 ### 1. Introduction
 

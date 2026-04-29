@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Assembling a Team** (3 videos)
-- **3. 2. Finding the Right Problem to Solve** (4 videos)
-- **4. 3. Coming Up with Good Ideas** (3 videos)
-- **5. 4. Testing Your Ideas with Real Customers** (3 videos)
-- **6. 5. Planning Your Development Work** (3 videos)
-- **7. 6. What Design Thinking Gives You** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Assembling a Team]]** (3 videos)
+- **[[#2. Finding the Right Problem to Solve]]** (4 videos)
+- **[[#3. Coming Up with Good Ideas]]** (3 videos)
+- **[[#4. Testing Your Ideas with Real Customers]]** (3 videos)
+- **[[#5. Planning Your Development Work]]** (3 videos)
+- **[[#6. What Design Thinking Gives You]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applying design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980)
@@ -128,7 +130,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Assembling a Team
+### 1. Assembling a Team
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Who should be involved?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980)
@@ -284,7 +288,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Finding the Right Problem to Solve
+### 2. Finding the Right Problem to Solve
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify the pain points: Watch real users
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/identify-the-pain-points-watch-real-users?u=76281980)
@@ -503,7 +509,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 4. 3. Coming Up with Good Ideas
+### 3. Coming Up with Good Ideas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Personas: An idea everyone can get behind
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/personas-an-idea-everyone-can-get-behind?u=76281980)
@@ -658,7 +666,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 5. 4. Testing Your Ideas with Real Customers
+### 4. Testing Your Ideas with Real Customers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Paper prototypes: The fastest way to test your ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/paper-prototypes-the-fastest-way-to-test-your-ideas?u=76281980)
@@ -795,7 +805,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 6. 5. Planning Your Development Work
+### 5. Planning Your Development Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning is the missing link
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980)
@@ -1016,7 +1028,9 @@ created: 2026-04-28
 > **Speakers:** - lean (1)
 
 
-### 7. 6. What Design Thinking Gives You
+### 6. What Design Thinking Gives You
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design thinking isn't a magic process
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980)
@@ -1133,7 +1147,9 @@ created: 2026-04-28
 > **Speakers:** - working (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Additional resources to support your design thinking process
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980)

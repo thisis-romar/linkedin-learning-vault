@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to AI** (3 videos)
-- **3. 2. Making the Company an AI Machine** (3 videos)
-- **4. 3. Deploying AI to Create ONSTAGE Advantage** (3 videos)
-- **5. 4. Deploying AI to Create BACKSTAGE Advantage** (3 videos)
-- **6. 5. The Ethics of AI and Data** (3 videos)
-- **7. 6. From Ideas to Actions** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to AI]]** (3 videos)
+- **[[#2. Making the Company an AI Machine]]** (3 videos)
+- **[[#3. Deploying AI to Create ONSTAGE Advantage]]** (3 videos)
+- **[[#4. Deploying AI to Create BACKSTAGE Advantage]]** (3 videos)
+- **[[#5. The Ethics of AI and Data]]** (3 videos)
+- **[[#6. From Ideas to Actions]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deploying AI for your competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. Introduction to AI
+### 1. Introduction to AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Artificial Intelligence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980)
@@ -333,7 +337,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 3. 2. Making the Company an AI Machine
+### 2. Making the Company an AI Machine
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a robust data pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/building-a-robust-data-pipeline?u=76281980)
@@ -558,7 +564,9 @@ created: 2026-04-28
 > **Speakers:** - assume (1)
 
 
-### 4. 3. Deploying AI to Create ONSTAGE Advantage
+### 3. Deploying AI to Create ONSTAGE Advantage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI for deeper market research
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980)
@@ -786,7 +794,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 5. 4. Deploying AI to Create BACKSTAGE Advantage
+### 4. Deploying AI to Create BACKSTAGE Advantage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI for managing the supply chain network
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980)
@@ -1039,7 +1049,9 @@ created: 2026-04-28
 > **Speakers:** - opportunities (1)
 
 
-### 6. 5. The Ethics of AI and Data
+### 5. The Ethics of AI and Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Decision-Making by machines: Moral dilemmas
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980)
@@ -1287,7 +1299,9 @@ created: 2026-04-28
 > **Speakers:** - according (1)
 
 
-### 7. 6. From Ideas to Actions
+### 6. From Ideas to Actions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From ideas to actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980)

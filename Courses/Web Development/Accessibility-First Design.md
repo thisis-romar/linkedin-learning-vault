@@ -39,15 +39,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Collaborating for Accessibility** (2 videos)
-- **3. 2. Question Complexity** (3 videos)
-- **4. 3. Accessible Content Design** (4 videos)
-- **5. 4. Accessible Visual Design** (10 videos)
-- **6. 5. Accessibility Testing** (3 videos)
-- **7. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Collaborating for Accessibility]]** (2 videos)
+- **[[#2. Question Complexity]]** (3 videos)
+- **[[#3. Accessible Content Design]]** (4 videos)
+- **[[#4. Accessible Visual Design]]** (10 videos)
+- **[[#5. Accessibility Testing]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why accessibility-first design?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980)
@@ -131,7 +133,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Collaborating for Accessibility
+### 1. Collaborating for Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cross-discipline collaboration and T-shaped knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980)
@@ -216,7 +220,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Question Complexity
+### 2. Question Complexity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Avoid hidden content
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980)
@@ -409,7 +415,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Accessible Content Design
+### 3. Accessible Content Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Semantics and document structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980)
@@ -715,7 +723,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Accessible Visual Design
+### 4. Accessible Visual Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Just-in-time design
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980)
@@ -1410,7 +1420,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Accessibility Testing
+### 5. Accessibility Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manual accessibility testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980)
@@ -1655,7 +1667,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessible design handoff
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980)

@@ -48,15 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Monitoring and Observability** (4 videos)
-- **3. 2. Metrics and Monitoring** (4 videos)
-- **4. 3. Tracing and Distributed Systems** (2 videos)
-- **5. 4. Logging and Log Management** (4 videos)
-- **6. 5. Events** (2 videos)
-- **7. 6. Monitoring Techniques** (5 videos)
-- **8. 7. Utilizing Observability Signals** (5 videos)
-- **9. Conclusion** (3 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Monitoring and Observability]]** (4 videos)
+- **[[#3. 2. Metrics and Monitoring]]** (4 videos)
+- **[[#4. 3. Tracing and Distributed Systems]]** (2 videos)
+- **[[#5. 4. Logging and Log Management]]** (4 videos)
+- **[[#6. 5. Events]]** (2 videos)
+- **[[#7. 6. Monitoring Techniques]]** (5 videos)
+- **[[#8. 7. Utilizing Observability Signals]]** (5 videos)
+- **[[#9. Conclusion]]** (3 videos)
 
 ### 1. Introduction
 

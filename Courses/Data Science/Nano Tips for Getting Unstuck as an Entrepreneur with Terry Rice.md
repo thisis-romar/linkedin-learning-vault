@@ -46,7 +46,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. How to Get Unstuck as an Entrepreneur** (10 videos)
+- **[[#1. 1. How to Get Unstuck as an Entrepreneur]]** (10 videos)
 
 ### 1. 1. How to Get Unstuck as an Entrepreneur
 

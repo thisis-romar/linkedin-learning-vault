@@ -46,16 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Manage Chat and Collaboration Experiences** (7 videos)
-- **3. 2. Manage Meeting Experiences** (4 videos)
-- **4. 3. Manage Phone Numbers** (7 videos)
-- **5. 4. Manage Phone System** (7 videos)
-- **6. 5. Manage Teams and App Policies** (5 videos)
-- **7. 6. Manage Membership in a Team** (3 videos)
-- **8. 7. Implement Policies for Microsoft Teams Apps** (6 videos)
-- **9. 8. Monitor and Troubleshoot a Microsoft Teams Environment** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Manage Chat and Collaboration Experiences]]** (7 videos)
+- **[[#3. 2. Manage Meeting Experiences]]** (4 videos)
+- **[[#4. 3. Manage Phone Numbers]]** (7 videos)
+- **[[#5. 4. Manage Phone System]]** (7 videos)
+- **[[#6. 5. Manage Teams and App Policies]]** (5 videos)
+- **[[#7. 6. Manage Membership in a Team]]** (3 videos)
+- **[[#8. 7. Implement Policies for Microsoft Teams Apps]]** (6 videos)
+- **[[#9. 8. Monitor and Troubleshoot a Microsoft Teams Environment]]** (4 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

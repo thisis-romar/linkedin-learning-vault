@@ -48,8 +48,8 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Building and Training Basic Neural Networks** (1 videos)
-- **2. 2. Recurrent Neural Networks** (1 videos)
+- **[[#1. 1. Building and Training Basic Neural Networks]]** (1 videos)
+- **[[#2. 2. Recurrent Neural Networks]]** (1 videos)
 
 ### 1. 1. Building and Training Basic Neural Networks
 

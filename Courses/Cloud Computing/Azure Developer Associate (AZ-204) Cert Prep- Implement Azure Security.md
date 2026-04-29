@@ -41,13 +41,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Control access to Azure** (10 videos)
-- **3. 2. Control user access to your apps** (6 videos)
-- **4. 3. Control app access to your data** (9 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Control access to Azure]]** (10 videos)
+- **[[#2. Control user access to your apps]]** (6 videos)
+- **[[#3. Control app access to your data]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why security matters for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980)
@@ -112,7 +114,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Control access to Azure
+### 1. Control access to Azure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Azure Role Based Access Control (RBAC)
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980)
@@ -666,7 +670,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Control user access to your apps
+### 2. Control user access to your apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Register an application to Azure AD
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980)
@@ -1047,7 +1053,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Control app access to your data
+### 3. Control app access to your data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage Azure application secrets
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980)
@@ -1635,7 +1643,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing solutions for Azure and beyond
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980)

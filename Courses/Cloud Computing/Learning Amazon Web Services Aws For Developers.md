@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. AWS Console** (3 videos)
-- **3. 2. Security** (7 videos)
-- **4. 3. Development** (4 videos)
-- **5. 4. Messaging and Event-Driven** (4 videos)
-- **6. 5. Deployment, Scalability, and Monitoring** (6 videos)
-- **7. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. AWS Console]]** (3 videos)
+- **[[#2. Security]]** (7 videos)
+- **[[#3. Development]]** (4 videos)
+- **[[#4. Messaging and Event-Driven]]** (4 videos)
+- **[[#5. Deployment, Scalability, and Monitoring]]** (6 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980)
@@ -120,7 +122,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. AWS Console
+### 1. AWS Console
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS account and pricing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-account-and-pricing?u=76281980)
@@ -329,7 +333,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Security
+### 2. Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identity and Access Management (IAM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-and-access-management-iam?u=76281980)
@@ -880,7 +886,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Development
+### 3. Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### SDK and tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980)
@@ -1352,7 +1360,9 @@ created: 2026-04-28
 > **Analogies:** kind of like (1)
 
 
-### 5. 4. Messaging and Event-Driven
+### 4. Messaging and Event-Driven
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simple Queue Service (SQS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-queue-service-sqs?u=76281980)
@@ -1732,7 +1742,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 6. 5. Deployment, Scalability, and Monitoring
+### 5. Deployment, Scalability, and Monitoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980)
@@ -2295,7 +2307,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cleanup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cleanup?u=76281980)

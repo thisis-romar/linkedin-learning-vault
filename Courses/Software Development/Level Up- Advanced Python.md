@@ -50,8 +50,8 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Code Challenges** (8 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Code Challenges]]** (8 videos)
 
 ### 1. Introduction
 

@@ -57,13 +57,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Deep Learning Optimization** (6 videos)
-- **3. 2. Tuning the Deep Learning Network** (6 videos)
-- **4. 3. Tuning Back Propagation** (6 videos)
-- **5. 4. Overfitting Management** (5 videos)
-- **6. 5. Model Tuning Exercise** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introduction to Deep Learning Optimization]]** (6 videos)
+- **[[#3. 2. Tuning the Deep Learning Network]]** (6 videos)
+- **[[#4. 3. Tuning Back Propagation]]** (6 videos)
+- **[[#5. 4. Overfitting Management]]** (5 videos)
+- **[[#6. 5. Model Tuning Exercise]]** (6 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

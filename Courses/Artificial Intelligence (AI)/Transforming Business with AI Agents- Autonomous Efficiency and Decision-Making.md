@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Explaining Agentic AI** (3 videos)
-- **3. 2. Types of AI Agents** (6 videos)
-- **4. 3. Putting AI Agents to Work** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Explaining Agentic AI]]** (3 videos)
+- **[[#2. Types of AI Agents]]** (6 videos)
+- **[[#3. Putting AI Agents to Work]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980)
@@ -90,7 +92,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Explaining Agentic AI
+### 1. Explaining Agentic AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What makes AI agents unique
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980)
@@ -293,7 +297,9 @@ created: 2026-04-28
 > **Speakers:** - agentic (1)
 
 
-### 3. 2. Types of AI Agents
+### 2. Types of AI Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simple reflex agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/simple-reflex-agents?u=76281980)
@@ -633,7 +639,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 4. 3. Putting AI Agents to Work
+### 3. Putting AI Agents to Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Implementing agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980)
@@ -787,7 +795,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your future and agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/your-future-and-agentic-ai?u=76281980)

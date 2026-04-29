@@ -57,10 +57,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Using Copilot in Office Applications** (9 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Using Copilot in Office Applications]]** (9 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore Microsoft 365's AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/explore-microsoft-365-s-ai-assistant?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - microsoft (1)
 
 
-### 2. 1. Using Copilot in Office Applications
+### 1. Using Copilot in Office Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use Copilot Chat with your work data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980)

@@ -43,17 +43,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Toolchain and Installation** (3 videos)
-- **3. 2. The Basics** (6 videos)
-- **4. 3. Flow Control** (4 videos)
-- **5. 4. Data Types** (11 videos)
-- **6. 5. Operators** (6 videos)
-- **7. 6. Functions** (6 videos)
-- **8. 7. Classes and Objects** (8 videos)
-- **9. 8. Templates** (5 videos)
-- **10. 9. Standard Template Library** (7 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Toolchain and Installation]]** (3 videos)
+- **[[#3. 2. The Basics]]** (6 videos)
+- **[[#4. 3. Flow Control]]** (4 videos)
+- **[[#5. 4. Data Types]]** (11 videos)
+- **[[#6. 5. Operators]]** (6 videos)
+- **[[#7. 6. Functions]]** (6 videos)
+- **[[#8. 7. Classes and Objects]]** (8 videos)
+- **[[#9. 8. Templates]]** (5 videos)
+- **[[#10. 9. Standard Template Library]]** (7 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

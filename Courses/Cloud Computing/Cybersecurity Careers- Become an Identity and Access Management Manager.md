@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is an Identity and Access Management Manager?** (1 videos)
-- **3. 2. The Fundamentals of Identity and Access Management** (4 videos)
-- **4. 3. Your Impact on the Organization** (4 videos)
-- **5. 4. Core Skills Needed** (3 videos)
-- **6. 5. How to Get a Job as an IAM Manager** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is an Identity and Access Management Manager?]]** (1 videos)
+- **[[#2. The Fundamentals of Identity and Access Management]]** (4 videos)
+- **[[#3. Your Impact on the Organization]]** (4 videos)
+- **[[#4. Core Skills Needed]]** (3 videos)
+- **[[#5. How to Get a Job as an IAM Manager]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identity is at the center of cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/identity-is-at-the-center-of-cybersecurity?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. 1. What Is an Identity and Access Management Manager?
+### 1. What Is an Identity and Access Management Manager?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The role of an IAM manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980)
@@ -172,7 +176,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. The Fundamentals of Identity and Access Management
+### 2. The Fundamentals of Identity and Access Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Authentication goes beyond a strong password
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/authentication-goes-beyond-a-strong-password?u=76281980)
@@ -603,7 +609,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Your Impact on the Organization
+### 3. Your Impact on the Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Being a member of the blue team
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980)
@@ -888,7 +896,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Core Skills Needed
+### 4. Core Skills Needed
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### You don't need to be an expert in everything
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980)
@@ -1084,7 +1094,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. How to Get a Job as an IAM Manager
+### 5. How to Get a Job as an IAM Manager
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building your professional network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980)
@@ -1262,7 +1274,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Are you ready to make a difference as an IAM manager?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/are-you-ready-to-make-a-difference-as-an-iam-manager?u=76281980)

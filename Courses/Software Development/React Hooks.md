@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Intro to React Hooks** (2 videos)
-- **3. 2. The useState Hook** (7 videos)
-- **4. 3. The useEffect Hook** (4 videos)
-- **5. 4. Additional Hooks** (6 videos)
-- **6. 5. Creating Custom Hooks** (7 videos)
-- **7. Conclusion** (1 videos)
-- **8. Appendix** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Intro to React Hooks]]** (2 videos)
+- **[[#3. 2. The useState Hook]]** (7 videos)
+- **[[#4. 3. The useEffect Hook]]** (4 videos)
+- **[[#5. 4. Additional Hooks]]** (6 videos)
+- **[[#6. 5. Creating Custom Hooks]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
+- **[[#8. Appendix]]** (1 videos)
 
 ### 1. Introduction
 

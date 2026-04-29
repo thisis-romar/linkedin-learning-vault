@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Setting Up Your Environment** (3 videos)
-- **3. 2. Command-Line Basics** (7 videos)
-- **4. 3. Files, Directories, and Permissions** (15 videos)
-- **5. 4. Common Command-Line Tasks and Tools** (14 videos)
-- **6. 5. A Peek at Some More Advanced Topics** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Setting Up Your Environment]]** (3 videos)
+- **[[#3. 2. Command-Line Basics]]** (7 videos)
+- **[[#4. 3. Files, Directories, and Permissions]]** (15 videos)
+- **[[#5. 4. Common Command-Line Tasks and Tools]]** (14 videos)
+- **[[#6. 5. A Peek at Some More Advanced Topics]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

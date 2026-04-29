@@ -8,82 +8,76 @@
         "type": "split",
         "children": [
           {
-            "id": "9914cff4354bb57e",
-            "type": "split",
-            "dimension": 69.24979389942291,
+            "id": "bd66be28471d0f62",
+            "type": "tabs",
+            "dimension": 34.62489694971146,
             "children": [
               {
-                "id": "bd66be28471d0f62",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "6b101ece903d8e2c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Courses/DevOps/Building Monorepos On Github.md",
-                        "mode": "preview",
-                        "source": true
-                      },
-                      "icon": "lucide-file",
-                      "title": "Building Monorepos On Github"
-                    },
-                    "group": "495f908c7dc11d20"
-                  }
-                ]
-              },
-              {
-                "id": "eba68e57d46bb170",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f0b775c06303026a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Courses/DevOps/Building Monorepos On Github.md",
-                        "options": {
-                          "collapse-filter": false,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": false,
-                          "colorGroups": [],
-                          "collapse-display": false,
-                          "showArrow": false,
-                          "textFadeMultiplier": -3,
-                          "nodeSizeMultiplier": 0.656470893970894,
-                          "lineSizeMultiplier": 4.99617983367983,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 1.5,
-                          "close": false
-                        }
-                      },
-                      "icon": "lucide-git-fork",
-                      "title": "Graph of Building Monorepos On Github"
-                    },
-                    "group": "495f908c7dc11d20"
-                  }
-                ]
+                "id": "6b101ece903d8e2c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Courses/DevOps/Building Monorepos On Github.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Building Monorepos On Github"
+                },
+                "group": "495f908c7dc11d20"
               }
-            ],
-            "direction": "horizontal"
+            ]
+          },
+          {
+            "id": "d949672f4581a900",
+            "type": "tabs",
+            "dimension": 34.62489694971146,
+            "children": [
+              {
+                "id": "f709079292b973a0",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Courses/DevOps/Building Monorepos On Github.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1.5,
+                      "close": false
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Building Monorepos On Github"
+                },
+                "group": "495f908c7dc11d20"
+              }
+            ]
           },
           {
             "id": "181b5835dd6787bb",
             "type": "tabs",
-            "dimension": 30.75020610057708,
+            "dimension": 30.750206100577085,
             "children": [
               {
                 "id": "2345b5864bf9b492",
@@ -161,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "b57bc359353d084a",
@@ -280,10 +273,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "f0b775c06303026a",
+  "active": "6b101ece903d8e2c",
   "lastOpenFiles": [
-    "Courses/DevOps/Building Monorepos On Github.md",
     "Skills/GitHub.md",
+    "Skills/GitHub Copilot.md",
+    "Courses/Cloud Computing/15 Tips for Landing a Data Science Job.md",
+    "Courses/Data Science/8 Things You Must Know in Python.md",
+    "Courses/DevOps/Building Monorepos On Github.md",
     "Skills/Front-End Development.md",
     "Skills/Git.md",
     "Courses/Software Development/Learning Git and GitHub.md",
@@ -305,9 +301,6 @@
     "Courses/Data Science/Building an Ethereum Blockchain App- 6 Building Your First Ethereum App.md",
     "Courses/Data Science/Building an Ethereum Blockchain App- 5 Your Ethereum Wallet.md",
     "Courses/Data Science/Building an Ethereum Blockchain App- 4 Ethereum Development Tools.md",
-    "Courses/Data Science/Building an Ethereum Blockchain App- 3 Ethereum Development.md",
-    "Courses/Data Science/Building an Ethereum Blockchain App- 2 Introduction to Ethereum.md",
-    "Courses/Cybersecurity/Ethical Hacking- Evading IDS, Firewalls, and Honeypots.md",
     "Courses/Network and System Administration",
     "Courses/Database Management",
     "Courses/Artificial Intelligence (AI)",

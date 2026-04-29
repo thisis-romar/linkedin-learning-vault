@@ -58,14 +58,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Why Do We Perform Code Reviews?** (4 videos)
-- **3. 2. The Working Team Agreement** (4 videos)
-- **4. 3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)** (3 videos)
-- **5. 4. Strategies for Better Code Reviews** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Why Do We Perform Code Reviews?]]** (4 videos)
+- **[[#2. The Working Team Agreement]]** (4 videos)
+- **[[#3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)]]** (3 videos)
+- **[[#4. Strategies for Better Code Reviews]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Code reviews: heated, but needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980)
@@ -134,7 +136,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Why Do We Perform Code Reviews?
+### 1. Why Do We Perform Code Reviews?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Goal 1: Catch design flaws
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980)
@@ -347,7 +351,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. The Working Team Agreement
+### 2. The Working Team Agreement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's a team working agreement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/what-s-a-team-working-agreement?u=76281980)
@@ -504,7 +510,9 @@ created: 2026-04-28
 > **Non-Speech:** (soft music) (1)
 
 
-### 4. 3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)
+### 3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Subjectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/subjectivity?u=76281980)
@@ -662,7 +670,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Strategies for Better Code Reviews
+### 4. Strategies for Better Code Reviews
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Objectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/objectivity?u=76281980)
@@ -969,7 +979,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your code reviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980)

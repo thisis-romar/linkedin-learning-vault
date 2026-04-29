@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Interview Basics** (5 videos)
-- **3. 2. C++ Specific Questions** (6 videos)
-- **4. 3. C++ Programming Questions** (3 videos)
-- **5. 4. Advanced C++ Programming Topics** (3 videos)
-- **6. 5. C++ Classes** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Interview Basics]]** (5 videos)
+- **[[#3. 2. C++ Specific Questions]]** (6 videos)
+- **[[#4. 3. C++ Programming Questions]]** (3 videos)
+- **[[#5. 4. Advanced C++ Programming Topics]]** (3 videos)
+- **[[#6. 5. C++ Classes]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

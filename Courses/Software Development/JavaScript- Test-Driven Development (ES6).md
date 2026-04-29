@@ -48,15 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Test-Driven Development (TDD) Basics** (6 videos)
-- **3. 2. Writing Unit Tests** (9 videos)
-- **4. 3. Writing Integration Tests** (6 videos)
-- **5. 4. Writing End-to-End Tests** (4 videos)
-- **6. 5. Improving Your TDD Workflow** (6 videos)
-- **7. 6. A Real-World Example** (6 videos)
-- **8. 7. Running Tests** (2 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Test-Driven Development (TDD) Basics]]** (6 videos)
+- **[[#3. 2. Writing Unit Tests]]** (9 videos)
+- **[[#4. 3. Writing Integration Tests]]** (6 videos)
+- **[[#5. 4. Writing End-to-End Tests]]** (4 videos)
+- **[[#6. 5. Improving Your TDD Workflow]]** (6 videos)
+- **[[#7. 6. A Real-World Example]]** (6 videos)
+- **[[#8. 7. Running Tests]]** (2 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

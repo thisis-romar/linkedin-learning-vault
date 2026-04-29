@@ -52,7 +52,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Building Your First Ethereum App** (4 videos)
+- **[[#1. 1. Building Your First Ethereum App]]** (4 videos)
 
 ### 1. 1. Building Your First Ethereum App
 

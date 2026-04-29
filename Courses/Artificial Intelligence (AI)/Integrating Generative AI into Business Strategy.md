@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding AI Capabilities and Fundamentals** (2 videos)
-- **3. 2. Surveying Your Business Landscape** (3 videos)
-- **4. 3. Aligning AI with Your Business** (2 videos)
-- **5. 4. Guiding AI Adoption** (2 videos)
-- **6. 5. Evaluating AI Performance and Impact** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding AI Capabilities and Fundamentals]]** (2 videos)
+- **[[#2. Surveying Your Business Landscape]]** (3 videos)
+- **[[#3. Aligning AI with Your Business]]** (2 videos)
+- **[[#4. Guiding AI Adoption]]** (2 videos)
+- **[[#5. Evaluating AI Performance and Impact]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why a strategic framework is essential for AI adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980)
@@ -132,7 +134,9 @@ created: 2026-04-28
 > **Speakers:** - adopting (1)
 
 
-### 2. 1. Understanding AI Capabilities and Fundamentals
+### 1. Understanding AI Capabilities and Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Invest in AI literacy to gain competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980)
@@ -294,7 +298,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 3. 2. Surveying Your Business Landscape
+### 2. Surveying Your Business Landscape
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Define AI technical requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980)
@@ -496,7 +502,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 4. 3. Aligning AI with Your Business
+### 3. Aligning AI with Your Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Develop an AI roadmap and tie goals to business value
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980)
@@ -617,7 +625,9 @@ created: 2026-04-28
 > **Speakers:** - organizing (1)
 
 
-### 5. 4. Guiding AI Adoption
+### 4. Guiding AI Adoption
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to operationalize your AI strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980)
@@ -763,7 +773,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 6. 5. Evaluating AI Performance and Impact
+### 5. Evaluating AI Performance and Impact
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Assess generative AI outcomes to measure ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980)
@@ -871,7 +883,9 @@ created: 2026-04-28
 > **Speakers:** - implementing (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980)

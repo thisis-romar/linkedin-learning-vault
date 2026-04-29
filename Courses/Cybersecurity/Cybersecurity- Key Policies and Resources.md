@@ -48,15 +48,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Overview of the Cybersecurity Problem (and Solutions)** (3 videos)
-- **3. 2. Overview of Federal Law and Policy** (3 videos)
-- **4. 3. Overview of International Law and Regulation** (2 videos)
-- **5. 4. Engaging with Federal Agencies and Law Enforcement** (2 videos)
-- **6. 5. Making Your Family and Organization More Secure and Resilient** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Overview of the Cybersecurity Problem (and Solutions)]]** (3 videos)
+- **[[#2. Overview of Federal Law and Policy]]** (3 videos)
+- **[[#3. Overview of International Law and Regulation]]** (2 videos)
+- **[[#4. Engaging with Federal Agencies and Law Enforcement]]** (2 videos)
+- **[[#5. Making Your Family and Organization More Secure and Resilient]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigating cybersecurity: Essential policies and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview of the Cybersecurity Problem (and Solutions)
+### 1. Overview of the Cybersecurity Problem (and Solutions)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The cooperative origins of the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980)
@@ -250,7 +254,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Overview of Federal Law and Policy
+### 2. Overview of Federal Law and Policy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Who does what in the federal government?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980)
@@ -442,7 +448,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Overview of International Law and Regulation
+### 3. Overview of International Law and Regulation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### International bodies and organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980)
@@ -548,7 +556,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Engaging with Federal Agencies and Law Enforcement
+### 4. Engaging with Federal Agencies and Law Enforcement
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Combatting ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980)
@@ -684,7 +694,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Making Your Family and Organization More Secure and Resilient
+### 5. Making Your Family and Organization More Secure and Resilient
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Personal security checkup
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980)
@@ -806,7 +818,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/next-steps?u=76281980)

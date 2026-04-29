@@ -47,11 +47,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Internal Mobility and the Great Reshuffle** (3 videos)
-- **3. 2. Positioning Yourself for an Internal Move** (5 videos)
-- **4. 3. How to Find Internal Opportunities** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Internal Mobility and the Great Reshuffle]]** (3 videos)
+- **[[#3. 2. Positioning Yourself for an Internal Move]]** (5 videos)
+- **[[#4. 3. How to Find Internal Opportunities]]** (5 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

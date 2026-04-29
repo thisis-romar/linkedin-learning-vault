@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding Inheritance** (6 videos)
-- **3. 2. Understanding Specificity** (6 videos)
-- **4. 3. Understanding the Cascade** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Understanding Inheritance]]** (6 videos)
+- **[[#2. Understanding Specificity]]** (6 videos)
+- **[[#3. Understanding the Cascade]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The big C in CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-big-c-in-css?u=76281980)
@@ -172,7 +174,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Understanding Inheritance
+### 1. Understanding Inheritance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is inheritance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980)
@@ -804,7 +808,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Understanding Specificity
+### 2. Understanding Specificity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is specificity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-specificity?u=76281980)
@@ -1602,7 +1608,9 @@ created: 2026-04-28
 > **Non-Speech:** (lively music) (1)
 
 
-### 4. 3. Understanding the Cascade
+### 3. Understanding the Cascade
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the cascade?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-the-cascade?u=76281980)
@@ -2267,7 +2275,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Moving forward with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/moving-forward-with-css?u=76281980)

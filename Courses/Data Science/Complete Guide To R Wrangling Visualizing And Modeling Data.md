@@ -57,19 +57,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is R?** (2 videos)
-- **3. 2. Getting Started** (10 videos)
-- **4. 3. Importing Data** (6 videos)
-- **5. 4. Visualizing Data with ggplot2** (9 videos)
-- **6. 5. Wrangling Data** (10 videos)
-- **7. 6. Recoding Data** (5 videos)
-- **8. 7. An R for Data Science Case Study** (1 videos)
-- **9. 8. Exploring Data** (7 videos)
-- **10. 9. Analyzing Data** (6 videos)
-- **11. 10. Predicting Outcomes** (6 videos)
-- **12. 11. Clustering and Classifying Cases** (5 videos)
-- **13. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What Is R?]]** (2 videos)
+- **[[#3. 2. Getting Started]]** (10 videos)
+- **[[#4. 3. Importing Data]]** (6 videos)
+- **[[#5. 4. Visualizing Data with ggplot2]]** (9 videos)
+- **[[#6. 5. Wrangling Data]]** (10 videos)
+- **[[#7. 6. Recoding Data]]** (5 videos)
+- **[[#8. 7. An R for Data Science Case Study]]** (1 videos)
+- **[[#9. 8. Exploring Data]]** (7 videos)
+- **[[#10. 9. Analyzing Data]]** (6 videos)
+- **[[#11. 10. Predicting Outcomes]]** (6 videos)
+- **[[#12. 11. Clustering and Classifying Cases]]** (5 videos)
+- **[[#13. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

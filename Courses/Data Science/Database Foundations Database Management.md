@@ -52,15 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Database Views** (6 videos)
-- **3. 2. Query Performance** (5 videos)
-- **4. 3. Transactions** (4 videos)
-- **5. 4. Data and Object Management** (5 videos)
-- **6. 5. Functions and Stored Procedures** (6 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Database Views]]** (6 videos)
+- **[[#2. Query Performance]]** (5 videos)
+- **[[#3. Transactions]]** (4 videos)
+- **[[#4. Data and Object Management]]** (5 videos)
+- **[[#5. Functions and Stored Procedures]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing database performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980)
@@ -281,7 +283,9 @@ created: 2026-04-28
 > **Prerequisites:** setup (1)
 
 
-### 2. 1. Database Views
+### 1. Database Views
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Save queries as database view objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980)
@@ -960,7 +964,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 3. 2. Query Performance
+### 2. Query Performance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The query optimizer
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980)
@@ -1454,7 +1460,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Transactions
+### 3. Transactions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transactions and data consistency
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/transactions-and-data-consistency?u=76281980)
@@ -1801,7 +1809,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data and Object Management
+### 4. Data and Object Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore the system tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980)
@@ -2226,7 +2236,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Functions and Stored Procedures
+### 5. Functions and Stored Procedures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Add programming elements to the database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980)
@@ -2772,7 +2784,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980)

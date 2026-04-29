@@ -47,14 +47,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. C# Object-Oriented Basics** (5 videos)
-- **3. 2. Class Operations** (6 videos)
-- **4. 3. Static Classes and Methods** (5 videos)
-- **5. 4. Abstract and Sealed Classes** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **1. C# Object-Oriented Basics** (5 videos)
+- **[[#2. Class Operations]]** (6 videos)
+- **[[#3. Static Classes and Methods]]** (5 videos)
+- **[[#4. Abstract and Sealed Classes]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next-level C# OOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Versions:** 7.0 (1)
 
 
-### 2. 1. C# Object-Oriented Basics
+### 1. C# Object-Oriented Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-classes?u=76281980)
@@ -862,7 +866,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Class Operations
+### 2. Class Operations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using object initializers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/using-object-initializers?u=76281980)
@@ -1401,7 +1407,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Static Classes and Methods
+### 3. Static Classes and Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Static members
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-members?u=76281980)
@@ -1836,7 +1844,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Abstract and Sealed Classes
+### 4. Abstract and Sealed Classes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of abstract classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/overview-of-abstract-classes?u=76281980)
@@ -2277,7 +2287,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-steps?u=76281980)

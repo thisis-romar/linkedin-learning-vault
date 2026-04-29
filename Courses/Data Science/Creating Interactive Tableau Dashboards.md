@@ -56,15 +56,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. How to Create the Right Kind of Dashboard** (5 videos)
-- **3. 2. Dashboard Structure** (8 videos)
-- **4. 3. Dashboard Objects** (13 videos)
-- **5. 4. Dashboard Design Elements** (9 videos)
-- **6. 5. Interactions with Dashboard Actions** (10 videos)
-- **7. 6. Using Story Dashboards** (6 videos)
-- **8. 7. One Dataset, Five Dashboards** (7 videos)
-- **9. Conclusion: Continuing Your Tableau Dashboard Learning Journey** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. How to Create the Right Kind of Dashboard]]** (5 videos)
+- **[[#3. 2. Dashboard Structure]]** (8 videos)
+- **[[#4. 3. Dashboard Objects]]** (13 videos)
+- **[[#5. 4. Dashboard Design Elements]]** (9 videos)
+- **[[#6. 5. Interactions with Dashboard Actions]]** (10 videos)
+- **[[#7. 6. Using Story Dashboards]]** (6 videos)
+- **[[#8. 7. One Dataset, Five Dashboards]]** (7 videos)
+- **[[#9. Conclusion: Continuing Your Tableau Dashboard Learning Journey]]** (1 videos)
 
 ### 1. Introduction
 

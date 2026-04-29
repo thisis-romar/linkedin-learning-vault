@@ -55,14 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. The Technology Landscape** (5 videos)
-- **3. 2. Use Cases** (4 videos)
-- **4. 3. The Top-Down Mandate for Change** (4 videos)
-- **5. 4. Tips from the Trenches** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. The Technology Landscape]]** (5 videos)
+- **[[#2. Use Cases]]** (4 videos)
+- **[[#3. The Top-Down Mandate for Change]]** (4 videos)
+- **[[#4. Tips from the Trenches]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your digital ops journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/your-digital-ops-journey-25743614?u=76281980)
@@ -229,7 +231,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. The Technology Landscape
+### 1. The Technology Landscape
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Software is eating the world—of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980)
@@ -519,7 +523,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 3. 2. Use Cases
+### 2. Use Cases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where is digital ops?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/where-is-digital-ops?u=76281980)
@@ -728,7 +734,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. The Top-Down Mandate for Change
+### 3. The Top-Down Mandate for Change
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The need for a strong, top-down mandate
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-need-for-a-strong-top-down-mandate?u=76281980)
@@ -931,7 +939,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 5. 4. Tips from the Trenches
+### 4. Tips from the Trenches
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits: ROP portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980)
@@ -1269,7 +1279,9 @@ created: 2026-04-28
 > **Speakers:** - okay (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/next-steps?u=76281980)

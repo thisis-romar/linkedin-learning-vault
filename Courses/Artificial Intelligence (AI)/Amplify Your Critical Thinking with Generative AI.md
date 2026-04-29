@@ -44,12 +44,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Rooting Out Biases** (3 videos)
-- **3. 2. Critical Thinking Framework for Generative AI** (8 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Rooting Out Biases]]** (3 videos)
+- **[[#2. Critical Thinking Framework for Generative AI]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A timeless framework for an evolving technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980)
@@ -164,7 +166,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. Rooting Out Biases
+### 1. Rooting Out Biases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Putting generative AI through the truth filter
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980)
@@ -396,7 +400,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 3. 2. Critical Thinking Framework for Generative AI
+### 2. Critical Thinking Framework for Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using the PIQPACC critical thinking framework with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980)
@@ -1108,7 +1114,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choose three ways others can use critical thinking with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980)

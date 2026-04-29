@@ -46,7 +46,7 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill** (1 videos)
+- **[[#1. The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill]]** (1 videos)
 
 ### 1. The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill
 

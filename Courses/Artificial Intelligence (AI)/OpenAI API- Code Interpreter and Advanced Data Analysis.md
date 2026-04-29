@@ -54,12 +54,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding the OpenAI Advanced Data Analysis and Code Interpreter** (2 videos)
-- **3. 2. Using the OpenAI Advanced Data Analysis with ChatGPT** (2 videos)
-- **4. 3. Accessing the Code Interpreter Tool from the Assistants API** (3 videos)
-- **5. 4. Exploring Pricing and Limitations** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understanding the OpenAI Advanced Data Analysis and Code Interpreter]]** (2 videos)
+- **[[#3. 2. Using the OpenAI Advanced Data Analysis with ChatGPT]]** (2 videos)
+- **[[#4. 3. Accessing the Code Interpreter Tool from the Assistants API]]** (3 videos)
+- **[[#5. 4. Exploring Pricing and Limitations]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

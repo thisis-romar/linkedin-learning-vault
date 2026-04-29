@@ -46,9 +46,9 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. AI Foundations for Nonprofits** (6 videos)
-- **2. 2. Mission-Driven AI Examples for Nonprofits** (5 videos)
-- **3. 3. Working Smarter with AI in Your Nonprofit Role** (7 videos)
+- **[[#1. 1. AI Foundations for Nonprofits]]** (6 videos)
+- **[[#2. 2. Mission-Driven AI Examples for Nonprofits]]** (5 videos)
+- **[[#3. 3. Working Smarter with AI in Your Nonprofit Role]]** (7 videos)
 
 ### 1. 1. AI Foundations for Nonprofits
 

@@ -55,12 +55,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Basics of Unconscious Bias** (4 videos)
-- **3. 2. Common Forms of Unconscious Bias** (5 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Basics of Unconscious Bias]]** (4 videos)
+- **[[#2. Common Forms of Unconscious Bias]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why identify your bias?
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/why-identify-your-bias?u=76281980)
@@ -103,7 +105,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 2. 1. The Basics of Unconscious Bias
+### 1. The Basics of Unconscious Bias
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is unconscious bias?
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/what-is-unconscious-bias?u=76281980)
@@ -361,7 +365,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Common Forms of Unconscious Bias
+### 2. Common Forms of Unconscious Bias
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Affinity bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980)
@@ -674,7 +680,9 @@ created: 2026-04-28
 > **Speakers:** - was (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practice what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/practice-what-you-ve-learned?u=76281980)

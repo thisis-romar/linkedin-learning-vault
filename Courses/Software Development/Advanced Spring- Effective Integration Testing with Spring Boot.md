@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Explore the Power of Spring Boot Libraries** (2 videos)
-- **3. 2. Integration Testing Against a Real Database** (4 videos)
-- **4. 3. Integration Testing Against Services with Caching Support** (4 videos)
-- **5. 4. Integration Testing Against a Web Controller** (3 videos)
-- **6. 5. Integration Testing for the Client App** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Explore the Power of Spring Boot Libraries]]** (2 videos)
+- **[[#3. 2. Integration Testing Against a Real Database]]** (4 videos)
+- **[[#4. 3. Integration Testing Against Services with Caching Support]]** (4 videos)
+- **[[#5. 4. Integration Testing Against a Web Controller]]** (3 videos)
+- **[[#6. 5. Integration Testing for the Client App]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

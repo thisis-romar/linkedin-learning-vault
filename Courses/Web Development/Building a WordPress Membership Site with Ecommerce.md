@@ -46,14 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (5 videos)
-- **3. 2. Setting Up Your Store** (2 videos)
-- **4. 3. Setting Up Your Memberships** (6 videos)
-- **5. 4. Restricting Content and Products** (4 videos)
-- **6. 5. Managing Members** (3 videos)
-- **7. 6. Before You Launch** (3 videos)
-- **8. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started]]** (5 videos)
+- **[[#3. 2. Setting Up Your Store]]** (2 videos)
+- **[[#4. 3. Setting Up Your Memberships]]** (6 videos)
+- **[[#5. 4. Restricting Content and Products]]** (4 videos)
+- **[[#6. 5. Managing Members]]** (3 videos)
+- **[[#7. 6. Before You Launch]]** (3 videos)
+- **[[#8. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

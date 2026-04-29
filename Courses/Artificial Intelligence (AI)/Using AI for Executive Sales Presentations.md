@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Leverage AI to Develop Your B2B Strategy Skills** (3 videos)
-- **3. 2. Guarantee an Authentic Connection with Your Executive Sponsor** (2 videos)
-- **4. 3. Create a Winning B2B Prospect Presentation Using AI** (2 videos)
-- **5. 4. Sales Presentation Practice Ensures a Confident Mindset** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Leverage AI to Develop Your B2B Strategy Skills]]** (3 videos)
+- **[[#3. 2. Guarantee an Authentic Connection with Your Executive Sponsor]]** (2 videos)
+- **[[#4. 3. Create a Winning B2B Prospect Presentation Using AI]]** (2 videos)
+- **[[#5. 4. Sales Presentation Practice Ensures a Confident Mindset]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

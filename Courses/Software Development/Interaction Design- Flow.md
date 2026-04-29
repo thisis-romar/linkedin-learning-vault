@@ -39,13 +39,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Flow in Interaction Design** (3 videos)
-- **3. 2. Diagrams As Design Tools** (4 videos)
-- **4. 3. Constructing a Flow** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Flow in Interaction Design]]** (3 videos)
+- **[[#2. Diagrams As Design Tools]]** (4 videos)
+- **[[#3. Constructing a Flow]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of flow in interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 2. 1. Flow in Interaction Design
+### 1. Flow in Interaction Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining a user's flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980)
@@ -285,7 +289,9 @@ created: 2026-04-28
 > **Speakers:** - flows (1)
 
 
-### 3. 2. Diagrams As Design Tools
+### 2. Diagrams As Design Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why use diagrams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980)
@@ -546,7 +552,9 @@ created: 2026-04-28
 > **Speakers:** - diagrams (1)
 
 
-### 4. 3. Constructing a Flow
+### 3. Constructing a Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a flow map
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/creating-a-flow-map?u=76281980)
@@ -731,7 +739,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mastering flow in UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/mastering-flow-in-ux?u=76281980)

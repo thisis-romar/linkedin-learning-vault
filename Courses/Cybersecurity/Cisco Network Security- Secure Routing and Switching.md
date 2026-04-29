@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Secure Routing and Switching** (3 videos)
-- **3. 2. Securing Cisco Routers** (9 videos)
-- **4. 3. Security on Cisco Switches** (8 videos)
-- **5. 4. Mitigation Procedures** (4 videos)
-- **6. 5. VLAN Security** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Secure Routing and Switching]]** (3 videos)
+- **[[#3. 2. Securing Cisco Routers]]** (9 videos)
+- **[[#4. 3. Security on Cisco Switches]]** (8 videos)
+- **[[#5. 4. Mitigation Procedures]]** (4 videos)
+- **[[#6. 5. VLAN Security]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

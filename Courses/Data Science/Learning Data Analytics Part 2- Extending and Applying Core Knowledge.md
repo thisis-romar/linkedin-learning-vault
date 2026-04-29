@@ -52,15 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Working with Business Data** (5 videos)
-- **3. 2. Building Data Sets with Queries** (8 videos)
-- **4. 3. Chart Data Anytime and Anywhere** (7 videos)
-- **5. 4. Pivot Data Anytime and Anywhere** (7 videos)
-- **6. 5. Building in Power BI Desktop** (7 videos)
-- **7. 6. Power Query Tips and Tricks for Data Analysts** (7 videos)
-- **8. 7. Presenting Data in Meetings** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Working with Business Data]]** (5 videos)
+- **[[#3. 2. Building Data Sets with Queries]]** (8 videos)
+- **[[#4. 3. Chart Data Anytime and Anywhere]]** (7 videos)
+- **[[#5. 4. Pivot Data Anytime and Anywhere]]** (7 videos)
+- **[[#6. 5. Building in Power BI Desktop]]** (7 videos)
+- **[[#7. 6. Power Query Tips and Tricks for Data Analysts]]** (7 videos)
+- **[[#8. 7. Presenting Data in Meetings]]** (6 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

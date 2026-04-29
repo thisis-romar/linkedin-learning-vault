@@ -51,17 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Virtualization** (3 videos)
-- **3. 2. Virtualization Advantages** (5 videos)
-- **4. 3. Virtualization Disadvantages** (3 videos)
-- **5. 4. Common Uses of Virtualization** (6 videos)
-- **6. 5. Hardware** (5 videos)
-- **7. 6. Microsoft Hyper-V** (6 videos)
-- **8. 7. VMware Workstation** (5 videos)
-- **9. 8. Preparing Your Infrastructure for Virtualization** (2 videos)
-- **10. 9. Troubleshooting** (3 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introduction to Virtualization]]** (3 videos)
+- **[[#3. 2. Virtualization Advantages]]** (5 videos)
+- **[[#4. 3. Virtualization Disadvantages]]** (3 videos)
+- **[[#5. 4. Common Uses of Virtualization]]** (6 videos)
+- **[[#6. 5. Hardware]]** (5 videos)
+- **[[#7. 6. Microsoft Hyper-V]]** (6 videos)
+- **[[#8. 7. VMware Workstation]]** (5 videos)
+- **[[#9. 8. Preparing Your Infrastructure for Virtualization]]** (2 videos)
+- **[[#10. 9. Troubleshooting]]** (3 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

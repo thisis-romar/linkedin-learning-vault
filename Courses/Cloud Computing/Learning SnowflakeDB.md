@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. SnowflakeDB Overview** (6 videos)
-- **3. 2. SnowflakeDB Data Storage and Files** (6 videos)
-- **4. 3. SnowflakeDB Query Processing** (5 videos)
-- **5. 4. SnowflakeDB Data Services** (5 videos)
-- **6. 5. SnowflakeDB Partners and Architectures** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. SnowflakeDB Overview]]** (6 videos)
+- **[[#3. 2. SnowflakeDB Data Storage and Files]]** (6 videos)
+- **[[#4. 3. SnowflakeDB Query Processing]]** (5 videos)
+- **[[#5. 4. SnowflakeDB Data Services]]** (5 videos)
+- **[[#6. 5. SnowflakeDB Partners and Architectures]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

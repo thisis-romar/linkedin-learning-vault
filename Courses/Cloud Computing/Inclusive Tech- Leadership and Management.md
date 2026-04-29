@@ -51,12 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Qualities Do Organizations Look for in a Leader?** (7 videos)
-- **3. 2. The Challenge of Inclusivity** (3 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Qualities Do Organizations Look for in a Leader?]]** (7 videos)
+- **[[#2. The Challenge of Inclusivity]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why inclusivity matters in a tech team
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/why-inclusivity-matters-in-a-tech-team-8692577?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 2. 1. What Qualities Do Organizations Look for in a Leader?
+### 1. What Qualities Do Organizations Look for in a Leader?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Help make you a multidimensional leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/help-make-you-a-multidimensional-leader?u=76281980)
@@ -869,7 +873,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. The Challenge of Inclusivity
+### 2. The Challenge of Inclusivity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inclusivity and the recruitment process
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/inclusivity-and-the-recruitment-process-14001376?u=76281980)
@@ -1182,7 +1188,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for inclusive leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-leadership-and-management/next-steps-for-inclusive-leadership?u=76281980)

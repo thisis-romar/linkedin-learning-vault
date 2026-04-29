@@ -48,16 +48,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Core Security Principles** (6 videos)
-- **3. 2. Understanding Malware** (5 videos)
-- **4. 3. Breaching Your System** (5 videos)
-- **5. 4. Investigating Internet Security** (5 videos)
-- **6. 5. Mobile and Wireless Security** (4 videos)
-- **7. 6. Secure Devices and Applications** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Core Security Principles]]** (6 videos)
+- **[[#2. Understanding Malware]]** (5 videos)
+- **[[#3. Breaching Your System]]** (5 videos)
+- **[[#4. Investigating Internet Security]]** (5 videos)
+- **[[#5. Mobile and Wireless Security]]** (4 videos)
+- **[[#6. Secure Devices and Applications]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tech savvy, tech safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/tech-savvy-tech-safe?u=76281980)
@@ -119,7 +121,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Core Security Principles
+### 1. Core Security Principles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Providing a secure system
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980)
@@ -469,7 +473,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Understanding Malware
+### 2. Understanding Malware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Comparing malicious programs
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/comparing-malicious-programs?u=76281980)
@@ -843,7 +849,9 @@ created: 2026-04-28
 > **Warnings:** keep in mind (1)
 
 
-### 4. 3. Breaching Your System
+### 3. Breaching Your System
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stopping the imposters
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/stopping-the-imposters?u=76281980)
@@ -1139,7 +1147,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Investigating Internet Security
+### 4. Investigating Internet Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessing cloud resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980)
@@ -1505,7 +1515,9 @@ created: 2026-04-28
 > **Best Practices:** best practice (1)
 
 
-### 6. 5. Mobile and Wireless Security
+### 5. Mobile and Wireless Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing your Wi-Fi
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980)
@@ -1831,7 +1843,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 7. 6. Secure Devices and Applications
+### 6. Secure Devices and Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Providing data confidentiality
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980)
@@ -2143,7 +2157,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/next-steps?u=76281980)

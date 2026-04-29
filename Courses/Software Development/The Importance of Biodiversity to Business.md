@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding Biodiversity and the Drivers of Biodiversity Loss** (2 videos)
-- **3. 2. Biodiversity Loss and the Danger for Business** (5 videos)
-- **4. 3. Building a Nature Positive Business** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Biodiversity and the Drivers of Biodiversity Loss]]** (2 videos)
+- **[[#2. Biodiversity Loss and the Danger for Business]]** (5 videos)
+- **[[#3. Building a Nature Positive Business]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why is biodiversity important to business?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/why-is-biodiversity-important-to-business-23761625?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - biodiversity (1)
 
 
-### 2. 1. Understanding Biodiversity and the Drivers of Biodiversity Loss
+### 1. Understanding Biodiversity and the Drivers of Biodiversity Loss
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three levels of biodiversity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980)
@@ -220,7 +224,9 @@ created: 2026-04-28
 > **Speakers:** - biodiversity (1)
 
 
-### 3. 2. Biodiversity Loss and the Danger for Business
+### 2. Biodiversity Loss and the Danger for Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Biodiversity-related risks to business
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980)
@@ -457,7 +463,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Building a Nature Positive Business
+### 3. Building a Nature Positive Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The benefits of being a nature-positive company
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980)
@@ -581,7 +589,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tackle biodiversity loss and become a nature-positive company
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980)

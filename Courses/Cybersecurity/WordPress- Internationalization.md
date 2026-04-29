@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introducing Internationalization** (3 videos)
-- **3. 2. Internationalization Concepts** (3 videos)
-- **4. 3. Working with Translation Functions in PHP** (6 videos)
-- **5. 4. Working with Translation Functions in JavaScript** (3 videos)
-- **6. 5. Make a Plugin Translation-Ready** (10 videos)
-- **7. 6. Advanced Concepts** (3 videos)
-- **8. 7. Contributing to Open Source** (2 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introducing Internationalization]]** (3 videos)
+- **[[#3. 2. Internationalization Concepts]]** (3 videos)
+- **[[#4. 3. Working with Translation Functions in PHP]]** (6 videos)
+- **[[#5. 4. Working with Translation Functions in JavaScript]]** (3 videos)
+- **[[#6. 5. Make a Plugin Translation-Ready]]** (10 videos)
+- **[[#7. 6. Advanced Concepts]]** (3 videos)
+- **[[#8. 7. Contributing to Open Source]]** (2 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

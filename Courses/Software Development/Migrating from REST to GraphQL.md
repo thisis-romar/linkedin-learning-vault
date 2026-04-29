@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. First steps** (4 videos)
-- **3. 2. Add Items with GraphQL** (5 videos)
-- **4. 3. Read Items with GraphQL** (3 videos)
-- **5. 4. Update Items with GraphQL** (2 videos)
-- **6. 4. Update Items with GraphQL** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. First steps]]** (4 videos)
+- **[[#3. 2. Add Items with GraphQL]]** (5 videos)
+- **[[#4. 3. Read Items with GraphQL]]** (3 videos)
+- **[[#5. 4. Update Items with GraphQL]]** (2 videos)
+- **[[#6. 4. Update Items with GraphQL]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

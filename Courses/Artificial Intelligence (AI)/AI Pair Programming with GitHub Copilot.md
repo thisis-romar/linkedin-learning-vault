@@ -57,12 +57,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Familiar with Copilot** (5 videos)
-- **3. 2. Building a Project with Copilot** (2 videos)
-- **4. 3. Back-End Code with Copilot** (5 videos)
-- **5. 4. Front-End Fun with Copilot** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Familiar with Copilot]]** (5 videos)
+- **[[#3. 2. Building a Project with Copilot]]** (2 videos)
+- **[[#4. 3. Back-End Code with Copilot]]** (5 videos)
+- **[[#5. 4. Front-End Fun with Copilot]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

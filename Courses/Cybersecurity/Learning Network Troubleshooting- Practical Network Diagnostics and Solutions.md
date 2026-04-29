@@ -47,16 +47,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Training Network Problems** (3 videos)
-- **3. 2. Troubleshooting Remote User Network Problems** (3 videos)
-- **4. 3. Troubleshooting Corporate Wireless Network Problems** (2 videos)
-- **5. 4. Troubleshooting VPN Network Problems** (3 videos)
-- **6. 5. Network Tools Administrators Need to Know** (5 videos)
-- **7. 6. Troubleshooting Routing, Switching, and Firewalls** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Training Network Problems]]** (3 videos)
+- **[[#2. Troubleshooting Remote User Network Problems]]** (3 videos)
+- **[[#3. Troubleshooting Corporate Wireless Network Problems]]** (2 videos)
+- **[[#4. Troubleshooting VPN Network Problems]]** (3 videos)
+- **[[#5. Network Tools Administrators Need to Know]]** (5 videos)
+- **[[#6. Troubleshooting Routing, Switching, and Firewalls]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Need to troubleshoot your network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Speakers:** - [robert] (1)
 
 
-### 2. 1. Training Network Problems
+### 1. Training Network Problems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to determine the severity of network problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980)
@@ -419,7 +423,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Troubleshooting Remote User Network Problems
+### 2. Troubleshooting Remote User Network Problems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common home networking issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980)
@@ -956,7 +962,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (2), setup (1)
 
 
-### 4. 3. Troubleshooting Corporate Wireless Network Problems
+### 3. Troubleshooting Corporate Wireless Network Problems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Most common issues with corporate wireless
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980)
@@ -1082,7 +1090,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. Troubleshooting VPN Network Problems
+### 4. Troubleshooting VPN Network Problems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What VPN types work in hotels and restaurants
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980)
@@ -1372,7 +1382,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Network Tools Administrators Need to Know
+### 5. Network Tools Administrators Need to Know
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Windows command-line tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980)
@@ -2079,7 +2091,9 @@ created: 2026-04-28
 > **URLs:** [nmap.org](https://nmap.org) (2), [wireshark.org](https://wireshark.org) (1)
 
 
-### 7. 6. Troubleshooting Routing, Switching, and Firewalls
+### 6. Troubleshooting Routing, Switching, and Firewalls
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modern network design
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980)
@@ -2426,7 +2440,9 @@ created: 2026-04-28
 > **Analogies:** for instance (2)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980)

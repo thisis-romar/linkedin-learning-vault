@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Introduction to Pulse-Width Modulation (PWM)** (5 videos)
-- **3. 2. Using Analog Inputs to Drive PWM Output** (7 videos)
-- **4. 3. LED and PWM** (8 videos)
-- **5. 4. Motor Control** (9 videos)
-- **6. Next steps** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Introduction to Pulse-Width Modulation (PWM)]]** (5 videos)
+- **[[#3. 2. Using Analog Inputs to Drive PWM Output]]** (7 videos)
+- **[[#4. 3. LED and PWM]]** (8 videos)
+- **[[#5. 4. Motor Control]]** (9 videos)
+- **[[#6. Next steps]]** (1 videos)
 
 ### 1. Introduction
 

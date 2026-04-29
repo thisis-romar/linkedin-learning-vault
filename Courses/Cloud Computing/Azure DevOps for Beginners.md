@@ -51,14 +51,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Setup and Overview** (10 videos)
-- **3. 2. Azure Boards** (14 videos)
-- **4. 3. Azure Repos** (9 videos)
-- **5. 4. Azure Pipelines** (12 videos)
-- **6. 5. Extending DevOps** (9 videos)
-- **7. 6. Additional Topics** (3 videos)
-- **8. 7. Continue Your Journey** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Setup and Overview]]** (10 videos)
+- **[[#3. 2. Azure Boards]]** (14 videos)
+- **[[#4. 3. Azure Repos]]** (9 videos)
+- **[[#5. 4. Azure Pipelines]]** (12 videos)
+- **[[#6. 5. Extending DevOps]]** (9 videos)
+- **[[#7. 6. Additional Topics]]** (3 videos)
+- **[[#8. 7. Continue Your Journey]]** (1 videos)
 
 ### 1. Introduction
 

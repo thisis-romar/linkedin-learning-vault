@@ -59,15 +59,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Context: Law, Ethics, and AI Risk** (5 videos)
-- **3. 2. Context: AI in Your Organization** (2 videos)
-- **4. 3. Culture: Establishing Governance Structures** (5 videos)
-- **5. 4. Content: Managing Data and AI Models** (7 videos)
-- **6. 5. Commitment** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Context: Law, Ethics, and AI Risk]]** (5 videos)
+- **[[#2. Context: AI in Your Organization]]** (2 videos)
+- **[[#3. Culture: Establishing Governance Structures]]** (5 videos)
+- **[[#4. Content: Managing Data and AI Models]]** (7 videos)
+- **[[#5. Commitment]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Actionable steps to responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/actionable-steps-to-responsible-ai?u=76281980)
@@ -224,7 +226,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. Context: Law, Ethics, and AI Risk
+### 1. Context: Law, Ethics, and AI Risk
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connector: Start with context
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-start-with-context?u=76281980)
@@ -605,7 +609,9 @@ created: 2026-04-28
 > **Speakers:** - an (1)
 
 
-### 3. 2. Context: AI in Your Organization
+### 2. Context: AI in Your Organization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Documenting AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980)
@@ -768,7 +774,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 4. 3. Culture: Establishing Governance Structures
+### 3. Culture: Establishing Governance Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connector: From context to culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980)
@@ -1048,7 +1056,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 5. 4. Content: Managing Data and AI Models
+### 4. Content: Managing Data and AI Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connector: From culture to content
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980)
@@ -1466,7 +1476,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 6. 5. Commitment
+### 5. Commitment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Connector: Moving to commitment
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-moving-to-commitment?u=76281980)
@@ -1672,7 +1684,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The journey of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980)

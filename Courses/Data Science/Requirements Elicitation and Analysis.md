@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Elicitation and Analysis Overview** (6 videos)
-- **3. 2. Elicitation Techniques** (6 videos)
-- **4. 3. Analysis Techniques** (7 videos)
-- **5. 4. Tailoring to the Project or Product Type** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Elicitation and Analysis Overview]]** (6 videos)
+- **[[#2. Elicitation Techniques]]** (6 videos)
+- **[[#3. Analysis Techniques]]** (7 videos)
+- **[[#4. Tailoring to the Project or Product Type]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start defining and discovering
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 2. 1. Elicitation and Analysis Overview
+### 1. Elicitation and Analysis Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are elicitation and analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980)
@@ -476,7 +480,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 3. 2. Elicitation Techniques
+### 2. Elicitation Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Elicitation overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/elicitation-overview-8360495?u=76281980)
@@ -908,7 +914,9 @@ created: 2026-04-28
 > **Speakers:** - requirements (1)
 
 
-### 4. 3. Analysis Techniques
+### 3. Analysis Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analysis overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980)
@@ -1509,7 +1517,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 5. 4. Tailoring to the Project or Product Type
+### 4. Tailoring to the Project or Product Type
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Blending your elicitation and analysis together
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980)

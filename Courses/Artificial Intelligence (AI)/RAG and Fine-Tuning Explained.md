@@ -56,11 +56,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. RAG and Fine-Tuning** (8 videos)
-- **3. 2. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. RAG and Fine-Tuning]]** (8 videos)
+- **[[#2. Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### RAG, fine-tuning, and the enterprise
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/rag-fine-tuning-and-the-enterprise?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. RAG and Fine-Tuning
+### 1. RAG and Fine-Tuning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How LLMs work
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/how-llms-work?u=76281980)
@@ -438,7 +442,9 @@ created: 2026-04-28
 > **Speakers:** - based (1)
 
 
-### 3. 2. Conclusion
+### 2. Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tying it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-and-fine-tuning-explained/tying-it-all-together?u=76281980)

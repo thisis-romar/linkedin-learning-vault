@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction to Windows Server 2022: Installation and Configuration** (2 videos)
-- **2. 1. Installing Windows Server 2022** (4 videos)
-- **3. 2. Configuring Windows Server** (6 videos)
-- **4. 3. Configuring Storage** (7 videos)
-- **5. 4. Configuring Server Roles and Features** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction to Windows Server 2022: Installation and Configuration]]** (2 videos)
+- **[[#2. 1. Installing Windows Server 2022]]** (4 videos)
+- **[[#3. 2. Configuring Windows Server]]** (6 videos)
+- **[[#4. 3. Configuring Storage]]** (7 videos)
+- **[[#5. 4. Configuring Server Roles and Features]]** (4 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction to Windows Server 2022: Installation and Configuration
 

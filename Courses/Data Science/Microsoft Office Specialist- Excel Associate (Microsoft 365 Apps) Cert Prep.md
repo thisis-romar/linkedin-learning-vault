@@ -46,14 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Microsoft Office Specialist Exam Overview** (2 videos)
-- **3. 2. Manage Worksheets and Workbooks** (15 videos)
-- **4. 3. Manage Data Cells and Ranges** (11 videos)
-- **5. 4. Manage Tables and Table Data** (5 videos)
-- **6. 5. Perform Operations Using Formulas and Functions** (11 videos)
-- **7. 6. Manage Charts** (5 videos)
-- **8. 7. Final Practice Exam** (2 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Microsoft Office Specialist Exam Overview]]** (2 videos)
+- **[[#3. 2. Manage Worksheets and Workbooks]]** (15 videos)
+- **[[#4. 3. Manage Data Cells and Ranges]]** (11 videos)
+- **[[#5. 4. Manage Tables and Table Data]]** (5 videos)
+- **[[#6. 5. Perform Operations Using Formulas and Functions]]** (11 videos)
+- **[[#7. 6. Manage Charts]]** (5 videos)
+- **[[#8. 7. Final Practice Exam]]** (2 videos)
 
 ### 1. Introduction
 

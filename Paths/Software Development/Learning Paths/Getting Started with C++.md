@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-c-plus-plus
 course_count: 5
 linkedin_topics:
   - Software Development
-louvain_cluster: 22
+louvain_cluster: 18
 tags:
   - learning-path
   - topic/software-development

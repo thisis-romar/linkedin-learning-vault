@@ -42,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Thought Leadership?** (2 videos)
-- **3. 2. Where Should I Start?** (2 videos)
-- **4. 3. How and What Should I Share?** (5 videos)
-- **5. 4. Best Practices for Thought Leaders** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Thought Leadership?]]** (2 videos)
+- **[[#2. Where Should I Start?]]** (2 videos)
+- **[[#3. How and What Should I Share?]]** (5 videos)
+- **[[#4. Best Practices for Thought Leaders]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What does thought leadership mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/what-does-thought-leadership-mean?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. What Is Thought Leadership?
+### 1. What Is Thought Leadership?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Characteristics of a thought leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/characteristics-of-a-thought-leader?u=76281980)
@@ -191,7 +195,9 @@ created: 2026-04-28
 > **Speakers:** - why (1)
 
 
-### 3. 2. Where Should I Start?
+### 2. Where Should I Start?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Establish your personal brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/establish-your-personal-brand?u=76281980)
@@ -320,7 +326,9 @@ created: 2026-04-28
 > **Speakers:** - after (1)
 
 
-### 4. 3. How and What Should I Share?
+### 3. How and What Should I Share?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Write your own thought content
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/write-your-own-thought-content?u=76281980)
@@ -662,7 +670,9 @@ created: 2026-04-28
 > **Speakers:** - speaking (1)
 
 
-### 5. 4. Best Practices for Thought Leaders
+### 4. Best Practices for Thought Leaders
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Engage people vs. talking at them
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/engage-people-vs-talking-at-them?u=76281980)
@@ -851,7 +861,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Maximize your impact in minimal time
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-become-a-thought-leader-and-advance-your-career/maximize-your-impact-in-minimal-time?u=76281980)

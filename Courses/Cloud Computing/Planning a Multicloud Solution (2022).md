@@ -51,18 +51,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. Preparing for Multicloud** (7 videos)
-- **3. 2. Selecting Technology** (8 videos)
-- **4. 3. Approaching Ops** (5 videos)
-- **5. 4. Approaching Dev** (5 videos)
-- **6. 5. Approaching Gov** (5 videos)
-- **7. 6. Approaching FinOps** (5 videos)
-- **8. 7. Putting Together a Multicloud Strategy** (5 videos)
-- **9. 8. Deployment and Testing** (3 videos)
-- **10. Conclusion** (2 videos)
+- **[[#Introduction]]** (6 videos)
+- **[[#1. Preparing for Multicloud]]** (7 videos)
+- **[[#2. Selecting Technology]]** (8 videos)
+- **[[#3. Approaching Ops]]** (5 videos)
+- **[[#4. Approaching Dev]]** (5 videos)
+- **[[#5. Approaching Gov]]** (5 videos)
+- **[[#6. Approaching FinOps]]** (5 videos)
+- **[[#7. Putting Together a Multicloud Strategy]]** (5 videos)
+- **[[#8. Deployment and Testing]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Planning a multicloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/planning-a-multicloud?u=76281980)
@@ -281,7 +283,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Preparing for Multicloud
+### 1. Preparing for Multicloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Business case for multicloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980)
@@ -607,7 +611,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Selecting Technology
+### 2. Selecting Technology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Public clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980)
@@ -923,7 +929,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Approaching Ops
+### 3. Approaching Ops
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building an ops process
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980)
@@ -1108,7 +1116,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Approaching Dev
+### 4. Approaching Dev
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a dev process
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980)
@@ -1294,7 +1304,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Approaching Gov
+### 5. Approaching Gov
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Resource governance and multicloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/resource-governance-and-multicloud?u=76281980)
@@ -1502,7 +1514,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. Approaching FinOps
+### 6. Approaching FinOps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is multicloud FinOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud-finops?u=76281980)
@@ -1650,7 +1664,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Putting Together a Multicloud Strategy
+### 7. Putting Together a Multicloud Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Logical planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/logical-planning?u=76281980)
@@ -1827,7 +1843,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Deployment and Testing
+### 8. Deployment and Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Staged deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980)
@@ -1955,7 +1973,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final considerations for a successful multicloud deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980)

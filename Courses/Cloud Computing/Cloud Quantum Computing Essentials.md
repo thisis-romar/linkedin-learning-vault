@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Cloud Quantum Computing Services Overview** (4 videos)
-- **3. 2. Cloud Quantum Vendors** (6 videos)
-- **4. 3. Core Quantum Computing Gates and Operations** (6 videos)
-- **5. 4. Quantum Algorithms and Applications** (4 videos)
-- **6. 5. Quantum Machine Learning** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Cloud Quantum Computing Services Overview]]** (4 videos)
+- **[[#3. 2. Cloud Quantum Vendors]]** (6 videos)
+- **[[#4. 3. Core Quantum Computing Gates and Operations]]** (6 videos)
+- **[[#5. 4. Quantum Algorithms and Applications]]** (4 videos)
+- **[[#6. 5. Quantum Machine Learning]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

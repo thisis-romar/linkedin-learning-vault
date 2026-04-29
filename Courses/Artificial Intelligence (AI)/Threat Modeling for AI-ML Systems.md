@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Threat Modeling Overview** (4 videos)
-- **3. 2. What Are You Working on with ML?** (5 videos)
-- **4. 3. What Can Go Wrong with ML Security** (5 videos)
-- **5. 4. What Can Go Wrong with AI: Trustworthiness** (4 videos)
-- **6. 5. What Are You Going to Do about It?** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Threat Modeling Overview]]** (4 videos)
+- **[[#3. 2. What Are You Working on with ML?]]** (5 videos)
+- **[[#4. 3. What Can Go Wrong with ML Security]]** (5 videos)
+- **[[#5. 4. What Can Go Wrong with AI: Trustworthiness]]** (4 videos)
+- **[[#6. 5. What Are You Going to Do about It?]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

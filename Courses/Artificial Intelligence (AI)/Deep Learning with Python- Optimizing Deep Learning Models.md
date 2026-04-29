@@ -51,13 +51,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Optimizing Deep Learning Models** (1 videos)
-- **3. 2. Regularization Techniques** (7 videos)
-- **4. 3. Loss Functions and Optimization Algorithms** (8 videos)
-- **5. 4. Hyperparameter Tuning Techniques** (5 videos)
-- **6. 5. Advanced Training Techniques** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Optimizing Deep Learning Models]]** (1 videos)
+- **[[#3. 2. Regularization Techniques]]** (7 videos)
+- **[[#4. 3. Loss Functions and Optimization Algorithms]]** (8 videos)
+- **[[#5. 4. Hyperparameter Tuning Techniques]]** (5 videos)
+- **[[#6. 5. Advanced Training Techniques]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

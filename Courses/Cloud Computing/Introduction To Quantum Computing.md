@@ -43,12 +43,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding Classical Computing** (4 videos)
-- **3. 2. What Is Quantum Computing?** (5 videos)
-- **4. 3. Applications of Quantum Computing** (3 videos)
-- **5. 4. Opportunities and Risks of Quantum Computing** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understanding Classical Computing]]** (4 videos)
+- **[[#3. 2. What Is Quantum Computing?]]** (5 videos)
+- **[[#4. 3. Applications of Quantum Computing]]** (3 videos)
+- **[[#5. 4. Opportunities and Risks of Quantum Computing]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

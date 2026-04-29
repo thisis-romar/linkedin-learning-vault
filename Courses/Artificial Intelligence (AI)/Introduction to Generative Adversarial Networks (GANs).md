@@ -52,12 +52,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to GANs and Their Broad Impact** (3 videos)
-- **3. 2. How GANs Learn to Create/Generate/Architecture** (3 videos)
-- **4. 3. Building Your First GAN** (3 videos)
-- **5. 4. GANs in the Real World** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to GANs and Their Broad Impact]]** (3 videos)
+- **[[#3. 2. How GANs Learn to Create/Generate/Architecture]]** (3 videos)
+- **[[#4. 3. Building Your First GAN]]** (3 videos)
+- **[[#5. 4. GANs in the Real World]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

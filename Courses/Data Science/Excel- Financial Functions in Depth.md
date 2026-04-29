@@ -48,13 +48,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Analyzing Loans, Payments, and Interest in Excel** (8 videos)
-- **3. 2. Calculating Depreciation with Excel Functions** (6 videos)
-- **4. 3. Determining Values and Rates of Return in Excel** (10 videos)
-- **5. 4. New Tools in Excel for MS365** (10 videos)
-- **6. 5. Combining Excel Functions Perform Financial Analysis** (11 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Analyzing Loans, Payments, and Interest in Excel]]** (8 videos)
+- **[[#3. 2. Calculating Depreciation with Excel Functions]]** (6 videos)
+- **[[#4. 3. Determining Values and Rates of Return in Excel]]** (10 videos)
+- **[[#5. 4. New Tools in Excel for MS365]]** (10 videos)
+- **[[#6. 5. Combining Excel Functions Perform Financial Analysis]]** (11 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

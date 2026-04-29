@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Power of Human-Machine Collaboration** (3 videos)
-- **3. 2. Mindset Shifts to Master AI** (5 videos)
-- **4. 3. Start Building AI Aptitude** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Power of Human-Machine Collaboration]]** (3 videos)
+- **[[#2. Mindset Shifts to Master AI]]** (5 videos)
+- **[[#3. Start Building AI Aptitude]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dispelling common AI fears
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dispelling-common-ai-fears?u=76281980)
@@ -179,7 +181,9 @@ created: 2026-04-28
 > **Speakers:** - between (1)
 
 
-### 2. 1. The Power of Human-Machine Collaboration
+### 1. The Power of Human-Machine Collaboration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The majesty of human capability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/the-majesty-of-human-capability?u=76281980)
@@ -453,7 +457,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 3. 2. Mindset Shifts to Master AI
+### 2. Mindset Shifts to Master AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Linear vs. quantum thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/linear-vs-quantum-thinking?u=76281980)
@@ -832,7 +838,9 @@ created: 2026-04-28
 > **Speakers:** - intelligence (1)
 
 
-### 4. 3. Start Building AI Aptitude
+### 3. Start Building AI Aptitude
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining AI aptitude
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980)
@@ -1224,7 +1232,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Imagining a post-work society
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/imagining-a-post-work-society?u=76281980)

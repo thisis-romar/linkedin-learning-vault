@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Before the Head of the Document** (2 videos)
-- **3. 2. Understanding Meta Tags** (10 videos)
-- **4. 3. Other Head Tags** (8 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Before the Head of the Document]]** (2 videos)
+- **[[#3. 2. Understanding Meta Tags]]** (10 videos)
+- **[[#4. 3. Other Head Tags]]** (8 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

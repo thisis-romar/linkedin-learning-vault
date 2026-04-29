@@ -52,14 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Intersectionality in AI** (3 videos)
-- **3. 2. DEI in AI Development** (2 videos)
-- **4. 3. Minimizing Bias in AI** (2 videos)
-- **5. 4. The Future of AI and DEI** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Intersectionality in AI]]** (3 videos)
+- **[[#2. DEI in AI Development]]** (2 videos)
+- **[[#3. Minimizing Bias in AI]]** (2 videos)
+- **[[#4. The Future of AI and DEI]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI and its impact on diversity, equity, and inclusion (DEI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ai-and-its-impact-on-dei?u=76281980)
@@ -184,7 +186,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 2. 1. Intersectionality in AI
+### 1. Intersectionality in AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigating intersectionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/navigating-intersectionality?u=76281980)
@@ -390,7 +394,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 3. 2. DEI in AI Development
+### 2. DEI in AI Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ethics and values in AI development
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980)
@@ -570,7 +576,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 4. 3. Minimizing Bias in AI
+### 3. Minimizing Bias in AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The impact of data bias on AI outcomes
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-impact-of-data-bias-on-ai-outcomes?u=76281980)
@@ -693,7 +701,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 5. 4. The Future of AI and DEI
+### 4. The Future of AI and DEI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responsibility in future AI development and use
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980)
@@ -821,7 +831,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modeling the future you want to see
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980)

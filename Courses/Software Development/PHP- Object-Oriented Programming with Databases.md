@@ -45,14 +45,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Overview and Project Setup** (4 videos)
-- **3. 2. The Database Connection** (5 videos)
-- **4. 3. Define a Database-Driven Class** (6 videos)
-- **5. 4. Object-Oriented CRUD** (10 videos)
-- **6. 5. Object-Oriented Authentication** (9 videos)
-- **7. 6. Object-Oriented Pagination** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Overview and Project Setup]]** (4 videos)
+- **[[#3. 2. The Database Connection]]** (5 videos)
+- **[[#4. 3. Define a Database-Driven Class]]** (6 videos)
+- **[[#5. 4. Object-Oriented CRUD]]** (10 videos)
+- **[[#6. 5. Object-Oriented Authentication]]** (9 videos)
+- **[[#7. 6. Object-Oriented Pagination]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

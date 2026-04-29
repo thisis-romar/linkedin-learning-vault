@@ -44,14 +44,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Importance of Cash Flow Analysis** (3 videos)
-- **3. 2. Overview of the Statement of Cash Flows** (5 videos)
-- **4. 3. Using Cash Flow Data to Make a Loan Decision** (5 videos)
-- **5. 4. Convert Income Statement Data to Operating Cash Flow Data** (6 videos)
-- **6. 5. Managing Cash Flow** (4 videos)
-- **7. 6. Cash Flow Numbers for Some Real Companies** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Importance of Cash Flow Analysis]]** (3 videos)
+- **[[#3. 2. Overview of the Statement of Cash Flows]]** (5 videos)
+- **[[#4. 3. Using Cash Flow Data to Make a Loan Decision]]** (5 videos)
+- **[[#5. 4. Convert Income Statement Data to Operating Cash Flow Data]]** (6 videos)
+- **[[#6. 5. Managing Cash Flow]]** (4 videos)
+- **[[#7. 6. Cash Flow Numbers for Some Real Companies]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

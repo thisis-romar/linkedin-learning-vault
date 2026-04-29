@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understand the Big Picture** (6 videos)
-- **3. 2. How to Think About Cybersecurity** (4 videos)
-- **4. 3. Avoid Phishing Attacks** (3 videos)
-- **5. 4. Stop Malicious Code** (3 videos)
-- **6. 5. Avoid Identity Theft** (3 videos)
-- **7. 6. Avoid Financial Cyber Theft** (3 videos)
-- **8. 7. Special Topics** (11 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understand the Big Picture]]** (6 videos)
+- **[[#3. 2. How to Think About Cybersecurity]]** (4 videos)
+- **[[#4. 3. Avoid Phishing Attacks]]** (3 videos)
+- **[[#5. 4. Stop Malicious Code]]** (3 videos)
+- **[[#6. 5. Avoid Identity Theft]]** (3 videos)
+- **[[#7. 6. Avoid Financial Cyber Theft]]** (3 videos)
+- **[[#8. 7. Special Topics]]** (11 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

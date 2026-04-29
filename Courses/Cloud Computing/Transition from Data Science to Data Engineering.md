@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Fundamentals of Data Engineering** (4 videos)
-- **3. 2. Understanding the Data Repository** (4 videos)
-- **4. 3. Data Processing, Security, and Compliance** (3 videos)
-- **5. 4. Cloud Computing for Data Engineers** (2 videos)
-- **6. 5. Do Not Underestimate Data Quality and Data Governance** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Fundamentals of Data Engineering]]** (4 videos)
+- **[[#3. 2. Understanding the Data Repository]]** (4 videos)
+- **[[#4. 3. Data Processing, Security, and Compliance]]** (3 videos)
+- **[[#5. 4. Cloud Computing for Data Engineers]]** (2 videos)
+- **[[#6. 5. Do Not Underestimate Data Quality and Data Governance]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

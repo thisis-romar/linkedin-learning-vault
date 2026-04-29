@@ -39,13 +39,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Blueprint for an AI Foundation** (5 videos)
-- **3. 2. Onboarding Your AI Agents** (5 videos)
-- **4. 3. From Adoption and Governance to Going Big** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Blueprint for an AI Foundation]]** (5 videos)
+- **[[#2. Onboarding Your AI Agents]]** (5 videos)
+- **[[#3. From Adoption and Governance to Going Big]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The AI imperative for SMBs
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-ai-imperative-for-smbs?u=76281980)
@@ -89,7 +91,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 2. 1. Blueprint for an AI Foundation
+### 1. Blueprint for an AI Foundation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The promises and limits of today's AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-promises-and-limits-of-today-s-ai?u=76281980)
@@ -416,7 +420,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 3. 2. Onboarding Your AI Agents
+### 2. Onboarding Your AI Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your toolkit before agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/your-toolkit-before-agents?u=76281980)
@@ -690,7 +696,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 4. 3. From Adoption and Governance to Going Big
+### 3. From Adoption and Governance to Going Big
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data, process, and talent
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/data-process-and-talent?u=76281980)
@@ -943,7 +951,9 @@ created: 2026-04-28
 > **Speakers:** - by (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future of AI agents and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-future-of-ai-agents-and-next-steps?u=76281980)

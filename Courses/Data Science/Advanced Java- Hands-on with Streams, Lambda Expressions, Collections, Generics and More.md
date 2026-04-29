@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Streams and Lambda Expressions** (4 videos)
-- **3. 2. Collections and Generics** (4 videos)
-- **4. 3. Annotations and Reflection** (4 videos)
-- **5. 4. Concurrency and Multithreading** (3 videos)
-- **6. 5. Working with the Singleton Design Pattern** (3 videos)
-- **7. 6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Streams and Lambda Expressions]]** (4 videos)
+- **[[#3. 2. Collections and Generics]]** (4 videos)
+- **[[#4. 3. Annotations and Reflection]]** (4 videos)
+- **[[#5. 4. Concurrency and Multithreading]]** (3 videos)
+- **[[#6. 5. Working with the Singleton Design Pattern]]** (3 videos)
+- **[[#7. 6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

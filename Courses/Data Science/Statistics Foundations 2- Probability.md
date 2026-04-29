@@ -69,13 +69,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Probability** (5 videos)
-- **3. 2. Multiple Event Probabilities** (7 videos)
-- **4. 3. Discrete and Continuous Probabilities** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Probability]]** (5 videos)
+- **[[#2. Multiple Event Probabilities]]** (7 videos)
+- **[[#3. Discrete and Continuous Probabilities]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of probabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/the-importance-of-probabilities?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - gamblers (1)
 
 
-### 2. 1. Introduction to Probability
+### 1. Introduction to Probability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Probability basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/probability-basics?u=76281980)
@@ -542,7 +546,9 @@ created: 2026-04-28
 > **Speakers:** - to (1)
 
 
-### 3. 2. Multiple Event Probabilities
+### 2. Multiple Event Probabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to multiple events
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/introduction-to-multiple-events?u=76281980)
@@ -1137,7 +1143,9 @@ created: 2026-04-28
 > **Speakers:** - millionaires (1)
 
 
-### 4. 3. Discrete and Continuous Probabilities
+### 3. Discrete and Continuous Probabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discrete vs. continuous
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/discrete-vs-continuous?u=76281980)
@@ -1730,7 +1738,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-2-probability/next-steps?u=76281980)

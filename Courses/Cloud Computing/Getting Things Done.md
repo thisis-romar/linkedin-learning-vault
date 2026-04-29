@@ -51,10 +51,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Things Done** (6 videos)
-- **3. 2. Implications of Getting Things Done** (4 videos)
-- **4. 3. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Getting Things Done]]** (6 videos)
+- **[[#3. 2. Implications of Getting Things Done]]** (4 videos)
+- **[[#4. 3. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

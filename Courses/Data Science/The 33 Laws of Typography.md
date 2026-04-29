@@ -44,15 +44,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. How to Format a Document** (6 videos)
-- **3. 2. How to Format Large Bodies of Text** (9 videos)
-- **4. 3. How to Format Smaller Blocks of Text** (10 videos)
-- **5. 4. How to Use Punctuation Properly** (5 videos)
-- **6. 5. How to Choose Typefaces** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. How to Format a Document]]** (6 videos)
+- **[[#2. How to Format Large Bodies of Text]]** (9 videos)
+- **[[#3. How to Format Smaller Blocks of Text]]** (10 videos)
+- **[[#4. How to Use Punctuation Properly]]** (5 videos)
+- **[[#5. How to Choose Typefaces]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980)
@@ -115,7 +117,9 @@ created: 2026-04-28
 > **Speakers:** - [voiceover] (1)
 
 
-### 2. 1. How to Format a Document
+### 1. How to Format a Document
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### 01 Distrust default software settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/01-distrust-default-software-settings?u=76281980)
@@ -841,7 +845,9 @@ created: 2026-04-28
 > **Speakers:** - law (1)
 
 
-### 3. 2. How to Format Large Bodies of Text
+### 2. How to Format Large Bodies of Text
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### 07 Set printed body text from 9 to 11 points
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/07-set-printed-body-text-from-9-to-11-points?u=76281980)
@@ -1753,7 +1759,9 @@ created: 2026-04-28
 > **Speakers:** - law (1)
 
 
-### 4. 3. How to Format Smaller Blocks of Text
+### 3. How to Format Smaller Blocks of Text
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### 16 Emphasize ten percent or less of text
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/16-emphasize-ten-percent-or-less-of-text?u=76281980)
@@ -2846,7 +2854,9 @@ created: 2026-04-28
 > **Speakers:** - law (1)
 
 
-### 5. 4. How to Use Punctuation Properly
+### 4. How to Use Punctuation Properly
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### 26 Connect thoughts, using em dashes
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980)
@@ -3378,7 +3388,9 @@ created: 2026-04-28
 > **Speakers:** - law (1)
 
 
-### 6. 5. How to Choose Typefaces
+### 5. How to Choose Typefaces
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### 31 Limit typefaces to two per document
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/31-limit-typefaces-to-two-per-document?u=76281980)
@@ -3659,7 +3671,9 @@ created: 2026-04-28
 > **Speakers:** - law (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/goodbye?u=76281980)

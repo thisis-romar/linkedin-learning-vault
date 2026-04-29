@@ -54,11 +54,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding Embeddings** (2 videos)
-- **3. 2. Obtaining Embeddings via the Embeddings API** (3 videos)
-- **4. 3. Using Embeddings in the Real World** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understanding Embeddings]]** (2 videos)
+- **[[#3. 2. Obtaining Embeddings via the Embeddings API]]** (3 videos)
+- **[[#4. 3. Using Embeddings in the Real World]]** (2 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

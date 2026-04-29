@@ -52,14 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction and Setup** (4 videos)
-- **3. 2. HDFS Data Modeling for Analytics** (5 videos)
-- **4. 3. Data Ingestion with Spark** (5 videos)
-- **5. 4. Data Extraction with Spark** (5 videos)
-- **6. 5. Optimizing Spark Processing** (6 videos)
-- **7. 6. Use Case Project** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction and Setup]]** (4 videos)
+- **[[#3. 2. HDFS Data Modeling for Analytics]]** (5 videos)
+- **[[#4. 3. Data Ingestion with Spark]]** (5 videos)
+- **[[#5. 4. Data Extraction with Spark]]** (5 videos)
+- **[[#6. 5. Optimizing Spark Processing]]** (6 videos)
+- **[[#7. 6. Use Case Project]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

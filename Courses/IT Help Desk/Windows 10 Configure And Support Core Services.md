@@ -44,13 +44,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Configure Networking** (10 videos)
-- **3. 2. Configure Storage** (7 videos)
-- **4. 3. Configure Data Access and Usage** (4 videos)
-- **5. 4. Implement Apps** (5 videos)
-- **6. 5. Configure Remote Management** (9 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Configure Networking]]** (10 videos)
+- **[[#3. 2. Configure Storage]]** (7 videos)
+- **[[#4. 3. Configure Data Access and Usage]]** (4 videos)
+- **[[#5. 4. Implement Apps]]** (5 videos)
+- **[[#6. 5. Configure Remote Management]]** (9 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

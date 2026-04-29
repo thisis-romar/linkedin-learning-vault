@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding Accessibility** (3 videos)
-- **3. 2. Accessibility Standards** (2 videos)
-- **4. 3. Creating Accessible Layout** (7 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding Accessibility]]** (3 videos)
+- **[[#2. Accessibility Standards]]** (2 videos)
+- **[[#3. Creating Accessible Layout]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating accessible web layout for a diverse audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **Speakers:** - [gift (1)
 
 
-### 2. 1. Understanding Accessibility
+### 1. Understanding Accessibility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is web accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/what-is-web-accessibility?u=76281980)
@@ -254,7 +258,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Accessibility Standards
+### 2. Accessibility Standards
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessible standards (WCAG)
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-standards-wcag?u=76281980)
@@ -365,7 +371,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Creating Accessible Layout
+### 3. Creating Accessible Layout
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Semantic HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980)
@@ -1025,7 +1033,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for improving accessibility in web applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/next-steps-for-improving-accessibility-in-web-applications?u=76281980)

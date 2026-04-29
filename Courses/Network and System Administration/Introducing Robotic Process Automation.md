@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Automation Opportunity** (5 videos)
-- **3. 2. What Is RPA?** (7 videos)
-- **4. 3. The Benefits of RPA** (4 videos)
-- **5. 4. Best Practices at the Process Level** (6 videos)
-- **6. 5. Best Practices at the Enterprise Level** (4 videos)
-- **7. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Automation Opportunity]]** (5 videos)
+- **[[#2. What Is RPA?]]** (7 videos)
+- **[[#3. The Benefits of RPA]]** (4 videos)
+- **[[#4. Best Practices at the Process Level]]** (6 videos)
+- **[[#5. Best Practices at the Enterprise Level]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to the future of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - before (1)
 
 
-### 2. 1. The Automation Opportunity
+### 1. The Automation Opportunity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980)
@@ -382,7 +386,9 @@ created: 2026-04-28
 > **Speakers:** - rpa (1)
 
 
-### 3. 2. What Is RPA?
+### 2. What Is RPA?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is robotic process automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980)
@@ -899,7 +905,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 4. 3. The Benefits of RPA
+### 3. The Benefits of RPA
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980)
@@ -1246,7 +1254,9 @@ created: 2026-04-28
 > **Best Practices:** don't forget (1)
 
 
-### 5. 4. Best Practices at the Process Level
+### 4. Best Practices at the Process Level
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying opportunities for automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980)
@@ -1686,7 +1696,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 6. 5. Best Practices at the Enterprise Level
+### 5. Best Practices at the Enterprise Level
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start small but don't think small
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/start-small-but-don-t-think-small?u=76281980)
@@ -1985,7 +1997,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Real-world tips for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/tips-for-success-from-the-front-lines-26921389?u=76281980)

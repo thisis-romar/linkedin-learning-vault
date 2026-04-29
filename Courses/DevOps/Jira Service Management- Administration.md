@@ -49,15 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Using Jira Service Management** (6 videos)
-- **3. 2. Jira and JSM Differences** (4 videos)
-- **4. 3. Setting Up a Test Environment** (3 videos)
-- **5. 4. Managing Project Settings** (9 videos)
-- **6. 5. Creating Service Level Agreements** (6 videos)
-- **7. 6. Using Automation** (4 videos)
-- **8. 7. Using Reporting** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Using Jira Service Management]]** (6 videos)
+- **[[#3. 2. Jira and JSM Differences]]** (4 videos)
+- **[[#4. 3. Setting Up a Test Environment]]** (3 videos)
+- **[[#5. 4. Managing Project Settings]]** (9 videos)
+- **[[#6. 5. Creating Service Level Agreements]]** (6 videos)
+- **[[#7. 6. Using Automation]]** (4 videos)
+- **[[#8. 7. Using Reporting]]** (6 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

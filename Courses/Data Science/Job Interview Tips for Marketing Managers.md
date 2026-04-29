@@ -46,19 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What interests you about working at our company?** (2 videos)
-- **3. 2. Could you talk through an example of an effective marketing campaign from a brand you admire?** (2 videos)
-- **4. 3. Describe your marketing experience.** (2 videos)
-- **5. 4. Explain how to create and launch a marketing campaign.** (2 videos)
-- **6. 5. Tell me about a failed marketing project you were involved with—what would you do differently?** (2 videos)
-- **7. 6. Do you consider yourself detail-oriented or better at tackling big-picture problems?** (2 videos)
-- **8. 7. How do you craft effective messaging internally and externally?** (2 videos)
-- **9. 8. What data would you reference to better personalize an initiative to the right people?** (2 videos)
-- **10. 9. In the past, how did you measure the success of a marketing campaign?** (2 videos)
-- **11. 10. If asked, "Is this marketing activity the right investment?," how would you respond?** (2 videos)
-- **12. 11. What’s your research process when analyzing potential market opportunities and competitors?** (2 videos)
-- **13. Follow-up** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What interests you about working at our company?]]** (2 videos)
+- **[[#3. 2. Could you talk through an example of an effective marketing campaign from a brand you admire?]]** (2 videos)
+- **[[#4. 3. Describe your marketing experience.]]** (2 videos)
+- **[[#5. 4. Explain how to create and launch a marketing campaign.]]** (2 videos)
+- **[[#6. 5. Tell me about a failed marketing project you were involved with—what would you do differently?]]** (2 videos)
+- **[[#7. 6. Do you consider yourself detail-oriented or better at tackling big-picture problems?]]** (2 videos)
+- **[[#8. 7. How do you craft effective messaging internally and externally?]]** (2 videos)
+- **[[#9. 8. What data would you reference to better personalize an initiative to the right people?]]** (2 videos)
+- **[[#10. 9. In the past, how did you measure the success of a marketing campaign?]]** (2 videos)
+- **[[#11. 10. If asked, "Is this marketing activity the right investment?," how would you respond?]]** (2 videos)
+- **[[#12. 11. What’s your research process when analyzing potential market opportunities and competitors?]]** (2 videos)
+- **[[#13. Follow-up]]** (1 videos)
 
 ### 1. Introduction
 

@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. How Does KNIME Complement Your Existing Analytics Toolkit?** (3 videos)
-- **3. 2. Getting Comfortable with KNIME** (5 videos)
-- **4. 3. Accessing Data** (3 videos)
-- **5. 4. Data Understanding** (3 videos)
-- **6. 5. Data Integration and Merging** (7 videos)
-- **7. 6. Modeling** (5 videos)
-- **8. 7. A World of Possibilities** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. How Does KNIME Complement Your Existing Analytics Toolkit?]]** (3 videos)
+- **[[#3. 2. Getting Comfortable with KNIME]]** (5 videos)
+- **[[#4. 3. Accessing Data]]** (3 videos)
+- **[[#5. 4. Data Understanding]]** (3 videos)
+- **[[#6. 5. Data Integration and Merging]]** (7 videos)
+- **[[#7. 6. Modeling]]** (5 videos)
+- **[[#8. 7. A World of Possibilities]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

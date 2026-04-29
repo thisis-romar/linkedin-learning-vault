@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Importance of Employee Engagement for Sustainability (What and Why)** (3 videos)
-- **3. 2. The Virtuous Cycle Framework (How and Who)** (7 videos)
-- **4. 3. Making Sustainability Part of Everybody's Job** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Importance of Employee Engagement for Sustainability (What and Why)]]** (3 videos)
+- **[[#2. The Virtuous Cycle Framework (How and Who)]]** (7 videos)
+- **[[#3. Making Sustainability Part of Everybody's Job]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sustainability is part of everybody's job
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980)
@@ -204,7 +206,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 2. 1. The Importance of Employee Engagement for Sustainability (What and Why)
+### 1. The Importance of Employee Engagement for Sustainability (What and Why)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Employee engagement for sustainability: Expanding the circle
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980)
@@ -392,7 +396,9 @@ created: 2026-04-28
 > **Speakers:** - climate (1)
 
 
-### 3. 2. The Virtuous Cycle Framework (How and Who)
+### 2. The Virtuous Cycle Framework (How and Who)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The virtuous cycle of employee engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980)
@@ -973,7 +979,9 @@ created: 2026-04-28
 > **Speakers:** - which (1)
 
 
-### 4. 3. Making Sustainability Part of Everybody's Job
+### 3. Making Sustainability Part of Everybody's Job
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Challenges and opportunities for employee engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980)
@@ -1179,7 +1187,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### To change everything, we need everyone
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980)

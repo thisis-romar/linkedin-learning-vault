@@ -52,13 +52,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Privacy Landscape** (6 videos)
-- **3. 2. Data Classification** (7 videos)
-- **4. 3. An Inventory of Your Data and Risk** (3 videos)
-- **5. 4. A Deep Dive into Data Inventory** (6 videos)
-- **6. 5. Lessons from the Road: How to Do Data Inventory Right** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. The Privacy Landscape]]** (6 videos)
+- **[[#3. 2. Data Classification]]** (7 videos)
+- **[[#4. 3. An Inventory of Your Data and Risk]]** (3 videos)
+- **[[#5. 4. A Deep Dive into Data Inventory]]** (6 videos)
+- **[[#6. 5. Lessons from the Road: How to Do Data Inventory Right]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

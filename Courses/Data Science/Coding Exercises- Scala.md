@@ -47,10 +47,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Challenges** (15 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Challenges]]** (15 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Test your Scala skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/test-your-scala-skills?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat video game music) (1)
 
 
-### 2. 1. Challenges
+### 1. Challenges
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Palindrome detector
 > [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980)

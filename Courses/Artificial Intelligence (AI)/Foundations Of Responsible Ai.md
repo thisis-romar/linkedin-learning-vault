@@ -62,16 +62,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Reframing Responsible AI for Technical Teams** (4 videos)
-- **3. 2. Where Technical Decisions Shape Responsible AI** (3 videos)
-- **4. 3. Architecture Decisions That Matter** (3 videos)
-- **5. 4. Monitoring and Testing for Responsible AI** (5 videos)
-- **6. 5. Team Structures and Processes** (4 videos)
-- **7. 6. Risk Assessment and Decision Frameworks** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Reframing Responsible AI for Technical Teams]]** (4 videos)
+- **[[#2. Where Technical Decisions Shape Responsible AI]]** (3 videos)
+- **[[#3. Architecture Decisions That Matter]]** (3 videos)
+- **[[#4. Monitoring and Testing for Responsible AI]]** (5 videos)
+- **[[#5. Team Structures and Processes]]** (4 videos)
+- **[[#6. Risk Assessment and Decision Frameworks]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 2. 1. Reframing Responsible AI for Technical Teams
+### 1. Reframing Responsible AI for Technical Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to course objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/introduction-to-course-objectives?u=76281980)
@@ -376,7 +380,9 @@ created: 2026-04-28
 > **Speakers:** - every (1)
 
 
-### 3. 2. Where Technical Decisions Shape Responsible AI
+### 2. Where Technical Decisions Shape Responsible AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Critical decision points in AI development
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/critical-decision-points-in-ai-development?u=76281980)
@@ -624,7 +630,9 @@ created: 2026-04-28
 > **Speakers:** - responsible (1)
 
 
-### 4. 3. Architecture Decisions That Matter
+### 3. Architecture Decisions That Matter
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Model selection trade-offs
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/model-selection-trade-offs?u=76281980)
@@ -843,7 +851,9 @@ created: 2026-04-28
 > **Speakers:** - privacy (1)
 
 
-### 5. 4. Monitoring and Testing for Responsible AI
+### 4. Monitoring and Testing for Responsible AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Metrics for responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/metrics-for-responsible-ai?u=76281980)
@@ -1134,7 +1144,9 @@ created: 2026-04-28
 > **Speakers:** - ethical (1)
 
 
-### 6. 5. Team Structures and Processes
+### 5. Team Structures and Processes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Distributing RAI expertise in teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/distributing-rai-expertise-in-teams?u=76281980)
@@ -1339,7 +1351,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. 6. Risk Assessment and Decision Frameworks
+### 6. Risk Assessment and Decision Frameworks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Solution-focused risk assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/solution-focused-risk-assessment?u=76281980)
@@ -1604,7 +1618,9 @@ created: 2026-04-28
 > **Speakers:** - responsible (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-responsible-ai-26286103/what-s-next?u=76281980)

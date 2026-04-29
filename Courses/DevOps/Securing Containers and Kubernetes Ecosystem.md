@@ -48,16 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Demystifying Containers and Kubernetes** (7 videos)
-- **3. 2. Security Model for Containers and Kubernetes** (4 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Demystifying Containers and Kubernetes]]** (7 videos)
+- **[[#3. 2. Security Model for Containers and Kubernetes]]** (4 videos)
 - **4. 3. Factor #1: Securing Containerized Application Code** (2 videos)
 - **5. 4. Factor #2: Securing Images** (4 videos)
 - **6. 5. Factor #3: Securing Hosts and Container Working Environment** (4 videos)
 - **7. 6. Factor #4: Securing Applications in Kubernetes** (11 videos)
 - **8. 7. Factor #5: Securing Kubernetes Cluster** (3 videos)
-- **9. 8. Additional Security Considerations** (2 videos)
-- **10. Conclusion** (1 videos)
+- **[[#9. 8. Additional Security Considerations]]** (2 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

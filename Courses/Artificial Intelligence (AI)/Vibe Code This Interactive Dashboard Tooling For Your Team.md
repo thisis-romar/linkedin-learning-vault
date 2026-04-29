@@ -45,10 +45,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Building the Dashboard** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Building the Dashboard]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using chatbots to deliver results
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/using-chatbots-to-deliver-results?u=76281980)
@@ -72,7 +74,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 1. Building the Dashboard
+### 1. Building the Dashboard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Brainstorming with the chatbot
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980)

@@ -38,13 +38,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What is AI's Impact on Patient Care?** (3 videos)
-- **3. 2. How Does AI Impact Workflow Efficency and Data Management?** (3 videos)
-- **4. 3. What Are the Ethical Considerations of Using AI in Healthcare?** (5 videos)
-- **5. 4. What's the Future of AI in Healthcare?** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What is AI's Impact on Patient Care?]]** (3 videos)
+- **[[#2. How Does AI Impact Workflow Efficency and Data Management?]]** (3 videos)
+- **[[#3. What Are the Ethical Considerations of Using AI in Healthcare?]]** (5 videos)
+- **[[#4. What's the Future of AI in Healthcare?]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generative AI is revolutionizing healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Env Vars:** ucsf (1)
 
 
-### 2. 1. What is AI's Impact on Patient Care?
+### 1. What is AI's Impact on Patient Care?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How does AI affect the patient experience?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980)
@@ -338,7 +342,9 @@ created: 2026-04-28
 > **Env Vars:** gpt (1)
 
 
-### 3. 2. How Does AI Impact Workflow Efficency and Data Management?
+### 2. How Does AI Impact Workflow Efficency and Data Management?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What bottlenecks can AI solve in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-bottlenecks-can-ai-can-solve-in-healthcare?u=76281980)
@@ -492,7 +498,9 @@ created: 2026-04-28
 > **Env Vars:** gpt (1)
 
 
-### 4. 3. What Are the Ethical Considerations of Using AI in Healthcare?
+### 3. What Are the Ethical Considerations of Using AI in Healthcare?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are the ethical concerns of AI in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980)
@@ -889,7 +897,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 5. 4. What's the Future of AI in Healthcare?
+### 4. What's the Future of AI in Healthcare?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the future of AI in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980)

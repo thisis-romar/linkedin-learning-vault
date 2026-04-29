@@ -59,15 +59,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Logistics of a Technical Resume** (3 videos)
-- **3. 2. Resume Content** (5 videos)
-- **4. 3. Content Tips and Tricks** (2 videos)
-- **5. 4. Tools for Creating a Resume** (3 videos)
-- **6. 5. Design Dos and Don'ts** (4 videos)
-- **7. 6. Should You Include...** (5 videos)
-- **8. 7. Having a Professional Online Presence** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Logistics of a Technical Resume]]** (3 videos)
+- **[[#3. 2. Resume Content]]** (5 videos)
+- **[[#4. 3. Content Tips and Tricks]]** (2 videos)
+- **[[#5. 4. Tools for Creating a Resume]]** (3 videos)
+- **[[#6. 5. Design Dos and Don'ts]]** (4 videos)
+- **[[#7. 6. Should You Include...]]** (5 videos)
+- **[[#8. 7. Having a Professional Online Presence]]** (3 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -40,14 +40,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Digital Strategy: Foundational Ideas** (3 videos)
-- **3. 2. Digital Innovation** (3 videos)
-- **4. 3. Platforms and Ecosystems** (3 videos)
-- **5. 4. Artificial Intelligence** (3 videos)
-- **6. 5. Building a Digital Culture** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Digital Strategy: Foundational Ideas]]** (3 videos)
+- **[[#2. Digital Innovation]]** (3 videos)
+- **[[#3. Platforms and Ecosystems]]** (3 videos)
+- **[[#4. Artificial Intelligence]]** (3 videos)
+- **[[#5. Building a Digital Culture]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The opportunity of digital disruption
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Speakers:** - digital (1)
 
 
-### 2. 1. Digital Strategy: Foundational Ideas
+### 1. Digital Strategy: Foundational Ideas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Rethinking strategy in the digital era
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/rethinking-strategy-in-the-digital-era?u=76281980)
@@ -370,7 +374,9 @@ created: 2026-04-28
 > **Speakers:** - for (1)
 
 
-### 3. 2. Digital Innovation
+### 2. Digital Innovation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building purely digital products and services
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980)
@@ -630,7 +636,9 @@ created: 2026-04-28
 > **Speakers:** - warehouses (1)
 
 
-### 4. 3. Platforms and Ecosystems
+### 3. Platforms and Ecosystems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Embracing the new era of ecosystems
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980)
@@ -876,7 +884,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 5. 4. Artificial Intelligence
+### 4. Artificial Intelligence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is AI and where is it headed?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980)
@@ -1152,7 +1162,9 @@ created: 2026-04-28
 > **Speakers:** - like (1)
 
 
-### 6. 5. Building a Digital Culture
+### 5. Building a Digital Culture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Becoming an agile organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980)

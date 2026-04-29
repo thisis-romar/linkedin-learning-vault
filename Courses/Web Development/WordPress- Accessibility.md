@@ -50,16 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Is Web Accessibility** (3 videos)
-- **3. 2. Accessibility and WordPress** (6 videos)
-- **4. 3. Accessibility in Your Theme** (7 videos)
-- **5. 4. Using Accessible WordPress Plugins** (4 videos)
-- **6. 5. Accessibility Plugins for WordPress** (3 videos)
-- **7. 6. Authoring Accessible Content** (5 videos)
-- **8. 7. Testing for Accessibility** (5 videos)
-- **9. 8. Remediation Workshop** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. What Is Web Accessibility]]** (3 videos)
+- **[[#3. 2. Accessibility and WordPress]]** (6 videos)
+- **[[#4. 3. Accessibility in Your Theme]]** (7 videos)
+- **[[#5. 4. Using Accessible WordPress Plugins]]** (4 videos)
+- **[[#6. 5. Accessibility Plugins for WordPress]]** (3 videos)
+- **[[#7. 6. Authoring Accessible Content]]** (5 videos)
+- **[[#8. 7. Testing for Accessibility]]** (5 videos)
+- **[[#9. 8. Remediation Workshop]]** (4 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

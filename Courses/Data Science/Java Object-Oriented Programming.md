@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Classes and Objects in Java** (7 videos)
-- **3. 2. Encapsulation in Java** (6 videos)
-- **4. 3. Inheritance in Java** (6 videos)
-- **5. 4. Polymorphism in Java** (8 videos)
-- **6. 5. Abstraction in Java** (6 videos)
-- **7. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Classes and Objects in Java]]** (7 videos)
+- **[[#3. 2. Encapsulation in Java]]** (6 videos)
+- **[[#4. 3. Inheritance in Java]]** (6 videos)
+- **[[#5. 4. Polymorphism in Java]]** (8 videos)
+- **[[#6. 5. Abstraction in Java]]** (6 videos)
+- **[[#7. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

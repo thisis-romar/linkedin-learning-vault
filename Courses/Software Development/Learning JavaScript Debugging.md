@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Understanding the Need for a Debugger** (5 videos)
-- **3. 2. Debugger Basics** (12 videos)
-- **4. 3. Debugging in Practice** (12 videos)
-- **5. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Understanding the Need for a Debugger]]** (5 videos)
+- **[[#3. 2. Debugger Basics]]** (12 videos)
+- **[[#4. 3. Debugging in Practice]]** (12 videos)
+- **[[#5. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

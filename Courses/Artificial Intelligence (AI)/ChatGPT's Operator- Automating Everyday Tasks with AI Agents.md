@@ -38,10 +38,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. OpenAI's Operator** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. OpenAI's Operator]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accelerate everyday tasks with OpenAI's Operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980)
@@ -77,7 +79,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 2. 1. OpenAI's Operator
+### 1. OpenAI's Operator
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is an agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980)

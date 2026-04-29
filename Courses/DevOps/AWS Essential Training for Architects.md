@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Keeping Things Secure** (11 videos)
-- **3. 2. Architecting for Resilience and High Availability** (8 videos)
-- **4. 3. Automate Infrastructure** (8 videos)
-- **5. 4. Improving Performance** (8 videos)
-- **6. 5. Optimize for Cost** (4 videos)
-- **7. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Keeping Things Secure]]** (11 videos)
+- **[[#3. 2. Architecting for Resilience and High Availability]]** (8 videos)
+- **[[#4. 3. Automate Infrastructure]]** (8 videos)
+- **[[#5. 4. Improving Performance]]** (8 videos)
+- **[[#6. 5. Optimize for Cost]]** (4 videos)
+- **[[#7. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

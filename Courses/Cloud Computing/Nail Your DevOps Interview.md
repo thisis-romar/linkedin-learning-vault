@@ -52,14 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Interview Prep** (5 videos)
-- **3. 2. DevOps Business Practices Questions** (9 videos)
-- **4. 3. Common DevOps Skills** (8 videos)
-- **5. 4. Cloud Services Questions** (3 videos)
-- **6. 5. Applications and Services Questions** (5 videos)
-- **7. 6. Wrapping Up Your Interview** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Interview Prep]]** (5 videos)
+- **[[#3. 2. DevOps Business Practices Questions]]** (9 videos)
+- **[[#4. 3. Common DevOps Skills]]** (8 videos)
+- **[[#5. 4. Cloud Services Questions]]** (3 videos)
+- **[[#6. 5. Applications and Services Questions]]** (5 videos)
+- **[[#7. 6. Wrapping Up Your Interview]]** (2 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

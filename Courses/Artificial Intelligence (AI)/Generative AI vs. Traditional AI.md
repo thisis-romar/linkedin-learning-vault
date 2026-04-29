@@ -59,15 +59,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Predictive AI Architecture** (4 videos)
-- **3. 2. Generative AI Models** (5 videos)
-- **4. 3. Generative AI Architecture** (5 videos)
-- **5. 4. Improving Generative AI** (4 videos)
-- **6. 5. Generative AI Legal and Ethical Issues** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Predictive AI Architecture]]** (4 videos)
+- **[[#2. Generative AI Models]]** (5 videos)
+- **[[#3. Generative AI Architecture]]** (5 videos)
+- **[[#4. Improving Generative AI]]** (4 videos)
+- **[[#5. Generative AI Legal and Ethical Issues]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore generative AI vs. traditional AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/explore-generative-ai-vs-traditional-ai-25810008?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 2. 1. Predictive AI Architecture
+### 1. Predictive AI Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/machine-learning-25805087?u=76281980)
@@ -382,7 +386,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Generative AI Models
+### 2. Generative AI Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Foundation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/foundation-models-25807058?u=76281980)
@@ -797,7 +803,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Generative AI Architecture
+### 3. Generative AI Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/prompt-engineering?u=76281980)
@@ -1193,7 +1201,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Improving Generative AI
+### 4. Improving Generative AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inferencing
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/inferencing?u=76281980)
@@ -1532,7 +1542,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 6. 5. Generative AI Legal and Ethical Issues
+### 5. Generative AI Legal and Ethical Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Traceable decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/traceable-decision-making?u=76281980)
@@ -1913,7 +1925,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/next-steps-for-ai-25806074?u=76281980)

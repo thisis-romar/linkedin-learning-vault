@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Technical Repudiation** (2 videos)
-- **3. 2. Fraud** (3 videos)
-- **4. 3. Identity Theft** (2 videos)
-- **5. 4. Attacks on Logs** (2 videos)
-- **6. 5. Repudiation in Specific Technologies** (3 videos)
-- **7. 6. Defenses** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Technical Repudiation]]** (2 videos)
+- **[[#3. 2. Fraud]]** (3 videos)
+- **[[#4. 3. Identity Theft]]** (2 videos)
+- **[[#5. 4. Attacks on Logs]]** (2 videos)
+- **[[#6. 5. Repudiation in Specific Technologies]]** (3 videos)
+- **[[#7. 6. Defenses]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

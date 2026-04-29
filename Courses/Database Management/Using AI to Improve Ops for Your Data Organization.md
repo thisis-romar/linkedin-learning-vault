@@ -45,13 +45,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Data Cataloging and Classification with AI** (4 videos)
-- **3. 2. Data Quality Monitoring and Metadata CI/CD with AI** (7 videos)
-- **4. 3. Data Analytics and Decision-Making Using AI** (7 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Data Cataloging and Classification with AI]]** (4 videos)
+- **[[#2. Data Quality Monitoring and Metadata CI/CD with AI]]** (7 videos)
+- **[[#3. Data Analytics and Decision-Making Using AI]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Transformational change for your data organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980)
@@ -155,7 +157,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Data Cataloging and Classification with AI
+### 1. Data Cataloging and Classification with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify and prioritize your organization's data
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980)
@@ -494,7 +498,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Data Quality Monitoring and Metadata CI/CD with AI
+### 2. Data Quality Monitoring and Metadata CI/CD with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data quality monitoring and traditional methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980)
@@ -938,7 +944,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Analytics and Decision-Making Using AI
+### 3. Data Analytics and Decision-Making Using AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of data analytics, business intelligence tools, and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980)
@@ -1428,7 +1436,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Extending AI in your data operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/extending-ai-in-your-data-operations?u=76281980)

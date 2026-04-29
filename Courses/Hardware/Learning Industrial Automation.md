@@ -42,13 +42,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Industrial Automation** (6 videos)
-- **3. 2. Programmable Logic Controller** (8 videos)
-- **4. 3. Supervisory Control and Data Acquisition** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Industrial Automation]]** (6 videos)
+- **[[#2. Programmable Logic Controller]]** (8 videos)
+- **[[#3. Supervisory Control and Data Acquisition]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/introduction-to-industrial-automation?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Industrial Automation
+### 1. Industrial Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basics of industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/basics-of-industrial-automation-14444217?u=76281980)
@@ -445,7 +449,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Programmable Logic Controller
+### 2. Programmable Logic Controller
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Programmable logic controller (PLC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980)
@@ -836,7 +842,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 4. 3. Supervisory Control and Data Acquisition
+### 3. Supervisory Control and Data Acquisition
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Supervisory Control and Data Acquisition (SCADA) defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980)
@@ -959,7 +967,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980)

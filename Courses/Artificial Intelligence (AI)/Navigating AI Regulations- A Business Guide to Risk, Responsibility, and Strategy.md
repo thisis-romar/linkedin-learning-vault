@@ -56,15 +56,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Why AI Regulation Matters Now** (3 videos)
-- **3. 2. What AI Regulation Means for Business** (4 videos)
-- **4. 3. The Global Regulatory Landscape** (5 videos)
-- **5. 4. Building Internal AI Governance** (4 videos)
-- **6. 5. Making AI Governance a Strategic Advantage** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Why AI Regulation Matters Now]]** (3 videos)
+- **[[#2. What AI Regulation Means for Business]]** (4 videos)
+- **[[#3. The Global Regulatory Landscape]]** (5 videos)
+- **[[#4. Building Internal AI Governance]]** (4 videos)
+- **[[#5. Making AI Governance a Strategic Advantage]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What business leaders need to know about AI regulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-business-leaders-need-to-know-about-ai-regulations?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Why AI Regulation Matters Now
+### 1. Why AI Regulation Matters Now
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why AI governance has become a business imperative
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/why-ai-governance-has-become-a-business-imperative?u=76281980)
@@ -316,7 +320,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. What AI Regulation Means for Business
+### 2. What AI Regulation Means for Business
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What counts as regulated AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-counts-as-regulated-ai?u=76281980)
@@ -566,7 +572,9 @@ created: 2026-04-28
 > **Speakers:** - governance (1)
 
 
-### 4. 3. The Global Regulatory Landscape
+### 3. The Global Regulatory Landscape
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Navigating a patchwork of global AI rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/navigating-a-patchwork-of-global-ai-rules?u=76281980)
@@ -859,7 +867,9 @@ created: 2026-04-28
 > **Speakers:** - no (1)
 
 
-### 5. 4. Building Internal AI Governance
+### 4. Building Internal AI Governance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What internal governance really means
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/what-internal-governance-really-means?u=76281980)
@@ -1072,7 +1082,9 @@ created: 2026-04-28
 > **Speakers:** - strong (1)
 
 
-### 6. 5. Making AI Governance a Strategic Advantage
+### 5. Making AI Governance a Strategic Advantage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Compliance to competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/compliance-to-competitive-advantage?u=76281980)
@@ -1232,7 +1244,9 @@ created: 2026-04-28
 > **Speakers:** - regulation (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Moving forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-regulations-a-business-guide-to-risk-responsibility-and-strategy/moving-forward?u=76281980)

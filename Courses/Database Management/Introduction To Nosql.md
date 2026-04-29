@@ -43,12 +43,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. NoSQL? Why Can’t You Have Any Sequels?** (3 videos)
-- **3. 2. NoSQL Powers Everything** (2 videos)
-- **4. 3. The Three Vs: Volume, Velocity, and Variety** (5 videos)
-- **5. 4. Differences in Scalability, Performance, and Data Modeling** (1 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. NoSQL? Why Can’t You Have Any Sequels?]]** (3 videos)
+- **[[#3. 2. NoSQL Powers Everything]]** (2 videos)
+- **[[#4. 3. The Three Vs: Volume, Velocity, and Variety]]** (5 videos)
+- **[[#5. 4. Differences in Scalability, Performance, and Data Modeling]]** (1 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

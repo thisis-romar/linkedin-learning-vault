@@ -44,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Mechanics of Print-Based CSS** (6 videos)
-- **3. 2. Best Practices for Print-Based Styling** (10 videos)
-- **4. 3. Beautiful Formatting for Print** (9 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Mechanics of Print-Based CSS]]** (6 videos)
+- **[[#2. Best Practices for Print-Based Styling]]** (10 videos)
+- **[[#3. Beautiful Formatting for Print]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to CSS print style sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/welcome?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - sometimes (1)
 
 
-### 2. 1. Mechanics of Print-Based CSS
+### 1. Mechanics of Print-Based CSS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Print style sheets and media queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/print-style-sheets-and-media-queries?u=76281980)
@@ -655,7 +659,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Best Practices for Print-Based Styling
+### 2. Best Practices for Print-Based Styling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Best practices for styling for print
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/best-practices-for-styling-for-print?u=76281980)
@@ -1738,7 +1744,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Beautiful Formatting for Print
+### 3. Beautiful Formatting for Print
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding paged media and CSS fragmentation properties
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/understanding-paged-media-and-css-fragmentation-properties?u=76281980)
@@ -2623,7 +2631,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/next-steps-25762079?u=76281980)

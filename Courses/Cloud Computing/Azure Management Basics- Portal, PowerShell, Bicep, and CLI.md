@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started with the Azure Portal** (6 videos)
-- **3. 2. Getting Started with the Azure CLI** (4 videos)
-- **4. 3. Getting Started with Azure PowerShell** (5 videos)
-- **5. 4. Getting Started with JSON Templates** (4 videos)
-- **6. 5. Getting Started with Bicep** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Started with the Azure Portal]]** (6 videos)
+- **[[#3. 2. Getting Started with the Azure CLI]]** (4 videos)
+- **[[#4. 3. Getting Started with Azure PowerShell]]** (5 videos)
+- **[[#5. 4. Getting Started with JSON Templates]]** (4 videos)
+- **[[#6. 5. Getting Started with Bicep]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -48,13 +48,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Identities** (9 videos)
-- **3. 2. Testing Active Directory** (7 videos)
-- **4. 3. Advanced Penetration Testing** (10 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to Identities]]** (9 videos)
+- **[[#2. Testing Active Directory]]** (7 videos)
+- **[[#3. Advanced Penetration Testing]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand and test the security of identity providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980)
@@ -126,7 +128,9 @@ created: 2026-04-28
 > **Speakers:** - [malcolm] (1)
 
 
-### 2. 1. Introduction to Identities
+### 1. Introduction to Identities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand Active Directory's role in security
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980)
@@ -769,7 +773,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Testing Active Directory
+### 2. Testing Active Directory
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set up for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980)
@@ -1218,7 +1224,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Penetration Testing
+### 3. Advanced Penetration Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Specific Active Directory attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/specific-active-directory-attacks?u=76281980)
@@ -1975,7 +1983,9 @@ created: 2026-04-28
 > **Tools:** terminal (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980)

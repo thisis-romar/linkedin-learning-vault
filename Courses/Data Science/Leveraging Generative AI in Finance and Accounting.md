@@ -37,14 +37,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Generative AI in Finance and Accounting** (3 videos)
-- **3. 2. Generative Models and Their Applications** (3 videos)
-- **4. 3. Ethical Considerations and Compliance** (3 videos)
-- **5. 4. Case Studies and Practical Applications** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Generative AI in Finance and Accounting]]** (3 videos)
+- **[[#2. Generative Models and Their Applications]]** (3 videos)
+- **[[#3. Ethical Considerations and Compliance]]** (3 videos)
+- **[[#4. Case Studies and Practical Applications]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to generative AI in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980)
@@ -75,7 +77,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. Introduction to Generative AI in Finance and Accounting
+### 1. Introduction to Generative AI in Finance and Accounting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The rise of generative AI in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980)
@@ -270,7 +274,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 3. 2. Generative Models and Their Applications
+### 2. Generative Models and Their Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding generative models
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980)
@@ -495,7 +501,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 4. 3. Ethical Considerations and Compliance
+### 3. Ethical Considerations and Compliance
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ethics in AI-driven finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980)
@@ -688,7 +696,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. 4. Case Studies and Practical Applications
+### 4. Case Studies and Practical Applications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze an annual report with generative AI: 10-K
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980)
@@ -949,7 +959,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Apply generative AI techniques with confidence and compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980)

@@ -70,14 +70,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is AI and How Is It Used?** (2 videos)
-- **3. 2. AI Benefits and Risks** (2 videos)
-- **4. 3. AI Application Domains** (5 videos)
-- **5. 4. Developing Responsible AI** (4 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is AI and How Is It Used?]]** (2 videos)
+- **[[#2. AI Benefits and Risks]]** (2 videos)
+- **[[#3. AI Application Domains]]** (5 videos)
+- **[[#4. Developing Responsible AI]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980)
@@ -102,7 +104,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 2. 1. What Is AI and How Is It Used?
+### 1. What Is AI and How Is It Used?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to artificial intelligence (AI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980)
@@ -266,7 +270,9 @@ created: 2026-04-28
 > **Analogies:** such as (1), for example (1)
 
 
-### 3. 2. AI Benefits and Risks
+### 2. AI Benefits and Risks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Benefits of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980)
@@ -455,7 +461,9 @@ created: 2026-04-28
 > **Cross-References:** later in (1)
 
 
-### 4. 3. AI Application Domains
+### 3. AI Application Domains
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to AI experts
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980)
@@ -925,7 +933,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Developing Responsible AI
+### 4. Developing Responsible AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responsible and trustworthy AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980)
@@ -1206,7 +1216,9 @@ created: 2026-04-28
 > **Env Vars:** ibm (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980)

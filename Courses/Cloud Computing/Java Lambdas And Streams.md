@@ -44,11 +44,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Functional Programming** (1 videos)
-- **3. 2. Lambdas** (3 videos)
-- **4. 3. Streams** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Functional Programming]]** (1 videos)
+- **[[#3. 2. Lambdas]]** (3 videos)
+- **[[#4. 3. Streams]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

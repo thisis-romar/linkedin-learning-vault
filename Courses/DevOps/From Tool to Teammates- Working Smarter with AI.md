@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction: Understanding Your AI Teammates** (4 videos)
-- **2. 1. Hiring the Assistant** (3 videos)
-- **3. 2. Briefing the Expert** (3 videos)
-- **4. 3. Engaging the Coach** (3 videos)
-- **5. 4. Partnering with the Creative** (3 videos)
-- **6. 5. Becoming the Orchestrator** (4 videos)
-- **7. Conclusion: Owning Your Future with AI** (1 videos)
+- **[[#Introduction: Understanding Your AI Teammates]]** (4 videos)
+- **[[#1. Hiring the Assistant]]** (3 videos)
+- **[[#2. Briefing the Expert]]** (3 videos)
+- **[[#3. Engaging the Coach]]** (3 videos)
+- **[[#4. Partnering with the Creative]]** (3 videos)
+- **[[#5. Becoming the Orchestrator]]** (4 videos)
+- **[[#Conclusion: Owning Your Future with AI]]** (1 videos)
 
-### 1. Introduction: Understanding Your AI Teammates
+### Introduction: Understanding Your AI Teammates
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### From tool to teammates: Welcome!
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980)
@@ -370,7 +372,9 @@ created: 2026-04-28
 > **CLI Commands:** make (1)
 
 
-### 2. 1. Hiring the Assistant
+### 1. Hiring the Assistant
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Delegating inbox triage to your assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980)
@@ -678,7 +682,9 @@ created: 2026-04-28
 > **Analogies:** for instance (1)
 
 
-### 3. 2. Briefing the Expert
+### 2. Briefing the Expert
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting curated recommendations from the expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/getting-curated-recommendations-from-the-expert?u=76281980)
@@ -1016,7 +1022,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Engaging the Coach
+### 3. Engaging the Coach
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up the framework for your coach project
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980)
@@ -1489,7 +1497,9 @@ created: 2026-04-28
 > **Best Practices:** best practice (1)
 
 
-### 5. 4. Partnering with the Creative
+### 4. Partnering with the Creative
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Co-creating ideas using the canvas interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980)
@@ -1952,7 +1962,9 @@ created: 2026-04-28
 > **URLs:** [dangerofhow.ai](https://dangerofhow.ai) (1)
 
 
-### 6. 5. Becoming the Orchestrator
+### 5. Becoming the Orchestrator
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mastering the seven habits of orchestration
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/mastering-the-seven-habits-of-orchestration?u=76281980)
@@ -2492,7 +2504,9 @@ created: 2026-04-28
 > **Analogies:** picture (1)
 
 
-### 7. Conclusion: Owning Your Future with AI
+### Conclusion: Owning Your Future with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evolving from AI user to digital product owner
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980)

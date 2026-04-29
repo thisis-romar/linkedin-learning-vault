@@ -50,12 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Analyze the IT Function** (3 videos)
-- **3. 2. Redefining the IT Role** (3 videos)
-- **4. 3. Changing the Organizational Conversation** (4 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Analyze the IT Function]]** (3 videos)
+- **[[#2. Redefining the IT Role]]** (3 videos)
+- **[[#3. Changing the Organizational Conversation]]** (4 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why IT strategy matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - information (1)
 
 
-### 2. 1. Analyze the IT Function
+### 1. Analyze the IT Function
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The changing nature of the IT role
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980)
@@ -392,7 +396,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 3. 2. Redefining the IT Role
+### 2. Redefining the IT Role
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an agile IT department
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980)
@@ -657,7 +663,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Changing the Organizational Conversation
+### 3. Changing the Organizational Conversation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating an IT mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-it-mission-2?u=76281980)

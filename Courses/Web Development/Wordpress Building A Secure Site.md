@@ -50,17 +50,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. WordPress Structure and Vulnerabilities** (3 videos)
-- **3. 2. WordPress User Accounts** (3 videos)
-- **4. 3. SSL Certificates** (3 videos)
-- **5. 4. WordPress Plugins and Themes** (4 videos)
-- **6. 5. Comment Spam** (3 videos)
-- **7. 6. Website File and Database Backups** (2 videos)
-- **8. 7. Firewalls** (2 videos)
-- **9. 8. Ecommerce Site Security** (2 videos)
-- **10. 9. Editing WordPress Files** (5 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. WordPress Structure and Vulnerabilities]]** (3 videos)
+- **[[#3. 2. WordPress User Accounts]]** (3 videos)
+- **[[#4. 3. SSL Certificates]]** (3 videos)
+- **[[#5. 4. WordPress Plugins and Themes]]** (4 videos)
+- **[[#6. 5. Comment Spam]]** (3 videos)
+- **[[#7. 6. Website File and Database Backups]]** (2 videos)
+- **[[#8. 7. Firewalls]]** (2 videos)
+- **[[#9. 8. Ecommerce Site Security]]** (2 videos)
+- **[[#10. 9. Editing WordPress Files]]** (5 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

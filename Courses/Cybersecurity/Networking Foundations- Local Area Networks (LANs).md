@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Local Area Network (LAN)** (3 videos)
-- **3. 2. Wired LAN** (6 videos)
-- **4. 3. Wireless LAN** (3 videos)
-- **5. 4. LAN Configurations** (4 videos)
-- **6. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Local Area Network (LAN)]]** (3 videos)
+- **[[#2. Wired LAN]]** (6 videos)
+- **[[#3. Wireless LAN]]** (3 videos)
+- **[[#4. LAN Configurations]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning networking foundations: LANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/learning-networking-foundations-lans?u=76281980)
@@ -112,7 +114,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Local Area Network (LAN)
+### 1. Local Area Network (LAN)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a LAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980)
@@ -444,7 +448,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Wired LAN
+### 2. Wired LAN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Ethernet?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980)
@@ -981,7 +987,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Wireless LAN
+### 3. Wireless LAN
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is wireless LAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980)
@@ -1271,7 +1279,9 @@ created: 2026-04-28
 > **Cross-References:** we covered (1), previous video (1)
 
 
-### 5. 4. LAN Configurations
+### 4. LAN Configurations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DHCP: Dynamic Host Configuration Protocol
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980)
@@ -1565,7 +1575,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### LAN troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980)

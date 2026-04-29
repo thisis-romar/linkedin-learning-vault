@@ -51,17 +51,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. DevOps Basics** (5 videos)
-- **3. 2. DevOps and People: A Culture Change** (4 videos)
-- **4. 3. DevOps and Process: The Building Blocks** (3 videos)
-- **5. 4. Infrastructure as Code** (5 videos)
-- **6. 5. Continuous Delivery** (6 videos)
-- **7. 6. Site Reliability Engineering** (6 videos)
-- **8. 7. Advanced Topics** (6 videos)
-- **9. 8. Your DevOps Career** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. DevOps Basics]]** (5 videos)
+- **[[#2. DevOps and People: A Culture Change]]** (4 videos)
+- **[[#3. DevOps and Process: The Building Blocks]]** (3 videos)
+- **[[#4. Infrastructure as Code]]** (5 videos)
+- **[[#5. Continuous Delivery]]** (6 videos)
+- **[[#6. Site Reliability Engineering]]** (6 videos)
+- **[[#7. Advanced Topics]]** (6 videos)
+- **[[#8. Your DevOps Career]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The foundations of DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980)
@@ -95,7 +97,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. DevOps Basics
+### 1. DevOps Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980)
@@ -570,7 +574,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 3. 2. DevOps and People: A Culture Change
+### 2. DevOps and People: A Culture Change
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why do we need a DevOps culture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980)
@@ -1017,7 +1023,9 @@ created: 2026-04-28
 > **Code Keywords:** function (1)
 
 
-### 4. 3. DevOps and Process: The Building Blocks
+### 3. DevOps and Process: The Building Blocks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DevOps process building block: Agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980)
@@ -1349,7 +1357,9 @@ created: 2026-04-28
 > **Speakers:** - welcome (1)
 
 
-### 5. 4. Infrastructure as Code
+### 4. Infrastructure as Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is infrastructure as code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980)
@@ -1851,7 +1861,9 @@ created: 2026-04-28
 > **Cross-References:** earlier in (1)
 
 
-### 6. 5. Continuous Delivery
+### 5. Continuous Delivery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is continuous delivery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980)
@@ -2583,7 +2595,9 @@ created: 2026-04-28
 > **Env Vars:** npm (1), iac (1)
 
 
-### 7. 6. Site Reliability Engineering
+### 6. Site Reliability Engineering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is site reliability engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980)
@@ -3148,7 +3162,9 @@ created: 2026-04-28
 > **Best Practices:** the key is (1)
 
 
-### 8. 7. Advanced Topics
+### 7. Advanced Topics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Platform engineering: The paved road
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980)
@@ -3814,7 +3830,9 @@ created: 2026-04-28
 > **Best Practices:** pro tip (1)
 
 
-### 9. 8. Your DevOps Career
+### 8. Your DevOps Career
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### DevOps and your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980)

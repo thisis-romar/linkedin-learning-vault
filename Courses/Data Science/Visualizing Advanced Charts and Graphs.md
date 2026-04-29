@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Using Advanced Charts and Graphs** (3 videos)
-- **3. 2. Advanced Distribution Charts and Graphs** (6 videos)
-- **4. 3. Advanced Comparison Charts and Graphs** (6 videos)
-- **5. 4. Advanced Relationship Charts and Graphs** (4 videos)
-- **6. 5. Advanced Composition Charts and Graphs** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Using Advanced Charts and Graphs]]** (3 videos)
+- **[[#2. Advanced Distribution Charts and Graphs]]** (6 videos)
+- **[[#3. Advanced Comparison Charts and Graphs]]** (6 videos)
+- **[[#4. Advanced Relationship Charts and Graphs]]** (4 videos)
+- **[[#5. Advanced Composition Charts and Graphs]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Moving beyond basic data viz
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/moving-beyond-basic-data-viz?u=76281980)
@@ -170,7 +172,9 @@ created: 2026-04-28
 > **Cross-References:** in the next (1)
 
 
-### 2. 1. Using Advanced Charts and Graphs
+### 1. Using Advanced Charts and Graphs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What makes a chart or graph advanced?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-makes-a-chart-or-graph-advanced?u=76281980)
@@ -356,7 +360,9 @@ created: 2026-04-28
 > **Definitions:** in other words (1)
 
 
-### 3. 2. Advanced Distribution Charts and Graphs
+### 2. Advanced Distribution Charts and Graphs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are distribution charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-distribution-charts-and-graphs?u=76281980)
@@ -870,7 +876,9 @@ created: 2026-04-28
 > **UI Navigation:** click on (1)
 
 
-### 4. 3. Advanced Comparison Charts and Graphs
+### 3. Advanced Comparison Charts and Graphs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are comparison charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-comparison-charts-and-graphs?u=76281980)
@@ -1523,7 +1531,9 @@ created: 2026-04-28
 > **Definitions:** means that (1)
 
 
-### 5. 4. Advanced Relationship Charts and Graphs
+### 4. Advanced Relationship Charts and Graphs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are relationship charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-relationship-charts-and-graphs?u=76281980)
@@ -1873,7 +1883,9 @@ created: 2026-04-28
 > **URLs:** [usafacts.org](https://usafacts.org) (1)
 
 
-### 6. 5. Advanced Composition Charts and Graphs
+### 5. Advanced Composition Charts and Graphs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are composition charts and graphs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/what-are-composition-charts-and-graphs?u=76281980)
@@ -2231,7 +2243,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing to hone your advanced data visualization skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/visualizing-advanced-charts-and-graphs/continuing-to-hone-your-advanced-data-visualization-skills?u=76281980)

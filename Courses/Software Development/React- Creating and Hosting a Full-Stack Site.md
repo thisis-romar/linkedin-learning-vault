@@ -52,14 +52,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Creating a React Front-End** (9 videos)
-- **3. 2. Creating a Node.js Back-End** (7 videos)
-- **4. 3. Adding MongoDB to Node.js** (5 videos)
-- **5. 4. Connecting the Front-End and Back-End** (7 videos)
-- **6. 5. Adding User Authentication with Firebase Auth** (11 videos)
-- **7. 6. Hosting a Full-Stack React Application** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Creating a React Front-End]]** (9 videos)
+- **[[#3. 2. Creating a Node.js Back-End]]** (7 videos)
+- **[[#4. 3. Adding MongoDB to Node.js]]** (5 videos)
+- **[[#5. 4. Connecting the Front-End and Back-End]]** (7 videos)
+- **[[#6. 5. Adding User Authentication with Firebase Auth]]** (11 videos)
+- **[[#7. 6. Hosting a Full-Stack React Application]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -62,13 +62,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Effective Problem Definition** (4 videos)
-- **3. 2. Estimating ROI before the Project Starts** (6 videos)
-- **4. 3. Calculating ROI after the Model Is Built** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Effective Problem Definition]]** (4 videos)
+- **[[#2. Estimating ROI before the Project Starts]]** (6 videos)
+- **[[#3. Calculating ROI after the Model Is Built]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introduction?u=76281980)
@@ -99,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - [keith] (1)
 
 
-### 2. 1. Effective Problem Definition
+### 1. Effective Problem Definition
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Estimating ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980)
@@ -386,7 +390,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Estimating ROI before the Project Starts
+### 2. Estimating ROI before the Project Starts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the confusion matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introducing-the-confusion-matrix?u=76281980)
@@ -894,7 +900,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Calculating ROI after the Model Is Built
+### 3. Calculating ROI after the Model Is Built
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Determining the cut-off on propensity scores for interventions
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980)
@@ -1151,7 +1159,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980)

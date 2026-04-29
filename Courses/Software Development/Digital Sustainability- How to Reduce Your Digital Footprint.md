@@ -46,15 +46,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. How Is Digital Connected to the Environment?** (2 videos)
-- **3. 2. What Is the Carbon Footprint and the Digital Carbon Footprint?** (2 videos)
-- **4. 3. The Impact of Personal Activities on the Digital Carbon Footprint** (7 videos)
-- **5. 4. Your Own Carbon Fingerprint on the World** (2 videos)
-- **6. 5. Design Your Strategy to Reduce Digital Waste** (4 videos)
-- **7. Conclusion: Become a Change Agent** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. How Is Digital Connected to the Environment?]]** (2 videos)
+- **[[#2. What Is the Carbon Footprint and the Digital Carbon Footprint?]]** (2 videos)
+- **[[#3. The Impact of Personal Activities on the Digital Carbon Footprint]]** (7 videos)
+- **[[#4. Your Own Carbon Fingerprint on the World]]** (2 videos)
+- **[[#5. Design Your Strategy to Reduce Digital Waste]]** (4 videos)
+- **[[#Conclusion: Become a Change Agent]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reducing your digital footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/reducing-your-digital-footprint?u=76281980)
@@ -78,7 +80,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 2. 1. How Is Digital Connected to the Environment?
+### 1. How Is Digital Connected to the Environment?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The impact and sustainability of digital transformation on the environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980)
@@ -144,7 +148,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 3. 2. What Is the Carbon Footprint and the Digital Carbon Footprint?
+### 2. What Is the Carbon Footprint and the Digital Carbon Footprint?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the carbon footprint?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-the-carbon-footprint?u=76281980)
@@ -222,7 +228,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 4. 3. The Impact of Personal Activities on the Digital Carbon Footprint
+### 3. The Impact of Personal Activities on the Digital Carbon Footprint
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The impact of device use on the carbon footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-device-use-on-the-carbon-footprint?u=76281980)
@@ -521,7 +529,9 @@ created: 2026-04-28
 > **Speakers:** - e (1)
 
 
-### 5. 4. Your Own Carbon Fingerprint on the World
+### 4. Your Own Carbon Fingerprint on the World
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Awareness of our own digital impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/awareness-of-our-own-digital-impact?u=76281980)
@@ -626,7 +636,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 6. 5. Design Your Strategy to Reduce Digital Waste
+### 5. Design Your Strategy to Reduce Digital Waste
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Goals and objectives to reduce your digital carbon footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/goals-and-objectives-to-reduce-your-digital-carbon-footprint?u=76281980)
@@ -763,7 +775,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. Conclusion: Become a Change Agent
+### Conclusion: Become a Change Agent
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make changes in your workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/make-changes-in-your-workplace?u=76281980)

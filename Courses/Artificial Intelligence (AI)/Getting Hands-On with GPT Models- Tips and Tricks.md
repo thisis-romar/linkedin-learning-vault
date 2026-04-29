@@ -52,13 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Refresh Your Basic Prompting Practice** (5 videos)
-- **3. 2. Advance Your Prompts to Improve Results** (6 videos)
-- **4. 3. Learn How to Code with ChatGPT** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Refresh Your Basic Prompting Practice]]** (5 videos)
+- **[[#2. Advance Your Prompts to Improve Results]]** (6 videos)
+- **[[#3. Learn How to Code with ChatGPT]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Level up your ChatGPT skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980)
@@ -213,7 +215,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 2. 1. Refresh Your Basic Prompting Practice
+### 1. Refresh Your Basic Prompting Practice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Brainstorming with GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980)
@@ -624,7 +628,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Advance Your Prompts to Improve Results
+### 2. Advance Your Prompts to Improve Results
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An overview of OpenAI GPT and Reasoning Models
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980)
@@ -1062,7 +1068,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Learn How to Code with ChatGPT
+### 3. Learn How to Code with ChatGPT
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Interpreting code with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/interpreting-code-with-chatgpt?u=76281980)
@@ -1693,7 +1701,9 @@ created: 2026-04-28
 > **File Paths:** api.txt (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980)

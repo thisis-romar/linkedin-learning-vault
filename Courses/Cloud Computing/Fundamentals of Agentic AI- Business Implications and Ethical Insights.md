@@ -47,12 +47,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding the Evolution of Agentic AI** (3 videos)
-- **3. 2. Business Applications of Agentic AI** (3 videos)
-- **4. 3. Agentic AI Theoretical and Ethical Considerations** (3 videos)
-- **5. 4. Future Outlook on Agentic AI** (2 videos)
-- **6. 5. Strategic Planning for Agentic AI Implementation** (3 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understanding the Evolution of Agentic AI]]** (3 videos)
+- **[[#3. 2. Business Applications of Agentic AI]]** (3 videos)
+- **[[#4. 3. Agentic AI Theoretical and Ethical Considerations]]** (3 videos)
+- **[[#5. 4. Future Outlook on Agentic AI]]** (2 videos)
+- **[[#6. 5. Strategic Planning for Agentic AI Implementation]]** (3 videos)
 
 ### 1. Introduction
 

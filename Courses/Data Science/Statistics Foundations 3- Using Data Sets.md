@@ -52,15 +52,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Sampling** (3 videos)
-- **3. 2. Sample Size** (2 videos)
-- **4. 3. Standard Error** (3 videos)
-- **5. 4. Confidence Intervals** (5 videos)
-- **6. 5. Hypothesis Tests** (6 videos)
-- **7. 6. Continuing Your Statistics Learning Journey** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Sampling]]** (3 videos)
+- **[[#2. Sample Size]]** (2 videos)
+- **[[#3. Standard Error]]** (3 videos)
+- **[[#4. Confidence Intervals]]** (5 videos)
+- **[[#5. Hypothesis Tests]]** (6 videos)
+- **[[#6. Continuing Your Statistics Learning Journey]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Discover samples, confidence intervals, and hypothesis testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/discover-samples-confidence-intervals-and-hypothesis-testing?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 2. 1. Sampling
+### 1. Sampling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sample considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?u=76281980)
@@ -433,7 +437,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. Sample Size
+### 2. Sample Size
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of sample size
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-importance-of-sample-size?u=76281980)
@@ -614,7 +620,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 4. 3. Standard Error
+### 3. Standard Error
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Standard error for proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-proportions?u=76281980)
@@ -885,7 +893,9 @@ created: 2026-04-28
 > **Speakers:** - through (1)
 
 
-### 5. 4. Confidence Intervals
+### 4. Confidence Intervals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to confidence intervals
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/introduction-to-confidence-intervals?u=76281980)
@@ -1371,7 +1381,9 @@ created: 2026-04-28
 > **Speakers:** - suppose (1)
 
 
-### 6. 5. Hypothesis Tests
+### 5. Hypothesis Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hypothesis test introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-introduction?u=76281980)
@@ -2096,7 +2108,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. 6. Continuing Your Statistics Learning Journey
+### 6. Continuing Your Statistics Learning Journey
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980)

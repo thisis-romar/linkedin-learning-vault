@@ -57,20 +57,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Data Lakes** (5 videos)
-- **3. 2. Storage In Data Lakes** (7 videos)
-- **4. 3. Data Ingestion in Data Lakes** (7 videos)
-- **5. 4. Data Management and Governance in Data Lakes** (6 videos)
-- **6. 5. Introduction to Data Lakehouses** (4 videos)
-- **7. 6. Data Consumption and Query Engines in Lakes and Lakehouses** (7 videos)
-- **8. 7. Advanced Data Platforms for Lakes and Lakehouses** (6 videos)
-- **9. 8. Final Project: Building a Data Lakehouse** (9 videos)
-- **10. 9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse** (8 videos)
-- **11. 10. Final Project: Generative AI in the Lakehouse** (7 videos)
-- **12. Conclusion** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Introduction to Data Lakes]]** (5 videos)
+- **[[#2. Storage In Data Lakes]]** (7 videos)
+- **[[#3. Data Ingestion in Data Lakes]]** (7 videos)
+- **[[#4. Data Management and Governance in Data Lakes]]** (6 videos)
+- **[[#5. Introduction to Data Lakehouses]]** (4 videos)
+- **[[#6. Data Consumption and Query Engines in Lakes and Lakehouses]]** (7 videos)
+- **[[#7. Advanced Data Platforms for Lakes and Lakehouses]]** (6 videos)
+- **[[#8. Final Project: Building a Data Lakehouse]]** (9 videos)
+- **[[#9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse]]** (8 videos)
+- **[[#10. Final Project: Generative AI in the Lakehouse]]** (7 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data lakes, lakehouses, and more
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980)
@@ -201,7 +203,9 @@ created: 2026-04-28
 > **Speakers:** - at (1)
 
 
-### 2. 1. Introduction to Data Lakes
+### 1. Introduction to Data Lakes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a data lake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980)
@@ -532,7 +536,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Storage In Data Lakes
+### 2. Storage In Data Lakes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Storage types
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980)
@@ -1042,7 +1048,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Data Ingestion in Data Lakes
+### 3. Data Ingestion in Data Lakes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data ingestion methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980)
@@ -1540,7 +1548,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data Management and Governance in Data Lakes
+### 4. Data Management and Governance in Data Lakes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data management and governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980)
@@ -1898,7 +1908,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Introduction to Data Lakehouses
+### 5. Introduction to Data Lakehouses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a data lakehouse?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980)
@@ -2221,7 +2233,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 7. 6. Data Consumption and Query Engines in Lakes and Lakehouses
+### 6. Data Consumption and Query Engines in Lakes and Lakehouses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to data consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980)
@@ -2779,7 +2793,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 8. 7. Advanced Data Platforms for Lakes and Lakehouses
+### 7. Advanced Data Platforms for Lakes and Lakehouses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unified analytics platforms: Databricks and Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980)
@@ -3168,7 +3184,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Final Project: Building a Data Lakehouse
+### 8. Final Project: Building a Data Lakehouse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980)
@@ -4128,7 +4146,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 10. 9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse
+### 9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dremio walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980)
@@ -5057,7 +5077,9 @@ created: 2026-04-28
 > **Analogies:** just like (1)
 
 
-### 11. 10. Final Project: Generative AI in the Lakehouse
+### 10. Final Project: Generative AI in the Lakehouse
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to LLMs and vector embeddings: Llama
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980)
@@ -5601,7 +5623,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (3)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Recap and key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/recap-and-key-takeaways-24330327?u=76281980)

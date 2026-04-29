@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Overview** (1 videos)
-- **3. 2. Exception Basics** (7 videos)
-- **4. 3. Advanced Exceptions** (7 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Overview]]** (1 videos)
+- **[[#2. Exception Basics]]** (7 videos)
+- **[[#3. Advanced Exceptions]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exceptional times call for exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exceptional-times-call-for-exception-handling?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Overview
+### 1. Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980)
@@ -187,7 +191,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Exception Basics
+### 2. Exception Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic exception handling code
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980)
@@ -772,7 +778,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Advanced Exceptions
+### 3. Advanced Exceptions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using try-catch-finally
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/using-try-catch-finally?u=76281980)
@@ -1351,7 +1359,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/next-steps?u=76281980)

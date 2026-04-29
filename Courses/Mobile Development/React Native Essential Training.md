@@ -42,14 +42,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (2 videos)
-- **3. 2. React Native Fundamentals** (5 videos)
-- **4. 3. Building a Simple Game App** (15 videos)
-- **5. 4. Building a Data-Driven App** (9 videos)
-- **6. 5. Animation and Gesture Control** (9 videos)
-- **7. 6. Deploying** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started]]** (2 videos)
+- **[[#3. 2. React Native Fundamentals]]** (5 videos)
+- **[[#4. 3. Building a Simple Game App]]** (15 videos)
+- **[[#5. 4. Building a Data-Driven App]]** (9 videos)
+- **[[#6. 5. Animation and Gesture Control]]** (9 videos)
+- **[[#7. 6. Deploying]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

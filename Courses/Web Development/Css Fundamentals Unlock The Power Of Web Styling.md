@@ -42,15 +42,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. CSS Basics** (8 videos)
-- **3. 2. CSS Concepts** (7 videos)
-- **4. 3. A Closer Look at the Cascade** (3 videos)
-- **5. 4. Layouts** (5 videos)
-- **6. 5. Working with CSS** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. CSS Basics]]** (8 videos)
+- **[[#2. CSS Concepts]]** (7 videos)
+- **[[#3. A Closer Look at the Cascade]]** (3 videos)
+- **[[#4. Layouts]]** (5 videos)
+- **[[#5. Working with CSS]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Time to learn some CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980)
@@ -81,7 +83,9 @@ created: 2026-04-28
 > **Speakers:** - css (1)
 
 
-### 2. 1. CSS Basics
+### 1. CSS Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is CSS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980)
@@ -713,7 +717,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. CSS Concepts
+### 2. CSS Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why CSS reset and normalize matter
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/why-css-reset-and-normalize-matter?u=76281980)
@@ -1369,7 +1375,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. A Closer Look at the Cascade
+### 3. A Closer Look at the Cascade
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding cascading order
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-cascading-order?u=76281980)
@@ -1583,7 +1591,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Layouts
+### 4. Layouts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Structuring a page with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980)
@@ -1856,7 +1866,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Working with CSS
+### 5. Working with CSS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Organizing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/organizing-your-code?u=76281980)
@@ -2129,7 +2141,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980)

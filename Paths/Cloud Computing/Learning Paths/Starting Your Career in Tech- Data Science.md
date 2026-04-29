@@ -16,12 +16,12 @@ tags:
   - topic/security
   - topic/data-science
   - topic/software-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-04-28T23:45:00.484Z
+activity_total: 2
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
   - course: '[[Inside The Mind Of An Aspiring Data Scientist]]'
     last_opened: null

@@ -53,11 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Challenges and Opportunities of Agentic AI for Leadership** (8 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Challenges and Opportunities of Agentic AI for Leadership]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing for agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/preparing-for-agentic-ai-26922359?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - ai (1)
 
 
-### 2. 1. Challenges and Opportunities of Agentic AI for Leadership
+### 1. Challenges and Opportunities of Agentic AI for Leadership
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agentic AI and business efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980)
@@ -569,7 +573,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Anticipating what's next with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980)

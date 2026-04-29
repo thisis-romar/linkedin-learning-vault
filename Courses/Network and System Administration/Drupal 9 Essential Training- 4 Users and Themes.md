@@ -46,9 +46,9 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Users Explained** (5 videos)
-- **3. 2. Themes Explained** (2 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Users Explained]]** (5 videos)
+- **[[#3. 2. Themes Explained]]** (2 videos)
 
 ### 1. Introduction
 

@@ -53,12 +53,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Object-Oriented Python** (6 videos)
-- **3. 2. Inheritance and Composition** (6 videos)
-- **4. 3. "Magic" Object Methods** (6 videos)
-- **5. 4. Data Classes** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Object-Oriented Python]]** (6 videos)
+- **[[#3. 2. Inheritance and Composition]]** (6 videos)
+- **[[#4. 3. "Magic" Object Methods]]** (6 videos)
+- **[[#5. 4. Data Classes]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

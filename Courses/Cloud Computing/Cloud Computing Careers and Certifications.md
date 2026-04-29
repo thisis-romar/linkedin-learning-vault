@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Overview of Career Roles** (5 videos)
-- **3. 2. Infrastructure Skills** (3 videos)
-- **4. 3. Developer Skills** (3 videos)
-- **5. 4. Cloud Certifications** (4 videos)
-- **6. 5. Cloud Career Paths** (4 videos)
-- **7. 6. GenAI and Cloud Careers** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Overview of Career Roles]]** (5 videos)
+- **[[#2. Infrastructure Skills]]** (3 videos)
+- **[[#3. Developer Skills]]** (3 videos)
+- **[[#4. Cloud Certifications]]** (4 videos)
+- **[[#5. Cloud Career Paths]]** (4 videos)
+- **[[#6. GenAI and Cloud Careers]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to design a cloud career pathway
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-to-design-a-cloud-career-pathway?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - designing (1)
 
 
-### 2. 1. Overview of Career Roles
+### 1. Overview of Career Roles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why do I need a cloud career guide?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980)
@@ -273,7 +277,9 @@ created: 2026-04-28
 > **Non-Speech:** (mellow instrumental music) (1)
 
 
-### 3. 2. Infrastructure Skills
+### 2. Infrastructure Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are networking and monitoring tasks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980)
@@ -381,7 +387,9 @@ created: 2026-04-28
 > **Speakers:** - scripting (1)
 
 
-### 4. 3. Developer Skills
+### 3. Developer Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are application development tasks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980)
@@ -487,7 +495,9 @@ created: 2026-04-28
 > **Non-Speech:** (gentle music) (1)
 
 
-### 5. 4. Cloud Certifications
+### 4. Cloud Certifications
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are AWS certifications?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980)
@@ -838,7 +848,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Cloud Career Paths
+### 5. Cloud Career Paths
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Which skills for network admin to cloud infrastructure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980)
@@ -971,7 +983,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. GenAI and Cloud Careers
+### 6. GenAI and Cloud Careers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use GenAI for cloud developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980)
@@ -1434,7 +1448,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How can I learn more about a career in the cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980)

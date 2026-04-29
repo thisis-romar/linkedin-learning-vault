@@ -58,14 +58,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Strategic Data Collection for AI** (5 videos)
-- **3. 2. Modeling and Its Role in Data Collection** (2 videos)
-- **4. 3. Quality Management of AI Systems** (3 videos)
-- **5. 4. Integrated Approach: Data Collection, Modeling, and Quality Management** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Strategic Data Collection for AI]]** (5 videos)
+- **[[#2. Modeling and Its Role in Data Collection]]** (2 videos)
+- **[[#3. Quality Management of AI Systems]]** (3 videos)
+- **[[#4. Integrated Approach: Data Collection, Modeling, and Quality Management]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of data in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/the-importance-of-data-in-ai?u=76281980)
@@ -128,7 +130,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 2. 1. Introduction to Strategic Data Collection for AI
+### 1. Introduction to Strategic Data Collection for AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/defining-the-problem?u=76281980)
@@ -699,7 +703,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Modeling and Its Role in Data Collection
+### 2. Modeling and Its Role in Data Collection
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data requirements for modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-requirements-for-modeling?u=76281980)
@@ -892,7 +898,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Quality Management of AI Systems
+### 3. Quality Management of AI Systems
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data-quality metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/data-quality-metrics?u=76281980)
@@ -1206,7 +1214,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Integrated Approach: Data Collection, Modeling, and Quality Management
+### 4. Integrated Approach: Data Collection, Modeling, and Quality Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Taking a holistic approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/taking-a-holistic-approach?u=76281980)
@@ -1384,7 +1394,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-data-collection-modeling-and-quality-management-for-ai-systems/next-steps?u=76281980)

@@ -53,14 +53,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Selecting Search** (4 videos)
-- **3. 2. Building Blocks of Semantic Search** (4 videos)
-- **4. 3. Enhancing Semantic Search** (8 videos)
-- **5. 4. Optimizing Data and Entities for Semantic Search** (3 videos)
-- **6. 5. Mastering Semantic Search with AI, Human Feedback, and Key Data** (3 videos)
-- **7. 6. Bridging Text and Graphs for Smarter Semantic Search** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Selecting Search]]** (4 videos)
+- **[[#3. 2. Building Blocks of Semantic Search]]** (4 videos)
+- **[[#4. 3. Enhancing Semantic Search]]** (8 videos)
+- **[[#5. 4. Optimizing Data and Entities for Semantic Search]]** (3 videos)
+- **[[#6. 5. Mastering Semantic Search with AI, Human Feedback, and Key Data]]** (3 videos)
+- **[[#7. 6. Bridging Text and Graphs for Smarter Semantic Search]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

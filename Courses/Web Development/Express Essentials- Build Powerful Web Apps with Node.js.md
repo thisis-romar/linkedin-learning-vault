@@ -55,15 +55,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Installation and First Steps: Node.js and Express** (3 videos)
-- **3. 2. Express Basics** (6 videos)
-- **4. 3. Express Routing Fundamentals** (4 videos)
-- **5. 4. Express Essentials: Middleware** (4 videos)
-- **6. 5. Taking Express One Step Further** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Installation and First Steps: Node.js and Express]]** (3 videos)
+- **[[#2. Express Basics]]** (6 videos)
+- **[[#3. Express Routing Fundamentals]]** (4 videos)
+- **[[#4. Express Essentials: Middleware]]** (4 videos)
+- **[[#5. Taking Express One Step Further]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Generate server-side code with Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980)
@@ -129,7 +131,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Installation and First Steps: Node.js and Express
+### 1. Installation and First Steps: Node.js and Express
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are Node.js and npm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980)
@@ -434,7 +438,9 @@ created: 2026-04-28
 > **Env Vars:** debug (2), css (1)
 
 
-### 3. 2. Express Basics
+### 2. Express Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started: Server and project setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980)
@@ -1301,7 +1307,9 @@ created: 2026-04-28
 > **UI Navigation:** drag and drop (2)
 
 
-### 4. 3. Express Routing Fundamentals
+### 3. Express Routing Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are routing parameters?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980)
@@ -1823,7 +1831,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Express Essentials: Middleware
+### 4. Express Essentials: Middleware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is middleware?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980)
@@ -2229,7 +2239,9 @@ created: 2026-04-28
 > **UI Navigation:** scroll down (1)
 
 
-### 6. 5. Taking Express One Step Further
+### 5. Taking Express One Step Further
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to debug your express application
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980)
@@ -2467,7 +2479,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980)

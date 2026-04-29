@@ -60,12 +60,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. GitHub Copilot and Refactoring Basics** (6 videos)
-- **3. 2. Refactoring Techniques with AI** (5 videos)
-- **4. 3. Advanced Refactoring for Long-Lived Code Bases** (4 videos)
-- **5. 4. Refactoring in the Real World** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. GitHub Copilot and Refactoring Basics]]** (6 videos)
+- **[[#3. 2. Refactoring Techniques with AI]]** (5 videos)
+- **[[#4. 3. Advanced Refactoring for Long-Lived Code Bases]]** (4 videos)
+- **[[#5. 4. Refactoring in the Real World]]** (5 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

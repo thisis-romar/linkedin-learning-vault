@@ -49,15 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Program Management Overview** (4 videos)
-- **3. 2. Program Concept Development** (5 videos)
-- **4. 3. Program Planning** (10 videos)
-- **5. 4. Program Execution and Control** (5 videos)
-- **6. 5. Program Closure** (6 videos)
-- **7. Conculsion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Program Management Overview]]** (4 videos)
+- **[[#2. Program Concept Development]]** (5 videos)
+- **[[#3. Program Planning]]** (10 videos)
+- **[[#4. Program Execution and Control]]** (5 videos)
+- **[[#5. Program Closure]]** (6 videos)
+- **[[#Conculsion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Program management at a high level
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/program-management-at-a-high-level?u=76281980)
@@ -114,7 +116,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Program Management Overview
+### 1. Program Management Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is program management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-program-management?u=76281980)
@@ -416,7 +420,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2. Program Concept Development
+### 2. Program Concept Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing your program concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980)
@@ -798,7 +804,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Program Planning
+### 3. Program Planning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making your program the top priority
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980)
@@ -1529,7 +1537,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 5. 4. Program Execution and Control
+### 4. Program Execution and Control
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Kicking off your program
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/kicking-off-your-program?u=76281980)
@@ -1880,7 +1890,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 6. 5. Program Closure
+### 5. Program Closure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Closing your program
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/closing-your-program?u=76281980)
@@ -2177,7 +2189,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 7. Conculsion
+### Conculsion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Open to change
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/open-to-change?u=76281980)

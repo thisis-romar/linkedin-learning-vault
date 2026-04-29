@@ -55,15 +55,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Leading with Strategic Agility** (4 videos)
-- **3. 2. Strategic Agiity Mindset** (3 videos)
-- **4. 3. Strategic Agility Skillset** (3 videos)
-- **5. 4. Strategic Agility Toolset** (4 videos)
-- **6. 5. Continuous Agility** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Leading with Strategic Agility]]** (4 videos)
+- **[[#2. Strategic Agiity Mindset]]** (3 videos)
+- **[[#3. Strategic Agility Skillset]]** (3 videos)
+- **[[#4. Strategic Agility Toolset]]** (4 videos)
+- **[[#5. Continuous Agility]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategic agility and the pace of change
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-and-the-pace-of-change?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - guiding (1)
 
 
-### 2. 1. Leading with Strategic Agility
+### 1. Leading with Strategic Agility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategic agility is critical to leadership today
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980)
@@ -415,7 +419,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Strategic Agiity Mindset
+### 2. Strategic Agiity Mindset
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategic mindset powered by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980)
@@ -647,7 +653,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 4. 3. Strategic Agility Skillset
+### 3. Strategic Agility Skillset
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategic skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980)
@@ -858,7 +866,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 5. 4. Strategic Agility Toolset
+### 4. Strategic Agility Toolset
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practicing futures thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980)
@@ -1168,7 +1178,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 6. 5. Continuous Agility
+### 5. Continuous Agility
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Developing strategic foresight
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980)
@@ -1302,7 +1314,9 @@ created: 2026-04-28
 > **Speakers:** - everything (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Activating strategic agility
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/activating-strategic-agility?u=76281980)

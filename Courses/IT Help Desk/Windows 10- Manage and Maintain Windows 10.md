@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Configure Updates** (5 videos)
-- **3. 2. Monitor Windows** (10 videos)
-- **4. 3. Manage Local Users, Local Groups, and Devices** (7 videos)
-- **5. 4. Configure System and Data Recovery** (10 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Configure Updates]]** (5 videos)
+- **[[#3. 2. Monitor Windows]]** (10 videos)
+- **[[#4. 3. Manage Local Users, Local Groups, and Devices]]** (7 videos)
+- **[[#5. 4. Configure System and Data Recovery]]** (10 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

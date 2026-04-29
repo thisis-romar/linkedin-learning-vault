@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Image Essentials** (4 videos)
-- **3. 2. Image Formats** (4 videos)
-- **4. 3. Images and CSS** (6 videos)
-- **5. 4. Responsive Images** (7 videos)
-- **6. 5. Figures** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Image Essentials]]** (4 videos)
+- **[[#3. 2. Image Formats]]** (4 videos)
+- **[[#4. 3. Images and CSS]]** (6 videos)
+- **[[#5. 4. Responsive Images]]** (7 videos)
+- **[[#6. 5. Figures]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -45,12 +45,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Basics of AI** (4 videos)
-- **3. 2. Critical Perspectives on AI** (6 videos)
-- **4. 3. AI and the United Nations System** (3 videos)
-- **5. 4. The Mechanics of AI** (5 videos)
-- **6. 5. Practical Applications of AI** (3 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Basics of AI]]** (4 videos)
+- **[[#3. 2. Critical Perspectives on AI]]** (6 videos)
+- **[[#4. 3. AI and the United Nations System]]** (3 videos)
+- **[[#5. 4. The Mechanics of AI]]** (5 videos)
+- **[[#6. 5. Practical Applications of AI]]** (3 videos)
 
 ### 1. Introduction
 

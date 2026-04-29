@@ -51,17 +51,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Generics** (5 videos)
-- **3. 2. Working with Collections** (6 videos)
-- **4. 3. Exception Handling** (6 videos)
-- **5. 4. Programming Threads with async and await** (5 videos)
-- **6. 5. Delegates and Events** (7 videos)
-- **7. 6. Extension Methods** (5 videos)
-- **8. 7. Language Integrated Query (LINQ)** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Generics]]** (5 videos)
+- **[[#2. Working with Collections]]** (6 videos)
+- **[[#3. Exception Handling]]** (6 videos)
+- **[[#4. Programming Threads with async and await]]** (5 videos)
+- **[[#5. Delegates and Events]]** (7 videos)
+- **[[#6. Extension Methods]]** (5 videos)
+- **[[#7. Language Integrated Query (LINQ)]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Essentials deep dive
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/essentials-deep-dive?u=76281980)
@@ -191,7 +193,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Generics
+### 1. Generics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-generics?u=76281980)
@@ -810,7 +814,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Working with Collections
+### 2. Working with Collections
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding collection types in the BCL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-collection-types-in-the-bcl?u=76281980)
@@ -1542,7 +1548,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Exception Handling
+### 3. Exception Handling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basics of try-catch-finally
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980)
@@ -2236,7 +2244,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Programming Threads with async and await
+### 4. Programming Threads with async and await
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Threading basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/threading-basics?u=76281980)
@@ -2812,7 +2822,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Delegates and Events
+### 5. Delegates and Events
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding delegates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-delegates?u=76281980)
@@ -3491,7 +3503,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Extension Methods
+### 6. Extension Methods
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The case for extension methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/the-case-for-extension-methods?u=76281980)
@@ -3845,7 +3859,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. 7. Language Integrated Query (LINQ)
+### 7. Language Integrated Query (LINQ)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the purpose of LINQ
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understand-the-purpose-of-linq?u=76281980)
@@ -4308,7 +4324,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build something and continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980)

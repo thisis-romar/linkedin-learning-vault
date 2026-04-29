@@ -43,13 +43,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Microsoft 365 Overview** (7 videos)
-- **3. 2. Getting Started with Microsoft 365** (3 videos)
-- **4. 3. Basic Administration of Microsoft 365** (13 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Microsoft 365 Overview]]** (7 videos)
+- **[[#2. Getting Started with Microsoft 365]]** (3 videos)
+- **[[#3. Basic Administration of Microsoft 365]]** (13 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Modernize IT infrastructure with Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980)
@@ -70,7 +72,9 @@ created: 2026-04-28
 > **Speakers:** - are (1)
 
 
-### 2. 1. Microsoft 365 Overview
+### 1. Microsoft 365 Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980)
@@ -995,7 +999,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1), - but (1)
 
 
-### 3. 2. Getting Started with Microsoft 365
+### 2. Getting Started with Microsoft 365
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a free Microsoft 365 E5 trial account
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980)
@@ -1385,7 +1391,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Basic Administration of Microsoft 365
+### 3. Basic Administration of Microsoft 365
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the Microsoft 365 Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980)
@@ -2717,7 +2725,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue learning Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980)

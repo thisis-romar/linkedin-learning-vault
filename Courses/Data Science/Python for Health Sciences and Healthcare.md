@@ -55,18 +55,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. General Programming Concepts** (11 videos)
-- **3. 2. Setup and Workspace** (2 videos)
-- **4. 3. Python File Handling** (3 videos)
-- **5. 4. Basic Python Data Type** (3 videos)
-- **6. 5. Basic Python Data Structures** (6 videos)
-- **7. 6. Basic Operations in Python** (5 videos)
-- **8. 7. Python Functions and Statements** (5 videos)
-- **9. 8. Built-in Functions and Other Operations in Python** (14 videos)
-- **10. 9. Code Documentation in Python** (4 videos)
-- **11. 10. Libraries** (3 videos)
-- **12. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. General Programming Concepts]]** (11 videos)
+- **[[#3. 2. Setup and Workspace]]** (2 videos)
+- **[[#4. 3. Python File Handling]]** (3 videos)
+- **[[#5. 4. Basic Python Data Type]]** (3 videos)
+- **[[#6. 5. Basic Python Data Structures]]** (6 videos)
+- **[[#7. 6. Basic Operations in Python]]** (5 videos)
+- **[[#8. 7. Python Functions and Statements]]** (5 videos)
+- **[[#9. 8. Built-in Functions and Other Operations in Python]]** (14 videos)
+- **[[#10. 9. Code Documentation in Python]]** (4 videos)
+- **[[#11. 10. Libraries]]** (3 videos)
+- **[[#12. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

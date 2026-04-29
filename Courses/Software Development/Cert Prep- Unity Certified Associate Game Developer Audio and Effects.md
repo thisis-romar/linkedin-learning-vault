@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Audio Assets and Basics** (5 videos)
-- **3. 2. Coding with Audio** (5 videos)
-- **4. 3. VFX Graph** (4 videos)
-- **5. 4. Particle Systems and Effects** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Audio Assets and Basics]]** (5 videos)
+- **[[#3. 2. Coding with Audio]]** (5 videos)
+- **[[#4. 3. VFX Graph]]** (4 videos)
+- **[[#5. 4. Particle Systems and Effects]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

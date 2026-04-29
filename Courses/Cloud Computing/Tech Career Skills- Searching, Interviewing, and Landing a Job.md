@@ -53,16 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Understanding the Tech Hiring Process** (4 videos)
-- **3. 2. The Well-Rounded Engineer: What Employers Want** (2 videos)
-- **4. 3. Better Defining Your Tech Job Search** (3 videos)
-- **5. 4. Identifying the Key Players in a Tech Interview** (7 videos)
-- **6. 5. Preparing for Your Technical Interview** (4 videos)
-- **7. 6. Common Tech Interview Mistakes** (4 videos)
-- **8. 7. Presenting Yourself in a Tech Interview** (5 videos)
-- **9. 8. Post-Interview Advice** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Understanding the Tech Hiring Process]]** (4 videos)
+- **[[#3. 2. The Well-Rounded Engineer: What Employers Want]]** (2 videos)
+- **[[#4. 3. Better Defining Your Tech Job Search]]** (3 videos)
+- **[[#5. 4. Identifying the Key Players in a Tech Interview]]** (7 videos)
+- **[[#6. 5. Preparing for Your Technical Interview]]** (4 videos)
+- **[[#7. 6. Common Tech Interview Mistakes]]** (4 videos)
+- **[[#8. 7. Presenting Yourself in a Tech Interview]]** (5 videos)
+- **[[#9. 8. Post-Interview Advice]]** (3 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

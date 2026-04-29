@@ -51,20 +51,22 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. OWASP Top 10 for LLMs** (4 videos)
-- **3. 2. Sensitive Information Disclosure** (2 videos)
-- **4. 3. Supply Chain** (2 videos)
-- **5. 4. Data and Model Poisoning** (2 videos)
-- **6. 5. Improper Output Handling** (2 videos)
-- **7. 6. Excessive Agency** (2 videos)
-- **8. 7. System Prompt Leakage** (2 videos)
-- **9. 8. Vector and Embedding Weaknesses** (2 videos)
-- **10. 9. Misinformation** (2 videos)
-- **11. 10. Unbounded Consumption** (2 videos)
-- **12. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. OWASP Top 10 for LLMs]]** (4 videos)
+- **[[#2. Sensitive Information Disclosure]]** (2 videos)
+- **[[#3. Supply Chain]]** (2 videos)
+- **[[#4. Data and Model Poisoning]]** (2 videos)
+- **[[#5. Improper Output Handling]]** (2 videos)
+- **[[#6. Excessive Agency]]** (2 videos)
+- **[[#7. System Prompt Leakage]]** (2 videos)
+- **[[#8. Vector and Embedding Weaknesses]]** (2 videos)
+- **[[#9. Misinformation]]** (2 videos)
+- **[[#10. Unbounded Consumption]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing the 2025 OWASP Top 10 for LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/introduction-to-2025-owasp-top-10-for-llm-s?u=76281980)
@@ -190,7 +192,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 2. 1. OWASP Top 10 for LLMs
+### 1. OWASP Top 10 for LLMs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a prompt?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/what-is-a-prompt?u=76281980)
@@ -559,7 +563,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Sensitive Information Disclosure
+### 2. Sensitive Information Disclosure
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is sensitive information disclosure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/what-is-sensitive-information-disclosure?u=76281980)
@@ -767,7 +773,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Supply Chain
+### 3. Supply Chain
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Supply chain risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/supply-chain-risks?u=76281980)
@@ -974,7 +982,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Data and Model Poisoning
+### 4. Data and Model Poisoning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is data and model poisoning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/what-is-data-and-model-poisoning?u=76281980)
@@ -1173,7 +1183,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Improper Output Handling
+### 5. Improper Output Handling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Insecure output handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/insecure-output-handling?u=76281980)
@@ -1331,7 +1343,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Excessive Agency
+### 6. Excessive Agency
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Excessive agency
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/excessive-agency?u=76281980)
@@ -1470,7 +1484,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 8. 7. System Prompt Leakage
+### 7. System Prompt Leakage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### System prompt leakage
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/system-prompt-leakage?u=76281980)
@@ -1662,7 +1678,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Vector and Embedding Weaknesses
+### 8. Vector and Embedding Weaknesses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vector and embedding vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/vector-and-embedding-vulnerabilities?u=76281980)
@@ -1838,7 +1856,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Misinformation
+### 9. Misinformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Misinformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/misinformation?u=76281980)
@@ -1980,7 +2000,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 11. 10. Unbounded Consumption
+### 10. Unbounded Consumption
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unbounded consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/unbounded-consumption?u=76281980)
@@ -2114,7 +2136,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Final thoughts and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-owasp-top-10-for-large-language-model-llm-applications-an-overview-26299758/final-thoughts-and-next-steps?u=76281980)

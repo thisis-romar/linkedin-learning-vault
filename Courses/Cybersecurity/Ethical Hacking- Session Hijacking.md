@@ -47,15 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Network Session Hijacking** (3 videos)
-- **3. 2. Web Session Hijacking** (10 videos)
-- **4. 3. Additional Tools** (2 videos)
-- **5. 4. Service Hijacking** (3 videos)
-- **6. 5. Hijacking in the Physical World** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Network Session Hijacking]]** (3 videos)
+- **[[#2. Web Session Hijacking]]** (10 videos)
+- **[[#3. Additional Tools]]** (2 videos)
+- **[[#4. Service Hijacking]]** (3 videos)
+- **[[#5. Hijacking in the Physical World]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding session hijacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Network Session Hijacking
+### 1. Network Session Hijacking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding TCP sequence numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980)
@@ -387,7 +391,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Web Session Hijacking
+### 2. Web Session Hijacking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding web sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980)
@@ -1162,7 +1168,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Additional Tools
+### 3. Additional Tools
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Zed Attack Proxy (ZAP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980)
@@ -1301,7 +1309,9 @@ created: 2026-04-28
 > **Speakers:** - [voiceover] (1)
 
 
-### 5. 4. Service Hijacking
+### 4. Service Hijacking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hijacking SSH sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980)
@@ -1484,7 +1494,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Hijacking in the Physical World
+### 5. Hijacking in the Physical World
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Going physical: Hijacking cars and drones
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980)
@@ -1664,7 +1676,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980)

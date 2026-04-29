@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understand the Value of Data** (3 videos)
-- **3. 2. Build Effective Dashboards** (2 videos)
-- **4. 3. Craft Compelling Data Stories** (3 videos)
-- **5. 4. Choose the Right Format for the Job** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understand the Value of Data]]** (3 videos)
+- **[[#3. 2. Build Effective Dashboards]]** (2 videos)
+- **[[#4. 3. Craft Compelling Data Stories]]** (3 videos)
+- **[[#5. 4. Choose the Right Format for the Job]]** (2 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

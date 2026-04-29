@@ -51,13 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Project Manager and Business Analyst Collaboration Overview** (7 videos)
-- **3. 2. What to Collaborate On** (6 videos)
-- **4. 3. Overlapping Roles** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Project Manager and Business Analyst Collaboration Overview]]** (7 videos)
+- **[[#2. What to Collaborate On]]** (6 videos)
+- **[[#3. Overlapping Roles]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Teaming up for results
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/teaming-up-for-results?u=76281980)
@@ -88,7 +90,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Project Manager and Business Analyst Collaboration Overview
+### 1. Project Manager and Business Analyst Collaboration Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why projects fail
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-projects-fail?u=76281980)
@@ -517,7 +521,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 3. 2. What to Collaborate On
+### 2. What to Collaborate On
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Portfolio-level collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/portfolio-level-collaboration-8536783?u=76281980)
@@ -929,7 +935,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. 3. Overlapping Roles
+### 3. Overlapping Roles
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/communications-8541082?u=76281980)
@@ -1165,7 +1173,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Leverage each other's skill sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/leverage-each-other-s-skill-sets?u=76281980)

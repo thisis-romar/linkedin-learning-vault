@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Exploring AI in Learning** (3 videos)
-- **3. 2. Designing AI-Powered Learning Experiences** (4 videos)
-- **4. 3. Implementing AI in Your Learning Strategy** (3 videos)
-- **5. 4. Measuring Success and Impact** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Exploring AI in Learning]]** (3 videos)
+- **[[#2. Designing AI-Powered Learning Experiences]]** (4 videos)
+- **[[#3. Implementing AI in Your Learning Strategy]]** (3 videos)
+- **[[#4. Measuring Success and Impact]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Boost organizational learning with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/boost-organizational-learning-with-ai?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 2. 1. Exploring AI in Learning
+### 1. Exploring AI in Learning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify skills that can grow with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/identify-skills-that-can-grow-with-ai?u=76281980)
@@ -253,7 +257,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 3. 2. Designing AI-Powered Learning Experiences
+### 2. Designing AI-Powered Learning Experiences
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Personalize learning with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/personalize-learning-with-ai?u=76281980)
@@ -471,7 +477,9 @@ created: 2026-04-28
 > **Env Vars:** elb (1)
 
 
-### 4. 3. Implementing AI in Your Learning Strategy
+### 3. Implementing AI in Your Learning Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build an AI-ready learning culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/build-an-ai-ready-learning-culture?u=76281980)
@@ -645,7 +653,9 @@ created: 2026-04-28
 > **Analogies:** such as (1)
 
 
-### 5. 4. Measuring Success and Impact
+### 4. Measuring Success and Impact
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Analyze learning outcomes
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/analyze-learning-outcomes?u=76281980)
@@ -754,7 +764,9 @@ created: 2026-04-28
 > **Code Keywords:** let (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Integrate AI into the future of workforce learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-future-of-workforce-learning-ai-powered-personalization-for-skill-development/integrate-ai-into-the-future-of-workforce-learning?u=76281980)

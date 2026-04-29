@@ -59,14 +59,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Multimodality** (3 videos)
-- **3. 2. GPT-4** (5 videos)
-- **4. 3. Gemini** (5 videos)
-- **5. 4. Auditory Modalities** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Multimodality]]** (3 videos)
+- **[[#2. GPT-4]]** (5 videos)
+- **[[#3. Gemini]]** (5 videos)
+- **[[#4. Auditory Modalities]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GenAI with multimodal prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - use (1)
 
 
-### 2. 1. Multimodality
+### 1. Multimodality
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is multimodality?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-multimodality?u=76281980)
@@ -206,7 +210,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. GPT-4
+### 2. GPT-4
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### GPT-4 and 4o
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-and-4o?u=76281980)
@@ -423,7 +429,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Gemini
+### 3. Gemini
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Gemini?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980)
@@ -646,7 +654,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Auditory Modalities
+### 4. Auditory Modalities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Audio in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/audio-in-generative-ai?u=76281980)
@@ -797,7 +807,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980)

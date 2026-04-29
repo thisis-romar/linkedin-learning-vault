@@ -45,19 +45,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Security Concepts** (6 videos)
-- **3. 2. Identity and Access** (14 videos)
-- **4. 3. Security Information and Event Management (SIEM)** (2 videos)
-- **5. 4. Extended Detection and Response (XDR)** (8 videos)
-- **6. 5. Cloud Infrastructure Security** (7 videos)
-- **7. 6. Cloud-Native Application Protection Platform (CNAPP)** (4 videos)
-- **8. 7. Endpoint Management and Security** (1 videos)
-- **9. 8. Risk and Compliance Management** (7 videos)
-- **10. 9. Data Security and Governance** (5 videos)
-- **11. 10. Privacy Protection** (3 videos)
-- **12. 11. AI-Powered Protection** (4 videos)
-- **13. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Security Concepts]]** (6 videos)
+- **[[#3. 2. Identity and Access]]** (14 videos)
+- **[[#4. 3. Security Information and Event Management (SIEM)]]** (2 videos)
+- **[[#5. 4. Extended Detection and Response (XDR)]]** (8 videos)
+- **[[#6. 5. Cloud Infrastructure Security]]** (7 videos)
+- **[[#7. 6. Cloud-Native Application Protection Platform (CNAPP)]]** (4 videos)
+- **[[#8. 7. Endpoint Management and Security]]** (1 videos)
+- **[[#9. 8. Risk and Compliance Management]]** (7 videos)
+- **[[#10. 9. Data Security and Governance]]** (5 videos)
+- **[[#11. 10. Privacy Protection]]** (3 videos)
+- **[[#12. 11. AI-Powered Protection]]** (4 videos)
+- **[[#13. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

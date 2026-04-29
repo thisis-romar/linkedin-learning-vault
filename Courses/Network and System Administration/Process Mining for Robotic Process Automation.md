@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Process Mining** (3 videos)
-- **3. 2. Process Capture** (3 videos)
-- **4. 3. Process Exploration** (6 videos)
-- **5. 4. Process Development** (2 videos)
-- **6. 5. Process Oversight** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Introduction to Process Mining]]** (3 videos)
+- **[[#2. Process Capture]]** (3 videos)
+- **[[#3. Process Exploration]]** (6 videos)
+- **[[#4. Process Development]]** (2 videos)
+- **[[#5. Process Oversight]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course overview and benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-overview-and-benefits?u=76281980)
@@ -107,7 +109,9 @@ created: 2026-04-28
 > **Speakers:** - imagine (1)
 
 
-### 2. 1. Introduction to Process Mining
+### 1. Introduction to Process Mining
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining process mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/defining-process-mining?u=76281980)
@@ -223,7 +227,9 @@ created: 2026-04-28
 > **Speakers:** - discovering (1)
 
 
-### 3. 2. Process Capture
+### 2. Process Capture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is process capture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/what-is-process-capture?u=76281980)
@@ -330,7 +336,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 4. 3. Process Exploration
+### 3. Process Exploration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building a business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/building-a-business-case?u=76281980)
@@ -529,7 +537,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 5. 4. Process Development
+### 4. Process Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Optimizing and redesigning processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/optimizing-and-redesigning-processes-30321097?u=76281980)
@@ -594,7 +604,9 @@ created: 2026-04-28
 > **Code Keywords:** require (1)
 
 
-### 6. 5. Process Oversight
+### 5. Process Oversight
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Outcome measurement and auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/outcome-measurement-and-auditing?u=76281980)
@@ -659,7 +671,9 @@ created: 2026-04-28
 > **Code Keywords:** self (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980)

@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. An Overview of Phishing** (3 videos)
-- **3. 2. How to Catch a Phish** (3 videos)
-- **4. 3. Different Types of Phishing Attacks** (6 videos)
-- **5. 4. How to Defend against Phishing Attacks** (2 videos)
-- **6. 5. What Happens If You Fall for a Phish** (2 videos)
-- **7. Conclusion** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. An Overview of Phishing]]** (3 videos)
+- **[[#2. How to Catch a Phish]]** (3 videos)
+- **[[#3. Different Types of Phishing Attacks]]** (6 videos)
+- **[[#4. How to Defend against Phishing Attacks]]** (2 videos)
+- **[[#5. What Happens If You Fall for a Phish]]** (2 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Can you spot a phish?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980)
@@ -95,7 +97,9 @@ created: 2026-04-28
 > **Speakers:** - can (1)
 
 
-### 2. 1. An Overview of Phishing
+### 1. An Overview of Phishing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Phishing: Understanding cyber deception
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980)
@@ -360,7 +364,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 3. 2. How to Catch a Phish
+### 2. How to Catch a Phish
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Triggered: The surprising psychology behind a click
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980)
@@ -624,7 +630,9 @@ created: 2026-04-28
 > **Speakers:** - phishing (1)
 
 
-### 4. 3. Different Types of Phishing Attacks
+### 3. Different Types of Phishing Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Is it a harmless unknown caller or vishing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-it-a-harmless-unknown-caller-or-vishing?u=76281980)
@@ -1134,7 +1142,9 @@ created: 2026-04-28
 > **Warnings:** be aware (1)
 
 
-### 5. 4. How to Defend against Phishing Attacks
+### 4. How to Defend against Phishing Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How technology helps with the fight against phishing attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980)
@@ -1322,7 +1332,9 @@ created: 2026-04-28
 > **Speakers:** - no (1)
 
 
-### 6. 5. What Happens If You Fall for a Phish
+### 5. What Happens If You Fall for a Phish
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Responding to a phishing attack at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980)
@@ -1500,7 +1512,9 @@ created: 2026-04-28
 > **Speakers:** - we (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future of phishing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980)

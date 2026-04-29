@@ -42,15 +42,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Got GIS Data?** (10 videos)
-- **3. 2. What Can Be Done with GIS Data?** (6 videos)
-- **4. 3. What Is Up with Projections?** (6 videos)
-- **5. 4. How to Collect GIS Data in the Field?** (6 videos)
-- **6. 5. How to Master ArcGIS Online?** (6 videos)
-- **7. 6. How to Build a GIS Project from Scratch?** (20 videos)
-- **8. 7. How to Land a GIS job?** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Got GIS Data?]]** (10 videos)
+- **[[#3. 2. What Can Be Done with GIS Data?]]** (6 videos)
+- **[[#4. 3. What Is Up with Projections?]]** (6 videos)
+- **[[#5. 4. How to Collect GIS Data in the Field?]]** (6 videos)
+- **[[#6. 5. How to Master ArcGIS Online?]]** (6 videos)
+- **[[#7. 6. How to Build a GIS Project from Scratch?]]** (20 videos)
+- **[[#8. 7. How to Land a GIS job?]]** (4 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

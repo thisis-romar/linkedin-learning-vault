@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Authentication Basics** (2 videos)
-- **3. 2. Spoofing Authentication Factors** (6 videos)
-- **4. 3. Spoofing Hosts** (5 videos)
-- **5. 4. Spoofing People** (3 videos)
-- **6. 5. Spoofing Files** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Authentication Basics]]** (2 videos)
+- **[[#3. 2. Spoofing Authentication Factors]]** (6 videos)
+- **[[#4. 3. Spoofing Hosts]]** (5 videos)
+- **[[#5. 4. Spoofing People]]** (3 videos)
+- **[[#6. 5. Spoofing Files]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

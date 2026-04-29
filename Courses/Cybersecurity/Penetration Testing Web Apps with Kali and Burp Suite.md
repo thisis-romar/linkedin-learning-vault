@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Setting Up** (4 videos)
-- **3. 2. Refresher** (3 videos)
-- **4. 3. Advanced Website Enumeration** (3 videos)
-- **5. 4. Finding Vulnerabilities** (2 videos)
-- **6. 5. Attacking the Website** (9 videos)
-- **7. 6. Content Management** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Setting Up]]** (4 videos)
+- **[[#2. Refresher]]** (3 videos)
+- **[[#3. Advanced Website Enumeration]]** (3 videos)
+- **[[#4. Finding Vulnerabilities]]** (2 videos)
+- **[[#5. Attacking the Website]]** (9 videos)
+- **[[#6. Content Management]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protecting your websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980)
@@ -157,7 +159,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Setting Up
+### 1. Setting Up
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Preparing the test environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980)
@@ -485,7 +489,9 @@ created: 2026-04-28
 > **Prerequisites:** before we start (1)
 
 
-### 3. 2. Refresher
+### 2. Refresher
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A refresher on web technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980)
@@ -870,7 +876,9 @@ created: 2026-04-28
 > **File Paths:** php/php-reverse-shell.php (1), purrs.php (1)
 
 
-### 4. 3. Advanced Website Enumeration
+### 3. Advanced Website Enumeration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Busting open a website
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980)
@@ -1201,7 +1209,9 @@ created: 2026-04-28
 > **File Paths:** directory-list-lowercase-2.3-medium.txt (2)
 
 
-### 5. 4. Finding Vulnerabilities
+### 4. Finding Vulnerabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Vulnerability scanning with Burp Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980)
@@ -1322,7 +1332,9 @@ created: 2026-04-28
 > **Cross-References:** go back to (1)
 
 
-### 6. 5. Attacking the Website
+### 5. Attacking the Website
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploiting your way into the gym
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980)
@@ -2034,7 +2046,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. Content Management
+### 6. Content Management
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding CMS targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980)
@@ -2332,7 +2346,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980)

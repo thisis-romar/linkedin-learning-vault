@@ -51,17 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Overview of Vanilla JS** (2 videos)
-- **3. 2. Project Overview** (1 videos)
-- **4. 3. Environment Setup** (2 videos)
-- **5. 4. Replace Ajax** (2 videos)
-- **6. 5. Select and Modify DOM Elements** (3 videos)
-- **7. 6. Replace Event Listeners** (3 videos)
-- **8. 7. Implement Data Binding** (5 videos)
-- **9. 8. Replace Simple Animations** (3 videos)
-- **10. 9. Ensure Backward Compatibility** (2 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Overview of Vanilla JS]]** (2 videos)
+- **[[#3. 2. Project Overview]]** (1 videos)
+- **[[#4. 3. Environment Setup]]** (2 videos)
+- **[[#5. 4. Replace Ajax]]** (2 videos)
+- **[[#6. 5. Select and Modify DOM Elements]]** (3 videos)
+- **[[#7. 6. Replace Event Listeners]]** (3 videos)
+- **[[#8. 7. Implement Data Binding]]** (5 videos)
+- **[[#9. 8. Replace Simple Animations]]** (3 videos)
+- **[[#10. 9. Ensure Backward Compatibility]]** (2 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

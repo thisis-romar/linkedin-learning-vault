@@ -52,16 +52,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting to Know Copilot in PowerPoint** (2 videos)
-- **3. 2. Starting a Presentation from Scratch** (3 videos)
-- **4. 3. Starting a Presentation from a Document** (1 videos)
-- **5. 4. Adding New Slides with Copilot** (2 videos)
-- **6. 5. Refining a Presentation with Copilot** (4 videos)
-- **7. 6. Understanding a Presentation with Copilot** (2 videos)
-- **8. 7. Asking Copilot for Help** (3 videos)
-- **9. 8. Things to Keep In Mind When Using Copilot** (1 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Getting to Know Copilot in PowerPoint]]** (2 videos)
+- **[[#3. 2. Starting a Presentation from Scratch]]** (3 videos)
+- **[[#4. 3. Starting a Presentation from a Document]]** (1 videos)
+- **[[#5. 4. Adding New Slides with Copilot]]** (2 videos)
+- **[[#6. 5. Refining a Presentation with Copilot]]** (4 videos)
+- **[[#7. 6. Understanding a Presentation with Copilot]]** (2 videos)
+- **[[#8. 7. Asking Copilot for Help]]** (3 videos)
+- **[[#9. 8. Things to Keep In Mind When Using Copilot]]** (1 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

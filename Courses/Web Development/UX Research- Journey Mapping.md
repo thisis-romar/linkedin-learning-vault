@@ -44,13 +44,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Journey Mapping?** (4 videos)
-- **3. 2. Gathering Data for Your Journey Map** (2 videos)
-- **4. 3. Making Value-Driven Decisions** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is Journey Mapping?]]** (4 videos)
+- **[[#2. Gathering Data for Your Journey Map]]** (2 videos)
+- **[[#3. Making Value-Driven Decisions]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The moments that matter
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980)
@@ -94,7 +96,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. What Is Journey Mapping?
+### 1. What Is Journey Mapping?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The power of journey mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-power-of-journey-mapping?u=76281980)
@@ -357,7 +361,9 @@ created: 2026-04-28
 > **Speakers:** - think (1)
 
 
-### 3. 2. Gathering Data for Your Journey Map
+### 2. Gathering Data for Your Journey Map
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Asking the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980)
@@ -532,7 +538,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 4. 3. Making Value-Driven Decisions
+### 3. Making Value-Driven Decisions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Value-driven solutions for customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/value-driven-solutions-for-customers?u=76281980)
@@ -725,7 +733,9 @@ created: 2026-04-28
 > **Speakers:** - once (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The journey continues
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980)

@@ -44,13 +44,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (13 videos)
-- **2. 1. Introduction to IT Automation** (6 videos)
-- **3. 2. Getting Started with Ansible** (4 videos)
-- **4. 3. Setting Up an Ansible Environment** (3 videos)
-- **5. 4. Using Ad Hoc Commands** (6 videos)
-- **6. 5. Ansible Command Line Tools** (6 videos)
-- **7. Summary** (1 videos)
+- **[[#1. Introduction]]** (13 videos)
+- **[[#2. 1. Introduction to IT Automation]]** (6 videos)
+- **[[#3. 2. Getting Started with Ansible]]** (4 videos)
+- **[[#4. 3. Setting Up an Ansible Environment]]** (3 videos)
+- **[[#5. 4. Using Ad Hoc Commands]]** (6 videos)
+- **[[#6. 5. Ansible Command Line Tools]]** (6 videos)
+- **[[#7. Summary]]** (1 videos)
 
 ### 1. Introduction
 

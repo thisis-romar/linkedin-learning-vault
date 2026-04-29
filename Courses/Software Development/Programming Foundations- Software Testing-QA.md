@@ -45,15 +45,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Role of QA** (4 videos)
-- **3. 2. Test Planning** (4 videos)
-- **4. 3. Types of Testing QA Focuses On** (6 videos)
-- **5. 4. Bug Reporting** (6 videos)
-- **6. Glossaries** (0 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. The Role of QA]]** (4 videos)
+- **[[#2. Test Planning]]** (4 videos)
+- **[[#3. Types of Testing QA Focuses On]]** (6 videos)
+- **[[#4. Bug Reporting]]** (6 videos)
+- **[[#Glossaries]]** (0 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Set the standard with quality assurance (QA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980)
@@ -147,7 +149,9 @@ created: 2026-04-28
 > **Speakers:** - good (1)
 
 
-### 2. 1. The Role of QA
+### 1. The Role of QA
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Roles and responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980)
@@ -421,7 +425,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Test Planning
+### 2. Test Planning
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a test strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980)
@@ -700,7 +706,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 4. 3. Types of Testing QA Focuses On
+### 3. Types of Testing QA Focuses On
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Box testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980)
@@ -1060,7 +1068,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 5. 4. Bug Reporting
+### 4. Bug Reporting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identify bugs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/identify-bugs?u=76281980)
@@ -1333,10 +1343,14 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 6. Glossaries
+### Glossaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980)

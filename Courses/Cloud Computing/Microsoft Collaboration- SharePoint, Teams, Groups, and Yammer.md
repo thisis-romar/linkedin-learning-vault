@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Getting Started with Microsoft Collaboration** (5 videos)
-- **3. 2. Creating Spaces for Collaboration** (6 videos)
-- **4. 3. Putting It Together in Teams** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Getting Started with Microsoft Collaboration]]** (5 videos)
+- **[[#2. Creating Spaces for Collaboration]]** (6 videos)
+- **[[#3. Putting It Together in Teams]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Collaborate with Teams, SharePoint, Microsoft 365 Groups, and Yammer
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborate-with-teams-sharepoint-microsoft-365-groups-and-yammer?u=76281980)
@@ -121,7 +123,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started with Microsoft Collaboration
+### 1. Getting Started with Microsoft Collaboration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How collaboration begins
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980)
@@ -438,7 +442,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Creating Spaces for Collaboration
+### 2. Creating Spaces for Collaboration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create a team and a channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980)
@@ -1010,7 +1016,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Putting It Together in Teams
+### 3. Putting It Together in Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Teams as your collaboration hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980)
@@ -1451,7 +1459,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980)

@@ -55,15 +55,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Privacy Is a Critical Part of Your Security** (2 videos)
-- **3. 2. How Bad Actors Use Your Personal Information** (2 videos)
-- **4. 3. Reduce Your Digital Footprint** (4 videos)
-- **5. 4. Prevent Accidental Leaks of Your Private Information** (2 videos)
-- **6. 5. Keep Your Device Private** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Privacy Is a Critical Part of Your Security]]** (2 videos)
+- **[[#2. How Bad Actors Use Your Personal Information]]** (2 videos)
+- **[[#3. Reduce Your Digital Footprint]]** (4 videos)
+- **[[#4. Prevent Accidental Leaks of Your Private Information]]** (2 videos)
+- **[[#5. Keep Your Device Private]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protect your privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980)
@@ -91,7 +93,9 @@ created: 2026-04-28
 > **Speakers:** - your (1)
 
 
-### 2. 1. Privacy Is a Critical Part of Your Security
+### 1. Privacy Is a Critical Part of Your Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding your cybersecurity crown jewels
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980)
@@ -283,7 +287,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. How Bad Actors Use Your Personal Information
+### 2. How Bad Actors Use Your Personal Information
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The internet is full of your personal information
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980)
@@ -586,7 +592,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. Reduce Your Digital Footprint
+### 3. Reduce Your Digital Footprint
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Minimizing your digital footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/minimizing-your-digital-footprint?u=76281980)
@@ -918,7 +926,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Prevent Accidental Leaks of Your Private Information
+### 4. Prevent Accidental Leaks of Your Private Information
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Check the privacy settings of your apps and accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980)
@@ -1275,7 +1285,9 @@ created: 2026-04-28
 > **Speakers:** - many (1)
 
 
-### 6. 5. Keep Your Device Private
+### 5. Keep Your Device Private
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How your phone collects personal information
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980)
@@ -1540,7 +1552,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980)

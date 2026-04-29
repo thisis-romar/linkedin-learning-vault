@@ -32,8 +32,6 @@ status: not-started
 created: 2026-04-28
 ---
 
-> <!-- lle:github-source --> [View this note on GitHub](https://github.com/thisis-romar/linkedin-learning-vault/blob/github-browse/Courses/Web%20Development/UX%20Deep%20Dive-%20Usability%20Testing.md)
-
 ![UX Deep Dive: Usability Testing](https://media.licdn.com/dms/image/v2/C560DAQGtb-Q8JCY7yA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1588621854430?e=2147483647&amp;v=beta&amp;t=4t3wUfWUWeHIVA38QI5rr90Scnld1DQN0flKGBxp99Y)
 
 # UX Deep Dive: Usability Testing
@@ -47,13 +45,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Usability Testing** (2 videos)
-- **2. 1. Which Type of Test?** (3 videos)
-- **3. 2. Running the Tests** (3 videos)
-- **4. 3. Analyzing the Test** (1 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Usability Testing]]** (2 videos)
+- **[[#1. Which Type of Test?]]** (3 videos)
+- **[[#2. Running the Tests]]** (3 videos)
+- **[[#3. Analyzing the Test]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Usability Testing
+### Usability Testing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### All about usability testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/all-about-usability-testing?u=76281980)
@@ -101,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 2. 1. Which Type of Test?
+### 1. Which Type of Test?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Usability test locations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980)
@@ -330,7 +332,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 3. 2. Running the Tests
+### 2. Running the Tests
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Participant recruiting considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980)
@@ -573,7 +577,9 @@ created: 2026-04-28
 > **Speakers:** - effectively (1)
 
 
-### 4. 3. Analyzing the Test
+### 3. Analyzing the Test
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying and sharing true insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/identifying-and-sharing-true-insights?u=76281980)
@@ -645,7 +651,9 @@ created: 2026-04-28
 > **Speakers:** - regardless (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Practice makes perfect
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/practice-makes-perfect?u=76281980)

@@ -41,18 +41,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. PC Trouble** (4 videos)
-- **3. 2. Startup and Shutdown Issues** (7 videos)
-- **4. 3. Problems and Solutions: Windows** (7 videos)
-- **5. 4. Problems and Solutions: Mass Storage** (3 videos)
-- **6. 5. Problems and Solutions: Printer** (3 videos)
-- **7. 6. Problems and Solutions: Monitors and Graphics** (2 videos)
-- **8. 7. Problems and Solutions: Peripherals** (2 videos)
-- **9. 8. Problems and Solutions: Networking** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. PC Trouble]]** (4 videos)
+- **[[#2. Startup and Shutdown Issues]]** (7 videos)
+- **[[#3. Problems and Solutions: Windows]]** (7 videos)
+- **[[#4. Problems and Solutions: Mass Storage]]** (3 videos)
+- **[[#5. Problems and Solutions: Printer]]** (3 videos)
+- **[[#6. Problems and Solutions: Monitors and Graphics]]** (2 videos)
+- **[[#7. Problems and Solutions: Peripherals]]** (2 videos)
+- **[[#8. Problems and Solutions: Networking]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshoot PC issues yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980)
@@ -124,7 +126,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. PC Trouble
+### 1. PC Trouble
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get to the root of all PC trouble
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980)
@@ -479,7 +483,9 @@ created: 2026-04-28
 > **Prerequisites:** install (1)
 
 
-### 3. 2. Startup and Shutdown Issues
+### 2. Startup and Shutdown Issues
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Access the Windows recovery menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980)
@@ -1085,7 +1091,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Problems and Solutions: Windows
+### 3. Problems and Solutions: Windows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Start up in safe mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980)
@@ -1770,7 +1778,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Problems and Solutions: Mass Storage
+### 4. Problems and Solutions: Mass Storage
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Check storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980)
@@ -2072,7 +2082,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Problems and Solutions: Printer
+### 5. Problems and Solutions: Printer
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Find printer hardware solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980)
@@ -2345,7 +2357,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Problems and Solutions: Monitors and Graphics
+### 6. Problems and Solutions: Monitors and Graphics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Troubleshoot the monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980)
@@ -2540,7 +2554,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Problems and Solutions: Peripherals
+### 7. Problems and Solutions: Peripherals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Work with USB connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-usb-connections?u=76281980)
@@ -2713,7 +2729,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 9. 8. Problems and Solutions: Networking
+### 8. Problems and Solutions: Networking
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Check network software
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980)
@@ -2950,7 +2968,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980)

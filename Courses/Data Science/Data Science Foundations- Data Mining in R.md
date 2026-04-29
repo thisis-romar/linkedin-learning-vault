@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Preliminaries** (4 videos)
-- **3. 2. Dimensionality Reduction** (7 videos)
-- **4. 3. Clustering** (7 videos)
-- **5. 4. Classification** (7 videos)
-- **6. 5. Association Analysis** (7 videos)
-- **7. 6. Time-Series Mining** (7 videos)
-- **8. 7. Text Mining** (7 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Preliminaries]]** (4 videos)
+- **[[#2. Dimensionality Reduction]]** (7 videos)
+- **[[#3. Clustering]]** (7 videos)
+- **[[#4. Classification]]** (7 videos)
+- **[[#5. Association Analysis]]** (7 videos)
+- **[[#6. Time-Series Mining]]** (7 videos)
+- **[[#7. Text Mining]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### R for data mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980)
@@ -157,7 +159,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Preliminaries
+### 1. Preliminaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tools for data mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980)
@@ -573,7 +577,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Dimensionality Reduction
+### 2. Dimensionality Reduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Dimensionality reduction overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980)
@@ -1298,7 +1304,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Clustering
+### 3. Clustering
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Clustering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980)
@@ -2180,7 +2188,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Classification
+### 4. Classification
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Classification overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980)
@@ -3095,7 +3105,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Association Analysis
+### 5. Association Analysis
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Association analysis overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980)
@@ -3718,7 +3730,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Time-Series Mining
+### 6. Time-Series Mining
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Time-series mining overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980)
@@ -4449,7 +4463,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Text Mining
+### 7. Text Mining
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Text mining overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980)
@@ -5234,7 +5250,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980)

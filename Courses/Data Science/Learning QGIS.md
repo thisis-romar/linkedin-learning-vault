@@ -46,20 +46,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding and Installing QGIS** (4 videos)
-- **3. 2. Vector Data with QGIS** (3 videos)
-- **4. 3. Raster Data with QGIS** (5 videos)
-- **5. 4. 3D Maps** (3 videos)
-- **6. 5. Styling Data** (6 videos)
-- **7. 6. Labeling Features** (2 videos)
-- **8. 7. Changing Default Properties** (2 videos)
-- **9. 8. Printing with Print Layout** (2 videos)
-- **10. 9. Creating New Data** (4 videos)
-- **11. 10. Using Advanced Tools** (3 videos)
-- **12. 11. Using Plugins** (2 videos)
-- **13. 12. Python in QGIS** (2 videos)
-- **14. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Understanding and Installing QGIS]]** (4 videos)
+- **[[#3. 2. Vector Data with QGIS]]** (3 videos)
+- **[[#4. 3. Raster Data with QGIS]]** (5 videos)
+- **[[#5. 4. 3D Maps]]** (3 videos)
+- **[[#6. 5. Styling Data]]** (6 videos)
+- **[[#7. 6. Labeling Features]]** (2 videos)
+- **[[#8. 7. Changing Default Properties]]** (2 videos)
+- **[[#9. 8. Printing with Print Layout]]** (2 videos)
+- **[[#10. 9. Creating New Data]]** (4 videos)
+- **[[#11. 10. Using Advanced Tools]]** (3 videos)
+- **[[#12. 11. Using Plugins]]** (2 videos)
+- **[[#13. 12. Python in QGIS]]** (2 videos)
+- **[[#14. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

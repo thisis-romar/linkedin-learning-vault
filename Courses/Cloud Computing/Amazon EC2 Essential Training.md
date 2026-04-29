@@ -47,11 +47,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. Introduction to Amazon EC2** (17 videos)
-- **3. 2. EC2 Deep Dive** (11 videos)
-- **4. 3. EC2 Purchasing Options** (8 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (6 videos)
+- **[[#2. 1. Introduction to Amazon EC2]]** (17 videos)
+- **[[#3. 2. EC2 Deep Dive]]** (11 videos)
+- **[[#4. 3. EC2 Purchasing Options]]** (8 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

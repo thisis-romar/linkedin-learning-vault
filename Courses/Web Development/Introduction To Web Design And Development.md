@@ -46,16 +46,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Understanding the Web** (4 videos)
-- **3. 2. Planning and Prototyping** (4 videos)
-- **4. 3. Three Technologies of the Front End** (4 videos)
-- **5. 4. Writing Code** (6 videos)
-- **6. 5. Supporting Web Development Technologies** (4 videos)
-- **7. 6. Exploring No-Code Solutions** (7 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Understanding the Web]]** (4 videos)
+- **[[#2. Planning and Prototyping]]** (4 videos)
+- **[[#3. Three Technologies of the Front End]]** (4 videos)
+- **[[#4. Writing Code]]** (6 videos)
+- **[[#5. Supporting Web Development Technologies]]** (4 videos)
+- **[[#6. Exploring No-Code Solutions]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Web design and development in the code and no-code era
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980)
@@ -95,7 +97,9 @@ created: 2026-04-28
 > **Speakers:** - the (1)
 
 
-### 2. 1. Understanding the Web
+### 1. Understanding the Web
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding clients and servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980)
@@ -423,7 +427,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 3. 2. Planning and Prototyping
+### 2. Planning and Prototyping
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding user experience (UX) and website planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980)
@@ -823,7 +829,9 @@ created: 2026-04-28
 > **Speakers:** - these (1)
 
 
-### 4. 3. Three Technologies of the Front End
+### 3. Three Technologies of the Front End
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980)
@@ -1121,7 +1129,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 5. 4. Writing Code
+### 4. Writing Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introducing writing code using CodePen
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980)
@@ -1856,7 +1866,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Supporting Web Development Technologies
+### 5. Supporting Web Development Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing an editor for writing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980)
@@ -2158,7 +2170,9 @@ created: 2026-04-28
 > **Definitions:** is an  (1)
 
 
-### 7. 6. Exploring No-Code Solutions
+### 6. Exploring No-Code Solutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is the no-code movement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980)
@@ -2660,7 +2674,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn more with learning paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980)

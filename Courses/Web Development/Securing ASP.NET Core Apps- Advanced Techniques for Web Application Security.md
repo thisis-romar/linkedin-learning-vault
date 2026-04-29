@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Common Vulnerabilities in Apps** (6 videos)
-- **3. 2. Securing .NET Web Applications with Authentication** (8 videos)
-- **4. 3. Securing .NET Web API Applications with Authorization** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Common Vulnerabilities in Apps]]** (6 videos)
+- **[[#2. Securing .NET Web Applications with Authentication]]** (8 videos)
+- **[[#3. Securing .NET Web API Applications with Authorization]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Secure your .NET Core apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980)
@@ -114,7 +116,9 @@ created: 2026-04-28
 > **Prerequisites:** before we start (1)
 
 
-### 2. 1. Common Vulnerabilities in Apps
+### 1. Common Vulnerabilities in Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Common security vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980)
@@ -603,7 +607,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 3. 2. Securing .NET Web Applications with Authentication
+### 2. Securing .NET Web Applications with Authentication
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980)
@@ -1516,7 +1522,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Securing .NET Web API Applications with Authorization
+### 3. Securing .NET Web API Applications with Authorization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is authorization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980)
@@ -1913,7 +1921,9 @@ created: 2026-04-28
 > **Speakers:** - with (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980)

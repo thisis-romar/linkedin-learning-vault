@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. About the Role** (2 videos)
-- **3. 2. Getting Hired and Getting Started** (4 videos)
-- **4. 3. Building Your Strategic Plan** (5 videos)
-- **5. 4. CISO Best Practices** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. About the Role]]** (2 videos)
+- **[[#2. Getting Hired and Getting Started]]** (4 videos)
+- **[[#3. Building Your Strategic Plan]]** (5 videos)
+- **[[#4. CISO Best Practices]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### So you want to be a CISO?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/so-you-want-to-be-a-ciso?u=76281980)
@@ -176,7 +178,9 @@ created: 2026-04-28
 > **Speakers:** - people (1)
 
 
-### 2. 1. About the Role
+### 1. About the Role
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What does a CISO do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980)
@@ -333,7 +337,9 @@ created: 2026-04-28
 > **Speakers:** - one (1)
 
 
-### 3. 2. Getting Hired and Getting Started
+### 2. Getting Hired and Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Before the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/before-the-interview?u=76281980)
@@ -687,7 +693,9 @@ created: 2026-04-28
 > **Speakers:** - getting (1)
 
 
-### 4. 3. Building Your Strategic Plan
+### 3. Building Your Strategic Plan
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Select a security framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980)
@@ -1048,7 +1056,9 @@ created: 2026-04-28
 > **Speakers:** - communication (1)
 
 
-### 5. 4. CISO Best Practices
+### 4. CISO Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Relationship building
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980)
@@ -1217,7 +1227,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make the CISO dream come true
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/make-the-ciso-dream-come-true?u=76281980)

@@ -51,11 +51,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Building a Neural Network with PyTorch** (7 videos)
-- **3. 2. Using PyTorch Lightning to Build a Regression Model** (4 videos)
-- **4. 3. Using PyTorch Lightning to Build a Classification Model** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Building a Neural Network with PyTorch]]** (7 videos)
+- **[[#3. 2. Using PyTorch Lightning to Build a Regression Model]]** (4 videos)
+- **[[#4. 3. Using PyTorch Lightning to Build a Classification Model]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

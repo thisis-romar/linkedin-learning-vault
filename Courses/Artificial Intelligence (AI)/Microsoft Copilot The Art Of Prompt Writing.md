@@ -41,12 +41,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. What Makes a Good Prompt?** (2 videos)
-- **3. 2. Prompt Examples** (5 videos)
-- **4. 3. Build Your AI Skills with Copilot Prompt Gallery** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. What Makes a Good Prompt?]]** (2 videos)
+- **[[#2. Prompt Examples]]** (5 videos)
+- **[[#3. Build Your AI Skills with Copilot Prompt Gallery]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Write more effective prompts in Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980)
@@ -116,7 +118,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. What Makes a Good Prompt?
+### 1. What Makes a Good Prompt?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understand the ingredients of a good prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980)
@@ -367,7 +371,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Prompt Examples
+### 2. Prompt Examples
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980)
@@ -851,7 +857,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Build Your AI Skills with Copilot Prompt Gallery
+### 3. Build Your AI Skills with Copilot Prompt Gallery
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Explore Copilot Prompt Gallery
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980)

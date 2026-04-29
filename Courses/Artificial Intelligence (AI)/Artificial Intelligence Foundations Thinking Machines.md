@@ -52,15 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is Artificial Intelligence?** (4 videos)
-- **3. 2. The Rise of Machine Learning** (3 videos)
-- **4. 3. Finding the Right Approach** (5 videos)
-- **5. 4. Common AI Programs** (3 videos)
-- **6. 5. Mixing with Other Technologies** (2 videos)
-- **7. 6. What Has Changed?** (3 videos)
-- **8. 7. Avoiding Pitfalls** (1 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. What Is Artificial Intelligence?]]** (4 videos)
+- **[[#3. 2. The Rise of Machine Learning]]** (3 videos)
+- **[[#4. 3. Finding the Right Approach]]** (5 videos)
+- **[[#5. 4. Common AI Programs]]** (3 videos)
+- **[[#6. 5. Mixing with Other Technologies]]** (2 videos)
+- **[[#7. 6. What Has Changed?]]** (3 videos)
+- **[[#8. 7. Avoiding Pitfalls]]** (1 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

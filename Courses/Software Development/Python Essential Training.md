@@ -68,21 +68,23 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Gearing Up for Python** (6 videos)
-- **3. 2. Quickstart** (8 videos)
-- **4. 3. Basic Data Types** (6 videos)
-- **5. 4. Basic Data Structures** (6 videos)
-- **6. 5. Control Flow** (4 videos)
-- **7. 6. Functions** (4 videos)
-- **8. 7. Classes and Objects** (4 videos)
-- **9. 8. Errors** (4 videos)
-- **10. 9. Threads and Processes** (3 videos)
-- **11. 10. Working with Files** (4 videos)
-- **12. 11. Packaging Python** (2 videos)
-- **13. Conclusion** (2 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Gearing Up for Python]]** (6 videos)
+- **[[#2. Quickstart]]** (8 videos)
+- **[[#3. Basic Data Types]]** (6 videos)
+- **[[#4. Basic Data Structures]]** (6 videos)
+- **[[#5. Control Flow]]** (4 videos)
+- **[[#6. Functions]]** (4 videos)
+- **[[#7. Classes and Objects]]** (4 videos)
+- **[[#8. Errors]]** (4 videos)
+- **[[#9. Threads and Processes]]** (3 videos)
+- **[[#10. Working with Files]]** (4 videos)
+- **[[#11. Packaging Python]]** (2 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980)
@@ -259,7 +261,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Gearing Up for Python
+### 1. Gearing Up for Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How computers think
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/how-computers-think?u=76281980)
@@ -887,7 +891,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Quickstart
+### 2. Quickstart
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Variables and types
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-types?u=76281980)
@@ -2031,7 +2037,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Basic Data Types
+### 3. Basic Data Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ints and floats
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/ints-and-floats?u=76281980)
@@ -2785,7 +2793,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Basic Data Structures
+### 4. Basic Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980)
@@ -3582,7 +3592,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Control Flow
+### 5. Control Flow
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### If and else
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/if-and-else?u=76281980)
@@ -4042,7 +4054,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. Functions
+### 6. Functions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The anatomy of a function
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980)
@@ -4539,7 +4553,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Classes and Objects
+### 7. Classes and Objects
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The anatomy of a class
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-class?u=76281980)
@@ -5090,7 +5106,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 9. 8. Errors
+### 8. Errors
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Errors and exceptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/errors-and-exceptions?u=76281980)
@@ -5495,7 +5513,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. 9. Threads and Processes
+### 9. Threads and Processes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to threads and processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/intro-to-threads-and-processes?u=76281980)
@@ -5823,7 +5843,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 11. 10. Working with Files
+### 10. Working with Files
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Opening, reading, and writing
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980)
@@ -6305,7 +6327,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 12. 11. Packaging Python
+### 11. Packaging Python
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980)
@@ -6650,7 +6674,9 @@ created: 2026-04-28
 > **Analogies:** for instance (2)
 
 
-### 13. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrap up
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980)

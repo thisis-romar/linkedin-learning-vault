@@ -53,15 +53,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Agile Fundamentals** (4 videos)
-- **3. 2. Scrum: The Developer Perspective** (11 videos)
-- **4. 3. Agile Software Engineering Techniques** (11 videos)
-- **5. 4. Kanban for Developers** (5 videos)
-- **6. 5. Scaling Agile** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Agile Fundamentals]]** (4 videos)
+- **[[#2. Scrum: The Developer Perspective]]** (11 videos)
+- **[[#3. Agile Software Engineering Techniques]]** (11 videos)
+- **[[#4. Kanban for Developers]]** (5 videos)
+- **[[#5. Scaling Agile]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The agile approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980)
@@ -123,7 +125,9 @@ created: 2026-04-28
 > **Speakers:** - this (1)
 
 
-### 2. 1. Agile Fundamentals
+### 1. Agile Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The software crisis
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980)
@@ -441,7 +445,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 3. 2. Scrum: The Developer Perspective
+### 2. Scrum: The Developer Perspective
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scrum introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-introduction-23852437?u=76281980)
@@ -969,7 +975,9 @@ created: 2026-04-28
 > **Speakers:** - let (1)
 
 
-### 4. 3. Agile Software Engineering Techniques
+### 3. Agile Software Engineering Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Extreme programming (XP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980)
@@ -1751,7 +1759,9 @@ created: 2026-04-28
 > **Speakers:** - agile (1)
 
 
-### 5. 4. Kanban for Developers
+### 4. Kanban for Developers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Lean history
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980)
@@ -2097,7 +2107,9 @@ created: 2026-04-28
 > **Speakers:** - both (1)
 
 
-### 6. 5. Scaling Agile
+### 5. Scaling Agile
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scaling agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980)
@@ -2299,7 +2311,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980)

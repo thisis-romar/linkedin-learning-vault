@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. An Overview of Page Layouts** (3 videos)
-- **3. 2. Float, Display, and Position** (10 videos)
-- **4. 3. Flexbox** (8 videos)
-- **5. 4. Grid** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. An Overview of Page Layouts]]** (3 videos)
+- **[[#2. Float, Display, and Position]]** (10 videos)
+- **[[#3. Flexbox]]** (8 videos)
+- **[[#4. Grid]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/welcome-26990147?u=76281980)
@@ -136,7 +138,9 @@ created: 2026-04-28
 > **Speakers:** - [christina] (1)
 
 
-### 2. 1. An Overview of Page Layouts
+### 1. An Overview of Page Layouts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Layouts with HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980)
@@ -304,7 +308,9 @@ created: 2026-04-28
 > **Speakers:** - [instruktor] (1)
 
 
-### 3. 2. Float, Display, and Position
+### 2. Float, Display, and Position
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Inline and block elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/inline-and-block-elements?u=76281980)
@@ -1254,7 +1260,9 @@ created: 2026-04-28
 > **Speakers:** - [speaker] (1)
 
 
-### 4. 3. Flexbox
+### 3. Flexbox
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/getting-started-with-flexbox?u=76281980)
@@ -1869,7 +1877,9 @@ created: 2026-04-28
 > **Definitions:** is a  (1)
 
 
-### 5. 4. Grid
+### 4. Grid
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Grid vs. Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/grid-vs-flexbox?u=76281980)
@@ -2466,7 +2476,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/next-steps-and-resources-26970311?u=76281980)

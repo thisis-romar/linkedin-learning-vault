@@ -50,16 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started with GitHub Copilot** (2 videos)
-- **3. 2. Planning a Software Pilot** (4 videos)
-- **4. 3. Launching the Pilot** (4 videos)
-- **5. 4. Monitoring the Pilot** (4 videos)
-- **6. 5. Ending the Pilot** (4 videos)
-- **7. 6. Gathering Feedback** (4 videos)
-- **8. 7. Using NLTK to Analyze Feedback** (5 videos)
-- **9. 8. Writing a Business Case** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started with GitHub Copilot]]** (2 videos)
+- **[[#3. 2. Planning a Software Pilot]]** (4 videos)
+- **[[#4. 3. Launching the Pilot]]** (4 videos)
+- **[[#5. 4. Monitoring the Pilot]]** (4 videos)
+- **[[#6. 5. Ending the Pilot]]** (4 videos)
+- **[[#7. 6. Gathering Feedback]]** (4 videos)
+- **[[#8. 7. Using NLTK to Analyze Feedback]]** (5 videos)
+- **[[#9. 8. Writing a Business Case]]** (4 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

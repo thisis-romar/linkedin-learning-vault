@@ -49,11 +49,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (5 videos)
-- **2. 1. Parsing and Exploring Data** (7 videos)
-- **3. 2. Working with Collections** (5 videos)
-- **4. 3. Math and Statistics** (5 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (5 videos)
+- **[[#2. 1. Parsing and Exploring Data]]** (7 videos)
+- **[[#3. 2. Working with Collections]]** (5 videos)
+- **[[#4. 3. Math and Statistics]]** (5 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

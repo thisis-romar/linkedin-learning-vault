@@ -55,16 +55,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. How SQL Executes a Query** (6 videos)
-- **3. 2. PostgreSQL Tools for Tuning** (6 videos)
-- **4. 3. Types of Indexes** (11 videos)
-- **5. 4. Tuning Joins** (10 videos)
-- **6. 5. Partitioning Data** (9 videos)
-- **7. 6. Materialized Views** (5 videos)
-- **8. 7. Database Statistics and Identifying Slow Queries** (6 videos)
-- **9. 8. Other Optimization Techniques** (7 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. How SQL Executes a Query]]** (6 videos)
+- **[[#3. 2. PostgreSQL Tools for Tuning]]** (6 videos)
+- **[[#4. 3. Types of Indexes]]** (11 videos)
+- **[[#5. 4. Tuning Joins]]** (10 videos)
+- **[[#6. 5. Partitioning Data]]** (9 videos)
+- **[[#7. 6. Materialized Views]]** (5 videos)
+- **[[#8. 7. Database Statistics and Identifying Slow Queries]]** (6 videos)
+- **[[#9. 8. Other Optimization Techniques]]** (7 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

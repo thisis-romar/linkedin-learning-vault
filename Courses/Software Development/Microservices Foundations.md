@@ -45,14 +45,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Welcome to Microservices** (6 videos)
-- **3. 2. Microservices Core Concepts** (8 videos)
-- **4. 3. Microservices Advanced Concepts** (4 videos)
-- **5. 4. Making Architecture Choices** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Welcome to Microservices]]** (6 videos)
+- **[[#2. Microservices Core Concepts]]** (8 videos)
+- **[[#3. Microservices Advanced Concepts]]** (4 videos)
+- **[[#4. Making Architecture Choices]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/welcome?u=76281980)
@@ -127,7 +129,9 @@ created: 2026-04-28
 > **Speakers:** - making (1)
 
 
-### 2. 1. Welcome to Microservices
+### 1. Welcome to Microservices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### History of service-based architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980)
@@ -571,7 +575,9 @@ created: 2026-04-28
 > **Speakers:** - often (1)
 
 
-### 3. 2. Microservices Core Concepts
+### 2. Microservices Core Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The services
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980)
@@ -1175,7 +1181,9 @@ created: 2026-04-28
 > **Speakers:** - an (1)
 
 
-### 4. 3. Microservices Advanced Concepts
+### 3. Microservices Advanced Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Asynchronous communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/asynchronous-communications?u=76281980)
@@ -1435,7 +1443,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 5. 4. Making Architecture Choices
+### 4. Making Architecture Choices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Design considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980)
@@ -1828,7 +1838,9 @@ created: 2026-04-28
 > **Speakers:** - not (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/next-steps?u=76281980)

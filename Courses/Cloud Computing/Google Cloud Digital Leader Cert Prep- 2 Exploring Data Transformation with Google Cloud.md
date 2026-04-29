@@ -50,11 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Value of Data** (7 videos)
-- **3. 2. Google Cloud Data Management Solutions** (6 videos)
-- **4. 3. Making Data Useful and Accessible** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. The Value of Data]]** (7 videos)
+- **[[#3. 2. Google Cloud Data Management Solutions]]** (6 videos)
+- **[[#4. 3. Making Data Useful and Accessible]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

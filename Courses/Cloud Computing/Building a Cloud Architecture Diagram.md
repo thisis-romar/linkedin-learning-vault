@@ -50,14 +50,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Cloud Architecture Diagrams** (16 videos)
-- **3. 2. UML Diagram Types for Cloud Architecture** (7 videos)
-- **4. 3. Creating Cloud Architecture Diagrams** (8 videos)
-- **5. 4. Architectural Diagramming Tools for Cloud Architecture** (1 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Cloud Architecture Diagrams]]** (16 videos)
+- **[[#2. UML Diagram Types for Cloud Architecture]]** (7 videos)
+- **[[#3. Creating Cloud Architecture Diagrams]]** (8 videos)
+- **[[#4. Architectural Diagramming Tools for Cloud Architecture]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### An in-depth look at cloud architecture diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/an-in-depth-look-at-cloud-architecture-diagrams?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Cloud Architecture Diagrams
+### 1. Cloud Architecture Diagrams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is a cloud architecture diagram?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980)
@@ -1200,7 +1204,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. UML Diagram Types for Cloud Architecture
+### 2. UML Diagram Types for Cloud Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use case diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980)
@@ -1938,7 +1944,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Creating Cloud Architecture Diagrams
+### 3. Creating Cloud Architecture Diagrams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mind map diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980)
@@ -2597,7 +2605,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Architectural Diagramming Tools for Cloud Architecture
+### 4. Architectural Diagramming Tools for Cloud Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Diagramming tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980)
@@ -2664,7 +2674,9 @@ created: 2026-04-28
 > **Warnings:** note that (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/next-steps?u=76281980)

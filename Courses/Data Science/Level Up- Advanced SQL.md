@@ -51,12 +51,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Joins** (3 videos)
-- **3. 2. Grouping** (3 videos)
-- **4. 3. Advanced Select Options** (3 videos)
-- **5. 4. Windowing Functions** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Joins]]** (3 videos)
+- **[[#3. 2. Grouping]]** (3 videos)
+- **[[#4. 3. Advanced Select Options]]** (3 videos)
+- **[[#5. 4. Windowing Functions]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

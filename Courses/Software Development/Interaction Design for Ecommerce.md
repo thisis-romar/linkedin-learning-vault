@@ -39,13 +39,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Online Shopping Behavior** (4 videos)
-- **3. 2. Understand Your Site's Goals** (4 videos)
-- **4. 3. Ecommerce Design Guidelines** (8 videos)
-- **5. 4. Making the Changes** (3 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Online Shopping Behavior]]** (4 videos)
+- **[[#2. Understand Your Site's Goals]]** (4 videos)
+- **[[#3. Ecommerce Design Guidelines]]** (8 videos)
+- **[[#4. Making the Changes]]** (3 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Great ecommerce user experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980)
@@ -104,7 +106,9 @@ created: 2026-04-28
 > **Speakers:** - considering (1)
 
 
-### 2. 1. Online Shopping Behavior
+### 1. Online Shopping Behavior
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How people buy online
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980)
@@ -448,7 +452,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Understand Your Site's Goals
+### 2. Understand Your Site's Goals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Helping decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980)
@@ -819,7 +825,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 4. 3. Ecommerce Design Guidelines
+### 3. Ecommerce Design Guidelines
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Homepage
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980)
@@ -1584,7 +1592,9 @@ created: 2026-04-28
 > **Speakers:** - of (1)
 
 
-### 5. 4. Making the Changes
+### 4. Making the Changes
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Forming a successful team
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980)

@@ -48,12 +48,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Interface with an LCD** (8 videos)
-- **3. 2. Interface with a 7-Segment LED Directly** (9 videos)
-- **4. 3. Interface with a 7-Segment LED Using a Shift Register** (7 videos)
-- **5. 4. Interface with a Keypad** (10 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Interface with an LCD]]** (8 videos)
+- **[[#3. 2. Interface with a 7-Segment LED Directly]]** (9 videos)
+- **[[#4. 3. Interface with a 7-Segment LED Using a Shift Register]]** (7 videos)
+- **[[#5. 4. Interface with a Keypad]]** (10 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

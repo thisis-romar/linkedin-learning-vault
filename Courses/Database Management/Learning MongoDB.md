@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Getting Started** (7 videos)
-- **3. 2. Documents and Collections** (6 videos)
-- **4. 3. Querying** (8 videos)
-- **5. 4. Data and Schema Modeling** (5 videos)
-- **6. 5. Coding with MongoDB** (5 videos)
-- **7. 6. Server Administration** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Getting Started]]** (7 videos)
+- **[[#3. 2. Documents and Collections]]** (6 videos)
+- **[[#4. 3. Querying]]** (8 videos)
+- **[[#5. 4. Data and Schema Modeling]]** (5 videos)
+- **[[#6. 5. Coding with MongoDB]]** (5 videos)
+- **[[#7. 6. Server Administration]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

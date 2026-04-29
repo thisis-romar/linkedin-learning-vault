@@ -53,14 +53,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. What Is ECMAScript?** (3 videos)
-- **3. 2. ECMAScript Variables and Data Structures** (8 videos)
-- **4. 3. Arrays and Array Methods** (4 videos)
-- **5. 4. ECMAScript Objects** (8 videos)
-- **6. 5. ECMAScript Functions** (6 videos)
-- **7. 6. Asynchronous JavaScript** (6 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. What Is ECMAScript?]]** (3 videos)
+- **[[#3. 2. ECMAScript Variables and Data Structures]]** (8 videos)
+- **[[#4. 3. Arrays and Array Methods]]** (4 videos)
+- **[[#5. 4. ECMAScript Objects]]** (8 videos)
+- **[[#6. 5. ECMAScript Functions]]** (6 videos)
+- **[[#7. 6. Asynchronous JavaScript]]** (6 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

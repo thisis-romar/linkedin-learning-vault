@@ -45,16 +45,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. You Need Data Now** (3 videos)
-- **3. 2. Defining the Problem** (3 videos)
-- **4. 3. Identifying Current Data** (4 videos)
-- **5. 4. Using Data to Draw Conclusions** (3 videos)
-- **6. 5. Visualization of Data** (3 videos)
-- **7. 6. Presenting Recommendations** (3 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. You Need Data Now]]** (3 videos)
+- **[[#2. Defining the Problem]]** (3 videos)
+- **[[#3. Identifying Current Data]]** (4 videos)
+- **[[#4. Using Data to Draw Conclusions]]** (3 videos)
+- **[[#5. Visualization of Data]]** (3 videos)
+- **[[#6. Presenting Recommendations]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting value from data to draw business conclusions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/getting-value-from-data-to-draw-business-conclusions?u=76281980)
@@ -97,7 +99,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 2. 1. You Need Data Now
+### 1. You Need Data Now
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why data, why now?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/why-data-why-now?u=76281980)
@@ -286,7 +290,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 3. 2. Defining the Problem
+### 2. Defining the Problem
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying the business problem or opportunity
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980)
@@ -543,7 +549,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 4. 3. Identifying Current Data
+### 3. Identifying Current Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying data you have
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-have?u=76281980)
@@ -877,7 +885,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 5. 4. Using Data to Draw Conclusions
+### 4. Using Data to Draw Conclusions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying conclusions, not causation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980)
@@ -1142,7 +1152,9 @@ created: 2026-04-28
 > **Speakers:** - all (1)
 
 
-### 6. 5. Visualization of Data
+### 5. Visualization of Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The importance of using visuals to share data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980)
@@ -1422,7 +1434,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 7. 6. Presenting Recommendations
+### 6. Presenting Recommendations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to present data in response to business requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-in-response-to-business-requests?u=76281980)
@@ -1638,7 +1652,9 @@ created: 2026-04-28
 > **Speakers:** - so (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data conclusions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-conclusions?u=76281980)

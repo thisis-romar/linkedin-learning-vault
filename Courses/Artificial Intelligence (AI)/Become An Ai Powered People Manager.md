@@ -36,11 +36,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI Tips for Managers** (14 videos)
-- **3. 2. Helpful Resources** (0 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI Tips for Managers]]** (14 videos)
+- **[[#2. Helpful Resources]]** (0 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How AI is transforming the manager's role
 > [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/how-ai-is-transforming-the-manager-role?u=76281980)
@@ -65,7 +67,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 2. 1. AI Tips for Managers
+### 1. AI Tips for Managers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI will make you efficient, not extinct
 > [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980)
@@ -1042,7 +1046,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 3. 2. Helpful Resources
+### 2. Helpful Resources
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
 ## Path Context

@@ -47,13 +47,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started: Review the Technical Debt** (5 videos)
-- **3. 2. Fence in the Technical Debt** (6 videos)
-- **4. 3. Improve Your Tools** (3 videos)
-- **5. 4. Pay Down Technical Debt** (4 videos)
-- **6. 5. Keep Technical Debt at Bay** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Getting Started: Review the Technical Debt]]** (5 videos)
+- **[[#3. 2. Fence in the Technical Debt]]** (6 videos)
+- **[[#4. 3. Improve Your Tools]]** (3 videos)
+- **[[#5. 4. Pay Down Technical Debt]]** (4 videos)
+- **[[#6. 5. Keep Technical Debt at Bay]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

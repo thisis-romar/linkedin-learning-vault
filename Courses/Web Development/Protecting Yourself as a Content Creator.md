@@ -44,14 +44,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Protecting Your Brand Online** (4 videos)
-- **3. 2. Protecting Your Content Online** (4 videos)
-- **4. 3. Protecting Your Secrets and Business Information Online** (3 videos)
-- **5. 4. Considerations When Hiring a Lawyer** (1 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Protecting Your Brand Online]]** (4 videos)
+- **[[#2. Protecting Your Content Online]]** (4 videos)
+- **[[#3. Protecting Your Secrets and Business Information Online]]** (3 videos)
+- **[[#4. Considerations When Hiring a Lawyer]]** (1 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protecting your intellectual property as a creator
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protecting-your-intellectual-property-as-a-creator-20448617?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - all (1)
 
 
-### 2. 1. Protecting Your Brand Online
+### 1. Protecting Your Brand Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How trademark law applies to your content
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trademark-law-applies-to-your-content?u=76281980)
@@ -417,7 +421,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 3. 2. Protecting Your Content Online
+### 2. Protecting Your Content Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How copyright law applies to your content
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-copyright-law-applies-to-your-content?u=76281980)
@@ -689,7 +695,9 @@ created: 2026-04-28
 > **Speakers:** - have (1)
 
 
-### 4. 3. Protecting Your Secrets and Business Information Online
+### 3. Protecting Your Secrets and Business Information Online
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How trade secret law applies to your business strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/how-trade-secret-law-applies-to-your-business-strategies?u=76281980)
@@ -873,7 +881,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 5. 4. Considerations When Hiring a Lawyer
+### 4. Considerations When Hiring a Lawyer
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Know when and how to hire a lawyer
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/know-when-and-how-to-hire-a-lawyer?u=76281980)
@@ -959,7 +969,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Protect yourself as a content creator
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-yourself-as-a-content-creator/protect-yourself-as-a-content-creator?u=76281980)

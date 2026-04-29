@@ -47,17 +47,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Digital Marketing Framework** (4 videos)
-- **3. 2. Digital Marketing Basics** (7 videos)
-- **4. 3. Digital Marketing Key Concepts** (3 videos)
-- **5. 4. Digital Marketing Hub and Spokes** (5 videos)
-- **6. 5. Digital Marketing with Your Website** (3 videos)
-- **7. 6. Digital Marketing with Paid Channels** (4 videos)
-- **8. 7. Digital Marketing with Social Media** (3 videos)
-- **9. 8. Digital Marketing with Email** (4 videos)
-- **10. 9. Marketing Analytics Skills** (2 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. The Digital Marketing Framework]]** (4 videos)
+- **[[#3. 2. Digital Marketing Basics]]** (7 videos)
+- **[[#4. 3. Digital Marketing Key Concepts]]** (3 videos)
+- **[[#5. 4. Digital Marketing Hub and Spokes]]** (5 videos)
+- **[[#6. 5. Digital Marketing with Your Website]]** (3 videos)
+- **[[#7. 6. Digital Marketing with Paid Channels]]** (4 videos)
+- **[[#8. 7. Digital Marketing with Social Media]]** (3 videos)
+- **[[#9. 8. Digital Marketing with Email]]** (4 videos)
+- **[[#10. 9. Marketing Analytics Skills]]** (2 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -57,11 +57,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. New to the Top Ten** (10 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. New to the Top Ten]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A first look at the 2021 OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980)
@@ -96,7 +98,9 @@ created: 2026-04-28
 > **Speakers:** - every (1)
 
 
-### 2. 1. New to the Top Ten
+### 1. New to the Top Ten
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Broken access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980)
@@ -717,7 +721,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to go from here with the 2021 OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/where-to-go-from-here-with-the-2021-owasp-top-ten?u=76281980)

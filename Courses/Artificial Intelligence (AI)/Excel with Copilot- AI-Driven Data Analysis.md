@@ -46,13 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. First Steps with Copilot** (6 videos)
-- **3. 2. Data Management with Copilot** (9 videos)
-- **4. 3. Analyzing and Visualizing Data with Copilot** (9 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. First Steps with Copilot]]** (6 videos)
+- **[[#2. Data Management with Copilot]]** (9 videos)
+- **[[#3. Analyzing and Visualizing Data with Copilot]]** (9 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome to Copilot and AI-powered Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/welcome-to-copilot-and-ai-powered-excel?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. First Steps with Copilot
+### 1. First Steps with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting your data into Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/getting-your-data-into-copilot-27828092?u=76281980)
@@ -706,7 +710,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Data Management with Copilot
+### 2. Data Management with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating formulas and functions faster with Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/creating-formulas-and-functions-faster-with-copilot-27846084?u=76281980)
@@ -1510,7 +1516,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Analyzing and Visualizing Data with Copilot
+### 3. Analyzing and Visualizing Data with Copilot
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Conditional formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/conditional-formatting-27848098?u=76281980)
@@ -2392,7 +2400,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The future of AI in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/the-future-of-ai-in-excel?u=76281980)

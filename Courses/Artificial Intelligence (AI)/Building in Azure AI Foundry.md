@@ -53,13 +53,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Overview of Azure AI Foundry** (2 videos)
-- **3. 2. Get Started with Azure AI Foundry** (6 videos)
-- **4. 3. Explore Advanced Capabilities** (3 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Overview of Azure AI Foundry]]** (2 videos)
+- **[[#2. Get Started with Azure AI Foundry]]** (6 videos)
+- **[[#3. Explore Advanced Capabilities]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build your AI applications with Azure AI Foundry
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980)
@@ -83,7 +85,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 2. 1. Overview of Azure AI Foundry
+### 1. Overview of Azure AI Foundry
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Azure AI Foundry?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980)
@@ -161,7 +165,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Get Started with Azure AI Foundry
+### 2. Get Started with Azure AI Foundry
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create your AI project
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980)
@@ -819,7 +825,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 4. 3. Explore Advanced Capabilities
+### 3. Explore Advanced Capabilities
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Create prompt flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980)
@@ -1112,7 +1120,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980)

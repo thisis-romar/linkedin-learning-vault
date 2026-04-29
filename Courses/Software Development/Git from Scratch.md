@@ -46,10 +46,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Git Basics** (6 videos)
-- **3. 2. Branches: Alternate Timelines** (6 videos)
-- **4. 3. Changing History** (4 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Git Basics]]** (6 videos)
+- **[[#3. 2. Branches: Alternate Timelines]]** (6 videos)
+- **[[#4. 3. Changing History]]** (4 videos)
 
 ### 1. Introduction
 

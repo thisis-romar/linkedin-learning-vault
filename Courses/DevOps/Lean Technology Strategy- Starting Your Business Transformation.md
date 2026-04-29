@@ -40,9 +40,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Business Transformation** (4 videos)
+- **[[#1. Business Transformation]]** (4 videos)
 
-### 1. 1. Business Transformation
+### 1. Business Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Deploying the improvement kata
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980)

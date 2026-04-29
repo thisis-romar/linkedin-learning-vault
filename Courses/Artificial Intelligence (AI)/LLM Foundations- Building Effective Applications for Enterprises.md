@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Generative AI in Enterprises** (4 videos)
-- **3. 2. GenAI Use Case Selection** (5 videos)
-- **4. 3. Choosing GenAI Models** (5 videos)
-- **5. 4. Evaluation and Fine-Tuning for GenAI** (5 videos)
-- **6. 5. Design Considerations for GenAI Applications** (6 videos)
-- **7. 6. Safety and Trust with GenAI** (5 videos)
-- **8. 7. Managing GenAI Application Performance** (5 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Generative AI in Enterprises]]** (4 videos)
+- **[[#3. 2. GenAI Use Case Selection]]** (5 videos)
+- **[[#4. 3. Choosing GenAI Models]]** (5 videos)
+- **[[#5. 4. Evaluation and Fine-Tuning for GenAI]]** (5 videos)
+- **[[#6. 5. Design Considerations for GenAI Applications]]** (6 videos)
+- **[[#7. 6. Safety and Trust with GenAI]]** (5 videos)
+- **[[#8. 7. Managing GenAI Application Performance]]** (5 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

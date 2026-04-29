@@ -46,9 +46,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. 1. Live Streaming on LinkedIn** (14 videos)
+- **[[#1. Live Streaming on LinkedIn]]** (14 videos)
 
-### 1. 1. Live Streaming on LinkedIn
+### 1. Live Streaming on LinkedIn
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get ready to go live!
 > [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980)

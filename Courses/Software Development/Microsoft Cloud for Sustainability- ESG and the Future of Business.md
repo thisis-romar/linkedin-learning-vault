@@ -50,17 +50,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Sustainability Basics** (5 videos)
-- **3. 2. Microsoft Sustainability Solutions** (2 videos)
-- **4. 3. Microsoft Sustainability Data Model** (3 videos)
-- **5. 4. Microsoft Sustainability Manager** (4 videos)
-- **6. 5. Compliance Reporting** (2 videos)
-- **7. 6. Emissions Impact Dashboard** (3 videos)
-- **8. 7. Credit Service** (4 videos)
-- **9. Conclusion** (2 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Sustainability Basics]]** (5 videos)
+- **[[#2. Microsoft Sustainability Solutions]]** (2 videos)
+- **[[#3. Microsoft Sustainability Data Model]]** (3 videos)
+- **[[#4. Microsoft Sustainability Manager]]** (4 videos)
+- **[[#5. Compliance Reporting]]** (2 videos)
+- **[[#6. Emissions Impact Dashboard]]** (3 videos)
+- **[[#7. Credit Service]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980)
@@ -95,7 +97,9 @@ created: 2026-04-28
 > **Speakers:** - did (1)
 
 
-### 2. 1. Sustainability Basics
+### 1. Sustainability Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Who cares wins
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/who-cares-wins?u=76281980)
@@ -265,7 +269,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Microsoft Sustainability Solutions
+### 2. Microsoft Sustainability Solutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are Microsoft Sustainability Solutions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980)
@@ -369,7 +375,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 4. 3. Microsoft Sustainability Data Model
+### 3. Microsoft Sustainability Data Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The need for data models
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980)
@@ -493,7 +501,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Microsoft Sustainability Manager
+### 4. Microsoft Sustainability Manager
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is Microsoft Sustainability Manager?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980)
@@ -628,7 +638,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Compliance Reporting
+### 5. Compliance Reporting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microsoft Purview compliance manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-purview-compliance-manager?u=76281980)
@@ -697,7 +709,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Emissions Impact Dashboard
+### 6. Emissions Impact Dashboard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Emissions Impact Dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980)
@@ -792,7 +806,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Credit Service
+### 7. Credit Service
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are carbon credits?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-carbon-credits?u=76281980)
@@ -887,7 +903,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to get started with Microsoft Sustainability Solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980)

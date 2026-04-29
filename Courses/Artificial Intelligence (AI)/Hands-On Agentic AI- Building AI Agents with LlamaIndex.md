@@ -40,16 +40,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Agentic Concepts in LlamaIndex** (5 videos)
-- **3. 2. Build a Healthcare Assistant Agent** (5 videos)
-- **4. 3. Build a Summarization Agent** (3 videos)
-- **5. 4. Workflow Concepts in LlamaIndex** (5 videos)
-- **6. 5. Build a Doctor Scheduling Assistant with Workflows** (6 videos)
-- **7. 6. Multi-agent Systems with LlamaIndex** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Agentic Concepts in LlamaIndex]]** (5 videos)
+- **[[#2. Build a Healthcare Assistant Agent]]** (5 videos)
+- **[[#3. Build a Summarization Agent]]** (3 videos)
+- **[[#4. Workflow Concepts in LlamaIndex]]** (5 videos)
+- **[[#5. Build a Doctor Scheduling Assistant with Workflows]]** (6 videos)
+- **[[#6. Multi-agent Systems with LlamaIndex]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/introduction-to-the-course-25230382?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Agentic Concepts in LlamaIndex
+### 1. Agentic Concepts in LlamaIndex
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Agentic AI: A review
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/agentic-ai-a-review-25234296?u=76281980)
@@ -420,7 +424,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Build a Healthcare Assistant Agent
+### 2. Build a Healthcare Assistant Agent
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is ReAct?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/what-is-react-25231389?u=76281980)
@@ -690,7 +696,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Build a Summarization Agent
+### 3. Build a Summarization Agent
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarization agent design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/summarization-agent-design-25231388?u=76281980)
@@ -877,7 +885,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Workflow Concepts in LlamaIndex
+### 4. Workflow Concepts in LlamaIndex
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to LlamaIndex workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/intro-to-llamaindex-workflows-25232390?u=76281980)
@@ -1287,7 +1297,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Build a Doctor Scheduling Assistant with Workflows
+### 5. Build a Doctor Scheduling Assistant with Workflows
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Doctor scheduling assistant: Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/doctor-scheduling-assistant-design-25234293?u=76281980)
@@ -1700,7 +1712,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Multi-agent Systems with LlamaIndex
+### 6. Multi-agent Systems with LlamaIndex
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Multi-agent systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/multi-agent-systems-25230378?u=76281980)
@@ -1923,7 +1937,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-agentic-ai-building-ai-agents-with-llamaindex/next-steps-25230379?u=76281980)

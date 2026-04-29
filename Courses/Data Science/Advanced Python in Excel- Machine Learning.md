@@ -53,13 +53,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Recap of Python, ML, and Data Cleaning** (5 videos)
-- **3. 2. Applied Machine Learning for Finance and Business** (5 videos)
-- **4. 3. Practical Applications of Machine Learning in Business and Finance** (5 videos)
-- **5. 4. Advanced Analytical Techniques with Python Libraries** (3 videos)
-- **6. 5. Machine Learning Algorithms for Business and Finance** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Recap of Python, ML, and Data Cleaning]]** (5 videos)
+- **[[#3. 2. Applied Machine Learning for Finance and Business]]** (5 videos)
+- **[[#4. 3. Practical Applications of Machine Learning in Business and Finance]]** (5 videos)
+- **[[#5. 4. Advanced Analytical Techniques with Python Libraries]]** (3 videos)
+- **[[#6. 5. Machine Learning Algorithms for Business and Finance]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

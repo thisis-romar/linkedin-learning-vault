@@ -54,14 +54,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. EIA API** (17 videos)
-- **3. 2. Data Automation** (7 videos)
-- **4. 3. Deployment** (7 videos)
-- **5. 4. Monitoring** (2 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. EIA API]]** (17 videos)
+- **[[#2. Data Automation]]** (7 videos)
+- **[[#3. Deployment]]** (7 videos)
+- **[[#4. Monitoring]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data pipeline automation with GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980)
@@ -121,7 +123,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. EIA API
+### 1. EIA API
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### EIA API
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980)
@@ -1534,7 +1538,9 @@ created: 2026-04-28
 > **Tools:** jupyter (1), vs code (1)
 
 
-### 3. 2. Data Automation
+### 2. Data Automation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data pipeline scope and requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980)
@@ -2041,7 +2047,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Deployment
+### 3. Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980)
@@ -2647,7 +2655,9 @@ created: 2026-04-28
 > **Env Vars:** api (1)
 
 
-### 5. 4. Monitoring
+### 4. Monitoring
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Data pipeline maintenance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980)
@@ -2766,7 +2776,9 @@ created: 2026-04-28
 > **UI Navigation:** open the (1), select the (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/next-steps?u=76281980)

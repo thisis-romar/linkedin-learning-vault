@@ -36,14 +36,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Unified Communications Overview** (4 videos)
-- **3. 2. Components and Integration** (4 videos)
-- **4. 3. Media Gateway** (5 videos)
-- **5. 4. Business Integration** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Unified Communications Overview]]** (4 videos)
+- **[[#2. Components and Integration]]** (4 videos)
+- **[[#3. Media Gateway]]** (5 videos)
+- **[[#4. Business Integration]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Providing Voice over Internet Protocol (VoIP) telephony
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/providing-voice-over-internet-protocol-voip-telephony-14173322?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Unified Communications Overview
+### 1. Unified Communications Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Unified communications (UC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980)
@@ -351,7 +355,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Components and Integration
+### 2. Components and Integration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### UC components
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980)
@@ -603,7 +609,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Media Gateway
+### 3. Media Gateway
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Passing telephony data through gateways
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980)
@@ -892,7 +900,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Business Integration
+### 4. Business Integration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Plan a unified communications system
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980)
@@ -1294,7 +1304,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980)

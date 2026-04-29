@@ -54,14 +54,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Responsible AI** (3 videos)
-- **3. 2. Understanding Azure AI Content Safety** (3 videos)
-- **4. 3. Large Language Models (LLMs) and Content Safety** (3 videos)
-- **5. 4. Implementing Azure AI Content Safety** (4 videos)
-- **6. 5. Advanced Features for LLMs** (4 videos)
-- **7. 6. Security and Compliance** (3 videos)
-- **8. Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Responsible AI]]** (3 videos)
+- **[[#3. 2. Understanding Azure AI Content Safety]]** (3 videos)
+- **[[#4. 3. Large Language Models (LLMs) and Content Safety]]** (3 videos)
+- **[[#5. 4. Implementing Azure AI Content Safety]]** (4 videos)
+- **[[#6. 5. Advanced Features for LLMs]]** (4 videos)
+- **[[#7. 6. Security and Compliance]]** (3 videos)
+- **[[#8. Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

@@ -47,14 +47,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The DevSecOps Toolchain** (4 videos)
-- **3. 2. Development Tools** (4 videos)
-- **4. 3. Inherit Tools** (5 videos)
-- **5. 4. Build Tools** (3 videos)
-- **6. 5. Deploy Tools** (3 videos)
-- **7. 6. Operation Tools** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. The DevSecOps Toolchain]]** (4 videos)
+- **[[#3. 2. Development Tools]]** (4 videos)
+- **[[#4. 3. Inherit Tools]]** (5 videos)
+- **[[#5. 4. Build Tools]]** (3 videos)
+- **[[#6. 5. Deploy Tools]]** (3 videos)
+- **[[#7. 6. Operation Tools]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

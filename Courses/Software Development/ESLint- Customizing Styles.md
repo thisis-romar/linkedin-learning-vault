@@ -47,9 +47,9 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Customizing ESLint Styles** (5 videos)
-- **3. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Customizing ESLint Styles]]** (5 videos)
+- **[[#3. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

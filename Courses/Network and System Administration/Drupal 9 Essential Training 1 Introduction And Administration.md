@@ -43,9 +43,9 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Content Explained** (8 videos)
-- **3. 2. Administration Explained** (9 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Content Explained]]** (8 videos)
+- **[[#3. 2. Administration Explained]]** (9 videos)
 
 ### 1. Introduction
 

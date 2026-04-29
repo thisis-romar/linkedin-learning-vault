@@ -54,10 +54,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Introduction for Conversational Apps with Data** (4 videos)
-- **3. 2. Finding Answers from Unstructured Data with Cortex Search** (10 videos)
-- **4. 3. Answer Questions from Structured Data with Cortex Analyst** (9 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Introduction for Conversational Apps with Data]]** (4 videos)
+- **[[#3. 2. Finding Answers from Unstructured Data with Cortex Search]]** (10 videos)
+- **[[#4. 3. Answer Questions from Structured Data with Cortex Analyst]]** (9 videos)
 
 ### 1. Introduction
 

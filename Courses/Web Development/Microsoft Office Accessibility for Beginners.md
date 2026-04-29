@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Tools for Creating Content** (3 videos)
-- **3. 2. Tools for Consuming Content** (5 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Tools for Creating Content]]** (3 videos)
+- **[[#2. Tools for Consuming Content]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microsoft Office makes content and function acessible to all
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980)
@@ -78,7 +80,9 @@ created: 2026-04-28
 > **Speakers:** - [jess] (1)
 
 
-### 2. 1. Tools for Creating Content
+### 1. Tools for Creating Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use the Dictate tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980)
@@ -277,7 +281,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Tools for Consuming Content
+### 2. Tools for Consuming Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Have content read out loud
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980)
@@ -623,7 +629,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn accessibility options in depth
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980)

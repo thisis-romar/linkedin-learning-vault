@@ -49,10 +49,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Ensuring Your GitHub Account's Integrity: Authentication and Security Introduction** (4 videos)
-- **3. 2. Configuring and Managing Repositories and Organizations: GitHub Administration Introduction** (10 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Ensuring Your GitHub Account's Integrity: Authentication and Security Introduction]]** (4 videos)
+- **[[#3. 2. Configuring and Managing Repositories and Organizations: GitHub Administration Introduction]]** (10 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

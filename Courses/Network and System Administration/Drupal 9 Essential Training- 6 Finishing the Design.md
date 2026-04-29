@@ -45,10 +45,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Finishing the Design** (4 videos)
-- **3. 2. Site Management** (2 videos)
-- **4. 3. Bonus** (3 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Finishing the Design]]** (4 videos)
+- **[[#3. 2. Site Management]]** (2 videos)
+- **[[#4. 3. Bonus]]** (3 videos)
 
 ### 1. Introduction
 

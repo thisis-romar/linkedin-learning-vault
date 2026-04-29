@@ -51,10 +51,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Employing the Mindset to Imagine the Implications** (3 videos)
-- **3. 2. Transforming Your Workforce Strategy To Support Generative AI Opportunities** (3 videos)
-- **4. 3. Leading Your Generative AI Superhuman Workforce** (3 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Employing the Mindset to Imagine the Implications]]** (3 videos)
+- **[[#3. 2. Transforming Your Workforce Strategy To Support Generative AI Opportunities]]** (3 videos)
+- **[[#4. 3. Leading Your Generative AI Superhuman Workforce]]** (3 videos)
 
 ### 1. Introduction
 

@@ -49,17 +49,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Introduction to T-SQL Queries** (10 videos)
-- **3. 2. Additional Filter Techniques** (8 videos)
-- **4. 3. Retrieve Records from Multiple Tables** (7 videos)
-- **5. 4. Group Records** (8 videos)
-- **6. 5. Manipulate Data with Functions** (15 videos)
-- **7. 6. Writing SQL Scripts** (3 videos)
-- **8. 7. SQL Subqueries** (7 videos)
-- **9. 8. Work with Variables** (4 videos)
-- **10. 9. Result Set Operators** (3 videos)
-- **11. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Introduction to T-SQL Queries]]** (10 videos)
+- **[[#3. 2. Additional Filter Techniques]]** (8 videos)
+- **[[#4. 3. Retrieve Records from Multiple Tables]]** (7 videos)
+- **[[#5. 4. Group Records]]** (8 videos)
+- **[[#6. 5. Manipulate Data with Functions]]** (15 videos)
+- **[[#7. 6. Writing SQL Scripts]]** (3 videos)
+- **[[#8. 7. SQL Subqueries]]** (7 videos)
+- **[[#9. 8. Work with Variables]]** (4 videos)
+- **[[#10. 9. Result Set Operators]]** (3 videos)
+- **[[#11. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

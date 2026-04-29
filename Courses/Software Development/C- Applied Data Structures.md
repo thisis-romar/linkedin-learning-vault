@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Overview of Data Structures** (4 videos)
-- **3. 2. Basic Data Structures** (6 videos)
-- **4. 3. Advanced Data Structures** (5 videos)
-- **5. 4. Specialized Data Structures** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Overview of Data Structures]]** (4 videos)
+- **[[#2. Basic Data Structures]]** (6 videos)
+- **[[#3. Advanced Data Structures]]** (5 videos)
+- **[[#4. Specialized Data Structures]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Wrangling data in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/wrangling-data-in-c-sharp?u=76281980)
@@ -166,7 +168,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Overview of Data Structures
+### 1. Overview of Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic C# data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-c-sharp-data-structures?u=76281980)
@@ -523,7 +527,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Basic Data Structures
+### 2. Basic Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic List operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-list-operations?u=76281980)
@@ -1085,7 +1091,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Advanced Data Structures
+### 3. Advanced Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Stacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stacks?u=76281980)
@@ -1575,7 +1583,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Specialized Data Structures
+### 4. Specialized Data Structures
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### ListDictionary and HybridDictionary
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/listdictionary-and-hybriddictionary?u=76281980)
@@ -2170,7 +2180,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/next-steps?u=76281980)

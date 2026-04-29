@@ -39,10 +39,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI Productivity Hacks** (9 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI Productivity Hacks]]** (9 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Improve productivity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980)
@@ -79,7 +81,9 @@ created: 2026-04-28
 > **Speakers:** - ever (1)
 
 
-### 2. 1. AI Productivity Hacks
+### 1. AI Productivity Hacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Adopt an AI-augmented mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980)

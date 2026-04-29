@@ -40,13 +40,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. HTTP: Hypertext Transfer Protocol** (5 videos)
-- **3. 2. Requests and Responses** (4 videos)
-- **4. 3. HTTP Headers** (6 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. HTTP: Hypertext Transfer Protocol]]** (5 videos)
+- **[[#2. Requests and Responses]]** (4 videos)
+- **[[#3. HTTP Headers]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/welcome?u=76281980)
@@ -82,7 +84,9 @@ created: 2026-04-28
 > **Speakers:** - what (1)
 
 
-### 2. 1. HTTP: Hypertext Transfer Protocol
+### 1. HTTP: Hypertext Transfer Protocol
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is HTTP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/what-is-http?u=76281980)
@@ -481,7 +485,9 @@ created: 2026-04-28
 > **Cross-References:** later in (1)
 
 
-### 3. 2. Requests and Responses
+### 2. Requests and Responses
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The request/response pair
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/the-request-response-pair?u=76281980)
@@ -748,7 +754,9 @@ created: 2026-04-28
 > **Speakers:** - anytime (1)
 
 
-### 4. 3. HTTP Headers
+### 3. HTTP Headers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are HTTP headers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/what-are-http-headers?u=76281980)
@@ -1110,7 +1118,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/http-essential-training/thank-you?u=76281980)

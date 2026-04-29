@@ -51,15 +51,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Python in Excel for Finance** (3 videos)
-- **3. 2. Financial Data Analysis Fundamentals** (3 videos)
-- **4. 3. Advanced Financial Analysis in Excel with Python** (4 videos)
-- **5. 4. Data Visualization for Financial Reporting** (3 videos)
-- **6. 5. Python for Risk Management and Compliance** (3 videos)
-- **7. 6. Machine Learning for Financial Forecasting** (3 videos)
-- **8. 7. Final Project** (1 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Introduction to Python in Excel for Finance]]** (3 videos)
+- **[[#3. 2. Financial Data Analysis Fundamentals]]** (3 videos)
+- **[[#4. 3. Advanced Financial Analysis in Excel with Python]]** (4 videos)
+- **[[#5. 4. Data Visualization for Financial Reporting]]** (3 videos)
+- **[[#6. 5. Python for Risk Management and Compliance]]** (3 videos)
+- **[[#7. 6. Machine Learning for Financial Forecasting]]** (3 videos)
+- **[[#8. 7. Final Project]]** (1 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

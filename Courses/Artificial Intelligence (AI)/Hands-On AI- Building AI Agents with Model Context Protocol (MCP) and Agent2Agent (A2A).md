@@ -48,14 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Introduction to Model Context Protocol** (6 videos)
-- **3. 2. A Simple MCP App** (5 videos)
-- **4. 3. HR Policy Agent with MCP** (4 videos)
-- **5. 4. HR Timeoff Agent with MCP** (4 videos)
-- **6. 5. Introduction to Agent2Agent Protocol** (6 videos)
-- **7. 6. Build a Multi-Agent HR App with A2A** (5 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Introduction to Model Context Protocol]]** (6 videos)
+- **[[#3. 2. A Simple MCP App]]** (5 videos)
+- **[[#4. 3. HR Policy Agent with MCP]]** (4 videos)
+- **[[#5. 4. HR Timeoff Agent with MCP]]** (4 videos)
+- **[[#6. 5. Introduction to Agent2Agent Protocol]]** (6 videos)
+- **[[#7. 6. Build a Multi-Agent HR App with A2A]]** (5 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

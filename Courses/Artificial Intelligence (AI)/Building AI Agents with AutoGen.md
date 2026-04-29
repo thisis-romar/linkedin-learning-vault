@@ -40,17 +40,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. AI Agents with AutoGen** (4 videos)
-- **3. 2. Developing a Research Assistant** (4 videos)
-- **4. 3. Solving Complex Tasks Using Nested Chats** (3 videos)
-- **5. 4. Tool Use and Adding Internet Capability** (4 videos)
-- **6. 5. Building an End-to-End Coding Copilot in Autogen** (4 videos)
-- **7. 6. Teachable Agents** (3 videos)
-- **8. 7. Building a Data Analysis Company with Group Chat** (3 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. AI Agents with AutoGen]]** (4 videos)
+- **[[#2. Developing a Research Assistant]]** (4 videos)
+- **[[#3. Solving Complex Tasks Using Nested Chats]]** (3 videos)
+- **[[#4. Tool Use and Adding Internet Capability]]** (4 videos)
+- **[[#5. Building an End-to-End Coding Copilot in Autogen]]** (4 videos)
+- **[[#6. Teachable Agents]]** (3 videos)
+- **[[#7. Building a Data Analysis Company with Group Chat]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Let's build some AI agents with AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/let-s-build-some-ai-agents-with-autogen?u=76281980)
@@ -75,7 +77,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 2. 1. AI Agents with AutoGen
+### 1. AI Agents with AutoGen
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980)
@@ -352,7 +356,9 @@ created: 2026-04-28
 > **Env Vars:** gpt (2)
 
 
-### 3. 2. Developing a Research Assistant
+### 2. Developing a Research Assistant
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Multi-agent conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980)
@@ -734,7 +740,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (2)
 
 
-### 4. 3. Solving Complex Tasks Using Nested Chats
+### 3. Solving Complex Tasks Using Nested Chats
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Nested chats to add multi-level reviewing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/nested-chats-to-add-multi-level-reviewing?u=76281980)
@@ -1024,7 +1032,9 @@ created: 2026-04-28
 > **Prerequisites:** set up (1)
 
 
-### 5. 4. Tool Use and Adding Internet Capability
+### 4. Tool Use and Adding Internet Capability
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What are tools?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980)
@@ -1385,7 +1395,9 @@ created: 2026-04-28
 > **UI Navigation:** go to (1)
 
 
-### 6. 5. Building an End-to-End Coding Copilot in Autogen
+### 5. Building an End-to-End Coding Copilot in Autogen
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Code executors in AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/code-executors-in-autogen?u=76281980)
@@ -1786,7 +1798,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 7. 6. Teachable Agents
+### 6. Teachable Agents
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to teachable agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/introduction-to-teachable-agents?u=76281980)
@@ -2128,7 +2142,9 @@ created: 2026-04-28
 > **Code Identifiers:** reset_db (1)
 
 
-### 8. 7. Building a Data Analysis Company with Group Chat
+### 7. Building a Data Analysis Company with Group Chat
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Organizational structure of agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980)
@@ -2408,7 +2424,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980)

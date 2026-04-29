@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Using Custom Workflows** (6 videos)
-- **3. 2. Planning Custom Workflows** (7 videos)
-- **4. 3. Building Custom Workflows** (5 videos)
-- **5. 4. Extending Workflow Capabilities** (7 videos)
-- **6. 5. Best Practices** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Using Custom Workflows]]** (6 videos)
+- **[[#3. 2. Planning Custom Workflows]]** (7 videos)
+- **[[#4. 3. Building Custom Workflows]]** (5 videos)
+- **[[#5. 4. Extending Workflow Capabilities]]** (7 videos)
+- **[[#6. 5. Best Practices]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

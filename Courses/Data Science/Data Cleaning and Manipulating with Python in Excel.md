@@ -56,12 +56,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Intro to Data Cleaning** (6 videos)
-- **3. 2. Advanced Data Cleaning Techniques** (6 videos)
-- **4. 3. Data Manipulation** (6 videos)
-- **5. 4. Advanced Data Manipulation** (6 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Intro to Data Cleaning]]** (6 videos)
+- **[[#3. 2. Advanced Data Cleaning Techniques]]** (6 videos)
+- **[[#4. 3. Data Manipulation]]** (6 videos)
+- **[[#5. 4. Advanced Data Manipulation]]** (6 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

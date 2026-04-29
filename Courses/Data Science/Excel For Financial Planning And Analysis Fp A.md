@@ -46,12 +46,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Why Does Excel Matter to FP&A?** (4 videos)
-- **3. 2. Dynamic Data Tables in Excel for FP&A** (8 videos)
-- **4. 3. Dynamic Data Ranges in Excel for FP&A** (6 videos)
-- **5. 4. Dynamic Data Arrays in Excel for FP&A** (7 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Why Does Excel Matter to FP&A?]]** (4 videos)
+- **[[#3. 2. Dynamic Data Tables in Excel for FP&A]]** (8 videos)
+- **[[#4. 3. Dynamic Data Ranges in Excel for FP&A]]** (6 videos)
+- **[[#5. 4. Dynamic Data Arrays in Excel for FP&A]]** (7 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

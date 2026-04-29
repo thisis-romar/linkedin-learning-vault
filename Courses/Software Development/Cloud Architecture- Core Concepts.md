@@ -61,15 +61,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Introduction to Cloud Architecture** (5 videos)
-- **3. 2. Understanding Business Needs** (8 videos)
-- **4. 3. It's All about the Cloud Parts** (7 videos)
-- **5. 4. From Requirements to Solutions** (9 videos)
-- **6. 5. Building Your First Architecture** (4 videos)
-- **7. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Introduction to Cloud Architecture]]** (5 videos)
+- **[[#2. Understanding Business Needs]]** (8 videos)
+- **[[#3. It's All about the Cloud Parts]]** (7 videos)
+- **[[#4. From Requirements to Solutions]]** (9 videos)
+- **[[#5. Building Your First Architecture]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is cloud architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-is-cloud-architecture?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Introduction to Cloud Architecture
+### 1. Introduction to Cloud Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud architecture basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980)
@@ -334,7 +338,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Understanding Business Needs
+### 2. Understanding Business Needs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What problems need to be solved?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-problems-need-to-be-solved?u=76281980)
@@ -591,7 +597,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright electronic music) (1)
 
 
-### 4. 3. It's All about the Cloud Parts
+### 3. It's All about the Cloud Parts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-storage?u=76281980)
@@ -778,7 +786,9 @@ created: 2026-04-28
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/additional-cloud-services?u=76281980)
 
 
-### 5. 4. From Requirements to Solutions
+### 4. From Requirements to Solutions
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Storage level
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980)
@@ -1157,7 +1167,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Building Your First Architecture
+### 5. Building Your First Architecture
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Step 1: Define your requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-1-define-your-requirements?u=76281980)
@@ -1337,7 +1349,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning more about cloud architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/learning-more-about-cloud-architecture?u=76281980)

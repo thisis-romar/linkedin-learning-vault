@@ -46,14 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. DoS Targets** (6 videos)
-- **3. 2. Properties of DoS Attacks** (3 videos)
-- **4. 3. DoS in Various Technologies** (2 videos)
-- **5. 4. DoS Defenses** (2 videos)
-- **6. 5. EOP** (4 videos)
-- **7. 6. EOP Defenses** (9 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. DoS Targets]]** (6 videos)
+- **[[#3. 2. Properties of DoS Attacks]]** (3 videos)
+- **[[#4. 3. DoS in Various Technologies]]** (2 videos)
+- **[[#5. 4. DoS Defenses]]** (2 videos)
+- **[[#6. 5. EOP]]** (4 videos)
+- **[[#7. 6. EOP Defenses]]** (9 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

@@ -44,11 +44,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Remote Research Overview** (2 videos)
-- **3. 2. Preparing for Remote UX Research** (4 videos)
-- **4. 3. Running Remote Research Sessions** (1 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Remote Research Overview]]** (2 videos)
+- **[[#3. 2. Preparing for Remote UX Research]]** (4 videos)
+- **[[#4. 3. Running Remote Research Sessions]]** (1 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

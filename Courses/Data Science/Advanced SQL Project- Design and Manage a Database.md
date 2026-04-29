@@ -52,15 +52,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. Module 1: Understanding Database Needs and Planning** (4 videos)
-- **3. Module 2: Implementing Database Design** (4 videos)
-- **4. Module 3: Extract, Transform, Load (ETL) Basics** (2 videos)
-- **5. Module 4: Loading Data into the Database** (4 videos)
-- **6. Module 5: Writing Basic to Complex SQL Queries** (2 videos)
-- **7. Module 6: Query Optimization and Large Dataset Management** (2 videos)
-- **8. Module 7: Bringing It All Together** (2 videos)
-- **9. Conclusion** (3 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. Module 1: Understanding Database Needs and Planning]]** (4 videos)
+- **[[#3. Module 2: Implementing Database Design]]** (4 videos)
+- **[[#4. Module 3: Extract, Transform, Load (ETL) Basics]]** (2 videos)
+- **[[#5. Module 4: Loading Data into the Database]]** (4 videos)
+- **[[#6. Module 5: Writing Basic to Complex SQL Queries]]** (2 videos)
+- **[[#7. Module 6: Query Optimization and Large Dataset Management]]** (2 videos)
+- **[[#8. Module 7: Bringing It All Together]]** (2 videos)
+- **[[#9. Conclusion]]** (3 videos)
 
 ### 1. Introduction
 

@@ -52,10 +52,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Modernizing Infrastructure in the Cloud** (6 videos)
-- **3. 2. Modernizing Applications in the Cloud** (6 videos)
-- **4. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Modernizing Infrastructure in the Cloud]]** (6 videos)
+- **[[#3. 2. Modernizing Applications in the Cloud]]** (6 videos)
+- **[[#4. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

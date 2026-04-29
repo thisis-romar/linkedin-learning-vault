@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Using Influence to Manage Your Team** (5 videos)
-- **3. 2. Using Organizational Influence to Get Things Done** (6 videos)
-- **4. 3. Using Influence for Visibility and Impact** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Using Influence to Manage Your Team]]** (5 videos)
+- **[[#3. 2. Using Organizational Influence to Get Things Done]]** (6 videos)
+- **[[#4. 3. Using Influence for Visibility and Impact]]** (4 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

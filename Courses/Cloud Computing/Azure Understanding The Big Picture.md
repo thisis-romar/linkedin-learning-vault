@@ -52,18 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Big Picture** (7 videos)
-- **3. 2. Azure Basics** (4 videos)
-- **4. 3. Azure App Service** (4 videos)
-- **5. 4. APIs and API Management** (2 videos)
-- **6. 5. Code and Workflows** (2 videos)
-- **7. 6. Azure Storage** (4 videos)
-- **8. 7. Azure Databases** (3 videos)
-- **9. 8. Infrastructure** (3 videos)
-- **10. 9. DevOps** (5 videos)
-- **11. 10. Other Services** (10 videos)
-- **12. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. The Big Picture]]** (7 videos)
+- **[[#3. 2. Azure Basics]]** (4 videos)
+- **[[#4. 3. Azure App Service]]** (4 videos)
+- **[[#5. 4. APIs and API Management]]** (2 videos)
+- **[[#6. 5. Code and Workflows]]** (2 videos)
+- **[[#7. 6. Azure Storage]]** (4 videos)
+- **[[#8. 7. Azure Databases]]** (3 videos)
+- **[[#9. 8. Infrastructure]]** (3 videos)
+- **[[#10. 9. DevOps]]** (5 videos)
+- **[[#11. 10. Other Services]]** (10 videos)
+- **[[#12. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

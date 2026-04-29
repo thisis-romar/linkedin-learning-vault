@@ -49,16 +49,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Sniffing Overview** (6 videos)
-- **3. 2. Spoofing Attacks** (6 videos)
-- **4. 3. Dissecting DHCP** (6 videos)
-- **5. 4. Reviewing ARP** (4 videos)
-- **6. 5. Attacking DNS** (6 videos)
-- **7. 6. Sniffing Tools and Techniques** (6 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Sniffing Overview]]** (6 videos)
+- **[[#2. Spoofing Attacks]]** (6 videos)
+- **[[#3. Dissecting DHCP]]** (6 videos)
+- **[[#4. Reviewing ARP]]** (4 videos)
+- **[[#5. Attacking DNS]]** (6 videos)
+- **[[#6. Sniffing Tools and Techniques]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Visualizing network traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/visualizing-network-traffic?u=76281980)
@@ -137,7 +139,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Sniffing Overview
+### 1. Sniffing Overview
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Sniffing network traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980)
@@ -720,7 +724,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Spoofing Attacks
+### 2. Spoofing Attacks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Launching a macof attack
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980)
@@ -1134,7 +1140,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Dissecting DHCP
+### 3. Dissecting DHCP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Investigating DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980)
@@ -1595,7 +1603,9 @@ created: 2026-04-28
 > **URLs:** [malware-traffic-analysis.net](https://malware-traffic-analysis.net) (1)
 
 
-### 5. 4. Reviewing ARP
+### 4. Reviewing ARP
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Describing ARP
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980)
@@ -1928,7 +1938,9 @@ created: 2026-04-28
 > **Prerequisites:** configure (1)
 
 
-### 6. 5. Attacking DNS
+### 5. Attacking DNS
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summarizing DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/summarizing-dns?u=76281980)
@@ -2406,7 +2418,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Sniffing Tools and Techniques
+### 6. Sniffing Tools and Techniques
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Capturing images
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/capturing-images?u=76281980)
@@ -2853,7 +2867,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980)

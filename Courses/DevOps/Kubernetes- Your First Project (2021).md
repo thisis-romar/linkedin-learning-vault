@@ -46,15 +46,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. The Project/The Mission** (2 videos)
-- **3. 2. A Brief Overview of Kubernetes** (2 videos)
-- **4. 3. Testing Locally with Docker** (7 videos)
-- **5. 4. Running Kubernetes Locally with kind** (10 videos)
-- **6. 5. Our First Kubernetes Manifests** (7 videos)
-- **7. 6. Our First Helm Chart** (7 videos)
-- **8. 7. We'll Do It Live** (7 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. The Project/The Mission]]** (2 videos)
+- **[[#3. 2. A Brief Overview of Kubernetes]]** (2 videos)
+- **[[#4. 3. Testing Locally with Docker]]** (7 videos)
+- **[[#5. 4. Running Kubernetes Locally with kind]]** (10 videos)
+- **[[#6. 5. Our First Kubernetes Manifests]]** (7 videos)
+- **[[#7. 6. Our First Helm Chart]]** (7 videos)
+- **[[#8. 7. We'll Do It Live]]** (7 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

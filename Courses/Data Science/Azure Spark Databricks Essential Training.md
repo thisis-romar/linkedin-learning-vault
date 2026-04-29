@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Big Data on Azure Databricks** (7 videos)
-- **3. 2. Core Azure Databricks Workloads** (7 videos)
-- **4. 3. Scaling Azure Databricks Workloads** (6 videos)
-- **5. 4. Data Pipelines with Azure Databricks** (9 videos)
-- **6. 5. Machine Learning Architectures** (5 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Big Data on Azure Databricks]]** (7 videos)
+- **[[#3. 2. Core Azure Databricks Workloads]]** (7 videos)
+- **[[#4. 3. Scaling Azure Databricks Workloads]]** (6 videos)
+- **[[#5. 4. Data Pipelines with Azure Databricks]]** (9 videos)
+- **[[#6. 5. Machine Learning Architectures]]** (5 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

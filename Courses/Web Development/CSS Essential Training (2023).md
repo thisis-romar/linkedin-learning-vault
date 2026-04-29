@@ -62,17 +62,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (11 videos)
-- **3. 2. CSS Core Concepts** (16 videos)
-- **4. 3. The CSS Box Model** (12 videos)
-- **5. 4. Layouts: Float and Position** (7 videos)
-- **6. 5. Layouts: Flexbox and Grid** (13 videos)
-- **7. 6. Typography** (12 videos)
-- **8. 7. Layouts: Fluid and Responsive** (10 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (11 videos)
+- **[[#2. CSS Core Concepts]]** (16 videos)
+- **[[#3. The CSS Box Model]]** (12 videos)
+- **[[#4. Layouts: Float and Position]]** (7 videos)
+- **[[#5. Layouts: Flexbox and Grid]]** (13 videos)
+- **[[#6. Typography]]** (12 videos)
+- **[[#7. Layouts: Fluid and Responsive]]** (10 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting started with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980)
@@ -160,7 +162,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### HTML and CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/html-and-css?u=76281980)
@@ -1138,7 +1142,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. CSS Core Concepts
+### 2. CSS Core Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### CSS specifications and the W3C
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/css-specifications-and-the-w3c?u=76281980)
@@ -2598,7 +2604,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. The CSS Box Model
+### 3. The CSS Box Model
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to the CSS box model
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-the-css-box-model?u=76281980)
@@ -3681,7 +3689,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 5. 4. Layouts: Float and Position
+### 4. Layouts: Float and Position
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to CSS Layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-layout?u=76281980)
@@ -4277,7 +4287,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Layouts: Flexbox and Grid
+### 5. Layouts: Flexbox and Grid
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to Grid and Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-grid-and-flexbox?u=76281980)
@@ -5296,7 +5308,9 @@ created: 2026-04-28
 > **Best Practices:** make sure to (1), don't forget (1)
 
 
-### 7. 6. Typography
+### 6. Typography
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Typography for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/typography-for-the-web?u=76281980)
@@ -6423,7 +6437,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 8. 7. Layouts: Fluid and Responsive
+### 7. Layouts: Fluid and Responsive
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Intro to responsive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980)
@@ -7406,7 +7422,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continuing beyond the essentials with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/continuing-beyond-the-essentials-with-css?u=76281980)

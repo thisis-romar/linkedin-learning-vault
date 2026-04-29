@@ -39,16 +39,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Exploring APIs and Web Services** (4 videos)
-- **3. 2. Implementing RESTful APIs** (5 videos)
-- **4. 3. Implementing GraphQL** (4 videos)
-- **5. 4.  Integrating Generative AI APIs** (4 videos)
-- **6. 5. Ensuring API Security and Best Practices** (6 videos)
-- **7. 6. Anticipating Future Trends in APIs and Web Services** (2 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Exploring APIs and Web Services]]** (4 videos)
+- **[[#2. Implementing RESTful APIs]]** (5 videos)
+- **[[#3. Implementing GraphQL]]** (4 videos)
+- **[[#4.  Integrating Generative AI APIs]]** (4 videos)
+- **[[#5. Ensuring API Security and Best Practices]]** (6 videos)
+- **[[#6. Anticipating Future Trends in APIs and Web Services]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to APIs and web services
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/introduction-to-apis-and-web-services?u=76281980)
@@ -85,7 +87,9 @@ created: 2026-04-28
 > **Speakers:** - apis (1)
 
 
-### 2. 1. Exploring APIs and Web Services
+### 1. Exploring APIs and Web Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980)
@@ -469,7 +473,9 @@ created: 2026-04-28
 > **URLs:** [nasa.gov](https://nasa.gov) (1)
 
 
-### 3. 2. Implementing RESTful APIs
+### 2. Implementing RESTful APIs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Applying REST principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980)
@@ -961,7 +967,9 @@ created: 2026-04-28
 > **Exercise Files:** github repo (1)
 
 
-### 4. 3. Implementing GraphQL
+### 3. Implementing GraphQL
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring GraphQL benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980)
@@ -1422,7 +1430,9 @@ created: 2026-04-28
 > **Speakers:** - how (1)
 
 
-### 5. 4.  Integrating Generative AI APIs
+### 4.  Integrating Generative AI APIs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring the OpenAI APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980)
@@ -1832,7 +1842,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Ensuring API Security and Best Practices
+### 5. Ensuring API Security and Best Practices
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980)
@@ -2306,7 +2318,9 @@ created: 2026-04-28
 > **Documentation:** specification (2), the documentation (1)
 
 
-### 7. 6. Anticipating Future Trends in APIs and Web Services
+### 6. Anticipating Future Trends in APIs and Web Services
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Embracing emerging technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980)
@@ -2466,7 +2480,9 @@ created: 2026-04-28
 > **Speakers:** - did (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your programming foundations: APIs and web services journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980)

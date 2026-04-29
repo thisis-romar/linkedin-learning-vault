@@ -46,14 +46,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Create Views of the Data** (4 videos)
-- **3. 2. Create User-Defined Functions** (6 videos)
-- **4. 3. Work with Stored Procedures** (6 videos)
-- **5. 4. Create Transactions** (6 videos)
-- **6. 5. Implement Error Handling** (6 videos)
-- **7. 6. Data Type Conversions and NULLs** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Create Views of the Data]]** (4 videos)
+- **[[#3. 2. Create User-Defined Functions]]** (6 videos)
+- **[[#4. 3. Work with Stored Procedures]]** (6 videos)
+- **[[#5. 4. Create Transactions]]** (6 videos)
+- **[[#6. 5. Implement Error Handling]]** (6 videos)
+- **[[#7. 6. Data Type Conversions and NULLs]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

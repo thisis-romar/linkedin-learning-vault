@@ -52,18 +52,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Authentication and Accounts** (5 videos)
-- **3. 2. Authorization** (5 videos)
-- **4. 3. Encryption** (4 videos)
-- **5. 4. Viruses and Malware** (8 videos)
-- **6. 5. Network Security** (2 videos)
-- **7. 6. Group Policy** (4 videos)
-- **8. 7. Remote Desktop** (4 videos)
-- **9. 8. Additional Security Considerations** (4 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Authentication and Accounts]]** (5 videos)
+- **[[#2. Authorization]]** (5 videos)
+- **[[#3. Encryption]]** (4 videos)
+- **[[#4. Viruses and Malware]]** (8 videos)
+- **[[#5. Network Security]]** (2 videos)
+- **[[#6. Group Policy]]** (4 videos)
+- **[[#7. Remote Desktop]]** (4 videos)
+- **[[#8. Additional Security Considerations]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Windows 10 security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980)
@@ -142,7 +144,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Authentication and Accounts
+### 1. Authentication and Accounts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of authentication and accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980)
@@ -383,7 +387,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Authorization
+### 2. Authorization
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authorization?u=76281980)
@@ -827,7 +833,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 4. 3. Encryption
+### 3. Encryption
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of encryption
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980)
@@ -1270,7 +1278,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Viruses and Malware
+### 4. Viruses and Malware
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Virus and malware overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/virus-and-malware-overview?u=76281980)
@@ -1853,7 +1863,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Network Security
+### 5. Network Security
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing network traffic by using IPsec
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980)
@@ -2018,7 +2030,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Group Policy
+### 6. Group Policy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview of Group Policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980)
@@ -2306,7 +2320,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Remote Desktop
+### 7. Remote Desktop
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic configuration of Remote Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980)
@@ -2570,7 +2586,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Additional Security Considerations
+### 8. Additional Security Considerations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Controlling updates for Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980)
@@ -2839,7 +2857,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Where to learn more about Windows 10 security
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980)

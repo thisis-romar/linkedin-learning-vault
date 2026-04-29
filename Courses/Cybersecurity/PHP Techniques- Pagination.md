@@ -49,12 +49,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Pagination Fundamentals** (3 videos)
-- **3. 2. Database Record Pagination** (3 videos)
-- **4. 3. Links to Paginated Pages** (4 videos)
-- **5. 4. Object-Oriented Pagination** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Pagination Fundamentals]]** (3 videos)
+- **[[#3. 2. Database Record Pagination]]** (3 videos)
+- **[[#4. 3. Links to Paginated Pages]]** (4 videos)
+- **[[#5. 4. Object-Oriented Pagination]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

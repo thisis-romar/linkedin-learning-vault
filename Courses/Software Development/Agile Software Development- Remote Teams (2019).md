@@ -50,13 +50,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Remote Working** (3 videos)
-- **3. 2. Collaboration and Conversations** (9 videos)
-- **4. 3. Technical Excellence & Security** (7 videos)
-- **5. 4. Deploying Early and Often** (3 videos)
-- **6. 5. Hiring, Planning, and Measuring** (7 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Remote Working]]** (3 videos)
+- **[[#3. 2. Collaboration and Conversations]]** (9 videos)
+- **[[#4. 3. Technical Excellence & Security]]** (7 videos)
+- **[[#5. 4. Deploying Early and Often]]** (3 videos)
+- **[[#6. 5. Hiring, Planning, and Measuring]]** (7 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

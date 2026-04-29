@@ -57,19 +57,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Project Setup** (1 videos)
-- **3. 2. Project Overview** (2 videos)
-- **4. 3. Creating React Projects from Scratch** (5 videos)
-- **5. 4. Creating Projects with Vite, Next.js, Remix, and More** (4 videos)
-- **6. 5. Creating a Basic Project** (5 videos)
-- **7. 6. Adding Redux** (11 videos)
-- **8. 7. Alternatives to Redux** (2 videos)
-- **9. 8. Dealing with Side Effects** (10 videos)
-- **10. 9. Selectors** (4 videos)
-- **11. 10. Styled-Components** (3 videos)
-- **12. 11. Testing** (4 videos)
-- **13. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Project Setup]]** (1 videos)
+- **[[#3. 2. Project Overview]]** (2 videos)
+- **[[#4. 3. Creating React Projects from Scratch]]** (5 videos)
+- **[[#5. 4. Creating Projects with Vite, Next.js, Remix, and More]]** (4 videos)
+- **[[#6. 5. Creating a Basic Project]]** (5 videos)
+- **[[#7. 6. Adding Redux]]** (11 videos)
+- **[[#8. 7. Alternatives to Redux]]** (2 videos)
+- **[[#9. 8. Dealing with Side Effects]]** (10 videos)
+- **[[#10. 9. Selectors]]** (4 videos)
+- **[[#11. 10. Styled-Components]]** (3 videos)
+- **[[#12. 11. Testing]]** (4 videos)
+- **[[#13. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

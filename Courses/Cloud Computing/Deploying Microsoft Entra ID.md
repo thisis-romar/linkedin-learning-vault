@@ -50,11 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Managing Users** (16 videos)
-- **3. 2. Managing Groups** (15 videos)
-- **4. 3. Managing Devices** (9 videos)
-- **5. Conclusion** (3 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Managing Users]]** (16 videos)
+- **[[#3. 2. Managing Groups]]** (15 videos)
+- **[[#4. 3. Managing Devices]]** (9 videos)
+- **[[#5. Conclusion]]** (3 videos)
 
 ### 1. Introduction
 

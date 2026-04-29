@@ -44,18 +44,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Your Transformation** (2 videos)
-- **3. 2. Your Customers** (3 videos)
-- **4. 3. Agile Portfolio of Work** (3 videos)
-- **5. 4. The Agile Framework** (3 videos)
-- **6. 5. Team Transformation** (3 videos)
-- **7. 6. Scaling Models** (4 videos)
-- **8. 7. Technical Excellence** (3 videos)
-- **9. 8. Measurement and Growth** (3 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Your Transformation]]** (2 videos)
+- **[[#2. Your Customers]]** (3 videos)
+- **[[#3. Agile Portfolio of Work]]** (3 videos)
+- **[[#4. The Agile Framework]]** (3 videos)
+- **[[#5. Team Transformation]]** (3 videos)
+- **[[#6. Scaling Models]]** (4 videos)
+- **[[#7. Technical Excellence]]** (3 videos)
+- **[[#8. Measurement and Growth]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ignite your teams with agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/ignite-your-teams-with-agile?u=76281980)
@@ -75,7 +77,9 @@ created: 2026-04-28
 > **Speakers:** - do (1)
 
 
-### 2. 1. Your Transformation
+### 1. Your Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your current state
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-current-state?u=76281980)
@@ -246,7 +250,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Your Customers
+### 2. Your Customers
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Internal customer engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/internal-customer-engagement?u=76281980)
@@ -463,7 +469,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Agile Portfolio of Work
+### 3. Agile Portfolio of Work
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your portfolio today
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/your-portfolio-today?u=76281980)
@@ -687,7 +695,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 5. 4. The Agile Framework
+### 4. The Agile Framework
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### It's a mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/it-s-a-mindset?u=76281980)
@@ -901,7 +911,9 @@ created: 2026-04-28
 > **Speakers:** - [educator] (1)
 
 
-### 6. 5. Team Transformation
+### 5. Team Transformation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Changing leaders' mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/changing-leaders-mindset?u=76281980)
@@ -1108,7 +1120,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Scaling Models
+### 6. Scaling Models
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is "scaling agile"?
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/what-is-scaling-agile?u=76281980)
@@ -1349,7 +1363,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Technical Excellence
+### 7. Technical Excellence
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Technical architecture and your portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/technical-architecture-and-your-portfolio?u=76281980)
@@ -1568,7 +1584,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. 8. Measurement and Growth
+### 8. Measurement and Growth
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Measure your transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/measure-your-transformation?u=76281980)
@@ -1812,7 +1830,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Resources for your agile journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-transforming-your-organization-22395018/resources-for-your-agile-journey?u=76281980)

@@ -55,12 +55,12 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (6 videos)
-- **2. 1. Getting Started with JUnit** (7 videos)
-- **3. 2. Writing Basic Tests with JUnit** (8 videos)
-- **4. 3. More Advanced Usage of JUnit** (10 videos)
-- **5. 4. Quick Peek at Next Steps** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (6 videos)
+- **[[#2. 1. Getting Started with JUnit]]** (7 videos)
+- **[[#3. 2. Writing Basic Tests with JUnit]]** (8 videos)
+- **[[#4. 3. More Advanced Usage of JUnit]]** (10 videos)
+- **[[#5. 4. Quick Peek at Next Steps]]** (3 videos)
+- **[[#6. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

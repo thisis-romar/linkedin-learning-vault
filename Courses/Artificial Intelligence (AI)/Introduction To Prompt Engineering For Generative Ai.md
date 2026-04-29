@@ -49,13 +49,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Text Generation** (7 videos)
-- **3. 2. AI-Generated Images and Video** (5 videos)
-- **4. 3. Advanced Concepts** (4 videos)
-- **5. Conclusion** (2 videos)
+- **[[#Introduction]]** (4 videos)
+- **[[#1. Text Generation]]** (7 videos)
+- **[[#2. AI-Generated Images and Video]]** (5 videos)
+- **[[#3. Advanced Concepts]]** (4 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Joining the NLP revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980)
@@ -194,7 +196,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Text Generation
+### 1. Text Generation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Diving into ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980)
@@ -653,7 +657,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. AI-Generated Images and Video
+### 2. AI-Generated Images and Video
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The AI-generated image landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980)
@@ -869,7 +875,9 @@ created: 2026-04-28
 > **Non-Speech:** (bright music) (1)
 
 
-### 4. 3. Advanced Concepts
+### 3. Advanced Concepts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating a custom GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980)
@@ -1162,7 +1170,9 @@ created: 2026-04-28
 > **URLs:** [openai.com](https://openai.com) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Warning: Use responsibly
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980)

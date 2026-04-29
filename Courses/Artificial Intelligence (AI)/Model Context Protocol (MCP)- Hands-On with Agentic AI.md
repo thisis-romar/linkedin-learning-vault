@@ -52,10 +52,10 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. MCP Explained** (6 videos)
-- **3. 2. Building MCP Servers** (3 videos)
-- **4. 3. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. MCP Explained]]** (6 videos)
+- **[[#3. 2. Building MCP Servers]]** (3 videos)
+- **[[#4. 3. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

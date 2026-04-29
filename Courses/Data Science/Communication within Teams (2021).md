@@ -46,11 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Communicating Successfully within Teams** (11 videos)
-- **3. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Communicating Successfully within Teams]]** (11 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How high-performing teams communicate
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/how-high-performing-teams-communicate?u=76281980)
@@ -95,7 +97,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Communicating Successfully within Teams
+### 1. Communicating Successfully within Teams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Establish roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/establish-roles?u=76281980)
@@ -1084,7 +1088,9 @@ created: 2026-04-28
 > **Speakers:** - right (1)
 
 
-### 3. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The imperative of effective teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980)

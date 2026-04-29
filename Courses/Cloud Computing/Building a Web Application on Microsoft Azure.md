@@ -50,14 +50,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Using Azure DevOps for Storing Your Code** (5 videos)
-- **3. 2. Hosting and Running the Web Application in Azure App Service** (6 videos)
-- **4. 3. Using Azure SQL for Your Data Storage** (4 videos)
-- **5. 4. Using Azure Storage for Storing Binary Files** (10 videos)
-- **6. 5. Using Azure Functions to Improve Your Web Application** (7 videos)
-- **7. 6. Taking Advantage of Azure Logic Apps for Your Web App** (4 videos)
-- **8. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Using Azure DevOps for Storing Your Code]]** (5 videos)
+- **[[#3. 2. Hosting and Running the Web Application in Azure App Service]]** (6 videos)
+- **[[#4. 3. Using Azure SQL for Your Data Storage]]** (4 videos)
+- **[[#5. 4. Using Azure Storage for Storing Binary Files]]** (10 videos)
+- **[[#6. 5. Using Azure Functions to Improve Your Web Application]]** (7 videos)
+- **[[#7. 6. Taking Advantage of Azure Logic Apps for Your Web App]]** (4 videos)
+- **[[#8. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

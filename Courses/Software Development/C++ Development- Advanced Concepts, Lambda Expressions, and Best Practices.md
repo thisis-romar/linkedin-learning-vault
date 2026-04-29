@@ -48,16 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Operator Overloads** (5 videos)
-- **3. 2. Move Semantics** (7 videos)
-- **4. 3. Lambda Expressions** (4 videos)
-- **5. 4. Constraints and Concepts** (3 videos)
-- **6. 5. Optionals and Variants** (3 videos)
-- **7. 6. Concurrency** (6 videos)
-- **8. 7. Other Subjects** (5 videos)
-- **9. 8. Other C++20 New Features** (4 videos)
-- **10. Final Project and Conclusion** (2 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Operator Overloads]]** (5 videos)
+- **[[#3. 2. Move Semantics]]** (7 videos)
+- **[[#4. 3. Lambda Expressions]]** (4 videos)
+- **[[#5. 4. Constraints and Concepts]]** (3 videos)
+- **[[#6. 5. Optionals and Variants]]** (3 videos)
+- **[[#7. 6. Concurrency]]** (6 videos)
+- **[[#8. 7. Other Subjects]]** (5 videos)
+- **[[#9. 8. Other C++20 New Features]]** (4 videos)
+- **[[#10. Final Project and Conclusion]]** (2 videos)
 
 ### 1. Introduction
 

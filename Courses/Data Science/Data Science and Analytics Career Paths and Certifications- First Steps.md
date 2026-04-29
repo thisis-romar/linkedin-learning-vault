@@ -58,15 +58,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Defining Data Science** (6 videos)
-- **3. 2. Marketplaces** (8 videos)
-- **4. 3. Skills** (7 videos)
-- **5. 4. Roles** (8 videos)
-- **6. 5. Certifications** (7 videos)
-- **7. 6. Future of Data Science** (5 videos)
-- **8. 7. Voices from the Field** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Defining Data Science]]** (6 videos)
+- **[[#3. 2. Marketplaces]]** (8 videos)
+- **[[#4. 3. Skills]]** (7 videos)
+- **[[#5. 4. Roles]]** (8 videos)
+- **[[#6. 5. Certifications]]** (7 videos)
+- **[[#7. 6. Future of Data Science]]** (5 videos)
+- **[[#8. 7. Voices from the Field]]** (6 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

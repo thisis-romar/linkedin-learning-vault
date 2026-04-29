@@ -48,14 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Basics of Debugging** (7 videos)
-- **3. 2. More Debugging Tips and Tricks** (4 videos)
-- **4. 3. Common Errors in C#** (5 videos)
-- **5. 4. Practice Debugging C# Programs** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Basics of Debugging]]** (7 videos)
+- **[[#2. More Debugging Tips and Tricks]]** (4 videos)
+- **3. Common Errors in C#** (5 videos)
+- **4. Practice Debugging C# Programs** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Debugging in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/debugging-in-c-sharp?u=76281980)
@@ -169,7 +171,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Basics of Debugging
+### 1. Basics of Debugging
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is debugging?
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-debugging?u=76281980)
@@ -767,7 +771,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. More Debugging Tips and Tricks
+### 2. More Debugging Tips and Tricks
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Covering edge cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/covering-edge-cases?u=76281980)
@@ -1069,7 +1075,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Common Errors in C#
+### 3. Common Errors in C#
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### NullReferenceException
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/nullreferenceexception?u=76281980)
@@ -1493,7 +1501,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Practice Debugging C# Programs
+### 4. Practice Debugging C# Programs
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Basic code challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge?u=76281980)
@@ -1959,7 +1969,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/next-steps?u=76281980)

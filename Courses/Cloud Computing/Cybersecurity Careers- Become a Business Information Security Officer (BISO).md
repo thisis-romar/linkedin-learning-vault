@@ -53,14 +53,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. BISO Basics** (3 videos)
-- **3. 2. Becoming a BISO** (3 videos)
-- **4. 3. Building Partnerships** (4 videos)
-- **5. 4. A Day in the Life of a BISO** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. BISO Basics]]** (3 videos)
+- **[[#2. Becoming a BISO]]** (3 videos)
+- **[[#3. Building Partnerships]]** (4 videos)
+- **[[#4. A Day in the Life of a BISO]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### A bridge between business and tech
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/a-bridge-between-business-and-tech?u=76281980)
@@ -101,7 +103,9 @@ created: 2026-04-28
 > **Speakers:** - technology (1)
 
 
-### 2. 1. BISO Basics
+### 1. BISO Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The BizOps and cybersecurity disconnect
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-bizops-and-cybersecurity-disconnect?u=76281980)
@@ -250,7 +254,9 @@ created: 2026-04-28
 > **Speakers:** - business (1)
 
 
-### 3. 2. Becoming a BISO
+### 2. Becoming a BISO
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The instructor's journey to becoming a BISO
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/the-instructor-s-journey-to-becoming-a-biso?u=76281980)
@@ -434,7 +440,9 @@ created: 2026-04-28
 > **Speakers:** - interviewing (1)
 
 
-### 4. 3. Building Partnerships
+### 3. Building Partnerships
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Relationship management
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/relationship-management?u=76281980)
@@ -660,7 +668,9 @@ created: 2026-04-28
 > **Speakers:** - while (1)
 
 
-### 5. 4. A Day in the Life of a BISO
+### 4. A Day in the Life of a BISO
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Innovative problem-solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/innovative-problem-solving?u=76281980)
@@ -818,7 +828,9 @@ created: 2026-04-28
 > **Speakers:** - being (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue to evolve
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso/continue-to-evolve?u=76281980)

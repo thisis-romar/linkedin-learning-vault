@@ -45,13 +45,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Overview of Working with AI** (3 videos)
-- **3. 2. Using AI to Improve Your Research** (6 videos)
-- **4. 3. Using AI to Improve Your Writing** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Overview of Working with AI]]** (3 videos)
+- **[[#2. Using AI to Improve Your Research]]** (6 videos)
+- **[[#3. Using AI to Improve Your Writing]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Meet your AI creative collaborator
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/meet-your-ai-creative-collaborator?u=76281980)
@@ -99,7 +101,9 @@ created: 2026-04-28
 > **Speakers:** - you (1)
 
 
-### 2. 1. Overview of Working with AI
+### 1. Overview of Working with AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to work with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980)
@@ -412,7 +416,9 @@ created: 2026-04-28
 > **Speakers:** - working (1)
 
 
-### 3. 2. Using AI to Improve Your Research
+### 2. Using AI to Improve Your Research
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to summarize complex information
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-summarize-complex-information?u=76281980)
@@ -1244,7 +1250,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 4. 3. Using AI to Improve Your Writing
+### 3. Using AI to Improve Your Writing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using AI to analyze a writing style and help you write in a similar style
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980)
@@ -1916,7 +1924,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/summary-and-next-steps?u=76281980)

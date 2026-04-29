@@ -47,13 +47,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Setting the Scene** (4 videos)
-- **3. 2. 5G Technologies** (6 videos)
-- **4. 3. Existing 5G Use Cases** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Setting the Scene]]** (4 videos)
+- **[[#2. 5G Technologies]]** (6 videos)
+- **[[#3. Existing 5G Use Cases]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Develop a solid understanding of 5G
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980)
@@ -157,7 +159,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Setting the Scene
+### 1. Setting the Scene
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting the scene
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/setting-the-scene?u=76281980)
@@ -563,7 +567,9 @@ created: 2026-04-28
 > **Tools:** terminal (1)
 
 
-### 3. 2. 5G Technologies
+### 2. 5G Technologies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Reviewing 5G technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980)
@@ -1136,7 +1142,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 4. 3. Existing 5G Use Cases
+### 3. Existing 5G Use Cases
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### 5G use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/5g-use-cases?u=76281980)
@@ -1492,7 +1500,9 @@ created: 2026-04-28
 > **Non-Speech:** (calm piano music) (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Concluding remarks
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980)

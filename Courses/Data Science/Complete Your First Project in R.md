@@ -50,11 +50,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Exploring Customer Data** (9 videos)
-- **3. 2. Classification Analysis** (10 videos)
-- **4. 3. Cluster Analysis** (8 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Exploring Customer Data]]** (9 videos)
+- **[[#3. 2. Classification Analysis]]** (10 videos)
+- **[[#4. 3. Cluster Analysis]]** (8 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

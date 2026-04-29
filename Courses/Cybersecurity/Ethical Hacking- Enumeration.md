@@ -47,17 +47,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Basics of Enumeration** (4 videos)
-- **3. 2. Local Host Enumeration** (4 videos)
-- **4. 3. Enumeration Remote Hosts** (11 videos)
-- **5. 4. Enumerating Web Apps** (4 videos)
-- **6. 5. Enumerating the Internet** (3 videos)
-- **7. 6. Enumerating Cloud** (4 videos)
-- **8. 7. Other Enumeration** (7 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Basics of Enumeration]]** (4 videos)
+- **[[#2. Local Host Enumeration]]** (4 videos)
+- **[[#3. Enumeration Remote Hosts]]** (11 videos)
+- **[[#4. Enumerating Web Apps]]** (4 videos)
+- **[[#5. Enumerating the Internet]]** (3 videos)
+- **[[#6. Enumerating Cloud]]** (4 videos)
+- **[[#7. Other Enumeration]]** (7 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Starting your testing with enumeration
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980)
@@ -143,7 +145,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Basics of Enumeration
+### 1. Basics of Enumeration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is enumeration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-enumeration?u=76281980)
@@ -425,7 +429,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Local Host Enumeration
+### 2. Local Host Enumeration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Profiling a Unix host
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980)
@@ -782,7 +788,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Enumeration Remote Hosts
+### 3. Enumeration Remote Hosts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enumerating host services
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-host-services?u=76281980)
@@ -1596,7 +1604,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Enumerating Web Apps
+### 4. Enumerating Web Apps
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is that web server?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980)
@@ -1797,7 +1807,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. 5. Enumerating the Internet
+### 5. Enumerating the Internet
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Tracing routes across the internet routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/tracing-routes-across-the-internet-routes?u=76281980)
@@ -1993,7 +2005,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Enumerating Cloud
+### 6. Enumerating Cloud
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Enumeration of the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980)
@@ -2332,7 +2346,9 @@ created: 2026-04-28
 > **Ports:** port 5432 (1)
 
 
-### 8. 7. Other Enumeration
+### 7. Other Enumeration
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Scanning with SuperScan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980)
@@ -2816,7 +2832,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980)

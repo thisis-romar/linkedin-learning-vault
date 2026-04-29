@@ -54,13 +54,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. The Challenges of AI** (9 videos)
-- **3. 2. Collecting Ideas** (11 videos)
-- **4. 3. Exploring Ideas: Concept Development** (4 videos)
-- **5. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. The Challenges of AI]]** (9 videos)
+- **[[#2. Collecting Ideas]]** (11 videos)
+- **[[#3. Exploring Ideas: Concept Development]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/introduction?u=76281980)
@@ -87,7 +89,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. The Challenges of AI
+### 1. The Challenges of AI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AI mistakes to avoid
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980)
@@ -886,7 +890,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 3. 2. Collecting Ideas
+### 2. Collecting Ideas
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Ideation workshop: Preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980)
@@ -1893,7 +1899,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Exploring Ideas: Concept Development
+### 3. Exploring Ideas: Concept Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What happens to the idea?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980)
@@ -2257,7 +2265,9 @@ created: 2026-04-28
 > **Speakers:** - [presenter] (1)
 
 
-### 5. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/next-steps?u=76281980)

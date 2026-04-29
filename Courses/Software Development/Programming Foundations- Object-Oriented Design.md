@@ -42,18 +42,20 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Object-Oriented Fundamentals** (9 videos)
-- **3. 2. Requirements** (4 videos)
-- **4. 3. Use Cases and User Stories** (7 videos)
-- **5. 4. Domain Modeling** (6 videos)
-- **6. 5. Class Diagrams** (8 videos)
-- **7. 6. Inheritance and Composition** (8 videos)
-- **8. 7. Software Development** (4 videos)
-- **9. Glossaries** (0 videos)
-- **10. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Object-Oriented Fundamentals]]** (9 videos)
+- **[[#2. Requirements]]** (4 videos)
+- **[[#3. Use Cases and User Stories]]** (7 videos)
+- **[[#4. Domain Modeling]]** (6 videos)
+- **[[#5. Class Diagrams]]** (8 videos)
+- **[[#6. Inheritance and Composition]]** (8 videos)
+- **[[#7. Software Development]]** (4 videos)
+- **[[#Glossaries]]** (0 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn object-oriented design principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980)
@@ -142,7 +144,9 @@ created: 2026-04-28
 > **Env Vars:** ide (1)
 
 
-### 2. 1. Object-Oriented Fundamentals
+### 1. Object-Oriented Fundamentals
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Object-oriented thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980)
@@ -958,7 +962,9 @@ created: 2026-04-28
 > **Speakers:** - throughout (1)
 
 
-### 3. 2. Requirements
+### 2. Requirements
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Defining requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980)
@@ -1285,7 +1291,9 @@ created: 2026-04-28
 > **Definitions:** stands for (1)
 
 
-### 4. 3. Use Cases and User Stories
+### 3. Use Cases and User Stories
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/use-cases?u=76281980)
@@ -1856,7 +1864,9 @@ created: 2026-04-28
 > **Cross-References:** coming up (1)
 
 
-### 5. 4. Domain Modeling
+### 4. Domain Modeling
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying the objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-objects?u=76281980)
@@ -2358,7 +2368,9 @@ created: 2026-04-28
 > **Env Vars:** crc (1)
 
 
-### 6. 5. Class Diagrams
+### 5. Class Diagrams
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating class diagrams: Attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-attributes?u=76281980)
@@ -2928,7 +2940,9 @@ created: 2026-04-28
 > **Analogies:** similar to (1)
 
 
-### 7. 6. Inheritance and Composition
+### 6. Inheritance and Composition
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Identifying inheritance situations
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980)
@@ -3487,7 +3501,9 @@ created: 2026-04-28
 > **CLI Commands:** make (2)
 
 
-### 8. 7. Software Development
+### 7. Software Development
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OOP support in different languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980)
@@ -3812,10 +3828,14 @@ created: 2026-04-28
 > **Non-Speech:** (typing loudly) (1)
 
 
-### 9. Glossaries
+### Glossaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 10. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/next-steps?u=76281980)

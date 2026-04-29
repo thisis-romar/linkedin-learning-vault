@@ -42,17 +42,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Back to Basics** (3 videos)
-- **3. 2. Accessible Design** (3 videos)
-- **4. 3. Hiding and Showing** (3 videos)
-- **5. 4. Semantics and Interactivity** (7 videos)
-- **6. 5. Images, Graphics, and Media** (6 videos)
-- **7. 6. Practical Examples** (5 videos)
-- **8. 7. Proof and Pudding** (4 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Back to Basics]]** (3 videos)
+- **[[#2. Accessible Design]]** (3 videos)
+- **[[#3. Hiding and Showing]]** (3 videos)
+- **[[#4. Semantics and Interactivity]]** (7 videos)
+- **[[#5. Images, Graphics, and Media]]** (6 videos)
+- **[[#6. Practical Examples]]** (5 videos)
+- **[[#7. Proof and Pudding]]** (4 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simplifying web development with accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/simplifying-web-development-with-accessibility?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Back to Basics
+### 1. Back to Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overcomplicating things that already work
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/overcomplicating-things-that-already-work?u=76281980)
@@ -258,7 +262,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Accessible Design
+### 2. Accessible Design
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Designing an accessible color palette
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/designing-an-accessible-color-palette?u=76281980)
@@ -481,7 +487,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Hiding and Showing
+### 3. Hiding and Showing
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Is hiding or showing content a good idea?
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/is-hiding-or-showing-content-a-good-idea?u=76281980)
@@ -649,7 +657,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Semantics and Interactivity
+### 4. Semantics and Interactivity
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The role of semantic elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/the-role-of-semantic-elements?u=76281980)
@@ -1032,7 +1042,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 6. 5. Images, Graphics, and Media
+### 5. Images, Graphics, and Media
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Images, graphics, and media basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/images-graphics-and-media-basics?u=76281980)
@@ -1503,7 +1515,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 7. 6. Practical Examples
+### 6. Practical Examples
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Mobile-friendly navigation menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/mobile-friendly-navigation-menu?u=76281980)
@@ -2290,7 +2304,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Proof and Pudding
+### 7. Proof and Pudding
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Simplifying web development with accessibility best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/simplifying-web-development-with-accessibility-best-practices?u=76281980)
@@ -2709,7 +2725,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessibility mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/accessibility-mindset?u=76281980)

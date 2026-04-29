@@ -8,7 +8,7 @@ linkedin_topics:
   - Cloud Computing
   - DevOps
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/cloud-computing

@@ -45,13 +45,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Getting Started** (2 videos)
-- **2. 1. Relationships** (20 videos)
-- **3. 2. Dynamic Design** (12 videos)
-- **4. 3. Parameter and Set Actions** (15 videos)
-- **5. 4. Geospatial Mapping** (16 videos)
-- **6. 5. Advanced Calculations** (15 videos)
-- **7. 6. Predictive Analytics** (10 videos)
+- **[[#1. Getting Started]]** (2 videos)
+- **[[#2. 1. Relationships]]** (20 videos)
+- **[[#3. 2. Dynamic Design]]** (12 videos)
+- **[[#4. 3. Parameter and Set Actions]]** (15 videos)
+- **[[#5. 4. Geospatial Mapping]]** (16 videos)
+- **[[#6. 5. Advanced Calculations]]** (15 videos)
+- **[[#7. 6. Predictive Analytics]]** (10 videos)
 
 ### 1. Getting Started
 

@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Cloud Concepts** (4 videos)
-- **3. 2. Core Azure Services** (6 videos)
-- **4. 3. Identity, Governance, Privacy, and Compliance** (9 videos)
-- **5. 4. Cloud and Network Security** (7 videos)
-- **6. 5. Core Solutions and Management Tools** (6 videos)
-- **7. 6. Planning and Cost Management** (4 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Cloud Concepts]]** (4 videos)
+- **[[#3. 2. Core Azure Services]]** (6 videos)
+- **[[#4. 3. Identity, Governance, Privacy, and Compliance]]** (9 videos)
+- **[[#5. 4. Cloud and Network Security]]** (7 videos)
+- **[[#6. 5. Core Solutions and Management Tools]]** (6 videos)
+- **[[#7. 6. Planning and Cost Management]]** (4 videos)
 
 ### 1. Introduction
 

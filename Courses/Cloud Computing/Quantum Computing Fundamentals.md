@@ -48,16 +48,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (4 videos)
-- **2. 1. Quantum Bits** (12 videos)
-- **3. 2. Multiple Quantum Bits** (3 videos)
-- **4. 3. Single-Qubit Pauli Gates** (10 videos)
-- **5. 4. Single-Qubit Superposition Gates** (10 videos)
-- **6. 5. Multi-Qubit Gates** (8 videos)
-- **7. 6. Quantum Entanglement** (5 videos)
-- **8. 7. Real Quantum Hardware** (3 videos)
-- **9. 8. Quantum Algorithms** (6 videos)
-- **10. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (4 videos)
+- **[[#2. 1. Quantum Bits]]** (12 videos)
+- **[[#3. 2. Multiple Quantum Bits]]** (3 videos)
+- **[[#4. 3. Single-Qubit Pauli Gates]]** (10 videos)
+- **[[#5. 4. Single-Qubit Superposition Gates]]** (10 videos)
+- **[[#6. 5. Multi-Qubit Gates]]** (8 videos)
+- **[[#7. 6. Quantum Entanglement]]** (5 videos)
+- **[[#8. 7. Real Quantum Hardware]]** (3 videos)
+- **[[#9. 8. Quantum Algorithms]]** (6 videos)
+- **[[#10. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

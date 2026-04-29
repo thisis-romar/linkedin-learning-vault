@@ -46,17 +46,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Get Started with Power BI** (3 videos)
-- **3. 2. Get Data** (8 videos)
-- **4. 3. Create a Report with Visualizations** (12 videos)
-- **5. 4. Modify and Print a Report** (5 videos)
-- **6. 5. Create a Dashboard** (8 videos)
-- **7. 6. Share Data with Colleagues and Others** (9 videos)
-- **8. 7. Use Power BI Desktop to Model Data** (8 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Get Started with Power BI]]** (3 videos)
+- **[[#2. Get Data]]** (8 videos)
+- **[[#3. Create a Report with Visualizations]]** (12 videos)
+- **[[#4. Modify and Print a Report]]** (5 videos)
+- **[[#5. Create a Dashboard]]** (8 videos)
+- **[[#6. Share Data with Colleagues and Others]]** (9 videos)
+- **[[#7. Use Power BI Desktop to Model Data]]** (8 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Get the competitive edge in business analysis with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/get-the-competitive-edge-in-business-analysis-with-power-bi?u=76281980)
@@ -182,7 +184,9 @@ created: 2026-04-28
 > **Analogies:** for example (1)
 
 
-### 2. 1. Get Started with Power BI
+### 1. Get Started with Power BI
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Power BI concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/overview-power-bi-concepts?u=76281980)
@@ -477,7 +481,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Get Data
+### 2. Get Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Power BI data sources for Power BI service
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/power-bi-data-sources-for-power-bi-service?u=76281980)
@@ -949,7 +955,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Create a Report with Visualizations
+### 3. Create a Report with Visualizations
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Visualizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/overview-visualizations?u=76281980)
@@ -2357,7 +2365,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Modify and Print a Report
+### 4. Modify and Print a Report
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Manage report pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/manage-report-pages?u=76281980)
@@ -2787,7 +2797,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 6. 5. Create a Dashboard
+### 5. Create a Dashboard
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Power BI dashboard: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/power-bi-dashboard-the-basics?u=76281980)
@@ -3424,7 +3436,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. 6. Share Data with Colleagues and Others
+### 6. Share Data with Colleagues and Others
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Overview: Sharing reports and dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/overview-sharing-reports-and-dashboards?u=76281980)
@@ -4113,7 +4127,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 8. 7. Use Power BI Desktop to Model Data
+### 7. Use Power BI Desktop to Model Data
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Install and launch Power BI Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/install-and-launch-power-bi-desktop?u=76281980)
@@ -4980,7 +4996,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learn more about Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-essential-training-25882735/learn-more-about-power-bi?u=76281980)

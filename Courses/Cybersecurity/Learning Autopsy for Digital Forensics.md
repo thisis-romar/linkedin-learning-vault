@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Preparing Autopsy** (7 videos)
-- **3. 2. Ingest Modules** (6 videos)
-- **4. 3. Reviewing Results** (3 videos)
-- **5. 4. Searching and Reporting** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Preparing Autopsy]]** (7 videos)
+- **[[#2. Ingest Modules]]** (6 videos)
+- **[[#3. Reviewing Results]]** (3 videos)
+- **[[#4. Searching and Reporting]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Hey, where's the data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980)
@@ -116,7 +118,9 @@ created: 2026-04-28
 > **Speakers:** - h (1)
 
 
-### 2. 1. Preparing Autopsy
+### 1. Preparing Autopsy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction and installation of Autopsy
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/introduction-and-installation-of-autopsy?u=76281980)
@@ -606,7 +610,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Ingest Modules
+### 2. Ingest Modules
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Utilizing Automated Analysis in Autopsy
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980)
@@ -1208,7 +1214,9 @@ created: 2026-04-28
 > **Speakers:** - [illustrator] (1)
 
 
-### 4. 3. Reviewing Results
+### 3. Reviewing Results
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### UI layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980)
@@ -1654,7 +1662,9 @@ created: 2026-04-28
 > **Speakers:** - [trainer] (1)
 
 
-### 5. 4. Searching and Reporting
+### 4. Searching and Reporting
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Searching for keywords and files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980)
@@ -2118,7 +2128,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps: Create your own case and analyze your files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/next-steps-create-your-own-case-and-analyze-your-files?u=76281980)

@@ -42,14 +42,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. What Is IT Risk Management?** (6 videos)
-- **3. 2. IT Risk Management in Context** (6 videos)
-- **4. 3. IT Risk Management in Practice** (6 videos)
-- **5. 4. IT Risk Management on the Job** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. What Is IT Risk Management?]]** (6 videos)
+- **[[#2. IT Risk Management in Context]]** (6 videos)
+- **[[#3. IT Risk Management in Practice]]** (6 videos)
+- **[[#4. IT Risk Management on the Job]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Managing risk in IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980)
@@ -80,7 +82,9 @@ created: 2026-04-28
 > **Speakers:** - it (1)
 
 
-### 2. 1. What Is IT Risk Management?
+### 1. What Is IT Risk Management?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is IT risk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980)
@@ -466,7 +470,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. IT Risk Management in Context
+### 2. IT Risk Management in Context
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### IT risk management in small companies
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-small-companies-14512317?u=76281980)
@@ -908,7 +914,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. IT Risk Management in Practice
+### 3. IT Risk Management in Practice
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Performing the IT risk assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980)
@@ -1368,7 +1376,9 @@ created: 2026-04-28
 > **Prerequisites:** required to (1)
 
 
-### 5. 4. IT Risk Management on the Job
+### 4. IT Risk Management on the Job
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Choosing the right IT risk management technique
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980)
@@ -1760,7 +1770,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps with managing risk in IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980)

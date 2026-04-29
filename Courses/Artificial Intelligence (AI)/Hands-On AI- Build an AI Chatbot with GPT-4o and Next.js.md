@@ -57,15 +57,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Project Setup and Foundation** (3 videos)
-- **3. 2. Integrating the Vercel AI SDK** (3 videos)
-- **4. 3. Setting Up the Client-Side Database** (3 videos)
-- **5. 4. Building the Chat Interface and Logic** (4 videos)
-- **6. 5. Implementing Chat Title Generation** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Project Setup and Foundation]]** (3 videos)
+- **[[#2. Integrating the Vercel AI SDK]]** (3 videos)
+- **[[#3. Setting Up the Client-Side Database]]** (3 videos)
+- **[[#4. Building the Chat Interface and Logic]]** (4 videos)
+- **[[#5. Implementing Chat Title Generation]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build an AI chatbot
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/build-an-ai-chatbot?u=76281980)
@@ -216,7 +218,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Project Setup and Foundation
+### 1. Project Setup and Foundation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Getting your environment and Codespaces set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/getting-your-environment-and-codespaces-setup?u=76281980)
@@ -435,7 +439,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 3. 2. Integrating the Vercel AI SDK
+### 2. Integrating the Vercel AI SDK
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Setting up Vercel AI SDK and GitHub models
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/setting-up-vercel-ai-sdk-and-github-models?u=76281980)
@@ -729,7 +735,9 @@ created: 2026-04-28
 > **Warnings:** note that (2)
 
 
-### 4. 3. Setting Up the Client-Side Database
+### 3. Setting Up the Client-Side Database
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding IndexedDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/understanding-indexeddb?u=76281980)
@@ -1008,7 +1016,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Building the Chat Interface and Logic
+### 4. Building the Chat Interface and Logic
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Building the ChatThread component
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/building-the-chatthread-component?u=76281980)
@@ -2121,7 +2131,9 @@ created: 2026-04-28
 > **Versions:** 1.5 (1)
 
 
-### 6. 5. Implementing Chat Title Generation
+### 5. Implementing Chat Title Generation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Creating the chat title generation API
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/creating-the-chat-title-generation-api?u=76281980)
@@ -2402,7 +2414,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Testing features and course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js/testing-features-and-course-conclusion?u=76281980)

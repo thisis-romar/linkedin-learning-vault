@@ -42,15 +42,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Competency: A Trust Driver** (1 videos)
-- **3. 2. Empathy: A Trust Driver** (4 videos)
-- **4. 3. Authenticity: A Trust Driver** (3 videos)
-- **5. 4. Team Trust** (3 videos)
-- **6. 5. Lost Trust** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Competency: A Trust Driver]]** (1 videos)
+- **[[#2. Empathy: A Trust Driver]]** (4 videos)
+- **[[#3. Authenticity: A Trust Driver]]** (3 videos)
+- **[[#4. Team Trust]]** (3 videos)
+- **[[#5. Lost Trust]]** (2 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why trust matters more than ever
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/why-trust-matters-more-than-ever?u=76281980)
@@ -166,7 +168,9 @@ created: 2026-04-28
 > **Speakers:** - trust (1)
 
 
-### 2. 1. Competency: A Trust Driver
+### 1. Competency: A Trust Driver
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Be results focused
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980)
@@ -296,7 +300,9 @@ created: 2026-04-28
 > **Speakers:** - as (1)
 
 
-### 3. 2. Empathy: A Trust Driver
+### 2. Empathy: A Trust Driver
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Convey your warmth and concern
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/convey-your-warmth-and-concern?u=76281980)
@@ -643,7 +649,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 4. 3. Authenticity: A Trust Driver
+### 3. Authenticity: A Trust Driver
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Make sure your actions match your words
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980)
@@ -900,7 +908,9 @@ created: 2026-04-28
 > **Speakers:** - wouldn (1)
 
 
-### 5. 4. Team Trust
+### 4. Team Trust
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Build team trust by extending trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/build-team-trust-by-extending-trust?u=76281980)
@@ -1142,7 +1152,9 @@ created: 2026-04-28
 > **Cross-References:** we discussed (1)
 
 
-### 6. 5. Lost Trust
+### 5. Lost Trust
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### How to manage a betrayal
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/how-to-manage-a-betrayal?u=76281980)
@@ -1333,7 +1345,9 @@ created: 2026-04-28
 > **Analogies:** imagine (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Evolve with the shifting workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/evolve-with-the-shifting-workplace?u=76281980)

@@ -52,16 +52,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. You're More Different than You Think** (3 videos)
-- **3. 2. Overcoming Barriers of Experience** (3 videos)
-- **4. 3. Overcoming Barriers of Motivation** (3 videos)
-- **5. 4. Overcoming Barriers of Perspective** (4 videos)
-- **6. 5. Overcoming Barriers of Style** (3 videos)
-- **7. 6. Using Your New Communication Skills** (6 videos)
-- **8. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. You're More Different than You Think]]** (3 videos)
+- **[[#2. Overcoming Barriers of Experience]]** (3 videos)
+- **[[#3. Overcoming Barriers of Motivation]]** (3 videos)
+- **[[#4. Overcoming Barriers of Perspective]]** (4 videos)
+- **[[#5. Overcoming Barriers of Style]]** (3 videos)
+- **[[#6. Using Your New Communication Skills]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Strategies to communicate to wider audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/strategies-to-communicate-to-wider-audience?u=76281980)
@@ -172,7 +174,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 2. 1. You're More Different than You Think
+### 1. You're More Different than You Think
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Three types of intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980)
@@ -382,7 +386,9 @@ created: 2026-04-28
 > **Speakers:** - there (1)
 
 
-### 3. 2. Overcoming Barriers of Experience
+### 2. Overcoming Barriers of Experience
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using words that people know
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980)
@@ -585,7 +591,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 4. 3. Overcoming Barriers of Motivation
+### 3. Overcoming Barriers of Motivation
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why don't they care?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-they-care?u=76281980)
@@ -782,7 +790,9 @@ created: 2026-04-28
 > **Env Vars:** cms (1)
 
 
-### 5. 4. Overcoming Barriers of Perspective
+### 4. Overcoming Barriers of Perspective
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your success isn't their success
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980)
@@ -1062,7 +1072,9 @@ created: 2026-04-28
 > **Speakers:** - a (1)
 
 
-### 6. 5. Overcoming Barriers of Style
+### 5. Overcoming Barriers of Style
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Learning about your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980)
@@ -1263,7 +1275,9 @@ created: 2026-04-28
 > **Speakers:** - every (1)
 
 
-### 7. 6. Using Your New Communication Skills
+### 6. Using Your New Communication Skills
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Communicating with clients
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980)
@@ -1665,7 +1679,9 @@ created: 2026-04-28
 > **Speakers:** - now (1)
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Further strengthen communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/further-strengthen-communication?u=76281980)

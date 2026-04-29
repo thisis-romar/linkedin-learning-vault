@@ -50,15 +50,15 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Introduction to Scripting and the Python Language** (6 videos)
-- **3. 2. Strings, Numbers, and Variables** (6 videos)
-- **4. 3. Getting to ArcGIS with Python** (8 videos)
-- **5. 4. Using List Functions to Get to the ArcGIS Objects** (10 videos)
-- **6. 5. Reading from and Writing to a File** (5 videos)
-- **7. 6. Attaching Your Script to a Tool in ArcGIS Pro** (2 videos)
-- **8. 7. Creating Help Documentation for a Script** (1 videos)
-- **9. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Introduction to Scripting and the Python Language]]** (6 videos)
+- **[[#3. 2. Strings, Numbers, and Variables]]** (6 videos)
+- **[[#4. 3. Getting to ArcGIS with Python]]** (8 videos)
+- **[[#5. 4. Using List Functions to Get to the ArcGIS Objects]]** (10 videos)
+- **[[#6. 5. Reading from and Writing to a File]]** (5 videos)
+- **[[#7. 6. Attaching Your Script to a Tool in ArcGIS Pro]]** (2 videos)
+- **[[#8. 7. Creating Help Documentation for a Script]]** (1 videos)
+- **[[#9. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

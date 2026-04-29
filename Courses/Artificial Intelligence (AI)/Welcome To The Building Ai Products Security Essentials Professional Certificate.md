@@ -48,9 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
+- **[[#Introduction]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Securing AI products: Your path to success
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-security-essentials-professional-certificate/securing-ai-products-your-path-to-success?u=76281980)

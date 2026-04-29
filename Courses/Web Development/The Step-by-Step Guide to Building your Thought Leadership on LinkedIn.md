@@ -46,14 +46,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Who Am I?** (2 videos)
-- **3. 2. Positioning Yourself as a SME** (3 videos)
-- **4. 3. Thought Leadership Strategy** (2 videos)
-- **5. 4. Courageous Content** (3 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (1 videos)
+- **[[#1. Who Am I?]]** (2 videos)
+- **[[#2. Positioning Yourself as a SME]]** (3 videos)
+- **[[#3. Thought Leadership Strategy]]** (2 videos)
+- **[[#4. Courageous Content]]** (3 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why become a thought leader on LinkedIn?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin?u=76281980)
@@ -93,7 +95,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 2. 1. Who Am I?
+### 1. Who Am I?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What values do you embody?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-values-do-you-embody?u=76281980)
@@ -279,7 +283,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 3. 2. Positioning Yourself as a SME
+### 2. Positioning Yourself as a SME
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What does your shop window say about you?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-does-your-shop-window-say-about-you?u=76281980)
@@ -530,7 +536,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 4. 3. Thought Leadership Strategy
+### 3. Thought Leadership Strategy
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Your thought leadership content map
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/your-thought-leadership-content-map?u=76281980)
@@ -674,7 +682,9 @@ created: 2026-04-28
 > **Speakers:** - when (1)
 
 
-### 5. 4. Courageous Content
+### 4. Courageous Content
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What holds you back?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-holds-you-back?u=76281980)
@@ -907,7 +917,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What impact will you make?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/what-impact-will-you-make?u=76281980)

@@ -49,14 +49,16 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Getting Started** (3 videos)
-- **3. 2. Registering New Users Handling Passwords** (9 videos)
-- **4. 3. Using Passport.js** (8 videos)
-- **5. 4. Single Sign-On (SSO)** (5 videos)
-- **6. Conclusion** (1 videos)
+- **[[#Introduction]]** (3 videos)
+- **[[#1. Getting Started]]** (3 videos)
+- **[[#2. Registering New Users Handling Passwords]]** (9 videos)
+- **[[#3. Using Passport.js]]** (8 videos)
+- **[[#4. Single Sign-On (SSO)]]** (5 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Real sites need authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980)
@@ -210,7 +212,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Getting Started
+### 1. Getting Started
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Prepare your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980)
@@ -465,7 +469,9 @@ created: 2026-04-28
 > **Prerequisites:** install (2), set up (1)
 
 
-### 3. 2. Registering New Users Handling Passwords
+### 2. Registering New Users Handling Passwords
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Registering new users
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980)
@@ -1671,7 +1677,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 4. 3. Using Passport.js
+### 3. Using Passport.js
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Using Passport.js for authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980)
@@ -2682,7 +2690,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. Single Sign-On (SSO)
+### 4. Single Sign-On (SSO)
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Authentication, authorization, and single sign-on (SSO)
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980)
@@ -3729,7 +3739,9 @@ created: 2026-04-28
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 
 
-### 6. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980)

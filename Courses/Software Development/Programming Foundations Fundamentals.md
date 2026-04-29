@@ -56,16 +56,18 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Programming Basics** (5 videos)
-- **3. 2. Programming Syntax** (10 videos)
-- **4. 3. Variables and Data Types** (8 videos)
-- **5. 4. Conditional Code** (6 videos)
-- **6. 5. Modular Code** (7 videos)
-- **7. Glossaries** (0 videos)
-- **8. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Programming Basics]]** (5 videos)
+- **[[#2. Programming Syntax]]** (10 videos)
+- **[[#3. Variables and Data Types]]** (8 videos)
+- **[[#4. Conditional Code]]** (6 videos)
+- **[[#5. Modular Code]]** (7 videos)
+- **[[#Glossaries]]** (0 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The fundamentals of programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?u=76281980)
@@ -140,7 +142,9 @@ created: 2026-04-28
 > **Speakers:** - throughout (1)
 
 
-### 2. 1. Programming Basics
+### 1. Programming Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-programming?u=76281980)
@@ -553,7 +557,9 @@ created: 2026-04-28
 > **Analogies:** such as (2)
 
 
-### 3. 2. Programming Syntax
+### 2. Programming Syntax
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why Python?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980)
@@ -1429,7 +1435,9 @@ created: 2026-04-28
 > **Tools:** command line (1)
 
 
-### 4. 3. Variables and Data Types
+### 3. Variables and Data Types
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to variables and data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980)
@@ -2152,7 +2160,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 5. 4. Conditional Code
+### 4. Conditional Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Making decisions in code
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/making-decisions-in-code?u=76281980)
@@ -2698,7 +2708,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. Modular Code
+### 5. Modular Code
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-functions?u=76281980)
@@ -3314,10 +3326,14 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. Glossaries
+### Glossaries
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 
-### 8. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Exploring languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980)

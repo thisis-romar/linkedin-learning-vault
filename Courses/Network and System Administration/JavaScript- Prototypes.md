@@ -52,11 +52,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Building Blocks of Prototypes** (3 videos)
-- **3. 2. Using Prototypal Inheritance** (4 videos)
-- **4. 3. Using ES6 Classes** (2 videos)
-- **5. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (2 videos)
+- **[[#2. 1. Building Blocks of Prototypes]]** (3 videos)
+- **[[#3. 2. Using Prototypal Inheritance]]** (4 videos)
+- **[[#4. 3. Using ES6 Classes]]** (2 videos)
+- **[[#5. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

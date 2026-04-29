@@ -49,13 +49,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1. Understanding Design Patterns** (6 videos)
-- **3. 2. Creational Patterns** (12 videos)
-- **4. 3. Structural Patterns** (12 videos)
-- **5. 4. Behavioral Patterns** (12 videos)
-- **6. 5. Design Best Practices** (2 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1. Understanding Design Patterns]]** (6 videos)
+- **[[#3. 2. Creational Patterns]]** (12 videos)
+- **[[#4. 3. Structural Patterns]]** (12 videos)
+- **[[#5. 4. Behavioral Patterns]]** (12 videos)
+- **[[#6. 5. Design Best Practices]]** (2 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

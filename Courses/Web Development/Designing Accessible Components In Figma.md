@@ -48,12 +48,14 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Accessible Components** (8 videos)
-- **3. 2. Advanced Components** (6 videos)
-- **4. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Accessible Components]]** (8 videos)
+- **[[#2. Advanced Components]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Why does accessibility matter in Figma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980)
@@ -145,7 +147,9 @@ created: 2026-04-28
 > **Speakers:** - [tetiana] (1)
 
 
-### 2. 1. Accessible Components
+### 1. Accessible Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Style your components
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980)
@@ -1078,7 +1082,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 3. 2. Advanced Components
+### 2. Advanced Components
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Accessible header menus
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-header-menus?u=76281980)
@@ -1617,7 +1623,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat synth music) (1)
 
 
-### 4. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Continue designing accessible components
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980)

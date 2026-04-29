@@ -51,15 +51,17 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. The Value of Blockchain Technology** (3 videos)
-- **3. 2. How Does Blockchain Work?** (3 videos)
-- **4. 3. How Blockchain Enables Cryptocurrencies** (3 videos)
-- **5. 4. The Blockchain Universe** (4 videos)
-- **6. 5. Blockchain in Context** (3 videos)
-- **7. Conclusion** (2 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. The Value of Blockchain Technology]]** (3 videos)
+- **[[#2. How Does Blockchain Work?]]** (3 videos)
+- **[[#3. How Blockchain Enables Cryptocurrencies]]** (3 videos)
+- **[[#4. The Blockchain Universe]]** (4 videos)
+- **[[#5. Blockchain in Context]]** (3 videos)
+- **[[#Conclusion]]** (2 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Blockchain technology offers unique capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-technology-offers-unique-capabilities?u=76281980)
@@ -141,7 +143,9 @@ created: 2026-04-28
 > **Speakers:** - since (1)
 
 
-### 2. 1. The Value of Blockchain Technology
+### 1. The Value of Blockchain Technology
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What's the business case for blockchain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/what-s-the-business-case-for-blockchain?u=76281980)
@@ -376,7 +380,9 @@ created: 2026-04-28
 > **Speakers:** - if (1)
 
 
-### 3. 2. How Does Blockchain Work?
+### 2. How Does Blockchain Work?
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### What is distributed ledger technology (DLT)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/what-is-distributed-ledger-technology-dlt?u=76281980)
@@ -668,7 +674,9 @@ created: 2026-04-28
 > **Speakers:** - i (1)
 
 
-### 4. 3. How Blockchain Enables Cryptocurrencies
+### 3. How Blockchain Enables Cryptocurrencies
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Brief history of Bitcoin
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/brief-history-of-bitcoin?u=76281980)
@@ -943,7 +951,9 @@ created: 2026-04-28
 > **Speakers:** - for (1)
 
 
-### 5. 4. The Blockchain Universe
+### 4. The Blockchain Universe
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Difference between public and private blockchains
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/difference-between-public-and-private-blockchains?u=76281980)
@@ -1241,7 +1251,9 @@ created: 2026-04-28
 > **Speakers:** - although (1)
 
 
-### 6. 5. Blockchain in Context
+### 5. Blockchain in Context
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Blockchain use case: Cross-border payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-use-case-cross-border-payments?u=76281980)
@@ -1457,7 +1469,9 @@ created: 2026-04-28
 > **Speakers:** - in (1)
 
 
-### 7. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### The risks and opportunities ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/the-risks-and-opportunities-ahead?u=76281980)

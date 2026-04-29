@@ -56,13 +56,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (3 videos)
-- **2. 1.The Basics** (6 videos)
-- **3. 2. Economic Data Analysis** (5 videos)
-- **4. 3. Forecasting Economic Trends** (6 videos)
-- **5. 4. Using Economic Forecasts** (3 videos)
-- **6. 5. Economic Data** (4 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (3 videos)
+- **[[#2. 1.The Basics]]** (6 videos)
+- **[[#3. 2. Economic Data Analysis]]** (5 videos)
+- **[[#4. 3. Forecasting Economic Trends]]** (6 videos)
+- **[[#5. 4. Using Economic Forecasts]]** (3 videos)
+- **[[#6. 5. Economic Data]]** (4 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 

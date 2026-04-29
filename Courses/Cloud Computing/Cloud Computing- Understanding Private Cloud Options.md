@@ -48,17 +48,19 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (2 videos)
-- **2. 1. Private Cloud Basics** (6 videos)
-- **3. 2. Private Cloud Platforms** (11 videos)
-- **4. 3. Private Clouds within Multicloud and Hybrid Clouds** (6 videos)
-- **5. 4. OpenStack** (7 videos)
-- **6. 5. AWS Outposts** (7 videos)
-- **7. 6. Microsoft Stack** (7 videos)
-- **8. 7. Private Cloud Deployment** (6 videos)
-- **9. Conclusion** (1 videos)
+- **[[#Introduction]]** (2 videos)
+- **[[#1. Private Cloud Basics]]** (6 videos)
+- **[[#2. Private Cloud Platforms]]** (11 videos)
+- **[[#3. Private Clouds within Multicloud and Hybrid Clouds]]** (6 videos)
+- **[[#4. OpenStack]]** (7 videos)
+- **[[#5. AWS Outposts]]** (7 videos)
+- **[[#6. Microsoft Stack]]** (7 videos)
+- **[[#7. Private Cloud Deployment]]** (6 videos)
+- **[[#Conclusion]]** (1 videos)
 
-### 1. Introduction
+### Introduction
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Understanding private clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980)
@@ -111,7 +113,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 2. 1. Private Cloud Basics
+### 1. Private Cloud Basics
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Private versus public cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980)
@@ -403,7 +407,9 @@ created: 2026-04-28
 > **Speakers:** - [narrator] (1)
 
 
-### 3. 2. Private Cloud Platforms
+### 2. Private Cloud Platforms
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Types of private clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980)
@@ -924,7 +930,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 4. 3. Private Clouds within Multicloud and Hybrid Clouds
+### 3. Private Clouds within Multicloud and Hybrid Clouds
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Introduction to private clouds within multiclouds and hybrid clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980)
@@ -1213,7 +1221,9 @@ created: 2026-04-28
 > **Speakers:** - [instructor] (1)
 
 
-### 5. 4. OpenStack
+### 4. OpenStack
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### OpenStack compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980)
@@ -1537,7 +1547,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 6. 5. AWS Outposts
+### 5. AWS Outposts
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### AWS Outposts compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980)
@@ -1863,7 +1875,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 7. 6. Microsoft Stack
+### 6. Microsoft Stack
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Microsoft Stack compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980)
@@ -2163,7 +2177,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 8. 7. Private Cloud Deployment
+### 7. Private Cloud Deployment
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Should I leverage a private cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980)
@@ -2475,7 +2491,9 @@ created: 2026-04-28
 > **Non-Speech:** (upbeat music) (1)
 
 
-### 9. Conclusion
+### Conclusion
+
+> [[#Table of Contents|↑ Back to Table of Contents]]
 
 #### Going deeper with private clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980)

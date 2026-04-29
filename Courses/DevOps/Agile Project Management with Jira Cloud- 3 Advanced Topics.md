@@ -48,11 +48,11 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Filters** (3 videos)
-- **3. 2. Epics** (3 videos)
-- **4. 3. Dashboards** (2 videos)
-- **5. 4. Putting It All Together** (3 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Filters]]** (3 videos)
+- **[[#3. 2. Epics]]** (3 videos)
+- **[[#4. 3. Dashboards]]** (2 videos)
+- **[[#5. 4. Putting It All Together]]** (3 videos)
 
 ### 1. Introduction
 

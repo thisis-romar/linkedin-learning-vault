@@ -46,13 +46,13 @@ created: 2026-04-28
 
 ### Chapter Overview
 
-- **1. Introduction** (1 videos)
-- **2. 1. Intro to Marketing Data** (4 videos)
-- **3. 2. Marketing Data Metrics and Goals** (3 videos)
-- **4. 3. Utilizing Data Visualization** (3 videos)
-- **5. 4. Evaluating Your Marketing** (4 videos)
-- **6. 5. Resources for Business Analytics** (3 videos)
-- **7. Conclusion** (1 videos)
+- **[[#1. Introduction]]** (1 videos)
+- **[[#2. 1. Intro to Marketing Data]]** (4 videos)
+- **[[#3. 2. Marketing Data Metrics and Goals]]** (3 videos)
+- **[[#4. 3. Utilizing Data Visualization]]** (3 videos)
+- **[[#5. 4. Evaluating Your Marketing]]** (4 videos)
+- **[[#6. 5. Resources for Business Analytics]]** (3 videos)
+- **[[#7. Conclusion]]** (1 videos)
 
 ### 1. Introduction
 
