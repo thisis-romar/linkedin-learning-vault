@@ -59,18 +59,69 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Cyber Threats]]** (12 videos)
-- **[[#2. Frameworks for Protection against Cyber Threats]]** (12 videos)
-- **[[#3. Making Cybersecurity Effective]]** (10 videos)
-- **[[#4. Detecting and Managing Cyber Incidents]]** (6 videos)
-- **[[#5. Cybersecurity and AI]]** (4 videos)
-- **[[#6. Cyber Diplomacy]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understanding the cybersecurity frameworks and standards
+  - What you should know
+- [**1. Cyber Threats**](#1-cyber-threats) (12 videos)
+  - Understanding the Cyber Kill Chain
+  - Pre-cyber threats
+  - The emergence of the cyber threats
+  - Botnets and the cybercrime industry
+  - Cloaking and alternate data streams
+  - Hiding using processes
+  - Controlling the target through a rootkit
+  - Phishing and watering holes
+  - Understanding advanced persistent threats
+  - Ransomware: A modern form of extortion
+  - Cryptomining
+  - Hardware implants and other cyber FUD
+- [**2. Frameworks for Protection against Cyber Threats**](#2-frameworks-for-protection-against-cyber-threats) (12 videos)
+  - The Orange Book: Early concepts in computer security
+  - Understanding the NIST Cybersecurity Framework
+  - Adopting the NIST Cybersecurity Framework
+  - Understanding the basics of cyber risk
+  - Analyzing cyber threats and controls
+  - Recording, reporting, and the risk context
+  - An advanced risk framework
+  - Managing security with COBIT
+  - COBIT for operational security
+  - Introduction to cybersecurity controls
+  - Cybersecurity control framework
+  - Cybersecurity standards of good practice
+- [**3. Making Cybersecurity Effective**](#3-making-cybersecurity-effective) (10 videos)
+  - Architecting for security
+  - Protecting payment card data
+  - Clouding the issues
+  - Securing things on the internet
+  - Affordable cybersecurity
+  - Ensuring security is effective
+  - Protecting privacy with cybersecurity
+  - Understanding the zero trust approach to network access
+  - Resilience as an emerging approach
+  - Ensuring supply chain security through SBOMs
+- [**4. Detecting and Managing Cyber Incidents**](#4-detecting-and-managing-cyber-incidents) (6 videos)
+  - Incident management basics
+  - Measuring incident management maturity
+  - Detecting an attack
+  - Hunting for threats
+  - Responding to an incident
+  - Communications plan and notification
+- [**5. Cybersecurity and AI**](#5-cybersecurity-and-ai) (4 videos)
+  - Intoduction to AI security
+  - Understand the AI threats
+  - AI application guardrails
+  - ISO42001 AI Management System
+- [**6. Cyber Diplomacy**](#6-cyber-diplomacy) (4 videos)
+  - Cybersecurity goes global
+  - Understanding cyber norms
+  - Cybil and the Global Forum on Cyber Expertise
+  - The Traffic Light Protocol
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the cybersecurity frameworks and standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cybersecurity-frameworks-and-standards?u=76281980)
@@ -122,7 +173,7 @@ created: 2026-04-29
 
 ### 1. Cyber Threats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the Cyber Kill Chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/understanding-the-cyber-kill-chain?u=76281980)
@@ -1170,7 +1221,7 @@ created: 2026-04-29
 
 ### 2. Frameworks for Protection against Cyber Threats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Orange Book: Early concepts in computer security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/the-orange-book-early-concepts-in-computer-security?u=76281980)
@@ -1931,7 +1982,7 @@ created: 2026-04-29
 
 ### 3. Making Cybersecurity Effective
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecting for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/architecting-for-security?u=76281980)
@@ -2677,7 +2728,7 @@ created: 2026-04-29
 
 ### 4. Detecting and Managing Cyber Incidents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Incident management basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/incident-management-basics?u=76281980)
@@ -3116,7 +3167,7 @@ created: 2026-04-29
 
 ### 5. Cybersecurity and AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intoduction to AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/intoduction-to-ai-security?u=76281980)
@@ -3405,7 +3456,7 @@ created: 2026-04-29
 
 ### 6. Cyber Diplomacy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity goes global
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/cybersecurity-goes-global?u=76281980)
@@ -3647,7 +3698,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-22006082/what-s-next?u=76281980)

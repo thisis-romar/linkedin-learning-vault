@@ -39,17 +39,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Patterns Overview]]** (5 videos)
-- **[[#2. Page Structure and Organization]]** (5 videos)
-- **[[#3. Form and Data Controls]]** (8 videos)
-- **[[#4. Indicating Progress and Feedback]]** (5 videos)
-- **[[#5. Search and Filtering]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Using design patterns
+- [**1. Patterns Overview**](#1-patterns-overview) (5 videos)
+  - What is a design pattern?
+  - Why are design patterns useful?
+  - Design pattern library vs. style guides
+  - When to break a pattern
+  - Anti patterns or dark patterns
+- [**2. Page Structure and Organization**](#2-page-structure-and-organization) (5 videos)
+  - Global navigation
+  - Cards
+  - Tabs
+  - Side navigation
+  - Accordions
+- [**3. Form and Data Controls**](#3-form-and-data-controls) (8 videos)
+  - Fitts's law, grouping, and cognitive load
+  - Text input
+  - Checkboxes, radio buttons, and dropdowns
+  - Tooltips and popovers
+  - Buttons
+  - Links and breadcrumbs
+  - Toggle switches
+  - Modals
+- [**4. Indicating Progress and Feedback**](#4-indicating-progress-and-feedback) (5 videos)
+  - Feedback in UX
+  - System messaging
+  - Progress indicators
+  - Progress meters
+  - Progress indicators: Spinners
+- [**5. Search and Filtering**](#5-search-and-filtering) (4 videos)
+  - Search input
+  - Autocomplete
+  - Search results
+  - Filtering
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next Steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/using-design-patterns?u=76281980)
@@ -79,7 +108,7 @@ created: 2026-04-29
 
 ### 1. Patterns Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/what-is-a-design-pattern?u=76281980)
@@ -386,7 +415,7 @@ created: 2026-04-29
 
 ### 2. Page Structure and Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Global navigation
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/global-navigation?u=76281980)
@@ -685,7 +714,7 @@ created: 2026-04-29
 
 ### 3. Form and Data Controls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fitts's law, grouping, and cognitive load
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/fitts-s-law-grouping-and-cognitive-load?u=76281980)
@@ -1168,7 +1197,7 @@ created: 2026-04-29
 
 ### 4. Indicating Progress and Feedback
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Feedback in UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/feedback-in-ux?u=76281980)
@@ -1439,7 +1468,7 @@ created: 2026-04-29
 
 ### 5. Search and Filtering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Search input
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/search-input?u=76281980)
@@ -1696,7 +1725,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-design-patterns-as-building-blocks/next-steps?u=76281980)

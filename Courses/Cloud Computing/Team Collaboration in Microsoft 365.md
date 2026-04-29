@@ -46,16 +46,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understand Microsoft 365 Accounts and Core Services]]** (4 videos)
-- **[[#2. Tools for Team Collaboration]]** (7 videos)
-- **[[#3. File Storage and Sharing]]** (5 videos)
-- **[[#4. Edit Word, Excel, and PowerPoint Documents Collaboratively]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Learn team collaboration tools in Microsoft 365
+- [**1. Understand Microsoft 365 Accounts and Core Services**](#1-understand-microsoft-365-accounts-and-core-services) (4 videos)
+  - Identify which Microsoft 365 services you have
+  - Manage multiple accounts
+  - Use Office 365 Groups
+  - Understand SharePoint
+- [**2. Tools for Team Collaboration**](#2-tools-for-team-collaboration) (7 videos)
+  - Use groups for email in Outlook
+  - Work with shared calendars in Outlook
+  - Invite people to scheduled meetings
+  - Communicate with coworkers using Yammer
+  - Manage conversations with Teams
+  - Manage tasks and projects with Planner
+  - Other tools with collaboration features
+- [**3. File Storage and Sharing**](#3-file-storage-and-sharing) (5 videos)
+  - Understand cloud storage
+  - Store and share files in OneDrive
+  - Use file libraries in Groups and SharePoint
+  - Store and share files in Teams
+  - Share files in Yammer
+- [**4. Edit Word, Excel, and PowerPoint Documents Collaboratively**](#4-edit-word-excel-and-powerpoint-documents-collaboratively) (4 videos)
+  - Edit Word, Excel, and PowerPoint documents online
+  - Share files from Word, Excel, or PowerPoint
+  - Add comments in a Word, Excel, or PowerPoint file
+  - Track changes in a Word document
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learn more about Microsoft 365 applications
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn team collaboration tools in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-team-collaboration-tools-in-microsoft-365?u=76281980)
@@ -87,7 +109,7 @@ created: 2026-04-29
 
 ### 1. Understand Microsoft 365 Accounts and Core Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify which Microsoft 365 services you have
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/identify-which-microsoft-365-services-you-have?u=76281980)
@@ -463,7 +485,7 @@ created: 2026-04-29
 
 ### 2. Tools for Team Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use groups for email in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/use-groups-for-email-in-outlook?u=76281980)
@@ -1277,7 +1299,7 @@ created: 2026-04-29
 
 ### 3. File Storage and Sharing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/understand-cloud-storage?u=76281980)
@@ -1781,7 +1803,7 @@ created: 2026-04-29
 
 ### 4. Edit Word, Excel, and PowerPoint Documents Collaboratively
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Edit Word, Excel, and PowerPoint documents online
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/edit-word-excel-and-powerpoint-documents-online?u=76281980)
@@ -2128,7 +2150,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more about Microsoft 365 applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/team-collaboration-in-microsoft-365/learn-more-about-microsoft-365-applications?u=76281980)

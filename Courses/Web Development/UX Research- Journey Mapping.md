@@ -44,15 +44,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Journey Mapping?]]** (4 videos)
-- **[[#2. Gathering Data for Your Journey Map]]** (2 videos)
-- **[[#3. Making Value-Driven Decisions]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The moments that matter
+- [**1. What Is Journey Mapping?**](#1-what-is-journey-mapping) (4 videos)
+  - The power of journey mapping
+  - Elements of a journey map
+  - Where to start
+  - Why emotions matter
+- [**2. Gathering Data for Your Journey Map**](#2-gathering-data-for-your-journey-map) (2 videos)
+  - Asking the right questions
+  - Getting data from your customers
+- [**3. Making Value-Driven Decisions**](#3-making-value-driven-decisions) (3 videos)
+  - Value-driven solutions for customers
+  - Spotting the opportunities
+  - Service blueprinting: A plan for backstage support
+- [**Conclusion**](#conclusion) (1 videos)
+  - The journey continues
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The moments that matter
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-moments-that-matter?u=76281980)
@@ -98,7 +109,7 @@ created: 2026-04-29
 
 ### 1. What Is Journey Mapping?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of journey mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-power-of-journey-mapping?u=76281980)
@@ -363,7 +374,7 @@ created: 2026-04-29
 
 ### 2. Gathering Data for Your Journey Map
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Asking the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/asking-the-right-questions?u=76281980)
@@ -540,7 +551,7 @@ created: 2026-04-29
 
 ### 3. Making Value-Driven Decisions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Value-driven solutions for customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/value-driven-solutions-for-customers?u=76281980)
@@ -735,7 +746,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The journey continues
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-journey-mapping/the-journey-continues?u=76281980)

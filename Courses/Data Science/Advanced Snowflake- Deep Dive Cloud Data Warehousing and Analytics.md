@@ -48,17 +48,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Table Structures in Snowflake]]** (8 videos)
-- **[[#2. Views in Snowflake]]** (6 videos)
-- **[[#3. Optimizing Query Performance]]** (8 videos)
-- **[[#4. Working with Semi-structured Data]]** (3 videos)
-- **[[#5. Managing Users and Granting Privileges]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Advanced Snowflake
+  - Snowflake architecture
+  - Getting set up with Snowflake
+- [**1. Table Structures in Snowflake**](#1-table-structures-in-snowflake) (8 videos)
+  - Micropartitioning and clustering
+  - Types of tables in Snowflake
+  - Creating permanent tables
+  - Creating temporary tables
+  - Creating transient tables
+  - Configuring data retention time
+  - Querying historical data
+  - Dropping and restoring tables
+- [**2. Views in Snowflake**](#2-views-in-snowflake) (6 videos)
+  - Non-materialized, materialized, and secure views
+  - Creating and populating tables
+  - Creating and querying views
+  - Recreating views
+  - Querying regular views and secure views
+  - Creating and querying materialized views
+- [**3. Optimizing Query Performance**](#3-optimizing-query-performance) (8 videos)
+  - Caching, clustering, and search optimization
+  - Loading data using COPY INTO
+  - Retrieval optimization using cached results
+  - Enabling clustering on tables
+  - Querying clustered tables
+  - Querying clustering information
+  - Running point lookup queries on search-optimized tables
+  - Clustering vs. search optimization
+- [**4. Working with Semi-structured Data**](#4-working-with-semi-structured-data) (3 videos)
+  - Loading and querying parquet data
+  - Loading JSON data
+  - Querying JSON data
+- [**5. Managing Users and Granting Privileges**](#5-managing-users-and-granting-privileges) (3 videos)
+  - Access control
+  - Creating users and viewing grants
+  - Granting privileges to roles
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/advanced-snowflake?u=76281980)
@@ -344,7 +376,7 @@ created: 2026-04-29
 
 ### 1. Table Structures in Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Micropartitioning and clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/micropartitioning-and-clustering?u=76281980)
@@ -1139,7 +1171,7 @@ created: 2026-04-29
 
 ### 2. Views in Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Non-materialized, materialized, and secure views
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/non-materialized-materialized-and-secure-views?u=76281980)
@@ -1657,7 +1689,7 @@ created: 2026-04-29
 
 ### 3. Optimizing Query Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Caching, clustering, and search optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/caching-clustering-and-search-optimization?u=76281980)
@@ -2561,7 +2593,7 @@ created: 2026-04-29
 
 ### 4. Working with Semi-structured Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading and querying parquet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/loading-and-querying-parquet-data?u=76281980)
@@ -2872,7 +2904,7 @@ created: 2026-04-29
 
 ### 5. Managing Users and Granting Privileges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/access-control?u=76281980)
@@ -3209,7 +3241,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics/summary-and-next-steps?u=76281980)

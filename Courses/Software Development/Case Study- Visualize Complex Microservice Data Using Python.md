@@ -52,17 +52,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Defining the Problem and Researching a Solution]]** (4 videos)
-- **[[#2. Learning PlantUML]]** (4 videos)
-- **[[#3. Planning for the Development]]** (3 videos)
-- **[[#4. Building a Python Script to Convert Data into PlantUML Code]]** (9 videos)
-- **[[#5. Going Above and Beyond]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - How to make an impact in your organization as an engineer
+  - Why use Python to build automation simple tools?
+  - Using GitHub Codespaces
+- [**1. Defining the Problem and Researching a Solution**](#1-defining-the-problem-and-researching-a-solution) (4 videos)
+  - What are microservices?
+  - Disadvantages of the microservice architecture
+  - How to solve for the challenges introduced by microservices
+  - How to research and find a technology that will help solve technical problems
+- [**2. Learning PlantUML**](#2-learning-plantuml) (4 videos)
+  - What is PlantUML?
+  - Experiment with PlantUML
+  - How can you work with PlantUML in a maintainable way?
+  - How to decide if PlantUML will work for a use case
+- [**3. Planning for the Development**](#3-planning-for-the-development) (3 videos)
+  - Create an implementation plan for the initiative
+  - How to convince your team to pursue the initiative
+  - Divide work into user stories
+- [**4. Building a Python Script to Convert Data into PlantUML Code**](#4-building-a-python-script-to-convert-data-into-plantuml-code) (9 videos)
+  - Establish input of the script
+  - Establish the output of the script
+  - Design implementation for script code
+  - Load JSON data from a file
+  - Iterate through JSON data and store effectively
+  - Write simple PlantUML code to a file
+  - Export PlantUML code to a PNG diagram with Python
+  - Add data to each node in the PlantUML graph
+  - Add edges to the PlantUML graph
+- [**5. Going Above and Beyond**](#5-going-above-and-beyond) (4 videos)
+  - Review your code for inefficiencies and unnecessary complication
+  - Create a README
+  - Add live call to generate live graph
+  - Prepare a demo for greater organization
+- [**Conclusion**](#conclusion) (1 videos)
+  - Contributing to your engineering organization
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make an impact in your organization as an engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-make-an-impact-in-your-organization-as-an-engineer?u=76281980)
@@ -196,7 +224,7 @@ created: 2026-04-29
 
 ### 1. Defining the Problem and Researching a Solution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are microservices?
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-are-microservices?u=76281980)
@@ -449,7 +477,7 @@ created: 2026-04-29
 
 ### 2. Learning PlantUML
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is PlantUML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-is-plantuml?u=76281980)
@@ -712,7 +740,7 @@ created: 2026-04-29
 
 ### 3. Planning for the Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an implementation plan for the initiative
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-an-implementation-plan-for-the-initiative?u=76281980)
@@ -891,7 +919,7 @@ created: 2026-04-29
 
 ### 4. Building a Python Script to Convert Data into PlantUML Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Establish input of the script
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980)
@@ -1581,7 +1609,7 @@ created: 2026-04-29
 
 ### 5. Going Above and Beyond
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review your code for inefficiencies and unnecessary complication
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/review-your-code-for-inefficiencies-and-unnecessary-complication?u=76281980)
@@ -1947,7 +1975,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Contributing to your engineering organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980)

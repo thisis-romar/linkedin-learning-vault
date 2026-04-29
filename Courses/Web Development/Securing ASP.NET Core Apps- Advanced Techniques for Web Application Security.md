@@ -49,15 +49,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Common Vulnerabilities in Apps]]** (6 videos)
-- **[[#2. Securing .NET Web Applications with Authentication]]** (8 videos)
-- **[[#3. Securing .NET Web API Applications with Authorization]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Secure your .NET Core apps
+  - What you should know
+- [**1. Common Vulnerabilities in Apps**](#1-common-vulnerabilities-in-apps) (6 videos)
+  - Common security vulnerabilities
+  - Injection attack
+  - File upload attack
+  - Authentication attack
+  - XSS and CSRF attack
+  - CORS attack
+- [**2. Securing .NET Web Applications with Authentication**](#2-securing-net-web-applications-with-authentication) (8 videos)
+  - What is authentication?
+  - Identity on ASP.NET Core
+  - Simple authentication with [Authorize] attribute
+  - Cookie-based authentication
+  - Social media provider authentication
+  - Email account verification
+  - API-key authentication
+  - Token-based authentication
+- [**3. Securing .NET Web API Applications with Authorization**](#3-securing-net-web-api-applications-with-authorization) (4 videos)
+  - What is authorization?
+  - Simple role-based authorization
+  - Claims-based authorization
+  - Resource-based authorization
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure your .NET Core apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/secure-your-dot-net-core-apps?u=76281980)
@@ -118,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Common Vulnerabilities in Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common security vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/common-security-vulnerabilities?u=76281980)
@@ -609,7 +630,7 @@ created: 2026-04-29
 
 ### 2. Securing .NET Web Applications with Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authentication?u=76281980)
@@ -1524,7 +1545,7 @@ created: 2026-04-29
 
 ### 3. Securing .NET Web API Applications with Authorization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is authorization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/what-is-authorization?u=76281980)
@@ -1923,7 +1944,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-asp-dot-net-core-apps-advanced-techniques-for-web-application-security/where-to-go-next?u=76281980)

@@ -44,17 +44,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Ahead of Problems]]** (6 videos)
-- **[[#2. Common Troubleshooting Steps]]** (6 videos)
-- **[[#3. Common Problems and Solutions]]** (7 videos)
-- **[[#4. Problems That Require Working with Your Server]]** (6 videos)
-- **[[#5. Advanced Problems]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - The pros and cons of running a WordPress site
+  - What you should know
+  - How the course works
+- [**1. Getting Ahead of Problems**](#1-getting-ahead-of-problems) (6 videos)
+  - Preparing your WordPress site for problems
+  - Find the right hosting
+  - Backing up your site
+  - Securing your site
+  - Automatic updates
+  - Testing your site with a staging server
+- [**2. Common Troubleshooting Steps**](#2-common-troubleshooting-steps) (6 videos)
+  - Disabling plugins to find the problem
+  - Moving to a default theme
+  - How to use recovery mode
+  - Down for everyone, or just me?
+  - Reverting updates with WP Rollback
+  - Testing with a different WordPress install or server
+- [**3. Common Problems and Solutions**](#3-common-problems-and-solutions) (7 videos)
+  - The dreaded white screen of death
+  - Stuck in maintenance mode
+  - Issues with file uploads
+  - Pretty URLs not working properly and other random 404 errors
+  - Using a redirect plugin for actually broken links
+  - Recovering lost changes with Revision History
+  - Why do blocks keep needing to be recovered?
+- [**4. Problems That Require Working with Your Server**](#4-problems-that-require-working-with-your-server) (6 videos)
+  - General web server errors: the 400s
+  - General web server errors: the 500s
+  - How to fix the "site insecure" error with an SSL certificate
+  - How to fix mixed content errors
+  - Error establishing a database connection
+  - Unable to write to a directory, or update themes/plugins
+- [**5. Advanced Problems**](#5-advanced-problems) (6 videos)
+  - Unable to deliver emails/emails going to spam
+  - General caching issues (types of cache)
+  - Cannot modify header error
+  - Site running out of memory
+  - Execution limit exceeded
+  - Using WP-CLI to solve your WordPress problems
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The pros and cons of running a WordPress site
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980)
@@ -171,7 +206,7 @@ created: 2026-04-29
 
 ### 1. Getting Ahead of Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing your WordPress site for problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980)
@@ -564,7 +599,7 @@ created: 2026-04-29
 
 ### 2. Common Troubleshooting Steps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Disabling plugins to find the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980)
@@ -829,7 +864,7 @@ created: 2026-04-29
 
 ### 3. Common Problems and Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The dreaded white screen of death
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980)
@@ -1219,7 +1254,7 @@ created: 2026-04-29
 
 ### 4. Problems That Require Working with Your Server
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### General web server errors: the 400s
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-400s?u=76281980)
@@ -1570,7 +1605,7 @@ created: 2026-04-29
 
 ### 5. Advanced Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unable to deliver emails/emails going to spam
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980)
@@ -1899,7 +1934,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980)

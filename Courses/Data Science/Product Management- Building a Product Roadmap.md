@@ -46,16 +46,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Product Roadmap Foundations]]** (4 videos)
-- **[[#2. Laying the Groundwork for Your Product Roadmap]]** (5 videos)
-- **[[#3. Product Roadmap: Decision-Making and Alignment]]** (4 videos)
-- **[[#4. Common Challenges in a Product Roadmap]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Getting started in building your product roadmap
+- [**1. Product Roadmap Foundations**](#1-product-roadmap-foundations) (4 videos)
+  - Product roadmap definition and purpose
+  - Product roadmap template
+  - Roadmaps in agile organizations
+  - Roadmaps for early-stage products
+- [**2. Laying the Groundwork for Your Product Roadmap**](#2-laying-the-groundwork-for-your-product-roadmap) (5 videos)
+  - The importance of process when developing a product roadmap
+  - Why product roadmaps fail
+  - Select your stakeholders in developing your roadmap
+  - Customer research to inform your product roadmap
+  - Start with product strategy when building your roadmap
+- [**3. Product Roadmap: Decision-Making and Alignment**](#3-product-roadmap-decision-making-and-alignment) (4 videos)
+  - Identify key milestones for high-impact product roadmaps
+  - Estimate levels of effort in your product roadmap
+  - The first draft of your product roadmap
+  - The product roadmap meeting: Getting input and alignment
+- [**4. Common Challenges in a Product Roadmap**](#4-common-challenges-in-a-product-roadmap) (2 videos)
+  - Evangelize the product roadmap
+  - Maintain the product roadmap
+- [**Conclusion**](#conclusion) (1 videos)
+  - Three steps for building your product roadmap
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started in building your product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/getting-started-in-building-your-product-roadmap?u=76281980)
@@ -88,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Product Roadmap Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Product roadmap definition and purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980)
@@ -316,7 +333,7 @@ created: 2026-04-29
 
 ### 2. Laying the Groundwork for Your Product Roadmap
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of process when developing a product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980)
@@ -668,7 +685,7 @@ created: 2026-04-29
 
 ### 3. Product Roadmap: Decision-Making and Alignment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify key milestones for high-impact product roadmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980)
@@ -950,7 +967,7 @@ created: 2026-04-29
 
 ### 4. Common Challenges in a Product Roadmap
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evangelize the product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980)
@@ -1088,7 +1105,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three steps for building your product roadmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980)

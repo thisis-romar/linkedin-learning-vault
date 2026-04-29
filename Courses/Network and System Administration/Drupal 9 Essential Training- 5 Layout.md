@@ -46,14 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Layout Explained]]** (10 videos)
-- **[[#2. Views Explained]]** (8 videos)
-- **[[#3. Menus Explained]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to the course
+- [**1. Layout Explained**](#1-layout-explained) (10 videos)
+  - Layout explained
+  - Managing displays
+  - Blocks explained
+  - Creating a custom block type
+  - Creating a custom block type: Media
+  - Layout builder explained
+  - Managing the layout for the article content type
+  - Managing the layout for the business directory
+  - Adding a custom block in the layout builder
+  - Creating landing pages
+- [**2. Views Explained**](#2-views-explained) (8 videos)
+  - Views explained
+  - Adding the business directory view
+  - Adding the news and press release view
+  - Exposing filters for visitor interaction
+  - Adding an events calendar view
+  - Creating a related content view
+  - Image styles explained
+  - Image styles for media
+- [**3. Menus Explained**](#3-menus-explained) (2 videos)
+  - Modify the main menu
+  - Creating a new menu
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/introduction-to-the-course?u=76281980)
@@ -130,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Layout Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Layout explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-explained?u=76281980)
@@ -1275,7 +1296,7 @@ created: 2026-04-29
 
 ### 2. Views Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Views explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/views-explained?u=76281980)
@@ -2254,7 +2275,7 @@ created: 2026-04-29
 
 ### 3. Menus Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modify the main menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980)

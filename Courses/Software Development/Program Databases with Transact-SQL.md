@@ -46,18 +46,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Create Views of the Data]]** (4 videos)
-- **[[#2. Create User-Defined Functions]]** (6 videos)
-- **[[#3. Work with Stored Procedures]]** (6 videos)
-- **[[#4. Create Transactions]]** (6 videos)
-- **[[#5. Implement Error Handling]]** (6 videos)
-- **[[#6. Data Type Conversions and NULLs]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Program databases with SQL Server
+  - What you should know
+  - Using the exercise files
+- [**1. Create Views of the Data**](#1-create-views-of-the-data) (4 videos)
+  - Save a query as a view object
+  - Explore existing views
+  - SchemaBind a view
+  - Leverage view objects with indexes
+- [**2. Create User-Defined Functions**](#2-create-user-defined-functions) (6 videos)
+  - Deterministic vs. nondeterministic functions
+  - Scalar-valued user-defined functions
+  - IF ELSE and CASE statements
+  - Table-valued user-defined functions
+  - Challenge: Create a function
+  - Solution: Create a function
+- [**3. Work with Stored Procedures**](#3-work-with-stored-procedures) (6 videos)
+  - Write and execute a stored procedure
+  - Stored procedure input parameters
+  - Stored procedure output parameters
+  - Create a database trigger
+  - Challenge: Use function in a stored procedure
+  - Solution: Use function in a stored procedure
+- [**4. Create Transactions**](#4-create-transactions) (6 videos)
+  - Ensure data consistency with transactions
+  - Create a transaction
+  - Transaction savepoints
+  - Automatically roll back transactions
+  - Challenge: Create a transaction
+  - Solution: Create a transaction
+- [**5. Implement Error Handling**](#5-implement-error-handling) (6 videos)
+  - What is error handling?
+  - Capture errors with TRY and CATCH
+  - Generate errors with THROW
+  - Manage transaction control
+  - Challenge: Add error handling to a stored procedure
+  - Solution: Add error handling to a stored procedure
+- [**6. Data Type Conversions and NULLs**](#6-data-type-conversions-and-nulls) (4 videos)
+  - Implicit data type conversions
+  - Understand NULL values
+  - The ISNULL function
+  - Merge rows with COALESCE
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Program databases with SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/program-databases-with-sql-server?u=76281980)
@@ -190,7 +226,7 @@ created: 2026-04-29
 
 ### 1. Create Views of the Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Save a query as a view object
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/save-a-query-as-a-view-object?u=76281980)
@@ -687,7 +723,7 @@ created: 2026-04-29
 
 ### 2. Create User-Defined Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deterministic vs. nondeterministic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/deterministic-vs-nondeterministic-functions?u=76281980)
@@ -1486,7 +1522,7 @@ created: 2026-04-29
 
 ### 3. Work with Stored Procedures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Write and execute a stored procedure
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/write-and-execute-a-stored-procedure?u=76281980)
@@ -2161,7 +2197,7 @@ created: 2026-04-29
 
 ### 4. Create Transactions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensure data consistency with transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/ensure-data-consistency-with-transactions?u=76281980)
@@ -2826,7 +2862,7 @@ created: 2026-04-29
 
 ### 5. Implement Error Handling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is error handling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/what-is-error-handling?u=76281980)
@@ -3436,7 +3472,7 @@ created: 2026-04-29
 
 ### 6. Data Type Conversions and NULLs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implicit data type conversions
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/implicit-data-type-conversions?u=76281980)
@@ -3902,7 +3938,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-databases-with-transact-sql/next-steps?u=76281980)

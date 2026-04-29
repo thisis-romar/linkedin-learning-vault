@@ -52,16 +52,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Entra ID Connect Fundamentals]]** (5 videos)
-- **[[#2. Planning for Users and Devices]]** (7 videos)
-- **[[#3. Preparing the Environment]]** (8 videos)
-- **[[#4. Deploying Entra ID Connect]]** (6 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Hybrid identity
+  - Prerequisites
+  - Roadmap
+- [**1. Entra ID Connect Fundamentals**](#1-entra-id-connect-fundamentals) (5 videos)
+  - Entra ID Connect overview
+  - Deployment configurations
+  - Rules for integration
+  - Component architecture
+  - Supporting tools
+- [**2. Planning for Users and Devices**](#2-planning-for-users-and-devices) (7 videos)
+  - Password hash synchronization
+  - Entra ID FS Authentication
+  - Pass-through Authentication
+  - Defining user strategy
+  - Defining device strategy
+  - Filtering objects
+  - Understanding writeback
+- [**3. Preparing the Environment**](#3-preparing-the-environment) (8 videos)
+  - Preparing Windows Server AD
+  - Demo: Preparing Windows Server AD
+  - Preparing the Entra ID Connect server
+  - Demo: Preparing the Entra ID Connect server
+  - Preparing the firewalls and ports
+  - Demo: Preparing the firewalls and ports
+  - Preparing the Entra ID tenant
+  - Demo: Preparing the Entra ID tenant
+- [**4. Deploying Entra ID Connect**](#4-deploying-entra-id-connect) (6 videos)
+  - Deployment methods
+  - Demo: Installing Entra ID Connect
+  - Demo: Running the Entra ID Connect wizard
+  - Monitoring using Entra ID Connect Health
+  - Demo: Monitoring using Entra ID Connect Health
+  - Understanding Entra ID Connect staging mode
+- [**Conclusion**](#conclusion) (3 videos)
+  - Key takeaways
+  - Your personal checklist
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980)
@@ -207,7 +239,7 @@ created: 2026-04-29
 
 ### 1. Entra ID Connect Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Entra ID Connect overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980)
@@ -576,7 +608,7 @@ created: 2026-04-29
 
 ### 2. Planning for Users and Devices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Password hash synchronization
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980)
@@ -1169,7 +1201,7 @@ created: 2026-04-29
 
 ### 3. Preparing the Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing Windows Server AD
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980)
@@ -1680,7 +1712,7 @@ created: 2026-04-29
 
 ### 4. Deploying Entra ID Connect
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deployment methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980)
@@ -2303,7 +2335,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980)

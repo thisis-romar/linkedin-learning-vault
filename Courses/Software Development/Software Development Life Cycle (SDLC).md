@@ -50,16 +50,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Traditional Methods]]** (3 videos)
-- **[[#2. Early Agile Methods]]** (3 videos)
-- **[[#3. Modern Approaches]]** (17 videos)
-- **[[#4. Other Approaches]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Processes for software projects
+- [**1. Traditional Methods**](#1-traditional-methods) (3 videos)
+  - Waterfall model: Brief overview
+  - Waterfall model: Application
+  - Spiral model
+- [**2. Early Agile Methods**](#2-early-agile-methods) (3 videos)
+  - Dynamic systems development method (DSDM)
+  - Feature-driven development (FDD)
+  - Crystal methods overview
+- [**3. Modern Approaches**](#3-modern-approaches) (17 videos)
+  - Scrum overview
+  - Scrum workflow
+  - Lean overview and key concepts
+  - Lean value stream mapping
+  - Lean principles
+  - Kanban
+  - Kanban board
+  - Extreme programming
+  - Spotify engineering model
+  - Spotify engineering culture
+  - DevOps: Background
+  - DevOps: Concepts
+  - Microservices: Key concepts
+  - Microservices: Deployment scenarios
+  - Twelve-factor app, part 1
+  - Twelve-factor app, part 2
+  - Chaos engineering
+- [**4. Other Approaches**](#4-other-approaches) (4 videos)
+  - CMM overview
+  - Six Sigma overview
+  - Six Sigma and software
+  - Generative AI assistance
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your path to success
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Processes for software projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/processes-for-software-projects?u=76281980)
@@ -86,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Traditional Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Waterfall model: Brief overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/waterfall-model-brief-overview?u=76281980)
@@ -302,7 +331,7 @@ created: 2026-04-29
 
 ### 2. Early Agile Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic systems development method (DSDM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/dynamic-systems-development-method-dsdm?u=76281980)
@@ -589,7 +618,7 @@ created: 2026-04-29
 
 ### 3. Modern Approaches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/scrum-overview?u=76281980)
@@ -1908,7 +1937,7 @@ created: 2026-04-29
 
 ### 4. Other Approaches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CMM overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/cmmi-overview?u=76281980)
@@ -2155,7 +2184,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your path to success
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-development-life-cycle-sdlc-29588033/your-path-to-success?u=76281980)

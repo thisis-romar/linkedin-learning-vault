@@ -49,15 +49,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. DevSecOps Basics]]** (4 videos)
-- **[[#2. Continuous Application Security]]** (9 videos)
-- **[[#3. Practicing Continuous Application Security]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to application security in DevSecOps
+  - What you should know
+- [**1. DevSecOps Basics**](#1-devsecops-basics) (4 videos)
+  - What is DevSecOps?
+  - How is application security different
+  - The key to DevSecOps is continuous
+  - What is a DevOps pipeline?
+- [**2. Continuous Application Security**](#2-continuous-application-security) (9 videos)
+  - Continuous static scanning
+  - Continuous dynamic scanning
+  - Interactive application security scanning
+  - Continuous secret scanning
+  - Continuous dependency scanning
+  - Continuous container security
+  - Continuous infrastructure as code scanning
+  - AI application security
+  - Continuous application runtime monitoring
+- [**3. Practicing Continuous Application Security**](#3-practicing-continuous-application-security) (5 videos)
+  - Tying it all together
+  - Managing the results
+  - Metrics
+  - Challenge: Building a continuous AppSec toolkit
+  - Solution: Building a continuous AppSec toolkit
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to application security in DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/introduction-to-application-security-in-devsecops?u=76281980)
@@ -143,7 +164,7 @@ created: 2026-04-29
 
 ### 1. DevSecOps Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DevSecOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/what-is-devsecops?u=76281980)
@@ -431,7 +452,7 @@ created: 2026-04-29
 
 ### 2. Continuous Application Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous static scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/continuous-static-scanning?u=76281980)
@@ -1684,7 +1705,7 @@ created: 2026-04-29
 
 ### 3. Practicing Continuous Application Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tying it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/tying-it-all-together?u=76281980)
@@ -2123,7 +2144,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/application-security-in-devsecops-25151529/next-steps?u=76281980)

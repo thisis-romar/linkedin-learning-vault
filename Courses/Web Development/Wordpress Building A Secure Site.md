@@ -50,21 +50,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. WordPress Structure and Vulnerabilities]]** (3 videos)
-- **[[#2. WordPress User Accounts]]** (3 videos)
-- **[[#3. SSL Certificates]]** (3 videos)
-- **[[#4. WordPress Plugins and Themes]]** (4 videos)
-- **[[#5. Comment Spam]]** (3 videos)
-- **[[#6. Website File and Database Backups]]** (2 videos)
-- **[[#7. Firewalls]]** (2 videos)
-- **[[#8. Ecommerce Site Security]]** (2 videos)
-- **[[#9. Editing WordPress Files]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building a secure WordPress website
+- [**1. WordPress Structure and Vulnerabilities**](#1-wordpress-structure-and-vulnerabilities) (3 videos)
+  - How to choose a secure WordPress hosting provider
+  - Overview of the WordPress structure
+  - How WordPress sites become vulnerable
+- [**2. WordPress User Accounts**](#2-wordpress-user-accounts) (3 videos)
+  - How to create a secure WordPress user account
+  - Best practices for keeping WordPress user accounts secure
+  - Tools for securing your WordPress login screen
+- [**3. SSL Certificates**](#3-ssl-certificates) (3 videos)
+  - How an SSL certificate keeps WordPress sites secure
+  - How to troubleshoot an SSL installation
+  - Tools for setting up an SSL certificate
+- [**4. WordPress Plugins and Themes**](#4-wordpress-plugins-and-themes) (4 videos)
+  - How to choose secure WordPress plugins
+  - Best practices for keeping WordPress plugins secure
+  - How to choose secure WordPress themes
+  - Best practices for keeping WordPress themes secure
+- [**5. Comment Spam**](#5-comment-spam) (3 videos)
+  - Why spam comments are dangerous for WordPress sites
+  - How to prevent WordPress spam comments
+  - How to remove WordPress spam comments
+- [**6. Website File and Database Backups**](#6-website-file-and-database-backups) (2 videos)
+  - How to make secure WordPress website backups
+  - Best practices for taking WordPress website backups
+- [**7. Firewalls**](#7-firewalls) (2 videos)
+  - How firewalls make your site more secure
+  - Tools for setting up a WordPress firewall
+- [**8. Ecommerce Site Security**](#8-ecommerce-site-security) (2 videos)
+  - How to make your ecommerce site more secure
+  - Best practices for securing an ecommerce site
+- [**9. Editing WordPress Files**](#9-editing-wordpress-files) (5 videos)
+  - Secure your WordPress site by tweaking the wp-config file
+  - Secure your WordPress site by disabling XML-RPC
+  - Secure your WordPress site by disabling PHP executions
+  - Secure your WordPress site by disabling directory indexing and browsing
+  - Secure your WordPress site by tightening file/folder permissions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a secure WordPress website
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/building-a-secure-wordpress-website-25356037?u=76281980)
@@ -97,7 +126,7 @@ created: 2026-04-29
 
 ### 1. WordPress Structure and Vulnerabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to choose a secure WordPress hosting provider
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-a-secure-wordpress-hosting-provider?u=76281980)
@@ -279,7 +308,7 @@ created: 2026-04-29
 
 ### 2. WordPress User Accounts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create a secure WordPress user account
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-create-a-secure-wordpress-user-account?u=76281980)
@@ -439,7 +468,7 @@ created: 2026-04-29
 
 ### 3. SSL Certificates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How an SSL certificate keeps WordPress sites secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-an-ssl-certificate-keeps-wordpress-sites-secure?u=76281980)
@@ -566,7 +595,7 @@ created: 2026-04-29
 
 ### 4. WordPress Plugins and Themes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to choose secure WordPress plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-choose-secure-wordpress-plugins?u=76281980)
@@ -781,7 +810,7 @@ created: 2026-04-29
 
 ### 5. Comment Spam
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why spam comments are dangerous for WordPress sites
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/why-spam-comments-are-dangerous-for-wordpress-sites?u=76281980)
@@ -918,7 +947,7 @@ created: 2026-04-29
 
 ### 6. Website File and Database Backups
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make secure WordPress website backups
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-secure-wordpress-website-backups?u=76281980)
@@ -985,7 +1014,7 @@ created: 2026-04-29
 
 ### 7. Firewalls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How firewalls make your site more secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-firewalls-make-your-site-more-secure?u=76281980)
@@ -1059,7 +1088,7 @@ created: 2026-04-29
 
 ### 8. Ecommerce Site Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make your ecommerce site more secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/how-to-make-your-ecommerce-site-more-secure?u=76281980)
@@ -1152,7 +1181,7 @@ created: 2026-04-29
 
 ### 9. Editing WordPress Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure your WordPress site by tweaking the wp-config file
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/secure-your-wordpress-site-by-tweaking-the-wp-config-file-25357043?u=76281980)
@@ -1334,7 +1363,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-building-a-secure-site/next-steps-25357044?u=76281980)

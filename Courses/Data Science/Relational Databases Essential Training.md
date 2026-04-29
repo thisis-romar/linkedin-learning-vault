@@ -48,19 +48,59 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Get to Know Relational Databases]]** (4 videos)
-- **[[#2. Entity Relationship Diagrams]]** (6 videos)
-- **[[#3. Data Integrity and Validation]]** (6 videos)
-- **[[#4. Relationships]]** (8 videos)
-- **[[#5. Normalization]]** (2 videos)
-- **[[#6. Structured Query Language]]** (8 videos)
-- **[[#7. Beyond the Relational Model]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Organize data with the relational model
+  - What you should know
+  - Exploring the code challenge environment
+- [**1. Get to Know Relational Databases**](#1-get-to-know-relational-databases) (4 videos)
+  - A brief introduction to data storage
+  - E.F. Codd's relational model
+  - What the CRUD?
+  - Relations, tuples, tables, and records
+- [**2. Entity Relationship Diagrams**](#2-entity-relationship-diagrams) (6 videos)
+  - Develop a model of the real world
+  - Choose an ER design tool
+  - Design a table
+  - Attribute data types
+  - Use primary keys to identify records
+  - Object naming considerations
+- [**3. Data Integrity and Validation**](#3-data-integrity-and-validation) (6 videos)
+  - Data constraints
+  - Create a unique constraint
+  - Required attributes and null values
+  - Define a default value
+  - Establish table indexes
+  - Add check constraints
+- [**4. Relationships**](#4-relationships) (8 videos)
+  - Relate tables with foreign keys
+  - Diagram a relationship
+  - Relationship optionality and cardinality
+  - One-to-many relationships
+  - One-to-one relationships
+  - Many-to-many relationships
+  - Self joins
+  - Cascade changes
+- [**5. Normalization**](#5-normalization) (2 videos)
+  - Relational database normal forms
+  - When not to normalize
+- [**6. Structured Query Language**](#6-structured-query-language) (8 videos)
+  - Convert the ER diagram to a database
+  - Data definition queries
+  - Solution: Create tables with DDL commands
+  - Data manipulation queries
+  - Solution: Add data with DML commands
+  - Write database select queries
+  - Solution: Query data in a database
+  - Create a database view
+- [**7. Beyond the Relational Model**](#7-beyond-the-relational-model) (2 videos)
+  - Graph databases
+  - Document databases
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organize data with the relational model
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980)
@@ -157,7 +197,7 @@ created: 2026-04-29
 
 ### 1. Get to Know Relational Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A brief introduction to data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/a-brief-introduction-to-data-storage?u=76281980)
@@ -566,7 +606,7 @@ created: 2026-04-29
 
 ### 2. Entity Relationship Diagrams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop a model of the real world
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980)
@@ -1301,7 +1341,7 @@ created: 2026-04-29
 
 ### 3. Data Integrity and Validation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data constraints
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980)
@@ -1935,7 +1975,7 @@ created: 2026-04-29
 
 ### 4. Relationships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relate tables with foreign keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980)
@@ -2521,7 +2561,7 @@ created: 2026-04-29
 
 ### 5. Normalization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational database normal forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980)
@@ -2702,7 +2742,7 @@ created: 2026-04-29
 
 ### 6. Structured Query Language
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Convert the ER diagram to a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980)
@@ -3743,7 +3783,7 @@ created: 2026-04-29
 
 ### 7. Beyond the Relational Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Graph databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/graph-databases?u=76281980)
@@ -3833,7 +3873,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980)

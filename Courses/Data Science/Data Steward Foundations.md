@@ -52,18 +52,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Data Stewardship Roles]]** (5 videos)
-- **[[#2. Maintaining Data Quality]]** (5 videos)
-- **[[#3. Protecting Data Security]]** (10 videos)
-- **[[#4. Preserving Individual Privacy]]** (4 videos)
-- **[[#5. Regulatory Compliance]]** (6 videos)
-- **[[#6. Getting Started]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Data stewardship
+  - What you need to know
+- [**1. Data Stewardship Roles**](#1-data-stewardship-roles) (5 videos)
+  - What is data stewardship?
+  - Exploring data stewardship roles
+  - Qualities of a good data steward
+  - Data stewardship responsibilities
+  - Obtaining senior leadership support
+- [**2. Maintaining Data Quality**](#2-maintaining-data-quality) (5 videos)
+  - Implementing master data management
+  - Developing data definitions
+  - Protecting data quality
+  - Validating data quality
+  - Promoting data reuse
+- [**3. Protecting Data Security**](#3-protecting-data-security) (10 videos)
+  - Goals of information security
+  - Preserving data confidentiality
+  - Protecting data integrity
+  - Maintaining data availability
+  - Identification, authentication, and authorization
+  - Discretionary access controls
+  - Access control lists
+  - Role-based access control
+  - Managing the data lifecycle
+  - Generative AI
+- [**4. Preserving Individual Privacy**](#4-preserving-individual-privacy) (4 videos)
+  - Privacy program development
+  - Generally accepted privacy principles
+  - Data anonymization
+  - Data obfuscation
+- [**5. Regulatory Compliance**](#5-regulatory-compliance) (6 videos)
+  - Today's regulatory landscape
+  - Health Insurance Portability and Accountability Act (HIPAA)
+  - Family Educational Rights and Privacy Act (FERPA)
+  - Gramm-Leach-Bliley Act (GLBA)
+  - Data breach notification laws
+  - International data transfers
+- [**6. Getting Started**](#6-getting-started) (6 videos)
+  - Data inventory
+  - Entity-relationship diagrams
+  - Data classification
+  - Interviewing key employees
+  - Following data flows
+  - Data sharing and transfers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your studies
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data stewardship
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-stewardship?u=76281980)
@@ -120,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Data Stewardship Roles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data stewardship?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/what-is-data-stewardship?u=76281980)
@@ -402,7 +441,7 @@ created: 2026-04-29
 
 ### 2. Maintaining Data Quality
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing master data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/implementing-master-data-management?u=76281980)
@@ -679,7 +718,7 @@ created: 2026-04-29
 
 ### 3. Protecting Data Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Goals of information security
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/goals-of-information-security?u=76281980)
@@ -1416,7 +1455,7 @@ created: 2026-04-29
 
 ### 4. Preserving Individual Privacy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Privacy program development
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/privacy-program-development?u=76281980)
@@ -1649,7 +1688,7 @@ created: 2026-04-29
 
 ### 5. Regulatory Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Today's regulatory landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/today-s-regulatory-landscape?u=76281980)
@@ -2114,7 +2153,7 @@ created: 2026-04-29
 
 ### 6. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data inventory
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/data-inventory?u=76281980)
@@ -2498,7 +2537,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your studies
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-steward-foundations/continuing-your-studies?u=76281980)

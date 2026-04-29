@@ -47,19 +47,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introducing Tableau and R]]** (5 videos)
-- **[[#2. Preparing for Analysis Using Tableau and R]]** (5 videos)
-- **[[#3. Creating and Visualizing Linear Regression Models]]** (5 videos)
-- **[[#4. Classifying Data Using Logistic Regression]]** (4 videos)
-- **[[#5. Classifying Data Using Support Vector Machines]]** (4 videos)
-- **[[#6. Grouping Data Using Cluster Analysis]]** (4 videos)
-- **[[#7. Classifying Data Using Random Forests]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Gain valuable insights using Tableau and R
+- [**1. Introducing Tableau and R**](#1-introducing-tableau-and-r) (5 videos)
+  - Compare the strengths of Tableau and R
+  - How Tableau and R can work together
+  - Install R on a computer
+  - Download and install CRAN packages in R
+  - Run RServe and establish a connection to Tableau
+- [**2. Preparing for Analysis Using Tableau and R**](#2-preparing-for-analysis-using-tableau-and-r) (5 videos)
+  - Import data into R
+  - Create calculations in R
+  - Import data into Tableau
+  - Create a visualization in Tableau
+  - Create a calculated field in Tableau
+- [**3. Creating and Visualizing Linear Regression Models**](#3-creating-and-visualizing-linear-regression-models) (5 videos)
+  - Describe linear regression and multiple regression models
+  - Create single- and multiple-variable linear regression models
+  - Analyze regression variables for significance
+  - Visualize data for linear regression in Tableau
+  - Add an R regression model to a Tableau viz
+- [**4. Classifying Data Using Logistic Regression**](#4-classifying-data-using-logistic-regression) (4 videos)
+  - Describe logistic regression algorithms
+  - Create a logistic regression model
+  - Visualize data for logistic regression in Tableau
+  - Add an R logistic regression model to a Tableau viz
+- [**5. Classifying Data Using Support Vector Machines**](#5-classifying-data-using-support-vector-machines) (4 videos)
+  - Describe support vector machine algorithms
+  - Create a support vector machine model
+  - Visualize support vector machine data in Tableau
+  - Add an R support vector machine model to a Tableau viz
+- [**6. Grouping Data Using Cluster Analysis**](#6-grouping-data-using-cluster-analysis) (4 videos)
+  - Describe cluster analysis
+  - Do cluster analysis in R
+  - Troubleshoot cluster analysis in Tableau
+  - Write cluster data to a CSV file for use in Tableau
+- [**7. Classifying Data Using Random Forests**](#7-classifying-data-using-random-forests) (3 videos)
+  - Describe random forest analysis
+  - Create a random forest analysis model in R
+  - Visualize data for random forest analysis in Tableau
+- [**Conclusion**](#conclusion) (1 videos)
+  - Further resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gain valuable insights using Tableau and R
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/gain-valuable-insights-using-tableau-and-r?u=76281980)
@@ -83,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Introducing Tableau and R
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Compare the strengths of Tableau and R
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/compare-the-strengths-of-tableau-and-r?u=76281980)
@@ -455,7 +487,7 @@ created: 2026-04-29
 
 ### 2. Preparing for Analysis Using Tableau and R
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Import data into R
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/import-data-into-r?u=76281980)
@@ -913,7 +945,7 @@ created: 2026-04-29
 
 ### 3. Creating and Visualizing Linear Regression Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe linear regression and multiple regression models
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-linear-regression-and-multiple-regression-models?u=76281980)
@@ -1480,7 +1512,7 @@ created: 2026-04-29
 
 ### 4. Classifying Data Using Logistic Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe logistic regression algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-logistic-regression-algorithms?u=76281980)
@@ -1818,7 +1850,7 @@ created: 2026-04-29
 
 ### 5. Classifying Data Using Support Vector Machines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe support vector machine algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-support-vector-machine-algorithms?u=76281980)
@@ -2241,7 +2273,7 @@ created: 2026-04-29
 
 ### 6. Grouping Data Using Cluster Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe cluster analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-cluster-analysis?u=76281980)
@@ -2669,7 +2701,7 @@ created: 2026-04-29
 
 ### 7. Classifying Data Using Random Forests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe random forest analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/describe-random-forest-analysis?u=76281980)
@@ -2989,7 +3021,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-and-r-for-analytics-projects-27845131/further-resources?u=76281980)

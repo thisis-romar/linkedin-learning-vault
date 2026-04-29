@@ -47,21 +47,74 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. jQuery Overview]]** (2 videos)
-- **[[#2. A Quick jQuery Feature Tour]]** (6 videos)
-- **[[#3. Accessing Page Content]]** (10 videos)
-- **[[#4. Manipulating Page Content]]** (8 videos)
-- **[[#5. Event Handling]]** (5 videos)
-- **[[#6. Effects and Animations]]** (5 videos)
-- **[[#7. AJAX Operations]]** (6 videos)
-- **[[#8. jQuery Plugins]]** (3 videos)
-- **[[#9. Migrating from jQuery]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - jQuery: Write less, do more
+  - Getting set up
+- [**1. jQuery Overview**](#1-jquery-overview) (2 videos)
+  - Overview of jQuery
+  - Why use jQuery today?
+- [**2. A Quick jQuery Feature Tour**](#2-a-quick-jquery-feature-tour) (6 videos)
+  - Enabling jQuery in your web app
+  - Selectors and filters
+  - Creating and modifying content
+  - Event handling
+  - Effects and animations
+  - AJAX operations
+- [**3. Accessing Page Content**](#3-accessing-page-content) (10 videos)
+  - Introduction to selectors and filters
+  - Basic selectors
+  - Basic filters
+  - Advanced selectors
+  - Attribute filters
+  - Advanced filters
+  - Traversing web page elements
+  - Statement chaining
+  - Challenge: Selectors
+  - Solution: Selectors
+- [**4. Manipulating Page Content**](#4-manipulating-page-content) (8 videos)
+  - Creating content
+  - Inserting page content
+  - Altering page content
+  - Manipulating attributes
+  - Working with CSS
+  - Embedding custom data
+  - Challenge: Dynamic element visibility
+  - Solution: Dynamic element visibility
+- [**5. Event Handling**](#5-event-handling) (5 videos)
+  - jQuery event handling features
+  - Binding and unbinding events
+  - Using the jQuery event object
+  - Challenge: Use jQuery events
+  - Solution: Use jQuery events
+- [**6. Effects and Animations**](#6-effects-and-animations) (5 videos)
+  - Introduction to jQuery animations
+  - Hiding and showing elements
+  - Fading elements
+  - Sliding elements
+  - Custom animations
+- [**7. AJAX Operations**](#7-ajax-operations) (6 videos)
+  - jQuery and AJAX
+  - Convenience functions
+  - Working with different data types
+  - Using global AJAX handlers
+  - Challenge: AJAX
+  - Solution: AJAX
+- [**8. jQuery Plugins**](#8-jquery-plugins) (3 videos)
+  - DataTables
+  - Form validation
+  - Toast messages
+- [**9. Migrating from jQuery**](#9-migrating-from-jquery) (5 videos)
+  - Preparing to migrate
+  - Migrating to DOM selectors
+  - Migrating from AJAX
+  - Migrating effects
+  - Odds and ends
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### jQuery: Write less, do more
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980)
@@ -176,7 +229,7 @@ created: 2026-04-29
 
 ### 1. jQuery Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of jQuery
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980)
@@ -306,7 +359,7 @@ created: 2026-04-29
 
 ### 2. A Quick jQuery Feature Tour
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enabling jQuery in your web app
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980)
@@ -834,7 +887,7 @@ created: 2026-04-29
 
 ### 3. Accessing Page Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to selectors and filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980)
@@ -1889,7 +1942,7 @@ created: 2026-04-29
 
 ### 4. Manipulating Page Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating content
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980)
@@ -2939,7 +2992,7 @@ created: 2026-04-29
 
 ### 5. Event Handling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### jQuery event handling features
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980)
@@ -3397,7 +3450,7 @@ created: 2026-04-29
 
 ### 6. Effects and Animations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to jQuery animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-jquery-animations?u=76281980)
@@ -3879,7 +3932,7 @@ created: 2026-04-29
 
 ### 7. AJAX Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### jQuery and AJAX
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980)
@@ -4632,7 +4685,7 @@ created: 2026-04-29
 
 ### 8. jQuery Plugins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DataTables
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980)
@@ -4999,7 +5052,7 @@ created: 2026-04-29
 
 ### 9. Migrating from jQuery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing to migrate
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980)
@@ -5638,7 +5691,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980)

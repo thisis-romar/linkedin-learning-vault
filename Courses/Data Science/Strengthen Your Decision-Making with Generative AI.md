@@ -48,15 +48,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Determine Your Decision]]** (6 videos)
-- **[[#2. Harness AI to Refine Your Decision]]** (4 videos)
-- **[[#3. Use Generative AI to Continuously Improve Decisions]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Use GenAI to make better decisions
+- [**1. Determine Your Decision**](#1-determine-your-decision) (6 videos)
+  - Understand the DREAMS framework
+  - Define your problem
+  - Refine your decision
+  - Understand your decision motivation using GenAI
+  - Explore options with AI for decision direction
+  - Analyze AI answers to narrow options
+- [**2. Harness AI to Refine Your Decision**](#2-harness-ai-to-refine-your-decision) (4 videos)
+  - Challenge decision biases using GenAI
+  - Analyze AI answers to pick a decision direction
+  - Use a premortem to make stronger decisions
+  - Use GenAI to include stakeholder perspectives
+- [**3. Use Generative AI to Continuously Improve Decisions**](#3-use-generative-ai-to-continuously-improve-decisions) (3 videos)
+  - Futurecast with GenAI to make better decisions
+  - Use GenAI to help your past improve your future
+  - Use AI effectively to optimize decisions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Achieve continuously great outcomes
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use GenAI to make better decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/use-genai-to-make-better-decisions?u=76281980)
@@ -83,7 +98,7 @@ created: 2026-04-29
 
 ### 1. Determine Your Decision
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the DREAMS framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/understand-the-dreams-framework?u=76281980)
@@ -523,7 +538,7 @@ created: 2026-04-29
 
 ### 2. Harness AI to Refine Your Decision
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge decision biases using GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/challenge-decision-biases-using-gen-ai?u=76281980)
@@ -842,7 +857,7 @@ created: 2026-04-29
 
 ### 3. Use Generative AI to Continuously Improve Decisions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Futurecast with GenAI to make better decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/futurecast-with-gen-ai-to-make-better-decisions?u=76281980)
@@ -1060,7 +1075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Achieve continuously great outcomes
 > [LinkedIn Learning](https://www.linkedin.com/learning/strengthen-your-decision-making-with-generative-ai/achieve-continuously-great-outcomes?u=76281980)

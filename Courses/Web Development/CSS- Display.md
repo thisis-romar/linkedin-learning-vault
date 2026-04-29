@@ -46,14 +46,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Basic Display Values]]** (4 videos)
-- **[[#2. Newer Display Values]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome
+- [**1. Basic Display Values**](#1-basic-display-values) (4 videos)
+  - Inline elements
+  - Block elements
+  - Understanding proper nesting of block and inline elements
+  - Display: none vs. visibility: hidden
+- [**2. Newer Display Values**](#2-newer-display-values) (5 videos)
+  - Understanding layouts with inline flex and grid
+  - Flow-root and floats
+  - Inline-block
+  - Table, inline-table, and its internal structures
+  - List-item
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/welcome?u=76281980)
@@ -84,7 +95,7 @@ created: 2026-04-29
 
 ### 1. Basic Display Values
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inline elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/inline-elements?u=76281980)
@@ -502,7 +513,7 @@ created: 2026-04-29
 
 ### 2. Newer Display Values
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding layouts with inline flex and grid
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/understanding-layouts-with-inline-flex-and-grid?u=76281980)
@@ -985,7 +996,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-display/next-steps-25753009?u=76281980)

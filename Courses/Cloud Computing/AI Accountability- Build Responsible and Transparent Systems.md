@@ -49,18 +49,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Context for AI]]** (4 videos)
-- **[[#2. Technical Challenges of AI]]** (10 videos)
-- **[[#3. Social Challenges of AI]]** (3 videos)
-- **[[#4. Legal Challenges of AI]]** (7 videos)
-- **[[#5. Safety Challenges of AI]]** (4 videos)
-- **[[#6. Confronting the Challenges of AI]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome
+- [**1. The Context for AI**](#1-the-context-for-ai) (4 videos)
+  - The promise of AI
+  - Generative and analytical AI
+  - General and narrow AI
+  - Artificial general intelligence (AGI)
+- [**2. Technical Challenges of AI**](#2-technical-challenges-of-ai) (10 videos)
+  - Technical challenges for generative AI
+  - The challenge of classification errors
+  - The causes of classification errors
+  - Bias in AI
+  - Genres of learning
+  - Biased training data
+  - Construct validity
+  - The absence of meaning
+  - Vulnerability to attacks
+  - Attacking AI
+- [**3. Social Challenges of AI**](#3-social-challenges-of-ai) (3 videos)
+  - Dimensions of justice
+  - Moral reasoning
+  - Issues of authenticity
+- [**4. Legal Challenges of AI**](#4-legal-challenges-of-ai) (7 videos)
+  - GenAI laws
+  - Privacy laws
+  - Spurious discrimination
+  - The right to explanation
+  - Discrimination in data
+  - Discrimination in implementation
+  - Discrimination and misinformation in generative AI
+- [**5. Safety Challenges of AI**](#5-safety-challenges-of-ai) (4 videos)
+  - AI in life and death situations
+  - AI in the military
+  - The challenges of military AI
+  - Physical safety and generative AI
+- [**6. Confronting the Challenges of AI**](#6-confronting-the-challenges-of-ai) (5 videos)
+  - Strategies for developers
+  - Strategies for executives
+  - Strategies for public relations
+  - Strategies for regulators
+  - Strategies for consumers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/welcome-26211971?u=76281980)
@@ -88,7 +123,7 @@ created: 2026-04-29
 
 ### 1. The Context for AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The promise of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/the-promise-of-ai-26214852?u=76281980)
@@ -496,7 +531,7 @@ created: 2026-04-29
 
 ### 2. Technical Challenges of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Technical challenges for generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/technical-challenges-for-generative-ai-26214850?u=76281980)
@@ -1698,7 +1733,7 @@ created: 2026-04-29
 
 ### 3. Social Challenges of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimensions of justice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/dimensions-of-justice-26211970?u=76281980)
@@ -1976,7 +2011,7 @@ created: 2026-04-29
 
 ### 4. Legal Challenges of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI laws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/genai-laws-26213972?u=76281980)
@@ -2558,7 +2593,7 @@ created: 2026-04-29
 
 ### 5. Safety Challenges of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI in life and death situations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/ai-in-life-and-death-situations-26206969?u=76281980)
@@ -2917,7 +2952,7 @@ created: 2026-04-29
 
 ### 6. Confronting the Challenges of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategies for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/strategies-for-developers-26215019?u=76281980)
@@ -3362,7 +3397,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-accountability-build-responsible-and-transparent-systems-26271110/next-steps-26216005?u=76281980)

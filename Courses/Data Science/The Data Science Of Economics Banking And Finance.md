@@ -48,13 +48,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Applying Data Science]]** (12 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The data science of finance
+- [**1. Applying Data Science**](#1-applying-data-science) (12 videos)
+  - Data science and money
+  - AI and LLMs in the financial world
+  - Social trading and finance influencers
+  - Social payment apps and informal banking
+  - Cryptocurrencies and blockchain in finance
+  - Responding to financial scams and frauds
+  - Algorithmic and human-in-the-loop trading
+  - Automated reviews for loan, credit, and job applications
+  - Correlation and causality in economic data
+  - Privacy regulations and explainable AI
+  - Bias and risk in financial and economic modeling
+  - Careers for data scientists in economics, banking, and finance
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The data science of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/the-data-science-of-finance?u=76281980)
@@ -81,7 +95,7 @@ created: 2026-04-29
 
 ### 1. Applying Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science and money
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/data-science-money?u=76281980)
@@ -1683,7 +1697,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-economics-banking-and-finance/next-steps-and-additional-resources?u=76281980)

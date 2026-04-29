@@ -46,15 +46,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Algorithmic Auditing and Continuous Monitoring]]** (4 videos)
-- **[[#2. Skills for Algorithmic Auditors and Continuous Monitoring Teams]]** (4 videos)
-- **[[#3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Algorithmic auditing and continuous monitoring uses
+  - Responsible AI principles and practices
+- [**1. Algorithmic Auditing and Continuous Monitoring**](#1-algorithmic-auditing-and-continuous-monitoring) (4 videos)
+  - What is algorithmic auditing?
+  - What is continuous monitoring?
+  - Voluntary and required algorithmic auditing
+  - Algorithmic auditing and the job market
+- [**2. Skills for Algorithmic Auditors and Continuous Monitoring Teams**](#2-skills-for-algorithmic-auditors-and-continuous-monitoring-teams) (4 videos)
+  - Establishing an effective governance structure
+  - Data collection and analysis
+  - Identifying and managing bias
+  - Setting up a continuous monitoring process
+- [**3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice**](#3-case-study-auditing-and-continuous-monitoring-tools-and-techniques-in-practice) (6 videos)
+  - Case study: RedTech 30
+  - RedTech 30: Governance structure
+  - RedTech 30: Data sampling
+  - RedTech 30: Data and code review
+  - RedTech 30: Testing and debugging
+  - RedTech 30: Continuous monitoring
+- [**Conclusion**](#conclusion) (1 videos)
+  - Responsible AI resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Algorithmic auditing and continuous monitoring uses
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/algorithmic-auditing-and-continuous-monitoring-uses?u=76281980)
@@ -153,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Algorithmic Auditing and Continuous Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is algorithmic auditing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/what-is-algorithmic-auditing?u=76281980)
@@ -438,7 +455,7 @@ created: 2026-04-29
 
 ### 2. Skills for Algorithmic Auditors and Continuous Monitoring Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing an effective governance structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/establishing-an-effective-governance-structure?u=76281980)
@@ -884,7 +901,7 @@ created: 2026-04-29
 
 ### 3. Case Study: Auditing and Continuous Monitoring Tools and Techniques in Practice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Case study: RedTech 30
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/case-study-redtech-30?u=76281980)
@@ -1342,7 +1359,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-auditing-and-continuous-monitoring/responsible-ai-resources?u=76281980)

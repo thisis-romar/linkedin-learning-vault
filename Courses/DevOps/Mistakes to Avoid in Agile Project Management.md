@@ -44,18 +44,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Launching Agile Project Management]]** (4 videos)
-- **[[#2. Mistakes When Gaining Buy-In]]** (3 videos)
-- **[[#3. Mistakes When Building Teams]]** (4 videos)
-- **[[#4. Mistakes When Setting Cadence]]** (4 videos)
-- **[[#5. Mistakes When Making Improvements]]** (4 videos)
-- **[[#6. Mistakes When Managing Work]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Getting started
+- [**1. Launching Agile Project Management**](#1-launching-agile-project-management) (4 videos)
+  - Misunderstanding agile
+  - Don't over-promise results
+  - Set the right pace
+  - Consistent project titles
+- [**2. Mistakes When Gaining Buy-In**](#2-mistakes-when-gaining-buy-in) (3 videos)
+  - Not setting the tone
+  - Too much regulation
+  - Lack of transparency
+- [**3. Mistakes When Building Teams**](#3-mistakes-when-building-teams) (4 videos)
+  - Assigning tasks
+  - Overlooking values
+  - Predicting, not estimating
+  - Managing change incorrectly
+- [**4. Mistakes When Setting Cadence**](#4-mistakes-when-setting-cadence) (4 videos)
+  - Not planning
+  - Not releasing frequently
+  - Avoiding stakeholders
+  - Missing feedback
+- [**5. Mistakes When Making Improvements**](#5-mistakes-when-making-improvements) (4 videos)
+  - Starting too large
+  - Avoiding metrics
+  - Sitting still
+  - Overlooking handoffs
+- [**6. Mistakes When Managing Work**](#6-mistakes-when-managing-work) (3 videos)
+  - Unclear priorities
+  - Finishing vs. starting
+  - Adding work
+- [**Conclusion**](#conclusion) (1 videos)
+  - Setting yourself up for long-term success
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980)
@@ -102,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Launching Agile Project Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Misunderstanding agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980)
@@ -392,7 +416,7 @@ created: 2026-04-29
 
 ### 2. Mistakes When Gaining Buy-In
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Not setting the tone
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980)
@@ -616,7 +640,7 @@ created: 2026-04-29
 
 ### 3. Mistakes When Building Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assigning tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980)
@@ -937,7 +961,7 @@ created: 2026-04-29
 
 ### 4. Mistakes When Setting Cadence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Not planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-planning?u=76281980)
@@ -1241,7 +1265,7 @@ created: 2026-04-29
 
 ### 5. Mistakes When Making Improvements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting too large
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/starting-too-large?u=76281980)
@@ -1555,7 +1579,7 @@ created: 2026-04-29
 
 ### 6. Mistakes When Managing Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unclear priorities
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/unclear-priorities?u=76281980)
@@ -1782,7 +1806,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting yourself up for long-term success
 > [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980)

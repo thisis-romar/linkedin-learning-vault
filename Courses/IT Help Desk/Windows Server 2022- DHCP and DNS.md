@@ -49,22 +49,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. DHCP Overview]]** (3 videos)
-- **[[#2. Setting Up DHCP]]** (6 videos)
-- **[[#3. Managing DHCP]]** (6 videos)
-- **[[#4. Advanced DHCP]]** (6 videos)
-- **[[#5. DNS Overview]]** (3 videos)
-- **[[#6. Deploying DNS]]** (3 videos)
-- **[[#7. DNS Zones]]** (4 videos)
-- **[[#8. DNS Resource Records]]** (4 videos)
-- **[[#9. Advanced DNS]]** (3 videos)
-- **[[#10. DNS Security]]** (4 videos)
-- **[[#11. DHCP and DNS Management]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Install and configure Windows Server 2022 DHCP and DNS
+- [**1. DHCP Overview**](#1-dhcp-overview) (3 videos)
+  - What is DHCP?
+  - DHCP on various devices
+  - The importance of DHCP in the enterprise
+- [**2. Setting Up DHCP**](#2-setting-up-dhcp) (6 videos)
+  - Installing the DHCP server role
+  - DHCP authorization
+  - Creating scopes
+  - Configuring DHCP options
+  - Scope activation
+  - Client configuration for DHCP
+- [**3. Managing DHCP**](#3-managing-dhcp) (6 videos)
+  - Setting up reservations
+  - Setting up exclusions
+  - Import and export databases
+  - Scope reconciliation
+  - DHCP troubleshooting
+  - DHCP filters
+- [**4. Advanced DHCP**](#4-advanced-dhcp) (6 videos)
+  - DHCP failover and high availability
+  - DHCP failover setup
+  - DHCP relay using switches and routers
+  - Routing using DHCP
+  - DHCP policies
+  - Split scope
+- [**5. DNS Overview**](#5-dns-overview) (3 videos)
+  - DNS importance with Active Directory
+  - DNS manager overview
+  - Important Active Directory DNS records
+- [**6. Deploying DNS**](#6-deploying-dns) (3 videos)
+  - Install DNS on a member server
+  - Client DNS configuration
+  - DNS forwarders
+- [**7. DNS Zones**](#7-dns-zones) (4 videos)
+  - Forward DNS zones and AD integration
+  - Reverse DNS zones and AD integration
+  - Secondary zone creation
+  - Stub zone creation
+- [**8. DNS Resource Records**](#8-dns-resource-records) (4 videos)
+  - Forward and reverse zone records
+  - Alias (CNAME) records
+  - Mail (MX) records
+  - Other record types
+- [**9. Advanced DNS**](#9-advanced-dns) (3 videos)
+  - DNS queries
+  - DNS cache
+  - Conditional forwarders
+- [**10. DNS Security**](#10-dns-security) (4 videos)
+  - DNS cache locking
+  - DNS socket pool
+  - DNS zone signing
+  - DNS security extensions
+- [**11. DHCP and DNS Management**](#11-dhcp-and-dns-management) (2 videos)
+  - Managing DNS and DHCP using Admin Center
+  - Managing DNS and DHCP using IPAM
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and configure Windows Server 2022 DHCP and DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-and-configure-windows-server-2022-dhcp-and-dns?u=76281980)
@@ -101,7 +146,7 @@ created: 2026-04-29
 
 ### 1. DHCP Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DHCP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/what-is-dhcp?u=76281980)
@@ -284,7 +329,7 @@ created: 2026-04-29
 
 ### 2. Setting Up DHCP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing the DHCP server role
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/installing-the-dhcp-server-role?u=76281980)
@@ -657,7 +702,7 @@ created: 2026-04-29
 
 ### 3. Managing DHCP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up reservations
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/setting-up-reservations?u=76281980)
@@ -1050,7 +1095,7 @@ created: 2026-04-29
 
 ### 4. Advanced DHCP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DHCP failover and high availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dhcp-failover-and-high-availability?u=76281980)
@@ -1467,7 +1512,7 @@ created: 2026-04-29
 
 ### 5. DNS Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DNS importance with Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-importance-with-active-directory?u=76281980)
@@ -1689,7 +1734,7 @@ created: 2026-04-29
 
 ### 6. Deploying DNS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install DNS on a member server
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/install-dns-on-a-member-server?u=76281980)
@@ -1905,7 +1950,7 @@ created: 2026-04-29
 
 ### 7. DNS Zones
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Forward DNS zones and AD integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-dns-zones-and-ad-integration?u=76281980)
@@ -2281,7 +2326,7 @@ created: 2026-04-29
 
 ### 8. DNS Resource Records
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Forward and reverse zone records
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/forward-and-reverse-zone-records?u=76281980)
@@ -2643,7 +2688,7 @@ created: 2026-04-29
 
 ### 9. Advanced DNS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DNS queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-queries?u=76281980)
@@ -2784,7 +2829,7 @@ created: 2026-04-29
 
 ### 10. DNS Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DNS cache locking
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/dns-cache-locking?u=76281980)
@@ -3094,7 +3139,7 @@ created: 2026-04-29
 
 ### 11. DHCP and DNS Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing DNS and DHCP using Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-dhcp-and-dns-15012768/managing-dns-and-dhcp-using-admin-center?u=76281980)

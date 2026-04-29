@@ -73,16 +73,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding the Governance Landscape]]** (4 videos)
-- **[[#2. Building the Governance Lens]]** (3 videos)
-- **[[#3. Measures to Introduce Governance]]** (3 videos)
-- **[[#4. Future of AI Governance]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Developing the lens of AI governance
+- [**1. Understanding the Governance Landscape**](#1-understanding-the-governance-landscape) (4 videos)
+  - Overview of AI governance
+  - Demystifying governance
+  - Need for increasing governance
+  - What went wrong?
+- [**2. Building the Governance Lens**](#2-building-the-governance-lens) (3 videos)
+  - Dimensions of governance
+  - Embedding ethics by design
+  - Challenges of governing AI
+- [**3. Measures to Introduce Governance**](#3-measures-to-introduce-governance) (3 videos)
+  - Setting up an ethics board
+  - Identify and mitigate AI risks
+  - Driving organizational governance
+- [**4. Future of AI Governance**](#4-future-of-ai-governance) (2 videos)
+  - The road ahead
+  - Change management
+- [**Conclusion**](#conclusion) (1 videos)
+  - Advancing AI governance in your organization
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing the lens of AI governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/developing-the-lens-of-ai-governance?u=76281980)
@@ -112,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Governance Landscape
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AI governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/overview-of-ai-governance?u=76281980)
@@ -441,7 +455,7 @@ created: 2026-04-29
 
 ### 2. Building the Governance Lens
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimensions of governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/dimensions-of-governance?u=76281980)
@@ -690,7 +704,7 @@ created: 2026-04-29
 
 ### 3. Measures to Introduce Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up an ethics board
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/setting-up-an-ethics-board?u=76281980)
@@ -970,7 +984,7 @@ created: 2026-04-29
 
 ### 4. Future of AI Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The road ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/the-road-ahead?u=76281980)
@@ -1141,7 +1155,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advancing AI governance in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-governance/advancing-ai-governance-in-your-organization?u=76281980)

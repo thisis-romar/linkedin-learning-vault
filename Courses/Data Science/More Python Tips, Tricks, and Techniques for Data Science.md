@@ -49,16 +49,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. IPython and Jupyter Notebook]]** (3 videos)
-- **[[#2. NumPy and Pandas]]** (7 videos)
-- **[[#3. Visualization with Matplotlib]]** (3 videos)
-- **[[#4. Machine Learning Tips]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Tips and tricks in Python
+  - How to use the CoderPad environment
+- [**1. IPython and Jupyter Notebook**](#1-ipython-and-jupyter-notebook) (3 videos)
+  - Accessing methods and documentation
+  - Errors and debugging
+  - Code profiling and timing
+- [**2. NumPy and Pandas**](#2-numpy-and-pandas) (7 videos)
+  - Essentials of NumPy arrays
+  - Broadcasting
+  - Comparison, masks, and Boolean logic
+  - Pandas indexing and subsetting
+  - Handling missing data
+  - Aggregation and grouping
+  - Querying and filtering data
+- [**3. Visualization with Matplotlib**](#3-visualization-with-matplotlib) (3 videos)
+  - General plotting tips
+  - Adding text and annotations
+  - Multiple subplots
+- [**4. Machine Learning Tips**](#4-machine-learning-tips) (4 videos)
+  - sklearn Estimator API
+  - Model validation and hyperparameter tuning
+  - Feature engineering
+  - Creating machine learning pipelines
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tips and tricks in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/tips-and-tricks-in-python?u=76281980)
@@ -153,7 +173,7 @@ created: 2026-04-29
 
 ### 1. IPython and Jupyter Notebook
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing methods and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/accessing-methods-and-documentation?u=76281980)
@@ -534,7 +554,7 @@ created: 2026-04-29
 
 ### 2. NumPy and Pandas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Essentials of NumPy arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/essentials-of-numpy-arrays?u=76281980)
@@ -1443,7 +1463,7 @@ created: 2026-04-29
 
 ### 3. Visualization with Matplotlib
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### General plotting tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/general-plotting-tips?u=76281980)
@@ -1948,7 +1968,7 @@ created: 2026-04-29
 
 ### 4. Machine Learning Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### sklearn Estimator API
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/sklearn-estimator-api?u=76281980)
@@ -2462,7 +2482,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/more-python-tips-tricks-and-techniques-for-data-science/next-steps?u=76281980)

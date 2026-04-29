@@ -53,19 +53,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Are XAI and IML?]]** (7 videos)
-- **[[#2. Why Isolating a Variable’s Contribution Is Difficult]]** (3 videos)
-- **[[#3. Black Box Model 101]]** (4 videos)
-- **[[#4. Introduction to KNIME for XAI and IML]]** (4 videos)
-- **[[#5. XAI Techniques: Global Explanations]]** (5 videos)
-- **[[#6. Techniques for Local Explanations]]** (6 videos)
-- **[[#7. IML Techniques]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Exploring the world of explainable AI and interpretable machine learning
+  - Target audience
+  - What you should know
+- [**1. What Are XAI and IML?**](#1-what-are-xai-and-iml) (7 videos)
+  - Understanding the what and why your models predict
+  - Variable importance and reason codes
+  - Comparing IML and XAI
+  - Trends in AI making the XAI problem more prominent
+  - Local and global explanations
+  - XAI for debugging models
+  - KNIME support of global and local explanations
+- [**2. Why Isolating a Variable’s Contribution Is Difficult**](#2-why-isolating-a-variables-contribution-is-difficult) (3 videos)
+  - Challenges of variable attribution with linear regression
+  - Challenges of variable attribution with neural networks
+  - Rashomon effect
+- [**3. Black Box Model 101**](#3-black-box-model-101) (4 videos)
+  - What qualifies as a black box?
+  - Why do we have black box models?
+  - What is the accuracy interpretability tradeoff?
+  - The argument against XAI
+- [**4. Introduction to KNIME for XAI and IML**](#4-introduction-to-knime-for-xai-and-iml) (4 videos)
+  - Introducing KNIME
+  - Building models in KNIME
+  - Understanding looping in KNIME
+  - Where to find available KNIME support for XAI
+- [**5. XAI Techniques: Global Explanations**](#5-xai-techniques-global-explanations) (5 videos)
+  - Providing global explanations with partial dependence plots
+  - Using surrogate models for global explanations
+  - Developing and interpreting a surrogate model with KNIME
+  - Permutation feature importance
+  - Global feature importance demo
+- [**6. Techniques for Local Explanations**](#6-techniques-for-local-explanations) (6 videos)
+  - Developing an intuition for Shapley values
+  - Introducing SHAP
+  - Using LIME to provide local explanations for neural networks
+  - What are counterfactuals?
+  - KNIME's Local Explanation View node
+  - XAI View node demonstrating KNIME
+- [**7. IML Techniques**](#7-iml-techniques) (3 videos)
+  - General advice for better IML
+  - Why feature engineering is critical for IML
+  - CORELS and recent trends
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing to explore XAI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the world of explainable AI and interpretable machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/exploring-the-world-of-explainable-ai-and-interpretable-machine-learning?u=76281980)
@@ -160,7 +196,7 @@ created: 2026-04-29
 
 ### 1. What Are XAI and IML?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the what and why your models predict
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/understanding-the-what-and-why-your-models-predict?u=76281980)
@@ -623,7 +659,7 @@ created: 2026-04-29
 
 ### 2. Why Isolating a Variable’s Contribution Is Difficult
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges of variable attribution with linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/challenges-of-variable-attribution-with-linear-regression?u=76281980)
@@ -982,7 +1018,7 @@ created: 2026-04-29
 
 ### 3. Black Box Model 101
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What qualifies as a black box?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/what-qualifies-as-a-black-box?u=76281980)
@@ -1271,7 +1307,7 @@ created: 2026-04-29
 
 ### 4. Introduction to KNIME for XAI and IML
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing KNIME
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/introducing-knime?u=76281980)
@@ -1618,7 +1654,7 @@ created: 2026-04-29
 
 ### 5. XAI Techniques: Global Explanations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing global explanations with partial dependence plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/providing-global-explanations-with-partial-dependence-plots?u=76281980)
@@ -2019,7 +2055,7 @@ created: 2026-04-29
 
 ### 6. Techniques for Local Explanations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing an intuition for Shapley values
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/developing-an-intuition-for-shapley-values?u=76281980)
@@ -2451,7 +2487,7 @@ created: 2026-04-29
 
 ### 7. IML Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### General advice for better IML
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/general-advice-for-better-iml?u=76281980)
@@ -2682,7 +2718,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to explore XAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-producing-explainable-ai-xai-and-interpretable-machine-learning-solutions/continuing-to-explore-xai?u=76281980)

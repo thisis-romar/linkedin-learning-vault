@@ -39,16 +39,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Memory Management Concepts]]** (9 videos)
-- **[[#2. Memory Management in Code]]** (5 videos)
-- **[[#3. Memory Leaks and Best Practices]]** (4 videos)
-- **[[#Glossaries]]** (0 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with memory management
+  - Are you ready to learn memory management?
+- [**1. Memory Management Concepts**](#1-memory-management-concepts) (9 videos)
+  - What is memory?
+  - Why do we need to manage the memory?
+  - Stack memory
+  - Heap memory
+  - Heap vs. stack memory
+  - Allocating memory
+  - Deallocating memory
+  - Garbage collection
+  - Actual removing or sweeping
+- [**2. Memory Management in Code**](#2-memory-management-in-code) (5 videos)
+  - The C way: Allocating memory
+  - The C way: Deallocating and reallocating memory
+  - The automagic way in modern languages
+  - Memory management in Python
+  - Memory in Python visualized
+- [**3. Memory Leaks and Best Practices**](#3-memory-leaks-and-best-practices) (4 videos)
+  - What are memory leaks?
+  - Out of Memory error
+  - Avoiding memory leaks
+  - Best practices with memory
+- [**Glossaries**](#glossaries) (0 videos)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in memory management
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/getting-started-with-memory-management?u=76281980)
@@ -143,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Memory Management Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is memory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980)
@@ -1017,7 +1038,7 @@ created: 2026-04-29
 
 ### 2. Memory Management in Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The C way: Allocating memory
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980)
@@ -1610,7 +1631,7 @@ created: 2026-04-29
 
 ### 3. Memory Leaks and Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are memory leaks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-are-memory-leaks?u=76281980)
@@ -2219,12 +2240,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980)

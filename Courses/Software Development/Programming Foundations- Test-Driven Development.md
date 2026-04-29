@@ -39,16 +39,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. TDD Methodology]]** (6 videos)
-- **[[#2. TDD Structure and Syntax]]** (5 videos)
-- **[[#3. Scaling TDD]]** (6 videos)
-- **[[#Glossaries]]** (0 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Small steps to great things
+  - What you should know
+  - What is test-driven development (TDD)?
+  - xUnit and JUnit
+  - Writing test cases
+- [**1. TDD Methodology**](#1-tdd-methodology) (6 videos)
+  - TDD and agile
+  - Where to start?
+  - Refactor to improve the design
+  - The iterative red-green-refactor cycle
+  - ✓ Challenge: Functionality
+  - ✓ Solution: Functionality
+- [**2. TDD Structure and Syntax**](#2-tdd-structure-and-syntax) (5 videos)
+  - Test structure
+  - Assertions
+  - Testing exceptions
+  - ✓ Challenge: Performance
+  - ✓ Solution: Performance
+- [**3. Scaling TDD**](#3-scaling-tdd) (6 videos)
+  - TDD tools and frameworks
+  - Assertion frameworks
+  - Test doubles
+  - Mocking
+  - ✓ Challenge: Database
+  - ✓ Solution: Database
+- [**Glossaries**](#glossaries) (0 videos)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Small steps to great things
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980)
@@ -520,7 +543,7 @@ created: 2026-04-29
 
 ### 1. TDD Methodology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### TDD and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980)
@@ -1123,7 +1146,7 @@ created: 2026-04-29
 
 ### 2. TDD Structure and Syntax
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980)
@@ -1626,7 +1649,7 @@ created: 2026-04-29
 
 ### 3. Scaling TDD
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### TDD tools and frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980)
@@ -2229,12 +2252,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/next-steps?u=76281980)

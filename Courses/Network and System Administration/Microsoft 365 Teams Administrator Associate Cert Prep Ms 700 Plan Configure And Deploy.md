@@ -44,20 +44,62 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Upgrade from Skype for Business to Microsoft Teams]]** (2 videos)
-- **[[#2. Plan and Configure Network Settings for Microsoft Teams]]** (6 videos)
-- **[[#3. Identify Licensing Requirements for Microsoft Teams]]** (5 videos)
-- **[[#4. Governance and Life-Cycle Management for Microsoft Teams]]** (8 videos)
-- **[[#5. Configure and Manage Guest Access]]** (4 videos)
-- **[[#6. Manage Security and Compliance]]** (7 videos)
-- **[[#7. Deploy and Manage Microsoft Teams Endpoints]]** (3 videos)
-- **[[#8. Monitor and Analyze Service Usage]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Need to install and secure your Microsoft Teams sessions?
+- [**1. Upgrade from Skype for Business to Microsoft Teams**](#1-upgrade-from-skype-for-business-to-microsoft-teams) (2 videos)
+  - Introduction to Teams admin center
+  - Configure coexistence mode for the organization and user
+- [**2. Plan and Configure Network Settings for Microsoft Teams**](#2-plan-and-configure-network-settings-for-microsoft-teams) (6 videos)
+  - Plan for successful network deployment: Network Planner
+  - Bandwidth capacity: Voice, video, meetings, live events
+  - Assess and troubleshoot network readiness
+  - Configure network ports and protocols used by Teams client
+  - Configure media optimizations by using QoS
+  - Configure and manage locations
+- [**3. Identify Licensing Requirements for Microsoft Teams**](#3-identify-licensing-requirements-for-microsoft-teams) (5 videos)
+  - Required licensing for compliance features
+  - Appropriate licensing for guest access
+  - Appropriate licensing: Calls, phone system, resource account
+  - Appropriate licensing for Teams Rooms, common area phones
+  - Appropriate licensing for apps in Teams
+- [**4. Governance and Life-Cycle Management for Microsoft Teams**](#4-governance-and-life-cycle-management-for-microsoft-teams) (8 videos)
+  - Plan policy assignment for users and groups
+  - Create team templates
+  - Set up policies for Office 365 Groups creation
+  - Configure Office 365 Groups: Classifications, expiration policy, naming policy
+  - Archive, unarchive, restore, and delete a team
+  - Configure and manage app policies
+  - Perform bulk user operations with PowerShell
+  - How to add a Team from scratch
+- [**5. Configure and Manage Guest Access**](#5-configure-and-manage-guest-access) (4 videos)
+  - Configure guest users, prevent users from adding guests
+  - Configure permissions for Teams
+  - Configure guest and external access for Teams
+  - Remove guests from a team organization or Entra ID (formerly Azure AD)
+- [**6. Manage Security and Compliance**](#6-manage-security-and-compliance) (7 videos)
+  - Assign Microsoft Teams admin roles
+  - Plan threat policies
+  - Creating and managing retention policies
+  - Plan for conditional access and MFA for Teams
+  - Create security and compliance alerts for Microsoft Teams
+  - Create an information barrier policy
+  - Creating sensitivity labels
+- [**7. Deploy and Manage Microsoft Teams Endpoints**](#7-deploy-and-manage-microsoft-teams-endpoints) (3 videos)
+  - Deploy Teams clients to Windows and mobile devices
+  - Manage configuration profiles
+  - Manage Microsoft Teams device tags
+- [**8. Monitor and Analyze Service Usage**](#8-monitor-and-analyze-service-usage) (5 videos)
+  - Interpret Microsoft Teams usage reports
+  - Interpret Microsoft 365 usage reports
+  - Optimize call quality by using Call Analytics
+  - Configure Tenant Data Upload in the Call Quality Dashboard
+  - Monitor and report on creation and deletion of teams
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Need to install and secure your Microsoft Teams sessions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/need-to-install-and-secure-your-microsoft-teams-sessions?u=76281980)
@@ -89,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Upgrade from Skype for Business to Microsoft Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Teams admin center
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/introduction-to-teams-admin-center?u=76281980)
@@ -210,7 +252,7 @@ created: 2026-04-29
 
 ### 2. Plan and Configure Network Settings for Microsoft Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan for successful network deployment: Network Planner
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-for-successful-network-deployment-network-planner?u=76281980)
@@ -752,7 +794,7 @@ created: 2026-04-29
 
 ### 3. Identify Licensing Requirements for Microsoft Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Required licensing for compliance features
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/required-licensing-for-compliance-features?u=76281980)
@@ -1048,7 +1090,7 @@ created: 2026-04-29
 
 ### 4. Governance and Life-Cycle Management for Microsoft Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan policy assignment for users and groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/plan-policy-assignment-for-users-and-groups?u=76281980)
@@ -1788,7 +1830,7 @@ created: 2026-04-29
 
 ### 5. Configure and Manage Guest Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure guest users, prevent users from adding guests
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/configure-guest-users-prevent-users-from-adding-guests?u=76281980)
@@ -2003,7 +2045,7 @@ created: 2026-04-29
 
 ### 6. Manage Security and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assign Microsoft Teams admin roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/assign-microsoft-teams-admin-roles?u=76281980)
@@ -2483,7 +2525,7 @@ created: 2026-04-29
 
 ### 7. Deploy and Manage Microsoft Teams Endpoints
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploy Teams clients to Windows and mobile devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/deploy-teams-clients-to-windows-and-mobile-devices?u=76281980)
@@ -2715,7 +2757,7 @@ created: 2026-04-29
 
 ### 8. Monitor and Analyze Service Usage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interpret Microsoft Teams usage reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/interpret-microsoft-teams-usage-reports?u=76281980)
@@ -3122,7 +3164,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-plan-configure-and-deploy/next-steps?u=76281980)

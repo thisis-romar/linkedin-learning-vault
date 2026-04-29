@@ -37,16 +37,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding User Motivations, Goals, and Tasks]]** (7 videos)
-- **[[#2. Designing Consumer Experiences]]** (5 videos)
-- **[[#3. Designing for Enterprise Experiences]]** (4 videos)
-- **[[#4. Designing for Modern Interfaces]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Design anything
+- [**1. Understanding User Motivations, Goals, and Tasks**](#1-understanding-user-motivations-goals-and-tasks) (7 videos)
+  - User research overview
+  - User archetypes
+  - Context of use
+  - Defining scenarios
+  - Defining design principles
+  - Designing for novices and beginners
+  - Designing for intermediate and experts
+- [**2. Designing Consumer Experiences**](#2-designing-consumer-experiences) (5 videos)
+  - Consumer experience considerations
+  - Designing ecommerce experiences
+  - Designing social experiences
+  - Designing content-rich experiences
+  - Consumer experience for mobile
+- [**3. Designing for Enterprise Experiences**](#3-designing-for-enterprise-experiences) (4 videos)
+  - Enterprise experience considerations
+  - Designing software and web applications
+  - Designing intranets
+  - Enterprise experiences for mobile
+- [**4. Designing for Modern Interfaces**](#4-designing-for-modern-interfaces) (5 videos)
+  - Designing smart home devices
+  - Designing wearables
+  - Designing voice interfaces
+  - Designing automotive transit interfaces
+  - Designing kiosks
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design anything
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/design-anything?u=76281980)
@@ -90,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Understanding User Motivations, Goals, and Tasks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### User research overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/user-research-overview?u=76281980)
@@ -573,7 +596,7 @@ created: 2026-04-29
 
 ### 2. Designing Consumer Experiences
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Consumer experience considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/consumer-experience-considerations?u=76281980)
@@ -1092,7 +1115,7 @@ created: 2026-04-29
 
 ### 3. Designing for Enterprise Experiences
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enterprise experience considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/enterprise-experience-considerations?u=76281980)
@@ -1577,7 +1600,7 @@ created: 2026-04-29
 
 ### 4. Designing for Modern Interfaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing smart home devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/designing-smart-home-devices?u=76281980)
@@ -2195,7 +2218,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-projects-and-platforms/next-steps?u=76281980)

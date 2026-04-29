@@ -68,23 +68,79 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Gearing Up for Python]]** (6 videos)
-- **[[#2. Quickstart]]** (8 videos)
-- **[[#3. Basic Data Types]]** (6 videos)
-- **[[#4. Basic Data Structures]]** (6 videos)
-- **[[#5. Control Flow]]** (4 videos)
-- **[[#6. Functions]]** (4 videos)
-- **[[#7. Classes and Objects]]** (4 videos)
-- **[[#8. Errors]]** (4 videos)
-- **[[#9. Threads and Processes]]** (3 videos)
-- **[[#10. Working with Files]]** (4 videos)
-- **[[#11. Packaging Python]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Getting started with Python
+  - Who this course is for
+  - Resources for this course
+- [**1. Gearing Up for Python**](#1-gearing-up-for-python) (6 videos)
+  - How computers think
+  - Installing Python, Pip, and Jupyter Notebooks
+  - The Zen of Python
+  - Writing a program
+  - Jupyter notebooks
+  - Using Coderpad
+- [**2. Quickstart**](#2-quickstart) (8 videos)
+  - Variables and types
+  - Data structures
+  - Operators
+  - Control flow
+  - Functions
+  - Classes and objects
+  - About the challenges
+  - Solution: Factorials
+- [**3. Basic Data Types**](#3-basic-data-types) (6 videos)
+  - Ints and floats
+  - Other types of numbers
+  - Booleans
+  - Strings
+  - Bytes
+  - Solution: Converting hex to decimal
+- [**4. Basic Data Structures**](#4-basic-data-structures) (6 videos)
+  - Lists
+  - Tuples and sets
+  - Dictionaries
+  - List comprehensions
+  - Dictionary comprehensions
+  - Solution: Encoding ASCII art
+- [**5. Control Flow**](#5-control-flow) (4 videos)
+  - If and else
+  - While
+  - For
+  - Solution: Finding primes faster
+- [**6. Functions**](#6-functions) (4 videos)
+  - The anatomy of a function
+  - Variables and scope
+  - Functions as variables
+  - Solution: Sum of triangles
+- [**7. Classes and Objects**](#7-classes-and-objects) (4 videos)
+  - The anatomy of a class
+  - Static and instance methods
+  - Inheritance
+  - Solution: Drawing shapes
+- [**8. Errors**](#8-errors) (4 videos)
+  - Errors and exceptions
+  - Handling exceptions
+  - Custom exceptions
+  - Solution: Bad arguments
+- [**9. Threads and Processes**](#9-threads-and-processes) (3 videos)
+  - Intro to threads and processes
+  - Multithreading
+  - Multiprocessing
+- [**10. Working with Files**](#10-working-with-files) (4 videos)
+  - Opening, reading, and writing
+  - CSV
+  - JSON
+  - Solution: Compressing ASCII art
+- [**11. Packaging Python**](#11-packaging-python) (2 videos)
+  - Command-line arguments
+  - Creating modules and packages
+- [**Conclusion**](#conclusion) (2 videos)
+  - Wrap up
+  - Python challenge project
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/getting-started-with-python?u=76281980)
@@ -263,7 +319,7 @@ created: 2026-04-29
 
 ### 1. Gearing Up for Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How computers think
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/how-computers-think?u=76281980)
@@ -893,7 +949,7 @@ created: 2026-04-29
 
 ### 2. Quickstart
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Variables and types
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/variables-and-types?u=76281980)
@@ -2039,7 +2095,7 @@ created: 2026-04-29
 
 ### 3. Basic Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ints and floats
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/ints-and-floats?u=76281980)
@@ -2795,7 +2851,7 @@ created: 2026-04-29
 
 ### 4. Basic Data Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/lists?u=76281980)
@@ -3594,7 +3650,7 @@ created: 2026-04-29
 
 ### 5. Control Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### If and else
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/if-and-else?u=76281980)
@@ -4056,7 +4112,7 @@ created: 2026-04-29
 
 ### 6. Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The anatomy of a function
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-function?u=76281980)
@@ -4555,7 +4611,7 @@ created: 2026-04-29
 
 ### 7. Classes and Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The anatomy of a class
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/the-anatomy-of-a-class?u=76281980)
@@ -5108,7 +5164,7 @@ created: 2026-04-29
 
 ### 8. Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Errors and exceptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/errors-and-exceptions?u=76281980)
@@ -5515,7 +5571,7 @@ created: 2026-04-29
 
 ### 9. Threads and Processes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to threads and processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/intro-to-threads-and-processes?u=76281980)
@@ -5845,7 +5901,7 @@ created: 2026-04-29
 
 ### 10. Working with Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Opening, reading, and writing
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/opening-reading-and-writing?u=76281980)
@@ -6329,7 +6385,7 @@ created: 2026-04-29
 
 ### 11. Packaging Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/command-line-arguments?u=76281980)
@@ -6676,7 +6732,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap up
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650/wrap-up?u=76281980)

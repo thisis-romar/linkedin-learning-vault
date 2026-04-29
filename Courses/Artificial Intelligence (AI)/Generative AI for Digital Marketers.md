@@ -46,15 +46,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Defining AI Terms for Marketers]]** (3 videos)
-- **[[#2. Navigating AI Tools for Marketers]]** (5 videos)
-- **[[#3. Developing Your AI Marketing Strategy]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Digital marketing meets generative AI
+- [**1. Defining AI Terms for Marketers**](#1-defining-ai-terms-for-marketers) (3 videos)
+  - Narrow versus general AI
+  - Four AI concepts marketers need to know
+  - Crafting a marketing prompt
+- [**2. Navigating AI Tools for Marketers**](#2-navigating-ai-tools-for-marketers) (5 videos)
+  - AI and writing in marketing
+  - AI and design in marketing
+  - AI and video in marketing
+  - Generative AI beyond writing and design
+  - AI, the metaverse, and immersive marketing
+- [**3. Developing Your AI Marketing Strategy**](#3-developing-your-ai-marketing-strategy) (2 videos)
+  - AI issues, risks, and policies
+  - AI workflow and marketing tools
+- [**Conclusion**](#conclusion) (1 videos)
+  - AI and your marketing and creative team
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital marketing meets generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980)
@@ -85,7 +97,7 @@ created: 2026-04-29
 
 ### 1. Defining AI Terms for Marketers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Narrow versus general AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980)
@@ -231,7 +243,7 @@ created: 2026-04-29
 
 ### 2. Navigating AI Tools for Marketers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and writing in marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980)
@@ -514,7 +526,7 @@ created: 2026-04-29
 
 ### 3. Developing Your AI Marketing Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI issues, risks, and policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980)
@@ -643,7 +655,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and your marketing and creative team
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980)

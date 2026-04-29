@@ -46,17 +46,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. How Is Digital Connected to the Environment?]]** (2 videos)
-- **[[#2. What Is the Carbon Footprint and the Digital Carbon Footprint?]]** (2 videos)
-- **[[#3. The Impact of Personal Activities on the Digital Carbon Footprint]]** (7 videos)
-- **[[#4. Your Own Carbon Fingerprint on the World]]** (2 videos)
-- **[[#5. Design Your Strategy to Reduce Digital Waste]]** (4 videos)
-- **[[#Conclusion: Become a Change Agent]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Reducing your digital footprint
+- [**1. How Is Digital Connected to the Environment?**](#1-how-is-digital-connected-to-the-environment) (2 videos)
+  - The impact and sustainability of digital transformation on the environment
+  - Responsible use of digital assets to reduce carbon footprint
+- [**2. What Is the Carbon Footprint and the Digital Carbon Footprint?**](#2-what-is-the-carbon-footprint-and-the-digital-carbon-footprint) (2 videos)
+  - What is the carbon footprint?
+  - What is digital or invisible waste?
+- [**3. The Impact of Personal Activities on the Digital Carbon Footprint**](#3-the-impact-of-personal-activities-on-the-digital-carbon-footprint) (7 videos)
+  - The impact of device use on the carbon footprint
+  - The impact on the carbon footprint of devices on standby
+  - The impact of energy consumption
+  - The impact of digital assets on the carbon footprint
+  - Technological waste: Marketing and planned obsolescence vs. real needs
+  - The impact of teleworking
+  - The impact of ecommerce
+- [**4. Your Own Carbon Fingerprint on the World**](#4-your-own-carbon-fingerprint-on-the-world) (2 videos)
+  - Awareness of our own digital impact
+  - How to measure the time of use of digital services
+- [**5. Design Your Strategy to Reduce Digital Waste**](#5-design-your-strategy-to-reduce-digital-waste) (4 videos)
+  - Goals and objectives to reduce your digital carbon footprint
+  - Implement your digital impact reduction plan
+  - Modify your behavior to reduce your carbon footprint
+  - Measure your digital carbon footprint reduction results
+- [**Conclusion: Become a Change Agent**](#conclusion-become-a-change-agent) (2 videos)
+  - Make changes in your workplace
+  - Influence others by sharing your results and best practices
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reducing your digital footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/reducing-your-digital-footprint?u=76281980)
@@ -82,7 +102,7 @@ created: 2026-04-29
 
 ### 1. How Is Digital Connected to the Environment?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The impact and sustainability of digital transformation on the environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980)
@@ -150,7 +170,7 @@ created: 2026-04-29
 
 ### 2. What Is the Carbon Footprint and the Digital Carbon Footprint?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the carbon footprint?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-the-carbon-footprint?u=76281980)
@@ -230,7 +250,7 @@ created: 2026-04-29
 
 ### 3. The Impact of Personal Activities on the Digital Carbon Footprint
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The impact of device use on the carbon footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-device-use-on-the-carbon-footprint?u=76281980)
@@ -531,7 +551,7 @@ created: 2026-04-29
 
 ### 4. Your Own Carbon Fingerprint on the World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Awareness of our own digital impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/awareness-of-our-own-digital-impact?u=76281980)
@@ -638,7 +658,7 @@ created: 2026-04-29
 
 ### 5. Design Your Strategy to Reduce Digital Waste
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Goals and objectives to reduce your digital carbon footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/goals-and-objectives-to-reduce-your-digital-carbon-footprint?u=76281980)
@@ -777,7 +797,7 @@ created: 2026-04-29
 
 ### Conclusion: Become a Change Agent
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make changes in your workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/make-changes-in-your-workplace?u=76281980)

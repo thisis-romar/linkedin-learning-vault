@@ -54,18 +54,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Fundamentals of RAG]]** (5 videos)
-- **[[#2. Introduction to Azure AI Foundry]]** (3 videos)
-- **[[#3. Setting Up Azure AI Foundry]]** (5 videos)
-- **[[#4. Creating an Index for RAG Using Azure]]** (4 videos)
-- **[[#5. Introduction to Azure Prompt Flow]]** (4 videos)
-- **[[#6. Deploying a RAG Solution]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Create a RAG solution with little coding
+- [**1. Fundamentals of RAG**](#1-fundamentals-of-rag) (5 videos)
+  - The basics of RAG: Adding custom data to your LLM
+  - Understanding tokens: A key factor of costs in your system
+  - Vector embeddings: How words connect to each other
+  - How RAG works: Understanding the process under the hood
+  - RAG high-level architecture: The required components
+- [**2. Introduction to Azure AI Foundry**](#2-introduction-to-azure-ai-foundry) (3 videos)
+  - Azure AI Foundry overview: Deploy at scale in a safe, secure, and responsible way
+  - Navigating the Azure AI Foundry
+  - Creating a project in Azure AI Foundry
+- [**3. Setting Up Azure AI Foundry**](#3-setting-up-azure-ai-foundry) (5 videos)
+  - Understanding content filters
+  - Creating content filters
+  - Creating model deployments
+  - Navigating the Playground
+  - Using the Playground and its settings
+- [**4. Creating an Index for RAG Using Azure**](#4-creating-an-index-for-rag-using-azure) (4 videos)
+  - Creating an index using Azure AI Foundry
+  - Creating an index using Azure AI Search
+  - Understanding retrieval and relevance in Azure AI Search
+  - Testing your index in the Playground
+- [**5. Introduction to Azure Prompt Flow**](#5-introduction-to-azure-prompt-flow) (4 videos)
+  - Understanding prompt flow
+  - Create a sample prompt flow for RAG
+  - Evaluation and monitoring metrics
+  - Perform evaluations on your RAG system
+- [**6. Deploying a RAG Solution**](#6-deploying-a-rag-solution) (3 videos)
+  - Deploying the RAG solution using prompt flow
+  - Testing the REST endpoint using Postman
+  - Deploying the REST endpoint to Copilot Studio and Microsoft Teams
+- [**Conclusion**](#conclusion) (2 videos)
+  - Key takeaways
+  - Additional learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a RAG solution with little coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/create-a-RAG-solution-with-little-coding?u=76281980)
@@ -94,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of RAG
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of RAG: Adding custom data to your LLM
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/the-basics-of-rag-adding-custom-data-to-your-llm?u=76281980)
@@ -409,7 +436,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Azure AI Foundry
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure AI Foundry overview: Deploy at scale in a safe, secure, and responsible way
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/azure-ai-studio-overview-deploy-at-scale-in-a-safe-secure-and-responsible-way?u=76281980)
@@ -651,7 +678,7 @@ created: 2026-04-29
 
 ### 3. Setting Up Azure AI Foundry
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding content filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-content-filters?u=76281980)
@@ -992,7 +1019,7 @@ created: 2026-04-29
 
 ### 4. Creating an Index for RAG Using Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an index using Azure AI Foundry
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/creating-an-index-using-azure-ai-studio?u=76281980)
@@ -1236,7 +1263,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Azure Prompt Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding prompt flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/understanding-prompt-flow?u=76281980)
@@ -1465,7 +1492,7 @@ created: 2026-04-29
 
 ### 6. Deploying a RAG Solution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying the RAG solution using prompt flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/deploying-the-rag-solution-using-prompt-flow?u=76281980)
@@ -1652,7 +1679,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rag-solutions-with-azure-ai-foundry-formerly-azure-ai-studio/key-takeaways?u=76281980)

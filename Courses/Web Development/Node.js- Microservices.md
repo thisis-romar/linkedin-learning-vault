@@ -52,19 +52,68 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Prepare Your Development Environment]]** (5 videos)
-- **[[#2. Planning Your Microservice Migration]]** (4 videos)
-- **[[#3. Your First Service: The Catalog Service]]** (7 videos)
-- **[[#4. Creating a Service Registry]]** (9 videos)
-- **[[#5. Using Services]]** (7 videos)
-- **[[#6. Authenticating APIs]]** (6 videos)
-- **[[#7. Adding Fault Tolerance and Resilience]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understanding how microservices are built and used
+  - What you should know
+- [**1. Prepare Your Development Environment**](#1-prepare-your-development-environment) (5 videos)
+  - Installing Git, Node.js, and Docker
+  - Getting the exercise files from GitHub
+  - Setting up Visual Studio Code, ESLint, and Prettier
+  - Launching MongoDB, Redis, and Jaeger in Docker
+  - Installing MongoDB Compass
+- [**2. Planning Your Microservice Migration**](#2-planning-your-microservice-migration) (4 videos)
+  - Setting up and exploring your sample application
+  - Understanding the sample apps code
+  - Getting insights with OpenTelemetry and Jaeger
+  - Setting your mission
+- [**3. Your First Service: The Catalog Service**](#3-your-first-service-the-catalog-service) (7 videos)
+  - What's your goal for this chapter?
+  - Creating the service
+  - Designing a REST API for the catalog service
+  - Adding business logic and database access
+  - Creating your first REST endpoint
+  - Completing the API
+  - Testing REST endpoints
+- [**4. Creating a Service Registry**](#4-creating-a-service-registry) (9 videos)
+  - What's your goal for this chapter?
+  - Setting up the registry
+  - Registering services
+  - Creating and testing the registration route
+  - Unregistering services
+  - Querying the registry
+  - Removing expired services
+  - Registering on service on start
+  - Adding heartbeat and unregistering on shutdown
+- [**5. Using Services**](#5-using-services) (7 videos)
+  - What's your goal for this chapter?
+  - Creating the service client
+  - Using the catalog service
+  - Testing the catalog service
+  - Sanitizing data
+  - Creating the CartService
+  - Service monitoring with OpenTelemetry and Jaeger
+- [**6. Authenticating APIs**](#6-authenticating-apis) (6 videos)
+  - API authentication with JWT
+  - Creating the user service
+  - Add JWT tokens to the user service
+  - Make the front end use JWT authentication
+  - Using bearer headers
+  - Protecting endpoints with JWT
+- [**7. Adding Fault Tolerance and Resilience**](#7-adding-fault-tolerance-and-resilience) (8 videos)
+  - What's your goal for this chapter?
+  - Chaos testing
+  - Adding caching to reduce load and bridge outages
+  - Using queues for decoupling
+  - Installing up RabbitMQ
+  - Setting up the order service
+  - Producing orders
+  - Consuming orders
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding how microservices are built and used
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/understanding-how-microservices-are-built-and-used?u=76281980)
@@ -129,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Prepare Your Development Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Git, Node.js, and Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/installing-git-node-js-and-docker?u=76281980)
@@ -407,7 +456,7 @@ created: 2026-04-29
 
 ### 2. Planning Your Microservice Migration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up and exploring your sample application
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/setting-up-and-exploring-your-sample-application?u=76281980)
@@ -783,7 +832,7 @@ created: 2026-04-29
 
 ### 3. Your First Service: The Catalog Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter?u=76281980)
@@ -1521,7 +1570,7 @@ created: 2026-04-29
 
 ### 4. Creating a Service Registry
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664578?u=76281980)
@@ -2631,7 +2680,7 @@ created: 2026-04-29
 
 ### 5. Using Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22664580?u=76281980)
@@ -3351,7 +3400,7 @@ created: 2026-04-29
 
 ### 6. Authenticating APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### API authentication with JWT
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/api-authentication-with-jwt?u=76281980)
@@ -4041,7 +4090,7 @@ created: 2026-04-29
 
 ### 7. Adding Fault Tolerance and Resilience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's your goal for this chapter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/what-s-your-goal-for-this-chapter-22663546?u=76281980)
@@ -4764,7 +4813,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-microservices-22685072/next-steps?u=76281980)

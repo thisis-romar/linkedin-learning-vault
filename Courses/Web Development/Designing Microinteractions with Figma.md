@@ -39,15 +39,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Figma Prototyping Basics]]** (6 videos)
-- **[[#2. Simple Microinteractions]]** (9 videos)
-- **[[#3. Advanced Microinteractions]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Microinteractions in Figma
+  - About microinteractions
+- [**1. Figma Prototyping Basics**](#1-figma-prototyping-basics) (6 videos)
+  - Start prototyping in Figma
+  - Use Figma's presentation mode
+  - Test microinteractions on different devices
+  - Define triggers for interaction
+  - Use Figma's native animation types
+  - Use smart animate for fluid microinteractions
+- [**2. Simple Microinteractions**](#2-simple-microinteractions) (9 videos)
+  - Create an On Click toggle
+  - Implementing dragging with On Drag
+  - Create a horizontal scrolling effect
+  - Create a vertical scrolling effect
+  - Create a hover effect
+  - Open overlays for messages and notifications
+  - Set a trigger delay for your action
+  - Challenge: Create a background microinteraction
+  - Solution: Create a background microinteraction
+- [**3. Advanced Microinteractions**](#3-advanced-microinteractions) (7 videos)
+  - Create interactive components in Figma
+  - Create a loading spinner
+  - Implement a download button
+  - Create a volume slider
+  - Create a drop-down menu
+  - Challenge: Create a like button
+  - Solution: Create a like button
+- [**Conclusion**](#conclusion) (1 videos)
+  - Feel confident designing your own Figma microinteraction
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microinteractions in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/microinteractions-in-figma?u=76281980)
@@ -135,7 +160,7 @@ created: 2026-04-29
 
 ### 1. Figma Prototyping Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start prototyping in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/start-prototyping-in-figma?u=76281980)
@@ -586,7 +611,7 @@ created: 2026-04-29
 
 ### 2. Simple Microinteractions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an On Click toggle
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-an-on-click-toggle?u=76281980)
@@ -1133,7 +1158,7 @@ created: 2026-04-29
 
 ### 3. Advanced Microinteractions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create interactive components in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/create-interactive-components-in-figma?u=76281980)
@@ -1862,7 +1887,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Feel confident designing your own Figma microinteraction
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-microinteractions-with-figma/feel-confident-designing-your-own-figma-microinteraction?u=76281980)

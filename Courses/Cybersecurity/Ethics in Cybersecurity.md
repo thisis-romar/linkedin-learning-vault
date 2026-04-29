@@ -42,16 +42,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Ethics 101]]** (2 videos)
-- **[[#2. Ethics in the Workplace]]** (5 videos)
-- **[[#3. Ethics and the Researcher]]** (4 videos)
-- **[[#4. Ethics on the Global Stage]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The importance of ethics
+- [**1. Ethics 101**](#1-ethics-101) (2 videos)
+  - Morals, ethics, and laws
+  - The cybersecurity community
+- [**2. Ethics in the Workplace**](#2-ethics-in-the-workplace) (5 videos)
+  - Handling sensitive information
+  - Third-party engagements
+  - Hacking back
+  - Organizational ethics
+  - Reporting an ethical violation
+- [**3. Ethics and the Researcher**](#3-ethics-and-the-researcher) (4 videos)
+  - Responsible disclosure
+  - Hacktivism
+  - Social engineering
+  - Certifications and codes of ethics
+- [**4. Ethics on the Global Stage**](#4-ethics-on-the-global-stage) (3 videos)
+  - Global impact
+  - The dark web
+  - The cybersecurity workforce
+- [**Conclusion**](#conclusion) (1 videos)
+  - Putting ethics into practice
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/the-importance-of-ethics?u=76281980)
@@ -84,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Ethics 101
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Morals, ethics, and laws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/morals-ethics-and-laws?u=76281980)
@@ -206,7 +222,7 @@ created: 2026-04-29
 
 ### 2. Ethics in the Workplace
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling sensitive information
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/handling-sensitive-information?u=76281980)
@@ -521,7 +537,7 @@ created: 2026-04-29
 
 ### 3. Ethics and the Researcher
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/responsible-disclosure?u=76281980)
@@ -772,7 +788,7 @@ created: 2026-04-29
 
 ### 4. Ethics on the Global Stage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Global impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/global-impact?u=76281980)
@@ -1031,7 +1047,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting ethics into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-cybersecurity/putting-ethics-into-practice?u=76281980)

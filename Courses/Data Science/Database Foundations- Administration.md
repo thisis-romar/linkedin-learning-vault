@@ -54,17 +54,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Backup and Restore]]** (8 videos)
-- **[[#2. Server Security]]** (5 videos)
-- **[[#3. Database Security]]** (4 videos)
-- **[[#4. High Availability]]** (4 videos)
-- **[[#5. Health and Maintenance of the System]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Administer a database server
+  - What you should know
+  - How to work with the exercise files
+- [**1. Backup and Restore**](#1-backup-and-restore) (8 videos)
+  - Backup plans
+  - Create a PostgreSQL backup
+  - Use pg_dump in the Postgres container
+  - Restore a Postgres database
+  - Create a full SQL Server backup
+  - Restore a SQL Server database
+  - Incremental and differential backups
+  - Point-in-time restores
+- [**2. Server Security**](#2-server-security) (5 videos)
+  - Principals and securables
+  - Server authentication and login accounts
+  - Granting and revoking permissions
+  - PostgreSQL role permissions
+  - SQL Server user permissions
+- [**3. Database Security**](#3-database-security) (4 videos)
+  - View permissions on PostgreSQL
+  - View permissions on SQL Server
+  - Column-level permissions
+  - Group permissions
+- [**4. High Availability**](#4-high-availability) (4 videos)
+  - Managing server uptime
+  - Standby servers
+  - Synchronize servers with log shipping
+  - Server failover clusters
+- [**5. Health and Maintenance of the System**](#5-health-and-maintenance-of-the-system) (4 videos)
+  - Server maintenance tasks
+  - Closing user sessions
+  - Reviewing system statistics
+  - Reading system logs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Administer a database server
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980)
@@ -252,7 +281,7 @@ created: 2026-04-29
 
 ### 1. Backup and Restore
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Backup plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980)
@@ -1182,7 +1211,7 @@ created: 2026-04-29
 
 ### 2. Server Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Principals and securables
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980)
@@ -1801,7 +1830,7 @@ created: 2026-04-29
 
 ### 3. Database Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### View permissions on PostgreSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980)
@@ -2193,7 +2222,7 @@ created: 2026-04-29
 
 ### 4. High Availability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing server uptime
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/managing-server-uptime?u=76281980)
@@ -2461,7 +2490,7 @@ created: 2026-04-29
 
 ### 5. Health and Maintenance of the System
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Server maintenance tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980)
@@ -2813,7 +2842,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980)

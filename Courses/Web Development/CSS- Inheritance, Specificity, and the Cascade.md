@@ -46,15 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding Inheritance]]** (6 videos)
-- **[[#2. Understanding Specificity]]** (6 videos)
-- **[[#3. Understanding the Cascade]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The big C in CSS
+  - CSS terminology refresher
+- [**1. Understanding Inheritance**](#1-understanding-inheritance) (6 videos)
+  - What is inheritance?
+  - Examples of inheritance
+  - Controlling inheritance with inherit
+  - Exploring initial, unset, revert, and all
+  - Challenge: Working with inheritance
+  - Solution: Working with inheritance
+- [**2. Understanding Specificity**](#2-understanding-specificity) (6 videos)
+  - What is specificity?
+  - How selectors and ordering impact specificity
+  - Selectors with no specificity
+  - The impact of inheritance on specificity
+  - Challenge: Explaining specificity
+  - Solution: Explaining specificity
+- [**3. Understanding the Cascade**](#3-understanding-the-cascade) (5 videos)
+  - What is the cascade?
+  - Identifying origins of CSS declarations using browser tools
+  - Sorting declarations by importance
+  - !important: Its use and abuse
+  - @layer: Impacting specificity through components
+- [**Conclusion**](#conclusion) (1 videos)
+  - Moving forward with CSS
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The big C in CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/the-big-c-in-css?u=76281980)
@@ -176,7 +196,7 @@ created: 2026-04-29
 
 ### 1. Understanding Inheritance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is inheritance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-inheritance?u=76281980)
@@ -810,7 +830,7 @@ created: 2026-04-29
 
 ### 2. Understanding Specificity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is specificity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-specificity?u=76281980)
@@ -1610,7 +1630,7 @@ created: 2026-04-29
 
 ### 3. Understanding the Cascade
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the cascade?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/what-is-the-cascade?u=76281980)
@@ -2277,7 +2297,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving forward with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-inheritance-specificity-and-the-cascade/moving-forward-with-css?u=76281980)

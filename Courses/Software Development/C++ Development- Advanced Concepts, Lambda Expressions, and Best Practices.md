@@ -48,20 +48,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Operator Overloads]]** (5 videos)
-- **[[#2. Move Semantics]]** (7 videos)
-- **[[#3. Lambda Expressions]]** (4 videos)
-- **[[#4. Constraints and Concepts]]** (3 videos)
-- **[[#5. Optionals and Variants]]** (3 videos)
-- **[[#6. Concurrency]]** (6 videos)
-- **[[#7. Other Subjects]]** (5 videos)
-- **[[#8. Other C++20 New Features]]** (4 videos)
-- **[[#Final Project and Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - About this course
+  - Using the exercise files
+- [**1. Operator Overloads**](#1-operator-overloads) (5 videos)
+  - Operator overloads
+  - Nonmember operators
+  - Conversion operators
+  - Increment and decrement operators
+  - Functors
+- [**2. Move Semantics**](#2-move-semantics) (7 videos)
+  - What is move semantics?
+  - Understanding lvalues and rvalues
+  - Using std::move
+  - The move constructor
+  - The move assignment operator
+  - The copy-and-swap idiom
+  - Rule of three and five
+- [**3. Lambda Expressions**](#3-lambda-expressions) (4 videos)
+  - Lambda syntax
+  - Closures
+  - Algorithm predicates
+  - Challenge: A Lambda jump table
+- [**4. Constraints and Concepts**](#4-constraints-and-concepts) (3 videos)
+  - Why constraints?
+  - Constraint syntax
+  - Defining concepts
+- [**5. Optionals and Variants**](#5-optionals-and-variants) (3 videos)
+  - The optional class
+  - The any class
+  - The variant class
+- [**6. Concurrency**](#6-concurrency) (6 videos)
+  - Sleeping
+  - Threads
+  - The async function
+  - Mutex and lock
+  - Atomic variables
+  - The producer-consumer idiom
+- [**7. Other Subjects**](#7-other-subjects) (5 videos)
+  - Initialization
+  - Structured bindings
+  - Random number engines
+  - The chrono library
+  - The filesystem library
+- [**8. Other C++20 New Features**](#8-other-c20-new-features) (4 videos)
+  - The format library
+  - The spaceship operator
+  - Integer comparisons
+  - The span class
+- [**Final Project and Conclusion**](#final-project-and-conclusion) (2 videos)
+  - Final project: Numword
+  - Thank you
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### About this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/about-this-course-18745415?u=76281980)
@@ -147,7 +188,7 @@ created: 2026-04-29
 
 ### 1. Operator Overloads
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Operator overloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/operator-overloads-18749200?u=76281980)
@@ -786,7 +827,7 @@ created: 2026-04-29
 
 ### 2. Move Semantics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is move semantics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/what-is-move-semantics-18748264?u=76281980)
@@ -1406,7 +1447,7 @@ created: 2026-04-29
 
 ### 3. Lambda Expressions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lambda syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/lambda-syntax-18745407?u=76281980)
@@ -1739,7 +1780,7 @@ created: 2026-04-29
 
 ### 4. Constraints and Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why constraints?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/why-constraints-18747304?u=76281980)
@@ -2004,7 +2045,7 @@ created: 2026-04-29
 
 ### 5. Optionals and Variants
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The optional class
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-optional-class-18747308?u=76281980)
@@ -2216,7 +2257,7 @@ created: 2026-04-29
 
 ### 6. Concurrency
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sleeping
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/sleeping-18750200?u=76281980)
@@ -2783,7 +2824,7 @@ created: 2026-04-29
 
 ### 7. Other Subjects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Initialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/initialization-18748260?u=76281980)
@@ -3540,7 +3581,7 @@ created: 2026-04-29
 
 ### 8. Other C++20 New Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The format library
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/the-format-library-18748263?u=76281980)
@@ -3932,7 +3973,7 @@ created: 2026-04-29
 
 ### Final Project and Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project: Numword
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-development-advanced-concepts-lambda-expressions-and-best-practices/final-project-numword-18750196?u=76281980)

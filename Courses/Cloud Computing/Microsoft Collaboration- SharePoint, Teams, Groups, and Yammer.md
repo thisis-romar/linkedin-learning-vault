@@ -49,15 +49,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started with Microsoft Collaboration]]** (5 videos)
-- **[[#2. Creating Spaces for Collaboration]]** (6 videos)
-- **[[#3. Putting It Together in Teams]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Collaborate with Teams, SharePoint, Microsoft 365 Groups, and Yammer
+  - What you need to know
+- [**1. Getting Started with Microsoft Collaboration**](#1-getting-started-with-microsoft-collaboration) (5 videos)
+  - How collaboration begins
+  - Microsoft Teams for collaboration
+  - SharePoint for collaboration
+  - Microsoft 365 Groups for collaboration
+  - Yammer for collaboration
+- [**2. Creating Spaces for Collaboration**](#2-creating-spaces-for-collaboration) (6 videos)
+  - Create a team and a channel
+  - Create a team from an existing group
+  - Create a SharePoint team site
+  - Create a Microsoft 365 group
+  - Create a Yammer community
+  - Collaborating with Microsoft tools
+- [**3. Putting It Together in Teams**](#3-putting-it-together-in-teams) (6 videos)
+  - Teams as your collaboration hub
+  - Add cloud storage to Teams
+  - Make a file its own tab in Teams
+  - Display a SharePoint page in Teams
+  - Display a SharePoint list in Teams
+  - Display a Yammer community in Teams
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaborate with Teams, SharePoint, Microsoft 365 Groups, and Yammer
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/collaborate-with-teams-sharepoint-microsoft-365-groups-and-yammer?u=76281980)
@@ -125,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Microsoft Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How collaboration begins
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/how-collaboration-begins?u=76281980)
@@ -444,7 +464,7 @@ created: 2026-04-29
 
 ### 2. Creating Spaces for Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a team and a channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/create-a-team-and-a-channel?u=76281980)
@@ -1018,7 +1038,7 @@ created: 2026-04-29
 
 ### 3. Putting It Together in Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Teams as your collaboration hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/teams-as-your-collaboration-hub?u=76281980)
@@ -1461,7 +1481,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-collaboration-sharepoint-teams-groups-and-yammer-2022/next-steps?u=76281980)

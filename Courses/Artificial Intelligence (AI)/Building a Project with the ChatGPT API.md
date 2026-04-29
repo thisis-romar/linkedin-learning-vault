@@ -53,21 +53,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding the OpenAI Platform]]** (3 videos)
-- **[[#2. Exploring the OpenAI API]]** (8 videos)
-- **[[#3. Setting Up Your Environment]]** (3 videos)
-- **[[#4. Writing a Prompt for ChatGPT]]** (4 videos)
-- **[[#5. Constructing a Multi-Turn Conversation with ChatGPT]]** (3 videos)
-- **[[#6. Generating an Image Using DALL-E]]** (4 videos)
-- **[[#7. Integrating with the Twitter API]]** (4 videos)
-- **[[#8. Troubleshooting Errors and Getting Help]]** (2 videos)
-- **[[#9. Effectively Managing API Costs]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to the OpenAI API
+  - Review the OpenAI API scenario
+- [**1. Understanding the OpenAI Platform**](#1-understanding-the-openai-platform) (3 videos)
+  - Explore the OpenAI platform
+  - Understand generative AI models
+  - Access models using the OpenAI API
+- [**2. Exploring the OpenAI API**](#2-exploring-the-openai-api) (8 videos)
+  - Create chatbots using chat completion
+  - Generate text using text completion
+  - Measure relatedness using embeddings
+  - Turn audio into text using Whisper
+  - Generate images using DALL-E
+  - Customize a model using fine-tuning
+  - Examine key concepts
+  - Understand pricing models
+- [**3. Setting Up Your Environment**](#3-setting-up-your-environment) (3 videos)
+  - Install Python and Jupyter Notebook
+  - Sign up for an OpenAI API account
+  - Test the APIs
+- [**4. Writing a Prompt for ChatGPT**](#4-writing-a-prompt-for-chatgpt) (4 videos)
+  - Explore chat completion API call
+  - Review chat completion API response
+  - Challenge: Build a dialog using chat completion
+  - Solution: Build a dialog using chat completion
+- [**5. Constructing a Multi-Turn Conversation with ChatGPT**](#5-constructing-a-multi-turn-conversation-with-chatgpt) (3 videos)
+  - Construct a multi-turn conversation
+  - Challenge: Generate tweet content using chat completion
+  - Solution: Generate tweet content using chat completion
+- [**6. Generating an Image Using DALL-E**](#6-generating-an-image-using-dall-e) (4 videos)
+  - Explore images API call
+  - Review images API response
+  - Challenge: Generate images using images API
+  - Solution: Generate images using images API
+- [**7. Integrating with the Twitter API**](#7-integrating-with-the-twitter-api) (4 videos)
+  - Sign up for a Twitter API account
+  - Explore Twitter API call and response
+  - Challenge: Post a tweet using the Twitter API
+  - Solution: Post a tweet using the Twitter API
+- [**8. Troubleshooting Errors and Getting Help**](#8-troubleshooting-errors-and-getting-help) (2 videos)
+  - Understand common error codes
+  - Get help from the community
+- [**9. Effectively Managing API Costs**](#9-effectively-managing-api-costs) (1 videos)
+  - Manage your spend
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your OpenAI API journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/introduction-to-the-openai-api?u=76281980)
@@ -141,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Understanding the OpenAI Platform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the OpenAI platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-the-openai-platform?u=76281980)
@@ -345,7 +380,7 @@ created: 2026-04-29
 
 ### 2. Exploring the OpenAI API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create chatbots using chat completion
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/create-chatbots-using-chat-completion?u=76281980)
@@ -1105,7 +1140,7 @@ created: 2026-04-29
 
 ### 3. Setting Up Your Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install Python and Jupyter Notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/install-python-and-jupyter-notebook?u=76281980)
@@ -1348,7 +1383,7 @@ created: 2026-04-29
 
 ### 4. Writing a Prompt for ChatGPT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore chat completion API call
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-chat-completion-api-call?u=76281980)
@@ -1717,7 +1752,7 @@ created: 2026-04-29
 
 ### 5. Constructing a Multi-Turn Conversation with ChatGPT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Construct a multi-turn conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/construct-a-multi-turn-conversation?u=76281980)
@@ -1977,7 +2012,7 @@ created: 2026-04-29
 
 ### 6. Generating an Image Using DALL-E
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore images API call
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/explore-images-api-call?u=76281980)
@@ -2271,7 +2306,7 @@ created: 2026-04-29
 
 ### 7. Integrating with the Twitter API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign up for a Twitter API account
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/sign-up-for-a-twitter-api-account?u=76281980)
@@ -2553,7 +2588,7 @@ created: 2026-04-29
 
 ### 8. Troubleshooting Errors and Getting Help
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand common error codes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/understand-common-error-codes?u=76281980)
@@ -2668,7 +2703,7 @@ created: 2026-04-29
 
 ### 9. Effectively Managing API Costs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage your spend
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/manage-your-spend?u=76281980)
@@ -2737,7 +2772,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your OpenAI API journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-project-with-the-chatgpt-api/your-openai-api-journey?u=76281980)

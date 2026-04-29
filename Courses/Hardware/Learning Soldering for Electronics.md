@@ -46,17 +46,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setting Up Your Workbench for Soldering]]** (5 videos)
-- **[[#2. Making Connections with Solder]]** (5 videos)
-- **[[#3. Soldering through Hole Components]]** (10 videos)
-- **[[#4. Surface Mount Soldering]]** (4 videos)
-- **[[#5. How to Fix Mistakes]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Solder for electronic products and manufacturing
+  - What you need to know about soldering electronics
+- [**1. Setting Up Your Workbench for Soldering**](#1-setting-up-your-workbench-for-soldering) (5 videos)
+  - Set up a safe work environment when soldering
+  - Basic hand tools used when soldering electronics
+  - What to look for when buying a soldering iron
+  - Available soldering Iron accessories
+  - Secure your work for better connections
+- [**2. Making Connections with Solder**](#2-making-connections-with-solder) (5 videos)
+  - Types of solder used in soldering electronics
+  - The importance of the various available fluxes used in soldering
+  - Set up a new soldering iron
+  - How to make secure connections between wires
+  - How to solder wires to electronic components
+- [**3. Soldering through Hole Components**](#3-soldering-through-hole-components) (10 videos)
+  - Solder an LED into a PCB
+  - Solder a standard resistor into a PCB
+  - Solder a standard capacitor into a PCB
+  - PCB design files
+  - Ordering a PCB and components
+  - Identify and order components
+  - Identification of part and the board
+  - Soldering complex components with lots of pins
+  - How to solder heavy-duty components
+  - Clean up your solder connections
+- [**4. Surface Mount Soldering**](#4-surface-mount-soldering) (4 videos)
+  - First steps when soldering a surface mount component
+  - Solder a surface mount component with a soldering iron
+  - Use a solder stencil for applying solder paste
+  - Solder a surface mount component with a hot air rework station
+- [**5. How to Fix Mistakes**](#5-how-to-fix-mistakes) (8 videos)
+  - Too much solder on a through hole component
+  - Too little solder on a through hole component
+  - Fixing a cold solder joint
+  - Fix a disturbed solder joint
+  - Remove a through hole component
+  - What to do when you have too much solder on surface mount component
+  - How to remove a surface mount integrated circuit
+  - Repair a mistake in a PCB
+- [**Conclusion**](#conclusion) (1 videos)
+  - Things you can do after you learn to solder
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solder for electronic products and manufacturing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-for-electronic-products-and-manufacturing?u=76281980)
@@ -155,7 +190,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Workbench for Soldering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up a safe work environment when soldering
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/set-up-a-safe-work-environment-when-soldering?u=76281980)
@@ -709,7 +744,7 @@ created: 2026-04-29
 
 ### 2. Making Connections with Solder
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of solder used in soldering electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/types-of-solder-used-in-soldering-electronics?u=76281980)
@@ -1389,7 +1424,7 @@ created: 2026-04-29
 
 ### 3. Soldering through Hole Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solder an LED into a PCB
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/solder-an-led-into-a-pcb?u=76281980)
@@ -2356,7 +2391,7 @@ created: 2026-04-29
 
 ### 4. Surface Mount Soldering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### First steps when soldering a surface mount component
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/first-steps-when-soldering-a-surface-mount-component?u=76281980)
@@ -2923,7 +2958,7 @@ created: 2026-04-29
 
 ### 5. How to Fix Mistakes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Too much solder on a through hole component
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/too-much-solder-on-a-through-hole-component?u=76281980)
@@ -3493,7 +3528,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Things you can do after you learn to solder
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-soldering-for-electronics/things-you-can-do-after-you-learn-to-solder?u=76281980)

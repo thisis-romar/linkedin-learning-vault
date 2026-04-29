@@ -39,12 +39,18 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Custom GPTs]]** (5 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Create your own powerful GPTs
+- [**1. Custom GPTs**](#1-custom-gpts) (5 videos)
+  - Analyze an archive of PDFs
+  - Extract text from images
+  - Generate images for social media posts
+  - Career coach
+  - GPTs for feedback
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your own powerful GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/create-your-own-powerful-gpts?u=76281980)
@@ -80,7 +86,7 @@ created: 2026-04-29
 
 ### 1. Custom GPTs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze an archive of PDFs
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-your-work-with-custom-gpts-no-code-required-2025/analyze-an-archive-of-pdfs?u=76281980)

@@ -52,22 +52,70 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Big Picture]]** (7 videos)
-- **[[#2. Azure Basics]]** (4 videos)
-- **[[#3. Azure App Service]]** (4 videos)
-- **[[#4. APIs and API Management]]** (2 videos)
-- **[[#5. Code and Workflows]]** (2 videos)
-- **[[#6. Azure Storage]]** (4 videos)
-- **[[#7. Azure Databases]]** (3 videos)
-- **[[#8. Infrastructure]]** (3 videos)
-- **[[#9. DevOps]]** (5 videos)
-- **[[#10. Other Services]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Azure from a 10,000-foot view
+  - Getting the best out of this course
+  - The fluctuating nature of the Azure portal
+- [**1. The Big Picture**](#1-the-big-picture) (7 videos)
+  - What is the cloud?
+  - Benefits of using the cloud
+  - What is infrastructure as a service (IaaS)?
+  - What is software as a service (SaaS)?
+  - What is platform as a service (PaaS)?
+  - What is services as a service (SEaaS)?
+  - Surveying the cloud market leaders
+- [**2. Azure Basics**](#2-azure-basics) (4 videos)
+  - Subscription choices for Azure
+  - Understand Azure costs and fees
+  - The broad world of Azure services
+  - A quick tour of the Azure portal
+- [**3. Azure App Service**](#3-azure-app-service) (4 videos)
+  - A quick tour of Azure app service
+  - Relationship between Azure app service and app service plan
+  - Build a new app service
+  - Explore a web app on app service
+- [**4. APIs and API Management**](#4-apis-and-api-management) (2 videos)
+  - Host Web APIs on app service
+  - Manage APIs with Azure API management service
+- [**5. Code and Workflows**](#5-code-and-workflows) (2 videos)
+  - Run serverless code with Azure Functions
+  - Building powerful workflows with logic apps
+- [**6. Azure Storage**](#6-azure-storage) (4 videos)
+  - A quick tour of Azure Storage
+  - Store any kind of object in blob storage
+  - Blob storage example
+  - File share example
+- [**7. Azure Databases**](#7-azure-databases) (3 videos)
+  - A quick tour of Azure databases
+  - Explore Cosmos DB, the multimodel, no-SQL database
+  - Cosmos DB in action
+- [**8. Infrastructure**](#8-infrastructure) (3 videos)
+  - Protect access to services with Microsoft Entra ID
+  - Explore the Azure networking components
+  - Build out your system with virtual machines
+- [**9. DevOps**](#9-devops) (5 videos)
+  - Enhance development and deployment with Azure DevOps
+  - Simplify app deployment with containers
+  - GitHub and Azure
+  - Azure deployment environments: Streamline cloud infrastructure management
+  - Microsoft Dev Box: A cloud-based development workstation
+- [**10. Other Services**](#10-other-services) (10 videos)
+  - The Azure AI family
+  - Messaging with event grid, event hub, or service bus
+  - Send mobile notifications with notification hubs
+  - Use media services to encode and stream media
+  - Manage IoT devices
+  - Azure Virtual Desktop: Remote work with cloud-based desktops
+  - Azure Arc: Unify multicloud and on-premises management
+  - Back up and recover data with Azure Backup
+  - The Azure Marketplace: Use partner services
+  - The rest of the services
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure from a 10,000-foot view
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/azure-from-a-10-000-foot-view?u=76281980)
@@ -196,7 +244,7 @@ created: 2026-04-29
 
 ### 1. The Big Picture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/what-is-the-cloud?u=76281980)
@@ -905,7 +953,7 @@ created: 2026-04-29
 
 ### 2. Azure Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Subscription choices for Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/subscription-choices-for-azure?u=76281980)
@@ -1419,7 +1467,7 @@ created: 2026-04-29
 
 ### 3. Azure App Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick tour of Azure app service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-app-service?u=76281980)
@@ -1870,7 +1918,7 @@ created: 2026-04-29
 
 ### 4. APIs and API Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Host Web APIs on app service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/host-web-apis-on-app-service?u=76281980)
@@ -2057,7 +2105,7 @@ created: 2026-04-29
 
 ### 5. Code and Workflows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Run serverless code with Azure Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/run-serverless-code-with-azure-functions?u=76281980)
@@ -2424,7 +2472,7 @@ created: 2026-04-29
 
 ### 6. Azure Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick tour of Azure Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-storage?u=76281980)
@@ -2818,7 +2866,7 @@ created: 2026-04-29
 
 ### 7. Azure Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick tour of Azure databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/a-quick-tour-of-azure-databases?u=76281980)
@@ -3244,7 +3292,7 @@ created: 2026-04-29
 
 ### 8. Infrastructure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect access to services with Microsoft Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/protect-access-to-services-with-microsoft-entra-id?u=76281980)
@@ -3495,7 +3543,7 @@ created: 2026-04-29
 
 ### 9. DevOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhance development and deployment with Azure DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/enhance-development-and-deployment-with-azure-devops?u=76281980)
@@ -3922,7 +3970,7 @@ created: 2026-04-29
 
 ### 10. Other Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Azure AI family
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/the-azure-ai-family?u=76281980)
@@ -5091,7 +5139,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-understanding-the-big-picture-24392017/next-steps?u=76281980)

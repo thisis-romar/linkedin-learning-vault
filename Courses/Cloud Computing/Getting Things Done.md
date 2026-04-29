@@ -51,14 +51,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Things Done]]** (6 videos)
-- **[[#2. Implications of Getting Things Done]]** (4 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Benefits of Getting Things Done
+  - The five steps of Getting Things Done
+- [**1. Getting Things Done**](#1-getting-things-done) (6 videos)
+  - Step 1: Capturing things
+  - Step 2: Clarifying meaning
+  - Do, delegate, defer
+  - Step 3: Organizing where things belong
+  - Step 4: Reflecting on and reviewing your tasks
+  - Step 5: Engaging the tasks
+- [**2. Implications of Getting Things Done**](#2-implications-of-getting-things-done) (4 videos)
+  - What makes getting things done different?
+  - How long does it take to implement?
+  - How do I stick with it?
+  - How to scale Getting Things Done
+- [**3. Conclusion**](#3-conclusion) (1 videos)
+  - Getting started with Getting Things Done
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of Getting Things Done
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/benefits-of-getting-things-done-23474905?u=76281980)
@@ -155,7 +168,7 @@ created: 2026-04-29
 
 ### 1. Getting Things Done
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Step 1: Capturing things
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/step-1-capturing-things?u=76281980)
@@ -652,7 +665,7 @@ created: 2026-04-29
 
 ### 2. Implications of Getting Things Done
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes getting things done different?
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/what-makes-getting-things-done-different-23474904?u=76281980)
@@ -842,7 +855,7 @@ created: 2026-04-29
 
 ### 3. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Getting Things Done
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-things-done/getting-started-with-getting-things-done?u=76281980)

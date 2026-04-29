@@ -46,14 +46,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Microsoft Security Copilot Fundamentals]]** (4 videos)
-- **[[#2. Microsoft Security Copilot in Action]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introducing Microsoft Security Copilot
+  - What you should know
+- [**1. Microsoft Security Copilot Fundamentals**](#1-microsoft-security-copilot-fundamentals) (4 videos)
+  - What is Microsoft Security Copilot?
+  - The key concepts of Microsoft Security Copilot
+  - The workflow of Microsoft Security Copilot
+  - Get started with Microsoft Security Copilot
+- [**2. Microsoft Security Copilot in Action**](#2-microsoft-security-copilot-in-action) (7 videos)
+  - Create effective prompts in Microsoft Security Copilot
+  - Using plugins in Microsoft Security Copilot
+  - Handle incidents with Microsoft Security Copilot
+  - Analyze vulnerabilities with Microsoft Security Copilot
+  - Analyze suspicious code with Microsoft Security Copilot
+  - Query uploaded files with Microsoft Security Copilot
+  - Using promptbooks in Microsoft Security Copilot
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Microsoft Security Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/introducing-microsoft-security-copilot?u=76281980)
@@ -102,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Microsoft Security Copilot Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Microsoft Security Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/what-is-microsoft-copilot-for-security?u=76281980)
@@ -378,7 +392,7 @@ created: 2026-04-29
 
 ### 2. Microsoft Security Copilot in Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create effective prompts in Microsoft Security Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/create-effective-prompts-in-microsoft-security-copilot?u=76281980)
@@ -957,7 +971,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-copilot-25324722/course-conclusion?u=76281980)

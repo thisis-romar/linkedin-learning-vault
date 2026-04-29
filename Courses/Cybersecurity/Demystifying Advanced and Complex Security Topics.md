@@ -46,17 +46,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Foundational Concepts]]** (2 videos)
-- **[[#2. Threats and Attacks]]** (3 videos)
-- **[[#3. Modern Security Approaches]]** (5 videos)
-- **[[#4. Cloud and Compliance]]** (2 videos)
-- **[[#5. Topics of the Future]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Advanced cyber concepts simplified
+- [**1. Foundational Concepts**](#1-foundational-concepts) (2 videos)
+  - Threats, risks, and vulnerabilities
+  - Defense in depth
+- [**2. Threats and Attacks**](#2-threats-and-attacks) (3 videos)
+  - Insider threat
+  - Ransomware
+  - Denial of service attacks
+- [**3. Modern Security Approaches**](#3-modern-security-approaches) (5 videos)
+  - Passwordless authentication
+  - Zero Trust model
+  - Threat modeling
+  - Web application firewall vs. traditional firewall
+  - Shifting left
+- [**4. Cloud and Compliance**](#4-cloud-and-compliance) (2 videos)
+  - Compliance vs. security
+  - Native vs. third-party security services
+- [**5. Topics of the Future**](#5-topics-of-the-future) (1 videos)
+  - Post-quantum cryptography
+- [**Conclusion**](#conclusion) (1 videos)
+  - Spread your new found expertise
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced cyber concepts simplified
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/advanced-cyber-concepts-simplified?u=76281980)
@@ -89,7 +104,7 @@ created: 2026-04-29
 
 ### 1. Foundational Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Threats, risks, and vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/threats-risks-and-vulnerabilities?u=76281980)
@@ -234,7 +249,7 @@ created: 2026-04-29
 
 ### 2. Threats and Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Insider threat
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/insider-threat?u=76281980)
@@ -392,7 +407,7 @@ created: 2026-04-29
 
 ### 3. Modern Security Approaches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Passwordless authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/passwordless-authentication?u=76281980)
@@ -688,7 +703,7 @@ created: 2026-04-29
 
 ### 4. Cloud and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Compliance vs. security
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/compliance-vs-security?u=76281980)
@@ -810,7 +825,7 @@ created: 2026-04-29
 
 ### 5. Topics of the Future
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Post-quantum cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/post-quantum-cryptography?u=76281980)
@@ -870,7 +885,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spread your new found expertise
 > [LinkedIn Learning](https://www.linkedin.com/learning/demystifying-advanced-and-complex-security-topics/spread-your-new-found-expertise?u=76281980)

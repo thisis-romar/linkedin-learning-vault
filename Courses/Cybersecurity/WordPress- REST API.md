@@ -49,16 +49,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Exploring the WordPress REST API]]** (9 videos)
-- **[[#2. Modify the REST API Response]]** (5 videos)
-- **[[#3. Authentication and Authorization]]** (6 videos)
-- **[[#4. Practical Examples]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - RESTful WordPress through an API
+  - Prerequisites for this course
+- [**1. Exploring the WordPress REST API**](#1-exploring-the-wordpress-rest-api) (9 videos)
+  - What is the WordPress REST API?
+  - What are RESTful APIs and JSON?
+  - Routes and endpoints
+  - Communicating with the REST API
+  - Explore the REST API response
+  - Useful routes: A quick reference
+  - Expanding the response with embeds
+  - Challenge: Find posts in a category
+  - Solution: Find posts in a category
+- [**2. Modify the REST API Response**](#2-modify-the-rest-api-response) (5 videos)
+  - Notes on modifying a REST API response
+  - Add custom post types and taxonomies
+  - Add custom fields to the response
+  - Challenge: Add fields to the response
+  - Solution: Add fields to the response
+- [**3. Authentication and Authorization**](#3-authentication-and-authorization) (6 videos)
+  - Authentication and authorization
+  - Basic authentication (development only)
+  - Cookie authentication
+  - JWT: JSON Web Token authentication
+  - Add JWT support with a plugin
+  - Test JWT authentication via REST client
+- [**4. Practical Examples**](#4-practical-examples) (7 videos)
+  - Four practical examples
+  - Read only: Load next post using REST API
+  - Cookie authentication: Front-end editing
+  - Basic standalone app
+  - JWT authentication: Third-party editing
+  - Challenge: Add dynamic related posts navigation
+  - Solution: Add dynamic related posts navigation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### RESTful WordPress through an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980)
@@ -119,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Exploring the WordPress REST API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the WordPress REST API?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980)
@@ -950,7 +980,7 @@ created: 2026-04-29
 
 ### 2. Modify the REST API Response
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Notes on modifying a REST API response
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/notes-on-modifying-a-rest-api-response?u=76281980)
@@ -1339,7 +1369,7 @@ created: 2026-04-29
 
 ### 3. Authentication and Authorization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication and authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980)
@@ -1928,7 +1958,7 @@ created: 2026-04-29
 
 ### 4. Practical Examples
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Four practical examples
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/four-practical-examples?u=76281980)
@@ -2740,7 +2770,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980)

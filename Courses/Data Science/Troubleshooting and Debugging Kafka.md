@@ -48,19 +48,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introducing Cloud-Native Kafka on Confluent]]** (6 videos)
-- **[[#2. Observing Consumers and Brokers]]** (4 videos)
-- **[[#3. Processing Kafka Streams]]** (4 videos)
-- **[[#4. Monitoring Consumer Groups]]** (6 videos)
-- **[[#5. Monitoring Multi-Broker Clusters]]** (5 videos)
-- **[[#6. Debugging Brokers and Consumers]]** (3 videos)
-- **[[#7. Configuring Alerts]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Overview of troubleshooting and debugging Kafka
+- [**1. Introducing Cloud-Native Kafka on Confluent**](#1-introducing-cloud-native-kafka-on-confluent) (6 videos)
+  - Prerequisites
+  - An overview of Apache Kafka
+  - The Confluent platform
+  - Downloading the Confluent platform binaries
+  - Running the Confluent platform locally
+  - Overview of the control center
+- [**2. Observing Consumers and Brokers**](#2-observing-consumers-and-brokers) (4 videos)
+  - Observing message production and consumption
+  - Produce messages using the control center
+  - Using datagen to generate synthetic data
+  - Observing consumers
+- [**3. Processing Kafka Streams**](#3-processing-kafka-streams) (4 videos)
+  - Understanding ksqlDB
+  - Creating streams and tables using ksqlDB
+  - Performing join and windowing operations
+  - Viewing streams and tables
+- [**4. Monitoring Consumer Groups**](#4-monitoring-consumer-groups) (6 videos)
+  - Programmatically produce messages using Python
+  - Troubleshooting partition usage
+  - Consumer groups
+  - Monitoring consumption in a consumer group
+  - Debugging consumption lag
+  - Monitoring consumer group rebalancing
+- [**5. Monitoring Multi-Broker Clusters**](#5-monitoring-multi-broker-clusters) (5 videos)
+  - Configuration properties for a multi-broker cluster
+  - Running a multi-broker cluster on the Confluent platform
+  - Monitoring brokers
+  - Observing partitions and replication
+  - Monitoring broker throughput and latency
+- [**6. Debugging Brokers and Consumers**](#6-debugging-brokers-and-consumers) (3 videos)
+  - Debugging failed brokers, part 1
+  - Debugging failed brokers, part 2
+  - Debugging slow consumers
+- [**7. Configuring Alerts**](#7-configuring-alerts) (2 videos)
+  - Configuring alerts
+  - Configuring email settings for alerts
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of troubleshooting and debugging Kafka
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980)
@@ -144,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Introducing Cloud-Native Kafka on Confluent
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980)
@@ -631,7 +663,7 @@ created: 2026-04-29
 
 ### 2. Observing Consumers and Brokers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Observing message production and consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-message-production-and-consumption?u=76281980)
@@ -1072,7 +1104,7 @@ created: 2026-04-29
 
 ### 3. Processing Kafka Streams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding ksqlDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980)
@@ -1418,7 +1450,7 @@ created: 2026-04-29
 
 ### 4. Monitoring Consumer Groups
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Programmatically produce messages using Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980)
@@ -2002,7 +2034,7 @@ created: 2026-04-29
 
 ### 5. Monitoring Multi-Broker Clusters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuration properties for a multi-broker cluster
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuration-properties-for-a-multi-broker-cluster?u=76281980)
@@ -2497,7 +2529,7 @@ created: 2026-04-29
 
 ### 6. Debugging Brokers and Consumers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging failed brokers, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-1?u=76281980)
@@ -2768,7 +2800,7 @@ created: 2026-04-29
 
 ### 7. Configuring Alerts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring alerts
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980)
@@ -3035,7 +3067,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980)

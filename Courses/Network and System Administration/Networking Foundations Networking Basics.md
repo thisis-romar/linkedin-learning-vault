@@ -56,19 +56,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. A Network's Purpose in Life]]** (3 videos)
-- **[[#2. Network Addresses]]** (3 videos)
-- **[[#3. Pieces and Parts of a Network]]** (6 videos)
-- **[[#4. The OSI Model]]** (3 videos)
-- **[[#5. Network Services]]** (5 videos)
-- **[[#6. Wireless Networks]]** (4 videos)
-- **[[#7. Emerging Trends in Networking]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to the network
+- [**1. A Network's Purpose in Life**](#1-a-networks-purpose-in-life) (3 videos)
+  - A high-level look at a network
+  - Benefits of a network
+  - How you're using networking every day
+- [**2. Network Addresses**](#2-network-addresses) (3 videos)
+  - MAC addresses
+  - IP version 4 addresses
+  - IP version 6 addresses
+- [**3. Pieces and Parts of a Network**](#3-pieces-and-parts-of-a-network) (6 videos)
+  - Network interface cards
+  - Switches
+  - Routers
+  - Wireless access points
+  - Copper cabling
+  - Fiber-optic cabling
+- [**4. The OSI Model**](#4-the-osi-model) (3 videos)
+  - Learning the seven layers
+  - Comparison to the TCP/IP model
+  - Common protocols to know
+- [**5. Network Services**](#5-network-services) (5 videos)
+  - DHCP overview
+  - DNS overview
+  - NAT overview
+  - NTP overview
+  - QoS overview
+- [**6. Wireless Networks**](#6-wireless-networks) (4 videos)
+  - Types of wireless LANs
+  - 2.4 GHz vs. 5 GHz wireless networking
+  - 6 GHz frequency band
+  - Wireless network antenna types
+- [**7. Emerging Trends in Networking**](#7-emerging-trends-in-networking) (4 videos)
+  - Software-defined networking (SDN)
+  - Virtualization
+  - Cloud technologies
+  - 5G and Wi-Fi 6
+- [**Conclusion**](#conclusion) (1 videos)
+  - Keep networking
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/welcome-to-the-network-24998881?u=76281980)
@@ -103,7 +133,7 @@ created: 2026-04-29
 
 ### 1. A Network's Purpose in Life
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A high-level look at a network
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/a-high-level-look-at-a-network-25204203?u=76281980)
@@ -298,7 +328,7 @@ created: 2026-04-29
 
 ### 2. Network Addresses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MAC addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/mac-addresses-25201754?u=76281980)
@@ -458,7 +488,7 @@ created: 2026-04-29
 
 ### 3. Pieces and Parts of a Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Network interface cards
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/network-interface-cards-25000814?u=76281980)
@@ -857,7 +887,7 @@ created: 2026-04-29
 
 ### 4. The OSI Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning the seven layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/learning-the-seven-layers-24999853?u=76281980)
@@ -1095,7 +1125,7 @@ created: 2026-04-29
 
 ### 5. Network Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DHCP overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/dhcp-overview-25000813?u=76281980)
@@ -1542,7 +1572,7 @@ created: 2026-04-29
 
 ### 6. Wireless Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of wireless LANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/types-of-wireless-lans-25205055?u=76281980)
@@ -1813,7 +1843,7 @@ created: 2026-04-29
 
 ### 7. Emerging Trends in Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Software-defined networking (SDN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/software-defined-networking-sdn-24999851?u=76281980)
@@ -2189,7 +2219,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-networking-basics/keep-networking-25201753?u=76281980)

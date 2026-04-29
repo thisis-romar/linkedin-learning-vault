@@ -42,20 +42,69 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Object-Oriented Fundamentals]]** (9 videos)
-- **[[#2. Requirements]]** (4 videos)
-- **[[#3. Use Cases and User Stories]]** (7 videos)
-- **[[#4. Domain Modeling]]** (6 videos)
-- **[[#5. Class Diagrams]]** (8 videos)
-- **[[#6. Inheritance and Composition]]** (8 videos)
-- **[[#7. Software Development]]** (4 videos)
-- **[[#Glossaries]]** (0 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn object-oriented design principles
+  - What you should know
+- [**1. Object-Oriented Fundamentals**](#1-object-oriented-fundamentals) (9 videos)
+  - Object-oriented thinking
+  - Objects
+  - Classes
+  - Abstraction
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Analysis, design, and programming
+  - Unified modeling language (UML)
+- [**2. Requirements**](#2-requirements) (4 videos)
+  - Defining requirements
+  - FURPS+ requirements
+  - Challenge: Jukebox requirements
+  - Solution: Jukebox requirements
+- [**3. Use Cases and User Stories**](#3-use-cases-and-user-stories) (7 videos)
+  - Use cases
+  - Identifying the actors
+  - Identifying the scenarios
+  - Diagramming use cases
+  - User stories
+  - Challenge: Jukebox use cases
+  - Solution: Jukebox use cases
+- [**4. Domain Modeling**](#4-domain-modeling) (6 videos)
+  - Identifying the objects
+  - Identifying class relationships
+  - Identifying class responsibilities
+  - CRC cards
+  - Challenge: Jukebox conceptual model
+  - Solution: Jukebox conceptual model
+- [**5. Class Diagrams**](#5-class-diagrams) (8 videos)
+  - Creating class diagrams: Attributes
+  - Creating class diagrams: Behaviors
+  - Converting class diagrams into code
+  - Instantiating classes
+  - Class with multiple constructors
+  - Static attributes and methods
+  - Challenge: Jukebox class diagrams
+  - Solution: Jukebox class diagrams
+- [**6. Inheritance and Composition**](#6-inheritance-and-composition) (8 videos)
+  - Identifying inheritance situations
+  - Using inheritance
+  - Abstract and concrete classes
+  - Interfaces
+  - Aggregation
+  - Composition
+  - Challenge: Jukebox class relationships
+  - Solution: Jukebox class relationships
+- [**7. Software Development**](#7-software-development) (4 videos)
+  - OOP support in different languages
+  - General development principles
+  - Software testing
+  - Design patterns
+- [**Glossaries**](#glossaries) (0 videos)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn object-oriented design principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?u=76281980)
@@ -146,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Object-Oriented Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?u=76281980)
@@ -964,7 +1013,7 @@ created: 2026-04-29
 
 ### 2. Requirements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/defining-requirements?u=76281980)
@@ -1293,7 +1342,7 @@ created: 2026-04-29
 
 ### 3. Use Cases and User Stories
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/use-cases?u=76281980)
@@ -1866,7 +1915,7 @@ created: 2026-04-29
 
 ### 4. Domain Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-the-objects?u=76281980)
@@ -2370,7 +2419,7 @@ created: 2026-04-29
 
 ### 5. Class Diagrams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating class diagrams: Attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/creating-class-diagrams-attributes?u=76281980)
@@ -2942,7 +2991,7 @@ created: 2026-04-29
 
 ### 6. Inheritance and Composition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying inheritance situations
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/identifying-inheritance-situations?u=76281980)
@@ -3503,7 +3552,7 @@ created: 2026-04-29
 
 ### 7. Software Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OOP support in different languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/oop-support-in-different-languages?u=76281980)
@@ -3830,12 +3879,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/next-steps?u=76281980)

@@ -63,17 +63,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Planning]]** (3 videos)
-- **[[#2. Design]]** (2 videos)
-- **[[#3. Development]]** (3 videos)
-- **[[#4. Testing]]** (2 videos)
-- **[[#5. Release]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - What you should know
+- [**1. Planning**](#1-planning) (3 videos)
+  - Getting involved early
+  - Picking your tools
+  - To document or not
+- [**2. Design**](#2-design) (2 videos)
+  - Flexible architecture
+  - Avoiding premature optimization
+- [**3. Development**](#3-development) (3 videos)
+  - Determining velocity
+  - Agile programming techniques
+  - Refactor…then refactor more
+- [**4. Testing**](#4-testing) (2 videos)
+  - Choosing your testing regimen
+  - Handling leapfrogging bugs
+- [**5. Release**](#5-release) (3 videos)
+  - Continuous integration
+  - Structuring a release pipeline
+  - Closing out a project
+- [**Conclusion**](#conclusion) (1 videos)
+  - The big picture
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/welcome?u=76281980)
@@ -134,7 +150,7 @@ created: 2026-04-29
 
 ### 1. Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting involved early
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/getting-involved-early?u=76281980)
@@ -278,7 +294,7 @@ created: 2026-04-29
 
 ### 2. Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Flexible architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/flexible-architecture?u=76281980)
@@ -381,7 +397,7 @@ created: 2026-04-29
 
 ### 3. Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining velocity
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/determining-velocity?u=76281980)
@@ -521,7 +537,7 @@ created: 2026-04-29
 
 ### 4. Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing your testing regimen
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/choosing-your-testing-regimen?u=76281980)
@@ -623,7 +639,7 @@ created: 2026-04-29
 
 ### 5. Release
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/continuous-integration?u=76281980)
@@ -742,7 +758,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The big picture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agile-development-practices-bring-agile-to-your-development-pipelines/the-big-picture?u=76281980)

@@ -47,15 +47,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. How to Think about Recursion]]** (7 videos)
-- **[[#2. How to Improve Recursive Algorithms]]** (5 videos)
-- **[[#3. Solving Recursive Technical Interview Questions]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to recursion algorithms in JavaScript
+  - Get the most out of this course
+- [**1. How to Think about Recursion**](#1-how-to-think-about-recursion) (7 videos)
+  - Loops and iteration in JavaScript
+  - Implement exponentials and factorials with JavaScript loops
+  - What is recursion?
+  - What are base cases?
+  - Implement exponentials and factorials with recursion
+  - Challenge: Implement the join() function recursively
+  - Solution: Implement the join() function recursively
+- [**2. How to Improve Recursive Algorithms**](#2-how-to-improve-recursive-algorithms) (5 videos)
+  - What is tail recursion?
+  - Wrapper functions in JavaScript
+  - Accumulators for tail recursion
+  - Memoization to improve performance of recursive programs
+  - JavaScript quickSort() with recursion
+- [**3. Solving Recursive Technical Interview Questions**](#3-solving-recursive-technical-interview-questions) (7 videos)
+  - How to approach recursive problems
+  - Challenge: Identify a palindrome
+  - Solution: Identify a palindrome
+  - Challenge: Count the number of leaves in a binary tree
+  - Solution: Count the number of leaves in a binary tree
+  - Challenge: Find middle of LinkedList
+  - Solution: Find middle of LinkedList
+- [**Conclusion**](#conclusion) (1 videos)
+  - Dig deeper into JavaScript recursion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to recursion algorithms in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/introduction-to-recursion-algorithms-in-javascript?u=76281980)
@@ -152,7 +174,7 @@ created: 2026-04-29
 
 ### 1. How to Think about Recursion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Loops and iteration in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/loops-and-iteration-in-javascript?u=76281980)
@@ -649,7 +671,7 @@ created: 2026-04-29
 
 ### 2. How to Improve Recursive Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is tail recursion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/what-is-tail-recursion?u=76281980)
@@ -1126,7 +1148,7 @@ created: 2026-04-29
 
 ### 3. Solving Recursive Technical Interview Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach recursive problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/how-to-approach-recursive-problems?u=76281980)
@@ -1573,7 +1595,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dig deeper into JavaScript recursion
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-recursion/dig-deeper-into-javascript-recursion?u=76281980)

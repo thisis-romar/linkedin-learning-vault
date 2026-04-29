@@ -7,7 +7,7 @@ course_count: 4
 linkedin_topics:
   - IT Help Desk
   - Network and System Administration
-louvain_cluster: 9
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/it-help-desk

@@ -49,15 +49,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Installing the Stark Web Tools]]** (2 videos)
-- **[[#2. Using Stark]]** (11 videos)
-- **[[#3. Stark for Teams and Enterprises]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Accessible design with Stark
+  - Software changes
+- [**1. Installing the Stark Web Tools**](#1-installing-the-stark-web-tools) (2 videos)
+  - Install the Stark browser extension
+  - What are the WCAG 2.0 guidelines?
+- [**2. Using Stark**](#2-using-stark) (11 videos)
+  - Conducting a WCAG audit
+  - Using the contrast checker
+  - Using the type checker
+  - Using the ALT text tool
+  - Checking touch targets
+  - Setting and correcting focus order
+  - Stark Landmarks
+  - Using the Vision Simulator
+  - Using the Headings tool
+  - Using Sidekick
+  - Automatic monitoring
+- [**3. Stark for Teams and Enterprises**](#3-stark-for-teams-and-enterprises) (6 videos)
+  - Using the Stark dashboard
+  - Connecting to GitHub
+  - Connecting to a URL
+  - Connecting to Figma
+  - Stark Compliance Center overview
+  - Using the Stark Web tools through a browser's Inspect panel
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible design with Stark
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980)
@@ -126,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Installing the Stark Web Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install the Stark browser extension
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980)
@@ -227,7 +249,7 @@ created: 2026-04-29
 
 ### 2. Using Stark
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conducting a WCAG audit
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/conducting-a-wcag-audit?u=76281980)
@@ -962,7 +984,7 @@ created: 2026-04-29
 
 ### 3. Stark for Teams and Enterprises
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Stark dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980)
@@ -1381,7 +1403,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980)

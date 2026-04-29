@@ -61,23 +61,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Malware and Ransomware]]** (2 videos)
-- **[[#2. Phishing and Smishing]]** (2 videos)
-- **[[#3. Business Email Compromise]]** (2 videos)
-- **[[#4. Botnets and DDoS attacks]]** (2 videos)
-- **[[#5. Zero-Day Attacks]]** (2 videos)
-- **[[#6. AI-Based cyberattacks]]** (2 videos)
-- **[[#7. Advanced Persistent Threats (APTs)]]** (2 videos)
-- **[[#8. Insider Threats]]** (2 videos)
-- **[[#9. Unmanaged IoT Devices]]** (2 videos)
-- **[[#10. Shadow IT]]** (2 videos)
-- **[[#11. Supply Chain Attacks and Third-Party Risks]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Examine the cybersecurity threat landscape
+- [**1. Malware and Ransomware**](#1-malware-and-ransomware) (2 videos)
+  - Explore the threat of malware and ransomware
+  - Protect against malware and ransomware
+- [**2. Phishing and Smishing**](#2-phishing-and-smishing) (2 videos)
+  - Explore the threat of phishing and smishing
+  - Protect against phishing and smishing
+- [**3. Business Email Compromise**](#3-business-email-compromise) (2 videos)
+  - Explore the threat of business email compromise
+  - Protect against business email compromise
+- [**4. Botnets and DDoS attacks**](#4-botnets-and-ddos-attacks) (2 videos)
+  - Explore the threat of botnets and DDoS attacks
+  - Protect against botnets and DDoS threats
+- [**5. Zero-Day Attacks**](#5-zero-day-attacks) (2 videos)
+  - Exploring the threat of zero-day attacks
+  - Mitigating zero-day attacks
+- [**6. AI-Based cyberattacks**](#6-ai-based-cyberattacks) (2 videos)
+  - Exploring the threat of AI-based cyberattacks
+  - Protecting against AI-based cyberattacks
+- [**7. Advanced Persistent Threats (APTs)**](#7-advanced-persistent-threats-apts) (2 videos)
+  - Exploring the threat of advanced persistent threats (APTs)
+  - Protecting against advanced persistent threats (APTs)
+- [**8. Insider Threats**](#8-insider-threats) (2 videos)
+  - Explore the risk of insider threats
+  - Protect against insider threats
+- [**9. Unmanaged IoT Devices**](#9-unmanaged-iot-devices) (2 videos)
+  - Explore the threat of unmanaged IoT devices
+  - Protect against unmanaged IoT devices
+- [**10. Shadow IT**](#10-shadow-it) (2 videos)
+  - Explore the threat of shadow IT
+  - Protect against shadow IT
+- [**11. Supply Chain Attacks and Third-Party Risks**](#11-supply-chain-attacks-and-third-party-risks) (2 videos)
+  - The threat of supply chain attacks and third-party risks
+  - Protect against supply chain attacks and third-party risks
+- [**Conclusion**](#conclusion) (1 videos)
+  - Stay up to date on cybersecurity
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Examine the cybersecurity threat landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/examine-the-cybersecurity-threat-landscape?u=76281980)
@@ -123,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Malware and Ransomware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of malware and ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-malware-and-ransomware?u=76281980)
@@ -264,7 +288,7 @@ created: 2026-04-29
 
 ### 2. Phishing and Smishing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of phishing and smishing
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-phishing-and-smishing?u=76281980)
@@ -427,7 +451,7 @@ created: 2026-04-29
 
 ### 3. Business Email Compromise
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of business email compromise
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-business-email-compromise?u=76281980)
@@ -560,7 +584,7 @@ created: 2026-04-29
 
 ### 4. Botnets and DDoS attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of botnets and DDoS attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-botnets-and-ddos-attacks?u=76281980)
@@ -692,7 +716,7 @@ created: 2026-04-29
 
 ### 5. Zero-Day Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the threat of zero-day attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-zero-day-attacks?u=76281980)
@@ -805,7 +829,7 @@ created: 2026-04-29
 
 ### 6. AI-Based cyberattacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the threat of AI-based cyberattacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-ai-based-cyberattacks?u=76281980)
@@ -897,7 +921,7 @@ created: 2026-04-29
 
 ### 7. Advanced Persistent Threats (APTs)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the threat of advanced persistent threats (APTs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/exploring-the-threat-of-advanced-persistent-threats-apts?u=76281980)
@@ -1015,7 +1039,7 @@ created: 2026-04-29
 
 ### 8. Insider Threats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the risk of insider threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-risk-of-insider-threats?u=76281980)
@@ -1151,7 +1175,7 @@ created: 2026-04-29
 
 ### 9. Unmanaged IoT Devices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of unmanaged IoT devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-unmanaged-iot-devices?u=76281980)
@@ -1287,7 +1311,7 @@ created: 2026-04-29
 
 ### 10. Shadow IT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the threat of shadow IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/explore-the-threat-of-shadow-it?u=76281980)
@@ -1423,7 +1447,7 @@ created: 2026-04-29
 
 ### 11. Supply Chain Attacks and Third-Party Risks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The threat of supply chain attacks and third-party risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/the-threat-of-supply-chain-attacks-and-third-party-risks?u=76281980)
@@ -1580,7 +1604,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay up to date on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-cybersecurity-threat-landscape-18018064/stay-up-to-date-on-cybersecurity?u=76281980)

@@ -46,17 +46,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Basics of Financial Statement Preparation]]** (6 videos)
-- **[[#2. The Basics of Income Statement Preparation]]** (4 videos)
-- **[[#3. The Basics of Balance Sheet Preparation]]** (5 videos)
-- **[[#4. The Basics of Statement of Cash Flow Preparation]]** (5 videos)
-- **[[#5. The Basics of Statement of Stockholders' Equity Preparation]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of financial statements
+- [**1. The Basics of Financial Statement Preparation**](#1-the-basics-of-financial-statement-preparation) (6 videos)
+  - What stories do financial statements tell?
+  - The role of the accounting cycle
+  - Understanding year-end close
+  - Finding financial statements for publicly traded companies
+  - Challenge: Finding financial statements
+  - Solution: Finding financial statements
+- [**2. The Basics of Income Statement Preparation**](#2-the-basics-of-income-statement-preparation) (4 videos)
+  - Recognizing revenue and understanding the revenue recognition principle
+  - Recording expenses using the matching principle
+  - Challenge: Working with the income statement
+  - Solution: Working with the income statement
+- [**3. The Basics of Balance Sheet Preparation**](#3-the-basics-of-balance-sheet-preparation) (5 videos)
+  - The accounting equation and the assets section of the balance sheet
+  - The accounting equation and the liabilities section of the balance sheet
+  - The accounting equation and the equity section of the balance sheet
+  - Challenge: Working with the balance sheet
+  - Solution: Working with the balance sheet
+- [**4. The Basics of Statement of Cash Flow Preparation**](#4-the-basics-of-statement-of-cash-flow-preparation) (5 videos)
+  - The impact of operating activities on the cash flow statement
+  - The impact of investing activities on the cash flow statement
+  - The impact of financing activities on the cash flow statement
+  - Challenge: Working with the statement of cash flow
+  - Solution: Working with the statement of cash flow
+- [**5. The Basics of Statement of Stockholders' Equity Preparation**](#5-the-basics-of-statement-of-stockholders-equity-preparation) (3 videos)
+  - Understanding the statement of stockholder's equity
+  - Challenge: Working with the statement of stockholders' equity
+  - Solution: Working with the statement of stockholders' equity
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your next steps in creating financial statements
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-power-of-financial-statements?u=76281980)
@@ -105,7 +130,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Financial Statement Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What stories do financial statements tell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/what-stories-do-financial-statements-tell?u=76281980)
@@ -595,7 +620,7 @@ created: 2026-04-29
 
 ### 2. The Basics of Income Statement Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognizing revenue and understanding the revenue recognition principle
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/recognizing-revenue-and-understanding-the-revenue-recognition-principle?u=76281980)
@@ -824,7 +849,7 @@ created: 2026-04-29
 
 ### 3. The Basics of Balance Sheet Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The accounting equation and the assets section of the balance sheet
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-accounting-equation-and-the-assets-section-of-the-balance-sheet?u=76281980)
@@ -1093,7 +1118,7 @@ created: 2026-04-29
 
 ### 4. The Basics of Statement of Cash Flow Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The impact of operating activities on the cash flow statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/the-impact-of-operating-activities-on-the-cash-flow-statement?u=76281980)
@@ -1416,7 +1441,7 @@ created: 2026-04-29
 
 ### 5. The Basics of Statement of Stockholders' Equity Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the statement of stockholder's equity
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/understanding-the-statement-of-stockholder-s-equity?u=76281980)
@@ -1620,7 +1645,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next steps in creating financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/reading-corporate-financial-statements/your-next-steps-in-creating-financial-statements?u=76281980)

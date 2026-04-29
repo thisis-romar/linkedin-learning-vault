@@ -51,12 +51,20 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Using Copilot in Outlook]]** (5 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Use Copilot in Outlook
+  - Understand Copilot subscriptions
+  - Check if you're using the new Outlook
+- [**1. Using Copilot in Outlook**](#1-using-copilot-in-outlook) (5 videos)
+  - Draft a new email message
+  - Reply to email messages
+  - Summarize emails and email threads
+  - Receive email coaching
+  - Chat with Copilot in Outlook
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Copilot in Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980)
@@ -177,7 +185,7 @@ created: 2026-04-29
 
 ### 1. Using Copilot in Outlook
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Draft a new email message
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980)

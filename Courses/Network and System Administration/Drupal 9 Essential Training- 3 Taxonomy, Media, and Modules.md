@@ -47,14 +47,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Taxonomy Explained]]** (5 videos)
-- **[[#2. Media Explained]]** (3 videos)
-- **[[#3. Modules Explained]]** (8 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to the course
+- [**1. Taxonomy Explained**](#1-taxonomy-explained) (5 videos)
+  - Taxonomy explained
+  - Adding vocabularies and terms, part 1
+  - Adding vocabularies and terms, part 2
+  - Adding taxonomy fields
+  - Updating your content
+- [**2. Media Explained**](#2-media-explained) (3 videos)
+  - The Drupal media manager
+  - Adding media fields to content types
+  - Updating content with media
+- [**3. Modules Explained**](#3-modules-explained) (8 videos)
+  - Modules explained
+  - Scheduling content
+  - Inserting a Google Map
+  - Adding internal linking to the WYSIWYG editor
+  - Open external links in a new tab or window
+  - Paths: Installing Pathauto, Token, and CTools
+  - Configuring Pathauto
+  - Installing Devel
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/introduction-to-the-course?u=76281980)
@@ -92,7 +109,7 @@ created: 2026-04-29
 
 ### 1. Taxonomy Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taxonomy explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/taxonomy-explained?u=76281980)
@@ -789,7 +806,7 @@ created: 2026-04-29
 
 ### 2. Media Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Drupal media manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/the-drupal-media-manager?u=76281980)
@@ -1163,7 +1180,7 @@ created: 2026-04-29
 
 ### 3. Modules Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modules explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980)

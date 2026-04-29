@@ -50,17 +50,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (10 videos)
-- **[[#2. Efficient Coding with SwiftUI and Prototyping]]** (5 videos)
-- **[[#3. Source Control]]** (7 videos)
-- **[[#4. Storyboard Design Basics]]** (6 videos)
-- **[[#5. Debugging and Testing]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Becoming an Xcode expert
+  - What you should know
+- [**1. Getting Started**](#1-getting-started) (10 videos)
+  - Installing Xcode
+  - Creating your first Xcode project
+  - Exploring the user interface
+  - Xcode settings
+  - Working with files
+  - Using Quick Help and documentation
+  - Groups
+  - Localization using .xcstrings
+  - Working with color sets
+  - Adding app icons
+- [**2. Efficient Coding with SwiftUI and Prototyping**](#2-efficient-coding-with-swiftui-and-prototyping) (5 videos)
+  - Using the canvas with SwiftUI
+  - The SwiftUI library
+  - Creating snippets
+  - Prototyping in a playground
+  - Regular expressions in playgrounds
+- [**3. Source Control**](#3-source-control) (7 videos)
+  - Creating a local repository
+  - Connecting source control accounts
+  - Creating a remote repository
+  - Committing and pushing changes
+  - Branches
+  - Merging branches
+  - Resolving conflicts
+- [**4. Storyboard Design Basics**](#4-storyboard-design-basics) (6 videos)
+  - Exploring Interface Builder
+  - Creating a user interface
+  - Connecting a label
+  - Connecting a button
+  - Troubleshoot broken connections
+  - Understanding pinning
+- [**5. Debugging and Testing**](#5-debugging-and-testing) (4 videos)
+  - Using the debugger
+  - Correcting errors with Fix-It
+  - Refactoring code
+  - Creating unit tests
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming an Xcode expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/becoming-an-xcode-expert?u=76281980)
@@ -105,7 +140,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/installing-xcode?u=76281980)
@@ -788,7 +823,7 @@ created: 2026-04-29
 
 ### 2. Efficient Coding with SwiftUI and Prototyping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the canvas with SwiftUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-canvas-with-swiftui?u=76281980)
@@ -1086,7 +1121,7 @@ created: 2026-04-29
 
 ### 3. Source Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a local repository
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/creating-a-local-repository?u=76281980)
@@ -1486,7 +1521,7 @@ created: 2026-04-29
 
 ### 4. Storyboard Design Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Interface Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/exploring-interface-builder?u=76281980)
@@ -1983,7 +2018,7 @@ created: 2026-04-29
 
 ### 5. Debugging and Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/using-the-debugger?u=76281980)
@@ -2267,7 +2302,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/xcode-15-essential-training-23823075/next-steps?u=76281980)

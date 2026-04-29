@@ -56,17 +56,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started with Reinforcement Learning]]** (4 videos)
-- **[[#2. Reinforcement Learning Algorithms]]** (3 videos)
-- **[[#3. Monte Carlo Method]]** (6 videos)
-- **[[#4. Temporal Difference Methods]]** (4 videos)
-- **[[#5. Modified Forms of Reinforcement]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Reinforcement learning in a nutshell
+- [**1. Getting Started with Reinforcement Learning**](#1-getting-started-with-reinforcement-learning) (4 videos)
+  - Terms in reinforcement learning
+  - A basic RL problem
+  - Markov decision process
+  - A basic RL solution
+- [**2. Reinforcement Learning Algorithms**](#2-reinforcement-learning-algorithms) (3 videos)
+  - Monte Carlo method
+  - Temporal difference methods
+  - Other RL algorithms
+- [**3. Monte Carlo Method**](#3-monte-carlo-method) (6 videos)
+  - The setting
+  - Exploration and exploitation
+  - Monte Carlo prediction
+  - First visit and every visit MC prediction
+  - Monte Carlo control
+  - Additional modifications
+- [**4. Temporal Difference Methods**](#4-temporal-difference-methods) (4 videos)
+  - The setting
+  - SARSA
+  - SARSAMAX (Q-learning)
+  - Expected SARSA
+- [**5. Modified Forms of Reinforcement**](#5-modified-forms-of-reinforcement) (3 videos)
+  - Deep reinforcement learning
+  - Multi-agent reinforcement learning
+  - Inverse reinforcement learning
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your reinforcement learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reinforcement learning in a nutshell
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/reinforcement-learning-in-a-nutshell-23067976?u=76281980)
@@ -98,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Reinforcement Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Terms in reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/terms-in-reinforcement-learning?u=76281980)
@@ -382,7 +404,7 @@ created: 2026-04-29
 
 ### 2. Reinforcement Learning Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monte Carlo method
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/monte-carlo-method?u=76281980)
@@ -481,7 +503,7 @@ created: 2026-04-29
 
 ### 3. Monte Carlo Method
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting-2?u=76281980)
@@ -695,7 +717,7 @@ created: 2026-04-29
 
 ### 4. Temporal Difference Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/the-setting?u=76281980)
@@ -886,7 +908,7 @@ created: 2026-04-29
 
 ### 5. Modified Forms of Reinforcement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deep reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/deep-reinforcement-learning?u=76281980)
@@ -975,7 +997,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your reinforcement learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations/your-reinforcement-learning-journey?u=76281980)

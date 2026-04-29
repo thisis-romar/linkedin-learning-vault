@@ -53,15 +53,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Creating Reusable Code Using PowerShell]]** (7 videos)
-- **[[#2. Remote and Delegated Administration]]** (6 videos)
-- **[[#3. Creating and Scheduling Tasks and Jobs]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - IT automation with PowerShell
+  - What you should know
+- [**1. Creating Reusable Code Using PowerShell**](#1-creating-reusable-code-using-powershell) (7 videos)
+  - Why automate IT administration tasks?
+  - What are PowerShell modules, and why are they useful?
+  - Using conditional statements and comparisons
+  - Looping constructs for data manipulation
+  - Manipulating data with logic tests and loops
+  - Working with arrays and hash tables
+  - Understanding PowerShell error handling
+- [**2. Remote and Delegated Administration**](#2-remote-and-delegated-administration) (6 videos)
+  - Understanding delegated administration in PowerShell
+  - Configuring remote access settings
+  - Configuring remote management settings
+  - Managing remote sessions and connections
+  - Connecting to Windows Servers remotely and performing tasks
+  - Performing remote administration tasks
+- [**3. Creating and Scheduling Tasks and Jobs**](#3-creating-and-scheduling-tasks-and-jobs) (5 videos)
+  - Understanding PowerShell background jobs
+  - Creating and managing background jobs
+  - Monitoring and retrieving results of background jobs
+  - Automating administrative tasks with scheduled jobs
+  - Creating scheduled tasks within Windows
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IT automation with PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980)
@@ -110,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Creating Reusable Code Using PowerShell
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why automate IT administration tasks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980)
@@ -1344,7 +1365,7 @@ created: 2026-04-29
 
 ### 2. Remote and Delegated Administration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding delegated administration in PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980)
@@ -2850,7 +2871,7 @@ created: 2026-04-29
 
 ### 3. Creating and Scheduling Tasks and Jobs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding PowerShell background jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980)
@@ -3572,7 +3593,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980)

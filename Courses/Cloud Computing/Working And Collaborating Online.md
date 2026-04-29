@@ -43,17 +43,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Access Information Online]]** (10 videos)
-- **[[#2. Participate Safely and Responsibly Online]]** (8 videos)
-- **[[#3. Collaborating with Outlook]]** (4 videos)
-- **[[#4. Collaborate Online in Word]]** (3 videos)
-- **[[#5. Sharing Content with OneDrive]]** (5 videos)
-- **[[#6. Using Chat, Video Calls, and Group Video Meetings]]** (6 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Computing with confidence, getting job skills, and staying safe online
+- [**1. Access Information Online**](#1-access-information-online) (10 videos)
+  - Methods of connecting to the internet
+  - Connect a Windows 10 device to the internet using Wi-Fi
+  - What is the World Wide Web?
+  - Browse the web with Microsoft Edge
+  - Understand accessibility options in Microsoft Edge
+  - Safely shop online
+  - Perform a basic search using Bing
+  - Search more effectively in Bing
+  - Evaluate online information
+  - Develop media literacy
+- [**2. Participate Safely and Responsibly Online**](#2-participate-safely-and-responsibly-online) (8 videos)
+  - Methods of communicating online
+  - Protect yourself from phishing and online scams
+  - Communicate safely online
+  - Create strong passwords
+  - Avoid oversharing online
+  - Manage your digital footprint
+  - Responsibly use content you find online
+  - Treat others respectfully online
+- [**3. Collaborating with Outlook**](#3-collaborating-with-outlook) (4 videos)
+  - Collaborate via email and calendars
+  - Add a contact
+  - Create and email a group
+  - Create appointments and meetings
+- [**4. Collaborate Online in Word**](#4-collaborate-online-in-word) (3 videos)
+  - Collaborate on Word documents
+  - Add comments
+  - Track and manage changes
+- [**5. Sharing Content with OneDrive**](#5-sharing-content-with-onedrive) (5 videos)
+  - Understand cloud-based services
+  - Creating a OneDrive account
+  - Manage files
+  - Share a document
+  - Upload and create files and folders
+- [**6. Using Chat, Video Calls, and Group Video Meetings**](#6-using-chat-video-calls-and-group-video-meetings) (6 videos)
+  - Understand instant messaging, voice, and video chat
+  - Sign into Skype
+  - Add contacts
+  - Set up audio and video
+  - Send text messages
+  - Make a call
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Computing with confidence, getting job skills, and staying safe online
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/computing-with-confidence-getting-job-skills-and-staying-safe-online?u=76281980)
@@ -94,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Access Information Online
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Methods of connecting to the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-connecting-to-the-internet?u=76281980)
@@ -809,7 +846,7 @@ created: 2026-04-29
 
 ### 2. Participate Safely and Responsibly Online
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Methods of communicating online
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/methods-of-communicating-online?u=76281980)
@@ -1276,7 +1313,7 @@ created: 2026-04-29
 
 ### 3. Collaborating with Outlook
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaborate via email and calendars
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-via-email-and-calendars?u=76281980)
@@ -1441,7 +1478,7 @@ created: 2026-04-29
 
 ### 4. Collaborate Online in Word
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaborate on Word documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/collaborate-on-word-documents?u=76281980)
@@ -1634,7 +1671,7 @@ created: 2026-04-29
 
 ### 5. Sharing Content with OneDrive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand cloud-based services
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-cloud-based-services?u=76281980)
@@ -1836,7 +1873,7 @@ created: 2026-04-29
 
 ### 6. Using Chat, Video Calls, and Group Video Meetings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand instant messaging, voice, and video chat
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-and-collaborating-online/understand-instant-messaging-voice-and-video-chat?u=76281980)

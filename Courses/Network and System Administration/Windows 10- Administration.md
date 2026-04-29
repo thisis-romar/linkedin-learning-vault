@@ -52,23 +52,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Windows 10 Editions and Features]]** (2 videos)
-- **[[#2. Configuring Windows 10]]** (2 videos)
-- **[[#3. Drivers and Notifications]]** (2 videos)
-- **[[#4. Windows Group Policy]]** (3 videos)
-- **[[#5. Windows Authentication]]** (4 videos)
-- **[[#6. Windows Encryption]]** (2 videos)
-- **[[#7. Windows Boot Process]]** (2 videos)
-- **[[#8. Virtualization]]** (2 videos)
-- **[[#9. Networking]]** (2 videos)
-- **[[#10. Backup and Recovery]]** (5 videos)
-- **[[#11. Troubleshooting]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - About the 2023 update
+  - Welcome
+  - What you should know before starting
+- [**1. Windows 10 Editions and Features**](#1-windows-10-editions-and-features) (2 videos)
+  - Understanding the desktop versions of Windows 10
+  - Understanding Windows 10 features requiring specialized hardware
+- [**2. Configuring Windows 10**](#2-configuring-windows-10) (2 videos)
+  - Overview of the settings interface
+  - Administering multitasking
+- [**3. Drivers and Notifications**](#3-drivers-and-notifications) (2 videos)
+  - Installing and updating drivers
+  - Working with notifications and actions
+- [**4. Windows Group Policy**](#4-windows-group-policy) (3 videos)
+  - Overview of Group Policy
+  - Working with the Local Group Policy
+  - Troubleshooting Group Policy
+- [**5. Windows Authentication**](#5-windows-authentication) (4 videos)
+  - Adding domain users to a Windows 10 PC
+  - Adding Microsoft accounts to a Windows 10 PC
+  - Adding local accounts to a Windows 10 PC
+  - Setting up assigned access
+- [**6. Windows Encryption**](#6-windows-encryption) (2 videos)
+  - Administering BitLocker
+  - Working with EFS
+- [**7. Windows Boot Process**](#7-windows-boot-process) (2 videos)
+  - Understanding the boot process
+  - Working with Measured Boot
+- [**8. Virtualization**](#8-virtualization) (2 videos)
+  - Installing Client Hyper-V
+  - Running Windows 10 as a VDI
+- [**9. Networking**](#9-networking) (2 videos)
+  - Using the Windows 10 network settings
+  - Using Control Panel to manage Windows Firewall
+- [**10. Backup and Recovery**](#10-backup-and-recovery) (5 videos)
+  - File History
+  - Reset this PC
+  - Creating a system image backup
+  - Overview of backups in Windows 10
+  - Best practices for backups and restores
+- [**11. Troubleshooting**](#11-troubleshooting) (3 videos)
+  - Using log files to troubleshoot Windows 10
+  - Using Resource Monitor to diagnose performance bottlenecks
+  - Troubleshooting network problems
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### About the 2023 update
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/about-the-summer-2020-update?u=76281980)
@@ -126,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Windows 10 Editions and Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the desktop versions of Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-desktop-versions-of-windows-10?u=76281980)
@@ -245,7 +278,7 @@ created: 2026-04-29
 
 ### 2. Configuring Windows 10
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the settings interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-the-settings-interface?u=76281980)
@@ -392,7 +425,7 @@ created: 2026-04-29
 
 ### 3. Drivers and Notifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing and updating drivers
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/installing-and-updating-drivers?u=76281980)
@@ -516,7 +549,7 @@ created: 2026-04-29
 
 ### 4. Windows Group Policy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Group Policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/overview-of-group-policy-2?u=76281980)
@@ -630,7 +663,7 @@ created: 2026-04-29
 
 ### 5. Windows Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding domain users to a Windows 10 PC
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/adding-domain-users-to-a-windows-10-pc?u=76281980)
@@ -810,7 +843,7 @@ created: 2026-04-29
 
 ### 6. Windows Encryption
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Administering BitLocker
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/administering-bitlocker?u=76281980)
@@ -1011,7 +1044,7 @@ created: 2026-04-29
 
 ### 7. Windows Boot Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the boot process
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/understanding-the-boot-process?u=76281980)
@@ -1127,7 +1160,7 @@ created: 2026-04-29
 
 ### 8. Virtualization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Client Hyper-V
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/installing-client-hyper-v?u=76281980)
@@ -1261,7 +1294,7 @@ created: 2026-04-29
 
 ### 9. Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Windows 10 network settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/using-the-windows-10-network-settings?u=76281980)
@@ -1472,7 +1505,7 @@ created: 2026-04-29
 
 ### 10. Backup and Recovery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### File History
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/file-history?u=76281980)
@@ -1868,7 +1901,7 @@ created: 2026-04-29
 
 ### 11. Troubleshooting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using log files to troubleshoot Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/using-log-files-to-troubleshoot-windows-10?u=76281980)
@@ -2105,7 +2138,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-administration-3/next-steps?u=76281980)

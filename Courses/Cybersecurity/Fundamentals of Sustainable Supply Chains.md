@@ -48,15 +48,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Power of Planning]]** (5 videos)
-- **[[#2. Suppliers and Procurement]]** (3 videos)
-- **[[#3. Data Analysis and Review]]** (3 videos)
-- **[[#4. Getting Supply Chain Sustainability Plans Off the Ground]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The impact of supply chain on the environment
+- [**1. The Power of Planning**](#1-the-power-of-planning) (5 videos)
+  - Why planning is important to achieving sustainability
+  - Create a practical action plan
+  - Map your supply chain and its environmental impact
+  - Create a compelling business case for change
+  - Collaboration is critical to successful sustainability plans
+- [**2. Suppliers and Procurement**](#2-suppliers-and-procurement) (3 videos)
+  - Taking a proactive approach to supplier management
+  - Assess the fit of your procurement practices
+  - Use supplier and procurement best practices
+- [**3. Data Analysis and Review**](#3-data-analysis-and-review) (3 videos)
+  - Why good data is important to achieve sustainability targets
+  - Collect and use the right sustainability data to shape plans
+  - Finding a trusted data partner to meet your targets
+- [**4. Getting Supply Chain Sustainability Plans Off the Ground**](#4-getting-supply-chain-sustainability-plans-off-the-ground) (3 videos)
+  - Refine your approach to supply chain sustainability
+  - Take action to support your longer-term sustainability goals
+  - Next steps: Your sustainable supply chain plan
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The impact of supply chain on the environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/the-impact-of-supply-chain-on-the-environment?u=76281980)
@@ -102,7 +117,7 @@ created: 2026-04-29
 
 ### 1. The Power of Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why planning is important to achieving sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-planning-is-important-to-achieving-sustainability?u=76281980)
@@ -483,7 +498,7 @@ created: 2026-04-29
 
 ### 2. Suppliers and Procurement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking a proactive approach to supplier management
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980)
@@ -691,7 +706,7 @@ created: 2026-04-29
 
 ### 3. Data Analysis and Review
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why good data is important to achieve sustainability targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980)
@@ -904,7 +919,7 @@ created: 2026-04-29
 
 ### 4. Getting Supply Chain Sustainability Plans Off the Ground
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Refine your approach to supply chain sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980)

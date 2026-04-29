@@ -40,19 +40,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Generative AI for Data Science]]** (7 videos)
-- **[[#2. Business and Data Understanding with AI]]** (7 videos)
-- **[[#3. AI-Augmented Data Preparation]]** (5 videos)
-- **[[#4. AI-Powered Modeling Techniques]]** (4 videos)
-- **[[#5. AI-Augmented Model Evaluation]]** (3 videos)
-- **[[#6. AI-Augmented Deployment and Application Development]]** (3 videos)
-- **[[#7. AI-Augmented Communication and Documentation]]** (4 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - How GenAI can enhance your productivity
+  - Overview and what you should know
+  - Codespaces and setup
+- [**1. Introduction to Generative AI for Data Science**](#1-introduction-to-generative-ai-for-data-science) (7 videos)
+  - Foundations of generative AI
+  - The data science process: CRISP-DM recap
+  - From augmentation to automation
+  - Principles of effective prompting
+  - ChatGPT setup: Assistants
+  - Gemini or other LLM setup: Copilots
+  - Optional: Building a custom GPT
+- [**2. Business and Data Understanding with AI**](#2-business-and-data-understanding-with-ai) (7 videos)
+  - Overview: Business and data understanding with GenAI
+  - Use case 1: SMART problem statements assistant
+  - Use case 2: Issue tree builder assistant
+  - Use case 3: Business requirements assistant
+  - Use case 4: Data dictionary assistant
+  - Use case 5: SQL query copilot
+  - Use case 6: EDA report assistant
+- [**3. AI-Augmented Data Preparation**](#3-ai-augmented-data-preparation) (5 videos)
+  - Overview: Data preparation with GenAI
+  - Use case 7: Data quality assessment copilot
+  - Use case 8: Data cleaning copilot
+  - Use case 9: Text preprocessing copilot
+  - Use case 10: Feature engineering copilot
+- [**4. AI-Powered Modeling Techniques**](#4-ai-powered-modeling-techniques) (4 videos)
+  - Overview: Modeling with GenAI
+  - Use case 11: Model selection assistant
+  - Use case 12: Model creation copilot
+  - Use case 13: Model documentation copilot
+- [**5. AI-Augmented Model Evaluation**](#5-ai-augmented-model-evaluation) (3 videos)
+  - Overview: Model evaluation with GenAI
+  - Use case 14: Model performance assistant
+  - Use case 15: Model explainability assistant
+- [**6. AI-Augmented Deployment and Application Development**](#6-ai-augmented-deployment-and-application-development) (3 videos)
+  - Overview: Model deployment with GenAI
+  - Use case 16: Model deployment assistant
+  - Use case 17: API documentation assistant
+- [**7. AI-Augmented Communication and Documentation**](#7-ai-augmented-communication-and-documentation) (4 videos)
+  - Relevance of communication and documentation
+  - Use case 18: Comprehensive project documentation assistant
+  - Use case 19: Data storytelling assistant
+  - Use case 20: Stakeholder communication assistant
+- [**Conclusion**](#conclusion) (3 videos)
+  - Course recap and key takeaways
+  - Future trends in AI-augmented data science
+  - Next steps in your GenAI journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How GenAI can enhance your productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980)
@@ -174,7 +213,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Generative AI for Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundations of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980)
@@ -1000,7 +1039,7 @@ created: 2026-04-29
 
 ### 2. Business and Data Understanding with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Business and data understanding with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980)
@@ -1889,7 +1928,7 @@ created: 2026-04-29
 
 ### 3. AI-Augmented Data Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Data preparation with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980)
@@ -2618,7 +2657,7 @@ created: 2026-04-29
 
 ### 4. AI-Powered Modeling Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Modeling with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980)
@@ -3001,7 +3040,7 @@ created: 2026-04-29
 
 ### 5. AI-Augmented Model Evaluation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Model evaluation with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980)
@@ -3294,7 +3333,7 @@ created: 2026-04-29
 
 ### 6. AI-Augmented Deployment and Application Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview: Model deployment with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980)
@@ -3577,7 +3616,7 @@ created: 2026-04-29
 
 ### 7. AI-Augmented Communication and Documentation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relevance of communication and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980)
@@ -4090,7 +4129,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course recap and key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980)

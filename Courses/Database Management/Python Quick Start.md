@@ -48,20 +48,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Defining Python]]** (4 videos)
-- **[[#2. Working with Data in Python]]** (3 videos)
-- **[[#3. Using Functions in Python]]** (5 videos)
-- **[[#4. Leveraging Sequences in Python]]** (3 videos)
-- **[[#5. Using Conditional Statements in Python]]** (4 videos)
-- **[[#6. Working with Iteration in Python]]** (3 videos)
-- **[[#7. Using Recursive Functions in Python]]** (2 videos)
-- **[[#8. Object-Oriented Programming in Python]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Advancing your career with Python
+- [**1. Defining Python**](#1-defining-python) (4 videos)
+  - Demystifying Python
+  - Starting with Python
+  - Comparing Python vs. Java
+  - Harnessing the power of Python
+- [**2. Working with Data in Python**](#2-working-with-data-in-python) (3 videos)
+  - Setting up your Python environment
+  - Sorting your types of data
+  - Storing data using variables
+- [**3. Using Functions in Python**](#3-using-functions-in-python) (5 videos)
+  - Defining functions in Python
+  - Using built-in functions in Python
+  - Building your own functions
+  - Distinguishing types of functions
+  - Using modules in Python
+- [**4. Leveraging Sequences in Python**](#4-leveraging-sequences-in-python) (3 videos)
+  - Defining sequences
+  - Using lists in Python
+  - Leveraging tuples in Python
+- [**5. Using Conditional Statements in Python**](#5-using-conditional-statements-in-python) (4 videos)
+  - Defining conditional statements
+  - Working with if statements
+  - Using If-else statements
+  - If-elif and if-elif-else statements
+- [**6. Working with Iteration in Python**](#6-working-with-iteration-in-python) (3 videos)
+  - Defining iteration
+  - Using a for loop
+  - Writing a while loop
+- [**7. Using Recursive Functions in Python**](#7-using-recursive-functions-in-python) (2 videos)
+  - Demystifying recursive functions
+  - Navigating a recursive function
+- [**8. Object-Oriented Programming in Python**](#8-object-oriented-programming-in-python) (2 videos)
+  - What is object-oriented programming?
+  - Applying object-oriented programming
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advancing your career with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980)
@@ -95,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Defining Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Demystifying Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980)
@@ -237,7 +265,7 @@ created: 2026-04-29
 
 ### 2. Working with Data in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up your Python environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/setting-up-your-python-environment?u=76281980)
@@ -492,7 +520,7 @@ created: 2026-04-29
 
 ### 3. Using Functions in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining functions in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-functions-in-python?u=76281980)
@@ -1050,7 +1078,7 @@ created: 2026-04-29
 
 ### 4. Leveraging Sequences in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining sequences
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-sequences?u=76281980)
@@ -1332,7 +1360,7 @@ created: 2026-04-29
 
 ### 5. Using Conditional Statements in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining conditional statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-conditional-statements?u=76281980)
@@ -1791,7 +1819,7 @@ created: 2026-04-29
 
 ### 6. Working with Iteration in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining iteration
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980)
@@ -2071,7 +2099,7 @@ created: 2026-04-29
 
 ### 7. Using Recursive Functions in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Demystifying recursive functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-recursive-functions?u=76281980)
@@ -2263,7 +2291,7 @@ created: 2026-04-29
 
 ### 8. Object-Oriented Programming in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is object-oriented programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980)
@@ -2529,7 +2557,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980)

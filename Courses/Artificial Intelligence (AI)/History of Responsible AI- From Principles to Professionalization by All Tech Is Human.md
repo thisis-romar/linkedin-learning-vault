@@ -49,11 +49,12 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#History of Responsible AI]]** (1 videos)
+- [**History of Responsible AI**](#history-of-responsible-ai) (1 videos)
+  - History of responsible AI
 
 ### History of Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### History of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980)

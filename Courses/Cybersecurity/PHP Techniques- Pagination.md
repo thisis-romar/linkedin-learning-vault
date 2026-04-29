@@ -49,16 +49,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Pagination Fundamentals]]** (3 videos)
-- **[[#2. Database Record Pagination]]** (3 videos)
-- **[[#3. Links to Paginated Pages]]** (4 videos)
-- **[[#4. Object-Oriented Pagination]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Showing posts in pages using PHP
+  - Using the exercise files on GitHub
+- [**1. Pagination Fundamentals**](#1-pagination-fundamentals) (3 videos)
+  - Pagination overview
+  - Finding the pagination variables
+  - Using total record count
+- [**2. Database Record Pagination**](#2-database-record-pagination) (3 videos)
+  - Setting up the project database
+  - SQL LIMIT, OFFSET, and COUNT
+  - Paginating database records
+- [**3. Links to Paginated Pages**](#3-links-to-paginated-pages) (4 videos)
+  - Adding links to previous and next pages
+  - Creating pagination links
+  - Showing an excerpt of the page list
+  - Remembering the current page
+- [**4. Object-Oriented Pagination**](#4-object-oriented-pagination) (3 videos)
+  - Defining a pagination class
+  - Outputting links for previous and next pages
+  - Outputting pagination links
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Showing posts in pages using PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/showing-posts-in-pages-using-php?u=76281980)
@@ -138,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Pagination Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pagination overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980)
@@ -535,7 +551,7 @@ created: 2026-04-29
 
 ### 2. Database Record Pagination
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the project database
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980)
@@ -961,7 +977,7 @@ created: 2026-04-29
 
 ### 3. Links to Paginated Pages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding links to previous and next pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980)
@@ -1449,7 +1465,7 @@ created: 2026-04-29
 
 ### 4. Object-Oriented Pagination
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a pagination class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980)
@@ -1986,7 +2002,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980)

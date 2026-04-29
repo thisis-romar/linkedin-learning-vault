@@ -45,13 +45,20 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Characteristics]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Becoming a great scrum master
+- [**1. The Characteristics**](#1-the-characteristics) (5 videos)
+  - Be an honest broker
+  - Revealing root causes
+  - Passionately coach scrum
+  - Doggedly remove obstacles
+  - Ensure safety
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a great scrum master
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/becoming-a-great-scrum-master?u=76281980)
@@ -81,7 +88,7 @@ created: 2026-04-29
 
 ### 1. The Characteristics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be an honest broker
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/be-an-honest-broker?u=76281980)
@@ -395,7 +402,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/characteristics-of-a-great-scrum-master/continue-learning?u=76281980)

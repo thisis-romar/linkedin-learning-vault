@@ -48,19 +48,113 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding Accessibility]]** (5 videos)
-- **[[#2. Accessibility in PDF Files]]** (5 videos)
-- **[[#3. Make an Existing PDF File Accessible (Old Interface)]]** (19 videos)
-- **[[#4. Make an Existing PDF File Accessible (New Interface)]]** (20 videos)
-- **[[#5. Create an Accessible PDF from Word]]** (14 videos)
-- **[[#6. Create an Accessible PDF File from PowerPoint]]** (7 videos)
-- **[[#7. Create an Accessible PDF File from Adobe InDesign]]** (21 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The ultimate guide to accessible PDFs
+  - Introduction to creating accessible PDFs
+- [**1. Understanding Accessibility**](#1-understanding-accessibility) (5 videos)
+  - What is accessibility?
+  - Accessibility standards
+  - Check PDF accessibility
+  - The NVDA PDF reader experience
+  - The JAWS PDF reader experience
+- [**2. Accessibility in PDF Files**](#2-accessibility-in-pdf-files) (5 videos)
+  - Acrobat Pro DC setup and workspace
+  - PDF accessibility requirements
+  - The PDF remediation workflow
+  - PDF remediation
+  - The Acrobat interfaces
+- [**3. Make an Existing PDF File Accessible (Old Interface)**](#3-make-an-existing-pdf-file-accessible-old-interface) (19 videos)
+  - Add metadata
+  - Tag content with the Reading Order tool
+  - Dealing with content that spans more than one page
+  - Tagging lists
+  - Tagging table of contents
+  - Creating table of contents links
+  - Tagging tables
+  - The Table Editor
+  - Artifacting elements
+  - Work with the Content pane
+  - Add alternative text
+  - Add bookmarks
+  - Tagging footnotes
+  - Walking the tags tree
+  - Validate the PDF file and cleanup
+  - Finishing touches
+  - Checking color contrast
+  - Testing with a screen reader
+  - Third-party tools
+- [**4. Make an Existing PDF File Accessible (New Interface)**](#4-make-an-existing-pdf-file-accessible-new-interface) (20 videos)
+  - Add metadata
+  - Tag content with the Reading Order tool
+  - Tag content using the Contents pane
+  - Dealing with content that spans more than one page
+  - Tagging lists
+  - Tagging your table of contents
+  - Creating table of contents links
+  - Tagging tables
+  - The Table Editor
+  - Artifacting elements
+  - Work with the Content pane
+  - Add alternative text
+  - Add bookmarks
+  - Tagging footnotes
+  - Walking the tags tree
+  - Tagging unmarked annotations
+  - Validate the PDF file and cleanup
+  - Checking compliance using the PAC checker
+  - Checking color contrast
+  - Testing with a screen reader
+- [**5. Create an Accessible PDF from Word**](#5-create-an-accessible-pdf-from-word) (14 videos)
+  - Accessible PDF on Windows vs. Mac
+  - Layout considerations and setup
+  - Add metadata
+  - Styles and outline levels
+  - Adding bookmarks
+  - Tagging tables
+  - Add hyperlinks
+  - Create a table of contents
+  - Add alternative text
+  - Artifacting objects
+  - Footnotes and endnotes
+  - Things to watch out for in Word
+  - Touch-ups after conversion from Word
+  - Funky fix-up
+- [**6. Create an Accessible PDF File from PowerPoint**](#6-create-an-accessible-pdf-file-from-powerpoint) (7 videos)
+  - General considerations
+  - Adding a document title in PowerPoint
+  - The importance of master slides
+  - Defining PowerPoint tag order
+  - Add alternative text in PowerPoint
+  - Work with PowerPoint tables
+  - Touch-ups after conversion from PowerPoint
+- [**7. Create an Accessible PDF File from Adobe InDesign**](#7-create-an-accessible-pdf-file-from-adobe-indesign) (21 videos)
+  - Best way to generate the PDF file
+  - InDesign layout considerations
+  - Add required metadata in InDesign
+  - InDesign styles and tag structure
+  - Controlling tag order with InDesign
+  - Control InDesign reading order
+  - Create InDesign captions
+  - Anchoring objects in text frames
+  - Work with tables in InDesign
+  - Interactive hyperlinks in InDesign
+  - Create a list with InDesign
+  - Add cross-references in InDesign
+  - Creating an InDesign table of contents
+  - Alternative text for images and graphics in InDesign
+  - Alternative text for images using metadata
+  - Adding actual text
+  - Artifacting InDesign objects
+  - PDF bookmarks in InDesign
+  - InDesign footnotes and endnotes
+  - Including an index with InDesign
+  - Finishing touches and validating
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The ultimate guide to accessible PDFs
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/the-ultimate-guide-to-accessible-pdfs-25575414?u=76281980)
@@ -181,7 +275,7 @@ created: 2026-04-29
 
 ### 1. Understanding Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/what-is-accessibility?u=76281980)
@@ -795,7 +889,7 @@ created: 2026-04-29
 
 ### 2. Accessibility in PDF Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Acrobat Pro DC setup and workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/acrobat-pro-dc-setup-and-workspace-25576403?u=76281980)
@@ -1129,7 +1223,7 @@ created: 2026-04-29
 
 ### 3. Make an Existing PDF File Accessible (Old Interface)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata?u=76281980)
@@ -3031,7 +3125,7 @@ created: 2026-04-29
 
 ### 4. Make an Existing PDF File Accessible (New Interface)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/add-metadata-25575372?u=76281980)
@@ -5713,7 +5807,7 @@ created: 2026-04-29
 
 ### 5. Create an Accessible PDF from Word
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible PDF on Windows vs. Mac
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/accessible-pdf-on-windows-vs-mac?u=76281980)
@@ -6973,7 +7067,7 @@ created: 2026-04-29
 
 ### 6. Create an Accessible PDF File from PowerPoint
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### General considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/general-considerations?u=76281980)
@@ -7596,7 +7690,7 @@ created: 2026-04-29
 
 ### 7. Create an Accessible PDF File from Adobe InDesign
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Best way to generate the PDF file
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/best-way-to-generate-the-pdf-file?u=76281980)
@@ -9799,7 +9893,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-pdfs-14445392/next-steps?u=76281980)

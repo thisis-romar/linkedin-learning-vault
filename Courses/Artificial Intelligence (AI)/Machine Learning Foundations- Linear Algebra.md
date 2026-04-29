@@ -58,19 +58,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Linear Algebra]]** (2 videos)
-- **[[#2. Vectors Basics]]** (3 videos)
-- **[[#3. Vector Projections and Basis]]** (4 videos)
-- **[[#4. Introduction to Matrices]]** (4 videos)
-- **[[#5. Gaussian Elimination]]** (3 videos)
-- **[[#6. Matrices from Orthogonality to Gram–Schmidt Process]]** (4 videos)
-- **[[#7. Eigenvalues and Eigenvectors]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Linear algebra the building block of ML
+  - What you should know
+- [**1. Introduction to Linear Algebra**](#1-introduction-to-linear-algebra) (2 videos)
+  - Defining linear algebra
+  - Applications of linear algebra in ML
+- [**2. Vectors Basics**](#2-vectors-basics) (3 videos)
+  - Introduction to vectors
+  - Vector arithmetic
+  - Coordinate system
+- [**3. Vector Projections and Basis**](#3-vector-projections-and-basis) (4 videos)
+  - Dot product of vectors
+  - Scalar and vector projection
+  - Changing basis of vectors
+  - Basis, linear independence, and span
+- [**4. Introduction to Matrices**](#4-introduction-to-matrices) (4 videos)
+  - Matrices introduction
+  - Types of matrices
+  - Types of matrix transformation
+  - Composition or combination of matrix transformations
+- [**5. Gaussian Elimination**](#5-gaussian-elimination) (3 videos)
+  - Solving linear equations using Gaussian elimination
+  - Gaussian elimination and finding the inverse matrix
+  - Inverse and determinant
+- [**6. Matrices from Orthogonality to Gram–Schmidt Process**](#6-matrices-from-orthogonality-to-gramschmidt-process) (4 videos)
+  - Matrices changing basis
+  - Transforming to the new basis
+  - Orthogonal matrix
+  - Gram–Schmidt process
+- [**7. Eigenvalues and Eigenvectors**](#7-eigenvalues-and-eigenvectors) (4 videos)
+  - Introduction to eigenvalues and eigenvectors
+  - Calculating eigenvalues and eigenvectors
+  - Changing to the eigenbasis
+  - Google PageRank algorithm
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear algebra the building block of ML
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/linear-algebra-the-building-block-of-ml?u=76281980)
@@ -137,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Linear Algebra
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining linear algebra
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/defining-linear-algebra?u=76281980)
@@ -305,7 +332,7 @@ created: 2026-04-29
 
 ### 2. Vectors Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to vectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-vectors?u=76281980)
@@ -562,7 +589,7 @@ created: 2026-04-29
 
 ### 3. Vector Projections and Basis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dot product of vectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/dot-product-of-vectors?u=76281980)
@@ -843,7 +870,7 @@ created: 2026-04-29
 
 ### 4. Introduction to Matrices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Matrices introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-introduction?u=76281980)
@@ -1090,7 +1117,7 @@ created: 2026-04-29
 
 ### 5. Gaussian Elimination
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving linear equations using Gaussian elimination
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/solving-linear-equations-using-gaussian-elimination?u=76281980)
@@ -1309,7 +1336,7 @@ created: 2026-04-29
 
 ### 6. Matrices from Orthogonality to Gram–Schmidt Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Matrices changing basis
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/matrices-changing-basis?u=76281980)
@@ -1545,7 +1572,7 @@ created: 2026-04-29
 
 ### 7. Eigenvalues and Eigenvectors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to eigenvalues and eigenvectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/introduction-to-eigenvalues-and-eigenvectors?u=76281980)
@@ -1821,7 +1848,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-linear-algebra/next-steps?u=76281980)

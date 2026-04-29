@@ -52,16 +52,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Text Processing with spaCy]]** (6 videos)
-- **[[#2. Data Analysis Using spaCy]]** (5 videos)
-- **[[#3. Processing Pipelines with spaCy]]** (7 videos)
-- **[[#4. Training an Artificial Neural Network]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Why use spaCy?
+  - Prerequisites of the course
+  - How to install spaCy
+- [**1. Text Processing with spaCy**](#1-text-processing-with-spacy) (6 videos)
+  - Introduction to spaCy
+  - spaCy's statistical models
+  - spaCy's containers
+  - Introduction to matching based on rules
+  - Challenge: Predicting linguistic annotations
+  - Solution: Predicting linguistic annotations
+- [**2. Data Analysis Using spaCy**](#2-data-analysis-using-spacy) (5 videos)
+  - spaCy's data structures
+  - Similarity and word vectors
+  - Integrating spaCy's models and rules
+  - Challenge: Phrase matching
+  - Solution: Phrase matching
+- [**3. Processing Pipelines with spaCy**](#3-processing-pipelines-with-spacy) (7 videos)
+  - Processing pipelines
+  - Pipeline's custom components
+  - Extension attributes: Part 1
+  - Extension attributes: Part 2
+  - Performance and scaling
+  - Challenge: Processing streams and selective processing
+  - Solution: Processing streams and selective processing
+- [**4. Training an Artificial Neural Network**](#4-training-an-artificial-neural-network) (7 videos)
+  - Training and updating models
+  - Training loop
+  - Challenge: Building a training loop
+  - Solution: Building a training loop
+  - Training loop best practices
+  - Challenge: Training multiple labels
+  - Solution: Training multiple labels
+- [**Conclusion**](#conclusion) (1 videos)
+  - Wrap-up
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use spaCy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980)
@@ -181,7 +210,7 @@ created: 2026-04-29
 
 ### 1. Text Processing with spaCy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980)
@@ -557,7 +586,7 @@ created: 2026-04-29
 
 ### 2. Data Analysis Using spaCy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### spaCy's data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980)
@@ -880,7 +909,7 @@ created: 2026-04-29
 
 ### 3. Processing Pipelines with spaCy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Processing pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/processing-pipelines?u=76281980)
@@ -1288,7 +1317,7 @@ created: 2026-04-29
 
 ### 4. Training an Artificial Neural Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Training and updating models
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980)
@@ -1627,7 +1656,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980)

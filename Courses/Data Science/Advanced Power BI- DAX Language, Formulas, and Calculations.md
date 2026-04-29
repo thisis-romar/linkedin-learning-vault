@@ -39,17 +39,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. DAX Overview]]** (5 videos)
-- **[[#2. Measures]]** (7 videos)
-- **[[#3. Time Intelligence]]** (10 videos)
-- **[[#4. Advanced DAX]]** (7 videos)
-- **[[#5. Advanced DAX Calculations]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Explore advanced features of Power BI
+- [**1. DAX Overview**](#1-dax-overview) (5 videos)
+  - DAX intro
+  - Variables
+  - GENERATESERIES
+  - GENERATE and ROW
+  - Measure groups and folders
+- [**2. Measures**](#2-measures) (7 videos)
+  - DAX measures
+  - X functions
+  - POWER DAX function
+  - Parameter harvesting formulas
+  - Filtering and evaluating measures
+  - CALCULATE DAX function including filters
+  - SELECTEDVALUE
+- [**3. Time Intelligence**](#3-time-intelligence) (10 videos)
+  - CALENDAR and CALENDARAUTO
+  - FIRSTDATE and LASTDATE
+  - START or END period
+  - DATEADD
+  - PARALLELPERIOD
+  - Dates period to date
+  - DATEBETWEEN
+  - PREVIOUS or NEXT period
+  - EOMONTH and EDATE
+  - DATEDIFF DAX function
+- [**4. Advanced DAX**](#4-advanced-dax) (7 videos)
+  - ALL and ALLSELECTED DAX function
+  - FILTER DAX function
+  - BLANK and ISBLANK DAX functions
+  - IF
+  - DIVIDE DAX function
+  - SWITCH
+  - Filtering between disconnected tables
+- [**5. Advanced DAX Calculations**](#5-advanced-dax-calculations) (4 videos)
+  - TMDL View
+  - Field parameters
+  - Calculation groups
+  - User-defined functions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore advanced features of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/explore-advanced-features-of-power-bi?u=76281980)
@@ -72,7 +107,7 @@ created: 2026-04-29
 
 ### 1. DAX Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DAX intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-intro?u=76281980)
@@ -363,7 +398,7 @@ created: 2026-04-29
 
 ### 2. Measures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DAX measures
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/dax-measures?u=76281980)
@@ -864,7 +899,7 @@ created: 2026-04-29
 
 ### 3. Time Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CALENDAR and CALENDARAUTO
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/calendar-and-calendarauto?u=76281980)
@@ -1373,7 +1408,7 @@ created: 2026-04-29
 
 ### 4. Advanced DAX
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ALL and ALLSELECTED DAX function
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/all-and-allselected-dax-function?u=76281980)
@@ -1845,7 +1880,7 @@ created: 2026-04-29
 
 ### 5. Advanced DAX Calculations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### TMDL View
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/tmdl-view?u=76281980)
@@ -2111,7 +2146,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations-30982476/next-steps-and-additional-resources?u=76281980)

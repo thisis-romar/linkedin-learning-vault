@@ -55,11 +55,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Your Supply Chain Smart Contract dApp]]** (18 videos)
+- [**1. Your Supply Chain Smart Contract dApp**](#1-your-supply-chain-smart-contract-dapp) (18 videos)
+  - Designing your supply chain app
+  - What are dApps?
+  - Token smart contract details
+  - Supply chain smart contract details
+  - Smart contract road map
+  - Token smart contract data, part 1
+  - Token smart contract data, part 2
+  - Supply chain smart contract data, part 1
+  - Supply chain smart contract data, part 2
+  - Token smart contract functions, part 1
+  - Token smart contract functions, part 2
+  - Supply chain smart contract functions, part 1
+  - Supply chain smart contract functions, part 2
+  - Using events
+  - Implementing events
+  - More on ownership
+  - Designing for security
+  - Implementing minimal functionality
 
 ### 1. Your Supply Chain Smart Contract dApp
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing your supply chain app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-8-supply-chain-smart-contract-dapp/designing-your-supply-chain-app?u=76281980)

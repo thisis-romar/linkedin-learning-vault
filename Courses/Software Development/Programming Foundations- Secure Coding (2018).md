@@ -39,18 +39,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Security and Risk Overview]]** (5 videos)
-- **[[#2. Web Client Server Interaction Code Issues]]** (3 videos)
-- **[[#3. Thick App and Client-Server Interaction Issues]]** (8 videos)
-- **[[#4. Crypto and Security Misuse Issues]]** (3 videos)
-- **[[#5. Security in the SDLC]]** (5 videos)
-- **[[#Glossaries]]** (0 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Implement secure code with your team
+  - What you need to know
+- [**1. Security and Risk Overview**](#1-security-and-risk-overview) (5 videos)
+  - The goal of secure coding
+  - Understand an attacker
+  - Break what you build
+  - Understand your risks
+  - Document what you understand
+- [**2. Web Client Server Interaction Code Issues**](#2-web-client-server-interaction-code-issues) (3 videos)
+  - Input validation issues
+  - Communication channel issues
+  - Session management issues
+- [**3. Thick App and Client-Server Interaction Issues**](#3-thick-app-and-client-server-interaction-issues) (8 videos)
+  - Error handling issues
+  - Logging and output issues
+  - Internal data management issues
+  - Configuration issues
+  - Database issues
+  - File and I/O issues
+  - Memory management issues
+  - Dependency issues
+- [**4. Crypto and Security Misuse Issues**](#4-crypto-and-security-misuse-issues) (3 videos)
+  - Authentication and password issues
+  - Authorization and access control issues
+  - Cryptography issues
+- [**5. Security in the SDLC**](#5-security-in-the-sdlc) (5 videos)
+  - Embrace security in design
+  - Embrace security in development
+  - Embrace security in testing
+  - Embrace security in deployment
+  - Implement best practices
+- [**Glossaries**](#glossaries) (0 videos)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement secure code with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980)
@@ -122,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Security and Risk Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The goal of secure coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980)
@@ -441,7 +468,7 @@ created: 2026-04-29
 
 ### 2. Web Client Server Interaction Code Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Input validation issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980)
@@ -697,7 +724,7 @@ created: 2026-04-29
 
 ### 3. Thick App and Client-Server Interaction Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Error handling issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/error-handling-issues?u=76281980)
@@ -1247,7 +1274,7 @@ created: 2026-04-29
 
 ### 4. Crypto and Security Misuse Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication and password issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980)
@@ -1512,7 +1539,7 @@ created: 2026-04-29
 
 ### 5. Security in the SDLC
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace security in design
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980)
@@ -1815,12 +1842,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/next-steps?u=76281980)

@@ -44,15 +44,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Keeping Your Team on the Bleeding Edge of AI Innovation]]** (2 videos)
-- **[[#2. Building Ethics into Your AI Innovation]]** (3 videos)
-- **[[#3. Building Your Team, Strategy, and Resources]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Staying on the edge of AI
+- [**1. Keeping Your Team on the Bleeding Edge of AI Innovation**](#1-keeping-your-team-on-the-bleeding-edge-of-ai-innovation) (2 videos)
+  - Introduction to AI innovation
+  - Navigating generative AI
+- [**2. Building Ethics into Your AI Innovation**](#2-building-ethics-into-your-ai-innovation) (3 videos)
+  - Ethical considerations in AI
+  - Short-term strategies for ethics
+  - Long-term strategies for ethics
+- [**3. Building Your Team, Strategy, and Resources**](#3-building-your-team-strategy-and-resources) (7 videos)
+  - Building effective AI teams
+  - AI leadership and strategy
+  - Case study
+  - Upskilling your workforce
+  - Leveraging external resources
+  - Overcoming AI implementation challenges
+  - Future-proofing your AI strategy
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with AI in your organization
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Staying on the edge of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/staying-on-the-edge-of-ai?u=76281980)
@@ -81,7 +95,7 @@ created: 2026-04-29
 
 ### 1. Keeping Your Team on the Bleeding Edge of AI Innovation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/introduction-to-ai-innovation?u=76281980)
@@ -210,7 +224,7 @@ created: 2026-04-29
 
 ### 2. Building Ethics into Your AI Innovation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical considerations in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/ethical-considerations-in-ai?u=76281980)
@@ -388,7 +402,7 @@ created: 2026-04-29
 
 ### 3. Building Your Team, Strategy, and Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building effective AI teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/building-effective-ai-teams?u=76281980)
@@ -769,7 +783,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with AI in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-keep-your-team-on-the-bleeding-edge-of-ai-innovation/continuing-on-with-ai-in-your-organization?u=76281980)

@@ -48,16 +48,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Design for Non-Designers]]** (3 videos)
-- **[[#2. Designing Presentations in Canva]]** (4 videos)
-- **[[#3. Designing with Your Brand in Mind]]** (4 videos)
-- **[[#4. Designing for Accessibility]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Design better presentations in Canva
+  - What you should know
+  - Exercise files
+- [**1. Design for Non-Designers**](#1-design-for-non-designers) (3 videos)
+  - Design pillars
+  - Key Gestalt design principles
+  - Designing for everyone
+- [**2. Designing Presentations in Canva**](#2-designing-presentations-in-canva) (4 videos)
+  - Starting from a template
+  - Using proximity to group related elements
+  - Creating space to make your message clear
+  - Using similarity and contrast to create a visual hierarchy
+- [**3. Designing with Your Brand in Mind**](#3-designing-with-your-brand-in-mind) (4 videos)
+  - Why branding matters
+  - Choosing accessible brand colors
+  - Creating your brand kit
+  - Designing a brand template
+- [**4. Designing for Accessibility**](#4-designing-for-accessibility) (3 videos)
+  - Checking presentations for accessibility
+  - Checking for color contrast
+  - Writing alternative text
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design better presentations in Canva
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-better-presentations-in-canva?u=76281980)
@@ -124,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Design for Non-Designers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design pillars
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/design-pillars?u=76281980)
@@ -239,7 +257,7 @@ created: 2026-04-29
 
 ### 2. Designing Presentations in Canva
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting from a template
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/starting-from-a-template?u=76281980)
@@ -695,7 +713,7 @@ created: 2026-04-29
 
 ### 3. Designing with Your Brand in Mind
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why branding matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/why-branding-matters?u=76281980)
@@ -1114,7 +1132,7 @@ created: 2026-04-29
 
 ### 4. Designing for Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Checking presentations for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/checking-presentations-for-accessibility?u=76281980)
@@ -1422,7 +1440,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/canva-designing-engaging-accessible-presentations/next-steps?u=76281980)

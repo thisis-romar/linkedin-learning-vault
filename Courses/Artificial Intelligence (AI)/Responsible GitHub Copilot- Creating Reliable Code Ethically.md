@@ -55,13 +55,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Using GitHub Copilot Responsibly]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - GenAI and creating code responsibly
+- [**1. Using GitHub Copilot Responsibly**](#1-using-github-copilot-responsibly) (7 videos)
+  - Controlling the Skies: Your role as a Copilot
+  - Keeping things current: Data freshness
+  - Unravelling the bias: Model prejudices
+  - Crafting excellence: Development best practices
+  - Trust but verify: Validate everything
+  - Bulletproof your code: Unit and regression testing
+  - Guarding your gates: Security testing essentials
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI and creating code responsibly
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980)
@@ -91,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Using GitHub Copilot Responsibly
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Controlling the Skies: Your role as a Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980)
@@ -514,7 +523,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980)

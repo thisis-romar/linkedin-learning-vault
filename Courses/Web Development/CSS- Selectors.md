@@ -46,20 +46,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Review of Basic CSS]]** (4 videos)
-- **[[#2. Combinator Selectors]]** (5 videos)
-- **[[#3. Attribute Selectors]]** (4 videos)
-- **[[#4. Pseudo-classes for document structures]]** (4 videos)
-- **[[#5. Pseudo-classes for links]]** (4 videos)
-- **[[#6. Pseudo-classes for forms]]** (5 videos)
-- **[[#7. Additional pseudo-classes, pseudo-elements, and the universal selector]]** (5 videos)
-- **[[#8. Choosing Selectors]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of selectors
+- [**1. Review of Basic CSS**](#1-review-of-basic-css) (4 videos)
+  - CSS terminology
+  - Type selectors, classes, and IDs
+  - Selector lists
+  - Compound selectors
+- [**2. Combinator Selectors**](#2-combinator-selectors) (5 videos)
+  - The HTML family tree: Parents, children, ancestor, descendant, and siblings
+  - Descendant selectors
+  - Parent-child selectors
+  - Adjacent and general sibling selectors
+  - Reading and writing selectors
+- [**3. Attribute Selectors**](#3-attribute-selectors) (4 videos)
+  - Simple attribute selectors
+  - Exact and partial attribute value selectors
+  - Beginning, ending, and arbitrary substring attribute value selectors
+  - Cool attribute selector tricks
+- [**4. Pseudo-classes for document structures**](#4-pseudo-classes-for-document-structures) (4 videos)
+  - Understanding only selectors, :only-child, :only-of-type
+  - Understanding first and last selectors, :first-child, :first-of-type, :last-child, :last-of-type
+  - Understanding nth selectors – :nth-child, :nth-of-type, :nth-last-child, :nth-last-of-type
+  - :root and :empty
+- [**5. Pseudo-classes for links**](#5-pseudo-classes-for-links) (4 videos)
+  - Basic link states: :link, :visited, :hover, :active
+  - :any-link for combining link states
+  - Pseudo-classes for in-page navigation, :target
+  - Accessibility pseudo-classes: :focus, :focus-within
+- [**6. Pseudo-classes for forms**](#6-pseudo-classes-for-forms) (5 videos)
+  - Form controls: :required and :optional; :enabled and :disabled
+  - Form controls: :read-only and :read-write
+  - Form control states: :indeterminate, :default, :checked
+  - Text fields: :autofill, :placeholder-shown
+  - Error checking: :valid, :invalid, :in-range, :out-of-range
+- [**7. Additional pseudo-classes, pseudo-elements, and the universal selector**](#7-additional-pseudo-classes-pseudo-elements-and-the-universal-selector) (5 videos)
+  - Comparing is() and where()
+  - Understanding :not
+  - :has()
+  - Meet the pseudo-elements ::before, ::after, ::first-line, ::first-letter
+  - *, the universal selector
+- [**8. Choosing Selectors**](#8-choosing-selectors) (3 videos)
+  - CSS selectors and browser support
+  - Why can't I use CSS classes exclusively? Selectors best practices
+  - Impact of CSS selectors on performance
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional CSS practice
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of selectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-power-of-selectors-23420115?u=76281980)
@@ -67,7 +103,7 @@ created: 2026-04-29
 
 ### 1. Review of Basic CSS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/css-terminology?u=76281980)
@@ -314,7 +350,7 @@ created: 2026-04-29
 
 ### 2. Combinator Selectors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The HTML family tree: Parents, children, ancestor, descendant, and siblings
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980)
@@ -648,7 +684,7 @@ created: 2026-04-29
 
 ### 3. Attribute Selectors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple attribute selectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/simple-attribute-selectors?u=76281980)
@@ -913,7 +949,7 @@ created: 2026-04-29
 
 ### 4. Pseudo-classes for document structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding only selectors, :only-child, :only-of-type
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/understanding-only-selectors-only-child-only-of-type?u=76281980)
@@ -1196,7 +1232,7 @@ created: 2026-04-29
 
 ### 5. Pseudo-classes for links
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic link states: :link, :visited, :hover, :active
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980)
@@ -1469,7 +1505,7 @@ created: 2026-04-29
 
 ### 6. Pseudo-classes for forms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Form controls: :required and :optional; :enabled and :disabled
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980)
@@ -2214,7 +2250,7 @@ created: 2026-04-29
 
 ### 7. Additional pseudo-classes, pseudo-elements, and the universal selector
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing is() and where()
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980)
@@ -2806,7 +2842,7 @@ created: 2026-04-29
 
 ### 8. Choosing Selectors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS selectors and browser support
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/css-selectors-and-browser-support?u=76281980)
@@ -2949,7 +2985,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional CSS practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/additional-css-practice?u=76281980)

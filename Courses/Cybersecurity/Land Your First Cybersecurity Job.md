@@ -59,17 +59,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Cybersecurity Careers]]** (4 videos)
-- **[[#2. Basic Steps to Launching Your Career]]** (5 videos)
-- **[[#3. Building Your Brand in Cyber]]** (2 videos)
-- **[[#4. The Power of Networking]]** (2 videos)
-- **[[#5. Landing the Role]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Your future in cybersecurity
+- [**1. Cybersecurity Careers**](#1-cybersecurity-careers) (4 videos)
+  - Cyber domains explained
+  - Popular roles in cyber
+  - Cyberseek demo
+  - PIVOT into cyber: A framework to live by
+- [**2. Basic Steps to Launching Your Career**](#2-basic-steps-to-launching-your-career) (5 videos)
+  - Why do you want to be a cyber professional?
+  - Your current skill set has value
+  - Which roles map to your skill sets?
+  - What are you missing?
+  - Create your cyber roadmap
+- [**3. Building Your Brand in Cyber**](#3-building-your-brand-in-cyber) (2 videos)
+  - Marketing your skills
+  - Volunteering for success
+- [**4. The Power of Networking**](#4-the-power-of-networking) (2 videos)
+  - Building your network
+  - Mentoring with a purpose
+- [**5. Landing the Role**](#5-landing-the-role) (3 videos)
+  - Finding a role that fits your skills and goals
+  - Acing your interview
+  - Negotiating your benefits
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue to grow
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your future in cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/your-future-in-cybersecurity-17401993?u=76281980)
@@ -113,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Cybersecurity Careers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cyber domains explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/cyber-domains-explained-17406280?u=76281980)
@@ -385,7 +403,7 @@ created: 2026-04-29
 
 ### 2. Basic Steps to Launching Your Career
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do you want to be a cyber professional?
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/why-do-you-want-to-be-a-cyber-professional-17407223?u=76281980)
@@ -768,7 +786,7 @@ created: 2026-04-29
 
 ### 3. Building Your Brand in Cyber
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Marketing your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/marketing-your-skills-17406275?u=76281980)
@@ -908,7 +926,7 @@ created: 2026-04-29
 
 ### 4. The Power of Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your network
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/building-your-network-17406277?u=76281980)
@@ -1064,7 +1082,7 @@ created: 2026-04-29
 
 ### 5. Landing the Role
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding a role that fits your skills and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/finding-a-role-that-fits-your-skills-and-goals-17405544?u=76281980)
@@ -1376,7 +1394,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue to grow
 > [LinkedIn Learning](https://www.linkedin.com/learning/land-your-first-cybersecurity-job/continue-to-grow-17405539?u=76281980)

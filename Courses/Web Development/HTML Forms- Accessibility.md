@@ -49,16 +49,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Form Accessibility]]** (3 videos)
-- **[[#2. Improving Form Accessibility with Form Controls]]** (3 videos)
-- **[[#3. Helping Users Input Data into Forms]]** (6 videos)
-- **[[#4. Managing Data Entry Errors]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Be an HTML forms MVP
+  - What you should know
+- [**1. Introduction to Form Accessibility**](#1-introduction-to-form-accessibility) (3 videos)
+  - Course use case
+  - What is form accessibility?
+  - Appearance
+- [**2. Improving Form Accessibility with Form Controls**](#2-improving-form-accessibility-with-form-controls) (3 videos)
+  - Introduction to HTML form controls
+  - Input, textarea, select, and button form control
+  - Label element
+- [**3. Helping Users Input Data into Forms**](#3-helping-users-input-data-into-forms) (6 videos)
+  - Introduction to HTML form attributes
+  - Input types: Checkbox, radio button, text, password, and email
+  - Name and for attributes
+  - Aria-describedby and Aria-labelledby attributes
+  - Placeholder, label attribute
+  - Focus indicator
+- [**4. Managing Data Entry Errors**](#4-managing-data-entry-errors) (3 videos)
+  - Required attribute
+  - Autocomplete attribute
+  - Min-length and max-length attribute
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be an HTML forms MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp?u=76281980)
@@ -131,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Form Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/course-use-case?u=76281980)
@@ -225,7 +243,7 @@ created: 2026-04-29
 
 ### 2. Improving Form Accessibility with Form Controls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to HTML form controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-controls?u=76281980)
@@ -364,7 +382,7 @@ created: 2026-04-29
 
 ### 3. Helping Users Input Data into Forms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to HTML form attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/introduction-to-html-form-attributes?u=76281980)
@@ -724,7 +742,7 @@ created: 2026-04-29
 
 ### 4. Managing Data Entry Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Required attribute
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/required-attribute?u=76281980)
@@ -860,7 +878,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-forms-accessibility/next-steps?u=76281980)

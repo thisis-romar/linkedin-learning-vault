@@ -58,17 +58,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Identifying the Optimal Type of Analytics for Your Challenge]]** (5 videos)
-- **[[#2. Getting Serious about Analytics]]** (5 videos)
-- **[[#3. Hiring and Staffing]]** (8 videos)
-- **[[#4. Software and Technology]]** (5 videos)
-- **[[#5. Organizational Structure]]** (5 videos)
-- **[[#6. Continuing Your Predictive Analytics Learning Journey]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Give yourself the executive analytics edge
+  - Our course goals
+- [**1. Identifying the Optimal Type of Analytics for Your Challenge**](#1-identifying-the-optimal-type-of-analytics-for-your-challenge) (5 videos)
+  - Predictive analytics vs. forecasting
+  - AI compared to predictive analytics
+  - What is traditional or classic machine learning?
+  - Predictive analytics compared to statistics and data science
+  - Can Gen AI and LLMs be used in predictive models?
+- [**2. Getting Serious about Analytics**](#2-getting-serious-about-analytics) (5 videos)
+  - Analytics is about making decisions
+  - Propensity scores and business problems
+  - The unintended consequences of proof of concept projects
+  - Why deployment, not insight, is the primary goal
+  - Analytics as a profit center
+- [**3. Hiring and Staffing**](#3-hiring-and-staffing) (8 videos)
+  - Who should you hire first for your new data science team?
+  - Data scientist, data engineers, and MLOps
+  - Data science job requirements and the problems they can create
+  - Growing a team organically
+  - Data scientists with and without vertical industry experience
+  - The importance of SMEs to modeling
+  - Do you need the latest new techniques?
+  - How to spot potential
+- [**4. Software and Technology**](#4-software-and-technology) (5 videos)
+  - Cloud and enterprise analytics
+  - Why data prep has to be customized for predictive models
+  - The analytics software ecosystem
+  - Citizens and self-service
+  - Responsible AI
+- [**5. Organizational Structure**](#5-organizational-structure) (5 videos)
+  - Analytics project management
+  - Career path of the data scientist
+  - Who should data science report to?
+  - The role of the CAO
+  - CAOs, CDOs, and CAIOs
+- [**6. Continuing Your Predictive Analytics Learning Journey**](#6-continuing-your-predictive-analytics-learning-journey) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Give yourself the executive analytics edge
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/give-yourself-the-executive-analytics-edge?u=76281980)
@@ -140,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Identifying the Optimal Type of Analytics for Your Challenge
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive analytics vs. forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/predictive-analytics-vs-forecasting?u=76281980)
@@ -406,7 +437,7 @@ created: 2026-04-29
 
 ### 2. Getting Serious about Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analytics is about making decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-is-about-making-decisions?u=76281980)
@@ -782,7 +813,7 @@ created: 2026-04-29
 
 ### 3. Hiring and Staffing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Who should you hire first for your new data science team?
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/who-should-you-hire-first-for-your-new-data-science-team?u=76281980)
@@ -1184,7 +1215,7 @@ created: 2026-04-29
 
 ### 4. Software and Technology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud and enterprise analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/cloud-and-enterprise-analytics?u=76281980)
@@ -1505,7 +1536,7 @@ created: 2026-04-29
 
 ### 5. Organizational Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analytics project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/analytics-project-management?u=76281980)
@@ -1878,7 +1909,7 @@ created: 2026-04-29
 
 ### 6. Continuing Your Predictive Analytics Learning Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-for-executives-25301424/next-steps-and-additional-resources?u=76281980)

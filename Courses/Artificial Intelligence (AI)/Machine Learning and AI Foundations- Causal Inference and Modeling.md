@@ -51,17 +51,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Experimental Design and Statistical Controls]]** (10 videos)
-- **[[#2. Conditional Probability and Bayes' Theorem]]** (8 videos)
-- **[[#3. Prediction and Proof with Bayesian statistics]]** (6 videos)
-- **[[#4. Causal Modeling with Structural Equation Modeling (SEM)]]** (6 videos)
-- **[[#5. Causal Modeling with Bayesian Networks]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Thinking about causality
+  - What you should know
+- [**1. Experimental Design and Statistical Controls**](#1-experimental-design-and-statistical-controls) (10 videos)
+  - The investigator, the jury, and the judge
+  - Fisher and experiments
+  - John Snow and natural experiments
+  - Double blind studies
+  - Control variables (ANCOVA)
+  - Judea Pearl: Problems with control variables
+  - Moderation, mediation, and lurking variables
+  - Simpson's paradox
+  - Challenge: Moderation, mediation, or a third variable
+  - Solution: Moderation, mediation, or a third variable
+- [**2. Conditional Probability and Bayes' Theorem**](#2-conditional-probability-and-bayes-theorem) (8 videos)
+  - Turing, Enigma, and CAPTCHA
+  - Enigma and uncertainty
+  - Developing an intuition for Bayes with Wordle
+  - Wordle and conditional probability
+  - Wordle, bans, and bits
+  - Wordle and Bayes' theorem
+  - Challenge: Conditional probability and Bayes' theorem
+  - Solution: Conditional probability and Bayes' theorem
+- [**3. Prediction and Proof with Bayesian statistics**](#3-prediction-and-proof-with-bayesian-statistics) (6 videos)
+  - Contrasting frequentist statistics and Bayesian statistics
+  - Bayesian T-Test with JASP
+  - Google Optimize
+  - Bayes and rare events
+  - Challenge: JASP
+  - Solution: JASP
+- [**4. Causal Modeling with Structural Equation Modeling (SEM)**](#4-causal-modeling-with-structural-equation-modeling-sem) (6 videos)
+  - Sewell Wright
+  - Introducing path analysis and SEM
+  - SEM example: Intention
+  - Myths about SEM
+  - Latent variables in SEM
+  - Finding direction of causality with SEM (PSAT)
+- [**5. Causal Modeling with Bayesian Networks**](#5-causal-modeling-with-bayesian-networks) (5 videos)
+  - Judea Pearl and the causal revolution
+  - Downloading BayesiaLab and resources
+  - Introducing BayesiaLab: Hair and eye color
+  - Introduction to causal modeling with Bayesian networks
+  - Bayesian Networks: Black Swan case study
+- [**Conclusion**](#conclusion) (1 videos)
+  - Taking causality further
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking about causality
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/thinking-about-causality?u=76281980)
@@ -142,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Experimental Design and Statistical Controls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The investigator, the jury, and the judge
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/the-investigator-the-jury-and-the-judge?u=76281980)
@@ -1129,7 +1167,7 @@ created: 2026-04-29
 
 ### 2. Conditional Probability and Bayes' Theorem
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Turing, Enigma, and CAPTCHA
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/turing-enigma-and-captcha?u=76281980)
@@ -1909,7 +1947,7 @@ created: 2026-04-29
 
 ### 3. Prediction and Proof with Bayesian statistics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Contrasting frequentist statistics and Bayesian statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/contrasting-frequentist-statistics-and-bayesian-statistics?u=76281980)
@@ -2554,7 +2592,7 @@ created: 2026-04-29
 
 ### 4. Causal Modeling with Structural Equation Modeling (SEM)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sewell Wright
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/sewell-wright?u=76281980)
@@ -3055,7 +3093,7 @@ created: 2026-04-29
 
 ### 5. Causal Modeling with Bayesian Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Judea Pearl and the causal revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/judea-pearl-and-the-causal-revolution?u=76281980)
@@ -3536,7 +3574,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking causality further
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-causal-inference-and-modeling/taking-causality-further?u=76281980)

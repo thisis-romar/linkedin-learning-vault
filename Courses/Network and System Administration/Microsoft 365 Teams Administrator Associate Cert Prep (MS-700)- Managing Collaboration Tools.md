@@ -46,20 +46,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Manage Chat and Collaboration Experiences]]** (7 videos)
-- **[[#2. Manage Meeting Experiences]]** (4 videos)
-- **[[#3. Manage Phone Numbers]]** (7 videos)
-- **[[#4. Manage Phone System]]** (7 videos)
-- **[[#5. Manage Teams and App Policies]]** (5 videos)
-- **[[#6. Manage Membership in a Team]]** (3 videos)
-- **[[#7. Implement Policies for Microsoft Teams Apps]]** (6 videos)
-- **[[#8. Monitor and Troubleshoot a Microsoft Teams Environment]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Configuring Teams policies and settings
+- [**1. Manage Chat and Collaboration Experiences**](#1-manage-chat-and-collaboration-experiences) (7 videos)
+  - Configure messaging policies
+  - Manage external access
+  - Manage channels for a team
+  - Manage private channel creation policies
+  - Manage email integration
+  - Configure external access for SharePoint and OneDrive
+  - Manage cloud file storage options for collaboration
+- [**2. Manage Meeting Experiences**](#2-manage-meeting-experiences) (4 videos)
+  - Configure meeting settings
+  - Create and manage meeting policies
+  - Create and configure settings for live events
+  - Configure conference bridge settings
+- [**3. Manage Phone Numbers**](#3-manage-phone-numbers) (7 videos)
+  - PSTN replacement based on specific business requirements
+  - Order phone numbers
+  - Manage service numbers
+  - Add, change, or remove an emergency address
+  - Assign, change, or remove a phone number for a user
+  - Manage voice settings for users
+  - Configure dynamic emergency calling
+- [**4. Manage Phone System**](#4-manage-phone-system) (7 videos)
+  - Create and configure call queues
+  - Create and configure auto attendants
+  - Manage call park policies
+  - Manage calling policies
+  - Manage caller ID policies
+  - Interpret a dial plan
+  - Interpret the Health Dashboard for Direct Routing
+- [**5. Manage Teams and App Policies**](#5-manage-teams-and-app-policies) (5 videos)
+  - Create a team
+  - Upgrade an existing resource to a team
+  - Manage privacy levels for a team
+  - Manage organization-wide teams
+  - Create and manage policy packages in Microsoft Teams
+- [**6. Manage Membership in a Team**](#6-manage-membership-in-a-team) (3 videos)
+  - Manage users in a team
+  - Configure dynamic membership
+  - Manage access review for team members
+- [**7. Implement Policies for Microsoft Teams Apps**](#7-implement-policies-for-microsoft-teams-apps) (6 videos)
+  - Manage organization-wide app settings
+  - Create and manage app permission policies
+  - Create and manage app setup policies
+  - Add messaging extensions to a team
+  - Manage app store customization
+  - Publish and configure a custom app to Microsoft Teams
+- [**8. Monitor and Troubleshoot a Microsoft Teams Environment**](#8-monitor-and-troubleshoot-a-microsoft-teams-environment) (4 videos)
+  - Troubleshoot audio, video, and client issues
+  - Troubleshoot chat and presence issues
+  - Identify, collect, and interpret client logs
+  - Troubleshoot Microsoft Teams sign-in issues
+- [**Conclusion**](#conclusion) (1 videos)
+  - Recommended courses
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring Teams policies and settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configuring-teams-policies-and-settings?u=76281980)
@@ -92,7 +137,7 @@ created: 2026-04-29
 
 ### 1. Manage Chat and Collaboration Experiences
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure messaging policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-messaging-policies?u=76281980)
@@ -548,7 +593,7 @@ created: 2026-04-29
 
 ### 2. Manage Meeting Experiences
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure meeting settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/configure-meeting-settings?u=76281980)
@@ -923,7 +968,7 @@ created: 2026-04-29
 
 ### 3. Manage Phone Numbers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PSTN replacement based on specific business requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/pstn-replacement-based-on-specific-business-requirements?u=76281980)
@@ -1373,7 +1418,7 @@ created: 2026-04-29
 
 ### 4. Manage Phone System
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and configure call queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-and-configure-call-queues?u=76281980)
@@ -1987,7 +2032,7 @@ created: 2026-04-29
 
 ### 5. Manage Teams and App Policies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a team
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/create-a-team?u=76281980)
@@ -2324,7 +2369,7 @@ created: 2026-04-29
 
 ### 6. Manage Membership in a Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage users in a team
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-users-in-a-team?u=76281980)
@@ -2634,7 +2679,7 @@ created: 2026-04-29
 
 ### 7. Implement Policies for Microsoft Teams Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage organization-wide app settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/manage-organization-wide-app-settings?u=76281980)
@@ -3028,7 +3073,7 @@ created: 2026-04-29
 
 ### 8. Monitor and Troubleshoot a Microsoft Teams Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot audio, video, and client issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/troubleshoot-audio-video-and-client-issues?u=76281980)
@@ -3248,7 +3293,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recommended courses
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-teams-administrator-associate-cert-prep-ms-700-managing-collaboration-tools/recommended-courses?u=76281980)

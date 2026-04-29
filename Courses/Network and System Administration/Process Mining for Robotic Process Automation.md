@@ -53,17 +53,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Process Mining]]** (3 videos)
-- **[[#2. Process Capture]]** (3 videos)
-- **[[#3. Process Exploration]]** (6 videos)
-- **[[#4. Process Development]]** (2 videos)
-- **[[#5. Process Oversight]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course overview and benefits
+- [**1. Introduction to Process Mining**](#1-introduction-to-process-mining) (3 videos)
+  - Defining process mining
+  - The value of process mining
+  - Achieving process maturity
+- [**2. Process Capture**](#2-process-capture) (3 videos)
+  - What is process capture?
+  - Event log capture
+  - Task capture
+- [**3. Process Exploration**](#3-process-exploration) (6 videos)
+  - Building a business case
+  - Task mining
+  - Identifying deviations and variations
+  - Conformance checking
+  - Filters and layers
+  - Machine learning and other intelligent features
+- [**4. Process Development**](#4-process-development) (2 videos)
+  - Optimizing and redesigning processes
+  - Using robotic process automation
+- [**5. Process Oversight**](#5-process-oversight) (2 videos)
+  - Outcome measurement and auditing
+  - Runtime monitoring
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course takeaways
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview and benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-overview-and-benefits?u=76281980)
@@ -111,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Process Mining
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining process mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/defining-process-mining?u=76281980)
@@ -229,7 +247,7 @@ created: 2026-04-29
 
 ### 2. Process Capture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is process capture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/what-is-process-capture?u=76281980)
@@ -338,7 +356,7 @@ created: 2026-04-29
 
 ### 3. Process Exploration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/building-a-business-case?u=76281980)
@@ -539,7 +557,7 @@ created: 2026-04-29
 
 ### 4. Process Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing and redesigning processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/optimizing-and-redesigning-processes-30321097?u=76281980)
@@ -606,7 +624,7 @@ created: 2026-04-29
 
 ### 5. Process Oversight
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Outcome measurement and auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/outcome-measurement-and-auditing?u=76281980)
@@ -673,7 +691,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980)

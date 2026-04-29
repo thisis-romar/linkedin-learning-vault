@@ -56,17 +56,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Wireframing]]** (5 videos)
-- **[[#2. Frontend Development]]** (5 videos)
-- **[[#3. Backend Development]]** (4 videos)
-- **[[#4. Testing Your Full Stack Project]]** (5 videos)
-- **[[#5. Deployment and Documentation]]** (5 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Leaning into AI: Reframing what we know and how we build
+  - AI: Common hesitations, curiosities, and unknowns
+  - What to expect
+  - Using the project files
+- [**1. Wireframing**](#1-wireframing) (5 videos)
+  - Leaning into AI: Introduction to AI in wireframing
+  - Exploring Figma AI tools
+  - Generate your wireframe
+  - AI as a partner: Refining the AI output wireframe
+  - Make it useful: Annotate your wireframe
+- [**2. Frontend Development**](#2-frontend-development) (5 videos)
+  - Using AI to brainstorm your frontend approach
+  - Leveraging AI tools for frontend brainstorming
+  - Writing effective AI prompts for frontend development
+  - AI as a partner: Refining the AI output wireframe to code
+  - Make it real: First frontend iteration
+- [**3. Backend Development**](#3-backend-development) (4 videos)
+  - Coming up with your backend approach
+  - Analyzing benefits and tradeoffs
+  - AI as a partner: Refining the AI output backend brainstorm
+  - Make it real: Frontend meets the backend
+- [**4. Testing Your Full Stack Project**](#4-testing-your-full-stack-project) (5 videos)
+  - Testing your code with AI
+  - Leveraging AI when writing tests
+  - Effective prompting for testing your project
+  - Troubleshooting with AI
+  - It's time to run it: Testing your tests
+- [**5. Deployment and Documentation**](#5-deployment-and-documentation) (5 videos)
+  - Streamlining handoff and delivery
+  - AI-assisted delivery and handoff in the real world
+  - Generating useful documentation
+  - Documentation for devs
+  - Preparing your documentation for client delivery
+- [**Conclusion**](#conclusion) (2 videos)
+  - Overview of design to dev stages and AI
+  - How might you integrate AI into your personal workflow?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leaning into AI: Reframing what we know and how we build
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-reframing-what-we-know-and-how-we-build?u=76281980)
@@ -173,7 +203,7 @@ created: 2026-04-29
 
 ### 1. Wireframing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leaning into AI: Introduction to AI in wireframing
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-introduction-to-ai-in-wireframing?u=76281980)
@@ -465,7 +495,7 @@ created: 2026-04-29
 
 ### 2. Frontend Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to brainstorm your frontend approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-ai-to-brainstorm-your-frontend-approach?u=76281980)
@@ -797,7 +827,7 @@ created: 2026-04-29
 
 ### 3. Backend Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Coming up with your backend approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/coming-up-with-your-backend-approach?u=76281980)
@@ -1070,7 +1100,7 @@ created: 2026-04-29
 
 ### 4. Testing Your Full Stack Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing your code with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/testing-your-code-with-ai?u=76281980)
@@ -1390,7 +1420,7 @@ created: 2026-04-29
 
 ### 5. Deployment and Documentation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Streamlining handoff and delivery
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/streamlining-handoff-delivery?u=76281980)
@@ -1647,7 +1677,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of design to dev stages and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/overview-of-design-to-dev-stages-ai?u=76281980)

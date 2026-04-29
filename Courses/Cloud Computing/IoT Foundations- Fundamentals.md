@@ -50,16 +50,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Software-Defined Product]]** (4 videos)
-- **[[#2. The Hardware-Defined Product]]** (4 videos)
-- **[[#3. The Network Fabric]]** (4 videos)
-- **[[#4. External Systems]]** (5 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - From physical to digital: Your first step into the Internet of Things
+  - What you should know
+  - Architectural overview
+- [**1. The Software-Defined Product**](#1-the-software-defined-product) (4 videos)
+  - The digital twin
+  - The AI model
+  - Application
+  - IoT value modeling
+- [**2. The Hardware-Defined Product**](#2-the-hardware-defined-product) (4 videos)
+  - Hardware overview
+  - Sensors
+  - Embedded systems
+  - Connected sensors
+- [**3. The Network Fabric**](#3-the-network-fabric) (4 videos)
+  - Overview and standards
+  - OT, IT, and fog networks
+  - IoT product cloud
+  - IoT platform
+- [**4. External Systems**](#4-external-systems) (5 videos)
+  - Overview of external systems
+  - Analytics and AI
+  - Data services
+  - Business systems
+  - Other IoT products
+- [**Conclusion**](#conclusion) (2 videos)
+  - Main takeaways
+  - What was not included
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From physical to digital: Your first step into the Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980)
@@ -176,7 +198,7 @@ created: 2026-04-29
 
 ### 1. The Software-Defined Product
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The digital twin
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980)
@@ -411,7 +433,7 @@ created: 2026-04-29
 
 ### 2. The Hardware-Defined Product
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hardware overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980)
@@ -561,7 +583,7 @@ created: 2026-04-29
 
 ### 3. The Network Fabric
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview and standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980)
@@ -821,7 +843,7 @@ created: 2026-04-29
 
 ### 4. External Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of external systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980)
@@ -1074,7 +1096,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Main takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/main-takeaways?u=76281980)

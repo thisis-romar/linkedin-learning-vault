@@ -49,17 +49,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Using Custom Workflows]]** (6 videos)
-- **[[#2. Planning Custom Workflows]]** (7 videos)
-- **[[#3. Building Custom Workflows]]** (5 videos)
-- **[[#4. Extending Workflow Capabilities]]** (7 videos)
-- **[[#5. Best Practices]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Custom workflows in Jira
+  - Who is this course for?
+  - What do you need for this course?
+- [**1. Using Custom Workflows**](#1-using-custom-workflows) (6 videos)
+  - Important terms and definitions
+  - Important workflow concepts
+  - Types of workflows
+  - Workflow relationships
+  - Challenge: Configure a workflow relationship
+  - Solution: Configure a workflow relationship
+- [**2. Planning Custom Workflows**](#2-planning-custom-workflows) (7 videos)
+  - Using a phased approach
+  - Conducting a workflow interview
+  - Determining statuses
+  - Adding transitions
+  - Designing a custom workflow
+  - Challenge: Workflow interview and design
+  - Solution: Workflow interview and design
+- [**3. Building Custom Workflows**](#3-building-custom-workflows) (5 videos)
+  - Translating requirements
+  - Creating new workflows
+  - Importing, exporting, and backing up
+  - Challenge: Reconstruct this workflow
+  - Solution: Reconstruct this workflow
+- [**4. Extending Workflow Capabilities**](#4-extending-workflow-capabilities) (7 videos)
+  - Using triggers, conditions, validators, and post functions
+  - Requiring approval
+  - Leveraging automation
+  - Expanding with apps
+  - Using properties
+  - Challenge: Enhance this workflow
+  - Solution: Enhance this workflow
+- [**5. Best Practices**](#5-best-practices) (3 videos)
+  - Workflow recommendations
+  - Challenge: Workflow scavenger hunt
+  - Solution: Workflow scavenger hunt
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional resources for Jira learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom workflows in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/custom-workflows-in-jira?u=76281980)
@@ -179,7 +211,7 @@ created: 2026-04-29
 
 ### 1. Using Custom Workflows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Important terms and definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/important-terms-and-definitions?u=76281980)
@@ -743,7 +775,7 @@ created: 2026-04-29
 
 ### 2. Planning Custom Workflows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a phased approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-a-phased-approach?u=76281980)
@@ -1196,7 +1228,7 @@ created: 2026-04-29
 
 ### 3. Building Custom Workflows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Translating requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/translating-requirements?u=76281980)
@@ -1490,7 +1522,7 @@ created: 2026-04-29
 
 ### 4. Extending Workflow Capabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using triggers, conditions, validators, and post functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/using-triggers-conditions-validators-and-post-functions?u=76281980)
@@ -2113,7 +2145,7 @@ created: 2026-04-29
 
 ### 5. Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Workflow recommendations
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/workflow-recommendations?u=76281980)
@@ -2480,7 +2512,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-managing-custom-workflows/additional-resources-for-jira-learning?u=76281980)

@@ -49,20 +49,86 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. AWS Network Foundations]]** (5 videos)
-- **[[#2. Virtual Private Cloud]]** (10 videos)
-- **[[#3. VPC Security]]** (10 videos)
-- **[[#4. VPC Peering]]** (4 videos)
-- **[[#5. Transit Gateway]]** (6 videos)
-- **[[#6. Route 53]]** (8 videos)
-- **[[#7. Global Considerations]]** (16 videos)
-- **[[#8. Troubleshooting Strategies]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - AWS networking overview
+  - What you should know
+- [**1. AWS Network Foundations**](#1-aws-network-foundations) (5 videos)
+  - Virtual Private Cloud (VPC) overview
+  - Establish private connections
+  - Route 53 overview
+  - The command-line interface (CLI) for Mac
+  - The command-line interface (CLI) for Windows
+- [**2. Virtual Private Cloud**](#2-virtual-private-cloud) (10 videos)
+  - Explore the default VPC
+  - Explore VPC templates
+  - Handcrafting a VPC
+  - Configure VPC subnets
+  - Configure route tables
+  - Configure an internet gateway
+  - Configure a NAT gateway
+  - Configure VPC endpoints
+  - Create a VPC
+  - Expand a VPC
+- [**3. VPC Security**](#3-vpc-security) (10 videos)
+  - Understanding security groups
+  - Verifying security groups
+  - Configuring security groups
+  - Understanding network ACLs
+  - Explore a network ACL scenario
+  - Configure network ACLs, part 1
+  - Configure network ACLs, part 2
+  - VPC Flow Logs overview
+  - Create and configure VPC Flow Logs
+  - Explore VPC Flow Logs
+- [**4. VPC Peering**](#4-vpc-peering) (4 videos)
+  - VPC peering overview
+  - Implement VPC peering
+  - Configure VPC peer routing
+  - Verify VPC peer routing
+- [**5. Transit Gateway**](#5-transit-gateway) (6 videos)
+  - Understand Transit Gateway
+  - Implement Transit Gateway
+  - Configure Transit Gateway
+  - Validate Transit Gateway
+  - Challenge: Transit Gateway
+  - Solution: Transit Gateway
+- [**6. Route 53**](#6-route-53) (8 videos)
+  - Configure Route 53 DNS
+  - Understand Route 53 alias
+  - Configure Route 53 alias
+  - Understand private DNS
+  - Explore a private DNS scenario
+  - Configure private DNS
+  - Understand Elastic IP addresses
+  - Use Elastic IP and Route 53
+- [**7. Global Considerations**](#7-global-considerations) (16 videos)
+  - Understand CloudFront
+  - Create CloudFront distribution
+  - Explore CloudFront distribution
+  - Explore CloudFront reporting
+  - Restrict geographic access in CloudFront
+  - Delete CloudFront distribution
+  - Understand Global Accelerator
+  - Explore a Global Accelerator scenario
+  - Configure Global Accelerator
+  - Explore Global Accelerator
+  - Delete Global Accelerator
+  - Understand API Gateway
+  - Configure API Gateway
+  - Explore API Gateway
+  - Throttling with API Gateway
+  - Delete API Gateway
+- [**8. Troubleshooting Strategies**](#8-troubleshooting-strategies) (4 videos)
+  - Troubleshooting connectivity issues
+  - Challenge: Troubleshooting scenario
+  - Solution: Troubleshooting scenario
+  - Troubleshooting cleanup
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS networking overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/aws-networking-overview?u=76281980)
@@ -143,7 +209,7 @@ created: 2026-04-29
 
 ### 1. AWS Network Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Virtual Private Cloud (VPC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980)
@@ -706,7 +772,7 @@ created: 2026-04-29
 
 ### 2. Virtual Private Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the default VPC
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980)
@@ -2275,7 +2341,7 @@ created: 2026-04-29
 
 ### 3. VPC Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding security groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980)
@@ -3201,7 +3267,7 @@ created: 2026-04-29
 
 ### 4. VPC Peering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### VPC peering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/vpc-peering-overview?u=76281980)
@@ -3524,7 +3590,7 @@ created: 2026-04-29
 
 ### 5. Transit Gateway
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Transit Gateway
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-transit-gateway?u=76281980)
@@ -4040,7 +4106,7 @@ created: 2026-04-29
 
 ### 6. Route 53
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure Route 53 DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-dns?u=76281980)
@@ -4670,7 +4736,7 @@ created: 2026-04-29
 
 ### 7. Global Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand CloudFront
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980)
@@ -6012,7 +6078,7 @@ created: 2026-04-29
 
 ### 8. Troubleshooting Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshooting connectivity issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-connectivity-issues?u=76281980)
@@ -6488,7 +6554,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980)

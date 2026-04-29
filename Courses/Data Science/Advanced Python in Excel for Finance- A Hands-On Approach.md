@@ -51,19 +51,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Python in Excel for Finance]]** (3 videos)
-- **[[#2. Financial Data Analysis Fundamentals]]** (3 videos)
-- **[[#3. Advanced Financial Analysis in Excel with Python]]** (4 videos)
-- **[[#4. Data Visualization for Financial Reporting]]** (3 videos)
-- **[[#5. Python for Risk Management and Compliance]]** (3 videos)
-- **[[#6. Machine Learning for Financial Forecasting]]** (3 videos)
-- **[[#7. Final Project]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Python in Excel for finance
+  - What you should know
+- [**1. Introduction to Python in Excel for Finance**](#1-introduction-to-python-in-excel-for-finance) (3 videos)
+  - Integrating Python with Excel: An overview
+  - Setting up Python in Excel
+  - Basic Python skills for finance
+- [**2. Financial Data Analysis Fundamentals**](#2-financial-data-analysis-fundamentals) (3 videos)
+  - Importing and exporting financial data
+  - Data cleaning and preparation
+  - Basic financial calculations
+- [**3. Advanced Financial Analysis in Excel with Python**](#3-advanced-financial-analysis-in-excel-with-python) (4 videos)
+  - Time series analysis
+  - Portfolio analysis
+  - Financial modeling: Part 1
+  - Financial modeling: Part 2
+- [**4. Data Visualization for Financial Reporting**](#4-data-visualization-for-financial-reporting) (3 videos)
+  - Creating financial charts
+  - Dashboard creation
+  - Reporting automation
+- [**5. Python for Risk Management and Compliance**](#5-python-for-risk-management-and-compliance) (3 videos)
+  - Risk analysis techniques
+  - Simulation models
+  - Compliance reporting
+- [**6. Machine Learning for Financial Forecasting**](#6-machine-learning-for-financial-forecasting) (3 videos)
+  - Introduction to machine learning in finance
+  - Predictive models for financial data
+  - Integrating ML models with Excel
+- [**7. Final Project**](#7-final-project) (1 videos)
+  - Final project walkthrough
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course summary and further resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python in Excel for finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980)
@@ -162,7 +185,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Python in Excel for Finance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating Python with Excel: An overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980)
@@ -663,7 +686,7 @@ created: 2026-04-29
 
 ### 2. Financial Data Analysis Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing and exporting financial data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980)
@@ -1304,7 +1327,7 @@ created: 2026-04-29
 
 ### 3. Advanced Financial Analysis in Excel with Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Time series analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980)
@@ -2580,7 +2603,7 @@ created: 2026-04-29
 
 ### 4. Data Visualization for Financial Reporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating financial charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980)
@@ -3590,7 +3613,7 @@ created: 2026-04-29
 
 ### 5. Python for Risk Management and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Risk analysis techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980)
@@ -4403,7 +4426,7 @@ created: 2026-04-29
 
 ### 6. Machine Learning for Financial Forecasting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to machine learning in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980)
@@ -5264,7 +5287,7 @@ created: 2026-04-29
 
 ### 7. Final Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980)
@@ -5573,7 +5596,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary and further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980)

@@ -48,17 +48,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding GraphQL]]** (3 videos)
-- **[[#2. Introduction to GraphQL Schemas and Types]]** (5 videos)
-- **[[#3. Development Environment Setup]]** (5 videos)
-- **[[#4. GraphQL Queries]]** (5 videos)
-- **[[#5. GraphQL Mutations]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Build GraphQL apps in Laravel
+- [**1. Understanding GraphQL**](#1-understanding-graphql) (3 videos)
+  - What is GraphQL?
+  - GraphQL versus REST
+  - Why GraphQL?
+- [**2. Introduction to GraphQL Schemas and Types**](#2-introduction-to-graphql-schemas-and-types) (5 videos)
+  - The type system
+  - The object types and fields
+  - The query and mutation types
+  - The scalar type
+  - The enum type
+- [**3. Development Environment Setup**](#3-development-environment-setup) (5 videos)
+  - Prerequisite and development environment checklist
+  - Setting up Laravel
+  - Setting up a database with users
+  - Setting up Lighthouse
+  - A Hello World GraphQL endpoint
+- [**4. GraphQL Queries**](#4-graphql-queries) (5 videos)
+  - Diving into GraphQL queries with Lighthouse
+  - Querying fields in GraphQL
+  - Querying with arguments
+  - Querying with aliases
+  - Using the Lighthouse paginate directive
+- [**5. GraphQL Mutations**](#5-graphql-mutations) (4 videos)
+  - Diving into GraphQL mutations with Lighthouse
+  - Creating a user
+  - Updating a user
+  - Deleting a user
+- [**Conclusion**](#conclusion) (1 videos)
+  - Exploring more Lighthouse and GraphQL functionalities
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build GraphQL apps in Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/build-graphql-apps-in-laravel?u=76281980)
@@ -90,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Understanding GraphQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GraphQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/what-is-graphql?u=76281980)
@@ -239,7 +263,7 @@ created: 2026-04-29
 
 ### 2. Introduction to GraphQL Schemas and Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The type system
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/the-type-system?u=76281980)
@@ -447,7 +471,7 @@ created: 2026-04-29
 
 ### 3. Development Environment Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisite and development environment checklist
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/prerequisite-and-development-environment-checklist?u=76281980)
@@ -741,7 +765,7 @@ created: 2026-04-29
 
 ### 4. GraphQL Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into GraphQL queries with Lighthouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-queries-with-lighthouse?u=76281980)
@@ -1005,7 +1029,7 @@ created: 2026-04-29
 
 ### 5. GraphQL Mutations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into GraphQL mutations with Lighthouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/diving-into-graphql-mutations-with-lighthouse?u=76281980)
@@ -1219,7 +1243,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring more Lighthouse and GraphQL functionalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-graphql-applications-in-laravel/exploring-more-lighthouse-and-graphql-functionalities?u=76281980)

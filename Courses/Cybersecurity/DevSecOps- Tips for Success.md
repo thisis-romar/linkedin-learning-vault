@@ -45,14 +45,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Why You Need DevSecOps]]** (2 videos)
-- **[[#2. Tips to Succeed at DevSecOps]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Get clear on DevSecOps
+- [**1. Why You Need DevSecOps**](#1-why-you-need-devsecops) (2 videos)
+  - Security work is just not fair
+  - Security is fighting a losing battle
+- [**2. Tips to Succeed at DevSecOps**](#2-tips-to-succeed-at-devsecops) (10 videos)
+  - Be a maker for DevSecOps
+  - Use developer tactics for security
+  - Focus on experiments that learn
+  - Apply security automation for DevSecOps joy
+  - Learn from safety experts
+  - Add in chaos for better security results
+  - Build a sharing culture for security
+  - Bring auditors to the DevSecOps party
+  - Find a rugged path for software
+  - The MEASURE for DevSecOps
+- [**Conclusion**](#conclusion) (1 videos)
+  - Be a DevSecOps ambassador
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get clear on DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980)
@@ -86,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Why You Need DevSecOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security work is just not fair
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980)
@@ -247,7 +261,7 @@ created: 2026-04-29
 
 ### 2. Tips to Succeed at DevSecOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be a maker for DevSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980)
@@ -1283,7 +1297,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be a DevSecOps ambassador
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980)

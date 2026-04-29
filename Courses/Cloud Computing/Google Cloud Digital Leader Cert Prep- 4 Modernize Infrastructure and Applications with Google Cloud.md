@@ -52,14 +52,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Modernizing Infrastructure in the Cloud]]** (6 videos)
-- **[[#2. Modernizing Applications in the Cloud]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Course introduction
+  - Important cloud migration terms
+- [**1. Modernizing Infrastructure in the Cloud**](#1-modernizing-infrastructure-in-the-cloud) (6 videos)
+  - Introduction
+  - The benefits of running compute workloads in the cloud
+  - Virtual machines
+  - Containers
+  - Managing containers
+  - Serverless computing
+- [**2. Modernizing Applications in the Cloud**](#2-modernizing-applications-in-the-cloud) (6 videos)
+  - Introduction
+  - The benefits of modern cloud application development
+  - Rehosting legacy applications in the cloud
+  - Application programming interfaces (API)
+  - Apigee API management
+  - Hybrid and multi-cloud
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-introduction?u=76281980)
@@ -191,7 +206,7 @@ created: 2026-04-29
 
 ### 1. Modernizing Infrastructure in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction-23229148?u=76281980)
@@ -589,7 +604,7 @@ created: 2026-04-29
 
 ### 2. Modernizing Applications in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/introduction?u=76281980)
@@ -911,7 +926,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-4-modernize-infrastructure-and-applications-with-google-cloud/course-summary?u=76281980)

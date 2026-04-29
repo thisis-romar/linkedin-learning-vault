@@ -55,16 +55,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up Google AI Speech-to-Text]]** (5 videos)
-- **[[#2. Building the Video Transcriber Interface]]** (5 videos)
-- **[[#3. Building the Backend: Connecting to the AI]]** (5 videos)
-- **[[#4. Bringing It All Together]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - AI-powered video transcription
+  - Who is this course for?
+  - What you should know
+- [**1. Setting Up Google AI Speech-to-Text**](#1-setting-up-google-ai-speech-to-text) (5 videos)
+  - Signing up for a Google Cloud account
+  - Setting up billing
+  - Creating your GCP project
+  - Enabling the Speech-to-Text
+  - Getting your access credentials
+- [**2. Building the Video Transcriber Interface**](#2-building-the-video-transcriber-interface) (5 videos)
+  - Cloning the seed project
+  - Project code walk-through
+  - Adding the video upload functionality
+  - Adding the transcribe video function
+  - Adding the transcription display function
+- [**3. Building the Backend: Connecting to the AI**](#3-building-the-backend-connecting-to-the-ai) (5 videos)
+  - Building out the Express.js API
+  - Configuring Google’s Speech library
+  - Adding routes
+  - Setting up file upload functionality
+  - Transcribing with the Google AI Speech-to-Text
+- [**4. Bringing It All Together**](#4-bringing-it-all-together) (3 videos)
+  - Connecting the front end to the API
+  - Adding a progress indicator
+  - Editing transcriptions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-powered video transcription
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/ai-powered-video-transcription?u=76281980)
@@ -164,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Google AI Speech-to-Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Signing up for a Google Cloud account
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/signing-up-for-a-google-cloud-account?u=76281980)
@@ -447,7 +469,7 @@ created: 2026-04-29
 
 ### 2. Building the Video Transcriber Interface
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloning the seed project
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/cloning-the-seed-project?u=76281980)
@@ -810,7 +832,7 @@ created: 2026-04-29
 
 ### 3. Building the Backend: Connecting to the AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building out the Express.js API
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/building-out-the-express-js-api?u=76281980)
@@ -1367,7 +1389,7 @@ created: 2026-04-29
 
 ### 4. Bringing It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting the front end to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/connecting-the-front-end-to-the-api?u=76281980)
@@ -1714,7 +1736,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-video-transcriber-with-node-js-and-google-ai-speech-to-text-api/next-steps?u=76281980)

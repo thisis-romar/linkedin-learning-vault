@@ -47,17 +47,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Packet Tracer]]** (2 videos)
-- **[[#2. Secure Management]]** (7 videos)
-- **[[#3. AAA Concepts]]** (4 videos)
-- **[[#4. RADIUS and TACACS+]]** (3 videos)
-- **[[#5. BYOD]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Securely accessing resources
+  - What you should know
+- [**1. Packet Tracer**](#1-packet-tracer) (2 videos)
+  - Cisco Networking Academy
+  - Packet Tracer interface
+- [**2. Secure Management**](#2-secure-management) (7 videos)
+  - Secure Access Control System overview
+  - Compare in-band and out-of-band management
+  - Secure network management
+  - Simple Network Management Protocol (SNMP)
+  - Configure SNMP
+  - Configure and verify security for Network Time Protocol
+  - Secure Copy Protocol
+- [**3. AAA Concepts**](#3-aaa-concepts) (4 videos)
+  - AAA security
+  - Authentication
+  - Authorization
+  - Accounting
+- [**4. RADIUS and TACACS+**](#4-radius-and-tacacs) (3 videos)
+  - RADIUS and TACACS+ authentication
+  - Using TACACS+
+  - Enforcing security with AAA
+- [**5. BYOD**](#5-byod) (3 videos)
+  - Managing a BYOD infrastructure
+  - Mobile device management (MDM)
+  - Securely integrating IoT devices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securely accessing resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-accessing-resources-23906978?u=76281980)
@@ -114,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Packet Tracer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cisco Networking Academy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/cisco-networking-academy-23666802?u=76281980)
@@ -279,7 +301,7 @@ created: 2026-04-29
 
 ### 2. Secure Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure Access Control System overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980)
@@ -1027,7 +1049,7 @@ created: 2026-04-29
 
 ### 3. AAA Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AAA security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980)
@@ -1298,7 +1320,7 @@ created: 2026-04-29
 
 ### 4. RADIUS and TACACS+
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### RADIUS and TACACS+ authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980)
@@ -1510,7 +1532,7 @@ created: 2026-04-29
 
 ### 5. BYOD
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing a BYOD infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/managing-a-byod-infrastructure?u=76281980)
@@ -1749,7 +1771,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980)

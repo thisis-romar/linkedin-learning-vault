@@ -44,18 +44,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Importance of Cash Flow Analysis]]** (3 videos)
-- **[[#2. Overview of the Statement of Cash Flows]]** (5 videos)
-- **[[#3. Using Cash Flow Data to Make a Loan Decision]]** (5 videos)
-- **[[#4. Convert Income Statement Data to Operating Cash Flow Data]]** (6 videos)
-- **[[#5. Managing Cash Flow]]** (4 videos)
-- **[[#6. Cash Flow Numbers for Some Real Companies]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Understanding cash flow analysis
+- [**1. The Importance of Cash Flow Analysis**](#1-the-importance-of-cash-flow-analysis) (3 videos)
+  - Home Depot, 1985: Case study
+  - Net income is not the same as operating cash flow
+  - Cash flow problems kill companies
+- [**2. Overview of the Statement of Cash Flows**](#2-overview-of-the-statement-of-cash-flows) (5 videos)
+  - Introduction to the statement of cash flows
+  - Overview of the statement of cash flows
+  - Practice categorizing cash flows
+  - Deducing cash flow statements
+  - Interpreting Walmart's statement of cash flows
+- [**3. Using Cash Flow Data to Make a Loan Decision**](#3-using-cash-flow-data-to-make-a-loan-decision) (5 videos)
+  - Mortgage loan application
+  - Interpreting free cash flow statements
+  - Relationships in cash flow statements
+  - Determining loan decisions
+  - Classifying a cash cow company
+- [**4. Convert Income Statement Data to Operating Cash Flow Data**](#4-convert-income-statement-data-to-operating-cash-flow-data) (6 videos)
+  - The Jim Stice operating cash flow matrix
+  - Understanding the direct method
+  - Understanding the indirect method
+  - Operating cash flow data as an IPO reality check
+  - Identifying economic performance
+  - Operating cash flow problems from high growth
+- [**5. Managing Cash Flow**](#5-managing-cash-flow) (4 videos)
+  - The Home Depot story revisited
+  - Managing operating cash flow
+  - Managing investing cash flow
+  - Managing financing cash flow
+- [**6. Cash Flow Numbers for Some Real Companies**](#6-cash-flow-numbers-for-some-real-companies) (4 videos)
+  - Tough times in 2008, except for Exxon Mobil
+  - Analyzing General Motors’ free cash flow
+  - Apple: Cash flow data helps unravel accounting issues
+  - The danger of free cash flow
+- [**Conclusion**](#conclusion) (1 videos)
+  - Manage company cash flow
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cash flow analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/understanding-cash-flow-analysis?u=76281980)
@@ -107,7 +136,7 @@ created: 2026-04-29
 
 ### 1. The Importance of Cash Flow Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Home Depot, 1985: Case study
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/home-depot-1985-case-study?u=76281980)
@@ -421,7 +450,7 @@ created: 2026-04-29
 
 ### 2. Overview of the Statement of Cash Flows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the statement of cash flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/introduction-to-the-statement-of-cash-flows-14328741?u=76281980)
@@ -1005,7 +1034,7 @@ created: 2026-04-29
 
 ### 3. Using Cash Flow Data to Make a Loan Decision
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mortgage loan application
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/mortgage-loan-application-14329775?u=76281980)
@@ -1383,7 +1412,7 @@ created: 2026-04-29
 
 ### 4. Convert Income Statement Data to Operating Cash Flow Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Jim Stice operating cash flow matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-jim-stice-operating-cash-flow-matrix-14326799?u=76281980)
@@ -2132,7 +2161,7 @@ created: 2026-04-29
 
 ### 5. Managing Cash Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Home Depot story revisited
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/the-home-depot-story-revisited-14330683?u=76281980)
@@ -2485,7 +2514,7 @@ created: 2026-04-29
 
 ### 6. Cash Flow Numbers for Some Real Companies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tough times in 2008, except for Exxon Mobil
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/tough-times-in-2008-except-for-exxon-mobil-14327838?u=76281980)
@@ -2856,7 +2885,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage company cash flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-cash-flow/manage-company-cash-flow?u=76281980)

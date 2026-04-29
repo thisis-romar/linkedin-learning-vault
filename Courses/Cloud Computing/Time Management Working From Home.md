@@ -45,16 +45,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Establishing Your Home Base]]** (4 videos)
-- **[[#2. Crafting Your Schedule]]** (4 videos)
-- **[[#3. Communicating Productively]]** (5 videos)
-- **[[#4. Considerations for Working Parents and Caregivers]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Making working from home work
+  - What you should know before watching
+- [**1. Establishing Your Home Base**](#1-establishing-your-home-base) (4 videos)
+  - Create a productive workspace
+  - Identify visual and audible distractions
+  - Applying the processing technique at home
+  - Utilize the best technology
+- [**2. Crafting Your Schedule**](#2-crafting-your-schedule) (4 videos)
+  - Keep work hours in balance
+  - Find your peak productivity time
+  - Plan meaningful breaks
+  - Adjust when schedules collide
+- [**3. Communicating Productively**](#3-communicating-productively) (5 videos)
+  - Determine your company's ground rules
+  - Best practices for virtual meetings
+  - How to work across time zones
+  - Responding to quick questions
+  - Productivity and co-worker relationships
+- [**4. Considerations for Working Parents and Caregivers**](#4-considerations-for-working-parents-and-caregivers) (3 videos)
+  - Build boundaries with loved ones
+  - Manage interruptions and emergencies
+  - The power of having fun with loved ones
+- [**Conclusion**](#conclusion) (1 videos)
+  - Choose one action to take today
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making working from home work
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/making-working-from-home-work?u=76281980)
@@ -125,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Establishing Your Home Base
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a productive workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980)
@@ -529,7 +548,7 @@ created: 2026-04-29
 
 ### 2. Crafting Your Schedule
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep work hours in balance
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980)
@@ -925,7 +944,7 @@ created: 2026-04-29
 
 ### 3. Communicating Productively
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine your company's ground rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/determine-your-company-s-ground-rules?u=76281980)
@@ -1348,7 +1367,7 @@ created: 2026-04-29
 
 ### 4. Considerations for Working Parents and Caregivers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build boundaries with loved ones
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/build-boundaries-with-loved-ones-14790533?u=76281980)
@@ -1636,7 +1655,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose one action to take today
 > [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/choose-one-action-to-take-today?u=76281980)

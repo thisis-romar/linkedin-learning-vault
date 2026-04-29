@@ -44,17 +44,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Configure Networking]]** (10 videos)
-- **[[#2. Configure Storage]]** (7 videos)
-- **[[#3. Configure Data Access and Usage]]** (4 videos)
-- **[[#4. Implement Apps]]** (5 videos)
-- **[[#5. Configure Remote Management]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of Windows 10 configuration
+- [**1. Configure Networking**](#1-configure-networking) (10 videos)
+  - IP addressing, subnets, and DHCP
+  - Configure name resolution
+  - Connect to a network
+  - Use Windows Firewall
+  - Windows Firewall advanced security
+  - Configure mobile networking
+  - Manage Wi-Fi settings
+  - Add mobile devices to a network
+  - Configure a VPN
+  - Troubleshoot network problems
+- [**2. Configure Storage**](#2-configure-storage) (7 videos)
+  - Manage partitions with Disk Management
+  - Manage storage with PowerShell
+  - Create a VHD
+  - Configure a VHD
+  - Configure removable devices
+  - Create and configure storage spaces
+  - Troubleshoot storage and devices
+- [**3. Configure Data Access and Usage**](#3-configure-data-access-and-usage) (4 videos)
+  - Create and configure folder shares
+  - Configure and use OneDrive
+  - Create and manage permissions
+  - Troubleshoot data access
+- [**4. Implement Apps**](#4-implement-apps) (5 videos)
+  - Configure desktop apps
+  - Configure startup options
+  - Add and remove features
+  - Create and deploy provisioning packages
+  - Windows Assessment and Deployment Kit
+- [**5. Configure Remote Management**](#5-configure-remote-management) (9 videos)
+  - Use remote management tools
+  - Remote management settings
+  - Remote management with PowerShell
+  - Configure and use Remote Assistance
+  - Configure and use Remote Desktop
+  - Configure and use Remote Assist
+  - Configure and use Quick Assist
+  - Configure Windows Remote Management
+  - Configure Windows Admin Center
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of Windows 10 configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980)
@@ -87,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Configure Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IP addressing, subnets, and DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980)
@@ -1192,7 +1229,7 @@ created: 2026-04-29
 
 ### 2. Configure Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage partitions with Disk Management
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980)
@@ -2135,7 +2172,7 @@ created: 2026-04-29
 
 ### 3. Configure Data Access and Usage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and configure folder shares
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980)
@@ -2811,7 +2848,7 @@ created: 2026-04-29
 
 ### 4. Implement Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure desktop apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980)
@@ -3497,7 +3534,7 @@ created: 2026-04-29
 
 ### 5. Configure Remote Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use remote management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980)
@@ -4256,7 +4293,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/where-to-go-next-20233542?u=76281980)

@@ -45,16 +45,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Trust over the Internet]]** (2 videos)
-- **[[#2. What Is Blockchain Technology?]]** (5 videos)
-- **[[#3. Transforming Transactions]]** (3 videos)
-- **[[#4. Challenges to Be Solved]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building trust through software code
+- [**1. Trust over the Internet**](#1-trust-over-the-internet) (2 videos)
+  - Risk management on the internet today
+  - Rethinking traditional client-server computing
+- [**2. What Is Blockchain Technology?**](#2-what-is-blockchain-technology) (5 videos)
+  - What problems does blockchain solve?
+  - Bitcoin gives birth to blockchain
+  - The basics of how blockchain works
+  - The growth of crypto coins and crypto tokens
+  - Going deeper on the role of key pairs
+- [**3. Transforming Transactions**](#3-transforming-transactions) (3 videos)
+  - The blockchain ecosystem
+  - Examples of blockchain in action today
+  - The future of blockchain innovation
+- [**4. Challenges to Be Solved**](#4-challenges-to-be-solved) (2 videos)
+  - Obstacles to broad blockchain adoption
+  - Challenges that blockchain presents to enterprises
+- [**Conclusion**](#conclusion) (1 videos)
+  - Taking the next steps with blockchain
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building trust through software code
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980)
@@ -100,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Trust over the Internet
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Risk management on the internet today
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980)
@@ -309,7 +323,7 @@ created: 2026-04-29
 
 ### 2. What Is Blockchain Technology?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What problems does blockchain solve?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980)
@@ -795,7 +809,7 @@ created: 2026-04-29
 
 ### 3. Transforming Transactions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The blockchain ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980)
@@ -1100,7 +1114,7 @@ created: 2026-04-29
 
 ### 4. Challenges to Be Solved
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Obstacles to broad blockchain adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980)
@@ -1277,7 +1291,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the next steps with blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980)

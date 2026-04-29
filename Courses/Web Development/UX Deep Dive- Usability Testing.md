@@ -47,15 +47,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Usability Testing]]** (2 videos)
-- **[[#1. Which Type of Test?]]** (3 videos)
-- **[[#2. Running the Tests]]** (3 videos)
-- **[[#3. Analyzing the Test]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Usability Testing**](#usability-testing) (2 videos)
+  - All about usability testing
+  - Recap of usability testing
+- [**1. Which Type of Test?**](#1-which-type-of-test) (3 videos)
+  - Usability test locations
+  - Moderated vs. unmoderated usability tests
+  - Using usability tests to explore
+- [**2. Running the Tests**](#2-running-the-tests) (3 videos)
+  - Participant recruiting considerations
+  - Usability test logistics and preparation
+  - Tips for moderating effective usability sessions
+- [**3. Analyzing the Test**](#3-analyzing-the-test) (1 videos)
+  - Identifying and sharing true insights
+- [**Conclusion**](#conclusion) (1 videos)
+  - Practice makes perfect
 
 ### Usability Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### All about usability testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/all-about-usability-testing?u=76281980)
@@ -105,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Which Type of Test?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Usability test locations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980)
@@ -336,7 +346,7 @@ created: 2026-04-29
 
 ### 2. Running the Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Participant recruiting considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980)
@@ -581,7 +591,7 @@ created: 2026-04-29
 
 ### 3. Analyzing the Test
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying and sharing true insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/identifying-and-sharing-true-insights?u=76281980)
@@ -655,7 +665,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice makes perfect
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/practice-makes-perfect?u=76281980)

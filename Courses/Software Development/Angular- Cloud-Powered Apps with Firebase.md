@@ -49,19 +49,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up Your Development Environment]]** (4 videos)
-- **[[#2. Firebase Authentication]]** (6 videos)
-- **[[#3. Storing and Syncing Data with Firebase Cloud Firestore]]** (6 videos)
-- **[[#4. Storing Files with Firebase Cloud Storage]]** (4 videos)
-- **[[#5. Control Access with Custom Claims and Security Rules]]** (6 videos)
-- **[[#6. Going Serverless with Firebase Cloud Functions]]** (3 videos)
-- **[[#7. Control Access with Custom Claims and Security Rules]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Structuring your apps for the cloud
+  - What you should know
+  - Using the exercise files
+- [**1. Setting Up Your Development Environment**](#1-setting-up-your-development-environment) (4 videos)
+  - Installing tools and CLIs
+  - Generating an Angular application
+  - Overview of the Firebase console
+  - Configuring your web application
+- [**2. Firebase Authentication**](#2-firebase-authentication) (6 videos)
+  - Firebase Authentication setup
+  - Creating users
+  - Displaying current user
+  - User logout
+  - User login
+  - Using Angular route guards
+- [**3. Storing and Syncing Data with Firebase Cloud Firestore**](#3-storing-and-syncing-data-with-firebase-cloud-firestore) (6 videos)
+  - Cloud Firestore intro
+  - Cloud Firestore setup
+  - Deploying security rules
+  - Creating documents
+  - Displaying user data
+  - Updating user documents
+- [**4. Storing Files with Firebase Cloud Storage**](#4-storing-files-with-firebase-cloud-storage) (4 videos)
+  - Cloud Storage setup
+  - Cloud Storage security rules
+  - Profile image upload form
+  - Image uploads
+- [**5. Control Access with Custom Claims and Security Rules**](#5-control-access-with-custom-claims-and-security-rules) (6 videos)
+  - Firebase ID tokens
+  - Setting Firebase custom claims
+  - Admin interface: Route guards, part 1
+  - Admin interface: Route guards, part 2
+  - Admin interface: View user collection
+  - Admin interface: View user profile
+- [**6. Going Serverless with Firebase Cloud Functions**](#6-going-serverless-with-firebase-cloud-functions) (3 videos)
+  - Cloud Functions setup
+  - Cloud Functions: Email setup
+  - Cloud Functions: Authentication trigger
+- [**7. Control Access with Custom Claims and Security Rules**](#7-control-access-with-custom-claims-and-security-rules) (2 videos)
+  - Firebase Hosting setup
+  - Deploying your app
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring your apps for the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud-2?u=76281980)
@@ -201,7 +236,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Development Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing tools and CLIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/installing-tools-and-clis-2?u=76281980)
@@ -493,7 +528,7 @@ created: 2026-04-29
 
 ### 2. Firebase Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase Authentication setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-authentication-setup-2?u=76281980)
@@ -1121,7 +1156,7 @@ created: 2026-04-29
 
 ### 3. Storing and Syncing Data with Firebase Cloud Firestore
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Firestore intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-firestore-intro-2?u=76281980)
@@ -1713,7 +1748,7 @@ created: 2026-04-29
 
 ### 4. Storing Files with Firebase Cloud Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Storage setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-storage-setup-2?u=76281980)
@@ -2066,7 +2101,7 @@ created: 2026-04-29
 
 ### 5. Control Access with Custom Claims and Security Rules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase ID tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980)
@@ -2459,7 +2494,7 @@ created: 2026-04-29
 
 ### 6. Going Serverless with Firebase Cloud Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Functions setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/cloud-functions-setup-2?u=76281980)
@@ -2725,7 +2760,7 @@ created: 2026-04-29
 
 ### 7. Control Access with Custom Claims and Security Rules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase Hosting setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/firebase-hosting-setup-2?u=76281980)
@@ -2847,7 +2882,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-cloud-powered-apps-with-firebase/next-steps-2?u=76281980)

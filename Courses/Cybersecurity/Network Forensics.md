@@ -48,17 +48,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding Network Forensics]]** (7 videos)
-- **[[#2. Preparing for a Network Forensics Investigation]]** (7 videos)
-- **[[#3. Investigating Network Events]]** (10 videos)
-- **[[#4. Investigating Network Traffic]]** (8 videos)
-- **[[#5. Network Forensics Tools]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learning network forensics
+  - What you should know
+- [**1. Understanding Network Forensics**](#1-understanding-network-forensics) (7 videos)
+  - Goals of network forensics
+  - Tools
+  - Legal implications
+  - Current and future trends
+  - Anti-network forensics techniques
+  - Challenge: Acquiring additional information with Nmap
+  - Solution: Acquiring additional information with Nmap
+- [**2. Preparing for a Network Forensics Investigation**](#2-preparing-for-a-network-forensics-investigation) (7 videos)
+  - Network forensics investigation hardware
+  - Network forensics investigation software
+  - Understanding computer networking
+  - Understanding networking devices
+  - Understanding network data sources
+  - Challenge: Wireshark filtering
+  - Solution: Wireshark filtering
+- [**3. Investigating Network Events**](#3-investigating-network-events) (10 videos)
+  - Network logs
+  - Intrusion and security events
+  - Network logs as evidence
+  - Network logs and compliance
+  - Audit logs
+  - Firewall logs
+  - syslog
+  - syslog-ng
+  - Kiwi Syslog Server
+  - Microsoft Log Parser
+- [**4. Investigating Network Traffic**](#4-investigating-network-traffic) (8 videos)
+  - Fundamentals
+  - Network models
+  - Subnets, subnet ID, and subnet mask
+  - Protocol analysis
+  - ARP
+  - ARP poisoning
+  - DNS
+  - DNS poisoning
+- [**5. Network Forensics Tools**](#5-network-forensics-tools) (8 videos)
+  - tcpdump and WinDump
+  - tcpdump and WinDump hands-on
+  - Wireshark
+  - Wireshark hands-on
+  - HTTP proxies
+  - HTTP proxies hands-on
+  - Splunk
+  - Splunk hands-on
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning network forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980)
@@ -122,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Understanding Network Forensics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Goals of network forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980)
@@ -481,7 +524,7 @@ created: 2026-04-29
 
 ### 2. Preparing for a Network Forensics Investigation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Network forensics investigation hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980)
@@ -813,7 +856,7 @@ created: 2026-04-29
 
 ### 3. Investigating Network Events
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Network logs
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980)
@@ -1294,7 +1337,7 @@ created: 2026-04-29
 
 ### 4. Investigating Network Traffic
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980)
@@ -1721,7 +1764,7 @@ created: 2026-04-29
 
 ### 5. Network Forensics Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### tcpdump and WinDump
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980)
@@ -2333,7 +2376,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980)

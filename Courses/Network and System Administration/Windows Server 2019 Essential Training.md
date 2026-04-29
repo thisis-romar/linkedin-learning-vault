@@ -42,19 +42,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (7 videos)
-- **[[#2. Management and Administration]]** (6 videos)
-- **[[#3. Windows Server Environments]]** (6 videos)
-- **[[#4. Storage Solutions]]** (6 videos)
-- **[[#5. Identity and Access Roles]]** (4 videos)
-- **[[#6. Virtualization]]** (4 videos)
-- **[[#7. Going Forward]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Exploring Windows Server 2019
+  - What you should already know
+- [**1. Getting Started**](#1-getting-started) (7 videos)
+  - When to upgrade
+  - Installation and configuration
+  - Roles and features
+  - IP management roles
+  - Upgrades and migration
+  - Windows Defender ATP
+  - Windows Firewall
+- [**2. Management and Administration**](#2-management-and-administration) (6 videos)
+  - PowerShell
+  - PowerShell remoting
+  - Installing the Windows Admin Center
+  - Windows Admin Center management
+  - Desktop experience administration tools
+  - RSAT
+- [**3. Windows Server Environments**](#3-windows-server-environments) (6 videos)
+  - Upgrading Active Directory
+  - Planning sites and services
+  - Encrypted networks
+  - Cluster sets
+  - Hybrid cloud environments
+  - Hyper-Converged Infrastructure
+- [**4. Storage Solutions**](#4-storage-solutions) (6 videos)
+  - Types of volumes
+  - File systems compared
+  - Data deduplication
+  - Storage Spaces Direct
+  - Storage Replica
+  - Storage Migration Service
+- [**5. Identity and Access Roles**](#5-identity-and-access-roles) (4 videos)
+  - Creating your own AD PKI
+  - Managing certificate templates
+  - Federated identity features
+  - Rights Management Services
+- [**6. Virtualization**](#6-virtualization) (4 videos)
+  - Hyper-V in Server 2019
+  - Changes to virtualization security
+  - Containers
+  - Windows Subsystem for Linux
+- [**7. Going Forward**](#7-going-forward) (2 videos)
+  - Long-Term Servicing Channel vs. Semi-Annual releases
+  - Windows Insider program
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Windows Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980)
@@ -131,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to upgrade
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980)
@@ -851,7 +889,7 @@ created: 2026-04-29
 
 ### 2. Management and Administration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980)
@@ -1495,7 +1533,7 @@ created: 2026-04-29
 
 ### 3. Windows Server Environments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Upgrading Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980)
@@ -1970,7 +2008,7 @@ created: 2026-04-29
 
 ### 4. Storage Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of volumes
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980)
@@ -2729,7 +2767,7 @@ created: 2026-04-29
 
 ### 5. Identity and Access Roles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your own AD PKI
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980)
@@ -3038,7 +3076,7 @@ created: 2026-04-29
 
 ### 6. Virtualization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hyper-V in Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980)
@@ -3423,7 +3461,7 @@ created: 2026-04-29
 
 ### 7. Going Forward
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Long-Term Servicing Channel vs. Semi-Annual releases
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980)
@@ -3559,7 +3597,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980)

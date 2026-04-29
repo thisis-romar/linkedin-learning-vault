@@ -52,19 +52,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Artificial Intelligence?]]** (4 videos)
-- **[[#2. The Rise of Machine Learning]]** (3 videos)
-- **[[#3. Finding the Right Approach]]** (5 videos)
-- **[[#4. Common AI Programs]]** (3 videos)
-- **[[#5. Mixing with Other Technologies]]** (2 videos)
-- **[[#6. What Has Changed?]]** (3 videos)
-- **[[#7. Avoiding Pitfalls]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome
+- [**1. What Is Artificial Intelligence?**](#1-what-is-artificial-intelligence) (4 videos)
+  - Define general intelligence
+  - The history of AI
+  - Strong vs. weak AI
+  - Plan AI
+- [**2. The Rise of Machine Learning**](#2-the-rise-of-machine-learning) (3 videos)
+  - Machine learning
+  - Artificial neural networks
+  - Perceptrons
+- [**3. Finding the Right Approach**](#3-finding-the-right-approach) (5 videos)
+  - Match patterns
+  - Data vs. reasoning
+  - Unsupervised learning
+  - Backpropagation
+  - Regression
+- [**4. Common AI Programs**](#4-common-ai-programs) (3 videos)
+  - Robotics
+  - Natural language processing
+  - The Internet of Things
+- [**5. Mixing with Other Technologies**](#5-mixing-with-other-technologies) (2 videos)
+  - Big data
+  - Data science
+- [**6. What Has Changed?**](#6-what-has-changed) (3 videos)
+  - Generative AI
+  - Foundation models
+  - Self-supervised learning
+- [**7. Avoiding Pitfalls**](#7-avoiding-pitfalls) (1 videos)
+  - Pitfalls
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/welcome?u=76281980)
@@ -116,7 +139,7 @@ created: 2026-04-29
 
 ### 1. What Is Artificial Intelligence?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define general intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/define-general-intelligence?u=76281980)
@@ -568,7 +591,7 @@ created: 2026-04-29
 
 ### 2. The Rise of Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/machine-learning?u=76281980)
@@ -908,7 +931,7 @@ created: 2026-04-29
 
 ### 3. Finding the Right Approach
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Match patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/match-patterns?u=76281980)
@@ -1446,7 +1469,7 @@ created: 2026-04-29
 
 ### 4. Common AI Programs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Robotics
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/robotics?u=76281980)
@@ -1769,7 +1792,7 @@ created: 2026-04-29
 
 ### 5. Mixing with Other Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Big data
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/big-data?u=76281980)
@@ -1996,7 +2019,7 @@ created: 2026-04-29
 
 ### 6. What Has Changed?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/generative-ai?u=76281980)
@@ -2215,7 +2238,7 @@ created: 2026-04-29
 
 ### 7. Avoiding Pitfalls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pitfalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/pitfalls?u=76281980)
@@ -2330,7 +2353,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines/next-steps?u=76281980)

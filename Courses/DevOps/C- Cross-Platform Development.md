@@ -51,16 +51,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setting Up]]** (2 videos)
-- **[[#2. Building the Core Application]]** (3 videos)
-- **[[#3. Refactoring and Enhancing the Application]]** (4 videos)
-- **[[#4. Integrating a Database]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with .NET
+  - What you should know
+- [**1. Setting Up**](#1-setting-up) (2 videos)
+  - Installing .NET 7 SDK
+  - Creating a .NET Core application
+- [**2. Building the Core Application**](#2-building-the-core-application) (3 videos)
+  - Creating the note model
+  - Establishing the SQLite database connection
+  - Building with the command pattern
+- [**3. Refactoring and Enhancing the Application**](#3-refactoring-and-enhancing-the-application) (4 videos)
+  - Creating a note command
+  - Reading a note command
+  - Updating a note command
+  - Deleting a note command
+- [**4. Integrating a Database**](#4-integrating-a-database) (2 videos)
+  - Implementing note search
+  - Executing search and displaying results
+- [**Conclusion**](#conclusion) (1 videos)
+  - Leveling up with .NET
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/getting-started-with-dot-net?u=76281980)
@@ -111,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing .NET 7 SDK
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/installing-dot-net-7-sdk?u=76281980)
@@ -210,7 +224,7 @@ created: 2026-04-29
 
 ### 2. Building the Core Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the note model
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-the-note-model?u=76281980)
@@ -550,7 +564,7 @@ created: 2026-04-29
 
 ### 3. Refactoring and Enhancing the Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a note command
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/creating-a-note-command?u=76281980)
@@ -963,7 +977,7 @@ created: 2026-04-29
 
 ### 4. Integrating a Database
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing note search
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/implementing-note-search?u=76281980)
@@ -1126,7 +1140,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveling up with .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-cross-platform-development/leveling-up-with-dot-net?u=76281980)

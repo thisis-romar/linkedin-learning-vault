@@ -46,20 +46,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Creating a Content Strategy]]** (2 videos)
-- **[[#2. Choosing the Right Topics]]** (2 videos)
-- **[[#3. Producing Content]]** (2 videos)
-- **[[#4. Optimizing Content]]** (2 videos)
-- **[[#5. Distributing Content]]** (2 videos)
-- **[[#6. Integrating Content]]** (2 videos)
-- **[[#7. Measuring Content]]** (1 videos)
-- **[[#8. Innovating with Content]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - What is content marketing?
+- [**1. Creating a Content Strategy**](#1-creating-a-content-strategy) (2 videos)
+  - Setting strategic goals
+  - Defining your audience
+- [**2. Choosing the Right Topics**](#2-choosing-the-right-topics) (2 videos)
+  - Finding relevant topic ideas
+  - Organizing topics into categories
+- [**3. Producing Content**](#3-producing-content) (2 videos)
+  - Tips for successful storytelling
+  - Selecting the right type of content
+- [**4. Optimizing Content**](#4-optimizing-content) (2 videos)
+  - Formatting content for a frictionless experience
+  - Formatting content for distribution
+- [**5. Distributing Content**](#5-distributing-content) (2 videos)
+  - Promoting with owned and shared media
+  - Promoting with earned and paid media
+- [**6. Integrating Content**](#6-integrating-content) (2 videos)
+  - Integrating content across departments
+  - Repurposing content to earn more benefits
+- [**7. Measuring Content**](#7-measuring-content) (1 videos)
+  - Attributing content actions to results
+- [**8. Innovating with Content**](#8-innovating-with-content) (3 videos)
+  - Conveying thought leadership with content
+  - The key to the quality versus quantity debate
+  - Experimenting beyond best practices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Staying updated on content marketing
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is content marketing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/what-is-content-marketing?u=76281980)
@@ -95,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Creating a Content Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting strategic goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/setting-strategic-goals?u=76281980)
@@ -217,7 +235,7 @@ created: 2026-04-29
 
 ### 2. Choosing the Right Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding relevant topic ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/finding-relevant-topic-ideas?u=76281980)
@@ -335,7 +353,7 @@ created: 2026-04-29
 
 ### 3. Producing Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tips for successful storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/tips-for-successful-storytelling?u=76281980)
@@ -460,7 +478,7 @@ created: 2026-04-29
 
 ### 4. Optimizing Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Formatting content for a frictionless experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/formatting-content-for-a-frictionless-experience?u=76281980)
@@ -579,7 +597,7 @@ created: 2026-04-29
 
 ### 5. Distributing Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Promoting with owned and shared media
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/promoting-with-owned-and-shared-media?u=76281980)
@@ -685,7 +703,7 @@ created: 2026-04-29
 
 ### 6. Integrating Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating content across departments
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/integrating-content-across-departments?u=76281980)
@@ -786,7 +804,7 @@ created: 2026-04-29
 
 ### 7. Measuring Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Attributing content actions to results
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/attributing-content-actions-to-results?u=76281980)
@@ -851,7 +869,7 @@ created: 2026-04-29
 
 ### 8. Innovating with Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conveying thought leadership with content
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/conveying-thought-leadership-with-content?u=76281980)
@@ -1027,7 +1045,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Staying updated on content marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/content-marketing-foundations-3/staying-updated-on-content-marketing?u=76281980)

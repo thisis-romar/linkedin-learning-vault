@@ -46,15 +46,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Power BI]]** (4 videos)
-- **[[#2. Getting Data into Power BI]]** (5 videos)
-- **[[#3. Crafting Your Dashboard]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Unlock the value of Power BI
+- [**1. Understanding Power BI**](#1-understanding-power-bi) (4 videos)
+  - Navigate the Power BI Desktop interface
+  - Distinguish between dashboards and reports
+  - Plan for success with dashboard building blocks
+  - Embrace the modern workplace with next generation AI
+- [**2. Getting Data into Power BI**](#2-getting-data-into-power-bi) (5 videos)
+  - Become familiar with the Power BI data types
+  - Get started by connecting with rich source data
+  - Create safeguards by assuring data quality
+  - Challenge: Incorporate source data from a brief
+  - Solution: Incorporate source data from a brief
+- [**3. Crafting Your Dashboard**](#3-crafting-your-dashboard) (8 videos)
+  - Prepare the optimal layout for stakeholders
+  - Illustrate results by building intuitive charts
+  - Do even more by configuring charts
+  - Drill down on results using slicers
+  - Create a shareable dashboard for collaboration
+  - Wow stakeholders by enhancing your dashboard
+  - Challenge: Build a dashboard from an existing report
+  - Solution: Build a dashboard from an existing report
+- [**Conclusion**](#conclusion) (1 videos)
+  - How to get the most from Power BI dashboards
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock the value of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980)
@@ -80,7 +99,7 @@ created: 2026-04-29
 
 ### 1. Understanding Power BI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate the Power BI Desktop interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980)
@@ -243,7 +262,7 @@ created: 2026-04-29
 
 ### 2. Getting Data into Power BI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Become familiar with the Power BI data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980)
@@ -492,7 +511,7 @@ created: 2026-04-29
 
 ### 3. Crafting Your Dashboard
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare the optimal layout for stakeholders
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/prepare-the-optimal-layout-for-stakeholders?u=76281980)
@@ -946,7 +965,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to get the most from Power BI dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980)

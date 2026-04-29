@@ -46,15 +46,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Encourage and Embrace Sustainable Personal Habits at Work]]** (4 videos)
-- **[[#2. Energy-Efficient Shifts for Your Office]]** (5 videos)
-- **[[#3. Easy Eco-Shifts in the Workplace]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Greening your workplace
+- [**1. Encourage and Embrace Sustainable Personal Habits at Work**](#1-encourage-and-embrace-sustainable-personal-habits-at-work) (4 videos)
+  - Bring your own reusables
+  - Pack your lunch
+  - Commute responsibly
+  - Be a changemaker in your office
+- [**2. Energy-Efficient Shifts for Your Office**](#2-energy-efficient-shifts-for-your-office) (5 videos)
+  - Conduct an energy audit at work
+  - Embrace natural and eco-friendly lighting
+  - Opt for laptops
+  - Adopt a digital-first policy
+  - Beware of energy vampires
+- [**3. Easy Eco-Shifts in the Workplace**](#3-easy-eco-shifts-in-the-workplace) (5 videos)
+  - Secondhand-first at work
+  - Ditch the swag
+  - Institute in-office composting
+  - Encourage meat-free days or challenges
+  - Revisit work-from-home and travel policies to reduce carbon
+- [**Conclusion**](#conclusion) (1 videos)
+  - You are part of the solution
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Greening your workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980)
@@ -87,7 +103,7 @@ created: 2026-04-29
 
 ### 1. Encourage and Embrace Sustainable Personal Habits at Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bring your own reusables
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980)
@@ -458,7 +474,7 @@ created: 2026-04-29
 
 ### 2. Energy-Efficient Shifts for Your Office
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conduct an energy audit at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980)
@@ -882,7 +898,7 @@ created: 2026-04-29
 
 ### 3. Easy Eco-Shifts in the Workplace
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secondhand-first at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980)
@@ -1289,7 +1305,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### You are part of the solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980)

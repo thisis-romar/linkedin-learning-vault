@@ -53,18 +53,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Basics of Algo Trading]]** (8 videos)
-- **[[#2. Stock Trading with Python]]** (6 videos)
-- **[[#3. R and Bond Trading]]** (5 videos)
-- **[[#4. Investment Analysis and Stata]]** (6 videos)
-- **[[#5. Data and Trading]]** (4 videos)
-- **[[#6. Strategies, Patterns, and Wall Street]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Getting started with algorithmic trading and finance
+  - What you should know
+  - Disclaimer
+- [**1. The Basics of Algo Trading**](#1-the-basics-of-algo-trading) (8 videos)
+  - Basics of algo trading
+  - Market making with algos
+  - An algorithm example
+  - Prop trading with algos
+  - Algos in practice
+  - Textual analysis and algo trading
+  - Algorithmic trading with qualitative and text data
+  - Careers in algorithmic trading
+- [**2. Stock Trading with Python**](#2-stock-trading-with-python) (6 videos)
+  - One software option: Python
+  - Importing data in Python
+  - Quandl and Python
+  - CSVs and Python
+  - Financial data and Python
+  - Python and building financial databases
+- [**3. R and Bond Trading**](#3-r-and-bond-trading) (5 videos)
+  - One software option: R
+  - Importing data with R
+  - quantmod and R
+  - Data analysis in R
+  - Regressions in R
+- [**4. Investment Analysis and Stata**](#4-investment-analysis-and-stata) (6 videos)
+  - One software option: Stata
+  - Getting currency data
+  - Cleaning up data for algorithms
+  - Strategies in currencies
+  - Testing strategies in Stata
+  - Regressions in Stata
+- [**5. Data and Trading**](#5-data-and-trading) (4 videos)
+  - Getting broad market data
+  - Types of data
+  - CRSP and Compustat
+  - Other financial markets data
+- [**6. Strategies, Patterns, and Wall Street**](#6-strategies-patterns-and-wall-street) (5 videos)
+  - Choosing tactics: Trading or investing
+  - Finding strategies in trading: Market microstructure
+  - Finding strategies in investing: Factors
+  - Risk management and stress testing
+  - Model aging and obsolescence
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with algorithmic trading and finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980)
@@ -141,7 +179,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Algo Trading
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of algo trading
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980)
@@ -865,7 +903,7 @@ created: 2026-04-29
 
 ### 2. Stock Trading with Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### One software option: Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980)
@@ -1412,7 +1450,7 @@ created: 2026-04-29
 
 ### 3. R and Bond Trading
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### One software option: R
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980)
@@ -2028,7 +2066,7 @@ created: 2026-04-29
 
 ### 4. Investment Analysis and Stata
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### One software option: Stata
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980)
@@ -2648,7 +2686,7 @@ created: 2026-04-29
 
 ### 5. Data and Trading
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting broad market data
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980)
@@ -2935,7 +2973,7 @@ created: 2026-04-29
 
 ### 6. Strategies, Patterns, and Wall Street
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing tactics: Trading or investing
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980)
@@ -3540,7 +3578,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980)

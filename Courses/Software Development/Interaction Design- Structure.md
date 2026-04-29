@@ -39,15 +39,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Structure]]** (5 videos)
-- **[[#2. Designing Page-Level Structure]]** (4 videos)
-- **[[#3. Interface Design Considerations]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Structure is the backbone of UX
+- [**1. Understanding Structure**](#1-understanding-structure) (5 videos)
+  - Understanding the big picture
+  - Defining different structural flows
+  - Role of information architecture
+  - Defining information architecture
+  - Navigation labels and content inventory
+- [**2. Designing Page-Level Structure**](#2-designing-page-level-structure) (4 videos)
+  - Information scent and hierarchy
+  - Overview of page-level elements
+  - Overview of information density
+  - Organizing with a grid
+- [**3. Interface Design Considerations**](#3-interface-design-considerations) (6 videos)
+  - Sitemap and flow diagram
+  - Establishing the goals of the site
+  - Layout, hierarchy, and grouping
+  - Headings and content
+  - Iterating through layouts
+  - Determining the right interface elements to put it all together
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structure is the backbone of UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/structure-is-the-backbone-of-ux?u=76281980)
@@ -72,7 +89,7 @@ created: 2026-04-29
 
 ### 1. Understanding Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the big picture
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/understanding-the-big-picture?u=76281980)
@@ -406,7 +423,7 @@ created: 2026-04-29
 
 ### 2. Designing Page-Level Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Information scent and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/information-scent-and-hierarchy?u=76281980)
@@ -697,7 +714,7 @@ created: 2026-04-29
 
 ### 3. Interface Design Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sitemap and flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/sitemap-and-flow-diagram?u=76281980)
@@ -1045,7 +1062,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-structure/next-steps?u=76281980)

@@ -49,17 +49,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **1. Overview of C#** (4 videos)
-- **2. C# Program Flow** (6 videos)
-- **3. C# Strings** (6 videos)
-- **4. C# Functions** (5 videos)
-- **5. Object-Oriented C#** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - An introduction to learning C#
+  - What you should know
+  - Setting up your environment
+  - How to run the examples
+  - CoderPad Challenges
+- [**1. Overview of C#**](#1-overview-of-c) (4 videos)
+  - Hello World C#
+  - Variables and data types
+  - Operators
+  - Writing C# comments
+- [**2. C# Program Flow**](#2-c-program-flow) (6 videos)
+  - Conditionals with "if"
+  - Conditionals with "switch"
+  - For loops
+  - While loops
+  - Using break and continue
+  - Exceptions
+- [**3. C# Strings**](#3-c-strings) (6 videos)
+  - String operations
+  - String formatting
+  - String interpolation
+  - Using StringBuilder
+  - String parsing
+  - Solution: Count the data types
+- [**4. C# Functions**](#4-c-functions) (5 videos)
+  - Function basics
+  - Named and default parameters
+  - Reference and out parameters
+  - Returning multiple values
+  - Solution: Palindrome
+- [**5. Object-Oriented C#**](#5-object-oriented-c) (6 videos)
+  - Defining C# classes
+  - Access modifiers
+  - Defining properties
+  - Inheritance
+  - String representation
+  - Solution: Bank
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to learning C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/an-introduction-to-learning-c-sharp?u=76281980)
@@ -377,7 +410,7 @@ created: 2026-04-29
 
 ### 1. Overview of C#
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hello World C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980)
@@ -1036,7 +1069,7 @@ created: 2026-04-29
 
 ### 2. C# Program Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditionals with "if"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/conditionals-with-if?u=76281980)
@@ -1723,7 +1756,7 @@ created: 2026-04-29
 
 ### 3. C# Strings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### String operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980)
@@ -2610,7 +2643,7 @@ created: 2026-04-29
 
 ### 4. C# Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Function basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980)
@@ -3073,7 +3106,7 @@ created: 2026-04-29
 
 ### 5. Object-Oriented C#
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining C# classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980)
@@ -3825,7 +3858,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980)

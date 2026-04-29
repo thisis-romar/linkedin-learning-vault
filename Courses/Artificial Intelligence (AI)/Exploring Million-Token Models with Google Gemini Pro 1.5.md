@@ -51,12 +51,17 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. One Million Tokens with Google Gemini Pro 1.5]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The future of AI is huge
+- [**1. One Million Tokens with Google Gemini Pro 1.5**](#1-one-million-tokens-with-google-gemini-pro-15) (4 videos)
+  - Google Gemini Pro and the Gemini Family
+  - Why larger context sizes make a difference
+  - Using Google AI Studio for testing large context windows
+  - Exploring large context assets: Audio, Video, Text
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of AI is huge
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/the-future-of-ai-is-huge?u=76281980)
@@ -90,7 +95,7 @@ created: 2026-04-29
 
 ### 1. One Million Tokens with Google Gemini Pro 1.5
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Gemini Pro and the Gemini Family
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-million-token-models-with-google-gemini-pro-1-5/google-gemini-pro-and-the-gemini-family?u=76281980)

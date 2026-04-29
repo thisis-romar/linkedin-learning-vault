@@ -59,17 +59,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introductory Functional Concepts]]** (9 videos)
-- **[[#2. First-Class Functions]]** (9 videos)
-- **[[#3. JavaScript Array Manipulation]]** (10 videos)
-- **[[#4. Advanced Functional Concepts]]** (3 videos)
-- **[[#5. Code Conversion Challenges]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Functional programming will change the way you think about code
+  - What you should know
+  - Basic setup
+- [**1. Introductory Functional Concepts**](#1-introductory-functional-concepts) (9 videos)
+  - The goal of functional programming
+  - Declarative vs. imperative programming
+  - Immutability
+  - Separation of data and functions
+  - Converting object-oriented to functional code
+  - First-class functions
+  - Ensuring immutability with ESLint
+  - Installing and setting up ESLint
+  - Ensuring immutability: Finalize ESLint
+- [**2. First-Class Functions**](#2-first-class-functions) (9 videos)
+  - JavaScript arrow function syntax
+  - Using functions as data
+  - Creating arrays of functions
+  - Passing functions as arguments
+  - Returning functions
+  - Understanding closure
+  - Higher-order functions
+  - Tour of CoderPad
+  - Solution: More higher-order functions
+- [**3. JavaScript Array Manipulation**](#3-javascript-array-manipulation) (10 videos)
+  - Basics of functional data manipulation
+  - The spread operator
+  - Using the map() function
+  - Using the filter() function
+  - Using the every() and some() functions
+  - Preventing mutation with the slice() function
+  - Using the sort() function
+  - Using the reduce() function
+  - Combining array functions
+  - Solution: Recreating the map() function
+- [**4. Advanced Functional Concepts**](#4-advanced-functional-concepts) (3 videos)
+  - Currying and partial application
+  - Recursion
+  - Memoization
+- [**5. Code Conversion Challenges**](#5-code-conversion-challenges) (2 videos)
+  - Solution: Count occurrences
+  - Solution: Anagrams
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in your ES6+ journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional programming will change the way you think about code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980)
@@ -194,7 +231,7 @@ created: 2026-04-29
 
 ### 1. Introductory Functional Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The goal of functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980)
@@ -768,7 +805,7 @@ created: 2026-04-29
 
 ### 2. First-Class Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript arrow function syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980)
@@ -1988,7 +2025,7 @@ created: 2026-04-29
 
 ### 3. JavaScript Array Manipulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of functional data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980)
@@ -3254,7 +3291,7 @@ created: 2026-04-29
 
 ### 4. Advanced Functional Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Currying and partial application
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980)
@@ -3731,7 +3768,7 @@ created: 2026-04-29
 
 ### 5. Code Conversion Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Count occurrences
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-count-occurrences?u=76281980)
@@ -3742,7 +3779,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your ES6+ journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980)

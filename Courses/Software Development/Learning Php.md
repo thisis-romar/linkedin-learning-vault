@@ -43,21 +43,89 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Basics]]** (8 videos)
-- **[[#2. Control Structures]]** (8 videos)
-- **[[#3. Math in PHP]]** (5 videos)
-- **[[#4. Loops]]** (6 videos)
-- **[[#5. Functions and Objects]]** (11 videos)
-- **[[#6. Including External Files]]** (6 videos)
-- **[[#7. Troubleshooting Your Code]]** (7 videos)
-- **[[#8. Processing Forms]]** (9 videos)
-- **[[#9. Advanced Topics]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Should you learn PHP?
+  - A note on PHP 8.0
+  - Developing locally
+- [**1. The Basics**](#1-the-basics) (8 videos)
+  - How PHP works
+  - Printing on the screen
+  - Using variables
+  - Single vs. double quotes
+  - What are arrays and how do they work?
+  - Defining arrays
+  - Challenge: Display basic information on an HTML page
+  - Solution: Display basic information on an HTML page
+- [**2. Control Structures**](#2-control-structures) (8 videos)
+  - Boolean operators and the truth (update for PHP 8.0)
+  - Logical operators
+  - Creating if/else statements
+  - Ternary operations
+  - Switch statements
+  - Match expression
+  - Challenge: Display content based on status
+  - Solution: Display content based on status
+- [**3. Math in PHP**](#3-math-in-php) (5 videos)
+  - Arithmetic operators
+  - Figuring out even/odd with modulus
+  - Incrementing and decrementing variables
+  - Challenge: Implementing a complicated calculation
+  - Solution: Implementing a complicated calculation
+- [**4. Loops**](#4-loops) (6 videos)
+  - What are loops?
+  - Do/while loops
+  - For loops
+  - Working through arrays with foreach loops
+  - Challenge: Calculating the Fibonacci sequence
+  - Solution: Calculating the Fibonacci sequence
+- [**5. Functions and Objects**](#5-functions-and-objects) (11 videos)
+  - What are functions?
+  - Using built-in functions
+  - Writing custom functions
+  - Union typing variables
+  - Optional or named arguments
+  - Anonymous functions
+  - What are objects and classes?
+  - Defining a simple person class (update for PHP 8.0)
+  - Using the person class
+  - Challenge: Sort an array of objects
+  - Solution: Sort an array of objects
+- [**6. Including External Files**](#6-including-external-files) (6 videos)
+  - Organizing your code
+  - Using include and require
+  - include_once and require_once
+  - Namespacing
+  - Challenge: Build a simple templating system for the provided markup
+  - Solution: Build a simple templating system for the provided markup
+- [**7. Troubleshooting Your Code**](#7-troubleshooting-your-code) (7 videos)
+  - Common debugging tools in PHP
+  - Types of PHP errors
+  - Why is my page blank?
+  - Common parse errors
+  - Common PHP errors
+  - Try/catch statements (update for PHP 8.0)
+  - Breaking changes moving from 7.x to 8.0
+- [**8. Processing Forms**](#8-processing-forms) (9 videos)
+  - GET vs. POST
+  - Handling basic form elements
+  - Handing multiple-choice elements
+  - Form validation: Making sure required fields are filled in
+  - Form validation: Appropriate input
+  - Form validation: Sanitizing input
+  - Sending the form data in an email
+  - Challenge: Process a simple form and send the email
+  - Solution: Process a simple form and send the email
+- [**9. Advanced Topics**](#9-advanced-topics) (4 videos)
+  - Reading files in PHP
+  - Writing files
+  - Maintaining state with cookies
+  - Maintaining state with sessions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Should you learn PHP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980)
@@ -149,7 +217,7 @@ created: 2026-04-29
 
 ### 1. The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How PHP works
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980)
@@ -910,7 +978,7 @@ created: 2026-04-29
 
 ### 2. Control Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Boolean operators and the truth (update for PHP 8.0)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/boolean-operators-and-the-truth-update-for-php-8-0-11628174?u=76281980)
@@ -1680,7 +1748,7 @@ created: 2026-04-29
 
 ### 3. Math in PHP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Arithmetic operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/arithmetic-operators?u=76281980)
@@ -2041,7 +2109,7 @@ created: 2026-04-29
 
 ### 4. Loops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are loops?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-loops?u=76281980)
@@ -2465,7 +2533,7 @@ created: 2026-04-29
 
 ### 5. Functions and Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are functions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980)
@@ -3050,7 +3118,7 @@ created: 2026-04-29
 
 ### 6. Including External Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980)
@@ -3507,7 +3575,7 @@ created: 2026-04-29
 
 ### 7. Troubleshooting Your Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common debugging tools in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980)
@@ -3918,7 +3986,7 @@ created: 2026-04-29
 
 ### 8. Processing Forms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GET vs. POST
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980)
@@ -4686,7 +4754,7 @@ created: 2026-04-29
 
 ### 9. Advanced Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading files in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980)
@@ -5098,7 +5166,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980)

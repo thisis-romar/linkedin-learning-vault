@@ -49,16 +49,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Counter]]** (6 videos)
-- **[[#2. Deque]]** (6 videos)
-- **[[#3. Namedtuple]]** (4 videos)
-- **[[#4. Defaultdict]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Practice the Python data structures
+  - What you should know
+  - Using GitHub Codespaces with this course
+- [**1. Counter**](#1-counter) (6 videos)
+  - Try it: Count words from a paragraph
+  - Check it: Count words from a paragraph
+  - Try it: Finding the most common products
+  - Check it: Finding the most common products
+  - Try it: Doing inventory
+  - Check it: Doing inventory
+- [**2. Deque**](#2-deque) (6 videos)
+  - Try it: Storing a user's most recent food orders
+  - Check it: Storing a user's most recent food orders
+  - Try it: Palindrome checker
+  - Check it: Palindrome checker
+  - Try it: Scheduling tasks with Priority
+  - Check it: Scheduling tasks with priority
+- [**3. Namedtuple**](#3-namedtuple) (4 videos)
+  - Try it: Store driver details
+  - Check it: Store driver details
+  - Try it: Reading CSV files
+  - Check it: Reading CSV files
+- [**4. Defaultdict**](#4-defaultdict) (4 videos)
+  - Try it: Cleaning up duplicate data
+  - Check it: Cleaning up duplicate data
+  - Try it: Calculating gain and loss
+  - Check it: Calculating gain and loss
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in your Python data structures learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice the Python data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/practice-the-python-data-structures?u=76281980)
@@ -265,7 +289,7 @@ created: 2026-04-29
 
 ### 1. Counter
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Try it: Count words from a paragraph
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-count-words-from-a-paragraph?u=76281980)
@@ -490,7 +514,7 @@ created: 2026-04-29
 
 ### 2. Deque
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Try it: Storing a user's most recent food orders
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-storing-a-user-s-most-recent-food-orders?u=76281980)
@@ -763,7 +787,7 @@ created: 2026-04-29
 
 ### 3. Namedtuple
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Try it: Store driver details
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-store-driver-details?u=76281980)
@@ -940,7 +964,7 @@ created: 2026-04-29
 
 ### 4. Defaultdict
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Try it: Cleaning up duplicate data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/try-it-cleaning-up-duplicate-data?u=76281980)
@@ -1129,7 +1153,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your Python data structures learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-python-data-structures/next-steps-in-your-python-data-structures-learning-journey?u=76281980)

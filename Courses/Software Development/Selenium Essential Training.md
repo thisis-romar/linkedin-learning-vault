@@ -46,19 +46,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Review Fundamentals]]** (5 videos)
-- **[[#2. Succeeding with WebDriver]]** (8 videos)
-- **[[#3. Using Advanced Locators]]** (4 videos)
-- **[[#4. Interacting with Components]]** (5 videos)
-- **[[#5. Synchronization Issues]]** (3 videos)
-- **[[#6. Putting It All Together]]** (4 videos)
-- **[[#7. Project Integration]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - Get set up
+- [**1. Review Fundamentals**](#1-review-fundamentals) (5 videos)
+  - The Selenium project
+  - Using WebDriver
+  - Browser drivers
+  - WebDriver tips and tricks
+  - Inspecting Elements
+- [**2. Succeeding with WebDriver**](#2-succeeding-with-webdriver) (8 videos)
+  - Look at the test application
+  - Keyboard and mouse input
+  - Using autocomplete
+  - Scroll to element
+  - Switch to active window
+  - Switch to alert
+  - Executing JavaScript commands
+  - Drag and drop
+- [**3. Using Advanced Locators**](#3-using-advanced-locators) (4 videos)
+  - Determine which locator to use
+  - Combine multiple CSS attributes
+  - Text matching
+  - Using wildcards
+- [**4. Interacting with Components**](#4-interacting-with-components) (5 videos)
+  - Common components
+  - Radio buttons and checkboxes
+  - Date pickers
+  - Dropdown menus
+  - File upload
+- [**5. Synchronization Issues**](#5-synchronization-issues) (3 videos)
+  - Why synchronization is an issue
+  - Implicit waits
+  - Explicit waits
+- [**6. Putting It All Together**](#6-putting-it-all-together) (4 videos)
+  - Automate a workflow using WebDriver
+  - Confirm the behavior of the test
+  - Clean up the test
+  - Use page objects
+- [**7. Project Integration**](#7-project-integration) (4 videos)
+  - Connect to GitHub
+  - Setup CI
+  - Run in CI (continuous integration) servers
+  - Use cloud-based testing tools
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76281980)
@@ -135,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Review Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Selenium project
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/the-selenium-project?u=76281980)
@@ -475,7 +511,7 @@ created: 2026-04-29
 
 ### 2. Succeeding with WebDriver
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Look at the test application
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/look-at-the-test-application?u=76281980)
@@ -1049,7 +1085,7 @@ created: 2026-04-29
 
 ### 3. Using Advanced Locators
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine which locator to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/determine-which-locator-to-use?u=76281980)
@@ -1280,7 +1316,7 @@ created: 2026-04-29
 
 ### 4. Interacting with Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common components
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/common-components?u=76281980)
@@ -1598,7 +1634,7 @@ created: 2026-04-29
 
 ### 5. Synchronization Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why synchronization is an issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/why-synchronization-is-an-issue?u=76281980)
@@ -1790,7 +1826,7 @@ created: 2026-04-29
 
 ### 6. Putting It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automate a workflow using WebDriver
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/automate-a-workflow-using-webdriver?u=76281980)
@@ -2143,7 +2179,7 @@ created: 2026-04-29
 
 ### 7. Project Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/connect-to-github?u=76281980)
@@ -2410,7 +2446,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/selenium-essential-training/next-steps-2?u=76281980)

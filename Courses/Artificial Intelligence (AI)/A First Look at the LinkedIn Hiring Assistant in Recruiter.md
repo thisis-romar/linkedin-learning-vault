@@ -37,12 +37,19 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Leveraging the LinkedIn AI Agent Hiring Assistant]]** (6 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Launching your hiring journey with Hiring Assistant
+- [**1. Leveraging the LinkedIn AI Agent Hiring Assistant**](#1-leveraging-the-linkedin-ai-agent-hiring-assistant) (6 videos)
+  - Setting up your first Hiring Assistant project
+  - Writing job qualifications that drive results
+  - Evaluating candidates sourced by Hiring Assistant
+  - Engaging candidates with smart outreach
+  - Optimizing your hiring strategy with Hiring Assistant
+  - Keep learning and stay supported with LinkedIn Recruiter resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Launching your hiring journey with Hiring Assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/launching-your-hiring-journey-with-hiring-assistant?u=76281980)
@@ -78,7 +85,7 @@ created: 2026-04-29
 
 ### 1. Leveraging the LinkedIn AI Agent Hiring Assistant
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up your first Hiring Assistant project
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-first-look-at-the-linkedin-hiring-assistant-in-recruiter/setting-up-your-first-hiring-assistant-project?u=76281980)

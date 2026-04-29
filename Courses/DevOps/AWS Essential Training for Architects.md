@@ -49,17 +49,62 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Keeping Things Secure]]** (11 videos)
-- **[[#2. Architecting for Resilience and High Availability]]** (8 videos)
-- **[[#3. Automate Infrastructure]]** (8 videos)
-- **[[#4. Improving Performance]]** (8 videos)
-- **[[#5. Optimize for Cost]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Aligning solutions
+  - What you need to know
+  - AWS Well-Architected Framework
+  - Shared responsibility model
+- [**1. Keeping Things Secure**](#1-keeping-things-secure) (11 videos)
+  - Design a strategy for secure access
+  - Identity and Access Management
+  - Organizing multiple accounts with AWS Organizations
+  - Governing multiple accounts using AWS Control Tower
+  - IAM Identity Center
+  - VPC and subnets
+  - VPN and Direct Connect
+  - Controlling inbound traffic with security groups and network ACLs
+  - Securing keys and credentials
+  - Securing data in transit
+  - Security best practices
+- [**2. Architecting for Resilience and High Availability**](#2-architecting-for-resilience-and-high-availability) (8 videos)
+  - Design for failure
+  - Elastic Load Balancing
+  - Architecting loosely coupled applications with SNS and SQS
+  - Host your apps with Elastic Beanstalk
+  - AWS Fargate
+  - Use cloud-native storage
+  - Securing databases against failures
+  - Backing up
+- [**3. Automate Infrastructure**](#3-automate-infrastructure) (8 videos)
+  - Why should you automate?
+  - CloudFormation
+  - Going serverless with Lambda
+  - Event-driven architecture
+  - Orchestrating with Step Functions
+  - AWS Systems Manager
+  - Auto Scaling
+  - Other automation tools in AWS
+- [**4. Improving Performance**](#4-improving-performance) (8 videos)
+  - Designing a strategy for improving performance
+  - Monitoring with CloudWatch
+  - Gathering performance insights
+  - Using a content delivery network
+  - Caching
+  - High-performance storage
+  - Hybrid Storage
+  - Managed databases
+- [**5. Optimize for Cost**](#5-optimize-for-cost) (4 videos)
+  - Strategies for optimizing costs
+  - Reducing compute costs
+  - Reducing storage costs
+  - Tools to track cost and usage
+- [**Conclusion**](#conclusion) (2 videos)
+  - Additional resources
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Aligning solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/aligning-solutions?u=76281980)
@@ -359,7 +404,7 @@ created: 2026-04-29
 
 ### 1. Keeping Things Secure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design a strategy for secure access
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-a-strategy-for-secure-access?u=76281980)
@@ -2059,7 +2104,7 @@ created: 2026-04-29
 
 ### 2. Architecting for Resilience and High Availability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design for failure
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/design-for-failure?u=76281980)
@@ -3129,7 +3174,7 @@ created: 2026-04-29
 
 ### 3. Automate Infrastructure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why should you automate?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/why-should-you-automate?u=76281980)
@@ -4288,7 +4333,7 @@ created: 2026-04-29
 
 ### 4. Improving Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing a strategy for improving performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/designing-a-strategy-for-improving-performance?u=76281980)
@@ -5133,7 +5178,7 @@ created: 2026-04-29
 
 ### 5. Optimize for Cost
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategies for optimizing costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/strategies-for-optimizing-costs?u=76281980)
@@ -5546,7 +5591,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-architects-23744949/additional-resources?u=76281980)

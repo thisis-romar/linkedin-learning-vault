@@ -39,15 +39,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Visual Principles]]** (4 videos)
-- **[[#2. Visual Interface Design]]** (4 videos)
-- **[[#3. Taking Visual Design Further]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introducing the interface
+- [**1. Visual Principles**](#1-visual-principles) (4 videos)
+  - Aesthetics in user interface
+  - Gestalt principles
+  - Grouping and organization
+  - Hierarchy
+- [**2. Visual Interface Design**](#2-visual-interface-design) (4 videos)
+  - Grids and information density
+  - Typography and legibility
+  - Use icons
+  - The power and importance of color
+- [**3. Taking Visual Design Further**](#3-taking-visual-design-further) (3 videos)
+  - Incorporate illustrations
+  - Present data in design
+  - Visual interest with animation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Take the interface further
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/introducing-the-interface?u=76281980)
@@ -77,7 +90,7 @@ created: 2026-04-29
 
 ### 1. Visual Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Aesthetics in user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/aesthetics-in-user-interface?u=76281980)
@@ -342,7 +355,7 @@ created: 2026-04-29
 
 ### 2. Visual Interface Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Grids and information density
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/grids-and-information-density?u=76281980)
@@ -622,7 +635,7 @@ created: 2026-04-29
 
 ### 3. Taking Visual Design Further
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Incorporate illustrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/incorporate-illustrations?u=76281980)
@@ -810,7 +823,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the interface further
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-interface/take-the-interface-further?u=76281980)

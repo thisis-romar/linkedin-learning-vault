@@ -54,15 +54,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding DALL-E]]** (2 videos)
-- **[[#2. Using DALL-E in the Real World]]** (2 videos)
-- **[[#3. Generate Images via the Images API]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to image generation with DALL-E
+- [**1. Understanding DALL-E**](#1-understanding-dall-e) (2 videos)
+  - Explore DALL-E features and capabilities
+  - Gain access to DALL-E
+- [**2. Using DALL-E in the Real World**](#2-using-dall-e-in-the-real-world) (2 videos)
+  - Craft effective image prompts
+  - Use image generation in the real world
+- [**3. Generate Images via the Images API**](#3-generate-images-via-the-images-api) (3 videos)
+  - Explore the Images API
+  - Estimate image pricing
+  - See image generation in action
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your DALL-E journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to image generation with DALL-E
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/introduction-to-image-generation-with-dall-e?u=76281980)
@@ -87,7 +96,7 @@ created: 2026-04-29
 
 ### 1. Understanding DALL-E
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore DALL-E features and capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-dall-e-features-and-capabilities?u=76281980)
@@ -170,7 +179,7 @@ created: 2026-04-29
 
 ### 2. Using DALL-E in the Real World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Craft effective image prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/craft-effective-image-prompts?u=76281980)
@@ -261,7 +270,7 @@ created: 2026-04-29
 
 ### 3. Generate Images via the Images API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the Images API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/explore-the-images-api?u=76281980)
@@ -527,7 +536,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your DALL-E journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-image-generation-with-dall-e/your-dall-e-journey?u=76281980)

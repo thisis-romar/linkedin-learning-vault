@@ -47,17 +47,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setup and Introduction]]** (5 videos)
-- **[[#2. Types and Schemas]]** (6 videos)
-- **[[#3. Setting Up Persistence]]** (4 videos)
-- **[[#4. Mutations]]** (3 videos)
-- **[[#5. Queries in Depth]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn GraphQL essentials
+  - Course prerequisites
+- [**1. Setup and Introduction**](#1-setup-and-introduction) (5 videos)
+  - IDE and required tools
+  - GraphQL overview
+  - Server setup
+  - The initial GraphQL setup
+  - Basic GraphQL schema
+- [**2. Types and Schemas**](#2-types-and-schemas) (6 videos)
+  - Object types and fields
+  - Query and mutation types
+  - What is the resolver and its role?
+  - Scalar types
+  - Enumeration types
+  - List of types inside another
+- [**3. Setting Up Persistence**](#3-setting-up-persistence) (4 videos)
+  - Installing MongoDB for GraphQL
+  - Finalize the database connectors
+  - Update resolvers for MongoDB
+  - Data persistence with SQL
+- [**4. Mutations**](#4-mutations) (3 videos)
+  - Add new items with mutations
+  - Update items with mutations
+  - Delete items with mutations
+- [**5. Queries in Depth**](#5-queries-in-depth) (3 videos)
+  - Querying all products
+  - Querying with aliases
+  - Querying with fragments
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn GraphQL essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/learn-graphql-essentials?u=76281980)
@@ -112,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Setup and Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IDE and required tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/ide-and-required-tools?u=76281980)
@@ -683,7 +707,7 @@ created: 2026-04-29
 
 ### 2. Types and Schemas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Object types and fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/object-types-and-fields?u=76281980)
@@ -1311,7 +1335,7 @@ created: 2026-04-29
 
 ### 3. Setting Up Persistence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing MongoDB for GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/installing-mongodb-for-graphql?u=76281980)
@@ -1821,7 +1845,7 @@ created: 2026-04-29
 
 ### 4. Mutations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add new items with mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/add-new-items-with-mutations?u=76281980)
@@ -2164,7 +2188,7 @@ created: 2026-04-29
 
 ### 5. Queries in Depth
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying all products
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/querying-all-products?u=76281980)
@@ -2417,7 +2441,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphql-essential-training-20298359/next-steps?u=76281980)

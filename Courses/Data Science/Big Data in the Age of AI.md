@@ -52,17 +52,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Defining Big Data]]** (7 videos)
-- **[[#2. How Is Big Data Used?]]** (3 videos)
-- **[[#3. Ethics in Big Data]]** (6 videos)
-- **[[#4. Data Logistics]]** (4 videos)
-- **[[#5. Analyzing Big Data]]** (9 videos)
-- **[[#Continuing Your Big Data in AI Learning Journey]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Big data in the age of AI
+- [**1. Defining Big Data**](#1-defining-big-data) (7 videos)
+  - The volume, velocity, and variety of big data
+  - Machine learning and predictive AI
+  - Generative AI
+  - Agentic AI
+  - Social media and the Internet of Things
+  - Data warehouses, data lakes, and the cloud
+  - Edge computing, fog computing, and local computing
+- [**2. How Is Big Data Used?**](#2-how-is-big-data-used) (3 videos)
+  - Big data for competitive advantage
+  - Big data for change detection
+  - Big data as proxy data
+- [**3. Ethics in Big Data**](#3-ethics-in-big-data) (6 videos)
+  - Big data and privacy
+  - Intellectual property, corporate data, and generative AI
+  - Environmental impact of big data and AI
+  - Social impact of big data and AI
+  - Laws affecting big data and AI
+  - Data governance
+- [**4. Data Logistics**](#4-data-logistics) (4 videos)
+  - Structured, semi-structured, and unstructured data
+  - Batch processing vs. stream processing
+  - Distributed storage and processing
+  - An evolving data landscape
+- [**5. Analyzing Big Data**](#5-analyzing-big-data) (9 videos)
+  - Challenges with data preparation
+  - Visualizing big data
+  - Data mining
+  - Text analytics
+  - Sentiment analysis
+  - Predictive analytics
+  - Anomaly detection
+  - Retrieval-augmented generation (RAG)
+  - Using big data to make small data
+- [**Continuing Your Big Data in AI Learning Journey**](#continuing-your-big-data-in-ai-learning-journey) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Big data in the age of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-in-the-age-of-ai-31649039?u=76281980)
@@ -96,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Defining Big Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The volume, velocity, and variety of big data
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/the-volume-velocity-and-variety-of-big-data?u=76281980)
@@ -922,7 +953,7 @@ created: 2026-04-29
 
 ### 2. How Is Big Data Used?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Big data for competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-for-competitive-advantage?u=76281980)
@@ -1306,7 +1337,7 @@ created: 2026-04-29
 
 ### 3. Ethics in Big Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Big data and privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/big-data-and-privacy?u=76281980)
@@ -1973,7 +2004,7 @@ created: 2026-04-29
 
 ### 4. Data Logistics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structured, semi-structured, and unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/structured-semi-structured-and-unstructured-data?u=76281980)
@@ -2325,7 +2356,7 @@ created: 2026-04-29
 
 ### 5. Analyzing Big Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges with data preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/challenges-with-data-preparation?u=76281980)
@@ -3160,7 +3191,7 @@ created: 2026-04-29
 
 ### Continuing Your Big Data in AI Learning Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-in-the-age-of-ai-24512408/next-steps-and-additional-resources?u=76281980)

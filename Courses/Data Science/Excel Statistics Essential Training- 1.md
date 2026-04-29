@@ -39,20 +39,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Starting with Excel]]** (2 videos)
-- **[[#2. Dataset Basics]]** (2 videos)
-- **[[#3. Looking at Data]]** (2 videos)
-- **[[#4. Dataset Variability]]** (4 videos)
-- **[[#5. Excel Descriptive Tools]]** (2 videos)
-- **[[#6. Basic Probability Concepts]]** (7 videos)
-- **[[#7. Discrete Probabilities]]** (4 videos)
-- **[[#8. Continuous Probabilities]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Course introduction
+  - What you need to know
+  - Exercise files
+- [**1. Starting with Excel**](#1-starting-with-excel) (2 videos)
+  - Excel basics
+  - Random number generator
+- [**2. Dataset Basics**](#2-dataset-basics) (2 videos)
+  - Sum, Count, Max, Min, and Range
+  - Means, medians, and modes
+- [**3. Looking at Data**](#3-looking-at-data) (2 videos)
+  - Frequency table
+  - Histogram
+- [**4. Dataset Variability**](#4-dataset-variability) (4 videos)
+  - Standard deviation
+  - Normal curve and normal distribution
+  - Skewness and kurtosis
+  - Empirical rule
+- [**5. Excel Descriptive Tools**](#5-excel-descriptive-tools) (2 videos)
+  - Descriptive tool
+  - Descriptive tool exercise
+- [**6. Basic Probability Concepts**](#6-basic-probability-concepts) (7 videos)
+  - Probability explained
+  - Percentiles
+  - Permutations
+  - Combinations
+  - Addition rule of probability
+  - Multiplication rule of probability
+  - Conditional probability and probability trees
+- [**7. Discrete Probabilities**](#7-discrete-probabilities) (4 videos)
+  - Discrete probability explained
+  - Discrete: Mean
+  - Discrete: Standard deviation
+  - Discrete: Binomial distribution
+- [**8. Continuous Probabilities**](#8-continuous-probabilities) (3 videos)
+  - Continuous: Z-score tables
+  - Continuous: Creating a normal curve in Excel
+  - Continuous: Calculating normal distribution probabilities
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980)
@@ -140,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Starting with Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Excel basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980)
@@ -680,7 +710,7 @@ created: 2026-04-29
 
 ### 2. Dataset Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sum, Count, Max, Min, and Range
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980)
@@ -1190,7 +1220,7 @@ created: 2026-04-29
 
 ### 3. Looking at Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Frequency table
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980)
@@ -1507,7 +1537,7 @@ created: 2026-04-29
 
 ### 4. Dataset Variability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Standard deviation
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980)
@@ -2197,7 +2227,7 @@ created: 2026-04-29
 
 ### 5. Excel Descriptive Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Descriptive tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980)
@@ -2497,7 +2527,7 @@ created: 2026-04-29
 
 ### 6. Basic Probability Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980)
@@ -3669,7 +3699,7 @@ created: 2026-04-29
 
 ### 7. Discrete Probabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discrete probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980)
@@ -4259,7 +4289,7 @@ created: 2026-04-29
 
 ### 8. Continuous Probabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous: Z-score tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-z-score-tables?u=76281980)
@@ -4683,7 +4713,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980)

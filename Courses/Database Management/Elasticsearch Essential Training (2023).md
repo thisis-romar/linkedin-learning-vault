@@ -47,18 +47,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Overview]]** (5 videos)
-- **[[#2. Setup]]** (2 videos)
-- **[[#3. Loading Data]]** (3 videos)
-- **[[#4. Querying Data]]** (3 videos)
-- **[[#5. Analyzing Your Data]]** (3 videos)
-- **[[#6. Presenting Your Insights]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Explore Elasticsearch for your data
+  - What you should know
+- [**1. Overview**](#1-overview) (5 videos)
+  - Elasticsearch origins
+  - Elastic the company
+  - Elastic Stack overview
+  - Use cases
+  - Elasticsearch concepts
+- [**2. Setup**](#2-setup) (2 videos)
+  - Running Elasticsearch in the cloud
+  - Exploring your cluster
+- [**3. Loading Data**](#3-loading-data) (3 videos)
+  - Bulk loading data
+  - Loading sample data
+  - Setting data types
+- [**4. Querying Data**](#4-querying-data) (3 videos)
+  - Simple queries
+  - Term-level queries
+  - Analysis and tokenization
+- [**5. Analyzing Your Data**](#5-analyzing-your-data) (3 videos)
+  - Basic aggregations
+  - Filtering aggregations
+  - Percentiles and histograms
+- [**6. Presenting Your Insights**](#6-presenting-your-insights) (3 videos)
+  - Kibana overview and setup
+  - Creating visualizations in Kibana
+  - Creating dashboards in Kibana
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with Elasticsearch
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Elasticsearch for your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/explore-elasticsearch-for-your-data?u=76281980)
@@ -108,7 +130,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elasticsearch origins
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980)
@@ -354,7 +376,7 @@ created: 2026-04-29
 
 ### 2. Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Running Elasticsearch in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980)
@@ -576,7 +598,7 @@ created: 2026-04-29
 
 ### 3. Loading Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bulk loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980)
@@ -1143,7 +1165,7 @@ created: 2026-04-29
 
 ### 4. Querying Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980)
@@ -1722,7 +1744,7 @@ created: 2026-04-29
 
 ### 5. Analyzing Your Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic aggregations
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/basic-aggregations?u=76281980)
@@ -2188,7 +2210,7 @@ created: 2026-04-29
 
 ### 6. Presenting Your Insights
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kibana overview and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980)
@@ -2668,7 +2690,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Elasticsearch
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980)

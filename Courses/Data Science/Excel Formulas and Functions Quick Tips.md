@@ -44,18 +44,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Formula and Function Basics]]** (5 videos)
-- **[[#2. Identifying Values]]** (7 videos)
-- **[[#3. Count Functions]]** (4 videos)
-- **[[#4. Text Functions]]** (7 videos)
-- **[[#5. Index, Match, and Lookups]]** (4 videos)
-- **[[#6. Avoiding Errors and Invalid Formulas]]** (2 videos)
-- **[[#Conclusion]]** (0 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Calculate data with ease in Excel
+- [**1. Formula and Function Basics**](#1-formula-and-function-basics) (5 videos)
+  - Build a formula in a cell with =
+  - Create a named range
+  - Reference cells and worksheets
+  - Join text with an ampersand
+  - Follow along with Excel when creating functions
+- [**2. Identifying Values**](#2-identifying-values) (7 videos)
+  - Calculate a total with SUM
+  - Sum values that meet specific criteria with SUMIF
+  - Find the mean value with AVERAGE
+  - Test for valid data with IF
+  - Create complex tests with AND and OR
+  - Find record values with MAX, MIN, SMALL, and LARGE
+  - Perform date calculations with TODAY()
+- [**3. Count Functions**](#3-count-functions) (4 videos)
+  - Count cells that contain numbers with COUNT
+  - Count nonblank cells with COUNTA
+  - Return a number of occurrences with COUNTIF
+  - Checking in on your course progress
+- [**4. Text Functions**](#4-text-functions) (7 videos)
+  - Format numbers and dates with TEXT
+  - Extract characters with LEFT AND RIGHT
+  - Extract substrings with MID
+  - Count characters with LEN
+  - Identify where a character occurs with FIND
+  - Join strings with delimiters with TEXTJOIN
+  - Change text with SUBSTITUTE and REPLACE
+- [**5. Index, Match, and Lookups**](#5-index-match-and-lookups) (4 videos)
+  - Retrieve a specific value with XLOOKUP
+  - Use INDEX and MATCH to retrieve a value
+  - Use GROUPBY to aggregate data
+  - Use PIVOTBY to aggregate data with more columns
+- [**6. Avoiding Errors and Invalid Formulas**](#6-avoiding-errors-and-invalid-formulas) (2 videos)
+  - Remove leading spaces with TRIM
+  - Include IFERROR to trap errors in formulas
+- [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate data with ease in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-data-with-ease-in-excel?u=76281980)
@@ -83,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Formula and Function Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a formula in a cell with =
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/build-a-formula-in-a-cell-with?u=76281980)
@@ -269,7 +299,7 @@ created: 2026-04-29
 
 ### 2. Identifying Values
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate a total with SUM
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/calculate-a-total-with-sum?u=76281980)
@@ -513,7 +543,7 @@ created: 2026-04-29
 
 ### 3. Count Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Count cells that contain numbers with COUNT
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/count-cells-that-contain-numbers-with-count?u=76281980)
@@ -662,7 +692,7 @@ created: 2026-04-29
 
 ### 4. Text Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Format numbers and dates with TEXT
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/format-numbers-and-dates-with-text?u=76281980)
@@ -940,7 +970,7 @@ created: 2026-04-29
 
 ### 5. Index, Match, and Lookups
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieve a specific value with XLOOKUP
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/retrieve-a-specific-value-with-xlookup?u=76281980)
@@ -1104,7 +1134,7 @@ created: 2026-04-29
 
 ### 6. Avoiding Errors and Invalid Formulas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Remove leading spaces with TRIM
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-formulas-and-functions-quick-tips-25627720/remove-leading-spaces-with-trim?u=76281980)
@@ -1188,7 +1218,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

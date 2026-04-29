@@ -46,11 +46,18 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Creating LinkedIn Newsletters]]** (7 videos)
+- [**1. Creating LinkedIn Newsletters**](#1-creating-linkedin-newsletters) (7 videos)
+  - Find your voice with newsletters on LinkedIn
+  - Preparing to publish a LinkedIn newsletter
+  - Writing your article
+  - Publishing a LinkedIn newsletter
+  - Engaging with your LinkedIn newsletter
+  - Technical challenges
+  - Levelling up a LinkedIn newsletter
 
 ### 1. Creating LinkedIn Newsletters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Find your voice with newsletters on LinkedIn
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-linkedin-newsletters/find-your-voice-with-newsletters-on-linkedin-14656532?u=76281980)

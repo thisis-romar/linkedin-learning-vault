@@ -53,16 +53,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Test Prompts]]** (4 videos)
-- **[[#2. Manage Prompts]]** (4 videos)
-- **[[#3. Use Model Garden]]** (4 videos)
-- **[[#4. Build AI Applications]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Creating enterprise GenAI apps with Google Gemini
+- [**1. Test Prompts**](#1-test-prompts) (4 videos)
+  - Test prompts with Prompt Tool
+  - Configure Prompt Tool
+  - Use Colab Enterprise with the Gemini API
+  - Use CloudRun with the Gemini API
+- [**2. Manage Prompts**](#2-manage-prompts) (4 videos)
+  - Use Prompt Management to write prompts
+  - Use Prompt Management to compare prompts
+  - Use Prompt Management to optimize prompts
+  - Use Prompt Management to evaluate prompts
+- [**3. Use Model Garden**](#3-use-model-garden) (4 videos)
+  - Test Gemini and Gemma models
+  - Test open source models
+  - Test Hugging Face
+  - Test medical open source models
+- [**4. Build AI Applications**](#4-build-ai-applications) (4 videos)
+  - Explore AI applications and Vertex AI Search
+  - Set up datastore for Vertex AI Search custom app
+  - Build Vertex AI Search custom app
+  - Explore Agent Garden capabilities
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating enterprise GenAI apps with Google Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/creating-enterprise-genai-apps-with-google-gemini?u=76281980)
@@ -93,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Test Prompts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test prompts with Prompt Tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-prompts-with-prompt-tool?u=76281980)
@@ -424,7 +442,7 @@ created: 2026-04-29
 
 ### 2. Manage Prompts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Prompt Management to write prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/use-prompt-management-to-write-prompts?u=76281980)
@@ -854,7 +872,7 @@ created: 2026-04-29
 
 ### 3. Use Model Garden
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test Gemini and Gemma models
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/test-gemini-and-gemma-models?u=76281980)
@@ -1255,7 +1273,7 @@ created: 2026-04-29
 
 ### 4. Build AI Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore AI applications and Vertex AI Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/explore-ai-applications-vertex-ai-search?u=76281980)
@@ -1647,7 +1665,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-gemini-for-developers-25833582/next-steps?u=76281980)

@@ -46,20 +46,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Explore and Overview of Case Study]]** (1 videos)
-- **[[#2. Well-Architected for Microsoft Cloud for Sustainability]]** (6 videos)
-- **[[#3. Deploying Microsoft Cloud for Sustainability]]** (2 videos)
-- **[[#4. Microsoft Sustainability Manager]]** (11 videos)
-- **[[#5. Working with the ESG Data Model]]** (3 videos)
-- **[[#6. Managing the ESG Value Chain]]** (2 videos)
-- **[[#7. Sustainable IT Practices]]** (2 videos)
-- **[[#8. Preview Features]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to Microsoft Cloud for Sustainability
+  - The five Rs in Microsoft Cloud for Sustainability
+- [**1. Explore and Overview of Case Study**](#1-explore-and-overview-of-case-study) (1 videos)
+  - Case study overview: Global supply chain
+- [**2. Well-Architected for Microsoft Cloud for Sustainability**](#2-well-architected-for-microsoft-cloud-for-sustainability) (6 videos)
+  - Building and operating sustainability solutions
+  - Microsoft Sustainability Manager: Well-architected assessment
+  - Design principles
+  - Microsoft Sustainability Manager journey
+  - Types of data
+  - Data management considerations
+- [**3. Deploying Microsoft Cloud for Sustainability**](#3-deploying-microsoft-cloud-for-sustainability) (2 videos)
+  - Acquiring licenses
+  - Microsoft Cloud Solution Center
+- [**4. Microsoft Sustainability Manager**](#4-microsoft-sustainability-manager) (11 videos)
+  - Walkthrough of MSM
+  - Remove sample data
+  - Define your organization
+  - Value chain
+  - Set up reference data
+  - Set up calculations
+  - Import data
+  - Run a calculation
+  - Validate analytics and set reports
+  - Define sustainability goals
+  - Set up Teams collaboration
+- [**5. Working with the ESG Data Model**](#5-working-with-the-esg-data-model) (3 videos)
+  - Introducing Dataverse
+  - Introduction to the ESG data model
+  - Extending the ESG data model
+- [**6. Managing the ESG Value Chain**](#6-managing-the-esg-value-chain) (2 videos)
+  - Understanding the ESG value chain
+  - Setting up value chain surveys
+- [**7. Sustainable IT Practices**](#7-sustainable-it-practices) (2 videos)
+  - Measuring the carbon footprint of your IT infrastructure
+  - Using Impact Emissions Dashboards
+- [**8. Preview Features**](#8-preview-features) (1 videos)
+  - Preview features not covered in the course
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go from here
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Microsoft Cloud for Sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980)
@@ -107,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Explore and Overview of Case Study
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Case study overview: Global supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980)
@@ -138,7 +169,7 @@ created: 2026-04-29
 
 ### 2. Well-Architected for Microsoft Cloud for Sustainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building and operating sustainability solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980)
@@ -413,7 +444,7 @@ created: 2026-04-29
 
 ### 3. Deploying Microsoft Cloud for Sustainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Acquiring licenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980)
@@ -509,7 +540,7 @@ created: 2026-04-29
 
 ### 4. Microsoft Sustainability Manager
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Walkthrough of MSM
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980)
@@ -1177,7 +1208,7 @@ created: 2026-04-29
 
 ### 5. Working with the ESG Data Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Dataverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introducing-dataverse?u=76281980)
@@ -1280,7 +1311,7 @@ created: 2026-04-29
 
 ### 6. Managing the ESG Value Chain
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the ESG value chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/understanding-the-esg-value-chain?u=76281980)
@@ -1343,7 +1374,7 @@ created: 2026-04-29
 
 ### 7. Sustainable IT Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring the carbon footprint of your IT infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/measuring-the-carbon-footprint-of-your-it-infrastructure?u=76281980)
@@ -1384,7 +1415,7 @@ created: 2026-04-29
 
 ### 8. Preview Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preview features not covered in the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980)
@@ -1426,7 +1457,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980)

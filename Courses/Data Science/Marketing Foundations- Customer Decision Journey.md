@@ -44,17 +44,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Decision Journey Basics]]** (3 videos)
-- **[[#2. Buyer Personas]]** (3 videos)
-- **[[#3. Decision Journey Stages]]** (4 videos)
-- **[[#4. Map Across Touch Points]]** (3 videos)
-- **[[#5. Align Messaging and Content]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Taking the customer's perspective
+- [**1. Decision Journey Basics**](#1-decision-journey-basics) (3 videos)
+  - Importance of the decision journey
+  - How the decision journey has evolved
+  - Insights are the foundation
+- [**2. Buyer Personas**](#2-buyer-personas) (3 videos)
+  - Define buyer persona
+  - Profile your buyers
+  - Use your buyer personas
+- [**3. Decision Journey Stages**](#3-decision-journey-stages) (4 videos)
+  - Define journey stages
+  - Develop the journey map
+  - Common journey stages
+  - Think through the stages
+- [**4. Map Across Touch Points**](#4-map-across-touch-points) (3 videos)
+  - Define touch points
+  - Engage across touch points
+  - Determine touch points
+- [**5. Align Messaging and Content**](#5-align-messaging-and-content) (3 videos)
+  - Messaging versus content
+  - Align across touch points
+  - Emotional versus rational
+- [**Conclusion**](#conclusion) (1 videos)
+  - The journey continues
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the customer's perspective
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/taking-the-customer-s-perspective?u=76281980)
@@ -93,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Decision Journey Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of the decision journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/importance-of-the-decision-journey-13926968?u=76281980)
@@ -297,7 +315,7 @@ created: 2026-04-29
 
 ### 2. Buyer Personas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define buyer persona
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-buyer-persona-13929683?u=76281980)
@@ -507,7 +525,7 @@ created: 2026-04-29
 
 ### 3. Decision Journey Stages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define journey stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-journey-stages-13932233?u=76281980)
@@ -726,7 +744,7 @@ created: 2026-04-29
 
 ### 4. Map Across Touch Points
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define touch points
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/define-touch-points-13931273?u=76281980)
@@ -908,7 +926,7 @@ created: 2026-04-29
 
 ### 5. Align Messaging and Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Messaging versus content
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/messaging-versus-content?u=76281980)
@@ -1099,7 +1117,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The journey continues
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-customer-decision-journey/the-journey-continues?u=76281980)

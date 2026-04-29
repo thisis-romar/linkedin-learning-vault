@@ -50,20 +50,74 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Firefly for Creatives]]** (3 videos)
-- **[[#2. Turning Descriptions into Images]]** (9 videos)
-- **[[#3. Using Advanced Settings]]** (7 videos)
-- **[[#4. Image Magic with Generative Fill]]** (8 videos)
-- **[[#5. Using Firefly in Adobe Photoshop]]** (8 videos)
-- **[[#6. Using Firefly in Adobe Express]]** (6 videos)
-- **[[#7. Using Firefly in Adobe Illustrator]]** (6 videos)
-- **[[#8. Ethical Generative AI]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Adobe Firefly essentials
+  - The age of AI-driven design
+- [**1. Firefly for Creatives**](#1-firefly-for-creatives) (3 videos)
+  - How does Firefly fit in Creative Cloud?
+  - How does Firefly differ from other generative art solutions?
+  - Is Firefly free?
+- [**2. Turning Descriptions into Images**](#2-turning-descriptions-into-images) (9 videos)
+  - Introducing Text to Image on the web
+  - Creating your very first text prompt
+  - Understanding the difference between Firefly models
+  - Text prompt best practices
+  - Using content types and styles
+  - Finding similar images and saving favorites
+  - Sharing prompts with others
+  - Challenge: Pencil drawing
+  - Solution: Pencil drawing
+- [**3. Using Advanced Settings**](#3-using-advanced-settings) (7 videos)
+  - Setting colors, lighting, and composition
+  - Using a Structure reference
+  - Creating your own Structure reference
+  - Using a Style reference
+  - Bringing it all together
+  - Challenge: Creating a Structure reference
+  - Solution: Creating a Structure reference
+- [**4. Image Magic with Generative Fill**](#4-image-magic-with-generative-fill) (8 videos)
+  - Introducing Generative Fill
+  - Inserting objects and subjects
+  - Replacing image backgrounds
+  - Removing subjects from an image
+  - The importance of selections
+  - Introducing Generative Expand
+  - Challenge
+  - Solution
+- [**5. Using Firefly in Adobe Photoshop**](#5-using-firefly-in-adobe-photoshop) (8 videos)
+  - Using Generative Fill
+  - Generating images
+  - Generating backgrounds
+  - Using Generative Expand
+  - Knowing Generative Fill's limitation
+  - Using a reference image
+  - Challenge: Adventure
+  - Solution: Adventure
+- [**6. Using Firefly in Adobe Express**](#6-using-firefly-in-adobe-express) (6 videos)
+  - Introducing Adobe Firefly in Adobe Express
+  - Using text effects in Adobe Express
+  - Setting additional text options
+  - Creating design templates with Text to Template
+  - Challenge: Milkshakes
+  - Solution: Milkshakes
+- [**7. Using Firefly in Adobe Illustrator**](#7-using-firefly-in-adobe-illustrator) (6 videos)
+  - Introducing Text to Vector Graphic
+  - Creating your first vector graphic
+  - Controlling styles
+  - Introducing Generative Recolor in Illustrator
+  - Challenge: Text to vectors
+  - Solution: Text to vectors
+- [**8. Ethical Generative AI**](#8-ethical-generative-ai) (3 videos)
+  - AI-generated images and ethics
+  - Downloading images and viewing content credentials
+  - Verifying content credentials from external parties
+- [**Conclusion**](#conclusion) (2 videos)
+  - Where to go from here
+  - Goodbye
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adobe Firefly essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/adobe-firefly-essentials?u=76281980)
@@ -74,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Firefly for Creatives
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How does Firefly fit in Creative Cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/how-does-firefly-fit-in-creative-cloud?u=76281980)
@@ -310,7 +364,7 @@ created: 2026-04-29
 
 ### 2. Turning Descriptions into Images
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Text to Image on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-image-on-the-web?u=76281980)
@@ -1062,7 +1116,7 @@ created: 2026-04-29
 
 ### 3. Using Advanced Settings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting colors, lighting, and composition
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/setting-colors-lighting-and-composition?u=76281980)
@@ -1732,7 +1786,7 @@ created: 2026-04-29
 
 ### 4. Image Magic with Generative Fill
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Generative Fill
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-generative-fill?u=76281980)
@@ -2554,7 +2608,7 @@ created: 2026-04-29
 
 ### 5. Using Firefly in Adobe Photoshop
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Generative Fill
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/using-generative-fill?u=76281980)
@@ -3330,7 +3384,7 @@ created: 2026-04-29
 
 ### 6. Using Firefly in Adobe Express
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Adobe Firefly in Adobe Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-adobe-firefly-in-adobe-express?u=76281980)
@@ -3734,7 +3788,7 @@ created: 2026-04-29
 
 ### 7. Using Firefly in Adobe Illustrator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Text to Vector Graphic
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/introducing-text-to-vector-graphic?u=76281980)
@@ -4324,7 +4378,7 @@ created: 2026-04-29
 
 ### 8. Ethical Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-generated images and ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/ai-generated-images-and-ethics?u=76281980)
@@ -4675,7 +4729,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-firefly-essential-training-2024/where-to-go-from-here?u=76281980)

@@ -54,19 +54,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Inheritance]]** (7 videos)
-- **[[#2. Polymorphism]]** (4 videos)
-- **[[#3. Abstraction]]** (4 videos)
-- **[[#4. Interfaces]]** (5 videos)
-- **[[#5. Data Structures]]** (9 videos)
-- **[[#6. Functional Programming]]** (4 videos)
-- **[[#7. Exception Handling]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Java objects and APIs
+  - What you should know
+  - CoderPad tour
+- [**1. Inheritance**](#1-inheritance) (7 videos)
+  - Inheritance between classes
+  - Constructors in inheritance
+  - Overriding and overloading inherited methods
+  - Chain of inheritance
+  - Limiting access in inheritance
+  - Sealed classes
+  - Code Solution: Cake! Cake! Cake!
+- [**2. Polymorphism**](#2-polymorphism) (4 videos)
+  - Polymorphism with objects
+  - Object typecasting
+  - instanceof operator
+  - Code Solution: Employee report
+- [**3. Abstraction**](#3-abstraction) (4 videos)
+  - Abstract classes and methods
+  - Inheriting from abstract classes
+  - Creating objects with abstract types
+  - Code Solution: Orchestra concert
+- [**4. Interfaces**](#4-interfaces) (5 videos)
+  - Creating an interface
+  - Implementing interfaces
+  - Instantiating objects with interface types
+  - Default and static methods
+  - Code Solution: Shirt product
+- [**5. Data Structures**](#5-data-structures) (9 videos)
+  - Collections framework
+  - Sets
+  - Lists
+  - Queues
+  - Maps
+  - Iterators
+  - Enhanced for loops
+  - forEach() and lambdas
+  - Code Solution: Gradebook
+- [**6. Functional Programming**](#6-functional-programming) (4 videos)
+  - Functional interfaces
+  - Streams
+  - Common stream operations
+  - Code Solution: Color filter
+- [**7. Exception Handling**](#7-exception-handling) (9 videos)
+  - Try and catch blocks
+  - Stack trace and exception message
+  - Checked vs. unchecked exceptions
+  - Handling multiple exceptions
+  - Finally block
+  - Try with resources
+  - Throwing exceptions
+  - Rethrowing exceptions
+  - Code Solution: Unauthorized user
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Java objects and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/java-objects-and-apis?u=76281980)
@@ -186,7 +232,7 @@ created: 2026-04-29
 
 ### 1. Inheritance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inheritance between classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/inheritance-between-classes?u=76281980)
@@ -655,7 +701,7 @@ created: 2026-04-29
 
 ### 2. Polymorphism
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Polymorphism with objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/polymorphism-with-objects?u=76281980)
@@ -902,7 +948,7 @@ created: 2026-04-29
 
 ### 3. Abstraction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Abstract classes and methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/abstract-classes-and-methods?u=76281980)
@@ -1111,7 +1157,7 @@ created: 2026-04-29
 
 ### 4. Interfaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/creating-an-interface?u=76281980)
@@ -1390,7 +1436,7 @@ created: 2026-04-29
 
 ### 5. Data Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collections framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/collections-framework?u=76281980)
@@ -2141,7 +2187,7 @@ created: 2026-04-29
 
 ### 6. Functional Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/functional-interfaces?u=76281980)
@@ -2417,7 +2463,7 @@ created: 2026-04-29
 
 ### 7. Exception Handling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Try and catch blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/try-and-catch-blocks?u=76281980)
@@ -2964,7 +3010,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820/next-steps?u=76281980)

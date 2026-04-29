@@ -48,16 +48,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Lean and Agile Principles]]** (1 videos)
-- **[[#2. Scrum Overview]]** (1 videos)
-- **[[#3. Scrum Overview 2]]** (3 videos)
-- **[[#4. Quick Search and Basic Search]]** (2 videos)
-- **[[#5. Jira Query Language (JQL)]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course overview
+- [**1. Lean and Agile Principles**](#1-lean-and-agile-principles) (1 videos)
+  - Lean and agile principles
+- [**2. Scrum Overview**](#2-scrum-overview) (1 videos)
+  - Scrum overview
+- [**3. Scrum Overview 2**](#3-scrum-overview-2) (3 videos)
+  - Scrum overview 2
+  - Lab: Cloud company-managed
+  - Lab: Team-managed
+- [**4. Quick Search and Basic Search**](#4-quick-search-and-basic-search) (2 videos)
+  - Quick search and basic search
+  - Lab: Cloud
+- [**5. Jira Query Language (JQL)**](#5-jira-query-language-jql) (2 videos)
+  - Jira Query Language (JQL)
+  - Lab: Cloud
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/course-overview?u=76281980)
@@ -111,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Lean and Agile Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lean and agile principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/lean-and-agile-principles?u=76281980)
@@ -119,7 +129,7 @@ created: 2026-04-29
 
 ### 2. Scrum Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview?u=76281980)
@@ -314,7 +324,7 @@ created: 2026-04-29
 
 ### 3. Scrum Overview 2
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum overview 2
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/scrum-overview-2?u=76281980)
@@ -665,7 +675,7 @@ created: 2026-04-29
 
 ### 4. Quick Search and Basic Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Quick search and basic search
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/quick-search-and-basic-search?u=76281980)
@@ -884,7 +894,7 @@ created: 2026-04-29
 
 ### 5. Jira Query Language (JQL)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Jira Query Language (JQL)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-2-lean-and-agile-processes/jira-query-language-jql?u=76281980)

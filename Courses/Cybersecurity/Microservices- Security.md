@@ -49,17 +49,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Microservice Security Foundations]]** (3 videos)
-- **[[#2. Identity Management and Access Control]]** (5 videos)
-- **[[#3. Token-Based Security and Standards]]** (9 videos)
-- **[[#4. Security between Microservices]]** (4 videos)
-- **[[#5. Application and Container Security]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Securing microservices
+  - Microservices learning curve
+- [**1. Microservice Security Foundations**](#1-microservice-security-foundations) (3 videos)
+  - Microservice concepts
+  - Security fundamentals
+  - Microservice security challenges
+- [**2. Identity Management and Access Control**](#2-identity-management-and-access-control) (5 videos)
+  - Distributed access management patterns
+  - Identity and Access Management platforms
+  - API gateways
+  - Access scenarios
+  - Work with IAM platforms
+- [**3. Token-Based Security and Standards**](#3-token-based-security-and-standards) (9 videos)
+  - Tokens
+  - OAuth 2 primer
+  - OAuth in Microsoft Entra
+  - Register client applications
+  - Issuing tokens
+  - Work with OAuth 2.0 endpoints
+  - Issuing identity tokens with OIDC
+  - Token validation
+  - Token maintenance and protection
+- [**4. Security between Microservices**](#4-security-between-microservices) (4 videos)
+  - MTLS
+  - Securing east to west traffic
+  - Monitoring and logging
+  - Service mesh
+- [**5. Application and Container Security**](#5-application-and-container-security) (8 videos)
+  - Throttling and rate limiting
+  - Container runtime security
+  - Image security
+  - Audit container security
+  - Secrets management
+  - Secure pipelines
+  - Prevent leaked credentials
+  - Keep secrets with Key Vault
+- [**Conclusion**](#conclusion) (1 videos)
+  - Securing microservices
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980)
@@ -134,7 +166,7 @@ created: 2026-04-29
 
 ### 1. Microservice Security Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microservice concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980)
@@ -327,7 +359,7 @@ created: 2026-04-29
 
 ### 2. Identity Management and Access Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Distributed access management patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980)
@@ -735,7 +767,7 @@ created: 2026-04-29
 
 ### 3. Token-Based Security and Standards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980)
@@ -1664,7 +1696,7 @@ created: 2026-04-29
 
 ### 4. Security between Microservices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MTLS
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980)
@@ -1977,7 +2009,7 @@ created: 2026-04-29
 
 ### 5. Application and Container Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Throttling and rate limiting
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/throttling-and-rate-limiting?u=76281980)
@@ -2637,7 +2669,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980)

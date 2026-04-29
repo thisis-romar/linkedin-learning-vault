@@ -66,16 +66,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Microsoft Entra ID Basics]]** (6 videos)
-- **[[#2. Core Components of Entra ID]]** (6 videos)
-- **[[#3. Standards and Compliance]]** (2 videos)
-- **[[#4. Administering an Entra Tenant]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - A world of modern identity
+  - History of Active Directory
+  - The Microsoft Entra family
+  - Course overview
+  - Microsoft Entra admin center
+- [**1. Microsoft Entra ID Basics**](#1-microsoft-entra-id-basics) (6 videos)
+  - Identity and access
+  - What is Microsoft Entra ID?
+  - Sign up for an Azure subscription
+  - Entra ID architecture
+  - Configure the default directory
+  - Active Directory vs. Entra ID
+- [**2. Core Components of Entra ID**](#2-core-components-of-entra-id) (6 videos)
+  - Understand Entra Cloud Sync
+  - Manage users
+  - Manage groups
+  - Manage devices
+  - Provision enterprise apps
+  - Manage administrative units
+- [**3. Standards and Compliance**](#3-standards-and-compliance) (2 videos)
+  - Industry standards
+  - Regulatory compliance
+- [**4. Administering an Entra Tenant**](#4-administering-an-entra-tenant) (4 videos)
+  - Managing an Entra tenant
+  - Securing an Entra tenant
+  - Potential benefits of deploying Entra ID
+  - Case study: Audi AG
+- [**Conclusion**](#conclusion) (2 videos)
+  - Course summary
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A world of modern identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/a-world-of-modern-identity?u=76281980)
@@ -419,7 +444,7 @@ created: 2026-04-29
 
 ### 1. Microsoft Entra ID Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identity and access
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/identity-and-access?u=76281980)
@@ -998,7 +1023,7 @@ created: 2026-04-29
 
 ### 2. Core Components of Entra ID
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Entra Cloud Sync
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/understand-entra-cloud-sync?u=76281980)
@@ -1903,7 +1928,7 @@ created: 2026-04-29
 
 ### 3. Standards and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Industry standards
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/industry-standards?u=76281980)
@@ -2084,7 +2109,7 @@ created: 2026-04-29
 
 ### 4. Administering an Entra Tenant
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing an Entra tenant
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/managing-an-entra-tenant?u=76281980)
@@ -2300,7 +2325,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-entra-id-fundamentals/course-summary?u=76281980)

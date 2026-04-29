@@ -43,16 +43,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Installing Jenkins]]** (6 videos)
-- **[[#2. Jenkins Jobs]]** (9 videos)
-- **[[#3. Job Workspaces, Artifacts, and Parameters]]** (9 videos)
-- **[[#4. Organize Jobs with Views and Folders]]** (6 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Kickstart your DevOps journey with Jenkins
+  - Why choose Jenkins?
+  - Prerequisites and key terms
+- [**1. Installing Jenkins**](#1-installing-jenkins) (6 videos)
+  - System requirements
+  - Finish a Jenkins installation
+  - The Jenkins user interface
+  - Manage plugins
+  - Manage tools
+  - Solution: Set up a Jenkins server on Windows
+- [**2. Jenkins Jobs**](#2-jenkins-jobs) (9 videos)
+  - Your first jenkins job
+  - Job types
+  - Build description and source code management
+  - Build triggers
+  - The build environment
+  - Run and monitor jobs
+  - Run and monitor jobs using console output
+  - Monitor build trends
+  - Solution: Automate system monitoring with Jenkins
+- [**3. Job Workspaces, Artifacts, and Parameters**](#3-job-workspaces-artifacts-and-parameters) (9 videos)
+  - Using a global build tool
+  - Browse a job's workspace
+  - Manage artifacts
+  - Parameters and environment variables
+  - String parameters
+  - Choice parameters
+  - Boolean parameters
+  - Schedule jobs
+  - Solution: Use a build tool and parameters
+- [**4. Organize Jobs with Views and Folders**](#4-organize-jobs-with-views-and-folders) (6 videos)
+  - Views and folders
+  - Create a view
+  - Create a folder
+  - Search with the command palette
+  - Delete views and folders
+  - Solution: Create folders and views
+- [**Conclusion**](#conclusion) (3 videos)
+  - Pipeline as code
+  - Build agents and cloud runners
+  - Next steps with Jenkins
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kickstart your DevOps journey with Jenkins
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/kickstart-your-devops-journey-with-jenkins?u=76281980)
@@ -202,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Installing Jenkins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### System requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/system-requirements?u=76281980)
@@ -553,7 +589,7 @@ created: 2026-04-29
 
 ### 2. Jenkins Jobs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your first jenkins job
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/your-first-jenkins-job?u=76281980)
@@ -1057,7 +1093,7 @@ created: 2026-04-29
 
 ### 3. Job Workspaces, Artifacts, and Parameters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a global build tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/using-a-global-build-tool?u=76281980)
@@ -1700,7 +1736,7 @@ created: 2026-04-29
 
 ### 4. Organize Jobs with Views and Folders
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Views and folders
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/views-and-folders?u=76281980)
@@ -2040,7 +2076,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pipeline as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jenkins-automating-software-development-and-system-administration/pipeline-as-code?u=76281980)

@@ -49,16 +49,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#Traffic Capture and Analysis]]** (8 videos)
-- **[[#Using Time as a Metric]]** (5 videos)
-- **[[#Wireshark Tools]]** (5 videos)
-- **[[#Recognizing Abnormal or Malicious Traffic]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Analyze network problems
+  - What you need to know
+- [**Traffic Capture and Analysis**](#traffic-capture-and-analysis) (8 videos)
+  - Getting the most out of Wireshark
+  - Navigating the Wireshark interface
+  - Investigating the Edit Menu choice
+  - Exploring the View Menu choice
+  - Getting ready to capture
+  - Examining a capture
+  - Challenge: Examining evidence of congestion
+  - Response: Examining evidence of congestion
+- [**Using Time as a Metric**](#using-time-as-a-metric) (5 videos)
+  - Displaying time
+  - Viewing Details and Expert Info
+  - Graphing the TCP Streams
+  - Challenge: Using time to view gaps in transmission
+  - Response: Using time to view gaps in transmission
+- [**Wireshark Tools**](#wireshark-tools) (5 videos)
+  - Viewing conversations and endpoints
+  - Creating a flow graph
+  - Plotting an IO graph
+  - Challenge: Using a Flow Graph
+  - Response: Using a Flow Graph
+- [**Recognizing Abnormal or Malicious Traffic**](#recognizing-abnormal-or-malicious-traffic) (7 videos)
+  - Troubleshooting the Network
+  - Spotting an ARP Storm
+  - Identifying bursty traffic
+  - Protecting from packet sniffing
+  - Examining Macof attacks
+  - Challenge: Identify a scanning signature
+  - Solution: Identify a scanning signature
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze network problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/analyze-network-problems-23827196?u=76281980)
@@ -106,7 +134,7 @@ created: 2026-04-29
 
 ### Traffic Capture and Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the most out of Wireshark
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/getting-the-most-out-of-wireshark-23826188?u=76281980)
@@ -1027,7 +1055,7 @@ created: 2026-04-29
 
 ### Using Time as a Metric
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Displaying time
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/displaying-time?u=76281980)
@@ -1466,7 +1494,7 @@ created: 2026-04-29
 
 ### Wireshark Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Viewing conversations and endpoints
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/viewing-conversations-and-endpoints-23824198?u=76281980)
@@ -1958,7 +1986,7 @@ created: 2026-04-29
 
 ### Recognizing Abnormal or Malicious Traffic
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshooting the Network
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/troubleshooting-the-network?u=76281980)
@@ -2560,7 +2588,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-network-troubleshooting/what-s-next?u=76281980)

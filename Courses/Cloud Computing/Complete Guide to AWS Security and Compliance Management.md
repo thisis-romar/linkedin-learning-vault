@@ -51,20 +51,168 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. AWS Security Foundations]]** (12 videos)
-- **[[#2. IAM Concepts in AWS]]** (34 videos)
-- **[[#3. Multi-Account Access]]** (7 videos)
-- **[[#4. Detection and Response]]** (20 videos)
-- **[[#5. Network and Application Protection]]** (10 videos)
-- **[[#6. Data Protection and Operations]]** (31 videos)
-- **[[#7. S3 Access Management]]** (22 videos)
-- **[[#8. Security Audits in AWS]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - AWS security overview
+  - What you should know
+- [**1. AWS Security Foundations**](#1-aws-security-foundations) (12 videos)
+  - Understanding shared responsibility
+  - Understanding the AWS security landscape
+  - Understanding separation of duties
+  - Implementing separation of duties
+  - Understanding CloudTrail
+  - Enabling CloudTrail
+  - Understanding CloudWatch
+  - Understanding CloudWatch alarms
+  - Configuring Simple Notification Service
+  - Using a CloudWatch alarm
+  - Installing the command line interface (CLI) for Mac
+  - The command line interface (CLI) for Windows
+- [**2. IAM Concepts in AWS**](#2-iam-concepts-in-aws) (34 videos)
+  - Understanding Identity and Access Management
+  - Understanding IAM policies
+  - Configure IAM policies
+  - Understanding IAM groups
+  - Configure IAM groups
+  - Configuring a password policy
+  - Configure IAM users: Web console
+  - Configure IAM users: CLI
+  - IAM challenge
+  - IAM challenge solution
+  - Configuring IAM roles
+  - Configuring IAM roles
+  - Validating an IAM role
+  - Extending CloudWatch
+  - Install CloudWatch agent
+  - Challenge: IAM roles
+  - Solution: IAM roles
+  - Understanding Security Token Service
+  - Creating a temporary access role
+  - Creating a temporary access policy
+  - Validating temporary access
+  - Challenge: Super admin
+  - Solution: Super admin
+  - Illustrating access restrictions
+  - Exploring IAM policy simulator
+  - Understanding Cognito
+  - Creating a Cognito user pool
+  - Creating a Cognito identity pool
+  - Understanding Verified Permissions
+  - Understanding federated access
+  - Enabling federated access
+  - Validating federated access
+  - Securing financial access
+  - Enabling financial access
+- [**3. Multi-Account Access**](#3-multi-account-access) (7 videos)
+  - Understanding Organizations
+  - Understanding Control Tower
+  - Understanding IAM Identity Center
+  - Exploring IAM Identity Center
+  - Validating IAM Identity Center
+  - Understanding Resource Access Manager
+  - Exploring Resource Access Manager
+- [**4. Detection and Response**](#4-detection-and-response) (20 videos)
+  - Understanding AWS Config
+  - Enabling AWS Config
+  - Exploring AWS Config results
+  - Exploring conformance packs
+  - Understanding AWS GuardDuty
+  - Exploring AWS GuardDuty
+  - Understand IAM Access Analyzer
+  - Exploring IAM Access Analyzer results
+  - Understanding Amazon Detective
+  - Exploring Amazon Detective
+  - Understanding Amazon Inspector
+  - Exploring Amazon Inspector
+  - Resolving an Inspector finding
+  - Understanding Amazon Security Lake
+  - Understanding IoT Device Defender
+  - Understanding AWS Elastic Disaster Recovery
+  - Configuring Elastic Disaster Recovery
+  - Configuring a source server
+  - Exploring AWS Elastic Disaster Recovery
+  - Removing a source server
+- [**5. Network and Application Protection**](#5-network-and-application-protection) (10 videos)
+  - Understand Web Application Firewall
+  - Exploring Web Application Firewall
+  - Configuring Web Application Firewall
+  - Validating Web Application Firewall
+  - Understand AWS Shield
+  - Understanding AWS Firewall Manager
+  - Understanding AWS Network Firewall
+  - Understand AWS Verified Access
+  - Understanding DNS Firewall
+  - Configuring DNS Firewall
+- [**6. Data Protection and Operations**](#6-data-protection-and-operations) (31 videos)
+  - Understanding Amazon Macie
+  - Configuring a Macie job
+  - Exploring Macie results
+  - Understanding Key Management Service
+  - Creating a KMS key
+  - Creating a multi-region KMS key
+  - Using a KMS in S3
+  - Using KMS and an IAM role
+  - Automating KMS key rotation
+  - Deleting a KMS key
+  - Enabling EBS default encryption
+  - Understanding Secrets Manager
+  - Using Secrets Manager
+  - Enabling autorotation with Secrets Manager
+  - Creating a multi-region secret
+  - Deleting a Secrets Manager secret
+  - Understanding AWS CloudHSM
+  - Understanding Systems Manager
+  - Implementing Systems Manager
+  - Resolving compliance with Systems Manager
+  - Creating Resource Groups
+  - Patching with Systems Manager
+  - Understanding Incident Manager
+  - Using Parameter Store
+  - Understand Certificate Manager
+  - Creating a private certificate authority
+  - Creating a private certificate
+  - Using a private certificate
+  - Understanding Payment Cryptography
+  - Challenge: KMS
+  - Solution: KMS
+- [**7. S3 Access Management**](#7-s3-access-management) (22 videos)
+  - Exploring S3 management options
+  - Accessing S3 privately
+  - Configuring private S3 access
+  - Managing S3 with IAM
+  - Restricting S3 access with IAM
+  - Validating custom IAM S3 policy
+  - Leveraging S3 IAM policies in EC2
+  - Creating an S3 bucket policy
+  - Illustrating S3 bucket policies with CLI
+  - Understanding S3 access control lists
+  - Understanding public access in S3
+  - S3 public access best practices
+  - Exploring pre-signed URLs
+  - Understanding S3 Access Grants
+  - Understanding S3 Access Points
+  - Exploring S3 Access Points
+  - Understanding data protection schemes
+  - S3 security and compliance best practices
+  - Challenge: S3 replication challenge
+  - Solution: S3 replication challenge
+  - Challenge: S3 lifecycle challenge
+  - Solution: S3 lifecycle challenge
+- [**8. Security Audits in AWS**](#8-security-audits-in-aws) (9 videos)
+  - Understanding AWS Security Hub
+  - Using AWS Security Hub
+  - Rotating access keys
+  - Understand AWS Artifact
+  - Understanding Trusted Advisor
+  - Exploring Trusted Advisor
+  - Understanding Audit Manager
+  - Exploring Audit Manager
+  - Prepare for a security audit
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/aws-security-overview?u=76281980)
@@ -136,7 +284,7 @@ created: 2026-04-29
 
 ### 1. AWS Security Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding shared responsibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-shared-responsibility?u=76281980)
@@ -1394,7 +1542,7 @@ created: 2026-04-29
 
 ### 2. IAM Concepts in AWS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Identity and Access Management
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-identity-and-access-management?u=76281980)
@@ -4288,7 +4436,7 @@ created: 2026-04-29
 
 ### 3. Multi-Account Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-organizations?u=76281980)
@@ -4876,7 +5024,7 @@ created: 2026-04-29
 
 ### 4. Detection and Response
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AWS Config
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-config?u=76281980)
@@ -6684,7 +6832,7 @@ created: 2026-04-29
 
 ### 5. Network and Application Protection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Web Application Firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understand-web-application-firewall?u=76281980)
@@ -7569,7 +7717,7 @@ created: 2026-04-29
 
 ### 6. Data Protection and Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Amazon Macie
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-amazon-macie?u=76281980)
@@ -10443,7 +10591,7 @@ created: 2026-04-29
 
 ### 7. S3 Access Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring S3 management options
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/exploring-s3-management-options?u=76281980)
@@ -12853,7 +13001,7 @@ created: 2026-04-29
 
 ### 8. Security Audits in AWS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AWS Security Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/understanding-aws-security-hub?u=76281980)
@@ -13862,7 +14010,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-security-and-compliance-management/next-steps?u=76281980)

@@ -47,18 +47,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Discovering Data Science]]** (1 videos)
-- **[[#2. Understanding the Data Science Profession]]** (4 videos)
-- **[[#3. Data Science and You]]** (2 videos)
-- **[[#4. How to Learn Data Science]]** (4 videos)
-- **[[#5. Creating Your First Data Science Resume]]** (2 videos)
-- **[[#6. Personal Branding for Data Scientists]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What is data science?
+  - Why data science?
+- [**1. Discovering Data Science**](#1-discovering-data-science) (1 videos)
+  - First-hand account of finding data science
+- [**2. Understanding the Data Science Profession**](#2-understanding-the-data-science-profession) (4 videos)
+  - The confusion around data science professions
+  - Who is a data scientist?
+  - The difference between a data engineer and a data scientist
+  - A machine learning developer vs. a data scientist
+- [**3. Data Science and You**](#3-data-science-and-you) (2 videos)
+  - Doing your data science research
+  - Defining your data science goal
+- [**4. How to Learn Data Science**](#4-how-to-learn-data-science) (4 videos)
+  - Learning to ask questions about data science
+  - Working on real data science projects
+  - Participating in data science challenges and hackathons
+  - Finding a data science community
+- [**5. Creating Your First Data Science Resume**](#5-creating-your-first-data-science-resume) (2 videos)
+  - Creating a data science resume with no work experience
+  - Using projects and hackathons to demonstrate expertise
+- [**6. Personal Branding for Data Scientists**](#6-personal-branding-for-data-scientists) (3 videos)
+  - What are you known for?
+  - What do you want to be known for as a data scientist?
+  - Using social media to change the narrative
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional resources on a career in data science
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data science?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/what-is-data-science?u=76281980)
@@ -159,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Discovering Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### First-hand account of finding data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/first-hand-account-of-finding-data-science?u=76281980)
@@ -207,7 +226,7 @@ created: 2026-04-29
 
 ### 2. Understanding the Data Science Profession
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The confusion around data science professions
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/the-confusion-around-data-science-professions?u=76281980)
@@ -318,7 +337,7 @@ created: 2026-04-29
 
 ### 3. Data Science and You
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Doing your data science research
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/doing-your-data-science-research?u=76281980)
@@ -394,7 +413,7 @@ created: 2026-04-29
 
 ### 4. How to Learn Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning to ask questions about data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/learning-to-ask-questions-about-data-science?u=76281980)
@@ -504,7 +523,7 @@ created: 2026-04-29
 
 ### 5. Creating Your First Data Science Resume
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a data science resume with no work experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/creating-a-data-science-resume-with-no-work-experience?u=76281980)
@@ -565,7 +584,7 @@ created: 2026-04-29
 
 ### 6. Personal Branding for Data Scientists
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are you known for?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/what-are-you-known-for?u=76281980)
@@ -654,7 +673,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources on a career in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/inside-the-mind-of-an-aspiring-data-scientist/additional-resources-on-a-career-in-data-science?u=76281980)

@@ -51,21 +51,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Server Architecture]]** (3 videos)
-- **[[#2. Server Administration]]** (4 videos)
-- **[[#3. Server Maintenance]]** (5 videos)
-- **[[#4. Networking]]** (4 videos)
-- **[[#5. Storage]]** (3 videos)
-- **[[#6. Security]]** (4 videos)
-- **[[#7. Environmental Protection]]** (3 videos)
-- **[[#8. Virtualization and Cloud Computing]]** (3 videos)
-- **[[#9. Disaster Recovery]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with server administration
+  - What you should know
+- [**1. Server Architecture**](#1-server-architecture) (3 videos)
+  - Server form factors
+  - Server components
+  - Power and cooling components
+- [**2. Server Administration**](#2-server-administration) (4 videos)
+  - Server installation
+  - Post-installation configuration
+  - Server roles
+  - Server connectivity options
+- [**3. Server Maintenance**](#3-server-maintenance) (5 videos)
+  - General server management
+  - Performance management
+  - Event logging
+  - Asset management
+  - Documentation
+- [**4. Networking**](#4-networking) (4 videos)
+  - Basic IP configuration
+  - Common ports and protocols
+  - Network cabling
+  - Wireless networking
+- [**5. Storage**](#5-storage) (3 videos)
+  - Storage technologies
+  - Understanding RAID
+  - Capacity planning
+- [**6. Security**](#6-security) (4 videos)
+  - Rights and permissions
+  - Encryption
+  - Server hardening
+  - Physical security
+- [**7. Environmental Protection**](#7-environmental-protection) (3 videos)
+  - Power protection
+  - Environment and safety
+  - Secure disposal
+- [**8. Virtualization and Cloud Computing**](#8-virtualization-and-cloud-computing) (3 videos)
+  - Benefits of virtualization
+  - Implementing virtual servers
+  - Overview of cloud computing
+- [**9. Disaster Recovery**](#9-disaster-recovery) (3 videos)
+  - Planning for a disaster
+  - Backup strategies
+  - Troubleshooting methodology
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with server administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/getting-started-with-server-administration?u=76281980)
@@ -139,7 +174,7 @@ created: 2026-04-29
 
 ### 1. Server Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Server form factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-form-factors?u=76281980)
@@ -455,7 +490,7 @@ created: 2026-04-29
 
 ### 2. Server Administration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Server installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/server-installation?u=76281980)
@@ -887,7 +922,7 @@ created: 2026-04-29
 
 ### 3. Server Maintenance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### General server management
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/general-server-management?u=76281980)
@@ -1355,7 +1390,7 @@ created: 2026-04-29
 
 ### 4. Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic IP configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/basic-ip-configuration?u=76281980)
@@ -1668,7 +1703,7 @@ created: 2026-04-29
 
 ### 5. Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/storage-technologies?u=76281980)
@@ -1951,7 +1986,7 @@ created: 2026-04-29
 
 ### 6. Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rights and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/rights-and-permissions?u=76281980)
@@ -2354,7 +2389,7 @@ created: 2026-04-29
 
 ### 7. Environmental Protection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Power protection
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/power-protection?u=76281980)
@@ -2574,7 +2609,7 @@ created: 2026-04-29
 
 ### 8. Virtualization and Cloud Computing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of virtualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/benefits-of-virtualization?u=76281980)
@@ -2861,7 +2896,7 @@ created: 2026-04-29
 
 ### 9. Disaster Recovery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning for a disaster
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/planning-for-a-disaster?u=76281980)
@@ -3254,7 +3289,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/server-administration-essential-training/next-steps?u=76281980)

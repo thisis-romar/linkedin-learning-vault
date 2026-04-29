@@ -46,15 +46,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. How to Make Block Patterns]]** (8 videos)
-- **[[#2. The Block Patterns Cookbook]]** (10 videos)
-- **[[#3. Refactoring]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - What are block patterns and why are they important?
+  - What you should know
+  - How this course works
+- [**1. How to Make Block Patterns**](#1-how-to-make-block-patterns) (8 videos)
+  - Block patterns vs. reusable blocks
+  - Adding block patterns to WordPress sites
+  - Making block patterns without code
+  - Coding block patterns overview
+  - What is a JSON encoder?
+  - How to style block patterns with CSS
+  - Block pattern categories
+  - Setting up the block pattern plugin
+- [**2. The Block Patterns Cookbook**](#2-the-block-patterns-cookbook) (10 videos)
+  - Call to action
+  - Pricing table
+  - Styling the pricing table
+  - Author bio box
+  - Contact info card
+  - Posts listing with Query block
+  - Website masthead
+  - Currently Listening To widget
+  - Hero section
+  - Content upgrade
+- [**3. Refactoring**](#3-refactoring) (2 videos)
+  - Adding your own block pattern category
+  - A slightly clever refactor
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are block patterns and why are they important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/what-are-block-patterns-and-why-are-they-important?u=76281980)
@@ -146,7 +170,7 @@ created: 2026-04-29
 
 ### 1. How to Make Block Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Block patterns vs. reusable blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/block-patterns-vs-reusable-blocks?u=76281980)
@@ -631,7 +655,7 @@ created: 2026-04-29
 
 ### 2. The Block Patterns Cookbook
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Call to action
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/call-to-action?u=76281980)
@@ -1870,7 +1894,7 @@ created: 2026-04-29
 
 ### 3. Refactoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding your own block pattern category
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/adding-your-own-block-pattern-category?u=76281980)
@@ -2054,7 +2078,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-block-patterns-in-wordpress/next-steps?u=76281980)

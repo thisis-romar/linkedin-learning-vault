@@ -76,17 +76,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Generative AI?]]** (4 videos)
-- **[[#2. Main Models]]** (5 videos)
-- **[[#3. The Future of AI]]** (2 videos)
-- **[[#4. Ethics and Responsibility]]** (2 videos)
-- **[[#5. Working with Generative AI]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Generative AI is a tool in service of humanity
+  - What's new?
+- [**1. What Is Generative AI?**](#1-what-is-generative-ai) (4 videos)
+  - The importance of generative AI
+  - How generative AI is different than other types of AI
+  - How generative AI works
+  - Creating your own content
+- [**2. Main Models**](#2-main-models) (5 videos)
+  - The most famous tools for generative AI
+  - Natural language models
+  - Text to image applications
+  - Generative Adversarial Networks (GANs)
+  - VAE and Anomaly Detection
+- [**3. The Future of AI**](#3-the-future-of-ai) (2 videos)
+  - Future predictions
+  - The future of jobs
+- [**4. Ethics and Responsibility**](#4-ethics-and-responsibility) (2 videos)
+  - Moral and executive skill set required to work with GenAI
+  - Caution when working with Gen AI
+- [**5. Working with Generative AI**](#5-working-with-generative-ai) (4 videos)
+  - Productivity enhancements in large language models (LLMs) through APIs and real-time interactions
+  - From technical demos to professional productions
+  - Wider adoption of generative AI
+  - Legal frameworks and intellectual property in the age of AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI is a tool in service of humanity
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity?u=76281980)
@@ -160,7 +180,7 @@ created: 2026-04-29
 
 ### 1. What Is Generative AI?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/the-importance-of-generative-ai?u=76281980)
@@ -409,7 +429,7 @@ created: 2026-04-29
 
 ### 2. Main Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The most famous tools for generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/the-most-famous-tools-for-generative-ai?u=76281980)
@@ -680,7 +700,7 @@ created: 2026-04-29
 
 ### 3. The Future of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Future predictions
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/future-predictions?u=76281980)
@@ -781,7 +801,7 @@ created: 2026-04-29
 
 ### 4. Ethics and Responsibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Moral and executive skill set required to work with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/moral-and-executive-skill-set-required-to-work-with-genai?u=76281980)
@@ -867,7 +887,7 @@ created: 2026-04-29
 
 ### 5. Working with Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Productivity enhancements in large language models (LLMs) through APIs and real-time interactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/productivity-enhancements-in-large-language-models-llms-through-apis-and-real-time-interactions?u=76281980)
@@ -1160,7 +1180,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-generative-ai/next-steps?u=76281980)

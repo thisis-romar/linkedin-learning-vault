@@ -48,13 +48,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI Tips for Sales]]** (10 videos)
-- **[[#Conclusion]]** (0 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How AI is transforming sales
+- [**1. AI Tips for Sales**](#1-ai-tips-for-sales) (10 videos)
+  - What AI can (and cannot) replace in sales
+  - Use AI in lead generation
+  - Efficient and effective pre-call planning
+  - Build authentic relationships
+  - Stand out from competitors
+  - Craft presentations and proposals
+  - Turn rejections into relationships
+  - Risks of using AI in sales
+  - Create thought leadership
+  - Upskill yourself
+- [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How AI is transforming sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/how-ai-is-transforming-sales?u=76281980)
@@ -85,7 +96,7 @@ created: 2026-04-29
 
 ### 1. AI Tips for Sales
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What AI can (and cannot) replace in sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-sales-professional-streamline-systems-and-exceed-targets/what-ai-can-and-cannot-replace-in-sales?u=76281980)
@@ -991,7 +1002,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

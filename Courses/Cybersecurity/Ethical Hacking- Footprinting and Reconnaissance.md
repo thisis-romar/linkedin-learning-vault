@@ -47,17 +47,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Uncovering Information]]** (7 videos)
-- **[[#2. Using Email and Websites]]** (6 videos)
-- **[[#3. Searching the Network]]** (5 videos)
-- **[[#4. Discovering Reconnaissance Tools]]** (5 videos)
-- **[[#5. Footprinting Capstone]]** (4 videos)
-- **[[#6. Wrapping up the Recon]]** (4 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Scouting the target
+  - What you should know
+  - Hacking ethically
+- [**1. Uncovering Information**](#1-uncovering-information) (7 videos)
+  - Footprinting and reconnaissance
+  - Using competitive intelligence
+  - Investigating business sites
+  - Searching and Google hacking
+  - Employing social engineering
+  - Gathering data on people
+  - Tracking online reputation
+- [**2. Using Email and Websites**](#2-using-email-and-websites) (6 videos)
+  - Harvesting email addresses
+  - Examining websites
+  - Scraping websites
+  - Challenge: Mirroring a website
+  - Solution: Mirroring a website
+  - Monitoring websites
+- [**3. Searching the Network**](#3-searching-the-network) (5 videos)
+  - Footprinting using DNS
+  - Examining a zone transfer
+  - Generating domain names
+  - Determining the path
+  - Using nslookup and DIG
+- [**4. Discovering Reconnaissance Tools**](#4-discovering-reconnaissance-tools) (5 videos)
+  - Using OSINT tools
+  - Investigating email
+  - Footprinting VoIP and VPNs
+  - Going to the dark web
+  - Exploring other footprinting tools
+- [**5. Footprinting Capstone**](#5-footprinting-capstone) (4 videos)
+  - Conducting a forensic exercise
+  - Examining an email
+  - Diving into an email header
+  - Verifying IP blocklists
+- [**6. Wrapping up the Recon**](#6-wrapping-up-the-recon) (4 videos)
+  - Guarding social media
+  - Writing footprinting reports
+  - Countering footprinting
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scouting the target
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/scouting-the-target?u=76281980)
@@ -133,7 +167,7 @@ created: 2026-04-29
 
 ### 1. Uncovering Information
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Footprinting and reconnaissance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-and-reconnaissance?u=76281980)
@@ -678,7 +712,7 @@ created: 2026-04-29
 
 ### 2. Using Email and Websites
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Harvesting email addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/harvesting-email-addreses?u=76281980)
@@ -1143,7 +1177,7 @@ created: 2026-04-29
 
 ### 3. Searching the Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Footprinting using DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/footprinting-using-dns?u=76281980)
@@ -1592,7 +1626,7 @@ created: 2026-04-29
 
 ### 4. Discovering Reconnaissance Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using OSINT tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/using-osint-tools?u=76281980)
@@ -1972,7 +2006,7 @@ created: 2026-04-29
 
 ### 5. Footprinting Capstone
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conducting a forensic exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/conducting-a-forensic-exercise?u=76281980)
@@ -2238,7 +2272,7 @@ created: 2026-04-29
 
 ### 6. Wrapping up the Recon
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Guarding social media
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-footprinting-and-reconnaissance-22773528/guarding-social-media?u=76281980)

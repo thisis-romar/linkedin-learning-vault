@@ -45,16 +45,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Basics of AI]]** (4 videos)
-- **[[#2. Critical Perspectives on AI]]** (6 videos)
-- **[[#3. AI and the United Nations System]]** (3 videos)
-- **[[#4. The Mechanics of AI]]** (5 videos)
-- **[[#5. Practical Applications of AI]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Artificial intelligence: From everyday tasks to global challenges
+- [**1. The Basics of AI**](#1-the-basics-of-ai) (4 videos)
+  - AI: The basics
+  - AI in everyday life
+  - A brief history of AI
+  - The limitations of AI
+- [**2. Critical Perspectives on AI**](#2-critical-perspectives-on-ai) (6 videos)
+  - AI accuracy vs. truth
+  - Cross-border data flows
+  - Bias in AI systems
+  - The geography of AI development
+  - The global digital divide
+  - Synthetic data in AI training
+- [**3. AI and the United Nations System**](#3-ai-and-the-united-nations-system) (3 videos)
+  - AI for Global goals
+  - AI governance
+  - UN and UNESCO frameworks on AI
+- [**4. The Mechanics of AI**](#4-the-mechanics-of-ai) (5 videos)
+  - Types of machine learning
+  - Neural networks and data learning
+  - Gradient descent and model training
+  - Big data and AI
+  - Introduction to generative AI
+- [**5. Practical Applications of AI**](#5-practical-applications-of-ai) (3 videos)
+  - Accessible AI tools for beginners
+  - AI in everyday apps
+  - A real-world AI mini project
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Artificial intelligence: From everyday tasks to global challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-from-everyday-tasks-to-global-challenges-36201055?u=76281980)
@@ -98,7 +120,7 @@ created: 2026-04-29
 
 ### 1. The Basics of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/artificial-intelligence-the-basics-36101049?u=76281980)
@@ -484,7 +506,7 @@ created: 2026-04-29
 
 ### 2. Critical Perspectives on AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI accuracy vs. truth
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-accuracy-vs-truth?u=76281980)
@@ -841,7 +863,7 @@ created: 2026-04-29
 
 ### 3. AI and the United Nations System
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI for Global goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/ai-and-the-global-goals?u=76281980)
@@ -1019,7 +1041,7 @@ created: 2026-04-29
 
 ### 4. The Mechanics of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/types-of-machine-learning?u=76281980)
@@ -1376,7 +1398,7 @@ created: 2026-04-29
 
 ### 5. Practical Applications of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible AI tools for beginners
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-ai-s-global-impact-governance-equity-and-responsibility/accessible-ai-tools-for-beginners-36031055?u=76281980)

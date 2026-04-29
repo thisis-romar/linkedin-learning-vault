@@ -46,17 +46,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. MPLS Architecture]]** (5 videos)
-- **[[#2. MPLS Terminology]]** (4 videos)
-- **[[#3. Label Distribution Protocol (LDP)]]** (5 videos)
-- **[[#4. Advanced LDP Configuration]]** (5 videos)
-- **[[#5.Different MPLS Modes]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Become an MPLS expert
+- [**1. MPLS Architecture**](#1-mpls-architecture) (5 videos)
+  - IP forwarding
+  - MPLS control plane and data plane
+  - Packet forwarding in an MPLS network
+  - Penultimate hop popping (PHP)
+  - MPLS label
+- [**2. MPLS Terminology**](#2-mpls-terminology) (4 videos)
+  - Label switch router (LSR)
+  - Label switched path (LSP)
+  - Forwarding equivalence class (FEC)
+  - Frame mode MPLS vs. cell mode MPLS
+- [**3. Label Distribution Protocol (LDP)**](#3-label-distribution-protocol-ldp) (5 videos)
+  - Label distribution protocols
+  - MPLS LDP configuration in Cisco IOS
+  - MPLS  LDP  neighborship
+  - LDP neighborship verification
+  - LDP parameters configuration
+- [**4. Advanced LDP Configuration**](#4-advanced-ldp-configuration) (5 videos)
+  - LDP authentication
+  - Controlling the advertisement of labels via LDP
+  - MPLS LDP inbound label binding filtering
+  - TTL behavior of labeled packets
+  - Tracerouting in MPLS networks
+- [**5.Different MPLS Modes**](#5different-mpls-modes) (4 videos)
+  - MPLS label spaces
+  - Label distribution mode
+  - Label retention modes
+  - LSP control modes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Become an MPLS expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/become-an-mpls-expert?u=76281980)
@@ -83,7 +108,7 @@ created: 2026-04-29
 
 ### 1. MPLS Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IP forwarding
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980)
@@ -449,7 +474,7 @@ created: 2026-04-29
 
 ### 2. MPLS Terminology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Label switch router (LSR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980)
@@ -697,7 +722,7 @@ created: 2026-04-29
 
 ### 3. Label Distribution Protocol (LDP)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Label distribution protocols
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-protocols?u=76281980)
@@ -1028,7 +1053,7 @@ created: 2026-04-29
 
 ### 4. Advanced LDP Configuration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### LDP authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-authentication?u=76281980)
@@ -1362,7 +1387,7 @@ created: 2026-04-29
 
 ### 5.Different MPLS Modes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MPLS label spaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label-spaces?u=76281980)
@@ -1536,7 +1561,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980)

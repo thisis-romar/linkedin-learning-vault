@@ -49,17 +49,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Roles and Phases]]** (3 videos)
-- **[[#2. Planning]]** (3 videos)
-- **[[#3. Design]]** (4 videos)
-- **[[#4. Implementation]]** (4 videos)
-- **[[#5. Operations]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction
+  - What you should know
+- [**1. Roles and Phases**](#1-roles-and-phases) (3 videos)
+  - The data engineer
+  - All important data engineering project phases
+  - General challenges faced
+- [**2. Planning**](#2-planning) (3 videos)
+  - Understanding the status quo
+  - Collecting the right requirements
+  - Defining good KPIs
+- [**3. Design**](#3-design) (4 videos)
+  - Keeping implementation efforts in mind
+  - Choosing the right architecture and framework
+  - Predicting costs and scaling better
+  - The right benchmarking of existing tools
+- [**4. Implementation**](#4-implementation) (4 videos)
+  - Definition of work packages and responsibilities
+  - Risk assessment
+  - Testing the right parts
+  - Having a good documentation
+- [**5. Operations**](#5-operations) (4 videos)
+  - Approaches to monitoring
+  - Approaches to bug fixing
+  - Awesome training of staff, current and new
+  - How to improve processes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Conclusion and outlook
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/introduction?u=76281980)
@@ -124,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Roles and Phases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/the-data-engineer?u=76281980)
@@ -493,7 +514,7 @@ created: 2026-04-29
 
 ### 2. Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the status quo
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/understanding-the-status-quo?u=76281980)
@@ -882,7 +903,7 @@ created: 2026-04-29
 
 ### 3. Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping implementation efforts in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/keeping-implementation-efforts-in-mind?u=76281980)
@@ -1398,7 +1419,7 @@ created: 2026-04-29
 
 ### 4. Implementation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Definition of work packages and responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/definition-of-work-packages-and-responsibilities?u=76281980)
@@ -2053,7 +2074,7 @@ created: 2026-04-29
 
 ### 5. Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Approaches to monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/approaches-to-monitoring?u=76281980)
@@ -2533,7 +2554,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion and outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/problem-solving-strategies-for-data-engineers/conclusion-and-outlook?u=76281980)

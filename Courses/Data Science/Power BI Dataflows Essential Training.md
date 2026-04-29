@@ -46,16 +46,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Working with Data in Power BI]]** (4 videos)
-- **[[#2. Extracting Data]]** (6 videos)
-- **[[#3. Transforming Data Connections]]** (4 videos)
-- **[[#4. Loading and Connecting to Dataflows]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Optimizing your data with Power BI dataflows
+  - What you should know
+- [**1. Working with Data in Power BI**](#1-working-with-data-in-power-bi) (4 videos)
+  - Navigating the Power BI ecosystem
+  - Comparing Power BI versions
+  - Utilizing a dataflow
+  - Utilizing Azure Data Lake
+- [**2. Extracting Data**](#2-extracting-data) (6 videos)
+  - Setting up gateways
+  - Organizing data sources
+  - Connecting to databases
+  - Setting up web connections
+  - Querying API data
+  - Connecting to Excel
+- [**3. Transforming Data Connections**](#3-transforming-data-connections) (4 videos)
+  - Updating dataflows
+  - Utilizing Power Query Online applied steps
+  - Translating from Power BI Desktop
+  - Setting up a Common Data Model
+- [**4. Loading and Connecting to Dataflows**](#4-loading-and-connecting-to-dataflows) (5 videos)
+  - Connecting to dataflows
+  - Comparing dataflows to data sets
+  - Sharing dataflows
+  - Scheduling data refreshing
+  - Representing dataflow structures with JSON files
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with Power BI dataflows
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing your data with Power BI dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/optimizing-your-data-with-power-bi-dataflows?u=76281980)
@@ -101,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Working with Data in Power BI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating the Power BI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/navigating-the-power-bi-ecosystem?u=76281980)
@@ -343,7 +365,7 @@ created: 2026-04-29
 
 ### 2. Extracting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up gateways
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/setting-up-gateways?u=76281980)
@@ -867,7 +889,7 @@ created: 2026-04-29
 
 ### 3. Transforming Data Connections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Updating dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/updating-dataflows?u=76281980)
@@ -1184,7 +1206,7 @@ created: 2026-04-29
 
 ### 4. Loading and Connecting to Dataflows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting to dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/connecting-to-dataflows?u=76281980)
@@ -1580,7 +1602,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Power BI dataflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dataflows-essential-training/next-steps-with-power-bi-dataflows?u=76281980)

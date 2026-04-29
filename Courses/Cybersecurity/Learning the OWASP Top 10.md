@@ -57,13 +57,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. New to the Top Ten]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - A first look at the 2021 OWASP Top Ten
+- [**1. New to the Top Ten**](#1-new-to-the-top-ten) (10 videos)
+  - Broken access control
+  - Cryptographic failures
+  - Injection
+  - Insecure design
+  - Security misconfiguration
+  - Vulnerable and outdated components
+  - Identification and authentication failures
+  - Software and data integrity failures
+  - Security logging and monitoring failures
+  - Server-side request forgery (SSRF)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go from here with the 2021 OWASP Top Ten
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A first look at the 2021 OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980)
@@ -100,7 +112,7 @@ created: 2026-04-29
 
 ### 1. New to the Top Ten
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Broken access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980)
@@ -723,7 +735,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here with the 2021 OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/where-to-go-from-here-with-the-2021-owasp-top-ten?u=76281980)

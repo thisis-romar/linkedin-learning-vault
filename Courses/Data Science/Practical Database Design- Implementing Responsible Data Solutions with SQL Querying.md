@@ -54,18 +54,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Business Rule Development]]** (7 videos)
-- **[[#2. Database Design]]** (6 videos)
-- **[[#3. Data Generation and Datasets]]** (4 videos)
-- **[[#4. Database Implementation]]** (5 videos)
-- **[[#5. SQL Querying]]** (5 videos)
-- **[[#6. Final Project]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Designing and implementing a data model
+  - What you should know
+- [**1. Business Rule Development**](#1-business-rule-development) (7 videos)
+  - How databases help businesses
+  - The DIKW Model
+  - What's a business rule?
+  - A business rule vs. a business operation
+  - A business rule vs. a business practice
+  - A business rule vs. a business policy
+  - Example business rules
+- [**2. Database Design**](#2-database-design) (6 videos)
+  - Entities and relationships
+  - Cardinalities
+  - Scoping the database requirements
+  - Analyzing the overall data requirements
+  - Connecting entities, relationships, and business rules
+  - Identifying data integrity requirements
+- [**3. Data Generation and Datasets**](#3-data-generation-and-datasets) (4 videos)
+  - The data you're given: Now what?
+  - Asking questions of the data
+  - The data you're creating: Pros and cons
+  - Asking questions of your made-up data
+- [**4. Database Implementation**](#4-database-implementation) (5 videos)
+  - Overview of MySQL Workbench
+  - Creating entities in MySQL Workbench
+  - Creating relationships in MySQL Workbench
+  - Confirming identifying and non-identifying relationships
+  - Creating the database schema
+- [**5. SQL Querying**](#5-sql-querying) (5 videos)
+  - Overview of the SELECT statement
+  - Another toy dataset
+  - SELECT-FROM clauses
+  - SELECT-FROM-WHERE clauses
+  - GROUP BY and ORDER BY clauses
+- [**6. Final Project**](#6-final-project) (2 videos)
+  - Bringing it all together
+  - Final project: The Brainery
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing and implementing a data model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/designing-and-implementing-a-data-model?u=76281980)
@@ -146,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Business Rule Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How databases help businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/how-databases-help-businesses?u=76281980)
@@ -570,7 +602,7 @@ created: 2026-04-29
 
 ### 2. Database Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Entities and relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/entities-and-relationships?u=76281980)
@@ -993,7 +1025,7 @@ created: 2026-04-29
 
 ### 3. Data Generation and Datasets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The data you're given: Now what?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/the-data-you-re-given-now-what?u=76281980)
@@ -1280,7 +1312,7 @@ created: 2026-04-29
 
 ### 4. Database Implementation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of MySQL Workbench
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-mysql-workbench?u=76281980)
@@ -1811,7 +1843,7 @@ created: 2026-04-29
 
 ### 5. SQL Querying
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the SELECT statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/overview-of-the-select-statement?u=76281980)
@@ -2399,7 +2431,7 @@ created: 2026-04-29
 
 ### 6. Final Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bringing it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/bringing-it-all-together?u=76281980)
@@ -2478,7 +2510,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-database-design-implementing-responsible-data-solutions-with-sql-querying/next-steps?u=76281980)

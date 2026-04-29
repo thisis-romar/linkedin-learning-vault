@@ -51,17 +51,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. SnowflakeDB Overview]]** (6 videos)
-- **[[#2. SnowflakeDB Data Storage and Files]]** (6 videos)
-- **[[#3. SnowflakeDB Query Processing]]** (5 videos)
-- **[[#4. SnowflakeDB Data Services]]** (5 videos)
-- **[[#5. SnowflakeDB Partners and Architectures]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Driving maximum results with a flexible data cloud
+  - What you should know
+  - Use cloud services
+- [**1. SnowflakeDB Overview**](#1-snowflakedb-overview) (6 videos)
+  - Meet SnowflakeDB
+  - Understand SnowflakeDB data platform
+  - Compare cloud data warehouse solutions
+  - Review SnowflakeDB architecture
+  - Use SnowflakeDB cloud tools
+  - Use Snowpark Python worksheets
+- [**2. SnowflakeDB Data Storage and Files**](#2-snowflakedb-data-storage-and-files) (6 videos)
+  - See SnowflakeDB queries
+  - Learn SnowflakeDB file ingest
+  - Load SnowflakeDB using web UI
+  - Load SnowflakeDB from S3
+  - Load SnowflakeDB using Snowpipe streams
+  - Scenario: Import files and data into SnowflakeDB
+- [**3. SnowflakeDB Query Processing**](#3-snowflakedb-query-processing) (5 videos)
+  - Use SnowflakeDB for SQL queries
+  - Understand SnowflakeDB dashboards
+  - Create and use user-defined functions
+  - Optimize virtual warehouses
+  - Scenario: Optimize SnowflakeDB compute
+- [**4. SnowflakeDB Data Services**](#4-snowflakedb-data-services) (5 videos)
+  - Understand SnowflakeDB account usage
+  - Learn SnowflakeDB authentication and authorization
+  - Review Snowflake DB sessions
+  - Implement SnowflakeDB policies
+  - Scenario: Secure data on SnowflakeDB
+- [**5. SnowflakeDB Partners and Architectures**](#5-snowflakedb-partners-and-architectures) (4 videos)
+  - Learn the Snowflake data life cycle
+  - Use SnowflakeDB Data Marketplace
+  - Use SnowflakeDB Partner Connect
+  - Scenario: Design and build solutions with SnowflakeDB
+- [**Conclusion**](#conclusion) (1 videos)
+  - Keep learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Driving maximum results with a flexible data cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/driving-maximum-results-with-a-flexible-data-cloud?u=76281980)
@@ -150,7 +180,7 @@ created: 2026-04-29
 
 ### 1. SnowflakeDB Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet SnowflakeDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/meet-snowflakedb?u=76281980)
@@ -696,7 +726,7 @@ created: 2026-04-29
 
 ### 2. SnowflakeDB Data Storage and Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### See SnowflakeDB queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/see-snowflakedb-queries?u=76281980)
@@ -1213,7 +1243,7 @@ created: 2026-04-29
 
 ### 3. SnowflakeDB Query Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use SnowflakeDB for SQL queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/use-snowflakedb-for-sql-queries?u=76281980)
@@ -1828,7 +1858,7 @@ created: 2026-04-29
 
 ### 4. SnowflakeDB Data Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand SnowflakeDB account usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/understand-snowflakedb-account-usage?u=76281980)
@@ -2138,7 +2168,7 @@ created: 2026-04-29
 
 ### 5. SnowflakeDB Partners and Architectures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the Snowflake data life cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/learn-the-snowflake-data-life-cycle?u=76281980)
@@ -2407,7 +2437,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-snowflakedb/keep-learning?u=76281980)

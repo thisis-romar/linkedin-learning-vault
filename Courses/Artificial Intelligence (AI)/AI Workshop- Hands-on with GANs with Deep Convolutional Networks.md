@@ -53,15 +53,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Convolutional and Pooling Layers]]** (6 videos)
-- **[[#2. Training a Discriminator as a Classification Model]]** (7 videos)
-- **[[#3. Training a Deep Convolutional GAN]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - A quick overview of GANs
+- [**1. Understanding Convolutional and Pooling Layers**](#1-understanding-convolutional-and-pooling-layers) (6 videos)
+  - Course outline and prerequisites
+  - Setting up Google Colab cloud-hosted notebooks
+  - Understanding convolutional neural networks
+  - Transforming a multichannel image to tensor
+  - Applying convolutional and pooling layers
+  - Viewing the effect of different filters
+- [**2. Training a Discriminator as a Classification Model**](#2-training-a-discriminator-as-a-classification-model) (7 videos)
+  - Types of convolutional layers
+  - Training data for discriminator bad fakes and real images
+  - Loading and transforming training image data
+  - Understanding the discriminator architecture
+  - Training a discriminator on bad fakes
+  - Training data for discriminator good fakes and real images
+  - Training a discriminator on good fakes
+- [**3. Training a Deep Convolutional GAN**](#3-training-a-deep-convolutional-gan) (7 videos)
+  - Generator and discriminator
+  - Deep convolutional GANs (DCGANs)
+  - Setting up data for GAN training
+  - Setting up the generator and discriminator
+  - Output from an untrained generator and discriminator
+  - Setting up the GAN training loop
+  - Viewing GAN training results
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick overview of GANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/a-quick-overview-of-gans?u=76281980)
@@ -141,7 +163,7 @@ created: 2026-04-29
 
 ### 1. Understanding Convolutional and Pooling Layers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course outline and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/course-outline-and-prerequisites?u=76281980)
@@ -710,7 +732,7 @@ created: 2026-04-29
 
 ### 2. Training a Discriminator as a Classification Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of convolutional layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/types-of-convolutional-layers?u=76281980)
@@ -1459,7 +1481,7 @@ created: 2026-04-29
 
 ### 3. Training a Deep Convolutional GAN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generator and discriminator
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/generator-and-discriminator?u=76281980)
@@ -2157,7 +2179,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-with-deep-convolutional-networks/summary-and-next-steps?u=76281980)

@@ -51,16 +51,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Machine Learning Foundations]]** (4 videos)
-- **[[#2. Intentional Failure Modes/Attacks]]** (9 videos)
-- **[[#3. Unintentional Failure Modes/Intrinsic Design Flaws]]** (5 videos)
-- **[[#4. Building Resilient ML]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Machine learning security concerns
+  - What you should know
+- [**1. Machine Learning Foundations**](#1-machine-learning-foundations) (4 videos)
+  - How systems can fail and how to protect them
+  - Why does ML security matter
+  - Attacks vs. unintentional failure modes
+  - Security goals for ML: CIA
+- [**2. Intentional Failure Modes/Attacks**](#2-intentional-failure-modesattacks) (9 videos)
+  - Perturbation attacks and AUPs
+  - Poisoning attacks
+  - Reprogramming neural nets
+  - Physical domain (3D adversarial objects)
+  - Supply chain attacks
+  - Model inversion
+  - System manipulation
+  - Membership inference and model stealing
+  - Backdoors and existing exploits
+- [**3. Unintentional Failure Modes/Intrinsic Design Flaws**](#3-unintentional-failure-modesintrinsic-design-flaws) (5 videos)
+  - Reward hacking
+  - Side effects in reinforcement learning
+  - Distributional shifts and incomplete testing
+  - Overfitting/underfitting
+  - Data bias considerations
+- [**4. Building Resilient ML**](#4-building-resilient-ml) (4 videos)
+  - Effective techniques for building resilience in ML
+  - ML dataset hygiene
+  - ML adversarial training
+  - ML access control to APIs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning security concerns
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/machine-learning-security-concerns?u=76281980)
@@ -114,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Machine Learning Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How systems can fail and how to protect them
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/how-systems-can-fail-and-how-to-protect-them?u=76281980)
@@ -364,7 +389,7 @@ created: 2026-04-29
 
 ### 2. Intentional Failure Modes/Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Perturbation attacks and AUPs
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980)
@@ -802,7 +827,7 @@ created: 2026-04-29
 
 ### 3. Unintentional Failure Modes/Intrinsic Design Flaws
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reward hacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980)
@@ -1085,7 +1110,7 @@ created: 2026-04-29
 
 ### 4. Building Resilient ML
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Effective techniques for building resilience in ML
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/effective-techniques-for-building-resilience-in-ml?u=76281980)
@@ -1350,7 +1375,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/next-steps?u=76281980)

@@ -53,18 +53,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Selecting Search]]** (4 videos)
-- **[[#2. Building Blocks of Semantic Search]]** (4 videos)
-- **[[#3. Enhancing Semantic Search]]** (8 videos)
-- **[[#4. Optimizing Data and Entities for Semantic Search]]** (3 videos)
-- **[[#5. Mastering Semantic Search with AI, Human Feedback, and Key Data]]** (3 videos)
-- **[[#6. Bridging Text and Graphs for Smarter Semantic Search]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The power of semantic search and information retrieval
+  - What you need to know for the course
+- [**1. Selecting Search**](#1-selecting-search) (4 videos)
+  - Use case: Two Trees Olive Oil
+  - What kind of search do you need?
+  - Deciding if you need a vector database, a knowledge graph, or both
+  - What about non-LLM AI for semantic search?
+- [**2. Building Blocks of Semantic Search**](#2-building-blocks-of-semantic-search) (4 videos)
+  - What is information retrieval?
+  - What is semantic search?
+  - What are knowledge graphs, and how are they used in semantic search?
+  - What are vector embeddings?
+- [**3. Enhancing Semantic Search**](#3-enhancing-semantic-search) (8 videos)
+  - What is semantic similarity?
+  - How is semantic similarity calculated?
+  - Weights, boosts, and blocks
+  - User and localization data
+  - Walking the graph
+  - Other factors for semantic similarity
+  - Search performance in semantic search
+  - Automated and human search relevancy assessment
+- [**4. Optimizing Data and Entities for Semantic Search**](#4-optimizing-data-and-entities-for-semantic-search) (3 videos)
+  - Text and document quality
+  - Entity recognition and disambiguation
+  - Alternative search methods
+- [**5. Mastering Semantic Search with AI, Human Feedback, and Key Data**](#5-mastering-semantic-search-with-ai-human-feedback-and-key-data) (3 videos)
+  - Where does search fit in an AI or data pipeline?
+  - How can AI use both vector and graph data for semantic search?
+  - How can key performance indicators (KPIs) be used in semantic search?
+- [**6. Bridging Text and Graphs for Smarter Semantic Search**](#6-bridging-text-and-graphs-for-smarter-semantic-search) (5 videos)
+  - Loading our sample model and data into Stardog
+  - Building a graph query
+  - Query options
+  - Using graph data to ground an AI response
+  - Comparison GraphRAG grounding alone vs. RAG with semantic knowledge graphs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of semantic search and information retrieval
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980)
@@ -134,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Selecting Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use case: Two Trees Olive Oil
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980)
@@ -313,7 +343,7 @@ created: 2026-04-29
 
 ### 2. Building Blocks of Semantic Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is information retrieval?
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980)
@@ -569,7 +599,7 @@ created: 2026-04-29
 
 ### 3. Enhancing Semantic Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is semantic similarity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980)
@@ -946,7 +976,7 @@ created: 2026-04-29
 
 ### 4. Optimizing Data and Entities for Semantic Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Text and document quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980)
@@ -1060,7 +1090,7 @@ created: 2026-04-29
 
 ### 5. Mastering Semantic Search with AI, Human Feedback, and Key Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where does search fit in an AI or data pipeline?
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980)
@@ -1206,7 +1236,7 @@ created: 2026-04-29
 
 ### 6. Bridging Text and Graphs for Smarter Semantic Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading our sample model and data into Stardog
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/loading-our-sample-model-and-data-into-stardog?u=76281980)
@@ -1671,7 +1701,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980)

@@ -51,17 +51,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. IP Addressing Basics]]** (6 videos)
-- **[[#2. IP Address Components]]** (8 videos)
-- **[[#3. CIDR and Aggregation]]** (4 videos)
-- **[[#4. Special Use Addresses]]** (3 videos)
-- **[[#5. Some IP Services]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome to this course
+  - What you should know
+- [**1. IP Addressing Basics**](#1-ip-addressing-basics) (6 videos)
+  - The IP address and its purpose
+  - Expressing IP addresses
+  - IP addressing structures and functions
+  - IP addressing examples in modern networks
+  - Challenge: Examining IP addresses
+  - Solution: Examining IP addresses
+- [**2. IP Address Components**](#2-ip-address-components) (8 videos)
+  - Classful addressing
+  - Subnet masks
+  - Subnet addressing
+  - VLSM
+  - Broadcast addressing
+  - IPv6 addresses
+  - Challenge: Subnet masks
+  - Solution: Subnet masks
+- [**3. CIDR and Aggregation**](#3-cidr-and-aggregation) (4 videos)
+  - IP address prefixes
+  - IP address aggregation
+  - Challenge: IP address aggregation
+  - Solution: IP address aggregation
+- [**4. Special Use Addresses**](#4-special-use-addresses) (3 videos)
+  - IPv4 to IPv6 translators
+  - Multicast addressing
+  - Anycast addressing
+- [**5. Some IP Services**](#5-some-ip-services) (8 videos)
+  - Introducing DHCP
+  - Configuring DHCP
+  - Introducing DNS
+  - Configuring DNS
+  - RFC 1918 addressing
+  - Introducing NAT
+  - Challenge: IP services
+  - Solution: IP services
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980)
@@ -137,7 +169,7 @@ created: 2026-04-29
 
 ### 1. IP Addressing Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The IP address and its purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980)
@@ -648,7 +680,7 @@ created: 2026-04-29
 
 ### 2. IP Address Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classful addressing
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/classful-addressing?u=76281980)
@@ -1076,7 +1108,7 @@ created: 2026-04-29
 
 ### 3. CIDR and Aggregation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IP address prefixes
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980)
@@ -1270,7 +1302,7 @@ created: 2026-04-29
 
 ### 4. Special Use Addresses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IPv4 to IPv6 translators
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ipv4-to-ipv6-translators?u=76281980)
@@ -1399,7 +1431,7 @@ created: 2026-04-29
 
 ### 5. Some IP Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980)
@@ -1924,7 +1956,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980)

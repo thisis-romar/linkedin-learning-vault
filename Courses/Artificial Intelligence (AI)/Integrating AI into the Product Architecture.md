@@ -53,18 +53,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Welcome to the Course]]** (1 videos)
-- **[[#1. Foundations of LLM Integration]]** (4 videos)
-- **[[#2. Integrating LLMs into Your Product]]** (6 videos)
-- **[[#3. Deployment Strategies]]** (6 videos)
-- **[[#4. Optimizing Performance and Reliability]]** (4 videos)
-- **[[#5. Production Readiness: Testing, Validation, and Monitoring]]** (5 videos)
-- **[[#6. User Experience, Ethics, and Governance]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Welcome to the Course**](#welcome-to-the-course) (1 videos)
+  - Course introduction and prerequisites
+- [**1. Foundations of LLM Integration**](#1-foundations-of-llm-integration) (4 videos)
+  - What LLMs can (and can't) do in production
+  - Deep dive into LLMs: Recap of the mechanics
+  - Prompt engineering techniques to improve LLM output
+  - Cross-functional team for LLM integration
+- [**2. Integrating LLMs into Your Product**](#2-integrating-llms-into-your-product) (6 videos)
+  - Choosing your LLM provider: Navigating the LLM landscape
+  - API-based access: Simplifying LLM integration
+  - Hands-on: your first LLM integration
+  - Sync vs. Async: Integrating LLMs effectively
+  - Real-time data pipelines for LLM integration
+  - Secure LLM integration: API keys, rate limiting, and data access
+- [**3. Deployment Strategies**](#3-deployment-strategies) (6 videos)
+  - Understanding deployment options
+  - Cloud-based LLMs: Advantages and disadvantages
+  - On-premise LLMs: Control and customization
+  - Edge deployment: Low latency and privacy
+  - Hybrid deployment: Balancing flexibility and complexity
+  - Choosing the right deployment strategy
+- [**4. Optimizing Performance and Reliability**](#4-optimizing-performance-and-reliability) (4 videos)
+  - Fine-tuning overview: Tailoring LLMs to specific needs
+  - Caching LLM responses: Optimizing performance and cost
+  - Handling LLM failures: Building a reliable retry system
+  - Scaling: Architectural patterns for LLM integration
+- [**5. Production Readiness: Testing, Validation, and Monitoring**](#5-production-readiness-testing-validation-and-monitoring) (5 videos)
+  - Validating and sanitizing LLM inputs and outputs
+  - Testing your LLM integration: Strategies and best practices
+  - Key metrics for LLM integration: What to track
+  - Setting up alerts: Monitoring your LLM integration
+  - Optimizing LLM costs in production
+- [**6. User Experience, Ethics, and Governance**](#6-user-experience-ethics-and-governance) (4 videos)
+  - Graceful degradation and transparent communication
+  - Explainable AI: Providing insights into LLM decisions
+  - Ethical considerations: Bias, fairness, and responsible use
+  - LLM usage tracking and compliance
+- [**Conclusion**](#conclusion) (2 videos)
+  - LLMs for business growth: Revisiting the potential
+  - Course summary and future learning
 
 ### Welcome to the Course
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/course-introduction-and-prerequisites?u=76281980)
@@ -89,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Foundations of LLM Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What LLMs can (and can't) do in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/what-llms-can-and-can-t-do-in-production?u=76281980)
@@ -452,7 +484,7 @@ created: 2026-04-29
 
 ### 2. Integrating LLMs into Your Product
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing your LLM provider: Navigating the LLM landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/choosing-your-llm-provider-navigating-the-llm-landscape?u=76281980)
@@ -944,7 +976,7 @@ created: 2026-04-29
 
 ### 3. Deployment Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding deployment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/understanding-deployment-options?u=76281980)
@@ -1472,7 +1504,7 @@ created: 2026-04-29
 
 ### 4. Optimizing Performance and Reliability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fine-tuning overview: Tailoring LLMs to specific needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/fine-tuning-overview-tailoring-llms-to-specific-needs?u=76281980)
@@ -1858,7 +1890,7 @@ created: 2026-04-29
 
 ### 5. Production Readiness: Testing, Validation, and Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Validating and sanitizing LLM inputs and outputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/validating-and-sanitizing-llm-inputs-and-outputs?u=76281980)
@@ -2311,7 +2343,7 @@ created: 2026-04-29
 
 ### 6. User Experience, Ethics, and Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Graceful degradation and transparent communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/graceful-degradation-and-transparent-communication?u=76281980)
@@ -2725,7 +2757,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### LLMs for business growth: Revisiting the potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-ai-into-the-product-architecture/llms-for-business-growth-revisiting-the-potential?u=76281980)

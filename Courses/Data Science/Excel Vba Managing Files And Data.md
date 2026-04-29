@@ -46,20 +46,76 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Focusing Data Using Filters]]** (6 videos)
-- **[[#2. Managing Files Using VBA]]** (7 videos)
-- **[[#3. Managing Worksheets Using VBA]]** (8 videos)
-- **[[#4. Taking Advantage of Built-In Functions]]** (5 videos)
-- **[[#5. Managing Charts in VBA]]** (8 videos)
-- **[[#6. Creating UserForms]]** (10 videos)
-- **[[#7. Managing PivotTables Using VBA]]** (4 videos)
-- **[[#8. Incorporating New Excel Functions]]** (5 videos)
-- **[[#9. Continuing Your Excel VBA Learning Journey]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Automate repetitive tasks using Excel VBA
+  - Manage files and data using Excel VBA
+- [**1. Focusing Data Using Filters**](#1-focusing-data-using-filters) (6 videos)
+  - Select the active region
+  - Create a filter
+  - Filter based on more than one field
+  - Combine criteria using OR
+  - Find unique items using xlFilter
+  - Restore a range or worksheet to an unfiltered state
+- [**2. Managing Files Using VBA**](#2-managing-files-using-vba) (7 videos)
+  - Determine if a workbook exists
+  - Determine if a folder (directory) exists
+  - Detect whether a file is open
+  - Open a workbook
+  - Close a workbook
+  - Save a workbook under a new name
+  - Save a workbook as a CSV file
+- [**3. Managing Worksheets Using VBA**](#3-managing-worksheets-using-vba) (8 videos)
+  - Check if a worksheet exists
+  - Create and rename worksheets
+  - Copy a worksheet within the active workbook
+  - Copy a worksheet to a new workbook
+  - Copy a worksheet to an existing workbook
+  - Move a worksheet within the active workbook
+  - Move a worksheet to a new workbook
+  - Move a worksheet to an existing workbook
+- [**4. Taking Advantage of Built-In Functions**](#4-taking-advantage-of-built-in-functions) (5 videos)
+  - Use the built-in Open dialog box
+  - Suppress and restore alerts
+  - Calculate data using Excel worksheet functions
+  - Use the current date and time
+  - Remove spaces from before or after a string
+- [**5. Managing Charts in VBA**](#5-managing-charts-in-vba) (8 videos)
+  - Create a chart
+  - Move a chart to a chart sheet
+  - Add or remove data series from a chart
+  - Export a chart as an image
+  - Create a line sparkline
+  - Create a column sparkline
+  - Create a win/loss sparkline
+  - Delete a sparkline
+- [**6. Creating UserForms**](#6-creating-userforms) (10 videos)
+  - Create a UserForm
+  - Add a TextBox to a UserForm
+  - Add a ListBox to a UserForm
+  - Add a ComboBox to a UserForm
+  - Add an option button to a UserForm
+  - Add graphics to a UserForm
+  - Add a SpinButton to a UserForm
+  - Create a multipage or multitab UserForm
+  - Write UserForm data to a worksheet
+  - Run a UserForm
+- [**7. Managing PivotTables Using VBA**](#7-managing-pivottables-using-vba) (4 videos)
+  - Record a PivotTable configuration
+  - Assign a PivotTable macro to the Quick Access Toolbar
+  - Advance one step forward in a PivotTable playlist
+  - Move to any PivotTable playlist position
+- [**8. Incorporating New Excel Functions**](#8-incorporating-new-excel-functions) (5 videos)
+  - List unique values from a data set using UNIQUE
+  - Limit data displayed in a worksheet using FILTER
+  - Change the order of data using SORT and SORTBY
+  - Copy data from a list using TAKE
+  - Delete data from a list using DROP
+- [**9. Continuing Your Excel VBA Learning Journey**](#9-continuing-your-excel-vba-learning-journey) (1 videos)
+  - Further resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automate repetitive tasks using Excel VBA
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980)
@@ -164,7 +220,7 @@ created: 2026-04-29
 
 ### 1. Focusing Data Using Filters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Select the active region
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/select-the-active-region?u=76281980)
@@ -672,7 +728,7 @@ created: 2026-04-29
 
 ### 2. Managing Files Using VBA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine if a workbook exists
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980)
@@ -1356,7 +1412,7 @@ created: 2026-04-29
 
 ### 3. Managing Worksheets Using VBA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Check if a worksheet exists
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/check-if-a-worksheet-exists?u=76281980)
@@ -2049,7 +2105,7 @@ created: 2026-04-29
 
 ### 4. Taking Advantage of Built-In Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the built-in Open dialog box
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-built-in-open-dialog-box?u=76281980)
@@ -2467,7 +2523,7 @@ created: 2026-04-29
 
 ### 5. Managing Charts in VBA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-chart?u=76281980)
@@ -3099,7 +3155,7 @@ created: 2026-04-29
 
 ### 6. Creating UserForms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a UserForm
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980)
@@ -4076,7 +4132,7 @@ created: 2026-04-29
 
 ### 7. Managing PivotTables Using VBA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Record a PivotTable configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980)
@@ -4545,7 +4601,7 @@ created: 2026-04-29
 
 ### 8. Incorporating New Excel Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### List unique values from a data set using UNIQUE
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980)
@@ -4998,7 +5054,7 @@ created: 2026-04-29
 
 ### 9. Continuing Your Excel VBA Learning Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980)

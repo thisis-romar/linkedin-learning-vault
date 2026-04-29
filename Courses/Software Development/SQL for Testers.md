@@ -46,16 +46,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (4 videos)
-- **[[#2. Querying SQL Data]]** (4 videos)
-- **[[#3. Using SQL for Data Generation]]** (5 videos)
-- **[[#4. Testing SQL Queries]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Dive deep into quality
+  - What you should know
+- [**1. Getting Started**](#1-getting-started) (4 videos)
+  - What is SQL and why use it as a tester?
+  - Getting setup with the tools you need
+  - Getting started with SQL queries
+  - Understanding more complex SQL queries
+- [**2. Querying SQL Data**](#2-querying-sql-data) (4 videos)
+  - Setting up a site for testing
+  - Validate user workflows
+  - Validate data integrity
+  - Working through an example
+- [**3. Using SQL for Data Generation**](#3-using-sql-for-data-generation) (5 videos)
+  - Create new entries in a table
+  - Update existing entries in a table
+  - Deleting data from a table
+  - Challenge: Data generation
+  - Solution: Data generation
+- [**4. Testing SQL Queries**](#4-testing-sql-queries) (7 videos)
+  - Transactions
+  - Field constrains
+  - Schema validation
+  - Security testing
+  - Performance testing
+  - Challenge: Database tests
+  - Solution: Database tests
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dive deep into quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980)
@@ -113,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SQL and why use it as a tester?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980)
@@ -497,7 +520,7 @@ created: 2026-04-29
 
 ### 2. Querying SQL Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up a site for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980)
@@ -880,7 +903,7 @@ created: 2026-04-29
 
 ### 3. Using SQL for Data Generation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create new entries in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980)
@@ -1341,7 +1364,7 @@ created: 2026-04-29
 
 ### 4. Testing SQL Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980)
@@ -2238,7 +2261,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/next-steps?u=76281980)

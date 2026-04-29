@@ -43,17 +43,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Overview]]** (5 videos)
-- **[[#2. Service Level Management]]** (4 videos)
-- **[[#3. Incident Management]]** (4 videos)
-- **[[#4. Problem Management]]** (4 videos)
-- **[[#5. Change Management]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Transform your service management
+  - What you should know
+- [**1. Overview**](#1-overview) (5 videos)
+  - Service management defined
+  - What is a service?
+  - Service management frameworks
+  - Key service desk practices
+  - Value creation
+- [**2. Service Level Management**](#2-service-level-management) (4 videos)
+  - Service level management
+  - Service level management processes
+  - Service level management components
+  - Service catalog strategies
+- [**3. Incident Management**](#3-incident-management) (4 videos)
+  - Incident management
+  - Process components
+  - Establish a process
+  - Knowledge management
+- [**4. Problem Management**](#4-problem-management) (4 videos)
+  - Manage stakeholder expectations
+  - Manage process flow
+  - Problem management methodologies
+  - Problem management relationships
+- [**5. Change Management**](#5-change-management) (5 videos)
+  - Change management practices
+  - Change management roles
+  - Change models
+  - Change relationships
+  - Change inputs and outputs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your service management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/transform-your-service-management?u=76281980)
@@ -154,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Service management defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-management-defined?u=76281980)
@@ -634,7 +659,7 @@ created: 2026-04-29
 
 ### 2. Service Level Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Service level management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/service-level-management?u=76281980)
@@ -925,7 +950,7 @@ created: 2026-04-29
 
 ### 3. Incident Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Incident management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/incident-management?u=76281980)
@@ -1188,7 +1213,7 @@ created: 2026-04-29
 
 ### 4. Problem Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage stakeholder expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/manage-stakeholder-expectations?u=76281980)
@@ -1463,7 +1488,7 @@ created: 2026-04-29
 
 ### 5. Change Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change management practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/change-management-practices?u=76281980)
@@ -1796,7 +1821,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-service-management/next-steps?u=76281980)

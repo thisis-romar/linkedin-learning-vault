@@ -49,15 +49,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Exploring Key Marketing Metrics]]** (3 videos)
-- **[[#2. Understanding Key Performance Indicators]]** (5 videos)
-- **[[#3. Building Your Marketing Metrics Dashboard]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Setting the stage for marketing analytics foundations
+  - Discovering the power of marketing analytics
+- [**1. Exploring Key Marketing Metrics**](#1-exploring-key-marketing-metrics) (3 videos)
+  - Identifying the most important metrics to achieve your goals
+  - Navigating key marketing metrics for different organizations
+  - Selecting the most relevant metrics for your organization
+- [**2. Understanding Key Performance Indicators**](#2-understanding-key-performance-indicators) (5 videos)
+  - Understanding the importance of setting KPIs
+  - Defining actionable KPIs for your organization
+  - Analyzing effective KPIs examples
+  - Crafting a relevant KPI
+  - Aligning KPIs with organizational goals
+- [**3. Building Your Marketing Metrics Dashboard**](#3-building-your-marketing-metrics-dashboard) (4 videos)
+  - Choosing the right tools for measuring marketing metrics
+  - Creating impactful dashboards for different stakeholders
+  - Defining your essential metrics
+  - Communicating data across the organization
+- [**Conclusion**](#conclusion) (2 videos)
+  - Implementing your marketing analytics strategy
+  - Next steps to succeed in marketing analytics
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting the stage for marketing analytics foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/setting-the-stage-for-makering-analytics-foundations?u=76281980)
@@ -155,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Exploring Key Marketing Metrics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the most important metrics to achieve your goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/identifying-the-most-important-metrics-to-achieve-your-goals?u=76281980)
@@ -375,7 +391,7 @@ created: 2026-04-29
 
 ### 2. Understanding Key Performance Indicators
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the importance of setting KPIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/understanding-the-importance-of-setting-kpis?u=76281980)
@@ -747,7 +763,7 @@ created: 2026-04-29
 
 ### 3. Building Your Marketing Metrics Dashboard
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right tools for measuring marketing metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/choosing-the-right-tools-for-measuring-marketing-metrics?u=76281980)
@@ -1078,7 +1094,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing your marketing analytics strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-foundations/implementing-your-marketing-analytics-strategy?u=76281980)

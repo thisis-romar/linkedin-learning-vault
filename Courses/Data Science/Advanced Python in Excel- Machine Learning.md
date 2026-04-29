@@ -53,17 +53,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Recap of Python, ML, and Data Cleaning]]** (5 videos)
-- **[[#2. Applied Machine Learning for Finance and Business]]** (5 videos)
-- **[[#3. Practical Applications of Machine Learning in Business and Finance]]** (5 videos)
-- **[[#4. Advanced Analytical Techniques with Python Libraries]]** (3 videos)
-- **[[#5. Machine Learning Algorithms for Business and Finance]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction
+  - What you should know
+- [**1. Recap of Python, ML, and Data Cleaning**](#1-recap-of-python-ml-and-data-cleaning) (5 videos)
+  - Recap of Python
+  - Recap of machine learning
+  - Data cleaning and preparation
+  - Challenge: How would you solve this problem with ML?
+  - Solution: How would you solve this problem with ML?
+- [**2. Applied Machine Learning for Finance and Business**](#2-applied-machine-learning-for-finance-and-business) (5 videos)
+  - Introduction to machine learning concepts
+  - Building regression models in Excel
+  - Classification models for business data
+  - Challenge: Build a regression model
+  - Solution: Build a regression model
+- [**3. Practical Applications of Machine Learning in Business and Finance**](#3-practical-applications-of-machine-learning-in-business-and-finance) (5 videos)
+  - Predictive analytics for financial forecasting
+  - Automated decision-making processes
+  - Real-time data processing and analysis
+  - Challenge: Create a financial forecast
+  - Solution: Create a financial forecast
+- [**4. Advanced Analytical Techniques with Python Libraries**](#4-advanced-analytical-techniques-with-python-libraries) (3 videos)
+  - Data manipulation with pandas
+  - Numerical analysis with NumPy
+  - Machine learning with scikit-learn
+- [**5. Machine Learning Algorithms for Business and Finance**](#5-machine-learning-algorithms-for-business-and-finance) (3 videos)
+  - Linear regression for business insights
+  - Random forests for predictive modelling
+  - Clustering techniques for market segmentation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980)
@@ -119,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Recap of Python, ML, and Data Cleaning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap of Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980)
@@ -301,7 +325,7 @@ created: 2026-04-29
 
 ### 2. Applied Machine Learning for Finance and Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to machine learning concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980)
@@ -495,7 +519,7 @@ created: 2026-04-29
 
 ### 3. Practical Applications of Machine Learning in Business and Finance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive analytics for financial forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980)
@@ -696,7 +720,7 @@ created: 2026-04-29
 
 ### 4. Advanced Analytical Techniques with Python Libraries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data manipulation with pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980)
@@ -791,7 +815,7 @@ created: 2026-04-29
 
 ### 5. Machine Learning Algorithms for Business and Finance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear regression for business insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980)
@@ -885,7 +909,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980)

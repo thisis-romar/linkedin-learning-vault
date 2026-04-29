@@ -47,17 +47,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started with API Testing]]** (5 videos)
-- **[[#2. Exploratory API Testing]]** (4 videos)
-- **[[#3. API Authorization]]** (5 videos)
-- **[[#4. Hands-On API Testing]]** (9 videos)
-- **[[#5. Additional API Testing Consideration]]** (4 videos)
-- **[[#Conclusion]]** (0 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Standing out as an API tester
+- [**1. Getting Started with API Testing**](#1-getting-started-with-api-testing) (5 videos)
+  - Calling an API
+  - Your first tool: Postman
+  - Introduction to web services
+  - Types of APIs
+  - Risks of using services and APIs
+- [**2. Exploratory API Testing**](#2-exploratory-api-testing) (4 videos)
+  - Install and set up API challenges
+  - Exploring an API
+  - Challenge: API discovery
+  - Solution: API discovery
+- [**3. API Authorization**](#3-api-authorization) (5 videos)
+  - Overview of authorization and authentication
+  - Basic auth in API calls
+  - Using authorization tokens
+  - Finding Bearer Tokens
+  - Setting up OAuth
+- [**4. Hands-On API Testing**](#4-hands-on-api-testing) (9 videos)
+  - Testing GET calls
+  - Testing PUT calls
+  - Testing DELETE calls
+  - Challenge: Break the API
+  - Solution: Break the API
+  - Understanding POST calls
+  - Testing POST calls
+  - Challenge: Access protected endpoints
+  - Solution: Access protected endpoints
+- [**5. Additional API Testing Consideration**](#5-additional-api-testing-consideration) (4 videos)
+  - Using mocks, stubs, and fakes in API testing
+  - API automation
+  - Performance testing
+  - Security testing
+- [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Standing out as an API tester
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980)
@@ -85,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with API Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calling an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980)
@@ -497,7 +525,7 @@ created: 2026-04-29
 
 ### 2. Exploratory API Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and set up API challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980)
@@ -923,7 +951,7 @@ created: 2026-04-29
 
 ### 3. API Authorization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of authorization and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/overview-of-authorization-and-authentication?u=76281980)
@@ -1355,7 +1383,7 @@ created: 2026-04-29
 
 ### 4. Hands-On API Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing GET calls
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-get-calls?u=76281980)
@@ -2115,7 +2143,7 @@ created: 2026-04-29
 
 ### 5. Additional API Testing Consideration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using mocks, stubs, and fakes in API testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980)
@@ -2452,7 +2480,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

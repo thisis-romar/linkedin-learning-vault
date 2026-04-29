@@ -43,16 +43,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Classical Computing]]** (4 videos)
-- **[[#2. What Is Quantum Computing?]]** (5 videos)
-- **[[#3. Applications of Quantum Computing]]** (3 videos)
-- **[[#4. Opportunities and Risks of Quantum Computing]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - A new era of computing is emerging
+- [**1. Understanding Classical Computing**](#1-understanding-classical-computing) (4 videos)
+  - The current computing age
+  - A brief history of the third industrial revolution
+  - A simple explanation of classical computing
+  - Drivers of the next generation of computing
+- [**2. What Is Quantum Computing?**](#2-what-is-quantum-computing) (5 videos)
+  - What exactly is this quantum stuff?
+  - A brief timeline of quantum research to date
+  - What is quantum computing?
+  - Superposition: The core idea in quantum computing
+  - Entanglement and other fun concepts
+- [**3. Applications of Quantum Computing**](#3-applications-of-quantum-computing) (3 videos)
+  - The current state of quantum computing research
+  - Examples of quantum computing implementations
+  - Quantum computing applications now and in the future
+- [**4. Opportunities and Risks of Quantum Computing**](#4-opportunities-and-risks-of-quantum-computing) (2 videos)
+  - Opportunities for enterprises and individuals
+  - Quantum computing in the fourth industrial revolution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Final thoughts and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A new era of computing is emerging
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-new-era-of-computing-is-emerging?u=76281980)
@@ -111,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Understanding Classical Computing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The current computing age
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980)
@@ -503,7 +519,7 @@ created: 2026-04-29
 
 ### 2. What Is Quantum Computing?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What exactly is this quantum stuff?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980)
@@ -1049,7 +1065,7 @@ created: 2026-04-29
 
 ### 3. Applications of Quantum Computing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The current state of quantum computing research
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980)
@@ -1334,7 +1350,7 @@ created: 2026-04-29
 
 ### 4. Opportunities and Risks of Quantum Computing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Opportunities for enterprises and individuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980)
@@ -1574,7 +1590,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980)

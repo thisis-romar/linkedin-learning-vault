@@ -45,18 +45,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Google Cloud Compliance Requirements]]** (2 videos)
-- **[[#2. Gemini for Google Cloud overview]]** (2 videos)
-- **[[#3. Google Cloud Resource Hierarchy]]** (2 videos)
-- **[[#4. Controlling and Optimizing Google Cloud Costs]]** (3 videos)
-- **[[#5. Google Cloud Geographical Segmentation Strategy]]** (2 videos)
-- **[[#6. Google Cloud Support Options]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understanding Google Cloud
+  - What you should know
+- [**1. Google Cloud Compliance Requirements**](#1-google-cloud-compliance-requirements) (2 videos)
+  - Understanding Google Cloud compliance
+  - Accessing Google Cloud compliance documents
+- [**2. Gemini for Google Cloud overview**](#2-gemini-for-google-cloud-overview) (2 videos)
+  - How Gemini works and uses your data
+  - Gemini security and safety
+- [**3. Google Cloud Resource Hierarchy**](#3-google-cloud-resource-hierarchy) (2 videos)
+  - Understanding Google Cloud resources and hierarchy
+  - Managing identity and access
+- [**4. Controlling and Optimizing Google Cloud Costs**](#4-controlling-and-optimizing-google-cloud-costs) (3 videos)
+  - Google Cloud billing fundamentals
+  - Understanding billing roles and usage
+  - Billing optimization strategies
+- [**5. Google Cloud Geographical Segmentation Strategy**](#5-google-cloud-geographical-segmentation-strategy) (2 videos)
+  - Breaking down Google's network infrastucture
+  - Zonal, regional, multiregional, and global resources
+- [**6. Google Cloud Support Options**](#6-google-cloud-support-options) (2 videos)
+  - Using Google Cloud support
+  - Understanding Service Level Agreement (SLA) applications
+- [**Conclusion**](#conclusion) (2 videos)
+  - Google Cloud certifications
+  - Learning more about Google Cloud
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Google Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud?u=76281980)
@@ -117,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Google Cloud Compliance Requirements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Google Cloud compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-compliance?u=76281980)
@@ -222,7 +239,7 @@ created: 2026-04-29
 
 ### 2. Gemini for Google Cloud overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How Gemini works and uses your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/how-gemini-works-and-uses-your-data?u=76281980)
@@ -376,7 +393,7 @@ created: 2026-04-29
 
 ### 3. Google Cloud Resource Hierarchy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Google Cloud resources and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/understanding-google-cloud-resources-and-hierarchy?u=76281980)
@@ -569,7 +586,7 @@ created: 2026-04-29
 
 ### 4. Controlling and Optimizing Google Cloud Costs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Cloud billing fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-billing-fundamentals?u=76281980)
@@ -839,7 +856,7 @@ created: 2026-04-29
 
 ### 5. Google Cloud Geographical Segmentation Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking down Google's network infrastucture
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/breaking-down-google-s-network-infrastucture?u=76281980)
@@ -1079,7 +1096,7 @@ created: 2026-04-29
 
 ### 6. Google Cloud Support Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Google Cloud support
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/using-google-cloud-support?u=76281980)
@@ -1240,7 +1257,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Cloud certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-foundations/google-cloud-certifications?u=76281980)

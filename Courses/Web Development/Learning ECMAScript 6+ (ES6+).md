@@ -53,18 +53,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Is ECMAScript?]]** (3 videos)
-- **[[#2. ECMAScript Variables and Data Structures]]** (8 videos)
-- **[[#3. Arrays and Array Methods]]** (4 videos)
-- **[[#4. ECMAScript Objects]]** (8 videos)
-- **[[#5. ECMAScript Functions]]** (6 videos)
-- **[[#6. Asynchronous JavaScript]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Using modern JavaScript today
+  - What you should know before watching this course
+  - How to use CoderPad
+- [**1. What Is ECMAScript?**](#1-what-is-ecmascript) (3 videos)
+  - What is ECMAScript?
+  - Staying up to date with new releases
+  - Understanding browser support
+- [**2. ECMAScript Variables and Data Structures**](#2-ecmascript-variables-and-data-structures) (8 videos)
+  - Using the let keyword
+  - Working with the const keyword
+  - Writing template strings
+  - Searching strings
+  - Using symbols
+  - Writing maps
+  - Working with sets
+  - Solution: Building a user processor function
+- [**3. Arrays and Array Methods**](#3-arrays-and-array-methods) (4 videos)
+  - Using the array spread operator
+  - Destructuring arrays
+  - Searching arrays with the .includes function
+  - Solution: Implementing a Smart Array processor
+- [**4. ECMAScript Objects**](#4-ecmascript-objects) (8 videos)
+  - Enhancing object literals
+  - Creating objects with the spread operator
+  - Destructuring objects
+  - Iterating with the for/of loop
+  - Introducing classes
+  - Inheritance with JavaScript classes
+  - Getting and setting class values
+  - Solution: Building a product object
+- [**5. ECMAScript Functions**](#5-ecmascript-functions) (6 videos)
+  - Using the string.repeat function
+  - Setting default function parameters
+  - Writing arrow functions
+  - Understanding this in arrow functions
+  - Working with generators
+  - Solution: Implementing advanced function patterns
+- [**6. Asynchronous JavaScript**](#6-asynchronous-javascript) (6 videos)
+  - Building promises
+  - Loading remote data with promises
+  - Returning promises with fetch
+  - Using async/await syntax
+  - Incorporating fetch with async/await
+  - Solution: Building an async data handler
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using modern JavaScript today
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-modern-javascript-today?u=76281980)
@@ -209,7 +248,7 @@ created: 2026-04-29
 
 ### 1. What Is ECMAScript?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ECMAScript?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/what-is-ecmascript?u=76281980)
@@ -315,7 +354,7 @@ created: 2026-04-29
 
 ### 2. ECMAScript Variables and Data Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the let keyword
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-let-keyword?u=76281980)
@@ -910,7 +949,7 @@ created: 2026-04-29
 
 ### 3. Arrays and Array Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the array spread operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-array-spread-operator?u=76281980)
@@ -1075,7 +1114,7 @@ created: 2026-04-29
 
 ### 4. ECMAScript Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhancing object literals
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/enhancing-object-literals?u=76281980)
@@ -1565,7 +1604,7 @@ created: 2026-04-29
 
 ### 5. ECMAScript Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the string.repeat function
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/using-the-string-repeat-function?u=76281980)
@@ -1933,7 +1972,7 @@ created: 2026-04-29
 
 ### 6. Asynchronous JavaScript
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building promises
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/building-promises?u=76281980)
@@ -2441,7 +2480,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ecmascript-6-plus-es6-plus/next-steps?u=76281980)

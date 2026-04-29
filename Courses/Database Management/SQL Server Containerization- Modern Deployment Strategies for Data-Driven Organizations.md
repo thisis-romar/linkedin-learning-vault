@@ -51,15 +51,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. SQL Server on Linux]]** (4 videos)
-- **[[#2. SQL Server on Containers]]** (4 videos)
-- **[[#3. SQL Server on Kubernetes]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - SQL Server on Linux, containers, and Kubernetes
+  - Demo environment and prerequisites
+- [**1. SQL Server on Linux**](#1-sql-server-on-linux) (4 videos)
+  - How to run SQL Server on Linux
+  - Deploying SQL Server on Linux
+  - Accessing a SQL Server on Linux
+  - Integrating SQL Server on Linux with Active Directory
+- [**2. SQL Server on Containers**](#2-sql-server-on-containers) (4 videos)
+  - Container fundamentals and Docker installation
+  - Deploying and accessing SQL Server using Docker
+  - Working with a SQL Server using Docker
+  - Integrating SQL Server on containers with Active Directory
+- [**3. SQL Server on Kubernetes**](#3-sql-server-on-kubernetes) (6 videos)
+  - Kubernetes fundamentals
+  - Installing Kubernetes
+  - Deploying and accessing SQL Server on Kubernetes
+  - Working with and maintaining SQL Server on Kubernetes
+  - Integrating SQL Server on Kubernetes with Active Directory
+  - Azure Arc-enabled data services
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL Server on Linux, containers, and Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980)
@@ -142,7 +159,7 @@ created: 2026-04-29
 
 ### 1. SQL Server on Linux
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to run SQL Server on Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980)
@@ -420,7 +437,7 @@ created: 2026-04-29
 
 ### 2. SQL Server on Containers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Container fundamentals and Docker installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980)
@@ -707,7 +724,7 @@ created: 2026-04-29
 
 ### 3. SQL Server on Kubernetes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kubernetes fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980)
@@ -1305,7 +1322,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980)

@@ -51,20 +51,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Java Collections Framework]]** (5 videos)
-- **[[#2. The Foundations of Java Collections]]** (10 videos)
-- **[[#3. Iterating Collections]]** (7 videos)
-- **[[#4. Set]]** (3 videos)
-- **[[#5. List]]** (4 videos)
-- **[[#6. Queue and Deque]]** (4 videos)
-- **[[#7. Map]]** (7 videos)
-- **[[#8. Collections Utilities]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Java collections framework
+  - What you should know
+- [**1. Java Collections Framework**](#1-java-collections-framework) (5 videos)
+  - Solving everyday problems with data
+  - Data structures
+  - Collections framework architecture
+  - Working with a collection
+  - Beyond the array
+- [**2. The Foundations of Java Collections**](#2-the-foundations-of-java-collections) (10 videos)
+  - Interfaces
+  - Collection types
+  - The Collection interface
+  - Collection methods
+  - Creating a collection
+  - Generic typing
+  - Object comparison
+  - The equals method
+  - Challenge: Adding and removing collection elements
+  - Challenge: Advanced collection problems
+- [**3. Iterating Collections**](#3-iterating-collections) (7 videos)
+  - Iterating collection elements
+  - Accessing collection elements with iterators
+  - Modifying collections while iterating
+  - Accessing collection elements with streams
+  - Lambda expressions
+  - Stream operations
+  - Challenge: Iterating collections
+- [**4. Set**](#4-set) (3 videos)
+  - Set
+  - HashSet
+  - TreeSet
+- [**5. List**](#5-list) (4 videos)
+  - List interface
+  - List implementations
+  - ArrayList
+  - Challenge: Working with Lists
+- [**6. Queue and Deque**](#6-queue-and-deque) (4 videos)
+  - Queue interface
+  - Queue implementations
+  - Deque interface
+  - Using an ArrayDeque as a stack
+- [**7. Map**](#7-map) (7 videos)
+  - Map interface
+  - Collection views
+  - Map implementations
+  - How a HashMap works
+  - Map methods
+  - Iterating Maps
+  - Challenge: Working with Maps
+- [**8. Collections Utilities**](#8-collections-utilities) (4 videos)
+  - Ordering elements
+  - Sorting collections
+  - Comparators
+  - Finding elements in a collection
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course wrap-up
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Java collections framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/java-collections-framework?u=76281980)
@@ -139,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Java Collections Framework
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving everyday problems with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/solving-everyday-problems-with-data?u=76281980)
@@ -552,7 +599,7 @@ created: 2026-04-29
 
 ### 2. The Foundations of Java Collections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/interfaces?u=76281980)
@@ -1585,7 +1632,7 @@ created: 2026-04-29
 
 ### 3. Iterating Collections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Iterating collection elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/iterating-collection-elements?u=76281980)
@@ -2306,7 +2353,7 @@ created: 2026-04-29
 
 ### 4. Set
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/set?u=76281980)
@@ -2536,7 +2583,7 @@ created: 2026-04-29
 
 ### 5. List
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### List interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/list-interface?u=76281980)
@@ -2996,7 +3043,7 @@ created: 2026-04-29
 
 ### 6. Queue and Deque
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Queue interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/queue-interface?u=76281980)
@@ -3392,7 +3439,7 @@ created: 2026-04-29
 
 ### 7. Map
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Map interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/map-interface?u=76281980)
@@ -3927,7 +3974,7 @@ created: 2026-04-29
 
 ### 8. Collections Utilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ordering elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/ordering-elements?u=76281980)
@@ -4345,7 +4392,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-collections/course-wrap-up?u=76281980)

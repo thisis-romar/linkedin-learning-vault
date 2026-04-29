@@ -57,18 +57,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introducing Tableau]]** (6 videos)
-- **[[#2. Connecting to Data]]** (9 videos)
-- **[[#3. Exploring Data and Building Visualizations]]** (12 videos)
-- **[[#4. Sharing Insights]]** (6 videos)
-- **[[#5. Tableau Concepts]]** (5 videos)
-- **[[#6. Expanding Your Tableau Skills]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Using Tableau to create business insights
+- [**1. Introducing Tableau**](#1-introducing-tableau) (6 videos)
+  - What is Tableau?
+  - How to use Tableau effectively for business
+  - Excel vs. Tableau
+  - What is data visualization?
+  - Four main functions of Tableau
+  - Basic Tableau terminology
+- [**2. Connecting to Data**](#2-connecting-to-data) (9 videos)
+  - Data connection screen
+  - Types of data to connect to
+  - Live vs. extracted data sources
+  - Defining joins, unions, and data blending
+  - Creating joins, unions, and data blending
+  - Changing field types
+  - Creating an alias
+  - Default formatting
+  - Case study part 1
+- [**3. Exploring Data and Building Visualizations**](#3-exploring-data-and-building-visualizations) (12 videos)
+  - Interface overview
+  - Building visualizations
+  - Creating calculated fields
+  - Groups
+  - Sets
+  - Table calculations
+  - Sorting
+  - Filters
+  - Histogram and bins
+  - Analytics pane overview
+  - Scatter plot and clustering
+  - Case study, part 2
+- [**4. Sharing Insights**](#4-sharing-insights) (6 videos)
+  - Dashboard interface overview
+  - Basic dashboarding
+  - Interactive elements
+  - Tiled vs. floating objects
+  - Creating stories
+  - Case study, part 3
+- [**5. Tableau Concepts**](#5-tableau-concepts) (5 videos)
+  - Dimension vs. measure
+  - Discrete vs. continuous
+  - Aggregation
+  - Timeliness
+  - Visual analytics best practices
+- [**6. Expanding Your Tableau Skills**](#6-expanding-your-tableau-skills) (5 videos)
+  - Public Tableau forums
+  - Sharing your Tableau portfolio
+  - Reddit
+  - Forums
+  - YouTube
+- [**Conclusion**](#conclusion) (1 videos)
+  - Wrap up your Tableau journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Tableau to create business insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/using-tableau-to-create-business-insights?u=76281980)
@@ -115,7 +160,7 @@ created: 2026-04-29
 
 ### 1. Introducing Tableau
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Tableau?
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/what-is-tableau?u=76281980)
@@ -525,7 +570,7 @@ created: 2026-04-29
 
 ### 2. Connecting to Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data connection screen
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/data-connection-screen?u=76281980)
@@ -1100,7 +1145,7 @@ created: 2026-04-29
 
 ### 3. Exploring Data and Building Visualizations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interface overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/interface-overview?u=76281980)
@@ -1882,7 +1927,7 @@ created: 2026-04-29
 
 ### 4. Sharing Insights
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dashboard interface overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dashboard-interface-overview?u=76281980)
@@ -2315,7 +2360,7 @@ created: 2026-04-29
 
 ### 5. Tableau Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimension vs. measure
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/dimension-vs-measure?u=76281980)
@@ -2660,7 +2705,7 @@ created: 2026-04-29
 
 ### 6. Expanding Your Tableau Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Public Tableau forums
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/tableau-public-forums?u=76281980)
@@ -2818,7 +2863,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap up your Tableau journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-tableau-to-discover-powerful-business-insights-26501111/wrap-up-your-tableau-journey?u=76281980)

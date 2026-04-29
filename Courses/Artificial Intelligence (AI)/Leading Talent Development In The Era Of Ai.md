@@ -46,15 +46,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding the Impact of AI on Talent Development]]** (2 videos)
-- **[[#2. The Five Talent Strategy Foundations for Thriving in an AI-Driven Workplace]]** (5 videos)
-- **[[#3. Equipping Leaders and Managers to Drive AI-Enabled Growth]]** (2 videos)
-- **[[#4. Next Steps: Embedding a Culture of Learning and Adaptability]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction
+- [**1. Understanding the Impact of AI on Talent Development**](#1-understanding-the-impact-of-ai-on-talent-development) (2 videos)
+  - The new era of talent development
+  - Key challenges for organizations in the AI age
+- [**2. The Five Talent Strategy Foundations for Thriving in an AI-Driven Workplace**](#2-the-five-talent-strategy-foundations-for-thriving-in-an-ai-driven-workplace) (5 videos)
+  - Skills agility: Build skills faster
+  - Internal mobility: Make internal mobility easier
+  - Business impact and measurement: Measure success better
+  - Harnessing managers: Empower managers to be talent builders
+  - Career development: Drive employee-led career development
+- [**3. Equipping Leaders and Managers to Drive AI-Enabled Growth**](#3-equipping-leaders-and-managers-to-drive-ai-enabled-growth) (2 videos)
+  - Build an AI-ready leadership team
+  - Reinvent the role of managers
+- [**4. Next Steps: Embedding a Culture of Learning and Adaptability**](#4-next-steps-embedding-a-culture-of-learning-and-adaptability) (2 videos)
+  - Fostering a culture of continuous growth and adaptability
+  - Leading talent development into the future
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/introduction-25123946?u=76281980)
@@ -89,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Impact of AI on Talent Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The new era of talent development
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/the-new-era-of-talent-development-25123944?u=76281980)
@@ -281,7 +293,7 @@ created: 2026-04-29
 
 ### 2. The Five Talent Strategy Foundations for Thriving in an AI-Driven Workplace
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Skills agility: Build skills faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/skills-agility-build-skills-faster?u=76281980)
@@ -776,7 +788,7 @@ created: 2026-04-29
 
 ### 3. Equipping Leaders and Managers to Drive AI-Enabled Growth
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build an AI-ready leadership team
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/build-an-ai-ready-leadership-team?u=76281980)
@@ -954,7 +966,7 @@ created: 2026-04-29
 
 ### 4. Next Steps: Embedding a Culture of Learning and Adaptability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fostering a culture of continuous growth and adaptability
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-talent-development-in-the-era-of-ai/fostering-a-culture-of-continuous-growth-and-adaptability-25131085?u=76281980)

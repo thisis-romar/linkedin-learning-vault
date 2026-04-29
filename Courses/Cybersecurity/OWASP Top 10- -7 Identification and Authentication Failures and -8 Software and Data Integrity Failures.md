@@ -54,14 +54,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Identification and Authentication Failures]]** (6 videos)
-- **[[#2. Software and Data Integrity Failures]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - OWASP Top 10
+  - OWASP Top 10 series
+- [**1. Identification and Authentication Failures**](#1-identification-and-authentication-failures) (6 videos)
+  - What are identification and authentication failures?
+  - Example 1: Pwned Passwords
+  - Example 2: 2021 Verkada data breach
+  - Prevention technique: Check for weak passwords
+  - Prevention technique: Use multi-factor authentication
+  - Prevention technique: Log and limit repeated login attempts
+- [**2. Software and Data Integrity Failures**](#2-software-and-data-integrity-failures) (6 videos)
+  - What are software and data integrity failures?
+  - Example 1: Solar Winds software supply chain attack
+  - Example 2: 2021 Codecov bash uploader compromise
+  - Prevention technique: Use digital signatures
+  - Prevention technique: Ensure repositories are trustworthy
+  - Prevention technique: Review code and configuration changes
+- [**Conclusion**](#conclusion) (1 videos)
+  - OWASP Top 10 keep learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980)
@@ -123,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Identification and Authentication Failures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are identification and authentication failures?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980)
@@ -477,7 +492,7 @@ created: 2026-04-29
 
 ### 2. Software and Data Integrity Failures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are software and data integrity failures?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980)
@@ -773,7 +788,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OWASP Top 10 keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-keep-learning?u=76281980)

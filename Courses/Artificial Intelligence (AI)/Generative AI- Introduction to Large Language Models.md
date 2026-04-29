@@ -66,16 +66,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Large Language Models]]** (5 videos)
-- **[[#2. Neural Networks and Language Models]]** (3 videos)
-- **[[#3. Building Blocks of Large Language Models]]** (4 videos)
-- **[[#4. Societal Implications of Large Language Models]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Generative AI with large language models
+- [**1. Large Language Models**](#1-large-language-models) (5 videos)
+  - What is generative AI?
+  - What is a large language model?
+  - Why are large language models so powerful?
+  - Types of large language models
+  - The evolution of large language models
+- [**2. Neural Networks and Language Models**](#2-neural-networks-and-language-models) (3 videos)
+  - What is a neural network?
+  - How do neural networks learn?
+  - Deep learning and its significance
+- [**3. Building Blocks of Large Language Models**](#3-building-blocks-of-large-language-models) (4 videos)
+  - The transformer architecture
+  - What is an encoder-decoder?
+  - The attention mechanism
+  - How does self-attention work?
+- [**4. Societal Implications of Large Language Models**](#4-societal-implications-of-large-language-models) (3 videos)
+  - Common applications of large language models
+  - Challenges with large language models
+  - The future of large language models
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI with large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980)
@@ -106,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Large Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980)
@@ -578,7 +595,7 @@ created: 2026-04-29
 
 ### 2. Neural Networks and Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a neural network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980)
@@ -873,7 +890,7 @@ created: 2026-04-29
 
 ### 3. Building Blocks of Large Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The transformer architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980)
@@ -1294,7 +1311,7 @@ created: 2026-04-29
 
 ### 4. Societal Implications of Large Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common applications of large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980)
@@ -1583,7 +1600,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980)

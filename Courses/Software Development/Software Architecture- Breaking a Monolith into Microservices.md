@@ -46,15 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understand the Status Quo and the Project Goals]]** (4 videos)
-- **[[#2. Splitting Capabilities into Services]]** (9 videos)
-- **[[#3. Required Operational and Organizational Maturity]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Embark on a journey to refactor your architecture
+- [**1. Understand the Status Quo and the Project Goals**](#1-understand-the-status-quo-and-the-project-goals) (4 videos)
+  - Welcome to your new role!
+  - Start with the "why"
+  - Defining the project scope
+  - Mapping out the current architecture
+- [**2. Splitting Capabilities into Services**](#2-splitting-capabilities-into-services) (9 videos)
+  - Design mistakes and how to avoid them
+  - Refactor or rewrite?
+  - Choosing your first migration target
+  - Splitting out your first service
+  - Zero downtime migrations
+  - Migrating interdependent, complex capabilities
+  - Providing a migration API layer
+  - What about the front end?
+  - Making the final step
+- [**3. Required Operational and Organizational Maturity**](#3-required-operational-and-organizational-maturity) (5 videos)
+  - It's not just about code: Meet Mr. Conway
+  - Provide up-to-date API documentation with Swagger
+  - Streamline cross-team collaboration with Inner Source
+  - Continuous integration and deployment
+  - Why you need monitoring from the very start
+- [**Conclusion**](#conclusion) (1 videos)
+  - Apply your knowledge
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embark on a journey to refactor your architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/embark-on-a-journey-to-refactor-your-architecture?u=76281980)
@@ -94,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Understand the Status Quo and the Project Goals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to your new role!
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/welcome-to-your-new-role?u=76281980)
@@ -477,7 +497,7 @@ created: 2026-04-29
 
 ### 2. Splitting Capabilities into Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design mistakes and how to avoid them
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/design-mistakes-and-how-to-avoid-them?u=76281980)
@@ -1113,7 +1133,7 @@ created: 2026-04-29
 
 ### 3. Required Operational and Organizational Maturity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### It's not just about code: Meet Mr. Conway
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/it-s-not-just-about-code-meet-mr-conway?u=76281980)
@@ -1566,7 +1586,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-architecture-breaking-a-monolith-into-microservices/apply-your-knowledge?u=76281980)

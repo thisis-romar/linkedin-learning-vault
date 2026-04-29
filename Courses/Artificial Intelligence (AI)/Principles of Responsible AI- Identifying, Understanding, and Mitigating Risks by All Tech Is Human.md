@@ -46,11 +46,12 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Principles of Responsible AI]]** (1 videos)
+- [**Principles of Responsible AI**](#principles-of-responsible-ai) (1 videos)
+  - Identifying, understanding, and mitigating risks
 
 ### Principles of Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying, understanding, and mitigating risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/principles-of-responsible-ai-identifying-understanding-and-mitigating-risks-by-all-tech-is-human/identifying-understanding-and-mitigating-risks?u=76281980)

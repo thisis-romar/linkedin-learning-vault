@@ -48,13 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Top 10 AI Prompts]]** (20 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introduction
+  - The top 10 AI prompts
+  - What makes a good prompt?
+- [**1. The Top 10 AI Prompts**](#1-the-top-10-ai-prompts) (20 videos)
+  - Using AI to draft a business plan
+  - Demo of using AI to draft a business plan
+  - Using AI to analyze a financial report
+  - Demo of using AI to analyze a financial report
+  - Using AI to create a SWOT analysis
+  - Demo of using AI to create a SWOT analysis
+  - Using AI to get career coaching
+  - Demo of using AI to get career coaching
+  - Using AI to write a project proposal
+  - Demo of using AI to write a project proposal
+  - Using AI to prepare for your annual review
+  - Demo of using AI to prepare for your annual review
+  - Using AI to summarize a research paper
+  - Demo of using AI to summarize a research paper
+  - Using AI to optimize a process
+  - Demo of using AI to optimize a process
+  - Using AI to create a data analysis report
+  - Demo of using AI to create a data analysis report
+  - Using AI to create training material
+  - Demo of using AI to create training material
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/get-the-top-10-most-in-demand-ai-prompts?u=76281980)
@@ -232,7 +256,7 @@ created: 2026-04-29
 
 ### 1. The Top 10 AI Prompts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to draft a business plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/demo-of-using-ai-to-create-training-material?u=76281980)
@@ -2443,7 +2467,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-ten-ai-prompts/summary-and-next-steps?u=76281980)

@@ -46,14 +46,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Git Basics]]** (6 videos)
-- **[[#2. Branches: Alternate Timelines]]** (6 videos)
-- **[[#3. Changing History]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Git from Scratch
+- [**1. Git Basics**](#1-git-basics) (6 videos)
+  - Why use version control?
+  - git init: Initialize a repository
+  - .gitignore: Ignore files
+  - git add: Add changes
+  - git commit: Commit changes to memory
+  - git status: Get the current status
+- [**2. Branches: Alternate Timelines**](#2-branches-alternate-timelines) (6 videos)
+  - git branch: Create an alternate timeline
+  - HEAD: An introduction
+  - git switch: Go to an alternate timeline
+  - git checkout: Go to an alternate timeline
+  - DETACHED HEAD: An explanation
+  - The difference between switch and checkout
+- [**3. Changing History**](#3-changing-history) (4 videos)
+  - git merge: Combine two timelines
+  - CONFLICT: How to fix merge conflicts
+  - git revert: Undo something
+  - git rebase: Move the base of a branch
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Git from Scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=76281980)
@@ -93,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Git Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use version control?
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/why-use-version-control?u=76281980)
@@ -301,7 +318,7 @@ created: 2026-04-29
 
 ### 2. Branches: Alternate Timelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### git branch: Create an alternate timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-branch-create-an-alternate-timeline?u=76281980)
@@ -536,7 +553,7 @@ created: 2026-04-29
 
 ### 3. Changing History
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### git merge: Combine two timelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-from-scratch/git-merge-combine-two-timelines?u=76281980)

@@ -48,18 +48,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started]]** (7 videos)
-- **[[#2. Documents and Collections]]** (6 videos)
-- **[[#3. Querying]]** (8 videos)
-- **[[#4. Data and Schema Modeling]]** (5 videos)
-- **[[#5. Coding with MongoDB]]** (5 videos)
-- **[[#6. Server Administration]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Modern database and application design with MongoDB
+- [**1. Getting Started**](#1-getting-started) (7 videos)
+  - Why MongoDB?
+  - MongoDB vs. relational databases
+  - Using the exercise files for this course
+  - Getting started with GitHub Codespaces
+  - Install MongoDB on Windows
+  - Install MongoDB on macOS
+  - Importing example data
+- [**2. Documents and Collections**](#2-documents-and-collections) (6 videos)
+  - Create a document
+  - Using .find() to query documents
+  - What can you store in a document?
+  - Collections
+  - Challenge: Create a recipe document
+  - Solution: Create a recipe document
+- [**3. Querying**](#3-querying) (8 videos)
+  - Sort, limit, and skip
+  - Working with operators and arrays
+  - Updating documents
+  - Updating arrays
+  - Deleting documents
+  - Challenge: Write a query
+  - Solution: Write a query
+  - The MongoDB Shell
+- [**4. Data and Schema Modeling**](#4-data-and-schema-modeling) (5 videos)
+  - How you need to think differently
+  - Basic indexes
+  - Using different collection types
+  - Challenge: Avoiding joins
+  - Solution: Avoiding joins
+- [**5. Coding with MongoDB**](#5-coding-with-mongodb) (5 videos)
+  - Python
+  - Node.js
+  - PHP
+  - Golang
+  - How to use GridFS to store files
+- [**6. Server Administration**](#6-server-administration) (5 videos)
+  - MongoDB config file
+  - Replication
+  - Sharding
+  - Authentication and authorization
+  - Backups
+- [**Conclusion**](#conclusion) (1 videos)
+  - Wrapping up
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern database and application design with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/modern-database-and-application-design-with-mongodb?u=76281980)
@@ -89,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/why-mongodb?u=76281980)
@@ -662,7 +700,7 @@ created: 2026-04-29
 
 ### 2. Documents and Collections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/create-a-document?u=76281980)
@@ -1175,7 +1213,7 @@ created: 2026-04-29
 
 ### 3. Querying
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sort, limit, and skip
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/sort-limit-and-skip?u=76281980)
@@ -1848,7 +1886,7 @@ created: 2026-04-29
 
 ### 4. Data and Schema Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How you need to think differently
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/how-you-need-to-think-differently?u=76281980)
@@ -2333,7 +2371,7 @@ created: 2026-04-29
 
 ### 5. Coding with MongoDB
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/python?u=76281980)
@@ -3182,7 +3220,7 @@ created: 2026-04-29
 
 ### 6. Server Administration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MongoDB config file
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/mongodb-config-file?u=76281980)
@@ -3734,7 +3772,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mongodb-17360744/wrapping-up?u=76281980)

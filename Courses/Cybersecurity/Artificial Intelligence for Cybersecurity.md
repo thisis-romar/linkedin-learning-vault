@@ -43,17 +43,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Demystifying Artificial Intelligence for Cybersecurity]]** (6 videos)
-- **[[#2. Cybersecurity Gaps and Goals]]** (5 videos)
-- **[[#3. Solving Cybersecurity Problems with AI]]** (6 videos)
-- **[[#4. Applying Machine Learning to Security]]** (5 videos)
-- **[[#5. Practical Considerations, Risks, and Limitations]]** (6 videos)
-- **[[#Conclusion]]** (0 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Unleashing the power of AI for cybersecurity
+- [**1. Demystifying Artificial Intelligence for Cybersecurity**](#1-demystifying-artificial-intelligence-for-cybersecurity) (6 videos)
+  - Defining artificial intelligence
+  - Applying AI to cybersecurity
+  - Disciplines of artificial intelligence
+  - Role of machine learning in AI
+  - Agentic AI vs. generative AI vs. discriminative AI
+  - AI agents and cybersecurity
+- [**2. Cybersecurity Gaps and Goals**](#2-cybersecurity-gaps-and-goals) (5 videos)
+  - CIA model of security
+  - Cybersecurity framework
+  - Resource challenges
+  - Prevention, detection, and response
+  - AI agents security goals
+- [**3. Solving Cybersecurity Problems with AI**](#3-solving-cybersecurity-problems-with-ai) (6 videos)
+  - Intrusion detection at scale
+  - Insider threat
+  - Phishing and decision errors
+  - Speed of incidence response
+  - AI-generated threats
+  - Using AI agents to solve cybersecurity challenges
+- [**4. Applying Machine Learning to Security**](#4-applying-machine-learning-to-security) (5 videos)
+  - Choosing the right ML approach
+  - Prediction by regression
+  - Classification: Intruder or not
+  - Security anomaly detection
+  - GAN, BERT, GPT, and more
+- [**5. Practical Considerations, Risks, and Limitations**](#5-practical-considerations-risks-and-limitations) (6 videos)
+  - The ways AI can fail you
+  - Limitations and poor design
+  - Attack against your AI
+  - Criminals use AI too
+  - Recipe for a successful AI project
+  - How to choose AI-based security products
+- [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unleashing the power of AI for cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/unleashing-the-power-of-ai-for-cybersecurity-30111000?u=76281980)
@@ -89,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Demystifying Artificial Intelligence for Cybersecurity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/defining-artificial-intelligence?u=76281980)
@@ -489,7 +518,7 @@ created: 2026-04-29
 
 ### 2. Cybersecurity Gaps and Goals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CIA model of security
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/cia-model-of-security?u=76281980)
@@ -755,7 +784,7 @@ created: 2026-04-29
 
 ### 3. Solving Cybersecurity Problems with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intrusion detection at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/intrusion-detection-at-scale?u=76281980)
@@ -1259,7 +1288,7 @@ created: 2026-04-29
 
 ### 4. Applying Machine Learning to Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right ML approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/choosing-the-right-ml-approach?u=76281980)
@@ -1575,7 +1604,7 @@ created: 2026-04-29
 
 ### 5. Practical Considerations, Risks, and Limitations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The ways AI can fail you
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-for-cybersecurity-22882411/the-ways-ai-can-fail-you?u=76281980)
@@ -2007,7 +2036,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

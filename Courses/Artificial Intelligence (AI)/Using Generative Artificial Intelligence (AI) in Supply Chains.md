@@ -52,13 +52,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Explore Generative AI]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with generative AI
+  - Access ChatGPT
+- [**1. Explore Generative AI**](#1-explore-generative-ai) (11 videos)
+  - Manage the information value chain
+  - Evaluate a generative AI platform
+  - Use generative AI in supply chains
+  - Use ChatGPT as a reference
+  - Use ChatGPT as a chatbot
+  - Use ChatGPT as a supply chain translator
+  - Use ChatGPT to write code for supply chain
+  - Use ChatGPT to write supply chain content
+  - Use ChatGPT and DALL·E to generate graphics
+  - Maximize the supply chain benefits of generative AI
+  - Manage the risks of generative AI in the supply chain
+- [**Conclusion**](#conclusion) (1 videos)
+  - Integrate ChatGPT into your supply chain
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980)
@@ -133,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Explore Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage the information value chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980)
@@ -637,7 +651,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate ChatGPT into your supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980)

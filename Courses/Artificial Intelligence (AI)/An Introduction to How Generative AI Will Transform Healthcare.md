@@ -46,17 +46,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Foundations of Generative AI in Healthcare]]** (2 videos)
-- **[[#2. Planning for the Generative AI Revolution in Healthcare]]** (2 videos)
-- **[[#3. Special Topics in Generative AI and Healthcare]]** (3 videos)
-- **[[#4. Ethical, Social, and Professional Considerations]]** (3 videos)
-- **[[#5. The Future of Healthcare with Generative AI]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to generative AI in healthcare
+- [**1. The Foundations of Generative AI in Healthcare**](#1-the-foundations-of-generative-ai-in-healthcare) (2 videos)
+  - GPT passes medical exams: Breakthrough or hype?
+  - Hello world: Generative AI’s role in clinical documentation
+- [**2. Planning for the Generative AI Revolution in Healthcare**](#2-planning-for-the-generative-ai-revolution-in-healthcare) (2 videos)
+  - Implementing generative AI: Bottom-up or top-down?
+  - AI workforce: Redefining roles in healthcare
+- [**3. Special Topics in Generative AI and Healthcare**](#3-special-topics-in-generative-ai-and-healthcare) (3 videos)
+  - Generative AI: The key to unlocking medical knowledge
+  - Precision health with generative AI
+  - How generative AI enhances drug development
+- [**4. Ethical, Social, and Professional Considerations**](#4-ethical-social-and-professional-considerations) (3 videos)
+  - Bias in generative AI for healthcare
+  - Balancing technology and human judgment
+  - Top two considerations for using generative AI in healthcare
+- [**5. The Future of Healthcare with Generative AI**](#5-the-future-of-healthcare-with-generative-ai) (3 videos)
+  - The next wave: Multimodal AI in patient care
+  - The rise of general medical AI
+  - Everyone is a specialist: Health AI on the edge
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing the AI healthcare journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to generative AI in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980)
@@ -93,7 +108,7 @@ created: 2026-04-29
 
 ### 1. The Foundations of Generative AI in Healthcare
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GPT passes medical exams: Breakthrough or hype?
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980)
@@ -248,7 +263,7 @@ created: 2026-04-29
 
 ### 2. Planning for the Generative AI Revolution in Healthcare
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing generative AI: Bottom-up or top-down?
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980)
@@ -396,7 +411,7 @@ created: 2026-04-29
 
 ### 3. Special Topics in Generative AI and Healthcare
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI: The key to unlocking medical knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980)
@@ -681,7 +696,7 @@ created: 2026-04-29
 
 ### 4. Ethical, Social, and Professional Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias in generative AI for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980)
@@ -904,7 +919,7 @@ created: 2026-04-29
 
 ### 5. The Future of Healthcare with Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The next wave: Multimodal AI in patient care
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980)
@@ -1161,7 +1176,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing the AI healthcare journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980)

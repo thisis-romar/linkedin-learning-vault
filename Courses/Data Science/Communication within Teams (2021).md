@@ -46,13 +46,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Communicating Successfully within Teams]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How high-performing teams communicate
+- [**1. Communicating Successfully within Teams**](#1-communicating-successfully-within-teams) (11 videos)
+  - Establish roles
+  - Delegate responsibilities
+  - Collaborate to establish team goals and charter
+  - Define expectations in your team
+  - Build trust in your team
+  - Manage accountability within teams
+  - Provide feedback within teams
+  - Manage conflict within teams
+  - Communicating virtually within teams
+  - Cross-cultural communication within teams
+  - Measure success within teams
+- [**Conclusion**](#conclusion) (1 videos)
+  - The imperative of effective teams
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How high-performing teams communicate
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/how-high-performing-teams-communicate?u=76281980)
@@ -99,7 +112,7 @@ created: 2026-04-29
 
 ### 1. Communicating Successfully within Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Establish roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/establish-roles?u=76281980)
@@ -1090,7 +1103,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The imperative of effective teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-within-teams-2021/the-imperative-of-effective-teams?u=76281980)

@@ -41,19 +41,70 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Navigate the Windows 10 Interface]]** (11 videos)
-- **[[#2. Manage Application Performance and Compatibility]]** (11 videos)
-- **[[#3. Understand Browser Support]]** (6 videos)
-- **[[#4. Connectivity and Hardware]]** (6 videos)
-- **[[#5. Remote Connectivity]]** (4 videos)
-- **[[#6. Use Backup and Recovery Options]]** (7 videos)
-- **[[#7. Manage OneDrive Integration]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Supporting users in Windows 10
+  - What you should know
+- [**1. Navigate the Windows 10 Interface**](#1-navigate-the-windows-10-interface) (11 videos)
+  - Start menu
+  - The Action Center
+  - Tablet mode
+  - Manage and switch apps
+  - The new clipboard
+  - Focus Assist
+  - The Search interface
+  - Customize Search settings
+  - Access work through Timeline
+  - Using the Microsoft Store
+  - Create virtual desktops
+- [**2. Manage Application Performance and Compatibility**](#2-manage-application-performance-and-compatibility) (11 videos)
+  - Manage application compatibility
+  - Disable S mode
+  - Application compatibility and the ADK
+  - Get performance data from Task Manager
+  - An introduction to the Resource Monitor
+  - An introduction to Performance Monitor
+  - Viewing your hardware specifications
+  - Windows Storage Sense
+  - Uninstalling unwanted applications
+  - Remove Windows bloatware
+  - Modifying Windows Startup
+- [**3. Understand Browser Support**](#3-understand-browser-support) (6 videos)
+  - An overview of Microsoft Edge
+  - Edge settings
+  - Configure Edge with Group Policy
+  - Edge browser extensions
+  - Inking with Edge
+  - Safe Browsing with Application Guard
+- [**4. Connectivity and Hardware**](#4-connectivity-and-hardware) (6 videos)
+  - Smartphone connectivity
+  - Windows Ink and the Surface Pen
+  - Miracast support
+  - Bluetooth
+  - The Surface Dial
+  - Mixed Reality Portal
+- [**5. Remote Connectivity**](#5-remote-connectivity) (4 videos)
+  - Enable remote connectivity to Windows 10
+  - Use Remote Desktop Services
+  - Remote Desktop Connection Manager
+  - Remote Assistance
+- [**6. Use Backup and Recovery Options**](#6-use-backup-and-recovery-options) (7 videos)
+  - Create a traditional backup
+  - Restore a traditional backup
+  - Create an image backup
+  - Restore an image backup
+  - Create a file history backup
+  - Restore a file history backup
+  - Refresh the Windows operating system
+- [**7. Manage OneDrive Integration**](#7-manage-onedrive-integration) (3 videos)
+  - Add an account to OneDrive
+  - Files On-Demand
+  - OneDrive backup
+- [**Conclusion**](#conclusion) (1 videos)
+  - More about Windows 10 IT support
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supporting users in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/supporting-users-in-windows-10?u=76281980)
@@ -113,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Navigate the Windows 10 Interface
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/start-menu?u=76281980)
@@ -895,7 +946,7 @@ created: 2026-04-29
 
 ### 2. Manage Application Performance and Compatibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage application compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/manage-application-compatibility?u=76281980)
@@ -1716,7 +1767,7 @@ created: 2026-04-29
 
 ### 3. Understand Browser Support
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of Microsoft Edge
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/an-overview-of-microsoft-edge?u=76281980)
@@ -2105,7 +2156,7 @@ created: 2026-04-29
 
 ### 4. Connectivity and Hardware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Smartphone connectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/smartphone-connectivity?u=76281980)
@@ -2597,7 +2648,7 @@ created: 2026-04-29
 
 ### 5. Remote Connectivity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable remote connectivity to Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/enable-remote-connectivity-to-windows-10?u=76281980)
@@ -3024,7 +3075,7 @@ created: 2026-04-29
 
 ### 6. Use Backup and Recovery Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a traditional backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/create-a-traditional-backup?u=76281980)
@@ -3491,7 +3542,7 @@ created: 2026-04-29
 
 ### 7. Manage OneDrive Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add an account to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/add-an-account-to-onedrive?u=76281980)
@@ -3710,7 +3761,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More about Windows 10 IT support
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-supporting-users-essential-training/more-about-windows-10-it-support?u=76281980)

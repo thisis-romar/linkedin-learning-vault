@@ -46,14 +46,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Data with Power Query]]** (2 videos)
-- **[[#2. Cleaning and Transforming Data with Power Query]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What is Power Query in Excel?
+  - What you should know
+- [**1. Getting Data with Power Query**](#1-getting-data-with-power-query) (2 videos)
+  - Getting data from another file
+  - Getting data from an open workbook
+- [**2. Cleaning and Transforming Data with Power Query**](#2-cleaning-and-transforming-data-with-power-query) (5 videos)
+  - Common cleaning tasks
+  - Filtering and sorting data
+  - Splitting columns
+  - Conditional columns
+  - Column by example
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Power Query in Excel?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980)
@@ -122,7 +132,7 @@ created: 2026-04-29
 
 ### 1. Getting Data with Power Query
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting data from another file
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980)
@@ -285,7 +295,7 @@ created: 2026-04-29
 
 ### 2. Cleaning and Transforming Data with Power Query
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common cleaning tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980)
@@ -661,7 +671,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980)

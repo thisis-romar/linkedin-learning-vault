@@ -47,20 +47,77 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Foundations of SQL for Data Science]]** (4 videos)
-- **[[#2. Basic Statistics with SQL]]** (8 videos)
-- **[[#3. Data Munging with SQL]]** (7 videos)
-- **[[#4. Filtering and Aggregation]]** (9 videos)
-- **[[#5. Window Functions and Ordered Data]]** (6 videos)
-- **[[#6. Common Table Expressions]]** (6 videos)
-- **[[#7. Types of Joins]]** (7 videos)
-- **[[#8. Working with JSON]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The need for SQL in data science
+  - What you should know
+- [**1. Foundations of SQL for Data Science**](#1-foundations-of-sql-for-data-science) (4 videos)
+  - Overview of data science operations
+  - Data manipulation commands
+  - Data definition commands
+  - SQL standards
+- [**2. Basic Statistics with SQL**](#2-basic-statistics-with-sql) (8 videos)
+  - Getting started with GitHub Codespaces
+  - Creating tables and loading data
+  - Basic aggregate functions
+  - Statistical aggregate functions
+  - Grouping and filtering data
+  - Joining and filtering data
+  - Challenge: Test an attribute for normal distribution
+  - Solution: Test an attribute for normal distribution
+- [**3. Data Munging with SQL**](#3-data-munging-with-sql) (7 videos)
+  - Reformatting character data
+  - Extracting strings from character data
+  - Filtering with regular expressions
+  - Reformatting numeric data
+  - Fuzzy string matching
+  - Challenge: Prepare a data set for analysis
+  - Solution: Prepare a data set for analysis
+- [**4. Filtering and Aggregation**](#4-filtering-and-aggregation) (9 videos)
+  - Using the HAVING clause to find subgroups
+  - Subqueries for column values
+  - Subqueries in FROM clauses
+  - Subqueries in WHERE clauses
+  - Using ROLLUP to create subtotals
+  - Using CUBE to total across dimensions
+  - Using Top-N queries to find top results
+  - Challenge: Filter and aggregate a data set
+  - Solution: Filter and aggregate a data set
+- [**5. Window Functions and Ordered Data**](#5-window-functions-and-ordered-data) (6 videos)
+  - Introducing window functions
+  - NTH_VALUE and NTH_TILE
+  - RANK, LEAD, and LAG
+  - Width_buckets and CUME_DIST
+  - Challenge: Segment a data set using window functions
+  - Solution: Segment a data set using window functions
+- [**6. Common Table Expressions**](#6-common-table-expressions) (6 videos)
+  - Introducing common table expressions (CTEs)
+  - Multiple table common table expressions
+  - Hierarchical tables
+  - Recursive common table expressions
+  - Challenge: Rewriting a complex query to use CTEs
+  - Solution: Rewriting a complex query to use CTEs
+- [**7. Types of Joins**](#7-types-of-joins) (7 videos)
+  - Overview of types of joins
+  - Inner joins
+  - Right outer joins
+  - Left outer joins
+  - Full outer joins
+  - Challenge: Choose the correct type of join
+  - Solution: Choose the correct type of join
+- [**8. Working with JSON**](#8-working-with-json) (7 videos)
+  - JSON in relational databases
+  - JSON data types
+  - Inserting JSON data
+  - Querying JSON data
+  - Indexing JSON data
+  - Challenge: Query a JSON column
+  - Solution: Query a JSON column
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for SQL in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/the-need-for-sql-in-data-science?u=76281980)
@@ -105,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Foundations of SQL for Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data science operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-data-science-operations?u=76281980)
@@ -607,7 +664,7 @@ created: 2026-04-29
 
 ### 2. Basic Statistics with SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/getting-started-with-github-codespaces?u=76281980)
@@ -1666,7 +1723,7 @@ created: 2026-04-29
 
 ### 3. Data Munging with SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reformatting character data
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/reformatting-character-data?u=76281980)
@@ -2573,7 +2630,7 @@ created: 2026-04-29
 
 ### 4. Filtering and Aggregation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the HAVING clause to find subgroups
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/using-the-having-clause-to-find-subgroups?u=76281980)
@@ -3518,7 +3575,7 @@ created: 2026-04-29
 
 ### 5. Window Functions and Ordered Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-window-functions?u=76281980)
@@ -4166,7 +4223,7 @@ created: 2026-04-29
 
 ### 6. Common Table Expressions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing common table expressions (CTEs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/introducing-common-table-expressions-ctes?u=76281980)
@@ -4586,7 +4643,7 @@ created: 2026-04-29
 
 ### 7. Types of Joins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of types of joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/overview-of-types-of-joins?u=76281980)
@@ -4978,7 +5035,7 @@ created: 2026-04-29
 
 ### 8. Working with JSON
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JSON in relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/json-in-relational-databases?u=76281980)
@@ -5377,7 +5434,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-for-data-scientists-25322592/next-steps?u=76281980)

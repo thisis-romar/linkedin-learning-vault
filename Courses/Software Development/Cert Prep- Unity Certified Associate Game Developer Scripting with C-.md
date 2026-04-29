@@ -50,16 +50,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **1. Script Files and C#** (5 videos)
-- **[[#2. Coding with Unity]]** (5 videos)
-- **[[#3. AI and State Machines]]** (4 videos)
-- **[[#4. Completing the AI Project]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Scripting with C# in Unity
+  - Companion files
+- [**1. Script Files and C#**](#1-script-files-and-c) (5 videos)
+  - Creating C# files
+  - Configuring the code editor
+  - Printing to the console
+  - Components
+  - Start, awake and update
+- [**2. Coding with Unity**](#2-coding-with-unity) (5 videos)
+  - Timed behaviors
+  - Triggers and events
+  - Vectors
+  - Quaternions
+  - Reading user input
+- [**3. AI and State Machines**](#3-ai-and-state-machines) (4 videos)
+  - Designing a state machine
+  - Building a navigation mesh
+  - Testing navigation
+  - Working with agents and obstacles
+- [**4. Completing the AI Project**](#4-completing-the-ai-project) (4 videos)
+  - Creating the Patrol state
+  - Creating the Chase state
+  - Creating the Attack state
+  - Optimzing the FSM
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scripting with C# in Unity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/scripting-with-c-sharp-in-unity?u=76281980)
@@ -118,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Script Files and C#
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating C# files
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-c-sharp-files?u=76281980)
@@ -740,7 +761,7 @@ created: 2026-04-29
 
 ### 2. Coding with Unity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Timed behaviors
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/timed-behaviors?u=76281980)
@@ -1649,7 +1670,7 @@ created: 2026-04-29
 
 ### 3. AI and State Machines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing a state machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/designing-a-state-machine?u=76281980)
@@ -2099,7 +2120,7 @@ created: 2026-04-29
 
 ### 4. Completing the AI Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the Patrol state
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/creating-the-patrol-state?u=76281980)
@@ -2694,7 +2715,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-scripting-with-c-sharp/next-steps?u=76281980)

@@ -44,17 +44,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Ansible?]]** (3 videos)
-- **[[#2. Why Choose Ansible?]]** (2 videos)
-- **[[#3. Getting Started with Ansible]]** (4 videos)
-- **[[#4. Working with Ansible]]** (5 videos)
-- **[[#5. What Can Ansible Do for You?]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Starting your Ansible journey
+- [**1. What Is Ansible?**](#1-what-is-ansible) (3 videos)
+  - An introduction to Ansible
+  - Life before Ansible
+  - Ansible and Red Hat
+- [**2. Why Choose Ansible?**](#2-why-choose-ansible) (2 videos)
+  - Ansible ease of use
+  - Advantages to using Ansible
+- [**3. Getting Started with Ansible**](#3-getting-started-with-ansible) (4 videos)
+  - The parts that make up Ansible
+  - Installing Ansible
+  - Challenge: Install Ansible
+  - Solution: Install Ansible
+- [**4. Working with Ansible**](#4-working-with-ansible) (5 videos)
+  - Working with hosts and variables in Ansible
+  - Working with code in Ansible
+  - Working with playbooks in Ansible
+  - Challenge: Write a playbook with Ansible
+  - Solution: Write a playbook with Ansible
+- [**5. What Can Ansible Do for You?**](#5-what-can-ansible-do-for-you) (6 videos)
+  - Ansible and remote management
+  - Ansible for orchestration
+  - Ansible for system configuration management
+  - React to configuration changes with Ansible
+  - Infrastructure management with Ansible
+  - Repeating tasks across fleets with Ansible
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with Ansible
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting your Ansible journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/starting-your-ansible-journey?u=76281980)
@@ -90,7 +112,7 @@ created: 2026-04-29
 
 ### 1. What Is Ansible?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/an-introduction-to-ansible?u=76281980)
@@ -302,7 +324,7 @@ created: 2026-04-29
 
 ### 2. Why Choose Ansible?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ansible ease of use
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-ease-of-use?u=76281980)
@@ -449,7 +471,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Ansible
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The parts that make up Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/the-parts-that-make-up-ansible?u=76281980)
@@ -813,7 +835,7 @@ created: 2026-04-29
 
 ### 4. Working with Ansible
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with hosts and variables in Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/working-with-hosts-and-variables-in-ansible?u=76281980)
@@ -1194,7 +1216,7 @@ created: 2026-04-29
 
 ### 5. What Can Ansible Do for You?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ansible and remote management
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/ansible-and-remote-management?u=76281980)
@@ -1586,7 +1608,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ansible-2020/continuing-on-with-ansible?u=76281980)

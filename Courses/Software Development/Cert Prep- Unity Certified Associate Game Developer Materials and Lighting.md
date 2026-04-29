@@ -46,16 +46,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Materials]]** (6 videos)
-- **[[#2. Lighting]]** (6 videos)
-- **[[#3. Lighting and Performance]]** (4 videos)
-- **[[#4. Post-Processing]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Material and lighting foundations
+  - Companion files
+- [**1. Materials**](#1-materials) (6 videos)
+  - Render pipelines
+  - Standard 3D
+  - URP materials vs. HDRP
+  - Upgrading materials
+  - Textures and normal maps
+  - Tiling materials
+- [**2. Lighting**](#2-lighting) (6 videos)
+  - Standard lights
+  - Area lights
+  - Lightmapping: Getting started
+  - More lightmapping
+  - Reflections
+  - Emissive lighting
+- [**3. Lighting and Performance**](#3-lighting-and-performance) (4 videos)
+  - Shadows and quality
+  - Lightmapping settings
+  - Light probes
+  - Occlusion culling
+- [**4. Post-Processing**](#4-post-processing) (6 videos)
+  - Volumes and effects
+  - Bloom
+  - Color correction
+  - Vignette
+  - Depth of field
+  - Chromatic abberation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Material and lighting foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/material-and-lighting-foundations?u=76281980)
@@ -112,7 +137,7 @@ created: 2026-04-29
 
 ### 1. Materials
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Render pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/render-pipelines?u=76281980)
@@ -1022,7 +1047,7 @@ created: 2026-04-29
 
 ### 2. Lighting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Standard lights
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/standard-lights?u=76281980)
@@ -1865,7 +1890,7 @@ created: 2026-04-29
 
 ### 3. Lighting and Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Shadows and quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/shadows-and-quality?u=76281980)
@@ -2603,7 +2628,7 @@ created: 2026-04-29
 
 ### 4. Post-Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Volumes and effects
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/volumes-and-effects?u=76281980)
@@ -3210,7 +3235,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-materials-and-lighting/next-steps?u=76281980)

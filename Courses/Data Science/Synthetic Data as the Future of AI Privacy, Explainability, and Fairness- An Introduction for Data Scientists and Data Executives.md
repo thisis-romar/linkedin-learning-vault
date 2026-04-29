@@ -38,18 +38,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Why Is Synthetic Data Important?]]** (2 videos)
-- **[[#2. Synthetic Data Fundamentals]]** (5 videos)
-- **[[#3. Synthetic Data Use Cases]]** (7 videos)
-- **[[#4. The Executive's Guide to Synthetic Data]]** (5 videos)
-- **[[#5. The Data Scientist's Guide to Synthetic Data]]** (5 videos)
-- **[[#6. Synthetic Data for Responsible AI]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why synthetic data is changing AI, data, and privacy
+- [**1. Why Is Synthetic Data Important?**](#1-why-is-synthetic-data-important) (2 videos)
+  - The business problem of data vs. privacy
+  - The pitfalls of legacy anonymization
+- [**2. Synthetic Data Fundamentals**](#2-synthetic-data-fundamentals) (5 videos)
+  - What is synthetic data?
+  - How is synthetic data generated?
+  - What are the benefits of synthetic data?
+  - What are the limitations of synthetic data?
+  - The different categories of synthetic data
+- [**3. Synthetic Data Use Cases**](#3-synthetic-data-use-cases) (7 videos)
+  - What are the top synthetic data use cases?
+  - Which industries benefit the most from synthetic data?
+  - Synthetic data for privacy: Preserving AI training
+  - Synthetic data for external data sharing
+  - Synthetic data for digital product development
+  - Synthetic data for open data and data democratization
+  - Additional uses: Data augmentation, simulation, and RAI
+- [**4. The Executive's Guide to Synthetic Data**](#4-the-executives-guide-to-synthetic-data) (5 videos)
+  - What executives should know about synthetic data
+  - How to tie synthetic data to your strategic objectives
+  - Best practices for introducing synthetic data
+  - Measuring the business impact of synthetic data
+  - Building trust in synthetic data
+- [**5. The Data Scientist's Guide to Synthetic Data**](#5-the-data-scientists-guide-to-synthetic-data) (5 videos)
+  - How to get started with synthetic data as a data scientist
+  - Hands-on: Generating privacy-preserving synthetic data
+  - Evaluating synthetic data quality and accuracy
+  - Hands-on: Synthetic data for machine learning
+  - Understanding why synthetic data is privacy-safe
+- [**6. Synthetic Data for Responsible AI**](#6-synthetic-data-for-responsible-ai) (6 videos)
+  - Quick recap: What is Responsible AI?
+  - Why is synthetic data essential for Responsible AI?
+  - AI fairness and algorithmic bias mitigation
+  - XAI
+  - Hands-on: Synthetic data for explainable AI
+  - Synthetic data for RAI assurance and governance
+- [**Conclusion**](#conclusion) (1 videos)
+  - How to continue your synthetic data journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why synthetic data is changing AI, data, and privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/why-synthetic-data-is-changing-ai-data-and-privacy?u=76281980)
@@ -74,7 +106,7 @@ created: 2026-04-29
 
 ### 1. Why Is Synthetic Data Important?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The business problem of data vs. privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/the-business-problem-of-data-vs-privacy?u=76281980)
@@ -226,7 +258,7 @@ created: 2026-04-29
 
 ### 2. Synthetic Data Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is synthetic data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-is-synthetic-data?u=76281980)
@@ -648,7 +680,7 @@ created: 2026-04-29
 
 ### 3. Synthetic Data Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the top synthetic data use cases?
 > [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-are-the-top-synthetic-data-use-cases?u=76281980)
@@ -1037,7 +1069,7 @@ created: 2026-04-29
 
 ### 4. The Executive's Guide to Synthetic Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What executives should know about synthetic data
 > [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/what-executives-should-know-about-synthetic-data?u=76281980)
@@ -1383,7 +1415,7 @@ created: 2026-04-29
 
 ### 5. The Data Scientist's Guide to Synthetic Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to get started with synthetic data as a data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-get-started-with-synthetic-data-as-a-data-scientist?u=76281980)
@@ -1850,7 +1882,7 @@ created: 2026-04-29
 
 ### 6. Synthetic Data for Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Quick recap: What is Responsible AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/quick-recap-what-is-responsible-ai?u=76281980)
@@ -2262,7 +2294,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to continue your synthetic data journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/synthetic-data-as-the-future-of-ai-privacy-explainability-and-fairness-an-introduction-for-data-scientists-and/how-to-continue-your-synthetic-data-journey?u=76281980)

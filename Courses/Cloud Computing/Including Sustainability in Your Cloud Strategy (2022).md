@@ -52,17 +52,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Foundations of Cloud Sustainability]]** (6 videos)
-- **[[#2. Why Are Some Technologies More Efficient than Others?]]** (1 videos)
-- **[[#3. Carbon Measurements and Their Implications]]** (3 videos)
-- **[[#4. Energy Consumption Case Studies]]** (2 videos)
-- **[[#5. Consolidation for a Greener Future]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Do not waste water
+  - Designing for scarcity in a world of abundance
+  - The green behind the cloud
+- [**1. Foundations of Cloud Sustainability**](#1-foundations-of-cloud-sustainability) (6 videos)
+  - Factors impacting carbon consumption in the cloud
+  - Understanding types of emissions
+  - Impact of CPU utilization on carbon consumption
+  - Power usage effectiveness
+  - Cloud shared responsibility models
+  - To autoscale or not to autoscale
+- [**2. Why Are Some Technologies More Efficient than Others?**](#2-why-are-some-technologies-more-efficient-than-others) (1 videos)
+  - Measuring parallel efficiency of the cloud systems
+- [**3. Carbon Measurements and Their Implications**](#3-carbon-measurements-and-their-implications) (3 videos)
+  - Carbon tax rates and carbon intensity
+  - CSP sustainability calculators
+  - Using golden coefficients for carbon estimation
+- [**4. Energy Consumption Case Studies**](#4-energy-consumption-case-studies) (2 videos)
+  - Energy consumption case study 1
+  - Energy consumption case study 2
+- [**5. Consolidation for a Greener Future**](#5-consolidation-for-a-greener-future) (1 videos)
+  - Benefits of consolidation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about sustainability
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Do not waste water
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/do-not-waste-water?u=76281980)
@@ -180,7 +197,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Cloud Sustainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Factors impacting carbon consumption in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/factors-impacting-carbon-consumption-in-the-cloud?u=76281980)
@@ -554,7 +571,7 @@ created: 2026-04-29
 
 ### 2. Why Are Some Technologies More Efficient than Others?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring parallel efficiency of the cloud systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980)
@@ -642,7 +659,7 @@ created: 2026-04-29
 
 ### 3. Carbon Measurements and Their Implications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Carbon tax rates and carbon intensity
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/carbon-tax-rates-and-carbon-intensity?u=76281980)
@@ -775,7 +792,7 @@ created: 2026-04-29
 
 ### 4. Energy Consumption Case Studies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Energy consumption case study 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/energy-consumption-case-study-1?u=76281980)
@@ -855,7 +872,7 @@ created: 2026-04-29
 
 ### 5. Consolidation for a Greener Future
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of consolidation
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/benefits-of-consolidation?u=76281980)
@@ -903,7 +920,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-2022/learning-more-about-sustainability?u=76281980)

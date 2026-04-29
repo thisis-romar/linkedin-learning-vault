@@ -47,15 +47,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. SQL Basics]]** (4 videos)
-- **[[#2. Testing for SQL Injections]]** (6 videos)
-- **[[#3. Automating SQL Injection Exploits]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Understanding how SQL injections work
+  - What you should know
+  - Disclaimer
+- [**1. SQL Basics**](#1-sql-basics) (4 videos)
+  - Starting with SQL
+  - Creating a MySQL database
+  - Using SQL
+  - Finding the SQL password
+- [**2. Testing for SQL Injections**](#2-testing-for-sql-injections) (6 videos)
+  - Checking out the Security Shepherd
+  - Injecting Mutillidae
+  - Deep diving the target with SQLi
+  - Cracking the MySQL hash
+  - Injecting Microsoft SQL Server
+  - Injecting Oracle SQL Server
+- [**3. Automating SQL Injection Exploits**](#3-automating-sql-injection-exploits) (10 videos)
+  - Inferring TRUE when blind
+  - Using prepared SQL queries
+  - Getting our first sqlmap injection
+  - Sanitizing input to SQL
+  - Inserting an SQL injection via Burp Suite
+  - Following up with a second injection
+  - Defeating the WAF
+  - Navigating a complex injection
+  - Using request messages to inject SQL
+  - Checking out SQLI Labs
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding how SQL injections work
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/understanding-how-sql-injections-work?u=76281980)
@@ -141,7 +165,7 @@ created: 2026-04-29
 
 ### 1. SQL Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/starting-with-sql?u=76281980)
@@ -460,7 +484,7 @@ created: 2026-04-29
 
 ### 2. Testing for SQL Injections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Checking out the Security Shepherd
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/checking-out-the-security-shepherd?u=76281980)
@@ -1111,7 +1135,7 @@ created: 2026-04-29
 
 ### 3. Automating SQL Injection Exploits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inferring TRUE when blind
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/inferring-true-when-blind?u=76281980)
@@ -2010,7 +2034,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sql-injection/what-s-next?u=76281980)

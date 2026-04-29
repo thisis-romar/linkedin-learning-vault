@@ -51,17 +51,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Optimizing Deep Learning Models]]** (1 videos)
-- **[[#2. Regularization Techniques]]** (7 videos)
-- **[[#3. Loss Functions and Optimization Algorithms]]** (8 videos)
-- **[[#4. Hyperparameter Tuning Techniques]]** (5 videos)
-- **[[#5. Advanced Training Techniques]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Optimizing deep learning models
+  - What you should know
+  - Using the exercise files
+- [**1. Optimizing Deep Learning Models**](#1-optimizing-deep-learning-models) (1 videos)
+  - The importance of optimizing deep learning models
+- [**2. Regularization Techniques**](#2-regularization-techniques) (7 videos)
+  - The bias-variance trade-off
+  - Lasso and ridge regularization
+  - Applying L1 regularization to a deep learning model
+  - Applying L2 regularization to a deep learning model
+  - Elastic Net regularization
+  - Dropout regularization
+  - Applying dropout regularization to a deep learning model
+- [**3. Loss Functions and Optimization Algorithms**](#3-loss-functions-and-optimization-algorithms) (8 videos)
+  - Common loss functions in deep learning
+  - Batch gradient descent
+  - Stochastic gradient descent (SGD)
+  - Mini-batch gradient descent
+  - Adaptive Gradient Algorithm (AdaGrad)
+  - Root Mean Square Propagation (RMSProp)
+  - Adaptive Delta (AdaDelta)
+  - Adaptive Moment Estimation (Adam)
+- [**4. Hyperparameter Tuning Techniques**](#4-hyperparameter-tuning-techniques) (5 videos)
+  - Parameters versus hyperparameters
+  - Key hyperparameters in deep learning
+  - Methods for hyperparameter tuning
+  - Defining a tunable deep learning model in Keras
+  - Using KerasTuner for hyperparameter tuning
+- [**5. Advanced Training Techniques**](#5-advanced-training-techniques) (7 videos)
+  - Batch normalization
+  - Applying batch normalization to a deep learning model
+  - Gradient clipping
+  - Applying gradient clipping to a deep learning model
+  - Early stopping and checkpointing
+  - Learning rate scheduling
+  - Training a deep learning model using callbacks
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing to optimize deep learning models
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/optimizing-deep-learning-models?u=76281980)
@@ -172,7 +204,7 @@ created: 2026-04-29
 
 ### 1. Optimizing Deep Learning Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of optimizing deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-importance-of-optimizing-deep-learning-models?u=76281980)
@@ -232,7 +264,7 @@ created: 2026-04-29
 
 ### 2. Regularization Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The bias-variance trade-off
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/the-bias-variance-tradeoff?u=76281980)
@@ -649,7 +681,7 @@ created: 2026-04-29
 
 ### 3. Loss Functions and Optimization Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common loss functions in deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/common-loss-functions-in-deep-learning?u=76281980)
@@ -1125,7 +1157,7 @@ created: 2026-04-29
 
 ### 4. Hyperparameter Tuning Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Parameters versus hyperparameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/parameters-versus-hyperparameters?u=76281980)
@@ -1654,7 +1686,7 @@ created: 2026-04-29
 
 ### 5. Advanced Training Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Batch normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/batch-normalization?u=76281980)
@@ -2201,7 +2233,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to optimize deep learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-with-python-optimizing-deep-learning-models/continuing-to-optimize-deep-learning-models?u=76281980)

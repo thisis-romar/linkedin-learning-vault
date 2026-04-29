@@ -50,16 +50,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Creating Tables in Databases]]** (3 videos)
-- **[[#2. Manipulating Data]]** (4 videos)
-- **[[#3. Transaction Control]]** (2 videos)
-- **[[#4. Data Definition Language]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Making a statement with SQL
+  - How to use the exercise files
+- [**1. Creating Tables in Databases**](#1-creating-tables-in-databases) (3 videos)
+  - What is a table and naming conventions?
+  - Database table types
+  - Datatypes for columns in tables
+- [**2. Manipulating Data**](#2-manipulating-data) (4 videos)
+  - Add rows in tables
+  - Modify rows and columns in tables
+  - Delete rows in tables
+  - Merge rows in tables
+- [**3. Transaction Control**](#3-transaction-control) (2 videos)
+  - Committing database changes
+  - Rollback in database changes
+- [**4. Data Definition Language**](#4-data-definition-language) (3 videos)
+  - Different ways to create tables
+  - Alter tables
+  - Drop, rename, and truncate tables
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making a statement with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/making-a-statement-with-sql?u=76281980)
@@ -160,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Creating Tables in Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a table and naming conventions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/what-is-a-table-and-naming-conventions?u=76281980)
@@ -334,7 +349,7 @@ created: 2026-04-29
 
 ### 2. Manipulating Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add rows in tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/add-rows-in-tables?u=76281980)
@@ -812,7 +827,7 @@ created: 2026-04-29
 
 ### 3. Transaction Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Committing database changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/committing-database-changes?u=76281980)
@@ -926,7 +941,7 @@ created: 2026-04-29
 
 ### 4. Data Definition Language
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Different ways to create tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/different-ways-to-create-tables?u=76281980)
@@ -1285,7 +1300,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-queries-made-easy/next-steps?u=76281980)

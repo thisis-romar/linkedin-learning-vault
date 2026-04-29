@@ -43,16 +43,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. PKI Overview]]** (8 videos)
-- **[[#2. Certificate Authorities]]** (4 videos)
-- **[[#3. Acquiring Certificates]]** (5 videos)
-- **[[#4. PKI Certificate Usage]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn to secure your network communications
+  - What you should know
+- [**1. PKI Overview**](#1-pki-overview) (8 videos)
+  - Cryptography
+  - Hashing and digital signatures
+  - Public key infrastructure
+  - Certificate authorities
+  - Certificates
+  - Certificate lifecycle management
+  - Transport layer security
+  - Analyze a tls packet capture
+- [**2. Certificate Authorities**](#2-certificate-authorities) (4 videos)
+  - Configure a Microsoft AD CS certificate authority
+  - Configure Microsoft AD CS certificate templates
+  - Configure a Linux OpenSSL certificate authority
+  - Configure an AWS Certificate Manager CA
+- [**3. Acquiring Certificates**](#3-acquiring-certificates) (5 videos)
+  - Acquire a certificate using Microsoft AD CS
+  - Acquire a web server certificate using OpenSSL
+  - Acquire a public CA certificate
+  - Install private CA certificates
+  - Generate certificates using Microsoft Azure
+- [**4. PKI Certificate Usage**](#4-pki-certificate-usage) (6 videos)
+  - Configure a Windows website certificate
+  - Configure a Linux website certificate
+  - Configure web brower client certificate authentication
+  - Configure VPN certificate authentication
+  - Configure a network printer certificate
+  - Acquire a web app certificate using Microsoft Azure
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to secure your network communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/learn-to-secure-your-network-communications?u=76281980)
@@ -139,7 +165,7 @@ created: 2026-04-29
 
 ### 1. PKI Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/cryptography?u=76281980)
@@ -1059,7 +1085,7 @@ created: 2026-04-29
 
 ### 2. Certificate Authorities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure a Microsoft AD CS certificate authority
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-microsoft-ad-cs-certificate-authority?u=76281980)
@@ -1658,7 +1684,7 @@ created: 2026-04-29
 
 ### 3. Acquiring Certificates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Acquire a certificate using Microsoft AD CS
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/acquire-a-certificate-using-microsoft-ad-cs?u=76281980)
@@ -2619,7 +2645,7 @@ created: 2026-04-29
 
 ### 4. PKI Certificate Usage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure a Windows website certificate
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/configure-a-windows-web-site-certificate?u=76281980)
@@ -3712,7 +3738,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tls-for-beginners-securing-network-communications/next-steps?u=76281980)

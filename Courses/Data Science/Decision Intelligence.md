@@ -55,15 +55,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Decision-Maker in Isolation]]** (8 videos)
-- **[[#2. Decision Intelligence]]** (5 videos)
-- **[[#3. Data-Driven Leadership]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The steering wheel for your life
+  - A map of decision-making
+- [**1. The Decision-Maker in Isolation**](#1-the-decision-maker-in-isolation) (8 videos)
+  - The most important lesson in decision-making
+  - The dangers of outcome bias
+  - Why are some decisions so difficult?
+  - How to set goals
+  - Intuition and the value of clairvoyance
+  - The hackable human
+  - Decisiveness
+  - Objective decision-making
+- [**2. Decision Intelligence**](#2-decision-intelligence) (5 videos)
+  - Upgrade 1: Using data and technology
+  - Upgrade 2: Better questions
+  - Upgrade 3: Data-driven decisions
+  - Upgrade 4: Better answers
+  - Upgrade 5: Decision automation
+- [**3. Data-Driven Leadership**](#3-data-driven-leadership) (5 videos)
+  - Group decisions
+  - The career-making question
+  - Building a data-driven culture
+  - Barriers to organizational decision-making
+  - Delivering value in a large organization
+- [**Conclusion**](#conclusion) (1 videos)
+  - Are you a good decision-maker?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The steering wheel for your life
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-steering-wheel-for-your-life?u=76281980)
@@ -142,7 +163,7 @@ created: 2026-04-29
 
 ### 1. The Decision-Maker in Isolation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The most important lesson in decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/the-most-important-lesson-in-decision-making?u=76281980)
@@ -1002,7 +1023,7 @@ created: 2026-04-29
 
 ### 2. Decision Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Upgrade 1: Using data and technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/upgrade-1-using-data-and-technology?u=76281980)
@@ -1629,7 +1650,7 @@ created: 2026-04-29
 
 ### 3. Data-Driven Leadership
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Group decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/group-decisions?u=76281980)
@@ -2105,7 +2126,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Are you a good decision-maker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence/are-you-a-good-decision-maker?u=76281980)

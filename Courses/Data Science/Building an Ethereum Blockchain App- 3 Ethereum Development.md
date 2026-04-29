@@ -52,11 +52,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. The Ethereum Ecosystem and Development Life Cycle]]** (10 videos)
+- [**1. The Ethereum Ecosystem and Development Life Cycle**](#1-the-ethereum-ecosystem-and-development-life-cycle) (10 videos)
+  - Parts of the Ethereum blockchain
+  - Smart contracts
+  - Smart contract languages
+  - What are virtual machines?
+  - The Ethereum Virtual Machine (EVM)
+  - Fueling your code with gas
+  - Tools for Ethereum SDLC
+  - Blockchain client
+  - Writing and testing your code, part 1
+  - Writing and testing your code, part 2
 
 ### 1. The Ethereum Ecosystem and Development Life Cycle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Parts of the Ethereum blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980)

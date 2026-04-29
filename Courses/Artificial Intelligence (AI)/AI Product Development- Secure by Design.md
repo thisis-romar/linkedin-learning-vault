@@ -52,18 +52,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1.  Foundations of AI Security, Governance, Risk, and Compliance]]** (6 videos)
-- **[[#2. AI Risk Management Frameworks]]** (5 videos)
-- **[[#3. AI Security Threats and Adversarial Attacks]]** (5 videos)
-- **[[#4. Secure AI Deployment and Access Controls]]** (4 videos)
-- **[[#5. Securing AI in the Software Development Lifecycle]]** (4 videos)
-- **[[#6. AI Security Case Studies and Playbooks]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Weave security into your AI product design process
+- [**1.  Foundations of AI Security, Governance, Risk, and Compliance**](#1-foundations-of-ai-security-governance-risk-and-compliance) (6 videos)
+  - Why governance, risk, and compliance matter from day one
+  - Governance in AI security
+  - Using the RACI Matrix
+  - AI risk management
+  - Navigating regulatory frameworks
+  - Compliance strategies for AI
+- [**2. AI Risk Management Frameworks**](#2-ai-risk-management-frameworks) (5 videos)
+  - Intro to Risk Management Framework
+  - Identify and assess risks
+  - Mitigate, monitor, and audit risks
+  - Manage policies, procedures, and training
+  - Establish oversight and governance
+- [**3. AI Security Threats and Adversarial Attacks**](#3-ai-security-threats-and-adversarial-attacks) (5 videos)
+  - What is the AI lifecycle?
+  - Introduction to adversarial attacks
+  - Defensive techniques against adversarial attacks
+  - Monitoring model behavior for anomalies
+  - A path to holistic security securing the AI supply chain
+- [**4. Secure AI Deployment and Access Controls**](#4-secure-ai-deployment-and-access-controls) (4 videos)
+  - Access control for AI models
+  - Security testing of AI models
+  - Business continuity management
+  - Automated monitoring and alerting
+- [**5. Securing AI in the Software Development Lifecycle**](#5-securing-ai-in-the-software-development-lifecycle) (4 videos)
+  - Building Secure CI/CD Pipelines
+  - AI Software Supply Chain Security
+  - Continuous monitoring and threat detection
+  - Logging and incident response
+- [**6. AI Security Case Studies and Playbooks**](#6-ai-security-case-studies-and-playbooks) (2 videos)
+  - Case studies: Lessons from AI security incidents
+  - AI security playbook: Secure by Design approach
+- [**Conclusion**](#conclusion) (1 videos)
+  - Conclusion and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Weave security into your AI product design process
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/weave-security-into-your-ai-product-design-process?u=76281980)
@@ -91,7 +119,7 @@ created: 2026-04-29
 
 ### 1.  Foundations of AI Security, Governance, Risk, and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why governance, risk, and compliance matter from day one
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/navigating-regulatory-frameworks-25329372?u=76281980)
@@ -571,7 +599,7 @@ created: 2026-04-29
 
 ### 2. AI Risk Management Frameworks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Risk Management Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/intro-to-risk-management-framework?u=76281980)
@@ -940,7 +968,7 @@ created: 2026-04-29
 
 ### 3. AI Security Threats and Adversarial Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the AI lifecycle?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/what-is-the-ai-lifecycle?u=76281980)
@@ -1408,7 +1436,7 @@ created: 2026-04-29
 
 ### 4. Secure AI Deployment and Access Controls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Access control for AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/access-control-for-ai-models?u=76281980)
@@ -1767,7 +1795,7 @@ created: 2026-04-29
 
 ### 5. Securing AI in the Software Development Lifecycle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building Secure CI/CD Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/building-secure-ci-cd-pipelines?u=76281980)
@@ -2106,7 +2134,7 @@ created: 2026-04-29
 
 ### 6. AI Security Case Studies and Playbooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Case studies: Lessons from AI security incidents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/case-studies-lessons-from-ai-security-incidents?u=76281980)
@@ -2297,7 +2325,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-secure-by-design/conclusion-and-next-steps?u=76281980)

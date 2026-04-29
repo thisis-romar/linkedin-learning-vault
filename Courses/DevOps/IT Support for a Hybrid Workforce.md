@@ -41,16 +41,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Planning for a Hybrid Environment]]** (3 videos)
-- **[[#2. Implementing Security in a Hybrid Workforce]]** (5 videos)
-- **[[#3. Wrangling User Hardware to Work Properly]]** (3 videos)
-- **[[#4. Collaboration and Communication]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Understanding the needs of a hybrid team
+- [**1. Planning for a Hybrid Environment**](#1-planning-for-a-hybrid-environment) (3 videos)
+  - What are the workforce types that exist today?
+  - What are my risks in a hybrid environment?
+  - Create a security plan for a hybrid workforce
+- [**2. Implementing Security in a Hybrid Workforce**](#2-implementing-security-in-a-hybrid-workforce) (5 videos)
+  - How do users need to connect?
+  - Cloud vs. on-premises access
+  - VPN risks
+  - Circumventing malware and ransomware
+  - Testing security
+- [**3. Wrangling User Hardware to Work Properly**](#3-wrangling-user-hardware-to-work-properly) (3 videos)
+  - What devices will cause the biggest headaches?
+  - How do we get files out to remote users?
+  - Wi-Fi at home and in the office
+- [**4. Collaboration and Communication**](#4-collaboration-and-communication) (4 videos)
+  - How will users communicate with each other?
+  - Audio and video conferencing applications
+  - Managing mobile devices and bring your own device (BYOD)
+  - Securing IOT for users
+- [**Conclusion**](#conclusion) (1 videos)
+  - Protecting data and remote users
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the needs of a hybrid team
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/understanding-the-needs-of-a-hybrid-team?u=76281980)
@@ -97,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Planning for a Hybrid Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the workforce types that exist today?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-are-the-workforce-types-that-exist-today?u=76281980)
@@ -282,7 +299,7 @@ created: 2026-04-29
 
 ### 2. Implementing Security in a Hybrid Workforce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do users need to connect?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-do-users-need-to-connect?u=76281980)
@@ -622,7 +639,7 @@ created: 2026-04-29
 
 ### 3. Wrangling User Hardware to Work Properly
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What devices will cause the biggest headaches?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/what-devices-will-cause-the-biggest-headaches?u=76281980)
@@ -867,7 +884,7 @@ created: 2026-04-29
 
 ### 4. Collaboration and Communication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How will users communicate with each other?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/how-will-users-communicate-with-each-other-29518520?u=76281980)
@@ -1289,7 +1306,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting data and remote users
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-support-for-a-hybrid-workforce/protecting-data-and-remote-users?u=76281980)

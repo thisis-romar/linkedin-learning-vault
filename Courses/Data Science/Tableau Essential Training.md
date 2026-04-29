@@ -51,24 +51,105 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introducing Tableau]]** (4 videos)
-- **[[#2. Managing Data Sources and Visualizations]]** (7 videos)
-- **[[#3. Managing Tableau Worksheets and Workbooks]]** (9 videos)
-- **[[#4. Creating Custom Calculations and Fields]]** (5 videos)
-- **[[#5. Analyzing Data]]** (5 videos)
-- **[[#6. Sorting and Filtering Data]]** (9 videos)
-- **[[#7. Defining Groups and Sets]]** (8 videos)
-- **[[#8. Creating Basic Visualizations]]** (8 videos)
-- **[[#9. Managing Tableau Visualizations]]** (6 videos)
-- **[[#10. Annotating and Formatting Visualizations]]** (5 videos)
-- **[[#11. Mapping Geographic Data]]** (5 videos)
-- **[[#12. Creating Dashboards and Actions]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Apply the power of Tableau 2025 to your data
+  - What you should know before starting
+- [**1. Introducing Tableau**](#1-introducing-tableau) (4 videos)
+  - Download Tableau
+  - Connect data sources to Tableau
+  - Introduce Tableau file types
+  - Get help in Tableau
+- [**2. Managing Data Sources and Visualizations**](#2-managing-data-sources-and-visualizations) (7 videos)
+  - Connect to a data source
+  - Join related data sources
+  - Join data sources with inconsistent field names
+  - Clean up source data
+  - Reorder fields in a visualization
+  - Change the summary operation
+  - Split text into multiple columns
+- [**3. Managing Tableau Worksheets and Workbooks**](#3-managing-tableau-worksheets-and-workbooks) (9 videos)
+  - Display the data underlying a workbook
+  - Add, duplicate, and rename worksheets
+  - Reorder, clear, and delete worksheets
+  - Change a worksheet’s tab color
+  - Show or hide worksheet elements
+  - Save your changes
+  - Save your workbook as a PDF file
+  - Create a packaged workbook
+  - Export data to a CSV file
+- [**4. Creating Custom Calculations and Fields**](#4-creating-custom-calculations-and-fields) (5 videos)
+  - Present Tableau operators and built-in functions
+  - Create a calculated field
+  - Create a calculated field on a shelf
+  - Add a table calculation
+  - Use level of detail expressions
+- [**5. Analyzing Data**](#5-analyzing-data) (5 videos)
+  - Calculate averages, medians, minimums, and maximums
+  - Count occurrences and distinct items
+  - Display the Summary Card
+  - Calculate percentages within a table
+  - Forecast future values
+- [**6. Sorting and Filtering Data**](#6-sorting-and-filtering-data) (9 videos)
+  - Sort based on a field’s values
+  - Create a nested sort
+  - Create a selection filter
+  - Create a wildcard filter
+  - Create a condition filter
+  - Create a top filter
+  - Edit, clear, and delete filters
+  - Filter data using parameters
+  - Edit and delete parameters
+- [**7. Defining Groups and Sets**](#7-defining-groups-and-sets) (8 videos)
+  - Define a group
+  - Define a group for other values
+  - Find members of a group
+  - Edit and delete groups
+  - Define a set
+  - Create summaries using sets
+  - Combine sets
+  - Edit and delete sets
+- [**8. Creating Basic Visualizations**](#8-creating-basic-visualizations) (8 videos)
+  - Create column and stacked column charts
+  - Create line charts and area fill charts
+  - Create pie charts
+  - Create scatter plots
+  - Identify data clusters
+  - Create histograms
+  - Summarize data using a smart histogram
+  - Create a treemap
+- [**9. Managing Tableau Visualizations**](#9-managing-tableau-visualizations) (6 videos)
+  - Change the visual summary type
+  - Change the appearance of your data
+  - Set a default format for a field
+  - Display a visualization in Presentation mode
+  - Create a highlight table
+  - Display a viz in a tooltip
+- [**10. Annotating and Formatting Visualizations**](#10-annotating-and-formatting-visualizations) (5 videos)
+  - Annotate a visualization
+  - Format chart elements
+  - Change the order of colors in a visualization
+  - Add a trend line to a chart
+  - Add reference lines and quartile indicators
+- [**11. Mapping Geographic Data**](#11-mapping-geographic-data) (5 videos)
+  - Create a basic map
+  - Add and remove map layers
+  - Enhance map analysis using distance measurement tools
+  - Disable pan and zoom in maps
+  - Define custom regions
+- [**12. Creating Dashboards and Actions**](#12-creating-dashboards-and-actions) (7 videos)
+  - Present data using story points and stories
+  - Create a dashboard
+  - Arrange and resize dashboard elements
+  - Replace a worksheet in a dashboard quickly
+  - Define a filter action
+  - Define a highlight action
+  - Define parameter actions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Further resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the power of Tableau 2025 to your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/apply-the-power-of-tableau-2025-to-your-data?u=76281980)
@@ -152,7 +233,7 @@ created: 2026-04-29
 
 ### 1. Introducing Tableau
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Download Tableau
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980)
@@ -379,7 +460,7 @@ created: 2026-04-29
 
 ### 2. Managing Data Sources and Visualizations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to a data source
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980)
@@ -803,7 +884,7 @@ created: 2026-04-29
 
 ### 3. Managing Tableau Worksheets and Workbooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Display the data underlying a workbook
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980)
@@ -1387,7 +1468,7 @@ created: 2026-04-29
 
 ### 4. Creating Custom Calculations and Fields
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Present Tableau operators and built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980)
@@ -1872,7 +1953,7 @@ created: 2026-04-29
 
 ### 5. Analyzing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate averages, medians, minimums, and maximums
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-averages-medians-minimums-and-maximums?u=76281980)
@@ -2235,7 +2316,7 @@ created: 2026-04-29
 
 ### 6. Sorting and Filtering Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sort based on a field’s values
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/sort-based-on-a-field-s-values?u=76281980)
@@ -2841,7 +2922,7 @@ created: 2026-04-29
 
 ### 7. Defining Groups and Sets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define a group
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980)
@@ -3467,7 +3548,7 @@ created: 2026-04-29
 
 ### 8. Creating Basic Visualizations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create column and stacked column charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980)
@@ -4117,7 +4198,7 @@ created: 2026-04-29
 
 ### 9. Managing Tableau Visualizations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change the visual summary type
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-visual-summary-type?u=76281980)
@@ -4578,7 +4659,7 @@ created: 2026-04-29
 
 ### 10. Annotating and Formatting Visualizations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Annotate a visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/annotate-a-visualization?u=76281980)
@@ -5024,7 +5105,7 @@ created: 2026-04-29
 
 ### 11. Mapping Geographic Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a basic map
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-basic-map?u=76281980)
@@ -5501,7 +5582,7 @@ created: 2026-04-29
 
 ### 12. Creating Dashboards and Actions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Present data using story points and stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980)
@@ -6116,7 +6197,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980)

@@ -40,13 +40,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Using Bolt]]** (5 videos)
-- **[[#2. Vibe Coding with Bolt]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - What if you could build an app just by chatting?
+- [**1. Using Bolt**](#1-using-bolt) (5 videos)
+  - Skip the setup and build apps faster
+  - Settings to know before building
+  - How to chat with an AI in Bolt
+  - Sharing your projects with others
+  - Features of the code and preview browser
+- [**2. Vibe Coding with Bolt**](#2-vibe-coding-with-bolt) (2 videos)
+  - Vibe coding a project with the Bolt interface
+  - Adding a database with Supabase
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What if you could build an app just by chatting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/what-if-you-could-build-an-app-just-by-chatting?u=76281980)
@@ -75,7 +83,7 @@ created: 2026-04-29
 
 ### 1. Using Bolt
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Skip the setup and build apps faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/skip-the-setup-and-build-apps-faster?u=76281980)
@@ -524,7 +532,7 @@ created: 2026-04-29
 
 ### 2. Vibe Coding with Bolt
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vibe coding a project with the Bolt interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/vibe-coding-a-project-with-the-bolt-interface?u=76281980)

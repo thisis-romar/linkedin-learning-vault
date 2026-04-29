@@ -46,16 +46,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Product Strategy Overview]]** (4 videos)
-- **[[#2. Filling in the Elevator Pitch Step by Step]]** (6 videos)
-- **[[#3. How to Develop Product Strategy]]** (4 videos)
-- **[[#4. You Have a Strategy, Now What?]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why you need a product strategy
+- [**1. Product Strategy Overview**](#1-product-strategy-overview) (4 videos)
+  - What is product strategy?
+  - Why strategy is important
+  - Tenets of a good strategy
+  - The elevator pitch framework
+- [**2. Filling in the Elevator Pitch Step by Step**](#2-filling-in-the-elevator-pitch-step-by-step) (6 videos)
+  - Determine your target customers
+  - Fill in customer need
+  - Choose the market category
+  - Fill in the key benefit
+  - Add competitors and alternatives
+  - Determine the product differentiation
+- [**3. How to Develop Product Strategy**](#3-how-to-develop-product-strategy) (4 videos)
+  - Make strategy work
+  - How to identify key stakeholders
+  - How to collect and organize input
+  - Build support for your strategy
+- [**4. You Have a Strategy, Now What?**](#4-you-have-a-strategy-now-what) (2 videos)
+  - Maintain your strategy
+  - How to implement a strategy
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why you need a product strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/why-you-need-a-product-strategy?u=76281980)
@@ -92,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Product Strategy Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is product strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/what-is-product-strategy-8534655?u=76281980)
@@ -450,7 +468,7 @@ created: 2026-04-29
 
 ### 2. Filling in the Elevator Pitch Step by Step
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine your target customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/determine-your-target-customers-8535703?u=76281980)
@@ -1019,7 +1037,7 @@ created: 2026-04-29
 
 ### 3. How to Develop Product Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make strategy work
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/make-strategy-work-8536488?u=76281980)
@@ -1344,7 +1362,7 @@ created: 2026-04-29
 
 ### 4. You Have a Strategy, Now What?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintain your strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/maintain-your-strategy-8531970?u=76281980)
@@ -1494,7 +1512,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-strategy/next-steps-8536485?u=76281980)

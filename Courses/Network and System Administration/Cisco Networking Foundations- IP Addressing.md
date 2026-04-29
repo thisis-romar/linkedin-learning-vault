@@ -48,14 +48,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. IPv4 Addressing]]** (15 videos)
-- **[[#2. IPv6 Addressing]]** (14 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn IP addressing
+  - What you’ll learn
+- [**1. IPv4 Addressing**](#1-ipv4-addressing) (15 videos)
+  - Converting from binary to decimal
+  - Converting from decimal to binary
+  - Binary practice exercise #1
+  - Binary practice exercise #2
+  - IPv4 address format
+  - IPv4 address classes
+  - Public vs. private IPv4 addresses
+  - IPv4 unicast, broadcast, and multicast
+  - The need for subnetting
+  - Calculating available subnets
+  - Calculating available hosts
+  - Subnetting practice exercise #1
+  - Subnetting practice exercise #2
+  - Calculating usable ranges of IPv4 addresses
+  - Subnetting practice exercise #3
+- [**2. IPv6 Addressing**](#2-ipv6-addressing) (14 videos)
+  - Hexadecimal numbering
+  - IPv6 address format
+  - Shortening an IPv6 address
+  - IPv6 address shortening exercise
+  - IPv6 global unicast
+  - IPv6 multicast
+  - IPv6 link local
+  - IPv6 unique local
+  - IPv6 loopback
+  - IPv6 unspecified
+  - IPv6 solicited-node multicast
+  - EUI-64 address
+  - IPv6 autoconfiguration
+  - IPv6 traffic flows
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn IP addressing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/learn-ip-addressing?u=76281980)
@@ -119,7 +151,7 @@ created: 2026-04-29
 
 ### 1. IPv4 Addressing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Converting from binary to decimal
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/converting-from-binary-to-decimal?u=76281980)
@@ -1449,7 +1481,7 @@ created: 2026-04-29
 
 ### 2. IPv6 Addressing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hexadecimal numbering
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/hexadecimal-numbering?u=76281980)
@@ -2422,7 +2454,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-ip-addressing/next-steps?u=76281980)

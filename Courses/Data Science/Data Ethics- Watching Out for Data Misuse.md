@@ -46,16 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Thinking about Ethics]]** (4 videos)
-- **[[#2. Data Misuse]]** (6 videos)
-- **[[#3. Accuracy]]** (5 videos)
-- **[[#4. Data Models]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Data accuracy and misuse
+- [**1. Thinking about Ethics**](#1-thinking-about-ethics) (4 videos)
+  - What are your ethical duties?
+  - Do the ends justify the means?
+  - How to be a virtuous organization
+  - Create an ethical contract
+- [**2. Data Misuse**](#2-data-misuse) (6 videos)
+  - Data misuse
+  - When your customer misuses the data
+  - Is it ethical to micro-target?
+  - Can you exploit human needs?
+  - How to ethically engage your customer
+  - Should you promote democracy?
+- [**3. Accuracy**](#3-accuracy) (5 videos)
+  - What does it mean to be accurate?
+  - Should you present the truth?
+  - What to do with fake news
+  - What to do if your customer spreads propaganda
+  - The danger of too much accuracy
+- [**4. Data Models**](#4-data-models) (2 videos)
+  - What are data models?
+  - Your customer could game the system
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data accuracy and misuse
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-accuracy-and-misuse?u=76281980)
@@ -105,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Thinking about Ethics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are your ethical duties?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-your-ethical-duties?u=76281980)
@@ -471,7 +490,7 @@ created: 2026-04-29
 
 ### 2. Data Misuse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data misuse
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/data-misuse?u=76281980)
@@ -942,7 +961,7 @@ created: 2026-04-29
 
 ### 3. Accuracy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What does it mean to be accurate?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-does-it-mean-to-be-accurate?u=76281980)
@@ -1330,7 +1349,7 @@ created: 2026-04-29
 
 ### 4. Data Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are data models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/what-are-data-models?u=76281980)
@@ -1505,7 +1524,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-watching-out-for-data-misuse/next-steps?u=76281980)

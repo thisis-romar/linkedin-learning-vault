@@ -42,15 +42,20 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Descriptive and Exploratory Statistics]]** (1 videos)
-- **[[#2. Statistical Distribution]]** (1 videos)
-- **[[#3. Hypothesis Testing]]** (1 videos)
-- **[[#4. Model Fitting and Analysis]]** (1 videos)
-- **[[#5. Modeling with Statistical Distributions]]** (1 videos)
+- [**1. Descriptive and Exploratory Statistics**](#1-descriptive-and-exploratory-statistics) (1 videos)
+  - Descriptive and exploratory statistics
+- [**2. Statistical Distribution**](#2-statistical-distribution) (1 videos)
+  - Statistical distribution
+- [**3. Hypothesis Testing**](#3-hypothesis-testing) (1 videos)
+  - Hypothesis testing
+- [**4. Model Fitting and Analysis**](#4-model-fitting-and-analysis) (1 videos)
+  - Model fitting and analysis
+- [**5. Modeling with Statistical Distributions**](#5-modeling-with-statistical-distributions) (1 videos)
+  - Modeling with statistical distributions
 
 ### 1. Descriptive and Exploratory Statistics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Descriptive and exploratory statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980)
@@ -243,7 +248,7 @@ created: 2026-04-29
 
 ### 2. Statistical Distribution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Statistical distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/statistical-distribution?u=76281980)
@@ -251,7 +256,7 @@ created: 2026-04-29
 
 ### 3. Hypothesis Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hypothesis testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980)
@@ -460,7 +465,7 @@ created: 2026-04-29
 
 ### 4. Model Fitting and Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Model fitting and analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980)
@@ -763,7 +768,7 @@ created: 2026-04-29
 
 ### 5. Modeling with Statistical Distributions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling with statistical distributions
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/modeling-with-statistical-distributions?u=76281980)

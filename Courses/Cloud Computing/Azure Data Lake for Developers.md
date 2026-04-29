@@ -41,16 +41,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Azure Data Lake]]** (4 videos)
-- **[[#2. Hierarchical Namespaces]]** (3 videos)
-- **[[#3. Data Access in Azure Data Lake]]** (4 videos)
-- **[[#4. Security in Azure Data Lake]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What is Azure Data Lake?
+  - Prior knowledge
+- [**1. Introduction to Azure Data Lake**](#1-introduction-to-azure-data-lake) (4 videos)
+  - Azure Storage overview
+  - What does ADLS add?
+  - Creating a data lake using the portal
+  - Creating a data lake using the CLI
+- [**2. Hierarchical Namespaces**](#2-hierarchical-namespaces) (3 videos)
+  - What is a hierarchical namespace?
+  - What are the benefits of hierarchical namespaces?
+  - Hierarchical namespaces example
+- [**3. Data Access in Azure Data Lake**](#3-data-access-in-azure-data-lake) (4 videos)
+  - What are the options for accessing data?
+  - Using the Azure Blob Storage SDK
+  - Using Spark
+  - Using SQL serverless
+- [**4. Security in Azure Data Lake**](#4-security-in-azure-data-lake) (4 videos)
+  - SAS tokens
+  - Role-based access control
+  - Access control lists
+  - Access control lists example
+- [**Conclusion**](#conclusion) (1 videos)
+  - More Azure Data Lake resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Azure Data Lake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-azure-data-lake?u=76281980)
@@ -136,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Azure Data Lake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Storage overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/azure-storage-overview?u=76281980)
@@ -509,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Hierarchical Namespaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a hierarchical namespace?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-is-a-hierarchical-namespace?u=76281980)
@@ -691,7 +709,7 @@ created: 2026-04-29
 
 ### 3. Data Access in Azure Data Lake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the options for accessing data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/what-are-the-options-for-accessing-data?u=76281980)
@@ -1201,7 +1219,7 @@ created: 2026-04-29
 
 ### 4. Security in Azure Data Lake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SAS tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/sas-tokens?u=76281980)
@@ -1546,7 +1564,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More Azure Data Lake resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-data-lake-for-developers/more-azure-data-lake-resources?u=76281980)

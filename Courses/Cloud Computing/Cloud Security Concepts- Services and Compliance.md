@@ -55,16 +55,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Cloud Security Basics]]** (10 videos)
-- **[[#2. Cloud Security Services]]** (8 videos)
-- **[[#3. Cloud Compliance Services]]** (7 videos)
-- **[[#4. Planning Cloud Security]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to cloud security
+  - What you should know
+- [**1. Cloud Security Basics**](#1-cloud-security-basics) (10 videos)
+  - Business case for cloud security
+  - Breach scenarios and attack vectors
+  - Infrastructure-level cloud security
+  - Application-level cloud security
+  - Data-level cloud security
+  - Rise of identity and access management
+  - Compliance and security
+  - AI-related cloud security issues
+  - Challenge: Create a cloud security business case for ABC Corp
+  - Solution: Create a cloud security business case for ABC Corp
+- [**2. Cloud Security Services**](#2-cloud-security-services) (8 videos)
+  - AWS cloud security services
+  - Microsoft Cloud security services
+  - Third-party cloud security services
+  - Cloud encryption services
+  - Encryption at rest
+  - Encryption in flight
+  - Security as code
+  - Security management services
+- [**3. Cloud Compliance Services**](#3-cloud-compliance-services) (7 videos)
+  - Cloud compliance services in healthcare
+  - Cloud compliance services in finance
+  - Cloud compliance services in retail
+  - Cloud compliance services in manufacturing
+  - Using generative AI for cloud compliance
+  - Challenge: Is AI-enabled security a good fit for ABC Corp?
+  - Solution: Is AI-enabled security a good fit for ABC Corp?
+- [**4. Planning Cloud Security**](#4-planning-cloud-security) (4 videos)
+  - Understanding your security requirements
+  - Selecting the right cloud security services
+  - Cloud security architecture guidelines
+  - Reference security architecture to leverage as your guide
+- [**Conclusion**](#conclusion) (2 videos)
+  - Current cloud security trends to watch
+  - Learning more about cloud security
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/introduction-to-cloud-security?u=76281980)
@@ -109,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Cloud Security Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business case for cloud security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/business-case-for-cloud-security?u=76281980)
@@ -619,7 +652,7 @@ created: 2026-04-29
 
 ### 2. Cloud Security Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS cloud security services
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/aws-cloud-security-services?u=76281980)
@@ -1006,7 +1039,7 @@ created: 2026-04-29
 
 ### 3. Cloud Compliance Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud compliance services in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/cloud-compliance-services-in-healthcare?u=76281980)
@@ -1335,7 +1368,7 @@ created: 2026-04-29
 
 ### 4. Planning Cloud Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your security requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/understanding-your-security-requirements?u=76281980)
@@ -1514,7 +1547,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Current cloud security trends to watch
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-security-concepts-services-and-compliance-21090306/current-cloud-security-trends-to-watch?u=76281980)

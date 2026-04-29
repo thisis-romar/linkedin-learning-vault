@@ -42,16 +42,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Sustainability?]]** (3 videos)
-- **[[#2. Three Paradigms at the Root of the World’s Unsustainable Path]]** (4 videos)
-- **[[#3. Environmental Sustainability]]** (3 videos)
-- **[[#4. Sustainability Accounting and Reporting]]** (2 videos)
-- **[[#5. Need for Transformation]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Sustainability and transformation
+- [**1. What Is Sustainability?**](#1-what-is-sustainability) (3 videos)
+  - Definition of sustainability
+  - The Sustainable Development Goals (SDGs)
+  - Sustainability is a global and local issue
+- [**2. Three Paradigms at the Root of the World’s Unsustainable Path**](#2-three-paradigms-at-the-root-of-the-worlds-unsustainable-path) (4 videos)
+  - Circular model of production and consumption
+  - Move to dynamic thinking
+  - Systems approach
+  - Unpacking the systems approach
+- [**3. Environmental Sustainability**](#3-environmental-sustainability) (3 videos)
+  - Net zero
+  - Nature positive
+  - Environmental resilience
+- [**4. Sustainability Accounting and Reporting**](#4-sustainability-accounting-and-reporting) (2 videos)
+  - Carbon and environmental accounting
+  - Climate risk
+- [**5. Need for Transformation**](#5-need-for-transformation) (1 videos)
+  - Three transformations for a sustainable world
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability and transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980)
@@ -82,7 +96,7 @@ created: 2026-04-29
 
 ### 1. What Is Sustainability?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Definition of sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/definition-of-sustainability?u=76281980)
@@ -359,7 +373,7 @@ created: 2026-04-29
 
 ### 2. Three Paradigms at the Root of the World’s Unsustainable Path
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Circular model of production and consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980)
@@ -679,7 +693,7 @@ created: 2026-04-29
 
 ### 3. Environmental Sustainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Net zero
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980)
@@ -960,7 +974,7 @@ created: 2026-04-29
 
 ### 4. Sustainability Accounting and Reporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Carbon and environmental accounting
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980)
@@ -1137,7 +1151,7 @@ created: 2026-04-29
 
 ### 5. Need for Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three transformations for a sustainable world
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/three-transformations-for-a-sustainable-world?u=76281980)

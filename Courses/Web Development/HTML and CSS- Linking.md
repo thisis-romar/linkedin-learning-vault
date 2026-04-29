@@ -48,15 +48,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Links in HTML]]** (10 videos)
-- **[[#2. Styling Links with CSS]]** (6 videos)
-- **[[#3. Maintaining Links]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Hyperlinks: The glue connecting the World Wide Web
+- [**1. Links in HTML**](#1-links-in-html) (10 videos)
+  - The basic link
+  - Linking to offsite resources
+  - Opening links in different windows and iframes
+  - Linking to PDF files and other documents
+  - Linking within the same document and top of page
+  - Linking phone numbers
+  - Linking to email addresses and email messages
+  - Using images as links
+  - Including several links within an image using image maps
+  - Links in the <head> of the document
+- [**2. Styling Links with CSS**](#2-styling-links-with-css) (6 videos)
+  - Styling links and link states
+  - Making exceptions to link styling
+  - Styling a text link to look like a button
+  - Understanding proper navigation markup
+  - Creating a simple vertical navigation bar
+  - Creating a simple horizontal navigation bar
+- [**3. Maintaining Links**](#3-maintaining-links) (5 videos)
+  - Checking sites for link rot and broken links
+  - Redirecting links within a webpage
+  - Redirecting links on the server
+  - Content delivery networks
+  - Controlling which links search engines follow
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hyperlinks: The glue connecting the World Wide Web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/hyperlinks-the-glue-connecting-the-world-wide-web-23410801?u=76281980)
@@ -87,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Links in HTML
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basic link
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/the-basic-link?u=76281980)
@@ -1112,7 +1135,7 @@ created: 2026-04-29
 
 ### 2. Styling Links with CSS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Styling links and link states
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/styling-links-and-link-states?u=76281980)
@@ -1789,7 +1812,7 @@ created: 2026-04-29
 
 ### 3. Maintaining Links
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Checking sites for link rot and broken links
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/checking-sites-for-link-rot-and-broken-links?u=76281980)
@@ -2256,7 +2279,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-and-css-linking/next-steps?u=76281980)

@@ -46,19 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Tampering with a Process]]** (3 videos)
-- **[[#2. Tampering with Storage]]** (3 videos)
-- **[[#3. Tampering with Things]]** (2 videos)
-- **[[#4. Tampering with Time Itself]]** (1 videos)
-- **[[#5. Tampering with Cloud]]** (2 videos)
-- **[[#6. Tampering with Data Flows]]** (3 videos)
-- **[[#7. Integrity Defenses]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Mitigate tampering threats
+  - Four-question framework
+  - Tampering as part of STRIDE
+- [**1. Tampering with a Process**](#1-tampering-with-a-process) (3 videos)
+  - Debuggers and input
+  - Libraries
+  - Mobile
+- [**2. Tampering with Storage**](#2-tampering-with-storage) (3 videos)
+  - Tampering with local storage
+  - Permissions
+  - Effects of tampering
+- [**3. Tampering with Things**](#3-tampering-with-things) (2 videos)
+  - Whose screw? Physical tampering matters
+  - Debug interfaces are exposed
+- [**4. Tampering with Time Itself**](#4-tampering-with-time-itself) (1 videos)
+  - Time is increasingly important
+- [**5. Tampering with Cloud**](#5-tampering-with-cloud) (2 videos)
+  - Controls and authentication
+  - Becoming Jane Admin
+- [**6. Tampering with Data Flows**](#6-tampering-with-data-flows) (3 videos)
+  - Channels and messages
+  - Replay and reflection
+  - Headers: Injection and order
+- [**7. Integrity Defenses**](#7-integrity-defenses) (3 videos)
+  - Prevention and detection goals
+  - Crypto
+  - Something more privileged
+- [**Conclusion**](#conclusion) (1 videos)
+  - Secure by design: Bring integrity to your systems
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mitigate tampering threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/mitigate-tampering-threats?u=76281980)
@@ -166,7 +187,7 @@ created: 2026-04-29
 
 ### 1. Tampering with a Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debuggers and input
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/debuggers-and-input?u=76281980)
@@ -304,7 +325,7 @@ created: 2026-04-29
 
 ### 2. Tampering with Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tampering with local storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/tampering-with-local-storage?u=76281980)
@@ -426,7 +447,7 @@ created: 2026-04-29
 
 ### 3. Tampering with Things
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Whose screw? Physical tampering matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/whose-screw-physical-tampering-matters?u=76281980)
@@ -511,7 +532,7 @@ created: 2026-04-29
 
 ### 4. Tampering with Time Itself
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Time is increasingly important
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/time-is-increasingly-important?u=76281980)
@@ -569,7 +590,7 @@ created: 2026-04-29
 
 ### 5. Tampering with Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Controls and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/controls-and-authentication?u=76281980)
@@ -673,7 +694,7 @@ created: 2026-04-29
 
 ### 6. Tampering with Data Flows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Channels and messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/channels-and-messages?u=76281980)
@@ -839,7 +860,7 @@ created: 2026-04-29
 
 ### 7. Integrity Defenses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prevention and detection goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/prevention-and-detection-goals?u=76281980)
@@ -1006,7 +1027,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure by design: Bring integrity to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-tampering-in-depth/secure-by-design-bring-integrity-to-your-systems?u=76281980)

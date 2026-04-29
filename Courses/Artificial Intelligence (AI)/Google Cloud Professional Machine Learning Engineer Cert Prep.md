@@ -46,37 +46,129 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Translating Business Challenges into ML Use Cases]]** (3 videos)
-- **[[#2. Defining ML Problems]]** (5 videos)
-- **[[#3. Defining Business Success Criteria]]** (1 videos)
-- **[[#4. Identifying Risks to Feasibility of ML Solutions]]** (3 videos)
-- **[[#5. Conclusion: Framing ML Problems]]** (1 videos)
-- **[[#6. Introduction: Architecting a ML Solution]]** (3 videos)
-- **[[#7. Designing a Reliable, Scalable, and Highly Available ML Solution]]** (5 videos)
-- **[[#8. Choosing Appropriate Google Cloud Hardware Components]]** (4 videos)
-- **[[#9. Conclusion: Architecting a ML Solution]]** (1 videos)
-- **[[#10. Introduction: Designing Data Preparation and Processing Systems]]** (3 videos)
-- **[[#11. Exploring Data]]** (4 videos)
-- **[[#12. Building Data Pipelines]]** (5 videos)
-- **[[#13. Creating Input Features]]** (3 videos)
-- **[[#14. Conclusion: Designing Data Preparation and Processing Systems]]** (1 videos)
-- **[[#15. Introduction: Developing ML Models]]** (2 videos)
-- **[[#16. Building Models]]** (3 videos)
-- **[[#17. Training Models]]** (3 videos)
-- **[[#18. Scaling Model Training and Serving]]** (12 videos)
-- **[[#19. Conclusion: Developing ML Models]]** (1 videos)
-- **[[#20. Introduction: Automating and Orchestrating ML Pipelines]]** (2 videos)
-- **[[#21. Designing and Implementing Training Pipelines]]** (5 videos)
-- **[[#22. Implementing Serving Pipelines]]** (3 videos)
-- **[[#23. Conclusion: Automating and Orchestrating ML Pipelines]]** (1 videos)
-- **[[#24. Introduction: Monitoring, Optimizing, and Maintaining ML Solutions]]** (2 videos)
-- **[[#25. ML Solutions]]** (13 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Course and Google Professional Machine Learning Engineer exam overview
+  - Framing ML problems: Key terminology
+- [**1. Translating Business Challenges into ML Use Cases**](#1-translating-business-challenges-into-ml-use-cases) (3 videos)
+  - Building AI-enabled workflows
+  - Using AI tools to build AI tools
+  - Teaching MLOps at scale with GitHub
+- [**2. Defining ML Problems**](#2-defining-ml-problems) (5 videos)
+  - Simulations vs. experiment tracking
+  - When to use ML
+  - Supervised vs. unsupervised ML
+  - Optimization
+  - Clustering
+- [**3. Defining Business Success Criteria**](#3-defining-business-success-criteria) (1 videos)
+  - Defining business success criteria
+- [**4. Identifying Risks to Feasibility of ML Solutions**](#4-identifying-risks-to-feasibility-of-ml-solutions) (3 videos)
+  - MLOps hierarchy of needs
+  - Hidden costs of bespoke systems
+  - Data poisoning
+- [**5. Conclusion: Framing ML Problems**](#5-conclusion-framing-ml-problems) (1 videos)
+  - Framing ML problems: Next steps
+- [**6. Introduction: Architecting a ML Solution**](#6-introduction-architecting-a-ml-solution) (3 videos)
+  - Architecting a ML solution: Overview
+  - Architecting a ML solution: Key terminology
+  - Cloud developer workspace advantage
+- [**7. Designing a Reliable, Scalable, and Highly Available ML Solution**](#7-designing-a-reliable-scalable-and-highly-available-ml-solution) (5 videos)
+  - What is continuous delivery?
+  - Containerized ML microservices
+  - SRE mindset for MLOps
+  - Reproducible workflow
+  - Learn continuous integration
+- [**8. Choosing Appropriate Google Cloud Hardware Components**](#8-choosing-appropriate-google-cloud-hardware-components) (4 videos)
+  - Selecting heavy vs. light MLOps
+  - Key components of MLOps landscape
+  - Feature store vs. data warehouse
+  - Compute choice
+- [**9. Conclusion: Architecting a ML Solution**](#9-conclusion-architecting-a-ml-solution) (1 videos)
+  - Architecting a ML solution: Next steps
+- [**10. Introduction: Designing Data Preparation and Processing Systems**](#10-introduction-designing-data-preparation-and-processing-systems) (3 videos)
+  - Designing data preparation and processing systems: Overview
+  - Designing data preparation and processing systems: Key terminology
+  - Onboard to GCP
+- [**11. Exploring Data**](#11-exploring-data) (4 videos)
+  - What is Google Colab?
+  - Exploratory data analysis for life expectancy
+  - Data science setup with virtualenv and pip on Windows
+  - Graphing data for exploratory data analysis
+- [**12. Building Data Pipelines**](#12-building-data-pipelines) (5 videos)
+  - Labeling data
+  - Mechanical Turk labeling
+  - Cleaning up data
+  - Scaling data
+  - BigQuery data pipelines with Colab
+- [**13. Creating Input Features**](#13-creating-input-features) (3 videos)
+  - Feature engineering concepts
+  - Extracting features from public datasets
+  - Exploratory data analysis with Google BigQuery
+- [**14. Conclusion: Designing Data Preparation and Processing Systems**](#14-conclusion-designing-data-preparation-and-processing-systems) (1 videos)
+  - Designing data preparation and processing systems: Next steps
+- [**15. Introduction: Developing ML Models**](#15-introduction-developing-ml-models) (2 videos)
+  - Developing ML models: Overview
+  - Developing ML models: Key terminology
+- [**16. Building Models**](#16-building-models) (3 videos)
+  - Using TensorFlow Playground
+  - Overfitting vs. underfitting
+  - Selecting the right metrics
+- [**17. Training Models**](#17-training-models) (3 videos)
+  - Training models with TensorFlow and a GPU-enabled Docker
+  - Fine-tuning raw ingredients with Hugging Face
+  - Advantages of transfer learning
+- [**18. Scaling Model Training and Serving**](#18-scaling-model-training-and-serving) (12 videos)
+  - Operationalize microservices
+  - Monitoring and logging with Rust on Google App Engine
+  - Continuous integration using Rust with GitHub Actions
+  - Demo: Unit testing Rust
+  - Demo: GitHub copilot-enabled Rust
+  - Set up a GCP workstation with Python
+  - Demo: Google Cloud Shell
+  - Demo: Google Cloud Editor
+  - Demo: Google CLI SDK
+  - Demo: Google gcloud CLI
+  - Demo: Google App Engine Rust deployment
+  - Demo: Google App Engine Golang
+- [**19. Conclusion: Developing ML Models**](#19-conclusion-developing-ml-models) (1 videos)
+  - Developing ML models: Next steps
+- [**20. Introduction: Automating and Orchestrating ML Pipelines**](#20-introduction-automating-and-orchestrating-ml-pipelines) (2 videos)
+  - Automating and orchestrating ML pipelines: Overview
+  - Automating and orchestrating ML pipelines: Key terminology
+- [**21. Designing and Implementing Training Pipelines**](#21-designing-and-implementing-training-pipelines) (5 videos)
+  - Prompt engineering for Google BigQuery with ChatGPT 4
+  - Getting started with Vertex AI
+  - Understanding TPUs
+  - TPUs as a technology transition
+  - Demo: TPU, PyTorch, and MNIST
+- [**22. Implementing Serving Pipelines**](#22-implementing-serving-pipelines) (3 videos)
+  - TensorFlow serving with a GPU-enabled Docker
+  - A Rust and PyTorch microservice walkthrough
+  - Demo: Rust pretrained PyTorch microservice
+- [**23. Conclusion: Automating and Orchestrating ML Pipelines**](#23-conclusion-automating-and-orchestrating-ml-pipelines) (1 videos)
+  - Automating and orchestrating ML pipelines: Next steps
+- [**24. Introduction: Monitoring, Optimizing, and Maintaining ML Solutions**](#24-introduction-monitoring-optimizing-and-maintaining-ml-solutions) (2 videos)
+  - Monitoring, optimizing, and maintaining ML solutions: Overview
+  - Monitoring, optimizing, and maintaining ML solutions: Key terminology
+- [**25. ML Solutions**](#25-ml-solutions) (13 videos)
+  - Data drift explained by the naughty child problem
+  - Load testing with Locust
+  - Demo: Auditing via logs
+  - Demo: Logging dashboard
+  - Demo: Cloud web security scanner
+  - Demo: Querying logging output with BigQuery
+  - Demo: Load testing with Rust
+  - Five whys
+  - Using Google Courses
+  - Building a translator with Rust and Hugging Face
+  - Using PyTorch and Rust for stable diffusion
+  - Using Rust with PyTorch
+  - Building a CUDA GPU stress test
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course and Google Professional Machine Learning Engineer exam overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980)
@@ -274,7 +366,7 @@ created: 2026-04-29
 
 ### 1. Translating Business Challenges into ML Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building AI-enabled workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980)
@@ -365,7 +457,7 @@ created: 2026-04-29
 
 ### 2. Defining ML Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simulations vs. experiment tracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980)
@@ -673,7 +765,7 @@ created: 2026-04-29
 
 ### 3. Defining Business Success Criteria
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining business success criteria
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/defining-business-success-criteria?u=76281980)
@@ -729,7 +821,7 @@ created: 2026-04-29
 
 ### 4. Identifying Risks to Feasibility of ML Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MLOps hierarchy of needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980)
@@ -877,7 +969,7 @@ created: 2026-04-29
 
 ### 5. Conclusion: Framing ML Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Framing ML problems: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps?u=76281980)
@@ -885,7 +977,7 @@ created: 2026-04-29
 
 ### 6. Introduction: Architecting a ML Solution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecting a ML solution: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980)
@@ -1084,7 +1176,7 @@ created: 2026-04-29
 
 ### 7. Designing a Reliable, Scalable, and Highly Available ML Solution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is continuous delivery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980)
@@ -1227,7 +1319,7 @@ created: 2026-04-29
 
 ### 8. Choosing Appropriate Google Cloud Hardware Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting heavy vs. light MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980)
@@ -1422,7 +1514,7 @@ created: 2026-04-29
 
 ### 9. Conclusion: Architecting a ML Solution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecting a ML solution: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980)
@@ -1474,7 +1566,7 @@ created: 2026-04-29
 
 ### 10. Introduction: Designing Data Preparation and Processing Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing data preparation and processing systems: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980)
@@ -1750,7 +1842,7 @@ created: 2026-04-29
 
 ### 11. Exploring Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Google Colab?
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980)
@@ -2149,7 +2241,7 @@ created: 2026-04-29
 
 ### 12. Building Data Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Labeling data
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/labeling-data?u=76281980)
@@ -2434,7 +2526,7 @@ created: 2026-04-29
 
 ### 13. Creating Input Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Feature engineering concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-engineering-concepts?u=76281980)
@@ -2766,7 +2858,7 @@ created: 2026-04-29
 
 ### 14. Conclusion: Designing Data Preparation and Processing Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing data preparation and processing systems: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980)
@@ -2812,7 +2904,7 @@ created: 2026-04-29
 
 ### 15. Introduction: Developing ML Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing ML models: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980)
@@ -2917,7 +3009,7 @@ created: 2026-04-29
 
 ### 16. Building Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using TensorFlow Playground
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980)
@@ -3092,7 +3184,7 @@ created: 2026-04-29
 
 ### 17. Training Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Training models with TensorFlow and a GPU-enabled Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980)
@@ -3274,7 +3366,7 @@ created: 2026-04-29
 
 ### 18. Scaling Model Training and Serving
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Operationalize microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980)
@@ -4788,7 +4880,7 @@ created: 2026-04-29
 
 ### 19. Conclusion: Developing ML Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing ML models: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980)
@@ -4831,7 +4923,7 @@ created: 2026-04-29
 
 ### 20. Introduction: Automating and Orchestrating ML Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automating and orchestrating ML pipelines: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980)
@@ -4949,7 +5041,7 @@ created: 2026-04-29
 
 ### 21. Designing and Implementing Training Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt engineering for Google BigQuery with ChatGPT 4
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980)
@@ -5484,7 +5576,7 @@ created: 2026-04-29
 
 ### 22. Implementing Serving Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### TensorFlow serving with a GPU-enabled Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980)
@@ -5969,7 +6061,7 @@ created: 2026-04-29
 
 ### 23. Conclusion: Automating and Orchestrating ML Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automating and orchestrating ML pipelines: Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980)
@@ -6012,7 +6104,7 @@ created: 2026-04-29
 
 ### 24. Introduction: Monitoring, Optimizing, and Maintaining ML Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring, optimizing, and maintaining ML solutions: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980)
@@ -6115,7 +6207,7 @@ created: 2026-04-29
 
 ### 25. ML Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data drift explained by the naughty child problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-drift-explained-by-naughty-child-problem?u=76281980)
@@ -7407,7 +7499,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980)

@@ -48,16 +48,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. An Overview of Page Layouts]]** (3 videos)
-- **[[#2. Float, Display, and Position]]** (10 videos)
-- **[[#3. Flexbox]]** (8 videos)
-- **[[#4. Grid]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know
+  - Using the exercise files
+- [**1. An Overview of Page Layouts**](#1-an-overview-of-page-layouts) (3 videos)
+  - Layouts with HTML
+  - Layouts with CSS
+  - Browser support and CSS standards
+- [**2. Float, Display, and Position**](#2-float-display-and-position) (10 videos)
+  - Inline and block elements
+  - The box model properties
+  - The display property
+  - The box model and layouts
+  - The float property
+  - Clearing floats
+  - Setting up your project
+  - Exercise: Build a layout with float
+  - Position: Relative and absolute
+  - Position: Fixed, sticky, and static
+- [**3. Flexbox**](#3-flexbox) (8 videos)
+  - Getting started with Flexbox
+  - Orientation with flex-direction and flex-wrap
+  - Flexible sizing
+  - Sizing multiple flex items
+  - The order property
+  - Nesting flex containers
+  - Exercise: Build a layout with Flexbox, part 1
+  - Exercise: Build a layout with Flexbox, part 2
+- [**4. Grid**](#4-grid) (7 videos)
+  - Grid vs. Flexbox
+  - Grid, grid systems, and CSS Grid
+  - Create a basic Grid layout
+  - Columns, rows, and gutters with Grid
+  - Positioning with Grid
+  - Exercise: Build a layout with Grid
+  - Exercise: Create a sticky footer with Grid
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/welcome-26990147?u=76281980)
@@ -140,7 +172,7 @@ created: 2026-04-29
 
 ### 1. An Overview of Page Layouts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Layouts with HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/layouts-with-html-26980336?u=76281980)
@@ -310,7 +342,7 @@ created: 2026-04-29
 
 ### 2. Float, Display, and Position
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inline and block elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/inline-and-block-elements?u=76281980)
@@ -1262,7 +1294,7 @@ created: 2026-04-29
 
 ### 3. Flexbox
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/getting-started-with-flexbox?u=76281980)
@@ -1879,7 +1911,7 @@ created: 2026-04-29
 
 ### 4. Grid
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Grid vs. Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/grid-vs-flexbox?u=76281980)
@@ -2478,7 +2510,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/next-steps-and-resources-26970311?u=76281980)

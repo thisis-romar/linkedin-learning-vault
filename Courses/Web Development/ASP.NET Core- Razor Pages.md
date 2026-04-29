@@ -49,16 +49,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started with Razor Pages]]** (4 videos)
-- **[[#2. Working with Forms in Razor Pages]]** (7 videos)
-- **[[#3. Working with Data in Razor Pages]]** (5 videos)
-- **[[#4. Securing Razor Pages Applications]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why use Razor Pages?
+  - What you should know
+- [**1. Getting Started with Razor Pages**](#1-getting-started-with-razor-pages) (4 videos)
+  - What is ASP.NET Razor Pages?
+  - ASP.NET Razor Pages vs. ASP.NET MVC
+  - Creating an empty ASP.NET Razor Pages project
+  - Key ASP.NET Razor Pages concepts
+- [**2. Working with Forms in Razor Pages**](#2-working-with-forms-in-razor-pages) (7 videos)
+  - Data binding in ASP.NET Razor Pages
+  - ASP.NET Razor Pages application overview
+  - One-way data binding in ASP.NET Razor Pages
+  - Two-way data binding in ASP.NET Razor Pages
+  - Event binding in ASP.NET Razor Pages
+  - Model binding ASP.NET Razor Pages
+  - Form data validation in ASP.NET Razor Pages
+- [**3. Working with Data in Razor Pages**](#3-working-with-data-in-razor-pages) (5 videos)
+  - Setting up Entity Framework Core in ASP.NET Razor Pages
+  - Adding and storing data in a database
+  - Getting data from a database
+  - Getting data by ID from a database
+  - Service configuration in ASP.NET Razor Pages
+- [**4. Securing Razor Pages Applications**](#4-securing-razor-pages-applications) (4 videos)
+  - Authentication vs. authorization
+  - Simple authorization in ASP.NET Razor Pages
+  - Role-based authorization in ASP.NET Razor Pages
+  - Claims-based authorization in ASP.NET Razor Pages
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps for learning more about Razor Pages
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use Razor Pages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/why-use-razor-pages?u=76281980)
@@ -120,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Razor Pages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ASP.NET Razor Pages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/what-is-asp-dot-net-razor-pages?u=76281980)
@@ -538,7 +561,7 @@ created: 2026-04-29
 
 ### 2. Working with Forms in Razor Pages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data binding in ASP.NET Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/data-binding-in-asp-dot-net-razor-pages?u=76281980)
@@ -1339,7 +1362,7 @@ created: 2026-04-29
 
 ### 3. Working with Data in Razor Pages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Entity Framework Core in ASP.NET Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/setting-up-entity-framework-core-in-asp-dot-net-razor-pages?u=76281980)
@@ -2212,7 +2235,7 @@ created: 2026-04-29
 
 ### 4. Securing Razor Pages Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication vs. authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/authentication-vs-authorization?u=76281980)
@@ -2515,7 +2538,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for learning more about Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-razor-pages-14933051/next-steps-for-learning-more-about-razor-pages?u=76281980)

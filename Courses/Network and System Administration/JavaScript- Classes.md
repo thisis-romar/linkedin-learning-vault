@@ -48,15 +48,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Defining Classes]]** (7 videos)
-- **[[#2. Constructors and Getters/Setters]]** (3 videos)
-- **[[#3. Extends and Mixins]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - JavaScript classes explored
+  - Course prerequisites
+- [**1. Defining Classes**](#1-defining-classes) (7 videos)
+  - Introduction to classes
+  - Defining a class
+  - Differences between functions and classes
+  - Hoisting explained with classes
+  - Strict mode with classes explained
+  - What are static methods and usage?
+  - Prototype methods explained and usage
+- [**2. Constructors and Getters/Setters**](#2-constructors-and-getterssetters) (3 videos)
+  - Introduction to constructors
+  - Constructor and super usage
+  - Introduction and usage: Getters and setters
+- [**3. Extends and Mixins**](#3-extends-and-mixins) (2 videos)
+  - Introduction to extends and usage
+  - Introduction to mixins and usage
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript classes explored
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/javascript-classes-explored?u=76281980)
@@ -113,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Defining Classes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-classes?u=76281980)
@@ -614,7 +629,7 @@ created: 2026-04-29
 
 ### 2. Constructors and Getters/Setters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to constructors
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-constructors?u=76281980)
@@ -862,7 +877,7 @@ created: 2026-04-29
 
 ### 3. Extends and Mixins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to extends and usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/introduction-to-extends-and-usage?u=76281980)
@@ -1062,7 +1077,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-classes-19958382/what-s-next?u=76281980)

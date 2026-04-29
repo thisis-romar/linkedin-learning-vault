@@ -55,16 +55,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Cypress]]** (2 videos)
-- **[[#2. The Basics]]** (10 videos)
-- **[[#3. Intermediate Concepts]]** (9 videos)
-- **[[#4. Useful Commands]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - It's time to use Cypress.io to do some end-to-end JavaScript testing
+  - What you should know
+- [**1. Introduction to Cypress**](#1-introduction-to-cypress) (2 videos)
+  - What is Cypress?
+  - Advantages of Cypress
+- [**2. The Basics**](#2-the-basics) (10 videos)
+  - Installing and running Cypress
+  - Writing and running Cypress tests
+  - Testing text inputs
+  - Selecting elements
+  - Element aliasing
+  - Working with command results
+  - Using beforeEach
+  - Setting a base URL
+  - Challenge 1: Writing your own tests
+  - Solution 1: Writing your own tests
+- [**3. Intermediate Concepts**](#3-intermediate-concepts) (9 videos)
+  - Interacting with elements
+  - Triggering other actions
+  - Common assertions
+  - Automatic retries
+  - Debugging Cypress tests
+  - Setting environment variables
+  - Working with test doubles
+  - Challenge 2: Writing your own tests
+  - Solution 2: Writing your own tests
+- [**4. Useful Commands**](#4-useful-commands) (7 videos)
+  - The wrap command
+  - The and command
+  - The filter and not commands
+  - Typing special characters
+  - Activating code completion
+  - Challenge 3: Writing your own tests
+  - Solution 3: Writing your own tests
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with Cypress.io and JavaScript
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### It's time to use Cypress.io to do some end-to-end JavaScript testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/let-s-use-cypress-io-to-do-some-end-to-end-javascript-testing?u=76281980)
@@ -120,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Cypress
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Cypress?
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980)
@@ -201,7 +232,7 @@ created: 2026-04-29
 
 ### 2. The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing and running Cypress
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/installing-running-cypress?u=76281980)
@@ -1271,7 +1302,7 @@ created: 2026-04-29
 
 ### 3. Intermediate Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interacting with elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/interacting-with-elements?u=76281980)
@@ -2203,7 +2234,7 @@ created: 2026-04-29
 
 ### 4. Useful Commands
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The wrap command
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-wrap-command?u=76281980)
@@ -2584,7 +2615,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Cypress.io and JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/next-steps-with-cypress-io-and-javascript?u=76281980)

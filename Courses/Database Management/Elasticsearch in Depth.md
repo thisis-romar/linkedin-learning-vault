@@ -47,16 +47,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started]]** (6 videos)
-- **[[#2. Specialized Data Type and Query Support]]** (6 videos)
-- **[[#3. Advanced Queries]]** (6 videos)
-- **[[#4. Modifying Data]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Much more than full-text searches
+- [**1. Getting Started**](#1-getting-started) (6 videos)
+  - The Elasticsearch stack
+  - Installing Elasticsearch and Kibana locally
+  - Executing basic CRUD-like data operations
+  - Using Elastic SQL
+  - Basic Elastic schema and data design
+  - Document database schema topics
+- [**2. Specialized Data Type and Query Support**](#2-specialized-data-type-and-query-support) (6 videos)
+  - Finding objects with GeoShape
+  - Storing data and searching complex nested data
+  - Creating parent/child relationships between documents
+  - Combining multiple fields to simplify searching
+  - Using Elasticsearch pipelines to enhance data
+  - Storing data with varying structures using flatten
+- [**3. Advanced Queries**](#3-advanced-queries) (6 videos)
+  - Filtering, matching, and scoring explained
+  - Retrieving large result sets using the Scroll API
+  - Performing aggregations
+  - Indexing templates to define index properties
+  - Implementing expiring data with lifecycle management
+  - Working with index aliases
+- [**4. Modifying Data**](#4-modifying-data) (5 videos)
+  - Updating documents using scripting
+  - Saving scripts for reuse
+  - Updating by query
+  - Using document versioning
+  - Managing long-running operations using Task API
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Much more than full-text searches
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/much-more-than-full-text-searches?u=76281980)
@@ -85,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Elasticsearch stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/the-elasticsearch-stack?u=76281980)
@@ -786,7 +811,7 @@ created: 2026-04-29
 
 ### 2. Specialized Data Type and Query Support
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding objects with GeoShape
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/finding-objects-with-geoshape?u=76281980)
@@ -1400,7 +1425,7 @@ created: 2026-04-29
 
 ### 3. Advanced Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering, matching, and scoring explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/filtering-matching-and-scoring-explained?u=76281980)
@@ -1958,7 +1983,7 @@ created: 2026-04-29
 
 ### 4. Modifying Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Updating documents using scripting
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/updating-documents-using-scripting?u=76281980)
@@ -2421,7 +2446,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-in-depth/next-steps?u=76281980)

@@ -47,17 +47,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Network Session Hijacking]]** (3 videos)
-- **[[#2. Web Session Hijacking]]** (10 videos)
-- **[[#3. Additional Tools]]** (2 videos)
-- **[[#4. Service Hijacking]]** (3 videos)
-- **[[#5. Hijacking in the Physical World]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Understanding session hijacking
+  - What you should know before watching this course
+  - Disclaimer
+- [**1. Network Session Hijacking**](#1-network-session-hijacking) (3 videos)
+  - Understanding TCP sequence numbers
+  - Hijacking a Telnet session
+  - Real-world hijacks
+- [**2. Web Session Hijacking**](#2-web-session-hijacking) (10 videos)
+  - Understanding web sessions
+  - Understanding WebSockets
+  - Banking on Zero
+  - Hijacking sessions using man-in-the-browser
+  - Intercepting sessions through man-in-the-middle
+  - Stripping SSL to downgrade the session
+  - Hijacking an HTTP session through cookies
+  - Using Subterfuge to hijack sessions through ARP poisoning
+  - Using Webscarab-NG as a web proxy
+  - Defeating the Hijack
+- [**3. Additional Tools**](#3-additional-tools) (2 videos)
+  - Using Zed Attack Proxy (ZAP)
+  - Using Cain
+- [**4. Service Hijacking**](#4-service-hijacking) (3 videos)
+  - Hijacking SSH sessions
+  - DNS hijacking
+  - Cloud hijacking
+- [**5. Hijacking in the Physical World**](#5-hijacking-in-the-physical-world) (2 videos)
+  - Going physical: Hijacking cars and drones
+  - Getting more physical with drones
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding session hijacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-session-hijacking-2?u=76281980)
@@ -141,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Network Session Hijacking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding TCP sequence numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-tcp-sequence-numbers?u=76281980)
@@ -393,7 +417,7 @@ created: 2026-04-29
 
 ### 2. Web Session Hijacking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding web sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/understanding-web-sessions?u=76281980)
@@ -1170,7 +1194,7 @@ created: 2026-04-29
 
 ### 3. Additional Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Zed Attack Proxy (ZAP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/using-zed-attack-proxy-zap?u=76281980)
@@ -1311,7 +1335,7 @@ created: 2026-04-29
 
 ### 4. Service Hijacking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hijacking SSH sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/hijacking-ssh-sessions?u=76281980)
@@ -1496,7 +1520,7 @@ created: 2026-04-29
 
 ### 5. Hijacking in the Physical World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going physical: Hijacking cars and drones
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/going-physical-hijacking-cars-and-drones?u=76281980)
@@ -1678,7 +1702,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-session-hijacking/next-steps?u=76281980)

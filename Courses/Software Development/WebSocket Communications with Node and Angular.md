@@ -50,16 +50,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Environment: TypeScript, Node, and Angular]]** (6 videos)
-- **[[#2. Stand Up a WebSocket Service]]** (6 videos)
-- **[[#3. Build the UI with Angular]]** (4 videos)
-- **[[#4. Turn On WebSockets in the UI]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - What are WebSockets?
+  - Preview the chat app we will build together
+  - What you should know
+- [**1. Environment: TypeScript, Node, and Angular**](#1-environment-typescript-node-and-angular) (6 videos)
+  - How to clone the code at any stage
+  - Create shared datatypes library
+  - Create the Node.js service
+  - Create the client Angular application
+  - Review the project structure
+  - Add the WebSocket server to Node.js
+- [**2. Stand Up a WebSocket Service**](#2-stand-up-a-websocket-service) (6 videos)
+  - Receive your first WebSocket connection
+  - Manage multiple connected users
+  - Standardize WebSocket message shape
+  - Broadcast new chat message to all
+  - Challenge: Notify all when a new user connects
+  - Solution: Notify all when a user connects
+- [**3. Build the UI with Angular**](#3-build-the-ui-with-angular) (4 videos)
+  - A quick look at Angular
+  - Set up the chat component
+  - Prototype the chat UI
+  - Add the connection UI
+- [**4. Turn On WebSockets in the UI**](#4-turn-on-websockets-in-the-ui) (7 videos)
+  - Simulate authentication on new connections
+  - Connect the web app to the socket
+  - Start chatting
+  - Challenge: Show notification when user enters or leaves
+  - Solution: Show notification when user enters or leaves
+  - Challenge: Show list of connected users
+  - Solution: Show list of connected users
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are WebSockets?
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/what-are-websockets?u=76281980)
@@ -210,7 +237,7 @@ created: 2026-04-29
 
 ### 1. Environment: TypeScript, Node, and Angular
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to clone the code at any stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/how-to-clone-the-code-at-any-stage?u=76281980)
@@ -783,7 +810,7 @@ created: 2026-04-29
 
 ### 2. Stand Up a WebSocket Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Receive your first WebSocket connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/receive-your-first-websocket-connection?u=76281980)
@@ -1419,7 +1446,7 @@ created: 2026-04-29
 
 ### 3. Build the UI with Angular
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick look at Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/a-quick-look-at-angular?u=76281980)
@@ -1940,7 +1967,7 @@ created: 2026-04-29
 
 ### 4. Turn On WebSockets in the UI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simulate authentication on new connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/simulate-authentication-on-new-connections?u=76281980)
@@ -2933,7 +2960,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular/next-steps?u=76281980)

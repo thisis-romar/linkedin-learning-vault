@@ -54,18 +54,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Responsible AI]]** (3 videos)
-- **[[#2. Understanding Azure AI Content Safety]]** (3 videos)
-- **[[#3. Large Language Models (LLMs) and Content Safety]]** (3 videos)
-- **[[#4. Implementing Azure AI Content Safety]]** (4 videos)
-- **[[#5. Advanced Features for LLMs]]** (4 videos)
-- **[[#6. Security and Compliance]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Responsible AI and this course
+  - What you should know
+- [**1. Introduction to Responsible AI**](#1-introduction-to-responsible-ai) (3 videos)
+  - Overview of responsible AI
+  - Ethical considerations in AI
+  - The Microsoft responsible AI framework
+- [**2. Understanding Azure AI Content Safety**](#2-understanding-azure-ai-content-safety) (3 videos)
+  - Introduction to Azure AI Content Safety
+  - Key features and capabilities
+  - Use cases and applications
+- [**3. Large Language Models (LLMs) and Content Safety**](#3-large-language-models-llms-and-content-safety) (3 videos)
+  - Introduction to LLMs
+  - Challenges with LLMs
+  - Ensuring content safety with LLMs
+- [**4. Implementing Azure AI Content Safety**](#4-implementing-azure-ai-content-safety) (4 videos)
+  - Setting up Azure AI Content Safety
+  - Using content safety APIs
+  - Customizing content filters
+  - Content safety in Azure OpenAI
+- [**5. Advanced Features for LLMs**](#5-advanced-features-for-llms) (4 videos)
+  - Prompt shields
+  - Groundedness detection
+  - Protected material detection
+  - Bringing it all together
+- [**6. Security and Compliance**](#6-security-and-compliance) (3 videos)
+  - Built-in security features
+  - Compliance with industry standards
+  - Data privacy and protection
+- [**Conclusion**](#conclusion) (2 videos)
+  - Reviewing key concepts
+  - Additional resources for continued learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI and this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/responsible-ai-and-this-course?u=76281980)
@@ -124,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/overview-of-responsible-ai?u=76281980)
@@ -432,7 +456,7 @@ created: 2026-04-29
 
 ### 2. Understanding Azure AI Content Safety
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Azure AI Content Safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/introduction-to-azure-ai-content-safety?u=76281980)
@@ -727,7 +751,7 @@ created: 2026-04-29
 
 ### 3. Large Language Models (LLMs) and Content Safety
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/introduction-to-llms?u=76281980)
@@ -1117,7 +1141,7 @@ created: 2026-04-29
 
 ### 4. Implementing Azure AI Content Safety
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Azure AI Content Safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/setting-up-azure-ai-content-safety?u=76281980)
@@ -1689,7 +1713,7 @@ created: 2026-04-29
 
 ### 5. Advanced Features for LLMs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt shields
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/prompt-shields?u=76281980)
@@ -2036,7 +2060,7 @@ created: 2026-04-29
 
 ### 6. Security and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in security features
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/built-in-security-features?u=76281980)
@@ -2163,7 +2187,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-content-safety-and-responsible-ai/reviewing-key-concepts?u=76281980)

@@ -56,19 +56,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Database Foundations]]** (5 videos)
-- **[[#2. Tables]]** (5 videos)
-- **[[#3. Relationships]]** (5 videos)
-- **[[#4. Database Optimization]]** (5 videos)
-- **[[#5. Querying a Database]]** (8 videos)
-- **[[#6. Further Database Topics]]** (3 videos)
-- **[[#Glossaries]]** (0 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Why use a database?
+  - What you should know
+  - Understanding databases: Benefits of spreadsheets
+  - Understanding databases: Benefits of structured data
+- [**1. Database Foundations**](#1-database-foundations) (5 videos)
+  - Relational databases
+  - Keys and unique values
+  - Relationships
+  - ACID and transactions
+  - Basic SQL
+- [**2. Tables**](#2-tables) (5 videos)
+  - Modeling and planning a database
+  - Naming tables
+  - Columns and data types
+  - Numbers and other types
+  - Primary and foreign keys
+- [**3. Relationships**](#3-relationships) (5 videos)
+  - Creating relationships
+  - One-to-many relationships
+  - Many-to-many relationships
+  - One-to-one relationships
+  - Relationship rules and referential integrity
+- [**4. Database Optimization**](#4-database-optimization) (5 videos)
+  - Normalization
+  - First normal form
+  - Second normal form
+  - Third normal form
+  - Denormalization
+- [**5. Querying a Database**](#5-querying-a-database) (8 videos)
+  - Creating a database
+  - Creating tables
+  - Writing SQL queries
+  - Narrowing query results
+  - Sorting results
+  - Aggregate functions
+  - Joining tables
+  - Modifying data
+- [**6. Further Database Topics**](#6-further-database-topics) (3 videos)
+  - Indexes, transactions, and stored procedures
+  - Access control, compliance, and injection
+  - Software options
+- [**Glossaries**](#glossaries) (0 videos)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=76281980)
@@ -228,7 +264,7 @@ created: 2026-04-29
 
 ### 1. Database Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/relational-databases-2?u=76281980)
@@ -566,7 +602,7 @@ created: 2026-04-29
 
 ### 2. Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling and planning a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/modeling-and-planning-a-database?u=76281980)
@@ -925,7 +961,7 @@ created: 2026-04-29
 
 ### 3. Relationships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-relationships?u=76281980)
@@ -1213,7 +1249,7 @@ created: 2026-04-29
 
 ### 4. Database Optimization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/normalization-2?u=76281980)
@@ -1475,7 +1511,7 @@ created: 2026-04-29
 
 ### 5. Querying a Database
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/creating-a-database?u=76281980)
@@ -2024,7 +2060,7 @@ created: 2026-04-29
 
 ### 6. Further Database Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Indexes, transactions, and stored procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/indexes-transactions-and-stored-procedures?u=76281980)
@@ -2225,12 +2261,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-databases-2/next-steps?u=76281980)

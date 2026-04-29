@@ -50,17 +50,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Basics of Text to Image Prompts]]** (5 videos)
-- **[[#2. Going Farther with Midjourney]]** (8 videos)
-- **[[#3. Midjourney 5 And Beyond]]** (10 videos)
-- **[[#4. First Look: Midjourney on the Web]]** (5 videos)
-- **[[#5. . Generative AI Alternatives and Issues]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The rise of image generation apps
+  - Downloading and using the exercise files
+- [**1. The Basics of Text to Image Prompts**](#1-the-basics-of-text-to-image-prompts) (5 videos)
+  - How text to image prompts work
+  - Joining Midjourney and installing Discord
+  - Creating your first Midjourney text prompt
+  - Creating your first Midjourney text prompt on the web
+  - Prompting on Midjourney, viewing your images, and finding inspiration
+- [**2. Going Farther with Midjourney**](#2-going-farther-with-midjourney) (8 videos)
+  - Using external images with a text prompt
+  - Blending images
+  - Getting help and adjusting settings
+  - Using Midjourney v5 and beyond
+  - Text separation and weights to drive image creation
+  - Midjourney parameters for lighting, image size, and more
+  - Midjourney parameters for video, seamless textures, and more
+  - Using Style Raw and the Stylize Parameter
+- [**3. Midjourney 5 And Beyond**](#3-midjourney-5-and-beyond) (10 videos)
+  - Image and text prompt ideation: Repeat, describe, and shorten
+  - Multiple text prompts in one (Permutation Prompts)
+  - Pan and vary images
+  - Using Midjourney's 5.2 Zoom feature
+  - Changing part of an image with Vary Region (inpainting)
+  - Working with Midjourney v6
+  - Creating text in Midjourney v6
+  - Using the Style Reference parameter
+  - Character consistency in v6
+  - Experimenting with character consistency and permutations
+- [**4. First Look: Midjourney on the Web**](#4-first-look-midjourney-on-the-web) (5 videos)
+  - A tour of the Create tab
+  - Exploring the community for inspiration
+  - Organizing and rerolling previous image creations
+  - Uploading images
+  - Working in rooms
+- [**5. . Generative AI Alternatives and Issues**](#5-generative-ai-alternatives-and-issues) (3 videos)
+  - Using generative AI images with other AI apps
+  - Understanding Midjourney copyright
+  - Generative image app alternatives
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your Midjourney learning experience
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The rise of image generation apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980)
@@ -146,7 +180,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Text to Image Prompts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How text to image prompts work
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980)
@@ -577,7 +611,7 @@ created: 2026-04-29
 
 ### 2. Going Farther with Midjourney
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using external images with a text prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980)
@@ -1462,7 +1496,7 @@ created: 2026-04-29
 
 ### 3. Midjourney 5 And Beyond
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Image and text prompt ideation: Repeat, describe, and shorten
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980)
@@ -2499,7 +2533,7 @@ created: 2026-04-29
 
 ### 4. First Look: Midjourney on the Web
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A tour of the Create tab
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980)
@@ -3019,7 +3053,7 @@ created: 2026-04-29
 
 ### 5. . Generative AI Alternatives and Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using generative AI images with other AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980)
@@ -3375,7 +3409,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your Midjourney learning experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980)

@@ -48,16 +48,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Serializing, Listing, Filtering, and Paginating Models]]** (6 videos)
-- **[[#2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models]]** (6 videos)
-- **[[#3. Managing Serializer Fields, Relations, and Validation]]** (6 videos)
-- **[[#4. Testing API Views]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Create a REST API with Django and Django REST framework
+  - What you should know
+  - Demo project overview
+- [**1. Serializing, Listing, Filtering, and Paginating Models**](#1-serializing-listing-filtering-and-paginating-models) (6 videos)
+  - Creating a Django Rest framework serializer to serialize a model
+  - Creating a ListAPIView subclass
+  - Connecting an APIView to a route
+  - Filter back ends with URL query parameters
+  - Enabling full-text search filter back end
+  - Enabling pagination of querysets in API responses
+- [**2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models**](#2-create-retrieve-update-and-delete-crud-operations-for-models) (6 videos)
+  - Creating a CreateAPIView subclass
+  - Connecting a CreateAPIView to the router
+  - Creating a DestroyAPIView subclass
+  - Connecting a DestroyAPIView to the router
+  - Creating an UpdateAPIView subclass
+  - Connecting an UpdateAPIView to the router
+- [**3. Managing Serializer Fields, Relations, and Validation**](#3-managing-serializer-fields-relations-and-validation) (6 videos)
+  - Serializer with only selected fields
+  - Serializer that shows model relationships
+  - Number fields with serializers
+  - Date and time fields with serializers
+  - Lists, dicts, and JSON objects
+  - Serializer with ImageField and FileField
+- [**4. Testing API Views**](#4-testing-api-views) (5 videos)
+  - Test case for a CreateAPIView subclass
+  - Test case for a DestroyAPIView subclass
+  - Test case for a ListAPIView subclass
+  - Unit test for an UpdateAPIView subclass
+  - Handling image uploads in a unit test
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a REST API with Django and Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980)
@@ -149,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Serializing, Listing, Filtering, and Paginating Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a Django Rest framework serializer to serialize a model
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980)
@@ -466,7 +493,7 @@ created: 2026-04-29
 
 ### 2. Create, Retrieve, Update, and Delete (CRUD) Operations for Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a CreateAPIView subclass
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980)
@@ -732,7 +759,7 @@ created: 2026-04-29
 
 ### 3. Managing Serializer Fields, Relations, and Validation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Serializer with only selected fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-only-selected-fields?u=76281980)
@@ -1090,7 +1117,7 @@ created: 2026-04-29
 
 ### 4. Testing API Views
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test case for a CreateAPIView subclass
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980)
@@ -1316,7 +1343,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980)

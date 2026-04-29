@@ -46,16 +46,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Overview: Project Integration Management]]** (4 videos)
-- **[[#2. Processes: Project Integration Management]]** (7 videos)
-- **[[#3. Best Practices: Project Integration Management]]** (5 videos)
-- **[[#4. Emerging Trends: Project Integration Management]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Integrate processes as you PM
+- [**1. Overview: Project Integration Management**](#1-overview-project-integration-management) (4 videos)
+  - Define integration management
+  - Importance of integration management
+  - Key integration management concepts
+  - Understanding process flows
+- [**2. Processes: Project Integration Management**](#2-processes-project-integration-management) (7 videos)
+  - Develop Project Charter
+  - Develop Project Management Plan
+  - Direct and Manage Project Work
+  - Manage Project Knowledge
+  - Monitor and Control Project Work
+  - Perform Integrated Change Control
+  - Close Project or Phase
+- [**3. Best Practices: Project Integration Management**](#3-best-practices-project-integration-management) (5 videos)
+  - Tailor integration management
+  - Manage project constraints
+  - Facilitate project interactions
+  - Close project deliverables
+  - Document lessons learned
+- [**4. Emerging Trends: Project Integration Management**](#4-emerging-trends-project-integration-management) (3 videos)
+  - Integrate self-directed teams
+  - Integrate hybrid methodologies
+  - Integrate artificial intelligence
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate processes as you PM
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-processes-as-you-pm?u=76281980)
@@ -90,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Overview: Project Integration Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define integration management
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/define-integration-management?u=76281980)
@@ -362,7 +383,7 @@ created: 2026-04-29
 
 ### 2. Processes: Project Integration Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop Project Charter
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-charter?u=76281980)
@@ -851,7 +872,7 @@ created: 2026-04-29
 
 ### 3. Best Practices: Project Integration Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tailor integration management
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/tailor-integration-management?u=76281980)
@@ -1167,7 +1188,7 @@ created: 2026-04-29
 
 ### 4. Emerging Trends: Project Integration Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate self-directed teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-self-directed-teams?u=76281980)
@@ -1378,7 +1399,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/next-steps?u=76281980)

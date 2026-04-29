@@ -48,19 +48,75 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Stable Diffusion Basics]]** (5 videos)
-- **[[#2. Digging Deeper into Stable Diffusion Prompts]]** (12 videos)
-- **[[#3. Advanced Stable Diffusion]]** (7 videos)
-- **[[#4. Training and Customizing Stable Diffusion]]** (13 videos)
-- **[[#5. Working with ControlNet]]** (9 videos)
-- **[[#6. Refining Your Workflow]]** (4 videos)
-- **[[#7. Customization and Model Training]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - What is Stable Diffusion?
+- [**1. Stable Diffusion Basics**](#1-stable-diffusion-basics) (5 videos)
+  - What can you do with Stable Diffusion?
+  - What's different about Stable Diffusion?
+  - How can you access Stable Diffusion?
+  - Installing Stable Diffusion locally
+  - Using Stable Diffusion
+- [**2. Digging Deeper into Stable Diffusion Prompts**](#2-digging-deeper-into-stable-diffusion-prompts) (12 videos)
+  - What does a prompt do?
+  - Stable Diffusion seeds
+  - Stable Diffusion batches and pixel counts
+  - Prompt basics
+  - Questions to answer when writing prompts
+  - PNG information and saving
+  - Using CFG scale
+  - Prompt weighting
+  - Writing prompts for series 2 models
+  - Prompt libraries and styles
+  - Interrogating an image
+  - Artist names and rendering styles
+- [**3. Advanced Stable Diffusion**](#3-advanced-stable-diffusion) (7 videos)
+  - Sampling and steps
+  - Automatic iterating
+  - Changing SD models
+  - Using LoRA models
+  - Using embeddings
+  - Upscaling SD images
+  - Settings and extensions
+- [**4. Training and Customizing Stable Diffusion**](#4-training-and-customizing-stable-diffusion) (13 videos)
+  - img2img basics
+  - img2img options on hosted sites
+  - Using a sketch in img2img
+  - Using a photobash with img2img
+  - Changing aspect ratios with img2img
+  - Removing elements with inpainting
+  - Adding objects with inpainting
+  - Outpainting
+  - Using outpainting to resize an image
+  - Improving faces created by SD
+  - Outpainting with openOutpaint
+  - Instruct pix2pix
+  - Free handy resources
+- [**5. Working with ControlNet**](#5-working-with-controlnet) (9 videos)
+  - Introduction to ControlNet
+  - Installing ControlNet
+  - OpenPose in ControlNet
+  - Limitations using OpenPose
+  - Using img2img and ControlNet
+  - Choosing a ControlNet model
+  - Image size and ControlNet
+  - Other features in ControlNet
+  - OpenPose editors
+- [**6. Refining Your Workflow**](#6-refining-your-workflow) (4 videos)
+  - Using models to influence image style
+  - Inpainting and upscaling
+  - Refining with XYZ plot
+  - Complete a Stable Diffusion workflow
+- [**7. Customization and Model Training**](#7-customization-and-model-training) (4 videos)
+  - Creating a custom model
+  - Creating models with DreamBooth
+  - Merging models
+  - Training a model using an object
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Stable Diffusion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-is-stable-diffusion?u=76281980)
@@ -91,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Stable Diffusion Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What can you do with Stable Diffusion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-can-you-do-with-stable-diffusion?u=76281980)
@@ -603,7 +659,7 @@ created: 2026-04-29
 
 ### 2. Digging Deeper into Stable Diffusion Prompts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What does a prompt do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-does-a-prompt-do?u=76281980)
@@ -2260,7 +2316,7 @@ created: 2026-04-29
 
 ### 3. Advanced Stable Diffusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sampling and steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/sampling-and-steps?u=76281980)
@@ -3789,7 +3845,7 @@ created: 2026-04-29
 
 ### 4. Training and Customizing Stable Diffusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### img2img basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/img2img-basics?u=76281980)
@@ -6139,7 +6195,7 @@ created: 2026-04-29
 
 ### 5. Working with ControlNet
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ControlNet
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/introduction-to-controlnet?u=76281980)
@@ -7723,7 +7779,7 @@ created: 2026-04-29
 
 ### 6. Refining Your Workflow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using models to influence image style
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/using-models-to-influence-image-style?u=76281980)
@@ -8228,7 +8284,7 @@ created: 2026-04-29
 
 ### 7. Customization and Model Training
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a custom model
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/creating-a-custom-model?u=76281980)
@@ -9192,7 +9248,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/stable-diffusion-tips-tricks-and-techniques/what-s-next?u=76281980)

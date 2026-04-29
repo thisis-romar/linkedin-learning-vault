@@ -48,16 +48,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction and Setup]]** (6 videos)
-- **[[#2. Reconnaissance]]** (7 videos)
-- **[[#3. Top Security Threats]]** (10 videos)
-- **[[#4. Security Threats Applied]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Foundational JavaScript security
+  - What you should know
+- [**1. Introduction and Setup**](#1-introduction-and-setup) (6 videos)
+  - What is ethical hacking?
+  - Overview of cyber kill chain
+  - Plan an attack strategy
+  - Base project setup
+  - Challenge: What is ethical hacking?
+  - Solution: What is ethical hacking?
+- [**2. Reconnaissance**](#2-reconnaissance) (7 videos)
+  - Reconnaissance introduction
+  - Introduction and setup for Snyk
+  - Introduction to GitHub Dependabot
+  - Introduction to AppSensor
+  - Reconnaissance applied to project
+  - Challenge: What is the purpose of reconnaissance?
+  - Solution: What is the purpose of reconnaissance?
+- [**3. Top Security Threats**](#3-top-security-threats) (10 videos)
+  - Injection threat
+  - Broken authentication
+  - Sensitive data
+  - XML external entities
+  - Security misconfiguration
+  - Insecure deserialization
+  - Components with known vulnerabilities
+  - Insufficient logging and monitoring
+  - Challenge: What is the best resource for top threats?
+  - Solution: What is the best resource for top threats?
+- [**4. Security Threats Applied**](#4-security-threats-applied) (8 videos)
+  - Injection threat resources
+  - Broken authentication resources
+  - Sensitive data exposure resources
+  - XML external entities resources
+  - Security misconfiguration resources
+  - Secure deserialization resources
+  - Challenge: What is secured deserialization?
+  - Solution: What is secured deserialization?
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundational JavaScript security
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/foundational-javascript-security?u=76281980)
@@ -106,7 +140,7 @@ created: 2026-04-29
 
 ### 1. Introduction and Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ethical hacking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/what-is-ethical-hacking?u=76281980)
@@ -315,7 +349,7 @@ created: 2026-04-29
 
 ### 2. Reconnaissance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reconnaissance introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/reconnaissance-introduction?u=76281980)
@@ -665,7 +699,7 @@ created: 2026-04-29
 
 ### 3. Top Security Threats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Injection threat
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat?u=76281980)
@@ -1001,7 +1035,7 @@ created: 2026-04-29
 
 ### 4. Security Threats Applied
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Injection threat resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/injection-threat-resources?u=76281980)
@@ -1252,7 +1286,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundational-javascript-security/next-steps?u=76281980)

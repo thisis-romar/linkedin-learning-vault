@@ -48,15 +48,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Before the Head of the Document]]** (2 videos)
-- **[[#2. Understanding Meta Tags]]** (10 videos)
-- **[[#3. Other Head Tags]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Setting expectations for your document
+  - Working with Visual Studio Code
+- [**1. Before the Head of the Document**](#1-before-the-head-of-the-document) (2 videos)
+  - Establishing language in your document
+  - Establishing a document type
+- [**2. Understanding Meta Tags**](#2-understanding-meta-tags) (10 videos)
+  - How do meta tags work?
+  - Setting character sets
+  - Redirecting pages with meta refresh
+  - Identifying authors and conversations
+  - Setting the viewport
+  - Setting color themes
+  - Presenting your page to Facebook
+  - Checking your work for Facebook
+  - Challenge: Configuring meta information
+  - Solution: Configuring meta information
+- [**3. Other Head Tags**](#3-other-head-tags) (8 videos)
+  - Adding a title to your page
+  - Creating identity for your pages with icons
+  - Linking styles to your page
+  - Specifying style directly
+  - Connecting scripts
+  - Establishing a base URL
+  - Challenge: Establishing scripts, styles, and icons
+  - Solution: Establishing scripts, styles, and icons
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting expectations for your document
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980)
@@ -172,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Before the Head of the Document
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing language in your document
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980)
@@ -267,7 +290,7 @@ created: 2026-04-29
 
 ### 2. Understanding Meta Tags
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do meta tags work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980)
@@ -1158,7 +1181,7 @@ created: 2026-04-29
 
 ### 3. Other Head Tags
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding a title to your page
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/adding-a-title-to-your-page-23204068?u=76281980)
@@ -1815,7 +1838,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/next-steps-23203329?u=76281980)

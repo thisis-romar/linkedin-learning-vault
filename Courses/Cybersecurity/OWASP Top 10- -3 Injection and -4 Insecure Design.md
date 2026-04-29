@@ -46,14 +46,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Injection]]** (6 videos)
-- **[[#2. Insecure Design]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - 2021 OWASP Top 10
+  - What you should know
+- [**1. Injection**](#1-injection) (6 videos)
+  - What is injection?
+  - Example #1: 2008 Heartland data breach
+  - Example #2: 2020 Accellion data breach
+  - Prevention technique #1: Prepared statements
+  - Prevention technique #2: Input validation
+  - Prevention technique #3: Escape special characters
+- [**2. Insecure Design**](#2-insecure-design) (6 videos)
+  - What is insecure design?
+  - Real-world example #1: G Suite accounts in 2018
+  - Real-world example #2: 2021 manufacturing data risk report
+  - Prevention technique #1: Threat modeling
+  - Prevention technique #2: Secure design patterns and principles
+  - Prevention technique #3: Secure development lifecycle
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/2021-owasp-top-10?u=76281980)
@@ -127,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Injection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is injection?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-injection?u=76281980)
@@ -411,7 +426,7 @@ created: 2026-04-29
 
 ### 2. Insecure Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is insecure design?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/what-is-insecure-design?u=76281980)
@@ -721,7 +736,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-3-injection-and-4-insecure-design/next-steps?u=76281980)

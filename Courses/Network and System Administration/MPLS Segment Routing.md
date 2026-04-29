@@ -48,19 +48,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Section 1: Why Segment Routing (SR)?]]** (3 videos)
-- **[[#2. Segment Routing (SR) Foundation]]** (6 videos)
-- **[[#3. Segment Routing (SR) Configuration]]** (4 videos)
-- **[[#4. Segment Routing (SR) and LDP]]** (6 videos)
-- **[[#5. Topology-Independent Loop-Free Alternate (TI-LFA)]]** (7 videos)
-- **[[#6. Segment Routing Traffic Engineering (SR-TE)]]** (8 videos)
-- **[[#7. SR-TE Traffic Steering]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Supercharge your MPLS segment routing
+- [**1. Section 1: Why Segment Routing (SR)?**](#1-section-1-why-segment-routing-sr) (3 videos)
+  - IP forwarding
+  - MPLS forwarding
+  - Segment routing (SR)
+- [**2. Segment Routing (SR) Foundation**](#2-segment-routing-sr-foundation) (6 videos)
+  - Understanding source routing and segment routing
+  - Global and local segments, SRGB, and segment advertisements
+  - Understanding IGP prefix segment
+  - Understanding IGP adjacency segment
+  - SRGB advertisement and index advertisement
+  - Label switching database (LSD)
+- [**3. Segment Routing (SR) Configuration**](#3-segment-routing-sr-configuration) (4 videos)
+  - IS-IS segment routing configuration
+  - IS-IS segment routing verification
+  - OSPF segment routing configuration
+  - OSPF segment routing verification
+- [**4. Segment Routing (SR) and LDP**](#4-segment-routing-sr-and-ldp) (6 videos)
+  - Segment routing co-existence with LDP
+  - Simple migration from LDP to Segment routing
+  - LDP to Segment routing interworking
+  - Segment routing to LDP interworking
+  - Segment routing over LDP interworking
+  - LDP over segment routing interworking
+- [**5. Topology-Independent Loop-Free Alternate (TI-LFA)**](#5-topology-independent-loop-free-alternate-ti-lfa) (7 videos)
+  - Classic loop free alternate (LFA)
+  - TI-LFA for link protection
+  - TI-LFA for node protection
+  - TI-LFA with SRLG
+  - TI-LFA preference
+  - TI-LFA for LDP traffic
+  - TI-LFA wrap-up
+- [**6. Segment Routing Traffic Engineering (SR-TE)**](#6-segment-routing-traffic-engineering-sr-te) (8 videos)
+  - Segment routing traffic engineering (SR-TE) overview
+  - SR-TE policy with an explicit path
+  - Using adjacency SID in SR-TE with explicit method
+  - Understanding SR-TE policy binding SID
+  - Segment routing traffic engineering (SR-TE) dynamic path
+  - SR-TE dynamic path based on metric-type hop count
+  - SR-TE dynamic path based on metric-type IGP or TE
+  - Constraints in dynamic segment routing traffic engineering
+- [**7. SR-TE Traffic Steering**](#7-sr-te-traffic-steering) (3 videos)
+  - SR-TE automatic traffic steering with BGP
+  - SR-TE on demand nexthop (ODN)
+  - Multi-domain ODN with path computation element (PCE)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supercharge your MPLS segment routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/supercharge-your-mpls-segment-routing?u=76281980)
@@ -90,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Section 1: Why Segment Routing (SR)?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IP forwarding
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980)
@@ -316,7 +355,7 @@ created: 2026-04-29
 
 ### 2. Segment Routing (SR) Foundation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding source routing and segment routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980)
@@ -841,7 +880,7 @@ created: 2026-04-29
 
 ### 3. Segment Routing (SR) Configuration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IS-IS segment routing configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980)
@@ -1315,7 +1354,7 @@ created: 2026-04-29
 
 ### 4. Segment Routing (SR) and LDP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Segment routing co-existence with LDP
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980)
@@ -1907,7 +1946,7 @@ created: 2026-04-29
 
 ### 5. Topology-Independent Loop-Free Alternate (TI-LFA)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classic loop free alternate (LFA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/classic-loop-free-alternate-lfa?u=76281980)
@@ -2451,7 +2490,7 @@ created: 2026-04-29
 
 ### 6. Segment Routing Traffic Engineering (SR-TE)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Segment routing traffic engineering (SR-TE) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-overview?u=76281980)
@@ -3204,7 +3243,7 @@ created: 2026-04-29
 
 ### 7. SR-TE Traffic Steering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SR-TE automatic traffic steering with BGP
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-automatic-traffic-steering-with-bgp?u=76281980)
@@ -3535,7 +3574,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980)

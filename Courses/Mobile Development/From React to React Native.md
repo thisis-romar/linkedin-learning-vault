@@ -46,16 +46,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Overview of This Course]]** (4 videos)
-- **[[#2. Conversion of Views]]** (5 videos)
-- **[[#3. Conversion of Styles]]** (3 videos)
-- **[[#4. Debugging in React Native]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - From React to React Native
+  - Course prerequisites
+- [**1. Overview of This Course**](#1-overview-of-this-course) (4 videos)
+  - Introduction to the React project
+  - Initiate a React Native project
+  - Overview of the React web code
+  - Overview of the React Native structure
+- [**2. Conversion of Views**](#2-conversion-of-views) (5 videos)
+  - Initial setup of extra libraries
+  - Create a FlatList component
+  - Create the action and button link
+  - Challenge: Add new element in the listing
+  - Solution: Add new element in the listing
+- [**3. Conversion of Styles**](#3-conversion-of-styles) (3 videos)
+  - Options for styling
+  - Add a bar and update card listing
+  - Finalize the styles
+- [**4. Debugging in React Native**](#4-debugging-in-react-native) (1 videos)
+  - Debug options
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From React to React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/from-react-to-react-native?u=76281980)
@@ -117,7 +133,7 @@ created: 2026-04-29
 
 ### 1. Overview of This Course
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the React project
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/introduction-to-the-react-project?u=76281980)
@@ -709,7 +725,7 @@ created: 2026-04-29
 
 ### 2. Conversion of Views
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Initial setup of extra libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/initial-setup-of-extra-libraries?u=76281980)
@@ -1149,7 +1165,7 @@ created: 2026-04-29
 
 ### 3. Conversion of Styles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Options for styling
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/options-for-styling?u=76281980)
@@ -1531,7 +1547,7 @@ created: 2026-04-29
 
 ### 4. Debugging in React Native
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debug options
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/debug-options?u=76281980)
@@ -1601,7 +1617,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-react-to-react-native-14332800/next-steps?u=76281980)

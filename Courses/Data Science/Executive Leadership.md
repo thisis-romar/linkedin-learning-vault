@@ -42,16 +42,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Set Direction]]** (4 videos)
-- **[[#2. Motivate Commitment]]** (4 videos)
-- **[[#3. Drive for Results]]** (4 videos)
-- **[[#4. Develop Yourself]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Take action to lead
+  - Build trust: Essential first steps
+- [**1. Set Direction**](#1-set-direction) (4 videos)
+  - Establish purpose and vision
+  - Think strategically
+  - Be courageous and decisive
+  - Realign towards the greater good
+- [**2. Motivate Commitment**](#2-motivate-commitment) (4 videos)
+  - Energize and empower
+  - Encourage personal excellence
+  - Develop diverse talent
+  - Design advancement paths
+- [**3. Drive for Results**](#3-drive-for-results) (4 videos)
+  - Prioritize with accountability
+  - Create collaboration opportunities
+  - Lead through change and disruption
+  - Cultivate creativity
+- [**4. Develop Yourself**](#4-develop-yourself) (3 videos)
+  - Apply the Executive Learning Cycle
+  - Build resilience and resourcefulness
+  - Expand and nurture your relationships
+- [**Conclusion**](#conclusion) (1 videos)
+  - Create possibility
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take action to lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/take-action-to-lead?u=76281980)
@@ -193,7 +211,7 @@ created: 2026-04-29
 
 ### 1. Set Direction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Establish purpose and vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/establish-purpose-and-vision?u=76281980)
@@ -614,7 +632,7 @@ created: 2026-04-29
 
 ### 2. Motivate Commitment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Energize and empower
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/energize-and-empower?u=76281980)
@@ -1032,7 +1050,7 @@ created: 2026-04-29
 
 ### 3. Drive for Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prioritize with accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/prioritize-with-accountability?u=76281980)
@@ -1490,7 +1508,7 @@ created: 2026-04-29
 
 ### 4. Develop Yourself
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the Executive Learning Cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/apply-the-executive-learning-cycle?u=76281980)
@@ -1812,7 +1830,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create possibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-leadership-24384695/create-possibility?u=76281980)

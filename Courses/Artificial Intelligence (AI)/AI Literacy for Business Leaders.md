@@ -52,15 +52,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Power of Human-Machine Collaboration]]** (3 videos)
-- **[[#2. Mindset Shifts to Master AI]]** (5 videos)
-- **[[#3. Start Building AI Aptitude]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Dispelling common AI fears
+  - AI and the evolution of jobs
+- [**1. The Power of Human-Machine Collaboration**](#1-the-power-of-human-machine-collaboration) (3 videos)
+  - The majesty of human capability
+  - Recognizing machine strengths and limitations
+  - Navigating pitfalls in AI deployment
+- [**2. Mindset Shifts to Master AI**](#2-mindset-shifts-to-master-ai) (5 videos)
+  - Linear vs. quantum thinking
+  - Quantum thinking in the workplace
+  - Subconscious reprogramming
+  - Identify and overcome your biases
+  - Intelligence vs. conscious-awareness
+- [**3. Start Building AI Aptitude**](#3-start-building-ai-aptitude) (4 videos)
+  - Defining AI aptitude
+  - Dogmatic views vs. creative thinking
+  - Curatorial creativity
+  - AI delegation, learn to master prompts
+- [**Conclusion**](#conclusion) (1 videos)
+  - Imagining a post-work society
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dispelling common AI fears
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dispelling-common-ai-fears?u=76281980)
@@ -183,7 +198,7 @@ created: 2026-04-29
 
 ### 1. The Power of Human-Machine Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The majesty of human capability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/the-majesty-of-human-capability?u=76281980)
@@ -459,7 +474,7 @@ created: 2026-04-29
 
 ### 2. Mindset Shifts to Master AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear vs. quantum thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/linear-vs-quantum-thinking?u=76281980)
@@ -840,7 +855,7 @@ created: 2026-04-29
 
 ### 3. Start Building AI Aptitude
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining AI aptitude
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980)
@@ -1234,7 +1249,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Imagining a post-work society
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/imagining-a-post-work-society?u=76281980)

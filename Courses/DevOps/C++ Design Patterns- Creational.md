@@ -49,19 +49,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (6 videos)
-- **[[#1. Design Patterns Overview]]** (3 videos)
-- **[[#2. Creational Patterns]]** (4 videos)
-- **[[#3. Factory Method]]** (4 videos)
-- **[[#4. Abstract Factory]]** (7 videos)
-- **[[#5. Builder]]** (5 videos)
-- **[[#6. Prototype]]** (4 videos)
-- **[[#7. Singleton]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (6 videos)
+  - Organize your code with creational design patterns in C++
+  - What you should know
+  - Installing Visual Studio for Windows
+  - Installing Xcode on Mac
+  - How to use the exercise files
+  - Challenges in this course
+- [**1. Design Patterns Overview**](#1-design-patterns-overview) (3 videos)
+  - The need for a design pattern
+  - What are design patterns?
+  - Creational patterns overview
+- [**2. Creational Patterns**](#2-creational-patterns) (4 videos)
+  - Inheritance vs. composition
+  - Composite object example
+  - Concrete vs. abstract
+  - Understanding UML
+- [**3. Factory Method**](#3-factory-method) (4 videos)
+  - Factory Method concept
+  - Factory Method implementation
+  - Running the Factory Method example
+  - Factory Method variations
+- [**4. Abstract Factory**](#4-abstract-factory) (7 videos)
+  - Abstract Factory concept
+  - Abstract Factory pattern implementation
+  - Using the Abstract Factory
+  - Running the Abstract Factory
+  - Extending the Abstract Factory
+  - Challenge: Abstract Factory
+  - Solution: Abstract Factory
+- [**5. Builder**](#5-builder) (5 videos)
+  - Builder concept
+  - Builder pattern setup
+  - Builder pattern implementation
+  - Running the Builder example
+  - Steps in the Builder pattern
+- [**6. Prototype**](#6-prototype) (4 videos)
+  - Prototype concept
+  - Prototype pattern implementation
+  - Running the Prototype example
+  - Shallow vs. deep copies
+- [**7. Singleton**](#7-singleton) (4 videos)
+  - Singleton concept
+  - Singleton pattern implementation
+  - Running the Singleton pattern
+  - Is the Singleton a good pattern?
+- [**Conclusion**](#conclusion) (2 videos)
+  - Comparing creational patterns
+  - Thanks for watching
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organize your code with creational design patterns in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/organize-your-code-with-creational-design-patterns-in-c-plus-plus?u=76281980)
@@ -299,7 +338,7 @@ created: 2026-04-29
 
 ### 1. Design Patterns Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for a design pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/the-need-for-a-design-pattern-14324290?u=76281980)
@@ -487,7 +526,7 @@ created: 2026-04-29
 
 ### 2. Creational Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inheritance vs. composition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/inheritance-vs-composition-14318552?u=76281980)
@@ -805,7 +844,7 @@ created: 2026-04-29
 
 ### 3. Factory Method
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Factory Method concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/factory-method-concept-14318551?u=76281980)
@@ -1113,7 +1152,7 @@ created: 2026-04-29
 
 ### 4. Abstract Factory
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Abstract Factory concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/abstract-factory-concept-14322469?u=76281980)
@@ -1760,7 +1799,7 @@ created: 2026-04-29
 
 ### 5. Builder
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Builder concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/builder-concept-14324293?u=76281980)
@@ -2209,7 +2248,7 @@ created: 2026-04-29
 
 ### 6. Prototype
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototype concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/prototype-concept-14317586?u=76281980)
@@ -2539,7 +2578,7 @@ created: 2026-04-29
 
 ### 7. Singleton
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Singleton concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/singleton-concept-14319525?u=76281980)
@@ -2896,7 +2935,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing creational patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-creational/comparing-creational-patterns-14322463?u=76281980)

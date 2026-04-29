@@ -49,16 +49,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Design Patterns]]** (1 videos)
-- **[[#2. Behavioral Patterns Group 1]]** (15 videos)
-- **[[#3. Behavioral Patterns Group 2: Strategies, States, and Interpretations]]** (18 videos)
-- **[[#4. Behavioral Patterns Group 3]]** (12 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Behavioral patterns improve software design
+  - What you should know
+- [**1. Introduction to Design Patterns**](#1-introduction-to-design-patterns) (1 videos)
+  - What are design patterns?
+- [**2. Behavioral Patterns Group 1**](#2-behavioral-patterns-group-1) (15 videos)
+  - The Chain of Responsibility pattern
+  - Implementing the Chain of Responsibility pattern
+  - Create Chain of Responsibility handlers
+  - The Command pattern
+  - Implementing the Command pattern
+  - Increasing code reuse with commands
+  - The Mediator pattern
+  - Implementing the Mediator pattern
+  - Using the Mediator from inside other classes
+  - The Observer pattern
+  - Creating publishers
+  - Creating subscribers
+  - Project: Create a group-chat program
+  - Challenge: Apply the Command pattern
+  - Solution: Apply the Command pattern
+- [**3. Behavioral Patterns Group 2: Strategies, States, and Interpretations**](#3-behavioral-patterns-group-2-strategies-states-and-interpretations) (18 videos)
+  - The Interpreter pattern
+  - Implementing the Interpreter pattern
+  - Applying the Interpreter pattern
+  - The State pattern
+  - Implementing the State pattern
+  - Applying the State pattern
+  - The Strategy pattern
+  - Creating strategies
+  - Rewriting classes to use strategies
+  - The Template Method pattern
+  - Creating template methods
+  - Modifying templates using subclasses
+  - The Visitor pattern
+  - Implementing visitors
+  - Allowing classes to accept visitors
+  - Project: Create a greeting-card generator program
+  - Challenge: Modifying the card generator
+  - Solution: Modifying the card generator
+- [**4. Behavioral Patterns Group 3**](#4-behavioral-patterns-group-3) (12 videos)
+  - The Iterator pattern
+  - Implementing the Iterator pattern
+  - Using iterators
+  - The Memento pattern
+  - Creating a Memento class
+  - Using Memento classes
+  - The Null Object pattern
+  - Creating Null Object classes
+  - Setting null objects as the default
+  - Project: Create an instant replay program
+  - Challenge: Apply the Null Object pattern
+  - Solution: Apply the Null Object pattern
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Behavioral patterns improve software design
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/behavioral-patterns-improve-software-design?u=76281980)
@@ -129,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Design Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/what-are-design-patterns?u=76281980)
@@ -176,7 +225,7 @@ created: 2026-04-29
 
 ### 2. Behavioral Patterns Group 1
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Chain of Responsibility pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-chain-of-responsibility-pattern?u=76281980)
@@ -1735,7 +1784,7 @@ created: 2026-04-29
 
 ### 3. Behavioral Patterns Group 2: Strategies, States, and Interpretations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Interpreter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-interpreter-pattern?u=76281980)
@@ -3333,7 +3382,7 @@ created: 2026-04-29
 
 ### 4. Behavioral Patterns Group 3
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Iterator pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/the-iterator-pattern?u=76281980)
@@ -4317,7 +4366,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-behavioral/next-steps?u=76281980)

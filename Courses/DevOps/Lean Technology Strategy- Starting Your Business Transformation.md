@@ -40,11 +40,15 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Business Transformation]]** (4 videos)
+- [**1. Business Transformation**](#1-business-transformation) (4 videos)
+  - Deploying the improvement kata
+  - Leading transformation
+  - Running and scaling transformation initiatives
+  - Ten principles for business transformation
 
 ### 1. Business Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying the improvement kata
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2/deploying-the-improvement-kata?u=76281980)

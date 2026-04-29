@@ -52,21 +52,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Defining Data Science]]** (3 videos)
-- **[[#2. Starting with Data Design]]** (2 videos)
-- **[[#3. Utilizing Computational Tools]]** (2 videos)
-- **[[#4. Structuring Your Tabular Data]]** (5 videos)
-- **[[#5. Using Exploratory Data Analysis]]** (3 videos)
-- **[[#6. Cleaning Your Data]]** (2 videos)
-- **[[#7. Using Data Visualization]]** (3 videos)
-- **[[#8. Using Inference and Statistical Analysis]]** (5 videos)
-- **[[#9. Using Prediction in Data Science]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Beginning your data science exploration
+- [**1. Defining Data Science**](#1-defining-data-science) (3 videos)
+  - Demystifying data science
+  - The value of data science
+  - Defining the data science life cycle
+- [**2. Starting with Data Design**](#2-starting-with-data-design) (2 videos)
+  - Reducing bias with probability sampling
+  - Using non-probability sampling
+- [**3. Utilizing Computational Tools**](#3-utilizing-computational-tools) (2 videos)
+  - Comparing Python and R
+  - Setting up your Jupyter environment
+- [**4. Structuring Your Tabular Data**](#4-structuring-your-tabular-data) (5 videos)
+  - Defining tabular data
+  - Reading tabular data
+  - Interpreting tabular data
+  - Gathering insights
+  - Answering specific questions
+- [**5. Using Exploratory Data Analysis**](#5-using-exploratory-data-analysis) (3 videos)
+  - Defining exploratory data analysis
+  - Recognizing statistical data types
+  - Distinguishing properties of data
+- [**6. Cleaning Your Data**](#6-cleaning-your-data) (2 videos)
+  - Explaining data cleaning
+  - Questions to guide data cleaning
+- [**7. Using Data Visualization**](#7-using-data-visualization) (3 videos)
+  - Demystifying data visualization
+  - Visualizing your qualitative data
+  - Visualizing your quantitative data
+- [**8. Using Inference and Statistical Analysis**](#8-using-inference-and-statistical-analysis) (5 videos)
+  - Defining inference
+  - Designing a hypothesis test
+  - Creating a permutation
+  - Conducting a permutation test
+  - Bootstrapping a confidence interval
+- [**9. Using Prediction in Data Science**](#9-using-prediction-in-data-science) (7 videos)
+  - Defining prediction for data science
+  - Navigating classification
+  - Recognizing the k-NN algorithm
+  - Implementing k-Nearest Neighbors
+  - Navigating regression
+  - Checking assumptions of regression
+  - Implementing linear regression
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Beginning your data science exploration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=76281980)
@@ -99,7 +133,7 @@ created: 2026-04-29
 
 ### 1. Defining Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Demystifying data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980)
@@ -239,7 +273,7 @@ created: 2026-04-29
 
 ### 2. Starting with Data Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reducing bias with probability sampling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980)
@@ -391,7 +425,7 @@ created: 2026-04-29
 
 ### 3. Utilizing Computational Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing Python and R
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980)
@@ -549,7 +583,7 @@ created: 2026-04-29
 
 ### 4. Structuring Your Tabular Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining tabular data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980)
@@ -999,7 +1033,7 @@ created: 2026-04-29
 
 ### 5. Using Exploratory Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining exploratory data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-exploratory-data-analysis?u=76281980)
@@ -1219,7 +1253,7 @@ created: 2026-04-29
 
 ### 6. Cleaning Your Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining data cleaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/explaining-data-cleaning?u=76281980)
@@ -1349,7 +1383,7 @@ created: 2026-04-29
 
 ### 7. Using Data Visualization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Demystifying data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980)
@@ -1638,7 +1672,7 @@ created: 2026-04-29
 
 ### 8. Using Inference and Statistical Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining inference
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980)
@@ -2168,7 +2202,7 @@ created: 2026-04-29
 
 ### 9. Using Prediction in Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining prediction for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980)
@@ -2767,7 +2801,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/next-steps?u=76281980)

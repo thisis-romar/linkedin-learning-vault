@@ -53,17 +53,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Agile Fundamentals]]** (4 videos)
-- **[[#2. Scrum: The Developer Perspective]]** (11 videos)
-- **[[#3. Agile Software Engineering Techniques]]** (11 videos)
-- **[[#4. Kanban for Developers]]** (5 videos)
-- **[[#5. Scaling Agile]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The agile approach
+  - What you should know
+- [**1. Agile Fundamentals**](#1-agile-fundamentals) (4 videos)
+  - The software crisis
+  - Agile to the rescue
+  - Agile principles
+  - Agile principles continued
+- [**2. Scrum: The Developer Perspective**](#2-scrum-the-developer-perspective) (11 videos)
+  - Scrum introduction
+  - Empiricism
+  - The scrum pillars (TIA)
+  - Scrum values
+  - Scrum roles: The product owner
+  - Scrum roles: The development team member
+  - Scrum roles: The scrum master
+  - Scrum events
+  - Scrum artifacts: The product backlog
+  - Scrum artifacts: The sprint backlog and increment
+  - Common myths
+- [**3. Agile Software Engineering Techniques**](#3-agile-software-engineering-techniques) (11 videos)
+  - Extreme programming (XP)
+  - XP execution
+  - Pair programming
+  - Test-driven development (TDD)
+  - User stories
+  - Epics and themes
+  - Agile estimation
+  - Planning poker
+  - DevOps: The problem
+  - DevOps: The solution
+  - Agile reporting
+- [**4. Kanban for Developers**](#4-kanban-for-developers) (5 videos)
+  - Lean history
+  - Kanban board
+  - Limiting work in progress (WIP)
+  - How to set WIP limits
+  - Kanban vs. scrum
+- [**5. Scaling Agile**](#5-scaling-agile) (3 videos)
+  - Scaling agile
+  - Scaling frameworks
+  - Scaling frameworks, continued
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The agile approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-agile-approach-23853384?u=76281980)
@@ -127,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Agile Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The software crisis
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/the-software-crisis-23846571?u=76281980)
@@ -447,7 +484,7 @@ created: 2026-04-29
 
 ### 2. Scrum: The Developer Perspective
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scrum-introduction-23852437?u=76281980)
@@ -977,7 +1014,7 @@ created: 2026-04-29
 
 ### 3. Agile Software Engineering Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extreme programming (XP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/extreme-programming-xp-23847544?u=76281980)
@@ -1761,7 +1798,7 @@ created: 2026-04-29
 
 ### 4. Kanban for Developers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lean history
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/lean-history-23847542?u=76281980)
@@ -2109,7 +2146,7 @@ created: 2026-04-29
 
 ### 5. Scaling Agile
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/scaling-agile-23849470?u=76281980)
@@ -2313,7 +2350,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development/next-steps-23848513?u=76281980)

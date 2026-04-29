@@ -47,18 +47,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Training Network Problems]]** (3 videos)
-- **[[#2. Troubleshooting Remote User Network Problems]]** (3 videos)
-- **[[#3. Troubleshooting Corporate Wireless Network Problems]]** (2 videos)
-- **[[#4. Troubleshooting VPN Network Problems]]** (3 videos)
-- **[[#5. Network Tools Administrators Need to Know]]** (5 videos)
-- **[[#6. Troubleshooting Routing, Switching, and Firewalls]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Need to troubleshoot your network?
+- [**1. Training Network Problems**](#1-training-network-problems) (3 videos)
+  - How to determine the severity of network problems
+  - Fixing corporate resource issues
+  - Breaking down basic TCP/IP issues and causes
+- [**2. Troubleshooting Remote User Network Problems**](#2-troubleshooting-remote-user-network-problems) (3 videos)
+  - Common home networking issues
+  - Common home wireless issues
+  - Internet provider problems
+- [**3. Troubleshooting Corporate Wireless Network Problems**](#3-troubleshooting-corporate-wireless-network-problems) (2 videos)
+  - Most common issues with corporate wireless
+  - Troubleshooting Wi-Fi interference
+- [**4. Troubleshooting VPN Network Problems**](#4-troubleshooting-vpn-network-problems) (3 videos)
+  - What VPN types work in hotels and restaurants
+  - VPN works but cannot access any resources
+  - Common VPN error codes and how to fix them
+- [**5. Network Tools Administrators Need to Know**](#5-network-tools-administrators-need-to-know) (5 videos)
+  - Windows command-line tools
+  - PowerShell tools
+  - Linux networking tools
+  - Windows routing command-line tools
+  - Wireshark basics
+- [**6. Troubleshooting Routing, Switching, and Firewalls**](#6-troubleshooting-routing-switching-and-firewalls) (3 videos)
+  - Modern network design
+  - How to fix data packets stuck en route
+  - Troubleshooting open firewall ports
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Need to troubleshoot your network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/need-to-troubleshoot-your-network?u=76281980)
@@ -95,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Training Network Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine the severity of network problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/how-to-determine-the-severity-of-network-problems?u=76281980)
@@ -425,7 +446,7 @@ created: 2026-04-29
 
 ### 2. Troubleshooting Remote User Network Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common home networking issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/common-home-networking-issues?u=76281980)
@@ -964,7 +985,7 @@ created: 2026-04-29
 
 ### 3. Troubleshooting Corporate Wireless Network Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Most common issues with corporate wireless
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/most-common-issues-with-corporate-wireless?u=76281980)
@@ -1092,7 +1113,7 @@ created: 2026-04-29
 
 ### 4. Troubleshooting VPN Network Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What VPN types work in hotels and restaurants
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/what-vpn-types-work-in-hotels-and-restaurants?u=76281980)
@@ -1384,7 +1405,7 @@ created: 2026-04-29
 
 ### 5. Network Tools Administrators Need to Know
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Windows command-line tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/windows-command-line-tools?u=76281980)
@@ -2093,7 +2114,7 @@ created: 2026-04-29
 
 ### 6. Troubleshooting Routing, Switching, and Firewalls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern network design
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/modern-network-design?u=76281980)
@@ -2442,7 +2463,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-network-troubleshooting-practical-network-diagnostics-and-solutions/next-steps?u=76281980)

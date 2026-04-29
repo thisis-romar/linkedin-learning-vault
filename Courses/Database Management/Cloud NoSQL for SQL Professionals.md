@@ -45,20 +45,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Road to NoSQL]]** (4 videos)
-- **[[#2. Understanding NoSQL Databases]]** (5 videos)
-- **[[#3. Use Key-Value NoSQL]]** (4 videos)
-- **[[#4. Use Columnar NoSQL]]** (5 videos)
-- **[[#5. Use Document NoSQL]]** (5 videos)
-- **[[#6. Use Graph NoSQL]]** (4 videos)
-- **[[#7. Use Specialty NoSQL]]** (8 videos)
-- **[[#8. Understand NoSQL Trends]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Simplify the NoSQL ecosystem
+  - Use cloud services
+- [**1. The Road to NoSQL**](#1-the-road-to-nosql) (4 videos)
+  - Manage data as file or tables
+  - Add behavioral data
+  - Add web-scale data
+  - Add NoSQL databases
+- [**2. Understanding NoSQL Databases**](#2-understanding-nosql-databases) (5 videos)
+  - Store data, query information including NoSQL
+  - Overcome file system limits including NoSQL
+  - Overcome RDBMS limits using NoSQL
+  - Understand CAP Theorem and data
+  - Apply CAP Theorem with NoSQL
+- [**3. Use Key-Value NoSQL**](#3-use-key-value-nosql) (4 videos)
+  - Store huge, in-memory lookup lists on NoSQL
+  - Use Cloud Memorystore for Redis on GCP
+  - Use AWS ElastiCache for Redis
+  - Review NoSQL key-value architecture
+- [**4. Use Columnar NoSQL**](#4-use-columnar-nosql) (5 videos)
+  - Store events on NoSQL
+  - Use Cloud Cassandra on AWS
+  - Use GCP BigTable
+  - Use GCP BigQuery
+  - Review NoSQL columnar architecture
+- [**5. Use Document NoSQL**](#5-use-document-nosql) (5 videos)
+  - Store customer activity using NoSQL
+  - Use Cloud MongoDB on GCP
+  - Use AWS DocumentDB
+  - Use AWS DynamoDB
+  - Review NoSQL document architecture
+- [**6. Use Graph NoSQL**](#6-use-graph-nosql) (4 videos)
+  - Store customer relations using NoSQL
+  - Use Neo4j on Kubernetes
+  - Use AWS Neptune
+  - Review NoSQL Graph architecture
+- [**7. Use Specialty NoSQL**](#7-use-specialty-nosql) (8 videos)
+  - Store real-time events using NoSQL
+  - Use GCP Firestore
+  - Store IoT events
+  - Use AWS IoT events
+  - Use AWS TimeStream
+  - Store blockchain entries using NoSQL
+  - Use AWS QLDB
+  - Google Cloud Vertex AI Vector Search
+- [**8. Understand NoSQL Trends**](#8-understand-nosql-trends) (3 videos)
+  - Consolidation and cloud for NoSQL
+  - Multifunction NoSQL databases
+  - DataLake NoSQL alternatives
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with NoSQL
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simplify the NoSQL ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/simplify-the-nosql-ecosystem?u=76281980)
@@ -119,7 +160,7 @@ created: 2026-04-29
 
 ### 1. The Road to NoSQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage data as file or tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/manage-data-as-file-or-tables?u=76281980)
@@ -380,7 +421,7 @@ created: 2026-04-29
 
 ### 2. Understanding NoSQL Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Store data, query information including NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-data-query-information-including-nosql?u=76281980)
@@ -708,7 +749,7 @@ created: 2026-04-29
 
 ### 3. Use Key-Value NoSQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Store huge, in-memory lookup lists on NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-huge-in-memory-lookup-lists-on-nosql?u=76281980)
@@ -1128,7 +1169,7 @@ created: 2026-04-29
 
 ### 4. Use Columnar NoSQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Store events on NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-events-on-nosql?u=76281980)
@@ -1626,7 +1667,7 @@ created: 2026-04-29
 
 ### 5. Use Document NoSQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Store customer activity using NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-activity-using-nosql?u=76281980)
@@ -2078,7 +2119,7 @@ created: 2026-04-29
 
 ### 6. Use Graph NoSQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Store customer relations using NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-customer-relations-using-nosql?u=76281980)
@@ -2449,7 +2490,7 @@ created: 2026-04-29
 
 ### 7. Use Specialty NoSQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Store real-time events using NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/store-real-time-events-using-nosql?u=76281980)
@@ -3028,7 +3069,7 @@ created: 2026-04-29
 
 ### 8. Understand NoSQL Trends
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Consolidation and cloud for NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/consolidation-and-cloud-for-nosql?u=76281980)
@@ -3278,7 +3319,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals/next-steps-with-nosql?u=76281980)

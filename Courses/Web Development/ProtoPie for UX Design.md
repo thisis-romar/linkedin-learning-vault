@@ -48,16 +48,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Exploring the Interface]]** (3 videos)
-- **[[#2. Interaction Basics]]** (5 videos)
-- **[[#3. Formulas]]** (1 videos)
-- **[[#4. Components]]** (1 videos)
-- **[[#5. Exporting and Sharing]]** (3 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What to expect from this course
+  - Using the exercise files
+- [**1. Exploring the Interface**](#1-exploring-the-interface) (3 videos)
+  - Reviewing the Jumpstart screen
+  - Interface overview
+  - Process and core concept of ProtoPie
+- [**2. Interaction Basics**](#2-interaction-basics) (5 videos)
+  - Importing assets
+  - Containers, scrolling, paging
+  - Scenes
+  - Creating triggers and responses
+  - Timeline and animation curves explained
+- [**3. Formulas**](#3-formulas) (1 videos)
+  - Formula and variables basic overview
+- [**4. Components**](#4-components) (1 videos)
+  - Component basics
+- [**5. Exporting and Sharing**](#5-exporting-and-sharing) (3 videos)
+  - ProtoPie Player
+  - ProtoPie Cloud
+  - Recording
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What to expect from this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/what-to-expect-from-this-course?u=76281980)
@@ -106,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Exploring the Interface
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing the Jumpstart screen
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/reviewing-the-jumpstart-screen?u=76281980)
@@ -477,7 +492,7 @@ created: 2026-04-29
 
 ### 2. Interaction Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing assets
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/importing-assets?u=76281980)
@@ -1129,7 +1144,7 @@ created: 2026-04-29
 
 ### 3. Formulas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Formula and variables basic overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/formula-and-variables-basic-overview?u=76281980)
@@ -1230,7 +1245,7 @@ created: 2026-04-29
 
 ### 4. Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Component basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/component-basics?u=76281980)
@@ -1342,7 +1357,7 @@ created: 2026-04-29
 
 ### 5. Exporting and Sharing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ProtoPie Player
 > [LinkedIn Learning](https://www.linkedin.com/learning/protopie-for-ux-design/protopie-player?u=76281980)

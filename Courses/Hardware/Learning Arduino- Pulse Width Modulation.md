@@ -48,16 +48,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Introduction to Pulse-Width Modulation (PWM)]]** (5 videos)
-- **[[#2. Using Analog Inputs to Drive PWM Output]]** (7 videos)
-- **[[#3. LED and PWM]]** (8 videos)
-- **[[#4. Motor Control]]** (9 videos)
-- **[[#Next steps]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Welcome
+  - What you should know
+  - Using the exercise files
+  - Challenges
+- [**1. Introduction to Pulse-Width Modulation (PWM)**](#1-introduction-to-pulse-width-modulation-pwm) (5 videos)
+  - Exploring the fundamentals of PWM
+  - Using basic PWM output
+  - Faking PWM on a non-PWM pin
+  - Challenge: Matching PWM and non-PWM LED brightness
+  - Solution: Matching PWM and non-PWM LED brightness
+- [**2. Using Analog Inputs to Drive PWM Output**](#2-using-analog-inputs-to-drive-pwm-output) (7 videos)
+  - Introducing various analog inputs
+  - Understanding the basics of analog input
+  - Finding logic bugs in your code
+  - Testing components with a multimeter
+  - Using the map function
+  - Challenge: Understanding the math behind the map function
+  - Solution: Understanding the math behind the map function
+- [**3. LED and PWM**](#3-led-and-pwm) (8 videos)
+  - Fading an LED with PWM with code
+  - Calibrating an analog input to fade an LED precisely
+  - Challenge: Programming an LED that reacts to brightness
+  - Solution: Programming an LED that reacts to brightness
+  - Using an RGB LED
+  - Mixing colors on an RGB LED using three analog inputs
+  - Challenge: Fading through the rainbow with PWM
+  - Solution: Fading through the rainbow with PWM
+- [**4. Motor Control**](#4-motor-control) (9 videos)
+  - Comparing DC motors, servos, and stepper motors
+  - Implementing basic servo control
+  - Controlling a servo with an analog input
+  - Controlling a continuous rotation servo with an analog input
+  - Controlling DC motor speed with an analog input and transistor
+  - Diving deeper into H bridge control
+  - Controlling a DC motor with an H bridge
+  - Challenge: Controlling a DC motor with an H bridge and potentiometer
+  - Solution: Controlling a DC motor with an H bridge and potentiometer
+- [**Next steps**](#next-steps) (1 videos)
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/welcome?u=76281980)
@@ -167,7 +201,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Pulse-Width Modulation (PWM)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the fundamentals of PWM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/exploring-the-fundamentals-of-pwm?u=76281980)
@@ -515,7 +549,7 @@ created: 2026-04-29
 
 ### 2. Using Analog Inputs to Drive PWM Output
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing various analog inputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/introducing-various-analog-inputs?u=76281980)
@@ -1051,7 +1085,7 @@ created: 2026-04-29
 
 ### 3. LED and PWM
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fading an LED with PWM with code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/fading-an-led-with-pwm-with-code?u=76281980)
@@ -1555,7 +1589,7 @@ created: 2026-04-29
 
 ### 4. Motor Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing DC motors, servos, and stepper motors
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/comparing-dc-motors-servos-and-stepper-motors?u=76281980)
@@ -2083,7 +2117,7 @@ created: 2026-04-29
 
 ### Next steps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-pulse-width-modulation/conclusion?u=76281980)

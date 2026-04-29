@@ -46,15 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Table Basics]]** (10 videos)
-- **[[#2. Styling HTML Tables]]** (6 videos)
-- **[[#3. Making Tables Responsive]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Create semantic HTML tables
+  - What you should know
+  - Working with CodePen
+- [**1. Table Basics**](#1-table-basics) (10 videos)
+  - Display data semantically
+  - Understand table rows and table data
+  - Add content and data to table cells
+  - Understand table headings
+  - Identify table head, body, and foot
+  - Include table captions
+  - Group columns and apply to headers
+  - Use colspan and rowspan
+  - Challenge: Mark up a table
+  - Solution: Mark up a table
+- [**2. Styling HTML Tables**](#2-styling-html-tables) (6 videos)
+  - Style table borders and basic styling
+  - Style the table caption
+  - Style your table headers and footers
+  - Stripe table rows with background colors
+  - Challenge: Style HTML tables
+  - Solution: Style HTML tables
+- [**3. Making Tables Responsive**](#3-making-tables-responsive) (5 videos)
+  - Responsive tables with side scrolling
+  - Reformat a table for responsive layout
+  - Final styling tweaks
+  - Challenge: Make tables responsive
+  - Solution: Make tables responsive
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create semantic HTML tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/create-semantic-html-tables-23413073?u=76281980)
@@ -156,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Table Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Display data semantically
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/display-data-semantically?u=76281980)
@@ -990,7 +1015,7 @@ created: 2026-04-29
 
 ### 2. Styling HTML Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Style table borders and basic styling
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/style-table-borders-and-basic-styling?u=76281980)
@@ -1438,7 +1463,7 @@ created: 2026-04-29
 
 ### 3. Making Tables Responsive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsive tables with side scrolling
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/responsive-tables-with-side-scrolling?u=76281980)
@@ -1777,7 +1802,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-tables/next-steps?u=76281980)

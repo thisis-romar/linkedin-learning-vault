@@ -41,18 +41,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Lean, Agile, and DevOps Basics]]** (8 videos)
-- **[[#2. Implementing Agile, Lean, and DevOps in Practice]]** (1 videos)
-- **[[#3. First Iteration: Empowering the Individual]]** (6 videos)
-- **[[#4. Second Iteration: Empowering the Team]]** (10 videos)
-- **[[#5. Third Iteration: Empowering the Organization]]** (6 videos)
-- **[[#6. The Road Ahead]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Getting started with lean and agile
+- [**1. Lean, Agile, and DevOps Basics**](#1-lean-agile-and-devops-basics) (8 videos)
+  - What is agile?
+  - Agile principles
+  - Agile in practice: Scrum
+  - Agile in practice: Kanban
+  - What is lean?
+  - Lean in practice
+  - What is DevOps?
+  - DevOps in practice
+- [**2. Implementing Agile, Lean, and DevOps in Practice**](#2-implementing-agile-lean-and-devops-in-practice) (1 videos)
+  - Welcome to Red30 Technologies
+- [**3. First Iteration: Empowering the Individual**](#3-first-iteration-empowering-the-individual) (6 videos)
+  - Agile: Updating our practices
+  - Exercise: Create a work board
+  - Solution: Create a work board
+  - DevOps: Getting started building
+  - Measuring success
+  - Learning and adapting
+- [**4. Second Iteration: Empowering the Team**](#4-second-iteration-empowering-the-team) (10 videos)
+  - Agile: Building a resilient team
+  - Agile: Describing the work
+  - DevOps: Release practices
+  - DevOps: Infrastructure practices
+  - Advanced measurement: Scrum
+  - Advanced measurement: Kanban
+  - Exercise: Size your work
+  - Solution: Size your work
+  - Learning by working together
+  - Learning from experience
+- [**5. Third Iteration: Empowering the Organization**](#5-third-iteration-empowering-the-organization) (6 videos)
+  - Agile: Organizational scaling
+  - Exercise: Create a value stream
+  - Solution: Create a value stream
+  - DevOps: Scaling DevOps
+  - Building a culture of metrics
+  - Continuous learning
+- [**6. The Road Ahead**](#6-the-road-ahead) (3 videos)
+  - Organizing for action
+  - Addressing doubts
+  - Advanced topics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with lean and agile
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with lean and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/getting-started-with-lean-and-agile?u=76281980)
@@ -93,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Lean, Agile, and DevOps Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is agile?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/what-is-agile?u=76281980)
@@ -781,7 +817,7 @@ created: 2026-04-29
 
 ### 2. Implementing Agile, Lean, and DevOps in Practice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Red30 Technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/welcome-to-red-30-technologies?u=76281980)
@@ -874,7 +910,7 @@ created: 2026-04-29
 
 ### 3. First Iteration: Empowering the Individual
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile: Updating our practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-updating-our-practices?u=76281980)
@@ -1418,7 +1454,7 @@ created: 2026-04-29
 
 ### 4. Second Iteration: Empowering the Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile: Building a resilient team
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-building-a-resilient-team?u=76281980)
@@ -2124,7 +2160,7 @@ created: 2026-04-29
 
 ### 5. Third Iteration: Empowering the Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile: Organizational scaling
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/agile-organizational-scaling?u=76281980)
@@ -2591,7 +2627,7 @@ created: 2026-04-29
 
 ### 6. The Road Ahead
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing for action
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/organizing-for-action?u=76281980)
@@ -2886,7 +2922,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with lean and agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-lean-and-agile-25685358/continuing-on-with-lean-and-agile?u=76281980)

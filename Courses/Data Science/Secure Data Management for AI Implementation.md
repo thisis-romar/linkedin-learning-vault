@@ -57,17 +57,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Data Security Fundamentals]]** (4 videos)
-- **[[#2. Granular Access Control]]** (4 videos)
-- **[[#3.  Securing database-to-database communications]]** (4 videos)
-- **[[#4. Multi-level security in database systems]]** (3 videos)
-- **[[#5. Case study: Use AI to Secure Your Data]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Protecting data communications in AI systems
+- [**1. Data Security Fundamentals**](#1-data-security-fundamentals) (4 videos)
+  - Database security overview
+  - What's security architecture?
+  - Identifying database threats and vulnerabilities
+  - Protecting against malware
+- [**2. Granular Access Control**](#2-granular-access-control) (4 videos)
+  - Database control language overview
+  - Authentication schemes
+  - Authorization methods
+  - Encryption practices
+- [**3.  Securing database-to-database communications**](#3-securing-database-to-database-communications) (4 videos)
+  - Monitoring and protecting data sources
+  - Replication: to-dos and to-don'ts
+  - Transfer Issues from applications to the cloud
+  - Security auditing
+- [**4. Multi-level security in database systems**](#4-multi-level-security-in-database-systems) (3 videos)
+  - Vulnerability assessment and patch management
+  - Reinforcing and enforcing application security
+  - Reinforcing and enforcing security management
+- [**5. Case study: Use AI to Secure Your Data**](#5-case-study-use-ai-to-secure-your-data) (2 videos)
+  - Case study setup
+  - Case study walkthrough
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting data communications in AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980)
@@ -96,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Data Security Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Database security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980)
@@ -359,7 +378,7 @@ created: 2026-04-29
 
 ### 2. Granular Access Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Database control language overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980)
@@ -619,7 +638,7 @@ created: 2026-04-29
 
 ### 3.  Securing database-to-database communications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring and protecting data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980)
@@ -859,7 +878,7 @@ created: 2026-04-29
 
 ### 4. Multi-level security in database systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vulnerability assessment and patch management
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980)
@@ -1051,7 +1070,7 @@ created: 2026-04-29
 
 ### 5. Case study: Use AI to Secure Your Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Case study setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980)
@@ -1171,7 +1190,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980)

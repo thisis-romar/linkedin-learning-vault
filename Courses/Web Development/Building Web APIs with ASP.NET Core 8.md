@@ -46,15 +46,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (8 videos)
-- **[[#2. Retrieving Data]]** (12 videos)
-- **[[#3. Writing Data]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Web APIs with ASP.NET Core 8
+  - Why an API?
+  - What you should know
+- [**1. Getting Started**](#1-getting-started) (8 videos)
+  - Prerequisites and setup
+  - "Hello World," API style
+  - "Hello World" with Visual Studio Code
+  - Minimal APIs
+  - HTTP in a nutshell
+  - REST basics
+  - API design basics
+  - Tools for API testing
+- [**2. Retrieving Data**](#2-retrieving-data) (12 videos)
+  - Controllers and actions
+  - Routing basics
+  - Creating a data model
+  - Using entity framework core
+  - Returning a list of items
+  - Using ActionResult
+  - Returning an item
+  - Handling errors
+  - Making the API asynchronous
+  - Working with minimal APIs
+  - Challenge: Searching items
+  - Solution: Searching items
+- [**3. Writing Data**](#3-writing-data) (9 videos)
+  - HTTP methods
+  - Model binding
+  - Adding an item with POST
+  - Model validation
+  - Updating an item with PUT
+  - Deleting an item with DELETE
+  - Migrating the code to Minimal APIs
+  - Challenge: Deleting several items
+  - Solution: Deleting several items
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Web APIs with ASP.NET Core 8
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/welcome?u=76281980)
@@ -179,7 +212,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/prerequisites-and-setup?u=76281980)
@@ -1069,7 +1102,7 @@ created: 2026-04-29
 
 ### 2. Retrieving Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Controllers and actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/controllers-and-actions?u=76281980)
@@ -2097,7 +2130,7 @@ created: 2026-04-29
 
 ### 3. Writing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### HTTP methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/http-methods?u=76281980)
@@ -3077,7 +3110,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-8/next-steps?u=76281980)

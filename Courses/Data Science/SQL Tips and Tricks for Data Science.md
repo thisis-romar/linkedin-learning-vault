@@ -46,13 +46,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. SQL Tips and Tricks]]** (12 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Extract meaning from data
+  - What you should know before watching this course
+  - Using the exercise files
+- [**1. SQL Tips and Tricks**](#1-sql-tips-and-tricks) (12 videos)
+  - Retrieve data using SQL
+  - Join tables
+  - Filter data
+  - Aggregate data
+  - Window functions
+  - Subqueries
+  - Rolling calculations
+  - Analyze employee data
+  - Date and time functions
+  - Common table expressions
+  - Year-over-year calculations
+  - Finding ranks
+- [**Conclusion**](#conclusion) (1 videos)
+  - Becoming a powerful data scientist
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extract meaning from data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/extract-meaning-from-data?u=76281980)
@@ -133,7 +149,7 @@ created: 2026-04-29
 
 ### 1. SQL Tips and Tricks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieve data using SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/retrieve-data-using-sql-14426656?u=76281980)
@@ -1461,7 +1477,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a powerful data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-tips-and-tricks-for-data-science/becoming-a-powerful-data-scientist?u=76281980)

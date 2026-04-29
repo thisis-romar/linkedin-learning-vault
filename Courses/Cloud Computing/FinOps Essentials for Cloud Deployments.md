@@ -50,18 +50,72 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. FinOps Introduction]]** (8 videos)
-- **[[#2. Establishing FinOps in Your Organization]]** (8 videos)
-- **[[#3. Externalizing FinOps to the Organization]]** (9 videos)
-- **[[#4. Optimizing for FinOps in Your Organization]]** (10 videos)
-- **[[#5. Automating for FinOps]]** (7 videos)
-- **[[#6. Operating for FinOps Success]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to FinOps
+  - What you should know
+- [**1. FinOps Introduction**](#1-finops-introduction) (8 videos)
+  - Understanding FinOps and its importance
+  - Business need for FinOps for cloud computing
+  - Defining cloud computing value and metrics
+  - Case study: Cloud budget overage
+  - Case study: Multicloud cost mayhem
+  - Introduction to FinOps objectives
+  - Introduction to FinOps technology
+  - Introduction to FinOps best practices
+- [**2. Establishing FinOps in Your Organization**](#2-establishing-finops-in-your-organization) (8 videos)
+  - Determining your business requirements and business case for FinOps
+  - Single-cloud cost tracking
+  - Multicloud and hybrid cloud cost tracking
+  - Putting your cloud cost data to use
+  - Setting up cloud cost observability
+  - Setting up cloud cost governance
+  - Basic FinOps planning for the enterprise
+  - FinOps and AI
+- [**3. Externalizing FinOps to the Organization**](#3-externalizing-finops-to-the-organization) (9 videos)
+  - Cloud spending visibility
+  - Cloud spending benchmarks
+  - Communicating the FinOps plan to operators and stakeholders
+  - Identifying the steps in your FinOps plan
+  - Assigning roles in your FinOps plan
+  - FinOps and compliance and agreements
+  - FinOps collaboration and culture
+  - Challenge: Approach cloud spending visibility for Henry's Hammocks
+  - Solution: Review the potential solutions you can leverage
+- [**4. Optimizing for FinOps in Your Organization**](#4-optimizing-for-finops-in-your-organization) (10 videos)
+  - Cloud spending observability
+  - Cloud spending analysis
+  - Cloud spending forecasting
+  - Cloud spending optimization processes and metrics
+  - Cloud spending optimization technology
+  - Cloud spending optimization for business value
+  - Cloud spending AI tools
+  - Cloud spending governance using AI
+  - Challenge: Approach cloud spending forecasting for Henry's Hammocks
+  - Solution: Review the potential solutions you can leverage
+- [**5. Automating for FinOps**](#5-automating-for-finops) (7 videos)
+  - Identifying what you should automate
+  - Automation best practice considerations
+  - FinOps automation technology types and usages
+  - Leveraging AI for better FinOps automation
+  - Creating AI automation processes
+  - Dynmaic automation using AI
+  - Demo: FinOps automation with AWS Cost Explorer
+- [**6. Operating for FinOps Success**](#6-operating-for-finops-success) (9 videos)
+  - FinOps continuous improvement
+  - FinOps observability
+  - Supporting audits
+  - Supporting compliance
+  - Defining FinOps operational success
+  - Finding value with AI FinOps tools
+  - Creating dynamic processes using AI
+  - Challenge:  Approaching compliance for Henry's Hammocks
+  - Solution:  Review the potential solutions you can leverage
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to FinOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/introduction-to-finops?u=76281980)
@@ -110,7 +164,7 @@ created: 2026-04-29
 
 ### 1. FinOps Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding FinOps and its importance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/understanding-finops-and-its-importance?u=76281980)
@@ -597,7 +651,7 @@ created: 2026-04-29
 
 ### 2. Establishing FinOps in Your Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining your business requirements and business case for FinOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/determining-your-business-requirements-and-business-case-for-finops?u=76281980)
@@ -981,7 +1035,7 @@ created: 2026-04-29
 
 ### 3. Externalizing FinOps to the Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud spending visibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-visibility?u=76281980)
@@ -1520,7 +1574,7 @@ created: 2026-04-29
 
 ### 4. Optimizing for FinOps in Your Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud spending observability
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/cloud-spending-observability?u=76281980)
@@ -1984,7 +2038,7 @@ created: 2026-04-29
 
 ### 5. Automating for FinOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying what you should automate
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/identifying-what-you-should-automate?u=76281980)
@@ -2475,7 +2529,7 @@ created: 2026-04-29
 
 ### 6. Operating for FinOps Success
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### FinOps continuous improvement
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/finops-continuous-improvement?u=76281980)
@@ -2848,7 +2902,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finops-essentials-for-cloud-deployments/next-steps?u=76281980)

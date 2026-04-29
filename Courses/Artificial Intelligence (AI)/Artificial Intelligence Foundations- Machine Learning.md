@@ -60,18 +60,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding Machine Learning]]** (3 videos)
-- **[[#2. Implementing a Machine Learning Solution]]** (4 videos)
-- **[[#3. Preparing Data for Machine Learning]]** (4 videos)
-- **[[#4. Training a Machine Learning Model]]** (6 videos)
-- **[[#5. Evaluating Model Performance]]** (5 videos)
-- **[[#6. Operationalizing a Machine Learning Pipeline]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to AI foundations: Machine learning course
+  - Reviewing the course scenarios
+- [**1. Understanding Machine Learning**](#1-understanding-machine-learning) (3 videos)
+  - Exploring machine learning
+  - Examining how machines learn
+  - Why traditional ML still matters
+- [**2. Implementing a Machine Learning Solution**](#2-implementing-a-machine-learning-solution) (4 videos)
+  - Breaking down the machine learning lifecycle
+  - Framing machine learning problems
+  - Identifying a pre-built model
+  - Understanding tools used to train a model
+- [**3. Preparing Data for Machine Learning**](#3-preparing-data-for-machine-learning) (4 videos)
+  - Obtaining data
+  - Visualizing and understanding data
+  - Understanding feature engineering
+  - Demo: Performing feature engineering
+- [**4. Training a Machine Learning Model**](#4-training-a-machine-learning-model) (6 videos)
+  - Understanding learning algorithms and model training
+  - Exploring learning algorithms for classification
+  - Reviewing learning algorithms for regression
+  - Examining additional learning algorithms
+  - Training a custom machine learning model
+  - Demo: Training a custom machine learning model
+- [**5. Evaluating Model Performance**](#5-evaluating-model-performance) (5 videos)
+  - Exploring common classification metrics
+  - Understanding the confusion matrix
+  - Exploring common regression metrics
+  - Determining feature importance
+  - Combating bias
+- [**6. Operationalizing a Machine Learning Pipeline**](#6-operationalizing-a-machine-learning-pipeline) (2 videos)
+  - Structuring a machine learning pipeline
+  - Demo: Designing and building a pipeline
+- [**Conclusion**](#conclusion) (2 videos)
+  - Your machine learning journey
+  - Bridge to generative AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI foundations: Machine learning course
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/introduction-to-ai-foundations-machine-learning-course?u=76281980)
@@ -149,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Understanding Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-machine-learning?u=76281980)
@@ -350,7 +378,7 @@ created: 2026-04-29
 
 ### 2. Implementing a Machine Learning Solution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking down the machine learning lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/breaking-down-the-machine-learning-lifecycle?u=76281980)
@@ -649,7 +677,7 @@ created: 2026-04-29
 
 ### 3. Preparing Data for Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Obtaining data
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/obtaining-data?u=76281980)
@@ -1052,7 +1080,7 @@ created: 2026-04-29
 
 ### 4. Training a Machine Learning Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding learning algorithms and model training
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/understanding-learning-algorithms-and-model-training?u=76281980)
@@ -1688,7 +1716,7 @@ created: 2026-04-29
 
 ### 5. Evaluating Model Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring common classification metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/exploring-common-classification-metrics?u=76281980)
@@ -2118,7 +2146,7 @@ created: 2026-04-29
 
 ### 6. Operationalizing a Machine Learning Pipeline
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring a machine learning pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/structuring-a-machine-learning-pipeline?u=76281980)
@@ -2293,7 +2321,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your machine learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning-22345868/your-machine-learning-journey?u=76281980)

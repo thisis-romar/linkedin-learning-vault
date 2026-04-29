@@ -42,12 +42,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Key Factors to Build a Responsible AI Culture]]** (12 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Leading responsible AI in organizations
+- [**1. Key Factors to Build a Responsible AI Culture**](#1-key-factors-to-build-a-responsible-ai-culture) (12 videos)
+  - Leading responsible AI with ethics as core values
+  - Ensuring data governance as responsible leadership
+  - Transparency and explainability to cultivate trust
+  - Regulatory compliance as a standard of integrity
+  - Creating a responsible AI hub of excellence
+  - Accountability and security as a fundamental practice
+  - Inclusive collaboration in AI development
+  - Employee stakeholder collaboration as a partnership model
+  - Cultivating continuous responsible AI learning
+  - Organizational responsiveness in AI ethics
+  - External engagement as a responsible leadership approach
+  - Sustainability as an ethical obligation
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading responsible AI in organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-in-organizations?u=76281980)
@@ -74,7 +87,7 @@ created: 2026-04-29
 
 ### 1. Key Factors to Build a Responsible AI Culture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading responsible AI with ethics as core values
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-responsible-ai-in-organizations/leading-responsible-ai-with-ethics-as-core-values?u=76281980)

@@ -49,18 +49,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to AWS CLI]]** (3 videos)
-- **[[#2. Managing EC2 Instances with AWS CLI]]** (3 videos)
-- **[[#3. Working with S3 and AWS CLI]]** (3 videos)
-- **[[#4. Managing Permissions with IAM and AWS CLI]]** (3 videos)
-- **[[#5. Managing Other AWS Services with AWS CLI]]** (3 videos)
-- **[[#6. Advanced AWS CLI Topics]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why use AWS CLI?
+  - What you should know
+- [**1. Introduction to AWS CLI**](#1-introduction-to-aws-cli) (3 videos)
+  - Overview of AWS CLI and its benefits
+  - Installing and configuring AWS CLI
+  - Basic commands and syntax
+- [**2. Managing EC2 Instances with AWS CLI**](#2-managing-ec2-instances-with-aws-cli) (3 videos)
+  - Creating and launching EC2 instances
+  - Working with EC2 security groups and key pairs
+  - Managing EC2 instances with AWS CLI commands
+- [**3. Working with S3 and AWS CLI**](#3-working-with-s3-and-aws-cli) (3 videos)
+  - Uploading, downloading, and managing files in S3 buckets
+  - Managing S3 bucket policies and permissions
+  - Using AWS CLI to automate S3 tasks and workflows
+- [**4. Managing Permissions with IAM and AWS CLI**](#4-managing-permissions-with-iam-and-aws-cli) (3 videos)
+  - Introduction to IAM users, groups, and policies
+  - Creating and managing IAM users and groups
+  - Using AWS CLI to manage IAM roles and policies
+- [**5. Managing Other AWS Services with AWS CLI**](#5-managing-other-aws-services-with-aws-cli) (3 videos)
+  - Managing RDS databases with AWS CLI
+  - Managing RDS Snapshots and monitoring with CloudWatch
+  - Working with CloudWatch using AWS CLI
+- [**6. Advanced AWS CLI Topics**](#6-advanced-aws-cli-topics) (2 videos)
+  - Integrating AWS CLI with AWS CloudTrail
+  - Troubleshooting AWS CLI issues
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use AWS CLI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/why-use-aws-cli?u=76281980)
@@ -117,7 +137,7 @@ created: 2026-04-29
 
 ### 1. Introduction to AWS CLI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AWS CLI and its benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/overview-of-aws-cli-and-its-benefits?u=76281980)
@@ -484,7 +504,7 @@ created: 2026-04-29
 
 ### 2. Managing EC2 Instances with AWS CLI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and launching EC2 instances
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/creating-and-launching-ec2-instances?u=76281980)
@@ -841,7 +861,7 @@ created: 2026-04-29
 
 ### 3. Working with S3 and AWS CLI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Uploading, downloading, and managing files in S3 buckets
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/uploading-downloading-and-managing-files-in-s3-buckets?u=76281980)
@@ -1255,7 +1275,7 @@ created: 2026-04-29
 
 ### 4. Managing Permissions with IAM and AWS CLI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to IAM users, groups, and policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/introduction-to-iam-users-groups-and-policies?u=76281980)
@@ -1550,7 +1570,7 @@ created: 2026-04-29
 
 ### 5. Managing Other AWS Services with AWS CLI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing RDS databases with AWS CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/managing-rds-databases-with-aws-cli?u=76281980)
@@ -2011,7 +2031,7 @@ created: 2026-04-29
 
 ### 6. Advanced AWS CLI Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating AWS CLI with AWS CloudTrail
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/integrating-aws-cli-with-aws-cloudtrail?u=76281980)
@@ -2326,7 +2346,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-cli-tips/next-steps?u=76281980)

@@ -47,20 +47,89 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Fundamentals of Data Management]]** (8 videos)
-- **[[#2. Data Collection and Acquisition]]** (9 videos)
-- **[[#3. Data Processing and Integration]]** (9 videos)
-- **[[#4. Data Storage and Management]]** (8 videos)
-- **[[#5. Data Analysis and Interpretation]]** (8 videos)
-- **[[#6. Data Visualization and Reporting]]** (9 videos)
-- **[[#7. Data Governance and Compliance]]** (8 videos)
-- **[[#8. Data Management Meets AI]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Dive into data management
+  - What you should know
+- [**1. Fundamentals of Data Management**](#1-fundamentals-of-data-management) (8 videos)
+  - Introduction to data management
+  - Benefits of effective data management
+  - Data lifecycle management
+  - Key concepts in data management
+  - Data quality assurance and data cleansing
+  - Roles and responsibilities in data management
+  - Common challenges in data management
+  - Emerging trends and technologies in data management
+- [**2. Data Collection and Acquisition**](#2-data-collection-and-acquisition) (9 videos)
+  - Introduction to data collection
+  - Types of data sources
+  - Practical examples of data sources
+  - Data collection methods
+  - Efficient data management with data sampling
+  - Data validation: Ensuring accurate data
+  - Data acquisition best practices
+  - Challenges in data collection
+  - Ethics with data collection
+- [**3. Data Processing and Integration**](#3-data-processing-and-integration) (9 videos)
+  - Introduction to data processing
+  - Data cleaning and preprocessing
+  - Data transformation techniques
+  - Extract, transform, load (ETL) processes
+  - Data integration approaches
+  - Real-time data processing
+  - Big data processing
+  - Challenges in data processing and integration
+  - Practical look at pipelines
+- [**4. Data Storage and Management**](#4-data-storage-and-management) (8 videos)
+  - Introduction to data storage
+  - Types of data storage
+  - Database management systems (DBMS)
+  - Data warehousing
+  - Data archiving and backups
+  - Practical look at blob storage lifecycle management
+  - Data retention and compliance
+  - Data storage optimization
+- [**5. Data Analysis and Interpretation**](#5-data-analysis-and-interpretation) (8 videos)
+  - Introduction to data analysis
+  - Exploratory data analysis (EDA)
+  - Predictive analytics and modeling
+  - Machine learning for data analysis
+  - Text and sentiment analysis
+  - A practical look at Azure AI Sentiment Analysis
+  - Time series analysis
+  - Interpreting and communicating results
+- [**6. Data Visualization and Reporting**](#6-data-visualization-and-reporting) (9 videos)
+  - Introduction to data visualization
+  - Principles of effective data visualization
+  - Data visualization tools and techniques
+  - Practical look at Power BI within Microsoft Fabric
+  - Dashboard design and development
+  - Interactive data visualization
+  - Storytelling with data
+  - Reporting best practices
+  - Common data visualization challenges
+- [**7. Data Governance and Compliance**](#7-data-governance-and-compliance) (8 videos)
+  - Introduction to data governance
+  - Establishing data policies and standards
+  - Regulatory compliance requirements
+  - Data privacy regulations
+  - Data security frameworks
+  - Applying CIS with Azure Policy
+  - Risk management
+  - Continuous monitoring and auditing for compliance
+- [**8. Data Management Meets AI**](#8-data-management-meets-ai) (7 videos)
+  - Introduction to AI in data management
+  - AI-assisted data collection
+  - Impact of AI on data processing and data analysis
+  - AI-driven data visualization
+  - AI-assisted governance and compliance
+  - Future trends in data management AI integration
+  - Practical example of Azure SQL Server automatic tuning
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dive into data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/dive-into-data-management?u=76281980)
@@ -130,7 +199,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Data Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-management?u=76281980)
@@ -585,7 +654,7 @@ created: 2026-04-29
 
 ### 2. Data Collection and Acquisition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-collection?u=76281980)
@@ -1192,7 +1261,7 @@ created: 2026-04-29
 
 ### 3. Data Processing and Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-processing?u=76281980)
@@ -1747,7 +1816,7 @@ created: 2026-04-29
 
 ### 4. Data Storage and Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-storage?u=76281980)
@@ -2184,7 +2253,7 @@ created: 2026-04-29
 
 ### 5. Data Analysis and Interpretation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-analysis?u=76281980)
@@ -2537,7 +2606,7 @@ created: 2026-04-29
 
 ### 6. Data Visualization and Reporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-visualization?u=76281980)
@@ -3035,7 +3104,7 @@ created: 2026-04-29
 
 ### 7. Data Governance and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-data-governance?u=76281980)
@@ -3506,7 +3575,7 @@ created: 2026-04-29
 
 ### 8. Data Management Meets AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI in data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/introduction-to-ai-in-data-management?u=76281980)
@@ -3875,7 +3944,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-management-essential-training/next-steps?u=76281980)

@@ -42,16 +42,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Network Basics]]** (9 videos)
-- **[[#2. Network Concepts and Components]]** (9 videos)
-- **[[#3. Network Cabling]]** (4 videos)
-- **[[#4. Cisco Router and Catalyst Switch Configuration]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn the fundamentals of Cisco networking
+  - What this course is about
+  - How to get hands-on practice
+- [**1. Network Basics**](#1-network-basics) (9 videos)
+  - Overview of a network
+  - Benefits of a network
+  - Day-to-day network examples
+  - OSI model
+  - TCP/IP model
+  - Common network layer protocols
+  - Common transport layer protocols
+  - TCP three-way handshake
+  - Application layer protocols and port numbers
+- [**2. Network Concepts and Components**](#2-network-concepts-and-components) (9 videos)
+  - CSMA/CD vs. CSMA/CA
+  - Hubs and switches
+  - Routers
+  - Collision and broadcast domains
+  - Wireless access points (APs)
+  - Firewalls
+  - Intrusion detection and prevention systems
+  - Examples of network topologies
+  - Mesh topologies
+- [**3. Network Cabling**](#3-network-cabling) (4 videos)
+  - Copper cables
+  - Fiber cables
+  - Transceivers
+  - Straight-through vs. crossover cables
+- [**4. Cisco Router and Catalyst Switch Configuration**](#4-cisco-router-and-catalyst-switch-configuration) (6 videos)
+  - Cisco routers and catalyst switch ports
+  - Cisco Internetwork Operating System (IOS)
+  - Basic Cisco IOS commands
+  - Secure Cisco devices with passwords
+  - Configure a router interface
+  - Work with configuration files
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the fundamentals of Cisco networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980)
@@ -152,7 +184,7 @@ created: 2026-04-29
 
 ### 1. Network Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of a network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980)
@@ -755,7 +787,7 @@ created: 2026-04-29
 
 ### 2. Network Concepts and Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CSMA/CD vs. CSMA/CA
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/csma-cd-vs-csma-ca?u=76281980)
@@ -1553,7 +1585,7 @@ created: 2026-04-29
 
 ### 3. Network Cabling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Copper cables
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/copper-cables?u=76281980)
@@ -1871,7 +1903,7 @@ created: 2026-04-29
 
 ### 4. Cisco Router and Catalyst Switch Configuration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cisco routers and catalyst switch ports
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980)
@@ -2453,7 +2485,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980)

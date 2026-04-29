@@ -43,18 +43,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Working with a Window OS]]** (7 videos)
-- **[[#2. Locking Down Linux and macOS]]** (4 videos)
-- **[[#3. Understand User Authentication]]** (5 videos)
-- **[[#4. Protecting and Monitoring the OS]]** (4 videos)
-- **[[#5. Providing Email Protection]]** (3 videos)
-- **[[#6. Understanding Encryption]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Ensuring system security
+  - Resources
+- [**1. Working with a Window OS**](#1-working-with-a-window-os) (7 videos)
+  - Securing the Windows OS
+  - Visualizing the Windows architecture
+  - Dissecting the NTFS
+  - NTFS demo
+  - Controlling folder access
+  - Using runas
+  - Exploring User Account Control (UAC)
+- [**2. Locking Down Linux and macOS**](#2-locking-down-linux-and-macos) (4 videos)
+  - Protecting your macOS
+  - Interacting with a Linux OS
+  - Using the Linux file system
+  - Avoiding malware on a Linux host
+- [**3. Understand User Authentication**](#3-understand-user-authentication) (5 videos)
+  - Identify and authenticate
+  - Passwords and complexity
+  - Smart cards and tokens
+  - Biometric identification
+  - Multi-factor authentication
+- [**4. Protecting and Monitoring the OS**](#4-protecting-and-monitoring-the-os) (4 videos)
+  - Using a firewall
+  - Locking down the browser
+  - Hardening the OS
+  - Protocol good practices
+- [**5. Providing Email Protection**](#5-providing-email-protection) (3 videos)
+  - Email clients and servers
+  - Email and SPAM
+  - PTR records
+- [**6. Understanding Encryption**](#6-understanding-encryption) (5 videos)
+  - Cryptographic techniques
+  - Symmetric encryption
+  - Asymmetric encryption
+  - Diving into hash algorithms
+  - Public Key Infrastructure
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensuring system security
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/ensuring-system-security?u=76281980)
@@ -105,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Working with a Window OS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing the Windows OS
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/securing-the-windows-os?u=76281980)
@@ -634,7 +665,7 @@ created: 2026-04-29
 
 ### 2. Locking Down Linux and macOS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting your macOS
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/protecting-your-macos?u=76281980)
@@ -894,7 +925,7 @@ created: 2026-04-29
 
 ### 3. Understand User Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify and authenticate
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/identify-and-authenticate?u=76281980)
@@ -1261,7 +1292,7 @@ created: 2026-04-29
 
 ### 4. Protecting and Monitoring the OS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/using-a-firewall?u=76281980)
@@ -1550,7 +1581,7 @@ created: 2026-04-29
 
 ### 5. Providing Email Protection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Email clients and servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/email-clients-and-servers?u=76281980)
@@ -1784,7 +1815,7 @@ created: 2026-04-29
 
 ### 6. Understanding Encryption
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptographic techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/cryptographic-techniques?u=76281980)
@@ -2164,7 +2195,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-operating-system-security-14816522/next-steps?u=76281980)

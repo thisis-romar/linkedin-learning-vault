@@ -53,15 +53,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Explaining Agentic AI]]** (3 videos)
-- **[[#2. Types of AI Agents]]** (6 videos)
-- **[[#3. Putting AI Agents to Work]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introducing agentic AI
+- [**1. Explaining Agentic AI**](#1-explaining-agentic-ai) (3 videos)
+  - What makes AI agents unique
+  - Understand how AI agents work
+  - How AI agents create value for businesses
+- [**2. Types of AI Agents**](#2-types-of-ai-agents) (6 videos)
+  - Simple reflex agents
+  - Model-based agents
+  - Goal-based agents
+  - Utility-based agents
+  - Learning-based agents
+  - Hierarchical agents
+- [**3. Putting AI Agents to Work**](#3-putting-ai-agents-to-work) (2 videos)
+  - Implementing agentic AI
+  - Addressing agentic AI challenges
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your future and agentic AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/introducing-agentic-ai?u=76281980)
@@ -94,7 +107,7 @@ created: 2026-04-29
 
 ### 1. Explaining Agentic AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes AI agents unique
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/what-makes-ai-agents-unique?u=76281980)
@@ -299,7 +312,7 @@ created: 2026-04-29
 
 ### 2. Types of AI Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple reflex agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/simple-reflex-agents?u=76281980)
@@ -641,7 +654,7 @@ created: 2026-04-29
 
 ### 3. Putting AI Agents to Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/implementing-agentic-ai?u=76281980)
@@ -797,7 +810,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your future and agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/transforming-business-with-ai-agents-autonomous-efficiency-and-decision-making/your-future-and-agentic-ai?u=76281980)

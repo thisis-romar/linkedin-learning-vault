@@ -53,17 +53,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Basics of Code Reviews]]** (4 videos)
-- **[[#2. Performing a Code Review]]** (7 videos)
-- **[[#3. Reviewing Code on the Cloud]]** (6 videos)
-- **[[#4. Implementing a Feature]]** (4 videos)
-- **[[#5. Submitting Code for Review]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Write great code reviews to advance your career
+  - What you need to know
+- [**1. Basics of Code Reviews**](#1-basics-of-code-reviews) (4 videos)
+  - What is a code review?
+  - Code reviews in the software development life cycle
+  - Who should review code?
+  - How long should a code review really take
+- [**2. Performing a Code Review**](#2-performing-a-code-review) (7 videos)
+  - Understand the author’s purpose
+  - Review implementation details
+  - Review maintainability and design
+  - Review unfamiliar code
+  - Providing constructive feedback
+  - Common challenges
+  - Using AI in code reviews
+- [**3. Reviewing Code on the Cloud**](#3-reviewing-code-on-the-cloud) (6 videos)
+  - Find code to review on GitHub
+  - Test code on a local machine
+  - Write code review comments
+  - Approve code
+  - Challenge: Give a code review
+  - Solution: Give a code review
+- [**4. Implementing a Feature**](#4-implementing-a-feature) (4 videos)
+  - Scope of a code change
+  - Implement a code change
+  - Commit a code change
+  - Prepare code for review
+- [**5. Submitting Code for Review**](#5-submitting-code-for-review) (6 videos)
+  - Create a pull request (PR)
+  - Find code reviewers
+  - Handle code review comments
+  - Respond to code reviews comments
+  - Challenge: Add a feature and submit a PR
+  - Solution: Add a feature and submit a PR
+- [**Conclusion**](#conclusion) (1 videos)
+  - Add code reviews into your daily job
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Write great code reviews to advance your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/write-great-code-reviews-to-advance-your-career?u=76281980)
@@ -131,7 +161,7 @@ created: 2026-04-29
 
 ### 1. Basics of Code Reviews
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a code review?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/what-is-a-code-review?u=76281980)
@@ -324,7 +354,7 @@ created: 2026-04-29
 
 ### 2. Performing a Code Review
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the author’s purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/understand-the-author-s-purpose?u=76281980)
@@ -765,7 +795,7 @@ created: 2026-04-29
 
 ### 3. Reviewing Code on the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Find code to review on GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/find-code-to-review-on-github?u=76281980)
@@ -1383,7 +1413,7 @@ created: 2026-04-29
 
 ### 4. Implementing a Feature
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scope of a code change
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/scope-of-a-code-change?u=76281980)
@@ -1685,7 +1715,7 @@ created: 2026-04-29
 
 ### 5. Submitting Code for Review
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a pull request (PR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/create-a-pull-request-pr?u=76281980)
@@ -2147,7 +2177,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add code reviews into your daily job
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-conducting-code-reviews/add-code-reviews-into-your-daily-job?u=76281980)

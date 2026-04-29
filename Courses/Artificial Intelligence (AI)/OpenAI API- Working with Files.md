@@ -54,14 +54,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding the Files API]]** (2 videos)
-- **[[#2. Using the Files API]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Uploading large files to the OpenAI API
+  - What you should know
+- [**1. Understanding the Files API**](#1-understanding-the-files-api) (2 videos)
+  - The significance of the Files API
+  - Benefits of the Files API
+- [**2. Using the Files API**](#2-using-the-files-api) (5 videos)
+  - Setting up your development environment
+  - Uploading files
+  - Query a file
+  - Listing files
+  - Deleting files
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Uploading large files to the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-large-files-to-the-openai-api?u=76281980)
@@ -110,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Files API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The significance of the Files API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980)
@@ -228,7 +238,7 @@ created: 2026-04-29
 
 ### 2. Using the Files API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980)
@@ -878,7 +888,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980)

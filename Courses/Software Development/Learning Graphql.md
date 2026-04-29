@@ -43,17 +43,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is GraphQL?]]** (3 videos)
-- **[[#2. GraphQL Queries]]** (4 videos)
-- **[[#3. Mutations and Subscriptions]]** (5 videos)
-- **[[#4. Creating a GraphQL Server Schema]]** (4 videos)
-- **[[#5. Schema Enhancements]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - An introduction to GraphQL
+  - What you should know before watching this course
+- [**1. What Is GraphQL?**](#1-what-is-graphql) (3 videos)
+  - Understanding GraphQL
+  - How GraphQL differs from REST
+  - Using GraphQL Playground
+- [**2. GraphQL Queries**](#2-graphql-queries) (4 videos)
+  - Using enum types and arguments
+  - Adding variables
+  - Querying connected types
+  - Creating operation names
+- [**3. Mutations and Subscriptions**](#3-mutations-and-subscriptions) (5 videos)
+  - Changing data with mutations
+  - Creating GraphQL fragments
+  - Working with subscriptions
+  - Challenge: Sending pet library queries
+  - Solution: Pet library query construction
+- [**4. Creating a GraphQL Server Schema**](#4-creating-a-graphql-server-schema) (4 videos)
+  - Introducing the GraphQL schema definition language
+  - Setting up a GraphQL server with Apollo Server
+  - Creating a custom object
+  - Adding an enumeration type
+- [**5. Schema Enhancements**](#5-schema-enhancements) (7 videos)
+  - Working with mutations
+  - Sending input types to mutations
+  - Building a custom scalar
+  - Returning a custom object
+  - Customizing schema mocks with Apollo Server
+  - Creating subscriptions
+  - Writing schema documentation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980)
@@ -116,7 +142,7 @@ created: 2026-04-29
 
 ### 1. What Is GraphQL?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980)
@@ -318,7 +344,7 @@ created: 2026-04-29
 
 ### 2. GraphQL Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using enum types and arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/using-enum-types-and-arguments?u=76281980)
@@ -617,7 +643,7 @@ created: 2026-04-29
 
 ### 3. Mutations and Subscriptions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Changing data with mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/changing-data-with-mutations?u=76281980)
@@ -931,7 +957,7 @@ created: 2026-04-29
 
 ### 4. Creating a GraphQL Server Schema
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the GraphQL schema definition language
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/introducing-the-graphql-schema-definition-language?u=76281980)
@@ -1231,7 +1257,7 @@ created: 2026-04-29
 
 ### 5. Schema Enhancements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with mutations
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/working-with-mutations?u=76281980)
@@ -1624,7 +1650,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/next-steps?u=76281980)

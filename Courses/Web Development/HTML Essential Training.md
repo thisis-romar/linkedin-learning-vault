@@ -75,20 +75,84 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Web]]** (7 videos)
-- **[[#2. Formatting Text]]** (12 videos)
-- **[[#3. The HTML Document and Page Structure]]** (9 videos)
-- **[[#4. Links and Navigation]]** (6 videos)
-- **[[#5. Images]]** (10 videos)
-- **[[#6. More Media Elements]]** (6 videos)
-- **[[#7. Web Forms]]** (8 videos)
-- **[[#8. Accessibility and Internationalization]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why should I learn HTML?
+  - How to use the exercise files
+- [**1. The Web**](#1-the-web) (7 videos)
+  - Languages of the web
+  - Anatomy of a website
+  - The rules of the web
+  - Terminology and syntax
+  - Exercise: The development environment
+  - Exercise: Customizing your text editor
+  - Exercise: Setting up your dev environment
+- [**2. Formatting Text**](#2-formatting-text) (12 videos)
+  - Paragraphs and headings
+  - Ordered, unordered, and description lists
+  - Quotations
+  - Exercise: Formatting text, part 1
+  - Date and time
+  - Bold and italics
+  - Character entity reference
+  - Exercise: Formatting text, part 2
+  - Code and line breaks
+  - HTML and typography
+  - Challenge: Write text-based HTML markup for course project
+  - Solution: Demo
+- [**3. The HTML Document and Page Structure**](#3-the-html-document-and-page-structure) (9 videos)
+  - The basic HTML document
+  - Structuring content, part 1
+  - Structuring content, part 2
+  - Exercise: Structuring content
+  - HTML tables
+  - Exercise: Create an HTML table
+  - The Document Object Model
+  - Challenge: Add structural elements to project
+  - Solution: Demo
+- [**4. Links and Navigation**](#4-links-and-navigation) (6 videos)
+  - The hyperlink
+  - Relative and absolute URLs
+  - Types of links
+  - Navigation
+  - Challenge: Add links and navigation
+  - Solution: Demo
+- [**5. Images**](#5-images) (10 videos)
+  - Image formats
+  - Embedding images
+  - Width and height attributes
+  - Optimizing images
+  - Developer tools and resizing images
+  - Responsive images, part 1
+  - Responsive images, part 2
+  - Responsive images with picture
+  - Challenge: Add responsive images
+  - Solution: Demo
+- [**6. More Media Elements**](#6-more-media-elements) (6 videos)
+  - Video
+  - Adding captions and subtitles
+  - Audio
+  - Embedding media with iframes
+  - Challenge: Add media to project
+  - Solution: Demo
+- [**7. Web Forms**](#7-web-forms) (8 videos)
+  - What are web forms?
+  - HTML form basics
+  - Input types
+  - Form validation
+  - Checkbox and radio inputs
+  - Additional form elements
+  - Challenge: Add a contact form
+  - Solution: Demo
+- [**8. Accessibility and Internationalization**](#8-accessibility-and-internationalization) (3 videos)
+  - What is accessibility?
+  - Accessible Rich Internet Applications (ARIA) basics
+  - Supporting languages
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why should I learn HTML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980)
@@ -170,7 +234,7 @@ created: 2026-04-29
 
 ### 1. The Web
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Languages of the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980)
@@ -880,7 +944,7 @@ created: 2026-04-29
 
 ### 2. Formatting Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Paragraphs and headings
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980)
@@ -1804,7 +1868,7 @@ created: 2026-04-29
 
 ### 3. The HTML Document and Page Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basic HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980)
@@ -2610,7 +2674,7 @@ created: 2026-04-29
 
 ### 4. Links and Navigation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The hyperlink
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980)
@@ -3014,7 +3078,7 @@ created: 2026-04-29
 
 ### 5. Images
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Image formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980)
@@ -4024,7 +4088,7 @@ created: 2026-04-29
 
 ### 6. More Media Elements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Video
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980)
@@ -4459,7 +4523,7 @@ created: 2026-04-29
 
 ### 7. Web Forms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are web forms?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980)
@@ -5213,7 +5277,7 @@ created: 2026-04-29
 
 ### 8. Accessibility and Internationalization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980)
@@ -5436,7 +5500,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980)

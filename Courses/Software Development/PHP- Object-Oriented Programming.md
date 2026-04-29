@@ -47,19 +47,62 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Overview and Project Set Up]]** (2 videos)
-- **[[#2. Object Basics]]** (7 videos)
-- **[[#3. Class Inheritance]]** (5 videos)
-- **[[#4. Object Access Control]]** (5 videos)
-- **[[#5. Static Properties and Methods]]** (7 videos)
-- **[[#6. Magic Methods]]** (7 videos)
-- **[[#7. A PHP OOP Project]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - PHP: OOP techniques
+  - How to use the exercise files
+- [**1. Overview and Project Set Up**](#1-overview-and-project-set-up) (2 videos)
+  - What is OOP?
+  - Project set up
+- [**2. Object Basics**](#2-object-basics) (7 videos)
+  - Define a class
+  - Instances
+  - Class properties
+  - Class methods
+  - Refer to an instance
+  - Challenge: Properties and methods
+  - Solution: Properties and methods
+- [**3. Class Inheritance**](#3-class-inheritance) (5 videos)
+  - What is inheritance?
+  - Define a subclass
+  - Extend and override
+  - Challenge: Inheritance
+  - Solution: Inheritance
+- [**4. Object Access Control**](#4-object-access-control) (5 videos)
+  - Visibility modifiers
+  - Beware of overloading
+  - Setter and getter methods
+  - Challenge: Access control
+  - Solution: Access control
+- [**5. Static Properties and Methods**](#5-static-properties-and-methods) (7 videos)
+  - The static modifier
+  - Inherited static behaviors
+  - Class constants
+  - Refer to the parent class
+  - Late static bindings
+  - Challenge: Static references
+  - Solution: Static references
+- [**6. Magic Methods**](#6-magic-methods) (7 videos)
+  - Constructor method
+  - Constructor arguments
+  - Destructor method
+  - Clone method
+  - Assignment by reference
+  - Compare objects
+  - Autoload undefined classes
+- [**7. A PHP OOP Project**](#7-a-php-oop-project) (7 videos)
+  - Project introduction
+  - Challenge: The bicycle class
+  - Solution: The bicycle class
+  - From instances to HTML
+  - Read from a CSV file
+  - Improve ParseCSV
+  - From a CSV file to instances
+- [**Conclusion**](#conclusion) (1 videos)
+  - Happy Coding
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PHP: OOP techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980)
@@ -140,7 +183,7 @@ created: 2026-04-29
 
 ### 1. Overview and Project Set Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is OOP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980)
@@ -373,7 +416,7 @@ created: 2026-04-29
 
 ### 2. Object Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define a class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980)
@@ -1496,7 +1539,7 @@ created: 2026-04-29
 
 ### 3. Class Inheritance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is inheritance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-inheritance-14622580?u=76281980)
@@ -2145,7 +2188,7 @@ created: 2026-04-29
 
 ### 4. Object Access Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visibility modifiers
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980)
@@ -3010,7 +3053,7 @@ created: 2026-04-29
 
 ### 5. Static Properties and Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The static modifier
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980)
@@ -4161,7 +4204,7 @@ created: 2026-04-29
 
 ### 6. Magic Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Constructor method
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-method-14622579?u=76281980)
@@ -5281,7 +5324,7 @@ created: 2026-04-29
 
 ### 7. A PHP OOP Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980)
@@ -6389,7 +6432,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Happy Coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980)

@@ -55,16 +55,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started]]** (7 videos)
-- **[[#2. React Fundamentals]]** (5 videos)
-- **[[#3. Working with Data]]** (8 videos)
-- **[[#4. Routing and History]]** (7 videos)
-- **[[#5. Persisting Data]]** (7 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Learning full-stack JavaScript development
+- [**1. Getting Started**](#1-getting-started) (7 videos)
+  - Project repo and NPM
+  - Express and TypeScript
+  - Middlewares and templating
+  - Node modules
+  - MongoDB and Docker
+  - React and webpack
+  - ESLint
+- [**2. React Fundamentals**](#2-react-fundamentals) (5 videos)
+  - Why React?
+  - JSX syntax
+  - Function components and props
+  - State and event handlers
+  - Component life-cycle and side effects
+- [**3. Working with Data**](#3-working-with-data) (8 videos)
+  - Creating a mock API endpoint
+  - Using an API endpoint from the browser
+  - Rendering a list of items
+  - React’s key for items in a list
+  - Fetching data while React is rendering
+  - Server-side rendering of the root path
+  - Sharing data between server and client
+  - Fetching data from MongoDB
+- [**4. Routing and History**](#4-routing-and-history) (7 videos)
+  - Invoking component actions in children
+  - Displaying a different root component
+  - Fetching data after navigating to a new view
+  - Handling browser navigation history
+  - Server-side rendering of a custom path
+  - Fetching data conditionally
+  - Navigating on link click
+- [**5. Persisting Data**](#5-persisting-data) (7 videos)
+  - Handling data in an array
+  - Reading form data with the DOM API
+  - Understanding HTTP request methods
+  - Using an API endpoint to update data
+  - Updating UI based on API response
+  - Project challenge
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning full-stack JavaScript development
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/learning-full-stack-javascript-development?u=76281980)
@@ -189,7 +224,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project repo and NPM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/project-repo-and-npm?u=76281980)
@@ -1404,7 +1439,7 @@ created: 2026-04-29
 
 ### 2. React Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/why-react?u=76281980)
@@ -2060,7 +2095,7 @@ created: 2026-04-29
 
 ### 3. Working with Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a mock API endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/creating-a-mock-api-endpoint?u=76281980)
@@ -3423,7 +3458,7 @@ created: 2026-04-29
 
 ### 4. Routing and History
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Invoking component actions in children
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/invoking-component-actions-in-children?u=76281980)
@@ -4465,7 +4500,7 @@ created: 2026-04-29
 
 ### 5. Persisting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling data in an array
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-full-stack-javascript-development-mongodb-node-and-react-15581237/handling-data-in-an-array?u=76281980)

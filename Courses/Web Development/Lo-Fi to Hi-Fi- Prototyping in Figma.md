@@ -46,15 +46,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Low Fidelity]]** (4 videos)
-- **[[#2. Medium Fidelity]]** (5 videos)
-- **[[#3. High-Fidelity]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Going from wireframes to prototypes in Figma
+  - What you need to know
+  - Defining a problem statement
+- [**1. Low Fidelity**](#1-low-fidelity) (4 videos)
+  - Digital vs. physical wireframing mediums
+  - Selecting color schemes and visual elements
+  - Sketching for wireframing
+  - Finalizing low-fidelity wireframes
+- [**2. Medium Fidelity**](#2-medium-fidelity) (5 videos)
+  - Brush up on the basics
+  - Creating mid-fidelity mock-up
+  - Creating a prototype
+  - Usability testing
+  - Iterating with the help of key findings
+- [**3. High-Fidelity**](#3-high-fidelity) (5 videos)
+  - Preparing the layout for your high-fidelity mock-up
+  - Applying the key findings to your high-fidelity mock-up
+  - Designing your high-fidelity mock-up
+  - Developing functional prototypes
+  - Another round of usability testing
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and helpful resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going from wireframes to prototypes in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/going-from-wireframes-to-prototypes-in-figma?u=76281980)
@@ -161,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Low Fidelity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital vs. physical wireframing mediums
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/digital-vs-physical-wireframing-mediums?u=76281980)
@@ -748,7 +766,7 @@ created: 2026-04-29
 
 ### 2. Medium Fidelity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Brush up on the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/brush-up-on-the-basics?u=76281980)
@@ -1580,7 +1598,7 @@ created: 2026-04-29
 
 ### 3. High-Fidelity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing the layout for your high-fidelity mock-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/preparing-the-layout-for-your-high-fidelity-mock-up?u=76281980)
@@ -2183,7 +2201,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and helpful resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/lo-fi-to-hi-fi-prototyping-in-figma/next-steps-and-helpful-resources?u=76281980)

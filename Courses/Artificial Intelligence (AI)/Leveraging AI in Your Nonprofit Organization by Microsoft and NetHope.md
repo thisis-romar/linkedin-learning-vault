@@ -50,14 +50,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Organizational AI Readiness and Integration for Nonprofits]]** (5 videos)
-- **[[#2. Sustainable AI Adoption for Nonprofits]]** (5 videos)
-- **[[#3. Responsible AI for Nonprofits]]** (5 videos)
-- **[[#4. AI and Data Governance for Nonprofits]]** (5 videos)
+- [**1. Organizational AI Readiness and Integration for Nonprofits**](#1-organizational-ai-readiness-and-integration-for-nonprofits) (5 videos)
+  - Connecting AI to people and practice
+  - Connecting AI to organizational goals
+  - AI adoption step by step guide
+  - Integrating AI into existing workflows
+  - Setting up governance and capacity building structures
+- [**2. Sustainable AI Adoption for Nonprofits**](#2-sustainable-ai-adoption-for-nonprofits) (5 videos)
+  - Changing habits, not just systems
+  - Foundations for successful AI adoption and sustainable implementation
+  - Assessing opportunities, risks and barriers in AI adoption
+  - Strategies to overcome barriers and enable long-term AI adoption
+  - Budgeting and funding for sustainable AI adoption
+- [**3. Responsible AI for Nonprofits**](#3-responsible-ai-for-nonprofits) (5 videos)
+  - When AI goes wrong, people pay the price
+  - Ethical use and accountability
+  - Ethical principles guiding AI use
+  - What responsible AI use looks like in the nonprofit sector
+  - Using sector standards and practical tools
+- [**4. AI and Data Governance for Nonprofits**](#4-ai-and-data-governance-for-nonprofits) (5 videos)
+  - Data shapes decisions, decisions shape data
+  - Ethical foundations of AI and data governance
+  - Governance structures and organizational accountability
+  - Protection of community data
+  - Sustainable and trust-building digital governance practices
 
 ### 1. Organizational AI Readiness and Integration for Nonprofits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting AI to people and practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/connecting-ai-to-people-and-practice?u=76281980)
@@ -352,7 +372,7 @@ created: 2026-04-29
 
 ### 2. Sustainable AI Adoption for Nonprofits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Changing habits, not just systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/changing-habits-not-just-systems?u=76281980)
@@ -708,7 +728,7 @@ created: 2026-04-29
 
 ### 3. Responsible AI for Nonprofits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When AI goes wrong, people pay the price
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/when-ai-goes-wrong-people-pay-the-price?u=76281980)
@@ -1159,7 +1179,7 @@ created: 2026-04-29
 
 ### 4. AI and Data Governance for Nonprofits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data shapes decisions, decisions shape data
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-organization-by-microsoft-and-nethope/data-shapes-decisions-decisions-shape-data?u=76281980)

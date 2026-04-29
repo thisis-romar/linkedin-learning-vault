@@ -51,18 +51,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI's Role in Security Testing]]** (2 videos)
-- **[[#2. Using AI in Risk Assessments]]** (4 videos)
-- **[[#3. Using AI in Security Controls Assessments]]** (4 videos)
-- **[[#4. Using AI in Compliance Assessments]]** (4 videos)
-- **[[#5. Using AI in Vulnerability Assessments]]** (4 videos)
-- **[[#6. Using AI in Penetration Tests]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - AI tools for security testing
+- [**1. AI's Role in Security Testing**](#1-ais-role-in-security-testing) (2 videos)
+  - Types of security testing
+  - Using AI in your security testing
+- [**2. Using AI in Risk Assessments**](#2-using-ai-in-risk-assessments) (4 videos)
+  - What is a risk assessment?
+  - AI-augmented risk assessments
+  - Incorporating human risk appetite
+  - Demo: Risk assessment with ChatGPT
+- [**3. Using AI in Security Controls Assessments**](#3-using-ai-in-security-controls-assessments) (4 videos)
+  - What is a security controls assessment?
+  - AI-augmented controls assessments
+  - Controls assessment dos and don'ts
+  - Demo: Controls assessment with Bard
+- [**4. Using AI in Compliance Assessments**](#4-using-ai-in-compliance-assessments) (4 videos)
+  - What is a compliance assessment?
+  - AI-augmented compliance assessments
+  - Responding to auditors
+  - Compliance assessment with Bing Chat
+- [**5. Using AI in Vulnerability Assessments**](#5-using-ai-in-vulnerability-assessments) (4 videos)
+  - What is a vulnerability assessment?
+  - AI-augmented vulnerability assessments
+  - Trust but verify
+  - Demo: Vulnerability assessment with Bard
+- [**6. Using AI in Penetration Tests**](#6-using-ai-in-penetration-tests) (4 videos)
+  - What is a penetration test?
+  - AI-augmented penetration tests
+  - Ethical considerations
+  - Demo: Pen test with Bard and ChatGPT
+- [**Conclusion**](#conclusion) (1 videos)
+  - Planning future security tests with AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI tools for security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/ai-tools-for-security-testing?u=76281980)
@@ -90,7 +114,7 @@ created: 2026-04-29
 
 ### 1. AI's Role in Security Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/types-of-security-testing?u=76281980)
@@ -194,7 +218,7 @@ created: 2026-04-29
 
 ### 2. Using AI in Risk Assessments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a risk assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-risk-assessment?u=76281980)
@@ -577,7 +601,7 @@ created: 2026-04-29
 
 ### 3. Using AI in Security Controls Assessments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a security controls assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-security-controls-assessment?u=76281980)
@@ -870,7 +894,7 @@ created: 2026-04-29
 
 ### 4. Using AI in Compliance Assessments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a compliance assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-compliance-assessment?u=76281980)
@@ -1212,7 +1236,7 @@ created: 2026-04-29
 
 ### 5. Using AI in Vulnerability Assessments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a vulnerability assessment?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-vulnerability-assessment?u=76281980)
@@ -1536,7 +1560,7 @@ created: 2026-04-29
 
 ### 6. Using AI in Penetration Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a penetration test?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/what-is-a-penetration-test?u=76281980)
@@ -2032,7 +2056,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning future security tests with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-security-testing/planning-future-security-tests-with-ai?u=76281980)

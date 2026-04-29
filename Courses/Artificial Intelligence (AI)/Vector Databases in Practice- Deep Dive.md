@@ -59,16 +59,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Search Functions in a Vector Database]]** (10 videos)
-- **[[#2. Building a Vector Database]]** (8 videos)
-- **[[#3. Building a Vector Database-Powered App]]** (7 videos)
-- **[[#4. Making a Vector Database Work for Your Data]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of AI-powered vector databases
+- [**1. Search Functions in a Vector Database**](#1-search-functions-in-a-vector-database) (10 videos)
+  - A high-level view of vector databases
+  - What you can do with vector databases
+  - Get set up for the course
+  - Keyword filtering and keyword searches
+  - Vector searches
+  - Searching with filters
+  - Hybrid searches
+  - Retrieval augmented generation
+  - Challenge: Vector database queries
+  - Solution: Vector database queries
+- [**2. Building a Vector Database**](#2-building-a-vector-database) (8 videos)
+  - Create your own database
+  - Work with Weaviate
+  - Create an object collection
+  - Basic data import in Weaviate
+  - Establishing relationships with references
+  - Recap: Building a vector database
+  - Challenge: Add another object collection
+  - Solution: Add another object collection
+- [**3. Building a Vector Database-Powered App**](#3-building-a-vector-database-powered-app) (7 videos)
+  - Web apps and vector databases
+  - Create a basic app
+  - Connect the app to Weaviate
+  - Parsing query responses
+  - Recommendations with RAG
+  - Challenge: App enhancements
+  - Solution: App enhancements
+- [**4. Making a Vector Database Work for Your Data**](#4-making-a-vector-database-work-for-your-data) (6 videos)
+  - Messiness of real data
+  - Pre-processing text for vector databases
+  - Chunking longer texts
+  - Chunk Wikipedia articles
+  - Challenge: Import Wikipedia data chunks
+  - Solution: Import Wikipedia data chunks
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue learning about vector databases
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of AI-powered vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980)
@@ -97,7 +130,7 @@ created: 2026-04-29
 
 ### 1. Search Functions in a Vector Database
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A high-level view of vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980)
@@ -843,7 +876,7 @@ created: 2026-04-29
 
 ### 2. Building a Vector Database
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your own database
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980)
@@ -1494,7 +1527,7 @@ created: 2026-04-29
 
 ### 3. Building a Vector Database-Powered App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Web apps and vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980)
@@ -2070,7 +2103,7 @@ created: 2026-04-29
 
 ### 4. Making a Vector Database Work for Your Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Messiness of real data
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/messiness-of-real-data?u=76281980)
@@ -2515,7 +2548,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning about vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980)

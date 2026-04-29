@@ -47,18 +47,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Get Started]]** (4 videos)
-- **[[#1. Getting Users Started]]** (6 videos)
-- **[[#2. Productivity]]** (8 videos)
-- **[[#3. Communications]]** (3 videos)
-- **[[#4. Getting Things Done]]** (6 videos)
-- **[[#5. Collaboration]]** (4 videos)
-- **[[#6. Media Rich Apps]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Get Started**](#get-started) (4 videos)
+  - Administrators support Office 365 users
+  - What you should know
+  - Help desk role
+  - Identify training resources
+- [**1. Getting Users Started**](#1-getting-users-started) (6 videos)
+  - Training basics: Office 365 portal overview
+  - Training basics: Common elements
+  - Troubleshoot user accounts
+  - Troubleshoot app startup
+  - Repair Office apps
+  - Uninstall Office
+- [**2. Productivity**](#2-productivity) (8 videos)
+  - Word
+  - Create a PowerPoint presentation
+  - Record a PowerPoint presentation
+  - Excel
+  - Power BI
+  - Access
+  - OneNote
+  - MyAnalytics
+- [**3. Communications**](#3-communications) (3 videos)
+  - Use Outlook
+  - Configure Outlook
+  - Teams
+- [**4. Getting Things Done**](#4-getting-things-done) (6 videos)
+  - Visio
+  - Project
+  - Planner
+  - To Do
+  - Forms
+  - Power Automate
+- [**5. Collaboration**](#5-collaboration) (4 videos)
+  - OneDrive
+  - SharePoint
+  - SharePoint team site administration
+  - Yammer
+- [**6. Media Rich Apps**](#6-media-rich-apps) (3 videos)
+  - Publisher
+  - Sway
+  - Stream
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Get Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Administrators support Office 365 users
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/administrators-support-office-365-users?u=76281980)
@@ -327,7 +362,7 @@ created: 2026-04-29
 
 ### 1. Getting Users Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Training basics: Office 365 portal overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/training-basics-office-365-portal-overview?u=76281980)
@@ -769,7 +804,7 @@ created: 2026-04-29
 
 ### 2. Productivity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/word?u=76281980)
@@ -1700,7 +1735,7 @@ created: 2026-04-29
 
 ### 3. Communications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/use-outlook?u=76281980)
@@ -1965,7 +2000,7 @@ created: 2026-04-29
 
 ### 4. Getting Things Done
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visio
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/visio?u=76281980)
@@ -2619,7 +2654,7 @@ created: 2026-04-29
 
 ### 5. Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/onedrive?u=76281980)
@@ -3028,7 +3063,7 @@ created: 2026-04-29
 
 ### 6. Media Rich Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Publisher
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/publisher?u=76281980)
@@ -3322,7 +3357,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-for-administrators-supporting-users/next-steps?u=76281980)

@@ -39,16 +39,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Know Your Business Inside Out]]** (3 videos)
-- **[[#2. Analyze and Prioritize Your Options]]** (3 videos)
-- **[[#3. Evaluate a Business Change Scenario]]** (2 videos)
-- **[[#4. Craft a Bulletproof Business Case]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Anyone can do business analysis to solve problems
+- [**1. Know Your Business Inside Out**](#1-know-your-business-inside-out) (3 videos)
+  - Start with the business requirements
+  - Align with strategic planning and direction
+  - Business change opportunity
+- [**2. Analyze and Prioritize Your Options**](#2-analyze-and-prioritize-your-options) (3 videos)
+  - Options for reaching the desired future state
+  - Prioritize and validate solutions
+  - Assess capability gaps
+- [**3. Evaluate a Business Change Scenario**](#3-evaluate-a-business-change-scenario) (2 videos)
+  - Analyze a value proposition
+  - Set the change strategy
+- [**4. Craft a Bulletproof Business Case**](#4-craft-a-bulletproof-business-case) (2 videos)
+  - Analyze your risk, cost, and benefits
+  - Bring your stakeholders on board
+- [**Conclusion**](#conclusion) (1 videos)
+  - Three tips on turning your solution into action
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Anyone can do business analysis to solve problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/anyone-can-do-business-analysis-to-solve-problems?u=76281980)
@@ -90,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Know Your Business Inside Out
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start with the business requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980)
@@ -324,7 +336,7 @@ created: 2026-04-29
 
 ### 2. Analyze and Prioritize Your Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Options for reaching the desired future state
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/options-for-reaching-the-desired-future-state?u=76281980)
@@ -612,7 +624,7 @@ created: 2026-04-29
 
 ### 3. Evaluate a Business Change Scenario
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze a value proposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-a-value-proposition?u=76281980)
@@ -772,7 +784,7 @@ created: 2026-04-29
 
 ### 4. Craft a Bulletproof Business Case
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze your risk, cost, and benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-your-risk-cost-and-benefits?u=76281980)
@@ -934,7 +946,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three tips on turning your solution into action
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/three-tips-on-turning-your-solution-into-action?u=76281980)

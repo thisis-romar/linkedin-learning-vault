@@ -44,17 +44,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (13 videos)
-- **[[#1. Introduction to IT Automation]]** (6 videos)
-- **[[#2. Getting Started with Ansible]]** (4 videos)
-- **[[#3. Setting Up an Ansible Environment]]** (3 videos)
-- **[[#4. Using Ad Hoc Commands]]** (6 videos)
-- **[[#5. Ansible Command Line Tools]]** (6 videos)
-- **[[#Summary]]** (1 videos)
+- [**Introduction**](#introduction) (13 videos)
+  - Prepare for the RHCE EX294 certification
+  - What you should know
+  - About the RHCE (EX294) exam
+  - State of Enterprise Linux
+  - Install Virtual Box
+  - CentOS 8 lab setup
+  - Optimize your VM
+  - Install Linux from DVD ISO
+  - Install Linux Guest Additions
+  - Virtual machine snapshots
+  - Finish lab set up
+  - Create a private network in VirtualBox
+  - Reconfigure or migrate CentOS
+- [**1. Introduction to IT Automation**](#1-introduction-to-it-automation) (6 videos)
+  - About IT automation
+  - Ansible concepts
+  - About provisioning
+  - About configuration management
+  - About app deployment
+  - About orchestration
+- [**2. Getting Started with Ansible**](#2-getting-started-with-ansible) (4 videos)
+  - Host requirements
+  - Install Ansible on the control node
+  - Prepare managed nodes
+  - View Ansible Documentation
+- [**3. Setting Up an Ansible Environment**](#3-setting-up-an-ansible-environment) (3 videos)
+  - Build static inventory
+  - Work with dynamic inventory
+  - Manage Ansible configuration files
+- [**4. Using Ad Hoc Commands**](#4-using-ad-hoc-commands) (6 videos)
+  - Introduction to ad-hoc commands
+  - Targeting hosts with patterns
+  - Manage files and packages
+  - Restart servers and services
+  - Manage users
+  - Gather data
+- [**5. Ansible Command Line Tools**](#5-ansible-command-line-tools) (6 videos)
+  - Manage connection methods
+  - Use the Ansible command
+  - View Ansible configuration
+  - Use the Ansible console
+  - Show Ansible inventory
+  - Run Ansible playbooks
+- [**Summary**](#summary) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare for the RHCE EX294 certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980)
@@ -1499,7 +1538,7 @@ created: 2026-04-29
 
 ### 1. Introduction to IT Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### About IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980)
@@ -1973,7 +2012,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Ansible
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Host requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980)
@@ -2274,7 +2313,7 @@ created: 2026-04-29
 
 ### 3. Setting Up an Ansible Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build static inventory
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980)
@@ -2566,7 +2605,7 @@ created: 2026-04-29
 
 ### 4. Using Ad Hoc Commands
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ad-hoc commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980)
@@ -3190,7 +3229,7 @@ created: 2026-04-29
 
 ### 5. Ansible Command Line Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage connection methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980)
@@ -3637,7 +3676,7 @@ created: 2026-04-29
 
 ### Summary
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980)

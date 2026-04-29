@@ -56,14 +56,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#Module 1: AI-Augmented Test-Driven Development (TDD)]]** (6 videos)
-- **[[#Module 2: Large-Scale Refactoring]]** (6 videos)
-- **[[#Module 3: Infrastructure as Code (IaC) with Copilot]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course introduction
+- [**Module 1: AI-Augmented Test-Driven Development (TDD)**](#module-1-ai-augmented-test-driven-development-tdd) (6 videos)
+  - Introduction to AI-assisted TDD
+  - Generating complex test suites
+  - Mocking dependencies with Copilot
+  - Challenge: TDD for a new feature
+  - Solution: TDD for a new feature
+  - Evaluating test coverage
+- [**Module 2: Large-Scale Refactoring**](#module-2-large-scale-refactoring) (6 videos)
+  - Strategic use of workspace
+  - Analyzing cross-file dependencies
+  - Challenge: System-wide code cleanup
+  - Solution: System-wide code cleanup
+  - Enforcing styles and constraints
+  - Generating guidelines for specific tasks
+- [**Module 3: Infrastructure as Code (IaC) with Copilot**](#module-3-infrastructure-as-code-iac-with-copilot) (4 videos)
+  - Generating IaC configurations
+  - Creating Dockerfiles with AI
+  - Terraform configuration generation
+  - Course wrap-up
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/course-introducton?u=76281980)
@@ -93,7 +110,7 @@ created: 2026-04-29
 
 ### Module 1: AI-Augmented Test-Driven Development (TDD)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI-assisted TDD
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/introduction-to-ai-assisted-tdd?u=76281980)
@@ -720,7 +737,7 @@ created: 2026-04-29
 
 ### Module 2: Large-Scale Refactoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic use of workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/strategic-use-of-workspace?u=76281980)
@@ -1406,7 +1423,7 @@ created: 2026-04-29
 
 ### Module 3: Infrastructure as Code (IaC) with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating IaC configurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-copilot-for-system-level-development/generating-iac-configurations?u=76281980)

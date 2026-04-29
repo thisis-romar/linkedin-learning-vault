@@ -45,17 +45,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Subqueries]]** (7 videos)
-- **[[#2. Common Table Expressions (CTE)]]** (5 videos)
-- **[[#3. Windows Functions: ROW_NUMBER()]]** (4 videos)
-- **[[#4. Windows Functions: LAG() and LEAD()]]** (4 videos)
-- **[[#5. Ranking Windows Functions]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - The importance of SQL in a data-driven world
+  - Prerequisite knowledge
+  - Navigating the exercise files on GitHub
+  - Setting up Microsoft SQL Server
+  - Adding primary key constraints
+- [**1. Subqueries**](#1-subqueries) (7 videos)
+  - What is a subquery?
+  - Syntax of a scalar subquery
+  - Syntax of a multiple-row subquery
+  - Uncorrelated subquery
+  - Correlated subquery
+  - Challenge: Create a subquery
+  - Solution: Create a subquery
+- [**2. Common Table Expressions (CTE)**](#2-common-table-expressions-cte) (5 videos)
+  - Syntax of CTEs
+  - Recursive CTEs
+  - Challenge: Create a CTE
+  - Solution: Create a CTE
+  - Difference between a CTE and a subquery
+- [**3. Windows Functions: ROW_NUMBER()**](#3-windows-functions-row_number) (4 videos)
+  - Introduction to window functions
+  - Diving into ROW_NUMBER()
+  - Challenge: Calculate a ROW_NUMBER
+  - Solution: Calculate a ROW_NUMBER
+- [**4. Windows Functions: LAG() and LEAD()**](#4-windows-functions-lag-and-lead) (4 videos)
+  - Use cases and syntax of LAG() and LEAD()
+  - Using LAG() and LEAD() in tandem
+  - Challenge: Using LAG() and LEAD() to determine most recent order quantities
+  - Solution: Using LAG() and LEAD() to determine most recent order quantities
+- [**5. Ranking Windows Functions**](#5-ranking-windows-functions) (4 videos)
+  - Introduction to ranking window functions
+  - Demonstrating the distinction between RANK() and DENSE_RANK()
+  - Challenge: RANK() and DENSE_RANK()
+  - Solution: RANK() and DENSE_RANK()
+- [**Conclusion**](#conclusion) (1 videos)
+  - Wrap-up
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of SQL in a data-driven world
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980)
@@ -333,7 +363,7 @@ created: 2026-04-29
 
 ### 1. Subqueries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a subquery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/what-is-a-subquery?u=76281980)
@@ -720,7 +750,7 @@ created: 2026-04-29
 
 ### 2. Common Table Expressions (CTE)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Syntax of CTEs
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980)
@@ -1039,7 +1069,7 @@ created: 2026-04-29
 
 ### 3. Windows Functions: ROW_NUMBER()
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-window-functions?u=76281980)
@@ -1357,7 +1387,7 @@ created: 2026-04-29
 
 ### 4. Windows Functions: LAG() and LEAD()
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use cases and syntax of LAG() and LEAD()
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980)
@@ -1599,7 +1629,7 @@ created: 2026-04-29
 
 ### 5. Ranking Windows Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ranking window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-ranking-window-functions?u=76281980)
@@ -1870,7 +1900,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980)

@@ -42,16 +42,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Why Best Practices?]]** (4 videos)
-- **[[#2. Creating Comments]]** (5 videos)
-- **[[#3. Using Punctuation]]** (7 videos)
-- **[[#4. Using Spacing]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Modern standards for your JavaScript
+  - What you should know
+  - Set up your environment
+- [**1. Why Best Practices?**](#1-why-best-practices) (4 videos)
+  - Style guides
+  - Use modern deployment tools
+  - ESLint
+  - Foundational practice: Use strict mode
+- [**2. Creating Comments**](#2-creating-comments) (5 videos)
+  - Use single-line syntax for single lines
+  - Multi-line syntax with leading asterisks
+  - Include leading spaces in comments
+  - Challenge: Create JavaScript comments
+  - Solution: Create JavaScript comments
+- [**3. Using Punctuation**](#3-using-punctuation) (7 videos)
+  - End statements with a semicolon
+  - Don't rely on auto semicolon insertion
+  - Standardize line length
+  - Use commas consistently
+  - Include a comma in a list of values
+  - Challenge: Optimize punctuation
+  - Solution: Optimize punctuation
+- [**4. Using Spacing**](#4-using-spacing) (11 videos)
+  - Indent consistently
+  - Space before and after operators
+  - Use a consistent format for blocks
+  - Include a space after keywords and arrows
+  - Use consistent spacing before function signature parentheses
+  - Break up and indent long-method chains
+  - Space consistently within enclosing characters
+  - Space after commas, but not before
+  - Limit blank space to one line
+  - Challenge: Optimize spacing
+  - Solution: Optimize spacing
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern standards for your JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980)
@@ -179,7 +210,7 @@ created: 2026-04-29
 
 ### 1. Why Best Practices?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Style guides
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980)
@@ -472,7 +503,7 @@ created: 2026-04-29
 
 ### 2. Creating Comments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use single-line syntax for single lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980)
@@ -776,7 +807,7 @@ created: 2026-04-29
 
 ### 3. Using Punctuation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### End statements with a semicolon
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980)
@@ -1360,7 +1391,7 @@ created: 2026-04-29
 
 ### 4. Using Spacing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Indent consistently
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980)
@@ -2112,7 +2143,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/next-steps?u=76281980)

@@ -46,17 +46,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Automation Opportunity]]** (5 videos)
-- **[[#2. What Is RPA?]]** (7 videos)
-- **[[#3. The Benefits of RPA]]** (4 videos)
-- **[[#4. Best Practices at the Process Level]]** (6 videos)
-- **[[#5. Best Practices at the Enterprise Level]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome to the future of work
+  - Your guide to watching this course
+- [**1. The Automation Opportunity**](#1-the-automation-opportunity) (5 videos)
+  - Digital transformation
+  - Corporate archeology
+  - The fourth generation of work
+  - The worker of the future
+  - The impact of robotic process automation (RPA) today
+- [**2. What Is RPA?**](#2-what-is-rpa) (7 videos)
+  - What is robotic process automation?
+  - A simplified definition of RPA
+  - What is robotic desktop automation?
+  - The automation spectrum
+  - The RPA vendor landscape
+  - Differences between RPA and other tools
+  - RPA and low code and no code
+- [**3. The Benefits of RPA**](#3-the-benefits-of-rpa) (4 videos)
+  - The importance of ROI
+  - The seven benefit types
+  - The triple-win model
+  - Don’t forget the cost of ownership
+- [**4. Best Practices at the Process Level**](#4-best-practices-at-the-process-level) (6 videos)
+  - Identifying opportunities for automation
+  - Efficiency drivers for automation
+  - Prime opportunity areas for automation
+  - Process reengineering
+  - Practical RDA example
+  - Key stakeholders in your RPA journey
+- [**5. Best Practices at the Enterprise Level**](#5-best-practices-at-the-enterprise-level) (4 videos)
+  - Start small but don't think small
+  - RPA is not about the robot
+  - Don’t forget the fundamentals
+  - Leveraging a center of excellence
+- [**Conclusion**](#conclusion) (2 videos)
+  - Real-world tips for success
+  - Key takeaways
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the future of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/welcome-to-the-future-of-work-26920365?u=76281980)
@@ -145,7 +175,7 @@ created: 2026-04-29
 
 ### 1. The Automation Opportunity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/digital-transformation?u=76281980)
@@ -388,7 +418,7 @@ created: 2026-04-29
 
 ### 2. What Is RPA?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is robotic process automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/what-is-robotic-process-automation?u=76281980)
@@ -907,7 +937,7 @@ created: 2026-04-29
 
 ### 3. The Benefits of RPA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/the-importance-of-roi?u=76281980)
@@ -1256,7 +1286,7 @@ created: 2026-04-29
 
 ### 4. Best Practices at the Process Level
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying opportunities for automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/identifying-opportunities-for-automation-26926351?u=76281980)
@@ -1698,7 +1728,7 @@ created: 2026-04-29
 
 ### 5. Best Practices at the Enterprise Level
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start small but don't think small
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/start-small-but-don-t-think-small?u=76281980)
@@ -1999,7 +2029,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Real-world tips for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-robotic-process-automation-18500442/tips-for-success-from-the-front-lines-26921389?u=76281980)

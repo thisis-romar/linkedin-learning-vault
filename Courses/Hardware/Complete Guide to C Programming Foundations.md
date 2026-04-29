@@ -51,22 +51,159 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. C Programming Fundamentals]]** (13 videos)
-- **[[#2. Variables and Values]]** (14 videos)
-- **[[#3. Operators and Math]]** (14 videos)
-- **[[#4. Decisions and Loops]]** (15 videos)
-- **[[#5. Functions]]** (15 videos)
-- **[[#6. Arrays and Structures]]** (14 videos)
-- **[[#7. Characters and Strings]]** (13 videos)
-- **[[#8. Pointers]]** (15 videos)
-- **[[#9. Files and the Operating System]]** (14 videos)
-- **[[#10. The Interesting and Extraordinary]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Diving into C
+  - Configuration and setup
+- [**1. C Programming Fundamentals**](#1-c-programming-fundamentals) (13 videos)
+  - Coding your first program
+  - Challenge: Write your own code
+  - Solution: Write your own code
+  - Getting into the C language
+  - Reviewing code structure
+  - Working the C development cycle
+  - Challenge: Find and fix the bugs
+  - Solution: Find and fix the bugs
+  - Exploring the preprocessor
+  - Understanding header files and libraries
+  - Adding comments
+  - Chapter challenge: Building the foundation
+  - Chapter solution: Building the foundation
+- [**2. Variables and Values**](#2-variables-and-values) (14 videos)
+  - Understanding C language data types
+  - Declaring variables
+  - Working with variables
+  - Exploring the printf() function
+  - Using constants
+  - Challenge: Making variables and constants
+  - Solution: Making variables and constants
+  - Understanding variable scope
+  - Making new data types
+  - Specifying characters and strings
+  - Specifying integers and real numbers
+  - Typecasting a variable
+  - Chapter challenge: Adding variables and constants
+  - Chapter solution: Adding variables and constants
+- [**3. Operators and Math**](#3-operators-and-math) (14 videos)
+  - Working with math operators
+  - Challenge: Do some math
+  - Solution: Do some math
+  - Using assignment operators
+  - Obeying the order of precedence
+  - Challenge: Get the order correct
+  - Solution: Get the order correct
+  - Working with relational operators
+  - Using logical operators
+  - Understanding bitwise operators
+  - Shifting bits
+  - Exploring unary operators
+  - Chapter challenge: More math
+  - Chapter solution: More math
+- [**4. Decisions and Loops**](#4-decisions-and-loops) (15 videos)
+  - Making a decision
+  - Exploring the possibilities
+  - Using the ternary operator
+  - Working with the switch-case structure
+  - Challenge: Select an item
+  - Solution: Select an item
+  - Creating a for loop
+  - Setting up a while loop
+  - Challenge: Repeat some text
+  - Solution: Repeat some text
+  - Nesting loops
+  - Breaking out of a loop
+  - Avoiding the goto keyword
+  - Chapter challenge: Interpreting commands
+  - Chapter solution: Interpreting commands
+- [**5. Functions**](#5-functions) (15 videos)
+  - Understanding functions
+  - Creating a function
+  - Challenge: Writing a function
+  - Solution: Writing a function
+  - Returning a value from a function
+  - Challenge: Returning a value
+  - Solution: Returning a value
+  - Passing arguments to a function
+  - Challenge: Passing values
+  - Solution: Passing values
+  - Using the main() function's arguments
+  - Retaining values in a function
+  - Creating recursive functions
+  - Chapter challenge: Write the functions
+  - Chapter solution: Write the functions
+- [**6. Arrays and Structures**](#6-arrays-and-structures) (14 videos)
+  - Understanding arrays
+  - Working with arrays
+  - Challenge: Creating an array
+  - Solution: Creating an array
+  - Passing an array to a function
+  - Working with multi-dimensional arrays
+  - Building a structure
+  - Nesting structures
+  - Challenge: Constructing a structure
+  - Solution: Constructing a structure
+  - Putting structures into an array
+  - Working with structures and functions
+  - Chapter challenge: Manipulating a structure
+  - Chapter solution: Manipulating a structure
+- [**7. Characters and Strings**](#7-characters-and-strings) (13 videos)
+  - Using single character I/O
+  - Testing and converting characters
+  - Challenge: Character I/O and conversions
+  - Solution: Character I/O and conversions
+  - Understanding strings in C
+  - Fetching string input
+  - Sending string output
+  - Challenge: Using printf placeholders
+  - Solution: Using printf placeholders
+  - Exploring string functions
+  - Manipulating strings
+  - Chapter challenge: Reading commands
+  - Chapter solution: Reading commands
+- [**8. Pointers**](#8-pointers) (15 videos)
+  - Understanding pointers
+  - Using pointers to manipulate data
+  - Doing pointer math
+  - Comparing arrays and pointers
+  - Challenge: Output a string
+  - Solution: Output a string
+  - Allocating storage
+  - Working with a pointer array
+  - Using pointers in structures
+  - Challenge: Allocating structures
+  - Solution: Allocating structures
+  - Passing pointers to functions
+  - Returning pointers from a function
+  - Chapter challenge: Processing input
+  - Chapter solution: Processing input
+- [**9. Files and the Operating System**](#9-files-and-the-operating-system) (14 videos)
+  - Reading from a file
+  - Writing to a file
+  - Challenge: Writing and reading files
+  - Solution: Writing and reading files
+  - Working with raw data
+  - Using random file access
+  - Challenge: Access database records
+  - Solution: Access database records
+  - Manipulating files
+  - Exploring the path
+  - Reading a directory
+  - Getting file information
+  - Chapter challenge: Managing files
+  - Chapter solution: Managing files
+- [**10. The Interesting and Extraordinary**](#10-the-interesting-and-extraordinary) (7 videos)
+  - Calling the operating system
+  - Doing advanced math
+  - Working with time functions
+  - Creating random numbers
+  - Sorting data
+  - Chapter challenge: Sorting a grid
+  - Chapter solution: Sorting a grid
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into C
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/diving-into-c?u=76281980)
@@ -203,7 +340,7 @@ created: 2026-04-29
 
 ### 1. C Programming Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Coding your first program
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/coding-your-first-program?u=76281980)
@@ -1043,7 +1180,7 @@ created: 2026-04-29
 
 ### 2. Variables and Values
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding C language data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-c-language-data-types?u=76281980)
@@ -1973,7 +2110,7 @@ created: 2026-04-29
 
 ### 3. Operators and Math
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with math operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/working-with-math-operators?u=76281980)
@@ -2810,7 +2947,7 @@ created: 2026-04-29
 
 ### 4. Decisions and Loops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making a decision
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/making-a-decision?u=76281980)
@@ -3778,7 +3915,7 @@ created: 2026-04-29
 
 ### 5. Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-functions?u=76281980)
@@ -4668,7 +4805,7 @@ created: 2026-04-29
 
 ### 6. Arrays and Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-arrays?u=76281980)
@@ -5597,7 +5734,7 @@ created: 2026-04-29
 
 ### 7. Characters and Strings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using single character I/O
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/using-single-character-i-o?u=76281980)
@@ -6504,7 +6641,7 @@ created: 2026-04-29
 
 ### 8. Pointers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding pointers
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/understanding-pointers?u=76281980)
@@ -7580,7 +7717,7 @@ created: 2026-04-29
 
 ### 9. Files and the Operating System
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading from a file
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/reading-from-a-file?u=76281980)
@@ -8614,7 +8751,7 @@ created: 2026-04-29
 
 ### 10. The Interesting and Extraordinary
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calling the operating system
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/calling-the-operating-system?u=76281980)
@@ -9178,7 +9315,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-programming-foundations/next-steps?u=76281980)

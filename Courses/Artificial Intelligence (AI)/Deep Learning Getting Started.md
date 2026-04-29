@@ -59,18 +59,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Deep Learning]]** (6 videos)
-- **[[#2. Neural Network Architecture]]** (5 videos)
-- **[[#3. Training a Neural Network]]** (10 videos)
-- **[[#4. Deep Learning Example 1]]** (6 videos)
-- **[[#5. Deep Learning Example 2]]** (4 videos)
-- **[[#6. Deep Learning Exercise]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Getting started with deep learning
+  - Prerequisites for the course
+  - Setting up the environment
+- [**1. Introduction to Deep Learning**](#1-introduction-to-deep-learning) (6 videos)
+  - What is deep learning?
+  - Linear regression
+  - An analogy for deep learning
+  - The perceptron
+  - Artificial neural networks
+  - Training an ANN
+- [**2. Neural Network Architecture**](#2-neural-network-architecture) (5 videos)
+  - The input layer
+  - Hidden layers
+  - Weights and biases
+  - Activation functions
+  - The output layer
+- [**3. Training a Neural Network**](#3-training-a-neural-network) (10 videos)
+  - Setup and initialization
+  - Forward propagation
+  - Measuring accuracy and error
+  - Back propagation
+  - Gradient descent
+  - Batches and epochs
+  - Validation and testing
+  - An ANN model
+  - Reusing existing network architectures
+  - Using available open-source models
+- [**4. Deep Learning Example 1**](#4-deep-learning-example-1) (6 videos)
+  - The Iris classification problem
+  - Input preprocessing
+  - Creating a deep learning model
+  - Training and evaluation
+  - Saving and loading models
+  - Predictions with deep learning models
+- [**5. Deep Learning Example 2**](#5-deep-learning-example-2) (4 videos)
+  - Spam classification problem
+  - Creating text representations
+  - Building a spam model
+  - Predictions for text
+- [**6. Deep Learning Exercise**](#6-deep-learning-exercise) (4 videos)
+  - Exercise problem statement
+  - Preprocessing RCA data
+  - Building the RCA model
+  - Predicting root causes with deep learning
+- [**Conclusion**](#conclusion) (1 videos)
+  - Extending your deep learning education
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with deep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980)
@@ -248,7 +287,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Deep Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980)
@@ -640,7 +679,7 @@ created: 2026-04-29
 
 ### 2. Neural Network Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The input layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-input-layer?u=76281980)
@@ -935,7 +974,7 @@ created: 2026-04-29
 
 ### 3. Training a Neural Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setup and initialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/setup-and-initialization?u=76281980)
@@ -1450,7 +1489,7 @@ created: 2026-04-29
 
 ### 4. Deep Learning Example 1
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Iris classification problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-iris-classification-problem?u=76281980)
@@ -1801,7 +1840,7 @@ created: 2026-04-29
 
 ### 5. Deep Learning Example 2
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spam classification problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980)
@@ -2002,7 +2041,7 @@ created: 2026-04-29
 
 ### 6. Deep Learning Exercise
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exercise problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980)
@@ -2154,7 +2193,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending your deep learning education
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980)

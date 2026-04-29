@@ -48,16 +48,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Overview]]** (2 videos)
-- **[[#2. Functional Programming in Modern C++]]** (10 videos)
-- **[[#3. Template Metaprogramming]]** (7 videos)
-- **[[#4. Functional Reactive Programming]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Unleash the power functional programming in C++
+  - What you should know
+- [**1. Overview**](#1-overview) (2 videos)
+  - Benefits of functional programming
+  - Unit testing functional programming
+- [**2. Functional Programming in Modern C++**](#2-functional-programming-in-modern-c) (10 videos)
+  - Enabling C++ 17
+  - transform instead of map
+  - copy_if instead of filter
+  - accumulate instead of reduce
+  - bind
+  - Functions
+  - Lambda functions: Curry
+  - Lambda functions: Closures
+  - Challenge: Factorial continuous add
+  - Solution: Factorial continuous add
+- [**3. Template Metaprogramming**](#3-template-metaprogramming) (7 videos)
+  - C++ templates
+  - Factorial
+  - The Standard Template Library
+  - Functional programming libraries
+  - Boost.Hana
+  - Challenge: Fibonacci generator
+  - Solution: Fibonacci generator
+- [**4. Functional Reactive Programming**](#4-functional-reactive-programming) (4 videos)
+  - Intro to Reactive Extensions
+  - RxCpp library
+  - Challenge: Word frequency counter
+  - Solution: Word frequency counter
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unleash the power functional programming in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/unleash-the-power-functional-programming-in-c-plus-plus?u=76281980)
@@ -116,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/benefits-of-functional-programming?u=76281980)
@@ -232,7 +258,7 @@ created: 2026-04-29
 
 ### 2. Functional Programming in Modern C++
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enabling C++ 17
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/enabling-c-plus-plus-17?u=76281980)
@@ -985,7 +1011,7 @@ created: 2026-04-29
 
 ### 3. Template Metaprogramming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### C++ templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/c-plus-plus-templates?u=76281980)
@@ -1471,7 +1497,7 @@ created: 2026-04-29
 
 ### 4. Functional Reactive Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Reactive Extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/intro-to-reactive-extensions?u=76281980)
@@ -1706,7 +1732,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introducing-functional-programming-in-c-plus-plus/next-steps-2?u=76281980)

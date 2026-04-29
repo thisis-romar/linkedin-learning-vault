@@ -46,13 +46,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. UX Web Analytics Techniques]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - UX analysis: A world between data and design
+  - What is UX analysis?
+  - What are some UX analytics tools?
+- [**1. UX Web Analytics Techniques**](#1-ux-web-analytics-techniques) (5 videos)
+  - Event tracking and analysis
+  - Customer journey mapping
+  - Funnel analysis with Google Analytics 4
+  - Segmentation strategies in Google Analytics 4
+  - A/B testing and experiments
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### UX analysis: A world between data and design
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/ux-analysis-a-world-between-data-and-design?u=76281980)
@@ -225,7 +234,7 @@ created: 2026-04-29
 
 ### 1. UX Web Analytics Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Event tracking and analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/event-tracking-and-analysis?u=76281980)
@@ -685,7 +694,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-powered-by-data-getting-started-with-ux-web-analytics-2022/next-steps?u=76281980)

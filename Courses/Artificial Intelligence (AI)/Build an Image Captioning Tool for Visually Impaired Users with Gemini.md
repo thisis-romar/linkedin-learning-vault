@@ -58,16 +58,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up Access to Gemini API]]** (4 videos)
-- **[[#2. Building the Interface]]** (5 videos)
-- **[[#3. Building the Backend: Connecting to Gemini]]** (5 videos)
-- **[[#4. Bringing It All Together]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Image captioning with AI
+  - What you should know
+  - Who this course is for
+- [**1. Setting Up Access to Gemini API**](#1-setting-up-access-to-gemini-api) (4 videos)
+  - Understanding Gemini models
+  - Gemini pricing
+  - Signing up for an Google AI Studio account
+  - Getting your API key
+- [**2. Building the Interface**](#2-building-the-interface) (5 videos)
+  - Cloning the seed project
+  - Project code walkthrough
+  - Adding the image upload functionality
+  - Adding the prompt functionality
+  - Writing the caption display
+- [**3. Building the Backend: Connecting to Gemini**](#3-building-the-backend-connecting-to-gemini) (5 videos)
+  - Building out the Express.js API
+  - Configuring the Generative AI SDK
+  - Adding routes
+  - Setting up file upload functionality
+  - Writing the prompt request and response
+- [**4. Bringing It All Together**](#4-bringing-it-all-together) (3 videos)
+  - Connecting the frontend to the API
+  - Adding a progress indicator
+  - Using the Web Speech API to read captions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Image captioning with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/image-captioning-with-ai?u=76281980)
@@ -160,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Access to Gemini API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Gemini models
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/understanding-gemini-models?u=76281980)
@@ -440,7 +461,7 @@ created: 2026-04-29
 
 ### 2. Building the Interface
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloning the seed project
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/cloning-the-seed-project?u=76281980)
@@ -912,7 +933,7 @@ created: 2026-04-29
 
 ### 3. Building the Backend: Connecting to Gemini
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building out the Express.js API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/building-out-the-express-js-api?u=76281980)
@@ -1347,7 +1368,7 @@ created: 2026-04-29
 
 ### 4. Bringing It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting the frontend to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/connecting-the-frontend-to-the-api?u=76281980)
@@ -1643,7 +1664,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-image-captioning-tool-for-visually-impaired-users-with-gemini/next-steps?u=76281980)

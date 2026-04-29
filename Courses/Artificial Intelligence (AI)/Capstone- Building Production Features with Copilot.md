@@ -54,14 +54,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Project Planning and Setup]]** (3 videos)
-- **[[#2. Full-Stack Implementation]]** (6 videos)
-- **[[#3. Testing and Validation]]** (5 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Capstone project overview
+- [**1. Project Planning and Setup**](#1-project-planning-and-setup) (3 videos)
+  - Task 0: The planning phase
+  - Understanding the zero context
+  - Querying internal knowledge bases
+- [**2. Full-Stack Implementation**](#2-full-stack-implementation) (6 videos)
+  - Task 1: The API layer
+  - Implementing data validation
+  - Task 2: The business logic
+  - Handling complex business rules
+  - Task 3: The data layer
+  - Working with ORMs and persistence
+- [**3. Testing and Validation**](#3-testing-and-validation) (5 videos)
+  - Task 4: The test suite
+  - End-to-end testing strategies
+  - Reviewing your implementation
+  - Comparing with best practices
+  - Final reflections and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Capstone project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980)
@@ -136,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Project Planning and Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Task 0: The planning phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980)
@@ -441,7 +456,7 @@ created: 2026-04-29
 
 ### 2. Full-Stack Implementation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Task 1: The API layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-1-the-api-layer?u=76281980)
@@ -1013,7 +1028,7 @@ created: 2026-04-29
 
 ### 3. Testing and Validation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Task 4: The test suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-4-the-test-suite?u=76281980)

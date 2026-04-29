@@ -51,13 +51,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. DevOps with Snowflake]]** (10 videos)
-- **[[#2. Observability with Snowflake]]** (11 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Scaling data pipelines to meet modern demands
+  - What this course will cover
+- [**1. DevOps with Snowflake**](#1-devops-with-snowflake) (10 videos)
+  - DevOps in the world of data engineering
+  - DevOps with Snowflake
+  - What we'll build
+  - Source control in Snowflake with Git
+  - Set up the data pipeline using snowflake CLI
+  - Database change management (DCM)
+  - Declarative approach with CREATE OR ALTER
+  - Continuous integration and continuous delivery (CI/CD) for data pipelines
+  - Implementing continuous delivery for our data pipeline
+  - Recap and best practices for DevOps with Snowflake
+- [**2. Observability with Snowflake**](#2-observability-with-snowflake) (11 videos)
+  - Observability for data engineering
+  - Foundational concepts of observability
+  - Observability with Snowflake Trail
+  - Event Tables in Snowflake
+  - Logging in Snowflake
+  - Traces in Snowflake
+  - Alerts in Snowflake
+  - Notifications in Snowflake
+  - Observability with third-party tools
+  - Recap and best practices for observability with Snowflake
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling data pipelines to meet modern demands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/scaling-data-pipelines-to-meet-modern-demands?u=76281980)
@@ -193,7 +216,7 @@ created: 2026-04-29
 
 ### 1. DevOps with Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps in the world of data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/devops-in-the-world-of-data-engineering?u=76281980)
@@ -1725,7 +1748,7 @@ created: 2026-04-29
 
 ### 2. Observability with Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Observability for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake/observability-for-data-engineering?u=76281980)

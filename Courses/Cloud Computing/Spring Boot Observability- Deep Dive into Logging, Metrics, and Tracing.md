@@ -49,16 +49,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understand Why Observability Is Important]]** (3 videos)
-- **[[#2. Logging]]** (3 videos)
-- **[[#3. Metrics]]** (3 videos)
-- **[[#4. Tracing]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Observability with Spring Boot
+  - What you need to know
+- [**1. Understand Why Observability Is Important**](#1-understand-why-observability-is-important) (3 videos)
+  - What is observability?
+  - Why care about observability?
+  - Logging, metrics, and tracing
+- [**2. Logging**](#2-logging) (3 videos)
+  - Problem with basic logging
+  - Why centralized logging
+  - Logging and Spring
+- [**3. Metrics**](#3-metrics) (3 videos)
+  - Usage of metrics
+  - Metrics for observability
+  - Metrics in Spring
+- [**4. Tracing**](#4-tracing) (2 videos)
+  - Distributed tracing
+  - Tracing in Spring
+- [**Conclusion**](#conclusion) (2 videos)
+  - How to correlate logging, metrics, and tracing
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Observability with Spring Boot
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/observability-with-spring-boot?u=76281980)
@@ -104,7 +119,7 @@ created: 2026-04-29
 
 ### 1. Understand Why Observability Is Important
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is observability?
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-is-observability?u=76281980)
@@ -295,7 +310,7 @@ created: 2026-04-29
 
 ### 2. Logging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Problem with basic logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980)
@@ -473,7 +488,7 @@ created: 2026-04-29
 
 ### 3. Metrics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Usage of metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980)
@@ -717,7 +732,7 @@ created: 2026-04-29
 
 ### 4. Tracing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Distributed tracing
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/distributed-tracing?u=76281980)
@@ -829,7 +844,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to correlate logging, metrics, and tracing
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/how-to-correlate-logging-metrics-and-tracing?u=76281980)

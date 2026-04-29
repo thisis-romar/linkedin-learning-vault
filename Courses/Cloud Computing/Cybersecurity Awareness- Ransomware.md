@@ -51,15 +51,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Ransomware]]** (4 videos)
-- **[[#2. Impact of Ransomware]]** (2 videos)
-- **[[#3. Preventing Ransomware Attacks]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Ransomware: The new cyber extortion
+- [**1. Understanding Ransomware**](#1-understanding-ransomware) (4 videos)
+  - Ransomware 101
+  - Elements of ransomware attacks
+  - Why cybercriminals prefer ransomware
+  - The value of data
+- [**2. Impact of Ransomware**](#2-impact-of-ransomware) (2 videos)
+  - Notable ransomware attacks
+  - The evolution of ransomware attacks
+- [**3. Preventing Ransomware Attacks**](#3-preventing-ransomware-attacks) (3 videos)
+  - Unpacking ransomware attacks
+  - Recovering from ransomware attacks
+  - Preventing ransomware attacks
+- [**Conclusion**](#conclusion) (1 videos)
+  - Improving your security hygiene
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ransomware: The new cyber extortion
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-the-new-cyber-extortion?u=76281980)
@@ -86,7 +97,7 @@ created: 2026-04-29
 
 ### 1. Understanding Ransomware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ransomware 101
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/ransomware-101?u=76281980)
@@ -316,7 +327,7 @@ created: 2026-04-29
 
 ### 2. Impact of Ransomware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Notable ransomware attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/notable-ransomware-attacks?u=76281980)
@@ -436,7 +447,7 @@ created: 2026-04-29
 
 ### 3. Preventing Ransomware Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unpacking ransomware attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/unpacking-ransomware-attacks?u=76281980)
@@ -625,7 +636,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improving your security hygiene
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ransomware-22822341/improving-your-security-hygiene?u=76281980)

@@ -46,16 +46,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Kickstart the Day with Clarity]]** (3 videos)
-- **[[#2. Explore and Challenge the Data]]** (3 videos)
-- **[[#3. Interpret Results with Confidence]]** (3 videos)
-- **[[#4. Collaborate beyond the Dataset]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Focus on data that actually matters
+- [**1. Kickstart the Day with Clarity**](#1-kickstart-the-day-with-clarity) (3 videos)
+  - Use the first hour for focus and impact
+  - Prioritize without overloading your day
+  - Adapt to delays and disruptions
+- [**2. Explore and Challenge the Data**](#2-explore-and-challenge-the-data) (3 videos)
+  - Conduct exploratory data analysis
+  - Evaluate data bias before conclusions
+  - Recognize data limits and insights
+- [**3. Interpret Results with Confidence**](#3-interpret-results-with-confidence) (3 videos)
+  - Decide when analysis is ready
+  - Translate data into clear decisions
+  - Craft a narrative for understanding
+- [**4. Collaborate beyond the Dataset**](#4-collaborate-beyond-the-dataset) (3 videos)
+  - Communicate effectively across functions
+  - Incorporate feedback to improve
+  - Present insights with confidence
+- [**Conclusion**](#conclusion) (1 videos)
+  - Apply habits for long-term growth
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Focus on data that actually matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/focus-on-data-that-actually-matters?u=76281980)
@@ -105,7 +119,7 @@ created: 2026-04-29
 
 ### 1. Kickstart the Day with Clarity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the first hour for focus and impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/use-the-first-hour-for-focus-and-impact?u=76281980)
@@ -246,7 +260,7 @@ created: 2026-04-29
 
 ### 2. Explore and Challenge the Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conduct exploratory data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/conduct-exploratory-data-analysis?u=76281980)
@@ -414,7 +428,7 @@ created: 2026-04-29
 
 ### 3. Interpret Results with Confidence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Decide when analysis is ready
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/decide-when-analysis-is-ready?u=76281980)
@@ -570,7 +584,7 @@ created: 2026-04-29
 
 ### 4. Collaborate beyond the Dataset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicate effectively across functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/communicate-effectively-across-functions?u=76281980)
@@ -736,7 +750,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply habits for long-term growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-day-in-the-life-of-a-data-scientist-27892157/apply-habits-for-long-term-growth?u=76281980)

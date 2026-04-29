@@ -48,15 +48,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Object-Oriented Programming with Kotlin]]** (9 videos)
-- **[[#2. Writing Idiomatic Kotlin]]** (5 videos)
-- **[[#3. Writing Asynchronous Code with Kotlin Coroutines]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Building more with Kotlin
+  - What you should know
+  - Using GitHub
+- [**1. Object-Oriented Programming with Kotlin**](#1-object-oriented-programming-with-kotlin) (9 videos)
+  - Classes
+  - Interfaces
+  - Enum classes
+  - Data classes
+  - Object classes
+  - Sealed classes
+  - Companion objects
+  - Challenge: Create a Result type using a sealed class
+  - Solution: Create a Result type using a sealed class
+- [**2. Writing Idiomatic Kotlin**](#2-writing-idiomatic-kotlin) (5 videos)
+  - Top-level properties and functions
+  - Extension properties and functions
+  - Delegates
+  - Challenge: Refactor a helper class to use top-level functions
+  - Solution: Refactor a helper class to use top-level functions
+- [**3. Writing Asynchronous Code with Kotlin Coroutines**](#3-writing-asynchronous-code-with-kotlin-coroutines) (5 videos)
+  - Threads, thread pools, and executors
+  - Understanding coroutines
+  - Working with coroutines
+  - Challenge: Manage multiple async requests
+  - Solution: Manage multiple async requests
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building more with Kotlin
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/building-more-with-kotlin?u=76281980)
@@ -179,7 +202,7 @@ created: 2026-04-29
 
 ### 1. Object-Oriented Programming with Kotlin
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/classes?u=76281980)
@@ -1527,7 +1550,7 @@ created: 2026-04-29
 
 ### 2. Writing Idiomatic Kotlin
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Top-level properties and functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/top-level-properties-and-functions?u=76281980)
@@ -2179,7 +2202,7 @@ created: 2026-04-29
 
 ### 3. Writing Asynchronous Code with Kotlin Coroutines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Threads, thread pools, and executors
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/threads-thread-pools-and-executors?u=76281980)
@@ -2750,7 +2773,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-object-oriented-and-async-code/next-steps?u=76281980)

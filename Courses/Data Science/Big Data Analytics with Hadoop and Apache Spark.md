@@ -52,18 +52,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction and Setup]]** (4 videos)
-- **[[#2. HDFS Data Modeling for Analytics]]** (5 videos)
-- **[[#3. Data Ingestion with Spark]]** (5 videos)
-- **[[#4. Data Extraction with Spark]]** (5 videos)
-- **[[#5. Optimizing Spark Processing]]** (6 videos)
-- **[[#6. Use Case Project]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The combined power of Spark and Hadoop Distributed File System (HDFS)
+- [**1. Introduction and Setup**](#1-introduction-and-setup) (4 videos)
+  - Apache Hadoop overview
+  - Apache Spark overview
+  - Integrating Spark and Hadoop
+  - Using exercise files
+- [**2. HDFS Data Modeling for Analytics**](#2-hdfs-data-modeling-for-analytics) (5 videos)
+  - Storage formats
+  - Compression
+  - Partitioning
+  - Bucketing
+  - Best practices for data storage
+- [**3. Data Ingestion with Spark**](#3-data-ingestion-with-spark) (5 videos)
+  - Reading external files into Spark
+  - Writing to HDFS
+  - Parallel writes with partitioning
+  - Parallel writes with bucketing
+  - Best practices for ingestion
+- [**4. Data Extraction with Spark**](#4-data-extraction-with-spark) (5 videos)
+  - How Spark works
+  - Reading HDFS files with schema
+  - Reading partitioned data
+  - Reading bucketed data
+  - Best practices for data extraction
+- [**5. Optimizing Spark Processing**](#5-optimizing-spark-processing) (6 videos)
+  - Pushing down projections
+  - Pushing down filters
+  - Managing partitions
+  - Improving joins
+  - Storing intermediate results
+  - Best practices for data processing
+- [**6. Use Case Project**](#6-use-case-project) (5 videos)
+  - Problem definition
+  - Data loading
+  - Total score analytics
+  - Average score analytics
+  - Top student analytics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with big data analytics
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The combined power of Spark and Hadoop Distributed File System (HDFS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980)
@@ -93,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Introduction and Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apache Hadoop overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980)
@@ -296,7 +328,7 @@ created: 2026-04-29
 
 ### 2. HDFS Data Modeling for Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980)
@@ -546,7 +578,7 @@ created: 2026-04-29
 
 ### 3. Data Ingestion with Spark
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading external files into Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-external-files-into-spark?u=76281980)
@@ -752,7 +784,7 @@ created: 2026-04-29
 
 ### 4. Data Extraction with Spark
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How Spark works
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980)
@@ -983,7 +1015,7 @@ created: 2026-04-29
 
 ### 5. Optimizing Spark Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pushing down projections
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980)
@@ -1320,7 +1352,7 @@ created: 2026-04-29
 
 ### 6. Use Case Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/problem-definition?u=76281980)
@@ -1536,7 +1568,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with big data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980)

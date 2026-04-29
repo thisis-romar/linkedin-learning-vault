@@ -48,17 +48,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Start with the Right Mindset]]** (3 videos)
-- **[[#2. Work Like a Real Data Scientist]]** (3 videos)
-- **[[#3. Communicate with Credibility]]** (3 videos)
-- **[[#4. Learn from Mistakes and Stay Resilient]]** (3 videos)
-- **[[#5. Own Your Career, Not Just Your Work]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Focus on what actually matters
+- [**1. Start with the Right Mindset**](#1-start-with-the-right-mindset) (3 videos)
+  - Redefine what "data scientist" means
+  - Ask the questions you're afraid to ask
+  - Focus on usefulness, not genius
+- [**2. Work Like a Real Data Scientist**](#2-work-like-a-real-data-scientist) (3 videos)
+  - Slow down before you write your code
+  - Know when you're overbuilding
+  - Keep a mental checklist of assumptions
+- [**3. Communicate with Credibility**](#3-communicate-with-credibility) (3 videos)
+  - Say what it means—not just what it is
+  - Talk to stakeholders as a data scientist
+  - Admit what you don't know
+- [**4. Learn from Mistakes and Stay Resilient**](#4-learn-from-mistakes-and-stay-resilient) (3 videos)
+  - Treat mistakes like story material
+  - Stop chasing tools you don't need yet
+  - Create simple systems and workflows
+- [**5. Own Your Career, Not Just Your Work**](#5-own-your-career-not-just-your-work) (2 videos)
+  - Choose jobs that enable you to grow
+  - Build a reputation as a collaborator
+- [**Conclusion**](#conclusion) (1 videos)
+  - Develop in your data science career
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Focus on what actually matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/focus-on-what-actually-matters?u=76281980)
@@ -84,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Start with the Right Mindset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Redefine what "data scientist" means
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/redefine-what-data-scientist-means?u=76281980)
@@ -258,7 +274,7 @@ created: 2026-04-29
 
 ### 2. Work Like a Real Data Scientist
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Slow down before you write your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/slow-down-before-you-write-your-code?u=76281980)
@@ -450,7 +466,7 @@ created: 2026-04-29
 
 ### 3. Communicate with Credibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Say what it means—not just what it is
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/say-what-it-means-not-just-what-it-is?u=76281980)
@@ -600,7 +616,7 @@ created: 2026-04-29
 
 ### 4. Learn from Mistakes and Stay Resilient
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Treat mistakes like story material
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/treat-mistakes-like-story-material?u=76281980)
@@ -776,7 +792,7 @@ created: 2026-04-29
 
 ### 5. Own Your Career, Not Just Your Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose jobs that enable you to grow
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/choose-jobs-that-enable-you-to-grow?u=76281980)
@@ -890,7 +906,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop in your data science career
 > [LinkedIn Learning](https://www.linkedin.com/learning/lessons-from-data-scientists-27890200/develop-in-your-data-science-career?u=76281980)

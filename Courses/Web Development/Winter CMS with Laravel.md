@@ -46,16 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Introduction to Winter CMS]]** (3 videos)
-- **[[#2. Moving to Winter]]** (6 videos)
-- **[[#3. Using Winter Features]]** (5 videos)
-- **[[#4. Winter Plug-Ins and Prepping for Production]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - How to turn a static website into a content-managed one
+  - What you should know
+  - Course project: The sample website
+  - Access the course files
+  - Local development configurations
+- [**1. Introduction to Winter CMS**](#1-introduction-to-winter-cms) (3 videos)
+  - Winter CMS overview and installation
+  - Admin section overview: Dashboard, media, and settings pages
+  - The CMS page
+- [**2. Moving to Winter**](#2-moving-to-winter) (6 videos)
+  - Exploring the default theme and creating your own
+  - Moving your website to Winter
+  - Extracting the layout
+  - Home and error pages
+  - Turning the main sections modular with partials
+  - Extracting text into content
+- [**3. Using Winter Features**](#3-using-winter-features) (5 videos)
+  - Using a plug-in to set the navbar
+  - Winter asset compilation
+  - Winter theme variables and asset customization
+  - Challenge: Customizing the 404 page
+  - Solution: Customizing the 404 page
+- [**4. Winter Plug-Ins and Prepping for Production**](#4-winter-plug-ins-and-prepping-for-production) (4 videos)
+  - Magic Forms plug-in
+  - Clear cache widget
+  - Google Analytics plug-in
+  - Prepping your website for production
+- [**Conclusion**](#conclusion) (1 videos)
+  - Further your knowledge and connect to the community
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to turn a static website into a content-managed one
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980)
@@ -235,7 +259,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Winter CMS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Winter CMS overview and installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980)
@@ -482,7 +506,7 @@ created: 2026-04-29
 
 ### 2. Moving to Winter
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the default theme and creating your own
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/exploring-the-default-theme-and-creating-your-own?u=76281980)
@@ -1037,7 +1061,7 @@ created: 2026-04-29
 
 ### 3. Using Winter Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a plug-in to set the navbar
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/using-a-plug-in-to-set-the-navbar?u=76281980)
@@ -1398,7 +1422,7 @@ created: 2026-04-29
 
 ### 4. Winter Plug-Ins and Prepping for Production
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Magic Forms plug-in
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980)
@@ -1699,7 +1723,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further your knowledge and connect to the community
 > [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/further-your-knowledge-and-connect-to-the-community?u=76281980)

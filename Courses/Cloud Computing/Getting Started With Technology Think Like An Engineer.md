@@ -45,14 +45,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Creating Programs]]** (5 videos)
-- **[[#2. Core Principles]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Thinking like an engineer
+  - What you should know
+- [**1. Creating Programs**](#1-creating-programs) (5 videos)
+  - Coding languages
+  - Making a website: What it's like
+  - Making a mobile app: What it's like
+  - Why use an analytics tool?
+  - Creating AI programs
+- [**2. Core Principles**](#2-core-principles) (4 videos)
+  - Efficiency is key
+  - Problem-solving: Think systematically
+  - Coding: Readable, shareable, and color-coded
+  - Testing applications
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your journey with technology
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking like an engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/thinking-like-an-engineer?u=76281980)
@@ -113,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Creating Programs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Coding languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/coding-languages-14349709?u=76281980)
@@ -515,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Core Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Efficiency is key
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/efficiency-is-key-14354393?u=76281980)
@@ -751,7 +763,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your journey with technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer/your-journey-with-technology?u=76281980)

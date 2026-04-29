@@ -51,17 +51,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding AI Capabilities and Fundamentals]]** (2 videos)
-- **[[#2. Surveying Your Business Landscape]]** (3 videos)
-- **[[#3. Aligning AI with Your Business]]** (2 videos)
-- **[[#4. Guiding AI Adoption]]** (2 videos)
-- **[[#5. Evaluating AI Performance and Impact]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why a strategic framework is essential for AI adoption
+  - The USAGE framework: A pragmatic approach to AI adoption
+- [**1. Understanding AI Capabilities and Fundamentals**](#1-understanding-ai-capabilities-and-fundamentals) (2 videos)
+  - Invest in AI literacy to gain competitive advantage
+  - Identify use-cases and ground AI in real business needs
+- [**2. Surveying Your Business Landscape**](#2-surveying-your-business-landscape) (3 videos)
+  - Define AI technical requirements
+  - Perform an AI skills gap analysis and talent audit
+  - Reduce blindspots by conducting an AI risk analysis
+- [**3. Aligning AI with Your Business**](#3-aligning-ai-with-your-business) (2 videos)
+  - Develop an AI roadmap and tie goals to business value
+  - The importance of structuring AI leadership and ownership
+- [**4. Guiding AI Adoption**](#4-guiding-ai-adoption) (2 videos)
+  - How to operationalize your AI strategy
+  - Responsible AI deployment
+- [**5. Evaluating AI Performance and Impact**](#5-evaluating-ai-performance-and-impact) (2 videos)
+  - Assess generative AI outcomes to measure ROI
+  - Adapt the USAGE framework to your needs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why a strategic framework is essential for AI adoption
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980)
@@ -136,7 +150,7 @@ created: 2026-04-29
 
 ### 1. Understanding AI Capabilities and Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Invest in AI literacy to gain competitive advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980)
@@ -300,7 +314,7 @@ created: 2026-04-29
 
 ### 2. Surveying Your Business Landscape
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define AI technical requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980)
@@ -504,7 +518,7 @@ created: 2026-04-29
 
 ### 3. Aligning AI with Your Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop an AI roadmap and tie goals to business value
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980)
@@ -627,7 +641,7 @@ created: 2026-04-29
 
 ### 4. Guiding AI Adoption
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to operationalize your AI strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980)
@@ -775,7 +789,7 @@ created: 2026-04-29
 
 ### 5. Evaluating AI Performance and Impact
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess generative AI outcomes to measure ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980)
@@ -885,7 +899,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980)

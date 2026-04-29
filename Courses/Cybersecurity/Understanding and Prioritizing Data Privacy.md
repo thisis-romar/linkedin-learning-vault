@@ -55,16 +55,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Comfortable with the Basics]]** (5 videos)
-- **[[#2. Why Should Anyone Care About Privacy?]]** (6 videos)
-- **[[#3. What's the Harm? Does Privacy Matter in the Age of AI?]]** (5 videos)
-- **[[#4. Privacy Solutions and Futures]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Protect personal information and foster trust
+  - Privacy overview and basic definitions
+  - Privacy vs. data protection
+- [**1. Getting Comfortable with the Basics**](#1-getting-comfortable-with-the-basics) (5 videos)
+  - Data tells a story
+  - Data as intellectual property
+  - PII vs. PI vs. Personal Data
+  - Privacy vs. secrecy
+  - Integrating ethical AI reviews into your privacy practice
+- [**2. Why Should Anyone Care About Privacy?**](#2-why-should-anyone-care-about-privacy) (6 videos)
+  - Data as a personal descriptor
+  - The organization’s perspective
+  - Privacy is contextual
+  - Trust, integrity, and ethical inputs and outcomes
+  - Gaining and maintaining or repairing consumer trust
+  - Consumers want transparency
+- [**3. What's the Harm? Does Privacy Matter in the Age of AI?**](#3-whats-the-harm-does-privacy-matter-in-the-age-of-ai) (5 videos)
+  - Protecting the story
+  - Vulnerability impacting a system
+  - Bad actors with data
+  - Response and repair after an incident
+  - Data is valuable and creates new economies
+- [**4. Privacy Solutions and Futures**](#4-privacy-solutions-and-futures) (7 videos)
+  - Trust, transparency, ethics, and accountability
+  - Planning for privacy as a company
+  - Understanding individual responsibilities in data privacy
+  - Embracing privacy engineering for effective data protection
+  - Moral crumple zones: Responsible building and ethics
+  - Emerging privacy technology
+  - PETS
+- [**Conclusion**](#conclusion) (1 videos)
+  - Guardians of trust
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect personal information and foster trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/protect-personal-information-and-foster-trust?u=76281980)
@@ -205,7 +232,7 @@ created: 2026-04-29
 
 ### 1. Getting Comfortable with the Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data tells a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/data-tells-a-story?u=76281980)
@@ -494,7 +521,7 @@ created: 2026-04-29
 
 ### 2. Why Should Anyone Care About Privacy?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data as a personal descriptor
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/data-as-a-personal-descriptor?u=76281980)
@@ -845,7 +872,7 @@ created: 2026-04-29
 
 ### 3. What's the Harm? Does Privacy Matter in the Age of AI?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting the story
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/protecting-the-story?u=76281980)
@@ -1119,7 +1146,7 @@ created: 2026-04-29
 
 ### 4. Privacy Solutions and Futures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Trust, transparency, ethics, and accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/trust-transparency-ethics-and-accountability?u=76281980)
@@ -1536,7 +1563,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Guardians of trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-prioritizing-data-privacy-24912536/guardians-of-trust?u=76281980)

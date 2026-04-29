@@ -47,17 +47,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Jira Features]]** (9 videos)
-- **[[#2. Power User Tips]]** (4 videos)
-- **[[#3. Creating Filters]]** (4 videos)
-- **[[#4. Creating Dashboards]]** (5 videos)
-- **[[#5. Creating Boards]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome to Jira
+  - Who is this course for?
+- [**1. Jira Features**](#1-jira-features) (9 videos)
+  - Software project types
+  - Common work types
+  - Using software workflows
+  - Leveraging backlogs and sprints
+  - Estimating work and tracking time
+  - Using fix versions
+  - Types of boards
+  - Types of reports
+  - Common integrations
+- [**2. Power User Tips**](#2-power-user-tips) (4 videos)
+  - Getting the most from Jira
+  - Keeping data accurate
+  - Ways to be proactive
+  - What your administrator wishes you knew
+- [**3. Creating Filters**](#3-creating-filters) (4 videos)
+  - Filter overview
+  - Using filter subscriptions
+  - Challenge: Create a custom filter
+  - Solution: Create a custom filter
+- [**4. Creating Dashboards**](#4-creating-dashboards) (5 videos)
+  - Dashboard overview
+  - Example dashboards
+  - Choosing dashboard gadgets
+  - Challenge: Create a custom dashboard
+  - Solution: Create a custom dashboard
+- [**5. Creating Boards**](#5-creating-boards) (4 videos)
+  - Board overview
+  - Ranking work on boards
+  - Challenge: Create a custom board
+  - Solution: Create a custom board
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/welcome-to-jira-software?u=76281980)
@@ -250,7 +279,7 @@ created: 2026-04-29
 
 ### 1. Jira Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Software project types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/software-project-types?u=76281980)
@@ -2215,7 +2244,7 @@ created: 2026-04-29
 
 ### 2. Power User Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the most from Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/getting-the-most-from-jira-software?u=76281980)
@@ -2390,7 +2419,7 @@ created: 2026-04-29
 
 ### 3. Creating Filters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filter overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/filter-overview?u=76281980)
@@ -2677,7 +2706,7 @@ created: 2026-04-29
 
 ### 4. Creating Dashboards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dashboard overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/dashboard-overview?u=76281980)
@@ -2995,7 +3024,7 @@ created: 2026-04-29
 
 ### 5. Creating Boards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Board overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/board-overview?u=76281980)
@@ -3300,7 +3329,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-leveraging-sprints-releasing-features-fixing-bugs-and-tracking-development/next-steps?u=76281980)

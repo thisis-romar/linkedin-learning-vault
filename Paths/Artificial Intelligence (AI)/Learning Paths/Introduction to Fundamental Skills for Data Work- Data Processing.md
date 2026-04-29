@@ -7,7 +7,7 @@ course_count: 7
 linkedin_topics:
   - Artificial Intelligence (AI)
   - Data Science
-louvain_cluster: 7
+louvain_cluster: 5
 tags:
   - learning-path
   - topic/artificial-intelligence

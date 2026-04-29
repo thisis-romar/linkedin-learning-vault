@@ -44,16 +44,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Objective of Marketing Analytics]]** (4 videos)
-- **[[#2. A Clear Analytics Strategy Creates Clear Measurement]]** (4 videos)
-- **[[#3. Implement Analysis Methods]]** (3 videos)
-- **[[#4. Turn Data into Insight, Insight into Action]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Improve your marketing analytics acumen
+- [**1. The Objective of Marketing Analytics**](#1-the-objective-of-marketing-analytics) (4 videos)
+  - Obstacles to effective marketing analytics
+  - Identify your business objectives for marketing analytics
+  - Define objectives, goals, metrics, and KPIs
+  - Implement business objectives for strategy
+- [**2. A Clear Analytics Strategy Creates Clear Measurement**](#2-a-clear-analytics-strategy-creates-clear-measurement) (4 videos)
+  - Create measurements that connect to objectives
+  - Focus on marketing tactics, not channels
+  - Establish target outcomes and value for your analytics
+  - Establish comparison and benchmark data
+- [**3. Implement Analysis Methods**](#3-implement-analysis-methods) (3 videos)
+  - Leverage the best analytics skill: Asking questions
+  - Apply question-asking frameworks
+  - Connect measurement factors in marketing campaigns
+- [**4. Turn Data into Insight, Insight into Action**](#4-turn-data-into-insight-insight-into-action) (3 videos)
+  - Apply KPIs to connect data to action
+  - Improve the user experience using marketing analytics
+  - Establish a reporting framework for your analytics data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Implementing your marketing analytics strategy
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your marketing analytics acumen
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-your-marketing-analytics-acumen?u=76281980)
@@ -104,7 +120,7 @@ created: 2026-04-29
 
 ### 1. The Objective of Marketing Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Obstacles to effective marketing analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/obstacles-to-effective-marketing-analytics?u=76281980)
@@ -489,7 +505,7 @@ created: 2026-04-29
 
 ### 2. A Clear Analytics Strategy Creates Clear Measurement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create measurements that connect to objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980)
@@ -850,7 +866,7 @@ created: 2026-04-29
 
 ### 3. Implement Analysis Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage the best analytics skill: Asking questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/leverage-the-best-analytics-skill-asking-questions?u=76281980)
@@ -1144,7 +1160,7 @@ created: 2026-04-29
 
 ### 4. Turn Data into Insight, Insight into Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply KPIs to connect data to action
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/apply-kpis-to-connect-data-to-action?u=76281980)
@@ -1410,7 +1426,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing your marketing analytics strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implementing-your-marketing-analytics-strategy?u=76281980)

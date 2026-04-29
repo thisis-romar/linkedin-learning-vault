@@ -44,15 +44,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Setup]]** (3 videos)
-- **[[#2. SwiftUI Fundamentals]]** (6 videos)
-- **[[#3. Finishing the App]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - How to build an app in an afternoon
+  - What you should know before watching this course
+  - Using the exercise files effectively
+  - Viewing the finished app and code
+- [**1. Setup**](#1-setup) (3 videos)
+  - Downloading and installing Xcode
+  - Creating your first iOS app
+  - Key parts of the Xcode interface
+- [**2. SwiftUI Fundamentals**](#2-swiftui-fundamentals) (6 videos)
+  - SwiftUI stacks
+  - HStacks in SwiftUI
+  - Modifying SwiftUI objects
+  - Understanding variables
+  - Creating a TextField in SwiftUI
+  - Creating a slider in SwiftUI
+- [**3. Finishing the App**](#3-finishing-the-app) (4 videos)
+  - Converting between data types
+  - Calculating the tip total
+  - Handling invalid values
+  - Adding an app icon
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to build an app in an afternoon
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/how-to-build-an-app-in-an-afternoon?u=76281980)
@@ -152,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Downloading and installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/downloading-and-installing-xcode?u=76281980)
@@ -305,7 +323,7 @@ created: 2026-04-29
 
 ### 2. SwiftUI Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SwiftUI stacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/swiftui-stacks?u=76281980)
@@ -855,7 +873,7 @@ created: 2026-04-29
 
 ### 3. Finishing the App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Converting between data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/converting-between-data-types?u=76281980)
@@ -1097,7 +1115,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-your-first-ios-17-app/next-steps?u=76281980)

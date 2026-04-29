@@ -40,11 +40,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Speaking Confidently and Effectively]]** (10 videos)
+- [**1. Speaking Confidently and Effectively**](#1-speaking-confidently-and-effectively) (10 videos)
+  - Great speaking skills are a must-have
+  - Give your audience only what they need to know
+  - Identify a need or challenge
+  - Change your focus to calm your nerves
+  - Your audience wants you to succeed
+  - Align your body, tone, and words
+  - Project power with body language
+  - Speak in sync with your audience
+  - Plan for your biggest fears
+  - Three ways to handle difficult questions
 
 ### 1. Speaking Confidently and Effectively
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Great speaking skills are a must-have
 > [LinkedIn Learning](https://www.linkedin.com/learning/speaking-confidently-and-effectively/great-speaking-skills-are-a-must-have?u=76281980)

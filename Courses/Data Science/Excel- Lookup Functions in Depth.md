@@ -44,17 +44,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Locating Data with MATCH, INDEX, and XMATCH Functions]]** (3 videos)
-- **[[#2. VLOOKUP, HLOOKUP, and XLOOKUP]]** (5 videos)
-- **[[#3. Finding Matching Data Without Using External Lists]]** (2 videos)
-- **[[#4. Other Functions with Lookup Capabilities]]** (4 videos)
-- **[[#5. Recently Introduced Functions with Lookup Capabilities]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Transform your Excel skills with in-depth lookup functions
+- [**1. Locating Data with MATCH, INDEX, and XMATCH Functions**](#1-locating-data-with-match-index-and-xmatch-functions) (3 videos)
+  - Locating data with the MATCH and XMATCH functions
+  - Retrieving information by location with the INDEX function
+  - Using the XMATCH and INDEX functions together
+- [**2. VLOOKUP, HLOOKUP, and XLOOKUP**](#2-vlookup-hlookup-and-xlookup) (5 videos)
+  - Structuring data for use with lookup functions
+  - Finding exact and approximate matches with VLOOKUP and HLOOKUP
+  - Using the XLOOKUP function for exact matches
+  - Using the XLOOKUP function for approximate matches
+  - New and expanded capabilities using XLOOKUP
+- [**3. Finding Matching Data Without Using External Lists**](#3-finding-matching-data-without-using-external-lists) (2 videos)
+  - Finding table-like information within a function using the CHOOSE function
+  - Using the SWITCH function for formula-embedded selection
+- [**4. Other Functions with Lookup Capabilities**](#4-other-functions-with-lookup-capabilities) (4 videos)
+  - Extracting and counting unique entries using the UNIQUE function
+  - Using FILTER and CHOOSECOLS for multiple column retrieval
+  - Use the SORT and SORTBY functions to create new lists
+  - Use the INDIRECT function to return references specified by text strings
+- [**5. Recently Introduced Functions with Lookup Capabilities**](#5-recently-introduced-functions-with-lookup-capabilities) (5 videos)
+  - CHOOSEROWS and CHOOSECOLS: Return lists with selected rows or columns
+  - TAKE and DROP: Copy from lists selecting or ignoring consecutive rows or columns
+  - TOROW and TOCOL: Convert array data into a single row or column
+  - WRAPROWS and WRAPCOLS: Convert row or column data into an array
+  - VSTACK and HSTACK: Stack multiple arrays into a vertical or horizontal array
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your next steps in Excel
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your Excel skills with in-depth lookup functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/transform-your-excel-skills-with-in-depth-lookup-functions?u=76281980)
@@ -81,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Locating Data with MATCH, INDEX, and XMATCH Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Locating data with the MATCH and XMATCH functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/locating-data-with-the-match-and-xmatch-functions?u=76281980)
@@ -543,7 +564,7 @@ created: 2026-04-29
 
 ### 2. VLOOKUP, HLOOKUP, and XLOOKUP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring data for use with lookup functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/structuring-data-for-use-with-lookup-functions?u=76281980)
@@ -1110,7 +1131,7 @@ created: 2026-04-29
 
 ### 3. Finding Matching Data Without Using External Lists
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding table-like information within a function using the CHOOSE function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/finding-table-like-information-within-a-function-using-the-choose-function?u=76281980)
@@ -1393,7 +1414,7 @@ created: 2026-04-29
 
 ### 4. Other Functions with Lookup Capabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extracting and counting unique entries using the UNIQUE function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/extracting-and-counting-unique-entries-using-the-unique-function?u=76281980)
@@ -1923,7 +1944,7 @@ created: 2026-04-29
 
 ### 5. Recently Introduced Functions with Lookup Capabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CHOOSEROWS and CHOOSECOLS: Return lists with selected rows or columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/chooserows-choosecols-return-lists-with-selected-rows-or-columns?u=76281980)
@@ -2594,7 +2615,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next steps in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-lookup-functions-in-depth-24287728/your-next-steps-in-excel?u=76281980)

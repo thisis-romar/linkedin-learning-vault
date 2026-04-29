@@ -52,15 +52,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Working with AI Agents]]** (9 videos)
-- **[[#2. Semantic Kernel]]** (7 videos)
-- **[[#3. Autogen]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Build AI agents with Azure
+  - What you should know
+- [**1. Working with AI Agents**](#1-working-with-ai-agents) (9 videos)
+  - Understanding AI agents
+  - OpenAI API Assistants overview
+  - Function calling
+  - File search
+  - Code Interpreter
+  - Multi-agent collaboration
+  - Creating assistants in Azure AI Foundry
+  - Challenge: Create agents using Assistants API
+  - Solution: Create agents using Assistants API
+- [**2. Semantic Kernel**](#2-semantic-kernel) (7 videos)
+  - Semantic Kernel Agent Framework overview
+  - Chat completion agent and adding plugins
+  - OpenAI Assistant Agent: Code Interpreter
+  - OpenAI Assistant Agent: File search
+  - Agent collaboration
+  - Challenge: Creating agents with Semantic Kernal
+  - Solution: Creating agents with Semantic Kernal
+- [**3. Autogen**](#3-autogen) (10 videos)
+  - AutoGen overview
+  - AutoGen Assistant Agent
+  - Other AutoGen agents
+  - AutoGen RoundRobinGroupChat
+  - Adding humans in the loop
+  - AutoGen SelectorGroupChat
+  - AutoGen Swarm
+  - AutoGen Magentic-One
+  - Challenge: Creating agents with AutoGen
+  - Solution: Creating agents with AutoGen
+- [**Conclusion**](#conclusion) (1 videos)
+  - Key takeaways and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build AI agents with Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/build-ai-agents-with-azure?u=76281980)
@@ -115,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Working with AI Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/understanding-ai-agents?u=76281980)
@@ -766,7 +795,7 @@ created: 2026-04-29
 
 ### 2. Semantic Kernel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Semantic Kernel Agent Framework overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/semantic-kernel-agent-framework-overview?u=76281980)
@@ -1236,7 +1265,7 @@ created: 2026-04-29
 
 ### 3. Autogen
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AutoGen overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/autogen-overview?u=76281980)
@@ -2042,7 +2071,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-building-ai-agents/key-takeaways-and-next-steps?u=76281980)

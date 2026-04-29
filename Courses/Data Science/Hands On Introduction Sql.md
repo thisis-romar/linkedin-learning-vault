@@ -45,15 +45,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Select Statement]]** (5 videos)
-- **[[#2. New Tables and Data]]** (5 videos)
-- **[[#3. Modifying Existing Tables]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to SQL
+  - Using GitHub Codespaces with this course
+- [**1. The Select Statement**](#1-the-select-statement) (5 videos)
+  - Fetch data
+  - Filtering data
+  - Types of functions, part 1
+  - Types of functions, part 2
+  - Using multiple tables
+- [**2. New Tables and Data**](#2-new-tables-and-data) (5 videos)
+  - Create new tables
+  - Change table structure
+  - Add new rows to a table
+  - Delete rows in a table
+  - Commit and rollback
+- [**3. Modifying Existing Tables**](#3-modifying-existing-tables) (4 videos)
+  - Modify rows and columns in tables
+  - Merge rows in a table
+  - Drop or truncate a table
+  - Rename a table
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/introduction-to-sql?u=76281980)
@@ -146,7 +163,7 @@ created: 2026-04-29
 
 ### 1. The Select Statement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fetch data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/fetch-data?u=76281980)
@@ -983,7 +1000,7 @@ created: 2026-04-29
 
 ### 2. New Tables and Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create new tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/create-new-tables?u=76281980)
@@ -1484,7 +1501,7 @@ created: 2026-04-29
 
 ### 3. Modifying Existing Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modify rows and columns in tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/modify-rows-and-columns-in-tables?u=76281980)
@@ -1727,7 +1744,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-sql/next-steps?u=76281980)

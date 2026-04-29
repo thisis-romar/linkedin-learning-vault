@@ -42,16 +42,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Azure Pipelines]]** (3 videos)
-- **[[#2. Designing a Build Pipeline]]** (6 videos)
-- **[[#3. Designing a Release Pipeline]]** (6 videos)
-- **[[#4. Maximizing Azure Pipelines]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why use Azure Pipelines?
+  - What you should know
+- [**1. Azure Pipelines**](#1-azure-pipelines) (3 videos)
+  - What really is Azure Pipelines?
+  - Key concepts of Azure Pipelines
+  - Define pipeline assets in Library
+- [**2. Designing a Build Pipeline**](#2-designing-a-build-pipeline) (6 videos)
+  - Get your source code to Azure Repos
+  - Configure a build pipeline
+  - Integrate SonarCloud with the build pipeline
+  - Protect your important branches
+  - Create a task group for build pipelines
+  - Simulate CI trigger and branching policies
+- [**3. Designing a Release Pipeline**](#3-designing-a-release-pipeline) (6 videos)
+  - An overview of a release pipeline
+  - Create web apps in Azure
+  - Configure a release pipeline for multistage deployment
+  - Reconfigure your production stage release to deploy to a staging slot
+  - Release pipelines for staging slot deployments
+  - Test release to deployment slots
+- [**4. Maximizing Azure Pipelines**](#4-maximizing-azure-pipelines) (1 videos)
+  - Configure notifications for successful deployments
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use Azure Pipelines?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/why-use-azure-pipelines?u=76281980)
@@ -104,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Azure Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What really is Azure Pipelines?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/what-really-is-azure-pipelines?u=76281980)
@@ -374,7 +393,7 @@ created: 2026-04-29
 
 ### 2. Designing a Build Pipeline
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get your source code to Azure Repos
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/get-your-source-code-to-azure-repos?u=76281980)
@@ -1281,7 +1300,7 @@ created: 2026-04-29
 
 ### 3. Designing a Release Pipeline
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of a release pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/an-overview-of-a-release-pipeline?u=76281980)
@@ -2198,7 +2217,7 @@ created: 2026-04-29
 
 ### 4. Maximizing Azure Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure notifications for successful deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/configure-notifications-for-successful-deployments?u=76281980)
@@ -2292,7 +2311,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-ci-cd-solutions-with-azure-devops-22123562/next-steps?u=76281980)

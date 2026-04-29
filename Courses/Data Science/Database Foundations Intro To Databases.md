@@ -46,19 +46,73 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Database Core Concepts]]** (4 videos)
-- **[[#2. Set Up a Database Playground]]** (7 videos)
-- **[[#3. Graphical Interfaces]]** (7 videos)
-- **[[#4. Create Table Objects]]** (9 videos)
-- **[[#5. Add Data to a Table]]** (7 videos)
-- **[[#6. Retrieve Information]]** (7 videos)
-- **[[#7. Manipulate Data]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - An introduction to database foundations
+  - What you should know
+  - Using the exercise files
+  - CoderPad tour
+- [**1. Database Core Concepts**](#1-database-core-concepts) (4 videos)
+  - What is a database?
+  - Storing data efficiently
+  - Relational database management systems
+  - The client-server model
+- [**2. Set Up a Database Playground**](#2-set-up-a-database-playground) (7 videos)
+  - Purpose of the playground
+  - Install Docker
+  - Database server containers
+  - Local installation alternatives to Docker
+  - RDBMS command-line interfaces
+  - Challenge: Create a server container
+  - Solution: Create a server container
+- [**3. Graphical Interfaces**](#3-graphical-interfaces) (7 videos)
+  - Management interfaces
+  - Install Azure Data Studio
+  - Connect to a database server
+  - Explore the server’s contents
+  - Create a database
+  - Challenge: Create a database
+  - Solution: Create a database
+- [**4. Create Table Objects**](#4-create-table-objects) (9 videos)
+  - Structured Query Language
+  - Organize a database with schemas
+  - Table columns
+  - Create tables
+  - Alter tables
+  - Reserved keywords
+  - Challenge: Create a table
+  - Solution: Create a table
+  - Solution: Tables and data types
+- [**5. Add Data to a Table**](#5-add-data-to-a-table) (7 videos)
+  - Table rows
+  - Add records
+  - Update and delete records
+  - Saving and using SQL scripts
+  - Challenge: Add data to a table
+  - Solution: Add data to a table
+  - Solution: Correct recorded information
+- [**6. Retrieve Information**](#6-retrieve-information) (7 videos)
+  - Querying data
+  - Return data with SELECT and FROM
+  - Filter rows with WHERE
+  - Sort values with ORDER BY
+  - Combine data with JOIN
+  - Limiting the number of rows returned
+  - Solution: Write a SQL SELECT query
+- [**7. Manipulate Data**](#7-manipulate-data) (8 videos)
+  - Display column aliases with AS
+  - Mathematical operations
+  - Use built-in functions
+  - Aggregate data with GROUP BY
+  - Filtering groups with HAVING
+  - Challenge: Query data
+  - Solution: Query data
+  - Solution: Query summary statistics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to database foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/an-introduction-to-database-foundations?u=76281980)
@@ -188,7 +242,7 @@ created: 2026-04-29
 
 ### 1. Database Core Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/what-is-a-database?u=76281980)
@@ -560,7 +614,7 @@ created: 2026-04-29
 
 ### 2. Set Up a Database Playground
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose of the playground
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/purpose-of-the-playground?u=76281980)
@@ -1460,7 +1514,7 @@ created: 2026-04-29
 
 ### 3. Graphical Interfaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Management interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/management-interfaces?u=76281980)
@@ -2194,7 +2248,7 @@ created: 2026-04-29
 
 ### 4. Create Table Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structured Query Language
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/structured-query-language?u=76281980)
@@ -3226,7 +3280,7 @@ created: 2026-04-29
 
 ### 5. Add Data to a Table
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Table rows
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/table-rows?u=76281980)
@@ -4073,7 +4127,7 @@ created: 2026-04-29
 
 ### 6. Retrieve Information
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying data
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/querying-data?u=76281980)
@@ -4821,7 +4875,7 @@ created: 2026-04-29
 
 ### 7. Manipulate Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Display column aliases with AS
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/display-column-aliases-with-as?u=76281980)
@@ -5800,7 +5854,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-intro-to-databases/next-steps?u=76281980)

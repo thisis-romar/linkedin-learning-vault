@@ -49,15 +49,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Text Generation]]** (7 videos)
-- **[[#2. AI-Generated Images and Video]]** (5 videos)
-- **[[#3. Advanced Concepts]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Joining the NLP revolution
+  - What is prompt engineering?
+  - Tokens vs. words
+  - Large language models
+- [**1. Text Generation**](#1-text-generation) (7 videos)
+  - Diving into ChatGPT
+  - ChatGPT voice mode on mobile
+  - Taking Google Gemini for a ride
+  - Exploring Microsoft Copilot
+  - Few-shot learning with Claude
+  - Challenge: Zero-shot, few-shot learning
+  - Solution: Zero-shot, few-shot learning
+- [**2. AI-Generated Images and Video**](#2-ai-generated-images-and-video) (5 videos)
+  - The AI-generated image landscape
+  - Trying out Dall-E
+  - Trying out Midjourney
+  - Challenge: Generating a poster
+  - Solution: Generating a poster
+- [**3. Advanced Concepts**](#3-advanced-concepts) (4 videos)
+  - Creating a custom GPT
+  - Multimodality in AI
+  - Model fine-tuning
+  - Interacting with language models using an API
+- [**Conclusion**](#conclusion) (2 videos)
+  - Warning: Use responsibly
+  - Continuing your AI journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Joining the NLP revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/joining-the-nlp-revolution?u=76281980)
@@ -198,7 +220,7 @@ created: 2026-04-29
 
 ### 1. Text Generation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/diving-into-chatgpt?u=76281980)
@@ -659,7 +681,7 @@ created: 2026-04-29
 
 ### 2. AI-Generated Images and Video
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The AI-generated image landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/the-ai-generated-image-landscape?u=76281980)
@@ -877,7 +899,7 @@ created: 2026-04-29
 
 ### 3. Advanced Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a custom GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/creating-a-custom-gpt?u=76281980)
@@ -1172,7 +1194,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Warning: Use responsibly
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-24636124/warning-use-responsibly?u=76281980)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/become-a-marketing-coordinator
 course_count: 9
 linkedin_topics:
   - Data Science
-louvain_cluster: 15
+louvain_cluster: 7
 tags:
   - learning-path
   - topic/data-science

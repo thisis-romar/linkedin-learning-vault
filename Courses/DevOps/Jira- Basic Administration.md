@@ -49,20 +49,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Is Jira and How Is It Used?]]** (5 videos)
-- **[[#2. Admin Types and Responsibilities]]** (3 videos)
-- **[[#3. Setting Up a Test Environment]]** (2 videos)
-- **[[#4. Managing Users]]** (4 videos)
-- **[[#5. Creating Jira Projects]]** (4 videos)
-- **[[#6. Creating Workflows]]** (5 videos)
-- **[[#7. Troubleshooting Permission Problems]]** (4 videos)
-- **[[#8. Troubleshooting Missing Notifications]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Basic administration in Jira
+  - Who is this course for?
+  - What do you need for this course?
+- [**1. What Is Jira and How Is It Used?**](#1-what-is-jira-and-how-is-it-used) (5 videos)
+  - What is Jira?
+  - How is Jira used?
+  - Which type of Jira do you have?
+  - Important terms and definitions
+  - Navigating the admin area
+- [**2. Admin Types and Responsibilities**](#2-admin-types-and-responsibilities) (3 videos)
+  - Types of Jira users
+  - Who does what?
+  - Utilizing global permissions
+- [**3. Setting Up a Test Environment**](#3-setting-up-a-test-environment) (2 videos)
+  - Choose a test environment
+  - Create a test environment
+- [**4. Managing Users**](#4-managing-users) (4 videos)
+  - How to manage users
+  - Leveraging groups and roles
+  - Challenge: Add a test user
+  - Solution
+- [**5. Creating Jira Projects**](#5-creating-jira-projects) (4 videos)
+  - Types of Jira projects
+  - How to create a project
+  - Challenge: Create a test project
+  - Solution
+- [**6. Creating Workflows**](#6-creating-workflows) (5 videos)
+  - Types of workflows
+  - Basic workflow concepts
+  - Using diagram and text mode
+  - Challenge: Create a workflow
+  - Solution
+- [**7. Troubleshooting Permission Problems**](#7-troubleshooting-permission-problems) (4 videos)
+  - Types of Jira permissions
+  - Using the Permission Helper
+  - Challenge: Determine the permission problem
+  - Solution
+- [**8. Troubleshooting Missing Notifications**](#8-troubleshooting-missing-notifications) (4 videos)
+  - Types of Jira notifications
+  - Using the Notification Helper
+  - Challenge: Determine the notification problem
+  - Solution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional learning resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic administration in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/basic-administration-in-jira?u=76281980)
@@ -173,7 +208,7 @@ created: 2026-04-29
 
 ### 1. What Is Jira and How Is It Used?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Jira?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/what-is-jira?u=76281980)
@@ -569,7 +604,7 @@ created: 2026-04-29
 
 ### 2. Admin Types and Responsibilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of Jira users
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-users?u=76281980)
@@ -780,7 +815,7 @@ created: 2026-04-29
 
 ### 3. Setting Up a Test Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose a test environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/choose-a-test-environment?u=76281980)
@@ -964,7 +999,7 @@ created: 2026-04-29
 
 ### 4. Managing Users
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to manage users
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/how-to-manage-users?u=76281980)
@@ -1176,7 +1211,7 @@ created: 2026-04-29
 
 ### 5. Creating Jira Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of Jira projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-projects?u=76281980)
@@ -1434,7 +1469,7 @@ created: 2026-04-29
 
 ### 6. Creating Workflows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-workflows?u=76281980)
@@ -1896,7 +1931,7 @@ created: 2026-04-29
 
 ### 7. Troubleshooting Permission Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of Jira permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-permissions?u=76281980)
@@ -2232,7 +2267,7 @@ created: 2026-04-29
 
 ### 8. Troubleshooting Missing Notifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of Jira notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/types-of-jira-notifications?u=76281980)
@@ -2488,7 +2523,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional learning resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-basic-administration-17503968/additional-learning-resources?u=76281980)

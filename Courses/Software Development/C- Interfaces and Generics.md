@@ -52,15 +52,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Overview]]** (2 videos)
-- **2. C# Interfaces** (8 videos)
-- **3. C# Generics** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learning C#: Interfaces and generics
+  - What you should know
+  - Setting up the environment
+- [**1. Overview**](#1-overview) (2 videos)
+  - What are interfaces?
+  - What are generics?
+- [**2. C# Interfaces**](#2-c-interfaces) (8 videos)
+  - Understanding C# interfaces
+  - Defining and implementing an interface
+  - Interfaces and casting
+  - Implementing multiple interfaces
+  - Using explicit interface implementation
+  - Using .NET-defined interfaces
+  - Challenge: Programming C# interfaces
+  - Solution: Programming C# interfaces
+- [**3. C# Generics**](#3-c-generics) (6 videos)
+  - The benefits of generics
+  - Generic list collections
+  - Queue and stack
+  - Dictionary
+  - Challenge: Programming C# generics
+  - Solution: Programming C# generics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning C#: Interfaces and generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics-23314002?u=76281980)
@@ -214,7 +234,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are interfaces?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-interfaces?u=76281980)
@@ -329,7 +349,7 @@ created: 2026-04-29
 
 ### 2. C# Interfaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding C# interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/understanding-c-sharp-interfaces?u=76281980)
@@ -999,7 +1019,7 @@ created: 2026-04-29
 
 ### 3. C# Generics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980)
@@ -1791,7 +1811,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/next-steps?u=76281980)

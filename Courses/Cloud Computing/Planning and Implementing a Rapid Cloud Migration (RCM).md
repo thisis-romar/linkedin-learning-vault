@@ -41,18 +41,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Crisis-Driven Rapid Migration]]** (5 videos)
-- **[[#2. Selecting the Workloads]]** (3 videos)
-- **[[#3. Picking the Target Platform for Rapid Migration]]** (4 videos)
-- **[[#4. Cloud-Based Tools for Rapid Migration]]** (2 videos)
-- **[[#5. Setting Up a Rapid Migration Factory]]** (4 videos)
-- **[[#6. Rapid Migration at Scale]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Overview of rapid migration
+  - What you should know
+  - What defines a crisis?
+- [**1. Introduction to Crisis-Driven Rapid Migration**](#1-introduction-to-crisis-driven-rapid-migration) (5 videos)
+  - Understanding when to use rapid migration
+  - Understanding the risks of moving to the cloud quickly
+  - Rapid public cloud migration
+  - Rapid hybrid cloud migration
+  - Rapid multicloud migration
+- [**2. Selecting the Workloads**](#2-selecting-the-workloads) (3 videos)
+  - Good candidates for rapid migration
+  - Bad candidates for rapid migration
+  - Leveraging workload categories for rapid migration
+- [**3. Picking the Target Platform for Rapid Migration**](#3-picking-the-target-platform-for-rapid-migration) (4 videos)
+  - Leveraging public clouds in a rapid migration
+  - Leveraging hybrid clouds in a rapid migration
+  - Leveraging multicloud in a rapid migration
+  - Leveraging nontraditional clouds in a rapid migration
+- [**4. Cloud-Based Tools for Rapid Migration**](#4-cloud-based-tools-for-rapid-migration) (2 videos)
+  - AWS migration tools
+  - Microsoft Azure migration tools
+- [**5. Setting Up a Rapid Migration Factory**](#5-setting-up-a-rapid-migration-factory) (4 videos)
+  - Rapid workload triage
+  - Rapid migration tools
+  - Rapid migration and DevOps
+  - Creating a rapid migration process
+- [**6. Rapid Migration at Scale**](#6-rapid-migration-at-scale) (5 videos)
+  - Getting up to 100 applications and data sets migrated daily
+  - Organization and skill considerations
+  - Security considerations for rapid migration
+  - Governance considerations for rapid migration
+  - What you learned about rapid migration
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go from here with rapid migration
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/overview-of-rapid-migration?u=76281980)
@@ -135,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Crisis-Driven Rapid Migration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding when to use rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/understanding-when-to-use-rapid-migration?u=76281980)
@@ -478,7 +505,7 @@ created: 2026-04-29
 
 ### 2. Selecting the Workloads
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Good candidates for rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/good-candidates-for-rapid-migration?u=76281980)
@@ -654,7 +681,7 @@ created: 2026-04-29
 
 ### 3. Picking the Target Platform for Rapid Migration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging public clouds in a rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/leveraging-public-clouds-in-a-rapid-migration?u=76281980)
@@ -834,7 +861,7 @@ created: 2026-04-29
 
 ### 4. Cloud-Based Tools for Rapid Migration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS migration tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/aws-migration-tools?u=76281980)
@@ -1109,7 +1136,7 @@ created: 2026-04-29
 
 ### 5. Setting Up a Rapid Migration Factory
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rapid workload triage
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/rapid-workload-triage?u=76281980)
@@ -1254,7 +1281,7 @@ created: 2026-04-29
 
 ### 6. Rapid Migration at Scale
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting up to 100 applications and data sets migrated daily
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/getting-up-to-100-applications-and-data-sets-migrated-daily?u=76281980)
@@ -1475,7 +1502,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here with rapid migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-implementing-a-rapid-cloud-migration-rcm/where-to-go-from-here-with-rapid-migration?u=76281980)

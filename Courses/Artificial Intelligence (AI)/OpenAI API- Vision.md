@@ -54,14 +54,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Vision API Essentials]]** (5 videos)
-- **[[#2. App Developement with Vision API]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Computer vision with OpenAI's API
+  - Vision API limitations
+  - Using the exercise files
+  - Responsible usage of AI
+- [**1. Vision API Essentials**](#1-vision-api-essentials) (5 videos)
+  - Setting up the API
+  - Vision API basics
+  - Vision API prompts
+  - Challenge: Ecommerce description
+  - Solution: Ecommerce description
+- [**2. App Developement with Vision API**](#2-app-developement-with-vision-api) (6 videos)
+  - What we'll build
+  - Project structure
+  - Vision code for our project
+  - Embedding vision code in our web app
+  - Challenge: User input items
+  - Solution: User input items
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Computer vision with OpenAI's API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/computer-vision-with-openai-s-api?u=76281980)
@@ -156,7 +172,7 @@ created: 2026-04-29
 
 ### 1. Vision API Essentials
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/setting-up-the-api?u=76281980)
@@ -427,7 +443,7 @@ created: 2026-04-29
 
 ### 2. App Developement with Vision API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What we'll build
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/what-we-ll-build?u=76281980)
@@ -759,7 +775,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-vision/next-steps?u=76281980)

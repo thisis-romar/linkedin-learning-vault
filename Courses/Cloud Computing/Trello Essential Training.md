@@ -47,17 +47,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Basic Features of Trello Boards and Cards]]** (10 videos)
-- **[[#2. More Advanced Features]]** (8 videos)
-- **[[#3. Essential Trello Power-Ups]]** (6 videos)
-- **[[#4. Automations and Custom Fields]]** (6 videos)
-- **[[#5. Getting Things Done Using Trello and Kanban]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What is Trello?
+  - Navigating Trello’s free vs. paid options
+- [**1. The Basic Features of Trello Boards and Cards**](#1-the-basic-features-of-trello-boards-and-cards) (10 videos)
+  - Navigating the home page and creating your first board
+  - Navigating boards, lists, and cards
+  - Managing board settings and permissions
+  - Managing members, labels, and checklists
+  - Adding due dates, attachments, and card covers
+  - Creating and formatting card descriptions
+  - Moving and copying cards
+  - Communication, notifications, and watching
+  - Archiving cards, lists, and boards
+  - Trello card-sharing options
+- [**2. More Advanced Features**](#2-more-advanced-features) (8 videos)
+  - Managing workspaces, members, and creating collections
+  - Creating and using Trello card templates
+  - Linking Trello cards and boards together
+  - Searching and filtering boards and cards
+  - Forwarding messages to boards and creating cards
+  - Board background images and collections (paid feature)
+  - Trello keyboard shortcuts
+  - Tables, timelines, and other views (paid features only)
+- [**3. Essential Trello Power-Ups**](#3-essential-trello-power-ups) (6 videos)
+  - Introduction to Trello Power-Ups
+  - The Trello Calendar Power-Up (with calendar integration)
+  - The Planyway Calendar Power-Up
+  - Syncing Planyway to Google Calendar
+  - The Card Repeater Power-Up for recurring tasks
+  - Integrating cloud services: Google Drive, Dropbox, and more
+- [**4. Automations and Custom Fields**](#4-automations-and-custom-fields) (6 videos)
+  - Introduction to Trello automation
+  - How to create a Trello automation rule
+  - How to create a custom Trello card button
+  - How to create a custom Trello board button
+  - How to create Trello list automation
+  - How to create Trello custom fields (paid upgrade)
+- [**5. Getting Things Done Using Trello and Kanban**](#5-getting-things-done-using-trello-and-kanban) (4 videos)
+  - Trello and the Kanban method
+  - Trello and GTD: Board setup and capture
+  - Trello and GTD: Clarify and organize
+  - Trello and GTD: Contexts, reflect, and engage
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go from here
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Trello?
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/what-is-trello?u=76281980)
@@ -124,7 +161,7 @@ created: 2026-04-29
 
 ### 1. The Basic Features of Trello Boards and Cards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating the home page and creating your first board
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980)
@@ -1008,7 +1045,7 @@ created: 2026-04-29
 
 ### 2. More Advanced Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing workspaces, members, and creating collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980)
@@ -1833,7 +1870,7 @@ created: 2026-04-29
 
 ### 3. Essential Trello Power-Ups
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Trello Power-Ups
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-power-ups?u=76281980)
@@ -2367,7 +2404,7 @@ created: 2026-04-29
 
 ### 4. Automations and Custom Fields
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Trello automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-automation?u=76281980)
@@ -2950,7 +2987,7 @@ created: 2026-04-29
 
 ### 5. Getting Things Done Using Trello and Kanban
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Trello and the Kanban method
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980)
@@ -3496,7 +3533,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980)

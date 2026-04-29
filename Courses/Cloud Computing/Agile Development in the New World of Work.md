@@ -40,14 +40,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Agile Basics]]** (1 videos)
-- **[[#2. Making Work Flow]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Agile to the rescue
+- [**1. Agile Basics**](#1-agile-basics) (1 videos)
+  - Core agile framework
+- [**2. Making Work Flow**](#2-making-work-flow) (8 videos)
+  - Build a team backlog
+  - Planning
+  - Daily stand up
+  - Review
+  - Retrospective
+  - Shortest job first
+  - Weighted shortest job first
+  - Objective and key results
+- [**Conclusion**](#conclusion) (1 videos)
+  - Agile team work
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile to the rescue
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-to-the-rescue-27874129?u=76281980)
@@ -86,7 +97,7 @@ created: 2026-04-29
 
 ### 1. Agile Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Core agile framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/core-agile-framework-27895121?u=76281980)
@@ -154,7 +165,7 @@ created: 2026-04-29
 
 ### 2. Making Work Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a team backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/build-a-team-backlog?u=76281980)
@@ -586,7 +597,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agile team work
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-development-in-the-new-world-of-work/agile-team-work-27893111?u=76281980)

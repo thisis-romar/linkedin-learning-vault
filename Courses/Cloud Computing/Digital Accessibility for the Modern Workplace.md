@@ -40,15 +40,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Accessibility]]** (4 videos)
-- **[[#2. Disability Types and Solutions]]** (5 videos)
-- **[[#3. Developing Accessible Experiences]]** (5 videos)
-- **[[#4. Accessibility Best Practices]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Accessibility at work
+- [**1. Understanding Accessibility**](#1-understanding-accessibility) (4 videos)
+  - Importance of accessibility
+  - Remote work and accessibility
+  - Disclosure and disability
+  - Common disabilities
+- [**2. Disability Types and Solutions**](#2-disability-types-and-solutions) (5 videos)
+  - Hearing accessibility
+  - Vision accessibility
+  - Mobility and dexterity accessibility
+  - Mental health accessibility
+  - Cognition accessibility
+- [**3. Developing Accessible Experiences**](#3-developing-accessible-experiences) (5 videos)
+  - Developing accessible experiences
+  - Tips for more accessible social media
+  - Tips for more accessible meetings
+  - Tips for more accessible email
+  - Tips for more accessible presentations
+- [**4. Accessibility Best Practices**](#4-accessibility-best-practices) (2 videos)
+  - Accessibility best practices
+  - Enhancing your accessibility skills
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-at-work?u=76281980)
@@ -93,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Understanding Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/importance-of-accessibility?u=76281980)
@@ -375,7 +392,7 @@ created: 2026-04-29
 
 ### 2. Disability Types and Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hearing accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/hearing-accessibility?u=76281980)
@@ -911,7 +928,7 @@ created: 2026-04-29
 
 ### 3. Developing Accessible Experiences
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing accessible experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/developing-accessible-experiences?u=76281980)
@@ -1354,7 +1371,7 @@ created: 2026-04-29
 
 ### 4. Accessibility Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace/accessibility-best-practices?u=76281980)

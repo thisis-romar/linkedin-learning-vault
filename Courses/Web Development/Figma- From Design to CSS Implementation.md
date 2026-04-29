@@ -37,15 +37,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Producing Image Assets]]** (3 videos)
-- **[[#2. Translating CSS Rules]]** (4 videos)
-- **[[#3. Implementing CSS within HTML]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Implementing CSS from your Figma designs
+  - Getting set up
+- [**1. Producing Image Assets**](#1-producing-image-assets) (3 videos)
+  - An overview of the design project
+  - Defining image export properties
+  - Exporting and organizing images
+- [**2. Translating CSS Rules**](#2-translating-css-rules) (4 videos)
+  - Using the Inspect workspace
+  - Documenting the project CSS
+  - Populating the design document
+  - Defining a CSS document
+- [**3. Implementing CSS within HTML**](#3-implementing-css-within-html) (3 videos)
+  - Creating an HTML document
+  - Replacing Figma elements for CSS
+  - Refining the design from Figma
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing CSS from your Figma designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/implementing-css-from-your-figma-designs?u=76281980)
@@ -118,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Producing Image Assets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of the design project
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/an-overview-of-the-design-project?u=76281980)
@@ -294,7 +307,7 @@ created: 2026-04-29
 
 ### 2. Translating CSS Rules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Inspect workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/using-the-inspect-workspace?u=76281980)
@@ -629,7 +642,7 @@ created: 2026-04-29
 
 ### 3. Implementing CSS within HTML
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/creating-an-html-document?u=76281980)
@@ -995,7 +1008,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-from-design-to-css-implementation/what-s-next?u=76281980)

@@ -50,16 +50,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (6 videos)
-- **[[#1. AI: Language Interactions and Processing]]** (5 videos)
-- **[[#2. AI: Processing Non-Language Things]]** (9 videos)
-- **[[#3. Impact to Requirements and Business Analysis]]** (5 videos)
-- **[[#4. Technique Highlights]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (6 videos)
+  - Transform your business analysis career
+  - AI's impact on business analysis
+  - The mindset of a business analyst with AI
+  - AI landscape and the urgency for change
+  - Transforming into an AI business analyst
+  - Understand the capabilities of AI
+- [**1. AI: Language Interactions and Processing**](#1-ai-language-interactions-and-processing) (5 videos)
+  - Generative AI for business analysis
+  - Natural language processing
+  - Speech recognition and voice technologies
+  - Chatbots and virtual agents
+  - AI agents and roles for business analysis
+- [**2. AI: Processing Non-Language Things**](#2-ai-processing-non-language-things) (9 videos)
+  - AI outside the bounds of traditional generative AI
+  - Machine and deep learning: Business uses
+  - Biometrics: Business uses
+  - Video and image analysis: Business uses
+  - Swarm intelligence for business process
+  - Blockchain: business uses
+  - Robotic process automation for business analysis
+  - AI and data analytics for business analysis
+  - AI agent to AI agent integration capabilities
+- [**3. Impact to Requirements and Business Analysis**](#3-impact-to-requirements-and-business-analysis) (5 videos)
+  - Linking AI capabilities together for business analysis
+  - How are requirements similar for business analysis and AI?
+  - How are requirements different for business analysis and AI?
+  - Linking digital work to business processes
+  - AI projects with agile
+- [**4. Technique Highlights**](#4-technique-highlights) (4 videos)
+  - Experiments and hypothesis in AI business analysis work
+  - Business measurements of success
+  - The customer journey and user experience
+  - Monitoring the results of AI capabilities
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with AI in business analysis work
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your business analysis career
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/transform-your-business-analysis-career?u=76281980)
@@ -386,7 +416,7 @@ created: 2026-04-29
 
 ### 1. AI: Language Interactions and Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/generative-ai-for-business-analysis?u=76281980)
@@ -692,7 +722,7 @@ created: 2026-04-29
 
 ### 2. AI: Processing Non-Language Things
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI outside the bounds of traditional generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/ai-outside-the-bounds-of-traditional-generative-ai?u=76281980)
@@ -1201,7 +1231,7 @@ created: 2026-04-29
 
 ### 3. Impact to Requirements and Business Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linking AI capabilities together for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/linking-ai-capabilities-together-for-business-analysis?u=76281980)
@@ -1539,7 +1569,7 @@ created: 2026-04-29
 
 ### 4. Technique Highlights
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Experiments and hypothesis in AI business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/experiments-and-hypothesis-in-ai-business-analysis-work?u=76281980)
@@ -1796,7 +1826,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with AI in business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-ai-for-business-analysis/next-steps-with-ai-in-business-analysis-work?u=76281980)

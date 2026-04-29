@@ -44,20 +44,68 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Financial Modeling Basics]]** (8 videos)
-- **[[#2. Corporate Financial Modeling: Three-Statement Financial Model]]** (8 videos)
-- **[[#3. Evaluating Corporate Financial Models: Three-Statement Model]]** (3 videos)
-- **[[#4. Investment Models: DCF Model]]** (4 videos)
-- **[[#5. Banking Models]]** (7 videos)
-- **[[#6. Buyout Models]]** (7 videos)
-- **[[#7. Financial Modeling across Industries]]** (4 videos)
-- **[[#8. Building and Maintaining Models]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Using Excel for financial modeling
+  - What you should know before watching this course
+- [**1. Financial Modeling Basics**](#1-financial-modeling-basics) (8 videos)
+  - What is financial modeling?
+  - Why is financial modeling important?
+  - Business questions and financial models
+  - Data for a model
+  - Sources of data
+  - Gathering data from FRED for Excel
+  - Getting started with the project
+  - Excel tips for financial modeling
+- [**2. Corporate Financial Modeling: Three-Statement Financial Model**](#2-corporate-financial-modeling-three-statement-financial-model) (8 videos)
+  - Foundations of the model
+  - Linking financial statements
+  - Three-statement financial model
+  - Setting source parameters
+  - Assumptions in financial statements
+  - Forecasting in financial statements
+  - Putting it all together
+  - Improving model quality
+- [**3. Evaluating Corporate Financial Models: Three-Statement Model**](#3-evaluating-corporate-financial-models-three-statement-model) (3 videos)
+  - Financial modeling strategies
+  - Sensitivity analysis and financial models
+  - Adding visuals to a financial model
+- [**4. Investment Models: DCF Model**](#4-investment-models-dcf-model) (4 videos)
+  - Financial valuation models
+  - Cash flows in the valuation model
+  - Terminal value in a valuation model
+  - Interpreting a DCF model
+- [**5. Banking Models**](#5-banking-models) (7 videos)
+  - Beyond the basics in financial models
+  - Corkscrews and models
+  - Waterfalls and models
+  - Adding toggles to a financial model
+  - Model outputs
+  - Hiding tabs and making models readable
+  - Stress testing models
+- [**6. Buyout Models**](#6-buyout-models) (7 videos)
+  - Interest rate assumptions in models
+  - Discount rates in models
+  - Top-down financial models
+  - Bottom-up financial models
+  - IRR decisions in financial models
+  - NPV decisions in financial models
+  - Limits of financial models
+- [**7. Financial Modeling across Industries**](#7-financial-modeling-across-industries) (4 videos)
+  - Characteristics of financial models
+  - Modeling in banking
+  - Modeling in corporate finance
+  - Modeling in investments
+- [**8. Building and Maintaining Models**](#8-building-and-maintaining-models) (4 videos)
+  - Applications of financial models
+  - Bitcoin and cryptocurrency valuation modeling
+  - Updating financial models
+  - Maintaining ongoing financial models
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Excel for financial modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980)
@@ -121,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Financial Modeling Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is financial modeling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980)
@@ -705,7 +753,7 @@ created: 2026-04-29
 
 ### 2. Corporate Financial Modeling: Three-Statement Financial Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundations of the model
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980)
@@ -1360,7 +1408,7 @@ created: 2026-04-29
 
 ### 3. Evaluating Corporate Financial Models: Three-Statement Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial modeling strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980)
@@ -1585,7 +1633,7 @@ created: 2026-04-29
 
 ### 4. Investment Models: DCF Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial valuation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-valuation-models?u=76281980)
@@ -1907,7 +1955,7 @@ created: 2026-04-29
 
 ### 5. Banking Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Beyond the basics in financial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/beyond-the-basics-in-financial-models?u=76281980)
@@ -2489,7 +2537,7 @@ created: 2026-04-29
 
 ### 6. Buyout Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interest rate assumptions in models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980)
@@ -3127,7 +3175,7 @@ created: 2026-04-29
 
 ### 7. Financial Modeling across Industries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of financial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/characteristics-of-financial-models?u=76281980)
@@ -3379,7 +3427,7 @@ created: 2026-04-29
 
 ### 8. Building and Maintaining Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applications of financial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/applications-of-financial-models?u=76281980)
@@ -3616,7 +3664,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980)

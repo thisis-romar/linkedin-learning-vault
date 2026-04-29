@@ -48,20 +48,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Diodes]]** (3 videos)
-- **[[#2. Diode Applications]]** (7 videos)
-- **[[#3. Special Purpose Diodes]]** (3 videos)
-- **[[#4. Bipolar Junction Transistors]]** (4 videos)
-- **[[#5. Transistor Applications]]** (4 videos)
-- **[[#6. Field-Effect Transistors]]** (3 videos)
-- **[[#7. Operational Amplifiers]]** (3 videos)
-- **[[#8. Op-Amp Applications]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Understanding semiconductor devices
+  - What you should know
+  - Use the exercise files
+  - Safety warnings
+- [**1. Diodes**](#1-diodes) (3 videos)
+  - Semiconductor materials
+  - What is a diode?
+  - Diode characteristics
+- [**2. Diode Applications**](#2-diode-applications) (7 videos)
+  - Rectify a signal
+  - Detect the signal peak
+  - Protect against large signals
+  - Protect against reverse current
+  - Protect against flyback voltage
+  - Challenge: Circuit protection
+  - Solution: Circuit protection
+- [**3. Special Purpose Diodes**](#3-special-purpose-diodes) (3 videos)
+  - Light emitting diodes
+  - Photodiodes
+  - Zener diodes
+- [**4. Bipolar Junction Transistors**](#4-bipolar-junction-transistors) (4 videos)
+  - What is a transistor?
+  - NPN bipolar junction transistors
+  - PNP bipolar junction transistors
+  - BJT characteristics
+- [**5. Transistor Applications**](#5-transistor-applications) (4 videos)
+  - Use a BJT as a switch
+  - Use a BJT as an amplifier
+  - Challenge: Motor control
+  - Solution: Motor control
+- [**6. Field-Effect Transistors**](#6-field-effect-transistors) (3 videos)
+  - Field-effect transistors
+  - Use a MOSFET as a switch
+  - BJT vs. MOSFET
+- [**7. Operational Amplifiers**](#7-operational-amplifiers) (3 videos)
+  - What is an operational amplifier?
+  - Feedback circuits
+  - Operational amplifier characteristics
+- [**8. Op-Amp Applications**](#8-op-amp-applications) (8 videos)
+  - Compare signals
+  - Buffer signals
+  - Supply dual voltages
+  - Amplify signals
+  - Filter signals
+  - Combine signals
+  - Challenge: Audio equalizer
+  - Solution: Audio equalizer
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your journey with electronics
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding semiconductor devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/understanding-semiconductor-devices?u=76281980)
@@ -205,7 +245,7 @@ created: 2026-04-29
 
 ### 1. Diodes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Semiconductor materials
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/semiconductor-materials-14914790?u=76281980)
@@ -566,7 +606,7 @@ created: 2026-04-29
 
 ### 2. Diode Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rectify a signal
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/rectify-a-signal-14915549?u=76281980)
@@ -1123,7 +1163,7 @@ created: 2026-04-29
 
 ### 3. Special Purpose Diodes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Light emitting diodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/light-emitting-diodes-14915547?u=76281980)
@@ -1465,7 +1505,7 @@ created: 2026-04-29
 
 ### 4. Bipolar Junction Transistors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a transistor?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-a-transistor-14920032?u=76281980)
@@ -2088,7 +2128,7 @@ created: 2026-04-29
 
 ### 5. Transistor Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use a BJT as a switch
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-bjt-as-a-switch-14915546?u=76281980)
@@ -2551,7 +2591,7 @@ created: 2026-04-29
 
 ### 6. Field-Effect Transistors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Field-effect transistors
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/field-effect-transistors-14914779?u=76281980)
@@ -2856,7 +2896,7 @@ created: 2026-04-29
 
 ### 7. Operational Amplifiers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an operational amplifier?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980)
@@ -3233,7 +3273,7 @@ created: 2026-04-29
 
 ### 8. Op-Amp Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Compare signals
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/compare-signals-14914780?u=76281980)
@@ -4257,7 +4297,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your journey with electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/continue-your-journey-with-electronics?u=76281980)

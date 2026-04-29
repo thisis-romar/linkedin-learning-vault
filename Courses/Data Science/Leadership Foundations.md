@@ -46,16 +46,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Key Principles of Leadership]]** (4 videos)
-- **[[#2. Core Leadership Competencies]]** (7 videos)
-- **[[#3. Navigating Leadership Complexity]]** (4 videos)
-- **[[#4. Real-World Leadership Lessons]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to leadership foundations
+- [**1. Key Principles of Leadership**](#1-key-principles-of-leadership) (4 videos)
+  - Leading yourself
+  - Demonstrating emotional intelligence
+  - Building a diverse team and maximizing performance
+  - Leadership styles
+- [**2. Core Leadership Competencies**](#2-core-leadership-competencies) (7 videos)
+  - Strategic thinking
+  - Establishing trust
+  - Communicating with impact and influence
+  - Building relationships
+  - Developing business acumen
+  - Influencing others
+  - Demonstrating empathy
+- [**3. Navigating Leadership Complexity**](#3-navigating-leadership-complexity) (4 videos)
+  - Leading change through agility and resilience
+  - Managing conflict
+  - Having uncomfortable conversations
+  - Cultivating inclusion, equity, and belonging
+- [**4. Real-World Leadership Lessons**](#4-real-world-leadership-lessons) (4 videos)
+  - Introducing Richard Davis and Steve Miranda
+  - Leadership lessons from Dr. Shirley and Richard Davis, part 1
+  - Leadership lessons from Dr. Shirley and Steve Miranda, part 2
+  - Summary of learnings
+- [**Conclusion**](#conclusion) (1 videos)
+  - Action planning and next steps to becoming a leader
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to leadership foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/welcome-to-leadership-foundations?u=76281980)
@@ -82,7 +103,7 @@ created: 2026-04-29
 
 ### 1. Key Principles of Leadership
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-yourself?u=76281980)
@@ -454,7 +475,7 @@ created: 2026-04-29
 
 ### 2. Core Leadership Competencies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/strategic-thinking?u=76281980)
@@ -996,7 +1017,7 @@ created: 2026-04-29
 
 ### 3. Navigating Leadership Complexity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading change through agility and resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/leading-change-through-agility-and-resilience?u=76281980)
@@ -1282,7 +1303,7 @@ created: 2026-04-29
 
 ### 4. Real-World Leadership Lessons
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Richard Davis and Steve Miranda
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/introducing-richard-davis-and-steve-miranda?u=76281980)
@@ -1344,7 +1365,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Action planning and next steps to becoming a leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-foundations-22307442/action-planning-and-next-steps-to-becoming-a-leader?u=76281980)

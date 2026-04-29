@@ -40,18 +40,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. IoT Overview]]** (9 videos)
-- **[[#2. IoT Ecosystem]]** (5 videos)
-- **[[#3. IoT Standards]]** (7 videos)
-- **[[#4. IoT Challenges]]** (4 videos)
-- **[[#5. IoT in Industrial Automation]]** (4 videos)
-- **[[#6. IoT in Community: Smart Cities]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The foundations of IoT
+  - What you should know
+- [**1. IoT Overview**](#1-iot-overview) (9 videos)
+  - Early IoT definitions
+  - Definition of IoT
+  - Web of Things (WoT)
+  - IoT architectures
+  - IoT components
+  - IoT example: Healthcare
+  - IoT architecture of a system
+  - IoT components of a system
+  - IoT smart watch example
+- [**2. IoT Ecosystem**](#2-iot-ecosystem) (5 videos)
+  - The IoT ecosystem
+  - IoT technology
+  - IoT markets, part 1
+  - IoT markets, part 2
+  - IoT standards
+- [**3. IoT Standards**](#3-iot-standards) (7 videos)
+  - Standards organizations
+  - Standards name format
+  - Standardization development process stages, part 1
+  - Standardization development process stages, part 2
+  - Standardization development process stages, part 3
+  - Overview of IEEE IoT standards
+  - Standardization challenges
+- [**4. IoT Challenges**](#4-iot-challenges) (4 videos)
+  - Security
+  - Privacy
+  - Complexity and standards
+  - Legal issues
+- [**5. IoT in Industrial Automation**](#5-iot-in-industrial-automation) (4 videos)
+  - Overview of IoT ecosystem in industrial automation
+  - Industrial IoT
+  - Common IoT standards in industrial automation
+  - IoT industrial example: Smart factory
+- [**6. IoT in Community: Smart Cities**](#6-iot-in-community-smart-cities) (3 videos)
+  - Smart cities
+  - Smart city example: Singapore
+  - Smart city example: San Francisco
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The foundations of IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-foundations-of-iot-22850846?u=76281980)
@@ -94,7 +129,7 @@ created: 2026-04-29
 
 ### 1. IoT Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Early IoT definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/early-iot-definitions?u=76281980)
@@ -365,7 +400,7 @@ created: 2026-04-29
 
 ### 2. IoT Ecosystem
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The IoT ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/the-iot-ecosystem?u=76281980)
@@ -530,7 +565,7 @@ created: 2026-04-29
 
 ### 3. IoT Standards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Standards organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/standards-organizations?u=76281980)
@@ -808,7 +843,7 @@ created: 2026-04-29
 
 ### 4. IoT Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/security?u=76281980)
@@ -953,7 +988,7 @@ created: 2026-04-29
 
 ### 5. IoT in Industrial Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of IoT ecosystem in industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/overview-of-iot-ecosystem-in-industrial-automation?u=76281980)
@@ -1103,7 +1138,7 @@ created: 2026-04-29
 
 ### 6. IoT in Community: Smart Cities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Smart cities
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/smart-cities?u=76281980)
@@ -1223,7 +1258,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-standards-and-ecosystems-14427225/next-steps?u=76281980)

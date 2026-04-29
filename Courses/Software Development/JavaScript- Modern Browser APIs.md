@@ -59,15 +59,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Improving Performance]]** (5 videos)
-- **[[#2. Better Data Management]]** (7 videos)
-- **[[#3. Advanced User Experiences]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Building apps with modern JavaScript
+  - What you should know
+  - Set up the development environment
+- [**1. Improving Performance**](#1-improving-performance) (5 videos)
+  - Smoother animation with requestAnimationFrame()
+  - Faster navigation with prefetch
+  - Prioritized loading with preload
+  - Server communication with Beacon API
+  - Element visibility with Intersection Observer
+- [**2. Better Data Management**](#2-better-data-management) (7 videos)
+  - Overview of data handling
+  - Easier Ajax with the Fetch API
+  - Simplified IndexedDB with localForage
+  - localForage and multiple instances
+  - Caching data with the Cache API
+  - Making storage persistent
+  - Getting device memory information
+- [**3. Advanced User Experiences**](#3-advanced-user-experiences) (8 videos)
+  - Native overlays with the Dialog API
+  - Integrating with native notifications
+  - Detecting network conditions
+  - Using page visibility
+  - Going full screen with content
+  - Using full-screen events and styling
+  - Dynamic images with CSS Paint API
+  - Parameters with CSS Paint API
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building apps with modern JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/building-apps-with-modern-javascript?u=76281980)
@@ -190,7 +214,7 @@ created: 2026-04-29
 
 ### 1. Improving Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Smoother animation with requestAnimationFrame()
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/smoother-animation-with-requestanimationframe?u=76281980)
@@ -696,7 +720,7 @@ created: 2026-04-29
 
 ### 2. Better Data Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/overview-of-data-handling?u=76281980)
@@ -1327,7 +1351,7 @@ created: 2026-04-29
 
 ### 3. Advanced User Experiences
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Native overlays with the Dialog API
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/native-overlays-with-the-dialog-api?u=76281980)
@@ -2109,7 +2133,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-modern-browser-apis/next-steps?u=76281980)

@@ -46,17 +46,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Linux Overview]]** (5 videos)
-- **[[#2. Before Installing Linux]]** (4 videos)
-- **[[#3. Installing Linux]]** (6 videos)
-- **[[#4. Configuring Linux]]** (5 videos)
-- **[[#5. Using Linux]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Install the power of freedom with Linux
+  - What you should know
+- [**1. Linux Overview**](#1-linux-overview) (5 videos)
+  - What is Linux?
+  - The origins of Linux and your future
+  - Open-source software
+  - Choosing a Linux distribution
+  - The state of Enterprise Linux
+- [**2. Before Installing Linux**](#2-before-installing-linux) (4 videos)
+  - What is virtualization?
+  - Install VirtualBox on Windows
+  - Install VirtualBox on Linux
+  - Manage VirtualBox with the GUI
+- [**3. Installing Linux**](#3-installing-linux) (6 videos)
+  - Creating a virtual machine
+  - Optimizing your virtual machine
+  - Before installing
+  - Install Linux from DVD ISO
+  - Reconfigure or migrate CentOS 8
+  - Virtual machine snapshots
+- [**4. Configuring Linux**](#4-configuring-linux) (5 videos)
+  - Update system software
+  - Install Guest Additions in Linux
+  - Configure basic system settings
+  - Customize GNOME 3 desktop
+  - Installing GNOME 3 extensions
+- [**5. Using Linux**](#5-using-linux) (5 videos)
+  - Installing common software in CentOS 8
+  - Install software from third-party repositories
+  - Install non-RPM software
+  - Explore GNOME 3 desktop
+  - Customize GNOME 3 desktop
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install the power of freedom with Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/install-the-power-of-freedom-with-linux?u=76281980)
@@ -147,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Linux Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Linux?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-linux?u=76281980)
@@ -632,7 +660,7 @@ created: 2026-04-29
 
 ### 2. Before Installing Linux
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is virtualization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/what-is-virtualization?u=76281980)
@@ -1080,7 +1108,7 @@ created: 2026-04-29
 
 ### 3. Installing Linux
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a virtual machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/creating-a-virtual-machine-14938182?u=76281980)
@@ -1834,7 +1862,7 @@ created: 2026-04-29
 
 ### 4. Configuring Linux
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Update system software
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/update-system-software?u=76281980)
@@ -2381,7 +2409,7 @@ created: 2026-04-29
 
 ### 5. Using Linux
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing common software in CentOS 8
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/installing-common-software-in-centos-8?u=76281980)
@@ -2937,7 +2965,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-overview-and-installation-13912059/next-steps?u=76281980)

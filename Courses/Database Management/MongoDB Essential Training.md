@@ -49,19 +49,69 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Install MongoDB]]** (5 videos)
-- **[[#2. Set Up Your Database]]** (6 videos)
-- **[[#3. Working with MongoDB]]** (6 videos)
-- **[[#4. CRUD Operations]]** (11 videos)
-- **[[#5. Aggregation Pipelines]]** (10 videos)
-- **[[#6. Data Modeling]]** (5 videos)
-- **[[#7. Drivers]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - An introduction to MongoDB
+  - Features of MongoDB
+- [**1. Install MongoDB**](#1-install-mongodb) (5 videos)
+  - Self-hosted vs. managed MongoDB
+  - Enterprise vs. Community
+  - Install MongoDB on Mac
+  - Install MongoDB on Windows
+  - Install MongoDB on Linux
+- [**2. Set Up Your Database**](#2-set-up-your-database) (6 videos)
+  - Mongod
+  - Replica set
+  - Set up a replica set from the command line
+  - Set up a replica set with config files
+  - Import the sample data
+  - Debug
+- [**3. Working with MongoDB**](#3-working-with-mongodb) (6 videos)
+  - The document model
+  - Namespaces, collections, documents
+  - MongoDB Query Language
+  - Indexes
+  - Challenge: Indexes
+  - Solution: Indexes
+- [**4. CRUD Operations**](#4-crud-operations) (11 videos)
+  - insertOne and insertMany
+  - findOne and find
+  - Comparison operators
+  - Logical operators
+  - Sort, skip, limit
+  - updateOne and updateMany
+  - Arrays
+  - Transactions
+  - $expr
+  - Challenge: Create app
+  - Solution: Create app
+- [**5. Aggregation Pipelines**](#5-aggregation-pipelines) (10 videos)
+  - An overview of stages
+  - $group
+  - $bucket
+  - $unwind
+  - $merge and $out
+  - $function
+  - $lookup
+  - Performance
+  - Challenge: Write aggregation pipelines
+  - Solution: Write aggregation pipelines
+- [**6. Data Modeling**](#6-data-modeling) (5 videos)
+  - Relational vs. document
+  - Data modeling
+  - Flexible schema
+  - Challenge: Create a data model
+  - Solution: Create a data model
+- [**7. Drivers**](#7-drivers) (4 videos)
+  - Drivers
+  - Connecting with Python
+  - Connecting with JavaScript
+  - Connecting with PHP
+- [**Conclusion**](#conclusion) (1 videos)
+  - Advancing with MongoDB
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/an-introduction-to-mongodb-23754278?u=76281980)
@@ -149,7 +199,7 @@ created: 2026-04-29
 
 ### 1. Install MongoDB
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Self-hosted vs. managed MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980)
@@ -567,7 +617,7 @@ created: 2026-04-29
 
 ### 2. Set Up Your Database
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mongod
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980)
@@ -1490,7 +1540,7 @@ created: 2026-04-29
 
 ### 3. Working with MongoDB
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The document model
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/the-document-model-17231550?u=76281980)
@@ -2002,7 +2052,7 @@ created: 2026-04-29
 
 ### 4. CRUD Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### insertOne and insertMany
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/insertone-and-insertmany-17234000?u=76281980)
@@ -3270,7 +3320,7 @@ created: 2026-04-29
 
 ### 5. Aggregation Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/an-overview-of-stages-17233183?u=76281980)
@@ -4111,7 +4161,7 @@ created: 2026-04-29
 
 ### 6. Data Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational vs. document
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980)
@@ -4566,7 +4616,7 @@ created: 2026-04-29
 
 ### 7. Drivers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Drivers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980)
@@ -4867,7 +4917,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advancing with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980)

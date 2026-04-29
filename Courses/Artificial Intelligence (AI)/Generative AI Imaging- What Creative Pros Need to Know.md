@@ -53,13 +53,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The World of AI Imaging]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Get ready for AI imaging
+- [**1. The World of AI Imaging**](#1-the-world-of-ai-imaging) (9 videos)
+  - AI in action
+  - Applied AI imaging
+  - AI for people who hire creatives
+  - What AI content generation is not
+  - How an AI Image generator works
+  - You might already be using AI
+  - How can you add an AI media generator to your workflow?
+  - Is this actually legal?
+  - But is it art?
+- [**Conclusion**](#conclusion) (1 videos)
+  - Some final thoughts on AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get ready for AI imaging
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/get-ready-for-ai-imaging?u=76281980)
@@ -119,7 +130,7 @@ created: 2026-04-29
 
 ### 1. The World of AI Imaging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/ai-in-action?u=76281980)
@@ -1064,7 +1075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Some final thoughts on AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-imaging-what-creative-pros-need-to-know/some-final-thoughts-on-ai?u=76281980)

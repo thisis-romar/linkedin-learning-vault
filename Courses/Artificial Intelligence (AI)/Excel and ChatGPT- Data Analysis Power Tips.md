@@ -45,16 +45,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. How AI Is Revolutionizing Data Analysis]]** (2 videos)
-- **[[#2. A Crash Course in AI, LLMs, and ChatGPT]]** (6 videos)
-- **[[#3. Prompt Engineering Tips]]** (5 videos)
-- **[[#4. ChatGPT for Excel]]** (14 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The future is now: Intro to AI for data analytics
+  - Setting expectations
+- [**1. How AI Is Revolutionizing Data Analysis**](#1-how-ai-is-revolutionizing-data-analysis) (2 videos)
+  - Why AI is a game-changer for data analysis
+  - AI use cases for data analytics
+- [**2. A Crash Course in AI, LLMs, and ChatGPT**](#2-a-crash-course-in-ai-llms-and-chatgpt) (6 videos)
+  - The AI landscape
+  - Generative AI and large language models
+  - The road to ChatGPT
+  - Generative AI tools
+  - Warning: Pitfalls of ChatGPT
+  - Accessing ChatGPT and Google Bard
+- [**3. Prompt Engineering Tips**](#3-prompt-engineering-tips) (5 videos)
+  - Intro to prompt engineering
+  - Prompt tip: Be clear and specific
+  - Prompt tip: Provide context
+  - Prompt tip: Establish roles
+  - Prompt tip: Set the tone
+- [**4. ChatGPT for Excel**](#4-chatgpt-for-excel) (14 videos)
+  - Intro to ChatGPT for Excel
+  - Explain fundamental Excel concepts
+  - Generate Excel formulas from descriptions
+  - Generate DAX and M Code
+  - Automate tasks with VBA macros
+  - Generate formulas from sample data
+  - Ask for Excel data visualization advice
+  - Produce step-by-step Excel tutorials
+  - Collaborate on data prep and EDA
+  - Generate sample datasets
+  - Single table analysis
+  - Multi-table analysis
+  - The Canvas interface
+  - Scraping data from the web
+- [**Conclusion**](#conclusion) (1 videos)
+  - Key takeaways and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future is now: Intro to AI for data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
@@ -168,7 +198,7 @@ created: 2026-04-29
 
 ### 1. How AI Is Revolutionizing Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why AI is a game-changer for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
@@ -319,7 +349,7 @@ created: 2026-04-29
 
 ### 2. A Crash Course in AI, LLMs, and ChatGPT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The AI landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/the-ai-landscape?u=76281980)
@@ -728,7 +758,7 @@ created: 2026-04-29
 
 ### 3. Prompt Engineering Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-prompt-engineering?u=76281980)
@@ -927,7 +957,7 @@ created: 2026-04-29
 
 ### 4. ChatGPT for Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to ChatGPT for Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/intro-to-chatgpt-for-excel?u=76281980)
@@ -3061,7 +3091,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-chatgpt-data-analysis-power-tips/key-takeaways-and-next-steps?u=76281980)

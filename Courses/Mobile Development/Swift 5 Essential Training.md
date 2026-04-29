@@ -48,19 +48,85 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (3 videos)
-- **[[#2. Getting to Know Your Data]]** (13 videos)
-- **[[#3. Working with Collections]]** (10 videos)
-- **[[#4. Application Control Flow]]** (9 videos)
-- **[[#5. The Wide World of Functions]]** (10 videos)
-- **[[#6. Classes, Structs, and Beyond]]** (9 videos)
-- **[[#7. Leveling Up with Enums, Protocols, and Errors]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Begin an adventure with Swift 5
+  - Quest accepted: What you should know
+- [**1. Getting Started**](#1-getting-started) (3 videos)
+  - Swift retrospective
+  - Getting Xcode
+  - Reviewing the exercise files
+- [**2. Getting to Know Your Data**](#2-getting-to-know-your-data) (13 videos)
+  - The quest begins: Variables
+  - Variables and constants
+  - Type safety and inference
+  - Logging and commenting
+  - Swift operators
+  - Understanding strings
+  - Working with strings
+  - Type conversions
+  - Booleans and logical operators
+  - Introducing optionals
+  - Accessing documentation
+  - Challenge: Player stats
+  - Solution: Player stats
+- [**3. Working with Collections**](#3-working-with-collections) (10 videos)
+  - Gathering inventory with collections
+  - Swift arrays
+  - Core array methods
+  - Swift dictionaries
+  - Core dictionary methods
+  - Working with sets
+  - Core set methods
+  - Swift tuples
+  - Challenge: Merchant shop
+  - Solution: Merchant shop
+- [**4. Application Control Flow**](#4-application-control-flow) (9 videos)
+  - Controlling your destiny
+  - The if statement
+  - Unwrapping optionals
+  - Using for-in loops
+  - While loops
+  - The switch statement
+  - The guard statement
+  - Challenge: Game logic
+  - Solution: Game logic
+- [**5. The Wide World of Functions**](#5-the-wide-world-of-functions) (10 videos)
+  - Leveling the playing field
+  - Basic functions
+  - Overloading functions
+  - Complex functions
+  - Function types
+  - Understanding closures
+  - Using closures
+  - Type aliasing
+  - Challenge: Battlegrounds
+  - Solution: Battlegrounds
+- [**6. Classes, Structs, and Beyond**](#6-classes-structs-and-beyond) (9 videos)
+  - Populating the game world
+  - Value vs. reference types
+  - Basic Swift classes
+  - Access modifiers and properties
+  - Subclassing in Swift
+  - Basic Swift structs
+  - Chaining optionals
+  - Challenge: Inventory system
+  - Solution: Inventory system
+- [**7. Leveling Up with Enums, Protocols, and Errors**](#7-leveling-up-with-enums-protocols-and-errors) (9 videos)
+  - Final stage, final boss
+  - Swift enumerations
+  - Raw and associated values
+  - Introducing protocols
+  - Using extensions
+  - Throwing errors
+  - Handling errors
+  - Challenge: Battle actions
+  - Solution: Battle actions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Begin an adventure with Swift 5
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/begin-an-adventure-with-swift-5-14524901?u=76281980)
@@ -129,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Swift retrospective
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/swift-retrospective-14527899?u=76281980)
@@ -292,7 +358,7 @@ created: 2026-04-29
 
 ### 2. Getting to Know Your Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The quest begins: Variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/the-quest-begins-variables-14530749?u=76281980)
@@ -1132,7 +1198,7 @@ created: 2026-04-29
 
 ### 3. Working with Collections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gathering inventory with collections
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/gathering-inventory-with-collections-14525882?u=76281980)
@@ -2027,7 +2093,7 @@ created: 2026-04-29
 
 ### 4. Application Control Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Controlling your destiny
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/controlling-your-destiny-14531795?u=76281980)
@@ -2746,7 +2812,7 @@ created: 2026-04-29
 
 ### 5. The Wide World of Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveling the playing field
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/leveling-the-playing-field-14528852?u=76281980)
@@ -3517,7 +3583,7 @@ created: 2026-04-29
 
 ### 6. Classes, Structs, and Beyond
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Populating the game world
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/populating-the-game-world-14526925?u=76281980)
@@ -4325,7 +4391,7 @@ created: 2026-04-29
 
 ### 7. Leveling Up with Enums, Protocols, and Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final stage, final boss
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/final-stage-final-boss-14530766?u=76281980)
@@ -5079,7 +5145,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-essential-training/next-steps-14526916?u=76281980)

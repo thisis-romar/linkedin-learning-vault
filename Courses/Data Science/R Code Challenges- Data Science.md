@@ -52,15 +52,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Data Science Basics with R]]** (4 videos)
-- **[[#2. Data Science Concepts with R]]** (3 videos)
-- **[[#3. Think Like an R Programmer]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Practice with R programming
+  - CoderPad
+- [**1. Data Science Basics with R**](#1-data-science-basics-with-r) (4 videos)
+  - Solution: Subsetting
+  - Solution: Join three datasets
+  - Solution: Palindrome
+  - Solution: Password validator
+- [**2. Data Science Concepts with R**](#2-data-science-concepts-with-r) (3 videos)
+  - Solution: Fizz buzz
+  - Solution: Create a random door code
+  - Solution: Comparing stock price and interest rates
+- [**3. Think Like an R Programmer**](#3-think-like-an-r-programmer) (3 videos)
+  - Solution: Play rock, paper, scissors, lizard, spock
+  - Solution: Dealing with unexpected data
+  - Solution: Find the middle city
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice with R programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/practice-with-r-programming?u=76281980)
@@ -142,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Data Science Basics with R
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Subsetting
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-subsetting?u=76281980)
@@ -466,7 +479,7 @@ created: 2026-04-29
 
 ### 2. Data Science Concepts with R
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Fizz buzz
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-fizz-buzz?u=76281980)
@@ -783,7 +796,7 @@ created: 2026-04-29
 
 ### 3. Think Like an R Programmer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Play rock, paper, scissors, lizard, spock
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/solution-play-rock-paper-scissors-lizard-spock?u=76281980)
@@ -1139,7 +1152,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-code-challenges-data-science/next-steps?u=76281980)

@@ -52,15 +52,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Refresh Your Basic Prompting Practice]]** (5 videos)
-- **[[#2. Advance Your Prompts to Improve Results]]** (6 videos)
-- **[[#3. Learn How to Code with ChatGPT]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Level up your ChatGPT skills
+  - Configuring ChatGPT
+- [**1. Refresh Your Basic Prompting Practice**](#1-refresh-your-basic-prompting-practice) (5 videos)
+  - Brainstorming with GPT
+  - Iterating with GPT
+  - Improving writing with GPT
+  - Challenge: Creating an ice cream advertisement
+  - Solution: Creating an ice cream advertisement
+- [**2. Advance Your Prompts to Improve Results**](#2-advance-your-prompts-to-improve-results) (6 videos)
+  - An overview of OpenAI GPT and Reasoning Models
+  - Improving prompting with examples and quotes
+  - Using completion sequences and few shot
+  - Using chain-of-thought reasoning
+  - Challenge: Give GPT a tricky problem
+  - Solution: Give GPT a tricky problem
+- [**3. Learn How to Code with ChatGPT**](#3-learn-how-to-code-with-chatgpt) (6 videos)
+  - Interpreting code with ChatGPT
+  - Generating code with ChatGPT
+  - Editing code with ChatGPT
+  - Formatting responses as JSON with ChatGPT
+  - Challenge: Auto formatting an API call
+  - Solution: Auto formatting an API call
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Level up your ChatGPT skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980)
@@ -217,7 +237,7 @@ created: 2026-04-29
 
 ### 1. Refresh Your Basic Prompting Practice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Brainstorming with GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980)
@@ -630,7 +650,7 @@ created: 2026-04-29
 
 ### 2. Advance Your Prompts to Improve Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of OpenAI GPT and Reasoning Models
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980)
@@ -1070,7 +1090,7 @@ created: 2026-04-29
 
 ### 3. Learn How to Code with ChatGPT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interpreting code with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/interpreting-code-with-chatgpt?u=76281980)
@@ -1703,7 +1723,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980)

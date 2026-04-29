@@ -37,20 +37,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Data and Data Analysis]]** (4 videos)
-- **[[#2. Introduction to Business Intelligence]]** (3 videos)
-- **[[#3. Identifying Data]]** (4 videos)
-- **[[#4. Preparing Data]]** (4 videos)
-- **[[#5. Transforming Data]]** (5 videos)
-- **[[#6. Modeling Data]]** (4 videos)
-- **[[#7. Visualizing Data]]** (8 videos)
-- **[[#8. Job Mapping in the Data Analytics Field]]** (4 videos)
-- **[[#Continuing Your Data Analytics Learning Journey]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Starting out with data analytics
+- [**1. Introduction to Data and Data Analysis**](#1-introduction-to-data-and-data-analysis) (4 videos)
+  - Defining data analysis and roles in data analysis
+  - Developing data fluency
+  - Understanding how data governance impacts the data analyst
+  - Understanding the importance of data quality
+- [**2. Introduction to Business Intelligence**](#2-introduction-to-business-intelligence) (3 videos)
+  - What is BI and the value to business?
+  - How are business analytics and BI different?
+  - How data can provide intelligence to the organization
+- [**3. Identifying Data**](#3-identifying-data) (4 videos)
+  - Understanding the value of data-driven decision-making
+  - Questioning techniques to collect the right data
+  - Discovering and interpreting existing data
+  - Data sources and structures
+- [**4. Preparing Data**](#4-preparing-data) (4 videos)
+  - Describing data best practices
+  - Assessing and adapting the data for transformation
+  - Understanding the rules of the data
+  - Tips on preparing the data in Excel
+- [**5. Transforming Data**](#5-transforming-data) (5 videos)
+  - Transforming data in Excel with Power Query
+  - Transforming data in SQL
+  - Transforming data in Power BI
+  - Common cleaning and transformation
+  - Using built-in functions
+- [**6. Modeling Data**](#6-modeling-data) (4 videos)
+  - Relational databases
+  - Modeling data for Power BI
+  - Master data management
+  - Unstructured data
+- [**7. Visualizing Data**](#7-visualizing-data) (8 videos)
+  - Visualization methods and best practices
+  - Creating reports to visualize your data over pages
+  - Creating a dashboards for reporting
+  - Gathering requirements for visualizations
+  - Presenting data challenges effectively to others
+  - Finalizing dashboards
+  - Adding dashboard filters
+  - Modifying dashboard tooltips
+- [**8. Job Mapping in the Data Analytics Field**](#8-job-mapping-in-the-data-analytics-field) (4 videos)
+  - Data workers
+  - Data analysts
+  - Data engineers
+  - Data scientists
+- [**Continuing Your Data Analytics Learning Journey**](#continuing-your-data-analytics-learning-journey) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting out with data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/starting-out-with-data-analytics?u=76281980)
@@ -95,7 +133,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Data and Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining data analysis and roles in data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?u=76281980)
@@ -423,7 +461,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Business Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is BI and the value to business?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/what-is-bi-and-the-value-to-business?u=76281980)
@@ -629,7 +667,7 @@ created: 2026-04-29
 
 ### 3. Identifying Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the value of data-driven decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/understanding-the-value-of-data-driven-decision-making?u=76281980)
@@ -946,7 +984,7 @@ created: 2026-04-29
 
 ### 4. Preparing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing data best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/describing-data-best-practices?u=76281980)
@@ -1513,7 +1551,7 @@ created: 2026-04-29
 
 ### 5. Transforming Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transforming data in Excel with Power Query
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/transforming-data-in-excel-with-power-query?u=76281980)
@@ -2305,7 +2343,7 @@ created: 2026-04-29
 
 ### 6. Modeling Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/relational-databases?u=76281980)
@@ -2602,7 +2640,7 @@ created: 2026-04-29
 
 ### 7. Visualizing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualization methods and best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/visualization-methods-and-best-practices?u=76281980)
@@ -3563,7 +3601,7 @@ created: 2026-04-29
 
 ### 8. Job Mapping in the Data Analytics Field
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data workers
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/data-workers?u=76281980)
@@ -3772,7 +3810,7 @@ created: 2026-04-29
 
 ### Continuing Your Data Analytics Learning Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/next-steps-and-additional-resources?u=76281980)

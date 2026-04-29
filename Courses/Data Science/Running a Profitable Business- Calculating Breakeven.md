@@ -46,18 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Importance of Analysis]]** (2 videos)
-- **[[#2. Types of Costs]]** (4 videos)
-- **[[#3. Contribution Margin and the CVP Equation]]** (4 videos)
-- **[[#4. The Breakeven Equation]]** (4 videos)
-- **[[#5. Computing Target Net Income]]** (3 videos)
-- **[[#6. Sensitivity Analysis]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The basics of breakeven analysis
+- [**1. Importance of Analysis**](#1-importance-of-analysis) (2 videos)
+  - Importance of breakeven analysis
+  - Cost-volume-profit (CVP) analysis
+- [**2. Types of Costs**](#2-types-of-costs) (4 videos)
+  - When variable costs become fixed costs
+  - Breaking down fixed and variable costs
+  - Fixed and variable cost examples
+  - Pricing a service to cover costs
+- [**3. Contribution Margin and the CVP Equation**](#3-contribution-margin-and-the-cvp-equation) (4 videos)
+  - Identifying high contribution margins
+  - Contribution margin and profitability
+  - Calculate a company's breakeven point
+  - McDonald's breakeven point
+- [**4. The Breakeven Equation**](#4-the-breakeven-equation) (4 videos)
+  - When to conduct breakeven analysis
+  - Breakeven equation and covering costs
+  - Breakeven equations for an airline
+  - Breakeven analysis for multiple products
+- [**5. Computing Target Net Income**](#5-computing-target-net-income) (3 videos)
+  - Importance of total contribution margin
+  - How to forecast a target profit
+  - Calculate McDonald's target profit
+- [**6. Sensitivity Analysis**](#6-sensitivity-analysis) (3 videos)
+  - Analyzing a business before making changes
+  - What-if analysis for multiple scenarios
+  - Lessons for running a profitable company
+- [**Conclusion**](#conclusion) (1 videos)
+  - Risks and rewards of fixed costs
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/the-basics-of-breakeven-analysis?u=76281980)
@@ -124,7 +146,7 @@ created: 2026-04-29
 
 ### 1. Importance of Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-breakeven-analysis-14748318?u=76281980)
@@ -317,7 +339,7 @@ created: 2026-04-29
 
 ### 2. Types of Costs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When variable costs become fixed costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-variable-costs-become-fixed-costs-14753221?u=76281980)
@@ -699,7 +721,7 @@ created: 2026-04-29
 
 ### 3. Contribution Margin and the CVP Equation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying high contribution margins
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/identifying-high-contribution-margins?u=76281980)
@@ -1115,7 +1137,7 @@ created: 2026-04-29
 
 ### 4. The Breakeven Equation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to conduct breakeven analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/when-to-conduct-breakeven-analysis-14749292?u=76281980)
@@ -1540,7 +1562,7 @@ created: 2026-04-29
 
 ### 5. Computing Target Net Income
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of total contribution margin
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/importance-of-total-contribution-margin-14748316?u=76281980)
@@ -1804,7 +1826,7 @@ created: 2026-04-29
 
 ### 6. Sensitivity Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyzing a business before making changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/analyzing-a-business-before-making-changes?u=76281980)
@@ -2109,7 +2131,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Risks and rewards of fixed costs
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-calculating-breakeven/risks-and-rewards-of-fixed-costs-14750282?u=76281980)

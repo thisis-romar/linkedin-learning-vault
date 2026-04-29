@@ -42,16 +42,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Get Started with Power BI]]** (3 videos)
-- **[[#2. Explore a Power BI Sample App]]** (5 videos)
-- **[[#3. Work with Power BI Reports]]** (11 videos)
-- **[[#4. Work with Power BI Dashboards]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Analyze and visualize your business data
+  - Are you a Power BI consumer?
+  - What you need for this course
+- [**1. Get Started with Power BI**](#1-get-started-with-power-bi) (3 videos)
+  - Power BI: Key concepts for consumers
+  - Sign up for Power BI
+  - Open the Power BI service
+- [**2. Explore a Power BI Sample App**](#2-explore-a-power-bi-sample-app) (5 videos)
+  - Data and Power BI Desktop
+  - Open a PBIX file with Power BI Desktop
+  - Publish a PBIX file to the Power BI service
+  - Install a sample app: Mac users
+  - Power BI service: Navigation and features
+- [**3. Work with Power BI Reports**](#3-work-with-power-bi-reports) (11 videos)
+  - Cross-filter visuals and show a data table
+  - Drill down or show next level for more detail
+  - Analyze a data point
+  - Sort a Power BI visualization
+  - Export the data behind a visualization
+  - Spotlight and bookmark reports
+  - Ask a question with Q&A
+  - Add a comment to a report
+  - Printing and saving reports
+  - Export a report to a PDF or PowerPoint
+  - Share a Power BI report
+- [**4. Work with Power BI Dashboards**](#4-work-with-power-bi-dashboards) (7 videos)
+  - Power BI reports vs. dashboards
+  - Create a simple Power BI dashboard
+  - Use a Power BI dashboard
+  - Set an alert for a tile
+  - View Quick Insights for a tile
+  - Share a dashboard or tile to Microsoft Teams
+  - Copy a tile as a visual
+- [**Conclusion**](#conclusion) (1 videos)
+  - Power BI next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze and visualize your business data
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/analyze-and-visualize-your-business-data?u=76281980)
@@ -196,7 +226,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Power BI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Power BI: Key concepts for consumers
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980)
@@ -435,7 +465,7 @@ created: 2026-04-29
 
 ### 2. Explore a Power BI Sample App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data and Power BI Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980)
@@ -928,7 +958,7 @@ created: 2026-04-29
 
 ### 3. Work with Power BI Reports
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cross-filter visuals and show a data table
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/cross-filter-visuals-and-show-a-data-table?u=76281980)
@@ -1705,7 +1735,7 @@ created: 2026-04-29
 
 ### 4. Work with Power BI Dashboards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Power BI reports vs. dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-reports-vs-dashboards?u=76281980)
@@ -2197,7 +2227,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Power BI next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980)

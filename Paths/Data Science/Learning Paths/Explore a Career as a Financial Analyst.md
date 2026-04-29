@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/explore-a-career-as-a-financial-ana
 course_count: 5
 linkedin_topics:
   - Data Science
-louvain_cluster: 14
+louvain_cluster: 2
 tags:
   - learning-path
   - topic/data-science

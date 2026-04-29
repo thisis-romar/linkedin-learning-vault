@@ -50,17 +50,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Beginning Python]]** (4 videos)
-- **[[#2. Managing Layers and Projects with Python]]** (4 videos)
-- **[[#3. Geometry Handling]]** (4 videos)
-- **[[#4. Importing DWG and DXF]]** (3 videos)
-- **[[#5. Creating Plugins]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - AEC with Python and QGIS
+- [**1. Beginning Python**](#1-beginning-python) (4 videos)
+  - What is Python?
+  - Using the Python console
+  - Creating your first Python script
+  - Saving your Python scripts
+- [**2. Managing Layers and Projects with Python**](#2-managing-layers-and-projects-with-python) (4 videos)
+  - Working with projects
+  - Working with layers
+  - Setting the CRS
+  - Adding and creating layer definitions
+- [**3. Geometry Handling**](#3-geometry-handling) (4 videos)
+  - Getting WKT from data
+  - Exporting geometry
+  - Filtering geometry
+  - Drawing new geometry
+- [**4. Importing DWG and DXF**](#4-importing-dwg-and-dxf) (3 videos)
+  - Manually importing DWG
+  - Using Python to import DXF
+  - Converting lines to polygons with Python
+- [**5. Creating Plugins**](#5-creating-plugins) (6 videos)
+  - Installing Plugin Builder
+  - Using the Plugin Builder
+  - Create a batch file to load Python bindings
+  - Install plugin
+  - Using Qt Designer
+  - Adding Python to Plugin
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AEC with Python and QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/aec-with-python-and-qgis?u=76281980)
@@ -93,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Beginning Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Python?
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/what-is-python?u=76281980)
@@ -948,7 +971,7 @@ created: 2026-04-29
 
 ### 2. Managing Layers and Projects with Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/working-with-projects?u=76281980)
@@ -1737,7 +1760,7 @@ created: 2026-04-29
 
 ### 3. Geometry Handling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting WKT from data
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/getting-wkt-from-data?u=76281980)
@@ -2457,7 +2480,7 @@ created: 2026-04-29
 
 ### 4. Importing DWG and DXF
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manually importing DWG
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/manually-importing-dwg?u=76281980)
@@ -2856,7 +2879,7 @@ created: 2026-04-29
 
 ### 5. Creating Plugins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Plugin Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/installing-plugin-builder?u=76281980)
@@ -3703,7 +3726,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/qgis-and-python-for-aec/next-steps?u=76281980)

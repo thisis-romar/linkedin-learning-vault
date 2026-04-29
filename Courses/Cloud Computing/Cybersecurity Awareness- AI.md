@@ -53,15 +53,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding AI and AI-Enhanced Threats]]** (4 videos)
-- **[[#2. Ethics, Privacy, and Responsible Use]]** (3 videos)
-- **[[#3. Defending against AI-Enhanced Threats]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Cybersecurity and AI
+- [**1. Understanding AI and AI-Enhanced Threats**](#1-understanding-ai-and-ai-enhanced-threats) (4 videos)
+  - AI's impact on cybersecurity
+  - Identifying AI-enhanced phishing attacks
+  - Deepfakes and misinformation
+  - Spotting other AI-enhanced threats
+- [**2. Ethics, Privacy, and Responsible Use**](#2-ethics-privacy-and-responsible-use) (3 videos)
+  - Summarizing data privacy, compliance, and AI
+  - Using AI ethically and responsibly
+  - Considering the fine line companies walk with AI
+- [**3. Defending against AI-Enhanced Threats**](#3-defending-against-ai-enhanced-threats) (3 videos)
+  - Implementing AI tool usage
+  - Developing a security-focused approach
+  - Reporting suspicious AI content
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/cybersecurity-and-ai?u=76281980)
@@ -94,7 +106,7 @@ created: 2026-04-29
 
 ### 1. Understanding AI and AI-Enhanced Threats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI's impact on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/ai-s-impact-on-cybersecurity?u=76281980)
@@ -436,7 +448,7 @@ created: 2026-04-29
 
 ### 2. Ethics, Privacy, and Responsible Use
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing data privacy, compliance, and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/summarizing-data-privacy-compliance-and-ai?u=76281980)
@@ -733,7 +745,7 @@ created: 2026-04-29
 
 ### 3. Defending against AI-Enhanced Threats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing AI tool usage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/implementing-ai-tool-usage?u=76281980)
@@ -1055,7 +1067,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-ai/next-steps?u=76281980)

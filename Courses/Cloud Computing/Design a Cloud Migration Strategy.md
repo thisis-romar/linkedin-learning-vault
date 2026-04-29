@@ -44,20 +44,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Essential Migration Considerations]]** (6 videos)
-- **[[#2. Rehosting]]** (4 videos)
-- **[[#3. Replatforming]]** (4 videos)
-- **[[#4. Adopting SaaS]]** (4 videos)
-- **[[#5. Refactoring Workloads]]** (2 videos)
-- **[[#6. Retiring Workloads]]** (2 videos)
-- **[[#7. The Migration Process]]** (8 videos)
-- **[[#8. Your Exit Strategy]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Planning a cloud migration
+  - What you should know
+- [**1. Essential Migration Considerations**](#1-essential-migration-considerations) (6 videos)
+  - Identify migration goals
+  - Types of migrations
+  - Cost considerations
+  - The five phases of migration
+  - Common mistakes to avoid
+  - Infrastructure and logical considerations
+- [**2. Rehosting**](#2-rehosting) (4 videos)
+  - Which applications should be rehosted?
+  - Performance considerations
+  - Estimating costs
+  - Is it better to migrate or rebuild?
+- [**3. Replatforming**](#3-replatforming) (4 videos)
+  - What is replatforming?
+  - Advantages of replatforming
+  - Some potential issues with replatforming
+  - Identifying good candidates for replatforming
+- [**4. Adopting SaaS**](#4-adopting-saas) (4 videos)
+  - Why transition to SaaS?
+  - The advantages of a SaaS migration
+  - Potential disadvantages of SasS migration
+  - Important considerations
+- [**5. Refactoring Workloads**](#5-refactoring-workloads) (2 videos)
+  - The case for application refactoring
+  - Modernizing a refactored application
+- [**6. Retiring Workloads**](#6-retiring-workloads) (2 videos)
+  - Why retiring an application may be the best option
+  - Identifying applications that can be retired
+- [**7. The Migration Process**](#7-the-migration-process) (8 videos)
+  - Are your goals still relevant?
+  - Building a plan of attack
+  - Considerations for IT pros
+  - Why it is fine to leave some applications alone?
+  - What tools are available to assist with the migration?
+  - Making the case for a trial migration
+  - Additional considerations
+  - Where should I begin?
+- [**8. Your Exit Strategy**](#8-your-exit-strategy) (5 videos)
+  - What is a cloud exit strategy?
+  - Why do you need an exit strategy?
+  - Essential elements to include in an exit strategy
+  - Costs to consider as you develop your exit strategy
+  - Designing a cloud migration strategy with an eye toward the exit
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning a cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/planning-a-cloud-migration?u=76281980)
@@ -104,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Essential Migration Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify migration goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/identify-migration-goals?u=76281980)
@@ -669,7 +707,7 @@ created: 2026-04-29
 
 ### 2. Rehosting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Which applications should be rehosted?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/which-applications-should-be-rehosted?u=76281980)
@@ -1066,7 +1104,7 @@ created: 2026-04-29
 
 ### 3. Replatforming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is replatforming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-replatforming?u=76281980)
@@ -1332,7 +1370,7 @@ created: 2026-04-29
 
 ### 4. Adopting SaaS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why transition to SaaS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-transition-to-saas?u=76281980)
@@ -1618,7 +1656,7 @@ created: 2026-04-29
 
 ### 5. Refactoring Workloads
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The case for application refactoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/the-case-for-application-refactoring?u=76281980)
@@ -1772,7 +1810,7 @@ created: 2026-04-29
 
 ### 6. Retiring Workloads
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why retiring an application may be the best option
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/why-retiring-an-application-may-be-the-best-option?u=76281980)
@@ -1902,7 +1940,7 @@ created: 2026-04-29
 
 ### 7. The Migration Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Are your goals still relevant?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/are-your-goals-still-relevant?u=76281980)
@@ -2460,7 +2498,7 @@ created: 2026-04-29
 
 ### 8. Your Exit Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a cloud exit strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/what-is-a-cloud-exit-strategy?u=76281980)
@@ -2868,7 +2906,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-a-cloud-migration-strategy/next-steps?u=76281980)

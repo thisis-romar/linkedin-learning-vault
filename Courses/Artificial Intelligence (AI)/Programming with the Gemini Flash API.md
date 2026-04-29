@@ -52,12 +52,17 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Programming with the Gemini Flash API]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - An affordable, multimodal, low latency, large context model
+- [**1. Programming with the Gemini Flash API**](#1-programming-with-the-gemini-flash-api) (4 videos)
+  - The technology behind Gemini Flash
+  - Testing the model in Google AI Studio
+  - Large context windows with the Gemini API
+  - Building apps with the API
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An affordable, multimodal, low latency, large context model
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/an-affordable-multimodal-low-latency-large-context-model?u=76281980)
@@ -100,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Programming with the Gemini Flash API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The technology behind Gemini Flash
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-with-the-gemini-flash-api/the-technology-behind-gemini-flash?u=76281980)

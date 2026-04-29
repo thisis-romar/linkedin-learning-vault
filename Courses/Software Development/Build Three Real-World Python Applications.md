@@ -52,15 +52,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Scraping the Wisdom Pet Medicine Website]]** (13 videos)
-- **[[#2. Exploring Alpha Vantage API]]** (13 videos)
-- **[[#3. Text Analysis on Great Expectations Novel]]** (12 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Real-world Python applications
+  - What you should know
+  - GitHub Codespaces
+- [**1. Scraping the Wisdom Pet Medicine Website**](#1-scraping-the-wisdom-pet-medicine-website) (13 videos)
+  - What is web scraping?
+  - Introducing the Wisdom Pet Medicine website
+  - How to explore a webpage
+  - Understanding HTML code
+  - Understanding the requests package
+  - How to use the get() method
+  - How to retrieve webpage information
+  - How to retrieve HTML code
+  - How to use BeautifulSoup
+  - How to use find() and find_all() methods
+  - How to loop find_all() methods
+  - How to retrieve webpage links
+  - How to write HTML code to a text file
+- [**2. Exploring Alpha Vantage API**](#2-exploring-alpha-vantage-api) (13 videos)
+  - What are APIs?
+  - Introducing Alpha Vantage API
+  - How to access Alpha Vantage data
+  - How to use an API key
+  - How to pull stock data with the alpha_vantage package: Part 1
+  - How to pull stock data with the alpha_vantage package: Part 2
+  - How to pull stock data with the requests package
+  - How to put stock data into a DataFrame
+  - How to use Alpha Vantage functions: Part 1
+  - How to use Alpha Vantage functions: Part 2
+  - How to use Alpha Vantage functions: Part 3
+  - Challenge: Analyze Microsoft stock
+  - Solution: Analyze Microsoft stock
+- [**3. Text Analysis on Great Expectations Novel**](#3-text-analysis-on-great-expectations-novel) (12 videos)
+  - What is text analysis?
+  - Introducing Project Gutenberg and "Great Expectations"
+  - How to pull text data
+  - How to clean text data
+  - How to create a word cloud
+  - How to improve a word cloud
+  - How to analyze word frequency
+  - How to perform Vader sentiment analysis
+  - How to build a corpus and dictionary for topic modeling
+  - How to perform topic modeling
+  - Challenge: Analyze "Sense and Sensibility"
+  - Solution: Analyze "Sense and Sensibility"
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Real-world Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/scheduling-placeholder-movie?u=76281980)
@@ -236,7 +278,7 @@ created: 2026-04-29
 
 ### 1. Scraping the Wisdom Pet Medicine Website
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is web scraping?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-web-scraping?u=76281980)
@@ -1090,7 +1132,7 @@ created: 2026-04-29
 
 ### 2. Exploring Alpha Vantage API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are APIs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-are-apis?u=76281980)
@@ -2195,7 +2237,7 @@ created: 2026-04-29
 
 ### 3. Text Analysis on Great Expectations Novel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is text analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/what-is-text-analysis?u=76281980)
@@ -3282,7 +3324,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-three-real-world-python-applications/next-steps?u=76281980)

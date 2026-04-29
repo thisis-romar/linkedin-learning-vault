@@ -62,18 +62,77 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Think with Data]]** (10 videos)
-- **[[#2. Prepare Data]]** (9 videos)
-- **[[#3. Adapt Data]]** (9 videos)
-- **[[#4. Explore Data]]** (11 videos)
-- **[[#5. Describe Data]]** (12 videos)
-- **[[#6. Probability and Inference]]** (6 videos)
-- **[[#7. Continuing Your Data Fluency Learning Quest]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Make better decisions with your data
+- [**1. Think with Data**](#1-think-with-data) (10 videos)
+  - The meaning of data fluency
+  - Data fluency is for everyone
+  - Data fluency in practice
+  - Making intuitive thinking explicit
+  - Thinking about causes
+  - How to develop data fluency
+  - Data-driven decision-making
+  - ROI and the 80/20 rule for data fluency
+  - Putting data in context
+  - Data literacy in the age of generative AI and agentic AI
+- [**2. Prepare Data**](#2-prepare-data) (9 videos)
+  - Data ethics
+  - Use in-house data
+  - Use open data
+  - Gather new data
+  - Use third-party data
+  - Assess the quality of data
+  - Assess the generalizability of data
+  - Assess the meaning of data
+  - Assess the ambiguities in data
+- [**3. Adapt Data**](#3-adapt-data) (9 videos)
+  - Sort data
+  - Filter data
+  - Combine and split categories
+  - Code text
+  - Calculate sums and means
+  - Calculate rates
+  - Calculate ratios
+  - Adjust ratios in practice
+  - AI-assisted data preparation
+- [**4. Explore Data**](#4-explore-data) (11 videos)
+  - Visual primacy: The importance of starting with pictures
+  - Bar charts
+  - Grouped bar charts
+  - Pie charts
+  - Dot plots
+  - Box plots
+  - Histograms
+  - Line charts
+  - Sparklines
+  - Scatterplots
+  - Data maps
+- [**5. Describe Data**](#5-describe-data) (12 videos)
+  - Numerical descriptions
+  - Describe measures of center
+  - Describe variability with the range and IQR
+  - Describe variability with the variance and standard deviation
+  - Rescale data with z-scores
+  - Interpret z-scores
+  - Describe group differences with effect sizes
+  - Predict scores with regression
+  - Describe associations with correlations
+  - Effect size for correlation and regression
+  - Exploring tables
+  - AI-assisted data exploration and modeling
+- [**6. Probability and Inference**](#6-probability-and-inference) (6 videos)
+  - Basic probability
+  - Conditional probability
+  - Expected values
+  - Sampling variation
+  - Inference as describing populations
+  - AI as an additional source of analytical variability
+- [**7. Continuing Your Data Fluency Learning Quest**](#7-continuing-your-data-fluency-learning-quest) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make better decisions with your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980)
@@ -103,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Think with Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The meaning of data fluency
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980)
@@ -1416,7 +1475,7 @@ created: 2026-04-29
 
 ### 2. Prepare Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980)
@@ -2543,7 +2602,7 @@ created: 2026-04-29
 
 ### 3. Adapt Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sort data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980)
@@ -3650,7 +3709,7 @@ created: 2026-04-29
 
 ### 4. Explore Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visual primacy: The importance of starting with pictures
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980)
@@ -5304,7 +5363,7 @@ created: 2026-04-29
 
 ### 5. Describe Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Numerical descriptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/numerical-descriptions?u=76281980)
@@ -6640,7 +6699,7 @@ created: 2026-04-29
 
 ### 6. Probability and Inference
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980)
@@ -7413,7 +7472,7 @@ created: 2026-04-29
 
 ### 7. Continuing Your Data Fluency Learning Quest
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980)

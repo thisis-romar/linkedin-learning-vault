@@ -51,15 +51,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Generating Content and Interactions]]** (7 videos)
-- **[[#2. Modifying and Organizing Content]]** (6 videos)
-- **[[#3. AI in FigJam and Figma Slides]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Explore AI workflows with Figma Design
+  - What you should know
+  - Figma Make and Figma Sites
+  - Use the exercise files
+- [**1. Generating Content and Interactions**](#1-generating-content-and-interactions) (7 videos)
+  - Explore the Figma Design project
+  - Generate a set of screens with a text prompt
+  - Auto-wire screens together for prototyping
+  - Generate an image based upon a text prompt
+  - Boost the resolution of an image
+  - Remove an image's background
+  - Edit an image through text prompts
+- [**2. Modifying and Organizing Content**](#2-modifying-and-organizing-content) (6 videos)
+  - Rename layers in a Figma Design file
+  - Replace existing text content
+  - Rewrite text to better suit the audience
+  - Translate text into different languages
+  - Shorten lengthy text elements
+  - Find assets and design elements
+- [**3. AI in FigJam and Figma Slides**](#3-ai-in-figjam-and-figma-slides) (5 videos)
+  - Use the generate feature in FigJam
+  - Generate a summary in FigJam
+  - Create a Figma Slides outline from FigJam
+  - Draft presenter notes in Figma Slides
+  - Adjust the tone in Figma Slides
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore AI workflows with Figma Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-ai-workflows-with-figma-design?u=76281980)
@@ -206,7 +229,7 @@ created: 2026-04-29
 
 ### 1. Generating Content and Interactions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the Figma Design project
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/exploring-the-figma-design-project?u=76281980)
@@ -711,7 +734,7 @@ created: 2026-04-29
 
 ### 2. Modifying and Organizing Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rename layers in a Figma Design file
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/rename-layers-in-a-figma-design-file?u=76281980)
@@ -1050,7 +1073,7 @@ created: 2026-04-29
 
 ### 3. AI in FigJam and Figma Slides
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the generate feature in FigJam
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/using-the-generate-feature-in-figjam?u=76281980)
@@ -1314,7 +1337,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ai-workflows-within-figma-design/next-steps?u=76281980)

@@ -48,14 +48,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Data Preprocessing]]** (6 videos)
-- **[[#2. Prediction Models]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Predict data in Python
+  - Road map
+- [**1. Data Preprocessing**](#1-data-preprocessing) (6 videos)
+  - Differentiate data types
+  - Python libraries and data import
+  - Handling missing values
+  - Convert categorical data into numbers
+  - Divide the data into test and train
+  - Feature scaling
+- [**2. Prediction Models**](#2-prediction-models) (10 videos)
+  - Introduction to predictive models
+  - Linear regression
+  - Polynomial regression
+  - Support Vector Regression (SVR)
+  - Decision tree regression
+  - Random forest regression
+  - Evaluation of predictive models
+  - Hyperparameter optimization
+  - Challenge: Hyperparameter optimization
+  - Solution: Hyperparameter optimization
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Predict data in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-2019/predict-data-in-python?u=76281980)
@@ -178,7 +197,7 @@ created: 2026-04-29
 
 ### 1. Data Preprocessing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Differentiate data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-2019/differentiate-data-types?u=76281980)
@@ -887,7 +906,7 @@ created: 2026-04-29
 
 ### 2. Prediction Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to predictive models
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-2019/introduction-to-predictive-models?u=76281980)
@@ -1874,7 +1893,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-working-with-predictive-analytics-2019/next-steps?u=76281980)

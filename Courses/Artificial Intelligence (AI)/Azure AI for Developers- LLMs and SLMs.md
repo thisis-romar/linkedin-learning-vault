@@ -51,17 +51,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Small Language Models]]** (4 videos)
-- **[[#2. Large Language Models]]** (4 videos)
-- **[[#3. Choosing a Model]]** (3 videos)
-- **[[#4. Sample Projects]]** (4 videos)
-- **[[#5.  Implementing Best Practices]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Choosing the right AI model: LLMs and SLMs explained
+  - What you should know
+- [**1. Small Language Models**](#1-small-language-models) (4 videos)
+  - What is a small language model (SLM)?
+  - How do SLMs work?
+  - Popular SLM architectures
+  - Capabilities and limitations
+- [**2. Large Language Models**](#2-large-language-models) (4 videos)
+  - What is a large language model (LLM)?
+  - How do LLMs work?
+  - Popular LLM architectures
+  - Capabilities and limitations
+- [**3. Choosing a Model**](#3-choosing-a-model) (3 videos)
+  - Difference between SLM and LLM
+  - When to use SLM or LLM
+  - Deployment types
+- [**4. Sample Projects**](#4-sample-projects) (4 videos)
+  - Deploying and accessing SLM locally
+  - Deploying and accessing LLM in Azure AI Foundry
+  - Challenge: Build an SLM solution
+  - Solution: Build an SLM solution
+- [**5.  Implementing Best Practices**](#5-implementing-best-practices) (2 videos)
+  - Common pitfalls
+  - Best practices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right AI model: LLMs and SLMs explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980)
@@ -117,7 +137,7 @@ created: 2026-04-29
 
 ### 1. Small Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a small language model (SLM)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-small-language-model-slm?u=76281980)
@@ -425,7 +445,7 @@ created: 2026-04-29
 
 ### 2. Large Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a large language model (LLM)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980)
@@ -1001,7 +1021,7 @@ created: 2026-04-29
 
 ### 3. Choosing a Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Difference between SLM and LLM
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980)
@@ -1351,7 +1371,7 @@ created: 2026-04-29
 
 ### 4. Sample Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying and accessing SLM locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980)
@@ -1646,7 +1666,7 @@ created: 2026-04-29
 
 ### 5.  Implementing Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common pitfalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980)
@@ -1886,7 +1906,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/next-steps?u=76281980)

@@ -60,20 +60,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Cloud Computing Basics]]** (5 videos)
-- **[[#2. Cloud Computing Deployment Models]]** (5 videos)
-- **[[#3. Cloud Computing Services]]** (5 videos)
-- **[[#4. Case Studies: Select the Right Cloud Type, Service, and Deployment]]** (4 videos)
-- **[[#5. Cloud Security]]** (4 videos)
-- **[[#6. Cloud Operations]]** (3 videos)
-- **[[#7. Cloud FinOps]]** (4 videos)
-- **[[#8. Cloud Computing Migration Planning: Key Considerations]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Change your career with cloud computing
+- [**1. Cloud Computing Basics**](#1-cloud-computing-basics) (5 videos)
+  - Overview of cloud computing
+  - Types of clouds
+  - IaaS clouds
+  - SaaS clouds
+  - PaaS clouds
+- [**2. Cloud Computing Deployment Models**](#2-cloud-computing-deployment-models) (5 videos)
+  - Types of cloud deployments
+  - Understanding private clouds
+  - Understanding public clouds
+  - Understanding hybrid clouds
+  - Understanding multiclouds
+- [**3. Cloud Computing Services**](#3-cloud-computing-services) (5 videos)
+  - Cloud computing storage
+  - Cloud computing compute
+  - Cloud computing databases
+  - Cloud computing AI
+  - Other services to consider
+- [**4. Case Studies: Select the Right Cloud Type, Service, and Deployment**](#4-case-studies-select-the-right-cloud-type-service-and-deployment) (4 videos)
+  - Keep data storage on-premises
+  - Leverage compute and storage at scale
+  - Leverage more than one cloud provider to solve a problem
+  - Mix on-premises with public cloud databases and compute services
+- [**5. Cloud Security**](#5-cloud-security) (4 videos)
+  - Cloud security planning
+  - Cloud security requirements
+  - Selecting cloud security technology
+  - Security implementation and operations
+- [**6. Cloud Operations**](#6-cloud-operations) (3 videos)
+  - Cloud operations overview
+  - Cloud operations technology and toolsets
+  - Cloud monitoring and management
+- [**7. Cloud FinOps**](#7-cloud-finops) (4 videos)
+  - What's FinOps?
+  - Cloud cost accountability
+  - Cloud cost observability
+  - Cloud cost governance
+- [**8. Cloud Computing Migration Planning: Key Considerations**](#8-cloud-computing-migration-planning-key-considerations) (8 videos)
+  - Identify which apps to move
+  - Identify which data to move
+  - Understand total cost of ownership (TCO)
+  - Cloud migration planning
+  - Selecting cloud types
+  - Selecting cloud deployment models
+  - Security planning
+  - Skills needed
+- [**Conclusion**](#conclusion) (1 videos)
+  - Cloud news and resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change your career with cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/change-your-career-with-cloud-computing?u=76281980)
@@ -98,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Cloud Computing Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/overview-of-cloud-computing?u=76281980)
@@ -384,7 +424,7 @@ created: 2026-04-29
 
 ### 2. Cloud Computing Deployment Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of cloud deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/types-of-cloud-deployments?u=76281980)
@@ -659,7 +699,7 @@ created: 2026-04-29
 
 ### 3. Cloud Computing Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud computing storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-computing-storage?u=76281980)
@@ -850,7 +890,7 @@ created: 2026-04-29
 
 ### 4. Case Studies: Select the Right Cloud Type, Service, and Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep data storage on-premises
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/keep-data-storage-on-premises?u=76281980)
@@ -970,7 +1010,7 @@ created: 2026-04-29
 
 ### 5. Cloud Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud security planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-security-planning?u=76281980)
@@ -1254,7 +1294,7 @@ created: 2026-04-29
 
 ### 6. Cloud Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud operations overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-operations-overview?u=76281980)
@@ -1439,7 +1479,7 @@ created: 2026-04-29
 
 ### 7. Cloud FinOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's FinOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/what-s-finops?u=76281980)
@@ -1575,7 +1615,7 @@ created: 2026-04-29
 
 ### 8. Cloud Computing Migration Planning: Key Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify which apps to move
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/identify-which-apps-to-move?u=76281980)
@@ -2008,7 +2048,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud news and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-core-concepts/cloud-news-and-resources?u=76281980)

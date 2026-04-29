@@ -48,15 +48,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Operational Excellence?]]** (1 videos)
-- **[[#2. Key Concepts and Tools]]** (10 videos)
-- **[[#3. Implementing Operational Excellence]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to operational excellence
+- [**1. What Is Operational Excellence?**](#1-what-is-operational-excellence) (1 videos)
+  - What is operational excellence?
+- [**2. Key Concepts and Tools**](#2-key-concepts-and-tools) (10 videos)
+  - Process stakeholders and SIPOC
+  - Voice of the customer, CTQs, and metrics
+  - Kano model and Its Implications
+  - Variation
+  - Quality at the source
+  - Error-proofing or poka-yoke
+  - Lean principles
+  - Process mapping
+  - FMEA: Failure modes and effects analysis
+  - Process control and the control plan
+- [**3. Implementing Operational Excellence**](#3-implementing-operational-excellence) (10 videos)
+  - Key roles in operational excellence
+  - Alignment for operational excellence
+  - Choose the right methodology
+  - Process or value stream management
+  - Lean event, Kaizen, or workout
+  - Six Sigma DMAIC
+  - DMADV: Design for Six Sigma
+  - Implementation challenges
+  - Audits to sustain operational excellence
+  - Leveraging AI to drive operational excellence
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to operational excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/welcome-to-operational-excellence?u=76281980)
@@ -101,7 +124,7 @@ created: 2026-04-29
 
 ### 1. What Is Operational Excellence?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is operational excellence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/what-is-operational-excellence?u=76281980)
@@ -220,7 +243,7 @@ created: 2026-04-29
 
 ### 2. Key Concepts and Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Process stakeholders and SIPOC
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/process-stakeholders-and-sipoc?u=76281980)
@@ -1108,7 +1131,7 @@ created: 2026-04-29
 
 ### 3. Implementing Operational Excellence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key roles in operational excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/key-roles-in-operational-excellence?u=76281980)
@@ -2141,7 +2164,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/operational-excellence-foundations/next-steps?u=76281980)

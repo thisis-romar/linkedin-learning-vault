@@ -48,15 +48,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Filters]]** (3 videos)
-- **[[#2. Epics]]** (3 videos)
-- **[[#3. Dashboards]]** (2 videos)
-- **[[#4. Putting It All Together]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course overview
+- [**1. Filters**](#1-filters) (3 videos)
+  - Filters
+  - Lab: Cloud company-managed
+  - Lab: Cloud team-managed
+- [**2. Epics**](#2-epics) (3 videos)
+  - Epics
+  - Lab: Cloud company-managed
+  - Lab: Cloud team-managed
+- [**3. Dashboards**](#3-dashboards) (2 videos)
+  - Dashboards
+  - Lab: Cloud
+- [**4. Putting It All Together**](#4-putting-it-all-together) (3 videos)
+  - Putting it all together
+  - Lab: Cloud company-managed
+  - Lab: Cloud team-managed
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/course-overview?u=76281980)
@@ -112,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Filters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/filters?u=76281980)
@@ -440,7 +452,7 @@ created: 2026-04-29
 
 ### 2. Epics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Epics
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/epics?u=76281980)
@@ -836,7 +848,7 @@ created: 2026-04-29
 
 ### 3. Dashboards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/dashboards?u=76281980)
@@ -990,7 +1002,7 @@ created: 2026-04-29
 
 ### 4. Putting It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-project-management-with-jira-cloud-3-advanced-topics/putting-it-all-together?u=76281980)

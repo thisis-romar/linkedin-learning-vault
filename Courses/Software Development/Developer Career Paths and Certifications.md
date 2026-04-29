@@ -51,17 +51,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Planning to Be a Developer]]** (4 videos)
-- **[[#2. Education]]** (5 videos)
-- **[[#3. Finding a Job]]** (4 videos)
-- **[[#4. The Application Process]]** (4 videos)
-- **[[#5. Negotiating Compensation]]** (3 videos)
-- **[[#6. Getting the Job]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - So, you want to be a developer?
+- [**1. Planning to Be a Developer**](#1-planning-to-be-a-developer) (4 videos)
+  - What types of developers are there?
+  - Which developer type should you pick?
+  - What is a typical career path?
+  - How much will you make?
+- [**2. Education**](#2-education) (5 videos)
+  - Do you need a college degree?
+  - What should your education plan include?
+  - Can you switch from a different career?
+  - How do you choose what to learn?
+  - Are certifications required?
+- [**3. Finding a Job**](#3-finding-a-job) (4 videos)
+  - How do developers find jobs?
+  - Should you use a recruiter?
+  - What should your resume/profile include?
+  - What do you need besides a resume/profile?
+- [**4. The Application Process**](#4-the-application-process) (4 videos)
+  - Submitting an application
+  - The phone interview
+  - How do you prepare for coding challenges?
+  - The best interview questions
+- [**5. Negotiating Compensation**](#5-negotiating-compensation) (3 videos)
+  - How do you know what you're worth?
+  - How do you negotiate your best deal?
+  - Compensation vs. salary
+- [**6. Getting the Job**](#6-getting-the-job) (3 videos)
+  - How do you prepare for your new job?
+  - What should you do after you get the job?
+  - How do you plan your next play?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### So, you want to be a developer?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/so-you-want-to-be-a-developer?u=76281980)
@@ -94,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Planning to Be a Developer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What types of developers are there?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/what-types-of-developers-are-there?u=76281980)
@@ -338,7 +362,7 @@ created: 2026-04-29
 
 ### 2. Education
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Do you need a college degree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/do-you-need-a-college-degree?u=76281980)
@@ -652,7 +676,7 @@ created: 2026-04-29
 
 ### 3. Finding a Job
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do developers find jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-developers-find-jobs?u=76281980)
@@ -885,7 +909,7 @@ created: 2026-04-29
 
 ### 4. The Application Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Submitting an application
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/submitting-an-application?u=76281980)
@@ -1084,7 +1108,7 @@ created: 2026-04-29
 
 ### 5. Negotiating Compensation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do you know what you're worth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-know-what-you-re-worth?u=76281980)
@@ -1247,7 +1271,7 @@ created: 2026-04-29
 
 ### 6. Getting the Job
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do you prepare for your new job?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developer-career-paths-and-certifications-2/how-do-you-prepare-for-your-new-job?u=76281980)

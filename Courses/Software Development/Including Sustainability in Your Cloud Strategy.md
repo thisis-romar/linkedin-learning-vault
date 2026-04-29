@@ -48,17 +48,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Foundations of Cloud Sustainability]]** (7 videos)
-- **[[#2. Why Are Some Technologies More Efficient Than Others?]]** (2 videos)
-- **[[#3. Carbon Measurements and Their Implications]]** (7 videos)
-- **[[#4. Energy Consumption Case Studies]]** (2 videos)
-- **[[#5. Consolidation for a Greener Future]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Do not waste water
+  - Designing for scarcity in a world of abundance
+  - The green behind the cloud
+  - The rise of carbon-aware cloud computing
+- [**1. Foundations of Cloud Sustainability**](#1-foundations-of-cloud-sustainability) (7 videos)
+  - Factors affecting carbon consumption in the cloud
+  - Understanding types of emissions
+  - Impact of CPU utilization on carbon consumption
+  - Power usage effectiveness
+  - Cloud shared responsibility models
+  - To autoscale or not to autoscale
+  - Sustainable FinOps: Managing costs and carbon together
+- [**2. Why Are Some Technologies More Efficient Than Others?**](#2-why-are-some-technologies-more-efficient-than-others) (2 videos)
+  - Measuring parallel efficiency of cloud systems
+  - The role of AI: Efficiency vs. carbon cost
+- [**3. Carbon Measurements and Their Implications**](#3-carbon-measurements-and-their-implications) (7 videos)
+  - Carbon tax rates and carbon intensity
+  - CSP sustainability calculators
+  - Using golden coefficients for carbon estimation
+  - Evolving carbon measurement tools in the cloud
+  - Cloud sustainability regulations: What businesses need to know
+  - Compliance challenges: Aligning cloud strategy with sustainability laws
+  - Cloud hardware innovations
+- [**4. Energy Consumption Case Studies**](#4-energy-consumption-case-studies) (2 videos)
+  - Energy consumption, case study 1
+  - Energy consumption, case study 2
+- [**5. Consolidation for a Greener Future**](#5-consolidation-for-a-greener-future) (1 videos)
+  - Benefits of consolidation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about sustainability
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Do not waste water
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/do-not-waste-water?u=76281980)
@@ -219,7 +243,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Cloud Sustainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Factors affecting carbon consumption in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/factors-impacting-carbon-consumption-in-the-cloud?u=76281980)
@@ -574,7 +598,7 @@ created: 2026-04-29
 
 ### 2. Why Are Some Technologies More Efficient Than Others?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring parallel efficiency of cloud systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/measuring-parallel-efficiency-of-the-cloud-systems?u=76281980)
@@ -690,7 +714,7 @@ created: 2026-04-29
 
 ### 3. Carbon Measurements and Their Implications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Carbon tax rates and carbon intensity
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/carbon-tax-rates-and-carbon-intensity?u=76281980)
@@ -999,7 +1023,7 @@ created: 2026-04-29
 
 ### 4. Energy Consumption Case Studies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Energy consumption, case study 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/energy-consumption-case-study-1?u=76281980)
@@ -1084,7 +1108,7 @@ created: 2026-04-29
 
 ### 5. Consolidation for a Greener Future
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of consolidation
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/benefits-of-consolidation?u=76281980)
@@ -1127,7 +1151,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/including-sustainability-in-your-cloud-strategy-27157726/learning-more-about-sustainability?u=76281980)

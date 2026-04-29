@@ -47,16 +47,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Neo4j Fundamentals]]** (5 videos)
-- **[[#2. Environment Setup]]** (4 videos)
-- **[[#3. Writing Data]]** (6 videos)
-- **[[#4. Query Data]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Course introduction and goals
+  - What you should know
+  - Real-world graph database use cases
+- [**1. Neo4j Fundamentals**](#1-neo4j-fundamentals) (5 videos)
+  - Neo4j fundamental terminology
+  - CRUD and ACID properties of graph databases
+  - Graph database vs. relational database design
+  - Neo4j query language explained
+  - Neo4j deployment and scaling explained
+- [**2. Environment Setup**](#2-environment-setup) (4 videos)
+  - How to install Neo4j
+  - Neo4j user interface and CLI explained
+  - How to use Python to work with Neo4j
+  - Neo4j security best practices
+- [**3. Writing Data**](#3-writing-data) (6 videos)
+  - The data set explained and goals
+  - Modeling data as a relational database
+  - Modeling the Neo4j database
+  - How to bulk import CSV data into Neo4j
+  - How to bulk import relational CSV data into Neo4j
+  - How to write transactions to Neo4j with Python
+- [**4. Query Data**](#4-query-data) (3 videos)
+  - How to explore Neo4j data with the user interface
+  - How to query Neo4j database with Python
+  - Neo4j query optimization
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980)
@@ -258,7 +280,7 @@ created: 2026-04-29
 
 ### 1. Neo4j Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Neo4j fundamental terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980)
@@ -673,7 +695,7 @@ created: 2026-04-29
 
 ### 2. Environment Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to install Neo4j
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980)
@@ -1084,7 +1106,7 @@ created: 2026-04-29
 
 ### 3. Writing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The data set explained and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/the-data-set-explained-and-goals?u=76281980)
@@ -1692,7 +1714,7 @@ created: 2026-04-29
 
 ### 4. Query Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to explore Neo4j data with the user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980)
@@ -2032,7 +2054,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980)

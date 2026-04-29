@@ -56,12 +56,18 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Advanced Data Analysis]]** (5 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why Project Gemini is important
+- [**1. Advanced Data Analysis**](#1-advanced-data-analysis) (5 videos)
+  - What is multimodal prompting?
+  - Exploring Gemini's roadmap
+  - Testing Google Gemini in Google Bard
+  - The multimodal model in action
+  - Building applications with Gemini
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Project Gemini is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/why-project-gemini-is-important?u=76281980)
@@ -89,7 +95,7 @@ created: 2026-04-29
 
 ### 1. Advanced Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is multimodal prompting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/multimodal-prompting-with-google-s-project-gemini/what-is-multimodal-prompting?u=76281980)

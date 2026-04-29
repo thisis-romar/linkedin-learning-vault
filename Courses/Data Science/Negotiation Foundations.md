@@ -42,18 +42,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Basics of Negotiation]]** (6 videos)
-- **[[#2. Getting Ready for a Negotiation]]** (2 videos)
-- **[[#3. Engaging Your Allies]]** (2 videos)
-- **[[#4. Getting Through and Past No]]** (3 videos)
-- **[[#5. Essential Negotiation Tips and Strategies]]** (2 videos)
-- **[[#6. Negotiating at a Distance]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Negotiate with better results
+- [**1. The Basics of Negotiation**](#1-the-basics-of-negotiation) (6 videos)
+  - Developing a negotiation mindset
+  - The three core negotiation practices
+  - Anchoring and framing for mutual benefit
+  - Listening and building tactical empathy
+  - Trading things of value
+  - The wrong and right way to negotiate
+- [**2. Getting Ready for a Negotiation**](#2-getting-ready-for-a-negotiation) (2 videos)
+  - Researching and preparing
+  - Identifying priorities and designing options
+- [**3. Engaging Your Allies**](#3-engaging-your-allies) (2 videos)
+  - Understanding how influence works
+  - Creating your influence plan
+- [**4. Getting Through and Past No**](#4-getting-through-and-past-no) (3 videos)
+  - Understanding conflict styles
+  - A template for getting past no
+  - A template for saying no
+- [**5. Essential Negotiation Tips and Strategies**](#5-essential-negotiation-tips-and-strategies) (2 videos)
+  - Dealing with contentious tactics
+  - Negotiation hacks
+- [**6. Negotiating at a Distance**](#6-negotiating-at-a-distance) (2 videos)
+  - Telephone and video conference negotiation
+  - Email and text negotiation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Deepening your knowledge
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Negotiate with better results
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/negotiate-with-better-results?u=76281980)
@@ -95,7 +114,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Negotiation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing a negotiation mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/developing-a-negotiation-mindset-18025142?u=76281980)
@@ -588,7 +607,7 @@ created: 2026-04-29
 
 ### 2. Getting Ready for a Negotiation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Researching and preparing
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/researching-and-preparing-18021308?u=76281980)
@@ -729,7 +748,7 @@ created: 2026-04-29
 
 ### 3. Engaging Your Allies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding how influence works
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/understanding-how-influence-works-18020490?u=76281980)
@@ -872,7 +891,7 @@ created: 2026-04-29
 
 ### 4. Getting Through and Past No
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding conflict styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/understanding-conflict-styles-18021307?u=76281980)
@@ -1091,7 +1110,7 @@ created: 2026-04-29
 
 ### 5. Essential Negotiation Tips and Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dealing with contentious tactics
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/dealing-with-contentious-tactics-18020492?u=76281980)
@@ -1262,7 +1281,7 @@ created: 2026-04-29
 
 ### 6. Negotiating at a Distance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Telephone and video conference negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/telephone-and-video-conference-negotiation?u=76281980)
@@ -1432,7 +1451,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deepening your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/negotiation-foundations/deepening-your-knowledge?u=76281980)

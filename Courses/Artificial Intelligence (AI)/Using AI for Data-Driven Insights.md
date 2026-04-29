@@ -48,13 +48,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. AI for Data-Driven Insights]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Overview of AI for data-driven insights
+  - How to access ChatGPT
+  - Case study setup
+  - Dataset exploration
+- [**1. AI for Data-Driven Insights**](#1-ai-for-data-driven-insights) (10 videos)
+  - Identify key business questions with ChatGPT for data-driven decisions
+  - Cleaning and preprocessing data with ChatGPT for analysis
+  - Uncovering trends through exploratory data analysis with ChatGPT
+  - Customer segmentation with ChatGPT for targeted marketing
+  - Forecasting future sales with ChatGPT for accurate predictions
+  - Optimizing inventory management through predictive analytics with ChatGPT
+  - Optimizing pricing strategies with ChatGPT for maximum profitability
+  - Making strategic decisions with ChatGPT using a decision tree
+  - Risk assessment and mitigation with ChatGPT in business
+  - Creating AI-powered reports and presentations with ChatGPT
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in leveraging AI for data-driven business growth
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AI for data-driven insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980)
@@ -273,7 +288,7 @@ created: 2026-04-29
 
 ### 1. AI for Data-Driven Insights
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify key business questions with ChatGPT for data-driven decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980)
@@ -1199,7 +1214,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in leveraging AI for data-driven business growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980)

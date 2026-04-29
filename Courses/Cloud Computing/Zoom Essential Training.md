@@ -43,20 +43,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started]]** (4 videos)
-- **[[#2. Hosting and Attending Meetings]]** (8 videos)
-- **[[#3. Scheduling Meetings and Co-host Options]]** (2 videos)
-- **[[#4. Collaborating in Meetings]]** (3 videos)
-- **[[#5. Using Zoom Chat]]** (3 videos)
-- **[[#6. Ensuring Inclusion in a Hybrid Work Environment]]** (3 videos)
-- **[[#7. Accessibility]]** (3 videos)
-- **[[#8. Zoom on Mobile Devices]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Stay connected with Zoom meetings
+- [**1. Getting Started**](#1-getting-started) (4 videos)
+  - Access your account from the web
+  - Download the desktop app
+  - Check your video and audio settings
+  - Explore virtual backgrounds and filters
+- [**2. Hosting and Attending Meetings**](#2-hosting-and-attending-meetings) (8 videos)
+  - Start a meeting
+  - Join a meeting from your Zoom account
+  - Join a meeting as a guest
+  - Options during a meeting
+  - Secure your meeting with a Waiting Room
+  - Share your screen and control screens
+  - Other sharing options
+  - Record and review meetings
+- [**3. Scheduling Meetings and Co-host Options**](#3-scheduling-meetings-and-co-host-options) (2 videos)
+  - Schedule a meeting
+  - Set co-host options
+- [**4. Collaborating in Meetings**](#4-collaborating-in-meetings) (3 videos)
+  - Use non-verbal feedback
+  - Poll your attendees
+  - Create and use breakout rooms
+- [**5. Using Zoom Chat**](#5-using-zoom-chat) (3 videos)
+  - Chat outside of meetings
+  - Add attachments
+  - Organize chats
+- [**6. Ensuring Inclusion in a Hybrid Work Environment**](#6-ensuring-inclusion-in-a-hybrid-work-environment) (3 videos)
+  - The importance of fostering inclusion
+  - Helping remote employees feel seen and heard
+  - Zoom-based icebreakers
+- [**7. Accessibility**](#7-accessibility) (3 videos)
+  - Enable live transcriptions
+  - Multi-spotlight and multi-pinning
+  - Accessibility settings
+- [**8. Zoom on Mobile Devices**](#8-zoom-on-mobile-devices) (1 videos)
+  - Zoom meetings on mobile devices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Keep learning about Zoom
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay connected with Zoom meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/stay-connected-with-zoom-meetings?u=76281980)
@@ -78,7 +107,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Access your account from the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/access-your-account-from-the-web?u=76281980)
@@ -352,7 +381,7 @@ created: 2026-04-29
 
 ### 2. Hosting and Attending Meetings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start a meeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/start-a-meeting?u=76281980)
@@ -1335,7 +1364,7 @@ created: 2026-04-29
 
 ### 3. Scheduling Meetings and Co-host Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Schedule a meeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/schedule-a-meeting?u=76281980)
@@ -1559,7 +1588,7 @@ created: 2026-04-29
 
 ### 4. Collaborating in Meetings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use non-verbal feedback
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/use-non-verbal-feedback?u=76281980)
@@ -1921,7 +1950,7 @@ created: 2026-04-29
 
 ### 5. Using Zoom Chat
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Chat outside of meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/chat-outside-of-meetings?u=76281980)
@@ -2170,7 +2199,7 @@ created: 2026-04-29
 
 ### 6. Ensuring Inclusion in a Hybrid Work Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of fostering inclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/the-importance-of-fostering-inclusion?u=76281980)
@@ -2322,7 +2351,7 @@ created: 2026-04-29
 
 ### 7. Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable live transcriptions
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/enable-live-transcriptions?u=76281980)
@@ -2579,7 +2608,7 @@ created: 2026-04-29
 
 ### 8. Zoom on Mobile Devices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Zoom meetings on mobile devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/zoom-meetings-on-mobile-devices?u=76281980)
@@ -2642,7 +2671,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep learning about Zoom
 > [LinkedIn Learning](https://www.linkedin.com/learning/zoom-essential-training-22160448/keep-learning-about-zoom?u=76281980)

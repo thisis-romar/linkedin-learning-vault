@@ -54,16 +54,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Microsoft Entra ID Authentication]]** (5 videos)
-- **[[#2. Microsoft Entra Authorization]]** (4 videos)
-- **[[#3. Microsoft Entra Application Identity Security]]** (3 videos)
-- **[[#4. Microsoft Azure Governance]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Security and identity management with Microsoft Entra
+- [**1. Microsoft Entra ID Authentication**](#1-microsoft-entra-id-authentication) (5 videos)
+  - Understanding Microsoft Entra ID authentication
+  - Understanding Microsoft Entra ID authentication options
+  - Microsoft Entra ID security solutions
+  - Recommending a multifactor authentication (MFA) solution in Microsoft Entra
+  - Microsoft Entra authentication for a hybrid environment
+- [**2. Microsoft Entra Authorization**](#2-microsoft-entra-authorization) (4 videos)
+  - Understanding Microsoft Entra ID authorization
+  - Understanding the Microsoft hierarchical structure
+  - Developing identity solutions with RBACs
+  - Microsoft Entra Privileged Identity Management
+- [**3. Microsoft Entra Application Identity Security**](#3-microsoft-entra-application-identity-security) (3 videos)
+  - Recommending an Azure application identity security solution
+  - Using Microsoft Entra managed identities
+  - Using external identities in Microsoft Entra
+- [**4. Microsoft Azure Governance**](#4-microsoft-azure-governance) (5 videos)
+  - Understanding Entra identity governance: Entitlement management
+  - Understanding Entra identity governance: Lifecycle workflows
+  - Understanding Entra identity governance: Monitoring and auditing
+  - Microsoft Entra best practices
+  - Solution: Creating Entra lifecycle workflows
+- [**Conclusion**](#conclusion) (1 videos)
+  - Making a more efficient organization
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security and identity management with Microsoft Entra
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/security-and-identity-management-with-microsoft-entra?u=76281980)
@@ -95,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Microsoft Entra ID Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Microsoft Entra ID authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authentication?u=76281980)
@@ -812,7 +831,7 @@ created: 2026-04-29
 
 ### 2. Microsoft Entra Authorization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Microsoft Entra ID authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-microsoft-entra-id-authorization?u=76281980)
@@ -1242,7 +1261,7 @@ created: 2026-04-29
 
 ### 3. Microsoft Entra Application Identity Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recommending an Azure application identity security solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/recomending-an-azure-application-identity-security-solution?u=76281980)
@@ -1512,7 +1531,7 @@ created: 2026-04-29
 
 ### 4. Microsoft Azure Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Entra identity governance: Entitlement management
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/understanding-entra-identity-governance-entitlement-management?u=76281980)
@@ -2027,7 +2046,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making a more efficient organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-for-architects-security-and-identity-management-with-microsoft-entra/making-a-more-efficient-organization?u=76281980)

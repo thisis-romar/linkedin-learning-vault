@@ -50,18 +50,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Test Case Management]]** (9 videos)
-- **[[#2. Understanding Attacks]]** (10 videos)
-- **[[#3. Responsible and Secure AI Model Testing]]** (10 videos)
-- **[[#4. Red Teaming]]** (3 videos)
-- **[[#5. Operational Testing]]** (4 videos)
-- **[[#Access Control]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Ensuring safe and responsible use of AI
+  - What you should know
+  - Disclaimer
+- [**1. Test Case Management**](#1-test-case-management) (9 videos)
+  - Introduction to AI security
+  - Security testing for AI applications
+  - Setting up a testing lab
+  - Introduction to HuggingFace
+  - Managing local models with ollama
+  - Test case management with KiwiTCMS
+  - Security testing with KiwiTCMS
+  - Understanding AI threats
+  - Testing requirements in AI standards
+- [**2. Understanding Attacks**](#2-understanding-attacks) (10 videos)
+  - Installing the vulnerable LLM application
+  - Testing for prompt injection
+  - Challenges with agentic code
+  - Injecting thoughts
+  - Solving the LOTR challenge
+  - Breaking the rules
+  - Predicting secrets
+  - Getting a shell
+  - Compromise during download
+  - The ART of AI testing
+- [**3. Responsible and Secure AI Model Testing**](#3-responsible-and-secure-ai-model-testing) (10 videos)
+  - AI testing tools
+  - Introduction to DeepEval
+  - Testing for relevance
+  - Testing for toxicity
+  - Vulnerability scanning with garak
+  - Scanning pickle files
+  - All along the watchtower
+  - Advanced scanning for malicious models
+  - Guardrail models
+  - Hallucinations with lettuce
+- [**4. Red Teaming**](#4-red-teaming) (3 videos)
+  - What is AI red teaming?
+  - Preparing the target
+  - Red teaming our AI appliance
+- [**5. Operational Testing**](#5-operational-testing) (4 videos)
+  - AI guardrails
+  - Running the LLM-guard
+  - Hidden layers of AI
+  - Testing the EnkryptAI guardrail
+- [**Access Control**](#access-control) (3 videos)
+  - Preparing to control access
+  - Creating the access control model
+  - Access control in action
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensuring safe and responsible use of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ensuring-safe-and-responible-use-of-ai?u=76281980)
@@ -127,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Test Case Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/introduction-to-ai-security?u=76281980)
@@ -928,7 +971,7 @@ created: 2026-04-29
 
 ### 2. Understanding Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing the vulnerable LLM application
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/installing-the-vulnerable-llm-application?u=76281980)
@@ -1681,7 +1724,7 @@ created: 2026-04-29
 
 ### 3. Responsible and Secure AI Model Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI testing tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ai-testing-tools?u=76281980)
@@ -2266,7 +2309,7 @@ created: 2026-04-29
 
 ### 4. Red Teaming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AI red teaming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/what-is-ai-red-teaming?u=76281980)
@@ -2470,7 +2513,7 @@ created: 2026-04-29
 
 ### 5. Operational Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI guardrails
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/ai-guardrails?u=76281980)
@@ -2720,7 +2763,7 @@ created: 2026-04-29
 
 ### Access Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing to control access
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/preparing-to-control-access?u=76281980)
@@ -2955,7 +2998,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-testing-validation-and-maintenance/what-s-next?u=76281980)

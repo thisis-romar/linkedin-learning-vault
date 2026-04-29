@@ -47,19 +47,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Design Your Slides]]** (10 videos)
-- **[[#2. Audio and Video]]** (2 videos)
-- **[[#3. Sharing and Coediting]]** (4 videos)
-- **[[#4. Viewing and Printing]]** (7 videos)
-- **[[#5. Uploading and Saving to Cloud Libraries]]** (3 videos)
-- **[[#6. PowerPoint Help]]** (2 videos)
-- **[[#7. Working with the Mobile App]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting to know PowerPoint for the web
+  - How to use the exercise files
+- [**1. Design Your Slides**](#1-design-your-slides) (10 videos)
+  - Create a new presentation in OneDrive
+  - Design slides with the Agenda feature
+  - Work with slide layouts
+  - Insert and update images
+  - Create SmartArt graphics
+  - Apply transitions and animations
+  - Apply a theme to slides
+  - Draw with digital ink on a slide
+  - Duplicate, delete, and hide slides
+  - Switch to the desktop app
+- [**2. Audio and Video**](#2-audio-and-video) (2 videos)
+  - Dictate slide content
+  - Insert a video
+- [**3. Sharing and Coediting**](#3-sharing-and-coediting) (4 videos)
+  - Share a presentation
+  - Share a link to a slide
+  - Coauthor a presentation
+  - Manage version history
+- [**4. Viewing and Printing**](#4-viewing-and-printing) (7 videos)
+  - Add and view slide notes
+  - Print a presentation
+  - Download a presentation
+  - Work with slide views
+  - Enable subtitles in a slide show
+  - Present with Present Live
+  - Present in a Microsoft Teams meeting
+- [**5. Uploading and Saving to Cloud Libraries**](#5-uploading-and-saving-to-cloud-libraries) (3 videos)
+  - Upload a presentation to OneDrive
+  - Create or upload a presentation in Microsoft Teams
+  - Reuse slides from another presentation
+- [**6. PowerPoint Help**](#6-powerpoint-help) (2 videos)
+  - Get assistance with Search
+  - Practice your presentation skills with Presenter Coach
+- [**7. Working with the Mobile App**](#7-working-with-the-mobile-app) (1 videos)
+  - Work with the iOS PowerPoint app
+- [**Conclusion**](#conclusion) (1 videos)
+  - Create more with PowerPoint for the web
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting to know PowerPoint for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/getting-to-know-powerpoint-for-the-web?u=76281980)
@@ -120,7 +152,7 @@ created: 2026-04-29
 
 ### 1. Design Your Slides
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new presentation in OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-a-new-presentation-in-onedrive?u=76281980)
@@ -1040,7 +1072,7 @@ created: 2026-04-29
 
 ### 2. Audio and Video
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dictate slide content
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/dictate-slide-content?u=76281980)
@@ -1226,7 +1258,7 @@ created: 2026-04-29
 
 ### 3. Sharing and Coediting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Share a presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/share-a-presentation?u=76281980)
@@ -1526,7 +1558,7 @@ created: 2026-04-29
 
 ### 4. Viewing and Printing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add and view slide notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/add-and-view-slide-notes?u=76281980)
@@ -2143,7 +2175,7 @@ created: 2026-04-29
 
 ### 5. Uploading and Saving to Cloud Libraries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Upload a presentation to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/upload-a-presentation-to-onedrive?u=76281980)
@@ -2353,7 +2385,7 @@ created: 2026-04-29
 
 ### 6. PowerPoint Help
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get assistance with Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/get-assistance-with-search?u=76281980)
@@ -2555,7 +2587,7 @@ created: 2026-04-29
 
 ### 7. Working with the Mobile App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with the iOS PowerPoint app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/work-with-the-ios-powerpoint-app?u=76281980)
@@ -2650,7 +2682,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create more with PowerPoint for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-online-microsoft-365/create-more-with-powerpoint-for-the-web?u=76281980)

@@ -52,11 +52,15 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Building Your First Ethereum App]]** (4 videos)
+- [**1. Building Your First Ethereum App**](#1-building-your-first-ethereum-app) (4 videos)
+  - Preparing your first Truffle project
+  - Writing a simple smart contract
+  - Compiling your simple smart contract
+  - Deploying code and invoking functions
 
 ### 1. Building Your First Ethereum App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing your first Truffle project
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-6-building-your-first-ethereum-app/preparing-your-first-truffle-project?u=76281980)

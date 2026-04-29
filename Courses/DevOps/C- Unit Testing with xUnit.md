@@ -53,15 +53,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. TDD Testing with xUnit]]** (3 videos)
-- **[[#2. Writing and Running Unit Tests]]** (4 videos)
-- **[[#3. Building a Simple Calculator]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with xUnit
+  - What you should know
+- [**1. TDD Testing with xUnit**](#1-tdd-testing-with-xunit) (3 videos)
+  - Using xUnit for testing
+  - The TDD cycle
+  - Installing xUnit
+- [**2. Writing and Running Unit Tests**](#2-writing-and-running-unit-tests) (4 videos)
+  - Writing your first unit test with xUnit
+  - Asserting with xUnit
+  - Understanding the core unit testing workflow
+  - Expanding your xUnit toolkit
+- [**3. Building a Simple Calculator**](#3-building-a-simple-calculator) (4 videos)
+  - Creating addition and subtraction logic
+  - Using assertions and refactoring
+  - Creating a history functionality
+  - Parsing a math equation string
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with xUnit
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/getting-started-with-xunit?u=76281980)
@@ -109,7 +123,7 @@ created: 2026-04-29
 
 ### 1. TDD Testing with xUnit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using xUnit for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/using-xunit-for-testing?u=76281980)
@@ -314,7 +328,7 @@ created: 2026-04-29
 
 ### 2. Writing and Running Unit Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing your first unit test with xUnit
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/writing-your-first-unit-test-with-xunit?u=76281980)
@@ -646,7 +660,7 @@ created: 2026-04-29
 
 ### 3. Building a Simple Calculator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating addition and subtraction logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/creating-addition-and-subtraction-logic?u=76281980)
@@ -1114,7 +1128,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-unit-testing-with-xunit/next-steps?u=76281980)

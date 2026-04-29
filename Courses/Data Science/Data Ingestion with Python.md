@@ -49,20 +49,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Data Ingestion Overview]]** (5 videos)
-- **[[#2. Reading Files]]** (6 videos)
-- **[[#3. Calling APIs]]** (4 videos)
-- **[[#4. Web Scraping]]** (6 videos)
-- **[[#5. Schema]]** (5 videos)
-- **[[#6. Working with Databases]]** (7 videos)
-- **[[#7. Troubleshooting Data]]** (6 videos)
-- **[[#8. Data KPIs and Process]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Why is data ingestion important?
+  - What you should know
+  - Using the exercise files
+  - Using the Coderpad quizzes
+- [**1. Data Ingestion Overview**](#1-data-ingestion-overview) (5 videos)
+  - Overview of data scientists work
+  - Where does data come from?
+  - Different types of data
+  - The data pipeline (ETL)
+  - Final destination (data lake)
+- [**2. Reading Files**](#2-reading-files) (6 videos)
+  - Working in CSV
+  - Working in XML
+  - Working in Parquet, Avro, and ORC
+  - Unstructured text
+  - JSON
+  - Solution: CSV to JSON
+- [**3. Calling APIs**](#3-calling-apis) (4 videos)
+  - Working with JSON
+  - Making HTTP calls
+  - Processing event-based data
+  - Solution: Location from IP
+- [**4. Web Scraping**](#4-web-scraping) (6 videos)
+  - Try to find an API
+  - Working with Beautiful Soup
+  - Working with Scrapy
+  - Working with Selenium
+  - Other considerations
+  - Solution: Get stock information from HTML
+- [**5. Schema**](#5-schema) (5 videos)
+  - What are schemas?
+  - Working with ontologies
+  - What should be in schema
+  - Schema changes
+  - Schema validations
+- [**6. Working with Databases**](#6-working-with-databases) (7 videos)
+  - Types of databases
+  - Hosted and cost of ops
+  - Working with relational databases
+  - Working with key or value databases
+  - Working with document databases
+  - Working with graph databases
+  - Solution: ETL
+- [**7. Troubleshooting Data**](#7-troubleshooting-data) (6 videos)
+  - Data is never 100% okay
+  - Causes of errors
+  - Filling missing values
+  - Finding outliers (manual)
+  - Finding outliers (ML)
+  - Solution: Clean rides dataset
+- [**8. Data KPIs and Process**](#8-data-kpis-and-process) (3 videos)
+  - Design your data
+  - KPIs
+  - What to monitor?
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is data ingestion important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980)
@@ -146,7 +193,7 @@ created: 2026-04-29
 
 ### 1. Data Ingestion Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data scientists work
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980)
@@ -338,7 +385,7 @@ created: 2026-04-29
 
 ### 2. Reading Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working in CSV
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980)
@@ -710,7 +757,7 @@ created: 2026-04-29
 
 ### 3. Calling APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with JSON
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980)
@@ -906,7 +953,7 @@ created: 2026-04-29
 
 ### 4. Web Scraping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Try to find an API
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980)
@@ -1163,7 +1210,7 @@ created: 2026-04-29
 
 ### 5. Schema
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are schemas?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980)
@@ -1409,7 +1456,7 @@ created: 2026-04-29
 
 ### 6. Working with Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980)
@@ -1780,7 +1827,7 @@ created: 2026-04-29
 
 ### 7. Troubleshooting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data is never 100% okay
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980)
@@ -2085,7 +2132,7 @@ created: 2026-04-29
 
 ### 8. Data KPIs and Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/design-your-data?u=76281980)
@@ -2231,7 +2278,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980)

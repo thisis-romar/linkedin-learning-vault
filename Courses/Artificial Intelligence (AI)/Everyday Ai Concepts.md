@@ -58,16 +58,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Machine Learning]]** (2 videos)
-- **[[#2. Predictive Artificial Intelligence]]** (5 videos)
-- **[[#3. Generative Artificial Intelligence]]** (4 videos)
-- **[[#4. Legal and Ethical Issues]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - What is artificial intelligence?
+- [**1. Machine Learning**](#1-machine-learning) (2 videos)
+  - A machine that learns by doing (and redoing)
+  - Scale up and learn from massive datasets
+- [**2. Predictive Artificial Intelligence**](#2-predictive-artificial-intelligence) (5 videos)
+  - Accurately predict what someone will do
+  - Create a data model of what you've learned
+  - Train the system on what you know
+  - Let the machine discover what you don't know
+  - Give the machine an incentive to be right
+- [**3. Generative Artificial Intelligence**](#3-generative-artificial-intelligence) (4 videos)
+  - Build a system that generates something new
+  - Create a foundation model of everything
+  - Let the machine learn without you
+  - Learn to get the most from the system
+- [**4. Legal and Ethical Issues**](#4-legal-and-ethical-issues) (3 videos)
+  - Who owns what the machine learned?
+  - Can a machine make consequential decisions?
+  - Can you teach the system values?
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in AI concepts
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is artificial intelligence?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/what-is-artificial-intelligence?u=76281980)
@@ -100,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A machine that learns by doing (and redoing)
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/a-machine-that-learns-by-doing-and-redoing?u=76281980)
@@ -290,7 +306,7 @@ created: 2026-04-29
 
 ### 2. Predictive Artificial Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accurately predict what someone will do
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/accurately-predict-what-someone-will-do?u=76281980)
@@ -759,7 +775,7 @@ created: 2026-04-29
 
 ### 3. Generative Artificial Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a system that generates something new
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/build-a-system-that-generates-something-new?u=76281980)
@@ -1105,7 +1121,7 @@ created: 2026-04-29
 
 ### 4. Legal and Ethical Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Who owns what the machine learned?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/who-owns-what-the-machine-learned?u=76281980)
@@ -1387,7 +1403,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in AI concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-concepts/next-steps-in-ai-concepts?u=76281980)

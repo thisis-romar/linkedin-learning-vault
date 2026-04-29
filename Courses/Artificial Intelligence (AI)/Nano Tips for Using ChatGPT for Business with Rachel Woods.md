@@ -44,11 +44,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Using GPT in Business]]** (10 videos)
+- [**1. Using GPT in Business**](#1-using-gpt-in-business) (10 videos)
+  - Understanding generative AI
+  - ChatGPT and GPT explained
+  - Introduction to prompting
+  - Few-shot learning for better generations
+  - Fine-tuning GPT for your use case
+  - Using AI in your organization
+  - Keeping people in the process
+  - Why AI is allowed to lie
+  - Data privacy and ownership considerations
+  - Common business applications
 
 ### 1. Using GPT in Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980)

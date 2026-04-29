@@ -48,18 +48,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Working with Playbooks]]** (9 videos)
-- **[[#2. Creating Reusable Playbooks]]** (5 videos)
-- **[[#3. Using Variables]]** (4 videos)
-- **[[#4. Using Flow Control]]** (6 videos)
-- **[[#5. Grouping Content]]** (3 videos)
-- **[[#6. Using Ansible to Deploy Files]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Introduction
+  - What you should know
+  - About the EX294 exam
+  - Reconfigure-Migrate CentOS
+- [**1. Working with Playbooks**](#1-working-with-playbooks) (9 videos)
+  - Introduction to playbooks
+  - Playbook language
+  - YAML tips and tricks
+  - Install the Atom editor
+  - Configure VIM for YAML
+  - Playbook hosts and users
+  - Playbook tasks list
+  - Playbook change handlers
+  - Verify Playbooks
+- [**2. Creating Reusable Playbooks**](#2-creating-reusable-playbooks) (5 videos)
+  - Create structured configuration
+  - About playbook roles
+  - Creating roles
+  - Static and dynamic content
+  - Using includes in Playbooks
+- [**3. Using Variables**](#3-using-variables) (4 videos)
+  - Setting inventory and playbook variables
+  - Using variables
+  - Registering variables
+  - Discovering variables from facts
+- [**4. Using Flow Control**](#4-using-flow-control) (6 videos)
+  - The when statement
+  - Looping methods in Ansible
+  - Looping with lists
+  - Looping with dictionaries
+  - Looping and conditionals
+  - Registering variables in loops
+- [**5. Grouping Content**](#5-grouping-content) (3 videos)
+  - Using blocks
+  - Block error handling
+  - Using tags
+- [**6. Using Ansible to Deploy Files**](#6-using-ansible-to-deploy-files) (3 videos)
+  - Using Jinja2 template files
+  - Using modules to manipulate files
+  - Deploying files from templates
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction?u=76281980)
@@ -383,7 +418,7 @@ created: 2026-04-29
 
 ### 1. Working with Playbooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to playbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/introduction-to-playbooks?u=76281980)
@@ -1229,7 +1264,7 @@ created: 2026-04-29
 
 ### 2. Creating Reusable Playbooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create structured configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/create-structured-configuration?u=76281980)
@@ -1780,7 +1815,7 @@ created: 2026-04-29
 
 ### 3. Using Variables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting inventory and playbook variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/setting-inventory-and-playbook-variables?u=76281980)
@@ -2217,7 +2252,7 @@ created: 2026-04-29
 
 ### 4. Using Flow Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The when statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/the-when-statement?u=76281980)
@@ -2788,7 +2823,7 @@ created: 2026-04-29
 
 ### 5. Grouping Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-blocks?u=76281980)
@@ -3067,7 +3102,7 @@ created: 2026-04-29
 
 ### 6. Using Ansible to Deploy Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Jinja2 template files
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/using-jinja2-template-files?u=76281980)
@@ -3408,7 +3443,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-2-using-ansible-playbooks/next-steps?u=76281980)

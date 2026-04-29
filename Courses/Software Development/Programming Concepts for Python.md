@@ -52,24 +52,62 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Functions]]** (5 videos)
-- **[[#2. Objects]]** (4 videos)
-- **[[#3. Class Inheritance]]** (2 videos)
-- **[[#4. Modules and Packages]]** (2 videos)
-- **[[#5. Lists and Tuples]]** (3 videos)
-- **[[#6. Queues and Stacks]]** (2 videos)
-- **[[#7. Sets]]** (3 videos)
-- **[[#8. Dictionaries]]** (3 videos)
-- **[[#9. Conditional Execution]]** (2 videos)
-- **[[#10. Loops]]** (3 videos)
-- **[[#11. Error Handling]]** (3 videos)
-- **[[#12. Polling and Event-Driven Programming]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Programming concepts with Python
+  - What you should know
+  - Using GitHub Codespaces
+- [**1. Functions**](#1-functions) (5 videos)
+  - Functions
+  - Code reuse
+  - Parameters and arguments
+  - Multiple parameters
+  - Local and global variables
+- [**2. Objects**](#2-objects) (4 videos)
+  - Objects
+  - Classes
+  - Object names
+  - Mutability
+- [**3. Class Inheritance**](#3-class-inheritance) (2 videos)
+  - Class inheritance
+  - Overriding inherited methods
+- [**4. Modules and Packages**](#4-modules-and-packages) (2 videos)
+  - Modules
+  - Packages
+- [**5. Lists and Tuples**](#5-lists-and-tuples) (3 videos)
+  - Lists
+  - Multidimensional lists
+  - Tuples
+- [**6. Queues and Stacks**](#6-queues-and-stacks) (2 videos)
+  - Queues
+  - Stacks
+- [**7. Sets**](#7-sets) (3 videos)
+  - Create and combine sets
+  - Sort sets
+  - Add and remove items from sets
+- [**8. Dictionaries**](#8-dictionaries) (3 videos)
+  - Dictionaries
+  - Add items to dictionaries
+  - Reverse lookup issues
+- [**9. Conditional Execution**](#9-conditional-execution) (2 videos)
+  - If-else statements
+  - Match statements
+- [**10. Loops**](#10-loops) (3 videos)
+  - For loops
+  - While loops
+  - Break statements
+- [**11. Error Handling**](#11-error-handling) (3 videos)
+  - Catch errors
+  - Validate input
+  - Customize errors
+- [**12. Polling and Event-Driven Programming**](#12-polling-and-event-driven-programming) (2 videos)
+  - Polling
+  - Event-driven programming
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Programming concepts with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/programming-concepts-with-python?u=76281980)
@@ -166,7 +204,7 @@ created: 2026-04-29
 
 ### 1. Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/functions?u=76281980)
@@ -765,7 +803,7 @@ created: 2026-04-29
 
 ### 2. Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/objects?u=76281980)
@@ -1282,7 +1320,7 @@ created: 2026-04-29
 
 ### 3. Class Inheritance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Class inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/class-inheritance?u=76281980)
@@ -1522,7 +1560,7 @@ created: 2026-04-29
 
 ### 4. Modules and Packages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/modules?u=76281980)
@@ -1729,7 +1767,7 @@ created: 2026-04-29
 
 ### 5. Lists and Tuples
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/lists?u=76281980)
@@ -2120,7 +2158,7 @@ created: 2026-04-29
 
 ### 6. Queues and Stacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/queues?u=76281980)
@@ -2390,7 +2428,7 @@ created: 2026-04-29
 
 ### 7. Sets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and combine sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/create-and-combine-sets?u=76281980)
@@ -2735,7 +2773,7 @@ created: 2026-04-29
 
 ### 8. Dictionaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dictionaries
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/dictionaries?u=76281980)
@@ -3047,7 +3085,7 @@ created: 2026-04-29
 
 ### 9. Conditional Execution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### If-else statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/if-else-statements?u=76281980)
@@ -3339,7 +3377,7 @@ created: 2026-04-29
 
 ### 10. Loops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### For loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/for-loops?u=76281980)
@@ -3625,7 +3663,7 @@ created: 2026-04-29
 
 ### 11. Error Handling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Catch errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/catch-errors?u=76281980)
@@ -4061,7 +4099,7 @@ created: 2026-04-29
 
 ### 12. Polling and Event-Driven Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Polling
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/polling?u=76281980)
@@ -4356,7 +4394,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-concepts-for-python/next-steps?u=76281980)

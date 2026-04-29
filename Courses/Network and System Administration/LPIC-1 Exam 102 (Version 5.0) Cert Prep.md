@@ -44,27 +44,121 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Customize and Use the Shell Environment]]** (5 videos)
-- **[[#2. Write Simple Scripts]]** (10 videos)
-- **[[#3. Install and Configure X11]]** (6 videos)
-- **[[#4. Manage User and Group Accounts]]** (7 videos)
-- **[[#5. Automate System Administration Tasks by Scheduling Jobs]]** (4 videos)
-- **[[#6. Localization and System Time]]** (7 videos)
-- **[[#7. System Logging]]** (8 videos)
-- **[[#8. Mail Transfer Agent (MTA) Basics]]** (8 videos)
-- **[[#9. Manage Printers and Printing]]** (3 videos)
-- **[[#10. Fundamentals of Internet Protocols]]** (5 videos)
-- **[[#11. Persistent Network Configuration]]** (5 videos)
-- **[[#12. Basic Network Troubleshooting]]** (4 videos)
-- **[[#13. Configure Client-Side DNS]]** (5 videos)
-- **[[#14. Perform Security Administration Tasks]]** (6 videos)
-- **[[#15. Securing Data with Encryption]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Welcome
+  - What you should know
+  - About the LPIC 1 exam
+  - Install CentOS 7
+  - Centos 7 Lab setup
+- [**1. Customize and Use the Shell Environment**](#1-customize-and-use-the-shell-environment) (5 videos)
+  - Set environment variables
+  - Bash functions for frequent tasks
+  - Bash aliases as shortcuts
+  - Set command search path
+  - Maintain skeleton directories
+- [**2. Write Simple Scripts**](#2-write-simple-scripts) (10 videos)
+  - Introduction to Bash
+  - What is a shell script?
+  - Execute compound commands
+  - Use Command and Variable substitution
+  - Conditional flow with if, then if
+  - Conditional flow with case
+  - Iterate with for loops
+  - Iterate with while loops
+  - Using return codes
+  - Create a monitor script
+- [**3. Install and Configure X11**](#3-install-and-configure-x11) (6 videos)
+  - X11 architecture
+  - About desktop environments
+  - Assistive technologies
+  - Override specific aspects of Xorg configuration
+  - About remote desktop protocols
+  - Display applications on remote X servers
+- [**4. Manage User and Group Accounts**](#4-manage-user-and-group-accounts) (7 videos)
+  - Add and removing users
+  - Modify users
+  - Manage groups
+  - Manage special purpose and limited accounts
+  - Awareness of shadow passwords
+  - Change default password policies
+  - Individual user account settings
+- [**5. Automate System Administration Tasks by Scheduling Jobs**](#5-automate-system-administration-tasks-by-scheduling-jobs) (4 videos)
+  - Reccuring user jobs using cron
+  - Reccuring system jobs using cron
+  - Configure user access to cron and at services
+  - Systemd timer units
+- [**6. Localization and System Time**](#6-localization-and-system-time) (7 videos)
+  - Set the system date, time, and timezone
+  - Configure locale settings and environment variables
+  - Install and start chrony
+  - Configure chrony server
+  - Configure chrony client
+  - Use cryonyc
+  - Using ntpd for serving time
+- [**7. System Logging**](#7-system-logging) (8 videos)
+  - Locate and interpret system log files
+  - Read the system journal
+  - Configuration of logrotate
+  - Filter journal data by criteria
+  - Rsyslog actions
+  - Clear old systemd journal data
+  - Retrieve systemd journal data from a rescue system
+  - About syslog, rsyslog, and syslog-ng
+- [**8. Mail Transfer Agent (MTA) Basics**](#8-mail-transfer-agent-mta-basics) (8 videos)
+  - About email
+  - How email works
+  - Knowledge of common MTA programs
+  - Install Postfix
+  - Manage access to Postfix
+  - Configure a local mail server
+  - Create email aliases
+  - Forward mail as a user
+- [**9. Manage Printers and Printing**](#9-manage-printers-and-printing) (3 videos)
+  - Configure local and remote printers with CUPS
+  - Troubleshoot general printing problems
+  - Manage user print jobs
+- [**10. Fundamentals of Internet Protocols**](#10-fundamentals-of-internet-protocols) (5 videos)
+  - About private and public "dotted quad" IP addresses
+  - Network masks and CIDR notation
+  - Common TCP and UDP ports and services
+  - Differences and major features of UDP, TCP, and ICMP
+  - Knowledge of the major differences between IPv4 and IPv6
+- [**11. Persistent Network Configuration**](#11-persistent-network-configuration) (5 videos)
+  - Gather network information
+  - Manual network interface configuration
+  - Configure networking using Network Manager
+  - Configure networking using the GUI
+  - Awareness of systemd-networkd
+- [**12. Basic Network Troubleshooting**](#12-basic-network-troubleshooting) (4 videos)
+  - About routing
+  - View the routing table
+  - Manually configure routing using iproute2
+  - Debug problems associated with the network configuration
+- [**13. Configure Client-Side DNS**](#13-configure-client-side-dns) (5 videos)
+  - Query remote DNS servers
+  - Configure local name resolution with remote DNS servers
+  - Modify the order in which name resolution is done
+  - Debug errors related to name resolution
+  - About systemd-resolved
+- [**14. Perform Security Administration Tasks**](#14-perform-security-administration-tasks) (6 videos)
+  - Use Nmap and netstat to audit network services
+  - Set up limits on users
+  - Determine which users have logged in
+  - Basic sudo configuration and usage
+  - Find suid/sgid files
+  - About TCP wrappers
+- [**15. Securing Data with Encryption**](#15-securing-data-with-encryption) (5 videos)
+  - Perform basic OpenSSH 2 client configuration
+  - About OpenSSH 2 server host keys
+  - Perform basic GnuPG configuration and revocation
+  - Use GPG to encrypt, decrypt, sign, and verify files
+  - SSH port tunnels
+- [**Conclusion**](#conclusion) (1 videos)
+  - Taking the exam
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/welcome?u=76281980)
@@ -538,7 +632,7 @@ created: 2026-04-29
 
 ### 1. Customize and Use the Shell Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set environment variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-environment-variables?u=76281980)
@@ -1112,7 +1206,7 @@ created: 2026-04-29
 
 ### 2. Write Simple Scripts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Bash
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/introduction-to-bash?u=76281980)
@@ -2056,7 +2150,7 @@ created: 2026-04-29
 
 ### 3. Install and Configure X11
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### X11 architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/x11-architecture?u=76281980)
@@ -2719,7 +2813,7 @@ created: 2026-04-29
 
 ### 4. Manage User and Group Accounts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add and removing users
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/add-and-removing-users?u=76281980)
@@ -3510,7 +3604,7 @@ created: 2026-04-29
 
 ### 5. Automate System Administration Tasks by Scheduling Jobs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reccuring user jobs using cron
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/reccuring-user-jobs-using-cron?u=76281980)
@@ -3867,7 +3961,7 @@ created: 2026-04-29
 
 ### 6. Localization and System Time
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set the system date, time, and timezone
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/set-the-system-date-time-and-timezone?u=76281980)
@@ -4498,7 +4592,7 @@ created: 2026-04-29
 
 ### 7. System Logging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Locate and interpret system log files
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980)
@@ -5113,7 +5207,7 @@ created: 2026-04-29
 
 ### 8. Mail Transfer Agent (MTA) Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### About email
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-email?u=76281980)
@@ -5712,7 +5806,7 @@ created: 2026-04-29
 
 ### 9. Manage Printers and Printing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure local and remote printers with CUPS
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/configure-local-and-remote-printers-with-cups?u=76281980)
@@ -6027,7 +6121,7 @@ created: 2026-04-29
 
 ### 10. Fundamentals of Internet Protocols
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### About private and public "dotted quad" IP addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-private-and-public-dotted-quad-ip-addresses?u=76281980)
@@ -6416,7 +6510,7 @@ created: 2026-04-29
 
 ### 11. Persistent Network Configuration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gather network information
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/gather-network-information?u=76281980)
@@ -6908,7 +7002,7 @@ created: 2026-04-29
 
 ### 12. Basic Network Troubleshooting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### About routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/about-routing?u=76281980)
@@ -7277,7 +7371,7 @@ created: 2026-04-29
 
 ### 13. Configure Client-Side DNS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Query remote DNS servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/query-remote-dns-servers?u=76281980)
@@ -7654,7 +7748,7 @@ created: 2026-04-29
 
 ### 14. Perform Security Administration Tasks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Nmap and netstat to audit network services
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/use-nmap-and-netstat-to-audit-network-services?u=76281980)
@@ -8280,7 +8374,7 @@ created: 2026-04-29
 
 ### 15. Securing Data with Encryption
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Perform basic OpenSSH 2 client configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/perform-basic-openssh-2-client-configuration?u=76281980)
@@ -8723,7 +8817,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-102-version-5-0-cert-prep/taking-the-exam?u=76281980)

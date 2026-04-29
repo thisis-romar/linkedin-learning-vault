@@ -60,13 +60,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Prompt Engineering?]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Talking to the AIs
+  - Using the included handouts
+- [**1. What Is Prompt Engineering?**](#1-what-is-prompt-engineering) (7 videos)
+  - The generative AI revolution
+  - What is a prompt?
+  - Designing a prompt
+  - Basic prompt examples
+  - What is prompt engineering?
+  - Advanced prompt examples
+  - Prompt engineering tips and tricks
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Talking to the AIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/talking-to-the-ais?u=76281980)
@@ -133,7 +143,7 @@ created: 2026-04-29
 
 ### 1. What Is Prompt Engineering?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The generative AI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/the-generative-ai-revolution?u=76281980)
@@ -656,7 +666,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/next-steps-and-resources?u=76281980)

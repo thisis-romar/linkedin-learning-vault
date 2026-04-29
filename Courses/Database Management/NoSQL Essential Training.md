@@ -58,17 +58,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Is NoSQL?]]** (7 videos)
-- **[[#2. Different Types of NoSQL Databases]]** (7 videos)
-- **[[#3. Pros and Cons of NoSQL]]** (4 videos)
-- **[[#4. Is NoSQL Right for Your Job?]]** (3 videos)
-- **[[#5. Vector Databases]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Get to know NoSQL
+  - What you should know
+  - 2024 update
+- [**1. What Is NoSQL?**](#1-what-is-nosql) (7 videos)
+  - Why the hype over NoSQL?
+  - NoSQL compared to traditional relational databases
+  - CAP theorem
+  - Explore a NoSQL database
+  - Query a NoSQL database
+  - Challenge: NoSQL query
+  - Solution: NoSQL query
+- [**2. Different Types of NoSQL Databases**](#2-different-types-of-nosql-databases) (7 videos)
+  - Overview of NoSQL database types
+  - NoSQL key-value store type
+  - NoSQL document store type
+  - NoSQL wide column store type
+  - NoSQL graph data store type
+  - Challenge: Which NoSQL database is right for the job
+  - Solution: Common jobs for each type of NoSQL store
+- [**3. Pros and Cons of NoSQL**](#3-pros-and-cons-of-nosql) (4 videos)
+  - Where NoSQL thrives
+  - Where NoSQL fails
+  - Challenge: Relational or NoSQL
+  - Solution: Relational or NoSQL
+- [**4. Is NoSQL Right for Your Job?**](#4-is-nosql-right-for-your-job) (3 videos)
+  - Is NoSQL right for you?
+  - Database considerations
+  - Choosing between NoSQL databases
+- [**5. Vector Databases**](#5-vector-databases) (2 videos)
+  - Introduction to vector databases
+  - Benefits and use cases of vector databases
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get to know NoSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/get-to-know-nosql?u=76281980)
@@ -170,7 +197,7 @@ created: 2026-04-29
 
 ### 1. What Is NoSQL?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why the hype over NoSQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/why-the-hype-over-nosql?u=76281980)
@@ -612,7 +639,7 @@ created: 2026-04-29
 
 ### 2. Different Types of NoSQL Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of NoSQL database types
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/overview-of-nosql-database-types?u=76281980)
@@ -915,7 +942,7 @@ created: 2026-04-29
 
 ### 3. Pros and Cons of NoSQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where NoSQL thrives
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/where-nosql-thrives?u=76281980)
@@ -1119,7 +1146,7 @@ created: 2026-04-29
 
 ### 4. Is NoSQL Right for Your Job?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Is NoSQL right for you?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/is-nosql-right-for-you?u=76281980)
@@ -1297,7 +1324,7 @@ created: 2026-04-29
 
 ### 5. Vector Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/introduction-to-vector-databases?u=76281980)
@@ -1364,7 +1391,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nosql-essential-training/next-steps-24076573?u=76281980)

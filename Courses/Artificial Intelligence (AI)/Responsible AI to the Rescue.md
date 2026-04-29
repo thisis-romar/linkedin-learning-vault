@@ -48,11 +48,19 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Responsible AI to the Rescue]]** (8 videos)
+- [**1. Responsible AI to the Rescue**](#1-responsible-ai-to-the-rescue) (8 videos)
+  - Introduction to AI
+  - What is AI?
+  - Potential of AI for business and society
+  - Responsible AI
+  - AI issues and failures
+  - Regulatory frameworks for AI
+  - The social license of AI
+  - How to develop responsible AI principles
 
 ### 1. Responsible AI to the Rescue
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-to-the-rescue/introduction-to-ai-22664960?u=76281980)

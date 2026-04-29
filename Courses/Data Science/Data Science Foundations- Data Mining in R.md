@@ -50,19 +50,69 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Preliminaries]]** (4 videos)
-- **[[#2. Dimensionality Reduction]]** (7 videos)
-- **[[#3. Clustering]]** (7 videos)
-- **[[#4. Classification]]** (7 videos)
-- **[[#5. Association Analysis]]** (7 videos)
-- **[[#6. Time-Series Mining]]** (7 videos)
-- **[[#7. Text Mining]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - R for data mining
+  - Who should watch this course
+  - Exercise files
+- [**1. Preliminaries**](#1-preliminaries) (4 videos)
+  - Tools for data mining
+  - The CRISP-DM data mining model
+  - Privacy, copyright, and bias
+  - Validating results
+- [**2. Dimensionality Reduction**](#2-dimensionality-reduction) (7 videos)
+  - Dimensionality reduction overview
+  - Dataset: Handwritten digits
+  - PCA
+  - LDA
+  - t-SNE
+  - Challenge: PCA
+  - Solution: PCA
+- [**3. Clustering**](#3-clustering) (7 videos)
+  - Clustering overview
+  - Dataset: Penguins
+  - Hierarchical clustering
+  - K-means
+  - DBSCAN
+  - Challenge: K-means
+  - Solution: K-means
+- [**4. Classification**](#4-classification) (7 videos)
+  - Classification overview
+  - Dataset: Spambase
+  - K-nn
+  - Naive Bayes
+  - Decision trees
+  - Challenge: K-nn
+  - Solution: K-nn
+- [**5. Association Analysis**](#5-association-analysis) (7 videos)
+  - Association analysis overview
+  - Dataset: Groceries
+  - Apriori
+  - Eclat
+  - CBA
+  - Challenge: Apriori
+  - Solution: Apriori
+- [**6. Time-Series Mining**](#6-time-series-mining) (7 videos)
+  - Time-series mining overview
+  - Dataset: AirPassengers
+  - Time-series decomposition
+  - ARIMA
+  - MLP
+  - Challenge: Decomposition
+  - Solution: Decomposition
+- [**7. Text Mining**](#7-text-mining) (7 videos)
+  - Text mining overview
+  - Dataset: The Iliad
+  - Sentiment analysis: Binary classification
+  - Sentiment analysis: Sentiment scoring
+  - Visualizing Word pairs
+  - Challenge: Sentiment scoring
+  - Solution: Sentiment scoring
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### R for data mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/r-for-data-mining?u=76281980)
@@ -161,7 +211,7 @@ created: 2026-04-29
 
 ### 1. Preliminaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools for data mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/tools-for-data-mining?u=76281980)
@@ -579,7 +629,7 @@ created: 2026-04-29
 
 ### 2. Dimensionality Reduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimensionality reduction overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/dimensionality-reduction-overview?u=76281980)
@@ -1306,7 +1356,7 @@ created: 2026-04-29
 
 ### 3. Clustering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Clustering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/clustering-overview?u=76281980)
@@ -2190,7 +2240,7 @@ created: 2026-04-29
 
 ### 4. Classification
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classification overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/classification-overview?u=76281980)
@@ -3107,7 +3157,7 @@ created: 2026-04-29
 
 ### 5. Association Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Association analysis overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/association-analysis-overview?u=76281980)
@@ -3732,7 +3782,7 @@ created: 2026-04-29
 
 ### 6. Time-Series Mining
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Time-series mining overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/time-series-mining-overview?u=76281980)
@@ -4465,7 +4515,7 @@ created: 2026-04-29
 
 ### 7. Text Mining
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Text mining overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/text-mining-overview?u=76281980)
@@ -5252,7 +5302,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-mining-in-r/next-steps?u=76281980)

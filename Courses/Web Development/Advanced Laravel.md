@@ -47,19 +47,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Starting Your Project]]** (3 videos)
-- **[[#2. Authorization]]** (5 videos)
-- **[[#3. Advanced Eloquent Features]]** (5 videos)
-- **[[#4. Do More with Laravel]]** (3 videos)
-- **[[#5. Notifications, Queuing, and Scheduling]]** (4 videos)
-- **[[#6. Testing]]** (4 videos)
-- **[[#7. Understand How Laravel Works]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Beyond the basics
+  - Prerequisites for the course
+  - What's new in Laravel 10?
+  - Using the exercise files
+- [**1. Starting Your Project**](#1-starting-your-project) (3 videos)
+  - Understand project requirements
+  - Set up the project
+  - Create the database and models
+- [**2. Authorization**](#2-authorization) (5 videos)
+  - Create user roles
+  - Write custom middleware
+  - Revisit CRUD basics
+  - Use gates
+  - Write policies
+- [**3. Advanced Eloquent Features**](#3-advanced-eloquent-features) (5 videos)
+  - Seeding and factories
+  - Many-to-many relationships
+  - Implement eager loading
+  - Attaching and detaching relationships
+  - Write complex queries and create query scopes
+- [**4. Do More with Laravel**](#4-do-more-with-laravel) (3 videos)
+  - Write commands
+  - Create events and listeners
+  - Make use of logs
+- [**5. Notifications, Queuing, and Scheduling**](#5-notifications-queuing-and-scheduling) (4 videos)
+  - Send emails
+  - Send notifications
+  - Create jobs and queues
+  - Schedule tasks
+- [**6. Testing**](#6-testing) (4 videos)
+  - Get started with testing
+  - Write HTTP tests
+  - Write database tests
+  - Test-driven development
+- [**7. Understand How Laravel Works**](#7-understand-how-laravel-works) (4 videos)
+  - Request lifecycle overview
+  - What is a service container?
+  - Service providers in Laravel
+  - Get to know Facades
+- [**Conclusion**](#conclusion) (1 videos)
+  - Quick summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Beyond the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/beyond-the-basics?u=76281980)
@@ -291,7 +324,7 @@ created: 2026-04-29
 
 ### 1. Starting Your Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand project requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/understand-project-requirements?u=76281980)
@@ -648,7 +681,7 @@ created: 2026-04-29
 
 ### 2. Authorization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create user roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980)
@@ -1447,7 +1480,7 @@ created: 2026-04-29
 
 ### 3. Advanced Eloquent Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Seeding and factories
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980)
@@ -2579,7 +2612,7 @@ created: 2026-04-29
 
 ### 4. Do More with Laravel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Write commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/write-commands?u=76281980)
@@ -3002,7 +3035,7 @@ created: 2026-04-29
 
 ### 5. Notifications, Queuing, and Scheduling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Send emails
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980)
@@ -3757,7 +3790,7 @@ created: 2026-04-29
 
 ### 6. Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980)
@@ -4366,7 +4399,7 @@ created: 2026-04-29
 
 ### 7. Understand How Laravel Works
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Request lifecycle overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980)
@@ -4699,7 +4732,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Quick summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980)

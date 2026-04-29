@@ -41,17 +41,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started with Azure Synapse Analytics]]** (6 videos)
-- **[[#2. Populating Dedicated Synapse Analytics Pools]]** (9 videos)
-- **[[#3. Streaming Data into Azure Synapse Analytics]]** (3 videos)
-- **[[#4. Querying Using Serverless SQL]]** (9 videos)
-- **[[#5. Querying and Best Practices in Dedicated SQL Pools]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Data warehouses in the cloud
+  - What you should know
+- [**1. Getting Started with Azure Synapse Analytics**](#1-getting-started-with-azure-synapse-analytics) (6 videos)
+  - Azure Synapse Analytics overview
+  - Creating Azure Synapse Analytics workspaces
+  - Analyzing the architecture of dedicated SQL pools
+  - Provisioning dedicated Synapse Analytics pools
+  - Challenge: Create a Synapse Analytics workspace with a dedicated pool
+  - Solution: Create a Synapse Analytics workspace with a dedicated pool
+- [**2. Populating Dedicated Synapse Analytics Pools**](#2-populating-dedicated-synapse-analytics-pools) (9 videos)
+  - Data loading in Azure Data Warehouse
+  - Preparing your data
+  - Exploring Azure Synapse Studio
+  - Loading data using the copy tool
+  - Load data using the COPY command
+  - Load data with PolyBase
+  - Transform data using data flows
+  - Challenge: Loading data using the copy tool
+  - Solution: Loading data using the copy tool
+- [**3. Streaming Data into Azure Synapse Analytics**](#3-streaming-data-into-azure-synapse-analytics) (3 videos)
+  - Data streaming scenarios
+  - Creating a Stream Analytics job
+  - Testing data streaming using sample data
+- [**4. Querying Using Serverless SQL**](#4-querying-using-serverless-sql) (9 videos)
+  - Understanding serverless pools
+  - Querying and discovering data using serverless pools
+  - Using file metadata in queries
+  - Building a logical data warehouse, part 1
+  - Building a logical data warehouse, part 2
+  - Manage statistics
+  - Cost management
+  - Challenge: Query partitioned data
+  - Solution: Query partitioned data
+- [**5. Querying and Best Practices in Dedicated SQL Pools**](#5-querying-and-best-practices-in-dedicated-sql-pools) (6 videos)
+  - Querying, labeling, and tracking data warehouse performance
+  - Transactions in dedicated SQL pool
+  - Optimizing queries with materialized views
+  - Connecting using external clients
+  - Creating and updating statistics
+  - Analyzing data distribution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with Synapse Analytics
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data warehouses in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980)
@@ -118,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Azure Synapse Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Synapse Analytics overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980)
@@ -531,7 +567,7 @@ created: 2026-04-29
 
 ### 2. Populating Dedicated Synapse Analytics Pools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data loading in Azure Data Warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980)
@@ -1875,7 +1911,7 @@ created: 2026-04-29
 
 ### 3. Streaming Data into Azure Synapse Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data streaming scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-streaming-scenarios?u=76281980)
@@ -2199,7 +2235,7 @@ created: 2026-04-29
 
 ### 4. Querying Using Serverless SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding serverless pools
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980)
@@ -3050,7 +3086,7 @@ created: 2026-04-29
 
 ### 5. Querying and Best Practices in Dedicated SQL Pools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying, labeling, and tracking data warehouse performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980)
@@ -3640,7 +3676,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Synapse Analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980)

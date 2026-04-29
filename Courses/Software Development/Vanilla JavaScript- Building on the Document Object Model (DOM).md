@@ -48,15 +48,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Key DOM Concepts]]** (6 videos)
-- **[[#2. HTML to DOM]]** (9 videos)
-- **[[#3. Transforming the DOM]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn the JavaScript DOM inside and out
+  - Where to start
+- [**1. Key DOM Concepts**](#1-key-dom-concepts) (6 videos)
+  - The Node interface
+  - DOM-specific maps and lists
+  - Random access with querySelector()
+  - CRUD in the DOM
+  - Challenge: queryAll++
+  - Solution: queryAll++
+- [**2. HTML to DOM**](#2-html-to-dom) (9 videos)
+  - Where does the DOM come from?
+  - DIY HTML parsing
+  - Building a firm foundation: The lexer
+  - Parsing text
+  - Parsing comments
+  - Parsing elements
+  - Parsing attributes
+  - Challenge: Void elements
+  - Solution: Void elements
+- [**3. Transforming the DOM**](#3-transforming-the-dom) (9 videos)
+  - Traversing the tree
+  - Building a pretty printer
+  - Processing document fragments
+  - Processing comments
+  - Processing elements
+  - Processing element attributes
+  - Handling text and cleanup
+  - Challenge: Empty tags
+  - Solution: Empty tags
+- [**Conclusion**](#conclusion) (1 videos)
+  - Level up your DOM skills
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the JavaScript DOM inside and out
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980)
@@ -109,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Key DOM Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Node interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980)
@@ -1010,7 +1037,7 @@ created: 2026-04-29
 
 ### 2. HTML to DOM
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where does the DOM come from?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980)
@@ -2239,7 +2266,7 @@ created: 2026-04-29
 
 ### 3. Transforming the DOM
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Traversing the tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/traversing-the-tree?u=76281980)
@@ -3078,7 +3105,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Level up your DOM skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/level-up-your-dom-skills?u=76281980)

@@ -49,16 +49,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (7 videos)
-- **[[#2. AWS Account and Website Setup]]** (3 videos)
-- **[[#3. Amazon DynamoDB and AWS Lambda Setup]]** (2 videos)
-- **[[#4. API Gateway Setup and Testing]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Building a serverless application in AWS
+  - What you need to know
+- [**1. Getting Started**](#1-getting-started) (7 videos)
+  - What is a serverless application?
+  - Overview of AWS services
+  - Overview of Amazon S3
+  - Overview of AWS Lambda
+  - Overview of Amazon DynamoDB
+  - Overview of API Gateway
+  - What we are building today
+- [**2. AWS Account and Website Setup**](#2-aws-account-and-website-setup) (3 videos)
+  - Creating and using an AWS account
+  - Create an S3 bucket and upload the landing page
+  - Configure the S3 bucket for static website hosting
+- [**3. Amazon DynamoDB and AWS Lambda Setup**](#3-amazon-dynamodb-and-aws-lambda-setup) (2 videos)
+  - Set up a DynamoDB table for data storage
+  - Create a Lambda function to retrieve data
+- [**4. API Gateway Setup and Testing**](#4-api-gateway-setup-and-testing) (3 videos)
+  - Configure API Gateway
+  - Edit an app.js file
+  - Test the recipe website to ensure proper functionality
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a serverless application in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/building-a-serverless-application-in-aws?u=76281980)
@@ -119,7 +137,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a serverless application?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/what-is-a-serverless-application?u=76281980)
@@ -425,7 +443,7 @@ created: 2026-04-29
 
 ### 2. AWS Account and Website Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and using an AWS account
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/creating-and-using-an-aws-account?u=76281980)
@@ -592,7 +610,7 @@ created: 2026-04-29
 
 ### 3. Amazon DynamoDB and AWS Lambda Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up a DynamoDB table for data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/set-up-a-dynamodb-table-for-data-storage?u=76281980)
@@ -737,7 +755,7 @@ created: 2026-04-29
 
 ### 4. API Gateway Setup and Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure API Gateway
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/configure-api-gateway?u=76281980)
@@ -883,7 +901,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-applications-in-aws/next-steps?u=76281980)

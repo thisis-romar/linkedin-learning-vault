@@ -50,20 +50,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Web Accessibility]]** (3 videos)
-- **[[#2. Accessibility and WordPress]]** (6 videos)
-- **[[#3. Accessibility in Your Theme]]** (7 videos)
-- **[[#4. Using Accessible WordPress Plugins]]** (4 videos)
-- **[[#5. Accessibility Plugins for WordPress]]** (3 videos)
-- **[[#6. Authoring Accessible Content]]** (5 videos)
-- **[[#7. Testing for Accessibility]]** (5 videos)
-- **[[#8. Remediation Workshop]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Making accessible websites using WordPress
+  - WordPress base knowledge
+- [**1. What Is Web Accessibility**](#1-what-is-web-accessibility) (3 videos)
+  - Web accessibility concepts
+  - Accessibility and your business
+  - Assistive technology overview
+- [**2. Accessibility and WordPress**](#2-accessibility-and-wordpress) (6 videos)
+  - Understanding accessibility in WordPress
+  - WordPress core features
+  - WordPress Classic themes
+  - WordPress full site editing
+  - WordPress plugins
+  - Creating accessible content
+- [**3. Accessibility in Your Theme**](#3-accessibility-in-your-theme) (7 videos)
+  - Examining accessible design
+  - Accessible color
+  - Accessible navigation
+  - Perceivable images and icons
+  - Page architecture and HTML semantics
+  - Page builders
+  - Block themes vs. classic themes vs. page builders
+- [**4. Using Accessible WordPress Plugins**](#4-using-accessible-wordpress-plugins) (4 videos)
+  - How to assess plugin accessibility
+  - ARIA, AJAX, and other four-letter words
+  - Interacting with forms and their responses
+  - Authoring tools and accessibility guidelines
+- [**5. Accessibility Plugins for WordPress**](#5-accessibility-plugins-for-wordpress) (3 videos)
+  - Testing tools for WordPress
+  - Accessibility overlays
+  - Accessibility add-ons
+- [**6. Authoring Accessible Content**](#6-authoring-accessible-content) (5 videos)
+  - Writing accessible content
+  - Using audio and video
+  - Organizing content on the page
+  - Accessibility support in the Block Editor
+  - Accessibility support in the Classic Editor
+- [**7. Testing for Accessibility**](#7-testing-for-accessibility) (5 videos)
+  - Automated and manual testing
+  - Testing accessibility with the keyboard
+  - Testing accessibility with WAVE by WebAIM
+  - Testing accessibility with AXE by Deque
+  - Using bookmarklets for quick assessments
+- [**8. Remediation Workshop**](#8-remediation-workshop) (4 videos)
+  - Finding the issue
+  - Identifying the source of an issue
+  - What needs to change?
+  - Making the change
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making accessible websites using WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980)
@@ -142,7 +182,7 @@ created: 2026-04-29
 
 ### 1. What Is Web Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Web accessibility concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980)
@@ -347,7 +387,7 @@ created: 2026-04-29
 
 ### 2. Accessibility and WordPress
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding accessibility in WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980)
@@ -790,7 +830,7 @@ created: 2026-04-29
 
 ### 3. Accessibility in Your Theme
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Examining accessible design
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980)
@@ -1756,7 +1796,7 @@ created: 2026-04-29
 
 ### 4. Using Accessible WordPress Plugins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to assess plugin accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980)
@@ -2350,7 +2390,7 @@ created: 2026-04-29
 
 ### 5. Accessibility Plugins for WordPress
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing tools for WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980)
@@ -2638,7 +2678,7 @@ created: 2026-04-29
 
 ### 6. Authoring Accessible Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing accessible content
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/writing-accessible-content?u=76281980)
@@ -3094,7 +3134,7 @@ created: 2026-04-29
 
 ### 7. Testing for Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automated and manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980)
@@ -3524,7 +3564,7 @@ created: 2026-04-29
 
 ### 8. Remediation Workshop
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding the issue
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/finding-the-issue?u=76281980)
@@ -3786,7 +3826,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980)

@@ -52,18 +52,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Creating a React Front-End]]** (9 videos)
-- **[[#2. Creating a Node.js Back-End]]** (7 videos)
-- **[[#3. Adding MongoDB to Node.js]]** (5 videos)
-- **[[#4. Connecting the Front-End and Back-End]]** (7 videos)
-- **[[#5. Adding User Authentication with Firebase Auth]]** (11 videos)
-- **[[#6. Hosting a Full-Stack React Application]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Build your own full-stack website using React
+  - What you should know
+- [**1. Creating a React Front-End**](#1-creating-a-react-front-end) (9 videos)
+  - Why React?
+  - Setting up a React project
+  - Creating the home page
+  - Adding React Router to an application
+  - Using React Router links
+  - URL parameters with React Router
+  - Creating and linking the articles list
+  - Creating a 404 page in React
+  - Adding styles
+- [**2. Creating a Node.js Back-End**](#2-creating-a-nodejs-back-end) (7 videos)
+  - Why Node.js?
+  - Setting up an Express server
+  - Testing an Express server with Postman
+  - Route parameters in Express
+  - Upvoting articles
+  - Automatically updating with Nodemon
+  - Adding comments
+- [**3. Adding MongoDB to Node.js**](#3-adding-mongodb-to-nodejs) (5 videos)
+  - Why MongoDB?
+  - Downloading and installing MongoDB
+  - Adding MongoDB to Express
+  - Rewriting the upvote endpoint
+  - Rewriting the comments endpoint
+- [**4. Connecting the Front-End and Back-End**](#4-connecting-the-front-end-and-back-end) (7 videos)
+  - The Axios library
+  - Loading data For React Router routes
+  - Using the useLoaderData hook
+  - Using route parameters in loaders
+  - Displaying comments
+  - Creating an upvote button
+  - Creating an add comment form
+- [**5. Adding User Authentication with Firebase Auth**](#5-adding-user-authentication-with-firebase-auth) (11 videos)
+  - Why Firebase Auth?
+  - Creating a Firebase project
+  - Adding Firebase Auth to React
+  - Build a login form
+  - Build a create account page
+  - Making interface adjustments for authenticated users
+  - Creating a custom auth hook
+  - Adding Firebase Auth to Node.js
+  - Protecting endpoints using auth tokens
+  - Protecting the upvote and comment endpoints
+  - Making requests with auth tokens
+- [**6. Hosting a Full-Stack React Application**](#6-hosting-a-full-stack-react-application) (5 videos)
+  - Preparing an app for release
+  - Setting up hosting for MongoDB
+  - Defining environment variables
+  - Deploying a full-stack application
+  - Shutting down a Google Cloud project
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in your React journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your own full-stack website using React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/build-your-own-full-stack-website-using-react?u=76281980)
@@ -135,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Creating a React Front-End
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-react?u=76281980)
@@ -1099,7 +1146,7 @@ created: 2026-04-29
 
 ### 2. Creating a Node.js Back-End
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-node-js?u=76281980)
@@ -1818,7 +1865,7 @@ created: 2026-04-29
 
 ### 3. Adding MongoDB to Node.js
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-mongodb?u=76281980)
@@ -2249,7 +2296,7 @@ created: 2026-04-29
 
 ### 4. Connecting the Front-End and Back-End
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Axios library
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/the-axios-library?u=76281980)
@@ -2877,7 +2924,7 @@ created: 2026-04-29
 
 ### 5. Adding User Authentication with Firebase Auth
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Firebase Auth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/why-firebase-auth?u=76281980)
@@ -4125,7 +4172,7 @@ created: 2026-04-29
 
 ### 6. Hosting a Full-Stack React Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing an app for release
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/preparing-an-app-for-release?u=76281980)
@@ -4780,7 +4827,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your React journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483/next-steps-in-your-react-journey?u=76281980)

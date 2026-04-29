@@ -49,17 +49,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Observer]]** (5 videos)
-- **[[#2. Builder]]** (6 videos)
-- **[[#3. Command]]** (5 videos)
-- **[[#4. Proxy]]** (5 videos)
-- **[[#5. Chain of Responsibility]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Object-oriented design patterns in C#, part 2
+  - Using the exercise files and installing .NET SDK
+- [**1. Observer**](#1-observer) (5 videos)
+  - Observer pattern definition
+  - Simple event delegate observer implementation in C#
+  - Using INotifyPropertyChanged to observe model changes in C#
+  - Challenge: Replace a direct call with the Observer pattern
+  - Solution: Replace a direct call with the Observer pattern
+- [**2. Builder**](#2-builder) (6 videos)
+  - Builder pattern definition
+  - Simple builder implementation in C#
+  - Explore the ApplicationBuilder pattern being used in an enterprise MVC application
+  - Implement the Builder pattern in an MVC application
+  - Challenge: Fluent order builder
+  - Solution: Fluent order builder
+- [**3. Command**](#3-command) (5 videos)
+  - Command pattern definition
+  - Simple Command pattern implementation in C#
+  - Implement a data update command in a C# MVC application
+  - Challenge: Undo with the Command pattern
+  - Solution: Undo with the Command pattern
+- [**4. Proxy**](#4-proxy) (5 videos)
+  - Proxy pattern definition
+  - Simple proxy file access in C#
+  - Caching data service proxy with MVC in C#
+  - Challenge: Proxy Facade
+  - Solution: Proxy Facade
+- [**5. Chain of Responsibility**](#5-chain-of-responsibility) (6 videos)
+  - Chain of Responsibility pattern definition
+  - Simple Chain of Responsibility exception handling in C#
+  - ASP.NET Core request pipeline as a Chain of Responsibility
+  - Add a filter to the ASP.NET core Chain of Responsibility
+  - Challenge: Chain of Responsibility grocery list
+  - Solution: Chain of Responsibility grocery list
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented design patterns in C#, part 2
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/object-oriented-design-patterns-in-c-sharp-part-2?u=76281980)
@@ -70,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Observer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Observer pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/observer-pattern-definition?u=76281980)
@@ -90,7 +120,7 @@ created: 2026-04-29
 
 ### 2. Builder
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Builder pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/builder-pattern-definition?u=76281980)
@@ -113,7 +143,7 @@ created: 2026-04-29
 
 ### 3. Command
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Command pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/command-pattern-definition?u=76281980)
@@ -133,7 +163,7 @@ created: 2026-04-29
 
 ### 4. Proxy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Proxy pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/proxy-pattern-definition?u=76281980)
@@ -153,7 +183,7 @@ created: 2026-04-29
 
 ### 5. Chain of Responsibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Chain of Responsibility pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/chain-of-responsibility-pattern-definition?u=76281980)
@@ -176,7 +206,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/next-steps?u=76281980)

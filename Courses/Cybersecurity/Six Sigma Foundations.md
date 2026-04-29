@@ -46,20 +46,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Six Sigma]]** (4 videos)
-- **[[#2. Key Concepts in Six Sigma]]** (4 videos)
-- **[[#3. Selection of Six Sigma Projects]]** (2 videos)
-- **[[#4. Define Phase]]** (4 videos)
-- **[[#5. Measure Phase]]** (6 videos)
-- **[[#6. Analyze Phase]]** (6 videos)
-- **[[#7. Improve Phase]]** (5 videos)
-- **[[#8. Control Phase]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Improve performance with Six Sigma
+- [**1. Introduction to Six Sigma**](#1-introduction-to-six-sigma) (4 videos)
+  - What is Six Sigma?
+  - An overview of DMAIC
+  - Key roles of executives and champions
+  - Levels of expertise
+- [**2. Key Concepts in Six Sigma**](#2-key-concepts-in-six-sigma) (4 videos)
+  - Critical to quality metrics
+  - Variation and the normal curve
+  - Defects per million opportunities
+  - Sigma levels
+- [**3. Selection of Six Sigma Projects**](#3-selection-of-six-sigma-projects) (2 videos)
+  - Identify potential projects
+  - Select the Six Sigma team
+- [**4. Define Phase**](#4-define-phase) (4 videos)
+  - Steps in the Define phase
+  - Problem and goal statements
+  - Complete the project charter
+  - How to use SIPOC diagrams
+- [**5. Measure Phase**](#5-measure-phase) (6 videos)
+  - Steps in the Measure phase
+  - How to map the current process
+  - Plan for data collection
+  - Types of data and graphs
+  - Measurement system analysis
+  - Process capability and sigma level
+- [**6. Analyze Phase**](#6-analyze-phase) (6 videos)
+  - Steps in the Analyze phase
+  - How to use the cause-effect diagram
+  - Introduction to hypothesis testing
+  - Data collection in the Analyze phase
+  - How to analyze graphs and charts
+  - How to analyze process maps
+- [**7. Improve Phase**](#7-improve-phase) (5 videos)
+  - Steps in the Improve phase
+  - Generate, evaluate, and select solutions
+  - Reduce the risk of failure through FMEA
+  - Mistake proofing
+  - Pilot test and implement
+- [**8. Control Phase**](#8-control-phase) (3 videos)
+  - Steps in the Control phase
+  - How to use SPC charts
+  - The control plan
+- [**Conclusion**](#conclusion) (1 videos)
+  - Engage in Six Sigma projects
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve performance with Six Sigma
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/improve-performance-with-six-sigma?u=76281980)
@@ -102,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Six Sigma
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Six Sigma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/what-is-six-sigma-2?u=76281980)
@@ -415,7 +451,7 @@ created: 2026-04-29
 
 ### 2. Key Concepts in Six Sigma
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Critical to quality metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/critical-to-quality-metrics-2?u=76281980)
@@ -728,7 +764,7 @@ created: 2026-04-29
 
 ### 3. Selection of Six Sigma Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify potential projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/identify-potential-projects-2?u=76281980)
@@ -941,7 +977,7 @@ created: 2026-04-29
 
 ### 4. Define Phase
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps in the Define phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-define-phase-2?u=76281980)
@@ -1242,7 +1278,7 @@ created: 2026-04-29
 
 ### 5. Measure Phase
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps in the Measure phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-measure-phase-2?u=76281980)
@@ -1733,7 +1769,7 @@ created: 2026-04-29
 
 ### 6. Analyze Phase
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps in the Analyze phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-analyze-phase-2?u=76281980)
@@ -2192,7 +2228,7 @@ created: 2026-04-29
 
 ### 7. Improve Phase
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps in the Improve phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-improve-phase-2?u=76281980)
@@ -2562,7 +2598,7 @@ created: 2026-04-29
 
 ### 8. Control Phase
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps in the Control phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/steps-in-the-control-phase-2?u=76281980)
@@ -2796,7 +2832,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Engage in Six Sigma projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/six-sigma-foundations/engage-in-six-sigma-projects?u=76281980)

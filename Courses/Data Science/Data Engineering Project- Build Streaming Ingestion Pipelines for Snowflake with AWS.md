@@ -51,14 +51,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Data Streaming, AWS, and Snowflake]]** (4 videos)
-- **[[#2. Building a Streaming Pipeline]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Building streaming data pipelines
+  - What you should know
+  - Prerequisites
+- [**1. Introduction to Data Streaming, AWS, and Snowflake**](#1-introduction-to-data-streaming-aws-and-snowflake) (4 videos)
+  - Why AWS and Snowflake?
+  - Introduction to streaming ingestion pipelines
+  - Streaming data pipelines: A deeper dive
+  - Overview of streaming pipeline project
+- [**2. Building a Streaming Pipeline**](#2-building-a-streaming-pipeline) (9 videos)
+  - Setting up your MSK cluster and EC2 instance
+  - Setting up your keys
+  - What is Snowpipe?
+  - Installing Snowpipe Kafka connector
+  - Set up config for provider-MSK connection and create topic
+  - Preparing your Snowflake environment
+  - Setting up your Snowpipe Kafka connect config
+  - Sending data to Snowflake
+  - Final considerations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course review and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building streaming data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980)
@@ -164,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Data Streaming, AWS, and Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why AWS and Snowflake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980)
@@ -369,7 +386,7 @@ created: 2026-04-29
 
 ### 2. Building a Streaming Pipeline
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up your MSK cluster and EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980)
@@ -1157,7 +1174,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course review and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980)

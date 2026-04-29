@@ -47,13 +47,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Content Explained]]** (8 videos)
-- **[[#2. Fields Explained]]** (6 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to the course
+- [**1. Content Explained**](#1-content-explained) (8 videos)
+  - Content explained
+  - Adding an article
+  - Adding a basic page
+  - Editing a node
+  - Using the WYSIWYG editor
+  - Configuring text formats
+  - Planning your content types
+  - Creating content types
+- [**2. Fields Explained**](#2-fields-explained) (6 videos)
+  - Fields explained: Introduction and definitions
+  - Adding fields to the business content type
+  - Adding fields to the locations content type
+  - Adding fields to the events content type
+  - Modifying the article content type
+  - Testing your content types
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/introduction-to-the-course?u=76281980)
@@ -87,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Content Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Content explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/content-explained?u=76281980)
@@ -827,7 +842,7 @@ created: 2026-04-29
 
 ### 2. Fields Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fields explained: Introduction and definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-2-content-and-fields/fields-explained-introduction-and-definitions?u=76281980)

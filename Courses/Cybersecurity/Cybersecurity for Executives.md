@@ -50,19 +50,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understand the Big Picture]]** (6 videos)
-- **[[#2. How to Think About Cybersecurity]]** (4 videos)
-- **[[#3. Avoid Phishing Attacks]]** (3 videos)
-- **[[#4. Stop Malicious Code]]** (3 videos)
-- **[[#5. Avoid Identity Theft]]** (3 videos)
-- **[[#6. Avoid Financial Cyber Theft]]** (3 videos)
-- **[[#7. Special Topics]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - You are a target and the first line of defense
+- [**1. Understand the Big Picture**](#1-understand-the-big-picture) (6 videos)
+  - Understand the big picture overview
+  - Why are you a target?
+  - Example: Organized crime
+  - Why are you in the line of fire?
+  - Example: Cyber war cross-fire
+  - Insider threat: Cyber failure
+- [**2. How to Think About Cybersecurity**](#2-how-to-think-about-cybersecurity) (4 videos)
+  - Think about cybersecurity summary
+  - Not what you buy, how you travel
+  - Germ theory
+  - Where to get IT support
+- [**3. Avoid Phishing Attacks**](#3-avoid-phishing-attacks) (3 videos)
+  - Avoid phishing attacks summary
+  - What are phishing attacks?
+  - Organizational response to phishing attacks
+- [**4. Stop Malicious Code**](#4-stop-malicious-code) (3 videos)
+  - Stop malicious code summary
+  - What is malicious code?
+  - Organizational response to malicious code
+- [**5. Avoid Identity Theft**](#5-avoid-identity-theft) (3 videos)
+  - Avoid identity theft summary
+  - What is identity theft?
+  - Organizational response to identity theft
+- [**6. Avoid Financial Cyber Theft**](#6-avoid-financial-cyber-theft) (3 videos)
+  - Avoid financial cyber theft summary
+  - What is financial cyber theft?
+  - Organizational response to financial cyber theft
+- [**7. Special Topics**](#7-special-topics) (11 videos)
+  - Special topics summary
+  - Artificial intelligence
+  - Deep fakes
+  - Reasonable cybersecurity
+  - Cyber insurance
+  - Cloud computing
+  - Internet of Things
+  - Contractual firewalls
+  - Third-party cyber risk management
+  - Cybersecurity-related sales objectives
+  - Active defense
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### You are a target and the first line of defense
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980)
@@ -99,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Understand the Big Picture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the big picture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/understand-the-big-picture-overview?u=76281980)
@@ -364,7 +399,7 @@ created: 2026-04-29
 
 ### 2. How to Think About Cybersecurity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Think about cybersecurity summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/think-about-cybersecurity-summary?u=76281980)
@@ -553,7 +588,7 @@ created: 2026-04-29
 
 ### 3. Avoid Phishing Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid phishing attacks summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-phishing-attacks-summary?u=76281980)
@@ -690,7 +725,7 @@ created: 2026-04-29
 
 ### 4. Stop Malicious Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stop malicious code summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/stop-malicious-code-summary?u=76281980)
@@ -839,7 +874,7 @@ created: 2026-04-29
 
 ### 5. Avoid Identity Theft
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid identity theft summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-identity-theft-summary?u=76281980)
@@ -1003,7 +1038,7 @@ created: 2026-04-29
 
 ### 6. Avoid Financial Cyber Theft
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid financial cyber theft summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-financial-cyber-theft-summary?u=76281980)
@@ -1169,7 +1204,7 @@ created: 2026-04-29
 
 ### 7. Special Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Special topics summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980)
@@ -1835,7 +1870,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980)

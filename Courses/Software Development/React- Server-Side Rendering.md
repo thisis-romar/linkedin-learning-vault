@@ -47,16 +47,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setting Up]]** (5 videos)
-- **[[#2. Use Next.js to Build SSR]]** (8 videos)
-- **[[#3. Server-Side Rendering with Node]]** (5 videos)
-- **[[#4. Code Splitting]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn server-side rendering with React
+  - What you should know
+- [**1. Setting Up**](#1-setting-up) (5 videos)
+  - SSR: What, how, and why
+  - Chrome and Firefox tools
+  - Install the required libraries and tools
+  - Challenge: Why would you use SSR?
+  - Solution: Why would you use SSR?
+- [**2. Use Next.js to Build SSR**](#2-use-nextjs-to-build-ssr) (8 videos)
+  - Introducing Next.js with React
+  - Add initial components from template
+  - Add data for props
+  - Add Redux store and setup
+  - Add Redux actions
+  - Add Redux reducers
+  - Challenge: Why use Redux for SSR?
+  - Solution: Why use Redux for SSR?
+- [**3. Server-Side Rendering with Node**](#3-server-side-rendering-with-node) (5 videos)
+  - Create initial Express or Next.js server
+  - Add the Express routes
+  - Add links and pages with Express or Next.js
+  - Challenge: Why use Node or Express for SSR?
+  - Solution: Why use Node or Express for SSR?
+- [**4. Code Splitting**](#4-code-splitting) (4 videos)
+  - Code splitting in Next.js
+  - Other tools available for code splitting
+  - Challenge: What is the purpose of code splitting?
+  - Solution: What is the purpose of code splitting?
+- [**Conclusion**](#conclusion) (2 videos)
+  - React Router with SSR
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn server-side rendering with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/learn-server-side-rendering-with-react?u=76281980)
@@ -124,7 +150,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SSR: What, how, and why
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/ssr-what-how-and-why?u=76281980)
@@ -345,7 +371,7 @@ created: 2026-04-29
 
 ### 2. Use Next.js to Build SSR
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Next.js with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/introducing-next-js-with-react?u=76281980)
@@ -1202,7 +1228,7 @@ created: 2026-04-29
 
 ### 3. Server-Side Rendering with Node
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create initial Express or Next.js server
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/create-initial-express-or-next-js-server?u=76281980)
@@ -1581,7 +1607,7 @@ created: 2026-04-29
 
 ### 4. Code Splitting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Code splitting in Next.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/code-splitting-in-next-js?u=76281980)
@@ -1700,7 +1726,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### React Router with SSR
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-server-side-rendering-8539269/react-router-with-ssr?u=76281980)

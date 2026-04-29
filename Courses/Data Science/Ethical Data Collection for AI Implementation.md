@@ -51,15 +51,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Balancing Effectiveness and Ethics]]** (4 videos)
-- **[[#2. Ethical Strategies for Responsible Data Collection]]** (4 videos)
-- **[[#3. Practical Concerns Blocking Responsible Data Collection]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Ethics comes before the data
+- [**1. Balancing Effectiveness and Ethics**](#1-balancing-effectiveness-and-ethics) (4 videos)
+  - Defining ethical objectives and key results
+  - Developing a data governance framework
+  - Implementing data protection measures
+  - Selecting data collection tools
+- [**2. Ethical Strategies for Responsible Data Collection**](#2-ethical-strategies-for-responsible-data-collection) (4 videos)
+  - Obtaining explicit and ongoing data collection consent
+  - Protecting privacy through anonymization and encryption
+  - Mitigating biases in data
+  - Following ethical review processes
+- [**3. Practical Concerns Blocking Responsible Data Collection**](#3-practical-concerns-blocking-responsible-data-collection) (4 videos)
+  - Violating data privacy regulations
+  - Lacking an established data strategy
+  - Choosing the right tools and configurations
+  - Mishandling data assets and the fear of messing up
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethics comes before the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/ethics-comes-before-the-data?u=76281980)
@@ -86,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Balancing Effectiveness and Ethics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining ethical objectives and key results
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/defining-ethical-objectives-and-key-results?u=76281980)
@@ -414,7 +428,7 @@ created: 2026-04-29
 
 ### 2. Ethical Strategies for Responsible Data Collection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Obtaining explicit and ongoing data collection consent
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/obtaining-explicit-and-ongoing-data-collection-consent?u=76281980)
@@ -710,7 +724,7 @@ created: 2026-04-29
 
 ### 3. Practical Concerns Blocking Responsible Data Collection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Violating data privacy regulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/violating-data-privacy-regulations?u=76281980)
@@ -1040,7 +1054,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-data-collection-for-ai-implementation/next-steps?u=76281980)

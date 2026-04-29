@@ -53,16 +53,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1.The Framework]]** (4 videos)
-- **[[#2. Interview Prep]]** (3 videos)
-- **[[#3. Interview Stages]]** (3 videos)
-- **[[#4. Closing Strong]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Transforming your cybersecurity career
+  - How to get the most out of this course
+- [**1.The Framework**](#1the-framework) (4 videos)
+  - The anatomy of the cybersecurity interview
+  - The three common types of cybersecurity interviews
+  - Your recon mission: Information collection
+  - Prepare your self-promotion strategy
+- [**2. Interview Prep**](#2-interview-prep) (3 videos)
+  - What not to do before an interview
+  - Common cybersecurity interview questions you should prepare to answer
+  - Common cybersecurity interview questions you should prepare to ask
+- [**3. Interview Stages**](#3-interview-stages) (3 videos)
+  - How to thrive in the telephone interview
+  - How to thrive during the in-person interview
+  - What not to do during the cybersecurity interview
+- [**4. Closing Strong**](#4-closing-strong) (2 videos)
+  - Three things to do before leaving the parking lot
+  - Documenting your interview experience
+- [**Conclusion**](#conclusion) (2 videos)
+  - What to do while you wait
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transforming your cybersecurity career
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/transforming-your-cybersecurity-career?u=76281980)
@@ -123,7 +139,7 @@ created: 2026-04-29
 
 ### 1.The Framework
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The anatomy of the cybersecurity interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/the-anatomy-of-the-cybersecurity-interview?u=76281980)
@@ -371,7 +387,7 @@ created: 2026-04-29
 
 ### 2. Interview Prep
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What not to do before an interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-not-to-do-before-an-interview?u=76281980)
@@ -603,7 +619,7 @@ created: 2026-04-29
 
 ### 3. Interview Stages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to thrive in the telephone interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/how-to-thrive-in-the-telephone-interview?u=76281980)
@@ -938,7 +954,7 @@ created: 2026-04-29
 
 ### 4. Closing Strong
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three things to do before leaving the parking lot
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/three-things-to-do-before-leaving-the-parking-lot?u=76281980)
@@ -1072,7 +1088,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What to do while you wait
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-cybersecurity-interview/what-to-do-while-you-wait?u=76281980)

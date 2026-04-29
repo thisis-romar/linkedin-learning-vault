@@ -46,19 +46,82 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding Computer Forensics]]** (10 videos)
-- **[[#2. Areas of Computer Forensics]]** (9 videos)
-- **[[#3. Preparing for an Investigation]]** (9 videos)
-- **[[#4. File System Fundamentals]]** (7 videos)
-- **[[#5. Persisting Data]]** (11 videos)
-- **[[#6. Aquiring Data]]** (7 videos)
-- **[[#7. Putting It All Together: Analyzing Data and Generating Reports]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Computer forensics
+  - What you should know
+- [**1. Understanding Computer Forensics**](#1-understanding-computer-forensics) (10 videos)
+  - Definition and goals of computer forensics
+  - History
+  - Types of investigations
+  - Tools
+  - Legal implications
+  - Current and future trends
+  - Challenges
+  - Anti-forensics techniques
+  - Compliance and forensics
+  - Cybersecurity and forensics
+- [**2. Areas of Computer Forensics**](#2-areas-of-computer-forensics) (9 videos)
+  - Specializations in computer forensics
+  - Network forensics
+  - Operating system forensics
+  - Web forensics
+  - Cloud forensics
+  - Malware forensics
+  - Mobile forensics
+  - Email forensics
+  - Certifications
+- [**3. Preparing for an Investigation**](#3-preparing-for-an-investigation) (9 videos)
+  - Tools and knowledge requirements
+  - Hardware
+  - Software
+  - Understanding hexadecimal numbers
+  - Using a hex editor
+  - Understanding offset
+  - Forensics OS distributions
+  - Challenge: Hex editor
+  - Solution: Hex editor
+- [**4. File System Fundamentals**](#4-file-system-fundamentals) (7 videos)
+  - Understanding file systems
+  - Understanding the boot sequence
+  - Understanding disk/solid-state drives
+  - Understanding the master boot records (MBR)
+  - Understanding Partitioning
+  - Challenge: Partitioning a USB drive
+  - Solution: Partitioning a USB drive
+- [**5. Persisting Data**](#5-persisting-data) (11 videos)
+  - Evidence preservation approaches
+  - Understanding the role of write blockers
+  - Using a software write blocker
+  - Using hardware write blockers
+  - Understanding hashing
+  - Hashing algorithms
+  - Case Study: Hashing in FTK Imager
+  - Understanding mounting
+  - Mounting manually
+  - Challenge: Hashing in Kali
+  - Solution: Hashing in Kali
+- [**6. Aquiring Data**](#6-aquiring-data) (7 videos)
+  - Data acquisition approaches
+  - Static acquisition with open-source tools
+  - Static acquisition case study with dd
+  - Static acquisition case study with dcfldd
+  - Live acquisition case study with a commercial tool
+  - Challenge: Live acquisition with a memory dump file
+  - Solution: Live acquisition with a memory dump file
+- [**7. Putting It All Together: Analyzing Data and Generating Reports**](#7-putting-it-all-together-analyzing-data-and-generating-reports) (7 videos)
+  - Forensic data analysis
+  - Indexing
+  - Searching
+  - Generating a Report
+  - Case Study: Hex editor analysis of a file with a wrong extension
+  - Hex editor analysis of a bit-shifted file
+  - Case Study: Steganography
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/computer-forensics?u=76281980)
@@ -118,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Understanding Computer Forensics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Definition and goals of computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/definition-and-goals-of-computer-forensics?u=76281980)
@@ -630,7 +693,7 @@ created: 2026-04-29
 
 ### 2. Areas of Computer Forensics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Specializations in computer forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/specializations-in-computer-forensics?u=76281980)
@@ -1222,7 +1285,7 @@ created: 2026-04-29
 
 ### 3. Preparing for an Investigation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and knowledge requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/tools-and-knowledge-requirements?u=76281980)
@@ -1713,7 +1776,7 @@ created: 2026-04-29
 
 ### 4. File System Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding file systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/understanding-file-systems?u=76281980)
@@ -2049,7 +2112,7 @@ created: 2026-04-29
 
 ### 5. Persisting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evidence preservation approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/evidence-preservation-approaches?u=76281980)
@@ -2748,7 +2811,7 @@ created: 2026-04-29
 
 ### 6. Aquiring Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data acquisition approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/data-acquisition-approaches?u=76281980)
@@ -3064,7 +3127,7 @@ created: 2026-04-29
 
 ### 7. Putting It All Together: Analyzing Data and Generating Reports
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Forensic data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/forensic-data-analysis?u=76281980)
@@ -3551,7 +3614,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-computer-forensics/next-steps?u=76281980)

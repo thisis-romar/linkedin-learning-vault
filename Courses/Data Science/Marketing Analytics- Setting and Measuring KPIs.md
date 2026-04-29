@@ -46,16 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Setting the Foundation for Your KPIs]]** (2 videos)
-- **[[#2. Metrics and Relational Metrics]]** (6 videos)
-- **[[#3. KPIs by Business Vertical]]** (5 videos)
-- **[[#4. Measuring Your KPIs]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Demystifying measurement in business
+- [**1. Setting the Foundation for Your KPIs**](#1-setting-the-foundation-for-your-kpis) (2 videos)
+  - What are KPIs and Why Do They Matter?
+  - How to Set Effective KPIs: SMART Methodology
+- [**2. Metrics and Relational Metrics**](#2-metrics-and-relational-metrics) (6 videos)
+  - What are metrics and how can we use them?
+  - What's the difference between a KPI and a metric?
+  - Qualitative metrics and quantiative metrics
+  - Avoiding vanity metrics
+  - Proxy metrics
+  - Calculated metrics
+- [**3. KPIs by Business Vertical**](#3-kpis-by-business-vertical) (5 videos)
+  - Critical Metrics for E-Commerce Success
+  - Critical Metrics for E-Commerce Success Part 2
+  - Key Metrics for subscription businesses
+  - Key Metrics for subscription businesses Part 2
+  - Key metrics in the service industry
+- [**4. Measuring Your KPIs**](#4-measuring-your-kpis) (4 videos)
+  - Applying SMART KPIs: Carmen's Bakery Growth Plan
+  - Meeting KPIs: Measuring performance in Sales
+  - Meeting KPIs: Measuring performance in Operations
+  - Meeting KPIs: Measuring performance in Purchasing
+- [**Conclusion**](#conclusion) (1 videos)
+  - Sharing metrics and KPIs with your organization
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Demystifying measurement in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/demystifying-measurement-in-business?u=76281980)
@@ -92,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Setting the Foundation for Your KPIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are KPIs and Why Do They Matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-kpis-and-why-do-they-matter?u=76281980)
@@ -237,7 +256,7 @@ created: 2026-04-29
 
 ### 2. Metrics and Relational Metrics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are metrics and how can we use them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/what-are-metrics-and-how-can-we-use-them?u=76281980)
@@ -613,7 +632,7 @@ created: 2026-04-29
 
 ### 3. KPIs by Business Vertical
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Critical Metrics for E-Commerce Success
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/critical-metrics-for-e-commerce-success?u=76281980)
@@ -977,7 +996,7 @@ created: 2026-04-29
 
 ### 4. Measuring Your KPIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying SMART KPIs: Carmen's Bakery Growth Plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/applying-smart-kpis-carmen-s-bakery-growth-plan?u=76281980)
@@ -1213,7 +1232,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sharing metrics and KPIs with your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-analytics-setting-and-measuring-kpis-23927432/sharing-metrics-and-kpis-with-your-organization?u=76281980)

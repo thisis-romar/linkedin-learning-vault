@@ -48,20 +48,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setting Up]]** (3 videos)
-- **[[#2. WordPress as a Gatsby Data Resource]]** (2 videos)
-- **[[#3. Working with Pages]]** (6 videos)
-- **[[#4. Custom Menus]]** (6 videos)
-- **[[#5. Working with Posts]]** (7 videos)
-- **[[#6. Categories and Tags]]** (5 videos)
-- **[[#7. Custom Post Types and Taxonomies]]** (2 videos)
-- **[[#8. Considerations When Using WordPress and Gatsby]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - WordPress and Gatsby working hand in hand
+  - What will be covered in this course
+- [**1. Setting Up**](#1-setting-up) (3 videos)
+  - Set up WordPress to work with Gatsby
+  - Set up a Gatsby site using a starter
+  - Use the exercise files on GitHub
+- [**2. WordPress as a Gatsby Data Resource**](#2-wordpress-as-a-gatsby-data-resource) (2 videos)
+  - Explore the WordPress GraphQL tree
+  - Use WordPress site data in Gatsby
+- [**3. Working with Pages**](#3-working-with-pages) (6 videos)
+  - Query pages in GraphQL
+  - Generate pages automatically
+  - Create a page template
+  - Work with featured images
+  - Challenge: Add metadata to the page template
+  - Solution: Add metadata to the page template
+- [**4. Custom Menus**](#4-custom-menus) (6 videos)
+  - Query custom menus in GraphQL
+  - How WordPress manages menu items
+  - Create a flat menu in Gatsby
+  - Create a nested menu in Gatsby
+  - Challenge: Create a footer menu
+  - Solution: Create a footer menu
+- [**5. Working with Posts**](#5-working-with-posts) (7 videos)
+  - Query posts in GraphQL
+  - Generate posts automatically
+  - Add category and tag info
+  - Create an index template
+  - Generate index pages automatically
+  - Challenge: Create a post navigation component
+  - Solution: Create a post navigation component
+- [**6. Categories and Tags**](#6-categories-and-tags) (5 videos)
+  - Query categories and tags
+  - Generate category indexes automatically
+  - Create a category index template
+  - Challenge: Create tag indexes
+  - Solution: Create tag indexes
+- [**7. Custom Post Types and Taxonomies**](#7-custom-post-types-and-taxonomies) (2 videos)
+  - Add custom post types and taxonomies
+  - Query custom post types and taxonomies in GraphQL
+- [**8. Considerations When Using WordPress and Gatsby**](#8-considerations-when-using-wordpress-and-gatsby) (1 videos)
+  - What to do about Blocks (Gutenberg)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### WordPress and Gatsby working hand in hand
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980)
@@ -128,7 +163,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up WordPress to work with Gatsby
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980)
@@ -505,7 +540,7 @@ created: 2026-04-29
 
 ### 2. WordPress as a Gatsby Data Resource
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the WordPress GraphQL tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980)
@@ -900,7 +935,7 @@ created: 2026-04-29
 
 ### 3. Working with Pages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Query pages in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980)
@@ -1703,7 +1738,7 @@ created: 2026-04-29
 
 ### 4. Custom Menus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Query custom menus in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-menus-in-graphql?u=76281980)
@@ -2420,7 +2455,7 @@ created: 2026-04-29
 
 ### 5. Working with Posts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Query posts in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980)
@@ -3251,7 +3286,7 @@ created: 2026-04-29
 
 ### 6. Categories and Tags
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Query categories and tags
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980)
@@ -3772,7 +3807,7 @@ created: 2026-04-29
 
 ### 7. Custom Post Types and Taxonomies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add custom post types and taxonomies
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980)
@@ -3925,7 +3960,7 @@ created: 2026-04-29
 
 ### 8. Considerations When Using WordPress and Gatsby
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What to do about Blocks (Gutenberg)
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980)
@@ -4076,7 +4111,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980)

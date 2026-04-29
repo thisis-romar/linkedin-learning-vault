@@ -49,13 +49,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI Tips for Product Designers]]** (11 videos)
-- **[[#2. Helpful Resources]]** (0 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How AI is transforming product design
+- [**1. AI Tips for Product Designers**](#1-ai-tips-for-product-designers) (11 videos)
+  - Creating mood boards using AI image tools
+  - Using Uizard to make fast prototypes
+  - Screenshot or sketch to prototype using Uizard
+  - Use Strella to validate prototypes
+  - Use Figma’s AI tools to speed up design
+  - Use Figma design-to-code tools
+  - Getting insights and opportunities from CX data
+  - Generate sitemaps and content in Relume
+  - Creating a custom agent for research insights
+  - Using AI ethically and securely
+  - The future of product design with AI
+- [**2. Helpful Resources**](#2-helpful-resources) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How AI is transforming product design
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980)
@@ -80,7 +92,7 @@ created: 2026-04-29
 
 ### 1. AI Tips for Product Designers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating mood boards using AI image tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980)
@@ -2278,7 +2290,7 @@ created: 2026-04-29
 
 ### 2. Helpful Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Skills Covered

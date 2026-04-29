@@ -48,16 +48,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Etiquette for Business Emails]]** (5 videos)
-- **[[#2. Etiquette for Business Messaging]]** (2 videos)
-- **[[#3. Etiquette for Business Phone Calls]]** (4 videos)
-- **[[#4. Etiquette for Written Business Communication]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Business etiquette for today's workplace
+- [**1. Etiquette for Business Emails**](#1-etiquette-for-business-emails) (5 videos)
+  - Email etiquette: Subjects, salutations, and signatures
+  - Respectfully addressing recipients: Names, gender, and pronouns
+  - Email etiquette: BCC, CC, automatic messages, and read receipts
+  - Email etiquette: Anticipating the needs of the recipient
+  - Email etiquette: Tone and timing
+- [**2. Etiquette for Business Messaging**](#2-etiquette-for-business-messaging) (2 videos)
+  - Messaging etiquette: Texting
+  - Messaging etiquette: Instant messaging (IMs) and chat
+- [**3. Etiquette for Business Phone Calls**](#3-etiquette-for-business-phone-calls) (4 videos)
+  - Understanding etiquette for phone calls
+  - Phone etiquette: Leaving a formal voicemail
+  - Phone etiquette: Creating a professional voicemail greeting
+  - Knowing when to call vs. text vs. email
+- [**4. Etiquette for Written Business Communication**](#4-etiquette-for-written-business-communication) (3 videos)
+  - Written communication etiquette: Business letter
+  - Written communication etiquette: Contact information
+  - Written communication etiquette: Thanks, celebration, and sympathy
+- [**Conclusion**](#conclusion) (1 videos)
+  - Etiquette is all about relationships
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business etiquette for today's workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/business-etiquette-for-today-s-workplace?u=76281980)
@@ -84,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Etiquette for Business Emails
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Email etiquette: Subjects, salutations, and signatures
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980)
@@ -479,7 +495,7 @@ created: 2026-04-29
 
 ### 2. Etiquette for Business Messaging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Messaging etiquette: Texting
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-texting?u=76281980)
@@ -661,7 +677,7 @@ created: 2026-04-29
 
 ### 3. Etiquette for Business Phone Calls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding etiquette for phone calls
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980)
@@ -1008,7 +1024,7 @@ created: 2026-04-29
 
 ### 4. Etiquette for Written Business Communication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Written communication etiquette: Business letter
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-business-letter?u=76281980)
@@ -1280,7 +1296,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Etiquette is all about relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/etiquette-is-all-about-relationships?u=76281980)

@@ -46,17 +46,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Permissions, Access Controls, and Activity Logs]]** (7 videos)
-- **[[#2. Throttling a Flood of Requests]]** (5 videos)
-- **[[#3. Protecting Data and Data Privacy]]** (5 videos)
-- **[[#4. 2FA: Two-Factor Authentication]]** (4 videos)
-- **[[#5. CSRF: Cross-Site Request Forgery Protection]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Security and Django
+  - What you should know
+  - What's included in the project
+  - Installing the project
+  - Running the server
+- [**1. Permissions, Access Controls, and Activity Logs**](#1-permissions-access-controls-and-activity-logs) (7 videos)
+  - Setting up per-object permissions in Django
+  - Enabling per-object permissions in Django
+  - Unit test for per-object permissions in Django
+  - Creating a group permissions model
+  - Unit test for access control and group permissions
+  - Adding activity logs for auditing
+  - Deleting objects in an audit/compliance-compatible way
+- [**2. Throttling a Flood of Requests**](#2-throttling-a-flood-of-requests) (5 videos)
+  - Using ApacheBench to simulate a flood of requests
+  - How to ensure actions happen only once
+  - Unit testing idempotent actions that should only happen once
+  - Using background queues to throttle floods of requests
+  - Unit testing background queue flood prevention
+- [**3. Protecting Data and Data Privacy**](#3-protecting-data-and-data-privacy) (5 videos)
+  - Per-field encryption of data in Django
+  - Unit testing per-field encryption
+  - Zero knowledge encryption of data in Django
+  - Unit testing zero knowledge encryption
+  - Packaging user data for download
+- [**4. 2FA: Two-Factor Authentication**](#4-2fa-two-factor-authentication) (4 videos)
+  - Using Twilio to send an SMS code
+  - Confirming SMS code and enabling 2FA
+  - Validating 2FA login before performing actions in Django
+  - Unit testing 2FA login requirement for Django REST API
+- [**5. CSRF: Cross-Site Request Forgery Protection**](#5-csrf-cross-site-request-forgery-protection) (2 videos)
+  - Enabling CSRF tokens in Django
+  - Unit testing Django forms that use CSRF
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security and Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/security-and-django?u=76281980)
@@ -150,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Permissions, Access Controls, and Activity Logs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up per-object permissions in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/setting-up-per-object-permissions-in-django?u=76281980)
@@ -544,7 +573,7 @@ created: 2026-04-29
 
 ### 2. Throttling a Flood of Requests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using ApacheBench to simulate a flood of requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/using-apachebench-to-simulate-a-flood-of-requests?u=76281980)
@@ -833,7 +862,7 @@ created: 2026-04-29
 
 ### 3. Protecting Data and Data Privacy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Per-field encryption of data in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/per-field-encryption-of-data-in-django?u=76281980)
@@ -1162,7 +1191,7 @@ created: 2026-04-29
 
 ### 4. 2FA: Two-Factor Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Twilio to send an SMS code
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/using-twilio-to-send-an-sms-code?u=76281980)
@@ -1341,7 +1370,7 @@ created: 2026-04-29
 
 ### 5. CSRF: Cross-Site Request Forgery Protection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enabling CSRF tokens in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/enabling-csrf-tokens-in-django?u=76281980)
@@ -1462,7 +1491,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-django-applications/next-steps?u=76281980)

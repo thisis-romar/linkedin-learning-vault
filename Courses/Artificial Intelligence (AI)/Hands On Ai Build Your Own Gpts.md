@@ -50,15 +50,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Action Item Generator KK]]** (6 videos)
-- **[[#2. Sun Tzu Career Coaching]]** (4 videos)
-- **[[#3. Gift Advisor Lilis]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Build your own GPTs using English
+  - OpenAI GPT store
+- [**1. Action Item Generator KK**](#1-action-item-generator-kk) (6 videos)
+  - OpenAI GPTs user interface
+  - Talk to KK in the playground
+  - Pentagram framework for prompt engineering
+  - Upgrading KK using Pentagram
+  - Chain-of-thought prompting
+  - Publish your GPT
+- [**2. Sun Tzu Career Coaching**](#2-sun-tzu-career-coaching) (4 videos)
+  - Custom knowledge base
+  - Personalized output
+  - Prompt injection
+  - Test case generation
+- [**3. Gift Advisor Lilis**](#3-gift-advisor-lilis) (3 videos)
+  - User intent detection
+  - Few-shot learning
+  - DALL-E visualization
+- [**Conclusion**](#conclusion) (1 videos)
+  - Build your own GPTs
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your own GPTs using English
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts-using-english?u=76281980)
@@ -144,7 +160,7 @@ created: 2026-04-29
 
 ### 1. Action Item Generator KK
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OpenAI GPTs user interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980)
@@ -600,7 +616,7 @@ created: 2026-04-29
 
 ### 2. Sun Tzu Career Coaching
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom knowledge base
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980)
@@ -897,7 +913,7 @@ created: 2026-04-29
 
 ### 3. Gift Advisor Lilis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### User intent detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980)
@@ -1200,7 +1216,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your own GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980)

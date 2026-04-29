@@ -50,17 +50,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to NLP Libraries]]** (3 videos)
-- **[[#2. Review NLP and Python Basics]]** (3 videos)
-- **[[#3. Using spaCy for Customer Feedback Analysis]]** (4 videos)
-- **[[#4. Modern NLP: Transformers and Large Language Models]]** (5 videos)
-- **[[#5. Methods That Improve LLM Performance]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Elevate Your NLP expertise using Python and machine learning
+  - What you should know
+  - How to use the challenge exercise files
+- [**1. Introduction to NLP Libraries**](#1-introduction-to-nlp-libraries) (3 videos)
+  - Overview of natural language processing
+  - Evolution of natural language processing
+  - Natural language processing libraries
+- [**2. Review NLP and Python Basics**](#2-review-nlp-and-python-basics) (3 videos)
+  - Introduction to spaCy
+  - Challenge: Build a spaCy processing pipeline
+  - Solution: Build a processing pipeline
+- [**3. Using spaCy for Customer Feedback Analysis**](#3-using-spacy-for-customer-feedback-analysis) (4 videos)
+  - Analyze customer feedback using spaCy
+  - The spaCy processing pipeline
+  - Challenge: Analyze customer feedback
+  - Solution: Analyze customer feedback
+- [**4. Modern NLP: Transformers and Large Language Models**](#4-modern-nlp-transformers-and-large-language-models) (5 videos)
+  - Modern natural language processing
+  - Transformers neural networks
+  - Large language models: BERT, GPT
+  - Challenge: Sentiment analysis using DistilBERT
+  - Solution: Sentiment analysis using DistilBERT
+- [**5. Methods That Improve LLM Performance**](#5-methods-that-improve-llm-performance) (7 videos)
+  - Methods that improve LLM performance
+  - Supervised fine-tuning
+  - Fine-tuning methods
+  - Retrieval-augmented generation (RAG)
+  - Parameter-efficient fine-tuning (PEFT)
+  - Challenge: Parameter-efficient fine-tuning with LoRa
+  - Solution: Parameter-efficient fine-tuning with LoRa
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elevate Your NLP expertise using Python and machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980)
@@ -145,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Introduction to NLP Libraries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980)
@@ -340,7 +366,7 @@ created: 2026-04-29
 
 ### 2. Review NLP and Python Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980)
@@ -568,7 +594,7 @@ created: 2026-04-29
 
 ### 3. Using spaCy for Customer Feedback Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze customer feedback using spaCy
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980)
@@ -819,7 +845,7 @@ created: 2026-04-29
 
 ### 4. Modern NLP: Transformers and Large Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980)
@@ -1127,7 +1153,7 @@ created: 2026-04-29
 
 ### 5. Methods That Improve LLM Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Methods that improve LLM performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980)
@@ -1669,7 +1695,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980)

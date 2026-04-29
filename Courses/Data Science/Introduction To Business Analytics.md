@@ -42,18 +42,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. How Can Data Improve Your Business?]]** (4 videos)
-- **[[#2. Analytics Fundamentals]]** (6 videos)
-- **[[#3. Data Source Map]]** (3 videos)
-- **[[#4. Managing Data]]** (5 videos)
-- **[[#5. The Value of Data Sources]]** (5 videos)
-- **[[#6. Tracking Data]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Empower your business through analytics
+- [**1. How Can Data Improve Your Business?**](#1-how-can-data-improve-your-business) (4 videos)
+  - What is the value of data?
+  - How can data drive my decisions?
+  - Data driven vs. data informed
+  - Three types of analytics
+- [**2. Analytics Fundamentals**](#2-analytics-fundamentals) (6 videos)
+  - Data governance
+  - Data tracking tools
+  - Effective data analysis
+  - Finding insights in data
+  - Statistics for analysts
+  - Data informed decision making
+- [**3. Data Source Map**](#3-data-source-map) (3 videos)
+  - Data source map
+  - Internal vs. external data sources
+  - Combining data sources
+- [**4. Managing Data**](#4-managing-data) (5 videos)
+  - Database management
+  - Data silos
+  - Data management tools
+  - Visualizing data
+  - Reporting infrastructure
+- [**5. The Value of Data Sources**](#5-the-value-of-data-sources) (5 videos)
+  - Sales data
+  - Marketing data
+  - Cost data
+  - Psychographic data
+  - External data
+- [**6. Tracking Data**](#6-tracking-data) (8 videos)
+  - Key sales metrics
+  - Tools to track sales data
+  - Key marketing metrics
+  - Tools to track marketing data
+  - Key cost metrics to track
+  - Tools to track cost data
+  - Key psychographic metrics
+  - Tools to track psychographic data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Empower your business through analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/empower-your-business-through-analytics?u=76281980)
@@ -91,7 +124,7 @@ created: 2026-04-29
 
 ### 1. How Can Data Improve Your Business?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the value of data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/what-is-the-value-of-data?u=76281980)
@@ -353,7 +386,7 @@ created: 2026-04-29
 
 ### 2. Analytics Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-governance?u=76281980)
@@ -778,7 +811,7 @@ created: 2026-04-29
 
 ### 3. Data Source Map
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data source map
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/data-source-map?u=76281980)
@@ -991,7 +1024,7 @@ created: 2026-04-29
 
 ### 4. Managing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Database management
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/database-management?u=76281980)
@@ -1310,7 +1343,7 @@ created: 2026-04-29
 
 ### 5. The Value of Data Sources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sales data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/sales-data?u=76281980)
@@ -1617,7 +1650,7 @@ created: 2026-04-29
 
 ### 6. Tracking Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key sales metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/key-sales-metrics?u=76281980)
@@ -2085,7 +2118,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2022/next-steps?u=76281980)

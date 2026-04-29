@@ -48,16 +48,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Blockchain Data]]** (1 videos)
-- **[[#2. Blockchain Block Data]]** (1 videos)
-- **[[#3. Blockchain Transaction Data]]** (1 videos)
-- **[[#4. Blockchain Address Data]]** (1 videos)
-- **[[#5. Blockchain Token Data]]** (1 videos)
-- **[[#6. Blockchain Contract Value]]** (1 videos)
+- [**1. Blockchain Data**](#1-blockchain-data) (1 videos)
+  - Blockchain data
+- [**2. Blockchain Block Data**](#2-blockchain-block-data) (1 videos)
+  - Blockchain block data
+- [**3. Blockchain Transaction Data**](#3-blockchain-transaction-data) (1 videos)
+  - Blockchain transaction data
+- [**4. Blockchain Address Data**](#4-blockchain-address-data) (1 videos)
+  - Blockchain address data
+- [**5. Blockchain Token Data**](#5-blockchain-token-data) (1 videos)
+  - Blockchain token data
+- [**6. Blockchain Contract Value**](#6-blockchain-contract-value) (1 videos)
+  - Blockchain contract value
 
 ### 1. Blockchain Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980)
@@ -134,7 +140,7 @@ created: 2026-04-29
 
 ### 2. Blockchain Block Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain block data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980)
@@ -269,7 +275,7 @@ created: 2026-04-29
 
 ### 3. Blockchain Transaction Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain transaction data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980)
@@ -367,7 +373,7 @@ created: 2026-04-29
 
 ### 4. Blockchain Address Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain address data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980)
@@ -446,7 +452,7 @@ created: 2026-04-29
 
 ### 5. Blockchain Token Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain token data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980)
@@ -547,7 +553,7 @@ created: 2026-04-29
 
 ### 6. Blockchain Contract Value
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain contract value
 > [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980)

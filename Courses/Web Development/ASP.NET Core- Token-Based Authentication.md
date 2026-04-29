@@ -49,15 +49,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started with Authentication]]** (4 videos)
-- **[[#2. Token-Based Authentication]]** (11 videos)
-- **[[#3. Role-Based Authentication]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why use exception token-based authentication?
+  - What you should know
+- [**1. Getting Started with Authentication**](#1-getting-started-with-authentication) (4 videos)
+  - Authentication vs. authorization
+  - Cookie-based vs. token-based authentication
+  - What is identity platform?
+  - JSON Web Token
+- [**2. Token-Based Authentication**](#2-token-based-authentication) (11 videos)
+  - Setting up Entity Framework Core
+  - Adding default identity tables using EF Core
+  - Configuring token-based authentication
+  - Adding the authentication controller
+  - Registering new users using UserManager
+  - Logging in users
+  - Generating an access token
+  - Adding the RefreshToken table
+  - Generating and storing refresh tokens
+  - Injecting TokenValidationParameters
+  - Refreshing expired tokens
+- [**3. Role-Based Authentication**](#3-role-based-authentication) (4 videos)
+  - Seeding the database with roles
+  - Adding role claims to tokens
+  - Adding role authentication to a controller
+  - Adding multiple roles to a controller
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps for learning more token-based authentication
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use exception token-based authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/why-use-exception-token-based-authentication?u=76281980)
@@ -121,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication vs. authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/authentication-vs-authorization?u=76281980)
@@ -325,7 +347,7 @@ created: 2026-04-29
 
 ### 2. Token-Based Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Entity Framework Core
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/setting-up-entity-framework-core?u=76281980)
@@ -1878,7 +1900,7 @@ created: 2026-04-29
 
 ### 3. Role-Based Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Seeding the database with roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/seeding-the-database-with-roles?u=76281980)
@@ -2321,7 +2343,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for learning more token-based authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-token-based-authentication/next-steps-for-learning-more-token-based-authentication?u=76281980)

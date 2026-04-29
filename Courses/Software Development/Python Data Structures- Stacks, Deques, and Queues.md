@@ -52,15 +52,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Stacks]]** (5 videos)
-- **[[#2. Queues]]** (5 videos)
-- **[[#3. Deques]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Python data structures: Stacks, queues, and deques
+  - What you should know
+  - Explore the CoderPad environment
+- [**1. Stacks**](#1-stacks) (5 videos)
+  - Stacks: An introduction
+  - The push() operation
+  - The pop() operation
+  - The peek() operation
+  - Solution: Palindrome checker
+- [**2. Queues**](#2-queues) (5 videos)
+  - Queues: An introduction
+  - List-based queues
+  - Stack-based queues
+  - Node-based queues
+  - Solution: Printer problem
+- [**3. Deques**](#3-deques) (3 videos)
+  - Deques: An introduction
+  - Appending lists with deque
+  - rotate(), reverse(), and extend()
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python data structures: Stacks, queues, and deques
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/python-data-structures-stacks-queues-and-deques?u=76281980)
@@ -187,7 +204,7 @@ created: 2026-04-29
 
 ### 1. Stacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stacks: An introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/stacks-an-introduction?u=76281980)
@@ -474,7 +491,7 @@ created: 2026-04-29
 
 ### 2. Queues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Queues: An introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/queues-an-introduction?u=76281980)
@@ -809,7 +826,7 @@ created: 2026-04-29
 
 ### 3. Deques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deques: An introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/deques-an-introduction?u=76281980)
@@ -936,7 +953,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-stacks-deques-and-queues/next-steps?u=76281980)

@@ -60,24 +60,88 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Data Assessment?]]** (5 videos)
-- **[[#2. Collect Initial Data]]** (5 videos)
-- **[[#3. First Look at the Data]]** (9 videos)
-- **[[#4. Data Loading and Unit of Analysis]]** (5 videos)
-- **[[#5. Describe Data]]** (4 videos)
-- **[[#6. Data Description Case Studies]]** (3 videos)
-- **[[#7. Explore Data Basics]]** (8 videos)
-- **[[#8. Explore Data Tips and Tricks]]** (9 videos)
-- **[[#9. Verify Data Quality]]** (3 videos)
-- **[[#10. Missing Data Case Study]]** (4 videos)
-- **[[#11. Explore and Verify Case Studies]]** (3 videos)
-- **[[#12. Making the Transition to Data Preparation]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why data assessment is critical
+  - A note about the exercise files
+- [**1. What Is Data Assessment?**](#1-what-is-data-assessment) (5 videos)
+  - Clarifying how data understanding differs from data visualization
+  - Introducing the critical data understanding phase of CRISP-DM
+  - Data assessment in CRISP-DM alternatives: The IBM ASUM-DM and Microsoft TDSP
+  - Navigating the transition from business understanding to data understanding
+  - How to organize your work with the four data understanding tasks
+- [**2. Collect Initial Data**](#2-collect-initial-data) (5 videos)
+  - Considerations in gathering the relevant data
+  - A strategy for processing data sources
+  - Getting creative about data sources
+  - How to envision a proper flat file
+  - Anticipating data integration
+- [**3. First Look at the Data**](#3-first-look-at-the-data) (9 videos)
+  - Reviewing basic concepts in the level of measurement
+  - What is dummy coding?
+  - Expanding our definition of level of measurement
+  - Taking an initial look at possible key variables
+  - Dealing with duplicate IDs and transactional data
+  - How many potential variables (columns) will I have?
+  - How to deal with high-order multiple nominals
+  - Challenge: Identifying the level of measurement
+  - Solution: Identifying the level of measurement
+- [**4. Data Loading and Unit of Analysis**](#4-data-loading-and-unit-of-analysis) (5 videos)
+  - Introducing the KNIME Analytics Platform
+  - Tips and tricks to consider during data loading
+  - Unit analysis decisions
+  - Challenge: What should the row be?
+  - Solution: What should the row be?
+- [**5. Describe Data**](#5-describe-data) (4 videos)
+  - How to uncover the gross properties of the data
+  - Researching the dataset
+  - Tips and tricks using simple aggregation commands
+  - A simple strategy for organizing your work
+- [**6. Data Description Case Studies**](#6-data-description-case-studies) (3 videos)
+  - Describe data demo using the UCI heart dataset
+  - Challenge: Practice describe data with the UCI heart dataset
+  - Solution: Practice describe data with the UCI heart dataset
+- [**7. Explore Data Basics**](#7-explore-data-basics) (8 videos)
+  - The explore data task
+  - How to be effective doing univariate analysis and data visualization
+  - Anscombe's quartet
+  - The Data Explorer node feature in KNIME
+  - How to navigate borderline cases of variable type
+  - How to be effective in doing bivariate data visualization
+  - Challenge: Producing bivariate visualizations for case study 1
+  - Solution: Producing bivariate visualizations for case study 1
+- [**8. Explore Data Tips and Tricks**](#8-explore-data-tips-and-tricks) (9 videos)
+  - How to utilize an SME's time effectively
+  - Techniques for working with the top predictors
+  - Advice for weak predictors
+  - Tips and tricks when searching for quirks in your data
+  - Learning when to discard rows
+  - Introducing ggplot2
+  - Orientating to R's ggplot2 for powerful multivariate data visualizations
+  - Challenge: Producing multivariate visualizations for case study 1
+  - Solution: Producing multivariate visualizations for case study 1
+- [**9. Verify Data Quality**](#9-verify-data-quality) (3 videos)
+  - Exploring your missing data options
+  - Why you lose rows to listwise deletion
+  - Investigating the provenance of the missing data
+- [**10. Missing Data Case Study**](#10-missing-data-case-study) (4 videos)
+  - Introducing the KDD Cup 1998 data
+  - What is the pattern of missing data in your data?
+  - Is the missing data worth saving?
+  - Assessing imputation as a potential solution
+- [**11. Explore and Verify Case Studies**](#11-explore-and-verify-case-studies) (3 videos)
+  - Exploring and verifying data quality with the UCI heart dataset
+  - Challenge: Quantifying missing data with the UCI heart dataset
+  - Solution: Quantifying missing data with the UCI heart dataset
+- [**12. Making the Transition to Data Preparation**](#12-making-the-transition-to-data-preparation) (3 videos)
+  - Why formal reports are important
+  - Creating a data prep to-do list
+  - How to prepare for eventual deployment
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why data assessment is critical
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-data-assessment-is-critical?u=76281980)
@@ -161,7 +225,7 @@ created: 2026-04-29
 
 ### 1. What Is Data Assessment?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Clarifying how data understanding differs from data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/clarifying-how-data-understanding-differs-from-data-visualization?u=76281980)
@@ -552,7 +616,7 @@ created: 2026-04-29
 
 ### 2. Collect Initial Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Considerations in gathering the relevant data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/considerations-in-gathering-the-relevant-data?u=76281980)
@@ -861,7 +925,7 @@ created: 2026-04-29
 
 ### 3. First Look at the Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing basic concepts in the level of measurement
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/reviewing-basic-concepts-in-the-level-of-measurement?u=76281980)
@@ -1577,7 +1641,7 @@ created: 2026-04-29
 
 ### 4. Data Loading and Unit of Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the KNIME Analytics Platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-knime-analytics-platform?u=76281980)
@@ -2172,7 +2236,7 @@ created: 2026-04-29
 
 ### 5. Describe Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to uncover the gross properties of the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-uncover-the-gross-properties-of-the-data?u=76281980)
@@ -2562,7 +2626,7 @@ created: 2026-04-29
 
 ### 6. Data Description Case Studies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe data demo using the UCI heart dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/describe-data-demo-using-the-uci-heart-dataset?u=76281980)
@@ -2925,7 +2989,7 @@ created: 2026-04-29
 
 ### 7. Explore Data Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The explore data task
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/the-explore-data-task?u=76281980)
@@ -3852,7 +3916,7 @@ created: 2026-04-29
 
 ### 8. Explore Data Tips and Tricks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to utilize an SME's time effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/how-to-utilize-an-sme-s-time-effectively?u=76281980)
@@ -4561,7 +4625,7 @@ created: 2026-04-29
 
 ### 9. Verify Data Quality
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring your missing data options
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-your-missing-data-options?u=76281980)
@@ -4786,7 +4850,7 @@ created: 2026-04-29
 
 ### 10. Missing Data Case Study
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the KDD Cup 1998 data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/introducing-the-kdd-cup-1998-data?u=76281980)
@@ -5357,7 +5421,7 @@ created: 2026-04-29
 
 ### 11. Explore and Verify Case Studies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring and verifying data quality with the UCI heart dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/exploring-and-verifying-data-quality-with-the-uci-heart-dataset?u=76281980)
@@ -5570,7 +5634,7 @@ created: 2026-04-29
 
 ### 12. Making the Transition to Data Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why formal reports are important
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/why-formal-reports-are-important?u=76281980)
@@ -5780,7 +5844,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-data-assessment-for-predictive-modeling/next-steps?u=76281980)

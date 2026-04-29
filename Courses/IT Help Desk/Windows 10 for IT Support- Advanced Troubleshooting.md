@@ -48,18 +48,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Devices and Services]]** (6 videos)
-- **[[#2. Network Troubleshooting]]** (8 videos)
-- **[[#3. Troubleshooting Logins]]** (3 videos)
-- **[[#4. Troubleshooting System Updates and Integrity]]** (7 videos)
-- **[[#5. Performance Troubleshooting]]** (4 videos)
-- **[[#6. Troubleshooting the Blue Screen of Death]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Learn advanced troubleshooting in Windows 10
+- [**1. Devices and Services**](#1-devices-and-services) (6 videos)
+  - Checking for stopped services
+  - Common causes of service failure
+  - Using PowerShell to start failed services
+  - Using Device Manager to find failed devices
+  - Disabling failed devices
+  - Updating device drivers
+- [**2. Network Troubleshooting**](#2-network-troubleshooting) (8 videos)
+  - Verifying IP address assignments
+  - The ping test
+  - Testing DNS name resolution
+  - Fixing common DNS issues
+  - Using the network troubleshooter
+  - Fixing Wi-Fi connectivity
+  - Network troubleshooting when Hyper-V is installed
+  - Hyper-V virtual machine connectivity
+- [**3. Troubleshooting Logins**](#3-troubleshooting-logins) (3 videos)
+  - Fixing a computer account
+  - Common domain membership problems
+  - Solving time sync issues
+- [**4. Troubleshooting System Updates and Integrity**](#4-troubleshooting-system-updates-and-integrity) (7 videos)
+  - Running CHKDSK
+  - Using the System File Checker
+  - Restoring a system's health
+  - Verify your Windows build number
+  - Running Windows Update
+  - Using the Windows Update Troubleshooter
+  - Resolving common update errors
+- [**5. Performance Troubleshooting**](#5-performance-troubleshooting) (4 videos)
+  - Using the Task Manager for performance assessments
+  - Working with the Resource Monitor
+  - Using the Performance Monitor
+  - Using PowerShell to track resource usage
+- [**6. Troubleshooting the Blue Screen of Death**](#6-troubleshooting-the-blue-screen-of-death) (6 videos)
+  - Creating a blue screen error on demand
+  - The anatomy of a blue screen
+  - Basic troubleshooting steps
+  - Running the Reliability Monitor
+  - Configure a crash dump
+  - Analyzing a crash dump
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn advanced troubleshooting in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980)
@@ -89,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Devices and Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Checking for stopped services
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/checking-for-stopped-services?u=76281980)
@@ -629,7 +665,7 @@ created: 2026-04-29
 
 ### 2. Network Troubleshooting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Verifying IP address assignments
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980)
@@ -1339,7 +1375,7 @@ created: 2026-04-29
 
 ### 3. Troubleshooting Logins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fixing a computer account
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980)
@@ -1654,7 +1690,7 @@ created: 2026-04-29
 
 ### 4. Troubleshooting System Updates and Integrity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Running CHKDSK
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980)
@@ -2133,7 +2169,7 @@ created: 2026-04-29
 
 ### 5. Performance Troubleshooting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Task Manager for performance assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-task-manager-for-performance-assessments?u=76281980)
@@ -2464,7 +2500,7 @@ created: 2026-04-29
 
 ### 6. Troubleshooting the Blue Screen of Death
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a blue screen error on demand
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/creating-a-blue-screen-error-on-demand?u=76281980)
@@ -2920,7 +2956,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980)

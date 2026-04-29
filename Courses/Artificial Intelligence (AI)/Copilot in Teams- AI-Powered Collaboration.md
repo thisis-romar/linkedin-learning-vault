@@ -51,12 +51,20 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Using the Different Copilot Tools in Teams]]** (6 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Use the Copilot AI assistant in Teams
+  - Understand the subscription needed for Copilot
+- [**1. Using the Different Copilot Tools in Teams**](#1-using-the-different-copilot-tools-in-teams) (6 videos)
+  - Get summaries and answers about chat conversations
+  - Use copilot to rewrite messages
+  - Use Copilot during a meeting
+  - Get meeting summaries after meetings have ended
+  - Use the Copilot chat assistant in Teams
+  - Extend skills with Copilot Studio
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the Copilot AI assistant in Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/use-the-copilot-ai-assistant-in-teams?u=76281980)
@@ -117,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Using the Different Copilot Tools in Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get summaries and answers about chat conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-teams-ai-powered-collaboration/get-summaries-and-answers-about-chat-conversations?u=76281980)

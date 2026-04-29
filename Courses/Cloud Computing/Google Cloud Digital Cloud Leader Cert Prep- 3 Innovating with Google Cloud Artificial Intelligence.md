@@ -52,14 +52,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI and ML Fundamentals]]** (6 videos)
-- **[[#2. Google Cloud’s AI and ML Solutions]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course introduction
+- [**1. AI and ML Fundamentals**](#1-ai-and-ml-fundamentals) (6 videos)
+  - Introduction
+  - AI and ML defined
+  - How AI and ML differ from data analytics and business intelligence
+  - Problems that ML is suited to solve
+  - Why ML requires high-quality data
+  - The importance of responsible and explainable AI
+- [**2. Google Cloud’s AI and ML Solutions**](#2-google-clouds-ai-and-ml-solutions) (8 videos)
+  - Introduction
+  - BigQuery ML
+  - Pre-trained APIs
+  - AutoML
+  - Custom models
+  - TensorFlow
+  - AI solutions
+  - Considerations when selecting Google Cloud AI/ML solutions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-introduction?u=76281980)
@@ -95,7 +111,7 @@ created: 2026-04-29
 
 ### 1. AI and ML Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction?u=76281980)
@@ -472,7 +488,7 @@ created: 2026-04-29
 
 ### 2. Google Cloud’s AI and ML Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/introduction-23231124?u=76281980)
@@ -805,7 +821,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-cloud-leader-cert-prep-3-innovating-with-google-cloud-artificial-intelligence/course-summary?u=76281980)

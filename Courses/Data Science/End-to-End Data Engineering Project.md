@@ -54,17 +54,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Project Overview and Preparation]]** (4 videos)
-- **[[#2. Data Extraction and Loading]]** (5 videos)
-- **[[#3. Starting Data Transformation and Modeling]]** (6 videos)
-- **[[#4. Data Transformation and Modeling]]** (7 videos)
-- **[[#5. Data Orchestration]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Transform complex data into insights
+  - What you should know
+- [**1. Project Overview and Preparation**](#1-project-overview-and-preparation) (4 videos)
+  - Project architecture overview
+  - Project setup
+  - Understanding the Big Star Collectibles database
+  - Setting up your data warehouse
+- [**2. Data Extraction and Loading**](#2-data-extraction-and-loading) (5 videos)
+  - Getting started with ELT tools: An introduction to Airbyte
+  - Deploying Airbyte for data synchronization
+  - Setting up sources and destinations in Airbyte
+  - Establishing connections in Airbyte
+  - Synchronizing and navigating through data
+- [**3. Starting Data Transformation and Modeling**](#3-starting-data-transformation-and-modeling) (6 videos)
+  - Introduction to data modeling with dbt
+  - Understanding the structure of a dbt project
+  - Initiating your dbt project
+  - Configuring data sources in dbt
+  - Challenge: Add a freshness check
+  - Solution: Add a freshness check
+- [**4. Data Transformation and Modeling**](#4-data-transformation-and-modeling) (7 videos)
+  - Creating and customizing your dbt models
+  - Reviewing and executing dbt
+  - Securing your data with dbt tests
+  - Challenge: Add tests to the Marts model
+  - Solution: Add tests to the Marts model
+  - Automating documentation in dbt
+  - Completing your dbt project: A full development cycle
+- [**5. Data Orchestration**](#5-data-orchestration) (6 videos)
+  - Introduction to data orchestration with Dagster
+  - Integrating dbt models with Dagster assets
+  - Integrating Airbyte connections with Dagster assets
+  - Materializing assets using Dagit
+  - Challenge: Add a schedule to your data pipeline
+  - Solution: Add a schedule to your data pipeline
+- [**Conclusion**](#conclusion) (1 videos)
+  - An evolving field
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform complex data into insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980)
@@ -148,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Project Overview and Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project architecture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980)
@@ -505,7 +536,7 @@ created: 2026-04-29
 
 ### 2. Data Extraction and Loading
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with ELT tools: An introduction to Airbyte
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980)
@@ -858,7 +889,7 @@ created: 2026-04-29
 
 ### 3. Starting Data Transformation and Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data modeling with dbt
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980)
@@ -1219,7 +1250,7 @@ created: 2026-04-29
 
 ### 4. Data Transformation and Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and customizing your dbt models
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/creating-and-customizing-your-dbt-models?u=76281980)
@@ -1648,7 +1679,7 @@ created: 2026-04-29
 
 ### 5. Data Orchestration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data orchestration with Dagster
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980)
@@ -1981,7 +2012,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An evolving field
 > [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980)

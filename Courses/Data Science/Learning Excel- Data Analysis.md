@@ -51,20 +51,81 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Foundational Concepts of Data Analysis]]** (8 videos)
-- **[[#2. Visualizing Data]]** (8 videos)
-- **[[#3. Testing a Hypothesis]]** (5 videos)
-- **[[#4. Utilizing Data Distributions]]** (7 videos)
-- **[[#5. Measuring Covariance and Correlation]]** (8 videos)
-- **[[#6. Calculating Probabilities, Combinations, and Permutations]]** (9 videos)
-- **[[#7. Performing Bayesian Analysis]]** (6 videos)
-- **[[#8. Performing Regression Analysis]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Analyze your data effectively
+  - What you should know before starting
+- [**1. Foundational Concepts of Data Analysis**](#1-foundational-concepts-of-data-analysis) (8 videos)
+  - Calculate mean and median values
+  - Measure maximums, minimums, and other data characteristics
+  - Analyze data using variance and standard deviation
+  - Introduce the central limit theorem
+  - Analyze a population using data samples
+  - Identify and minimize sources of error
+  - Challenge: Summarize and analyze business data
+  - Solution: Summarize and analyze business data
+- [**2. Visualizing Data**](#2-visualizing-data) (8 videos)
+  - Group data using histograms
+  - Identify relationships using XY scatter charts
+  - Visualize data using logarithmic scales
+  - Add trendlines to charts
+  - Forecast future results
+  - Calculate running averages
+  - Challenge: Summarize operational data visually
+  - Solution: Summarize operational data visually
+- [**3. Testing a Hypothesis**](#3-testing-a-hypothesis) (5 videos)
+  - Formulate a hypothesis
+  - Interpret the results of your analysis
+  - Consider the limits of hypothesis testing
+  - Challenge: Formulate and test a hypothesis
+  - Solution: Formulate and test a hypothesis
+- [**4. Utilizing Data Distributions**](#4-utilizing-data-distributions) (7 videos)
+  - Use the normal distribution
+  - Use a uniform distribution
+  - Use the exponential distribution
+  - Use the Poisson distribution
+  - Use the binomial distribution
+  - Challenge: Model operational data using distributions
+  - Solution: Model operational data using distributions
+- [**5. Measuring Covariance and Correlation**](#5-measuring-covariance-and-correlation) (8 videos)
+  - Visualize what covariance means
+  - Calculate covariance between two columns of data
+  - Calculate covariance among multiple pairs of columns
+  - Visualize what correlation means
+  - Calculate the correlation between two columns of data
+  - Calculate correlation among multiple pairs of columns
+  - Challenge: Calculate correlations between  columns of data
+  - Solution: Calculate correlations between columns of data
+- [**6. Calculating Probabilities, Combinations, and Permutations**](#6-calculating-probabilities-combinations-and-permutations) (9 videos)
+  - Calculate simple probabilities
+  - Calculate compound probabilities
+  - Calculate expected value
+  - Calculate permutations without duplication
+  - Calculate permutations with duplication
+  - Calculate combinations without duplication
+  - Calculate combinations with duplication
+  - Challenge: Calculate the expected value of a business scenario
+  - Solution: Calculate the expected value of a business scenario
+- [**7. Performing Bayesian Analysis**](#7-performing-bayesian-analysis) (6 videos)
+  - Introduce Bayesian analysis
+  - Analyze a sample problem: Kahneman’s Cabs
+  - Create a classification matrix
+  - Calculate Bayesian probabilities in Excel
+  - Challenge: Perform a Bayesian analysis
+  - Solution: Perform a Bayesian analysis
+- [**8. Performing Regression Analysis**](#8-performing-regression-analysis) (7 videos)
+  - Introduce linear regression
+  - Enable the Analysis ToolPak add-in
+  - Perform linear regression on a single variable
+  - Interpret linear regression results
+  - Perform multiple regression
+  - Challenge: Perform linear regression
+  - Solution: Perform linear regression
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze your data effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/analyze-your-data-effectively-24043673?u=76281980)
@@ -116,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Foundational Concepts of Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate mean and median values
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-mean-and-median-values-24049637?u=76281980)
@@ -787,7 +848,7 @@ created: 2026-04-29
 
 ### 2. Visualizing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Group data using histograms
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/group-data-using-histograms-24045728?u=76281980)
@@ -1452,7 +1513,7 @@ created: 2026-04-29
 
 ### 3. Testing a Hypothesis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Formulate a hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/formulate-a-hypothesis-24047698?u=76281980)
@@ -1666,7 +1727,7 @@ created: 2026-04-29
 
 ### 4. Utilizing Data Distributions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the normal distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/use-the-normal-distribution-24050673?u=76281980)
@@ -2475,7 +2536,7 @@ created: 2026-04-29
 
 ### 5. Measuring Covariance and Correlation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualize what covariance means
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/visualize-what-covariance-means-24048670?u=76281980)
@@ -3177,7 +3238,7 @@ created: 2026-04-29
 
 ### 6. Calculating Probabilities, Combinations, and Permutations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate simple probabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/calculate-simple-probabilities-24045730?u=76281980)
@@ -3681,7 +3742,7 @@ created: 2026-04-29
 
 ### 7. Performing Bayesian Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduce Bayesian analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-bayesian-analysis-24050672?u=76281980)
@@ -4142,7 +4203,7 @@ created: 2026-04-29
 
 ### 8. Performing Regression Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduce linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/introduce-linear-regression?u=76281980)
@@ -4619,7 +4680,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-data-analysis-18868618/additional-resources-24043676?u=76281980)

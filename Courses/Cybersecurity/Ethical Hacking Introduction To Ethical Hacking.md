@@ -43,17 +43,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Protect Data in a Digital World]]** (6 videos)
-- **[[#2. Maintain a Vigilant Posture]]** (6 videos)
-- **[[#3. Summarize Hacking Frameworks]]** (7 videos)
-- **[[#4. Review Security Laws and Standards]]** (7 videos)
-- **[[#5. Support Ethical Hacking]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Locking down the organization
+  - Discovering resources
+  - Hacking ethically
+- [**1. Protect Data in a Digital World**](#1-protect-data-in-a-digital-world) (6 videos)
+  - Recognizing elements of information security
+  - Providing information assurance
+  - Defending in depth
+  - Using AI and ML in cybersecurity
+  - Adapting to the threats
+  - Leveraging event correlation
+- [**2. Maintain a Vigilant Posture**](#2-maintain-a-vigilant-posture) (6 videos)
+  - Modeling threats
+  - Using cyber threat intelligence
+  - Following the threat intelligence lifecycle
+  - Managing incidents
+  - Challenge: Hardening guide
+  - Solution: Hardening guide
+- [**3. Summarize Hacking Frameworks**](#3-summarize-hacking-frameworks) (7 videos)
+  - Understanding the cyber kill chain
+  - Utilizing MITRE ATT&CK
+  - Analyzing using the diamond model
+  - Identifying adversary behavior
+  - Discovering indicators of compromise
+  - Challenge: The cyber kill chain
+  - Solution: The cyber kill chain
+- [**4. Review Security Laws and Standards**](#4-review-security-laws-and-standards) (7 videos)
+  - Managing risks
+  - Asset inventory
+  - Defining information security standards
+  - Outlining US regulations
+  - Exploring global cyber laws and standards
+  - Challenge: Cyber threat information sharing
+  - Solution: Cyber threat information sharing
+- [**5. Support Ethical Hacking**](#5-support-ethical-hacking) (5 videos)
+  - Comparing attack types and motives
+  - Outlining the types of hackers
+  - Recognizing the skills of an ethical hacker
+  - Stepping through the hacking phases
+  - Grasping the importance of ethical hacking
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Locking down the organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/locking-down-the-organization?u=76281980)
@@ -133,7 +168,7 @@ created: 2026-04-29
 
 ### 1. Protect Data in a Digital World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognizing elements of information security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/recognizing-elements-of-information-security?u=76281980)
@@ -521,7 +556,7 @@ created: 2026-04-29
 
 ### 2. Maintain a Vigilant Posture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/modeling-threats?u=76281980)
@@ -879,7 +914,7 @@ created: 2026-04-29
 
 ### 3. Summarize Hacking Frameworks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the cyber kill chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/understanding-the-cyber-kill-chain?u=76281980)
@@ -1428,7 +1463,7 @@ created: 2026-04-29
 
 ### 4. Review Security Laws and Standards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/managing-risks?u=76281980)
@@ -1863,7 +1898,7 @@ created: 2026-04-29
 
 ### 5. Support Ethical Hacking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing attack types and motives
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/comparing-attack-types-and-motives?u=76281980)
@@ -2245,7 +2280,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-introduction-to-ethical-hacking-22666825/next-steps?u=76281980)

@@ -48,16 +48,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Security Overview]]** (5 videos)
-- **[[#2. General Security Principles]]** (9 videos)
-- **[[#3. Filter Input, Control Output]]** (8 videos)
-- **[[#4. The Most Common Attacks]]** (13 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The importance of security
+- [**1. Security Overview**](#1-security-overview) (5 videos)
+  - What is security?
+  - Why security matters
+  - What is a hacker?
+  - Threat models
+  - Total security is unachievable
+- [**2. General Security Principles**](#2-general-security-principles) (9 videos)
+  - Least privilege
+  - Simple is more secure
+  - Never trust users
+  - Expect the unexpected
+  - Defense in depth
+  - Resilience
+  - Security through obscurity
+  - Deny-listing and allow-listing
+  - Map exposure points and data passageways
+- [**3. Filter Input, Control Output**](#3-filter-input-control-output) (8 videos)
+  - Regulate requests
+  - Validate input
+  - Sanitize data
+  - Label variables
+  - Keep code private
+  - Keep credentials private
+  - Keep error messages vague
+  - Smart logging
+- [**4. The Most Common Attacks**](#4-the-most-common-attacks) (13 videos)
+  - Types of credential attacks
+  - Strong passwords
+  - URL manipulation and Insecure Direct Object Reference (IDOR)
+  - SQL injection
+  - Cross-Site Scripting (XSS)
+  - Cross-Site Request Forgery (CSRF)
+  - Cross-Site Request protections
+  - Cookie visibility and theft
+  - Session hijacking
+  - Session fixation
+  - Remote system execution
+  - File upload abuse
+  - Denial of service
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of security
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/the-importance-of-security?u=76281980)
@@ -101,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Security Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is security?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/what-is-security?u=76281980)
@@ -510,7 +547,7 @@ created: 2026-04-29
 
 ### 2. General Security Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/least-privilege?u=76281980)
@@ -1393,7 +1430,7 @@ created: 2026-04-29
 
 ### 3. Filter Input, Control Output
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Regulate requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/regulate-requests?u=76281980)
@@ -2147,7 +2184,7 @@ created: 2026-04-29
 
 ### 4. The Most Common Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of credential attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/types-of-credential-attacks?u=76281980)
@@ -3655,7 +3692,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-web-security-22680062/next-steps?u=76281980)

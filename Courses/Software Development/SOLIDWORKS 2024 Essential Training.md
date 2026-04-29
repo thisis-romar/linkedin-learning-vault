@@ -44,30 +44,159 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to SOLIDWORKS]]** (6 videos)
-- **[[#2. SOLIDWORKS Quick Start]]** (4 videos)
-- **[[#3. Basic Part Modeling]]** (12 videos)
-- **[[#4. Sketch Tools]]** (12 videos)
-- **[[#5. Modify Sketches]]** (9 videos)
-- **[[#6. Reference Geometry]]** (5 videos)
-- **[[#7. Part Modifications]]** (7 videos)
-- **[[#8. Advanced Part Modeling]]** (20 videos)
-- **[[#9. Hole Wizard]]** (5 videos)
-- **[[#10. Blocks]]** (3 videos)
-- **[[#11. Building Assemblies]]** (9 videos)
-- **[[#12. Advanced Mates]]** (7 videos)
-- **[[#13. In-Context Modeling]]** (3 videos)
-- **[[#14. Using Design Tables]]** (5 videos)
-- **[[#15. Part Drawings]]** (4 videos)
-- **[[#16. Dimensioning]]** (4 videos)
-- **[[#17. Add General Annotations]]** (6 videos)
-- **[[#18. Assembly Drawings]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Learn 3D CAD modeling with SOLIDWORKS 2024
+- [**1. Introduction to SOLIDWORKS**](#1-introduction-to-solidworks) (6 videos)
+  - Launching SOLIDWORKS for the first time
+  - Navigating in the 3D workspace
+  - SOLIDWORKS templates
+  - Saving, renaming, and managing files
+  - Measuring
+  - Interface improvements for SOLIDWORKS 2024
+- [**2. SOLIDWORKS Quick Start**](#2-solidworks-quick-start) (4 videos)
+  - Creating your first 3D part
+  - Building your first assembly
+  - Making your first CAD drawing
+  - Basic steps for 3D modeling
+- [**3. Basic Part Modeling**](#3-basic-part-modeling) (12 videos)
+  - Creating sketches
+  - Understanding relationships
+  - Using the Extrude feature
+  - Using the Extruded Cut feature
+  - Creating revolved features
+  - Making revolved cuts
+  - Applying materials, colors, and finishes
+  - Finding mass properties
+  - System options, units, and templates
+  - Working with dimensions
+  - Selecting colors
+  - Creating reference coordinate systems
+- [**4. Sketch Tools**](#4-sketch-tools) (12 videos)
+  - Line and Centerline tools
+  - Using the Rectangle tool
+  - Circles and arcs
+  - Drawing slots
+  - Working with ellipses and conics
+  - Sketching polygons
+  - Creating text
+  - Using equations and linked variables
+  - Using the Spline tool
+  - Equation driven curve
+  - Sketch Ink
+  - Copying and patterning sketch text
+- [**5. Modify Sketches**](#5-modify-sketches) (9 videos)
+  - Trimming and extending a sketch
+  - Creating offset geometry
+  - Moving, copying, rotating, and scaling
+  - Erasing, undoing, and redoing actions
+  - Using the Mirror tools
+  - Creating repeating patterns in a sketch
+  - Using construction lines
+  - Using the Convert Entities tool
+  - Adding fillets and chamfers to sketches
+- [**6. Reference Geometry**](#6-reference-geometry) (5 videos)
+  - Working with planes
+  - Making an axis
+  - Creating a coordinate system
+  - Concept sketches
+  - Markup view
+- [**7. Part Modifications**](#7-part-modifications) (7 videos)
+  - Adding fillets to a part
+  - Chamfering edges
+  - Applying draft
+  - Using the Shell command
+  - Using the Mirror command
+  - Creating linear patterns
+  - Creating circular patterns
+- [**8. Advanced Part Modeling**](#8-advanced-part-modeling) (20 videos)
+  - Loft tool
+  - Lofted shapes with guide curves
+  - Making lofted cuts
+  - Creating swept shapes
+  - Making swept cuts
+  - Using the Wrap command
+  - Boundary Boss/Base
+  - Intersect tool
+  - Working with configurations
+  - Surface tools
+  - Using surfaces to build solid models
+  - Direct editing: Move/Copy Bodies
+  - Direct editing: Move Face
+  - Direct editing: Combine
+  - Direct editing: Split
+  - Project Curve
+  - Slice tool
+  - Introduction to Sheet Metal tools
+  - Introduction to Weldments
+  - Review of available tool sets
+- [**9. Hole Wizard**](#9-hole-wizard) (5 videos)
+  - Getting started with the Hole Wizard
+  - Best practices for using the Holewizard
+  - Positioning holes in 3D
+  - Hole Wizard Slots
+  - External Threaded Stud Wizard
+- [**10. Blocks**](#10-blocks) (3 videos)
+  - Using sketch blocks
+  - Creating blocks
+  - Designing with blocks
+- [**11. Building Assemblies**](#11-building-assemblies) (9 videos)
+  - Starting an assembly
+  - Copying, moving, and rotating parts
+  - Mating parts together in an assembly
+  - Working with subassemblies
+  - Making linear patterns
+  - Creating circular patterns
+  - Using the Toolbox
+  - Downloading internet parts
+  - Using the Q key for quick references
+- [**12. Advanced Mates**](#12-advanced-mates) (7 videos)
+  - Creating component Mates
+  - Mating parts with Advanced Mates
+  - Mating parts with Path Mate
+  - Mechanical Mates
+  - Mating parts by aligning planes
+  - Magnetic Mates
+  - Asset Publisher for Magnetic Mates
+- [**13. In-Context Modeling**](#13-in-context-modeling) (3 videos)
+  - Linking sketches to other parts
+  - Using layout sketches
+  - Using the Hole Wizard in context
+- [**14. Using Design Tables**](#14-using-design-tables) (5 videos)
+  - Using design tables
+  - Working with complex calculations
+  - Selecting component configurations
+  - Building assemblies with design tables
+  - Adding to design tables
+- [**15. Part Drawings**](#15-part-drawings) (4 videos)
+  - Working with drawing templates
+  - Drawing options and sheet properties
+  - Choosing the correct projection angle
+  - Adding model views to a drawing
+- [**16. Dimensioning**](#16-dimensioning) (4 videos)
+  - Creating general dimension notations
+  - Creating ordinate dimensions
+  - Dimensioning holes and curved features
+  - Using the Autodimension tool
+- [**17. Add General Annotations**](#17-add-general-annotations) (6 videos)
+  - Adding annotations
+  - Adding special views to your drawings
+  - Adding custom properties
+  - Linking drawing notes
+  - Using the Design Library
+  - Using Equations for Custom Properties
+- [**18. Assembly Drawings**](#18-assembly-drawings) (6 videos)
+  - Adding assemblies to drawings
+  - Including a bill of materials
+  - Adding balloons on an assembly drawing
+  - Making an exploded view
+  - Adding in custom properties and revision
+  - Detailing Mode
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn 3D CAD modeling with SOLIDWORKS 2024
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/learn-3d-cad-modeling-with-solidworks-2024?u=76281980)
@@ -100,7 +229,7 @@ created: 2026-04-29
 
 ### 1. Introduction to SOLIDWORKS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Launching SOLIDWORKS for the first time
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/launching-solidworks-for-the-first-time?u=76281980)
@@ -1265,7 +1394,7 @@ created: 2026-04-29
 
 ### 2. SOLIDWORKS Quick Start
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your first 3D part
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/creating-your-first-3d-part?u=76281980)
@@ -2147,7 +2276,7 @@ created: 2026-04-29
 
 ### 3. Basic Part Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating sketches
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/creating-sketches?u=76281980)
@@ -3771,7 +3900,7 @@ created: 2026-04-29
 
 ### 4. Sketch Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Line and Centerline tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/line-and-centerline-tools?u=76281980)
@@ -5282,7 +5411,7 @@ created: 2026-04-29
 
 ### 5. Modify Sketches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Trimming and extending a sketch
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/trimming-and-extending-a-sketch?u=76281980)
@@ -6685,7 +6814,7 @@ created: 2026-04-29
 
 ### 6. Reference Geometry
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with planes
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/working-with-planes?u=76281980)
@@ -7274,7 +7403,7 @@ created: 2026-04-29
 
 ### 7. Part Modifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding fillets to a part
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-fillets-to-a-part?u=76281980)
@@ -8536,7 +8665,7 @@ created: 2026-04-29
 
 ### 8. Advanced Part Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Loft tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/loft-tool?u=76281980)
@@ -11645,7 +11774,7 @@ created: 2026-04-29
 
 ### 9. Hole Wizard
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with the Hole Wizard
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/getting-started-with-the-hole-wizard?u=76281980)
@@ -12321,7 +12450,7 @@ created: 2026-04-29
 
 ### 10. Blocks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using sketch blocks
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/using-sketch-blocks?u=76281980)
@@ -12794,7 +12923,7 @@ created: 2026-04-29
 
 ### 11. Building Assemblies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting an assembly
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/starting-an-assembly?u=76281980)
@@ -14071,7 +14200,7 @@ created: 2026-04-29
 
 ### 12. Advanced Mates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating component Mates
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/creating-component-mates?u=76281980)
@@ -15367,7 +15496,7 @@ created: 2026-04-29
 
 ### 13. In-Context Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linking sketches to other parts
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/linking-sketches-to-other-parts?u=76281980)
@@ -15724,7 +15853,7 @@ created: 2026-04-29
 
 ### 14. Using Design Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using design tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/using-design-tables?u=76281980)
@@ -16418,7 +16547,7 @@ created: 2026-04-29
 
 ### 15. Part Drawings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with drawing templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/working-with-drawing-templates?u=76281980)
@@ -17315,7 +17444,7 @@ created: 2026-04-29
 
 ### 16. Dimensioning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating general dimension notations
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/creating-general-dimension-notations?u=76281980)
@@ -17952,7 +18081,7 @@ created: 2026-04-29
 
 ### 17. Add General Annotations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding annotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-annotations?u=76281980)
@@ -18883,7 +19012,7 @@ created: 2026-04-29
 
 ### 18. Assembly Drawings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding assemblies to drawings
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/adding-assemblies-to-drawings?u=76281980)
@@ -19907,7 +20036,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/solidworks-2024-essential-training/next-steps?u=76281980)

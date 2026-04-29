@@ -50,13 +50,20 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Applying AI to Lead Generation]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Boost your lead generation with AI
+- [**1. Applying AI to Lead Generation**](#1-applying-ai-to-lead-generation) (5 videos)
+  - Understanding AI for lead generation
+  - Using essential AI technologies
+  - AI driven customer segmentation
+  - Personalization and AI for lead nurturing
+  - AI in predictive analysis for lead scoring
+- [**Conclusion**](#conclusion) (1 videos)
+  - Cultivate a growth mindset
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Boost your lead generation with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/boost-your-lead-generation-with-ai?u=76281980)
@@ -91,7 +98,7 @@ created: 2026-04-29
 
 ### 1. Applying AI to Lead Generation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AI for lead generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/understanding-ai-for-lead-generation?u=76281980)
@@ -588,7 +595,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cultivate a growth mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-generate-marketing-leads-with-ai/cultivate-a-growth-mindset?u=76281980)

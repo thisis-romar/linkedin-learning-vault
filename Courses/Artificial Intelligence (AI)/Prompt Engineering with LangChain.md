@@ -50,19 +50,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Language Models]]** (1 videos)
-- **[[#2. LLMs and Text Generation]]** (4 videos)
-- **[[#3. Components of LangChain]]** (7 videos)
-- **[[#4. Basics of Prompting]]** (2 videos)
-- **[[#5. Prompt Templates Deep Dive]]** (17 videos)
-- **[[#6. Prompting Techniques]]** (7 videos)
-- **[[#7. Prompt Management a.k.a. PromptOps]]** (6 videos)
-- **[[#8. The LLM Landscape]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Create powerful LLM driven applications
+- [**1. Introduction to Language Models**](#1-introduction-to-language-models) (1 videos)
+  - What are language models?
+- [**2. LLMs and Text Generation**](#2-llms-and-text-generation) (4 videos)
+  - How do language models generate text?
+  - Base LLMs vs. instruction-tuned LLMs
+  - Training, fine-tuning, and in-context learning
+  - Prompt engineering
+- [**3. Components of LangChain**](#3-components-of-langchain) (7 videos)
+  - What is LangChain?
+  - LangChain overview
+  - Model I/O: Interface with language models
+  - Retrieval: Interface with application-specific data
+  - Chains: Construct sequences of calls
+  - Agents: Let chains choose tools based on high-level directives
+  - Memory: Persist application state between runs of a chain
+- [**4. Basics of Prompting**](#4-basics-of-prompting) (2 videos)
+  - Prompt basics
+  - Principles and tactics for prompting
+- [**5. Prompt Templates Deep Dive**](#5-prompt-templates-deep-dive) (17 videos)
+  - Introduction to prompt templates
+  - Multi-input prompt templates
+  - Chat prompt template
+  - Serializing prompts
+  - Zero-shot prompts
+  - Custom prompt templates
+  - Prompt pipelining
+  - Chat prompt pipelining
+  - Prompt composition
+  - Few-shot prompt templates
+  - Few-shot prompt templates for chat
+  - Introduction to example selectors
+  - Length-based example selector
+  - Max marginal relevance example selector
+  - N-gram overlap example selector
+  - Semantic similarity example selector
+  - Partial prompt templates
+- [**6. Prompting Techniques**](#6-prompting-techniques) (7 videos)
+  - Chain of thought
+  - Self-consistency
+  - Self-ask
+  - ReAct
+  - RAG
+  - FLARE
+  - Plan and execute
+- [**7. Prompt Management a.k.a. PromptOps**](#7-prompt-management-aka-promptops) (6 videos)
+  - Prompt management
+  - LangSmith
+  - LangSmith walkthrough
+  - Prompt versioning in LangSmith
+  - LangSmith deep dive
+  - Managing prompt length for agents
+- [**8. The LLM Landscape**](#8-the-llm-landscape) (2 videos)
+  - Applications of language models
+  - The LLM landscape
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create powerful LLM driven applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/create-powerful-llm-driven-applications?u=76281980)
@@ -102,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-are-language-models?u=76281980)
@@ -193,7 +240,7 @@ created: 2026-04-29
 
 ### 2. LLMs and Text Generation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do language models generate text?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/how-do-language-models-generate-text?u=76281980)
@@ -654,7 +701,7 @@ created: 2026-04-29
 
 ### 3. Components of LangChain
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is LangChain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/what-is-langchain?u=76281980)
@@ -1960,7 +2007,7 @@ created: 2026-04-29
 
 ### 4. Basics of Prompting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-basics?u=76281980)
@@ -2240,7 +2287,7 @@ created: 2026-04-29
 
 ### 5. Prompt Templates Deep Dive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to prompt templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/introduction-to-prompt-templates?u=76281980)
@@ -4120,7 +4167,7 @@ created: 2026-04-29
 
 ### 6. Prompting Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Chain of thought
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/chain-of-thought?u=76281980)
@@ -5691,7 +5738,7 @@ created: 2026-04-29
 
 ### 7. Prompt Management a.k.a. PromptOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt management
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/prompt-management?u=76281980)
@@ -6599,7 +6646,7 @@ created: 2026-04-29
 
 ### 8. The LLM Landscape
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applications of language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-langchain/applications-of-language-models?u=76281980)

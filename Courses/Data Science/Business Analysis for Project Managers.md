@@ -46,20 +46,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Preproject Activities]]** (4 videos)
-- **[[#2. Stakeholders]]** (2 videos)
-- **[[#3. Initial Project Understanding]]** (2 videos)
-- **[[#4. Project Plans]]** (3 videos)
-- **[[#5. Analyzing Requirements]]** (4 videos)
-- **[[#6. Agile Approach]]** (2 videos)
-- **[[#7. Verification and Validation]]** (2 videos)
-- **[[#8. Project Closure and Deployment]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Business analysis: Supporting project management work
+  - What is business analysis?
+  - Common business analysis competencies
+- [**1. Preproject Activities**](#1-preproject-activities) (4 videos)
+  - Initiating a project
+  - Situation statement and needs assessment
+  - Key components of the business case
+  - How to determine the business need without a business case
+- [**2. Stakeholders**](#2-stakeholders) (2 videos)
+  - Stakeholder identification and assessment
+  - The importance of stakeholder engagement
+- [**3. Initial Project Understanding**](#3-initial-project-understanding) (2 videos)
+  - How to develop a shared vision of the product or project result
+  - How to develop a road map for product delivery
+- [**4. Project Plans**](#4-project-plans) (3 videos)
+  - Identify, plan, and execute on business analysis activities
+  - Including analysis activities in the project schedule
+  - Determine product scope
+- [**5. Analyzing Requirements**](#5-analyzing-requirements) (4 videos)
+  - Product requirements
+  - Eliciting requirements
+  - Analyzing requirements
+  - Baselining requirements
+- [**6. Agile Approach**](#6-agile-approach) (2 videos)
+  - Business analyst (BA) or product owner
+  - Analysis of agile requirements
+- [**7. Verification and Validation**](#7-verification-and-validation) (2 videos)
+  - Supporting requirements verification and testing
+  - Validation and acceptance of requirements
+- [**8. Project Closure and Deployment**](#8-project-closure-and-deployment) (3 videos)
+  - Planning transition
+  - Complete transition activities
+  - Determine solution deployment readiness
+- [**Conclusion**](#conclusion) (1 videos)
+  - Business analysis competencies are essential for project managers
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business analysis: Supporting project management work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-supporting-project-management-work?u=76281980)
@@ -253,7 +279,7 @@ created: 2026-04-29
 
 ### 1. Preproject Activities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Initiating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/initiating-a-project?u=76281980)
@@ -542,7 +568,7 @@ created: 2026-04-29
 
 ### 2. Stakeholders
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stakeholder identification and assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/stakeholder-identification-and-assessment?u=76281980)
@@ -678,7 +704,7 @@ created: 2026-04-29
 
 ### 3. Initial Project Understanding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to develop a shared vision of the product or project result
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/how-to-develop-a-shared-vision-of-the-product-or-project-result?u=76281980)
@@ -791,7 +817,7 @@ created: 2026-04-29
 
 ### 4. Project Plans
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify, plan, and execute on business analysis activities
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/identify-plan-and-execute-on-business-analysis-activities?u=76281980)
@@ -1005,7 +1031,7 @@ created: 2026-04-29
 
 ### 5. Analyzing Requirements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Product requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/product-requirements?u=76281980)
@@ -1390,7 +1416,7 @@ created: 2026-04-29
 
 ### 6. Agile Approach
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business analyst (BA) or product owner
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analyst-ba-or-product-owner?u=76281980)
@@ -1542,7 +1568,7 @@ created: 2026-04-29
 
 ### 7. Verification and Validation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supporting requirements verification and testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/supporting-requirements-verification-and-testing?u=76281980)
@@ -1666,7 +1692,7 @@ created: 2026-04-29
 
 ### 8. Project Closure and Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/planning-transition?u=76281980)
@@ -1898,7 +1924,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business analysis competencies are essential for project managers
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-project-managers/business-analysis-competencies-are-essential-for-project-managers?u=76281980)

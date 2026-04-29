@@ -46,17 +46,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Get Started with SharePoint Online]]** (7 videos)
-- **[[#2. Work with Libraries and Documents]]** (8 videos)
-- **[[#3. Personal and News]]** (2 videos)
-- **[[#4. Customize with List Apps]]** (6 videos)
-- **[[#5. SharePoint on the Road]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Creative collaborative digital spaces with SharePoint Online
+- [**1. Get Started with SharePoint Online**](#1-get-started-with-sharepoint-online) (7 videos)
+  - Tools and permissions
+  - Login to SharePoint
+  - Use SharePoint home
+  - Navigate and search in a team site
+  - Search in SharePoint
+  - Use Office 365 Groups with SharePoint
+  - Use a communication site
+- [**2. Work with Libraries and Documents**](#2-work-with-libraries-and-documents) (8 videos)
+  - Store documents
+  - Upload and create documents
+  - Open and edit a document
+  - Save a document from Office
+  - Share a file or site
+  - Add metadata to a document
+  - Coauthor an Office document
+  - Use your team's notebook
+- [**3. Personal and News**](#3-personal-and-news) (2 videos)
+  - Edit your profile
+  - Post news for your team
+- [**4. Customize with List Apps**](#4-customize-with-list-apps) (6 videos)
+  - Use a list
+  - Export a list to Excel
+  - Sort and filter in lists and libraries
+  - Create new list and library views
+  - Get updates from lists and libraries
+  - Request an approval with Microsoft Flow
+- [**5. SharePoint on the Road**](#5-sharepoint-on-the-road) (3 videos)
+  - Use the SharePoint mobile app
+  - OneDrive for Business app
+  - Sync SharePoint and OneDrive to a device
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creative collaborative digital spaces with SharePoint Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/creative-collaborative-digital-spaces-with-sharepoint-online?u=76281980)
@@ -83,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Get Started with SharePoint Online
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980)
@@ -642,7 +670,7 @@ created: 2026-04-29
 
 ### 2. Work with Libraries and Documents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Store documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980)
@@ -1354,7 +1382,7 @@ created: 2026-04-29
 
 ### 3. Personal and News
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Edit your profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980)
@@ -1562,7 +1590,7 @@ created: 2026-04-29
 
 ### 4. Customize with List Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use a list
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980)
@@ -2067,7 +2095,7 @@ created: 2026-04-29
 
 ### 5. SharePoint on the Road
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the SharePoint mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980)
@@ -2374,7 +2402,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980)

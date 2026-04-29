@@ -44,13 +44,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. CoderPad Challenges]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Object oriented programming in JavaScript
+  - What you should know
+  - Introduction to CoderPad
+- [**1. CoderPad Challenges**](#1-coderpad-challenges) (5 videos)
+  - Solution: Create a roster with functions
+  - Solution: Create a function with Object.create()
+  - Solution: Create a country with classes
+  - Solution: Create a class with get and set
+  - Solution: User/admin class with private properties
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Object oriented programming in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/object-oriented-programming-in-javascript?u=76281980)
@@ -140,7 +149,7 @@ created: 2026-04-29
 
 ### 1. CoderPad Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Create a roster with functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/solution-create-a-course-roster-with-functions?u=76281980)
@@ -387,7 +396,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-practice-object-oriented-programming/next-steps?u=76281980)

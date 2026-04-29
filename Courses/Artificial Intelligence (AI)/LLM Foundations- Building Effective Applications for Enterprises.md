@@ -50,19 +50,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Generative AI in Enterprises]]** (4 videos)
-- **[[#2. GenAI Use Case Selection]]** (5 videos)
-- **[[#3. Choosing GenAI Models]]** (5 videos)
-- **[[#4. Evaluation and Fine-Tuning for GenAI]]** (5 videos)
-- **[[#5. Design Considerations for GenAI Applications]]** (6 videos)
-- **[[#6. Safety and Trust with GenAI]]** (5 videos)
-- **[[#7. Managing GenAI Application Performance]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Starting your GenAI adoption journey
+  - Course content and prerequisites
+- [**1. Generative AI in Enterprises**](#1-generative-ai-in-enterprises) (4 videos)
+  - The GenAI revolution
+  - How GenAI is impacting enterprises
+  - GenAI challenges for enterprises
+  - GenAI adoption process
+- [**2. GenAI Use Case Selection**](#2-genai-use-case-selection) (5 videos)
+  - Popular GenAI use cases
+  - Identifying and evaluating GenAI use cases
+  - Creating a GenAI roadmap
+  - Building proof-of-concepts for GenAI
+  - Course use case: GenAI-powered email helpdesk
+- [**3. Choosing GenAI Models**](#3-choosing-genai-models) (5 videos)
+  - The GenAI model landscape
+  - Selection criteria for GenAI models
+  - Build vs. buy for GenAI
+  - GenAI model deployment considerations
+  - Impact of training data in GenAI
+- [**4. Evaluation and Fine-Tuning for GenAI**](#4-evaluation-and-fine-tuning-for-genai) (5 videos)
+  - Evaluating GenAI models
+  - Fine-tuning GenAI models
+  - Building datasets for evaluation and fine-tuning
+  - Metrics for GenAI
+  - Course use case: Evaluation and model selection
+- [**5. Design Considerations for GenAI Applications**](#5-design-considerations-for-genai-applications) (6 videos)
+  - A typical GenAI app
+  - Batch generation with GenAI models
+  - User and API interfaces
+  - Prompt engineering
+  - Data collection and monitoring
+  - Course use case: Architecture
+- [**6. Safety and Trust with GenAI**](#6-safety-and-trust-with-genai) (5 videos)
+  - Ethical and legal considerations
+  - Protecting against vulnerabilities
+  - Toxicity and bias in GenAI
+  - Hallucinations
+  - Course use case: Guardrails
+- [**7. Managing GenAI Application Performance**](#7-managing-genai-application-performance) (5 videos)
+  - Performance goals for GenAI apps
+  - Improving GenAI accuracy
+  - Reducing latency for GenAI
+  - GenAI cost control
+  - Course use case: Performance considerations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your GenAI journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting your GenAI adoption journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/starting-your-gen-ai-adoption-journey?u=76281980)
@@ -137,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Generative AI in Enterprises
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The GenAI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/the-gen-ai-revolution?u=76281980)
@@ -323,7 +361,7 @@ created: 2026-04-29
 
 ### 2. GenAI Use Case Selection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Popular GenAI use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/popular-gen-ai-use-cases?u=76281980)
@@ -661,7 +699,7 @@ created: 2026-04-29
 
 ### 3. Choosing GenAI Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The GenAI model landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/gen-ai-model-landscape?u=76281980)
@@ -1027,7 +1065,7 @@ created: 2026-04-29
 
 ### 4. Evaluation and Fine-Tuning for GenAI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating GenAI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/evaluating-gen-ai-models?u=76281980)
@@ -1414,7 +1452,7 @@ created: 2026-04-29
 
 ### 5. Design Considerations for GenAI Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A typical GenAI app
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/a-typical-gen-ai-app?u=76281980)
@@ -1778,7 +1816,7 @@ created: 2026-04-29
 
 ### 6. Safety and Trust with GenAI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical and legal considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/ethical-and-legal-considerations?u=76281980)
@@ -2112,7 +2150,7 @@ created: 2026-04-29
 
 ### 7. Managing GenAI Application Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Performance goals for GenAI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/performance-goals-for-gen-ai-apps?u=76281980)
@@ -2348,7 +2386,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your GenAI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-building-effective-applications-for-enterprises/continue-your-gen-ai-journey?u=76281980)

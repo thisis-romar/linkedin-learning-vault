@@ -51,19 +51,64 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (7 videos)
-- **[[#2. Fundamental Concepts in LlamaIndex]]** (7 videos)
-- **[[#3. Introduction to RAG]]** (7 videos)
-- **[[#4. RAG Evaluation]]** (3 videos)
-- **[[#5. Advanced RAG: Pre-Retrieval and Indexing Techniques]]** (7 videos)
-- **[[#6. Advanced RAG: Post-Retrieval and Other Techniques]]** (5 videos)
-- **[[#7. Modular RAG]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Overcome the limitations of LLMs with RAG
+  - Limitations of LLMs
+  - Use cases for retrieval-augmented generation (RAG)
+- [**1. Getting Started**](#1-getting-started) (7 videos)
+  - Using GitHub Codespaces
+  - Setting up your environment
+  - Choosing an LLM and embeddings provider
+  - Setting up LLM accounts
+  - Choosing a vector database
+  - Setting up a Qdrant account
+  - Downloading our data
+- [**2. Fundamental Concepts in LlamaIndex**](#2-fundamental-concepts-in-llamaindex) (7 videos)
+  - How LlamaIndex is organized
+  - Using LLMs
+  - Loading data
+  - Indexing
+  - Storing and retrieving
+  - Querying
+  - Agents
+- [**3. Introduction to RAG**](#3-introduction-to-rag) (7 videos)
+  - Components of a RAG system
+  - Ingestion pipeline
+  - Query pipeline
+  - Prompt engineering for RAG
+  - Data preparation for RAG
+  - Putting it all together
+  - Drawbacks of Naive RAG
+- [**4. RAG Evaluation**](#4-rag-evaluation) (3 videos)
+  - Introduction to RAG evaluation
+  - Evaluation metrics
+  - How to create an evaluation set
+- [**5. Advanced RAG: Pre-Retrieval and Indexing Techniques**](#5-advanced-rag-pre-retrieval-and-indexing-techniques) (7 videos)
+  - How we can improve on Naive RAG
+  - Optimizing chunk size
+  - Small to big retrieval
+  - Semantic chunking
+  - Metadata extraction
+  - Document summary index
+  - Query transformation
+- [**6. Advanced RAG: Post-Retrieval and Other Techniques**](#6-advanced-rag-post-retrieval-and-other-techniques) (5 videos)
+  - Node post-processing
+  - Re-ranking
+  - FLARE
+  - Prompt compression
+  - Self-correcting
+- [**7. Modular RAG**](#7-modular-rag) (4 videos)
+  - Hybrid retrieval
+  - Agentic RAG
+  - Ensemble retrieval
+  - Ensemble query engine
+- [**Conclusion**](#conclusion) (2 videos)
+  - LlamaIndex evaluation
+  - Comparative analysis of retrieval-augmented generation techniques
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overcome the limitations of LLMs with RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/overcome-the-limitations-of-llms-with-rag?u=76281980)
@@ -262,7 +307,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/using-github-codespaces?u=76281980)
@@ -1069,7 +1114,7 @@ created: 2026-04-29
 
 ### 2. Fundamental Concepts in LlamaIndex
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How LlamaIndex is organized
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-llamaindex-is-organized?u=76281980)
@@ -2218,7 +2263,7 @@ created: 2026-04-29
 
 ### 3. Introduction to RAG
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of a RAG system
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/components-of-a-rag-system?u=76281980)
@@ -3616,7 +3661,7 @@ created: 2026-04-29
 
 ### 4. RAG Evaluation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to RAG evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/introduction-to-rag-evaluation?u=76281980)
@@ -4170,7 +4215,7 @@ created: 2026-04-29
 
 ### 5. Advanced RAG: Pre-Retrieval and Indexing Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How we can improve on Naive RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/how-can-we-improve-on-naive-rag?u=76281980)
@@ -5392,7 +5437,7 @@ created: 2026-04-29
 
 ### 6. Advanced RAG: Post-Retrieval and Other Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Node post-processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/node-post-processing?u=76281980)
@@ -6368,7 +6413,7 @@ created: 2026-04-29
 
 ### 7. Modular RAG
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid retrieval
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/hybrid-retrieval?u=76281980)
@@ -7201,7 +7246,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### LlamaIndex evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-rag-using-llamaindex/llamaindex-evaluation?u=76281980)

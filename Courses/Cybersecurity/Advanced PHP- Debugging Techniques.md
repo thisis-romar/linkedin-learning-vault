@@ -48,15 +48,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Default Tools for Logging and Identifying Issues]]** (7 videos)
-- **[[#2. Local Development Tools]]** (9 videos)
-- **[[#3. Debugging on Non-Local Environments]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Debugging and PHP
+  - What you should know
+- [**1. Default Tools for Logging and Identifying Issues**](#1-default-tools-for-logging-and-identifying-issues) (7 videos)
+  - Exploring PHP errors
+  - Default logging in popular frameworks
+  - Configuring PHP error reporting
+  - What to log
+  - Logging errors to file
+  - Logging errors to other locations
+  - Understanding back traces
+- [**2. Local Development Tools**](#2-local-development-tools) (9 videos)
+  - var_dump() debugging: Blue-collar debugging
+  - What tools are available
+  - WordPress CLI shell
+  - Laravel artisan tinker
+  - Installing and using whoops
+  - Installing and using PHP DebugBar
+  - Query Monitor for WordPress
+  - Ray: Dump debugging
+  - Xdebug: Step debugging
+- [**3. Debugging on Non-Local Environments**](#3-debugging-on-non-local-environments) (4 videos)
+  - What tools are available
+  - Safety concerns and precautions on remote servers
+  - Using Monolog
+  - Paid products
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging and PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/debugging-and-php?u=76281980)
@@ -111,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Default Tools for Logging and Identifying Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring PHP errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/exploring-php-errors?u=76281980)
@@ -836,7 +859,7 @@ created: 2026-04-29
 
 ### 2. Local Development Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### var_dump() debugging: Blue-collar debugging
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/var-dump-debugging-blue-collar-debugging?u=76281980)
@@ -1746,7 +1769,7 @@ created: 2026-04-29
 
 ### 3. Debugging on Non-Local Environments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What tools are available
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/what-tools-are-available-17465801?u=76281980)
@@ -2036,7 +2059,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-php-debugging-techniques-14917698/next-steps?u=76281980)

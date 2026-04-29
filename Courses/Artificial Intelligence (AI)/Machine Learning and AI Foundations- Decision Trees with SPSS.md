@@ -51,16 +51,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Decision Trees in IBM SPSS Modeler]]** (5 videos)
-- **[[#2. Understanding CHAID]]** (9 videos)
-- **[[#3. Understanding C&RT]]** (6 videos)
-- **[[#4. Improving Your Model]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Decision trees in SPSS Modeler
+  - What you should know
+  - Modeler 18.4
+  - Using the exercise files
+- [**1. Decision Trees in IBM SPSS Modeler**](#1-decision-trees-in-ibm-spss-modeler) (5 videos)
+  - Decision tree options in SPSS Modeler
+  - Building a quick CHAID model
+  - Adding a second model with C&RT
+  - Analysis nodes
+  - Lift and gains chart
+- [**2. Understanding CHAID**](#2-understanding-chaid) (9 videos)
+  - What is an algorithm?
+  - Chi-squared overview
+  - Buliding a tree interactively
+  - Bonferonni adjustment
+  - What is level of measurement?
+  - How CHAID handles nominal variables
+  - How CHAID handles ordinal variables
+  - How CHAID handles continuous variables
+  - A quick look at the complete CHAID tree
+- [**3. Understanding C&RT**](#3-understanding-crt) (6 videos)
+  - What is the Gini coefficient?
+  - How does C&RT weigh purity and balance?
+  - How C&RT handles nominal, ordinal, and continuous variables
+  - How C&RT handles missing data
+  - Understanding pruning
+  - A quick look at the complete C&RT tree
+- [**4. Improving Your Model**](#4-improving-your-model) (4 videos)
+  - Stopping rules in CHAID and C&RT
+  - Exhaustive CHAID
+  - Tree-AS node
+  - The Autoclassifier tuning trick
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Decision trees in SPSS Modeler
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-trees-in-spss-modeler?u=76281980)
@@ -172,7 +201,7 @@ created: 2026-04-29
 
 ### 1. Decision Trees in IBM SPSS Modeler
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Decision tree options in SPSS Modeler
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/decision-tree-options-in-spss-modeler?u=76281980)
@@ -516,7 +545,7 @@ created: 2026-04-29
 
 ### 2. Understanding CHAID
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an algorithm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-an-algorithm?u=76281980)
@@ -1228,7 +1257,7 @@ created: 2026-04-29
 
 ### 3. Understanding C&RT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the Gini coefficient?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/what-is-the-gini-coefficient?u=76281980)
@@ -1642,7 +1671,7 @@ created: 2026-04-29
 
 ### 4. Improving Your Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stopping rules in CHAID and C&RT
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/stopping-rules-in-chaid-and-c-rt?u=76281980)
@@ -1934,7 +1963,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-spss/next-steps-23418218?u=76281980)

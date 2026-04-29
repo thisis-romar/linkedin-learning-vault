@@ -52,18 +52,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (6 videos)
-- **[[#1. String Algorithms]]** (5 videos)
-- **[[#2. Array Algorithms]]** (5 videos)
-- **[[#3. Linked List Algorithms]]** (4 videos)
-- **[[#4. Queue and Stack Algorithms]]** (9 videos)
-- **[[#5. Algorithms for Hash-Based Structures]]** (5 videos)
-- **[[#6. Tree Algorithms]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (6 videos)
+  - Improve your C# applications with efficient algorithms
+  - Introducing CoderPad challenges
+  - What is an algorithm?
+  - How to optimize an algorithm
+  - Optimize an algorithm in C#
+  - How to describe the time complexity of an algorithm
+- [**1. String Algorithms**](#1-string-algorithms) (5 videos)
+  - Validate strings in C#
+  - Normalize strings in C#
+  - Parse and search strings in C#
+  - Create algorithm-driven strings in C#
+  - Solution: reverse each word
+- [**2. Array Algorithms**](#2-array-algorithms) (5 videos)
+  - Linear search arrays in C#
+  - Binary search arrays in C#
+  - Aggregate and filter arrays in C#
+  - Reverse an array in C#
+  - Solution: rotate an array
+- [**3. Linked List Algorithms**](#3-linked-list-algorithms) (4 videos)
+  - What is a linked list?
+  - Common linked list operations in C#
+  - Linked list algorithms
+  - Solution: Sum contents of a linked list
+- [**4. Queue and Stack Algorithms**](#4-queue-and-stack-algorithms) (9 videos)
+  - What is a queue?
+  - Standard queue operations in C#
+  - Queue algorithms: Generate binary numbers
+  - What is a stack?
+  - Basic stack operations in C#
+  - Stack algorithms: Theorizing an algorithm
+  - Stack algorithms: Implementing next greater element
+  - Stack algorithms: Matching parentheses
+  - Solution: evaluate reverse polish notation
+- [**5. Algorithms for Hash-Based Structures**](#5-algorithms-for-hash-based-structures) (5 videos)
+  - Hash-based structures in C#
+  - Dictionary and HashSet operations in C#
+  - Leverage the HashSet type in C# algorithms
+  - Use the Dictionary type in C# algorithms
+  - Solution: detect a cyclic linkedlist
+- [**6. Tree Algorithms**](#6-tree-algorithms) (5 videos)
+  - What is a tree?
+  - Create a binary search tree in C#
+  - What are tree traversals?
+  - Using recursion to implement tree traversals in C#
+  - Solution: find height of binary tree
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue optimizing algorithms
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your C# applications with efficient algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/improve-your-c-sharp-applications-with-efficient-algorithms?u=76281980)
@@ -422,7 +462,7 @@ created: 2026-04-29
 
 ### 1. String Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Validate strings in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/validate-strings-in-c-sharp?u=76281980)
@@ -998,7 +1038,7 @@ created: 2026-04-29
 
 ### 2. Array Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear search arrays in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/linear-search-arrays-in-c-sharp?u=76281980)
@@ -1497,7 +1537,7 @@ created: 2026-04-29
 
 ### 3. Linked List Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a linked list?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-linked-list?u=76281980)
@@ -1868,7 +1908,7 @@ created: 2026-04-29
 
 ### 4. Queue and Stack Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a queue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-queue?u=76281980)
@@ -2696,7 +2736,7 @@ created: 2026-04-29
 
 ### 5. Algorithms for Hash-Based Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hash-based structures in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/hash-based-structures-in-c-sharp?u=76281980)
@@ -3099,7 +3139,7 @@ created: 2026-04-29
 
 ### 6. Tree Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/what-is-a-tree?u=76281980)
@@ -3593,7 +3633,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue optimizing algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-algorithms/continue-optimizing-algorithms?u=76281980)

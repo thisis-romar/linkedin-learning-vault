@@ -46,17 +46,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Xcode Fundamentals]]** (3 videos)
-- **[[#2. UI Development with Storyboards]]** (12 videos)
-- **[[#3. SwiftUI Basics]]** (6 videos)
-- **[[#4. SwiftUI Binding]]** (6 videos)
-- **[[#5. Working with Multiple Screen Views in SwiftUI]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Starting a career in iOS development
+  - What you should know before watching this course
+- [**1. Xcode Fundamentals**](#1-xcode-fundamentals) (3 videos)
+  - Downloading and installing Xcode
+  - Creating your first iOS app
+  - Key parts of the Xcode interface
+- [**2. UI Development with Storyboards**](#2-ui-development-with-storyboards) (12 videos)
+  - Choosing between SwiftUI and storyboards
+  - Drag and drop user interface creation with storyboards
+  - Change a label's text at runtime
+  - Handling a button press
+  - Using text gathered from text fields
+  - Showing the software keyboard
+  - Dismissing the software keyboard
+  - Troubleshoot common UI problems
+  - Working with pins
+  - Troubleshooting pins
+  - Challenge: Storyboards
+  - Solution: Storyboards
+- [**3. SwiftUI Basics**](#3-swiftui-basics) (6 videos)
+  - SwiftUI fundamentals
+  - Creating horizontal and vertical layouts
+  - Modifying fonts and spacing in SwiftUI
+  - Loading images in SwiftUI
+  - Challenge: SwiftUI
+  - Solution: SwiftUI
+- [**4. SwiftUI Binding**](#4-swiftui-binding) (6 videos)
+  - Getting text input with SwiftUI
+  - Using a slider in SwiftUI
+  - Making a custom SwiftUI view
+  - Adding custom SwiftUI attributes
+  - Challenge: Build a color picker app
+  - Solution: Build a color picker app
+- [**5. Working with Multiple Screen Views in SwiftUI**](#5-working-with-multiple-screen-views-in-swiftui) (7 videos)
+  - Creating data for a list
+  - Using list views
+  - Creating detail views
+  - Displaying and dismissing popover views
+  - Setting an app icon
+  - Challenge: Lists
+  - Solution: Lists
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting a career in iOS development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/starting-a-career-in-ios-development?u=76281980)
@@ -100,7 +137,7 @@ created: 2026-04-29
 
 ### 1. Xcode Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Downloading and installing Xcode
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/downloading-and-installing-xcode?u=76281980)
@@ -247,7 +284,7 @@ created: 2026-04-29
 
 ### 2. UI Development with Storyboards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing between SwiftUI and storyboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/choosing-between-swiftui-and-storyboards?u=76281980)
@@ -1233,7 +1270,7 @@ created: 2026-04-29
 
 ### 3. SwiftUI Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SwiftUI fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/swiftui-fundamentals?u=76281980)
@@ -1631,7 +1668,7 @@ created: 2026-04-29
 
 ### 4. SwiftUI Binding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting text input with SwiftUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/getting-text-input-with-swiftui?u=76281980)
@@ -2142,7 +2179,7 @@ created: 2026-04-29
 
 ### 5. Working with Multiple Screen Views in SwiftUI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating data for a list
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/creating-data-for-a-list?u=76281980)
@@ -2634,7 +2671,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ios-17-development-essential-training/next-steps?u=76281980)

@@ -56,16 +56,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Building an AI Prototype]]** (3 videos)
-- **[[#2. Debugging and Troubleshooting AI Applications]]** (3 videos)
-- **[[#3. Testing and Debugging Your AI Prototype]]** (3 videos)
-- **[[#4. Preparing Your Prototype for Production]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Developing an AI prototype
+  - What you should know
+- [**1. Building an AI Prototype**](#1-building-an-ai-prototype) (3 videos)
+  - What is an AI MVP?
+  - Choosing tools and frameworks for AI prototyping
+  - Building an MVP from scratch
+- [**2. Debugging and Troubleshooting AI Applications**](#2-debugging-and-troubleshooting-ai-applications) (3 videos)
+  - Common AI prototype issues
+  - Debugging overfitting and underfitting
+  - Handling data-related errors
+- [**3. Testing and Debugging Your AI Prototype**](#3-testing-and-debugging-your-ai-prototype) (3 videos)
+  - Why testing matters in AI development
+  - Unit testing for AI components
+  - Performance testing your AI model
+- [**4. Preparing Your Prototype for Production**](#4-preparing-your-prototype-for-production) (3 videos)
+  - Transitioning from prototype to production
+  - Optimizing your prototype for scalability
+  - Common production pitfalls
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing an AI prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/developing-an-ai-prototype?u=76281980)
@@ -133,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Building an AI Prototype
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an AI MVP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/what-is-an-ai-mvp?u=76281980)
@@ -440,7 +455,7 @@ created: 2026-04-29
 
 ### 2. Debugging and Troubleshooting AI Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common AI prototype issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/common-ai-prototype-issues?u=76281980)
@@ -747,7 +762,7 @@ created: 2026-04-29
 
 ### 3. Testing and Debugging Your AI Prototype
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why testing matters in AI development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/why-testing-matters-in-ai-development?u=76281980)
@@ -1058,7 +1073,7 @@ created: 2026-04-29
 
 ### 4. Preparing Your Prototype for Production
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transitioning from prototype to production
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/transitioning-from-prototype-to-production?u=76281980)
@@ -1328,7 +1343,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-developing-and-testing-your-ai-prototype/next-steps-and-additional-resources?u=76281980)

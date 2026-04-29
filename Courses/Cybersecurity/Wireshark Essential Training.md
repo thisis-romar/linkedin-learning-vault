@@ -43,17 +43,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Traffic Capture Overview]]** (5 videos)
-- **[[#2. Getting Started with Wireshark]]** (6 videos)
-- **[[#3. Examining the Internet Suite]]** (11 videos)
-- **[[#4. Deep Packet Analysis of Common Protocols]]** (7 videos)
-- **[[#5. Working with Packet Captures]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Appreciating traffic analysis
+  - What you need to know
+  - Challenges
+  - Disclaimer
+- [**1. Traffic Capture Overview**](#1-traffic-capture-overview) (5 videos)
+  - Benefits of traffic analysis
+  - Installing Wireshark
+  - Explore the Wireshark interface
+  - Getting help
+  - Tap into the data stream
+- [**2. Getting Started with Wireshark**](#2-getting-started-with-wireshark) (6 videos)
+  - Using display and capture filters
+  - Discovering shortcuts
+  - Grasping the OSI model
+  - Generating a frame
+  - Challenge: Recognize the Wireshark interface
+  - Solution: Recognize the Wireshark interface
+- [**3. Examining the Internet Suite**](#3-examining-the-internet-suite) (11 videos)
+  - Understanding the TCP-IP suite
+  - Explaining Transmission Control Protocol
+  - Recognizing the TCP connection process
+  - Viewing the TCP handshake and teardown
+  - Breaking down User Datagram Protocol
+  - Outlining IPv4
+  - Dissecting IPv6
+  - Comprehending ICMP
+  - Discovering ICMPv6
+  - Challenge: Evaluating a pcap
+  - Solution: Evaluating a pcap
+- [**4. Deep Packet Analysis of Common Protocols**](#4-deep-packet-analysis-of-common-protocols) (7 videos)
+  - Dissecting DNS
+  - Exploring DHCP
+  - Following an FTP transaction
+  - Using HTTP
+  - Understand ARP
+  - Challenge: Examining a packet capture
+  - Solution: Examining a packet capture
+- [**5. Working with Packet Captures**](#5-working-with-packet-captures) (4 videos)
+  - The Wireshark expert system
+  - Network latency issues
+  - Subset, save, and export
+  - Using Cloudshark
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Appreciating traffic analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/appreciating-traffic-analysis?u=76281980)
@@ -170,7 +208,7 @@ created: 2026-04-29
 
 ### 1. Traffic Capture Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of traffic analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/benefits-of-traffic-analysis?u=76281980)
@@ -678,7 +716,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Wireshark
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using display and capture filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/using-display-and-capture-filters-13888349?u=76281980)
@@ -1103,7 +1141,7 @@ created: 2026-04-29
 
 ### 3. Examining the Internet Suite
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the TCP-IP suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/understanding-the-tcp-ip-suite-13887394?u=76281980)
@@ -2240,7 +2278,7 @@ created: 2026-04-29
 
 ### 4. Deep Packet Analysis of Common Protocols
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dissecting DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/dissecting-dns?u=76281980)
@@ -2968,7 +3006,7 @@ created: 2026-04-29
 
 ### 5. Working with Packet Captures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Wireshark expert system
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/the-wireshark-expert-system?u=76281980)
@@ -3403,7 +3441,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-essential-training/what-s-next?u=76281980)

@@ -44,17 +44,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Portfolio Project Overview]]** (1 videos)
-- **[[#2. Creating Django Apps]]** (3 videos)
-- **[[#3. Django and Databases]]** (7 videos)
-- **[[#4. Designing Your Django Project]]** (6 videos)
-- **[[#5. Object Details in Django]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Creating a website with Python
+  - What you should know
+- [**1. Portfolio Project Overview**](#1-portfolio-project-overview) (1 videos)
+  - Demo project overview
+- [**2. Creating Django Apps**](#2-creating-django-apps) (3 videos)
+  - Starting a new project in Django
+  - Creating a Django app in a project
+  - Setting up URLs in your Django project
+- [**3. Django and Databases**](#3-django-and-databases) (7 videos)
+  - Creating the models in Django
+  - Postgres setup for Django
+  - Connecting your Django project to Postgres
+  - Make Django migrations and migrate
+  - Setting up an admin panel in Django
+  - Creating model objects via the admin panel in Django
+  - Pulling objects from the database in Django
+- [**4. Designing Your Django Project**](#4-designing-your-django-project) (6 videos)
+  - Bootstrap overview and installation
+  - Page layout and templates in Django
+  - Adding static images to your Django project
+  - Collectstatic in Django
+  - Bootstrap as a static asset in Django
+  - Finishing touches in Django design
+- [**5. Object Details in Django**](#5-object-details-in-django) (4 videos)
+  - Connecting URLs and templates in Django
+  - Creating views in Django
+  - Designing object detail views
+  - URL paths with parameters
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps for Django
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a website with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-a-website-with-python?u=76281980)
@@ -125,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Portfolio Project Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Demo project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/demo-project-overview?u=76281980)
@@ -164,7 +188,7 @@ created: 2026-04-29
 
 ### 2. Creating Django Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting a new project in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/starting-a-new-project-in-django?u=76281980)
@@ -588,7 +612,7 @@ created: 2026-04-29
 
 ### 3. Django and Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the models in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/creating-the-models-in-django?u=76281980)
@@ -1340,7 +1364,7 @@ created: 2026-04-29
 
 ### 4. Designing Your Django Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bootstrap overview and installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/bootstrap-overview-and-installation?u=76281980)
@@ -2026,7 +2050,7 @@ created: 2026-04-29
 
 ### 5. Object Details in Django
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting URLs and templates in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/connecting-urls-and-templates-in-django?u=76281980)
@@ -2601,7 +2625,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-personal-portfolio-with-django/next-steps-for-django?u=76281980)

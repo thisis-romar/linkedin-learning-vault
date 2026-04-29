@@ -40,11 +40,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Visual Communication Tips]]** (15 videos)
+- [**1. Visual Communication Tips**](#1-visual-communication-tips) (15 videos)
+  - What is visual communication?
+  - Visual communication is all around us
+  - Visual communication can share broad ideas
+  - Data visualization
+  - Visual communication can drive quick conclusions
+  - Why marketers need visual communication
+  - Visual communication can share key data
+  - People care less than goldfish and dogs
+  - Is text dead?
+  - Internal coms need visual communication
+  - What is visual storytelling?
+  - Tiny visual changes can communicate volumes
+  - Keep audience top of mind
+  - Don't make this mistake in your visuals
+  - Quality matters in visual communication
 
 ### 1. Visual Communication Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is visual communication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/visual-communication-for-business-the-marketer-s-secret-weapon/what-is-visual-communication?u=76281980)

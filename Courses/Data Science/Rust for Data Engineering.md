@@ -49,22 +49,113 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Getting Started with the Modern Rust Development Ecosystem]]** (8 videos)
-- **[[#2. Rust Sequences and Maps]]** (8 videos)
-- **[[#3. Rust Sets, Graphs, and Miscellaneous Data Structures]]** (8 videos)
-- **[[#4. Rust Safety and Security Features]]** (7 videos)
-- **[[#5. Security Programming with Rust]]** (8 videos)
-- **[[#6. Concurrency with Rust]]** (8 videos)
-- **[[#7. Using Rust to Manage Data, Files, and Network Storage]]** (6 videos)
-- **[[#8. DataFrames with Rust, Python, and Notebooks]]** (7 videos)
-- **[[#9. Using Rust with Cloud SDKs and CLIs for Data Engineering]]** (8 videos)
-- **[[#10. Getting Started with Rust Data Pipelines (Including ETL)]]** (7 videos)
-- **[[#11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines]]** (7 videos)
-- **[[#12. Building SQL Solutions with Rust, Generative AI, and Cloud]]** (9 videos)
+- [**1. Getting Started with the Modern Rust Development Ecosystem**](#1-getting-started-with-the-modern-rust-development-ecosystem) (8 videos)
+  - Meet the instructor and course overview
+  - Introduction to the AI coding paradigm shift
+  - Introduction to cloud-based development environments
+  - Introduction to GitHub Copilot ecosystem for Rust
+  - Prompt engineering with GCP BigQuery SQL
+  - Introduction to AWS CodeWhisperer for Rust
+  - Using Google Bard to enhance productivity
+  - Continuous integration with Rust and GitHub actions
+- [**2. Rust Sequences and Maps**](#2-rust-sequences-and-maps) (8 videos)
+  - Introducing Rust sequences and maps
+  - Demo: Print Rust data structures
+  - Demo: Vector fruit salad
+  - Demo: VecDeque fruit salad
+  - Demo: LinkedIn list fruit salad
+  - Demo: Fruit salad CLI
+  - Demo: HashMap frequency counter
+  - HashMap language comparison
+- [**3. Rust Sets, Graphs, and Miscellaneous Data Structures**](#3-rust-sets-graphs-and-miscellaneous-data-structures) (8 videos)
+  - Analyzing UFC fighter network using graph centrality in Rust
+  - Storing unique fruits using HashSet in Rust
+  - Maintaining sorted and unique fruits using BTreeSet in Rust
+  - Creating a fig-priority fruit salad using BinaryHeap in Rust
+  - PageRank algorithm for sports data
+  - Showing shortest path with Dijkstra
+  - Detecting strongly connected components: A deep dive into Kosaraju's algorithm
+  - Simple charting of data structures in Rust
+- [**4. Rust Safety and Security Features**](#4-rust-safety-and-security-features) (7 videos)
+  - Multifactor authentication
+  - Network segmentation
+  - Least privilege access
+  - Encryption
+  - Mutable fruit salad
+  - Customize fruit salad with a CLI
+  - Data race example
+- [**5. Security Programming with Rust**](#5-security-programming-with-rust) (8 videos)
+  - High availability
+  - Understanding the Homophonic cipher: A cryptographic technique
+  - Decoding the secrets of the Caesar cipher
+  - Building a Caesar cipher command-line interface
+  - Creating a decoder ring: A practical guide
+  - Detecting duplicates with SHA-3: A data integrity tool
+  - Incident response
+  - Compliance
+- [**6. Concurrency with Rust**](#6-concurrency-with-rust) (8 videos)
+  - Core concepts in concurrency
+  - Dining philosophers
+  - Web crawl Wikipedia with Rayon
+  - Intelligent chatbot with Tokio
+  - Multi-threaded deduplication with Rust
+  - Energy efficiency Python vs. Rust
+  - Concurrency stress test with a GPU
+  - Host efficiency serverless optimization problem
+- [**7. Using Rust to Manage Data, Files, and Network Storage**](#7-using-rust-to-manage-data-files-and-network-storage) (6 videos)
+  - Process CSV files in Rust
+  - Using Cargo Lambda with Rust
+  - List files on AWS EFS with Rust
+  - Use AWS S3 storage
+  - Use AWS S3 storage from Rust
+  - Write encrypted data to tables or Parquet files
+- [**8. DataFrames with Rust, Python, and Notebooks**](#8-dataframes-with-rust-python-and-notebooks) (7 videos)
+  - What is Colab?
+  - Using Bard to enhance notebook development
+  - Exploring life expectancy in a notebook
+  - Load a DataFrame with sensitive data
+  - Using MLFlow with Databricks Notebooks
+  - End to End ML with MLFlow and Databricks
+  - Exploring global life expectancy with Polars
+- [**9. Using Rust with Cloud SDKs and CLIs for Data Engineering**](#9-using-rust-with-cloud-sdks-and-clis-for-data-engineering) (8 videos)
+  - Cloud developer workspace advantage
+  - Onboarding to GCP with Python and Rust
+  - Using GCP Cloud Shell with Rust
+  - Learn AWS CloudShell
+  - Prototyping AI APIs with AWS CloudShell
+  - Cloud9 with CodeWhisperer
+  - Demo: GCP App Engine Rust Deploy
+  - Containerized Rust Actix Microservice on AWS
+- [**10. Getting Started with Rust Data Pipelines (Including ETL)**](#10-getting-started-with-rust-data-pipelines-including-etl) (7 videos)
+  - Jack and the Beanstalk data pipelines
+  - Open source data engineering: Pros and cons
+  - Core components of data engineering pipelines
+  - Rust AWS step functions pipeline
+  - Rust AWS Lambda Async S3 size calculator
+  - What is Distroless?
+  - Demo: Deploying Rust microservices on GCP
+- [**11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines**](#11-using-rust-and-python-for-llms-onnx-hugging-face-and-pytorch-pipelines) (7 videos)
+  - Introduction to Hugging Face Hub
+  - Rust PyTorch pre-trained model ecosystem
+  - Rust GPU Hugging Face translator
+  - Rust PyTorch high-performance options
+  - EFS ONNX Rust inference with AWS Lambda
+  - Theory behind model fine-tuning
+  - Doing fine-tuning
+- [**12. Building SQL Solutions with Rust, Generative AI, and Cloud**](#12-building-sql-solutions-with-rust-generative-ai-and-cloud) (9 videos)
+  - Selecting the correct database on GCP
+  - Rust SQLite Hugging Face zero-shot classification
+  - Prompt engineering for BigQuery
+  - BigQuery to Colab pipeline
+  - Exploring data with BigQuery
+  - Using public data sets for data science
+  - Querying log files with BigQuery
+  - There is no one-size database
+  - Course conclusion
 
 ### 1. Getting Started with the Modern Rust Development Ecosystem
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet the instructor and course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980)
@@ -1425,7 +1516,7 @@ created: 2026-04-29
 
 ### 2. Rust Sequences and Maps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Rust sequences and maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introducing-rust-sequences-and-maps?u=76281980)
@@ -1949,7 +2040,7 @@ created: 2026-04-29
 
 ### 3. Rust Sets, Graphs, and Miscellaneous Data Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyzing UFC fighter network using graph centrality in Rust
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980)
@@ -2540,7 +2631,7 @@ created: 2026-04-29
 
 ### 4. Rust Safety and Security Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Multifactor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/multifactor-authentication?u=76281980)
@@ -3016,7 +3107,7 @@ created: 2026-04-29
 
 ### 5. Security Programming with Rust
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### High availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/high-availability?u=76281980)
@@ -3641,7 +3732,7 @@ created: 2026-04-29
 
 ### 6. Concurrency with Rust
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Core concepts in concurrency
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/core-concepts-in-concurrency?u=76281980)
@@ -4537,7 +4628,7 @@ created: 2026-04-29
 
 ### 7. Using Rust to Manage Data, Files, and Network Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Process CSV files in Rust
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/process-csv-files-in-rust?u=76281980)
@@ -5266,7 +5357,7 @@ created: 2026-04-29
 
 ### 8. DataFrames with Rust, Python, and Notebooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Colab?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980)
@@ -5984,7 +6075,7 @@ created: 2026-04-29
 
 ### 9. Using Rust with Cloud SDKs and CLIs for Data Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud developer workspace advantage
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980)
@@ -7379,7 +7470,7 @@ created: 2026-04-29
 
 ### 10. Getting Started with Rust Data Pipelines (Including ETL)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Jack and the Beanstalk data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980)
@@ -8193,7 +8284,7 @@ created: 2026-04-29
 
 ### 11. Using Rust and Python for LLMs, ONNX, Hugging Face, and PyTorch Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Hugging Face Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980)
@@ -9075,7 +9166,7 @@ created: 2026-04-29
 
 ### 12. Building SQL Solutions with Rust, Generative AI, and Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting the correct database on GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980)

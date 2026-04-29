@@ -53,15 +53,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Why Use AI Orchestration?]]** (3 videos)
-- **[[#2. Components of an AI Orchestrator]]** (6 videos)
-- **[[#3. AI Orchestration for a Basic AI App]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn the basics of AI orchestration
+  - Setting up your environment
+- [**1. Why Use AI Orchestration?**](#1-why-use-ai-orchestration) (3 videos)
+  - When using ChatGPT isn't enough
+  - What is AI orchestration, and why is it useful?
+  - Architecture of AI orchestrators
+- [**2. Components of an AI Orchestrator**](#2-components-of-an-ai-orchestrator) (6 videos)
+  - Input interface for AI orchestrators
+  - Output interfaces for AI orchestrators
+  - Orchestrating LLMs with prompt chaining
+  - Calling APIs and connecting to databases
+  - AI workflows and agents
+  - Specialized large language models (LLMs)
+- [**3. AI Orchestration for a Basic AI App**](#3-ai-orchestration-for-a-basic-ai-app) (7 videos)
+  - Building low-code vs. code
+  - Visualizing an AI orchestration framework
+  - Building a simple AI app
+  - Implementing multiple AI workflows
+  - Adding API calls to your AI app
+  - Challenge: Building an AI coach
+  - Solution: Building an AI coach
+- [**Conclusion**](#conclusion) (1 videos)
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the basics of AI orchestration
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/learn-the-basics-of-ai-orchestration?u=76281980)
@@ -142,7 +161,7 @@ created: 2026-04-29
 
 ### 1. Why Use AI Orchestration?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When using ChatGPT isn't enough
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/when-using-chatgpt-isn-t-enough?u=76281980)
@@ -297,7 +316,7 @@ created: 2026-04-29
 
 ### 2. Components of an AI Orchestrator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Input interface for AI orchestrators
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/input-interface-for-ai-orchestrators?u=76281980)
@@ -686,7 +705,7 @@ created: 2026-04-29
 
 ### 3. AI Orchestration for a Basic AI App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building low-code vs. code
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/building-low-code-vs-code?u=76281980)
@@ -1384,7 +1403,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-foundations/conclusion?u=76281980)

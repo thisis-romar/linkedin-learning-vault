@@ -52,13 +52,17 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Moderating AI Exchanges]]** (2 videos)
-- **[[#2. Going Further]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Managing potentially harmful language with AI
+- [**1. Moderating AI Exchanges**](#1-moderating-ai-exchanges) (2 videos)
+  - How the OpenAI API moderation feature works
+  - Using the moderation feature in the OpenAI API
+- [**2. Going Further**](#2-going-further) (1 videos)
+  - Further resources and documentation
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing potentially harmful language with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980)
@@ -101,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Moderating AI Exchanges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How the OpenAI API moderation feature works
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980)
@@ -375,7 +379,7 @@ created: 2026-04-29
 
 ### 2. Going Further
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources and documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980)

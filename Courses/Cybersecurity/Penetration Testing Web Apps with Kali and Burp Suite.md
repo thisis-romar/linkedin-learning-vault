@@ -46,18 +46,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up]]** (4 videos)
-- **[[#2. Refresher]]** (3 videos)
-- **[[#3. Advanced Website Enumeration]]** (3 videos)
-- **[[#4. Finding Vulnerabilities]]** (2 videos)
-- **[[#5. Attacking the Website]]** (9 videos)
-- **[[#6. Content Management]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Protecting your websites
+  - What you should know before watching this course
+  - Disclaimer
+- [**1. Setting Up**](#1-setting-up) (4 videos)
+  - Preparing the test environment
+  - Setting up WordPress
+  - Setting up Joomla
+  - Online testing sites
+- [**2. Refresher**](#2-refresher) (3 videos)
+  - A refresher on web technology
+  - Refreshing your basic web testing skills
+  - A refresher on website shell implants
+- [**3. Advanced Website Enumeration**](#3-advanced-website-enumeration) (3 videos)
+  - Busting open a website
+  - Identifying virtual websites
+  - More ways to find web pages
+- [**4. Finding Vulnerabilities**](#4-finding-vulnerabilities) (2 videos)
+  - Vulnerability scanning with Burp Suite
+  - Using sqlmap to validate SQL injections
+- [**5. Attacking the Website**](#5-attacking-the-website) (9 videos)
+  - Exploiting your way into the gym
+  - Exploiting through an ASPX shell with Cadaver
+  - Checking web page source
+  - Injecting HTML into a web page
+  - Exploiting tools left on websites
+  - Injecting SQL using Burp Suite
+  - Exploiting Node.js
+  - Injecting XML into a web page
+  - File access through a web application URL
+- [**6. Content Management**](#6-content-management) (4 videos)
+  - Understanding CMS targets
+  - Getting into WordPress
+  - Shelling through WordPress
+  - Exploiting Joomla via SQL
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting your websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/protecting-your-websites?u=76281980)
@@ -161,7 +190,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing the test environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/preparing-the-test-environment?u=76281980)
@@ -491,7 +520,7 @@ created: 2026-04-29
 
 ### 2. Refresher
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A refresher on web technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/a-refresher-on-web-technology?u=76281980)
@@ -878,7 +907,7 @@ created: 2026-04-29
 
 ### 3. Advanced Website Enumeration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Busting open a website
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/busting-open-a-website?u=76281980)
@@ -1211,7 +1240,7 @@ created: 2026-04-29
 
 ### 4. Finding Vulnerabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vulnerability scanning with Burp Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/vulnerability-scanning-with-burp-suite?u=76281980)
@@ -1334,7 +1363,7 @@ created: 2026-04-29
 
 ### 5. Attacking the Website
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploiting your way into the gym
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/exploiting-your-way-into-the-gym?u=76281980)
@@ -2048,7 +2077,7 @@ created: 2026-04-29
 
 ### 6. Content Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding CMS targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/understanding-cms-targets?u=76281980)
@@ -2348,7 +2377,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-web-apps-with-kali-and-burp-suite/what-s-next?u=76281980)

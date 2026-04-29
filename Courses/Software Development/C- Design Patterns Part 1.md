@@ -49,17 +49,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Defining Software Design Patterns]]** (9 videos)
-- **[[#2. Get Started with Design Patterns]]** (5 videos)
-- **[[#3. The Iterator Pattern]]** (5 videos)
-- **[[#4. The Factory Method Pattern]]** (5 videos)
-- **[[#5. The Adapter Pattern]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Object-oriented design patterns in C#
+  - What you should know
+  - Review of terms
+  - Using the exercise files and installing .NET SDK
+- [**1. Defining Software Design Patterns**](#1-defining-software-design-patterns) (9 videos)
+  - Object-oriented programming
+  - What isn't OOP for design patterns
+  - C#, OOP, and design patterns
+  - What are design patterns?
+  - Why do you need design patterns?
+  - A short history of design patterns
+  - Categories of design patterns
+  - Challenge: Design patterns outside of software
+  - Solution: Design patterns outside of software
+- [**2. Get Started with Design Patterns**](#2-get-started-with-design-patterns) (5 videos)
+  - Using software design patterns
+  - Software design pattern drawbacks
+  - Overview of the creational patterns for C#
+  - Overview of the structural patterns for C#
+  - Overview of the behavioral patterns for C#
+- [**3. The Iterator Pattern**](#3-the-iterator-pattern) (5 videos)
+  - Iterator pattern definition
+  - Explicit iterator implementation in C# for generated data
+  - Combining iterators in C# with LINQ
+  - Challenge: Simultaneous iterators
+  - Solution: Simultaneous iterators
+- [**4. The Factory Method Pattern**](#4-the-factory-method-pattern) (5 videos)
+  - Factory Method pattern definition
+  - Factory Method pattern to choose the implementation of an action dynamically
+  - Factory Method design pattern for unit testing
+  - Challenge: Factory Method with dependency injection
+  - Solution: Factory Method with dependency injection
+- [**5. The Adapter Pattern**](#5-the-adapter-pattern) (5 videos)
+  - Adapter pattern definition
+  - Adapter in C#: Adapt FileStream to ILogger
+  - Adapter pattern for ViewModel mapping
+  - Challenge: Class adapter vs. object adapter
+  - Solution: Class adapter vs. object adapter
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented design patterns in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-design-patterns-in-c-sharp?u=76281980)
@@ -249,7 +283,7 @@ created: 2026-04-29
 
 ### 1. Defining Software Design Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/object-oriented-programming?u=76281980)
@@ -850,7 +884,7 @@ created: 2026-04-29
 
 ### 2. Get Started with Design Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using software design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/using-software-design-patterns?u=76281980)
@@ -1303,7 +1337,7 @@ created: 2026-04-29
 
 ### 3. The Iterator Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Iterator pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/iterator-pattern-definition?u=76281980)
@@ -1716,7 +1750,7 @@ created: 2026-04-29
 
 ### 4. The Factory Method Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Factory Method pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/factory-method-pattern-definition?u=76281980)
@@ -2095,7 +2129,7 @@ created: 2026-04-29
 
 ### 5. The Adapter Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adapter pattern definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/adapter-pattern-definition?u=76281980)
@@ -2479,7 +2513,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825/next-steps?u=76281980)

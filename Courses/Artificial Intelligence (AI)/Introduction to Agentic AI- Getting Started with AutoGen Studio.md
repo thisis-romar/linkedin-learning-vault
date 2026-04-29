@@ -49,17 +49,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to AutoGen Studio]]** (4 videos)
-- **[[#2. Building Your First AI Agent]]** (2 videos)
-- **[[#3. Designing Agent Workflows]]** (2 videos)
-- **[[#4. Giving Tools to Your Agents]]** (3 videos)
-- **[[#5. Putting It All Together]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Create smart agents with agentic AI
+  - What you should know
+- [**1. Introduction to AutoGen Studio**](#1-introduction-to-autogen-studio) (4 videos)
+  - Agentic AI basics
+  - AutoGen Studio 101
+  - Getting ready to set up AutoGen Studio
+  - A walkthrough to AutoGen Studio
+- [**2. Building Your First AI Agent**](#2-building-your-first-ai-agent) (2 videos)
+  - How to build your first AI agent
+  - Creating and configuring your first AI agent
+- [**3. Designing Agent Workflows**](#3-designing-agent-workflows) (2 videos)
+  - Agentic workflows in AutoGen Studio
+  - Creating an agentic workflow
+- [**4. Giving Tools to Your Agents**](#4-giving-tools-to-your-agents) (3 videos)
+  - Tools and function calling
+  - Creating a skill
+  - Adding tools to agents
+- [**5. Putting It All Together**](#5-putting-it-all-together) (3 videos)
+  - Creating a useful agentic workflow
+  - Review of the agentic workflow
+  - Debugging your agentic workflow
+- [**Conclusion**](#conclusion) (1 videos)
+  - Build more with AutoGen
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create smart agents with agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/create-smart-agents-with-agentic-ai?u=76281980)
@@ -121,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Introduction to AutoGen Studio
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agentic AI basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-ai-basics?u=76281980)
@@ -405,7 +422,7 @@ created: 2026-04-29
 
 ### 2. Building Your First AI Agent
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to build your first AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/how-to-build-your-first-ai-agent?u=76281980)
@@ -637,7 +654,7 @@ created: 2026-04-29
 
 ### 3. Designing Agent Workflows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agentic workflows in AutoGen Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/agentic-workflows-in-autogen-studio?u=76281980)
@@ -885,7 +902,7 @@ created: 2026-04-29
 
 ### 4. Giving Tools to Your Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and function calling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/tools-and-function-calling?u=76281980)
@@ -1198,7 +1215,7 @@ created: 2026-04-29
 
 ### 5. Putting It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a useful agentic workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/creating-an-useful-agentic-workflow?u=76281980)
@@ -1545,7 +1562,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build more with AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-getting-started-with-autogen-studio/build-more-with-autogen?u=76281980)

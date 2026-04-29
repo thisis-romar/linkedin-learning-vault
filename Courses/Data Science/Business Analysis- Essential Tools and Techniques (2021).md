@@ -39,15 +39,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction to Business Analysis Techniques]]** (2 videos)
-- **[[#1. Requirements Traceability Matrix]]** (3 videos)
-- **[[#2. Process Modeling]]** (3 videos)
-- **[[#3. Context Diagrams]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction to Business Analysis Techniques**](#introduction-to-business-analysis-techniques) (2 videos)
+  - Three essential business analysis techniques everyone should know
+  - What you should know
+- [**1. Requirements Traceability Matrix**](#1-requirements-traceability-matrix) (3 videos)
+  - The value of traceability to business analysis work
+  - Setting up your traceability matrix
+  - Tracing requirements through testing
+- [**2. Process Modeling**](#2-process-modeling) (3 videos)
+  - The value of process modeling to business analysis work
+  - Defining the basic business process model
+  - Using process models for process analysis
+- [**3. Context Diagrams**](#3-context-diagrams) (3 videos)
+  - The value of context diagrams to business analysis work
+  - Setting up your basic context diagram
+  - Using a context data flow diagram
+- [**Conclusion**](#conclusion) (1 videos)
+  - Using business analysis templates for project success
 
 ### Introduction to Business Analysis Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three essential business analysis techniques everyone should know
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/three-essential-business-analysis-techniques-everyone-should-know?u=76281980)
@@ -113,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Requirements Traceability Matrix
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of traceability to business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-traceability-to-business-analysis-work?u=76281980)
@@ -487,7 +499,7 @@ created: 2026-04-29
 
 ### 2. Process Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of process modeling to business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-process-modeling-to-business-analysis-work?u=76281980)
@@ -805,7 +817,7 @@ created: 2026-04-29
 
 ### 3. Context Diagrams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of context diagrams to business analysis work
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/the-value-of-context-diagrams-to-business-analysis-work?u=76281980)
@@ -1121,7 +1133,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using business analysis templates for project success
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-essential-tools-and-techniques-2021/using-business-analysis-templates-for-project-success?u=76281980)

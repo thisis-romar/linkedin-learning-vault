@@ -37,16 +37,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Shift Left: Inclusive Learning Design]]** (3 videos)
-- **[[#2. Identify Learners]]** (3 videos)
-- **[[#3. The Four Pillars of Inclusive Learning Design]]** (5 videos)
-- **[[#4. Put Practice to Design]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Designing learning for whole learners
+- [**1. Shift Left: Inclusive Learning Design**](#1-shift-left-inclusive-learning-design) (3 videos)
+  - The importance of inclusive learning design
+  - What is inclusive learning design?
+  - The five steps of ILD
+- [**2. Identify Learners**](#2-identify-learners) (3 videos)
+  - Your learning identity
+  - The learner's identity
+  - Learning gaps
+- [**3. The Four Pillars of Inclusive Learning Design**](#3-the-four-pillars-of-inclusive-learning-design) (5 videos)
+  - Apply the four pillars of ILD
+  - Personalization of learning
+  - Responsive learning development
+  - Flexible instructional approaches
+  - Communities and social learning
+- [**4. Put Practice to Design**](#4-put-practice-to-design) (2 videos)
+  - Implement inclusive learning design
+  - Assess inclusive learning design effectiveness
+- [**Conclusion**](#conclusion) (1 videos)
+  - The future of inclusive learning design
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing learning for whole learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/designing-learning-for-whole-learners?u=76281980)
@@ -90,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Shift Left: Inclusive Learning Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of inclusive learning design
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/the-importance-of-inclusive-learning-design?u=76281980)
@@ -286,7 +301,7 @@ created: 2026-04-29
 
 ### 2. Identify Learners
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your learning identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/your-learning-identity?u=76281980)
@@ -493,7 +508,7 @@ created: 2026-04-29
 
 ### 3. The Four Pillars of Inclusive Learning Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the four pillars of ILD
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/apply-the-four-pillars-of-ild?u=76281980)
@@ -874,7 +889,7 @@ created: 2026-04-29
 
 ### 4. Put Practice to Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement inclusive learning design
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/implement-inclusive-learning-design?u=76281980)
@@ -1039,7 +1054,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of inclusive learning design
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-learning-design/the-future-of-inclusive-learning-design?u=76281980)

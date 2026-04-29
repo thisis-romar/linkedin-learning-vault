@@ -49,15 +49,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introducing AutoML]]** (5 videos)
-- **[[#2. Stages in the ML Lifecycle]]** (6 videos)
-- **[[#3. AutoML Options]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - How AutoML is changing analytics teams
+  - What you should know?
+- [**1. Introducing AutoML**](#1-introducing-automl) (5 videos)
+  - What is AutoML?
+  - Understanding supervised machine learning on structured data
+  - Data engineering and ML Ops
+  - Understanding the ML lifecycle
+  - The challenge of ML problem definition
+- [**2. Stages in the ML Lifecycle**](#2-stages-in-the-ml-lifecycle) (6 videos)
+  - Which phases have been automated most successfully?
+  - The challenge of automating data understanding
+  - What AutoML can and can't do during data prep
+  - AutoML's capabilities during the modeling phase
+  - Comparing model accuracy and business evaluation
+  - Monitoring and maintaining models
+- [**3. AutoML Options**](#3-automl-options) (4 videos)
+  - The AutoML vendor landscape
+  - Demonstrating AutoML with KNIME
+  - A metaphor for AutoML
+  - Advice for team composition
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How AutoML is changing analytics teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/how-automl-is-changing-analytics-teams?u=76281980)
@@ -117,7 +135,7 @@ created: 2026-04-29
 
 ### 1. Introducing AutoML
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AutoML?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/what-is-automl?u=76281980)
@@ -413,7 +431,7 @@ created: 2026-04-29
 
 ### 2. Stages in the ML Lifecycle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Which phases have been automated most successfully?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/which-phases-have-been-automated-most-successfully?u=76281980)
@@ -861,7 +879,7 @@ created: 2026-04-29
 
 ### 3. AutoML Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The AutoML vendor landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/the-automl-vendor-landscape?u=76281980)
@@ -1288,7 +1306,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-automl/next-steps?u=76281980)

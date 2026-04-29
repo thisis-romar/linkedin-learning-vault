@@ -50,16 +50,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Deep Neural Networks]]** (3 videos)
-- **[[#2. Convolutional Networks]]** (3 videos)
-- **[[#3. Sequence Classifiers]]** (6 videos)
-- **[[#4. Graph Neural Networks]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The LinkedIn AI Academy: Neural networks are the heart of AI
+- [**1. Deep Neural Networks**](#1-deep-neural-networks) (3 videos)
+  - Neuron: Basic element of neural net
+  - Neural nets and nonlinearly separable classification
+  - Multiclass deep neural networks
+- [**2. Convolutional Networks**](#2-convolutional-networks) (3 videos)
+  - What is a convolutional filter?
+  - Deep convolutional neural networks
+  - Transfer learning
+- [**3. Sequence Classifiers**](#3-sequence-classifiers) (6 videos)
+  - Modeling sequences with language models
+  - Recurrent neural network language models
+  - Machine translation and encoder-decoder networks
+  - Attention-based neural networks
+  - Transformer model
+  - Pretrained language models
+- [**4. Graph Neural Networks**](#4-graph-neural-networks) (3 videos)
+  - Motivation and introduction
+  - Node embeddings
+  - Graph neural networks
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing the AI-100 learning path
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The LinkedIn AI Academy: Neural networks are the heart of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980)
@@ -81,7 +98,7 @@ created: 2026-04-29
 
 ### 1. Deep Neural Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Neuron: Basic element of neural net
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neuron-basic-element-of-neural-net?u=76281980)
@@ -316,7 +333,7 @@ created: 2026-04-29
 
 ### 2. Convolutional Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a convolutional filter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980)
@@ -545,7 +562,7 @@ created: 2026-04-29
 
 ### 3. Sequence Classifiers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling sequences with language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980)
@@ -1074,7 +1091,7 @@ created: 2026-04-29
 
 ### 4. Graph Neural Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Motivation and introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980)
@@ -1347,7 +1364,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing the AI-100 learning path
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/continuing-the-ai-100-learning-path?u=76281980)

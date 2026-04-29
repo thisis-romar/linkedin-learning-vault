@@ -52,18 +52,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Foundations of Continuous Delivery]]** (5 videos)
-- **[[#2. Developing Modern Java Apps]]** (5 videos)
-- **[[#3. Building Applications with Gradle]]** (8 videos)
-- **[[#4. Packaging Applications with Maven]]** (6 videos)
-- **[[#5. Continuous Integration with Jenkins]]** (11 videos)
-- **[[#6. Continuous Delivery with Argo CD]]** (10 videos)
-- **[[#Course Wrap-Up]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Delivering modern Java applications
+  - What you should know
+  - Lab setup
+- [**1. Foundations of Continuous Delivery**](#1-foundations-of-continuous-delivery) (5 videos)
+  - What is continuous delivery?
+  - Principles of continuous delivery
+  - Continuous integration, delivery, and deployment
+  - Delivery pipelines
+  - Modern Java applications
+- [**2. Developing Modern Java Apps**](#2-developing-modern-java-apps) (5 videos)
+  - Developer workflow
+  - Course project overview
+  - Local workstation setup
+  - Monorepo vs. polyrepo
+  - Creating polyrepos in GitHub
+- [**3. Building Applications with Gradle**](#3-building-applications-with-gradle) (8 videos)
+  - Build tools
+  - Getting started with Gradle
+  - Gradle build structure
+  - Gradle Wrapper
+  - Gradle tasks and plug-ins
+  - Gradle task graph
+  - Managing dependencies with Gradle
+  - Building Spring Boot applications with Gradle
+- [**4. Packaging Applications with Maven**](#4-packaging-applications-with-maven) (6 videos)
+  - Getting started with Maven
+  - Maven Java configuration
+  - Maven plug-ins
+  - Maven life cycle and phases
+  - Adding dependencies with Maven
+  - Building Spring Boot applications with Maven
+- [**5. Continuous Integration with Jenkins**](#5-continuous-integration-with-jenkins) (11 videos)
+  - Continuous integration overview
+  - Getting started with Jenkins
+  - Creating a Jenkins pipeline
+  - Pipeline stages
+  - Environment variables
+  - Jenkins projects
+  - Maven builds in Jenkins
+  - Containers
+  - Creating a Dockerfile
+  - Building container images in Jenkins
+  - Publishing container images to GitHub packages
+- [**6. Continuous Delivery with Argo CD**](#6-continuous-delivery-with-argo-cd) (10 videos)
+  - Continuous delivery overview
+  - Container orchestration
+  - Managing Kubernetes resources with Kustomize
+  - Creating a CD pipeline
+  - Triggering the CD pipeline
+  - Automated deployment
+  - Configuring Kubernetes security
+  - Deploying microservices with Argo CD
+  - Continuous delivery with Argo CD
+  - Continuous deployment with Argo CD
+- [**Course Wrap-Up**](#course-wrap-up) (1 videos)
+  - Course wrap-up
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Delivering modern Java applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/delivering-modern-java-applications?u=76281980)
@@ -249,7 +298,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Continuous Delivery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is continuous delivery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/what-is-continuous-delivery?u=76281980)
@@ -583,7 +632,7 @@ created: 2026-04-29
 
 ### 2. Developing Modern Java Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developer workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/developer-workflow?u=76281980)
@@ -1093,7 +1142,7 @@ created: 2026-04-29
 
 ### 3. Building Applications with Gradle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/build-tools?u=76281980)
@@ -1899,7 +1948,7 @@ created: 2026-04-29
 
 ### 4. Packaging Applications with Maven
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Maven
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/getting-started-with-maven?u=76281980)
@@ -2559,7 +2608,7 @@ created: 2026-04-29
 
 ### 5. Continuous Integration with Jenkins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous integration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-integration-overview?u=76281980)
@@ -3564,7 +3613,7 @@ created: 2026-04-29
 
 ### 6. Continuous Delivery with Argo CD
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous delivery overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/continuous-delivery-overview?u=76281980)
@@ -4587,7 +4636,7 @@ created: 2026-04-29
 
 ### Course Wrap-Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/continuous-delivery-for-cloud-native-java-apps/course-wrap-up?u=76281980)

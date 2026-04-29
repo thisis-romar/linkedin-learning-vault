@@ -56,17 +56,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Continuous Delivery]]** (6 videos)
-- **[[#2. Model Serving]]** (5 videos)
-- **[[#3. Continuous Monitoring]]** (6 videos)
-- **[[#4. Drift Management]]** (5 videos)
-- **[[#5. Responsible AI]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Getting started with MLOps
+  - Course coverage
+  - Review of MLOps lifecycle
+- [**1. Continuous Delivery**](#1-continuous-delivery) (6 videos)
+  - An ML production setup
+  - Deployment pipelines
+  - Deployment rollout strategies
+  - Planning for infrastructure
+  - Deployment best practices
+  - Tools and technologies for deployment
+- [**2. Model Serving**](#2-model-serving) (5 videos)
+  - Model serving patterns
+  - Scaling model serving
+  - Building resiliency in serving
+  - Serving multiple models
+  - Tools and technologies for serving
+- [**3. Continuous Monitoring**](#3-continuous-monitoring) (6 videos)
+  - The monitoring pipeline
+  - Instrumentation for observability
+  - Metrics to monitor
+  - ML production data best practices
+  - Alerts and thresholds for ML
+  - Tools and technologies for monitoring
+- [**4. Drift Management**](#4-drift-management) (5 videos)
+  - Introduction to model drift
+  - Concept drift basics
+  - Managing concept drift
+  - Feature drift basics
+  - Managing feature drift
+- [**5. Responsible AI**](#5-responsible-ai) (5 videos)
+  - Elements of responsible AI
+  - Explainable AI
+  - Fairness in ML
+  - Security of ML assets
+  - Privacy in machine learning
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with MLOps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980)
@@ -274,7 +305,7 @@ created: 2026-04-29
 
 ### 1. Continuous Delivery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An ML production setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/an-ml-production-setup?u=76281980)
@@ -653,7 +684,7 @@ created: 2026-04-29
 
 ### 2. Model Serving
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Model serving patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980)
@@ -1000,7 +1031,7 @@ created: 2026-04-29
 
 ### 3. Continuous Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The monitoring pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980)
@@ -1395,7 +1426,7 @@ created: 2026-04-29
 
 ### 4. Drift Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to model drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/introduction-to-model-drift?u=76281980)
@@ -1743,7 +1774,7 @@ created: 2026-04-29
 
 ### 5. Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elements of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980)
@@ -2019,7 +2050,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/continuing-on-with-mlops?u=76281980)

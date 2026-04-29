@@ -46,15 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Getting Started with Bitbucket]]** (8 videos)
-- **[[#2. Working with Branches and Pull Requests]]** (5 videos)
-- **[[#3. Working with Jira Cloud]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Streamline your code and collaboration with Bitbucket
+  - What you should know
+  - Create an Atlassian account
+  - Bitbucket content organization
+- [**1. Getting Started with Bitbucket**](#1-getting-started-with-bitbucket) (8 videos)
+  - Create public and private repositories
+  - Add files to a repository
+  - Add an SSH key for authentication
+  - Clone repo to a local system
+  - Use a Git workflow
+  - Push code to a remote repo
+  - Challenge: Create a repo and add code
+  - Solution: Create a repo and add code
+- [**2. Working with Branches and Pull Requests**](#2-working-with-branches-and-pull-requests) (5 videos)
+  - Create a branch
+  - Push code to a branch
+  - Create a Pull request
+  - Challenge: Create and merge a Pull request
+  - Solution: Create and merge a Pull request
+- [**3. Working with Jira Cloud**](#3-working-with-jira-cloud) (7 videos)
+  - Manage Projects with Jira and Bitbucket
+  - Connect Jira to Bitbucket
+  - Automate issue updates
+  - Create an issue and link to the Bitbucket branch
+  - Update and close issues from Bitbucket
+  - Challenge: Trigger Jira automation from Bitbucket
+  - Solution: Trigger Jira automation from Bitbucket
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Streamline your code and collaboration with Bitbucket
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980)
@@ -233,7 +258,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Bitbucket
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create public and private repositories
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980)
@@ -920,7 +945,7 @@ created: 2026-04-29
 
 ### 2. Working with Branches and Pull Requests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a branch
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-a-branch?u=76281980)
@@ -1387,7 +1412,7 @@ created: 2026-04-29
 
 ### 3. Working with Jira Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage Projects with Jira and Bitbucket
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980)
@@ -1865,7 +1890,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980)

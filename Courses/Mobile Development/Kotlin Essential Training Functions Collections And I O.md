@@ -44,20 +44,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up Your Kotlin Development Environment]]** (4 videos)
-- **[[#2. Common Data Types]]** (4 videos)
-- **[[#3. Working with Functions]]** (6 videos)
-- **[[#4. Control Flow Structures]]** (8 videos)
-- **[[#5. Debugging Kotlin Code]]** (3 videos)
-- **[[#6. Working with Collections]]** (7 videos)
-- **[[#7. Working with Inputs and Outputs]]** (5 videos)
-- **[[#8. Testing Kotlin Code]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome to Kotlin
+  - What you should know
+  - Using the exercise files on GitHub
+- [**1. Setting Up Your Kotlin Development Environment**](#1-setting-up-your-kotlin-development-environment) (4 videos)
+  - Introducing IntelliJ IDEA
+  - Installing IntelliJ IDEA for macOS
+  - Installing IntelliJ IDEA for Windows
+  - Run your first Kotlin code
+- [**2. Common Data Types**](#2-common-data-types) (4 videos)
+  - Mutable and immutable data types
+  - Numeric data types
+  - Char and string data types
+  - Nullable types
+- [**3. Working with Functions**](#3-working-with-functions) (6 videos)
+  - Basic functions
+  - Function parameters
+  - Functional types
+  - Higher-order functions
+  - Challenge: Write a name formatter function
+  - Solution: Write a name formatter function
+- [**4. Control Flow Structures**](#4-control-flow-structures) (8 videos)
+  - if and when statements
+  - Statements vs. expressions
+  - try/catch as control flow
+  - Smart casting
+  - while loops
+  - for loops
+  - Challenge: Replace an if/else expression with a when expression
+  - Solution: Replace an if/else expression with a when expression
+- [**5. Debugging Kotlin Code**](#5-debugging-kotlin-code) (3 videos)
+  - Setting breakpoints
+  - Stepping through code
+  - Evaluate expressions and add watches
+- [**6. Working with Collections**](#6-working-with-collections) (7 videos)
+  - Arrays
+  - Lists
+  - Sets and maps
+  - Working with collections
+  - Sequences
+  - Challenge: Filtering a list of data
+  - Solution: Filtering a list of data
+- [**7. Working with Inputs and Outputs**](#7-working-with-inputs-and-outputs) (5 videos)
+  - Command-line arguments
+  - Receiving user input
+  - Read and write to files
+  - Challenge: Parsing a list of data from a file
+  - Solution: Parsing a list of data from a file
+- [**8. Testing Kotlin Code**](#8-testing-kotlin-code) (2 videos)
+  - Writing JUnit tests
+  - Mocking data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Kotlin
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980)
@@ -177,7 +220,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Kotlin Development Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing IntelliJ IDEA
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980)
@@ -480,7 +523,7 @@ created: 2026-04-29
 
 ### 2. Common Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mutable and immutable data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980)
@@ -1089,7 +1132,7 @@ created: 2026-04-29
 
 ### 3. Working with Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980)
@@ -1892,7 +1935,7 @@ created: 2026-04-29
 
 ### 4. Control Flow Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### if and when statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980)
@@ -2836,7 +2879,7 @@ created: 2026-04-29
 
 ### 5. Debugging Kotlin Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting breakpoints
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980)
@@ -3184,7 +3227,7 @@ created: 2026-04-29
 
 ### 6. Working with Collections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980)
@@ -4093,7 +4136,7 @@ created: 2026-04-29
 
 ### 7. Working with Inputs and Outputs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980)
@@ -4633,7 +4676,7 @@ created: 2026-04-29
 
 ### 8. Testing Kotlin Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing JUnit tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980)
@@ -4976,7 +5019,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980)

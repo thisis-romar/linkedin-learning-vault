@@ -44,17 +44,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. How to Format a Document]]** (6 videos)
-- **[[#2. How to Format Large Bodies of Text]]** (9 videos)
-- **[[#3. How to Format Smaller Blocks of Text]]** (10 videos)
-- **[[#4. How to Use Punctuation Properly]]** (5 videos)
-- **[[#5. How to Choose Typefaces]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction
+- [**1. How to Format a Document**](#1-how-to-format-a-document) (6 videos)
+  - 01 Distrust default software settings
+  - 02 Ensure good contrast between text and background
+  - 03 Avoid chart junk and page junk
+  - 04 Enforce a consistent style within a document
+  - 05 Maintain a visual hierarchy
+  - 06 Group related page elements
+- [**2. How to Format Large Bodies of Text**](#2-how-to-format-large-bodies-of-text) (9 videos)
+  - 07 Set printed body text from 9 to 11 points
+  - 08 Set body text two to three alphabets wide
+  - 09 Favor flush-left, ragged-right body text
+  - 10 Separate sentences with one space, not two
+  - 11 Don't allow less than seven characters on a line
+  - 12 Avoid bad paragraph breaks
+  - 13 Avoid line-breaking hyphens
+  - 14 Signal new paragraphs once, not twice
+  - 15 Break up large blocks of text
+- [**3. How to Format Smaller Blocks of Text**](#3-how-to-format-smaller-blocks-of-text) (10 videos)
+  - 16 Emphasize ten percent or less of text
+  - 17 Avoid all caps and underlined text
+  - 18 Set acronyms and initialisms in small caps
+  - 19 Hang punctuation in small chunks of text
+  - 20 Hang bullets and numbers in lists
+  - 21 Avoid bad line breaks
+  - 22 Use symbols and special characters as needed
+  - 23 Use proportional old-style figures in body text
+  - 24 Adjust leading and kerning for large text
+  - 25 Verify software alignments optically
+- [**4. How to Use Punctuation Properly**](#4-how-to-use-punctuation-properly) (5 videos)
+  - 26 Connect thoughts, using em dashes
+  - 27 Show ranges, using en dashes
+  - 28 Clarify, and improve readability, using hyphens
+  - 29 Designate feet and inches, with prime symbols
+  - 30 Replace missing characters with apostrophes
+- [**5. How to Choose Typefaces**](#5-how-to-choose-typefaces) (3 videos)
+  - 31 Limit typefaces to two per document
+  - 32 Use typefaces that reinforce a document's mood
+  - 33 Choose serif or sans serif, based on aesthetics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Goodbye
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980)
@@ -119,7 +154,7 @@ created: 2026-04-29
 
 ### 1. How to Format a Document
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### 01 Distrust default software settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/01-distrust-default-software-settings?u=76281980)
@@ -847,7 +882,7 @@ created: 2026-04-29
 
 ### 2. How to Format Large Bodies of Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### 07 Set printed body text from 9 to 11 points
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/07-set-printed-body-text-from-9-to-11-points?u=76281980)
@@ -1761,7 +1796,7 @@ created: 2026-04-29
 
 ### 3. How to Format Smaller Blocks of Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### 16 Emphasize ten percent or less of text
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/16-emphasize-ten-percent-or-less-of-text?u=76281980)
@@ -2856,7 +2891,7 @@ created: 2026-04-29
 
 ### 4. How to Use Punctuation Properly
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### 26 Connect thoughts, using em dashes
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980)
@@ -3390,7 +3425,7 @@ created: 2026-04-29
 
 ### 5. How to Choose Typefaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### 31 Limit typefaces to two per document
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/31-limit-typefaces-to-two-per-document?u=76281980)
@@ -3673,7 +3708,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/goodbye?u=76281980)

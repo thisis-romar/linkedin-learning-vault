@@ -49,16 +49,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Building Blocks of Your Marketing Strategy]]** (5 videos)
-- **[[#2. Developing a Value Proposition for Your Brand]]** (5 videos)
-- **[[#3. Creating the Customer-Brand Experience]]** (5 videos)
-- **[[#4. Creating the Marketing Plan and Learning from Your Work]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Think like a marketer
+- [**1. The Building Blocks of Your Marketing Strategy**](#1-the-building-blocks-of-your-marketing-strategy) (5 videos)
+  - Defining brands and brand architecture
+  - Choosing a business category
+  - Investigating your organization and your competition
+  - Developing a practical customer definition
+  - Navigating three types of customer loyalty
+- [**2. Developing a Value Proposition for Your Brand**](#2-developing-a-value-proposition-for-your-brand) (5 videos)
+  - Discovering customer segments
+  - Discover customer insights
+  - Mapping your business category
+  - Writing a target audience persona
+  - Articulating your brand's value proposition
+- [**3. Creating the Customer-Brand Experience**](#3-creating-the-customer-brand-experience) (5 videos)
+  - Building a brand-customer experience map
+  - Align your products and services to the value proposition
+  - Aligning your price to your brand's value proposition
+  - Developing the communications plan
+  - Mapping brand-customer touchpoints
+- [**4. Creating the Marketing Plan and Learning from Your Work**](#4-creating-the-marketing-plan-and-learning-from-your-work) (2 videos)
+  - Writing the strategic narrative: The marketing plan
+  - Learning from your work: Marketing metrics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Thinking like a marketer
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Think like a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/think-like-a-marketer?u=76281980)
@@ -94,7 +113,7 @@ created: 2026-04-29
 
 ### 1. The Building Blocks of Your Marketing Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining brands and brand architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/defining-brands-and-brand-architecture?u=76281980)
@@ -558,7 +577,7 @@ created: 2026-04-29
 
 ### 2. Developing a Value Proposition for Your Brand
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discovering customer segments
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/discovering-customer-segments?u=76281980)
@@ -943,7 +962,7 @@ created: 2026-04-29
 
 ### 3. Creating the Customer-Brand Experience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a brand-customer experience map
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/building-a-brand-customer-experience-map?u=76281980)
@@ -1360,7 +1379,7 @@ created: 2026-04-29
 
 ### 4. Creating the Marketing Plan and Learning from Your Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing the strategic narrative: The marketing plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/writing-the-strategic-narrative-the-marketing-plan?u=76281980)
@@ -1503,7 +1522,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking like a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-2022/thinking-like-a-marketer?u=76281980)

@@ -56,17 +56,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (6 videos)
-- **[[#1. Distributions and Probabilities]]** (6 videos)
-- **[[#2. Binomial Logistic Regression]]** (9 videos)
-- **[[#3. Fine-Tuning the Model]]** (7 videos)
-- **[[#4. Multinomial Regression]]** (5 videos)
-- **[[#5. Working in Power BI with R]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (6 videos)
+  - Apply logistic regressions to solve problems
+  - What you should know
+  - Introduction to the course project
+  - Configuring the Excel Solver Add-in
+  - Working with R
+  - Configuring R in Power BI
+- [**1. Distributions and Probabilities**](#1-distributions-and-probabilities) (6 videos)
+  - Introducing AI and logistic regression
+  - Differentiating between odds and probabilities
+  - Differentiating between distributions
+  - Calculating logs and exponents
+  - Sigmoid curve
+  - Utilizing training and testing data sets
+- [**2. Binomial Logistic Regression**](#2-binomial-logistic-regression) (9 videos)
+  - Calculating linear regression
+  - Working with the logit model
+  - Calculating log likelihood
+  - Constructing MLE
+  - Solving MLE
+  - Predicting outcomes
+  - Visualizing logistic regression
+  - Challenge: Calculating logistic regression
+  - Solution: Calculating logistic regression
+- [**3. Fine-Tuning the Model**](#3-fine-tuning-the-model) (7 videos)
+  - Adding more independent variables
+  - Transforming variables
+  - Calculating correlations
+  - Using statistics
+  - Configuring confusion tables
+  - Challenge: Fine-tuning the model
+  - Solution: Fine-tuning the model
+- [**4. Multinomial Regression**](#4-multinomial-regression) (5 videos)
+  - Calculating odds for multinomial models
+  - Calculating probabilities for multinomial models
+  - Calculating multinomial log likelihoods
+  - Running MLE
+  - Making the predictions
+- [**5. Working in Power BI with R**](#5-working-in-power-bi-with-r) (5 videos)
+  - Running R scripts in the Power Query Editor
+  - Running R standard visuals
+  - Interacting between visual components
+  - Challenge: Moving into Power BI
+  - Solution: Moving into Power BI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with logistic regressions
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply logistic regressions to solve problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/apply-logistic-regressions-to-solve-problems?u=76281980)
@@ -370,7 +409,7 @@ created: 2026-04-29
 
 ### 1. Distributions and Probabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing AI and logistic regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/introducing-ai-and-logistic-regression?u=76281980)
@@ -749,7 +788,7 @@ created: 2026-04-29
 
 ### 2. Binomial Logistic Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculating linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-linear-regression?u=76281980)
@@ -1526,7 +1565,7 @@ created: 2026-04-29
 
 ### 3. Fine-Tuning the Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding more independent variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/adding-more-independent-variables?u=76281980)
@@ -2186,7 +2225,7 @@ created: 2026-04-29
 
 ### 4. Multinomial Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculating odds for multinomial models
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/calculating-odds-for-multinomial-models?u=76281980)
@@ -2607,7 +2646,7 @@ created: 2026-04-29
 
 ### 5. Working in Power BI with R
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Running R scripts in the Power Query Editor
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/running-r-scripts-in-the-power-query-editor?u=76281980)
@@ -3129,7 +3168,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with logistic regressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-logistic-regression-in-excel-r-and-power-bi/next-steps-with-logistic-regressions?u=76281980)

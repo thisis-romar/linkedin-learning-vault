@@ -51,15 +51,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to pandas]]** (7 videos)
-- **[[#2. Data Analysis]]** (5 videos)
-- **[[#3. Time Series Analysis]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Python in Excel and pandas DataFrames
+  - What you should know
+  - About Python in Excel
+- [**1. Introduction to pandas**](#1-introduction-to-pandas) (7 videos)
+  - Hello World
+  - pandas DataFrame and Series
+  - Data selection
+  - Calculations, vectorization, and empty cells
+  - Row filtering
+  - Manipulating DataFrames
+  - Python editor and magic commands
+- [**2. Data Analysis**](#2-data-analysis) (5 videos)
+  - Data cleaning
+  - Working with text data
+  - Combining DataFrames
+  - Data aggregation
+  - Plotting
+- [**3. Time Series Analysis**](#3-time-series-analysis) (6 videos)
+  - Introduction to time series
+  - Time series analysis with pandas DataFrames
+  - Shifting and percentage changes
+  - Comparing time series
+  - Resampling and correlation
+  - Case study: Sales dashboard
+- [**Conclusion**](#conclusion) (1 videos)
+  - The next steps for learning more about Python in Excel
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python in Excel and pandas DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/python-in-excel-and-pandas-dataframes?u=76281980)
@@ -173,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Introduction to pandas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hello World
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/hello-world?u=76281980)
@@ -882,7 +904,7 @@ created: 2026-04-29
 
 ### 2. Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data cleaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/data-cleaning?u=76281980)
@@ -1358,7 +1380,7 @@ created: 2026-04-29
 
 ### 3. Time Series Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to time series
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/introduction-to-time-series?u=76281980)
@@ -1959,7 +1981,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The next steps for learning more about Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-working-with-pandas-dataframes/the-next-steps-for-learning-more-about-python-in-excel?u=76281980)

@@ -59,19 +59,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Logistics of a Technical Resume]]** (3 videos)
-- **[[#2. Resume Content]]** (5 videos)
-- **[[#3. Content Tips and Tricks]]** (2 videos)
-- **[[#4. Tools for Creating a Resume]]** (3 videos)
-- **[[#5. Design Dos and Don'ts]]** (4 videos)
-- **[[#6. Should You Include...]]** (5 videos)
-- **[[#7. Having a Professional Online Presence]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why do you need a resume?
+- [**1. Logistics of a Technical Resume**](#1-logistics-of-a-technical-resume) (3 videos)
+  - How hiring managers read your resume
+  - Resume length
+  - The difference between a resume and a CV
+- [**2. Resume Content**](#2-resume-content) (5 videos)
+  - Contact information
+  - Education
+  - Work experience
+  - Relevant skills
+  - Awards and certifications
+- [**3. Content Tips and Tricks**](#3-content-tips-and-tricks) (2 videos)
+  - The importance of word choice
+  - State your impact
+- [**4. Tools for Creating a Resume**](#4-tools-for-creating-a-resume) (3 videos)
+  - Word processors
+  - Resume builders
+  - Visual design tools
+- [**5. Design Dos and Don'ts**](#5-design-dos-and-donts) (4 videos)
+  - Typography
+  - Color
+  - Layout
+  - File format
+- [**6. Should You Include...**](#6-should-you-include) (5 videos)
+  - Summary or objective
+  - Extracurricular activities or hobbies
+  - References
+  - Photo
+  - Graduation year
+- [**7. Having a Professional Online Presence**](#7-having-a-professional-online-presence) (3 videos)
+  - LinkedIn
+  - GitHub
+  - Personal portfolio or website
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with your resume
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do you need a resume?
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/why-do-you-need-a-resume?u=76281980)
@@ -124,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Logistics of a Technical Resume
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How hiring managers read your resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/how-hiring-managers-read-your-resume?u=76281980)
@@ -292,7 +319,7 @@ created: 2026-04-29
 
 ### 2. Resume Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Contact information
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/contact-information?u=76281980)
@@ -602,7 +629,7 @@ created: 2026-04-29
 
 ### 3. Content Tips and Tricks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of word choice
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980)
@@ -732,7 +759,7 @@ created: 2026-04-29
 
 ### 4. Tools for Creating a Resume
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Word processors
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980)
@@ -899,7 +926,7 @@ created: 2026-04-29
 
 ### 5. Design Dos and Don'ts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Typography
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980)
@@ -1121,7 +1148,7 @@ created: 2026-04-29
 
 ### 6. Should You Include...
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary or objective
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/summary-or-objective?u=76281980)
@@ -1277,7 +1304,7 @@ created: 2026-04-29
 
 ### 7. Having a Professional Online Presence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### LinkedIn
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/linkedin?u=76281980)
@@ -1392,7 +1419,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with your resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/next-steps-with-your-resume?u=76281980)

@@ -52,11 +52,16 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Ethereum Development Tools]]** (5 videos)
+- [**1. Ethereum Development Tools**](#1-ethereum-development-tools) (5 videos)
+  - Your Ethereum development toolbox
+  - Installing Geth lab
+  - Installing Ganache lab
+  - Installing Truffle lab
+  - Installing Microsoft Visual Studio Code lab (IDE)
 
 ### 1. Ethereum Development Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your Ethereum development toolbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-4-ethereum-development-tools/your-ethereum-development-toolbox?u=76281980)

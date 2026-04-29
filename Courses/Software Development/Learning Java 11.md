@@ -47,18 +47,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Getting Started with Java]]** (7 videos)
-- **[[#2. Building Strong Foundations]]** (7 videos)
-- **[[#3. Control Flow]]** (7 videos)
-- **[[#4. Debugging in Java]]** (4 videos)
-- **[[#5. Functions in Java]]** (7 videos)
-- **[[#6. Classes in Java]]** (9 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Welcome to learning Java
+  - What you should know
+  - Using the exercise files
+  - Tour of CoderPad
+- [**1. Getting Started with Java**](#1-getting-started-with-java) (7 videos)
+  - What is Java?
+  - Downloading Java on your computer
+  - Exploring the command line
+  - Your first Java program
+  - Hello World in the command line
+  - Exploring an integrated development environment (IDE)
+  - Hello World in an IDE
+- [**2. Building Strong Foundations**](#2-building-strong-foundations) (7 videos)
+  - Primitive data types
+  - Data types and variables in Java
+  - Strings in Java
+  - Using indexes with strings
+  - Concatenating strings in Java
+  - Input and output in Java
+  - Solution: Find last character
+- [**3. Control Flow**](#3-control-flow) (7 videos)
+  - Mapping out program control flow
+  - Operators in Java
+  - Decision-making with if in Java
+  - Understanding scope in Java
+  - While loops (conceptually)
+  - While loops in Java
+  - Solution: Leap year checker
+- [**4. Debugging in Java**](#4-debugging-in-java) (4 videos)
+  - Debugging syntax and logical errors
+  - Debugging with an IDE
+  - Solution: Find the bug in string truncation
+  - Solution: Find the bug in string reversal
+- [**5. Functions in Java**](#5-functions-in-java) (7 videos)
+  - What are functions? (conceptually)
+  - Defining functions in Java
+  - Calling functions in Java
+  - Parameters in Java
+  - Return types in Java
+  - Using built-in functions in Java
+  - Solution: Move capital letters
+- [**6. Classes in Java**](#6-classes-in-java) (9 videos)
+  - Classes in Java
+  - Constructors in Java
+  - Creating a class in Java
+  - Creating instances in Java
+  - Instance methods vs. class methods
+  - Using instance methods in Java
+  - Instance and class variables in Java
+  - Review: Classes vs. instances
+  - Solution: Bank account balance
+- [**Conclusion**](#conclusion) (2 videos)
+  - Navigating Java documentation
+  - Next steps for learning Java
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to learning Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/welcome-to-learning-java?u=76281980)
@@ -190,7 +237,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Java?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-is-java?u=76281980)
@@ -720,7 +767,7 @@ created: 2026-04-29
 
 ### 2. Building Strong Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Primitive data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/primitive-data-types?u=76281980)
@@ -1233,7 +1280,7 @@ created: 2026-04-29
 
 ### 3. Control Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mapping out program control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/mapping-out-program-control-flow?u=76281980)
@@ -1759,7 +1806,7 @@ created: 2026-04-29
 
 ### 4. Debugging in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging syntax and logical errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/debugging-syntax-and-logical-errors?u=76281980)
@@ -2134,7 +2181,7 @@ created: 2026-04-29
 
 ### 5. Functions in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are functions? (conceptually)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/what-are-functions-conceptually?u=76281980)
@@ -2850,7 +2897,7 @@ created: 2026-04-29
 
 ### 6. Classes in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classes in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/classes-in-java?u=76281980)
@@ -3573,7 +3620,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating Java documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-11/navigating-java-documentation?u=76281980)

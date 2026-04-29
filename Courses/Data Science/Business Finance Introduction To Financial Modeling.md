@@ -44,17 +44,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Financial Modeling]]** (3 videos)
-- **[[#2. How to Design a Financial Model]]** (3 videos)
-- **[[#3. How To Build a Robust Financial Model]]** (3 videos)
-- **[[#4. Quality Assurance]]** (2 videos)
-- **[[#5. Finalizing and Presenting Your Model]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Learn robust financial modeling
+- [**1. Understanding Financial Modeling**](#1-understanding-financial-modeling) (3 videos)
+  - What are financial models?
+  - Guiding decision makers with a financial model
+  - Value of interpersonal skills with financial modeling
+- [**2. How to Design a Financial Model**](#2-how-to-design-a-financial-model) (3 videos)
+  - Preparing for a successful financial model
+  - Documenting the financial model design
+  - Understanding and analyzing data
+- [**3. How To Build a Robust Financial Model**](#3-how-to-build-a-robust-financial-model) (3 videos)
+  - Modeling tools and software
+  - Preparing modeling inputs
+  - Building model calculations
+- [**4. Quality Assurance**](#4-quality-assurance) (2 videos)
+  - Testing the model's technical integrity
+  - Testing the model's logic
+- [**5. Finalizing and Presenting Your Model**](#5-finalizing-and-presenting-your-model) (3 videos)
+  - Undertaking scenario analysis
+  - Presenting financial model results to stakeholders
+  - Importance of model documentation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your financial modeling learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn robust financial modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/learn-robust-financial-modeling?u=76281980)
@@ -84,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Understanding Financial Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are financial models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/what-are-financial-models?u=76281980)
@@ -321,7 +337,7 @@ created: 2026-04-29
 
 ### 2. How to Design a Financial Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for a successful financial model
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/preparing-for-a-successful-financial-model?u=76281980)
@@ -528,7 +544,7 @@ created: 2026-04-29
 
 ### 3. How To Build a Robust Financial Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modeling tools and software
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/modeling-tools-and-software?u=76281980)
@@ -790,7 +806,7 @@ created: 2026-04-29
 
 ### 4. Quality Assurance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing the model's technical integrity
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/testing-the-model-s-technical-integrity?u=76281980)
@@ -963,7 +979,7 @@ created: 2026-04-29
 
 ### 5. Finalizing and Presenting Your Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Undertaking scenario analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/undertaking-scenario-analysis?u=76281980)
@@ -1151,7 +1167,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your financial modeling learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-finance-introduction-to-financial-modeling/continuing-your-financial-modeling-learning-journey?u=76281980)

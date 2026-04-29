@@ -77,15 +77,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Data and Charts]]** (2 videos)
-- **[[#2. The Middle]]** (3 videos)
-- **[[#3. Variability]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The beginning of your statistics journey
+- [**1. Data and Charts**](#1-data-and-charts) (2 videos)
+  - Introduction to data and charts
+  - Data and chart examples
+- [**2. The Middle**](#2-the-middle) (3 videos)
+  - The middle of your data set
+  - Basic data sets
+  - Special circumstances
+- [**3. Variability**](#3-variability) (7 videos)
+  - Introduction to variability
+  - Range
+  - Standard deviation
+  - Calculating standard deviation
+  - Big and small standard deviation
+  - Empirical rule
+  - Outliers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The beginning of your statistics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-beginning-of-your-statistics-journey?u=76281980)
@@ -120,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Data and Charts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data and charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-data-and-charts?u=76281980)
@@ -212,7 +226,7 @@ created: 2026-04-29
 
 ### 2. The Middle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The middle of your data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/the-middle-of-your-data-set?u=76281980)
@@ -461,7 +475,7 @@ created: 2026-04-29
 
 ### 3. Variability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to variability
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/introduction-to-variability?u=76281980)
@@ -920,7 +934,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-1-the-basics/next-steps?u=76281980)

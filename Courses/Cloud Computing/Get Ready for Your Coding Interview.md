@@ -53,18 +53,59 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Introduction to Jupyter Notebook and Python]]** (5 videos)
-- **[[#2. Array/Python List]]** (6 videos)
-- **[[#3. String in Python]]** (5 videos)
-- **[[#4. Two-Dimensional Array]]** (5 videos)
-- **[[#5. Time Complexity and Big O]]** (8 videos)
-- **[[#6. Hash Table/Python Dictionary]]** (5 videos)
-- **[[#7. FAQ about Coding Interviews]]** (3 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - The coding interview
+  - What you should know
+  - What do coding interviews look like?
+  - How to prepare for coding interviews
+- [**1. Introduction to Jupyter Notebook and Python**](#1-introduction-to-jupyter-notebook-and-python) (5 videos)
+  - Introduction to Jupyter Notebook
+  - Installing Python and Jupyter Notebook
+  - Launching Jupyter Notebook
+  - Using Jupyter Notebook
+  - Using the exercise files
+- [**2. Array/Python List**](#2-arraypython-list) (6 videos)
+  - Review of list (array) in Python
+  - Two methods for Python list iteration
+  - Practice problems for Python list
+  - Sample interview question #1: Array
+  - Visual solution to sample question #1
+  - Code solution to sample question #1
+- [**3. String in Python**](#3-string-in-python) (5 videos)
+  - Review of string in Python
+  - Practice problems for string
+  - Sample interview question #2: String
+  - Visual solution to sample question #2
+  - Code solution to sample question #2
+- [**4. Two-Dimensional Array**](#4-two-dimensional-array) (5 videos)
+  - Overview of two-dimensional arrays
+  - Practice problems for 2D arrays
+  - Sample interview question #3: 2D array
+  - Visual solution to sample question #3
+  - Code solution to sample question #3
+- [**5. Time Complexity and Big O**](#5-time-complexity-and-big-o) (8 videos)
+  - Why time complexity and big O notation?
+  - Overview of time complexity
+  - Overview of big O notation
+  - Evaluating time complexity using big O
+  - Practical example of time complexity and big O
+  - Sample interview question #4: Big O
+  - Visual solution to sample question #4
+  - Code solution to sample question #4
+- [**6. Hash Table/Python Dictionary**](#6-hash-tablepython-dictionary) (5 videos)
+  - Overview of dictionary/hash table
+  - Practice problems for Python dictionary
+  - Sample interview question #5: Dictionary
+  - Visual solution to sample question #5
+  - Code solution to sample question #5
+- [**7. FAQ about Coding Interviews**](#7-faq-about-coding-interviews) (3 videos)
+  - How do I come up with an optimal solution?
+  - How should I test my code?
+  - Start applying
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The coding interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/the-coding-interview?u=76281980)
@@ -248,7 +289,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Jupyter Notebook and Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Jupyter Notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/introduction-to-jupyter-notebook-14347820?u=76281980)
@@ -469,7 +510,7 @@ created: 2026-04-29
 
 ### 2. Array/Python List
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review of list (array) in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-list-array-in-python-14352050?u=76281980)
@@ -816,7 +857,7 @@ created: 2026-04-29
 
 ### 3. String in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review of string in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/review-of-string-in-python-14353018?u=76281980)
@@ -1221,7 +1262,7 @@ created: 2026-04-29
 
 ### 4. Two-Dimensional Array
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of two-dimensional arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-two-dimensional-arrays?u=76281980)
@@ -1583,7 +1624,7 @@ created: 2026-04-29
 
 ### 5. Time Complexity and Big O
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why time complexity and big O notation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/why-time-complexity-and-big-o-notation-14353025?u=76281980)
@@ -2196,7 +2237,7 @@ created: 2026-04-29
 
 ### 6. Hash Table/Python Dictionary
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of dictionary/hash table
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/overview-of-dictionary-hash-table-14352048?u=76281980)
@@ -2588,7 +2629,7 @@ created: 2026-04-29
 
 ### 7. FAQ about Coding Interviews
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do I come up with an optimal solution?
 > [LinkedIn Learning](https://www.linkedin.com/learning/get-ready-for-your-coding-interview/how-do-i-come-up-with-an-optimal-solution-14348880?u=76281980)

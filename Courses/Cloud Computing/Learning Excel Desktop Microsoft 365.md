@@ -42,15 +42,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Get Started with Excel]]** (8 videos)
-- **[[#2. Modify Worksheets]]** (7 videos)
-- **[[#3. Share and Print Workbooks]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Build your Excel foundation in Microsoft 365
+  - What you need to know
+- [**1. Get Started with Excel**](#1-get-started-with-excel) (8 videos)
+  - What is Excel?
+  - Create a new workbook
+  - Add text data
+  - Add numbers
+  - Add formulas and functions
+  - Copy and paste with relative cell referencing
+  - Use autofill
+  - Prevent relative addressing
+- [**2. Modify Worksheets**](#2-modify-worksheets) (7 videos)
+  - Format text
+  - Format numbers
+  - Manage columns
+  - Manage rows
+  - Freeze panes
+  - Insert recommended charts
+  - Using Copilot
+- [**3. Share and Print Workbooks**](#3-share-and-print-workbooks) (3 videos)
+  - Print workbooks
+  - Send workbooks as email attachments
+  - Share workbooks using online options
+- [**Conclusion**](#conclusion) (1 videos)
+  - Expand your Excel knowledge
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your Excel foundation in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/build-your-excel-foundation-in-microsoft-365?u=76281980)
@@ -101,7 +122,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Excel?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/what-is-excel?u=76281980)
@@ -1008,7 +1029,7 @@ created: 2026-04-29
 
 ### 2. Modify Worksheets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Format text
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/format-text?u=76281980)
@@ -2060,7 +2081,7 @@ created: 2026-04-29
 
 ### 3. Share and Print Workbooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Print workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/print-workbooks?u=76281980)
@@ -2419,7 +2440,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expand your Excel knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-excel-desktop-microsoft-365-2024/expand-your-excel-knowledge?u=76281980)

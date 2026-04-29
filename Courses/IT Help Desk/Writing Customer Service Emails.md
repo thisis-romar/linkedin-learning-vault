@@ -48,17 +48,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Answer the Customer's Question]]** (6 videos)
-- **[[#2. Show Customers You've Read Their Email]]** (5 videos)
-- **[[#3. Use an Engaging Tone with Customers]]** (2 videos)
-- **[[#4. If You Must Apologize, Be Sincere]]** (6 videos)
-- **[[#5. Customize Templates to Avoid Sounding Robotic]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Customer service email is not dead
+- [**1. Answer the Customer's Question**](#1-answer-the-customers-question) (6 videos)
+  - Read emails analytically
+  - Anticipate follow-up questions
+  - Answer all of the customer's questions
+  - Answer difficult questions confidently
+  - Challenge: Answer a difficult question
+  - Solution: Answer a difficult question
+- [**2. Show Customers You've Read Their Email**](#2-show-customers-youve-read-their-email) (5 videos)
+  - Explain your process to the customer
+  - Paraphrase the customer's situation
+  - Acknowledge the customer's feelings
+  - Challenge: Demonstrate you've read the customer's email
+  - Solution: Demonstrate you've read the customer's email
+- [**3. Use an Engaging Tone with Customers**](#3-use-an-engaging-tone-with-customers) (2 videos)
+  - Use personal pronouns
+  - Make your writing more like speaking
+- [**4. If You Must Apologize, Be Sincere**](#4-if-you-must-apologize-be-sincere) (6 videos)
+  - When and how to apologize
+  - What to write after you apologize
+  - Avoid insincere wording
+  - When to empathize
+  - Challenge: Write an apology email
+  - Solution: Write an apology email
+- [**5. Customize Templates to Avoid Sounding Robotic**](#5-customize-templates-to-avoid-sounding-robotic) (5 videos)
+  - Use the template as a starting point
+  - Make templates customizable
+  - Build rapport
+  - Challenge: Use a template to write a customized reply
+  - Solution: Use a template to write a customized reply
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue to sharpen customer service email skills
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Customer service email is not dead
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/customer-service-email-is-not-dead?u=76281980)
@@ -85,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Answer the Customer's Question
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Read emails analytically
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/read-emails-analytically?u=76281980)
@@ -487,7 +513,7 @@ created: 2026-04-29
 
 ### 2. Show Customers You've Read Their Email
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explain your process to the customer
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/explain-your-process-to-the-customer?u=76281980)
@@ -801,7 +827,7 @@ created: 2026-04-29
 
 ### 3. Use an Engaging Tone with Customers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use personal pronouns
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980)
@@ -1017,7 +1043,7 @@ created: 2026-04-29
 
 ### 4. If You Must Apologize, Be Sincere
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When and how to apologize
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/when-and-how-to-apologize?u=76281980)
@@ -1417,7 +1443,7 @@ created: 2026-04-29
 
 ### 5. Customize Templates to Avoid Sounding Robotic
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the template as a starting point
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-the-template-as-a-starting-point?u=76281980)
@@ -1728,7 +1754,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue to sharpen customer service email skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/continue-to-sharpen-customer-service-email-skills?u=76281980)

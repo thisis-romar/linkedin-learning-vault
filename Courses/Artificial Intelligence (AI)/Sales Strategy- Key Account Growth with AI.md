@@ -52,16 +52,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Strategic Account Management]]** (3 videos)
-- **[[#2. Crucial Frameworks for Key Account Expansion]]** (2 videos)
-- **[[#3. Strategy, Growth, and Top Accounts]]** (3 videos)
-- **[[#4. Powerful Client Touchpoint Programs]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Prepare to grow with your top clients
+  - What you need to know
+- [**1. Strategic Account Management**](#1-strategic-account-management) (3 videos)
+  - Combine account management with strategic alignment
+  - Secure the senior leader handshake
+  - Establish key account criteria
+- [**2. Crucial Frameworks for Key Account Expansion**](#2-crucial-frameworks-for-key-account-expansion) (2 videos)
+  - Assemble the key account team
+  - Establish essentials for top-tier accounts with AI assistance
+- [**3. Strategy, Growth, and Top Accounts**](#3-strategy-growth-and-top-accounts) (3 videos)
+  - Pinpoint key account opportunities and strategies with AI
+  - Advance by deploying top account team members
+  - Gain momentum with win rooms
+- [**4. Powerful Client Touchpoint Programs**](#4-powerful-client-touchpoint-programs) (3 videos)
+  - Activate executive engagement with an AI boost
+  - Focus on communicating your impact
+  - Collaborate on a joint planning roadmap
+- [**Conclusion**](#conclusion) (2 videos)
+  - Create your customer success stories
+  - Design the path forward
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare to grow with your top clients
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/prepare-to-grow-with-your-top-clients?u=76281980)
@@ -138,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Strategic Account Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Combine account management with strategic alignment
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/combine-account-management-with-strategic-alignment?u=76281980)
@@ -353,7 +368,7 @@ created: 2026-04-29
 
 ### 2. Crucial Frameworks for Key Account Expansion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assemble the key account team
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/assemble-the-key-account-team?u=76281980)
@@ -503,7 +518,7 @@ created: 2026-04-29
 
 ### 3. Strategy, Growth, and Top Accounts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pinpoint key account opportunities and strategies with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/pinpoint-key-account-opportunities-and-strategies-with-ai?u=76281980)
@@ -711,7 +726,7 @@ created: 2026-04-29
 
 ### 4. Powerful Client Touchpoint Programs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Activate executive engagement with an AI boost
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/activate-executive-engagement-with-an-ai-boost?u=76281980)
@@ -921,7 +936,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your customer success stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/sales-strategy-key-account-growth-with-ai/create-your-customer-success-stories?u=76281980)

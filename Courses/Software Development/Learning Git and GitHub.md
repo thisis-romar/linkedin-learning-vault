@@ -63,16 +63,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Working with Git]]** (11 videos)
-- **[[#2. Working with GitHub]]** (7 videos)
-- **[[#3. GitHub Repos and Projects]]** (9 videos)
-- **[[#4. GitHub Social and Publishing]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Travel the multiverse with Git and GitHub
+  - Exercise files
+- [**1. Working with Git**](#1-working-with-git) (11 videos)
+  - Understanding version control
+  - What is Git?
+  - Setting up Git
+  - Understanding Git environments
+  - Ignoring files
+  - Deleting and renaming files
+  - Differences
+  - Changing history
+  - Branches
+  - Merge conflicts
+  - Git stash and clean
+- [**2. Working with GitHub**](#2-working-with-github) (7 videos)
+  - What is GitHub?
+  - Pushing to GitHub
+  - GitHub options
+  - Understanding GitHub flow
+  - Learning Markdown
+  - GitHub Markdown additions
+  - Repo essential files
+- [**3. GitHub Repos and Projects**](#3-github-repos-and-projects) (9 videos)
+  - Issues
+  - Pull requests
+  - Pull request features
+  - Finishing your code review
+  - Using a CODEOWNERS file
+  - Organizing projects
+  - Syncing GitHub
+  - Repository insights
+  - GitHub shortcut features
+- [**4. GitHub Social and Publishing**](#4-github-social-and-publishing) (5 videos)
+  - GitHub discussions
+  - GitHub notifications
+  - GitHub gists
+  - GitHub wikis
+  - GitHub pages
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Travel the multiverse with Git and GitHub
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980)
@@ -121,7 +156,7 @@ created: 2026-04-29
 
 ### 1. Working with Git
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-version-control?u=76281980)
@@ -1824,7 +1859,7 @@ created: 2026-04-29
 
 ### 2. Working with GitHub
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980)
@@ -3073,7 +3108,7 @@ created: 2026-04-29
 
 ### 3. GitHub Repos and Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980)
@@ -4488,7 +4523,7 @@ created: 2026-04-29
 
 ### 4. GitHub Social and Publishing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub discussions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-discussions?u=76281980)
@@ -5158,7 +5193,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980)

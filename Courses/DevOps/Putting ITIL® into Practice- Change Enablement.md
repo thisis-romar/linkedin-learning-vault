@@ -51,19 +51,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Request for Change]]** (6 videos)
-- **[[#2. Change Proposal]]** (6 videos)
-- **[[#3. Change Evaluation]]** (6 videos)
-- **[[#4. Change Advisory Board]]** (6 videos)
-- **[[#5. Change Scheduling]]** (6 videos)
-- **[[#6. Change Communication]]** (6 videos)
-- **[[#7. Change Implementation]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Stand apart as a change practitioner
+  - Why change enablement?
+  - What you'll learn
+  - How you'll learn it
+- [**1. Request for Change**](#1-request-for-change) (6 videos)
+  - What is a request for change, and why use it?
+  - Where and when to use a request for change
+  - Request for change steps
+  - Request for change example
+  - You try it: Request for change
+  - Review it: Request for change
+- [**2. Change Proposal**](#2-change-proposal) (6 videos)
+  - What is a change proposal and why use it?
+  - Where and when to use change proposals
+  - Steps to change proposal
+  - Example of a change proposal
+  - You try it: Change proposal
+  - Review it: Change proposal
+- [**3. Change Evaluation**](#3-change-evaluation) (6 videos)
+  - What is change evaluation and why use it?
+  - Where and when to use change evaluation
+  - Steps in change evaluation
+  - Example of change evaluation
+  - You try it: Change evaluation
+  - Review it: Change evaluation
+- [**4. Change Advisory Board**](#4-change-advisory-board) (6 videos)
+  - What is a change advisory board and why use it?
+  - Where and when to use a change advisory board
+  - Steps in change advisory board
+  - Example of change advisory board
+  - You try it: Change advisory board
+  - Review it: Change advisory board
+- [**5. Change Scheduling**](#5-change-scheduling) (6 videos)
+  - What is change scheduling and why use it?
+  - Where and when  to use change scheduling
+  - Steps in change scheduling
+  - Example of change scheduling
+  - You try it: Change scheduling
+  - Review it: Change scheduling
+- [**6. Change Communication**](#6-change-communication) (6 videos)
+  - What is change communication and why use it?
+  - Where and whe to use change communication
+  - Steps in change communication
+  - Example of change communication
+  - You try it: Change communication
+  - Review it: Change communication
+- [**7. Change Implementation**](#7-change-implementation) (6 videos)
+  - What is change implementation and why use it?
+  - Where and when to use a change implementation
+  - Steps in a change implementation
+  - Example of a change implementation
+  - You try it: Change implementation
+  - Review it: Change implementation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Further your journey into change enablement
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stand apart as a change practitioner
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/stand-apart-as-a-change-practitioner?u=76281980)
@@ -341,7 +388,7 @@ created: 2026-04-29
 
 ### 1. Request for Change
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a request for change, and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-request-for-change-and-why-use-it?u=76281980)
@@ -808,7 +855,7 @@ created: 2026-04-29
 
 ### 2. Change Proposal
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a change proposal and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-proposal-and-why-use-it?u=76281980)
@@ -1216,7 +1263,7 @@ created: 2026-04-29
 
 ### 3. Change Evaluation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is change evaluation and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-evaluation-and-why-use-it?u=76281980)
@@ -1614,7 +1661,7 @@ created: 2026-04-29
 
 ### 4. Change Advisory Board
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a change advisory board and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-a-change-advisory-board-and-why-use-it?u=76281980)
@@ -1994,7 +2041,7 @@ created: 2026-04-29
 
 ### 5. Change Scheduling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is change scheduling and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-scheduling-and-why-use-it?u=76281980)
@@ -2368,7 +2415,7 @@ created: 2026-04-29
 
 ### 6. Change Communication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is change communication and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-communication-and-why-use-it?u=76281980)
@@ -2790,7 +2837,7 @@ created: 2026-04-29
 
 ### 7. Change Implementation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is change implementation and why use it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/what-is-change-implementation-and-why-use-it?u=76281980)
@@ -3220,7 +3267,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further your journey into change enablement
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-change-enablement/further-your-journey-into-change-enablement?u=76281980)

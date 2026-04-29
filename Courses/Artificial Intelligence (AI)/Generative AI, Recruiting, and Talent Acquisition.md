@@ -57,14 +57,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Generative AI Recruitment Basics]]** (2 videos)
-- **[[#2. Generative AI in Talent Acquisition]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Generative AI for recruiting talent
+- [**1. Generative AI Recruitment Basics**](#1-generative-ai-recruitment-basics) (2 videos)
+  - Generative AI and the future of talent acquisition
+  - Identifying the various forms of generative AI
+- [**2. Generative AI in Talent Acquisition**](#2-generative-ai-in-talent-acquisition) (8 videos)
+  - Visualizing how generative AI can be used in TA: Use cases
+  - How recruiters can use generative AI in talent acquisition
+  - How generative AI can be used by candidates in recruiting
+  - How hiring managers can benefit from generative AI
+  - How generative AI can facilitate internal mobility
+  - 10 questions to ask vendors claiming to use generative AI
+  - Where do humans fit in the future of AI-driven recruiting?
+  - Embracing generative AI as your recruiting copilot
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI for recruiting talent
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-for-recruiting-talent?u=76281980)
@@ -100,7 +112,7 @@ created: 2026-04-29
 
 ### 1. Generative AI Recruitment Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI and the future of talent acquisition
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/generative-ai-and-the-future-of-talent-acquisition?u=76281980)
@@ -189,7 +201,7 @@ created: 2026-04-29
 
 ### 2. Generative AI in Talent Acquisition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing how generative AI can be used in TA: Use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/visualizing-how-generative-ai-can-be-used-in-ta-use-cases?u=76281980)
@@ -665,7 +677,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-recruiting-and-talent-acquisition/next-steps?u=76281980)

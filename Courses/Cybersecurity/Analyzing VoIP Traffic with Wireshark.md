@@ -43,17 +43,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. VoIP Overview]]** (4 videos)
-- **[[#2. Protocols]]** (6 videos)
-- **[[#3. Connecting Systems]]** (6 videos)
-- **[[#4. Network Operations]]** (5 videos)
-- **[[#5. Wireshark Statistics]]** (4 videos)
-- **[[#Conclusion]]** (0 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understand and troubleshoot VoIP
+  - Getting the most out of this course
+- [**1. VoIP Overview**](#1-voip-overview) (4 videos)
+  - Voice over IP (VoIP)
+  - VoIP and Unified Communications (UC)
+  - Digitizing a signal
+  - VoIP components
+- [**2. Protocols**](#2-protocols) (6 videos)
+  - Protocols overview
+  - TCP/IP
+  - DHCP
+  - Real-Time Transport Protocol
+  - Real-Time Control Protocol
+  - Skinny Client Control Protocol (SCCP)
+- [**3. Connecting Systems**](#3-connecting-systems) (6 videos)
+  - Gateways and gatekeepers
+  - Understanding MGCP and Megaco (H.248)
+  - Session Initiation Protocol
+  - H.323 family
+  - Establishing an H.323 connection
+  - Evaluating H.323
+- [**4. Network Operations**](#4-network-operations) (5 videos)
+  - Performance overview
+  - Quality of service
+  - Domain Name System
+  - Directory integration
+  - Using STIR/SHAKEN to reduce robocalls
+- [**5. Wireshark Statistics**](#5-wireshark-statistics) (4 videos)
+  - Dissecting a VoIP call
+  - Evaluating call quality
+  - Analyzing an RTP stream
+  - Recognizing jitter
+- [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand and troubleshoot VoIP
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980)
@@ -113,7 +140,7 @@ created: 2026-04-29
 
 ### 1. VoIP Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Voice over IP (VoIP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980)
@@ -322,7 +349,7 @@ created: 2026-04-29
 
 ### 2. Protocols
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protocols overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980)
@@ -793,7 +820,7 @@ created: 2026-04-29
 
 ### 3. Connecting Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gateways and gatekeepers
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/gateways-and-gatekeepers?u=76281980)
@@ -1274,7 +1301,7 @@ created: 2026-04-29
 
 ### 4. Network Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Performance overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/performance-overview?u=76281980)
@@ -1588,7 +1615,7 @@ created: 2026-04-29
 
 ### 5. Wireshark Statistics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dissecting a VoIP call
 > [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980)
@@ -1929,7 +1956,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

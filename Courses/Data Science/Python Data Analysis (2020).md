@@ -47,19 +47,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Installation and Setup]]** (5 videos)
-- **[[#2. Data Structures in Pure Python]]** (5 videos)
-- **[[#3. Wordplay: Anagrams and Palindromes]]** (5 videos)
-- **[[#4. Arrays with NumPy]]** (5 videos)
-- **[[#5. Use Case: Weather Data]]** (7 videos)
-- **[[#6. pandas]]** (4 videos)
-- **[[#7. Use Case: Baby Names]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Get started in data analysis with Python
+  - What you need to know
+  - What's new in this update
+- [**1. Installation and Setup**](#1-installation-and-setup) (5 videos)
+  - Install Anaconda Python on OS X
+  - Install Anaconda Python on Windows
+  - Working with Jupyter Notebooks
+  - Using the exercise files
+  - Using Python in the cloud
+- [**2. Data Structures in Pure Python**](#2-data-structures-in-pure-python) (5 videos)
+  - Warmup with Python loops
+  - Sequences: Lists, tuples, and the slicing syntax
+  - Dictionaries and sets
+  - Comprehensions
+  - Advanced Python containers
+- [**3. Wordplay: Anagrams and Palindromes**](#3-wordplay-anagrams-and-palindromes) (5 videos)
+  - Anagrams overview
+  - Loading a dictionary
+  - Finding anagrams
+  - Challenge: Palindromes
+  - Solution: Palindromes
+- [**4. Arrays with NumPy**](#4-arrays-with-numpy) (5 videos)
+  - NumPy overview
+  - Creating NumPy arrays
+  - Indexing NumPy arrays
+  - Doing math with NumPy arrays
+  - Special arrays: Records and dates
+- [**5. Use Case: Weather Data**](#5-use-case-weather-data) (7 videos)
+  - Overview of use case
+  - Loading station and temperature data
+  - Filling missing values
+  - Smoothing time series
+  - Weather charts
+  - Challenge: Weather anomalies
+  - Solution: Weather anomalies
+- [**6. pandas**](#6-pandas) (4 videos)
+  - pandas overview
+  - DataFrames and Series
+  - Indexing in pandas
+  - Plotting
+- [**7. Use Case: Baby Names**](#7-use-case-baby-names) (6 videos)
+  - Overview of use case
+  - Loading data sets
+  - Comparing name popularity
+  - Yearly top ten names
+  - Challenge: Unisex baby names
+  - Solution: Unisex baby names
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started in data analysis with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/get-started-in-data-analysis-with-python?u=76281980)
@@ -161,7 +202,7 @@ created: 2026-04-29
 
 ### 1. Installation and Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install Anaconda Python on OS X
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/install-anaconda-python-on-os-x?u=76281980)
@@ -484,7 +525,7 @@ created: 2026-04-29
 
 ### 2. Data Structures in Pure Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Warmup with Python loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/warmup-with-python-loops?u=76281980)
@@ -1149,7 +1190,7 @@ created: 2026-04-29
 
 ### 3. Wordplay: Anagrams and Palindromes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Anagrams overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/anagrams-overview?u=76281980)
@@ -1542,7 +1583,7 @@ created: 2026-04-29
 
 ### 4. Arrays with NumPy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### NumPy overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/numpy-overview?u=76281980)
@@ -2075,7 +2116,7 @@ created: 2026-04-29
 
 ### 5. Use Case: Weather Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case-2?u=76281980)
@@ -2656,7 +2697,7 @@ created: 2026-04-29
 
 ### 6. pandas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### pandas overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/pandas-overview?u=76281980)
@@ -3087,7 +3128,7 @@ created: 2026-04-29
 
 ### 7. Use Case: Baby Names
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/overview-of-use-case?u=76281980)
@@ -3499,7 +3540,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-analysis-2020/next-steps?u=76281980)

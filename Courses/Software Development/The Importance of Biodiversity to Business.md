@@ -48,15 +48,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Biodiversity and the Drivers of Biodiversity Loss]]** (2 videos)
-- **[[#2. Biodiversity Loss and the Danger for Business]]** (5 videos)
-- **[[#3. Building a Nature Positive Business]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why is biodiversity important to business?
+- [**1. Understanding Biodiversity and the Drivers of Biodiversity Loss**](#1-understanding-biodiversity-and-the-drivers-of-biodiversity-loss) (2 videos)
+  - Three levels of biodiversity
+  - Five pressures driving biodiversity loss
+- [**2. Biodiversity Loss and the Danger for Business**](#2-biodiversity-loss-and-the-danger-for-business) (5 videos)
+  - Biodiversity-related risks to business
+  - Biodiversity and the food value chain
+  - Biodiversity and construction and transportation
+  - Biodiversity and the energy value chain
+  - Biodiversity and the fashion value chain
+- [**3. Building a Nature Positive Business**](#3-building-a-nature-positive-business) (2 videos)
+  - The benefits of being a nature-positive company
+  - Business transformation to stop biodiversity loss
+- [**Conclusion**](#conclusion) (1 videos)
+  - Tackle biodiversity loss and become a nature-positive company
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is biodiversity important to business?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/why-is-biodiversity-important-to-business-23761625?u=76281980)
@@ -89,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Understanding Biodiversity and the Drivers of Biodiversity Loss
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three levels of biodiversity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/three-levels-of-biodiversity-23769341?u=76281980)
@@ -226,7 +237,7 @@ created: 2026-04-29
 
 ### 2. Biodiversity Loss and the Danger for Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Biodiversity-related risks to business
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/biodiversity-related-risks-to-business-23759643?u=76281980)
@@ -465,7 +476,7 @@ created: 2026-04-29
 
 ### 3. Building a Nature Positive Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of being a nature-positive company
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/the-benefits-of-being-a-nature-positive-company-23763477?u=76281980)
@@ -591,7 +602,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tackle biodiversity loss and become a nature-positive company
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-importance-of-biodiversity-to-business/tackle-biodiversity-loss-and-become-a-nature-positive-company-23759642?u=76281980)

@@ -46,21 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Adopt the Strategic Pause]]** (2 videos)
-- **[[#2. Disrupt Your Thinking]]** (2 videos)
-- **[[#3. Embrace Soft Intelligence]]** (2 videos)
-- **[[#4. Reevaluate Your To-Do List]]** (2 videos)
-- **[[#5. Communicate to Influence]]** (2 videos)
-- **[[#6. Approach Challenges as a Novice]]** (2 videos)
-- **[[#7. Blaze New Trails]]** (2 videos)
-- **[[#8. Maintain Timeless Principles]]** (1 videos)
-- **[[#9. Conquer the Chaos]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Disrupt your own way of working and thinking
+  - Equipping yourself for a new leadership landscape
+- [**1. Adopt the Strategic Pause**](#1-adopt-the-strategic-pause) (2 videos)
+  - Myth of motion
+  - Case in point: The corporate leadership retreat
+- [**2. Disrupt Your Thinking**](#2-disrupt-your-thinking) (2 videos)
+  - The prison of perspectives
+  - Case in point: The museum at the Rhode Island School of Design
+- [**3. Embrace Soft Intelligence**](#3-embrace-soft-intelligence) (2 videos)
+  - The addiction to hard data
+  - Case in point: Nokia
+- [**4. Reevaluate Your To-Do List**](#4-reevaluate-your-to-do-list) (2 videos)
+  - The rut of routines
+  - Case in point: Nabob Foods Limited
+- [**5. Communicate to Influence**](#5-communicate-to-influence) (2 videos)
+  - The obsession with informing
+  - Case in point: The venture capital presentation
+- [**6. Approach Challenges as a Novice**](#6-approach-challenges-as-a-novice) (2 videos)
+  - The trap of expertise
+  - Case in point: Martial arts
+- [**7. Blaze New Trails**](#7-blaze-new-trails) (2 videos)
+  - The chains of best practices
+  - Case in point: Capital One bank
+- [**8. Maintain Timeless Principles**](#8-maintain-timeless-principles) (1 videos)
+  - The power of enduring practices
+- [**9. Conquer the Chaos**](#9-conquer-the-chaos) (1 videos)
+  - New strategies for success
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Disrupt your own way of working and thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/disrupt-your-own-way-of-working-and-thinking?u=76281980)
@@ -160,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Adopt the Strategic Pause
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Myth of motion
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980)
@@ -323,7 +342,7 @@ created: 2026-04-29
 
 ### 2. Disrupt Your Thinking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The prison of perspectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-prison-of-perspectives?u=76281980)
@@ -486,7 +505,7 @@ created: 2026-04-29
 
 ### 3. Embrace Soft Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The addiction to hard data
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980)
@@ -630,7 +649,7 @@ created: 2026-04-29
 
 ### 4. Reevaluate Your To-Do List
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The rut of routines
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-rut-of-routines?u=76281980)
@@ -806,7 +825,7 @@ created: 2026-04-29
 
 ### 5. Communicate to Influence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The obsession with informing
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-obsession-with-informing?u=76281980)
@@ -972,7 +991,7 @@ created: 2026-04-29
 
 ### 6. Approach Challenges as a Novice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The trap of expertise
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-trap-of-expertise?u=76281980)
@@ -1114,7 +1133,7 @@ created: 2026-04-29
 
 ### 7. Blaze New Trails
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The chains of best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-chains-of-best-practices?u=76281980)
@@ -1264,7 +1283,7 @@ created: 2026-04-29
 
 ### 8. Maintain Timeless Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of enduring practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980)
@@ -1354,7 +1373,7 @@ created: 2026-04-29
 
 ### 9. Conquer the Chaos
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### New strategies for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/new-strategies-for-success?u=76281980)
@@ -1411,7 +1430,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/next-steps?u=76281980)

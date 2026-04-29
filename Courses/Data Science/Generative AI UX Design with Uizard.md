@@ -53,17 +53,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. UIzard Overview]]** (5 videos)
-- **[[#2. Autolayout and AI Magic]]** (6 videos)
-- **[[#3. Scanning Designs]]** (3 videos)
-- **[[#4. Making Your Prototype Interactive]]** (2 videos)
-- **[[#5. Advanced Techniques]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of Uizard on UX design
+- [**1. UIzard Overview**](#1-uizard-overview) (5 videos)
+  - Uizard, the magic prototyping tool
+  - The app, using projects and templates
+  - The designing interface
+  - Using the designer
+  - Wireframe and interactive modes
+- [**2. Autolayout and AI Magic**](#2-autolayout-and-ai-magic) (6 videos)
+  - Create a new app with Autodesigner
+  - Modifying a screen with AI
+  - Modifying a component with AI
+  - Modifying a theme with AI prompt
+  - Creating a new screen with AI
+  - Modifying content with AI
+- [**3. Scanning Designs**](#3-scanning-designs) (3 videos)
+  - Scanning a screenshot
+  - Scanning a wireframe
+  - Generating themes with a URL or images
+- [**4. Making Your Prototype Interactive**](#4-making-your-prototype-interactive) (2 videos)
+  - Interactive prototypes
+  - Editing interactivity
+- [**5. Advanced Techniques**](#5-advanced-techniques) (3 videos)
+  - Using design review
+  - Using the brand kit
+  - Using handoff
+- [**Conclusion**](#conclusion) (1 videos)
+  - Thank you and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of Uizard on UX design
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980)
@@ -88,7 +109,7 @@ created: 2026-04-29
 
 ### 1. UIzard Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Uizard, the magic prototyping tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980)
@@ -712,7 +733,7 @@ created: 2026-04-29
 
 ### 2. Autolayout and AI Magic
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new app with Autodesigner
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/create-a-new-app-with-autodesigner?u=76281980)
@@ -1399,7 +1420,7 @@ created: 2026-04-29
 
 ### 3. Scanning Designs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scanning a screenshot
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-screenshot?u=76281980)
@@ -1658,7 +1679,7 @@ created: 2026-04-29
 
 ### 4. Making Your Prototype Interactive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interactive prototypes
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/interactive-prototypes?u=76281980)
@@ -1829,7 +1850,7 @@ created: 2026-04-29
 
 ### 5. Advanced Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using design review
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-design-review?u=76281980)
@@ -2103,7 +2124,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980)

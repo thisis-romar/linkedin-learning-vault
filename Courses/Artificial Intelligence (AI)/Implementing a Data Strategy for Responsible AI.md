@@ -56,18 +56,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Data Strategy Basics for Responsible AI]]** (5 videos)
-- **[[#2. Data Preparation]]** (4 videos)
-- **[[#3. Model Building]]** (4 videos)
-- **[[#4. Model Training and Tuning]]** (4 videos)
-- **[[#5. Model Deployment]]** (4 videos)
-- **[[#6. Model Management]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Data strategy essentials for responsible generative AI
+- [**1. Data Strategy Basics for Responsible AI**](#1-data-strategy-basics-for-responsible-ai) (5 videos)
+  - Origins of data
+  - Transparency: What happens to data
+  - Accountability: Data-guiding decision
+  - Governance: Data ethics and data equity
+  - Data and the AI development lifecycle
+- [**2. Data Preparation**](#2-data-preparation) (4 videos)
+  - Expansion of data sources
+  - Real-time data processing
+  - Scalability and efficiency changes
+  - Enhanced data governance
+- [**3. Model Building**](#3-model-building) (4 videos)
+  - Foundation models of generative AI
+  - Adapting foundation models
+  - Scaling foundation models
+  - Societal impacts of foundation models
+- [**4. Model Training and Tuning**](#4-model-training-and-tuning) (4 videos)
+  - Securing generative AI
+  - Fine-tuning fundamentals
+  - Fine-tuning methods
+  - Retrieval augmented generation
+- [**5. Model Deployment**](#5-model-deployment) (4 videos)
+  - Model deployment strategies
+  - Batch deployment
+  - API endpoint integration
+  - Real-time response systems
+- [**6. Model Management**](#6-model-management) (5 videos)
+  - Model management strategies
+  - Data versioning
+  - Code versioning
+  - Experiment tracking
+  - Model monitoring
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data strategy essentials for responsible generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/data-strategy-essentials-for-responsible-generative-ai?u=76281980)
@@ -100,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Data Strategy Basics for Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Origins of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/origins-of-data?u=76281980)
@@ -416,7 +444,7 @@ created: 2026-04-29
 
 ### 2. Data Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expansion of data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/expansion-of-data-sources?u=76281980)
@@ -654,7 +682,7 @@ created: 2026-04-29
 
 ### 3. Model Building
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundation models of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/foundation-models-of-generative-ai?u=76281980)
@@ -911,7 +939,7 @@ created: 2026-04-29
 
 ### 4. Model Training and Tuning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/securing-generative-ai?u=76281980)
@@ -1152,7 +1180,7 @@ created: 2026-04-29
 
 ### 5. Model Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Model deployment strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-deployment-strategies?u=76281980)
@@ -1386,7 +1414,7 @@ created: 2026-04-29
 
 ### 6. Model Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Model management strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/model-management-strategies?u=76281980)
@@ -1685,7 +1713,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-strategy-for-responsible-ai/next-steps?u=76281980)

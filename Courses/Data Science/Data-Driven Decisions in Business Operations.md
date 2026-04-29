@@ -46,16 +46,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Starting with Data Analytics]]** (2 videos)
-- **[[#2. Data Collection and Utilization]]** (2 videos)
-- **[[#3. Strategically Use Data for Decisions]]** (3 videos)
-- **[[#4. Overcoming Challenges in Data-Driven Operations]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Investigating the use of data in business
+- [**1. Starting with Data Analytics**](#1-starting-with-data-analytics) (2 videos)
+  - Comparing business data types
+  - Data analytics tools and techniques
+- [**2. Data Collection and Utilization**](#2-data-collection-and-utilization) (2 videos)
+  - Collect business data effectively
+  - Manage and organize business data
+- [**3. Strategically Use Data for Decisions**](#3-strategically-use-data-for-decisions) (3 videos)
+  - Analyze business operations data
+  - Interpret data for business decision making
+  - Predictive analytics for operations
+- [**4. Overcoming Challenges in Data-Driven Operations**](#4-overcoming-challenges-in-data-driven-operations) (4 videos)
+  - Address data quality issues
+  - Collecting data ethically
+  - Analyzing data ethically
+  - Emerging trends in data analytics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Create your action plan
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Investigating the use of data in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/investigating-the-use-of-data-in-business?u=76281980)
@@ -89,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Starting with Data Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing business data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/comparing-business-data-types?u=76281980)
@@ -194,7 +207,7 @@ created: 2026-04-29
 
 ### 2. Data Collection and Utilization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collect business data effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/collect-business-data-effectively?u=76281980)
@@ -320,7 +333,7 @@ created: 2026-04-29
 
 ### 3. Strategically Use Data for Decisions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze business operations data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/analyze-business-operations-data?u=76281980)
@@ -496,7 +509,7 @@ created: 2026-04-29
 
 ### 4. Overcoming Challenges in Data-Driven Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Address data quality issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/address-data-quality-issues?u=76281980)
@@ -709,7 +722,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decisions-in-business-operations/create-your-action-plan?u=76281980)

@@ -47,17 +47,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started with Excel Online]]** (6 videos)
-- **[[#2. Collaborating Effectively in Excel Online]]** (3 videos)
-- **[[#3. Visualizing Data with Charts in Excel Online]]** (3 videos)
-- **[[#4. Supercharging Your Data with Copilot]]** (5 videos)
-- **[[#5. Taking Your Excel Skills to the Next Level]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Kickstart your Excel Online journey
+- [**1. Getting Started with Excel Online**](#1-getting-started-with-excel-online) (6 videos)
+  - Getting acquainted with Excel Online
+  - Exploring essential features in Excel
+  - Personalizing your view with Sheet View
+  - Using version history in Excel to fix mistakes
+  - Challenge: Use Excel Online to undo mistakes
+  - Solution: Use Excel Online to undo mistakes
+- [**2. Collaborating Effectively in Excel Online**](#2-collaborating-effectively-in-excel-online) (3 videos)
+  - Sharing your work and collaborating with others
+  - Securing your files with permission settings
+  - Tracking edits in Excel with Show Changes
+- [**3. Visualizing Data with Charts in Excel Online**](#3-visualizing-data-with-charts-in-excel-online) (3 videos)
+  - What you need to know before creating charts
+  - Creating eye-catching Excel charts for stakeholders
+  - Customizing charts with advanced Excel tools
+- [**4. Supercharging Your Data with Copilot**](#4-supercharging-your-data-with-copilot) (5 videos)
+  - Getting started with Copilot in Excel
+  - Using Copilot to analyze your data
+  - Partnering with Copilot for enhanced productivity
+  - Challenge: Use Copilot to create a chart
+  - Solution: Use Copilot to create a chart
+- [**5. Taking Your Excel Skills to the Next Level**](#5-taking-your-excel-skills-to-the-next-level) (2 videos)
+  - Streamlining your layout with modern grids
+  - Adding interactive elements with checkboxes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Getting the most out of Excel Online
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kickstart your Excel Online journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980)
@@ -87,7 +108,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Excel Online
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting acquainted with Excel Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980)
@@ -383,7 +404,7 @@ created: 2026-04-29
 
 ### 2. Collaborating Effectively in Excel Online
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sharing your work and collaborating with others
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/sharing-your-work-and-collaborating-with-others?u=76281980)
@@ -531,7 +552,7 @@ created: 2026-04-29
 
 ### 3. Visualizing Data with Charts in Excel Online
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What you need to know before creating charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/what-you-need-to-know-before-creating-charts?u=76281980)
@@ -674,7 +695,7 @@ created: 2026-04-29
 
 ### 4. Supercharging Your Data with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Copilot in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980)
@@ -900,7 +921,7 @@ created: 2026-04-29
 
 ### 5. Taking Your Excel Skills to the Next Level
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Streamlining your layout with modern grids
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/streamlining-your-layout-with-modern-grids?u=76281980)
@@ -1000,7 +1021,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the most out of Excel Online
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980)

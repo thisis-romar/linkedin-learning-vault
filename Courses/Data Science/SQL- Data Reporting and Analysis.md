@@ -56,17 +56,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Prepare to Code in SQL]]** (3 videos)
-- **[[#2. Use SQL to Report Data]]** (12 videos)
-- **[[#3. Group Your SQL Results]]** (6 videos)
-- **[[#4. Merge Data from Multiple Tables]]** (10 videos)
-- **[[#5. More Advanced SQL]]** (4 videos)
-- **[[#Continuing Your SQL Learning Journey]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Don't let your reporting system hold you back
+  - Who this course is for
+  - What is SQL?
+- [**1. Prepare to Code in SQL**](#1-prepare-to-code-in-sql) (3 videos)
+  - Get familiar with phpMyAdmin
+  - Understand the demo database
+  - Using ChatGPT to check SQL code
+- [**2. Use SQL to Report Data**](#2-use-sql-to-report-data) (12 videos)
+  - Retrieve data with SELECT
+  - Filter results with the WHERE clause
+  - Use LIKE, IN, and wildcards with WHERE
+  - Sort SQL results with ORDER BY
+  - Use string functions on your data
+  - More advanced string functions
+  - Change report headings with an alias
+  - Use date functions with WHERE
+  - Challenge: Query a table
+  - Solution: Query a table
+  - Challenge: Convert case
+  - Solution: Convert case
+- [**3. Group Your SQL Results**](#3-group-your-sql-results) (6 videos)
+  - Use GROUP BY with count
+  - Filter grouped results with HAVING
+  - Deduplicate with SELECT DISTINCT
+  - Merge rows with GROUP BY
+  - Challenge: Cost analysis
+  - Solution: Cost analysis
+- [**4. Merge Data from Multiple Tables**](#4-merge-data-from-multiple-tables) (10 videos)
+  - Make your queries faster
+  - Understand SQL indexes and keys
+  - EDIT: Visualize your database
+  - Merge data across tables with JOIN
+  - Understand SQL JOINS
+  - Combine rows with SQL UNION
+  - Merge data across tables with IN
+  - Select from a selection with subqueries
+  - Challenge: Join tables
+  - Solution: Join tables
+- [**5. More Advanced SQL**](#5-more-advanced-sql) (4 videos)
+  - Save your queries using a VIEW
+  - Use variables
+  - Use functions
+  - Use procedures
+- [**Continuing Your SQL Learning Journey**](#continuing-your-sql-learning-journey) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Don't let your reporting system hold you back
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980)
@@ -233,7 +272,7 @@ created: 2026-04-29
 
 ### 1. Prepare to Code in SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get familiar with phpMyAdmin
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980)
@@ -435,7 +474,7 @@ created: 2026-04-29
 
 ### 2. Use SQL to Report Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieve data with SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980)
@@ -1511,7 +1550,7 @@ created: 2026-04-29
 
 ### 3. Group Your SQL Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use GROUP BY with count
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980)
@@ -2001,7 +2040,7 @@ created: 2026-04-29
 
 ### 4. Merge Data from Multiple Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make your queries faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980)
@@ -2971,7 +3010,7 @@ created: 2026-04-29
 
 ### 5. More Advanced SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Save your queries using a VIEW
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980)
@@ -3540,7 +3579,7 @@ created: 2026-04-29
 
 ### Continuing Your SQL Learning Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980)

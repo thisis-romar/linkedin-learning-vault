@@ -49,17 +49,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started with the Azure Portal]]** (6 videos)
-- **[[#2. Getting Started with the Azure CLI]]** (4 videos)
-- **[[#3. Getting Started with Azure PowerShell]]** (5 videos)
-- **[[#4. Getting Started with JSON Templates]]** (4 videos)
-- **[[#5. Getting Started with Bicep]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Get started with Azure tools
+- [**1. Getting Started with the Azure Portal**](#1-getting-started-with-the-azure-portal) (6 videos)
+  - Understand the Azure portal
+  - The layout of Microsoft Azure portal
+  - Create and use a dashboard in Azure
+  - Create and deploy a resource in the Azure portal
+  - Work with resources in the Azure portal
+  - Use the Azure remote app
+- [**2. Getting Started with the Azure CLI**](#2-getting-started-with-the-azure-cli) (4 videos)
+  - Understand the Azure CLI
+  - Get help with the Azure CLI
+  - Deploy resources with the Azure CLI
+  - Use Azure CLI interactive mode
+- [**3. Getting Started with Azure PowerShell**](#3-getting-started-with-azure-powershell) (5 videos)
+  - Understand Azure PowerShell
+  - Use Azure PowerShell
+  - Get help in Azure PowerShell
+  - Deploy a resource in Azure PowerShell
+  - Configure resources in Azure PowerShell
+- [**4. Getting Started with JSON Templates**](#4-getting-started-with-json-templates) (4 videos)
+  - Understand JSON templates
+  - Find the appropriate JSON template
+  - Deploy a resource with a JSON template
+  - Redeploy a resource with a JSON template
+- [**5. Getting Started with Bicep**](#5-getting-started-with-bicep) (3 videos)
+  - Understand Azure Bicep
+  - Introduction to infrastructure as code
+  - Deploy a resource with Azure Bicep
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with Azure tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/get-started-with-azure-tools?u=76281980)
@@ -92,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with the Azure Portal
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Azure portal
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-portal?u=76281980)
@@ -792,7 +816,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with the Azure CLI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Azure CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-the-azure-cli?u=76281980)
@@ -1435,7 +1459,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Azure PowerShell
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Azure PowerShell
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-powershell?u=76281980)
@@ -2079,7 +2103,7 @@ created: 2026-04-29
 
 ### 4. Getting Started with JSON Templates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand JSON templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-json-templates?u=76281980)
@@ -2498,7 +2522,7 @@ created: 2026-04-29
 
 ### 5. Getting Started with Bicep
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Azure Bicep
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/understand-azure-bicep?u=76281980)
@@ -2775,7 +2799,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/next-steps?u=76281980)

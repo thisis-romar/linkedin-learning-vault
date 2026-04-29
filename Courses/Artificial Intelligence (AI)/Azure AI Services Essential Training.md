@@ -47,20 +47,59 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Vision]]** (6 videos)
-- **[[#2. Speech]]** (7 videos)
-- **[[#3. Language]]** (7 videos)
-- **[[#4. Search]]** (5 videos)
-- **[[#5. Content Safety]]** (2 videos)
-- **[[#6. Translator]]** (2 videos)
-- **[[#7. Document Intelligence]]** (2 videos)
-- **[[#8. Azure AI Studio]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Become an Azure cognitive services MVP
+  - What you should know
+- [**1. Vision**](#1-vision) (6 videos)
+  - Understanding Azure AI vision services
+  - OCR service
+  - Image analysis
+  - Face service
+  - Video analysis
+  - Demo: Handwriting recognition with vision services
+- [**2. Speech**](#2-speech) (7 videos)
+  - Understanding Azure AI speech services
+  - Speech to text
+  - Text to speech
+  - Speaker recognition
+  - Translation
+  - Intent recognition
+  - Demo: Text to speech
+- [**3. Language**](#3-language) (7 videos)
+  - Understanding Azure AI language services
+  - Extract information
+  - Summarize content
+  - Classify text
+  - Answer questions
+  - Understand conversations
+  - Demo: Key phrase extraction
+- [**4. Search**](#4-search) (5 videos)
+  - Understanding Azure AI search
+  - AI enrichment
+  - Semantic ranking
+  - Vectors in AI search
+  - Demo: Build and use a search index
+- [**5. Content Safety**](#5-content-safety) (2 videos)
+  - Understanding Azure AI content safety
+  - Demo: Text moderation
+- [**6. Translator**](#6-translator) (2 videos)
+  - Understanding Azure AI translator services
+  - Demo: Language translation for text
+- [**7. Document Intelligence**](#7-document-intelligence) (2 videos)
+  - Understanding Azure AI Document Intelligence
+  - Document intelligence models
+- [**8. Azure AI Studio**](#8-azure-ai-studio) (5 videos)
+  - Understanding Azure AI Foundry
+  - Open AI
+  - Choosing the right AI model
+  - Popular AI models
+  - Demo: Build an app using a third-party model
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about Azure AI Services
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Become an Azure cognitive services MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/be-an-azure-cognitive-services-mvp?u=76281980)
@@ -123,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Vision
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Azure AI vision services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-vision-services?u=76281980)
@@ -651,7 +690,7 @@ created: 2026-04-29
 
 ### 2. Speech
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Azure AI speech services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-speech-services?u=76281980)
@@ -1267,7 +1306,7 @@ created: 2026-04-29
 
 ### 3. Language
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Azure AI language services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-language-services?u=76281980)
@@ -1675,7 +1714,7 @@ created: 2026-04-29
 
 ### 4. Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Azure AI search
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-search?u=76281980)
@@ -2160,7 +2199,7 @@ created: 2026-04-29
 
 ### 5. Content Safety
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Azure AI content safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-content-safety?u=76281980)
@@ -2363,7 +2402,7 @@ created: 2026-04-29
 
 ### 6. Translator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Azure AI translator services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-translator-services?u=76281980)
@@ -2527,7 +2566,7 @@ created: 2026-04-29
 
 ### 7. Document Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Azure AI Document Intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-document-intelligence?u=76281980)
@@ -2664,7 +2703,7 @@ created: 2026-04-29
 
 ### 8. Azure AI Studio
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Azure AI Foundry
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/understanding-azure-ai-studio?u=76281980)
@@ -3471,7 +3510,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about Azure AI Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-services-essential-training-24512025/learning-more-about-azure-ai-services?u=76281980)

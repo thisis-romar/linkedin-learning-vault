@@ -53,22 +53,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Quickstart]]** (2 videos)
-- **[[#2. Basic Data Types]]** (2 videos)
-- **[[#3. Basic Data Structures]]** (2 videos)
-- **[[#4. Control Flow]]** (2 videos)
-- **[[#5. Functions]]** (2 videos)
-- **[[#6. Classes and Objects]]** (2 videos)
-- **[[#7. Errors]]** (2 videos)
-- **[[#8. Threads and Processes]]** (2 videos)
-- **[[#9. Working with Files]]** (2 videos)
-- **[[#10. Packaging Python]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Stepping up to the challenge
+  - Who this course is for
+  - Laying out the code
+- [**1. Quickstart**](#1-quickstart) (2 videos)
+  - Challenge: It's hip to be square
+  - Solution: It's hip to be square
+- [**2. Basic Data Types**](#2-basic-data-types) (2 videos)
+  - Challenge: Sense of direction
+  - Solution: Sense of direction
+- [**3. Basic Data Structures**](#3-basic-data-structures) (2 videos)
+  - Challenge: Structuring scribes
+  - Solution: Structuring scribes
+- [**4. Control Flow**](#4-control-flow) (2 videos)
+  - Challenge: Hitting a wall
+  - Solution: Hitting a wall
+- [**5. Functions**](#5-functions) (2 videos)
+  - Challenge: Plotting the course
+  - Solution: Plotting the course
+- [**6. Classes and Objects**](#6-classes-and-objects) (2 videos)
+  - Challenge: Extending the scribe
+  - Solution: Extending the scribe
+- [**7. Errors**](#7-errors) (2 videos)
+  - Challenge: The trouble with scribbles
+  - Solution: The trouble with scribbles
+- [**8. Threads and Processes**](#8-threads-and-processes) (2 videos)
+  - Challenge: When I move, you move
+  - Solution: When I move, you move
+- [**9. Working with Files**](#9-working-with-files) (2 videos)
+  - Challenge: Single file
+  - Solution: Single file
+- [**10. Packaging Python**](#10-packaging-python) (2 videos)
+  - Challenge: Handling arguments
+  - Solution: Handling arguments
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your Python journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stepping up to the challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/stepping-up-to-the-challenge?u=76281980)
@@ -325,7 +349,7 @@ created: 2026-04-29
 
 ### 1. Quickstart
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: It's hip to be square
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-it-s-hip-to-be-square?u=76281980)
@@ -404,7 +428,7 @@ created: 2026-04-29
 
 ### 2. Basic Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Sense of direction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-sense-of-direction?u=76281980)
@@ -492,7 +516,7 @@ created: 2026-04-29
 
 ### 3. Basic Data Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Structuring scribes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-structuring-scribes?u=76281980)
@@ -578,7 +602,7 @@ created: 2026-04-29
 
 ### 4. Control Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Hitting a wall
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-hitting-a-wall?u=76281980)
@@ -676,7 +700,7 @@ created: 2026-04-29
 
 ### 5. Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Plotting the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-plotting-the-course?u=76281980)
@@ -743,7 +767,7 @@ created: 2026-04-29
 
 ### 6. Classes and Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Extending the scribe
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-extending-the-scribe?u=76281980)
@@ -835,7 +859,7 @@ created: 2026-04-29
 
 ### 7. Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: The trouble with scribbles
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-the-trouble-with-scribbles?u=76281980)
@@ -934,7 +958,7 @@ created: 2026-04-29
 
 ### 8. Threads and Processes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: When I move, you move
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-when-i-move-you-move?u=76281980)
@@ -1053,7 +1077,7 @@ created: 2026-04-29
 
 ### 9. Working with Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Single file
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-single-file?u=76281980)
@@ -1181,7 +1205,7 @@ created: 2026-04-29
 
 ### 10. Packaging Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Handling arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/challenge-handling-arguments-18720931?u=76281980)
@@ -1292,7 +1316,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your Python journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-real-world-coding-challenges/continue-your-python-journey-18728110?u=76281980)

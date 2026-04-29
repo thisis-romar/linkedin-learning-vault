@@ -49,18 +49,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Review Firewall Technologies]]** (6 videos)
-- **[[#2. Compare Firewall Types]]** (4 videos)
-- **[[#3. Manage Access Control Lists]]** (4 videos)
-- **[[#4. Implement NAT on Cisco ASA]]** (4 videos)
-- **[[#5. Examine Zone-Based Firewalls]]** (4 videos)
-- **[[#6. Review Firewall Features on a Cisco ASA]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Allowing only authorized connections
+  - Discovering resources
+  - Obtaining Packet Tracer
+- [**1. Review Firewall Technologies**](#1-review-firewall-technologies) (6 videos)
+  - Understanding firewalls
+  - Recognizing security contexts
+  - Reviewing CBAC
+  - Challenge: Configuring CBAC
+  - Solution: Configuring CBAC
+  - Employing Cisco AutoSecure
+- [**2. Compare Firewall Types**](#2-compare-firewall-types) (4 videos)
+  - Filtering packets
+  - Monitoring the state
+  - Examining the application layer
+  - Comparing modes of deployment
+- [**3. Manage Access Control Lists**](#3-manage-access-control-lists) (4 videos)
+  - Understanding ACLs
+  - Working with IPv6 ACLs
+  - Challenge: Configuring IPv6 ACLs
+  - Solution: Configuring IPv6 ACLs
+- [**4. Implement NAT on Cisco ASA**](#4-implement-nat-on-cisco-asa) (4 videos)
+  - Understanding NAT
+  - Comparing types of NAT
+  - Challenge: Configuring static NAT
+  - Solution: Configuring static NAT
+- [**5. Examine Zone-Based Firewalls**](#5-examine-zone-based-firewalls) (4 videos)
+  - Understanding zone-based firewalls
+  - Managing traffic between zones
+  - Challenge: Configuring a ZBF
+  - Solution: Configuring a ZBF
+- [**6. Review Firewall Features on a Cisco ASA**](#6-review-firewall-features-on-a-cisco-asa) (8 videos)
+  - Managing access on an ASA
+  - Logging onto the ASA
+  - Assigning security levels on the ASA
+  - Understanding Modular Policy Framework (MPF)
+  - Implementing high availability
+  - Grasping Hot Standby Router Protocol (HSRP)
+  - Challenge: Hot Standby Router Protocol
+  - Solution: Hot Standby Router Protocol
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Allowing only authorized connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/allowing-only-authorized-connections?u=76281980)
@@ -185,7 +219,7 @@ created: 2026-04-29
 
 ### 1. Review Firewall Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-firewalls?u=76281980)
@@ -637,7 +671,7 @@ created: 2026-04-29
 
 ### 2. Compare Firewall Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering packets
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/filtering-packets?u=76281980)
@@ -882,7 +916,7 @@ created: 2026-04-29
 
 ### 3. Manage Access Control Lists
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding ACLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-acls?u=76281980)
@@ -1199,7 +1233,7 @@ created: 2026-04-29
 
 ### 4. Implement NAT on Cisco ASA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding NAT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-nat?u=76281980)
@@ -1447,7 +1481,7 @@ created: 2026-04-29
 
 ### 5. Examine Zone-Based Firewalls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding zone-based firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/understanding-zone-based-firewalls?u=76281980)
@@ -1756,7 +1790,7 @@ created: 2026-04-29
 
 ### 6. Review Firewall Features on a Cisco ASA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing access on an ASA
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/managing-access-on-an-asa?u=76281980)
@@ -2295,7 +2329,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-cisco-firewall-technologies-19313765/next-steps-23667753?u=76281980)

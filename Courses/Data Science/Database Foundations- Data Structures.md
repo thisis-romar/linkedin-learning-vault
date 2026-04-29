@@ -51,19 +51,72 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Data Types]]** (9 videos)
-- **[[#2. Design a Normalized Database]]** (6 videos)
-- **[[#3. Identify Rows with Primary Keys]]** (8 videos)
-- **[[#4. Link Data with Foreign Keys]]** (5 videos)
-- **[[#5. Formalize Data Relationships]]** (8 videos)
-- **[[#6. Indexes]]** (3 videos)
-- **[[#7. Constraints]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Organizing data in a database
+  - What you should know
+  - Making the most of the exercise files
+  - Set up the database servers
+  - CoderPad tour
+- [**1. Data Types**](#1-data-types) (9 videos)
+  - Data integrity concepts
+  - The role of data types
+  - Numeric data types
+  - Character data types
+  - Date and time data types
+  - Additional common types
+  - Challenge: Choosing data types
+  - Solution: Choosing data types
+  - Solution: Store data in a table
+- [**2. Design a Normalized Database**](#2-design-a-normalized-database) (6 videos)
+  - Protect data integrity with normalization
+  - First normal form
+  - Second normal form
+  - Third normal form
+  - Denormalization considerations
+  - Solution: Normalize a data table
+- [**3. Identify Rows with Primary Keys**](#3-identify-rows-with-primary-keys) (8 videos)
+  - Purpose of a primary key
+  - Establish the table's primary key
+  - Natural keys
+  - Composite keys
+  - Surrogate keys
+  - Challenge: Add a primary key to a table
+  - Solution: Add a primary key to a table
+  - Solution: Alter a table's design
+- [**4. Link Data with Foreign Keys**](#4-link-data-with-foreign-keys) (5 videos)
+  - What are foreign keys?
+  - Add a foreign key column to a table
+  - Create a relationship between tables
+  - IDENTITY column sequences
+  - Solution: Create a table constraint
+- [**5. Formalize Data Relationships**](#5-formalize-data-relationships) (8 videos)
+  - One-to-many relationships
+  - One-to-one relationships
+  - Many-to-many relationships
+  - Self-referencing relationships
+  - Cascade updates and deletes
+  - Challenge: Link tables with keys
+  - Solution: Link tables with keys
+  - Solution: Build a relationship between tables
+- [**6. Indexes**](#6-indexes) (3 videos)
+  - Table indexes
+  - Add indexes to a table
+  - View index statistics
+- [**7. Constraints**](#7-constraints) (8 videos)
+  - Validate data with constraints
+  - Null constraints
+  - Unique constraints
+  - Setting default values
+  - Check constraints
+  - Challenge: Add constraints to a table
+  - Solution: Add constraints to a table
+  - Solution: Set additional constraints on the data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing data in a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/organizing-data-in-a-database?u=76281980)
@@ -383,7 +436,7 @@ created: 2026-04-29
 
 ### 1. Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data integrity concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/data-integrity-concepts?u=76281980)
@@ -1470,7 +1523,7 @@ created: 2026-04-29
 
 ### 2. Design a Normalized Database
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect data integrity with normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/protect-data-integrity-with-normalization?u=76281980)
@@ -1978,7 +2031,7 @@ created: 2026-04-29
 
 ### 3. Identify Rows with Primary Keys
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose of a primary key
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/purpose-of-a-primary-key?u=76281980)
@@ -2909,7 +2962,7 @@ created: 2026-04-29
 
 ### 4. Link Data with Foreign Keys
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are foreign keys?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/what-are-foreign-keys?u=76281980)
@@ -3338,7 +3391,7 @@ created: 2026-04-29
 
 ### 5. Formalize Data Relationships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### One-to-many relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/one-to-many-relationships?u=76281980)
@@ -4029,7 +4082,7 @@ created: 2026-04-29
 
 ### 6. Indexes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Table indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/table-indexes?u=76281980)
@@ -4339,7 +4392,7 @@ created: 2026-04-29
 
 ### 7. Constraints
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Validate data with constraints
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/validate-data-with-constraints?u=76281980)
@@ -5244,7 +5297,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-data-structures/next-steps?u=76281980)

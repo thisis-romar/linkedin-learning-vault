@@ -50,15 +50,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Trust and Security in the Cloud]]** (5 videos)
-- **[[#2. Google’s Trusted Infrastructure]]** (6 videos)
-- **[[#3. Google Cloud’s Trust Principles and Compliance]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course introduction
+- [**1. Trust and Security in the Cloud**](#1-trust-and-security-in-the-cloud) (5 videos)
+  - Introduction
+  - Key security terms and concepts
+  - Cloud security components
+  - Cloud security vs. traditional on-premises security
+  - Cybersecurity threats
+- [**2. Google’s Trusted Infrastructure**](#2-googles-trusted-infrastructure) (6 videos)
+  - Introduction
+  - Data centers
+  - Secure storage
+  - Identity
+  - Network security
+  - Security operations
+- [**3. Google Cloud’s Trust Principles and Compliance**](#3-google-clouds-trust-principles-and-compliance) (4 videos)
+  - Introduction
+  - The Google Cloud trust principles and transparency reports
+  - Data residency and data sovereignty
+  - Industry and regional compliance
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-introduction?u=76281980)
@@ -94,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Trust and Security in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23232112?u=76281980)
@@ -419,7 +436,7 @@ created: 2026-04-29
 
 ### 2. Google’s Trusted Infrastructure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction?u=76281980)
@@ -793,7 +810,7 @@ created: 2026-04-29
 
 ### 3. Google Cloud’s Trust Principles and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/introduction-23227177?u=76281980)
@@ -983,7 +1000,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-5-trust-and-security-with-google-cloud/course-summary?u=76281980)

@@ -49,17 +49,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. IDS and IPS Overview]]** (5 videos)
-- **[[#2. Detection and Signature Engines]]** (6 videos)
-- **[[#3. Decisions and Actions]]** (4 videos)
-- **[[#4. Deploying an IOS-Based IPS]]** (3 videos)
-- **[[#5. Practical Applications]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Stopping Potential Threats
+  - What you should know
+  - Packet Tracer and exercise files
+  - Prepare for the CCNA Security Exam (210-260)
+- [**1. IDS and IPS Overview**](#1-ids-and-ips-overview) (5 videos)
+  - Managing the threat landscape
+  - Overview and benefits of IDS and IPS
+  - IPS versus IDS
+  - Host-based versus network IDS
+  - Prerequisites and restrictions for IPS
+- [**2. Detection and Signature Engines**](#2-detection-and-signature-engines) (6 videos)
+  - Monitoring the network
+  - Signature-based IDS
+  - Sweep scan
+  - Anomaly-based IDS
+  - Reputation-based IDS
+  - Policy-based IDS
+- [**3. Decisions and Actions**](#3-decisions-and-actions) (4 videos)
+  - IDS signature files
+  - Trigger actions and responses
+  - Blacklist and whitelist
+  - Managing IPS alarms
+- [**4. Deploying an IOS-Based IPS**](#4-deploying-an-ios-based-ips) (3 videos)
+  - Analyze the flow
+  - Implementing an IPS
+  - Configure an IPS
+- [**5. Practical Applications**](#5-practical-applications) (4 videos)
+  - Monitoring and analyzing
+  - Syslog
+  - Using IDS and honeypots
+  - The EINSTEIN system
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stopping Potential Threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/stopping-potential-threats?u=76281980)
@@ -151,7 +178,7 @@ created: 2026-04-29
 
 ### 1. IDS and IPS Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing the threat landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/managing-the-threat-landscape-23650386?u=76281980)
@@ -436,7 +463,7 @@ created: 2026-04-29
 
 ### 2. Detection and Signature Engines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/overlay-https-threatmap-checkpoint-com-overlay-http-www-informationisbeautiful-dot-net-visualizations-worlds-b?u=76281980)
@@ -844,7 +871,7 @@ created: 2026-04-29
 
 ### 3. Decisions and Actions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IDS signature files
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/ids-signature-files?u=76281980)
@@ -1111,7 +1138,7 @@ created: 2026-04-29
 
 ### 4. Deploying an IOS-Based IPS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze the flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/analyze-the-flow?u=76281980)
@@ -1355,7 +1382,7 @@ created: 2026-04-29
 
 ### 5. Practical Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring and analyzing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/monitoring-and-analyzing?u=76281980)
@@ -1587,7 +1614,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-intrusion-detection-and-prevention/summary?u=76281980)

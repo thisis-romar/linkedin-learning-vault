@@ -48,12 +48,20 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Agentive Prompt Engineering]]** (7 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The new age of prompting
+- [**1. Agentive Prompt Engineering**](#1-agentive-prompt-engineering) (7 videos)
+  - Prompting strategies for agentic behavior
+  - Personalizing your prompts with custom instructions
+  - Using memories to remember information
+  - Archiving reusable chats
+  - Using variables and identifiers
+  - Converting prompts to custom GPTs
+  - Creating modular agentic GPTs
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The new age of prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/the-new-age-of-prompting?u=76281980)
@@ -86,7 +94,7 @@ created: 2026-04-29
 
 ### 1. Agentive Prompt Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompting strategies for agentic behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt/prompting-strategies-for-agentic-behavior?u=76281980)

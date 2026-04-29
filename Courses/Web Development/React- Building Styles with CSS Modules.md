@@ -48,15 +48,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setting Up]]** (2 videos)
-- **[[#2. Basics of CSS Modules]]** (7 videos)
-- **[[#3. Interactions and Responsive Design]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Building a React site with CSS Modules
+  - Course prerequisites
+- [**1. Setting Up**](#1-setting-up) (2 videos)
+  - React with CSS Modules without ejecting
+  - Clean up of your created file
+- [**2. Basics of CSS Modules**](#2-basics-of-css-modules) (7 videos)
+  - Introduction to CSS Modules
+  - Initial directory structure
+  - Add components to the app
+  - CSS syntax with the components
+  - Use composes to leverage other styles
+  - Set up your state and grid component
+  - Complete your grid item
+- [**3. Interactions and Responsive Design**](#3-interactions-and-responsive-design) (4 videos)
+  - Basic animation with CSS keyframes
+  - SVG loading with state
+  - Add final elements
+  - Media queries and combining styles
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a React site with CSS Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/building-a-react-site-with-css-modules?u=76281980)
@@ -113,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### React with CSS Modules without ejecting
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/react-with-css-modules-without-ejecting?u=76281980)
@@ -304,7 +320,7 @@ created: 2026-04-29
 
 ### 2. Basics of CSS Modules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to CSS Modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/introduction-to-css-modules?u=76281980)
@@ -1351,7 +1367,7 @@ created: 2026-04-29
 
 ### 3. Interactions and Responsive Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic animation with CSS keyframes
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/basic-animation-with-css-keyframes?u=76281980)
@@ -2148,7 +2164,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-building-styles-with-css-modules-9222678/next-steps?u=76281980)

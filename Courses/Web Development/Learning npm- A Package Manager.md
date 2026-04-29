@@ -54,16 +54,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Definition and Installation]]** (2 videos)
-- **[[#2. Getting Started with npm]]** (7 videos)
-- **[[#3. Publishing Your Package]]** (3 videos)
-- **[[#4. Advanced Subjects]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learning npm
+  - What you should know
+  - Using GitHub Codespaces with this course
+- [**1. Definition and Installation**](#1-definition-and-installation) (2 videos)
+  - Defining a package and npm
+  - Installing Node and npm
+- [**2. Getting Started with npm**](#2-getting-started-with-npm) (7 videos)
+  - Initializing a package.json file
+  - Adding node packages
+  - Managing global directory
+  - Updating a dependency
+  - Removing a dependency
+  - Semantic versioning
+  - Introduction to package-lock.json
+- [**3. Publishing Your Package**](#3-publishing-your-package) (3 videos)
+  - Publishing an unscoped package
+  - Publishing a scoped package
+  - Publishing a private package
+- [**4. Advanced Subjects**](#4-advanced-subjects) (5 videos)
+  - Working with your npm cache
+  - Running an npm audit
+  - Scripting in package.json
+  - Introduction to npx
+  - Alternatives to npm
+- [**Conclusion**](#conclusion) (1 videos)
+  - Furthering your npm journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning npm
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/learning-npm?u=76281980)
@@ -254,7 +275,7 @@ created: 2026-04-29
 
 ### 1. Definition and Installation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a package and npm
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/defining-a-package-and-npm?u=76281980)
@@ -347,7 +368,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with npm
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Initializing a package.json file
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/initializing-a-package-json-file?u=76281980)
@@ -736,7 +757,7 @@ created: 2026-04-29
 
 ### 3. Publishing Your Package
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Publishing an unscoped package
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/publishing-an-unscoped-package?u=76281980)
@@ -1028,7 +1049,7 @@ created: 2026-04-29
 
 ### 4. Advanced Subjects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with your npm cache
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/working-with-your-npm-cache?u=76281980)
@@ -1492,7 +1513,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Furthering your npm journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-npm-a-package-manager/furthering-your-npm-journey?u=76281980)

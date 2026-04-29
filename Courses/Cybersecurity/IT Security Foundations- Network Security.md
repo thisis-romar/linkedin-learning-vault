@@ -47,18 +47,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Recognize Security Devices]]** (6 videos)
-- **[[#2. Isolate the Network]]** (6 videos)
-- **[[#3. Secure the Cloud]]** (4 videos)
-- **[[#4. Identify Attacks]]** (5 videos)
-- **[[#5. Secure Protocols and Procedures]]** (6 videos)
-- **[[#6. Limiting Access]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Securing the network
+  - Discovering resources
+- [**1. Recognize Security Devices**](#1-recognize-security-devices) (6 videos)
+  - Understanding firewalls
+  - Comparing advanced networking devices
+  - Luring with honeypots
+  - Examining honeypot findings
+  - Challenge: Exploring honeypot data
+  - Solution: Exploring honeypot data
+- [**2. Isolate the Network**](#2-isolate-the-network) (6 videos)
+  - Segmenting using routers and VLANS
+  - Configuring VLANS
+  - Creating server and domain isolation
+  - Translating the network address
+  - Recognizing perimeter networks
+  - Configuring NAT
+- [**3. Secure the Cloud**](#3-secure-the-cloud) (4 videos)
+  - Summarize cloud concepts
+  - Connecting to the cloud
+  - Outlining virtualized technology
+  - Safeguarding cloud services
+- [**4. Identify Attacks**](#4-identify-attacks) (5 videos)
+  - Comparing attack methods
+  - Attacking passwords
+  - Sniffing the network
+  - Spoofing protocols
+  - Poisoning the ARP cache
+- [**5. Secure Protocols and Procedures**](#5-secure-protocols-and-procedures) (6 videos)
+  - Using antivirus
+  - Safeguarding DNS
+  - Securing internet protocol
+  - Protecting DHCP
+  - Encrypting data in transit (VPN)
+  - Assessing security baselines
+- [**6. Limiting Access**](#6-limiting-access) (7 videos)
+  - Using the principle of least privilege
+  - Controlling access
+  - Restricting network access
+  - Protecting buildings
+  - Securing hardware
+  - Challenge: Physical security requirements
+  - Solution: Physical security requirements
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-the-network?u=76281980)
@@ -121,7 +158,7 @@ created: 2026-04-29
 
 ### 1. Recognize Security Devices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980)
@@ -637,7 +674,7 @@ created: 2026-04-29
 
 ### 2. Isolate the Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Segmenting using routers and VLANS
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980)
@@ -1125,7 +1162,7 @@ created: 2026-04-29
 
 ### 3. Secure the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize cloud concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980)
@@ -1395,7 +1432,7 @@ created: 2026-04-29
 
 ### 4. Identify Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing attack methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980)
@@ -1873,7 +1910,7 @@ created: 2026-04-29
 
 ### 5. Secure Protocols and Procedures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using antivirus
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-antivirus?u=76281980)
@@ -2375,7 +2412,7 @@ created: 2026-04-29
 
 ### 6. Limiting Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the principle of least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-the-principle-of-least-privilege?u=76281980)
@@ -2818,7 +2855,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980)

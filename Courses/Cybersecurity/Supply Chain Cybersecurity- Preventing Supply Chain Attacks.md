@@ -51,16 +51,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Cybercrime 101]]** (2 videos)
-- **[[#2. Supply Chain Attacks]]** (3 videos)
-- **[[#3. Preventing Supply Chain Attacks]]** (2 videos)
-- **[[#4. Defending against Supply Chain Attacks]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Securing your supply chain
+- [**1. Cybercrime 101**](#1-cybercrime-101) (2 videos)
+  - Threat actors and their motivations
+  - Emerging cyberattack strategies
+- [**2. Supply Chain Attacks**](#2-supply-chain-attacks) (3 videos)
+  - What is a supply chain attack?
+  - Key elements of a supply chain attack
+  - The cost of supply chain attacks
+- [**3. Preventing Supply Chain Attacks**](#3-preventing-supply-chain-attacks) (2 videos)
+  - Understanding your threat environment
+  - Best practices that enhance supply chain security
+- [**4. Defending against Supply Chain Attacks**](#4-defending-against-supply-chain-attacks) (3 videos)
+  - Leveraging the NIST cybersecurity framework
+  - Enhance your incident response strategy
+  - Managing the third-party lifecycle
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing to prevent supply chain attacks
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980)
@@ -89,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Cybercrime 101
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Threat actors and their motivations
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980)
@@ -229,7 +241,7 @@ created: 2026-04-29
 
 ### 2. Supply Chain Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a supply chain attack?
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980)
@@ -370,7 +382,7 @@ created: 2026-04-29
 
 ### 3. Preventing Supply Chain Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your threat environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980)
@@ -529,7 +541,7 @@ created: 2026-04-29
 
 ### 4. Defending against Supply Chain Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging the NIST cybersecurity framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980)
@@ -803,7 +815,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to prevent supply chain attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/continuing-to-prevent-supply-chain-attacks?u=76281980)

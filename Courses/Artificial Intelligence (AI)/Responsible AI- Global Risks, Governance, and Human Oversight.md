@@ -51,15 +51,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Foundations: AI, Society, and Literacy]]** (5 videos)
-- **[[#2. Bias, Fairness, and Case Studies]]** (4 videos)
-- **[[#3. Responsibility, Transparency, and Safety]]** (5 videos)
-- **[[#4. Information Integrity, Privacy, and Profiling]]** (7 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - What it means to think critically about AI
+- [**1. Foundations: AI, Society, and Literacy**](#1-foundations-ai-society-and-literacy) (5 videos)
+  - Why we should consider AI and society
+  - Why the ability to think critically is part of AI literacy
+  - How AI design shapes society
+  - What AI means to different people
+  - Why AI systems fail beyond technical capability
+- [**2. Bias, Fairness, and Case Studies**](#2-bias-fairness-and-case-studies) (4 videos)
+  - Why bias is not an exception
+  - How the COMPAS system discriminated against Black defendants
+  - Why technical fixes are not enough
+  - Why AI bias is not a mistake
+- [**3. Responsibility, Transparency, and Safety**](#3-responsibility-transparency-and-safety) (5 videos)
+  - What responsibility means in AI
+  - How responsibility, accountability, and liability differ
+  - Why explainability and transparency matter in AI
+  - Why AI safety requires robustness
+  - How AI can be deceived
+- [**4. Information Integrity, Privacy, and Profiling**](#4-information-integrity-privacy-and-profiling) (7 videos)
+  - How misinformation and disinformation spread in the AI era
+  - Why privacy becomes a critical issue
+  - How AI-based profiling works
+  - What resurrection technologies ask us
+  - How AI changes the nature of work
+  - Why AI governance is needed
+  - Why dependency on AI is a growing risk
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What it means to think critically about AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-it-means-to-think-critically-about-ai-36201056?u=76281980)
@@ -108,7 +130,7 @@ created: 2026-04-29
 
 ### 1. Foundations: AI, Society, and Literacy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why we should consider AI and society
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-we-should-consider-ai-and-society?u=76281980)
@@ -485,7 +507,7 @@ created: 2026-04-29
 
 ### 2. Bias, Fairness, and Case Studies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why bias is not an exception
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/why-bias-is-not-an-exception?u=76281980)
@@ -798,7 +820,7 @@ created: 2026-04-29
 
 ### 3. Responsibility, Transparency, and Safety
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What responsibility means in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/what-responsibility-means-in-ai?u=76281980)
@@ -1206,7 +1228,7 @@ created: 2026-04-29
 
 ### 4. Information Integrity, Privacy, and Profiling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How misinformation and disinformation spread in the AI era
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-global-risks-governance-and-human-oversight/how-misinformation-and-disinformation-spread-in-the-ai-era?u=76281980)

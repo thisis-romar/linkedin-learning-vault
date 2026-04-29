@@ -50,15 +50,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Building a Neural Network with PyTorch]]** (8 videos)
-- **[[#2. Using PyTorch Lightning to Build a Regression Model]]** (3 videos)
-- **[[#3. Using PyTorch Lightning to Build a Classification Model]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - AI workshop: Build a neural network with PyTorch Lightning
+  - Prerequisites
+  - Quick overview of neural networks
+- [**1. Building a Neural Network with PyTorch**](#1-building-a-neural-network-with-pytorch) (8 videos)
+  - Setting up the virtual environment
+  - Loading and exploring regression data
+  - Preprocessing data for training
+  - Creating a simple neural network
+  - Setting up the dataset and DataLoader
+  - Training a neural network using PyTorch
+  - Visualizing losses and evaluating models
+  - Building and training a more complex neural network
+- [**2. Using PyTorch Lightning to Build a Regression Model**](#2-using-pytorch-lightning-to-build-a-regression-model) (3 videos)
+  - Encapsulating data using a LightningDataModule
+  - Encapsulating a model using a LightningModule
+  - Training the model using the PyTorch Lightning Trainer
+- [**3. Using PyTorch Lightning to Build a Classification Model**](#3-using-pytorch-lightning-to-build-a-classification-model) (4 videos)
+  - Loading and exploring classification data
+  - Creating a LightningDataModule
+  - Creating a LightningModule
+  - Training a classification model and evaluating metrics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI workshop: Build a neural network with PyTorch Lightning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980)
@@ -297,7 +316,7 @@ created: 2026-04-29
 
 ### 1. Building a Neural Network with PyTorch
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the virtual environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/setting-up-the-virtual-environment?u=76281980)
@@ -1195,7 +1214,7 @@ created: 2026-04-29
 
 ### 2. Using PyTorch Lightning to Build a Regression Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Encapsulating data using a LightningDataModule
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/encapsulating-data-using-a-lightningdatamodule?u=76281980)
@@ -1544,7 +1563,7 @@ created: 2026-04-29
 
 ### 3. Using PyTorch Lightning to Build a Classification Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading and exploring classification data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/loading-and-exploring-classification-data?u=76281980)
@@ -1935,7 +1954,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-2023/summary-and-next-steps?u=76281980)

@@ -46,16 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Transforming Your Projects: Part 1, Human Interaction]]** (4 videos)
-- **[[#2. Transforming Your Projects: Part 2, Data Tools]]** (5 videos)
-- **[[#3. Impact to Requirements and Business Analysis]]** (5 videos)
-- **[[#4. Technique Highlights]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Transform your business analyst career
+  - The mindset of a digital BA
+  - Intelligent automation and digital landscape
+  - Transforming into a digital business analyst
+  - Understand the capabilities
+- [**1. Transforming Your Projects: Part 1, Human Interaction**](#1-transforming-your-projects-part-1-human-interaction) (4 videos)
+  - Natural language generation
+  - Speech recognition and voice technologies
+  - Chatbots and virtual agents
+  - Robotic process automation
+- [**2. Transforming Your Projects: Part 2, Data Tools**](#2-transforming-your-projects-part-2-data-tools) (5 videos)
+  - Biometrics
+  - Machine and deep learning
+  - Video and image analysis
+  - Swarm intelligence
+  - Blockchain
+- [**3. Impact to Requirements and Business Analysis**](#3-impact-to-requirements-and-business-analysis) (5 videos)
+  - Linking the capabilities together
+  - How are requirements the same?
+  - How are requirements different?
+  - Linking to business process
+  - Intelligent automation in agile
+- [**4. Technique Highlights**](#4-technique-highlights) (4 videos)
+  - Experiments and hypothesis
+  - Business measurements of success
+  - The customer journey and user experience
+  - Monitoring the results
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your business analyst career
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/transform-your-business-analyst-career?u=76281980)
@@ -338,7 +362,7 @@ created: 2026-04-29
 
 ### 1. Transforming Your Projects: Part 1, Human Interaction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Natural language generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/natural-language-generation?u=76281980)
@@ -629,7 +653,7 @@ created: 2026-04-29
 
 ### 2. Transforming Your Projects: Part 2, Data Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Biometrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/biometrics?u=76281980)
@@ -961,7 +985,7 @@ created: 2026-04-29
 
 ### 3. Impact to Requirements and Business Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linking the capabilities together
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/linking-the-capabilities-together?u=76281980)
@@ -1296,7 +1320,7 @@ created: 2026-04-29
 
 ### 4. Technique Highlights
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Experiments and hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/experiments-and-hypothesis?u=76281980)
@@ -1558,7 +1582,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-digital-business-analysis/next-steps?u=76281980)

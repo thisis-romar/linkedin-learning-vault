@@ -48,14 +48,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setting Up the Supporting Workbook]]** (8 videos)
-- **[[#2. Creating a Dashboard Worksheet]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Improve decision-making by creating dashboards
+  - What you should know
+- [**1. Setting Up the Supporting Workbook**](#1-setting-up-the-supporting-workbook) (8 videos)
+  - Manage data using Excel tables
+  - Manage PivotTables and PivotCharts
+  - Summarize Excel table and PivotTable data
+  - Filter Excel table and PivotTable data
+  - Define conditional formats
+  - Define an icon set conditional format
+  - Streamline charts for dashboards
+  - Create sparklines
+- [**2. Creating a Dashboard Worksheet**](#2-creating-a-dashboard-worksheet) (5 videos)
+  - Create and manage cell links
+  - Link cell contents to a shape
+  - Use PivotTable data in a formula
+  - Extend your dashboard using hidden rows
+  - Hide gridlines and set zoom levels
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve decision-making by creating dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980)
@@ -129,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Setting Up the Supporting Workbook
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage data using Excel tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980)
@@ -1041,7 +1057,7 @@ created: 2026-04-29
 
 ### 2. Creating a Dashboard Worksheet
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and manage cell links
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-and-manage-cell-links?u=76281980)
@@ -1569,7 +1585,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980)

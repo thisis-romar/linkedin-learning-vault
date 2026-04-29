@@ -46,16 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Defining Success]]** (4 videos)
-- **[[#2. Agile Anti-Patterns and Antidotes]]** (6 videos)
-- **[[#3. Building Your Team]]** (6 videos)
-- **[[#4. Empowering Individuals]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Create an agile culture
+  - Agile in the AI era
+- [**1. Defining Success**](#1-defining-success) (4 videos)
+  - Why culture matters
+  - The importance of psychological safety
+  - Build trust
+  - Mission, vision, and values
+- [**2. Agile Anti-Patterns and Antidotes**](#2-agile-anti-patterns-and-antidotes) (6 videos)
+  - Shame versus empathy
+  - Heroes versus teams
+  - Stress versus calm
+  - Failure versus experimentation
+  - Efficiency versus responsiveness
+  - Silos versus collaboration
+- [**3. Building Your Team**](#3-building-your-team) (6 videos)
+  - Collection of individuals versus teams
+  - Play to strengths
+  - Diversity, inclusion, and belonging
+  - Support success
+  - Enable flow
+  - Regular reflection
+- [**4. Empowering Individuals**](#4-empowering-individuals) (5 videos)
+  - Candor and conflict
+  - Avoiding groupthink
+  - Growth mindset
+  - Embrace negotiation
+  - Clear and compassionate communication
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an agile culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/create-an-agile-culture?u=76281980)
@@ -181,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Defining Success
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why culture matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/why-culture-matters?u=76281980)
@@ -545,7 +569,7 @@ created: 2026-04-29
 
 ### 2. Agile Anti-Patterns and Antidotes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Shame versus empathy
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/shame-versus-empathy?u=76281980)
@@ -1139,7 +1163,7 @@ created: 2026-04-29
 
 ### 3. Building Your Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collection of individuals versus teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/collection-of-individuals-versus-teams?u=76281980)
@@ -1540,7 +1564,7 @@ created: 2026-04-29
 
 ### 4. Empowering Individuals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Candor and conflict
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/candor-and-conflict?u=76281980)
@@ -2017,7 +2041,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-creating-an-agile-culture/next-steps?u=76281980)

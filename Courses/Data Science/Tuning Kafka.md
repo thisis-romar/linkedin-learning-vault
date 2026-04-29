@@ -50,17 +50,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introducing Kafka Tuning]]** (7 videos)
-- **[[#2. Tuning Kafka Producers]]** (8 videos)
-- **[[#3. Tuning Kafka Consumers]]** (4 videos)
-- **[[#4. Tuning Kafka Brokers]]** (3 videos)
-- **[[#5. Performance Testing with Python]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Tuning Kafka
+- [**1. Introducing Kafka Tuning**](#1-introducing-kafka-tuning) (7 videos)
+  - Prerequisites
+  - An overview of Kafka
+  - Producers and consumers
+  - Kafka optimization theorem
+  - End-to-end latency in Kafka
+  - Install and set up Apache Kafka
+  - Publish and consume messages using console scripts
+- [**2. Tuning Kafka Producers**](#2-tuning-kafka-producers) (8 videos)
+  - Running a Kafka cluster with three brokers
+  - Running basic producer performance tests
+  - Effects of partitioning on producers
+  - Effects of replication on producers
+  - Tuning producer acks
+  - Tuning producer compression
+  - Tuning batch size and linger time
+  - Effect of message size and record count
+- [**3. Tuning Kafka Consumers**](#3-tuning-kafka-consumers) (4 videos)
+  - Running a basic consumer performance test
+  - Tuning fetch bytes and wait time for consumers
+  - Tuning session timeout and heartbeat interval
+  - Tuning max poll interval and max poll records
+- [**4. Tuning Kafka Brokers**](#4-tuning-kafka-brokers) (3 videos)
+  - End-to-end latency with replication
+  - Tuning throughput
+  - Tuning log retention
+- [**5. Performance Testing with Python**](#5-performance-testing-with-python) (2 videos)
+  - Producer performance testing using Python
+  - Consumer perf testing using Python
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tuning Kafka
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980)
@@ -150,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Introducing Kafka Tuning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980)
@@ -758,7 +784,7 @@ created: 2026-04-29
 
 ### 2. Tuning Kafka Producers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Running a Kafka cluster with three brokers
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/running-a-kafka-cluster-with-three-brokers?u=76281980)
@@ -1820,7 +1846,7 @@ created: 2026-04-29
 
 ### 3. Tuning Kafka Consumers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Running a basic consumer performance test
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980)
@@ -2203,7 +2229,7 @@ created: 2026-04-29
 
 ### 4. Tuning Kafka Brokers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### End-to-end latency with replication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980)
@@ -2538,7 +2564,7 @@ created: 2026-04-29
 
 ### 5. Performance Testing with Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Producer performance testing using Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/producer-performance-testing-using-python?u=76281980)
@@ -2725,7 +2751,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980)

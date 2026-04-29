@@ -52,14 +52,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. MCP Explained]]** (6 videos)
-- **[[#2. Building MCP Servers]]** (3 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - MCP: Connecting AI agents to data, apps, and more
+- [**1. MCP Explained**](#1-mcp-explained) (6 videos)
+  - Using MCP servers in Claude Desktop
+  - Model Context Protocol (MCP) explained
+  - Exploring avaialble MCP servers and clients
+  - Limiting the blast radius of AI agents
+  - Leveraging the power of MCP servers
+  - Using MCP servers in Cursor
+- [**2. Building MCP Servers**](#2-building-mcp-servers) (3 videos)
+  - Building your own MCP servers
+  - Testing with the MCP inspector
+  - Troubleshooting MCP servers
+- [**3. Conclusion**](#3-conclusion) (1 videos)
+  - Building AI agents with MCP
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MCP: Connecting AI agents to data, apps, and more
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980)
@@ -96,7 +107,7 @@ created: 2026-04-29
 
 ### 1. MCP Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using MCP servers in Claude Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980)
@@ -537,7 +548,7 @@ created: 2026-04-29
 
 ### 2. Building MCP Servers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your own MCP servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980)
@@ -743,7 +754,7 @@ created: 2026-04-29
 
 ### 3. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building AI agents with MCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-ai-agents-with-mcp?u=76281980)

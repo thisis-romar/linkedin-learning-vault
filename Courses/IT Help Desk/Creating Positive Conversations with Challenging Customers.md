@@ -51,15 +51,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Working with Difficult Customers]]** (3 videos)
-- **[[#2. Positive Positioning Skills]]** (4 videos)
-- **[[#3. Positive Positioning in Action]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why telling a customer what you can do is important
+- [**1. Working with Difficult Customers**](#1-working-with-difficult-customers) (3 videos)
+  - Be positive with customers, not provoking
+  - Pacing your customers
+  - Ask your customers "what else?"
+- [**2. Positive Positioning Skills**](#2-positive-positioning-skills) (4 videos)
+  - Use partnership language with customers
+  - When you can't give the customer what they want
+  - Positively prime customers
+  - Words and phrases to avoid and choosing better options
+- [**3. Positive Positioning in Action**](#3-positive-positioning-in-action) (3 videos)
+  - Positioning controversial policies
+  - Issues with billing or customer rewards
+  - Politely distancing from hot topics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Start, stop, continue exercise
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why telling a customer what you can do is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980)
@@ -102,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Working with Difficult Customers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be positive with customers, not provoking
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/be-positive-with-customers-not-provoking?u=76281980)
@@ -319,7 +331,7 @@ created: 2026-04-29
 
 ### 2. Positive Positioning Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use partnership language with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/use-partnership-language-with-customers?u=76281980)
@@ -589,7 +601,7 @@ created: 2026-04-29
 
 ### 3. Positive Positioning in Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Positioning controversial policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positioning-controversial-policies?u=76281980)
@@ -790,7 +802,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start, stop, continue exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/start-stop-continue-exercise?u=76281980)

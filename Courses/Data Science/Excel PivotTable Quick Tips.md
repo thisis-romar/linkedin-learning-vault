@@ -46,18 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Excel PivotTable Basics]]** (4 videos)
-- **[[#2. Adjusting Excel PivotTable Data]]** (6 videos)
-- **[[#3. Filtering and Sorting Data in a PivotTable]]** (2 videos)
-- **[[#4. Conditional Formatting with PivotTables]]** (2 videos)
-- **[[#5. PivotCharts and Slicers]]** (2 videos)
-- **[[#6. Data Grouping with Excel Functions]]** (2 videos)
-- **[[#7. Addressing Common Error Messages in PivotTables]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Analyze your data quickly with PivotTables
+- [**1. Excel PivotTable Basics**](#1-excel-pivottable-basics) (4 videos)
+  - Get data ready for an Excel PivotTable
+  - Create a basic Excel PivotTable
+  - Use a recommended PivotTable
+  - Create multiple PivotTables
+- [**2. Adjusting Excel PivotTable Data**](#2-adjusting-excel-pivottable-data) (6 videos)
+  - Rearrange a PivotTable
+  - Calculate values in a PivotTable
+  - Summarize values in a PivotTable
+  - Expand and collapse details in a PivotTable
+  - Format data in a PivotTable
+  - Group data in a PivotTable
+- [**3. Filtering and Sorting Data in a PivotTable**](#3-filtering-and-sorting-data-in-a-pivottable) (2 videos)
+  - Filter data in a PivotTable
+  - Sort data in a PivotTable
+- [**4. Conditional Formatting with PivotTables**](#4-conditional-formatting-with-pivottables) (2 videos)
+  - Apply conditional formatting to a PivotTable
+  - Remove conditional formatting from a PivotTable
+- [**5. PivotCharts and Slicers**](#5-pivotcharts-and-slicers) (2 videos)
+  - Create a basic PivotChart
+  - Insert slicers into a PivotTable
+- [**6. Data Grouping with Excel Functions**](#6-data-grouping-with-excel-functions) (2 videos)
+  - Use GROUPBY to view data like a PivotTable
+  - Use PIVOTBY to view data with more columns
+- [**7. Addressing Common Error Messages in PivotTables**](#7-addressing-common-error-messages-in-pivottables) (3 videos)
+  - PivotTable error messages: Field name not valid
+  - Refresh a PivotTable
+  - PivotTable error messages: Overlapping and make space
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze your data quickly with PivotTables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/analyze-your-data-quickly-with-pivottables?u=76281980)
@@ -85,7 +107,7 @@ created: 2026-04-29
 
 ### 1. Excel PivotTable Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get data ready for an Excel PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/get-data-ready-for-an-excel-pivottable?u=76281980)
@@ -232,7 +254,7 @@ created: 2026-04-29
 
 ### 2. Adjusting Excel PivotTable Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rearrange a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/rearrange-a-pivottable?u=76281980)
@@ -449,7 +471,7 @@ created: 2026-04-29
 
 ### 3. Filtering and Sorting Data in a PivotTable
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filter data in a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/filter-data-in-a-pivottable?u=76281980)
@@ -502,7 +524,7 @@ created: 2026-04-29
 
 ### 4. Conditional Formatting with PivotTables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply conditional formatting to a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/apply-conditional-formatting-to-a-pivottable?u=76281980)
@@ -567,7 +589,7 @@ created: 2026-04-29
 
 ### 5. PivotCharts and Slicers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a basic PivotChart
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/create-a-basic-pivotchart?u=76281980)
@@ -648,7 +670,7 @@ created: 2026-04-29
 
 ### 6. Data Grouping with Excel Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use GROUPBY to view data like a PivotTable
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/use-groupby-to-view-data-like-a-pivottable?u=76281980)
@@ -729,7 +751,7 @@ created: 2026-04-29
 
 ### 7. Addressing Common Error Messages in PivotTables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PivotTable error messages: Field name not valid
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottable-quick-tips-26296435/pivottable-error-messages-field-name-not-valid?u=76281980)

@@ -47,18 +47,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Socio-Historical Perspective]]** (2 videos)
-- **[[#2. The Data Science Workplace]]** (3 videos)
-- **[[#3. Future Career Toolkit]]** (2 videos)
-- **[[#4. Finding Your VOICE]]** (7 videos)
-- **[[#5. Developing Your ANTENNA]]** (6 videos)
-- **[[#6. Connecting via Your MESH]]** (11 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Data science is disrupting every business
+  - The new workplace
+- [**1. Socio-Historical Perspective**](#1-socio-historical-perspective) (2 videos)
+  - A brief history of machines helping humans
+  - Data throughout history
+- [**2. The Data Science Workplace**](#2-the-data-science-workplace) (3 videos)
+  - Data science drives Wall Street and Main Street
+  - Where is all the data coming from?
+  - Businesses of the future
+- [**3. Future Career Toolkit**](#3-future-career-toolkit) (2 videos)
+  - Managing the emerging data science job market
+  - Three tools to navigate your career(s)
+- [**4. Finding Your VOICE**](#4-finding-your-voice) (7 videos)
+  - What is your VOICE?
+  - The importance of brand
+  - Your personal brand
+  - Identify your interests
+  - Identify your triggers
+  - Building your VOICE table
+  - That is what I can do, that nobody else can do
+- [**5. Developing Your ANTENNA**](#5-developing-your-antenna) (6 videos)
+  - ANTENNA overview
+  - Where are the conversations happening?
+  - Building the new career grid
+  - Start developing your ANTENNA
+  - Keep a journal
+  - How ANTENNA helped me
+- [**6. Connecting via Your MESH**](#6-connecting-via-your-mesh) (11 videos)
+  - It is not what you know, but who you know
+  - The office of the future
+  - Cast a wide net
+  - Following thought leaders and leading-edge groups
+  - Start building your MESH on LinkedIn
+  - Connect with people on LinkedIn
+  - Connect with groups on LinkedIn
+  - In-person interactions
+  - Keeping track of your connections with a CRM
+  - Connecting is an equal exchange
+  - How to start building your MESH by cold-calling
+- [**Conclusion**](#conclusion) (3 videos)
+  - Prepare for future data-science careers
+  - It's not about the tools
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science is disrupting every business
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-is-disrupting-every-business?u=76281980)
@@ -152,7 +188,7 @@ created: 2026-04-29
 
 ### 1. Socio-Historical Perspective
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A brief history of machines helping humans
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/a-brief-history-of-machines-helping-humans?u=76281980)
@@ -259,7 +295,7 @@ created: 2026-04-29
 
 ### 2. The Data Science Workplace
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science drives Wall Street and Main Street
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980)
@@ -384,7 +420,7 @@ created: 2026-04-29
 
 ### 3. Future Career Toolkit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing the emerging data science job market
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/managing-the-emerging-data-science-job-market?u=76281980)
@@ -464,7 +500,7 @@ created: 2026-04-29
 
 ### 4. Finding Your VOICE
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is your VOICE?
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/what-is-your-voice?u=76281980)
@@ -715,7 +751,7 @@ created: 2026-04-29
 
 ### 5. Developing Your ANTENNA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ANTENNA overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/antenna-overview?u=76281980)
@@ -995,7 +1031,7 @@ created: 2026-04-29
 
 ### 6. Connecting via Your MESH
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### It is not what you know, but who you know
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980)
@@ -1488,7 +1524,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare for future data-science careers
 > [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/prepare-for-future-data-science-careers?u=76281980)

@@ -49,18 +49,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Answering Java-Specific Questions]]** (6 videos)
-- **[[#2. Leveraging New Java Features]]** (6 videos)
-- **[[#3. Solving Technical Interview Questions: String Manipulation]]** (7 videos)
-- **[[#4. Solving Technical Interview Questions: Arrays and Linked Lists]]** (4 videos)
-- **[[#5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures]]** (6 videos)
-- **[[#6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - The secret to nailing your Java interview
+  - Understand types of interview questions
+  - Get ready for your technical interview
+  - How to use CoderPad
+- [**1. Answering Java-Specific Questions**](#1-answering-java-specific-questions) (6 videos)
+  - What's the Java Virtual Machine?
+  - What's the JDK and JRE?
+  - What are classes, instances, and constructors?
+  - What's the difference between static and non-static methods?
+  - How is scope used in Java?
+  - How do you access modifiers restrict scope?
+- [**2. Leveraging New Java Features**](#2-leveraging-new-java-features) (6 videos)
+  - Understand the impact of Jigsaw
+  - Use optionals to avoid NullPointerExceptions
+  - Create Lambdas to pass functionality as data
+  - Use the Streams API to process collections
+  - Discuss the pros and cons of local variable type inference
+  - Leverage new switch expressions
+- [**3. Solving Technical Interview Questions: String Manipulation**](#3-solving-technical-interview-questions-string-manipulation) (7 videos)
+  - Concatenate strings with different methods
+  - Normalize string input
+  - Access data from strings
+  - Apply string functions in technical interviews
+  - Understand string equality
+  - Solution: Developing a Palindrome Checker
+  - Solution: Counting with String Manipulation
+- [**4. Solving Technical Interview Questions: Arrays and Linked Lists**](#4-solving-technical-interview-questions-arrays-and-linked-lists) (4 videos)
+  - Review arrays for technical interviews
+  - Solution: Maximum Product of Two Numbers
+  - Mastering linked lists for whiteboard coding interviews
+  - Solution: Delete the Middle of a Linked List
+- [**5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures**](#5-solving-technical-interview-questions-stacks-queues-and-hash-based-structures) (6 videos)
+  - Leveraging stacks as a data structure
+  - Using queues in technical interviews
+  - Mastering hash-based structures
+  - Solution: Generate Binary Numbers
+  - Solution: Matching Parentheses
+  - Solution: Find Most Repeated Word
+- [**6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism**](#6-solving-technical-interview-questions-abstraction-encapsulation-inheritance-and-polymorphism) (5 videos)
+  - Mastering abstraction for technical interviews
+  - Add encapsulation to your programs to impress interviewers
+  - Leveraging inheritance in your technical interview solutions
+  - Use polymorphism to reduce complexity in coding interviews
+  - Mastering polymorphism with a deeper look at Java
+- [**Conclusion**](#conclusion) (1 videos)
+  - Good luck in your interview
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The secret to nailing your Java interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980)
@@ -241,7 +280,7 @@ created: 2026-04-29
 
 ### 1. Answering Java-Specific Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's the Java Virtual Machine?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980)
@@ -661,7 +700,7 @@ created: 2026-04-29
 
 ### 2. Leveraging New Java Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the impact of Jigsaw
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980)
@@ -1168,7 +1207,7 @@ created: 2026-04-29
 
 ### 3. Solving Technical Interview Questions: String Manipulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Concatenate strings with different methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/concatenate-strings-with-different-methods?u=76281980)
@@ -1775,7 +1814,7 @@ created: 2026-04-29
 
 ### 4. Solving Technical Interview Questions: Arrays and Linked Lists
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review arrays for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980)
@@ -2210,7 +2249,7 @@ created: 2026-04-29
 
 ### 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging stacks as a data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-stacks-as-a-data-structure?u=76281980)
@@ -2809,7 +2848,7 @@ created: 2026-04-29
 
 ### 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering abstraction for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980)
@@ -3538,7 +3577,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Good luck in your interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980)

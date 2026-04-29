@@ -45,18 +45,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Get Started with Outlook on the Web]]** (4 videos)
-- **[[#2. Compose and Send Messages]]** (10 videos)
-- **[[#3. Receive and Manage Messages]]** (11 videos)
-- **[[#4. Use the Calendar]]** (9 videos)
-- **[[#5. Work with Meetings and Bookings]]** (6 videos)
-- **[[#6. Work with People and To-Do]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Manage your email and calendar with Outlook on the web
+  - What Outlook on the web is and isn't
+- [**1. Get Started with Outlook on the Web**](#1-get-started-with-outlook-on-the-web) (4 videos)
+  - Sign in to Outlook on the web
+  - Navigate in Outlook on the web
+  - Work with the Outlook components
+  - Change your theme and set dark mode
+- [**2. Compose and Send Messages**](#2-compose-and-send-messages) (10 videos)
+  - Create a new message
+  - Open, edit, and send a message draft
+  - Attach files to a message
+  - Create and use an email signature
+  - Check spelling and grammar
+  - Include images with a message
+  - Add a loop component to a message
+  - Add a poll to a message
+  - Add a scheduling poll to a message
+  - Embed a video in a message
+- [**3. Receive and Manage Messages**](#3-receive-and-manage-messages) (11 videos)
+  - View, reply to, and forward messages
+  - Other options for incoming messages
+  - Work with message attachments
+  - Use the Focused Inbox
+  - Print a message
+  - Pin, flag, or snooze a message
+  - Create and manage subfolders
+  - Add subfolders or people to Favorites
+  - Delete or move multiple messages
+  - Archive or sweep messages
+  - Set automatic replies (out-of-office messages)
+- [**4. Use the Calendar**](#4-use-the-calendar) (9 videos)
+  - Navigate in the Calendar app
+  - Create and edit an appointment or event
+  - Edit an appointment
+  - Use My Day to create an appointment from an email
+  - Create a repeating appointment
+  - Use categories for visual organization
+  - Modify calendar settings
+  - Share your calendar with colleagues
+  - Add or remove a calendar
+- [**5. Work with Meetings and Bookings**](#5-work-with-meetings-and-bookings) (6 videos)
+  - Three ways to create a meeting including Teams
+  - Respond to a meeting invitation
+  - Update or cancel a meeting
+  - Create a repeating meeting
+  - Setup a calendar in Bookings
+  - Use Bookings to set up a meeting
+- [**6. Work with People and To-Do**](#6-work-with-people-and-to-do) (6 videos)
+  - Use the People app
+  - Create a contact
+  - Create and use contact lists
+  - Create a Microsoft 365 group
+  - Create, view, and complete to-do items
+  - Create and share task lists
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage your email and calendar with Outlook on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/manage-your-email-and-calendar-with-outlook-on-the-web?u=76281980)
@@ -147,7 +196,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Outlook on the Web
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign in to Outlook on the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980)
@@ -390,7 +439,7 @@ created: 2026-04-29
 
 ### 2. Compose and Send Messages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new message
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980)
@@ -1269,7 +1318,7 @@ created: 2026-04-29
 
 ### 3. Receive and Manage Messages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### View, reply to, and forward messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980)
@@ -2228,7 +2277,7 @@ created: 2026-04-29
 
 ### 4. Use the Calendar
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate in the Calendar app
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-the-calendar-app?u=76281980)
@@ -3146,7 +3195,7 @@ created: 2026-04-29
 
 ### 5. Work with Meetings and Bookings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three ways to create a meeting including Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980)
@@ -3754,7 +3803,7 @@ created: 2026-04-29
 
 ### 6. Work with People and To-Do
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the People app
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-people-app?u=76281980)
@@ -4444,7 +4493,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980)

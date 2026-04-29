@@ -50,15 +50,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setup and Beyond]]** (4 videos)
-- **[[#2. Data Transformation with SQL and DuckDB]]** (12 videos)
-- **[[#3. Data Transformation with Python and pandas]]** (10 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome to data transformation
+  - What we'll cover and what you should know
+- [**1. Setup and Beyond**](#1-setup-and-beyond) (4 videos)
+  - Codespaces and setup
+  - Why SQL? Why Python? Why not Spark?
+  - Types of data transformation
+  - The goal of data transformation
+- [**2. Data Transformation with SQL and DuckDB**](#2-data-transformation-with-sql-and-duckdb) (12 videos)
+  - DuckDB basics and query structure
+  - Wrangling unstructured data
+  - Joins and comparisons
+  - Aggregations
+  - Windows functions: A quick refresher
+  - Window functions
+  - Advanced filters
+  - Advanced joins
+  - Lambdas and UDFs
+  - Data generation
+  - SQL challenge
+  - SQL solution
+- [**3. Data Transformation with Python and pandas**](#3-data-transformation-with-python-and-pandas) (10 videos)
+  - DataFrame basics
+  - Wrangling unstructured data
+  - Select and filter
+  - Order and aggregate
+  - Advanced filters
+  - Data generation
+  - Windows
+  - Apply
+  - pandas challenge
+  - pandas solution
+- [**Conclusion**](#conclusion) (3 videos)
+  - What you learned, how to practice and grow, and next steps
+  - SQL bonus challenge
+  - SQL bonus solution
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to data transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/welcome-to-data-transformation?u=76281980)
@@ -258,7 +289,7 @@ created: 2026-04-29
 
 ### 1. Setup and Beyond
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Codespaces and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/codespaces-and-setup?u=76281980)
@@ -592,7 +623,7 @@ created: 2026-04-29
 
 ### 2. Data Transformation with SQL and DuckDB
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DuckDB basics and query structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/duckdb-basics-query-structure?u=76281980)
@@ -2701,7 +2732,7 @@ created: 2026-04-29
 
 ### 3. Data Transformation with Python and pandas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DataFrame basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/dataframe-basics?u=76281980)
@@ -4737,7 +4768,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What you learned, how to practice and grow, and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-data-transformation-for-data-engineering/what-we-learned-how-to-practice-and-grow-and-next-steps?u=76281980)

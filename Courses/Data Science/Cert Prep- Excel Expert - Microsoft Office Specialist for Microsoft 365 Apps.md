@@ -44,17 +44,64 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Microsoft Office Specialist (MOS) Expert Exam Overview]]** (2 videos)
-- **[[#2. Manage Workbook Options and Settings]]** (7 videos)
-- **[[#3. Manage and Format Data]]** (11 videos)
-- **[[#4. Create Advanced Formulas]]** (14 videos)
-- **[[#5. Manage Advanced Charts and Tables]]** (7 videos)
-- **[[#6. Final Challenge]]** (2 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Prove your Excel skills as a MOS Expert
+  - Who should take this course
+  - Using the exercise files
+  - Using the challenge files
+- [**1. Microsoft Office Specialist (MOS) Expert Exam Overview**](#1-microsoft-office-specialist-mos-expert-exam-overview) (2 videos)
+  - The different kinds of Microsoft Office Specialist certifications
+  - Prepare for the test
+- [**2. Manage Workbook Options and Settings**](#2-manage-workbook-options-and-settings) (7 videos)
+  - Manage macros
+  - Reference data in other workbooks
+  - Manage workbook versions
+  - Protect workbooks and worksheets
+  - Configure formula calculation options
+  - Challenge: Manage workbook options and settings
+  - Solution: Manage workbook options and settings
+- [**3. Manage and Format Data**](#3-manage-and-format-data) (11 videos)
+  - Fill cells using Flash Fill
+  - Fill cells using advanced Fill Series options
+  - Create custom number formats
+  - Configure data validation
+  - Group and ungroup, use subtotals and totals
+  - Remove duplicate records
+  - Create and manage custom conditional formatting rules
+  - Create conditional formatting rules using formulas
+  - Generate numeric data by using RANDARRAY()
+  - Challenge: Manage and format data
+  - Solution: Manage and format data
+- [**4. Create Advanced Formulas**](#4-create-advanced-formulas) (14 videos)
+  - Use AND(), OR(), and NOT() in nested functions
+  - Use IF() and IFS() in nested functions
+  - Use SWITCH() in nested functions
+  - Use SUMIF(), AVERAGEIF(), SUMIFS(), and AVERAGEIFS() functions
+  - Use COUNTIF(), COUNTIFS(), MAXIFS, and MINIFS
+  - Look up data using XLOOKUP(), VLOOKUP(), HLOOKUP(), INDEX(), and MATCH()
+  - Use NOW() and TODAY() functions and calculate dates using WEEKDAY() and WORKDAY() functions
+  - Summarize data from multiple ranges by using the Consolidate feature
+  - Use What-If Analysis, Goal Seek, and Scenario Manager
+  - Calculate financial data with NPER() and PMT() functions
+  - Use the SORTBY() and FILTER() functions
+  - Troubleshoot formulas
+  - Challenge: Create advanced formulas
+  - Solution: Create advanced formulas
+- [**5. Manage Advanced Charts and Tables**](#5-manage-advanced-charts-and-tables) (7 videos)
+  - Create and modify dual-axis and combo charts
+  - Create and modify box and whisker and funnel charts
+  - Create and modify Sunburst, Histogram, and Waterfall charts
+  - Create PivotTables and modify field selections and options
+  - Create and modify PivotCharts
+  - Challenge: Manage advanced charts and tables
+  - Solution: Manage advanced charts and tables
+- [**6. Final Challenge**](#6-final-challenge) (2 videos)
+  - Challenge: Full-length MOS Excel Expert sample exam
+  - Solution: Full-length MOS Excel Expert sample exam
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prove your Excel skills as a MOS Expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980)
@@ -147,7 +194,7 @@ created: 2026-04-29
 
 ### 1. Microsoft Office Specialist (MOS) Expert Exam Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The different kinds of Microsoft Office Specialist certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980)
@@ -315,7 +362,7 @@ created: 2026-04-29
 
 ### 2. Manage Workbook Options and Settings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage macros
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980)
@@ -1181,7 +1228,7 @@ created: 2026-04-29
 
 ### 3. Manage and Format Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fill cells using Flash Fill
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-flash-fill-17332134?u=76281980)
@@ -2615,7 +2662,7 @@ created: 2026-04-29
 
 ### 4. Create Advanced Formulas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use AND(), OR(), and NOT() in nested functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-and-or-and-not-in-nested-functions-17330189?u=76281980)
@@ -4445,7 +4492,7 @@ created: 2026-04-29
 
 ### 5. Manage Advanced Charts and Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and modify dual-axis and combo charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-dual-axis-and-combo-charts-17328205?u=76281980)
@@ -5130,7 +5177,7 @@ created: 2026-04-29
 
 ### 6. Final Challenge
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Full-length MOS Excel Expert sample exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-full-length-mos-excel-expert-sample-exam-17329208?u=76281980)

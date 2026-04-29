@@ -57,16 +57,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to MLSecOps]]** (4 videos)
-- **[[#2. Applying MLSecOps to Secure the AI Lifecycle]]** (7 videos)
-- **[[#3. The MLSecOps Dream Team]]** (4 videos)
-- **[[#4. MLSecOps Implementation and Strategy: Risk Assessment and Incident Response]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of MLSecOps
+- [**1. Introduction to MLSecOps**](#1-introduction-to-mlsecops) (4 videos)
+  - What is MLSecOps?
+  - The benefits of AI risk awareness in organizations
+  - Key MLSecOps categories of assurance explained
+  - Understanding the MLSecOps framework
+- [**2. Applying MLSecOps to Secure the AI Lifecycle**](#2-applying-mlsecops-to-secure-the-ai-lifecycle) (7 videos)
+  - Map, measure, manage, and govern
+  - AI attack vectors and vulnerabilities
+  - Introduction to threat modeling for AI systems
+  - Customized threat models
+  - Strategic threat analysis
+  - Ensuring adversarial robustness
+  - Secure model deployment and monitoring
+- [**3. The MLSecOps Dream Team**](#3-the-mlsecops-dream-team) (4 videos)
+  - Building the team: Ownership and roles
+  - Introduction to the Violet teaming integrative framework
+  - Facilitating cross-collaboration for MLSecOps implementation
+  - Empowering MLSecOps stakeholders with team training
+- [**4. MLSecOps Implementation and Strategy: Risk Assessment and Incident Response**](#4-mlsecops-implementation-and-strategy-risk-assessment-and-incident-response) (4 videos)
+  - Step-by-step: Infusing MLSecOps into existing processes
+  - Foundations for AI/ML risk assessments and assurance
+  - AI incident response plans
+  - Audit, inventory, and supply chain
+- [**Conclusion**](#conclusion) (1 videos)
+  - Mastering MLSecOps: Safeguarding AI in the modern era
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of MLSecOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/the-power-of-mlsecops?u=76281980)
@@ -96,7 +117,7 @@ created: 2026-04-29
 
 ### 1. Introduction to MLSecOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is MLSecOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/what-is-mlsecops?u=76281980)
@@ -385,7 +406,7 @@ created: 2026-04-29
 
 ### 2. Applying MLSecOps to Secure the AI Lifecycle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Map, measure, manage, and govern
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/map-measure-manage-govern?u=76281980)
@@ -806,7 +827,7 @@ created: 2026-04-29
 
 ### 3. The MLSecOps Dream Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the team: Ownership and roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/building-the-team-ownership-and-roles?u=76281980)
@@ -1049,7 +1070,7 @@ created: 2026-04-29
 
 ### 4. MLSecOps Implementation and Strategy: Risk Assessment and Incident Response
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Step-by-step: Infusing MLSecOps into existing processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/step-by-step-infusing-mlsecops-into-existing-processes?u=76281980)
@@ -1250,7 +1271,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering MLSecOps: Safeguarding AI in the modern era
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-mlsecops/mastering-mlsecops-safeguarding-ai-in-the-modern-era?u=76281980)

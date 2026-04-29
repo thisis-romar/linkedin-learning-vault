@@ -46,19 +46,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Set Up and Organize Your Notebooks]]** (5 videos)
-- **[[#2. Working with Sections]]** (4 videos)
-- **[[#3. Working with Pages]]** (4 videos)
-- **[[#4. Formatting Typed Notes and Lists]]** (5 videos)
-- **[[#5. Creating Audio, Handwritten, and Other Types of Notes]]** (5 videos)
-- **[[#6. Importing Content from Other Apps]]** (2 videos)
-- **[[#7. Managing and Searching Notebooks]]** (5 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Stay organized with OneNote
+  - Who this course is for?
+  - Launch OneNote
+- [**1. Set Up and Organize Your Notebooks**](#1-set-up-and-organize-your-notebooks) (5 videos)
+  - Create a notebook stored in OneDrive
+  - Open a notebook stored on your computer
+  - Share a notebook
+  - Sync notebook content
+  - Change the interface color setting
+- [**2. Working with Sections**](#2-working-with-sections) (4 videos)
+  - Create a section
+  - Rename, move, and delete a section
+  - Create a linked section
+  - Password-protect a section
+- [**3. Working with Pages**](#3-working-with-pages) (4 videos)
+  - Create, move, and delete a page
+  - Make a subpage
+  - Rearranging with the Cut, Copy, and Paste tools
+  - Working in Full Screen mode
+- [**4. Formatting Typed Notes and Lists**](#4-formatting-typed-notes-and-lists) (5 videos)
+  - Apply the look of other content to text
+  - Format notes with bullets and tables
+  - Create a to-do list
+  - Set the default paste option
+  - Add space for additional notes
+- [**5. Creating Audio, Handwritten, and Other Types of Notes**](#5-creating-audio-handwritten-and-other-types-of-notes) (5 videos)
+  - Copy and paste a link to a paragraph
+  - Add meeting details
+  - Take notes with dictation
+  - Handwrite notes on a ruled page
+  - Take quick notes
+- [**6. Importing Content from Other Apps**](#6-importing-content-from-other-apps) (2 videos)
+  - Embed videos
+  - Insert a document
+- [**7. Managing and Searching Notebooks**](#7-managing-and-searching-notebooks) (5 videos)
+  - Tag notes
+  - Search for notes
+  - View who authored a note
+  - Print notes
+  - Replay notes
+- [**Conclusion**](#conclusion) (2 videos)
+  - Keyboard shortcuts and resources
+  - Expand your note-taking skills
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay organized with OneNote
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/stay-organized-with-onenote?u=76281980)
@@ -172,7 +207,7 @@ created: 2026-04-29
 
 ### 1. Set Up and Organize Your Notebooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a notebook stored in OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-notebook-stored-in-onedrive?u=76281980)
@@ -531,7 +566,7 @@ created: 2026-04-29
 
 ### 2. Working with Sections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a section
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-a-section?u=76281980)
@@ -827,7 +862,7 @@ created: 2026-04-29
 
 ### 3. Working with Pages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create, move, and delete a page
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/create-move-and-delete-a-page?u=76281980)
@@ -1094,7 +1129,7 @@ created: 2026-04-29
 
 ### 4. Formatting Typed Notes and Lists
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the look of other content to text
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/apply-the-look-of-other-content-to-text?u=76281980)
@@ -1473,7 +1508,7 @@ created: 2026-04-29
 
 ### 5. Creating Audio, Handwritten, and Other Types of Notes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Copy and paste a link to a paragraph
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/copy-and-paste-a-link-to-a-paragraph?u=76281980)
@@ -1954,7 +1989,7 @@ created: 2026-04-29
 
 ### 6. Importing Content from Other Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embed videos
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/embed-videos?u=76281980)
@@ -2101,7 +2136,7 @@ created: 2026-04-29
 
 ### 7. Managing and Searching Notebooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tag notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/tag-notes?u=76281980)
@@ -2349,7 +2384,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keyboard shortcuts and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/onenote-for-windows-10-essential-training-2022/keyboard-shortcuts-and-resources?u=76281980)

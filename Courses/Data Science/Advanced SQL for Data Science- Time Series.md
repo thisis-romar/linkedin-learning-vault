@@ -50,18 +50,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Time Series Data]]** (4 videos)
-- **[[#2. Installing Database and Tools]]** (4 videos)
-- **[[#3. Querying Time Series Data]]** (5 videos)
-- **[[#4. Modeling Time Series Data]]** (7 videos)
-- **[[#5. Commonly Used Functions for Time Series]]** (4 videos)
-- **[[#6. Time Series Analysis]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn time series data analysis with SQL
+  - What you should know
+- [**1. Introduction to Time Series Data**](#1-introduction-to-time-series-data) (4 videos)
+  - Characteristics of time series data
+  - Examples of time series data
+  - Writing time series data
+  - Querying time series data
+- [**2. Installing Database and Tools**](#2-installing-database-and-tools) (4 videos)
+  - Installing PostgreSQL
+  - Creating schema and tables
+  - Timing a query
+  - Evaluating query performance with EXPLAIN
+- [**3. Querying Time Series Data**](#3-querying-time-series-data) (5 videos)
+  - Time window queries and aggregates
+  - Sliding windows
+  - Tumbling windows
+  - Joining two time series
+  - Denormalizing time series data
+- [**4. Modeling Time Series Data**](#4-modeling-time-series-data) (7 videos)
+  - Example data set 1: Temperature by time and location
+  - Indexing data set 1: Time index only
+  - Indexing data set 1: Time and location index
+  - Creating a partitioned table
+  - Querying a partitioned table
+  - Example data set 2: CPU utilization and application type
+  - Indexing data set 2: Time and type Indexing
+- [**5. Commonly Used Functions for Time Series**](#5-commonly-used-functions-for-time-series) (4 videos)
+  - Lead
+  - Lag
+  - Rank
+  - Percent rank
+- [**6. Time Series Analysis**](#6-time-series-analysis) (7 videos)
+  - Common Table Expressions and recursion
+  - Calculating aggregates over windows
+  - Previous day comparison
+  - Moving averages
+  - Weighted moving averages
+  - Forecasting with linear regression
+  - Exponential moving average
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn time series data analysis with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/learn-time-series-data-analysis-with-sql-23478409?u=76281980)
@@ -109,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Time Series Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of time series data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/characteristics-of-time-series-data-23475522?u=76281980)
@@ -345,7 +379,7 @@ created: 2026-04-29
 
 ### 2. Installing Database and Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing PostgreSQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/installing-postgresql?u=76281980)
@@ -574,7 +608,7 @@ created: 2026-04-29
 
 ### 3. Querying Time Series Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Time window queries and aggregates
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/time-window-queries-and-aggregates?u=76281980)
@@ -821,7 +855,7 @@ created: 2026-04-29
 
 ### 4. Modeling Time Series Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Example data set 1: Temperature by time and location
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/example-data-set-1-temperature-by-time-and-location?u=76281980)
@@ -1393,7 +1427,7 @@ created: 2026-04-29
 
 ### 5. Commonly Used Functions for Time Series
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/lead?u=76281980)
@@ -1501,7 +1535,7 @@ created: 2026-04-29
 
 ### 6. Time Series Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common Table Expressions and recursion
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/common-table-expressions-and-recursion?u=76281980)
@@ -1991,7 +2025,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/next-steps?u=76281980)

@@ -48,16 +48,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Core Python Essentials]]** (4 videos)
-- **[[#2. NumPy and SciPy Fundamentals]]** (7 videos)
-- **[[#3. pandas for Data Manipulation]]** (6 videos)
-- **[[#4. Visualization Essentials]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Use Python like a data scientist
+  - Getting started with Python
+- [**1. Core Python Essentials**](#1-core-python-essentials) (4 videos)
+  - Inspect data for validation
+  - Handle magnitudes and precision in data
+  - Aggregate data with basic functions
+  - Sort, filter, and transform your data
+- [**2. NumPy and SciPy Fundamentals**](#2-numpy-and-scipy-fundamentals) (7 videos)
+  - Create NumPy arrays in Python
+  - Index and slice NumPy arrays
+  - Reshape NumPy arrays
+  - Transform and scale NumPy arrays
+  - Extract key values with NumPy
+  - Solve matrix-based problems with SciPy
+  - Run statistical functions with SciPy
+- [**3. pandas for Data Manipulation**](#3-pandas-for-data-manipulation) (6 videos)
+  - Create pandas series and dataframes
+  - Extract data subsets from pandas objects
+  - Modify pandas objects
+  - Combine data from pandas objects
+  - Group data from pandas objects
+  - Transform data with pandas apply()
+- [**4. Visualization Essentials**](#4-visualization-essentials) (5 videos)
+  - Create line and scatter plots
+  - Display categorical distributions
+  - Explore numerical distributions
+  - Visualize pairwise relationships
+  - Organize your visualizations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Apply functions to data science
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Python like a data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/use-python-like-a-data-scientist?u=76281980)
@@ -133,7 +158,7 @@ created: 2026-04-29
 
 ### 1. Core Python Essentials
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inspect data for validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/inspect-data-for-validation?u=76281980)
@@ -452,7 +477,7 @@ created: 2026-04-29
 
 ### 2. NumPy and SciPy Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create NumPy arrays in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-numpy-arrays-in-python?u=76281980)
@@ -963,7 +988,7 @@ created: 2026-04-29
 
 ### 3. pandas for Data Manipulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create pandas series and dataframes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-pandas-series-and-dataframes?u=76281980)
@@ -1621,7 +1646,7 @@ created: 2026-04-29
 
 ### 4. Visualization Essentials
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create line and scatter plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/create-line-and-scatter-plots?u=76281980)
@@ -2145,7 +2170,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply functions to data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-functions-for-data-science-28584261/apply-functions-to-data-science?u=76281980)

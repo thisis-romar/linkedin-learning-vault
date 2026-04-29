@@ -50,17 +50,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Preparation]]** (4 videos)
-- **[[#2. PyTorch Basics]]** (5 videos)
-- **[[#3. Torchvision]]** (2 videos)
-- **[[#4. Torchaudio]]** (2 videos)
-- **[[#5. Torchtext]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Explore the capabilities of PyTorch
+- [**1. Preparation**](#1-preparation) (4 videos)
+  - PyTorch overview
+  - PyTorch environment setup
+  - PyTorch use case description
+  - PyTorch data exploration
+- [**2. PyTorch Basics**](#2-pytorch-basics) (5 videos)
+  - Understand PyTorch tensors
+  - Understand PyTorch basic operations
+  - Understand PyTorch NumPy Bridge
+  - Understand PyTorch autograd
+  - Advanced PyTorch autograd
+- [**3. Torchvision**](#3-torchvision) (2 videos)
+  - Torchvision introduction
+  - Torchvision for video and image understanding
+- [**4. Torchaudio**](#4-torchaudio) (2 videos)
+  - Torchaudio introduction
+  - Torchaudio for audio understanding
+- [**5. Torchtext**](#5-torchtext) (2 videos)
+  - Torchtext introduction
+  - Torchtext for translation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your PyTorch learning process
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the capabilities of PyTorch
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/explore-the-capabilities-of-pytorch?u=76281980)
@@ -89,7 +106,7 @@ created: 2026-04-29
 
 ### 1. Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PyTorch overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/pytorch-overview?u=76281980)
@@ -403,7 +420,7 @@ created: 2026-04-29
 
 ### 2. PyTorch Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand PyTorch tensors
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/understand-pytorch-tensors?u=76281980)
@@ -724,7 +741,7 @@ created: 2026-04-29
 
 ### 3. Torchvision
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Torchvision introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchvision-introduction?u=76281980)
@@ -895,7 +912,7 @@ created: 2026-04-29
 
 ### 4. Torchaudio
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Torchaudio introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchaudio-introduction?u=76281980)
@@ -1049,7 +1066,7 @@ created: 2026-04-29
 
 ### 5. Torchtext
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Torchtext introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/torchtext-introduction?u=76281980)
@@ -1209,7 +1226,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your PyTorch learning process
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-pytorch-machine-learning/continuing-your-pytorch-learning-process?u=76281980)

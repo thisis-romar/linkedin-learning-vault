@@ -48,17 +48,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Project Setup and Backend]]** (4 videos)
-- **[[#2. Redux and Main Views]]** (7 videos)
-- **[[#3. Complex Component]]** (4 videos)
-- **[[#4. CRUD Operations]]** (6 videos)
-- **[[#5. Company View and Final Touches]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - CRM application with React Native
+  - Course prerequisites
+- [**1. Project Setup and Backend**](#1-project-setup-and-backend) (4 videos)
+  - Initialize React Native project
+  - Project folder structure
+  - Explore material kit and vector icons
+  - Node and express backend setup
+- [**2. Redux and Main Views**](#2-redux-and-main-views) (7 videos)
+  - Get started with Redux
+  - React Native actions
+  - Create tab menu
+  - Tab navigation
+  - Create the people list view
+  - Code the people item view
+  - Add new components
+- [**3. Complex Component**](#3-complex-component) (4 videos)
+  - Setting up Redux for a detail view
+  - CSS details
+  - Coding the scroll on the detail view
+  - Finalize detail view
+- [**4. CRUD Operations**](#4-crud-operations) (6 videos)
+  - Create a new add person form
+  - Functions for add person action
+  - Update person Redux reducer
+  - Update person view
+  - Connect your list view to backend
+  - Testing and debugging Redux for editing
+- [**5. Company View and Final Touches**](#5-company-view-and-final-touches) (2 videos)
+  - Code the company list query
+  - Create company item and list view
+- [**Conclusion**](#conclusion) (1 videos)
+  - Building your own CRM application with React Native
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CRM application with React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/crm-application-with-react-native?u=76281980)
@@ -114,7 +140,7 @@ created: 2026-04-29
 
 ### 1. Project Setup and Backend
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Initialize React Native project
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980)
@@ -573,7 +599,7 @@ created: 2026-04-29
 
 ### 2. Redux and Main Views
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with Redux
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/get-started-with-redux?u=76281980)
@@ -1677,7 +1703,7 @@ created: 2026-04-29
 
 ### 3. Complex Component
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Redux for a detail view
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980)
@@ -2332,7 +2358,7 @@ created: 2026-04-29
 
 ### 4. CRUD Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new add person form
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980)
@@ -3234,7 +3260,7 @@ created: 2026-04-29
 
 ### 5. Company View and Final Touches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Code the company list query
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980)
@@ -3546,7 +3572,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your own CRM application with React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/building-your-own-crm-application-with-react-native?u=76281980)

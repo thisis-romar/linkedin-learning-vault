@@ -54,19 +54,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introducing Apache Airflow]]** (4 videos)
-- **[[#2. Running Workflows on Airflow]]** (4 videos)
-- **[[#3. Defining Tasks and Dependencies]]** (3 videos)
-- **[[#4. Using the Python Operator and XCom]]** (7 videos)
-- **[[#5. Using the SQLite Operator for SQL Operations]]** (4 videos)
-- **[[#6. Conditional Branching and TaskGroups]]** (3 videos)
-- **[[#7. Catch Up, Backfill, and CRON Expressions]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - An overview of Apache Airflow
+- [**1. Introducing Apache Airflow**](#1-introducing-apache-airflow) (4 videos)
+  - Apache Airflow concepts and architecture
+  - Initial setup: macOS and Windows
+  - Understanding Airflow configuration
+  - Running Airflow
+- [**2. Running Workflows on Airflow**](#2-running-workflows-on-airflow) (4 videos)
+  - Navigating and exploring the Airflow UI
+  - Creating your first DAG
+  - Running your first DAG
+  - Creating a DAG using the with keyword
+- [**3. Defining Tasks and Dependencies**](#3-defining-tasks-and-dependencies) (3 videos)
+  - Specifying task dependencies
+  - Using the Bitshift operators for dependency specification
+  - Using bash scripts in the DAG
+- [**4. Using the Python Operator and XCom**](#4-using-the-python-operator-and-xcom) (7 videos)
+  - Introducing the Python operator
+  - Python operators and dependencies
+  - Passing parameters to Python callables
+  - Introducing XCom
+  - Using XCom to pass values
+  - Implementing a data transformation DAG pipeline, part 1
+  - Implementing a data transformation DAG pipeline, part 2
+- [**5. Using the SQLite Operator for SQL Operations**](#5-using-the-sqlite-operator-for-sql-operations) (4 videos)
+  - Setting up the SQLite DB and connection
+  - Introducing the SQLite operator
+  - Implementing a SQL-based DAG pipeline, part 1
+  - Implementing a SQL-based DAG pipeline, part 2
+- [**6. Conditional Branching and TaskGroups**](#6-conditional-branching-and-taskgroups) (3 videos)
+  - Introducing branching
+  - Conditional branching with variables
+  - Task groups and edge labels
+- [**7. Catch Up, Backfill, and CRON Expressions**](#7-catch-up-backfill-and-cron-expressions) (2 videos)
+  - Catch up with all previously scheduled runs
+  - Backfill scheduled runs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of Apache Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/an-overview-of-apache-airflow?u=76281980)
@@ -180,7 +209,7 @@ created: 2026-04-29
 
 ### 1. Introducing Apache Airflow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apache Airflow concepts and architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/apache-airflow-concepts-and-architecture?u=76281980)
@@ -702,7 +731,7 @@ created: 2026-04-29
 
 ### 2. Running Workflows on Airflow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating and exploring the Airflow UI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/navigating-and-exploring-the-airflow-ui?u=76281980)
@@ -1247,7 +1276,7 @@ created: 2026-04-29
 
 ### 3. Defining Tasks and Dependencies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Specifying task dependencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/specifying-task-dependencies?u=76281980)
@@ -1608,7 +1637,7 @@ created: 2026-04-29
 
 ### 4. Using the Python Operator and XCom
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the Python operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-the-python-operator?u=76281980)
@@ -2379,7 +2408,7 @@ created: 2026-04-29
 
 ### 5. Using the SQLite Operator for SQL Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the SQLite DB and connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/setting-up-the-sqlite-db-and-connection?u=76281980)
@@ -2716,7 +2745,7 @@ created: 2026-04-29
 
 ### 6. Conditional Branching and TaskGroups
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing branching
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/introducing-branching?u=76281980)
@@ -3166,7 +3195,7 @@ created: 2026-04-29
 
 ### 7. Catch Up, Backfill, and CRON Expressions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Catch up with all previously scheduled runs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/catch-up-with-all-previously-scheduled-runs?u=76281980)
@@ -3425,7 +3454,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-apache-airflow/summary-and-next-steps?u=76281980)

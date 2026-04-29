@@ -46,13 +46,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Users Explained]]** (5 videos)
-- **[[#2. Themes Explained]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to the course
+- [**1. Users Explained**](#1-users-explained) (5 videos)
+  - Introduction and the user workflow
+  - Adding a user role and permissions
+  - Adding a user account and testing
+  - User registration and fields
+  - Creating content workflows
+- [**2. Themes Explained**](#2-themes-explained) (2 videos)
+  - Themes explained
+  - Installing and configuring Breeze
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-to-the-course?u=76281980)
@@ -90,7 +98,7 @@ created: 2026-04-29
 
 ### 1. Users Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and the user workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/introduction-and-the-user-workflow?u=76281980)
@@ -650,7 +658,7 @@ created: 2026-04-29
 
 ### 2. Themes Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Themes explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-4-users-and-themes/themes-explained?u=76281980)

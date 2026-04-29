@@ -57,16 +57,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Overview]]** (6 videos)
-- **[[#2. Adding Tests to Existing Code with Copilot]]** (4 videos)
-- **[[#3. Use Copilot to Generate Code from Tests]]** (3 videos)
-- **[[#4. Real-World Benefits]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Software testing assistance with GitHub Copilot AI
+  - What you should know
+  - Using the exercise files
+- [**1. Overview**](#1-overview) (6 videos)
+  - What is GitHub Copilot?
+  - Copilot for code completion
+  - Chatting with Copilot
+  - Automated testing explained
+  - Configuring a test suite
+  - AI and automated testing
+- [**2. Adding Tests to Existing Code with Copilot**](#2-adding-tests-to-existing-code-with-copilot) (4 videos)
+  - Identifying testable code
+  - Generate your first tests
+  - Refactor with tests
+  - Use Copilot slash commands
+- [**3. Use Copilot to Generate Code from Tests**](#3-use-copilot-to-generate-code-from-tests) (3 videos)
+  - Write your tests to document business logic
+  - Generate code from tests
+  - Update functionality by writing more tests
+- [**4. Real-World Benefits**](#4-real-world-benefits) (3 videos)
+  - Code quality
+  - Running tests in CI/CD
+  - Limiting risk by limiting exposure
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Software testing assistance with GitHub Copilot AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/software-testing-assistance-with-github-copilot-ai?u=76281980)
@@ -149,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/what-is-github-copilot?u=76281980)
@@ -645,7 +665,7 @@ created: 2026-04-29
 
 ### 2. Adding Tests to Existing Code with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying testable code
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/identifying-testable-code?u=76281980)
@@ -1144,7 +1164,7 @@ created: 2026-04-29
 
 ### 3. Use Copilot to Generate Code from Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Write your tests to document business logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/write-your-tests-to-document-business-logic?u=76281980)
@@ -1474,7 +1494,7 @@ created: 2026-04-29
 
 ### 4. Real-World Benefits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Code quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/code-quality?u=76281980)
@@ -1783,7 +1803,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-assistance-with-github-copilot-ai/next-steps?u=76281980)

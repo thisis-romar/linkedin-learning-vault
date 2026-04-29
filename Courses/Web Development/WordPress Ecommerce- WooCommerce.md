@@ -46,23 +46,79 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (2 videos)
-- **[[#2. Setting Up Shop with WooCommerce]]** (3 videos)
-- **[[#3. Adding Products]]** (12 videos)
-- **[[#4. Customizing Your Theme]]** (7 videos)
-- **[[#5. Setting Up Shipping Options]]** (7 videos)
-- **[[#6. Setting Up Payment]]** (4 videos)
-- **[[#7. Setting Up Taxes]]** (4 videos)
-- **[[#8. Connecting to Services]]** (3 videos)
-- **[[#9. Managing Sales]]** (5 videos)
-- **[[#10. WooCommerce Settings]]** (5 videos)
-- **[[#11. Mobile Apps]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Sell anything with WooCommerce
+  - What to know ahead of time
+- [**1. Getting Started**](#1-getting-started) (2 videos)
+  - Why WooCommerce?
+  - Setting up WordPress for eCommerce
+- [**2. Setting Up Shop with WooCommerce**](#2-setting-up-shop-with-woocommerce) (3 videos)
+  - Downloading and installing WooCommerce
+  - Setting up through the welcome wizard
+  - Installing Jetpack via the welcome wizard
+- [**3. Adding Products**](#3-adding-products) (12 videos)
+  - Adding a new product
+  - Adding an image to a product
+  - Adding an image gallery
+  - Working with product data
+  - Adding categories and tags
+  - Creating product variations
+  - Creating global attributes
+  - Creating digital products
+  - Adding descriptions
+  - Grouping products and creating product bundles
+  - Creating a subscription product
+  - Importing products
+- [**4. Customizing Your Theme**](#4-customizing-your-theme) (7 videos)
+  - Installing Storefront
+  - Customizing theme colors
+  - Customizing the welcome page
+  - Customizing the shop page
+  - Configuring the sidebar
+  - Customizing the product page
+  - Customizing cart and checkout page
+- [**5. Setting Up Shipping Options**](#5-setting-up-shipping-options) (7 videos)
+  - Choosing shipping options
+  - Creating shipping zones
+  - Setting up flat rate shipping
+  - Setting up free shipping
+  - Setting up live rates
+  - Printing shipping labels
+  - Consolidating multichannel shipping
+- [**6. Setting Up Payment**](#6-setting-up-payment) (4 videos)
+  - Configuring payment options
+  - Setting up PayPal
+  - Setting up Stripe
+  - Configuring additional payment methods
+- [**7. Setting Up Taxes**](#7-setting-up-taxes) (4 videos)
+  - Configuring tax settings
+  - Adding tax rates
+  - Using additional tax rates
+  - Connecting your store to TaxJar
+- [**8. Connecting to Services**](#8-connecting-to-services) (3 videos)
+  - Installing Google Analytics
+  - Installing Mailchimp for WooCommerce
+  - Installing Facebook for WooCommerce
+- [**9. Managing Sales**](#9-managing-sales) (5 videos)
+  - Testing the customer experience
+  - Managing orders
+  - Managing refunds
+  - Managing reports
+  - Creating coupons
+- [**10. WooCommerce Settings**](#10-woocommerce-settings) (5 videos)
+  - General settings
+  - Product settings
+  - Checkout settings
+  - Email settings
+  - Integrating with 3rd party platforms
+- [**11. Mobile Apps**](#11-mobile-apps) (1 videos)
+  - Installing the WooCommerce mobile app
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sell anything with WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980)
@@ -127,7 +183,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why WooCommerce?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980)
@@ -301,7 +357,7 @@ created: 2026-04-29
 
 ### 2. Setting Up Shop with WooCommerce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Downloading and installing WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980)
@@ -626,7 +682,7 @@ created: 2026-04-29
 
 ### 3. Adding Products
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding a new product
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980)
@@ -1645,7 +1701,7 @@ created: 2026-04-29
 
 ### 4. Customizing Your Theme
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Storefront
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980)
@@ -2264,7 +2320,7 @@ created: 2026-04-29
 
 ### 5. Setting Up Shipping Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing shipping options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980)
@@ -2786,7 +2842,7 @@ created: 2026-04-29
 
 ### 6. Setting Up Payment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring payment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-payment-options?u=76281980)
@@ -3194,7 +3250,7 @@ created: 2026-04-29
 
 ### 7. Setting Up Taxes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring tax settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-tax-settings?u=76281980)
@@ -3454,7 +3510,7 @@ created: 2026-04-29
 
 ### 8. Connecting to Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Google Analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980)
@@ -3721,7 +3777,7 @@ created: 2026-04-29
 
 ### 9. Managing Sales
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing the customer experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980)
@@ -4101,7 +4157,7 @@ created: 2026-04-29
 
 ### 10. WooCommerce Settings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### General settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980)
@@ -4609,7 +4665,7 @@ created: 2026-04-29
 
 ### 11. Mobile Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing the WooCommerce mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980)
@@ -4699,7 +4755,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980)

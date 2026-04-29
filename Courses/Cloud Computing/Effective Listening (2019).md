@@ -47,15 +47,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Assessing Your Listening Skills]]** (7 videos)
-- **[[#2. Challenges to Listening]]** (5 videos)
-- **[[#3. Effective Listening Behaviors]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Improve your listening skills
+  - Getting the most out of the course
+- [**1. Assessing Your Listening Skills**](#1-assessing-your-listening-skills) (7 videos)
+  - Five skills for improved listening
+  - Recall details
+  - Understand the big picture
+  - Evaluate content
+  - Attune to subtle cues
+  - Listen with empathy
+  - When and how to listen
+- [**2. Challenges to Listening**](#2-challenges-to-listening) (5 videos)
+  - Getting distracted by internal noise
+  - Multitasking
+  - Paying attention to delivery
+  - Overwhelming yourself with information
+  - Responding inappropriately
+- [**3. Effective Listening Behaviors**](#3-effective-listening-behaviors) (7 videos)
+  - Effective listening behaviors
+  - Clarify your role
+  - Use nonverbal cues
+  - Allow silence
+  - Paraphrase what was said
+  - Match emotions
+  - Effective listening in action
+- [**Conclusion**](#conclusion) (1 videos)
+  - Setting listening goals
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your listening skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/improve-your-listening-skills?u=76281980)
@@ -140,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Assessing Your Listening Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Five skills for improved listening
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/five-skills-for-improved-listening?u=76281980)
@@ -709,7 +731,7 @@ created: 2026-04-29
 
 ### 2. Challenges to Listening
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting distracted by internal noise
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/getting-distracted-by-internal-noise-2?u=76281980)
@@ -1321,7 +1343,7 @@ created: 2026-04-29
 
 ### 3. Effective Listening Behaviors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Effective listening behaviors
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/effective-listening-behaviors?u=76281980)
@@ -1767,7 +1789,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting listening goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/effective-listening-2019/setting-listening-goals-2?u=76281980)

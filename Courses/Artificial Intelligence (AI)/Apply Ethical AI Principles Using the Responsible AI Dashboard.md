@@ -50,14 +50,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Foundations of Responsible AI]]** (5 videos)
-- **[[#2. Using the Responsible AI Dashboard]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Responsible AI dashboard
+  - What you should know
+- [**1. Foundations of Responsible AI**](#1-foundations-of-responsible-ai) (5 videos)
+  - What is responsible AI?
+  - Microsoft responsible AI principles
+  - Tools for responsible AI
+  - What is the responsible AI dashboard?
+  - Ways to use the responsible AI dashboard
+- [**2. Using the Responsible AI Dashboard**](#2-using-the-responsible-ai-dashboard) (8 videos)
+  - Creating the responsible AI dashboard
+  - Error analysis component
+  - Model overview and performance analysis component
+  - Data analysis component
+  - Feature importances component
+  - Counterfactuals component
+  - Causal analysis component
+  - Using the responsible AI dashboard in Azure ML Studio
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/responsible-ai-dashboard?u=76281980)
@@ -131,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is responsible AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/what-is-responsible-ai?u=76281980)
@@ -289,7 +305,7 @@ created: 2026-04-29
 
 ### 2. Using the Responsible AI Dashboard
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the responsible AI dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/creating-the-responsible-ai-dashboard?u=76281980)
@@ -841,7 +857,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/apply-ethical-ai-principles-using-the-responsible-ai-dashboard/next-steps?u=76281980)

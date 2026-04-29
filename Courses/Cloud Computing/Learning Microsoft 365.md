@@ -46,16 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. About Microsoft 365]]** (3 videos)
-- **[[#2. Get Started with Microsoft 365]]** (5 videos)
-- **[[#3. Share and Collaborate]]** (4 videos)
-- **[[#4. Connect with Colleagues]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Increase your productivity with Microsoft 365
+  - What to know before starting this course
+- [**1. About Microsoft 365**](#1-about-microsoft-365) (3 videos)
+  - What is Microsoft 365?
+  - Choose the right plan
+  - System requirements
+- [**2. Get Started with Microsoft 365**](#2-get-started-with-microsoft-365) (5 videos)
+  - Sign in to Microsoft 365
+  - Set up your profile
+  - Install the client apps
+  - Navigate from app to app
+  - Storing files with OneDrive
+- [**3. Share and Collaborate**](#3-share-and-collaborate) (4 videos)
+  - Add and share files on OneDrive
+  - Use SharePoint to share information
+  - Collaborate with desktop apps in Microsoft 365
+  - Consider Copilot for Microsoft 365
+- [**4. Connect with Colleagues**](#4-connect-with-colleagues) (4 videos)
+  - Join or create a team in Microsoft Teams
+  - Schedule a meeting with team members
+  - Share files with team members
+  - Chat with team members
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to learn more
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Increase your productivity with Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980)
@@ -123,7 +142,7 @@ created: 2026-04-29
 
 ### 1. About Microsoft 365
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980)
@@ -339,7 +358,7 @@ created: 2026-04-29
 
 ### 2. Get Started with Microsoft 365
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign in to Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980)
@@ -961,7 +980,7 @@ created: 2026-04-29
 
 ### 3. Share and Collaborate
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add and share files on OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980)
@@ -1452,7 +1471,7 @@ created: 2026-04-29
 
 ### 4. Connect with Colleagues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Join or create a team in Microsoft Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980)
@@ -1912,7 +1931,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980)

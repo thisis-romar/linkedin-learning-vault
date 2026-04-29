@@ -50,19 +50,71 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (5 videos)
-- **[[#2. Variables and Types]]** (6 videos)
-- **[[#3. Objects, Arrays, and More]]** (9 videos)
-- **[[#4. Operators and Control Structures]]** (8 videos)
-- **[[#5. Iterating with Loops]]** (4 videos)
-- **[[#6. Functions]]** (10 videos)
-- **[[#7. A Few More Advanced Pieces]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Become conversant in JavaScript
+  - What you should know
+  - Exercise files and Codespaces
+- [**1. Getting Started**](#1-getting-started) (5 videos)
+  - Syntax: Learning to read and write
+  - Versions of JavaScript
+  - Places to tinker
+  - Your friend the text editor
+  - Additional helpful resources
+- [**2. Variables and Types**](#2-variables-and-types) (6 videos)
+  - Declaring and assigning variables
+  - Strings
+  - String properties and methods
+  - Numbers
+  - Booleans for what is true
+  - Variable mutability
+- [**3. Objects, Arrays, and More**](#3-objects-arrays-and-more) (9 videos)
+  - Objects
+  - Using objects for data modeling
+  - Manipulating objects
+  - Jargon: References
+  - Arrays
+  - Manipulating arrays
+  - Readability: Whitespace
+  - Readability: Comments
+  - Regular expressions
+- [**4. Operators and Control Structures**](#4-operators-and-control-structures) (8 videos)
+  - Simple comparisons
+  - Arithmetic operators
+  - Logical operators
+  - Conditionals: If
+  - Conditionals: Switch
+  - Terse ifs: One-liners
+  - Terse ifs: Ternaries
+  - Type checking
+- [**5. Iterating with Loops**](#5-iterating-with-loops) (4 videos)
+  - For loops: Sequential
+  - For loops: Enumerative
+  - Set and Map: Newer loopable data types
+  - While loops
+- [**6. Functions**](#6-functions) (10 videos)
+  - Basic functions
+  - Arguments and parameters in functions
+  - More on function arguments
+  - Objects, references, and functions
+  - Functions are objects
+  - Jargon: Scope in JavaScript
+  - Functions and scope
+  - Writing shorter functions with arrows
+  - Three little dots collect the rest
+  - Callback functions and looping
+- [**7. A Few More Advanced Pieces**](#7-a-few-more-advanced-pieces) (6 videos)
+  - Asynchronous code: Waiting is the hardest part
+  - Promises, async, and await
+  - Object-oriented JavaScript: Prototypes and classes
+  - Jargon: Strong vs. loosely typed
+  - Modern JavaScript tooling
+  - Responsible JavaScript
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your JavaScript development journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Become conversant in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/become-conversant-in-javascript?u=76281980)
@@ -200,7 +252,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Syntax: Learning to read and write
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/syntax-learning-to-read-and-write?u=76281980)
@@ -563,7 +615,7 @@ created: 2026-04-29
 
 ### 2. Variables and Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Declaring and assigning variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/declaring-and-assigning-variables?u=76281980)
@@ -1165,7 +1217,7 @@ created: 2026-04-29
 
 ### 3. Objects, Arrays, and More
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/objects?u=76281980)
@@ -2148,7 +2200,7 @@ created: 2026-04-29
 
 ### 4. Operators and Control Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/simple-comparisons?u=76281980)
@@ -3332,7 +3384,7 @@ created: 2026-04-29
 
 ### 5. Iterating with Loops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### For loops: Sequential
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/for-loops-sequential?u=76281980)
@@ -4072,7 +4124,7 @@ created: 2026-04-29
 
 ### 6. Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/basic-functions?u=76281980)
@@ -5132,7 +5184,7 @@ created: 2026-04-29
 
 ### 7. A Few More Advanced Pieces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Asynchronous code: Waiting is the hardest part
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/asynchronous-code-waiting-is-the-hardest-part?u=76281980)
@@ -5543,7 +5595,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your JavaScript development journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-javascript-language-22309208/continue-your-javascript-development-journey?u=76281980)

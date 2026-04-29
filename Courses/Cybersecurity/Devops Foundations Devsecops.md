@@ -45,15 +45,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. DevOps Basics]]** (4 videos)
-- **[[#2. Getting Started with DevSecOps]]** (11 videos)
-- **[[#3. Starting Your DevSecOps Journey]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to the DevSecOps course
+  - What you should know
+- [**1. DevOps Basics**](#1-devops-basics) (4 videos)
+  - What is DevOps?
+  - Security is different in a DevOps world
+  - Introduction to DevSecOps
+  - Shifting security to the left
+- [**2. Getting Started with DevSecOps**](#2-getting-started-with-devsecops) (11 videos)
+  - Cloud and DevOps
+  - APIs are essential
+  - Finding the right toolset
+  - Continuous integration and delivery
+  - Containers and DevOps
+  - Securing infrastructure as code in the pipeline
+  - Security as code
+  - Application security in DevSecOps
+  - Leverage your existing processes
+  - The Ops in DevSecOps
+  - Continuous improvement and feedback
+- [**3. Starting Your DevSecOps Journey**](#3-starting-your-devsecops-journey) (3 videos)
+  - Open source DevSecOps tools
+  - Helpful DevSecOps resources
+  - Real-life example
+- [**Conclusion**](#conclusion) (1 videos)
+  - Grow and expand
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the DevSecOps course
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980)
@@ -104,7 +125,7 @@ created: 2026-04-29
 
 ### 1. DevOps Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980)
@@ -532,7 +553,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with DevSecOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud and DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980)
@@ -1520,7 +1541,7 @@ created: 2026-04-29
 
 ### 3. Starting Your DevSecOps Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Open source DevSecOps tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980)
@@ -1763,7 +1784,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Grow and expand
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980)

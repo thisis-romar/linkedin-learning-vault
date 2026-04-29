@@ -47,20 +47,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Are Custom Post Types and Taxonomies?]]** (3 videos)
-- **[[#2. Creating Custom Post Types without Code]]** (5 videos)
-- **[[#3. Creating Custom Taxonomies without Code]]** (4 videos)
-- **[[#4. Coding Your Own Custom Post Types]]** (9 videos)
-- **[[#5. Coding Your Own Custom Taxonomies]]** (6 videos)
-- **[[#6. Creating Custom Post Type Templates]]** (7 videos)
-- **[[#7. Custom Post Types and Taxonomies in Other Templates]]** (5 videos)
-- **[[#8. Moving Your Post Types to Your Theme]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Create better content
+  - What you should know
+  - Demo project overview
+- [**1. What Are Custom Post Types and Taxonomies?**](#1-what-are-custom-post-types-and-taxonomies) (3 videos)
+  - What are custom post types?
+  - What are custom taxonomies?
+  - Where does the code belong?
+- [**2. Creating Custom Post Types without Code**](#2-creating-custom-post-types-without-code) (5 videos)
+  - The no-code solution
+  - Creating custom post types
+  - Creating custom post type labels
+  - Custom post type capability settings
+  - Displaying your post type on the front end
+- [**3. Creating Custom Taxonomies without Code**](#3-creating-custom-taxonomies-without-code) (4 videos)
+  - Creating custom taxonomies
+  - Creating custom taxonomy labels
+  - Customizing the taxonomies' settings
+  - Importing and exporting your data
+- [**4. Coding Your Own Custom Post Types**](#4-coding-your-own-custom-post-types) (9 videos)
+  - Creating your plugin
+  - Building a basic custom post type
+  - Customizing your post type labels
+  - Customizing your post type settings
+  - Activating the REST API on your post type
+  - Creating a post with your post type
+  - Challenge: Create an events post type
+  - Solution: Create an events post type
+  - Extending post types with custom fields
+- [**5. Coding Your Own Custom Taxonomies**](#5-coding-your-own-custom-taxonomies) (6 videos)
+  - Building a basic custom taxonomy
+  - Creating an advanced custom taxonomy
+  - Activating the REST API for your taxonomy
+  - Adding taxonomy terms to your post types
+  - Challenge: Make location taxonomy
+  - Solution: Make location taxonomy
+- [**6. Creating Custom Post Type Templates**](#6-creating-custom-post-type-templates) (7 videos)
+  - The WordPress template hierarchy
+  - Setting up your child theme
+  - Creating a single custom post template
+  - Modifying the single template header
+  - Creating a custom post archive template
+  - Adding a custom taxonomy to a template
+  - Creating a custom taxonomy template
+- [**7. Custom Post Types and Taxonomies in Other Templates**](#7-custom-post-types-and-taxonomies-in-other-templates) (5 videos)
+  - Custom post types on the front page
+  - Organizing your child theme
+  - Creating a custom loop for post types
+  - Displaying the custom loop
+  - Styling your custom loop
+- [**8. Moving Your Post Types to Your Theme**](#8-moving-your-post-types-to-your-theme) (3 videos)
+  - Warning: Custom post types in themes
+  - Adding custom post types to themes
+  - Automatically flushing rewrite riles
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create better content
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/create-better-content?u=76281980)
@@ -174,7 +220,7 @@ created: 2026-04-29
 
 ### 1. What Are Custom Post Types and Taxonomies?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are custom post types?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/what-are-custom-post-types?u=76281980)
@@ -354,7 +400,7 @@ created: 2026-04-29
 
 ### 2. Creating Custom Post Types without Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The no-code solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-no-code-solution?u=76281980)
@@ -636,7 +682,7 @@ created: 2026-04-29
 
 ### 3. Creating Custom Taxonomies without Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating custom taxonomies
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-custom-taxonomies?u=76281980)
@@ -858,7 +904,7 @@ created: 2026-04-29
 
 ### 4. Coding Your Own Custom Post Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/creating-your-plugin?u=76281980)
@@ -1406,7 +1452,7 @@ created: 2026-04-29
 
 ### 5. Coding Your Own Custom Taxonomies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a basic custom taxonomy
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/building-a-basic-custom-taxonomy?u=76281980)
@@ -1725,7 +1771,7 @@ created: 2026-04-29
 
 ### 6. Creating Custom Post Type Templates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The WordPress template hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/the-wordpress-template-hierarchy?u=76281980)
@@ -2267,7 +2313,7 @@ created: 2026-04-29
 
 ### 7. Custom Post Types and Taxonomies in Other Templates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom post types on the front page
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/custom-post-types-on-the-front-page?u=76281980)
@@ -2628,7 +2674,7 @@ created: 2026-04-29
 
 ### 8. Moving Your Post Types to Your Theme
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Warning: Custom post types in themes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/warning-custom-post-types-in-themes?u=76281980)
@@ -2836,7 +2882,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-custom-post-types-and-taxonomies-3/next-steps?u=76281980)

@@ -50,16 +50,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Data Definition Language Review]]** (3 videos)
-- **[[#2. Data Query Language Review and Logical Operators]]** (5 videos)
-- **[[#3. Data Manipulation Language Review]]** (2 videos)
-- **[[#4. Transaction Control Language]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Build confidence for your SQL interview
+  - Common SQL terminology
+  - What an SQL interview is like
+- [**1. Data Definition Language Review**](#1-data-definition-language-review) (3 videos)
+  - Create and seed a table with data
+  - Modify existing tables with ALTER
+  - Working with the TRUNCATE and DROP command
+- [**2. Data Query Language Review and Logical Operators**](#2-data-query-language-review-and-logical-operators) (5 videos)
+  - Querying the table with logical operator LIKE
+  - Querying the table with logical operators IN and BETWEEN
+  - Working with the COALESCE command
+  - Challenge: End of year raises with COALESCE
+  - Solution: End of year raises with COALESCE
+- [**3. Data Manipulation Language Review**](#3-data-manipulation-language-review) (2 videos)
+  - Update the table with UPDATE or ALTER
+  - Delete data using transactions
+- [**4. Transaction Control Language**](#4-transaction-control-language) (1 videos)
+  - Creating savepoints and commits in SQL
+- [**Conclusion**](#conclusion) (1 videos)
+  - Be prepared for your interview
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build confidence for your SQL interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/build-confidence-for-your-sql-interview?u=76281980)
@@ -415,7 +430,7 @@ created: 2026-04-29
 
 ### 1. Data Definition Language Review
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and seed a table with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/create-and-seed-a-table-with-data?u=76281980)
@@ -774,7 +789,7 @@ created: 2026-04-29
 
 ### 2. Data Query Language Review and Logical Operators
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying the table with logical operator LIKE
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/querying-the-table-with-logical-operator-like?u=76281980)
@@ -1260,7 +1275,7 @@ created: 2026-04-29
 
 ### 3. Data Manipulation Language Review
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Update the table with UPDATE or ALTER
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/update-the-table-with-update-or-alter?u=76281980)
@@ -1492,7 +1507,7 @@ created: 2026-04-29
 
 ### 4. Transaction Control Language
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating savepoints and commits in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/creating-savepoints-and-commits-in-sql?u=76281980)
@@ -1582,7 +1597,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be prepared for your interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-sql-interview/be-prepared-for-your-interview?u=76281980)

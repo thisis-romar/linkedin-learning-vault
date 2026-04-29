@@ -53,17 +53,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Overview: The Need of an AI Risk Management Framework]]** (2 videos)
-- **[[#2. Sections 1-2: Foundational Information – Framing Risk]]** (4 videos)
-- **[[#3. Sections 3-4: AI Risks, Trustworthiness, and Effectiveness]]** (5 videos)
-- **[[#4. Section 5: Core]]** (10 videos)
-- **[[#5. Section 6, Appendix A–D: AI RMF Profiles]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Implement the NIST risk management framework
+- [**1. Overview: The Need of an AI Risk Management Framework**](#1-overview-the-need-of-an-ai-risk-management-framework) (2 videos)
+  - Why the need for an AI RMF
+  - The origin and overview of NIST AI RMF
+- [**2. Sections 1-2: Foundational Information – Framing Risk**](#2-sections-1-2-foundational-information-framing-risk) (4 videos)
+  - Understanding and addressing risks, impacts, and harms: Sections 1.1
+  - Challenges, measurement, and tolerance: Sections 1.2-1.2.2
+  - Prioritization and integration: Sections 1.2.3-1.2.4
+  - Audience: Section 2
+- [**3. Sections 3-4: AI Risks, Trustworthiness, and Effectiveness**](#3-sections-3-4-ai-risks-trustworthiness-and-effectiveness) (5 videos)
+  - Trustworthiness, valid, and reliable: Sections 3–3.1
+  - Safe, secure, resilient, accountable, and transparent: Sections 3.2–3.4
+  - Explainable, interpretable, and privacy: Sections 3.5–3.6
+  - Fair, with harmful bias managed: Section 3.7
+  - Effectiveness: Section 4
+- [**4. Section 5: Core**](#4-section-5-core) (10 videos)
+  - AI RMF Core: Section 5
+  - Govern: Section 5.1, C1
+  - Govern: Section 5.1, C2–3
+  - Govern: Section 5.1, C4–6
+  - Map: Section 5.2, C1
+  - Map: Section 5.2, C2–5
+  - Measure: Section 5.3, C1
+  - Measure: Section 5.3, C2–4
+  - Manage: Section 5.4
+  - Using the Playbook to operationalize AI RMF Core
+- [**5. Section 6, Appendix A–D: AI RMF Profiles**](#5-section-6-appendix-ad-ai-rmf-profiles) (2 videos)
+  - Overview of profiles: Section 6
+  - Overview of Appendices A–D
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where do you begin?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement the NIST risk management framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/implement-the-nist-risk-managment-framework?u=76281980)
@@ -93,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Overview: The Need of an AI Risk Management Framework
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why the need for an AI RMF
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/why-the-need-for-an-ai-rmf?u=76281980)
@@ -223,7 +248,7 @@ created: 2026-04-29
 
 ### 2. Sections 1-2: Foundational Information – Framing Risk
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding and addressing risks, impacts, and harms: Sections 1.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/understanding-and-addressing-risks-impacts-and-harms-sections-1-1?u=76281980)
@@ -486,7 +511,7 @@ created: 2026-04-29
 
 ### 3. Sections 3-4: AI Risks, Trustworthiness, and Effectiveness
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Trustworthiness, valid, and reliable: Sections 3–3.1
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/trustworthiness-valid-and-reliable-sections-3-3-1?u=76281980)
@@ -779,7 +804,7 @@ created: 2026-04-29
 
 ### 4. Section 5: Core
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI RMF Core: Section 5
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/ai-rmf-core-section-5?u=76281980)
@@ -1458,7 +1483,7 @@ created: 2026-04-29
 
 ### 5. Section 6, Appendix A–D: AI RMF Profiles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of profiles: Section 6
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/overview-of-profiles-section-6?u=76281980)
@@ -1572,7 +1597,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where do you begin?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-and-implementing-the-nist-ai-risk-management-framework-rmf/where-do-you-begin?u=76281980)

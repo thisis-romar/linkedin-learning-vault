@@ -62,15 +62,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Effective Problem Definition]]** (4 videos)
-- **[[#2. Estimating ROI before the Project Starts]]** (6 videos)
-- **[[#3. Calculating ROI after the Model Is Built]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction
+- [**1. Effective Problem Definition**](#1-effective-problem-definition) (4 videos)
+  - Estimating ROI
+  - Business considerations when measuring ROI
+  - ROI starts with problem definition
+  - Why estimating ROI is perceived to be challenging
+- [**2. Estimating ROI before the Project Starts**](#2-estimating-roi-before-the-project-starts) (6 videos)
+  - Introducing the confusion matrix
+  - The possible outcomes when a micro decision is made
+  - Estimating the overall size of the problem
+  - Assigning value to the four possible outcomes
+  - The impact of model performance on ROI
+  - Two other example scenarios
+- [**3. Calculating ROI after the Model Is Built**](#3-calculating-roi-after-the-model-is-built) (4 videos)
+  - Determining the cut-off on propensity scores for interventions
+  - A/B testing and partial rollout during the evaluation phase
+  - Understanding the monitoring phase
+  - Revisiting ROI 12 months after deployment
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introduction?u=76281980)
@@ -103,7 +119,7 @@ created: 2026-04-29
 
 ### 1. Effective Problem Definition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Estimating ROI
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/estimating-roi?u=76281980)
@@ -392,7 +408,7 @@ created: 2026-04-29
 
 ### 2. Estimating ROI before the Project Starts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the confusion matrix
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/introducing-the-confusion-matrix?u=76281980)
@@ -902,7 +918,7 @@ created: 2026-04-29
 
 ### 3. Calculating ROI after the Model Is Built
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining the cut-off on propensity scores for interventions
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/determining-the-cut-off-on-propensity-scores-for-interventions?u=76281980)
@@ -1161,7 +1177,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi/next-steps?u=76281980)

@@ -49,16 +49,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. An Introduction to APIs in Laravel]]** (4 videos)
-- **[[#2. Setting Up Our Application]]** (6 videos)
-- **[[#3. Building RESTful API]]** (7 videos)
-- **[[#4. Testing Our API with Postman]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building RESTful APIs in Laravel
+- [**1. An Introduction to APIs in Laravel**](#1-an-introduction-to-apis-in-laravel) (4 videos)
+  - API overview
+  - APIs in the real world
+  - Our application: ePetitions API
+  - The basics of Laravel 8
+- [**2. Setting Up Our Application**](#2-setting-up-our-application) (6 videos)
+  - The project infrastructure
+  - Creating the database structure
+  - Creating a model factory and seeder
+  - Setting up the RESTful API routes
+  - Challenge: Creating an author resource infrastructure
+  - Solution: Creating an author resource infrastructure
+- [**3. Building RESTful API**](#3-building-restful-api) (7 videos)
+  - Using API resources to display all petitions
+  - Saving a new petition
+  - Displaying a specific petition
+  - Updating an existing petition
+  - Deleting a petition
+  - Challenge: Building the author resource
+  - Solution: Building the author resource
+- [**4. Testing Our API with Postman**](#4-testing-our-api-with-postman) (8 videos)
+  - Installing Postman
+  - GET all petitions
+  - POST a new petition
+  - GET (show) a specific petition
+  - PATCH (update) a petition
+  - DELETE a petition
+  - Challenge: Testing APIs with Postman
+  - Solution: Testing APIs with Postman
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go from here
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building RESTful APIs in Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/building-restful-apis-in-laravel?u=76281980)
@@ -95,7 +122,7 @@ created: 2026-04-29
 
 ### 1. An Introduction to APIs in Laravel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### API overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/api-overview?u=76281980)
@@ -335,7 +362,7 @@ created: 2026-04-29
 
 ### 2. Setting Up Our Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The project infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/the-project-infrastructure?u=76281980)
@@ -919,7 +946,7 @@ created: 2026-04-29
 
 ### 3. Building RESTful API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using API resources to display all petitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/using-api-resources-to-display-all-petitions?u=76281980)
@@ -1380,7 +1407,7 @@ created: 2026-04-29
 
 ### 4. Testing Our API with Postman
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Postman
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/installing-postman?u=76281980)
@@ -1905,7 +1932,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-in-laravel-8532490/where-to-go-from-here?u=76281980)

@@ -47,19 +47,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Is a Denial of Service?]]** (2 videos)
-- **[[#2. Infrastructure Denial of Service]]** (7 videos)
-- **[[#3. Wireless Denial of Service]]** (1 videos)
-- **[[#4. Application Denial of Service]]** (6 videos)
-- **[[#5. SIP Service Attacks]]** (1 videos)
-- **[[#6. Ransomware]]** (3 videos)
-- **[[#7. Mitigation Techniques]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Understanding and defeating denial-of-service attacks
+  - What you should know
+  - Disclaimer
+- [**1. What Is a Denial of Service?**](#1-what-is-a-denial-of-service) (2 videos)
+  - Understanding denial of service
+  - Using Python to test denial of service
+- [**2. Infrastructure Denial of Service**](#2-infrastructure-denial-of-service) (7 videos)
+  - TCP SYN flooding using hping3
+  - Using Hyena to run a reflection attack
+  - UDP flooding with LOIC
+  - ARP poisoning with Ettercap
+  - Using NTP to amplify attacks
+  - NEW: Amplification using memcached
+  - NEW: When is a DDoS not a DDoS?
+- [**3. Wireless Denial of Service**](#3-wireless-denial-of-service) (1 videos)
+  - Deauthenticating a wireless host
+- [**4. Application Denial of Service**](#4-application-denial-of-service) (6 videos)
+  - Flooding HTTP using GoldenEye
+  - Testing webapps using OWASP SwitchBlade
+  - Understanding BlackEnergy
+  - Killing the FTP service
+  - RangeAmp attacks on the CDN
+  - Profiling Killnet
+- [**5. SIP Service Attacks**](#5-sip-service-attacks) (1 videos)
+  - Flooding a SIP server
+- [**6. Ransomware**](#6-ransomware) (3 videos)
+  - Explaining ransomware
+  - Understanding Cryptolocker
+  - Understanding Petya
+- [**7. Mitigation Techniques**](#7-mitigation-techniques) (5 videos)
+  - Defeating denial-of-service attacks
+  - Commercial anti-DOS services
+  - Detecting P2P attacks with PeerShark
+  - NIST guidance on mitigating DDOS
+  - Considering IoT denial
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding and defeating denial-of-service attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980)
@@ -136,7 +165,7 @@ created: 2026-04-29
 
 ### 1. What Is a Denial of Service?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding denial of service
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980)
@@ -358,7 +387,7 @@ created: 2026-04-29
 
 ### 2. Infrastructure Denial of Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### TCP SYN flooding using hping3
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980)
@@ -1010,7 +1039,7 @@ created: 2026-04-29
 
 ### 3. Wireless Denial of Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deauthenticating a wireless host
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980)
@@ -1081,7 +1110,7 @@ created: 2026-04-29
 
 ### 4. Application Denial of Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Flooding HTTP using GoldenEye
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980)
@@ -1526,7 +1555,7 @@ created: 2026-04-29
 
 ### 5. SIP Service Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Flooding a SIP server
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980)
@@ -1669,7 +1698,7 @@ created: 2026-04-29
 
 ### 6. Ransomware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980)
@@ -1877,7 +1906,7 @@ created: 2026-04-29
 
 ### 7. Mitigation Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defeating denial-of-service attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980)
@@ -2253,7 +2282,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980)

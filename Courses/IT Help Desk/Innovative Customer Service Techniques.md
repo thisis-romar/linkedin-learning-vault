@@ -44,15 +44,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Getting Innovative with Your Customer Service]]** (3 videos)
-- **[[#1. Influencing Customer Perceptions]]** (4 videos)
-- **[[#2. Enhancing Your Service Senses]]** (4 videos)
-- **[[#3. Building Teamwork]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Getting Innovative with Your Customer Service**](#getting-innovative-with-your-customer-service) (3 videos)
+  - Help your team unlock their potential
+  - What you'll learn from watching this course
+  - Understanding why customer service is hard
+- [**1. Influencing Customer Perceptions**](#1-influencing-customer-perceptions) (4 videos)
+  - Identifying the most important need
+  - Winning the moments of truth
+  - Making wait time more bearable
+  - Getting customers to know your name
+- [**2. Enhancing Your Service Senses**](#2-enhancing-your-service-senses) (4 videos)
+  - Improving your powers of observation
+  - Overcoming the illusion of speed
+  - Understanding the consequences of multitasking
+  - Avoiding directed attention fatigue
+- [**3. Building Teamwork**](#3-building-teamwork) (3 videos)
+  - Identifying the secrets of employee motivation
+  - Increasing teamwork between departments
+  - Creating positive social pressure
+- [**Conclusion**](#conclusion) (1 videos)
+  - Resources to improve your customer service
 
 ### Getting Innovative with Your Customer Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Help your team unlock their potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/help-your-team-unlock-their-potential?u=76281980)
@@ -184,7 +199,7 @@ created: 2026-04-29
 
 ### 1. Influencing Customer Perceptions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the most important need
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-most-important-need-2?u=76281980)
@@ -567,7 +582,7 @@ created: 2026-04-29
 
 ### 2. Enhancing Your Service Senses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improving your powers of observation
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/improving-your-powers-of-observation-2?u=76281980)
@@ -1022,7 +1037,7 @@ created: 2026-04-29
 
 ### 3. Building Teamwork
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the secrets of employee motivation
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/identifying-the-secrets-of-employee-motivation-2?u=76281980)
@@ -1356,7 +1371,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Resources to improve your customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/innovative-customer-service-techniques/resources-to-improve-your-customer-service?u=76281980)

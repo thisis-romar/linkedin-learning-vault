@@ -44,17 +44,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Design Patterns and Spring]]** (4 videos)
-- **[[#2. Creation Patterns in Spring]]** (8 videos)
-- **[[#3. Structural Patterns in Spring]]** (5 videos)
-- **[[#4. Operational Patterns in Spring]]** (5 videos)
-- **[[#5. Other Framework Patterns in Spring]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Solving problems with patterns in Spring
+  - What you need to know
+  - Creating a skeleton project
+- [**1. Design Patterns and Spring**](#1-design-patterns-and-spring) (4 videos)
+  - What design patterns are
+  - Gang of Four
+  - The patterns of the Spring framework
+  - Inversion of control: The core pattern
+- [**2. Creation Patterns in Spring**](#2-creation-patterns-in-spring) (8 videos)
+  - The factory pattern
+  - Factory pattern in action
+  - The builder pattern
+  - The builder pattern in action
+  - The singleton pattern
+  - The singleton pattern in action
+  - The prototype pattern
+  - Prototype pattern in action
+- [**3. Structural Patterns in Spring**](#3-structural-patterns-in-spring) (5 videos)
+  - The adapter pattern
+  - The adapter pattern in action
+  - The decorator pattern
+  - The decorator pattern in action
+  - The proxy pattern
+- [**4. Operational Patterns in Spring**](#4-operational-patterns-in-spring) (5 videos)
+  - The repository pattern
+  - The repository pattern in action
+  - The template pattern
+  - The model-view-controller pattern (MVC)
+  - The MVC and template patterns in action
+- [**5. Other Framework Patterns in Spring**](#5-other-framework-patterns-in-spring) (4 videos)
+  - The observer pattern
+  - The command pattern
+  - The mediator pattern
+  - The interpreter pattern
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving problems with patterns in Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/solving-problems-with-patterns-in-spring?u=76281980)
@@ -204,7 +234,7 @@ created: 2026-04-29
 
 ### 1. Design Patterns and Spring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What design patterns are
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/what-design-patterns-are?u=76281980)
@@ -511,7 +541,7 @@ created: 2026-04-29
 
 ### 2. Creation Patterns in Spring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The factory pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-factory-pattern?u=76281980)
@@ -1275,7 +1305,7 @@ created: 2026-04-29
 
 ### 3. Structural Patterns in Spring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-adapter-pattern?u=76281980)
@@ -1669,7 +1699,7 @@ created: 2026-04-29
 
 ### 4. Operational Patterns in Spring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The repository pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-repository-pattern?u=76281980)
@@ -2030,7 +2060,7 @@ created: 2026-04-29
 
 ### 5. Other Framework Patterns in Spring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The observer pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/the-observer-pattern?u=76281980)
@@ -2277,7 +2307,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-6-design-patterns/next-steps?u=76281980)

@@ -54,15 +54,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Privacy]]** (5 videos)
-- **[[#2. Privacy and Key Governance Milestones]]** (4 videos)
-- **[[#3. Building Privacy Tooling, Processes, Hierarchies, and Consolidations]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What privacy means in the age of GenAI
+  - Who this course is for
+- [**1. Introduction to Privacy**](#1-introduction-to-privacy) (5 videos)
+  - The real meaning of "big data"
+  - Privacy and security
+  - Regulations and standards
+  - Privacy and internal stakeholders
+  - Building data governance into organizational operations
+- [**2. Privacy and Key Governance Milestones**](#2-privacy-and-key-governance-milestones) (4 videos)
+  - Code governance
+  - Data classification
+  - Data inventory
+  - Third-party risk assessment
+- [**3. Building Privacy Tooling, Processes, Hierarchies, and Consolidations**](#3-building-privacy-tooling-processes-hierarchies-and-consolidations) (6 videos)
+  - Data deletion
+  - Data sharing
+  - Build vs. buy
+  - Decentralized vs. centralized
+  - Privacy leadership and the chief privacy officer
+  - Data Subject Access Requests (DSARs) and rights management
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What privacy means in the age of GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/what-privacy-means-in-the-age-of-genai?u=76281980)
@@ -149,7 +167,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Privacy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The real meaning of "big data"
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/the-real-meaning-of-big-data?u=76281980)
@@ -509,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Privacy and Key Governance Milestones
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Code governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/code-governance?u=76281980)
@@ -824,7 +842,7 @@ created: 2026-04-29
 
 ### 3. Building Privacy Tooling, Processes, Hierarchies, and Consolidations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data deletion
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/data-deletion?u=76281980)
@@ -1307,7 +1325,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-privacy-program-in-the-age-of-genai/next-steps?u=76281980)

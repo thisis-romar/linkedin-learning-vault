@@ -48,15 +48,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Does AI Have to Do with Sustainability]]** (1 videos)
-- **[[#2. AI Is a Critical Game-Changer for Sustainability]]** (4 videos)
-- **[[#3. AI’s Impact on the Global Race to Net Zero]]** (4 videos)
-- **[[#4. Ensuring That AI Has a Positive Impact on the Global Race to Net Zero]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The promise of AI for sustainability
+  - What you should know
+- [**1. What Does AI Have to Do with Sustainability**](#1-what-does-ai-have-to-do-with-sustainability) (1 videos)
+  - The intersections of AI and sustainability
+- [**2. AI Is a Critical Game-Changer for Sustainability**](#2-ai-is-a-critical-game-changer-for-sustainability) (4 videos)
+  - Sustainability bottlenecks prevent global progress
+  - AI accelerates the development of sustainability solutions
+  - AI can help predict and optimize sustainability systems
+  - AI can help empower the world's sustainability workforce
+- [**3. AI’s Impact on the Global Race to Net Zero**](#3-ais-impact-on-the-global-race-to-net-zero) (4 videos)
+  - The local vs. global challenges of AI resource use
+  - AI energy use—A local challenge
+  - Emissions implications of building and running AI models
+  - Indirect emissions implications of the use of AI tools
+- [**4. Ensuring That AI Has a Positive Impact on the Global Race to Net Zero**](#4-ensuring-that-ai-has-a-positive-impact-on-the-global-race-to-net-zero) (2 videos)
+  - The benefits of AI for sustainability are not guaranteed
+  - What's needed to unlock AI's potential for sustainability
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The promise of AI for sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-promise-of-ai-for-sustainability?u=76281980)
@@ -115,7 +128,7 @@ created: 2026-04-29
 
 ### 1. What Does AI Have to Do with Sustainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The intersections of AI and sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-intersections-of-ai-and-sustainability?u=76281980)
@@ -190,7 +203,7 @@ created: 2026-04-29
 
 ### 2. AI Is a Critical Game-Changer for Sustainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability bottlenecks prevent global progress
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/sustainability-bottlenecks-prevent-global-progress?u=76281980)
@@ -462,7 +475,7 @@ created: 2026-04-29
 
 ### 3. AI’s Impact on the Global Race to Net Zero
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The local vs. global challenges of AI resource use
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-local-vs-global-challenges-of-ai-resource-use?u=76281980)
@@ -735,7 +748,7 @@ created: 2026-04-29
 
 ### 4. Ensuring That AI Has a Positive Impact on the Global Race to Net Zero
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of AI for sustainability are not guaranteed
 > [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-ai-and-sustainability/the-benefits-of-ai-for-sustainability-are-not-guaranteed?u=76281980)

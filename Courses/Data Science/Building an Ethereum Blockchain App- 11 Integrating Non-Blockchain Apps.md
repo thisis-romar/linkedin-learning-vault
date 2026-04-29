@@ -54,11 +54,16 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Integrating Non-Blockchain Apps with Ethereum]]** (5 videos)
+- [**1. Integrating Non-Blockchain Apps with Ethereum**](#1-integrating-non-blockchain-apps-with-ethereum) (5 videos)
+  - Blockchain and database storage
+  - Execution and flow in dApps and traditional applications
+  - Blockchain incorporation design goals
+  - Integration considerations for incorporating blockchain
+  - Interface considerations for incorporating blockchain
 
 ### 1. Integrating Non-Blockchain Apps with Ethereum
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain and database storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-11-integrating-non-blockchain-apps/blockchain-and-database-storage?u=76281980)

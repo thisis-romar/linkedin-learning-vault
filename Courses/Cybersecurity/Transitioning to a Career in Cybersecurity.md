@@ -58,18 +58,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (7 videos)
-- **[[#2. Transitioning from an IT Career]]** (5 videos)
-- **[[#3. Transitioning from a Non-IT Career]]** (2 videos)
-- **[[#4. Job Search Essentials]]** (3 videos)
-- **[[#5. Increasing Your Chances of Success]]** (7 videos)
-- **[[#6. Practical Skills and Real-World Insights]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Making the transition to a career in cybersecurity
+  - Why transition to cybersecurity?
+  - Maximizing your earning potential in cybersecurity
+- [**1. Getting Started**](#1-getting-started) (7 videos)
+  - Leverage your current advantages
+  - Cybersecurity soft skills
+  - Choosing your first cybersecurity job
+  - Researching cybersecurity jobs
+  - Cybersecurity training options
+  - Cybersecurity laws and regulations
+  - Industry trends and emerging technologies
+- [**2. Transitioning from an IT Career**](#2-transitioning-from-an-it-career) (5 videos)
+  - Assessing IT skills gaps
+  - IT jobs complementary to cybersecurity jobs
+  - Learning security systems
+  - Shadowing cybersecurity pros
+  - Earning cybersecurity certifications
+- [**3. Transitioning from a Non-IT Career**](#3-transitioning-from-a-non-it-career) (2 videos)
+  - Studying IT basics
+  - Benefits of entry-level IT jobs
+- [**4. Job Search Essentials**](#4-job-search-essentials) (3 videos)
+  - Revising your resume
+  - Updating your LinkedIn profile
+  - Job application and interview strategies
+- [**5. Increasing Your Chances of Success**](#5-increasing-your-chances-of-success) (7 videos)
+  - Personal development and goal-setting
+  - Networking in cybersecurity
+  - Creating a professional brand
+  - Building data analysis skills
+  - Career progression in cybersecurity
+  - Managing stress and avoiding burnout
+  - Cybersecurity career tips
+- [**6. Practical Skills and Real-World Insights**](#6-practical-skills-and-real-world-insights) (4 videos)
+  - Hands-on tools and labs
+  - Cybersecurity incident response
+  - Case studies
+  - Day in the life of a cybersecurity pro
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your career transition action plan
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making the transition to a career in cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/making-the-transition-to-a-career-in-cybersecurity?u=76281980)
@@ -173,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage your current advantages
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/leverage-your-current-advantages?u=76281980)
@@ -593,7 +625,7 @@ created: 2026-04-29
 
 ### 2. Transitioning from an IT Career
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing IT skills gaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/assessing-it-skills-gaps?u=76281980)
@@ -915,7 +947,7 @@ created: 2026-04-29
 
 ### 3. Transitioning from a Non-IT Career
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Studying IT basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/studying-it-basics?u=76281980)
@@ -1041,7 +1073,7 @@ created: 2026-04-29
 
 ### 4. Job Search Essentials
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Revising your resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/revising-your-resume?u=76281980)
@@ -1244,7 +1276,7 @@ created: 2026-04-29
 
 ### 5. Increasing Your Chances of Success
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Personal development and goal-setting
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/personal-development-and-goal-setting?u=76281980)
@@ -1678,7 +1710,7 @@ created: 2026-04-29
 
 ### 6. Practical Skills and Real-World Insights
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on tools and labs
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/hands-on-tools-and-labs?u=76281980)
@@ -1945,7 +1977,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your career transition action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/transitioning-to-a-career-in-cybersecurity-23384386/your-career-transition-action-plan?u=76281980)

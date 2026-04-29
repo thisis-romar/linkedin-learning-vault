@@ -48,18 +48,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What’s New in React]]** (4 videos)
-- **[[#2. Advanced Components]]** (4 videos)
-- **[[#3. Enhanced Components]]** (4 videos)
-- **[[#4. React Patterns]]** (7 videos)
-- **[[#5. React Accessibility]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
-- **[[#Appendix]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - React components, context, and accessibility
+- [**1. What’s New in React**](#1-whats-new-in-react) (4 videos)
+  - Rendering arrays
+  - setState() changes
+  - How to use CoderPad
+  - Solution: Implementing array-based state updates
+- [**2. Advanced Components**](#2-advanced-components) (4 videos)
+  - Compound components
+  - Uncontrolled components
+  - Controlled components
+  - Solution: Creating a compound component system
+- [**3. Enhanced Components**](#3-enhanced-components) (4 videos)
+  - Working with fragments
+  - Using keyed fragments
+  - New component lifecycle
+  - Solution: Implementing a fragment-based layout
+- [**4. React Patterns**](#4-react-patterns) (7 videos)
+  - Understanding the context API
+  - Using context
+  - Referencing context in stateless functional components
+  - Working with higher-order components
+  - Working with render props
+  - Render props in the wild: React Apollo
+  - Solution: Building a context-based theme system
+- [**5. React Accessibility**](#5-react-accessibility) (6 videos)
+  - Web accessibility overview
+  - Viewing React accessibility warnings
+  - Using semantic HTML
+  - WAI-ARIA roles
+  - Accessibility testing
+  - Solution: Building an accessible navigation system
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
+- [**Appendix**](#appendix) (1 videos)
+  - Using the exercise files
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### React components, context, and accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/react-components-context-and-accessibility?u=76281980)
@@ -82,7 +110,7 @@ created: 2026-04-29
 
 ### 1. What’s New in React
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rendering arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980)
@@ -402,7 +430,7 @@ created: 2026-04-29
 
 ### 2. Advanced Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Compound components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/compound-components-2?u=76281980)
@@ -616,7 +644,7 @@ created: 2026-04-29
 
 ### 3. Enhanced Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with fragments
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-fragments?u=76281980)
@@ -920,7 +948,7 @@ created: 2026-04-29
 
 ### 4. React Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the context API
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/understanding-the-context-api?u=76281980)
@@ -1514,7 +1542,7 @@ created: 2026-04-29
 
 ### 5. React Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Web accessibility overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/web-accessibility-overview?u=76281980)
@@ -1883,7 +1911,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980)
@@ -1916,7 +1944,7 @@ created: 2026-04-29
 
 ### Appendix
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-the-exercise-files?u=76281980)

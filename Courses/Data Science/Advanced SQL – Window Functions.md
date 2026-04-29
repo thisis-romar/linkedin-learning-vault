@@ -48,18 +48,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Tools, Files, and Query Processing Review]]** (3 videos)
-- **[[#2. Window Functions and the OVER Clause]]** (3 videos)
-- **[[#3. Framing, Exclusions, and Shortcuts]]** (3 videos)
-- **[[#4. Aggregate Window Functions]]** (5 videos)
-- **[[#5. Rank and Distribution Window Functions]]** (6 videos)
-- **[[#6. Offset Window Functions]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Course introduction
+  - Course agenda
+- [**1. Tools, Files, and Query Processing Review**](#1-tools-files-and-query-processing-review) (3 videos)
+  - Tools and demo database
+  - Using the demo and exercise files
+  - Logical query processing review
+- [**2. Window Functions and the OVER Clause**](#2-window-functions-and-the-over-clause) (3 videos)
+  - How window functions fit in query processing
+  - Overview and filter clause
+  - PARTITION BY and ORDER BY
+- [**3. Framing, Exclusions, and Shortcuts**](#3-framing-exclusions-and-shortcuts) (3 videos)
+  - Framing rows and ranges
+  - Practical framing examples
+  - Defaults, shortcuts, exclusions, and null handling
+- [**4. Aggregate Window Functions**](#4-aggregate-window-functions) (5 videos)
+  - Aggregate grouped functions
+  - Aggregate window functions
+  - Combining grouped and window aggregate functions
+  - Challenge: Aggregate window functions
+  - Solution: Aggregate window functions
+- [**5. Rank and Distribution Window Functions**](#5-rank-and-distribution-window-functions) (6 videos)
+  - The concept of rank
+  - ROW_NUMBER and NTILE
+  - RANK and DENSE_RANK
+  - Distribution window functions
+  - Challenge: Rank window functions
+  - Solution: Rank window functions
+- [**6. Offset Window Functions**](#6-offset-window-functions) (5 videos)
+  - Offset window functions
+  - Row offset window functions
+  - Frame offset window functions
+  - Challenge: Offset window functions
+  - Solution: Offset window functions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Review, conclusion, and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?u=76281980)
@@ -181,7 +209,7 @@ created: 2026-04-29
 
 ### 1. Tools, Files, and Query Processing Review
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and demo database
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/tools-and-demo-database?u=76281980)
@@ -410,7 +438,7 @@ created: 2026-04-29
 
 ### 2. Window Functions and the OVER Clause
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How window functions fit in query processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/how-window-functions-fit-in-query-processing?u=76281980)
@@ -715,7 +743,7 @@ created: 2026-04-29
 
 ### 3. Framing, Exclusions, and Shortcuts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Framing rows and ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/framing-rows-and-ranges?u=76281980)
@@ -1105,7 +1133,7 @@ created: 2026-04-29
 
 ### 4. Aggregate Window Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Aggregate grouped functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/aggregate-grouped-functions?u=76281980)
@@ -1501,7 +1529,7 @@ created: 2026-04-29
 
 ### 5. Rank and Distribution Window Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The concept of rank
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/the-concept-of-rank?u=76281980)
@@ -1931,7 +1959,7 @@ created: 2026-04-29
 
 ### 6. Offset Window Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Offset window functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/offset-window-functions?u=76281980)
@@ -2321,7 +2349,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review, conclusion, and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-window-functions/review-conclusion-and-next-steps?u=76281980)

@@ -50,16 +50,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Why Cybersecurity Practitioners Need Metrics]]** (4 videos)
-- **[[#2. Know Your Audience]]** (3 videos)
-- **[[#3. Risk Management Objectives]]** (3 videos)
-- **[[#4. Example Cybersecurity Metrics]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why are security metrics important?
+- [**1. Why Cybersecurity Practitioners Need Metrics**](#1-why-cybersecurity-practitioners-need-metrics) (4 videos)
+  - Cybersecurity is hard to measure
+  - Cybersecurity investment
+  - Define success for a cybersecurity program
+  - Cybersecurity program maturity
+- [**2. Know Your Audience**](#2-know-your-audience) (3 videos)
+  - The executive mindset
+  - The business mindset
+  - The technical leadership mindset
+- [**3. Risk Management Objectives**](#3-risk-management-objectives) (3 videos)
+  - Defining a risk management objective
+  - How to use a risk management objective
+  - Examples of risk management objectives
+- [**4. Example Cybersecurity Metrics**](#4-example-cybersecurity-metrics) (3 videos)
+  - Incidents detected internally vs. externally
+  - Security NPS
+  - Fixes implemented within SLA
+- [**Conclusion**](#conclusion) (1 videos)
+  - Apply security metrics
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why are security metrics important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/why-are-security-metrics-important-24395248?u=76281980)
@@ -95,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Why Cybersecurity Practitioners Need Metrics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity is hard to measure
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/cybersecurity-is-hard-to-measure?u=76281980)
@@ -384,7 +399,7 @@ created: 2026-04-29
 
 ### 2. Know Your Audience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The executive mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/the-executive-mindset?u=76281980)
@@ -656,7 +671,7 @@ created: 2026-04-29
 
 ### 3. Risk Management Objectives
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a risk management objective
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/defining-a-risk-management-objective?u=76281980)
@@ -904,7 +919,7 @@ created: 2026-04-29
 
 ### 4. Example Cybersecurity Metrics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Incidents detected internally vs. externally
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/incidents-detected-internally-vs-externally?u=76281980)
@@ -1128,7 +1143,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply security metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-security-metrics-in-your-organization/apply-security-metrics?u=76281980)

@@ -51,17 +51,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Value of Blockchain Technology]]** (3 videos)
-- **[[#2. How Does Blockchain Work?]]** (3 videos)
-- **[[#3. How Blockchain Enables Cryptocurrencies]]** (3 videos)
-- **[[#4. The Blockchain Universe]]** (4 videos)
-- **[[#5. Blockchain in Context]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Blockchain technology offers unique capabilities
+  - What you should know
+- [**1. The Value of Blockchain Technology**](#1-the-value-of-blockchain-technology) (3 videos)
+  - What's the business case for blockchain?
+  - The essential features of blockchain technology
+  - Exploring blockchain functions beyond the basics
+- [**2. How Does Blockchain Work?**](#2-how-does-blockchain-work) (3 videos)
+  - What is distributed ledger technology (DLT)?
+  - The keys to cryptography
+  - Understanding miners and proof of work
+- [**3. How Blockchain Enables Cryptocurrencies**](#3-how-blockchain-enables-cryptocurrencies) (3 videos)
+  - Brief history of Bitcoin
+  - How to acquire and use cryptocurrencies
+  - Exploring altcoins and crypto tokens
+- [**4. The Blockchain Universe**](#4-the-blockchain-universe) (4 videos)
+  - Difference between public and private blockchains
+  - What are smart contracts?
+  - Understanding non-fungible tokens (NFTs)
+  - The emergence of decentralized finance (DeFi)
+- [**5. Blockchain in Context**](#5-blockchain-in-context) (3 videos)
+  - Blockchain use case: Cross-border payments
+  - Blockchain use case: Identify management
+  - Blockchain use case: Title registries
+- [**Conclusion**](#conclusion) (2 videos)
+  - The risks and opportunities ahead
+  - Next steps for you and your organization
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain technology offers unique capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-technology-offers-unique-capabilities?u=76281980)
@@ -145,7 +165,7 @@ created: 2026-04-29
 
 ### 1. The Value of Blockchain Technology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's the business case for blockchain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/what-s-the-business-case-for-blockchain?u=76281980)
@@ -382,7 +402,7 @@ created: 2026-04-29
 
 ### 2. How Does Blockchain Work?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is distributed ledger technology (DLT)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/what-is-distributed-ledger-technology-dlt?u=76281980)
@@ -676,7 +696,7 @@ created: 2026-04-29
 
 ### 3. How Blockchain Enables Cryptocurrencies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Brief history of Bitcoin
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/brief-history-of-bitcoin?u=76281980)
@@ -953,7 +973,7 @@ created: 2026-04-29
 
 ### 4. The Blockchain Universe
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Difference between public and private blockchains
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/difference-between-public-and-private-blockchains?u=76281980)
@@ -1253,7 +1273,7 @@ created: 2026-04-29
 
 ### 5. Blockchain in Context
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain use case: Cross-border payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/blockchain-use-case-cross-border-payments?u=76281980)
@@ -1471,7 +1491,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The risks and opportunities ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547/the-risks-and-opportunities-ahead?u=76281980)

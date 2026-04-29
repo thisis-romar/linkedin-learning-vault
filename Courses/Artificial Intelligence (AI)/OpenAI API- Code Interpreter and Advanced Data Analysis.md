@@ -54,16 +54,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding the OpenAI Advanced Data Analysis and Code Interpreter]]** (2 videos)
-- **[[#2. Using the OpenAI Advanced Data Analysis with ChatGPT]]** (2 videos)
-- **[[#3. Accessing the Code Interpreter Tool from the Assistants API]]** (3 videos)
-- **[[#4. Exploring Pricing and Limitations]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to Code Interpreter and Advanced Data Analysis
+- [**1. Understanding the OpenAI Advanced Data Analysis and Code Interpreter**](#1-understanding-the-openai-advanced-data-analysis-and-code-interpreter) (2 videos)
+  - Explore Advanced Data Analysis features and capabilities
+  - Understand the Code Interpreter Tool via the Assistants API
+- [**2. Using the OpenAI Advanced Data Analysis with ChatGPT**](#2-using-the-openai-advanced-data-analysis-with-chatgpt) (2 videos)
+  - Conduct data analysis via the ChatGPT UI
+  - Perform data visualization via the ChatGPT UI
+- [**3. Accessing the Code Interpreter Tool from the Assistants API**](#3-accessing-the-code-interpreter-tool-from-the-assistants-api) (3 videos)
+  - Generate and apply Python code
+  - Review and optimize Python code
+  - Troubleshoot using logs
+- [**4. Exploring Pricing and Limitations**](#4-exploring-pricing-and-limitations) (2 videos)
+  - Estimate pricing
+  - Understand limitations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your Advanced Data Analysis and Code Interpreter journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Code Interpreter and Advanced Data Analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/introduction-to-code-interpreter-and-advanced-data-analysis?u=76281980)
@@ -86,7 +97,7 @@ created: 2026-04-29
 
 ### 1. Understanding the OpenAI Advanced Data Analysis and Code Interpreter
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Advanced Data Analysis features and capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980)
@@ -195,7 +206,7 @@ created: 2026-04-29
 
 ### 2. Using the OpenAI Advanced Data Analysis with ChatGPT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conduct data analysis via the ChatGPT UI
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980)
@@ -417,7 +428,7 @@ created: 2026-04-29
 
 ### 3. Accessing the Code Interpreter Tool from the Assistants API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generate and apply Python code
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980)
@@ -804,7 +815,7 @@ created: 2026-04-29
 
 ### 4. Exploring Pricing and Limitations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Estimate pricing
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980)
@@ -920,7 +931,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your Advanced Data Analysis and Code Interpreter journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980)

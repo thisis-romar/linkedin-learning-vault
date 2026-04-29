@@ -48,16 +48,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Security Testing in QA]]** (6 videos)
-- **[[#2. Assessing Deployed Apps]]** (8 videos)
-- **[[#3. Web App Pen Testing]]** (8 videos)
-- **[[#4. Testing for the OWASP Top Ten (2021)]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The importance of dynamic testing
+  - What you should know
+- [**1. Security Testing in QA**](#1-security-testing-in-qa) (6 videos)
+  - Software quality assurance process
+  - Positive testing
+  - Negative testing
+  - SQA metrics
+  - OWASP Testing Guide
+  - Demo: OWASP ZAP
+- [**2. Assessing Deployed Apps**](#2-assessing-deployed-apps) (8 videos)
+  - Manual vs. automated testing
+  - Scanning vs. pen testing
+  - Testing in non-production
+  - Testing in production
+  - OSINT gathering
+  - Web app proxies
+  - DevSecOps
+  - Demo: Burp Suite
+- [**3. Web App Pen Testing**](#3-web-app-pen-testing) (8 videos)
+  - Scoping a web app pen test
+  - Avoiding production impacts
+  - Penetration testing execution standard
+  - Types of pen tests
+  - Web application firewalls
+  - SIEMs
+  - Purple teaming
+  - Demo: Kali Linux
+- [**4. Testing for the OWASP Top Ten (2021)**](#4-testing-for-the-owasp-top-ten-2021) (11 videos)
+  - The OWASP Top Ten
+  - A1: Broken access control
+  - A2: Cryptographic failures
+  - A3: Injection
+  - A4: Insecure design
+  - A5: Security misconfiguration
+  - A6: Vulnerable and outdated components
+  - A7: Identification and authentication failures
+  - A8: Software and data integrity failures
+  - A9: Security Logging and monitoring failures
+  - A10: Server-side request forgery (SSRF)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of dynamic testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980)
@@ -123,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Security Testing in QA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Software quality assurance process
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980)
@@ -696,7 +732,7 @@ created: 2026-04-29
 
 ### 2. Assessing Deployed Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manual vs. automated testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980)
@@ -1561,7 +1597,7 @@ created: 2026-04-29
 
 ### 3. Web App Pen Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scoping a web app pen test
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980)
@@ -2436,7 +2472,7 @@ created: 2026-04-29
 
 ### 4. Testing for the OWASP Top Ten (2021)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The OWASP Top Ten
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980)
@@ -3551,7 +3587,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980)

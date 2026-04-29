@@ -51,16 +51,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Accessibility on the Web]]** (3 videos)
-- **[[#2. Keyboard Focus]]** (4 videos)
-- **[[#3. Mouse and Pointer Events]]** (2 videos)
-- **[[#4. Testing Your Application]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Accessibility in React
+- [**1. Accessibility on the Web**](#1-accessibility-on-the-web) (3 videos)
+  - The need for accessibility
+  - Semantic HTML: The foundation of web accessibility
+  - Semantic React tags
+- [**2. Keyboard Focus**](#2-keyboard-focus) (4 videos)
+  - Managing keyboard focus in React components
+  - Skipping page content
+  - Challenge: Implementing focus and skipping content
+  - Solution: Implementing focus and skipping content
+- [**3. Mouse and Pointer Events**](#3-mouse-and-pointer-events) (2 videos)
+  - Accessibility issues with mouse and pointer events
+  - How to ensure events are accessible by keyboard
+- [**4. Testing Your Application**](#4-testing-your-application) (4 videos)
+  - Why test your work
+  - Testing accessibility with your keyboard
+  - Using browser features for testing
+  - Testing with a screen reader
+- [**Conclusion**](#conclusion) (1 videos)
+  - Resources for web accessibility guidelines
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility in React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/accessibility-in-react?u=76281980)
@@ -96,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Accessibility on the Web
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/the-need-for-accessibility?u=76281980)
@@ -256,7 +271,7 @@ created: 2026-04-29
 
 ### 2. Keyboard Focus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing keyboard focus in React components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/managing-keyboard-focus-in-react-components?u=76281980)
@@ -507,7 +522,7 @@ created: 2026-04-29
 
 ### 3. Mouse and Pointer Events
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility issues with mouse and pointer events
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/accessibility-issues-with-mouse-and-pointer-events?u=76281980)
@@ -672,7 +687,7 @@ created: 2026-04-29
 
 ### 4. Testing Your Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why test your work
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/why-test-your-work?u=76281980)
@@ -964,7 +979,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Resources for web accessibility guidelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-accessibility/resources-for-web-accessibility-guidelines?u=76281980)

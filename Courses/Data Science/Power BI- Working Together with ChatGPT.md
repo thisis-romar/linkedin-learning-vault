@@ -55,16 +55,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding Power BI and OpenAI]]** (3 videos)
-- **[[#2. Power BI ChatGPT Data Integration]]** (5 videos)
-- **[[#3. Power BI ChatGPT Data Manipulation]]** (8 videos)
-- **[[#4. Power BI ChatGPT Data Analysis]]** (5 videos)
-- **[[#Continuing Your Power BI and Generative AI Learning Journey]]** (3 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Working with Power BI and ChatGPT
+  - What you should know
+- [**1. Understanding Power BI and OpenAI**](#1-understanding-power-bi-and-openai) (3 videos)
+  - What is Power BI?
+  - What is ChatGPT?
+  - How can Power BI be used effectively with ChatGPT
+- [**2. Power BI ChatGPT Data Integration**](#2-power-bi-chatgpt-data-integration) (5 videos)
+  - Data source troubleshooting
+  - Types of data connectors
+  - Connecting with data
+  - Challenge: Use ChatGPT to guide you on connecting with an Excel file
+  - Solution: Use ChatGPT to guide you on connecting with an Excel file
+- [**3. Power BI ChatGPT Data Manipulation**](#3-power-bi-chatgpt-data-manipulation) (8 videos)
+  - Why use ChatGPT for data manipulation
+  - Changing field types
+  - Working with filters
+  - Merging fields
+  - Extracting part of a field
+  - Creating calculated fields
+  - Challenge: Use ChatGPT to guide you on changing the format of a data field
+  - Solution: Use ChatGPT to guide you on changing the format of a data field
+- [**4. Power BI ChatGPT Data Analysis**](#4-power-bi-chatgpt-data-analysis) (5 videos)
+  - Why use ChatGPT for data analysis
+  - Creating visualizations
+  - Idea generation
+  - Challenge: Use ChatGPT to guide you on creating a card visualization
+  - Solution: Use ChatGPT to guide you on creating a card visualization
+- [**Continuing Your Power BI and Generative AI Learning Journey**](#continuing-your-power-bi-and-generative-ai-learning-journey) (3 videos)
+  - Take the next step with Copliot
+  - Learn how Copilot can make a difference
+  - Where to learn more about ChatGPT
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with Power BI and ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/working-with-power-bi-and-chatgpt?u=76281980)
@@ -132,7 +158,7 @@ created: 2026-04-29
 
 ### 1. Understanding Power BI and OpenAI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Power BI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/what-is-power-bi?u=76281980)
@@ -263,7 +289,7 @@ created: 2026-04-29
 
 ### 2. Power BI ChatGPT Data Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data source troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/data-source-troubleshooting?u=76281980)
@@ -580,7 +606,7 @@ created: 2026-04-29
 
 ### 3. Power BI ChatGPT Data Manipulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use ChatGPT for data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-manipulation?u=76281980)
@@ -1008,7 +1034,7 @@ created: 2026-04-29
 
 ### 4. Power BI ChatGPT Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use ChatGPT for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/why-use-chatgpt-for-data-analysis?u=76281980)
@@ -1290,7 +1316,7 @@ created: 2026-04-29
 
 ### Continuing Your Power BI and Generative AI Learning Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the next step with Copliot
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-working-together-with-chatgpt/take-the-next-step-with-copliot?u=76281980)

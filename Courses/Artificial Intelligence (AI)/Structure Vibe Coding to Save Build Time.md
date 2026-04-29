@@ -40,14 +40,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Essence of Vibe Coding]]** (2 videos)
-- **[[#2. Your AI's Guiding Documents]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Save time by structuring your vibe coding
+- [**1. The Essence of Vibe Coding**](#1-the-essence-of-vibe-coding) (2 videos)
+  - What is vibe coding and why do most people get it wrong?
+  - The critical role of AI guidance in vibe coding
+- [**2. Your AI's Guiding Documents**](#2-your-ais-guiding-documents) (5 videos)
+  - Define the spec, blueprint, and todos
+  - Step 1: Crafting the project spec with AI
+  - Step 2: Developing the AI blueprint
+  - Step 3: Creating the roadmap and final setup
+  - Tips for your AI vibe coding journey
+- [**Conclusion**](#conclusion) (1 videos)
+  - Move forward with structure
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Save time by structuring your vibe coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/save-time-by-using-vibe-coding-structure?u=76281980)
@@ -84,7 +93,7 @@ created: 2026-04-29
 
 ### 1. The Essence of Vibe Coding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is vibe coding and why do most people get it wrong?
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980)
@@ -275,7 +284,7 @@ created: 2026-04-29
 
 ### 2. Your AI's Guiding Documents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define the spec, blueprint, and todos
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980)
@@ -1066,7 +1075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Move forward with structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/move-forward-with-structure?u=76281980)

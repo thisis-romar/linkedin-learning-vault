@@ -50,16 +50,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1.  NLP: Build a Chatbot with Sentiment Analyzer]]** (5 videos)
-- **[[#2. Machine Learning: Using Python to Find Your Next Business Opportunity]]** (6 videos)
-- **[[#3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI]]** (9 videos)
-- **[[#4. Chat with Your Documents Using LLM: Front-end with Streamlit]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Elevate Your Python portfolio with advanced AI applications
+  - What should you know before taking this course
+  - Using GitHub Codespaces with this course
+  - A refresher of object-oriented programming concepts
+- [**1.  NLP: Build a Chatbot with Sentiment Analyzer**](#1-nlp-build-a-chatbot-with-sentiment-analyzer) (5 videos)
+  - Processing user input
+  - Analyzing sentiment
+  - Displaying automated chatbot responses based on sentiment
+  - Tailoring chatbot response based on sentiment score
+  - Intiating the chatbot and printing sentiment-based responses
+- [**2. Machine Learning: Using Python to Find Your Next Business Opportunity**](#2-machine-learning-using-python-to-find-your-next-business-opportunity) (6 videos)
+  - Data analytics using pandas, matplotlib, and scikit-learn
+  - Data preprocessing and scaling
+  - Model selection
+  - Hyperparameter tuning
+  - Linear regression, random forest, and gradient boosting
+  - Predicting price based on model evaluation results
+- [**3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI**](#3-chat-with-your-documents-using-llm-back-end-with-openai-python-aws-and-fastapi) (9 videos)
+  - Setting up MongoDB
+  - Generate chat responses using GPT-3.5 and Langchain
+  - Load conversation history for a given session ID
+  - Create new sessions and add chat history to existing sessions
+  - Setup FastAPI app, CORS, S3 session, and obtain a chat response
+  - Upload files to Amazon S3 storage bucket
+  - Deploy and run the chatbot
+  - Challenge: Complete the backend code for file upload
+  - Solution: Complete the backend code for file upload
+- [**4. Chat with Your Documents Using LLM: Front-end with Streamlit**](#4-chat-with-your-documents-using-llm-front-end-with-streamlit) (8 videos)
+  - Introduction to API communication with Python
+  - File uploads and advanced API interactions
+  - Streamlit app basics and file handling
+  - Uploading files to API endpoints with Streamlit
+  - Building a chat interface with Streamlit
+  - How to run the front end of the chatbot
+  - Challenge: Create a front-end UI for file upload
+  - Solution: Create a front-end UI for file upload
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elevate Your Python portfolio with advanced AI applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/elevate-your-python-portfolio-with-advanced-ai-applications?u=76281980)
@@ -292,7 +325,7 @@ created: 2026-04-29
 
 ### 1.  NLP: Build a Chatbot with Sentiment Analyzer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Processing user input
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/processing-user-input-24907426?u=76281980)
@@ -567,7 +600,7 @@ created: 2026-04-29
 
 ### 2. Machine Learning: Using Python to Find Your Next Business Opportunity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data analytics using pandas, matplotlib, and scikit-learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/data-analytics-using-pandas-matplotlib-and-scikit-learn?u=76281980)
@@ -1202,7 +1235,7 @@ created: 2026-04-29
 
 ### 3. Chat with Your Documents Using LLM: Back-end with OpenAI, Python, AWS, and FastAPI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/setting-up-mongodb?u=76281980)
@@ -1912,7 +1945,7 @@ created: 2026-04-29
 
 ### 4. Chat with Your Documents Using LLM: Front-end with Streamlit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to API communication with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/introduction-to-api-communication-with-python?u=76281980)
@@ -2509,7 +2542,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-projects-build-ai-applications/your-next-steps?u=76281980)

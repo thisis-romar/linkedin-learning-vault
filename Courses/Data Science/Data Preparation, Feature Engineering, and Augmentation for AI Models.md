@@ -58,18 +58,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Data Preparation for Predictive AI]]** (9 videos)
-- **[[#2. Data Preparation for Generative AI]]** (6 videos)
-- **[[#3. Data Quality Assessment]]** (4 videos)
-- **[[#4. Data Augmentation for Generative AI]]** (6 videos)
-- **[[#5. Knowledge Augmentation for Generative AI]]** (5 videos)
-- **[[#6. Development Practices for AI Applications]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome to this course
+  - What you should know
+- [**1. Data Preparation for Predictive AI**](#1-data-preparation-for-predictive-ai) (9 videos)
+  - Data exploration and initial quality assessment
+  - Detecting and managing missing data
+  - Detecting and managing outliers
+  - Challenge: Assess data quality of a dataset
+  - Solution: Assess data quality of a dataset
+  - Feature engineering: Scaling and normalizing data
+  - Feature engineering: Categorical encodings
+  - Challenge: Apply feature engineering to a dataset
+  - Solution: Apply feature engineering to a dataset
+- [**2. Data Preparation for Generative AI**](#2-data-preparation-for-generative-ai) (6 videos)
+  - Structured vs. unstructured data
+  - Vector representations of unstructured data
+  - Tools for generating vector representations
+  - Similarity between vector representations
+  - Challenge: Choosing vector generation tool
+  - Solution: Choosing vector generation tool
+- [**3. Data Quality Assessment**](#3-data-quality-assessment) (4 videos)
+  - Elements of data quality: Consistency, accuracy, and completeness
+  - Statistical techniques for data quality assessment
+  - Challenge: Data quality
+  - Solution: Data quality
+- [**4. Data Augmentation for Generative AI**](#4-data-augmentation-for-generative-ai) (6 videos)
+  - Overview of data augmentation
+  - Text perturbation and style transfer
+  - Retrieval-augmented generation (RAG)
+  - Introduction to LangChain for RAG
+  - Challenge: Understanding components of RAG
+  - Solution: Understanding components of RAG
+- [**5. Knowledge Augmentation for Generative AI**](#5-knowledge-augmentation-for-generative-ai) (5 videos)
+  - Overview of knowledge augmentation
+  - Fine-tuning and knowledge distillation tools and techniques
+  - Ontologies, taxonomies, and knowledge graph tools and techniques
+  - Challenge: Knowledge augmentation
+  - Solution: Knowledge augmentation
+- [**6. Development Practices for AI Applications**](#6-development-practices-for-ai-applications) (6 videos)
+  - Determining what data sources to use
+  - Applying data quality checks
+  - Building models
+  - Model assessment
+  - Challenge: Development practices
+  - Solution: Development practices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/welcome-to-this-course?u=76281980)
@@ -123,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Data Preparation for Predictive AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data exploration and initial quality assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/data-exploration-and-initial-quality-assessment?u=76281980)
@@ -676,7 +715,7 @@ created: 2026-04-29
 
 ### 2. Data Preparation for Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structured vs. unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/structured-vs-unstructured-data?u=76281980)
@@ -1015,7 +1054,7 @@ created: 2026-04-29
 
 ### 3. Data Quality Assessment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elements of data quality: Consistency, accuracy, and completeness
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/elements-of-data-quality-consistency-accuracy-and-completeness?u=76281980)
@@ -1214,7 +1253,7 @@ created: 2026-04-29
 
 ### 4. Data Augmentation for Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-data-augmentation?u=76281980)
@@ -1646,7 +1685,7 @@ created: 2026-04-29
 
 ### 5. Knowledge Augmentation for Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of knowledge augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/overview-of-knowledge-augmentation?u=76281980)
@@ -1966,7 +2005,7 @@ created: 2026-04-29
 
 ### 6. Development Practices for AI Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining what data sources to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/determing-what-data-sources-to-use?u=76281980)
@@ -2391,7 +2430,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-preparation-feature-engineering-and-augmentation-for-ai-models/next-steps?u=76281980)

@@ -49,17 +49,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Design Patterns]]** (2 videos)
-- **[[#2. Fixtures]]** (7 videos)
-- **[[#3. Page Object Model]]** (6 videos)
-- **[[#4. Behavior Driven Development (BDD)]]** (6 videos)
-- **[[#5. Data-Driven Testing]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Explore design patterns in Playwright
+  - Setting up your local environment
+- [**1. Design Patterns**](#1-design-patterns) (2 videos)
+  - What is a design pattern?
+  - Types of design pattern
+- [**2. Fixtures**](#2-fixtures) (7 videos)
+  - Introduction to fixtures
+  - What are Playwright fixtures?
+  - Setting up fixtures in Playwright
+  - Creating custom fixtures
+  - Automatic fixtures
+  - Fixture scope and isolation
+  - Fixture best practices
+- [**3. Page Object Model**](#3-page-object-model) (6 videos)
+  - What is a page object model?
+  - Creating a basic page object model
+  - Implementing the page object model in tests
+  - Combining page object model with fixtures
+  - Creating reusable and maintainable page object models
+  - Best practices for page object models
+- [**4. Behavior Driven Development (BDD)**](#4-behavior-driven-development-bdd) (6 videos)
+  - Introduction to behavior driven development (BDD)
+  - Writing BDD scenarios using Cucumber
+  - Setting up Cucumber in your project
+  - Writing your first step definition
+  - Centralizing setup and running a BDD test
+  - Combining BDD with page object model
+- [**5. Data-Driven Testing**](#5-data-driven-testing) (3 videos)
+  - Introduction to data-driven testing
+  - Setting up data for data-driven testing
+  - Implementing data-driven testing in Playwright
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore design patterns in Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/welcome?u=76281980)
@@ -169,7 +196,7 @@ created: 2026-04-29
 
 ### 1. Design Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-design-pattern?u=76281980)
@@ -258,7 +285,7 @@ created: 2026-04-29
 
 ### 2. Fixtures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to fixtures
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-fixtures?u=76281980)
@@ -726,7 +753,7 @@ created: 2026-04-29
 
 ### 3. Page Object Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a page object model?
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/what-is-a-page-object-model?u=76281980)
@@ -1134,7 +1161,7 @@ created: 2026-04-29
 
 ### 4. Behavior Driven Development (BDD)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to behavior driven development (BDD)
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-behavior-driven-development-bdd?u=76281980)
@@ -1615,7 +1642,7 @@ created: 2026-04-29
 
 ### 5. Data-Driven Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data-driven testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/introduction-to-data-driven-testing?u=76281980)
@@ -1830,7 +1857,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-design-patterns/next-steps?u=76281980)

@@ -48,16 +48,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Analog Inputs]]** (14 videos)
-- **[[#2. Analog Outputs]]** (8 videos)
-- **[[#3. Interfacing with a Stepper Motor]]** (8 videos)
-- **[[#4. Projects]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Integrating analog devices with Arduino
+  - What you should know before watching
+- [**1. Analog Inputs**](#1-analog-inputs) (14 videos)
+  - What are analog devices?
+  - Understanding analog-to-digital converters
+  - Exploring our temperature sensor (TMP37)
+  - Understanding how to interpret the sensor values
+  - Interpreting the sensor values
+  - Wiring up the temperature sensor
+  - Coding to read the temperature sensor
+  - LDR (light-dependent resistor) sensor
+  - Using a voltage divider with our LDR
+  - Wiring up our LDR circuit
+  - Coding to read the LDR circuit
+  - Joystick module
+  - Wiring up our joystick
+  - Coding the joystick circuit
+- [**2. Analog Outputs**](#2-analog-outputs) (8 videos)
+  - How Arduino generates analog output
+  - Understanding pulse-width modulation (PWM)
+  - Understanding the analogWrite function with PWM
+  - Wire up an LED
+  - Write code to use PWM with the LED
+  - Understanding the map() function
+  - Wiring a potentiometer to control LED
+  - Coding to control the LED with a potentiometer
+- [**3. Interfacing with a Stepper Motor**](#3-interfacing-with-a-stepper-motor) (8 videos)
+  - Stepper motor introduction
+  - Unipolar stepper motors
+  - Stepper motor driver board ULN2003
+  - Wiring a stepper motor to Arduino
+  - Coding to control the motor directly
+  - Exploring the Stepper Library
+  - Coding for the stepper motor
+  - Coding using the Stepper() function
+- [**4. Projects**](#4-projects) (9 videos)
+  - Using the joystick to control LEDs
+  - Wiring up the joystick and LEDs
+  - Coding for the joystick and LEDs
+  - Using an LDR sensor to control a motor
+  - Wiring
+  - Coding the LDR and sensor
+  - Using a joystick to control a motor
+  - Wiring up the joystick and motor
+  - Coding the joystick and motor
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating analog devices with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/integrating-analog-devices-with-arduino?u=76281980)
@@ -123,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Analog Inputs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are analog devices?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/what-are-analog-devices?u=76281980)
@@ -868,7 +910,7 @@ created: 2026-04-29
 
 ### 2. Analog Outputs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How Arduino generates analog output
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/how-arduino-generates-analog-output?u=76281980)
@@ -1198,7 +1240,7 @@ created: 2026-04-29
 
 ### 3. Interfacing with a Stepper Motor
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stepper motor introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/stepper-motor-introduction?u=76281980)
@@ -1669,7 +1711,7 @@ created: 2026-04-29
 
 ### 4. Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the joystick to control LEDs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/using-the-joystick-to-control-leds?u=76281980)
@@ -2062,7 +2104,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-analog-devices/next-steps?u=76281980)

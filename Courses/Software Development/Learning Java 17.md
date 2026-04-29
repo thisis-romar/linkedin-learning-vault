@@ -46,18 +46,59 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Getting Started with Java]]** (6 videos)
-- **[[#2. Building Strong Foundations]]** (6 videos)
-- **[[#3. Control Flow in Java]]** (6 videos)
-- **[[#4. Debugging in Java]]** (2 videos)
-- **[[#5. Functions in Java]]** (7 videos)
-- **[[#6. Classes in Java]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Learn Java code
+  - What you should know
+  - Working with the exercise files
+  - Coderpad challenges
+- [**1. Getting Started with Java**](#1-getting-started-with-java) (6 videos)
+  - What is Java?
+  - Install the Java Development Kit
+  - How to build and execute Java programs
+  - Explore the IntelliJ IDEA
+  - Write your first Java program
+  - Run your first Java program
+- [**2. Building Strong Foundations**](#2-building-strong-foundations) (6 videos)
+  - Primitive data types
+  - Data types and variables in Java
+  - Strings in Java
+  - Using indexes with strings
+  - Concatenating strings
+  - Input and output in Java
+- [**3. Control Flow in Java**](#3-control-flow-in-java) (6 videos)
+  - Map program control flow
+  - Operators in Java
+  - Decision-making with if in Java
+  - Understanding scope
+  - Understanding while loops
+  - Using loops in Java
+- [**4. Debugging in Java**](#4-debugging-in-java) (2 videos)
+  - Debugging with print statements
+  - Debugging with an IDE
+- [**5. Functions in Java**](#5-functions-in-java) (7 videos)
+  - What are functions?
+  - Defining functions in Java
+  - Calling functions in Java
+  - Parameters in Java
+  - Return types in Java
+  - Using built-in functions in Java
+  - Solution: Employee salary
+- [**6. Classes in Java**](#6-classes-in-java) (9 videos)
+  - What is a class?
+  - What is a constructor?
+  - Creating a class in Java
+  - Creating an instance in Java
+  - Instance versus class members
+  - Using instance and class methods in Java
+  - Instance and class variables in Java
+  - Reviewing classes versus instances
+  - Solution: Book name
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your Java learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn Java code
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/learn-java-code?u=76281980)
@@ -166,7 +207,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Java?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/what-is-java?u=76281980)
@@ -574,7 +615,7 @@ created: 2026-04-29
 
 ### 2. Building Strong Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Primitive data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/primitive-data-types?u=76281980)
@@ -1064,7 +1105,7 @@ created: 2026-04-29
 
 ### 3. Control Flow in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Map program control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/map-program-control-flow?u=76281980)
@@ -1490,7 +1531,7 @@ created: 2026-04-29
 
 ### 4. Debugging in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging with print statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/debugging-with-print-statements?u=76281980)
@@ -1728,7 +1769,7 @@ created: 2026-04-29
 
 ### 5. Functions in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are functions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/what-are-functions?u=76281980)
@@ -2465,7 +2506,7 @@ created: 2026-04-29
 
 ### 6. Classes in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a class?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/what-is-a-class?u=76281980)
@@ -3235,7 +3276,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your Java learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-17/continue-your-java-learning?u=76281980)

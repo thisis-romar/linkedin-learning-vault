@@ -52,22 +52,59 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Cloud Types and Structures]]** (3 videos)
-- **[[#2. Microservices]]** (4 videos)
-- **[[#3. Data and Data Management]]** (3 videos)
-- **[[#4. Serverless Computing]]** (3 videos)
-- **[[#5. Cloud Security]]** (4 videos)
-- **[[#6. Constructing a Cloud Infrastructure]]** (3 videos)
-- **[[#7. Managing the Cloud]]** (3 videos)
-- **[[#8. AI and the Cloud]]** (6 videos)
-- **[[#9. The Edge of the Cloud]]** (2 videos)
-- **[[#10. Cloud Sustainability and Green Computing]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Orchestrating your cloud architecture
+  - Course audience
+  - Intricacies of cloud architecture
+- [**1. Cloud Types and Structures**](#1-cloud-types-and-structures) (3 videos)
+  - Public, private, and hybrid cloud
+  - Multicloud and polycloud
+  - Selecting the right cloud type
+- [**2. Microservices**](#2-microservices) (4 videos)
+  - Understanding microservices
+  - Why use microservices?
+  - Types of services
+  - Running microservices in the cloud
+- [**3. Data and Data Management**](#3-data-and-data-management) (3 videos)
+  - Data storage in the cloud
+  - Data across services
+  - Selecting the right data model
+- [**4. Serverless Computing**](#4-serverless-computing) (3 videos)
+  - Advantages of serverless computing
+  - Disadvantages of serverless computing
+  - Serverless computing and your applications
+- [**5. Cloud Security**](#5-cloud-security) (4 videos)
+  - Cloud vs. on-premises security
+  - Leveraging cloud provider expertise
+  - Security zones
+  - Identity and permissions in the cloud
+- [**6. Constructing a Cloud Infrastructure**](#6-constructing-a-cloud-infrastructure) (3 videos)
+  - Dynamic infrastructures
+  - Infrastructures brick by brick
+  - Infrastructure as code
+- [**7. Managing the Cloud**](#7-managing-the-cloud) (3 videos)
+  - Single Team Oriented Service Architecture (STOSA) organizations
+  - Effective devops in the cloud
+  - Understanding automation
+- [**8. AI and the Cloud**](#8-ai-and-the-cloud) (6 videos)
+  - Foundations of AI in cloud computing
+  - AI integration patterns
+  - Resource and cost considerations
+  - AI-assisted cloud operations
+  - AI-assisted security and governance
+  - Why use the cloud for AI/ML?
+- [**9. The Edge of the Cloud**](#9-the-edge-of-the-cloud) (2 videos)
+  - The Internet of Things
+  - Extending the cloud to the edge
+- [**10. Cloud Sustainability and Green Computing**](#10-cloud-sustainability-and-green-computing) (2 videos)
+  - The environmental cost of computing
+  - Why the cloud is greener than on-premises
+- [**Conclusion**](#conclusion) (1 videos)
+  - Cloud Center of Excellence (CoE)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Orchestrating your cloud architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980)
@@ -187,7 +224,7 @@ created: 2026-04-29
 
 ### 1. Cloud Types and Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Public, private, and hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980)
@@ -488,7 +525,7 @@ created: 2026-04-29
 
 ### 2. Microservices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding microservices
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980)
@@ -657,7 +694,7 @@ created: 2026-04-29
 
 ### 3. Data and Data Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data storage in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980)
@@ -955,7 +992,7 @@ created: 2026-04-29
 
 ### 4. Serverless Computing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advantages of serverless computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980)
@@ -1220,7 +1257,7 @@ created: 2026-04-29
 
 ### 5. Cloud Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud vs. on-premises security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-vs-on-premises-security-25351363?u=76281980)
@@ -1453,7 +1490,7 @@ created: 2026-04-29
 
 ### 6. Constructing a Cloud Infrastructure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic infrastructures
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/dynamic-infrastructures-25354418?u=76281980)
@@ -1626,7 +1663,7 @@ created: 2026-04-29
 
 ### 7. Managing the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Single Team Oriented Service Architecture (STOSA) organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/single-team-oriented-service-architecture-stosa-organizations-25358324?u=76281980)
@@ -1826,7 +1863,7 @@ created: 2026-04-29
 
 ### 8. AI and the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundations of AI in cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980)
@@ -2342,7 +2379,7 @@ created: 2026-04-29
 
 ### 9. The Edge of the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980)
@@ -2655,7 +2692,7 @@ created: 2026-04-29
 
 ### 10. Cloud Sustainability and Green Computing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The environmental cost of computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-environmental-cost-of-computing-25358323?u=76281980)
@@ -2842,7 +2879,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Center of Excellence (CoE)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980)

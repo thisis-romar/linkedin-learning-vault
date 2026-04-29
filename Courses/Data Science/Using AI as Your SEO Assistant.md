@@ -48,13 +48,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Using AI to Improve Your SEO]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - You plus AI equals better SEO
+  - Choosing the right AI for the job
+- [**1. Using AI to Improve Your SEO**](#1-using-ai-to-improve-your-seo) (11 videos)
+  - Using AI to generate keywords for SEO
+  - Using AI to generate search intent keywords
+  - Using AI to create a content plan
+  - Using AI to analyze sites that rank highly for keywords
+  - Using AI to improve your target keywords
+  - Using AI to optimize content for SEO
+  - Using AI to write an outreach email for link building
+  - Using AI to help optimize social media profiles
+  - Using AI to generate schema markup
+  - Using AI to analyze website data
+  - Using plugins with ChatGPT
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### You plus AI equals better SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/you-plus-ai-equals-better-seo?u=76281980)
@@ -195,7 +209,7 @@ created: 2026-04-29
 
 ### 1. Using AI to Improve Your SEO
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to generate keywords for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/using-ai-to-generate-keywords-for-seo?u=76281980)
@@ -1596,7 +1610,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-as-your-seo-assistant/summary-and-next-steps?u=76281980)

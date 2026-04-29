@@ -44,16 +44,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Editor Interface]]** (6 videos)
-- **[[#2. Level Design]]** (7 videos)
-- **[[#3. Project Management]]** (4 videos)
-- **[[#4. Asset Management]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Fundamentals 
+  - Companion files
+- [**1. Editor Interface**](#1-editor-interface) (6 videos)
+  - Introducing Unity
+  - Installing Unity
+  - Creating projects
+  - Render pipelines 
+  - Working with the interface
+  - Scene vs. game mode
+- [**2. Level Design**](#2-level-design) (7 videos)
+  - Adding and removing GameObjects
+  - Viewing in the Scene Tab
+  - Transforming game objects
+  - Object Inspector and components 
+  - Hierarchies
+  - Snapping
+  - Play Mode tint
+- [**3. Project Management**](#3-project-management) (4 videos)
+  - Packages
+  - Asset Store
+  - Importing assets
+  - Folders and organization
+- [**4. Asset Management**](#4-asset-management) (6 videos)
+  - Creating a project
+  - Adding controls
+  - Building a scene
+  - Testing and prefabs
+  - Post-processing with volumes
+  - Building and deployment
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals 
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/fundamentals?u=76281980)
@@ -118,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Editor Interface
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Unity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/introducing-unity?u=76281980)
@@ -848,7 +874,7 @@ created: 2026-04-29
 
 ### 2. Level Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding and removing GameObjects
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/adding-and-removing-gameobjects?u=76281980)
@@ -2273,7 +2299,7 @@ created: 2026-04-29
 
 ### 3. Project Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Packages
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/packages?u=76281980)
@@ -2880,7 +2906,7 @@ created: 2026-04-29
 
 ### 4. Asset Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a project
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/creating-a-project?u=76281980)
@@ -3782,7 +3808,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-fundamentals/next-steps?u=76281980)

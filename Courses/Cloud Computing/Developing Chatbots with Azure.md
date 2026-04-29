@@ -41,16 +41,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Chatbots]]** (2 videos)
-- **[[#2. Chatbot Terminology and Architecture]]** (5 videos)
-- **[[#3. Design a Chatbot]]** (4 videos)
-- **[[#4. Enhancing Your Chatbot Actions]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Chatbots are revolutionizing the web
+- [**1. Introduction to Chatbots**](#1-introduction-to-chatbots) (2 videos)
+  - What is a chatbot?
+  - Bots vs. chatbots vs. applications
+- [**2. Chatbot Terminology and Architecture**](#2-chatbot-terminology-and-architecture) (5 videos)
+  - Components of a chatbot system
+  - Chatbot engine, a deep dive
+  - Intent classifier
+  - Entity extractor
+  - Action server
+- [**3. Design a Chatbot**](#3-design-a-chatbot) (4 videos)
+  - Designing conversation for chatbots
+  - Identifying intents and entities
+  - Challenge: Designing conversations
+  - Solution: Designing conversations
+- [**4. Enhancing Your Chatbot Actions**](#4-enhancing-your-chatbot-actions) (5 videos)
+  - Setting up the Azure account and building an echobot
+  - Training QnA Maker and static productbot
+  - Training LUIS and dynamic productbot
+  - Challenge: Write your own chatbot
+  - Solution: Write your own chatbot
+- [**Conclusion**](#conclusion) (1 videos)
+  - Advancing the chatbot ladder
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Chatbots are revolutionizing the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980)
@@ -83,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Chatbots
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a chatbot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/what-is-a-chatbot?u=76281980)
@@ -176,7 +194,7 @@ created: 2026-04-29
 
 ### 2. Chatbot Terminology and Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of a chatbot system
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980)
@@ -425,7 +443,7 @@ created: 2026-04-29
 
 ### 3. Design a Chatbot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing conversation for chatbots
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980)
@@ -727,7 +745,7 @@ created: 2026-04-29
 
 ### 4. Enhancing Your Chatbot Actions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the Azure account and building an echobot
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980)
@@ -1530,7 +1548,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advancing the chatbot ladder
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980)

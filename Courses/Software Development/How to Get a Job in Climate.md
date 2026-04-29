@@ -44,16 +44,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The State of the Climate Job Industry]]** (5 videos)
-- **[[#2. Barriers to Working in Climate]]** (3 videos)
-- **[[#3. The Climate Job Search Isn't Traditional]]** (2 videos)
-- **[[#4. How to Get a Job in Climate]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Growing demand for climate jobs
+  - Real-world examples of people in climate careers
+- [**1. The State of the Climate Job Industry**](#1-the-state-of-the-climate-job-industry) (5 videos)
+  - What is climate tech?
+  - What is a climate job?
+  - Growth trajectory in climate
+  - The expansion of ESG
+  - Getting your start in the climate space early
+- [**2. Barriers to Working in Climate**](#2-barriers-to-working-in-climate) (3 videos)
+  - Why climate experience isn't necessary
+  - How to do a deep dive into the climate industry
+  - Overcoming climate job imposter syndrome
+- [**3. The Climate Job Search Isn't Traditional**](#3-the-climate-job-search-isnt-traditional) (2 videos)
+  - Why climate job searches are different
+  - Reversing eco-anxiety
+- [**4. How to Get a Job in Climate**](#4-how-to-get-a-job-in-climate) (7 videos)
+  - Five steps for getting your foot in the door in climate
+  - Laying the foundation for your climate job search
+  - Enhancing your climate job resume
+  - How to network in the climate space
+  - Advice for submitting your climate application
+  - Tips and tricks for climate job interviews
+  - Preparing for later-stage interviews
+- [**Conclusion**](#conclusion) (1 videos)
+  - Act now
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Growing demand for climate jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/making-climate-mainstream?u=76281980)
@@ -144,7 +164,7 @@ created: 2026-04-29
 
 ### 1. The State of the Climate Job Industry
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is climate tech?
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/what-is-climate-tech?u=76281980)
@@ -514,7 +534,7 @@ created: 2026-04-29
 
 ### 2. Barriers to Working in Climate
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why climate experience isn't necessary
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-experience-isn-t-necessary?u=76281980)
@@ -726,7 +746,7 @@ created: 2026-04-29
 
 ### 3. The Climate Job Search Isn't Traditional
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why climate job searches are different
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/why-climate-job-searches-are-different?u=76281980)
@@ -860,7 +880,7 @@ created: 2026-04-29
 
 ### 4. How to Get a Job in Climate
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Five steps for getting your foot in the door in climate
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/five-steps-for-getting-your-foot-in-the-door-in-climate?u=76281980)
@@ -1440,7 +1460,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Act now
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-get-a-job-in-climate/act-now?u=76281980)

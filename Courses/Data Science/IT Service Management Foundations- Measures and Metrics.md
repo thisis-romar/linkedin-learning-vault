@@ -48,16 +48,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Your Vision?]]** (3 videos)
-- **[[#2. Measurements]]** (7 videos)
-- **[[#3. Measurement Models]]** (5 videos)
-- **[[#4. Assessments and Reporting]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome to the course
+  - What you should know
+- [**1. What Is Your Vision?**](#1-what-is-your-vision) (3 videos)
+  - Start with why
+  - Vision and mission
+  - Cascading goals
+- [**2. Measurements**](#2-measurements) (7 videos)
+  - Measurements and metrics
+  - What should you measure?
+  - Why do you measure?
+  - Five types of measures
+  - What is measured gets done
+  - Success factors and KPIs
+  - Utility, warranty, and experience
+- [**3. Measurement Models**](#3-measurement-models) (5 videos)
+  - Measurement models
+  - Planning and evaluation model
+  - Balanced scorecard
+  - Organizational improvement cascade
+  - Measuring outcomes
+- [**4. Assessments and Reporting**](#4-assessments-and-reporting) (7 videos)
+  - Assessments
+  - Gap analysis
+  - SWOT analysis
+  - Customer/user satisfaction
+  - Benchmarking
+  - Maturity assessments
+  - Reporting
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/welcome-to-the-course?u=76281980)
@@ -182,7 +207,7 @@ created: 2026-04-29
 
 ### 1. What Is Your Vision?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start with why
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/start-with-why?u=76281980)
@@ -598,7 +623,7 @@ created: 2026-04-29
 
 ### 2. Measurements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measurements and metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurements-and-metrics?u=76281980)
@@ -1563,7 +1588,7 @@ created: 2026-04-29
 
 ### 3. Measurement Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measurement models
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/measurement-models?u=76281980)
@@ -2116,7 +2141,7 @@ created: 2026-04-29
 
 ### 4. Assessments and Reporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/assessments?u=76281980)
@@ -2566,7 +2591,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-measures-and-metrics/next-steps?u=76281980)

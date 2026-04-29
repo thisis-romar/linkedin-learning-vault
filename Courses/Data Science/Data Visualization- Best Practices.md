@@ -53,16 +53,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Why Data Viz Matters]]** (8 videos)
-- **[[#2. Identifying and Shaping Your Data]]** (7 videos)
-- **[[#3. Data Viz Mistakes to Avoid]]** (9 videos)
-- **[[#4. Designing Charts and Graphs]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Best practices of data visualization
+  - What you will learn
+  - Exercise files
+- [**1. Why Data Viz Matters**](#1-why-data-viz-matters) (8 videos)
+  - The importance of data viz in today's market
+  - A quick history of data viz
+  - Our level of data literacy: The brain science
+  - Our level of data literacy: The charts that matter
+  - Using simple charts and graphs
+  - Using complex charts and graphs
+  - Challenge: Pop quiz
+  - Solution: Pop quiz
+- [**2. Identifying and Shaping Your Data**](#2-identifying-and-shaping-your-data) (7 videos)
+  - Key questions to ask
+  - Question 1: Who is your audience?
+  - Question 2: What are your objectives?
+  - Question 3: What data will serve your objectives?
+  - Question 4: What chart or graph is best?
+  - Challenge: The best charts to use
+  - Solution: The best charts to use
+- [**3. Data Viz Mistakes to Avoid**](#3-data-viz-mistakes-to-avoid) (9 videos)
+  - Being a data fiduciary
+  - Mistake 1: Putting form over function
+  - Mistake 2: Improper use of scales
+  - Mistake 3: Manipulating the axis
+  - Mistake 4: Forcing your audience to do math
+  - Mistake 5: Organizing data passively
+  - Mistake 6: Assuming percentage equals pie
+  - Challenge: Data viz mistakes
+  - Solution: Data viz mistakes
+- [**4. Designing Charts and Graphs**](#4-designing-charts-and-graphs) (7 videos)
+  - The best free data visualization tools to use
+  - Using data visualization plugins in Adobe Illustrator
+  - Visualizing data with generative AI
+  - Creating bar graphs in Adobe Illustrator
+  - Creating pie charts in Adobe Illustrator
+  - Creating line and area graphs in Adobe Illustrator
+  - How to use labels and color
+- [**Conclusion**](#conclusion) (1 videos)
+  - Thank you
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Best practices of data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/best-practices-of-data-visualization-14398183?u=76281980)
@@ -170,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Why Data Viz Matters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of data viz in today's market
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-importance-of-data-viz-in-today-s-market-14393399?u=76281980)
@@ -691,7 +726,7 @@ created: 2026-04-29
 
 ### 2. Identifying and Shaping Your Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key questions to ask
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/key-questions-to-ask-14393402?u=76281980)
@@ -1243,7 +1278,7 @@ created: 2026-04-29
 
 ### 3. Data Viz Mistakes to Avoid
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Being a data fiduciary
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/being-a-data-fiduciary-14395248?u=76281980)
@@ -1753,7 +1788,7 @@ created: 2026-04-29
 
 ### 4. Designing Charts and Graphs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The best free data visualization tools to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980)
@@ -2218,7 +2253,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980)

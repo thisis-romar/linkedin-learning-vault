@@ -50,13 +50,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Code Challenges]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Try your SQL programming skills
+  - What you should know
+  - Exploring the lab environment
+- [**1. Code Challenges**](#1-code-challenges) (5 videos)
+  - Solution: Who are your top customers?
+  - Solution: List items in each order
+  - Solution: Which days did people order pizza?
+  - Solution: Seasonal sale
+  - Solution: Vendor integration
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Try your SQL programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/try-your-sql-programming-skills?u=76281980)
@@ -166,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Code Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Who are your top customers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/solution-1-who-are-your-top-customers?u=76281980)
@@ -410,7 +419,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-intermediate-queries/next-steps?u=76281980)

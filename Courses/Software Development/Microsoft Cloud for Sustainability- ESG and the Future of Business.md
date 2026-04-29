@@ -50,19 +50,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Sustainability Basics]]** (5 videos)
-- **[[#2. Microsoft Sustainability Solutions]]** (2 videos)
-- **[[#3. Microsoft Sustainability Data Model]]** (3 videos)
-- **[[#4. Microsoft Sustainability Manager]]** (4 videos)
-- **[[#5. Compliance Reporting]]** (2 videos)
-- **[[#6. Emissions Impact Dashboard]]** (3 videos)
-- **[[#7. Credit Service]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to the course
+- [**1. Sustainability Basics**](#1-sustainability-basics) (5 videos)
+  - Who cares wins
+  - Understanding carbon emissions
+  - Key sustainability regulations
+  - Focusing on long-termism vs. short-termism
+  - Sustainability challenges
+- [**2. Microsoft Sustainability Solutions**](#2-microsoft-sustainability-solutions) (2 videos)
+  - What are Microsoft Sustainability Solutions?
+  - What are the benefits of using Microsoft Sustainability Solutions?
+- [**3. Microsoft Sustainability Data Model**](#3-microsoft-sustainability-data-model) (3 videos)
+  - The need for data models
+  - Microsoft Cloud for Sustainability model
+  - Project ESG Lake
+- [**4. Microsoft Sustainability Manager**](#4-microsoft-sustainability-manager) (4 videos)
+  - What is Microsoft Sustainability Manager?
+  - What are the solution focus areas?
+  - How to use Microsoft Sustainability Manager
+  - ESG value chain
+- [**5. Compliance Reporting**](#5-compliance-reporting) (2 videos)
+  - Microsoft Purview compliance manager
+  - CSRD template in Microsoft Purview
+- [**6. Emissions Impact Dashboard**](#6-emissions-impact-dashboard) (3 videos)
+  - Emissions Impact Dashboard
+  - Calculation methodology
+  - Two types of Emissions Impact Dashboards
+- [**7. Credit Service**](#7-credit-service) (4 videos)
+  - What are carbon credits?
+  - Cap and trade system
+  - What is measurement, reporting, and verification (MRV)?
+  - What is the Microsoft Environment Credit Service?
+- [**Conclusion**](#conclusion) (2 videos)
+  - How to get started with Microsoft Sustainability Solutions
+  - Leave it the way you found it
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/introduction-to-the-course?u=76281980)
@@ -99,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Sustainability Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Who cares wins
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/who-cares-wins?u=76281980)
@@ -271,7 +297,7 @@ created: 2026-04-29
 
 ### 2. Microsoft Sustainability Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Microsoft Sustainability Solutions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-microsoft-sustainability-solutions?u=76281980)
@@ -377,7 +403,7 @@ created: 2026-04-29
 
 ### 3. Microsoft Sustainability Data Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for data models
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/the-need-for-data-models?u=76281980)
@@ -503,7 +529,7 @@ created: 2026-04-29
 
 ### 4. Microsoft Sustainability Manager
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Microsoft Sustainability Manager?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-is-microsoft-sustainability-manager?u=76281980)
@@ -640,7 +666,7 @@ created: 2026-04-29
 
 ### 5. Compliance Reporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Purview compliance manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/microsoft-purview-compliance-manager?u=76281980)
@@ -711,7 +737,7 @@ created: 2026-04-29
 
 ### 6. Emissions Impact Dashboard
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Emissions Impact Dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/emissions-impact-dashboard?u=76281980)
@@ -808,7 +834,7 @@ created: 2026-04-29
 
 ### 7. Credit Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are carbon credits?
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/what-are-carbon-credits?u=76281980)
@@ -905,7 +931,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to get started with Microsoft Sustainability Solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-cloud-for-sustainability-esg-and-the-future-of-business/how-to-get-started-with-microsoft-sustainability-solutions?u=76281980)

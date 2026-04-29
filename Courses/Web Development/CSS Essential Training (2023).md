@@ -62,19 +62,104 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (11 videos)
-- **[[#2. CSS Core Concepts]]** (16 videos)
-- **[[#3. The CSS Box Model]]** (12 videos)
-- **[[#4. Layouts: Float and Position]]** (7 videos)
-- **[[#5. Layouts: Flexbox and Grid]]** (13 videos)
-- **[[#6. Typography]]** (12 videos)
-- **[[#7. Layouts: Fluid and Responsive]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Getting started with CSS
+  - What you should know
+  - How to complete the exercises
+- [**1. Getting Started**](#1-getting-started) (11 videos)
+  - HTML and CSS
+  - Working with website files
+  - Writing code with a text editor
+  - Customizing your text editor
+  - Project: Overview and setup
+  - Where to find images
+  - Optimizing images for the web
+  - Relative and absolute paths
+  - Project: Adding images and icons
+  - Referencing CSS
+  - Project: Creating a CSS file
+- [**2. CSS Core Concepts**](#2-css-core-concepts) (16 videos)
+  - CSS specifications and the W3C
+  - CSS syntax and terminology
+  - CSS values and units
+  - The color property and values
+  - Creating a color palette
+  - Type and universal selectors
+  - ID selectors
+  - Class selectors
+  - Descendant combinators and selector lists
+  - The background property
+  - Project: Prepping the CSS file
+  - Project: Adding background styles
+  - Pseudo-classes and pseudo-elements
+  - Inheritance and the cascade
+  - Specificity
+  - Project: Styling links
+- [**3. The CSS Box Model**](#3-the-css-box-model) (12 videos)
+  - Intro to the CSS box model
+  - The box model properties
+  - Box-sizing and the box model fix
+  - Inline, block, and display
+  - Project: Footer styles and icons
+  - Debugging with developer tools
+  - Managing box model quirks
+  - Project: Background image update
+  - Using negative margin values
+  - Center aligning with margin
+  - Project: Adding content wrappers
+  - Project: Adding a header image
+- [**4. Layouts: Float and Position**](#4-layouts-float-and-position) (7 videos)
+  - Intro to CSS Layout
+  - Layouts with the float property
+  - Clearing floats
+  - Project: Float images and text
+  - The position property
+  - Position and z-index
+  - Project: Fixed positioning
+- [**5. Layouts: Flexbox and Grid**](#5-layouts-flexbox-and-grid) (13 videos)
+  - Intro to Grid and Flexbox
+  - Intro to Flexbox
+  - Flexbox: Orientation and ordering
+  - Sizing with flex properties
+  - Flexbox exercise
+  - Project: Sticky footer with flexbox
+  - Aligning flex items
+  - Project: Aligning elements with Flexbox
+  - Intro to CSS Grid
+  - The explicit grid
+  - The implicit grid
+  - Adding gutters with the gap property
+  - Project: Adding columns with Grid
+- [**6. Typography**](#6-typography) (12 videos)
+  - Typography for the web
+  - Changing fonts with font-family
+  - font-weight and font-style
+  - Web fonts with @font-face
+  - Web fonts with Google Fonts
+  - Project: Google Fonts
+  - The font-size property
+  - Font-size and accessibility
+  - Text-align and text-transform
+  - Line-height and letter-spacing
+  - Project: Typography styles
+  - Project: Buttons and spacing
+- [**7. Layouts: Fluid and Responsive**](#7-layouts-fluid-and-responsive) (10 videos)
+  - Intro to responsive design
+  - Intro to media queries
+  - Breakpoints and media queries
+  - Fluid layouts
+  - The viewport meta tag
+  - Testing responsive layouts
+  - Project: Breakpoints
+  - Project: Media queries: Part 1
+  - Project: Media queries: Part 2
+  - Project: Media queries: Part 3
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing beyond the essentials with CSS
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/getting-started-with-css?u=76281980)
@@ -164,7 +249,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### HTML and CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/html-and-css?u=76281980)
@@ -1144,7 +1229,7 @@ created: 2026-04-29
 
 ### 2. CSS Core Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS specifications and the W3C
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/css-specifications-and-the-w3c?u=76281980)
@@ -2606,7 +2691,7 @@ created: 2026-04-29
 
 ### 3. The CSS Box Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to the CSS box model
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-the-css-box-model?u=76281980)
@@ -3691,7 +3776,7 @@ created: 2026-04-29
 
 ### 4. Layouts: Float and Position
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to CSS Layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-css-layout?u=76281980)
@@ -4289,7 +4374,7 @@ created: 2026-04-29
 
 ### 5. Layouts: Flexbox and Grid
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Grid and Flexbox
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-grid-and-flexbox?u=76281980)
@@ -5310,7 +5395,7 @@ created: 2026-04-29
 
 ### 6. Typography
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Typography for the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/typography-for-the-web?u=76281980)
@@ -6439,7 +6524,7 @@ created: 2026-04-29
 
 ### 7. Layouts: Fluid and Responsive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to responsive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/intro-to-responsive-design?u=76281980)
@@ -7424,7 +7509,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing beyond the essentials with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-essential-training-2023/continuing-beyond-the-essentials-with-css?u=76281980)

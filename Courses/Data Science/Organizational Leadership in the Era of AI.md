@@ -57,15 +57,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. From Digital Transformation to Autonomous Transformation]]** (3 videos)
-- **[[#2. From Data-Driven to Reason-Driven Leadership]]** (4 videos)
-- **[[#3. How to Solve for the Future]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Technology breakthroughs need management breakthroughs
+  - New leadership for the AI era
+  - Leading your organization as a social system
+- [**1. From Digital Transformation to Autonomous Transformation**](#1-from-digital-transformation-to-autonomous-transformation) (3 videos)
+  - Understanding autonomous transformation
+  - Leading autonomous transformation
+  - Empowering your experts
+- [**2. From Data-Driven to Reason-Driven Leadership**](#2-from-data-driven-to-reason-driven-leadership) (4 videos)
+  - Reason-driven vs. data-driven strategy
+  - Harness opposing views
+  - Focus your resources
+  - Communicate your vision and strategy
+- [**3. How to Solve for the Future**](#3-how-to-solve-for-the-future) (4 videos)
+  - Replace problem-solving with future solving
+  - Pair data with expertise
+  - Augment analysis with synthesis
+  - Replace use cases with value cases
+- [**Conclusion**](#conclusion) (1 videos)
+  - Reaching new heights of value creation
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Technology breakthroughs need management breakthroughs
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/technology-breakthroughs-need-management-breakthroughs?u=76281980)
@@ -256,7 +271,7 @@ created: 2026-04-29
 
 ### 1. From Digital Transformation to Autonomous Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding autonomous transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/understanding-autonomous-transformation?u=76281980)
@@ -509,7 +524,7 @@ created: 2026-04-29
 
 ### 2. From Data-Driven to Reason-Driven Leadership
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reason-driven vs. data-driven strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reason-driven-vs-data-driven-strategy?u=76281980)
@@ -790,7 +805,7 @@ created: 2026-04-29
 
 ### 3. How to Solve for the Future
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Replace problem-solving with future solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/replace-problem-solving-with-future-solving?u=76281980)
@@ -1090,7 +1105,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reaching new heights of value creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/organizational-leadership-in-the-era-of-ai/reaching-new-heights-of-value-creation?u=76281980)

@@ -47,17 +47,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Reactive Web Performance]]** (5 videos)
-- **[[#2. Performance Basics]]** (5 videos)
-- **[[#3. Measure Performance]]** (8 videos)
-- **[[#4. Decision-Making Helpers]]** (4 videos)
-- **[[#5. Execute Code More Efficiently]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Optimize APIs with JavaScript
+  - What you should know
+- [**1. Reactive Web Performance**](#1-reactive-web-performance) (5 videos)
+  - The need for web performance APIs
+  - Summary of what we can do
+  - Real user monitoring (RUM) and reactive web performance
+  - Measure time
+  - High-resolution timings
+- [**2. Performance Basics**](#2-performance-basics) (5 videos)
+  - Navigation Timing Level 1
+  - Understand timings available
+  - Calculate milestones in the timeline
+  - The Performance Timeline interface
+  - Navigation Timing Level 2
+- [**3. Measure Performance**](#3-measure-performance) (8 videos)
+  - Measuring our websites
+  - Add the Navigation Timing API
+  - Use the Resource Timing API
+  - Create custom user timing
+  - Get paint timing
+  - Detect long tasks
+  - Detect frame rate drops
+  - Add server timing information
+- [**4. Decision-Making Helpers**](#4-decision-making-helpers) (4 videos)
+  - Read network information
+  - Read device memory
+  - Save data for your users
+  - Receive client hints on the server
+- [**5. Execute Code More Efficiently**](#5-execute-code-more-efficiently) (5 videos)
+  - Send low-priority requests with beacons
+  - Understand frame rate execution
+  - Execute animation control code
+  - Execute background tasks
+  - Efficient script yielding
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize APIs with JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/optimize-apis-with-javascript?u=76281980)
@@ -114,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Reactive Web Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for web performance APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/the-need-for-web-performance-apis?u=76281980)
@@ -497,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Performance Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigation Timing Level 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/navigation-timing-level-1?u=76281980)
@@ -896,7 +926,7 @@ created: 2026-04-29
 
 ### 3. Measure Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring our websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/measuring-our-websites?u=76281980)
@@ -1592,7 +1622,7 @@ created: 2026-04-29
 
 ### 4. Decision-Making Helpers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Read network information
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/read-network-information?u=76281980)
@@ -1901,7 +1931,7 @@ created: 2026-04-29
 
 ### 5. Execute Code More Efficiently
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Send low-priority requests with beacons
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/send-low-priority-requests-with-beacons?u=76281980)
@@ -2175,7 +2205,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-web-performance-optimization-apis/next-steps?u=76281980)

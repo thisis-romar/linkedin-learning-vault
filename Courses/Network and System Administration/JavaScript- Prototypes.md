@@ -52,15 +52,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Building Blocks of Prototypes]]** (3 videos)
-- **[[#2. Using Prototypal Inheritance]]** (4 videos)
-- **[[#3. Using ES6 Classes]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understanding prototypes in JavaScript
+  - Exercise files and environment setup
+- [**1. Building Blocks of Prototypes**](#1-building-blocks-of-prototypes) (3 videos)
+  - Create object literals
+  - Create objects with a constructor function
+  - Using CoderPad challenges
+- [**2. Using Prototypal Inheritance**](#2-using-prototypal-inheritance) (4 videos)
+  - Understand the prototype property
+  - Modify an object's prototype
+  - Create a prototype chain
+  - Apply prototypal inheritance
+- [**3. Using ES6 Classes**](#3-using-es6-classes) (2 videos)
+  - Understand ES6 classes
+  - Build prototypes using ES6 classes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding prototypes in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understanding-prototypes-in-javascript-22200396?u=76281980)
@@ -165,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Building Blocks of Prototypes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create object literals
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/create-object-literals-14321658?u=76281980)
@@ -613,7 +625,7 @@ created: 2026-04-29
 
 ### 2. Using Prototypal Inheritance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the prototype property
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understand-the-prototype-property-14317677?u=76281980)
@@ -960,7 +972,7 @@ created: 2026-04-29
 
 ### 3. Using ES6 Classes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand ES6 classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/understand-es6-classes-14319631?u=76281980)
@@ -1135,7 +1147,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-prototypes/next-steps-29803098?u=76281980)

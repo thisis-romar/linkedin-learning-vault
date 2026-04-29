@@ -48,16 +48,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. PostgreSQL]]** (4 videos)
-- **[[#2. MySQL]]** (3 videos)
-- **[[#3. Mongo]]** (3 videos)
-- **[[#4. Cloud-Based Databases]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Choosing the right data platform
+  - Comparing database options
+  - Setting up the environment
+- [**1. PostgreSQL**](#1-postgresql) (4 videos)
+  - PostgreSQL explore
+  - PostgreSQL commands
+  - Inheritance and data types
+  - Features
+- [**2. MySQL**](#2-mysql) (3 videos)
+  - MySQL explore
+  - Dialect nuances in MySQL
+  - MySQL Workbench
+- [**3. Mongo**](#3-mongo) (3 videos)
+  - Mongo explore
+  - Dialect nuances
+  - Mongo tools
+- [**4. Cloud-Based Databases**](#4-cloud-based-databases) (6 videos)
+  - Snowflake
+  - Snowsight by Snowflake
+  - Amazon Web Services
+  - Amazon Redshift and S3
+  - Google Cloud Platform
+  - Microsoft Azure
+- [**Conclusion**](#conclusion) (1 videos)
+  - Recap
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right data platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/choosing-the-right-data-platform?u=76281980)
@@ -265,7 +285,7 @@ created: 2026-04-29
 
 ### 1. PostgreSQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PostgreSQL explore
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/postgresql-explore-21050360?u=76281980)
@@ -644,7 +664,7 @@ created: 2026-04-29
 
 ### 2. MySQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MySQL explore
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mysql-explore?u=76281980)
@@ -924,7 +944,7 @@ created: 2026-04-29
 
 ### 3. Mongo
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mongo explore
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/mongo-explore?u=76281980)
@@ -1167,7 +1187,7 @@ created: 2026-04-29
 
 ### 4. Cloud-Based Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/snowflake-21046906?u=76281980)
@@ -1679,7 +1699,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-database-postgresql-mysql-mongo-and-cloud/recap?u=76281980)

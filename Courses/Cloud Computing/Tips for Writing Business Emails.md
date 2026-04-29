@@ -46,13 +46,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Quick Tips for Effective Emails]]** (13 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Email: An extension of your brand
+- [**1. Quick Tips for Effective Emails**](#1-quick-tips-for-effective-emails) (13 videos)
+  - Select the audience for your email thoughtfully
+  - Time your email message intentionally
+  - Avoid BCC mistakes
+  - Use Reply All with caution
+  - Three tips for a great subject line
+  - Help email readers communicate
+  - Edit your email
+  - Four grammar tips for emails
+  - Using clear and simple language in email
+  - Format your email for clarity
+  - Strike the right tone in emails
+  - Phrases to avoid in email
+  - Avoid these email mistakes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Happy emailing
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Email: An extension of your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980)
@@ -80,7 +95,7 @@ created: 2026-04-29
 
 ### 1. Quick Tips for Effective Emails
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Select the audience for your email thoughtfully
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/select-the-audience-for-your-email-thoughtfully?u=76281980)
@@ -934,7 +949,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Happy emailing
 > [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/happy-emailing-22822193?u=76281980)

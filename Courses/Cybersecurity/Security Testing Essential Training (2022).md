@@ -51,19 +51,82 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding Security Assessments]]** (10 videos)
-- **[[#2. Your Testing Environment]]** (11 videos)
-- **[[#3. Planning Your Assessment]]** (6 videos)
-- **[[#4. Review Techniques]]** (9 videos)
-- **[[#5. Identifying Your Targets]]** (10 videos)
-- **[[#6. Vulnerability Validation]]** (7 videos)
-- **[[#7. Additional Considerations]]** (6 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The importance of security testing
+  - What you should know
+- [**1. Understanding Security Assessments**](#1-understanding-security-assessments) (10 videos)
+  - Language is important
+  - Risk assessments
+  - Calculating risk score
+  - Security controls assessments
+  - NIST and ISO
+  - Compliance assessments
+  - Vulnerability assessments
+  - Penetration tests
+  - Goals of a pen test
+  - The security assessment lifecycle
+- [**2. Your Testing Environment**](#2-your-testing-environment) (11 videos)
+  - The security tester's toolkit
+  - Kali Linux
+  - Nmap
+  - Nessus
+  - Wireshark
+  - Lynis
+  - CIS-CAT Lite
+  - Aircrack-ng
+  - Hashcat
+  - OWASP ZAP
+  - OWASP ZAP demo
+- [**3. Planning Your Assessment**](#3-planning-your-assessment) (6 videos)
+  - Understanding your scope
+  - Improving over time
+  - Selecting your methodology
+  - Selecting your tools
+  - Basic assessment tools
+  - Advanced assessment tools
+- [**4. Review Techniques**](#4-review-techniques) (9 videos)
+  - Documentation review
+  - Log review
+  - Log management tools
+  - Ruleset review
+  - System configuration review
+  - CIS-CAT demo
+  - Network sniffing
+  - Wireshark demo
+  - File integrity checking
+- [**5. Identifying Your Targets**](#5-identifying-your-targets) (10 videos)
+  - Network discovery
+  - Open-source intelligence
+  - Network port and service identification
+  - Nmap demo
+  - Vulnerability scanning
+  - Determining severity
+  - Nessus demo
+  - Wireless scanning
+  - Wireless testing process
+  - Aircrack-ng demo
+- [**6. Vulnerability Validation**](#6-vulnerability-validation) (7 videos)
+  - Password cracking
+  - Hashcat demo
+  - Penetration test planning
+  - Penetration test tools
+  - Penetration test techniques
+  - Social engineering
+  - SET demo
+- [**7. Additional Considerations**](#7-additional-considerations) (6 videos)
+  - Coordinating your assessments
+  - Data analysis
+  - Providing context
+  - Data handling
+  - Drafting your report
+  - Delivering your report
+- [**Conclusion**](#conclusion) (2 videos)
+  - Next steps
+  - Additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-importance-of-security-testing?u=76281980)
@@ -131,7 +194,7 @@ created: 2026-04-29
 
 ### 1. Understanding Security Assessments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Language is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/language-is-important?u=76281980)
@@ -600,7 +663,7 @@ created: 2026-04-29
 
 ### 2. Your Testing Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The security tester's toolkit
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/the-security-tester-s-toolkit?u=76281980)
@@ -1180,7 +1243,7 @@ created: 2026-04-29
 
 ### 3. Planning Your Assessment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/understanding-your-scope?u=76281980)
@@ -1478,7 +1541,7 @@ created: 2026-04-29
 
 ### 4. Review Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Documentation review
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/documentation-review?u=76281980)
@@ -2165,7 +2228,7 @@ created: 2026-04-29
 
 ### 5. Identifying Your Targets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Network discovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/network-discovery?u=76281980)
@@ -2942,7 +3005,7 @@ created: 2026-04-29
 
 ### 6. Vulnerability Validation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Password cracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/password-cracking?u=76281980)
@@ -3470,7 +3533,7 @@ created: 2026-04-29
 
 ### 7. Additional Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Coordinating your assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/coordinating-your-assessments?u=76281980)
@@ -3816,7 +3879,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-testing-essential-training-2022/next-steps?u=76281980)

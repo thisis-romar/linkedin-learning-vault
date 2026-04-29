@@ -48,11 +48,16 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Programmable Voice]]** (5 videos)
+- [**1. Programmable Voice**](#1-programmable-voice) (5 videos)
+  - Appreciating the phone
+  - Receive a call
+  - Gather input
+  - Create an outbound call
+  - Review and practice
 
 ### 1. Programmable Voice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Appreciating the phone
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-2-programmable-voice/appreciating-the-phone?u=76281980)

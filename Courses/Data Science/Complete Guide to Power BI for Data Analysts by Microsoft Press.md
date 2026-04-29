@@ -39,22 +39,108 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Getting Started with Power BI]]** (8 videos)
-- **[[#2. Importing and Transforming Data Using Power Query Editor]]** (13 videos)
-- **[[#3. Enhancing the Data Model: The Basics]]** (9 videos)
-- **[[#4. Enhancing the Data Model: DAX Basics]]** (9 videos)
-- **[[#5. Enhancing the Data Model: DAX Time Intelligence]]** (7 videos)
-- **[[#6. Enhancing the Data Model: Quick Measures]]** (2 videos)
-- **[[#7. Building Desktop Visualizations: The Basics]]** (8 videos)
-- **[[#8. Building Desktop Visualizations: Next Level]]** (14 videos)
-- **[[#9. Using the Power BI service: Reading View]]** (5 videos)
-- **[[#10. Using the Power BI Service Next Level]]** (6 videos)
-- **[[#11. Implementing Security and Access]]** (4 videos)
-- **[[#12. Summary]]** (1 videos)
+- [**1. Getting Started with Power BI**](#1-getting-started-with-power-bi) (8 videos)
+  - Learning objectives
+  - Understand the data lifecycle
+  - Understand the Power BI environment
+  - Understand Power BI licensing
+  - Understand Power BI release cycles
+  - Set up your environment
+  - Explore data source settings
+  - Introduce our business scenario
+- [**2. Importing and Transforming Data Using Power Query Editor**](#2-importing-and-transforming-data-using-power-query-editor) (13 videos)
+  - Learning objectives
+  - Power Query Editor overview
+  - Import United States sales data
+  - Import customer data
+  - Import sales territory data
+  - Import product data
+  - Import product rollup data
+  - Merge the product and product rollup queries
+  - Import the other countries' sales data
+  - Append sale queries
+  - Create columns
+  - Model loading and cleanup
+  - Organize and document Power Query
+- [**3. Enhancing the Data Model: The Basics**](#3-enhancing-the-data-model-the-basics) (9 videos)
+  - Learning objectives
+  - Navigate the Power Bi Desktop
+  - Understanding Dimensional Modeling
+  - Create relationships and manage settings
+  - Modify column properties
+  - Create a column group
+  - Create hierarchies
+  - Optimize relationships
+  - Discuss data model cleanup
+- [**4. Enhancing the Data Model: DAX Basics**](#4-enhancing-the-data-model-dax-basics) (9 videos)
+  - Learning objectives
+  - Understand DAX
+  - Create basic DAX expressions
+  - Use logical expressions in DAX
+  - Comprehensive create calculated columns and measures: Part one
+  - Comprehensive create calculated columns and measures: Part two
+  - Comprehensive create calculated columns and measures: Part three
+  - Use the FILTER function
+  - Use the ALL function
+- [**5. Enhancing the Data Model: DAX Time Intelligence**](#5-enhancing-the-data-model-dax-time-intelligence) (7 videos)
+  - Learning objectives
+  - Build a date table
+  - Disable the auto date/time setting
+  - Designate a date table
+  - Build relationship between order date and sales
+  - Basic time intelligence functions
+  - Use the CALCULATE function
+- [**6. Enhancing the Data Model: Quick Measures**](#6-enhancing-the-data-model-quick-measures) (2 videos)
+  - Learning objectives
+  - Use quick measures
+- [**7. Building Desktop Visualizations: The Basics**](#7-building-desktop-visualizations-the-basics) (8 videos)
+  - Learning objectives
+  - Navigate the Power Bi Desktop report view
+  - Create a clustered column chart
+  - Create a stacked bar chart
+  - Create a line chart
+  - Create a KPI visual
+  - Create a card visual
+  - Create slicers
+- [**8. Building Desktop Visualizations: Next Level**](#8-building-desktop-visualizations-next-level) (14 videos)
+  - Learning objectives
+  - Add a canvas background
+  - Apply a theme
+  - Adjust existing visuals
+  - Create a custom tooltip
+  - Explore drill through
+  - Apply conditional formatting to a visual
+  - Build an order date hierarchy
+  - Enable a drill-down on a visual
+  - Edit interactions between visuals
+  - Use the selection pane
+  - Use the Bookmarks pane
+  - Explore the filter pane
+  - Explore the structure of a .pbix file
+- [**9. Using the Power BI service: Reading View**](#9-using-the-power-bi-service-reading-view) (5 videos)
+  - Learning objectives
+  - Publish to the Power BI service
+  - Explore the Power BI service
+  - Create and use bookmarks
+  - Share reports
+- [**10. Using the Power BI Service Next Level**](#10-using-the-power-bi-service-next-level) (6 videos)
+  - Learning objectives
+  - Create a new report using an existing dataset
+  - Build a dashboard
+  - Configure the dashboard
+  - Set an alert
+  - Use the Q&A dialog
+- [**11. Implementing Security and Access**](#11-implementing-security-and-access) (4 videos)
+  - Learning objectives
+  - Create row-level security (RLS) roles
+  - Validate RLS roles using Power BI Desktop
+  - Assign and validate roles in the Power BI service
+- [**12. Summary**](#12-summary) (1 videos)
+  - Summary
 
 ### 1. Getting Started with Power BI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20269078?u=76281980)
@@ -843,7 +929,7 @@ created: 2026-04-29
 
 ### 2. Importing and Transforming Data Using Power Query Editor
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives?u=76281980)
@@ -3254,7 +3340,7 @@ created: 2026-04-29
 
 ### 3. Enhancing the Data Model: The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270073?u=76281980)
@@ -4377,7 +4463,7 @@ created: 2026-04-29
 
 ### 4. Enhancing the Data Model: DAX Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270072?u=76281980)
@@ -5630,7 +5716,7 @@ created: 2026-04-29
 
 ### 5. Enhancing the Data Model: DAX Time Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264875?u=76281980)
@@ -6269,7 +6355,7 @@ created: 2026-04-29
 
 ### 6. Enhancing the Data Model: Quick Measures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20270076?u=76281980)
@@ -6411,7 +6497,7 @@ created: 2026-04-29
 
 ### 7. Building Desktop Visualizations: The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20264877?u=76281980)
@@ -7295,7 +7381,7 @@ created: 2026-04-29
 
 ### 8. Building Desktop Visualizations: Next Level
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20266940?u=76281980)
@@ -8622,7 +8708,7 @@ created: 2026-04-29
 
 ### 9. Using the Power BI service: Reading View
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-20268230?u=76281980)
@@ -9005,7 +9091,7 @@ created: 2026-04-29
 
 ### 10. Using the Power BI Service Next Level
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23451332?u=76281980)
@@ -9487,7 +9573,7 @@ created: 2026-04-29
 
 ### 11. Implementing Security and Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/learning-objectives-23455255?u=76281980)
@@ -9763,7 +9849,7 @@ created: 2026-04-29
 
 ### 12. Summary
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-power-bi-for-data-analysts-by-microsoft-press/summary?u=76281980)

@@ -49,17 +49,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Graphic Design Projects]]** (6 videos)
-- **[[#2. Learning about Type and Typography]]** (7 videos)
-- **[[#3. Layout and Composition]]** (6 videos)
-- **[[#4. Color]]** (7 videos)
-- **[[#5. Imagery]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course introduction
+- [**1. Graphic Design Projects**](#1-graphic-design-projects) (6 videos)
+  - The creative process
+  - The creative brief
+  - Research
+  - Ideation
+  - Production
+  - Challenge: Brand of you
+- [**2. Learning about Type and Typography**](#2-learning-about-type-and-typography) (7 videos)
+  - Font vs. type
+  - Key typographic terms
+  - Basic type classifications
+  - Type anatomy
+  - Understanding character attributes
+  - Understanding paragraph attributes
+  - Challenge: Quote poster
+- [**3. Layout and Composition**](#3-layout-and-composition) (6 videos)
+  - Principles of layout
+  - The design space
+  - Space
+  - Using grids
+  - Building a layout
+  - Challenge: Deconstructing layouts
+- [**4. Color**](#4-color) (7 videos)
+  - Color
+  - Digital color
+  - Color harmonies
+  - Color associations
+  - Color as information
+  - Digital and print colors
+  - Challenge: Map
+- [**5. Imagery**](#5-imagery) (4 videos)
+  - Photo vs. illustration
+  - Cropping images
+  - Generative AI
+  - Challenge: The art of cropping
+- [**Conclusion**](#conclusion) (1 videos)
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/course-intro?u=76281980)
@@ -85,7 +117,7 @@ created: 2026-04-29
 
 ### 1. Graphic Design Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The creative process
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/the-creative-process?u=76281980)
@@ -276,7 +308,7 @@ created: 2026-04-29
 
 ### 2. Learning about Type and Typography
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Font vs. type
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/font-vs-type?u=76281980)
@@ -765,7 +797,7 @@ created: 2026-04-29
 
 ### 3. Layout and Composition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Principles of layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/principles-of-layout?u=76281980)
@@ -1023,7 +1055,7 @@ created: 2026-04-29
 
 ### 4. Color
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Color
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/color?u=76281980)
@@ -1295,7 +1327,7 @@ created: 2026-04-29
 
 ### 5. Imagery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Photo vs. illustration
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/photo-vs-illustration?u=76281980)
@@ -1442,7 +1474,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-graphic-design-concepts-24343462/conclusion?u=76281980)

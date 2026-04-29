@@ -58,19 +58,69 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Defining Data Science]]** (6 videos)
-- **[[#2. Marketplaces]]** (8 videos)
-- **[[#3. Skills]]** (7 videos)
-- **[[#4. Roles]]** (8 videos)
-- **[[#5. Certifications]]** (7 videos)
-- **[[#6. Future of Data Science]]** (5 videos)
-- **[[#7. Voices from the Field]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - An expanding universe of data science career options
+  - What you should know
+- [**1. Defining Data Science**](#1-defining-data-science) (6 videos)
+  - Introduction
+  - A brief history
+  - Fundamentals
+  - Big data analytics
+  - Enabling technologies
+  - Artificial intelligence (AI) and data science
+- [**2. Marketplaces**](#2-marketplaces) (8 videos)
+  - Introduction to marketplaces
+  - Fraud detection
+  - Social media analytics
+  - Disease control
+  - Dating services
+  - Simulations
+  - Climate research
+  - Network security
+- [**3. Skills**](#3-skills) (7 videos)
+  - Required skills
+  - Data mining and analytics
+  - Machine learning
+  - Natural language processing
+  - Statistics
+  - Visualization
+  - Large language models (LLMs)
+- [**4. Roles**](#4-roles) (8 videos)
+  - Introduction to roles
+  - Data scientist or engineer
+  - Business intelligence architect
+  - Machine learning scientist
+  - Business analytics specialist
+  - Data visualization developer
+  - AI engineer
+  - Salaries
+- [**5. Certifications**](#5-certifications) (7 videos)
+  - Introduction to certifications
+  - Azure Data Scientist Associate certification
+  - Cloudera Data Platform certification
+  - Dell Data Science track
+  - AWS and Google certification
+  - SAS big data and data scientist certifications
+  - Certified Analytics Professional (CAP)
+- [**6. Future of Data Science**](#6-future-of-data-science) (5 videos)
+  - Introduction to the future of data science
+  - Emerging technologies
+  - Emerging careers
+  - Ethics
+  - Professional development
+- [**7. Voices from the Field**](#7-voices-from-the-field) (6 videos)
+  - Introduction to voices from the field
+  - Senior data scientist
+  - College senior
+  - Graduate student
+  - Employer
+  - How to start
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your data science and analytics career journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An expanding universe of data science career options
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/an-expanding-universe-of-data-science-career-options-31358107?u=76281980)
@@ -123,7 +173,7 @@ created: 2026-04-29
 
 ### 1. Defining Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction?u=76281980)
@@ -378,7 +428,7 @@ created: 2026-04-29
 
 ### 2. Marketplaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to marketplaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-marketplaces?u=76281980)
@@ -645,7 +695,7 @@ created: 2026-04-29
 
 ### 3. Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Required skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/required-skills?u=76281980)
@@ -899,7 +949,7 @@ created: 2026-04-29
 
 ### 4. Roles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-roles?u=76281980)
@@ -1224,7 +1274,7 @@ created: 2026-04-29
 
 ### 5. Certifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-certifications-31344110?u=76281980)
@@ -1435,7 +1485,7 @@ created: 2026-04-29
 
 ### 6. Future of Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the future of data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-the-future-of-data-science?u=76281980)
@@ -1610,7 +1660,7 @@ created: 2026-04-29
 
 ### 7. Voices from the Field
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to voices from the field
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/introduction-to-voices-from-the-field?u=76281980)
@@ -1931,7 +1981,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your data science and analytics career journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-and-analytics-career-paths-and-certifications-first-steps-14579148/continue-your-data-science-and-analytics-career-journey-31373055?u=76281980)

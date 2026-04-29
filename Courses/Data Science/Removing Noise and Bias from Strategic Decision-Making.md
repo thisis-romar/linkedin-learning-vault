@@ -46,15 +46,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Recognizing Decision Noise]]** (4 videos)
-- **[[#2. Reducing Decision Bias]]** (5 videos)
-- **[[#3. Performing Decision Hygiene]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - What causes strategic decision errors
+  - Separating noise from bias
+  - Do you practice decision hygiene?
+- [**1. Recognizing Decision Noise**](#1-recognizing-decision-noise) (4 videos)
+  - What causes noise?
+  - How to see noise
+  - Identifying types of noise
+  - Reducing hidden noise
+- [**2. Reducing Decision Bias**](#2-reducing-decision-bias) (5 videos)
+  - Avoiding the cascade bias
+  - Recognizing algorithm bias
+  - Addressing unfairness
+  - Maximizing the benefits of diversity
+  - Designating and training a decision observer
+- [**3. Performing Decision Hygiene**](#3-performing-decision-hygiene) (5 videos)
+  - Becoming a decision architect
+  - Agreeing on what matters
+  - Taking the outside view
+  - Judging independently
+  - Making the decision
+- [**Conclusion**](#conclusion) (1 videos)
+  - Making personal strategic decisions
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What causes strategic decision errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-strategic-decision-errors?u=76281980)
@@ -337,7 +355,7 @@ created: 2026-04-29
 
 ### 1. Recognizing Decision Noise
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What causes noise?
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/what-causes-noise?u=76281980)
@@ -679,7 +697,7 @@ created: 2026-04-29
 
 ### 2. Reducing Decision Bias
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding the cascade bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/avoiding-the-cascade-bias?u=76281980)
@@ -1119,7 +1137,7 @@ created: 2026-04-29
 
 ### 3. Performing Decision Hygiene
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a decision architect
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/becoming-a-decision-architect?u=76281980)
@@ -1534,7 +1552,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making personal strategic decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/removing-noise-and-bias-from-strategic-decision-making/making-personal-strategic-decisions?u=76281980)

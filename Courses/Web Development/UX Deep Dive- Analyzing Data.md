@@ -46,15 +46,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Analyzing Data]]** (1 videos)
-- **[[#1. Research Goals and Hypotheses]]** (2 videos)
-- **[[#2. Types of Data]]** (2 videos)
-- **[[#3. Analyzing Qualitative Data]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Analyzing Data**](#analyzing-data) (1 videos)
+  - Data is king
+- [**1. Research Goals and Hypotheses**](#1-research-goals-and-hypotheses) (2 videos)
+  - Setting your objectives
+  - Different data types
+- [**2. Types of Data**](#2-types-of-data) (2 videos)
+  - Breaking down qualitative data
+  - Tagging, pruning, and sorting qualitative data
+- [**3. Analyzing Qualitative Data**](#3-analyzing-qualitative-data) (1 videos)
+  - Filtering into actionable insights
+- [**Conclusion**](#conclusion) (1 videos)
+  - Turning raw data into deep insights
 
 ### Analyzing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data is king
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/data-is-king?u=76281980)
@@ -85,7 +92,7 @@ created: 2026-04-29
 
 ### 1. Research Goals and Hypotheses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting your objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/setting-your-objectives?u=76281980)
@@ -222,7 +229,7 @@ created: 2026-04-29
 
 ### 2. Types of Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking down qualitative data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/breaking-down-qualitative-data?u=76281980)
@@ -417,7 +424,7 @@ created: 2026-04-29
 
 ### 3. Analyzing Qualitative Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering into actionable insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/filtering-into-actionable-insights?u=76281980)
@@ -554,7 +561,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Turning raw data into deep insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-analyzing-data/turning-raw-data-into-deep-insights?u=76281980)

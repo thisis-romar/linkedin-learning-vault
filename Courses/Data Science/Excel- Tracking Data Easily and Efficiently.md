@@ -48,23 +48,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Planning Your Data Tracker]]** (2 videos)
-- **[[#2. Helpful Data Tracking Features]]** (6 videos)
-- **[[#3. Protecting Your Work and Calculations]]** (3 videos)
-- **[[#4. Managing Inputs and Calculations]]** (5 videos)
-- **[[#5. Midterm: Building a Tracker]]** (2 videos)
-- **[[#6. Dynamic Arrays and the New Excel Calculation Engine]]** (3 videos)
-- **[[#7. VLOOKUP and XLOOKUP]]** (4 videos)
-- **[[#8. PivotTable Basics]]** (3 videos)
-- **[[#9. Using Power Query to Clean, Format, and Automate]]** (4 videos)
-- **[[#10. Pretty It Up!]]** (4 videos)
-- **[[#11. Get Hands On]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Efficient data tracking in Excel
+- [**1. Planning Your Data Tracker**](#1-planning-your-data-tracker) (2 videos)
+  - Introducing tables
+  - Key features of an effective data tracker
+- [**2. Helpful Data Tracking Features**](#2-helpful-data-tracking-features) (6 videos)
+  - Thinking about input, storage, and output
+  - Incorporating charts into your tracker
+  - Adding helper columns
+  - Using Slicers to filter for details
+  - Summary pages and dashboards
+  - Ad hoc vs. at-a-glance needs
+- [**3. Protecting Your Work and Calculations**](#3-protecting-your-work-and-calculations) (3 videos)
+  - Protecting cells and sheets
+  - Hidden sheets
+  - Hidden columns and rows
+- [**4. Managing Inputs and Calculations**](#4-managing-inputs-and-calculations) (5 videos)
+  - Using dropdown lists for accuracy and consistency
+  - Applying formula triggers to prevent inaccurate results
+  - Using cross-footing as a check for data quality
+  - Data validation for reasonable values
+  - Times: Checking data quality
+- [**5. Midterm: Building a Tracker**](#5-midterm-building-a-tracker) (2 videos)
+  - Challenge: Building a data tracker for event details
+  - Solution: Building a data tracker for event details
+- [**6. Dynamic Arrays and the New Excel Calculation Engine**](#6-dynamic-arrays-and-the-new-excel-calculation-engine) (3 videos)
+  - Dynamic Arrays: One formula, many results
+  - Dynamic Arrays: FILTER, UNIQUE, SORT
+  - Dynamic Arrays: TOCOL, dropdowns, and conditional formatting
+- [**7. VLOOKUP and XLOOKUP**](#7-vlookup-and-xlookup) (4 videos)
+  - VLOOKUP
+  - Categorizing bonuses with VLOOKUP
+  - Merging data with XLOOKUP
+  - Categorizing bonuses with XLOOKUP
+- [**8. PivotTable Basics**](#8-pivottable-basics) (3 videos)
+  - What is a PivotTable?
+  - Preparing and connecting a PivotTable to your data
+  - Building and using a PivotTable
+- [**9. Using Power Query to Clean, Format, and Automate**](#9-using-power-query-to-clean-format-and-automate) (4 videos)
+  - Power Query overview
+  - Splitting columns
+  - Append in Power Query
+  - Unpivot and fill-down
+- [**10. Pretty It Up!**](#10-pretty-it-up) (4 videos)
+  - Data bars for easy visual comparison
+  - Connecting a value to a shape
+  - Hiding zeroes
+  - Conditional formatting to warn of deadlines
+- [**11. Get Hands On**](#11-get-hands-on) (4 videos)
+  - Challenge: Building a tracker 1
+  - Solution: Building a tracker 1
+  - Challenge: Building a tracker 2
+  - Solution: Building a tracker 2
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your data tracking journey in Excel
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Efficient data tracking in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/efficient-data-tracking-in-excel?u=76281980)
@@ -96,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Planning Your Data Tracker
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/introducing-tables?u=76281980)
@@ -400,7 +442,7 @@ created: 2026-04-29
 
 ### 2. Helpful Data Tracking Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking about input, storage, and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/thinking-about-input-storage-and-output?u=76281980)
@@ -1100,7 +1142,7 @@ created: 2026-04-29
 
 ### 3. Protecting Your Work and Calculations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting cells and sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/protecting-cells-and-sheets?u=76281980)
@@ -1429,7 +1471,7 @@ created: 2026-04-29
 
 ### 4. Managing Inputs and Calculations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using dropdown lists for accuracy and consistency
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/using-dropdown-lists-for-accuracy-and-consistency?u=76281980)
@@ -2040,7 +2082,7 @@ created: 2026-04-29
 
 ### 5. Midterm: Building a Tracker
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Building a data tracker for event details
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-data-tracker-for-event-details?u=76281980)
@@ -2291,7 +2333,7 @@ created: 2026-04-29
 
 ### 6. Dynamic Arrays and the New Excel Calculation Engine
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic Arrays: One formula, many results
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/dynamic-arrays-one-formula-many-results?u=76281980)
@@ -2785,7 +2827,7 @@ created: 2026-04-29
 
 ### 7. VLOOKUP and XLOOKUP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### VLOOKUP
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/vlookup?u=76281980)
@@ -3224,7 +3266,7 @@ created: 2026-04-29
 
 ### 8. PivotTable Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a PivotTable?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/what-is-a-pivottable?u=76281980)
@@ -3763,7 +3805,7 @@ created: 2026-04-29
 
 ### 9. Using Power Query to Clean, Format, and Automate
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Power Query overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/power-query-overview?u=76281980)
@@ -4681,7 +4723,7 @@ created: 2026-04-29
 
 ### 10. Pretty It Up!
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data bars for easy visual comparison
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/data-bars-for-easy-visual-comparison?u=76281980)
@@ -5133,7 +5175,7 @@ created: 2026-04-29
 
 ### 11. Get Hands On
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Building a tracker 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/challenge-building-a-tracker-1?u=76281980)
@@ -5546,7 +5588,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your data tracking journey in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently-22680069/continue-your-data-tracking-journey-in-excel?u=76281980)

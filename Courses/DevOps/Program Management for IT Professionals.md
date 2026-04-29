@@ -49,17 +49,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Program Management Overview]]** (4 videos)
-- **[[#2. Program Concept Development]]** (5 videos)
-- **[[#3. Program Planning]]** (10 videos)
-- **[[#4. Program Execution and Control]]** (5 videos)
-- **[[#5. Program Closure]]** (6 videos)
-- **[[#Conculsion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Program management at a high level
+  - What you should already know
+- [**1. Program Management Overview**](#1-program-management-overview) (4 videos)
+  - What is program management?
+  - What is the role of a program manager?
+  - What skills and traits should program managers possess?
+  - Careers in program management
+- [**2. Program Concept Development**](#2-program-concept-development) (5 videos)
+  - Developing your program concept
+  - Building a business case
+  - Creating a program charter
+  - What about a program slide deck?
+  - Putting it all together: Program concept development
+- [**3. Program Planning**](#3-program-planning) (10 videos)
+  - Making your program the top priority
+  - Monitoring progress using key performance metrics
+  - Selecting methodologies
+  - Setting program standards
+  - Identifying and managing stakeholders
+  - Building and managing a team of teams
+  - Managing the RACI matrix and reporting structures
+  - Managing scope, schedule, and budget changes
+  - Managing risks and issues
+  - Putting it all together: Program planning
+- [**4. Program Execution and Control**](#4-program-execution-and-control) (5 videos)
+  - Kicking off your program
+  - Dashboards and reports
+  - Managing interdependencies
+  - Providing leadership to your teams
+  - Putting it all together: Program execution and control
+- [**5. Program Closure**](#5-program-closure) (6 videos)
+  - Closing your program
+  - Capturing lessons learned
+  - Project closures
+  - Implementing continuous improvement
+  - Finalizing your program
+  - Putting it all together: Program closure
+- [**Conculsion**](#conculsion) (1 videos)
+  - Open to change
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Program management at a high level
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/program-management-at-a-high-level?u=76281980)
@@ -118,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Program Management Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is program management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/what-is-program-management?u=76281980)
@@ -422,7 +455,7 @@ created: 2026-04-29
 
 ### 2. Program Concept Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing your program concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/developing-your-program-concept?u=76281980)
@@ -806,7 +839,7 @@ created: 2026-04-29
 
 ### 3. Program Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making your program the top priority
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/making-your-program-the-top-priority?u=76281980)
@@ -1539,7 +1572,7 @@ created: 2026-04-29
 
 ### 4. Program Execution and Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kicking off your program
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/kicking-off-your-program?u=76281980)
@@ -1892,7 +1925,7 @@ created: 2026-04-29
 
 ### 5. Program Closure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Closing your program
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/closing-your-program?u=76281980)
@@ -2191,7 +2224,7 @@ created: 2026-04-29
 
 ### Conculsion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Open to change
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-management-for-it-professionals-25623705/open-to-change?u=76281980)

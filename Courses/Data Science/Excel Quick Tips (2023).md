@@ -44,17 +44,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Data Entry Tips]]** (8 videos)
-- **[[#2. Working with Data]]** (7 videos)
-- **[[#3. Formatting Tips]]** (12 videos)
-- **[[#4. Viewing Options]]** (4 videos)
-- **[[#5. Collaborating on Spreadsheets]]** (4 videos)
-- **[[#6. Working with Files]]** (7 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Get answers to common Excel questions
+- [**1. Data Entry Tips**](#1-data-entry-tips) (8 videos)
+  - Fill in a series of data
+  - Quickly insert multiple rows and columns
+  - Insert links
+  - Create and manage dropdown lists
+  - Summing rows
+  - Fill in contents with Flash Fill
+  - Quickly insert a total
+  - Extract part of a cell's contents
+- [**2. Working with Data**](#2-working-with-data) (7 videos)
+  - Select specific rows or columns
+  - Find named ranges
+  - Change sort order
+  - Filter data
+  - Remove duplicate entries
+  - Convert formula values to plain numbers
+  - Transpose data from vertical to horizontal
+- [**3. Formatting Tips**](#3-formatting-tips) (12 videos)
+  - Text wrap
+  - Rotate and align cell data
+  - Apply international currency formats
+  - Apply cell styles
+  - Page options
+  - Adjust row height and column width
+  - Add headers and footers
+  - Align cells
+  - Add a watermark
+  - Conditional formatting by cell contents
+  - Copy and paste cell formatting
+  - Merge cells
+- [**4. Viewing Options**](#4-viewing-options) (4 videos)
+  - Change magnification
+  - Freeze panes
+  - Hide and unhide columns and rows
+  - Show and hide grouped data
+- [**5. Collaborating on Spreadsheets**](#5-collaborating-on-spreadsheets) (4 videos)
+  - Insert and respond to comments
+  - Collaborate on an Excel file
+  - Highlight portions of a spreadsheet
+  - Draw and mark up spreadsheets
+- [**6. Working with Files**](#6-working-with-files) (7 videos)
+  - Encrypt a workbook with a password
+  - Restrict editing
+  - Save as PDF or CSV
+  - Inspect a spreadsheet
+  - Check for compatibility issues
+  - Add and reference worksheets
+  - Lock cells
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get answers to common Excel questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/get-answers-to-common-excel-questions?u=76281980)
@@ -80,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Data Entry Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fill in a series of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/fill-in-a-series-of-data?u=76281980)
@@ -358,7 +401,7 @@ created: 2026-04-29
 
 ### 2. Working with Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Select specific rows or columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/select-specific-rows-or-columns?u=76281980)
@@ -567,7 +610,7 @@ created: 2026-04-29
 
 ### 3. Formatting Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Text wrap
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/text-wrap?u=76281980)
@@ -904,7 +947,7 @@ created: 2026-04-29
 
 ### 4. Viewing Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change magnification
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/change-magnification?u=76281980)
@@ -1011,7 +1054,7 @@ created: 2026-04-29
 
 ### 5. Collaborating on Spreadsheets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Insert and respond to comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/insert-and-respond-to-comments?u=76281980)
@@ -1134,7 +1177,7 @@ created: 2026-04-29
 
 ### 6. Working with Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Encrypt a workbook with a password
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-quick-tips-2023/encrypt-a-workbook-with-a-password?u=76281980)

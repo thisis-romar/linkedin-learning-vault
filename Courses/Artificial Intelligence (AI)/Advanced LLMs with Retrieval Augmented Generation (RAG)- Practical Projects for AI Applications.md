@@ -52,14 +52,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Text Encoding Using Embedding Vectors]]** (6 videos)
-- **[[#2. Document Chunking and Enrichment Strategies]]** (6 videos)
-- **[[#3. Improving Document Retrieval]]** (5 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Course introductions
+  - Understanding the basics of RAG
+  - Building a simple RAG example
+  - Issues with simple RAG
+- [**1. Text Encoding Using Embedding Vectors**](#1-text-encoding-using-embedding-vectors) (6 videos)
+  - Embedding introduction
+  - Hands-on lab: Embedding tokenization
+  - Hands-on lab: Embedding vocabulary
+  - Hands-on lab: Sentence embedding
+  - Hands-on lab: Content embedding
+  - Embedding notebook summary
+- [**2. Document Chunking and Enrichment Strategies**](#2-document-chunking-and-enrichment-strategies) (6 videos)
+  - Chunking introduction
+  - Hands-on lab: Semantic chunking
+  - Chunking overview
+  - Hands-on lab: Contextual retrieval
+  - Query document alignment
+  - Hands-on lab: Reverse HyDE
+- [**3. Improving Document Retrieval**](#3-improving-document-retrieval) (5 videos)
+  - Hybrid search introduction
+  - Hands-on lab: Hybrid search
+  - Hands-on lab: Reranking
+  - Multimodal retrieval introduction
+  - Hands-on lab: Multimodal PDF retrieval
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introductions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/course-introductions?u=76281980)
@@ -529,7 +550,7 @@ created: 2026-04-29
 
 ### 1. Text Encoding Using Embedding Vectors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embedding introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/embedding-introduction?u=76281980)
@@ -1195,7 +1216,7 @@ created: 2026-04-29
 
 ### 2. Document Chunking and Enrichment Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Chunking introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/chunking-introduction?u=76281980)
@@ -1914,7 +1935,7 @@ created: 2026-04-29
 
 ### 3. Improving Document Retrieval
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid search introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llms-with-retrieval-augmented-generation-rag-practical-projects-for-ai-applications/hybrid-search-introduction?u=76281980)

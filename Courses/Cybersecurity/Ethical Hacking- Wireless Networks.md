@@ -49,17 +49,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Wi-Fi Networks]]** (10 videos)
-- **[[#2. Rogue Access Points]]** (5 videos)
-- **[[#3. Bluetooth]]** (3 videos)
-- **[[#4. Additional Tools]]** (7 videos)
-- **[[#5. Internet of Things]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn how to protect your wireless network
+  - What you should know before watching this course
+  - Course disclaimer
+- [**1. Wi-Fi Networks**](#1-wi-fi-networks) (10 videos)
+  - Understanding wireless networks
+  - Selecting an antenna for wireless network testing
+  - Configuring security in wireless networks
+  - Understanding the Wi-Fi Protected Setup (WPS)
+  - Extracting WEP passwords using Wifite
+  - Extracting network passwords through WPS
+  - Using WiFite and Aircrack-ng to test WPA passwords
+  - Using Pixiedust to recover keys
+  - A first look at WPA3
+  - Understanding Dragonblood
+- [**2. Rogue Access Points**](#2-rogue-access-points) (5 videos)
+  - Harvesting connections with an evil twin
+  - Set up the WiFi Pineapple
+  - Harvest credentials with the WiFi Pineapple
+  - Capturing WPA handshakes
+  - Scanning and attacking with Fluxion
+- [**3. Bluetooth**](#3-bluetooth) (3 videos)
+  - Understanding Bluetooth
+  - Scanning for Bluetooth devices
+  - Legacy attacks using Bluesnarfer
+- [**4. Additional Tools**](#4-additional-tools) (7 videos)
+  - Using FernWi-Fi Cracker
+  - Discovering networks with inSSIDer
+  - Capturing wireless packets with Acrylic Analyzer
+  - Heat mapping with Ekehau
+  - Wi-Fi sniffing using Wireshark
+  - Scanning with Vistumbler
+  - Using Commview to scan Wi-Fi networks
+- [**5. Internet of Things**](#5-internet-of-things) (1 videos)
+  - Testing the Internet of Things
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn how to protect your wireless network
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/learn-how-to-protect-your-wireless-network?u=76281980)
@@ -160,7 +190,7 @@ created: 2026-04-29
 
 ### 1. Wi-Fi Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding wireless networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-wireless-networks-2?u=76281980)
@@ -893,7 +923,7 @@ created: 2026-04-29
 
 ### 2. Rogue Access Points
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Harvesting connections with an evil twin
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/harvesting-connections-with-an-evil-twin-2?u=76281980)
@@ -1263,7 +1293,7 @@ created: 2026-04-29
 
 ### 3. Bluetooth
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Bluetooth
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/understanding-bluetooth-2?u=76281980)
@@ -1557,7 +1587,7 @@ created: 2026-04-29
 
 ### 4. Additional Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using FernWi-Fi Cracker
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/using-fernwi-fi-cracker?u=76281980)
@@ -2281,7 +2311,7 @@ created: 2026-04-29
 
 ### 5. Internet of Things
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing the Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/testing-the-internet-of-things-2?u=76281980)
@@ -2374,7 +2404,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-wireless-networks/summary-2?u=76281980)

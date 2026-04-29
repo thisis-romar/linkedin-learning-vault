@@ -43,17 +43,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Key Tools in the AI Tool Chest]]** (3 videos)
-- **[[#2. Predictive Artificial Intelligence]]** (2 videos)
-- **[[#3. Generative Artificial Intelligence]]** (5 videos)
-- **[[#4. Administration at Scale]]** (2 videos)
-- **[[#5. Tools of Today to Build Tomorrow's Tools]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Exploring essential AI tools for everyday business
+- [**1. Key Tools in the AI Tool Chest**](#1-key-tools-in-the-ai-tool-chest) (3 videos)
+  - Tools for toolmakers
+  - The rise of AI systems
+  - Artificial neural networks
+- [**2. Predictive Artificial Intelligence**](#2-predictive-artificial-intelligence) (2 videos)
+  - How to build a machine learning platform
+  - Fine-tune your data model
+- [**3. Generative Artificial Intelligence**](#3-generative-artificial-intelligence) (5 videos)
+  - The flexibility of foundation models
+  - Generate text with large language models (LLM)
+  - Run a local LLM with Llama
+  - The promise of prompt engineering
+  - Create graphics with image diffusion models
+- [**4. Administration at Scale**](#4-administration-at-scale) (2 videos)
+  - How machines learn
+  - Self-supervised learning
+- [**5. Tools of Today to Build Tomorrow's Tools**](#5-tools-of-today-to-build-tomorrows-tools) (2 videos)
+  - The AI upskilling framework
+  - Human intelligence
+- [**Conclusion**](#conclusion) (1 videos)
+  - Tools and concepts
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring essential AI tools for everyday business
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/exploring-essential-ai-tools-for-eveyday-business?u=76281980)
@@ -91,7 +107,7 @@ created: 2026-04-29
 
 ### 1. Key Tools in the AI Tool Chest
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools for toolmakers
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-for-toolmakers?u=76281980)
@@ -363,7 +379,7 @@ created: 2026-04-29
 
 ### 2. Predictive Artificial Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to build a machine learning platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/how-to-build-a-machine-learning-platform?u=76281980)
@@ -526,7 +542,7 @@ created: 2026-04-29
 
 ### 3. Generative Artificial Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The flexibility of foundation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/the-flexibility-of-foundation-models?u=76281980)
@@ -962,7 +978,7 @@ created: 2026-04-29
 
 ### 4. Administration at Scale
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How machines learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/how-machines-learn?u=76281980)
@@ -1132,7 +1148,7 @@ created: 2026-04-29
 
 ### 5. Tools of Today to Build Tomorrow's Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The AI upskilling framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/the-ai-upskilling-framework?u=76281980)
@@ -1297,7 +1313,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/everyday-ai-business-tools/tools-and-concepts?u=76281980)

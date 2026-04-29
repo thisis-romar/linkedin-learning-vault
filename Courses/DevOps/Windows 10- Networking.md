@@ -41,16 +41,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Configure IP Settings and Network Connectivity]]** (8 videos)
-- **[[#2. Configure Wireless Networking Settings]]** (3 videos)
-- **[[#3. Configure and Maintain]]** (4 videos)
-- **[[#4. Networking and Troubleshooting Basics]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Understanding Windows 10 networking
+- [**1. Configure IP Settings and Network Connectivity**](#1-configure-ip-settings-and-network-connectivity) (8 videos)
+  - Connect to the internet
+  - Network profiles
+  - Configure advanced profile sharing options
+  - Network connectivity: TCP/IP
+  - Network connectivity: DHCP and DNS
+  - Configure network adapters
+  - Manage default printers
+  - Create a VPN
+- [**2. Configure Wireless Networking Settings**](#2-configure-wireless-networking-settings) (3 videos)
+  - Connect to a wireless network
+  - Manage wireless networks
+  - Troubleshoot wireless network connectivity
+- [**3. Configure and Maintain**](#3-configure-and-maintain) (4 videos)
+  - Configure Windows Defender Firewall
+  - Manage Windows Defender Firewall with advanced security
+  - Explore Windows Security
+  - Create a connection security rule
+- [**4. Networking and Troubleshooting Basics**](#4-networking-and-troubleshooting-basics) (4 videos)
+  - Use ping to troubleshoot network connectivity
+  - Use ipconfig to troubleshoot network connectivity
+  - Use tracert to troubleshoot network connectivity
+  - Use PathPing to troubleshoot network connectivity
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Windows 10 networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/understanding-windows-10-networking?u=76281980)
@@ -88,7 +109,7 @@ created: 2026-04-29
 
 ### 1. Configure IP Settings and Network Connectivity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-the-internet?u=76281980)
@@ -866,7 +887,7 @@ created: 2026-04-29
 
 ### 2. Configure Wireless Networking Settings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to a wireless network
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/connect-to-a-wireless-network?u=76281980)
@@ -1160,7 +1181,7 @@ created: 2026-04-29
 
 ### 3. Configure and Maintain
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure Windows Defender Firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/configure-windows-defender-firewall?u=76281980)
@@ -1495,7 +1516,7 @@ created: 2026-04-29
 
 ### 4. Networking and Troubleshooting Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use ping to troubleshoot network connectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/use-ping-to-troubleshoot-network-connectivity?u=76281980)
@@ -1918,7 +1939,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-networking-22602895/next-steps?u=76281980)

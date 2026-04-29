@@ -54,16 +54,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Prompt Engineering Basics]]** (6 videos)
-- **[[#2. Practical Applications of ChatGPT in Data Engineering]]** (6 videos)
-- **[[#3. Advanced Applications in PySpark and Databricks]]** (3 videos)
-- **[[#4. Security and Ethical Considerations]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to ChatGPT for data engineering
+  - Setting expectations
+- [**1. Prompt Engineering Basics**](#1-prompt-engineering-basics) (6 videos)
+  - Understanding prompt engineering
+  - Writing effective prompts for coding tasks
+  - Common pitfalls and how to avoid them
+  - Refining prompts for better results
+  - Using contextual prompts
+  - Combining multiple prompts for complex tasks
+- [**2. Practical Applications of ChatGPT in Data Engineering**](#2-practical-applications-of-chatgpt-in-data-engineering) (6 videos)
+  - Generating data engineering code with ChatGPT
+  - Automating documentation with ChatGPT
+  - Debugging data pipelines using ChatGPT
+  - Optimizing SQL queries with ChatGPT
+  - Using ChatGPT for data cleaning scripts
+  - ChatGPT for data analysis and insights
+- [**3. Advanced Applications in PySpark and Databricks**](#3-advanced-applications-in-pyspark-and-databricks) (3 videos)
+  - Generating PySpark code with ChatGPT
+  - Optimizing PySpark jobs using ChatGPT
+  - Using ChatGPT in Databricks notebooks
+- [**4. Security and Ethical Considerations**](#4-security-and-ethical-considerations) (3 videos)
+  - Data privacy and security with ChatGPT
+  - Ethical AI usage in data engineering
+  - Ensuring compliance and data governance
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ChatGPT for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980)
@@ -117,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Prompt Engineering Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980)
@@ -581,7 +602,7 @@ created: 2026-04-29
 
 ### 2. Practical Applications of ChatGPT in Data Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating data engineering code with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980)
@@ -951,7 +972,7 @@ created: 2026-04-29
 
 ### 3. Advanced Applications in PySpark and Databricks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating PySpark code with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980)
@@ -1116,7 +1137,7 @@ created: 2026-04-29
 
 ### 4. Security and Ethical Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data privacy and security with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980)
@@ -1289,7 +1310,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980)

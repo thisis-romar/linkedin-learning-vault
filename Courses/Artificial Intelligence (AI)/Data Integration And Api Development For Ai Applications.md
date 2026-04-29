@@ -49,15 +49,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Approaches to Data Integration]]** (7 videos)
-- **[[#2. Integrate Data into a Unified Analytics Platform]]** (3 videos)
-- **[[#3. API Development for AI Applications]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - The need for data integration and APIs
+  - Prerequisites
+  - The need for data integration in AI
+  - Data silos
+- [**1. Approaches to Data Integration**](#1-approaches-to-data-integration) (7 videos)
+  - Phases of data integration: Data sources
+  - Phases of data integration: Data ingestion
+  - Phases of data integration: Data mapping, transformation, and loading
+  - Methods of data integration
+  - ETL and ELT
+  - Streaming integration and change data capture
+  - Best practices and challenges in data integration
+- [**2. Integrate Data into a Unified Analytics Platform**](#2-integrate-data-into-a-unified-analytics-platform) (3 videos)
+  - Uploading data to Azure Blob storage
+  - Ingesting data into Microsoft Fabric using shortcuts
+  - ETL with Fabric dataflows
+- [**3. API Development for AI Applications**](#3-api-development-for-ai-applications) (6 videos)
+  - APIs to work with data and AI
+  - API types, benefits, and best practices
+  - Designing APIs
+  - Steps in API design
+  - API gateways
+  - Capabilities and benefits of API gateways
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and further study
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for data integration and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/the-need-for-data-integration-and-apis?u=76281980)
@@ -413,7 +434,7 @@ created: 2026-04-29
 
 ### 1. Approaches to Data Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Phases of data integration: Data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/phases-of-data-integration-data-sources?u=76281980)
@@ -1047,7 +1068,7 @@ created: 2026-04-29
 
 ### 2. Integrate Data into a Unified Analytics Platform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Uploading data to Azure Blob storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/uploading-data-to-azure-blob-storage?u=76281980)
@@ -1404,7 +1425,7 @@ created: 2026-04-29
 
 ### 3. API Development for AI Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### APIs to work with data and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/apis-to-work-with-data-and-ai?u=76281980)
@@ -2114,7 +2135,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and further study
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-integration-and-api-development-for-ai-applications/summary-and-further-study?u=76281980)

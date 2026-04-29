@@ -53,17 +53,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. SQL for Data Engineers]]** (5 videos)
-- **[[#2. Modeling in SQL]]** (6 videos)
-- **[[#3. Table Materializations]]** (5 videos)
-- **[[#4. Common Table Expressions vs. Subqueries]]** (5 videos)
-- **[[#5. Testing SQL with dbt]]** (5 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introduction
+  - What you should know
+  - Codespaces introduction
+- [**1. SQL for Data Engineers**](#1-sql-for-data-engineers) (5 videos)
+  - SQL as a data engineer
+  - The modern data stack and SQL
+  - Schema design
+  - Challenge: Schema design
+  - Solution: Schema design
+- [**2. Modeling in SQL**](#2-modeling-in-sql) (6 videos)
+  - Supply chain outage: SQL spaghetti
+  - Data build tool (dbt)
+  - Modeling in dbt
+  - Running dbt
+  - Challenge: Modeling taxi data
+  - Solution: Modeling taxi data
+- [**3. Table Materializations**](#3-table-materializations) (5 videos)
+  - Crypto cost: Materializations
+  - Materialization terminology
+  - Incremental materializations
+  - Challenge: Materializations
+  - Solution: Materializations
+- [**4. Common Table Expressions vs. Subqueries**](#4-common-table-expressions-vs-subqueries) (5 videos)
+  - Construction planning: Query complexity
+  - Common table expressions (CTEs) vs. subqueries
+  - CTEs in dbt
+  - Challenge: Implementing CTEs
+  - Solution: Implementing CTEs
+- [**5. Testing SQL with dbt**](#5-testing-sql-with-dbt) (5 videos)
+  - Advertising: Testing SQL
+  - Unit testing using dbt
+  - Custom tests in dbt
+  - Challenge: Testing SQL
+  - Solution: Testing SQL
+- [**Conclusion**](#conclusion) (2 videos)
+  - Looking ahead
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980)
@@ -207,7 +238,7 @@ created: 2026-04-29
 
 ### 1. SQL for Data Engineers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL as a data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980)
@@ -537,7 +568,7 @@ created: 2026-04-29
 
 ### 2. Modeling in SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supply chain outage: SQL spaghetti
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980)
@@ -991,7 +1022,7 @@ created: 2026-04-29
 
 ### 3. Table Materializations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Crypto cost: Materializations
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980)
@@ -1335,7 +1366,7 @@ created: 2026-04-29
 
 ### 4. Common Table Expressions vs. Subqueries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Construction planning: Query complexity
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980)
@@ -1685,7 +1716,7 @@ created: 2026-04-29
 
 ### 5. Testing SQL with dbt
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advertising: Testing SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/advertising-testing-sql?u=76281980)
@@ -2085,7 +2116,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Looking ahead
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980)

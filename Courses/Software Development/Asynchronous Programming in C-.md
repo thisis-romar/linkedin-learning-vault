@@ -46,16 +46,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding Asynchronous Programming]]** (3 videos)
-- **[[#2. Working with Tasks]]** (6 videos)
-- **[[#3. Using async and await]]** (5 videos)
-- **[[#4. Task Cancellation and Progress Monitoring]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Create happier users with asynchronous C#
+  - What you should know
+- [**1. Understanding Asynchronous Programming**](#1-understanding-asynchronous-programming) (3 videos)
+  - What is asynchronous programming?
+  - When and why to write asynchronous code
+  - Patterns for asynchronous programming in C#
+- [**2. Working with Tasks**](#2-working-with-tasks) (6 videos)
+  - Creating and executing tasks
+  - Waiting for tasks to complete
+  - Using continuations
+  - Updating the user interface
+  - Challenge: Create and continue a task
+  - Solution: Create and continue a task
+- [**3. Using async and await**](#3-using-async-and-await) (5 videos)
+  - Benefits of using async and await
+  - Awaiting a task
+  - Handling exceptions
+  - Challenge: Await HTTP requests
+  - Solution: Await HTTP requests
+- [**4. Task Cancellation and Progress Monitoring**](#4-task-cancellation-and-progress-monitoring) (5 videos)
+  - Using cancellation tokens
+  - Implementing timeout cancellations
+  - Reporting task progress
+  - Challenge: Cancel a slow HTTP request
+  - Solution: Cancel a slow HTTP request
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create happier users with asynchronous C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980)
@@ -106,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Understanding Asynchronous Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is asynchronous programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980)
@@ -245,7 +267,7 @@ created: 2026-04-29
 
 ### 2. Working with Tasks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and executing tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980)
@@ -631,7 +653,7 @@ created: 2026-04-29
 
 ### 3. Using async and await
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of using async and await
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/benefits-of-using-async-and-await?u=76281980)
@@ -841,7 +863,7 @@ created: 2026-04-29
 
 ### 4. Task Cancellation and Progress Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using cancellation tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-cancellation-tokens?u=76281980)
@@ -1174,7 +1196,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980)

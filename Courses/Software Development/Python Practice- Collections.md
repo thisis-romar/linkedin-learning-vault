@@ -46,13 +46,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Code Challenges]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Try your Python programming skills
+  - What you should know
+  - Exploring the Lab environment
+- [**1. Code Challenges**](#1-code-challenges) (5 videos)
+  - Solution: Deduplicate and sort a list
+  - Solution: Modify a tuple
+  - Solution: At the bakery
+  - Solution: Who won?
+  - Solution: What's that taste like?
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Try your Python programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980)
@@ -173,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Code Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Deduplicate and sort a list
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/solution-1-deduplicate-and-sort-a-list?u=76281980)
@@ -390,7 +399,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/next-steps?u=76281980)

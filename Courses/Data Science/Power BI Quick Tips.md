@@ -46,19 +46,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Creating Workspaces and Sharing Content]]** (8 videos)
-- **[[#2. Connecting Data]]** (2 videos)
-- **[[#3. Creating Visualizations, Reports, and Dashboards]]** (11 videos)
-- **[[#4. Bookmarks, Favorites, and Notifications]]** (4 videos)
-- **[[#5. Embedding and Exporting Data]]** (5 videos)
-- **[[#6. Working with the Power BI Mobile App]]** (1 videos)
-- **[[#7. Interacting with Power BI Reports in Microsoft Teams]]** (3 videos)
-- **[[#8. Getting Assistance from Copilot in Power BI]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Working faster in Power BI
+- [**1. Creating Workspaces and Sharing Content**](#1-creating-workspaces-and-sharing-content) (8 videos)
+  - Accessing workspaces
+  - Creating a shared workspace in Power BI
+  - Editing a shared workspace
+  - Add people or groups to a shared workspace
+  - Share a semantic model
+  - Discover and use data from the OneLake catalog
+  - Sharing a Power BI dashboard or report
+  - Accessing "Shared with me"
+- [**2. Connecting Data**](#2-connecting-data) (2 videos)
+  - Uploading a file to the Power BI service
+  - Connecting to sample data
+- [**3. Creating Visualizations, Reports, and Dashboards**](#3-creating-visualizations-reports-and-dashboards) (11 videos)
+  - Auto-create a report from a dataset
+  - Create a paginated report from a dataset
+  - Creating a new blank report from a dataset
+  - Creating a page in a report
+  - Creating a chart tile
+  - Pin a visualization to a dashboard
+  - Creating a big number tile
+  - Creating a table tile
+  - Create a slicer
+  - Rearrange and resize tiles
+  - Filter data
+- [**4. Bookmarks, Favorites, and Notifications**](#4-bookmarks-favorites-and-notifications) (4 videos)
+  - Subscribing for email notifications
+  - Set up an alert
+  - Bookmark a report
+  - Favoriting a dashboard
+- [**5. Embedding and Exporting Data**](#5-embedding-and-exporting-data) (5 videos)
+  - Get a link to embed a report to a SharePoint page
+  - Export to Excel for further analysis
+  - Export to PowerPoint
+  - Export to PDF
+  - Generate a QR code
+- [**6. Working with the Power BI Mobile App**](#6-working-with-the-power-bi-mobile-app) (1 videos)
+  - Working with the Power BI iOS mobile app
+- [**7. Interacting with Power BI Reports in Microsoft Teams**](#7-interacting-with-power-bi-reports-in-microsoft-teams) (3 videos)
+  - Adding a Power BI report to a team channel
+  - Sharing a Power BI report to a Teams chat or channel post
+  - Adding the Power BI app to Microsoft Teams
+- [**8. Getting Assistance from Copilot in Power BI**](#8-getting-assistance-from-copilot-in-power-bi) (3 videos)
+  - Asking Copilot to create a report page
+  - Asking Copilot to suggest content for a Power BI report
+  - Asking questions about Power BI report data
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working faster in Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-faster-in-power-bi-25204317?u=76281980)
@@ -82,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Creating Workspaces and Sharing Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing workspaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/accessing-workspaces-24999954?u=76281980)
@@ -365,7 +403,7 @@ created: 2026-04-29
 
 ### 2. Connecting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Uploading a file to the Power BI service
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/uploading-a-file-to-the-power-bi-service-25205182?u=76281980)
@@ -447,7 +485,7 @@ created: 2026-04-29
 
 ### 3. Creating Visualizations, Reports, and Dashboards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Auto-create a report from a dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/auto-create-a-report-from-a-data-set-25203576?u=76281980)
@@ -882,7 +920,7 @@ created: 2026-04-29
 
 ### 4. Bookmarks, Favorites, and Notifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Subscribing for email notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/subscribing-for-email-notifications-25000942?u=76281980)
@@ -1055,7 +1093,7 @@ created: 2026-04-29
 
 ### 5. Embedding and Exporting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get a link to embed a report to a SharePoint page
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/get-a-link-to-embed-a-report-to-a-sharepoint-page-25201874?u=76281980)
@@ -1219,7 +1257,7 @@ created: 2026-04-29
 
 ### 6. Working with the Power BI Mobile App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with the Power BI iOS mobile app
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/working-with-the-power-bi-ios-mobile-app-25205179?u=76281980)
@@ -1227,7 +1265,7 @@ created: 2026-04-29
 
 ### 7. Interacting with Power BI Reports in Microsoft Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding a Power BI report to a team channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/adding-a-power-bi-report-to-a-team-channel-25206002?u=76281980)
@@ -1332,7 +1370,7 @@ created: 2026-04-29
 
 ### 8. Getting Assistance from Copilot in Power BI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Asking Copilot to create a report page
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-quick-tips-24532183/asking-copilot-to-create-a-report-page-25202747?u=76281980)

@@ -53,17 +53,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Agentic AI]]** (4 videos)
-- **[[#2. Agent AI Tools Landscape and Applications]]** (5 videos)
-- **[[#3. Building Agentic AI Products with No-Code]]** (5 videos)
-- **[[#4. Designing Human Computer Interface (HCI) for Agent AI Products]]** (5 videos)
-- **[[#5. Top Business Questions around Agentic AI]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Designing autonomous agentic products
+- [**1. Introduction to Agentic AI**](#1-introduction-to-agentic-ai) (4 videos)
+  - What is an autonomous Agent AI?
+  - Why do we need Agent AI?
+  - How does Agent AI work?
+  - Types of Agent AI
+- [**2. Agent AI Tools Landscape and Applications**](#2-agent-ai-tools-landscape-and-applications) (5 videos)
+  - Agent AI ecosystem
+  - Lead generation marketing applications
+  - Campaign management marketing applications
+  - Enterprise growth applications
+  - Enterprise customer experience applications
+- [**3. Building Agentic AI Products with No-Code**](#3-building-agentic-ai-products-with-no-code) (5 videos)
+  - What is reasoning in LLM?
+  - Agent AI reasoning approaches
+  - Building an Agent AI with AgentGPT for user research
+  - Challenge: Build an Agent AI for user research
+  - Solution: Build an Agent AI for user research
+- [**4. Designing Human Computer Interface (HCI) for Agent AI Products**](#4-designing-human-computer-interface-hci-for-agent-ai-products) (5 videos)
+  - Job roles in designing agentic products
+  - Agentic design frameworks
+  - Design an Agent AI to create a marketing plan with Promptly
+  - Challenge: Building an Agent AI with Promptly
+  - Solution: Building an Agent AI with Promptly
+- [**5. Top Business Questions around Agentic AI**](#5-top-business-questions-around-agentic-ai) (6 videos)
+  - The cost of agentic AI applications
+  - AI hallucinations and agents
+  - AI ethics: Ecological consideration
+  - AI ethics: Business risks
+  - AI ethics: Bringing human ethics to AI
+  - AI ethics: Data privacy
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing autonomous agentic products
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products?u=76281980)
@@ -96,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Agentic AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an autonomous Agent AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-autonomous-agent-ai?u=76281980)
@@ -358,7 +385,7 @@ created: 2026-04-29
 
 ### 2. Agent AI Tools Landscape and Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agent AI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/agent-ai-ecosystem?u=76281980)
@@ -661,7 +688,7 @@ created: 2026-04-29
 
 ### 3. Building Agentic AI Products with No-Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is reasoning in LLM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/what-is-reasoning-in-llm?u=76281980)
@@ -928,7 +955,7 @@ created: 2026-04-29
 
 ### 4. Designing Human Computer Interface (HCI) for Agent AI Products
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Job roles in designing agentic products
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/job-roles-in-designing-agentic-products?u=76281980)
@@ -1318,7 +1345,7 @@ created: 2026-04-29
 
 ### 5. Top Business Questions around Agentic AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The cost of agentic AI applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/the-cost-of-agentic-ai-applications?u=76281980)
@@ -1587,7 +1614,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/next-steps?u=76281980)

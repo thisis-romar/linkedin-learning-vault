@@ -54,16 +54,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. EIA API]]** (17 videos)
-- **[[#2. Data Automation]]** (7 videos)
-- **[[#3. Deployment]]** (7 videos)
-- **[[#4. Monitoring]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Data pipeline automation with GitHub Actions
+  - What you should know
+- [**1. EIA API**](#1-eia-api) (17 videos)
+  - EIA API
+  - Setting an environment variable
+  - The EIA API dashboard
+  - GET request structure
+  - Querying the data via the browser
+  - Querying data with R and Python
+  - Pulling metadata from API with R
+  - Sending a simple GET request with R
+  - API limitations with R
+  - Handling a large data request with R
+  - Pulling metadata from API with Python
+  - Sending a simple GET request with Python
+  - API limitations with Python
+  - Handling a large data request with Python
+  - Challenge: Query the API
+  - Solution: Query the API with R
+  - Solution: Query the API with Python
+- [**2. Data Automation**](#2-data-automation) (7 videos)
+  - Data pipeline scope and requirements
+  - Data pipeline architecture
+  - Data refresh process
+  - ETL supporting functions
+  - Data backfilling
+  - Data refresh output
+  - Data quality checks
+- [**3. Deployment**](#3-deployment) (7 videos)
+  - Introduction to GitHub Actions
+  - Deployment with Docker
+  - Setting GitHub Actions workflow
+  - Reviewing workflows logs
+  - Setting secrets and environment variables
+  - Advanced workflow
+  - Data pipeline deployment
+- [**4. Monitoring**](#4-monitoring) (2 videos)
+  - Data pipeline maintenance
+  - Deploying dashboard to GitHub Pages
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data pipeline automation with GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions?u=76281980)
@@ -125,7 +161,7 @@ created: 2026-04-29
 
 ### 1. EIA API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### EIA API
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/eia-api?u=76281980)
@@ -1540,7 +1576,7 @@ created: 2026-04-29
 
 ### 2. Data Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data pipeline scope and requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-scope-and-requirements?u=76281980)
@@ -2049,7 +2085,7 @@ created: 2026-04-29
 
 ### 3. Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/introduction-to-github-actions?u=76281980)
@@ -2657,7 +2693,7 @@ created: 2026-04-29
 
 ### 4. Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data pipeline maintenance
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-maintenance?u=76281980)
@@ -2778,7 +2814,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/next-steps?u=76281980)

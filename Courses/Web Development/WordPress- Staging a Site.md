@@ -48,19 +48,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is a WordPress Staging Site?]]** (3 videos)
-- **[[#2. How to Create a WordPress Staging Site with Plug-Ins]]** (4 videos)
-- **[[#3. How to Create a WordPress Staging Site with Local Tools]]** (2 videos)
-- **[[#4. How to Create a Staging Site with Hosting]]** (3 videos)
-- **[[#5. How to Manually Create a Staging Site]]** (2 videos)
-- **[[#6. Using a Staging Site]]** (5 videos)
-- **[[#7. Troubleshooting Common Issues with Staging Sites]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Curtain call for WordPress: Why staging your site matters
+- [**1. What Is a WordPress Staging Site?**](#1-what-is-a-wordpress-staging-site) (3 videos)
+  - Defining a staging site
+  - Pros of using a staging site
+  - Cons of using a staging site
+- [**2. How to Create a WordPress Staging Site with Plug-Ins**](#2-how-to-create-a-wordpress-staging-site-with-plug-ins) (4 videos)
+  - WP Staging
+  - WPVivid Backup
+  - All-in-One WP Migration plug-in
+  - Duplicator
+- [**3. How to Create a WordPress Staging Site with Local Tools**](#3-how-to-create-a-wordpress-staging-site-with-local-tools) (2 videos)
+  - Local by Flywheel
+  - DevKinsta
+- [**4. How to Create a Staging Site with Hosting**](#4-how-to-create-a-staging-site-with-hosting) (3 videos)
+  - SiteGround
+  - Bluehost
+  - WP Engine
+- [**5. How to Manually Create a Staging Site**](#5-how-to-manually-create-a-staging-site) (2 videos)
+  - Warnings and precautions
+  - Walk-through
+- [**6. Using a Staging Site**](#6-using-a-staging-site) (5 videos)
+  - Staging site best practices
+  - Preflight checklist
+  - Syncing content
+  - Switching from staging to production
+  - Post-switch checklist
+- [**7. Troubleshooting Common Issues with Staging Sites**](#7-troubleshooting-common-issues-with-staging-sites) (3 videos)
+  - Caching issues
+  - Error page when viewing staging site
+  - Staging redirects to live site
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Curtain call for WordPress: Why staging your site matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/curtain-call-for-wordpress-why-staging-your-site-matters-25337663?u=76281980)
@@ -91,7 +115,7 @@ created: 2026-04-29
 
 ### 1. What Is a WordPress Staging Site?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a staging site
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/defining-a-staging-site?u=76281980)
@@ -215,7 +239,7 @@ created: 2026-04-29
 
 ### 2. How to Create a WordPress Staging Site with Plug-Ins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### WP Staging
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/wp-staging?u=76281980)
@@ -468,7 +492,7 @@ created: 2026-04-29
 
 ### 3. How to Create a WordPress Staging Site with Local Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Local by Flywheel
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/local-by-flywheel?u=76281980)
@@ -589,7 +613,7 @@ created: 2026-04-29
 
 ### 4. How to Create a Staging Site with Hosting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SiteGround
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/siteground-25333732?u=76281980)
@@ -728,7 +752,7 @@ created: 2026-04-29
 
 ### 5. How to Manually Create a Staging Site
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Warnings and precautions
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/warnings-and-precautions?u=76281980)
@@ -914,7 +938,7 @@ created: 2026-04-29
 
 ### 6. Using a Staging Site
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Staging site best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980)
@@ -1238,7 +1262,7 @@ created: 2026-04-29
 
 ### 7. Troubleshooting Common Issues with Staging Sites
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Caching issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/caching-issues-25339675?u=76281980)
@@ -1392,7 +1416,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/next-steps-25334693?u=76281980)

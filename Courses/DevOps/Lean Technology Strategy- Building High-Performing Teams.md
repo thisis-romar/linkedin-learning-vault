@@ -40,11 +40,16 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Building High-Performing Teams]]** (5 videos)
+- [**1. Building High-Performing Teams**](#1-building-high-performing-teams) (5 videos)
+  - Taylorist management vs. Lean management
+  - What makes a high-performing team?
+  - How to change culture: The NUMMI case study
+  - Improving performance
+  - Principles for high-performing teams
 
 ### 1. Building High-Performing Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taylorist management vs. Lean management
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams/taylorist-management-vs-lean-management?u=76281980)

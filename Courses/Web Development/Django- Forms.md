@@ -48,15 +48,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started with Forms]]** (6 videos)
-- **[[#2. Working with Advanced Form Features]]** (10 videos)
-- **[[#3. Customizing and Styling Form Appearance]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Deep dive into Django forms
+  - What you should know
+  - Project walkthrough
+- [**1. Getting Started with Forms**](#1-getting-started-with-forms) (6 videos)
+  - Starting a new project
+  - Making forms from scratch
+  - Form fields
+  - Submitting forms
+  - Django form class
+  - Using submitted data
+- [**2. Working with Advanced Form Features**](#2-working-with-advanced-form-features) (10 videos)
+  - Adding models
+  - Model forms
+  - Working with widgets
+  - Advanced widgets
+  - Forms and files
+  - Formsets: Multiple forms on a page
+  - Formset views
+  - Controlling the number of formsets
+  - Editing objects
+  - Input confirmation
+- [**3. Customizing and Styling Form Appearance**](#3-customizing-and-styling-form-appearance) (7 videos)
+  - Local validation and errors
+  - Server-based errors
+  - Form rendering
+  - Customizing forms
+  - Spicing up forms with CSS
+  - Homepage styling
+  - Form styling
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deep dive into Django forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/deep-dive-into-django-forms?u=76281980)
@@ -173,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Forms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting a new project
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/starting-a-new-project?u=76281980)
@@ -768,7 +795,7 @@ created: 2026-04-29
 
 ### 2. Working with Advanced Form Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding models
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/adding-models?u=76281980)
@@ -1728,7 +1755,7 @@ created: 2026-04-29
 
 ### 3. Customizing and Styling Form Appearance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Local validation and errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/local-validation-and-errors?u=76281980)
@@ -2468,7 +2495,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-forms/next-steps?u=76281980)

@@ -48,14 +48,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Creating a Project]]** (9 videos)
-- **[[#2. Working with Projects]]** (5 videos)
-- **[[#Conclusion]]** (0 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Creating projects for development
+- [**1. Creating a Project**](#1-creating-a-project) (9 videos)
+  - Projects vs. classic projects
+  - Starting your first project
+  - Project settings and fields
+  - Using view categories
+  - Converting drafts to issues
+  - Assigning items to collaborators
+  - Starting a project with an issue
+  - Project items with pull requests
+  - Using saved replies
+- [**2. Working with Projects**](#2-working-with-projects) (5 videos)
+  - Using labels
+  - Task lists
+  - Slash commands and emojis
+  - Views and filters
+  - Insights
+- [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating projects for development
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/creating-projects-for-development-29982145?u=76281980)
@@ -81,7 +96,7 @@ created: 2026-04-29
 
 ### 1. Creating a Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Projects vs. classic projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/projects-vs-classic-projects?u=76281980)
@@ -1158,7 +1173,7 @@ created: 2026-04-29
 
 ### 2. Working with Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using labels
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-project-management-and-collaboration/using-labels?u=76281980)
@@ -1850,7 +1865,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

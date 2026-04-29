@@ -49,20 +49,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Configuration Options]]** (6 videos)
-- **[[#2. Using Schemes]]** (5 videos)
-- **[[#3. Creating Custom Schemes]]** (6 videos)
-- **[[#4. Managing Project Settings]]** (5 videos)
-- **[[#5. Working with Groups and Roles]]** (5 videos)
-- **[[#6. Restricting and Sharing Information]]** (5 videos)
-- **[[#7. Extending Jira]]** (5 videos)
-- **[[#8. Advanced Features]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Administration in Jira
+  - Who is this for?
+  - What do you need?
+- [**1. Configuration Options**](#1-configuration-options) (6 videos)
+  - Global configuration overview
+  - Using global permissions
+  - Customizing the interface
+  - Enabling and disabling email
+  - Challenge: General configuration options
+  - Solution: General configuration options
+- [**2. Using Schemes**](#2-using-schemes) (5 videos)
+  - Types of schemes
+  - Scheme hierarchy
+  - Sharing schemes between projects
+  - Challenge: Scheme review
+  - Solution: Scheme review
+- [**3. Creating Custom Schemes**](#3-creating-custom-schemes) (6 videos)
+  - Use and create custom issue types
+  - Use and create custom workflows
+  - Use and create custom screens
+  - Use and create custom fields
+  - Challenge: Create a project template
+  - Solution: Create a project template
+- [**4. Managing Project Settings**](#4-managing-project-settings) (5 videos)
+  - Use and create versions
+  - Use and create components
+  - Working with users
+  - Challenge: Create components
+  - Solution: Create components
+- [**5. Working with Groups and Roles**](#5-working-with-groups-and-roles) (5 videos)
+  - Leveraging project roles
+  - Working with groups
+  - Using groups and roles in schemes
+  - Challenge: Create a read-only role
+  - Solution: Create a read-only role
+- [**6. Restricting and Sharing Information**](#6-restricting-and-sharing-information) (5 videos)
+  - Use and create permissions
+  - Use and create issue security
+  - Use and create notifications
+  - Challenge: Create read-only permissions
+  - Solution: Create read-only permissions
+- [**7. Extending Jira**](#7-extending-jira) (5 videos)
+  - Use and vet apps
+  - Create connections
+  - Create integrations
+  - Challenge: Connect Jira to Confluence
+  - Solution: Connect Jira to Confluence
+- [**8. Advanced Features**](#8-advanced-features) (6 videos)
+  - Import data
+  - Create issues from email
+  - Use an issue collector
+  - Use automation
+  - Challenge: Create an issue collector
+  - Solution: Create an issue collector
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Administration in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980)
@@ -207,7 +254,7 @@ created: 2026-04-29
 
 ### 1. Configuration Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Global configuration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980)
@@ -648,7 +695,7 @@ created: 2026-04-29
 
 ### 2. Using Schemes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of schemes
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980)
@@ -1021,7 +1068,7 @@ created: 2026-04-29
 
 ### 3. Creating Custom Schemes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use and create custom issue types
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980)
@@ -1791,7 +1838,7 @@ created: 2026-04-29
 
 ### 4. Managing Project Settings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use and create versions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980)
@@ -2175,7 +2222,7 @@ created: 2026-04-29
 
 ### 5. Working with Groups and Roles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging project roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/leveraging-project-roles?u=76281980)
@@ -2462,7 +2509,7 @@ created: 2026-04-29
 
 ### 6. Restricting and Sharing Information
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use and create permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-permissions?u=76281980)
@@ -2860,7 +2907,7 @@ created: 2026-04-29
 
 ### 7. Extending Jira
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use and vet apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980)
@@ -3371,7 +3418,7 @@ created: 2026-04-29
 
 ### 8. Advanced Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Import data
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980)
@@ -4244,7 +4291,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980)

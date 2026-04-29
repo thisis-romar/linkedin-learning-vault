@@ -52,17 +52,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Database Views]]** (6 videos)
-- **[[#2. Query Performance]]** (5 videos)
-- **[[#3. Transactions]]** (4 videos)
-- **[[#4. Data and Object Management]]** (5 videos)
-- **[[#5. Functions and Stored Procedures]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Managing database performance
+  - What you should know
+  - Set up the database servers
+  - Create the Two Trees database
+- [**1. Database Views**](#1-database-views) (6 videos)
+  - Save queries as database view objects
+  - Create a database view
+  - Views and database maintenance
+  - Views and database security
+  - Challenge: Create a view
+  - Solution: Create a view
+- [**2. Query Performance**](#2-query-performance) (5 videos)
+  - The query optimizer
+  - Reading execution plans
+  - View a SQL Server execution plan
+  - View a PostgreSQL execution plan
+  - Control query plans with hints
+- [**3. Transactions**](#3-transactions) (4 videos)
+  - Transactions and data consistency
+  - ACID properties
+  - Commit and rollback transactions
+  - Understanding concurrency and locks
+- [**4. Data and Object Management**](#4-data-and-object-management) (5 videos)
+  - Explore the system tables
+  - Duplicate tables
+  - Delete data with TRUNCATE
+  - Remove database objects with DROP
+  - Create temporary tables
+- [**5. Functions and Stored Procedures**](#5-functions-and-stored-procedures) (6 videos)
+  - Add programming elements to the database
+  - Create a function
+  - Create a stored procedure in PostgreSQL
+  - Create a stored procedure in SQL Server
+  - Challenge: Write a stored procedure
+  - Solution: Write a stored procedure
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing database performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/managing-database-performance?u=76281980)
@@ -285,7 +316,7 @@ created: 2026-04-29
 
 ### 1. Database Views
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Save queries as database view objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/save-queries-as-database-view-objects?u=76281980)
@@ -966,7 +997,7 @@ created: 2026-04-29
 
 ### 2. Query Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The query optimizer
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/the-query-optimizer?u=76281980)
@@ -1462,7 +1493,7 @@ created: 2026-04-29
 
 ### 3. Transactions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transactions and data consistency
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/transactions-and-data-consistency?u=76281980)
@@ -1811,7 +1842,7 @@ created: 2026-04-29
 
 ### 4. Data and Object Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the system tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/explore-the-system-tables?u=76281980)
@@ -2238,7 +2269,7 @@ created: 2026-04-29
 
 ### 5. Functions and Stored Procedures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add programming elements to the database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/add-programming-elements-to-the-database?u=76281980)
@@ -2786,7 +2817,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-database-management/next-steps?u=76281980)

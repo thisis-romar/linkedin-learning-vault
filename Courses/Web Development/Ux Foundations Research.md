@@ -42,18 +42,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Research Overview]]** (13 videos)
-- **[[#2. Choosing the Right Research Method]]** (4 videos)
-- **[[#3. Environmental Considerations]]** (3 videos)
-- **[[#4. Planning Effective Research]]** (5 videos)
-- **[[#5. Executing Effective Research]]** (2 videos)
-- **[[#6. Analyzing and Presenting Your Findings]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - User experience research
+- [**1. Research Overview**](#1-research-overview) (13 videos)
+  - Why is user experience research important?
+  - Methodology overview
+  - Usability testing
+  - Interviewing
+  - Card sorts
+  - Eye tracking
+  - Multivariate testing and A/B testing
+  - Desirability studies
+  - Expert reviews (heuristic reviews)
+  - Surveys
+  - Diary studies
+  - Participatory design workshops
+  - Personas
+- [**2. Choosing the Right Research Method**](#2-choosing-the-right-research-method) (4 videos)
+  - Setting research goals
+  - Qualitative vs. quantitative data
+  - Behavioral vs. attitudinal research
+  - Moderated vs. unmoderated research
+- [**3. Environmental Considerations**](#3-environmental-considerations) (3 videos)
+  - In-house vs. external
+  - Agile vs. waterfall
+  - Determining project or product stage
+- [**4. Planning Effective Research**](#4-planning-effective-research) (5 videos)
+  - Determining the right participants
+  - Finding and screening participants
+  - Scheduling participants
+  - Crafting the right questions
+  - Practicing
+- [**5. Executing Effective Research**](#5-executing-effective-research) (2 videos)
+  - Applying moderated research
+  - Applying unmoderated research
+- [**6. Analyzing and Presenting Your Findings**](#6-analyzing-and-presenting-your-findings) (3 videos)
+  - Gathering and mining data
+  - Synthesizing data
+  - Presenting and incorporating results
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### User experience research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/user-experience-research?u=76281980)
@@ -88,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Research Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is user experience research important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/why-is-user-experience-research-important?u=76281980)
@@ -546,7 +578,7 @@ created: 2026-04-29
 
 ### 2. Choosing the Right Research Method
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting research goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/setting-research-goals?u=76281980)
@@ -777,7 +809,7 @@ created: 2026-04-29
 
 ### 3. Environmental Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### In-house vs. external
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/in-house-vs-external?u=76281980)
@@ -954,7 +986,7 @@ created: 2026-04-29
 
 ### 4. Planning Effective Research
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining the right participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/determining-the-right-participants?u=76281980)
@@ -1282,7 +1314,7 @@ created: 2026-04-29
 
 ### 5. Executing Effective Research
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying moderated research
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/applying-moderated-research?u=76281980)
@@ -1434,7 +1466,7 @@ created: 2026-04-29
 
 ### 6. Analyzing and Presenting Your Findings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gathering and mining data
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/gathering-and-mining-data?u=76281980)
@@ -1666,7 +1698,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-research-19417883/next-steps?u=76281980)

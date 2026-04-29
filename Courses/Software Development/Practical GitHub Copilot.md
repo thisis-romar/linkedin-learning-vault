@@ -55,14 +55,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Working with GitHub Copilot]]** (6 videos)
-- **[[#2. Using Copilot Chat]]** (7 videos)
-- **[[#Next Steps]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Using Copilot on Projects
+  - Using the slides
+- [**1. Working with GitHub Copilot**](#1-working-with-github-copilot) (6 videos)
+  - What is GitHub Copilot?
+  - Copilot for Individuals vs. Copilot for Business
+  - Installing Copilot
+  - Getting the repo
+  - Basic autocomplete
+  - Autocompletions panel
+- [**2. Using Copilot Chat**](#2-using-copilot-chat) (7 videos)
+  - The chat panel
+  - Generating data
+  - Chatting with Copilot
+  - Output to YAML
+  - History and file names
+  - Troubleshooting fixes
+  - Writing comments
+- [**Next Steps**](#next-steps) (1 videos)
+  - What's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Copilot on Projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/using-copilot-on-projects?u=76281980)
@@ -112,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Working with GitHub Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/what-is-github-copilot-19801623?u=76281980)
@@ -673,7 +689,7 @@ created: 2026-04-29
 
 ### 2. Using Copilot Chat
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The chat panel
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/the-chat-panel?u=76281980)
@@ -1348,7 +1364,7 @@ created: 2026-04-29
 
 ### Next Steps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-copilot/what-s-next?u=76281980)

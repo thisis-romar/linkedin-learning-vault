@@ -47,17 +47,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Fetch Data from Tables]]** (3 videos)
-- **[[#2. Filtering Data]]** (4 videos)
-- **[[#3. Single Row Functions]]** (5 videos)
-- **[[#4. Multiple Row Functions/ Group Functions]]** (3 videos)
-- **[[#5. Joins and Subqueries]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to RDBMS and SQL
+  - How to use the exercise files
+- [**1. Fetch Data from Tables**](#1-fetch-data-from-tables) (3 videos)
+  - Basic select statements
+  - Operators
+  - Data types
+- [**2. Filtering Data**](#2-filtering-data) (4 videos)
+  - Comparison conditions
+  - Logical conditions
+  - Order of precedence
+  - Sorting data
+- [**3. Single Row Functions**](#3-single-row-functions) (5 videos)
+  - Types of functions and number functions
+  - Character functions
+  - Date functions
+  - Data type conversion functions
+  - Conditional expressions
+- [**4. Multiple Row Functions/ Group Functions**](#4-multiple-row-functions-group-functions) (3 videos)
+  - Types of group functions
+  - Creating groups and nested groups
+  - Filtering group results
+- [**5. Joins and Subqueries**](#5-joins-and-subqueries) (3 videos)
+  - Types of joins
+  - Uses of subqueries
+  - Types of subqueries
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to RDBMS and SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/introduction-to-rdbms-and-sql?u=76281980)
@@ -155,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Fetch Data from Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic select statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/basic-select-statements?u=76281980)
@@ -424,7 +445,7 @@ created: 2026-04-29
 
 ### 2. Filtering Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparison conditions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/comparison-conditions?u=76281980)
@@ -838,7 +859,7 @@ created: 2026-04-29
 
 ### 3. Single Row Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of functions and number functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-functions-and-number-functions?u=76281980)
@@ -1331,7 +1352,7 @@ created: 2026-04-29
 
 ### 4. Multiple Row Functions/ Group Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of group functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-group-functions?u=76281980)
@@ -1538,7 +1559,7 @@ created: 2026-04-29
 
 ### 5. Joins and Subqueries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/types-of-joins?u=76281980)
@@ -1802,7 +1823,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/quick-start-guide-to-sql/next-steps?u=76281980)

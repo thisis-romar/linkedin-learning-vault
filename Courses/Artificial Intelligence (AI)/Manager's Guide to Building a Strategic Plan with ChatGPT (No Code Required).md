@@ -40,18 +40,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Anticipate Disruptions with AI]]** (3 videos)
-- **[[#2. Scenario Planning for Uncertainty]]** (2 videos)
-- **[[#3. AI for Competitive Advantage]]** (1 videos)
-- **[[#4. Innovate with AI-Generated Strategies]]** (1 videos)
-- **[[#5. From Insights to Action: Implement AI-Driven Strategy]]** (1 videos)
-- **[[#6. Sustain and Recalibrate]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Use AI to build a strategy that works
+- [**1. Anticipate Disruptions with AI**](#1-anticipate-disruptions-with-ai) (3 videos)
+  - AI as your strategic disruptor
+  - Define strategic goals and identify priorities with AI
+  - Use AI to spot disruptions and weak signals
+- [**2. Scenario Planning for Uncertainty**](#2-scenario-planning-for-uncertainty) (2 videos)
+  - Explore future scenarios and plan for uncertainty with AI
+  - Stress test strategic assumptions with AI
+- [**3. AI for Competitive Advantage**](#3-ai-for-competitive-advantage) (1 videos)
+  - Use AI to analyze your competitive positioning
+- [**4. Innovate with AI-Generated Strategies**](#4-innovate-with-ai-generated-strategies) (1 videos)
+  - Create a strategic roadmap using AI
+- [**5. From Insights to Action: Implement AI-Driven Strategy**](#5-from-insights-to-action-implement-ai-driven-strategy) (1 videos)
+  - Craft compelling data narratives with AI
+- [**6. Sustain and Recalibrate**](#6-sustain-and-recalibrate) (1 videos)
+  - AI as a coleader: Embracing continual strategic thinking
+- [**Conclusion**](#conclusion) (1 videos)
+  - Activate your strategic plan with AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use AI to build a strategy that works
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-build-a-strategy-that-works?u=76281980)
@@ -78,7 +89,7 @@ created: 2026-04-29
 
 ### 1. Anticipate Disruptions with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI as your strategic disruptor
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-your-strategic-disruptor?u=76281980)
@@ -310,7 +321,7 @@ created: 2026-04-29
 
 ### 2. Scenario Planning for Uncertainty
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore future scenarios and plan for uncertainty with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/explore-future-scenarios-and-plan-for-uncertainty-with-ai?u=76281980)
@@ -468,7 +479,7 @@ created: 2026-04-29
 
 ### 3. AI for Competitive Advantage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use AI to analyze your competitive positioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/use-ai-to-analyze-your-competitive-positioning?u=76281980)
@@ -556,7 +567,7 @@ created: 2026-04-29
 
 ### 4. Innovate with AI-Generated Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a strategic roadmap using AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/create-a-strategic-roadmap-using-ai?u=76281980)
@@ -631,7 +642,7 @@ created: 2026-04-29
 
 ### 5. From Insights to Action: Implement AI-Driven Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Craft compelling data narratives with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/craft-compelling-data-narratives-with-ai?u=76281980)
@@ -714,7 +725,7 @@ created: 2026-04-29
 
 ### 6. Sustain and Recalibrate
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI as a coleader: Embracing continual strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/ai-as-a-co-leader-embracing-continual-strategic-thinking?u=76281980)
@@ -787,7 +798,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Activate your strategic plan with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/manager-s-guide-to-building-a-strategic-plan-with-chatgpt-no-code-required/activate-your-strategic-plan-with-ai?u=76281980)

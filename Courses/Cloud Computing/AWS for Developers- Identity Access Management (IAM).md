@@ -49,16 +49,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. AWS IAM Concepts]]** (4 videos)
-- **[[#2. Users and Policies]]** (5 videos)
-- **[[#3. Groups and Roles]]** (3 videos)
-- **[[#4. Advanced IAM]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - AWS user security with IAM
+  - What you should know
+- [**1. AWS IAM Concepts**](#1-aws-iam-concepts) (4 videos)
+  - IAM overview
+  - Root account
+  - User accounts
+  - Create a user account
+- [**2. Users and Policies**](#2-users-and-policies) (5 videos)
+  - Password settings
+  - Access keys
+  - Policy JSON
+  - Modifying policies
+  - Permission boundaries
+- [**3. Groups and Roles**](#3-groups-and-roles) (3 videos)
+  - Grouping users
+  - Roles
+  - Resource-based policies
+- [**4. Advanced IAM**](#4-advanced-iam) (5 videos)
+  - Multi-factor authentication
+  - Federated access
+  - Credential report and access advisor
+  - CloudTrail
+  - Best practices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS user security with IAM
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/aws-user-security-with-iam-15113020?u=76281980)
@@ -134,7 +154,7 @@ created: 2026-04-29
 
 ### 1. AWS IAM Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IAM overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/iam-overview-15108756?u=76281980)
@@ -459,7 +479,7 @@ created: 2026-04-29
 
 ### 2. Users and Policies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Password settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/password-settings-15111296?u=76281980)
@@ -892,7 +912,7 @@ created: 2026-04-29
 
 ### 3. Groups and Roles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping users
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/grouping-users-15110625?u=76281980)
@@ -1209,7 +1229,7 @@ created: 2026-04-29
 
 ### 4. Advanced IAM
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Multi-factor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/multi-factor-authentication-15106896?u=76281980)
@@ -1457,7 +1477,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-for-developers-identity-access-management-iam/next-steps-15110624?u=76281980)

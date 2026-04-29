@@ -47,18 +47,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Assembling a Team]]** (3 videos)
-- **[[#2. Finding the Right Problem to Solve]]** (4 videos)
-- **[[#3. Coming Up with Good Ideas]]** (3 videos)
-- **[[#4. Testing Your Ideas with Real Customers]]** (3 videos)
-- **[[#5. Planning Your Development Work]]** (3 videos)
-- **[[#6. What Design Thinking Gives You]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Applying design thinking
+  - The focus of solving user problems
+- [**1. Assembling a Team**](#1-assembling-a-team) (3 videos)
+  - Who should be involved?
+  - Get commitment to attend and participate
+  - Find a location and gather supplies
+- [**2. Finding the Right Problem to Solve**](#2-finding-the-right-problem-to-solve) (4 videos)
+  - Identify the pain points: Watch real users
+  - Experience mapping: Show the customer journey
+  - Extracting the pain points
+  - Pain points to goals
+- [**3. Coming Up with Good Ideas**](#3-coming-up-with-good-ideas) (3 videos)
+  - Personas: An idea everyone can get behind
+  - Don't build your first idea: Ideate
+  - Scenarios: How will your idea be used
+- [**4. Testing Your Ideas with Real Customers**](#4-testing-your-ideas-with-real-customers) (3 videos)
+  - Paper prototypes: The fastest way to test your ideas
+  - Usability testing: Show your prototypes to customers
+  - Iterate: Make changes based on what you learn
+- [**5. Planning Your Development Work**](#5-planning-your-development-work) (3 videos)
+  - Planning is the missing link
+  - Creating a story map
+  - Minimum usable product
+- [**6. What Design Thinking Gives You**](#6-what-design-thinking-gives-you) (3 videos)
+  - Design thinking isn't a magic process
+  - Design thinking isn't just for design agencies
+  - Design thinking gives you confidence
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional resources to support your design thinking process
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/applying-design-thinking?u=76281980)
@@ -132,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Assembling a Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Who should be involved?
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/who-should-be-involved?u=76281980)
@@ -290,7 +312,7 @@ created: 2026-04-29
 
 ### 2. Finding the Right Problem to Solve
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify the pain points: Watch real users
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/identify-the-pain-points-watch-real-users?u=76281980)
@@ -511,7 +533,7 @@ created: 2026-04-29
 
 ### 3. Coming Up with Good Ideas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Personas: An idea everyone can get behind
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/personas-an-idea-everyone-can-get-behind?u=76281980)
@@ -668,7 +690,7 @@ created: 2026-04-29
 
 ### 4. Testing Your Ideas with Real Customers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Paper prototypes: The fastest way to test your ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/paper-prototypes-the-fastest-way-to-test-your-ideas?u=76281980)
@@ -807,7 +829,7 @@ created: 2026-04-29
 
 ### 5. Planning Your Development Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning is the missing link
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/planning-is-the-missing-link?u=76281980)
@@ -1030,7 +1052,7 @@ created: 2026-04-29
 
 ### 6. What Design Thinking Gives You
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design thinking isn't a magic process
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/design-thinking-isn-t-a-magic-process?u=76281980)
@@ -1149,7 +1171,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources to support your design thinking process
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-implementing-the-process/additional-resources-to-support-your-design-thinking-process?u=76281980)

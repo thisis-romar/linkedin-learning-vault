@@ -46,15 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Processor Memory Organization]]** (2 videos)
-- **[[#2. Rack-Based System]]** (7 videos)
-- **[[#3. Tag-Based System]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Memory organization for PLCs
+  - What you should know before watching
+  - LogixPro PLC software simulation
+- [**1. Processor Memory Organization**](#1-processor-memory-organization) (2 videos)
+  - Allen-Bradley PLCs types
+  - Allen-Bradley PLCs memory structures
+- [**2. Rack-Based System**](#2-rack-based-system) (7 videos)
+  - Rack-based systems
+  - Program files
+  - Data files: Part 1
+  - Data files: Part 2
+  - LogixPro demo
+  - I/O address format for rack-based PLC
+  - Data storage 16-bit words
+- [**3. Tag-Based System**](#3-tag-based-system) (7 videos)
+  - Tag-based system
+  - Project file components overview
+  - Tags in PLC
+  - Tags types for ControlLogix controllers
+  - Global and local tags
+  - Addressing format for tag-based systems
+  - Base and Alias tags
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Memory organization for PLCs
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/memory-organization-for-plcs?u=76281980)
@@ -130,7 +150,7 @@ created: 2026-04-29
 
 ### 1. Processor Memory Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Allen-Bradley PLCs types
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/allen-bradley-plcs-types?u=76281980)
@@ -208,7 +228,7 @@ created: 2026-04-29
 
 ### 2. Rack-Based System
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rack-based systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/rack-based-systems?u=76281980)
@@ -548,7 +568,7 @@ created: 2026-04-29
 
 ### 3. Tag-Based System
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tag-based system
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/tag-based-system?u=76281980)
@@ -943,7 +963,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-memory-organization/next-steps?u=76281980)

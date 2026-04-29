@@ -54,15 +54,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Challenges of AI]]** (9 videos)
-- **[[#2. Collecting Ideas]]** (11 videos)
-- **[[#3. Exploring Ideas: Concept Development]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction
+- [**1. The Challenges of AI**](#1-the-challenges-of-ai) (9 videos)
+  - AI mistakes to avoid
+  - Options for getting AI into your company
+  - AI wishing well
+  - Overview of AI implementation process
+  - Strategies for finding AI ideas
+  - "I know what I want!" – The problem-solution process
+  - AI idea collection
+  - Key concepts: persona, integration
+  - Key concepts: Data
+- [**2. Collecting Ideas**](#2-collecting-ideas) (11 videos)
+  - Ideation workshop: Preparation
+  - Ideation workshop: Core process
+  - Ideation workshop: Best practices
+  - What you should know before ideating
+  - Ideation workshop: Presentation
+  - Ideation workshop: Outcomes
+  - Organizational ideation: Idea collection
+  - Organizational ideation: Best practices
+  - Organizational ideation: Outcomes
+  - Coming up with completely new AI products
+  - Coming up with completely new AI products: Examples
+- [**3. Exploring Ideas: Concept Development**](#3-exploring-ideas-concept-development) (4 videos)
+  - What happens to the idea?
+  - Project idea checklist
+  - Fast-track estimations
+  - The final project idea
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/introduction?u=76281980)
@@ -91,7 +117,7 @@ created: 2026-04-29
 
 ### 1. The Challenges of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI mistakes to avoid
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ai-mistakes-to-avoid?u=76281980)
@@ -892,7 +918,7 @@ created: 2026-04-29
 
 ### 2. Collecting Ideas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ideation workshop: Preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/ideation-workshop-preparation?u=76281980)
@@ -1901,7 +1927,7 @@ created: 2026-04-29
 
 ### 3. Exploring Ideas: Concept Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What happens to the idea?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/what-happens-to-the-idea?u=76281980)
@@ -2267,7 +2293,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-ideation-principles-and-practical-applications/next-steps?u=76281980)

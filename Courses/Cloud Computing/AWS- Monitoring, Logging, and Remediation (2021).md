@@ -49,16 +49,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. AWS CloudWatch and CloudTrail]]** (8 videos)
-- **[[#2. Configure Notifications]]** (3 videos)
-- **[[#3. AWS Config]]** (3 videos)
-- **[[#4. Taking Action]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Monitoring, logging, and remediation in AWS
+  - What you should know
+- [**1. AWS CloudWatch and CloudTrail**](#1-aws-cloudwatch-and-cloudtrail) (8 videos)
+  - Review monitoring concepts
+  - Introduction to CloudWatch
+  - Create a CloudWatch alarm
+  - CloudWatch Logs
+  - CloudWatch Logs Insights
+  - CloudWatch agent
+  - Dashboards
+  - CloudTrail Logs
+- [**2. Configure Notifications**](#2-configure-notifications) (3 videos)
+  - Configure Amazon SNS notifications
+  - Using Service Quotas
+  - Using AWS Health events
+- [**3. AWS Config**](#3-aws-config) (3 videos)
+  - Introduction to AWS Config
+  - Setting up AWS Config
+  - AWS Config managed rules
+- [**4. Taking Action**](#4-taking-action) (5 videos)
+  - Introduction to Amazon EventBridge
+  - Configure Amazon EventBridge
+  - Lambda in response to CloudWatch alarms
+  - Understand AWS Systems Manager
+  - Remediate using AWS Systems Manager
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with AWS
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring, logging, and remediation in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/monitoring-logging-and-remediation-in-aws?u=76281980)
@@ -106,7 +128,7 @@ created: 2026-04-29
 
 ### 1. AWS CloudWatch and CloudTrail
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review monitoring concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/review-monitoring-concepts?u=76281980)
@@ -1255,7 +1277,7 @@ created: 2026-04-29
 
 ### 2. Configure Notifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure Amazon SNS notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/configure-amazon-sns-notifications?u=76281980)
@@ -1528,7 +1550,7 @@ created: 2026-04-29
 
 ### 3. AWS Config
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AWS Config
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-aws-config?u=76281980)
@@ -1894,7 +1916,7 @@ created: 2026-04-29
 
 ### 4. Taking Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Amazon EventBridge
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/introduction-to-amazon-eventbridge?u=76281980)
@@ -2497,7 +2519,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-monitoring-logging-and-remediation-2021/next-steps-with-aws?u=76281980)

@@ -55,14 +55,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Association Rules]]** (6 videos)
-- **[[#2. Discovering Patterns with Association Rules]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Association rule mining
+  - What you should know
+  - Using the exercise files
+  - Using GitHub Codespaces with this course
+- [**1. Association Rules**](#1-association-rules) (6 videos)
+  - What are association rules?
+  - Frequent itemset generation
+  - The Apriori algorithm
+  - The FP-Growth algorithm
+  - Evaluating association rules
+  - Why and when to use association rules
+- [**2. Discovering Patterns with Association Rules**](#2-discovering-patterns-with-association-rules) (4 videos)
+  - How to collect data for association rule mining
+  - How to generate frequent itemsets
+  - How to create association rules
+  - How to evaluate association rules
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Association rule mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/association-rule-mining?u=76281980)
@@ -319,7 +334,7 @@ created: 2026-04-29
 
 ### 1. Association Rules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are association rules?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/what-are-association-rules?u=76281980)
@@ -965,7 +980,7 @@ created: 2026-04-29
 
 ### 2. Discovering Patterns with Association Rules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to collect data for association rule mining
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/how-to-collect-data-for-association-rule-mining?u=76281980)
@@ -1690,7 +1705,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-association-rules/next-steps?u=76281980)

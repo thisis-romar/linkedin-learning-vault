@@ -48,16 +48,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Collaboration, Computation, and Change for the Digital Age]]** (3 videos)
-- **[[#2. Collaborating with Colleagues in a Digital Environment]]** (3 videos)
-- **[[#3. Collaborating with Machines in the Digital Age]]** (3 videos)
-- **[[#4. Making Sense of Data in the Digital Age]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introducing the digital mindset
+- [**1. Collaboration, Computation, and Change for the Digital Age**](#1-collaboration-computation-and-change-for-the-digital-age) (3 videos)
+  - What is a digital mindset?
+  - Why is it important to lead with a digital mindset?
+  - Change readiness for the digital age
+- [**2. Collaborating with Colleagues in a Digital Environment**](#2-collaborating-with-colleagues-in-a-digital-environment) (3 videos)
+  - Establishing your digital presence
+  - Building trust with people far away
+  - Developing your metaknowledge
+- [**3. Collaborating with Machines in the Digital Age**](#3-collaborating-with-machines-in-the-digital-age) (3 videos)
+  - How machines learn
+  - Don't confuse a machine for a person
+  - Communicating with AI
+- [**4. Making Sense of Data in the Digital Age**](#4-making-sense-of-data-in-the-digital-age) (3 videos)
+  - Where data comes from
+  - The four questions to ask to make smart decisions with data
+  - Presenting data in compelling ways
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuous learning in the digital age
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the digital mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/introducing-the-digital-mindset?u=76281980)
@@ -91,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Collaboration, Computation, and Change for the Digital Age
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a digital mindset?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/what-is-a-digital-mindset?u=76281980)
@@ -319,7 +333,7 @@ created: 2026-04-29
 
 ### 2. Collaborating with Colleagues in a Digital Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing your digital presence
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/establishing-your-digital-presence?u=76281980)
@@ -663,7 +677,7 @@ created: 2026-04-29
 
 ### 3. Collaborating with Machines in the Digital Age
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How machines learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/how-machines-learn?u=76281980)
@@ -985,7 +999,7 @@ created: 2026-04-29
 
 ### 4. Making Sense of Data in the Digital Age
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where data comes from
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/where-data-comes-from?u=76281980)
@@ -1286,7 +1300,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous learning in the digital age
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-a-digital-mindset-in-the-age-of-ai/continuous-learning-in-the-digital-age?u=76281980)

@@ -44,17 +44,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Importance of Intelligent Automation Today]]** (2 videos)
-- **[[#2. The Basics of Intelligent Automation]]** (6 videos)
-- **[[#3. The Tech behind the Senses]]** (4 videos)
-- **[[#4. Synergies in Action]]** (3 videos)
-- **[[#5. Methodologies and Frameworks]]** (4 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Automation and Intelligence
+  - Background and Course Topics
+- [**1. The Importance of Intelligent Automation Today**](#1-the-importance-of-intelligent-automation-today) (2 videos)
+  - Intelligent automation: Hype or reality?
+  - The future of (your) work
+- [**2. The Basics of Intelligent Automation**](#2-the-basics-of-intelligent-automation) (6 videos)
+  - What is intelligent automation?
+  - The capabilities that make up intelligent automation
+  - Vision
+  - Execution
+  - Language
+  - Thinking and learning
+- [**3. The Tech behind the Senses**](#3-the-tech-behind-the-senses) (4 videos)
+  - Vision technologies
+  - Execution technologies
+  - Language technologies
+  - Thinking and learning technologies
+- [**4. Synergies in Action**](#4-synergies-in-action) (3 videos)
+  - Combinations and synergies
+  - Complex intelligent automation solutions
+  - Putting on the intelligent automation lens
+- [**5. Methodologies and Frameworks**](#5-methodologies-and-frameworks) (4 videos)
+  - Methodology and framework topics
+  - Management of an intelligent automation program
+  - Purpose and structure of a center of excellence
+  - Success factors for scaling intelligent automation
+- [**Conclusion**](#conclusion) (3 videos)
+  - IA is not just about the IA
+  - The stars of the show
+  - Where to explore next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automation and Intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/automation-and-intelligence?u=76281980)
@@ -117,7 +141,7 @@ created: 2026-04-29
 
 ### 1. The Importance of Intelligent Automation Today
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intelligent automation: Hype or reality?
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/intelligent-automation-hype-or-reality?u=76281980)
@@ -225,7 +249,7 @@ created: 2026-04-29
 
 ### 2. The Basics of Intelligent Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is intelligent automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/what-is-intelligent-automation?u=76281980)
@@ -481,7 +505,7 @@ created: 2026-04-29
 
 ### 3. The Tech behind the Senses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vision technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/vision-technologies?u=76281980)
@@ -828,7 +852,7 @@ created: 2026-04-29
 
 ### 4. Synergies in Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Combinations and synergies
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/combinations-and-synergies?u=76281980)
@@ -995,7 +1019,7 @@ created: 2026-04-29
 
 ### 5. Methodologies and Frameworks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Methodology and framework topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/methodology-and-framework-topics?u=76281980)
@@ -1186,7 +1210,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IA is not just about the IA
 > [LinkedIn Learning](https://www.linkedin.com/learning/intelligent-automation-foundations/ia-is-not-just-about-the-ia?u=76281980)

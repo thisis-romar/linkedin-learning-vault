@@ -50,16 +50,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Basics]]** (5 videos)
-- **[[#2. Financial Analysis]]** (5 videos)
-- **[[#3. Forecasting in Finance]]** (5 videos)
-- **[[#4. Interpret Forecast Results]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of data in financial analysis
+- [**1. The Basics**](#1-the-basics) (5 videos)
+  - Data and business
+  - Conventional financial analysis
+  - Basics of financial regression analysis
+  - Predict values with regression analysis
+  - Doing a forecast in Excel
+- [**2. Financial Analysis**](#2-financial-analysis) (5 videos)
+  - Financial analysis with data
+  - Tying data to financial statements
+  - Financial ratios with data
+  - Benchmarking the competition
+  - Trend analysis in ratios
+- [**3. Forecasting in Finance**](#3-forecasting-in-finance) (5 videos)
+  - Decide on a finance question
+  - Gather financial data
+  - Clean financial data
+  - Regression analysis in finance
+  - Regressions for forecasting
+- [**4. Interpret Forecast Results**](#4-interpret-forecast-results) (3 videos)
+  - What do the results mean?
+  - Confidence intervals around the result
+  - Stress testing the results
+- [**Conclusion**](#conclusion) (1 videos)
+  - Stress testing the results
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of data in financial analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/the-power-of-data-in-financial-analysis?u=76281980)
@@ -88,7 +108,7 @@ created: 2026-04-29
 
 ### 1. The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data and business
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/data-and-business?u=76281980)
@@ -582,7 +602,7 @@ created: 2026-04-29
 
 ### 2. Financial Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial analysis with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/financial-analysis-with-data?u=76281980)
@@ -1117,7 +1137,7 @@ created: 2026-04-29
 
 ### 3. Forecasting in Finance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Decide on a finance question
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/decide-on-a-finance-question?u=76281980)
@@ -1623,7 +1643,7 @@ created: 2026-04-29
 
 ### 4. Interpret Forecast Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What do the results mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/what-do-the-results-mean?u=76281980)
@@ -2055,7 +2075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stress testing the results
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-data-in-financial-analysis/stress-testing-the-results-23015087?u=76281980)

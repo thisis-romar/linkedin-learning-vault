@@ -53,15 +53,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Building the Smart Document Search Assistant]]** (6 videos)
-- **[[#2. Implementing Core Features]]** (5 videos)
-- **[[#3. Advanced Features and Debugging]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Course introduction
+  - What you should know
+  - Introduction to AI assistants
+  - Setting up the development environment
+- [**1. Building the Smart Document Search Assistant**](#1-building-the-smart-document-search-assistant) (6 videos)
+  - Creating your first assistant
+  - Enabling File Search
+  - Creating and running a thread
+  - Uploading and managing documents
+  - Challenge: Uploading and managing documents
+  - Solution: Uploading and managing documents
+- [**2. Implementing Core Features**](#2-implementing-core-features) (5 videos)
+  - Handling user input and generating responses
+  - Customizing assistant responses
+  - Challenge: Implementing streaming responses
+  - Solution: Implementing streaming responses
+  - Controlling token length and formatting
+- [**3. Advanced Features and Debugging**](#3-advanced-features-and-debugging) (3 videos)
+  - Introduction to the Code Interpreter
+  - Leveraging Code Interpreter for data analysis and iterative problem solving
+  - Integrating function calling
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/course-introduction?u=76281980)
@@ -295,7 +314,7 @@ created: 2026-04-29
 
 ### 1. Building the Smart Document Search Assistant
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your first assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/creating-your-first-assistant?u=76281980)
@@ -1158,7 +1177,7 @@ created: 2026-04-29
 
 ### 2. Implementing Core Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling user input and generating responses
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/handling-user-input-and-generating-responses?u=76281980)
@@ -1817,7 +1836,7 @@ created: 2026-04-29
 
 ### 3. Advanced Features and Debugging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the Code Interpreter
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/introduction-to-the-code-interpreter?u=76281980)
@@ -2434,7 +2453,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api/next-steps?u=76281980)

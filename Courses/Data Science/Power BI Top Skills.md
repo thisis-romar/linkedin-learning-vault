@@ -46,16 +46,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Start Strong with Power BI Foundations]]** (4 videos)
-- **[[#2. Connect, Clean, and Transform Data]]** (5 videos)
-- **[[#3. Create Visualizations in Power BI]]** (7 videos)
-- **[[#4. Share Your Insights]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Unlock your data’s potential with Power BI
+- [**1. Start Strong with Power BI Foundations**](#1-start-strong-with-power-bi-foundations) (4 videos)
+  - Identify why Power BI matters
+  - Launch Power BI
+  - Navigate the Power BI interface
+  - Explore Power BI views
+- [**2. Connect, Clean, and Transform Data**](#2-connect-clean-and-transform-data) (5 videos)
+  - Create objective statements
+  - Connect to multiple data sources in Power BI
+  - Manage relationships and cardinality in Power BI
+  - Use the Power BI query editor to shape raw data
+  - Clean and format text fields in Power BI
+- [**3. Create Visualizations in Power BI**](#3-create-visualizations-in-power-bi) (7 videos)
+  - Create your first visual in the report view
+  - Format visuals for clarity
+  - Build pie charts in Power BI
+  - Create time series trends with Power BI line graphs
+  - Add interactivity with slicers
+  - Highlight key metrics with card visuals
+  - Polish your report design
+- [**4. Share Your Insights**](#4-share-your-insights) (2 videos)
+  - Publish your Power BI report
+  - Refine dashboards in the Power BI web app
+- [**Conclusion**](#conclusion) (1 videos)
+  - Take the next step with Power BI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock your data’s potential with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/unlock-your-data-s-potential-with-power-bi?u=76281980)
@@ -89,7 +109,7 @@ created: 2026-04-29
 
 ### 1. Start Strong with Power BI Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify why Power BI matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/identify-why-power-bi-matters?u=76281980)
@@ -358,7 +378,7 @@ created: 2026-04-29
 
 ### 2. Connect, Clean, and Transform Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create objective statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-objective-statements?u=76281980)
@@ -742,7 +762,7 @@ created: 2026-04-29
 
 ### 3. Create Visualizations in Power BI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your first visual in the report view
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/create-your-first-visual-in-the-report-view?u=76281980)
@@ -1300,7 +1320,7 @@ created: 2026-04-29
 
 ### 4. Share Your Insights
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Publish your Power BI report
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/publish-your-power-bi-report?u=76281980)
@@ -1439,7 +1459,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the next step with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-top-skills-27810109/take-the-next-step-with-power-bi?u=76281980)

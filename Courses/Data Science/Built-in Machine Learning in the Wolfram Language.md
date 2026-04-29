@@ -55,12 +55,14 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Built-in Machine Learning in the Wolfram Language]]** (1 videos)
-- **[[#2. Dedicated Functions: Natural Language Processing]]** (1 videos)
+- [**1. Built-in Machine Learning in the Wolfram Language**](#1-built-in-machine-learning-in-the-wolfram-language) (1 videos)
+  - Built-in machine learning in the Wolfram language
+- [**2. Dedicated Functions: Natural Language Processing**](#2-dedicated-functions-natural-language-processing) (1 videos)
+  - Dedicated functions: Natural language processing
 
 ### 1. Built-in Machine Learning in the Wolfram Language
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in machine learning in the Wolfram language
 > [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/built-in-machine-learning-in-the-wolfram-language?u=76281980)
@@ -208,7 +210,7 @@ created: 2026-04-29
 
 ### 2. Dedicated Functions: Natural Language Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dedicated functions: Natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/built-in-machine-learning-in-the-wolfram-language/dedicated-functions-natural-language-processing?u=76281980)

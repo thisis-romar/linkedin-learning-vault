@@ -53,22 +53,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Create Speech-Enabled Apps with Azure AI Services]]** (1 videos)
-- **[[#2. Translate Speech with the Azure AI Speech Service]]** (0 videos)
-- **[[#3. Build a Conversational Language Understanding Model]]** (0 videos)
-- **[[#4. Develop an App with Azure AI Language]]** (0 videos)
-- **[[#5. Build a Question Answering Solution]]** (0 videos)
-- **[[#6. Create a Custom Text Classification Solution]]** (0 videos)
-- **[[#7. Custom Named Entity Recognition]]** (0 videos)
-- **[[#8. Analyze Images]]** (0 videos)
-- **[[#9. Analyze Video]]** (0 videos)
-- **[[#10. Classify Images]]** (0 videos)
-- **[[#11. Detect Objects in Images]]** (0 videos)
-- **[[#12. Detect, Analyze, and Recognize Faces]]** (0 videos)
+- [**1. Create Speech-Enabled Apps with Azure AI Services**](#1-create-speech-enabled-apps-with-azure-ai-services) (1 videos)
+  - Welcome to this course
+- [**2. Translate Speech with the Azure AI Speech Service**](#2-translate-speech-with-the-azure-ai-speech-service) (0 videos)
+- [**3. Build a Conversational Language Understanding Model**](#3-build-a-conversational-language-understanding-model) (0 videos)
+- [**4. Develop an App with Azure AI Language**](#4-develop-an-app-with-azure-ai-language) (0 videos)
+- [**5. Build a Question Answering Solution**](#5-build-a-question-answering-solution) (0 videos)
+- [**6. Create a Custom Text Classification Solution**](#6-create-a-custom-text-classification-solution) (0 videos)
+- [**7. Custom Named Entity Recognition**](#7-custom-named-entity-recognition) (0 videos)
+- [**8. Analyze Images**](#8-analyze-images) (0 videos)
+- [**9. Analyze Video**](#9-analyze-video) (0 videos)
+- [**10. Classify Images**](#10-classify-images) (0 videos)
+- [**11. Detect Objects in Images**](#11-detect-objects-in-images) (0 videos)
+- [**12. Detect, Analyze, and Recognize Faces**](#12-detect-analyze-and-recognize-faces) (0 videos)
 
 ### 1. Create Speech-Enabled Apps with Azure AI Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-engineering-speech-language-and-vision-solutions/introduction?u=76281980)
@@ -95,57 +96,57 @@ created: 2026-04-29
 
 ### 2. Translate Speech with the Azure AI Speech Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 3. Build a Conversational Language Understanding Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 4. Develop an App with Azure AI Language
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 5. Build a Question Answering Solution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 6. Create a Custom Text Classification Solution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 7. Custom Named Entity Recognition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 8. Analyze Images
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 9. Analyze Video
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 10. Classify Images
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 11. Detect Objects in Images
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 12. Detect, Analyze, and Recognize Faces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

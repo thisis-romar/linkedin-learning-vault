@@ -46,15 +46,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Strategy and Business Management for Project Managers]]** (1 videos)
-- **[[#2. Aligning Projects with Business Strategy]]** (8 videos)
-- **[[#3. Recognizing Business Function Priorities]]** (13 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building your business acumen as a project manager
+- [**1. Strategy and Business Management for Project Managers**](#1-strategy-and-business-management-for-project-managers) (1 videos)
+  - The Talent Triangle in project management
+- [**2. Aligning Projects with Business Strategy**](#2-aligning-projects-with-business-strategy) (8 videos)
+  - The role of projects in your business strategy
+  - Strategic, tactical, and operational aspects of projects
+  - Define your strategic project goals
+  - Define the benefits of your project for stakeholders
+  - Define the risks of your project
+  - Define the sustainability of your project
+  - Process improvement methods in project management
+  - Align your project scope, schedule, and budget
+- [**3. Recognizing Business Function Priorities**](#3-recognizing-business-function-priorities) (13 videos)
+  - Prioritizing the customer for business acumen
+  - Insights on marketing and sales for project managers
+  - Insights on procurement, operations, and logistics for PMs
+  - Insights on supply chain management for PMs
+  - Insights on human resources for project managers
+  - Insights on safety and physical security for PMs
+  - Insights on information technology for PMs
+  - Insights on finance and accounting documents for PMs
+  - Insights on finance and accounting calculations for PMs
+  - Insights on Capital Expenses (CapEx) and Operational Expenses (OpEx)
+  - Insights on AI
+  - Insights on supply chain resilience
+  - Insights on startups
+- [**Conclusion**](#conclusion) (1 videos)
+  - Leverage your business acumen for project success
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your business acumen as a project manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/building-your-business-acumen-as-a-project-manager?u=76281980)
@@ -91,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Strategy and Business Management for Project Managers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Talent Triangle in project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-talent-triangle-in-project-management?u=76281980)
@@ -144,7 +168,7 @@ created: 2026-04-29
 
 ### 2. Aligning Projects with Business Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of projects in your business strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-role-of-projects-in-your-business-strategy?u=76281980)
@@ -768,7 +792,7 @@ created: 2026-04-29
 
 ### 3. Recognizing Business Function Priorities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prioritizing the customer for business acumen
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980)
@@ -1684,7 +1708,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage your business acumen for project success
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980)

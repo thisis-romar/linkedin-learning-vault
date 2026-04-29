@@ -48,16 +48,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Foundations of GPT Creation]]** (6 videos)
-- **[[#2. Personal Development and Testing]]** (5 videos)
-- **[[#3. Ensuring Accuracy and Readability]]** (5 videos)
-- **[[#4. Optimizing User Experience]]** (5 videos)
-- **[[#5. Managing AI Boundaries and Ambiguity]]** (5 videos)
-- **[[#6. Advanced GPT Techniques and Next Steps]]** (5 videos)
+- [**1. Foundations of GPT Creation**](#1-foundations-of-gpt-creation) (6 videos)
+  - GPTs and ChatGPT: Introduction to crafting your own powerful AI
+  - GPTs and ChatGPT: Programming with prompts for effective AI instructions
+  - GPTs and ChatGPT: Mastering custom instructions for tailored AI performance
+  - GPTs and ChatGPT: Enhancing performance with retrieval-augmented generation
+  - GPTs and ChatGPT: Building powerful AI with integrated capabilities
+  - GPTs and ChatGPT: Understanding tool use for enhanced capabilities and actions
+- [**2. Personal Development and Testing**](#2-personal-development-and-testing) (5 videos)
+  - GPTs and ChatGPT: Creating a persona for your custom AI
+  - GPTs and ChatGPT: The importance of effective testing
+  - GPTs and ChatGPT: Building benchmarks to measure AI performance
+  - GPTs and ChatGPT: Generating test cases with custom AI
+  - GPTs and ChatGPT: Helping users solve problems without giving direct answers
+- [**3. Ensuring Accuracy and Readability**](#3-ensuring-accuracy-and-readability) (5 videos)
+  - GPTs and ChatGPT: Citing knowledge to ensure accuracy and credibility
+  - GPTs and ChatGPT: Effective output formatting for enhanced readability
+  - GPTs and ChatGPT: Providing accurate information and ensuring factual responses
+  - GPTs and ChatGPT: Hedging while helping—crafting balanced responses
+  - GPTs and ChatGPT: Designing interactive experiences with menu action patterns
+- [**4. Optimizing User Experience**](#4-optimizing-user-experience) (5 videos)
+  - GPTs and ChatGPT: Finding additional resources and support
+  - GPTs and ChatGPT: Ensuring that GPTs have the information for better decision-making
+  - GPTs and ChatGPT: Flipped interaction pattern for dynamic conversations
+  - GPTs and ChatGPT: Addressing missing context for better user interaction
+  - GPTs and ChatGPT: Creating tailored user experiences
+- [**5. Managing AI Boundaries and Ambiguity**](#5-managing-ai-boundaries-and-ambiguity) (5 videos)
+  - GPTs and ChatGPT: Setting boundaries and defining limits in AI responses
+  - GPTs and ChatGPT: Responding to knowledge gaps with effective strategies
+  - GPTs and ChatGPT: Handling ambiguity and refining user prompts
+  - GPTs and ChatGPT: Enforcing boundaries with alternative approaches
+  - GPTs and ChatGPT: Ensuring accuracy with cognitive verifier patterns
+- [**6. Advanced GPT Techniques and Next Steps**](#6-advanced-gpt-techniques-and-next-steps) (5 videos)
+  - GPTs and ChatGPT: Managing ambiguity in concept mapping
+  - GPTs and ChatGPT: Resolving knowledge conflicts in AI outputs
+  - GPTs and ChatGPT: Understanding accountability in AI usage
+  - GPTs and ChatGPT: Conducting adversarial testing for robustness
+  - GPTs and ChatGPT: Your next steps in crafting personalized AI automation
 
 ### 1. Foundations of GPT Creation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Introduction to crafting your own powerful AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-introduction-to-crafting-your-own-powerful-ai?u=76281980)
@@ -1176,7 +1207,7 @@ created: 2026-04-29
 
 ### 2. Personal Development and Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Creating a persona for your custom AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-creating-a-persona-for-your-custom-ai?u=76281980)
@@ -1708,7 +1739,7 @@ created: 2026-04-29
 
 ### 3. Ensuring Accuracy and Readability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Citing knowledge to ensure accuracy and credibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-citing-knowledge-to-ensure-accuracy-and-credibility?u=76281980)
@@ -2347,7 +2378,7 @@ created: 2026-04-29
 
 ### 4. Optimizing User Experience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Finding additional resources and support
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-finding-additional-resources-and-support?u=76281980)
@@ -2854,7 +2885,7 @@ created: 2026-04-29
 
 ### 5. Managing AI Boundaries and Ambiguity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Setting boundaries and defining limits in AI responses
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-setting-boundaries-and-defining-limits-in-ai-responses?u=76281980)
@@ -3432,7 +3463,7 @@ created: 2026-04-29
 
 ### 6. Advanced GPT Techniques and Next Steps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GPTs and ChatGPT: Managing ambiguity in concept mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-crafting-exceptional-gpts-for-enhanced-productivity-and-innovation/gpts-and-chatgpt-managing-ambiguity-in-concept-mapping?u=76281980)

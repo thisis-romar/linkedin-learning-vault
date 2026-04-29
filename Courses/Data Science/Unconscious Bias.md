@@ -55,14 +55,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Basics of Unconscious Bias]]** (4 videos)
-- **[[#2. Common Forms of Unconscious Bias]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why identify your bias?
+- [**1. The Basics of Unconscious Bias**](#1-the-basics-of-unconscious-bias) (4 videos)
+  - What is unconscious bias?
+  - The impact of a 1% bias
+  - The basis of unconscious bias
+  - Unconscious bias at work
+- [**2. Common Forms of Unconscious Bias**](#2-common-forms-of-unconscious-bias) (5 videos)
+  - Affinity bias
+  - Halo bias
+  - Perception bias
+  - Confirmation bias
+  - Groupthink
+- [**Conclusion**](#conclusion) (1 videos)
+  - Practice what you've learned
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why identify your bias?
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/why-identify-your-bias?u=76281980)
@@ -107,7 +118,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Unconscious Bias
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is unconscious bias?
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/what-is-unconscious-bias?u=76281980)
@@ -367,7 +378,7 @@ created: 2026-04-29
 
 ### 2. Common Forms of Unconscious Bias
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Affinity bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/affinity-bias?u=76281980)
@@ -682,7 +693,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/unconscious-bias-14822310/practice-what-you-ve-learned?u=76281980)

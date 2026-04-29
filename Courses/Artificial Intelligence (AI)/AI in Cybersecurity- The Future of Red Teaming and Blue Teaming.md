@@ -53,14 +53,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Red Teaming Enhanced by AI]]** (5 videos)
-- **[[#2. Blue Teaming Enhanced by AI]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introduction to red teaming and blue teaming enhanced by AI
+  - Tips to get the best results using AI chatbots
+  - AI censorship and jailbreaking chatbots for better results
+- [**1. Red Teaming Enhanced by AI**](#1-red-teaming-enhanced-by-ai) (5 videos)
+  - Writing and enhancing red team documentation with AI
+  - AI generated code and offensive tooling
+  - AI-assisted adversary emulation
+  - Using AI to create fake online identities for OSINT
+  - AI’s role in revolutionizing security policies for CISOs
+- [**2. Blue Teaming Enhanced by AI**](#2-blue-teaming-enhanced-by-ai) (5 videos)
+  - Techniques for effective AI-powered threat hunting
+  - Threat intelligence 2.0: AI-driven security insights
+  - AI strategies for social engineering defense
+  - SOC of the future: Log analysis and detection engineering
+  - Bulletproof AI code review and malware analysis
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to red teaming and blue teaming enhanced by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/introduction-to-red-teaming-and-blue-teaming-enhanced-by-ai?u=76281980)
@@ -263,7 +277,7 @@ created: 2026-04-29
 
 ### 1. Red Teaming Enhanced by AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing and enhancing red team documentation with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/writing-and-enhancing-red-team-documentation-with-ai?u=76281980)
@@ -630,7 +644,7 @@ created: 2026-04-29
 
 ### 2. Blue Teaming Enhanced by AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Techniques for effective AI-powered threat hunting
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/techniques-for-effective-ai-powered-threat-hunting?u=76281980)
@@ -1016,7 +1030,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-cybersecurity-the-future-of-red-teaming-and-blue-teaming/next-steps?u=76281980)

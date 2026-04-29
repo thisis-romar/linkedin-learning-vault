@@ -47,17 +47,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Web Servers]]** (9 videos)
-- **[[#2. Getting Ready to Test]]** (6 videos)
-- **[[#3. Running Basic Web Application Tests]]** (4 videos)
-- **[[#4. Advanced Web Application Tests]]** (6 videos)
-- **[[#5. Practicing Your Skills]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Testing to make sure your website is safe
+  - What you should know
+  - Disclaimer
+- [**1. Introduction to Web Servers**](#1-introduction-to-web-servers) (9 videos)
+  - Elements of web-based applications
+  - Introduction to web servers
+  - Dissecting the HTTP/HTTPS protocol
+  - Moving on to WebSockets
+  - Looking at the Google QUIC protocol
+  - Understanding cookies
+  - Introducing HTML
+  - Visiting OWASP
+  - Web access APIs
+- [**2. Getting Ready to Test**](#2-getting-ready-to-test) (6 videos)
+  - Introducing the Zero Bank
+  - Installing the WebGoat Server
+  - Introducing Burp Suite
+  - Scanning with ZAP
+  - Proxying with ZAP
+  - Introducing WebScarab
+- [**3. Running Basic Web Application Tests**](#3-running-basic-web-application-tests) (4 videos)
+  - Fingerprinting web servers
+  - Looking for credentials in HTML code
+  - Using Cookie Jars
+  - Hijacking sessions with cookies
+- [**4. Advanced Web Application Tests**](#4-advanced-web-application-tests) (6 videos)
+  - Manipulating URL parameters
+  - Testing for SQL injections
+  - Cross-site scripting
+  - Injecting commands through the URL
+  - Testing with Uniscan
+  - Using the modsecurity WAF
+- [**5. Practicing Your Skills**](#5-practicing-your-skills) (3 videos)
+  - Practicing with online banking websites
+  - Hacking the cheese
+  - Training in the Web Security Dojo
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing to make sure your website is safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/testing-to-make-sure-your-website-is-safe?u=76281980)
@@ -147,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Web Servers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elements of web-based applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/elements-of-web-based-applications?u=76281980)
@@ -946,7 +978,7 @@ created: 2026-04-29
 
 ### 2. Getting Ready to Test
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the Zero Bank
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/introducing-the-zero-bank?u=76281980)
@@ -1361,7 +1393,7 @@ created: 2026-04-29
 
 ### 3. Running Basic Web Application Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fingerprinting web servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/fingerprinting-web-servers?u=76281980)
@@ -1617,7 +1649,7 @@ created: 2026-04-29
 
 ### 4. Advanced Web Application Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manipulating URL parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/manipulating-url-parameters?u=76281980)
@@ -2117,7 +2149,7 @@ created: 2026-04-29
 
 ### 5. Practicing Your Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practicing with online banking websites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/practicing-with-online-banking-websites?u=76281980)
@@ -2334,7 +2366,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-hacking-web-servers-and-web-applications/next-steps?u=76281980)

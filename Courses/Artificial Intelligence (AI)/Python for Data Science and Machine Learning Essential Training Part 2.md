@@ -61,19 +61,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Machine Learning]]** (5 videos)
-- **[[#2. Regression Models]]** (10 videos)
-- **[[#3. Clustering Models]]** (3 videos)
-- **[[#4. Dimension Reduction Methods]]** (2 videos)
-- **[[#5. Other Popular Machine Learning Methods]]** (7 videos)
-- **[[#6. Getting Started with Natural Language Processing]]** (3 videos)
-- **[[#7. Getting Started with Generative AI Models]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Data science life hacks
+  - What you should know
+  - How to use Codespaces in this course
+- [**1. Introduction to Machine Learning**](#1-introduction-to-machine-learning) (5 videos)
+  - Defining data science
+  - Seeing where machine learning fits in
+  - Machine learning AI foundations
+  - Grouping machine learning algorithms
+  - High-level machine learning roadmap
+- [**2. Regression Models**](#2-regression-models) (10 videos)
+  - Linear regression
+  - Multiple linear regression
+  - Logistic regression: Concepts
+  - Logistic regression: Data preparation
+  - Logistic regression: Treat missing values
+  - Logistic regression: Re-encode variable
+  - Logistic regression: Validating dataset
+  - Logistic regression: Model deployment
+  - Logistic regression: Model evaluation
+  - Logistic regression: Test prediction
+- [**3. Clustering Models**](#3-clustering-models) (3 videos)
+  - Cluster analysis with the K-means method
+  - Hierarchical cluster analysis
+  - DBSCAN for outlier detection
+- [**4. Dimension Reduction Methods**](#4-dimension-reduction-methods) (2 videos)
+  - Explanatory factor analysis
+  - Principal component analysis (PCA)
+- [**5. Other Popular Machine Learning Methods**](#5-other-popular-machine-learning-methods) (7 videos)
+  - Association rules models with the Apriori algorithm
+  - Instance-based learning with KNN
+  - Decision trees with CART
+  - Bayesian statistics with Naïve Bayes
+  - Ensemble learning with random forest
+  - Neural networks with perceptrons
+  - Building a neural network
+- [**6. Getting Started with Natural Language Processing**](#6-getting-started-with-natural-language-processing) (3 videos)
+  - Introduction to natural language processing (NLP)
+  - Cleaning and stemming textual data
+  - Lemmatizing and analyzing textual data
+- [**7. Getting Started with Generative AI Models**](#7-getting-started-with-generative-ai-models) (3 videos)
+  - Deep dive into generative AI models
+  - Keeping up with AI developments
+  - Coding demo: Implementing a generative AI model
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science life hacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/data-science-life-hacks?u=76281980)
@@ -210,7 +247,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/defining-data-science?u=76281980)
@@ -737,7 +774,7 @@ created: 2026-04-29
 
 ### 2. Regression Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/linear-regression?u=76281980)
@@ -2223,7 +2260,7 @@ created: 2026-04-29
 
 ### 3. Clustering Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cluster analysis with the K-means method
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/cluster-analysis-with-k-means-method?u=76281980)
@@ -3014,7 +3051,7 @@ created: 2026-04-29
 
 ### 4. Dimension Reduction Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanatory factor analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/explanatory-factor-analysis?u=76281980)
@@ -3349,7 +3386,7 @@ created: 2026-04-29
 
 ### 5. Other Popular Machine Learning Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Association rules models with the Apriori algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/association-rules-models-w-apriori-algorithm?u=76281980)
@@ -4881,7 +4918,7 @@ created: 2026-04-29
 
 ### 6. Getting Started with Natural Language Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to natural language processing (NLP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/introduction-to-natural-language-processing-nlp?u=76281980)
@@ -5470,7 +5507,7 @@ created: 2026-04-29
 
 ### 7. Getting Started with Generative AI Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deep dive into generative AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/deep-dive-into-generative-ai-models?u=76281980)
@@ -5872,7 +5909,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-2/next-steps-and-additional-resources?u=76281980)

@@ -52,17 +52,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Azure OpenAI Service]]** (7 videos)
-- **[[#2. Chat Completion Models]]** (4 videos)
-- **[[#3. Embedding Models]]** (3 videos)
-- **[[#4. Image Generation Models]]** (3 videos)
-- **[[#5. Audio Models]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Unlocking your AI potential with Azure OpenAI Service
+  - What you should know
+- [**1. Introduction to Azure OpenAI Service**](#1-introduction-to-azure-openai-service) (7 videos)
+  - What is Azure OpenAI Service?
+  - Azure OpenAI vs. OpenAI Service
+  - Deploying Azure OpenAI Service
+  - Azure AI Foundry: Quick tour
+  - Azure AI Foundry: Model catalog
+  - Azure AI Foundry: Playground
+  - What kind of models are available?
+- [**2. Chat Completion Models**](#2-chat-completion-models) (4 videos)
+  - How do GPT models work?
+  - What can GPT models do?
+  - Which model should I choose?
+  - The important role of prompt engineering
+- [**3. Embedding Models**](#3-embedding-models) (3 videos)
+  - What are embeddings?
+  - Model capabilities
+  - How to use embeddings for a semantic search
+- [**4. Image Generation Models**](#4-image-generation-models) (3 videos)
+  - What are DALL·E models?
+  - How image generation models work
+  - Examples of use cases
+- [**5. Audio Models**](#5-audio-models) (4 videos)
+  - What are audio models?
+  - Converting speech to text
+  - Converting text to speech
+  - Audio chat with a chat model
+- [**Conclusion**](#conclusion) (2 videos)
+  - Be careful
+  - More ideas
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlocking your AI potential with Azure OpenAI Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/unlocking-ai-potential-with-azure-open-ai-services?u=76281980)
@@ -129,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Azure OpenAI Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Azure OpenAI Service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-is-azure-openai-services?u=76281980)
@@ -488,7 +513,7 @@ created: 2026-04-29
 
 ### 2. Chat Completion Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do GPT models work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/how-do-gpt-models-work?u=76281980)
@@ -906,7 +931,7 @@ created: 2026-04-29
 
 ### 3. Embedding Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are embeddings?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-embeddings?u=76281980)
@@ -1183,7 +1208,7 @@ created: 2026-04-29
 
 ### 4. Image Generation Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are DALL·E models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-dall-e-models?u=76281980)
@@ -1349,7 +1374,7 @@ created: 2026-04-29
 
 ### 5. Audio Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are audio models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/what-are-audio-models?u=76281980)
@@ -1610,7 +1635,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be careful
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-openai-services-and-generative-ai-models/be-carefull?u=76281980)

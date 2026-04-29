@@ -47,12 +47,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Blockchain?]]** (14 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to blockchain
+- [**1. What Is Blockchain?**](#1-what-is-blockchain) (14 videos)
+  - The beginning of blockchain
+  - Currency and cryptocurrency
+  - Why use the blockchain?
+  - Blockchain data and blocks
+  - Blockchain immutability
+  - Blockchain consensus
+  - Building the blockchain story
+  - Hashes
+  - What is a chain of blocks?
+  - Finding the nonce
+  - Blockchain mining
+  - Arriving at consensus
+  - Public vs. private blockchains
+  - Distributed processing and blockchain solutions
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/introduction-to-blockchain?u=76281980)
@@ -110,7 +125,7 @@ created: 2026-04-29
 
 ### 1. What Is Blockchain?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The beginning of blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-1-introduction-to-blockchain/the-beginning-of-blockchain?u=76281980)

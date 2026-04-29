@@ -48,17 +48,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Spring Data Umbrella Project]]** (2 videos)
-- **[[#2. Introduction to Spring Data JPA]]** (5 videos)
-- **[[#3. Spring Data JPA Query Methods]]** (6 videos)
-- **[[#4. Dynamic Spring Data JPA Queries]]** (5 videos)
-- **[[#5. More Spring Data Features]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Diving into Spring Data
+  - What you need
+- [**1. Spring Data Umbrella Project**](#1-spring-data-umbrella-project) (2 videos)
+  - Mission and modules
+  - Java Persistence API
+- [**2. Introduction to Spring Data JPA**](#2-introduction-to-spring-data-jpa) (5 videos)
+  - Spring Boot Starter Data JPA
+  - Spring Data CrudRepository and JPA repository
+  - Challenge: Fix SimpleDBCrudTest syntax errors
+  - Solution: Fix SimpleDBCrudTest syntax errors
+  - Spring Data JPA magic
+- [**3. Spring Data JPA Query Methods**](#3-spring-data-jpa-query-methods) (6 videos)
+  - Property expression query methods
+  - Query method clauses with property expressions
+  - @Query annotation
+  - Challenge: Refactor to three query methods
+  - Solution: Refactor to three query methods
+  - Paging and sorting
+- [**4. Dynamic Spring Data JPA Queries**](#4-dynamic-spring-data-jpa-queries) (5 videos)
+  - Specifications
+  - Querydsl
+  - Query by Example
+  - Challenge: Query by Example
+  - Solution: Query by Example
+- [**5. More Spring Data Features**](#5-more-spring-data-features) (4 videos)
+  - Spring Data REST
+  - Spring Data MongoDB
+  - Non-blocking Spring Data reactive repositories
+  - More data source support and features
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with Spring Data
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving into Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980)
@@ -119,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Spring Data Umbrella Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mission and modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980)
@@ -288,7 +313,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Spring Data JPA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spring Boot Starter Data JPA
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980)
@@ -625,7 +650,7 @@ created: 2026-04-29
 
 ### 3. Spring Data JPA Query Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Property expression query methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980)
@@ -1180,7 +1205,7 @@ created: 2026-04-29
 
 ### 4. Dynamic Spring Data JPA Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Specifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980)
@@ -1580,7 +1605,7 @@ created: 2026-04-29
 
 ### 5. More Spring Data Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spring Data REST
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980)
@@ -2059,7 +2084,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980)

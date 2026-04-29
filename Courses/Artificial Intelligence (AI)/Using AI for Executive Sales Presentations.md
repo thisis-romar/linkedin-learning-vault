@@ -48,16 +48,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Leverage AI to Develop Your B2B Strategy Skills]]** (3 videos)
-- **[[#2. Guarantee an Authentic Connection with Your Executive Sponsor]]** (2 videos)
-- **[[#3. Create a Winning B2B Prospect Presentation Using AI]]** (2 videos)
-- **[[#4. Sales Presentation Practice Ensures a Confident Mindset]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Prepare to win with your B2B sales presentations
+  - Who should take this course and why
+- [**1. Leverage AI to Develop Your B2B Strategy Skills**](#1-leverage-ai-to-develop-your-b2b-strategy-skills) (3 videos)
+  - B2B strategic selling and executive engagement defined
+  - Establishing key differentiators: AI-assisted B2B sales strategy
+  - Analyze your B2B competitors to fine-tune competitive blocks
+- [**2. Guarantee an Authentic Connection with Your Executive Sponsor**](#2-guarantee-an-authentic-connection-with-your-executive-sponsor) (2 videos)
+  - Leverage AI to formulate executive intelligence to connect
+  - Deploy win themes to gain executive receptivity
+- [**3. Create a Winning B2B Prospect Presentation Using AI**](#3-create-a-winning-b2b-prospect-presentation-using-ai) (2 videos)
+  - Select the most effective executive presentation framework using AI
+  - Build your executive presentation using winning content elements
+- [**4. Sales Presentation Practice Ensures a Confident Mindset**](#4-sales-presentation-practice-ensures-a-confident-mindset) (2 videos)
+  - Accelerate prospect engagement with AI tips
+  - Advance with your prospect through powerful presentation prep.
+- [**Conclusion**](#conclusion) (1 videos)
+  - Celebrate your big B2B contract after a winning presentation
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare to win with your B2B sales presentations
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/prepare-to-win-with-your-b2b-sales-presentations?u=76281980)
@@ -111,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Leverage AI to Develop Your B2B Strategy Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### B2B strategic selling and executive engagement defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/b2b-strategic-selling-and-executive-engagement-defined?u=76281980)
@@ -365,7 +377,7 @@ created: 2026-04-29
 
 ### 2. Guarantee an Authentic Connection with Your Executive Sponsor
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage AI to formulate executive intelligence to connect
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/leverage-ai-to-formulate-executive-intelligence-to-connect?u=76281980)
@@ -544,7 +556,7 @@ created: 2026-04-29
 
 ### 3. Create a Winning B2B Prospect Presentation Using AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Select the most effective executive presentation framework using AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/select-the-most-effective-executive-presentation-framework-using-ai?u=76281980)
@@ -750,7 +762,7 @@ created: 2026-04-29
 
 ### 4. Sales Presentation Practice Ensures a Confident Mindset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate prospect engagement with AI tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/accelerate-prospect-engagement-with-ai-tips?u=76281980)
@@ -961,7 +973,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Celebrate your big B2B contract after a winning presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-executive-sales-presentations/celebrate-your-big-b2b-contract-after-a-winning-presentation?u=76281980)

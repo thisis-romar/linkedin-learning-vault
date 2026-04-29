@@ -46,18 +46,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Accessibility, Design, and Development]]** (4 videos)
-- **[[#2. Design Systems and Accessibility]]** (4 videos)
-- **[[#3. Setting Up a Design System Audit]]** (5 videos)
-- **[[#4. Auditing a Design System for Accessibility]]** (4 videos)
-- **[[#5. Documenting a Design System Accessibility Audit]]** (4 videos)
-- **[[#6. Acting on a Design System Accessibility Audit]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Auditing design systems for accessibility
+  - What you should know
+- [**1. Accessibility, Design, and Development**](#1-accessibility-design-and-development) (4 videos)
+  - Why accessibility matters
+  - Why accessibility matters in product design and development
+  - Who to consider in accessible design and development
+  - Digital accessibility standards
+- [**2. Design Systems and Accessibility**](#2-design-systems-and-accessibility) (4 videos)
+  - Atomic design principles
+  - Checking an example system and design for accessibility
+  - Addressing issues at a system level
+  - Why design systems must consider accessibility
+- [**3. Setting Up a Design System Audit**](#3-setting-up-a-design-system-audit) (5 videos)
+  - What is an accessibility audit?
+  - Considerations for an accessibility audit
+  - What do you review in a design system accessibility audit?
+  - Setting up an accessibility audit
+  - Creating an accessibility audit document
+- [**4. Auditing a Design System for Accessibility**](#4-auditing-a-design-system-for-accessibility) (4 videos)
+  - Reviewing designs for accessibility
+  - Automated testing for front-end code
+  - Manual testing for front-end code
+  - Reviewing documentation for accessibility
+- [**5. Documenting a Design System Accessibility Audit**](#5-documenting-a-design-system-accessibility-audit) (4 videos)
+  - Adding issues to your original document
+  - Mapping issues to WCAG criterion
+  - Prioritizing issues by impact
+  - Grouping issues into themes
+- [**6. Acting on a Design System Accessibility Audit**](#6-acting-on-a-design-system-accessibility-audit) (5 videos)
+  - Sharing results with your team
+  - Sharing results with organizational leaders
+  - Prioritizing and acting on issues with your team
+  - Sharing results with design system users
+  - Using results to further motivate better research and advocacy with people who have disabilities
+- [**Conclusion**](#conclusion) (1 videos)
+  - There's no such thing as "perfect" accessibility
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Auditing design systems for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/auditing-design-systems-for-accessibility?u=76281980)
@@ -151,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Accessibility, Design, and Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why accessibility matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/why-accessibility-matters?u=76281980)
@@ -426,7 +455,7 @@ created: 2026-04-29
 
 ### 2. Design Systems and Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Atomic design principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/atomic-design-principles?u=76281980)
@@ -688,7 +717,7 @@ created: 2026-04-29
 
 ### 3. Setting Up a Design System Audit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an accessibility audit?
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/what-is-an-accessibility-audit?u=76281980)
@@ -1087,7 +1116,7 @@ created: 2026-04-29
 
 ### 4. Auditing a Design System for Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing designs for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/reviewing-designs-for-accessibility?u=76281980)
@@ -1390,7 +1419,7 @@ created: 2026-04-29
 
 ### 5. Documenting a Design System Accessibility Audit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding issues to your original document
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/adding-issues-to-your-original-document?u=76281980)
@@ -1742,7 +1771,7 @@ created: 2026-04-29
 
 ### 6. Acting on a Design System Accessibility Audit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sharing results with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/sharing-results-with-your-team?u=76281980)
@@ -2080,7 +2109,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### There's no such thing as "perfect" accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/auditing-design-systems-for-accessibility/there-s-no-such-thing-as-perfect-accessibility?u=76281980)

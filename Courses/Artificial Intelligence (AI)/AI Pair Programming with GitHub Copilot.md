@@ -57,16 +57,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Familiar with Copilot]]** (5 videos)
-- **[[#2. Building a Project with Copilot]]** (2 videos)
-- **[[#3. Back-End Code with Copilot]]** (5 videos)
-- **[[#4. Front-End Fun with Copilot]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - GitHub Copilot and the GenAI revolution
+- [**1. Getting Familiar with Copilot**](#1-getting-familiar-with-copilot) (5 videos)
+  - What is Copilot?
+  - Warning: Use responsibly
+  - Test flight
+  - Code completions
+  - Productivity tips and tricks for code completions
+- [**2. Building a Project with Copilot**](#2-building-a-project-with-copilot) (2 videos)
+  - What we will build
+  - Security considerations
+- [**3. Back-End Code with Copilot**](#3-back-end-code-with-copilot) (5 videos)
+  - What Copilot Chat means for project boilerplate
+  - Brainstorming with Copilot conversational interface
+  - Creating a data model with Copilot with Code Completion
+  - Implementing a REST API with Copilot
+  - Test strategy and implementation with Chat Interface
+- [**4. Front-End Fun with Copilot**](#4-front-end-fun-with-copilot) (6 videos)
+  - Where Copilot differs in front-end work
+  - Consuming our API with client-side code
+  - Presentation logic and HTML
+  - Styles
+  - Copilot Chat Agent Mode
+  - GitHub Copilot extensions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Advance your AI skills with LinkedIn Learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub Copilot and the GenAI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/github-copilot-and-the-genai-revolution?u=76281980)
@@ -102,7 +122,7 @@ created: 2026-04-29
 
 ### 1. Getting Familiar with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-is-copilot?u=76281980)
@@ -461,7 +481,7 @@ created: 2026-04-29
 
 ### 2. Building a Project with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What we will build
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-we-will-build?u=76281980)
@@ -536,7 +556,7 @@ created: 2026-04-29
 
 ### 3. Back-End Code with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What Copilot Chat means for project boilerplate
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/what-copilot-chat-means-for-project-boilerplate?u=76281980)
@@ -1245,7 +1265,7 @@ created: 2026-04-29
 
 ### 4. Front-End Fun with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where Copilot differs in front-end work
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/where-copilot-differs-in-front-end-work?u=76281980)
@@ -1977,7 +1997,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advance your AI skills with LinkedIn Learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-pair-programming-with-github-copilot-25302433/advance-your-ai-skills-with-linkedin-learning?u=76281980)

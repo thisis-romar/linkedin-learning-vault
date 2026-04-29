@@ -55,17 +55,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Calculus]]** (4 videos)
-- **[[#2. Derivatives and Differentiation]]** (8 videos)
-- **[[#3. Multivariate Calculus]]** (4 videos)
-- **[[#4. Machine Learning Gradients]]** (4 videos)
-- **[[#5. Introduction to Integral Calculus]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn calculus, a foundation for machine learning
+  - What you should know
+- [**1. Introduction to Calculus**](#1-introduction-to-calculus) (4 videos)
+  - Defining calculus
+  - Applications of calculus in ML
+  - Functions
+  - Limits
+- [**2. Derivatives and Differentiation**](#2-derivatives-and-differentiation) (8 videos)
+  - Introduction to derivatives
+  - The derivative of a constant and the power rule
+  - The constant multiple rule
+  - The sum rule
+  - The product rule
+  - The quotient rule
+  - The chain rule
+  - The power rule on a function chain
+- [**3. Multivariate Calculus**](#3-multivariate-calculus) (4 videos)
+  - Partial derivatives
+  - Calculating partial derivatives
+  - Higher-order partial derivatives
+  - The chain rule for partial derivatives
+- [**4. Machine Learning Gradients**](#4-machine-learning-gradients) (4 videos)
+  - Single-point regression gradient
+  - The partial derivatives of quadratic cost
+  - Connecting partial derivatives with backpropagation
+  - Finding minima and maxima
+- [**5. Introduction to Integral Calculus**](#5-introduction-to-integral-calculus) (4 videos)
+  - Defining integral calculus
+  - Integration rules
+  - Indefinite integrals
+  - Definite integrals
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn calculus, a foundation for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/learn-calculus-a-foundation-for-machine-learning?u=76281980)
@@ -120,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Calculus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining calculus
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-calculus?u=76281980)
@@ -400,7 +427,7 @@ created: 2026-04-29
 
 ### 2. Derivatives and Differentiation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to derivatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/introduction-to-derivatives?u=76281980)
@@ -916,7 +943,7 @@ created: 2026-04-29
 
 ### 3. Multivariate Calculus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Partial derivatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/partial-derivatives?u=76281980)
@@ -1219,7 +1246,7 @@ created: 2026-04-29
 
 ### 4. Machine Learning Gradients
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Single-point regression gradient
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/single-point-regression-gradient?u=76281980)
@@ -1503,7 +1530,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Integral Calculus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining integral calculus
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/defining-integral-calculus?u=76281980)
@@ -1797,7 +1824,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-calculus/next-steps?u=76281980)

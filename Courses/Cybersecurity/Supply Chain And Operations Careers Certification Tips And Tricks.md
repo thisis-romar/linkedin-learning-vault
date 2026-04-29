@@ -44,16 +44,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Supply Chain Certifications]]** (14 videos)
-- **[[#2. Supply Chain Functions]]** (9 videos)
-- **[[#3. Supply Chain Processes]]** (10 videos)
-- **[[#4. Supply Chain Jargon Basics]]** (12 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Overview of supply chain certifications
+  - What you should know
+  - Types of credentials
+- [**1. Supply Chain Certifications**](#1-supply-chain-certifications) (14 videos)
+  - Overview of CSCMP credentials
+  - Overview of APICS and ASCM credentials
+  - Overview of ISM credentials
+  - Overview of CILT credentials
+  - Overview of CIPS credentials
+  - Overview of SOLE credentials
+  - Overview of supply chain Canada credential
+  - Overview of DDI credentials
+  - Overview of MITx credentials
+  - Overview of university certificates
+  - Overview of IBF credentials
+  - Overview of Six Sigma credentials
+  - Other common credentials
+  - What certifications are best for you?
+- [**2. Supply Chain Functions**](#2-supply-chain-functions) (9 videos)
+  - Supply chain overview
+  - Supply chain planning and engineering
+  - Basics of sourcing and procurement
+  - Basics of manufacturing
+  - Basics of distribution and logistics
+  - Basics of sales, marketing, and customer service
+  - Basics of sustainability
+  - Basics of material handling equipment
+  - Supply chain information systems
+- [**3. Supply Chain Processes**](#3-supply-chain-processes) (10 videos)
+  - Explanation of procure to pay
+  - Explanation of order to delivery
+  - Introduction to inventory management
+  - Introduction to the bullwhip effect
+  - Introduction to modeling
+  - New product introduction (NPI)
+  - Introduction to continuous process improvement
+  - Project management
+  - Risk and resilience
+  - Sample supply chain case study
+- [**4. Supply Chain Jargon Basics**](#4-supply-chain-jargon-basics) (12 videos)
+  - Shipping overview
+  - Basic ocean shipping terminology
+  - Basic air shipping terminology
+  - Basic trucking terminology
+  - Overview of the trucking business
+  - Basic rail shipping terminology
+  - Overview of shipping rules
+  - Overview of global trade management
+  - Basic warehousing terminology
+  - Basic procurement terminology
+  - Basic manufacturing terminology
+  - Basic forecasting terminology
+- [**Conclusion**](#conclusion) (1 videos)
+  - Preparing for your supply chain certification
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of supply chain certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-supply-chain-certifications?u=76281980)
@@ -172,7 +221,7 @@ created: 2026-04-29
 
 ### 1. Supply Chain Certifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of CSCMP credentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/overview-of-cscmp-credentials?u=76281980)
@@ -938,7 +987,7 @@ created: 2026-04-29
 
 ### 2. Supply Chain Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supply chain overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/supply-chain-overview?u=76281980)
@@ -1462,7 +1511,7 @@ created: 2026-04-29
 
 ### 3. Supply Chain Processes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanation of procure to pay
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/explanation-of-procure-to-pay?u=76281980)
@@ -2114,7 +2163,7 @@ created: 2026-04-29
 
 ### 4. Supply Chain Jargon Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Shipping overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/shipping-overview?u=76281980)
@@ -3022,7 +3071,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for your supply chain certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-and-operations-careers-certification-tips-and-tricks-23441339/preparing-for-your-supply-chain-certification?u=76281980)

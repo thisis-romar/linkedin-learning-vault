@@ -51,15 +51,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Project Manager and Business Analyst Collaboration Overview]]** (7 videos)
-- **[[#2. What to Collaborate On]]** (6 videos)
-- **[[#3. Overlapping Roles]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Teaming up for results
+- [**1. Project Manager and Business Analyst Collaboration Overview**](#1-project-manager-and-business-analyst-collaboration-overview) (7 videos)
+  - Why projects fail
+  - Goals of the roles
+  - Project vs. product
+  - Why collaboration is key
+  - Where the roles overlap
+  - The triple constraint
+  - Model partnership
+- [**2. What to Collaborate On**](#2-what-to-collaborate-on) (6 videos)
+  - Portfolio-level collaboration
+  - Scoping
+  - Estimating and planning
+  - Requirements and analysis
+  - Development and testing
+  - Implementation
+- [**3. Overlapping Roles**](#3-overlapping-roles) (4 videos)
+  - Communications
+  - Risk management
+  - Stakeholder management
+  - Scope management and change
+- [**Conclusion**](#conclusion) (1 videos)
+  - Leverage each other's skill sets
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Teaming up for results
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/teaming-up-for-results?u=76281980)
@@ -92,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Project Manager and Business Analyst Collaboration Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why projects fail
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/why-projects-fail?u=76281980)
@@ -523,7 +542,7 @@ created: 2026-04-29
 
 ### 2. What to Collaborate On
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Portfolio-level collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/portfolio-level-collaboration-8536783?u=76281980)
@@ -937,7 +956,7 @@ created: 2026-04-29
 
 ### 3. Overlapping Roles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/communications-8541082?u=76281980)
@@ -1175,7 +1194,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage each other's skill sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analyst-and-project-manager-collaboration-2018/leverage-each-other-s-skill-sets?u=76281980)

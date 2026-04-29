@@ -60,18 +60,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Data Engineering Concepts]]** (5 videos)
-- **[[#2. Spark Capabilities for ETL]]** (5 videos)
-- **[[#3. Batch Processing Pipelines]]** (5 videos)
-- **[[#4. Real-Time Processing Pipelines]]** (5 videos)
-- **[[#5. Data Engineering with Spark: Best Practices]]** (4 videos)
-- **[[#6. End-to-End Exercise Project]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Driving big data engineering with Apache Spark
+  - Course prerequisites
+  - Setting up the exercise files
+- [**1. Data Engineering Concepts**](#1-data-engineering-concepts) (5 videos)
+  - What is data engineering?
+  - Data engineering vs. data analytics vs. data science
+  - Data engineering functions
+  - Batch vs. real-time processing
+  - Data engineering with Spark
+- [**2. Spark Capabilities for ETL**](#2-spark-capabilities-for-etl) (5 videos)
+  - Spark architecture review
+  - Parallel processing with Spark
+  - Spark execution plan
+  - Stateful stream processing
+  - Spark analytics and ML
+- [**3. Batch Processing Pipelines**](#3-batch-processing-pipelines) (5 videos)
+  - Batch processing use case: Problem statement
+  - Batch processing use case: Design
+  - Setting up the local DB
+  - Uploading stock to a central store
+  - Aggregating stock across warehouses
+- [**4. Real-Time Processing Pipelines**](#4-real-time-processing-pipelines) (5 videos)
+  - Real-time use case: Problem
+  - Real-time use case: Design
+  - Generating a visits data stream
+  - Building a website analytics job
+  - Executing the real-time pipeline
+- [**5. Data Engineering with Spark: Best Practices**](#5-data-engineering-with-spark-best-practices) (4 videos)
+  - Batch vs. real-time options
+  - Scaling extraction and loading operations
+  - Scaling processing operations
+  - Building resiliency
+- [**6. End-to-End Exercise Project**](#6-end-to-end-exercise-project) (4 videos)
+  - Project exercise requirements
+  - Solution design
+  - Extracting long last actions
+  - Building a scorecard
+- [**Conclusion**](#conclusion) (1 videos)
+  - More about Apache Spark
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Driving big data engineering with Apache Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/driving-big-data-engineering-with-apache-spark?u=76281980)
@@ -271,7 +303,7 @@ created: 2026-04-29
 
 ### 1. Data Engineering Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/what-is-data-engineering?u=76281980)
@@ -528,7 +560,7 @@ created: 2026-04-29
 
 ### 2. Spark Capabilities for ETL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spark architecture review
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/spark-architecture-review?u=76281980)
@@ -801,7 +833,7 @@ created: 2026-04-29
 
 ### 3. Batch Processing Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Batch processing use case: Problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-processing-use-case-problem-statement?u=76281980)
@@ -1107,7 +1139,7 @@ created: 2026-04-29
 
 ### 4. Real-Time Processing Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Real-time use case: Problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/real-time-use-case-problem?u=76281980)
@@ -1404,7 +1436,7 @@ created: 2026-04-29
 
 ### 5. Data Engineering with Spark: Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Batch vs. real-time options
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/batch-vs-real-time-options?u=76281980)
@@ -1596,7 +1628,7 @@ created: 2026-04-29
 
 ### 6. End-to-End Exercise Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project exercise requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/project-exercise-requirements?u=76281980)
@@ -1772,7 +1804,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More about Apache Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-23165395/more-about-apache-spark?u=76281980)

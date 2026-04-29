@@ -46,13 +46,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. AI Foundations for Nonprofits]]** (6 videos)
-- **[[#2. Mission-Driven AI Examples for Nonprofits]]** (5 videos)
-- **[[#3. Working Smarter with AI in Your Nonprofit Role]]** (7 videos)
+- [**1. AI Foundations for Nonprofits**](#1-ai-foundations-for-nonprofits) (6 videos)
+  - Training the eye for AI
+  - How AI works
+  - Recent innovations in GenAI and agentic AI
+  - Reducing ethical concerns around AI
+  - Authenticity and copyright infringement
+  - Accuracy and reliability of AI-generated content
+- [**2. Mission-Driven AI Examples for Nonprofits**](#2-mission-driven-ai-examples-for-nonprofits) (5 videos)
+  - Supporting people and expanding possibilities
+  - How nonprofits are using AI
+  - AI adoption in resource-constrained environments
+  - Alignment with humanitarian principles
+  - Case studies across key impact areas
+- [**3. Working Smarter with AI in Your Nonprofit Role**](#3-working-smarter-with-ai-in-your-nonprofit-role) (7 videos)
+  - Expanding responsibilities
+  - AI as a collaborative partner
+  - How to select AI tools for you
+  - AI use in programs and operations
+  - AI use in fundraising
+  - AI use in communications and outreach
+  - AI use in administration
 
 ### 1. AI Foundations for Nonprofits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Training the eye for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/training-the-eye-for-ai?u=76281980)
@@ -505,7 +523,7 @@ created: 2026-04-29
 
 ### 2. Mission-Driven AI Examples for Nonprofits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supporting people and expanding possibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/supporting-people-expanding-possibilities?u=76281980)
@@ -771,7 +789,7 @@ created: 2026-04-29
 
 ### 3. Working Smarter with AI in Your Nonprofit Role
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expanding responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-your-nonprofit-role-by-microsoft-and-nethope/expanding-responsibilities?u=76281980)

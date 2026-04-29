@@ -50,15 +50,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Security Principles in the Cloud]]** (7 videos)
-- **[[#2. Security Concepts for the Azure Cloud]]** (5 videos)
-- **[[#3. Secure Your Azure Resources]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Microsoft Azure security concepts
+  - What you should know
+- [**1. Security Principles in the Cloud**](#1-security-principles-in-the-cloud) (7 videos)
+  - A security approach: The importance of securing
+  - Terminology: Understanding the security terms
+  - Defense in depth approach
+  - Transferring security concepts to the cloud
+  - Exploring the security portals
+  - Enabling Microsoft Defender for Cloud
+  - Understanding the security scores
+- [**2. Security Concepts for the Azure Cloud**](#2-security-concepts-for-the-azure-cloud) (5 videos)
+  - Managing and securing resources in Azure
+  - Exploring Microsoft Entra ID security features
+  - Why are passwords such a bad idea?
+  - Enabling multifactor authentication for a user
+  - Exploring identity governance
+- [**3. Secure Your Azure Resources**](#3-secure-your-azure-resources) (5 videos)
+  - Secure resources using Microsoft Defender for Cloud: General settings
+  - Secure resources using Microsoft Defender for Cloud: Cloud security settings
+  - Secure resources using Microsoft Defender for Cloud: Management settings
+  - Use Microsoft Sentinel to secure your infrastructure
+  - Use Microsoft XDR to secure your infrastructure
+- [**Conclusion**](#conclusion) (1 videos)
+  - Deepen your understanding of Azure security
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Azure security concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/microsoft-azure-security-concepts?u=76281980)
@@ -108,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Security Principles in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A security approach: The importance of securing
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/a-security-approach-the-importance-of-securing?u=76281980)
@@ -926,7 +946,7 @@ created: 2026-04-29
 
 ### 2. Security Concepts for the Azure Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing and securing resources in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/managing-and-securing-resources-in-azure?u=76281980)
@@ -1502,7 +1522,7 @@ created: 2026-04-29
 
 ### 3. Secure Your Azure Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure resources using Microsoft Defender for Cloud: General settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/secure-resources-by-using-microsoft-defender-for-cloud-general-settings?u=76281980)
@@ -1964,7 +1984,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deepen your understanding of Azure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-security-concepts-24975655/deepen-your-understanding-of-azure-security?u=76281980)

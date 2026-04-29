@@ -48,14 +48,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Data Acquisition]]** (6 videos)
-- **[[#2. Data Prep]]** (6 videos)
-- **[[#3. EDA]]** (5 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with Python for data science: Code challenges
+  - Using GitHub Codespaces with this course
+- [**1. Data Acquisition**](#1-data-acquisition) (6 videos)
+  - Scraping tables
+  - Finding CSS selectors
+  - Scraping text
+  - Using LLMs to scrape data
+  - Finding APIs
+  - Getting JSON into pandas
+- [**2. Data Prep**](#2-data-prep) (6 videos)
+  - Constructing regular expressions
+  - Cleaning text
+  - Selecting variables
+  - Encoding categorical variables
+  - Scaling variables
+  - Reducing dimensionality
+- [**3. EDA**](#3-eda) (5 videos)
+  - Describing data
+  - Finding correlations
+  - Visualizing correlations
+  - Multivariable visualizations
+  - Building visualizations with Streamlit
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Python for data science: Code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/getting-started-with-python-for-data-science-code-challenges?u=76281980)
@@ -246,7 +265,7 @@ created: 2026-04-29
 
 ### 1. Data Acquisition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scraping tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/scraping-tables?u=76281980)
@@ -692,7 +711,7 @@ created: 2026-04-29
 
 ### 2. Data Prep
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Constructing regular expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/constructing-regular-expressions?u=76281980)
@@ -1126,7 +1145,7 @@ created: 2026-04-29
 
 ### 3. EDA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python-data-acquisitions-prep-and-eda/describing-data?u=76281980)

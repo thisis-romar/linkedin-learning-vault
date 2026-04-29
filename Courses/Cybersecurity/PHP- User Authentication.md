@@ -51,16 +51,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. User Authentication Overview]]** (2 videos)
-- **[[#2. Implementing User Authentication in PHP]]** (8 videos)
-- **[[#3. Working with Strong Passwords]]** (3 videos)
-- **[[#4. Securing User Authentication]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Restricting user access in PHP applications
+  - How to use the exercise files on GitHub
+- [**1. User Authentication Overview**](#1-user-authentication-overview) (2 videos)
+  - Identification and access control
+  - Hashing and storing passwords
+- [**2. Implementing User Authentication in PHP**](#2-implementing-user-authentication-in-php) (8 videos)
+  - Creating the database table
+  - Introducing the sample project
+  - Adding new users
+  - Logging in users
+  - Logging out users
+  - Controlling access to pages and functions
+  - Challenge: Editing users
+  - Solution: Editing users
+- [**3. Working with Strong Passwords**](#3-working-with-strong-passwords) (3 videos)
+  - Password requirements
+  - Preventing weak passwords
+  - Resetting forgotten passwords
+- [**4. Securing User Authentication**](#4-securing-user-authentication) (6 videos)
+  - Preventing IDOR
+  - Using HTTPS
+  - Protecting access tokens
+  - Keeping track of logins
+  - Challenge: Expiring logins
+  - Solution: Expiring logins
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Restricting user access in PHP applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/restricting-user-access-in-php-applications?u=76281980)
@@ -141,7 +163,7 @@ created: 2026-04-29
 
 ### 1. User Authentication Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identification and access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/identification-and-access-control?u=76281980)
@@ -319,7 +341,7 @@ created: 2026-04-29
 
 ### 2. Implementing User Authentication in PHP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the database table
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/creating-the-database-table?u=76281980)
@@ -1520,7 +1542,7 @@ created: 2026-04-29
 
 ### 3. Working with Strong Passwords
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Password requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/password-requirements?u=76281980)
@@ -1939,7 +1961,7 @@ created: 2026-04-29
 
 ### 4. Securing User Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preventing IDOR
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/preventing-idor?u=76281980)
@@ -2499,7 +2521,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-user-authentication/next-steps?u=76281980)

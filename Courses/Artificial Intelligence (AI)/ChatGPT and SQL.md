@@ -51,16 +51,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Why AI for Data Analytics?]]** (2 videos)
-- **[[#2. Intro to AI, LLMs, and ChatGPT]]** (6 videos)
-- **[[#3. Prompt Engineering]]** (5 videos)
-- **[[#4. ChatGPT for SQL]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The future is now: Intro to AI for data analytics
+  - Setting expectations
+- [**1. Why AI for Data Analytics?**](#1-why-ai-for-data-analytics) (2 videos)
+  - Why AI is a game-changer for data analysis
+  - AI use cases for data analytics
+- [**2. Intro to AI, LLMs, and ChatGPT**](#2-intro-to-ai-llms-and-chatgpt) (6 videos)
+  - The AI landscape
+  - Generative AI and large language models
+  - The road to ChatGPT
+  - Generative AI tools
+  - Warning: Pitfalls of ChatGPT
+  - Accessing ChatGPT and Google Bard
+- [**3. Prompt Engineering**](#3-prompt-engineering) (5 videos)
+  - Intro to prompt engineering
+  - Prompt tip: Be clear and specific
+  - Prompt tip: Provide context
+  - Prompt tip: Establish roles
+  - Prompt tip: Set the tone
+- [**4. ChatGPT for SQL**](#4-chatgpt-for-sql) (7 videos)
+  - Intro to ChatGPT for SQL
+  - Explain fundamental SQL concepts
+  - Explain a SQL query
+  - Add comments to a SQL query
+  - Debug and troubleshoot SQL code
+  - Create a SQL query from scratch
+  - Optimize SQL queries
+- [**Conclusion**](#conclusion) (1 videos)
+  - Key takeaways and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future is now: Intro to AI for data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-future-is-now-intro-to-ai-for-data-analytics?u=76281980)
@@ -139,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Why AI for Data Analytics?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why AI is a game-changer for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/why-ai-is-a-game-changer-for-data-analysis?u=76281980)
@@ -286,7 +309,7 @@ created: 2026-04-29
 
 ### 2. Intro to AI, LLMs, and ChatGPT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The AI landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/the-ai-landscape?u=76281980)
@@ -667,7 +690,7 @@ created: 2026-04-29
 
 ### 3. Prompt Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-prompt-engineering?u=76281980)
@@ -832,7 +855,7 @@ created: 2026-04-29
 
 ### 4. ChatGPT for SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to ChatGPT for SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/intro-to-chatgpt-for-sql?u=76281980)
@@ -1830,7 +1853,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-and-sql/key-takeaways-next-steps?u=76281980)

@@ -50,16 +50,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Manage Identities]]** (12 videos)
-- **[[#2. Manage Authentication]]** (6 videos)
-- **[[#3. Manage Access to Resources]]** (5 videos)
-- **[[#4. Perform Monitoring and Governance]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Discovering Azure identity and access management
+  - What you should know
+  - Identity and access management concepts
+- [**1. Manage Identities**](#1-manage-identities) (12 videos)
+  - Microsoft Entra ID overview
+  - Microsoft Entra ID license comparison
+  - Create users
+  - Manage users
+  - Manage and invite external users
+  - Perform bulk user operations
+  - Create groups
+  - Manage groups
+  - Manage devices
+  - Manage applications
+  - Manage hybrid identities
+  - Manage Azure administrative units
+- [**2. Manage Authentication**](#2-manage-authentication) (6 videos)
+  - Manage authentication methods
+  - Configure self-service password reset
+  - Implement multifactor authentication (MFA)
+  - Implement passwordless authentication
+  - Implement identity protection
+  - Implement conditional access
+- [**3. Manage Access to Resources**](#3-manage-access-to-resources) (5 videos)
+  - Organize Azure resources
+  - Azure role-based access control (RBAC) overview
+  - Define Azure roles
+  - Microsoft Entra roles and Azure roles
+  - Implement Azure role-based access control (RBAC)
+- [**4. Perform Monitoring and Governance**](#4-perform-monitoring-and-governance) (6 videos)
+  - Monitor Microsoft Entra ID
+  - Identity secure score
+  - Entitlement management
+  - Access reviews
+  - Privileged identity management overview
+  - Implement privileged identity management
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discovering Azure identity and access management
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/discovering-azure-identity-and-access-management-23736543?u=76281980)
@@ -140,7 +173,7 @@ created: 2026-04-29
 
 ### 1. Manage Identities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Entra ID overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/microsoft-entra-id-overview?u=76281980)
@@ -1160,7 +1193,7 @@ created: 2026-04-29
 
 ### 2. Manage Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage authentication methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/manage-authentication-methods?u=76281980)
@@ -1798,7 +1831,7 @@ created: 2026-04-29
 
 ### 3. Manage Access to Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organize Azure resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/organize-azure-resources?u=76281980)
@@ -2236,7 +2269,7 @@ created: 2026-04-29
 
 ### 4. Perform Monitoring and Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitor Microsoft Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/monitor-microsoft-entra-id?u=76281980)
@@ -2883,7 +2916,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-identity-and-access-management-23388392/next-steps?u=76281980)

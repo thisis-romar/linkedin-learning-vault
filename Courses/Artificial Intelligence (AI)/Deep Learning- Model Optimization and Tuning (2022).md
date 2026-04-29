@@ -57,17 +57,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Deep Learning Optimization]]** (6 videos)
-- **[[#2. Tuning the Deep Learning Network]]** (6 videos)
-- **[[#3. Tuning Back Propagation]]** (6 videos)
-- **[[#4. Overfitting Management]]** (5 videos)
-- **[[#5. Model Tuning Exercise]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Optimizing neural networks
+  - Prerequisites for the course
+  - Setting up exercise files
+- [**1. Introduction to Deep Learning Optimization**](#1-introduction-to-deep-learning-optimization) (6 videos)
+  - What is deep learning?
+  - Review of artificial neural networks
+  - An ANN model
+  - Model optimization and tuning
+  - The deep learning tuning process
+  - Experiment setups for the course
+- [**2. Tuning the Deep Learning Network**](#2-tuning-the-deep-learning-network) (6 videos)
+  - Epoch and batch size tuning
+  - Epoch and batch size experiment
+  - Hidden layers tuning
+  - Determining nodes in a layer
+  - Choosing activation functions
+  - Initializing weights
+- [**3. Tuning Back Propagation**](#3-tuning-back-propagation) (6 videos)
+  - Vanishing and exploding gradients
+  - Batch normalization
+  - Optimizers
+  - Optimizer experiment
+  - Learning rate
+  - Learning rate experiment
+- [**4. Overfitting Management**](#4-overfitting-management) (5 videos)
+  - Overfitting in ANNs
+  - Regularization
+  - Regularization experiment
+  - Dropouts
+  - Dropout experiment
+- [**5. Model Tuning Exercise**](#5-model-tuning-exercise) (6 videos)
+  - Tuning exercise: Problem statement
+  - Acquire and process data
+  - Tuning the network
+  - Tuning backpropagation
+  - Avoiding overfitting
+  - Building the final model
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your deep learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing neural networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/optimizing-neural-networks?u=76281980)
@@ -239,7 +272,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Deep Learning Optimization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/what-is-deep-learning?u=76281980)
@@ -588,7 +621,7 @@ created: 2026-04-29
 
 ### 2. Tuning the Deep Learning Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Epoch and batch size tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/epoch-and-batch-size-tuning?u=76281980)
@@ -934,7 +967,7 @@ created: 2026-04-29
 
 ### 3. Tuning Back Propagation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vanishing and exploding gradients
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/vanishing-and-exploding-gradients?u=76281980)
@@ -1197,7 +1230,7 @@ created: 2026-04-29
 
 ### 4. Overfitting Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overfitting in ANNs
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/overfitting-in-anns?u=76281980)
@@ -1379,7 +1412,7 @@ created: 2026-04-29
 
 ### 5. Model Tuning Exercise
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tuning exercise: Problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/tuning-exercise-problem-statement?u=76281980)
@@ -1648,7 +1681,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your deep learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-model-optimization-and-tuning-2022/continuing-your-deep-learning-journey?u=76281980)

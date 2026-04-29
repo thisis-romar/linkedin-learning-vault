@@ -51,17 +51,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Secure Routing and Switching]]** (3 videos)
-- **[[#2. Securing Cisco Routers]]** (9 videos)
-- **[[#3. Security on Cisco Switches]]** (8 videos)
-- **[[#4. Mitigation Procedures]]** (4 videos)
-- **[[#5. VLAN Security]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you need to know
+  - Packet Tracer and exercise files
+- [**1. Secure Routing and Switching**](#1-secure-routing-and-switching) (3 videos)
+  - Secure routing and switching: Overview
+  - Control, data, and management planes
+  - Router and switch security basics
+- [**2. Securing Cisco Routers**](#2-securing-cisco-routers) (9 videos)
+  - Layer 3 attacks: Overview
+  - Secure the control plane
+  - Examine privilege levels
+  - Assign privilege levels
+  - Configure IOS role-based CLI access
+  - Implement IOSR Resilient Configuration
+  - Routing update authentication
+  - Challenge: EIGRP authentication
+  - Solution: EIGRP authentication
+- [**3. Security on Cisco Switches**](#3-security-on-cisco-switches) (8 videos)
+  - Layer 2 attacks: Overview
+  - Spanning-Tree Protocol
+  - STP attacks
+  - ARP spoofing
+  - MAC spoofing
+  - macof attack
+  - CDP/LLDP reconnaissance
+  - DHCP spoofing
+- [**4. Mitigation Procedures**](#4-mitigation-procedures) (4 videos)
+  - Implement DHCP snooping
+  - Dynamic ARP inspection
+  - Implement port security
+  - BPDU guard, root guard, and loop guard
+- [**5. VLAN Security**](#5-vlan-security) (3 videos)
+  - VLAN attacks
+  - Security implications of a PVLAN
+  - Security implications of a native VLAN
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/welcome?u=76281980)
@@ -149,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Secure Routing and Switching
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure routing and switching: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/secure-routing-and-switching-overview?u=76281980)
@@ -299,7 +330,7 @@ created: 2026-04-29
 
 ### 2. Securing Cisco Routers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Layer 3 attacks: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-3-attacks-overview?u=76281980)
@@ -858,7 +889,7 @@ created: 2026-04-29
 
 ### 3. Security on Cisco Switches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Layer 2 attacks: Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/layer-2-attacks-overview?u=76281980)
@@ -1354,7 +1385,7 @@ created: 2026-04-29
 
 ### 4. Mitigation Procedures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement DHCP snooping
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/implement-dhcp-snooping?u=76281980)
@@ -1593,7 +1624,7 @@ created: 2026-04-29
 
 ### 5. VLAN Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### VLAN attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/vlan-attacks?u=76281980)
@@ -1747,7 +1778,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-routing-and-switching/next-steps?u=76281980)

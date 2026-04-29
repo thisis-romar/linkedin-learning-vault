@@ -47,16 +47,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Mobile Technology]]** (4 videos)
-- **[[#2. Android]]** (12 videos)
-- **[[#3. iOS]]** (8 videos)
-- **[[#4. Security Shepherd]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Keeping your mobile devices safe
+  - Before watching this course
+  - Course disclaimer
+- [**1. Mobile Technology**](#1-mobile-technology) (4 videos)
+  - Understand and test for mobile vulnerabilities
+  - Static analysis of applications
+  - Dynamic analysis of applications
+  - Mobile web testing
+- [**2. Android**](#2-android) (12 videos)
+  - Understanding the Android operating system
+  - Understanding the Android security model
+  - Preparing for Android testing
+  - Extracting and reading the manifest file
+  - Extracting and reading JavaScript code
+  - Recreating Java source code with JAD
+  - Browsing applications directly with JADX
+  - Getting command-line access with ADB
+  - Install an Android emulator from the SDK
+  - Dynamic analysis of Android applications
+  - Using Drozer to analyze applications
+  - Checking for scam phones
+- [**3. iOS**](#3-ios) (8 videos)
+  - iOS applications and vulnerabilities
+  - Securing iOS applications by design
+  - Jailbreaking for command-line access
+  - More jailbreak and extractor tools
+  - Preparing to test iOS applications
+  - Extracting properties and class headers
+  - Disassembling iOS executable code
+  - Advancing into dynamic analysis of iOS
+- [**4. Security Shepherd**](#4-security-shepherd) (3 videos)
+  - Taking a look at Security Shepherd
+  - Watching for bad cryptography
+  - Insecure data when in developer mode
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping your mobile devices safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/keeping-your-mobile-devices-safe?u=76281980)
@@ -141,7 +172,7 @@ created: 2026-04-29
 
 ### 1. Mobile Technology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand and test for mobile vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980)
@@ -440,7 +471,7 @@ created: 2026-04-29
 
 ### 2. Android
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the Android operating system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980)
@@ -1610,7 +1641,7 @@ created: 2026-04-29
 
 ### 3. iOS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### iOS applications and vulnerabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980)
@@ -2580,7 +2611,7 @@ created: 2026-04-29
 
 ### 4. Security Shepherd
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking a look at Security Shepherd
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980)
@@ -2780,7 +2811,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980)

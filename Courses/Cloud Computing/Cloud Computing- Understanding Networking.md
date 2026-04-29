@@ -50,18 +50,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Cloud Computing Networking]]** (3 videos)
-- **[[#2. Virtual Networks in the Cloud]]** (3 videos)
-- **[[#3. Cloud-Based Network Services]]** (5 videos)
-- **[[#4. Network Security in the Cloud]]** (4 videos)
-- **[[#5. Interconnecting Cloud Networks]]** (4 videos)
-- **[[#6. Network Monitoring and Troubleshooting]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome
+- [**1. Introduction to Cloud Computing Networking**](#1-introduction-to-cloud-computing-networking) (3 videos)
+  - Cloud computing basics
+  - Understanding cloud deployment models
+  - The important role of cloud networking
+- [**2. Virtual Networks in the Cloud**](#2-virtual-networks-in-the-cloud) (3 videos)
+  - Understanding virtual networks and their purpose
+  - Creating and configuring virtual networks
+  - Addressing and subnetting in the cloud
+- [**3. Cloud-Based Network Services**](#3-cloud-based-network-services) (5 videos)
+  - Cloud-based network services: DNS, DHCP, and VPN
+  - Setting up and managing DNS in the cloud
+  - Implementing Dynamic Host Configuration Protocol
+  - Configuring and managing VPN connections in the cloud
+  - Configuring and managing VPC (virtual private cloud)
+- [**4. Network Security in the Cloud**](#4-network-security-in-the-cloud) (4 videos)
+  - Cloud security and its challenges
+  - Implementing network security measures in the cloud
+  - Configuring network access control policies and rules
+  - Security services: Web app firewalls and DDoS protection
+- [**5. Interconnecting Cloud Networks**](#5-interconnecting-cloud-networks) (4 videos)
+  - Establishing connectivity between cloud environments
+  - Configuring VPNs for secure inter-cloud communication
+  - Interconnecting virtual networks within a cloud provider
+  - Integrating networks (hybrid and multicloud)
+- [**6. Network Monitoring and Troubleshooting**](#6-network-monitoring-and-troubleshooting) (4 videos)
+  - Network monitoring tools and techniques
+  - Configuring network monitoring services in the cloud
+  - Analyzing network traffic and troubleshooting issues
+  - Logging and analytics services
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about cloud networking
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/welcome?u=76281980)
@@ -90,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Cloud Computing Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud computing basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980)
@@ -258,7 +283,7 @@ created: 2026-04-29
 
 ### 2. Virtual Networks in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding virtual networks and their purpose
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980)
@@ -411,7 +436,7 @@ created: 2026-04-29
 
 ### 3. Cloud-Based Network Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud-based network services: DNS, DHCP, and VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980)
@@ -676,7 +701,7 @@ created: 2026-04-29
 
 ### 4. Network Security in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud security and its challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980)
@@ -915,7 +940,7 @@ created: 2026-04-29
 
 ### 5. Interconnecting Cloud Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing connectivity between cloud environments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/establishing-connectivity-between-cloud-environments?u=76281980)
@@ -1122,7 +1147,7 @@ created: 2026-04-29
 
 ### 6. Network Monitoring and Troubleshooting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Network monitoring tools and techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980)
@@ -1312,7 +1337,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about cloud networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/learning-more-about-cloud-networking?u=76281980)

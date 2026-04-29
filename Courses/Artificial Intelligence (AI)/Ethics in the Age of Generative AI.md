@@ -81,14 +81,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#Developing the skill of ethical analysis in AI]]** (3 videos)
-- **[[#Preparing Your Organization to address Ethics in AI]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Generative AI and ethics: The urgency of now
+  - What's new?
+- [**Developing the skill of ethical analysis in AI**](#developing-the-skill-of-ethical-analysis-in-ai) (3 videos)
+  - Distinguishing responsible tech from human behavior
+  - Understanding Vilas' ethical AI framework
+  - Applying Vilas' framework in a real world situation
+- [**Preparing Your Organization to address Ethics in AI**](#preparing-your-organization-to-address-ethics-in-ai) (6 videos)
+  - Organizing data with ethics in mind
+  - Preparing technology teams to make ethical decisions
+  - Preparing C-Suite in directing responsible AI
+  - Preparing the Board of Directors to manage risk and opportunity in AI
+  - Consulting your customers in building AI
+  - Communicating effectively organizationally and globally
+- [**Conclusion**](#conclusion) (1 videos)
+  - Setting an intention of continual questioning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI and ethics: The urgency of now
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/generative-ai-and-ethics-the-urgency-of-now?u=76281980)
@@ -157,7 +169,7 @@ created: 2026-04-29
 
 ### Developing the skill of ethical analysis in AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Distinguishing responsible tech from human behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/distinguishing-responsible-tech-from-human-behavior?u=76281980)
@@ -377,7 +389,7 @@ created: 2026-04-29
 
 ### Preparing Your Organization to address Ethics in AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing data with ethics in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/organizing-data-with-ethics-in-mind?u=76281980)
@@ -807,7 +819,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting an intention of continual questioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/setting-an-intention-of-continual-questioning?u=76281980)

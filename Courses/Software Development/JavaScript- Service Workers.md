@@ -47,18 +47,68 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. A New Citizen for the Web]]** (9 videos)
-- **[[#2. Work with Service Workers]]** (10 videos)
-- **[[#3. Acting as a Network Proxy]]** (7 videos)
-- **[[#4. Cache Storage]]** (11 videos)
-- **[[#5. Work with APIs in the Service Worker]]** (6 videos)
-- **[[#6. Tips and Tricks for Web Performance]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Implement service workers in JavaScript
+  - What you should know
+- [**1. A New Citizen for the Web**](#1-a-new-citizen-for-the-web) (9 videos)
+  - Hello, service workers
+  - Abilities
+  - What we can do
+  - Requirements and compatibility
+  - Service workers in action
+  - Understand the life cycle
+  - See all service worker registrations
+  - Understand the scope
+  - Learn vocabulary and concepts
+- [**2. Work with Service Workers**](#2-work-with-service-workers) (10 videos)
+  - Register a service worker
+  - Change the default scope
+  - Handle service worker events
+  - Debug with Developer Tools in Chrome
+  - Debug with other browsers
+  - Load external files
+  - Work with the registration
+  - Update the service worker
+  - Manage updates in your code
+  - Unregister the service worker
+- [**3. Acting as a Network Proxy**](#3-acting-as-a-network-proxy) (7 videos)
+  - Capture the fetch event
+  - Synthesize a response
+  - The Response object in detail
+  - The Request object in detail
+  - Work with exact routes
+  - Work with dynamic routes
+  - Clone before reading data
+- [**4. Cache Storage**](#4-cache-storage) (11 videos)
+  - Understand the new Cache API
+  - Prepare the project
+  - Prefetch files on install
+  - Visualize your cache
+  - Implement a cache-first policy
+  - Implement a network-first policy
+  - Cache new elements after install
+  - Use stale-while-revalidate
+  - Deliver alternate content when offline
+  - Keep your storage clean
+  - Summary of cache strategies
+- [**5. Work with APIs in the Service Worker**](#5-work-with-apis-in-the-service-worker) (6 videos)
+  - What's available in the service worker
+  - Send messages from pages
+  - Receive messages in the service worker
+  - Broadcast messages to clients
+  - Receive messages from the controller
+  - Sync data in the background
+- [**6. Tips and Tricks for Web Performance**](#6-tips-and-tricks-for-web-performance) (4 videos)
+  - Readable streams
+  - Navigation preload
+  - Defer service worker registration
+  - Make your service worker useful quickly
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement service workers in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980)
@@ -137,7 +187,7 @@ created: 2026-04-29
 
 ### 1. A New Citizen for the Web
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hello, service workers
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980)
@@ -844,7 +894,7 @@ created: 2026-04-29
 
 ### 2. Work with Service Workers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Register a service worker
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/register-a-service-worker?u=76281980)
@@ -1693,7 +1743,7 @@ created: 2026-04-29
 
 ### 3. Acting as a Network Proxy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Capture the fetch event
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980)
@@ -2334,7 +2384,7 @@ created: 2026-04-29
 
 ### 4. Cache Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the new Cache API
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980)
@@ -3479,7 +3529,7 @@ created: 2026-04-29
 
 ### 5. Work with APIs in the Service Worker
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's available in the service worker
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/what-s-available-in-the-service-worker?u=76281980)
@@ -4046,7 +4096,7 @@ created: 2026-04-29
 
 ### 6. Tips and Tricks for Web Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Readable streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980)
@@ -4322,7 +4372,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980)

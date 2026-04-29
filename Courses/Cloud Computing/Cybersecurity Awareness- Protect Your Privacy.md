@@ -55,17 +55,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Privacy Is a Critical Part of Your Security]]** (2 videos)
-- **[[#2. How Bad Actors Use Your Personal Information]]** (2 videos)
-- **[[#3. Reduce Your Digital Footprint]]** (4 videos)
-- **[[#4. Prevent Accidental Leaks of Your Private Information]]** (2 videos)
-- **[[#5. Keep Your Device Private]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Protect your privacy
+- [**1. Privacy Is a Critical Part of Your Security**](#1-privacy-is-a-critical-part-of-your-security) (2 videos)
+  - Understanding your cybersecurity crown jewels
+  - Learn the key components of identity to keep private
+- [**2. How Bad Actors Use Your Personal Information**](#2-how-bad-actors-use-your-personal-information) (2 videos)
+  - The internet is full of your personal information
+  - All the ways your personal information is used against you
+- [**3. Reduce Your Digital Footprint**](#3-reduce-your-digital-footprint) (4 videos)
+  - Minimizing your digital footprint
+  - How to protect your email address
+  - How to protect your phone number
+  - How to protect your name
+- [**4. Prevent Accidental Leaks of Your Private Information**](#4-prevent-accidental-leaks-of-your-private-information) (2 videos)
+  - Check the privacy settings of your apps and accounts
+  - Common pitfalls with social media to avoid
+- [**5. Keep Your Device Private**](#5-keep-your-device-private) (2 videos)
+  - How your phone collects personal information
+  - Techniques to maximize your privacy on your device
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect your privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/protect-your-privacy?u=76281980)
@@ -95,7 +109,7 @@ created: 2026-04-29
 
 ### 1. Privacy Is a Critical Part of Your Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your cybersecurity crown jewels
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/understanding-your-cyber-security-crown-jewels?u=76281980)
@@ -289,7 +303,7 @@ created: 2026-04-29
 
 ### 2. How Bad Actors Use Your Personal Information
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The internet is full of your personal information
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/the-internet-is-full-of-your-personal-information?u=76281980)
@@ -594,7 +608,7 @@ created: 2026-04-29
 
 ### 3. Reduce Your Digital Footprint
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Minimizing your digital footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/minimizing-your-digital-footprint?u=76281980)
@@ -928,7 +942,7 @@ created: 2026-04-29
 
 ### 4. Prevent Accidental Leaks of Your Private Information
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Check the privacy settings of your apps and accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/check-the-privacy-settings-of-your-apps-and-accounts?u=76281980)
@@ -1287,7 +1301,7 @@ created: 2026-04-29
 
 ### 5. Keep Your Device Private
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How your phone collects personal information
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/how-your-phone-collects-personal-information?u=76281980)
@@ -1554,7 +1568,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-protect-your-privacy/next-steps?u=76281980)

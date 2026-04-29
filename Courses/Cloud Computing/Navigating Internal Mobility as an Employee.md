@@ -47,15 +47,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Internal Mobility and the Great Reshuffle]]** (3 videos)
-- **[[#2. Positioning Yourself for an Internal Move]]** (5 videos)
-- **[[#3. How to Find Internal Opportunities]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Accelerate your career satisfaction
+- [**1. Internal Mobility and the Great Reshuffle**](#1-internal-mobility-and-the-great-reshuffle) (3 videos)
+  - Benefits of internal mobility
+  - Is internal mobility right for you?
+  - Identify the right move: up, down, or across?
+- [**2. Positioning Yourself for an Internal Move**](#2-positioning-yourself-for-an-internal-move) (5 videos)
+  - Assess your skills
+  - Close skills gaps
+  - Share your accomplishments
+  - Manage your reputation
+  - Make the case for your internal move
+- [**3. How to Find Internal Opportunities**](#3-how-to-find-internal-opportunities) (5 videos)
+  - Know where to look for internal opportunities
+  - Refresh your networking skills
+  - Seek out internal influencers and advisers
+  - Applying for internal jobs
+  - Create a new role for yourself
+- [**Conclusion**](#conclusion) (1 videos)
+  - Take the first step
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate your career satisfaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/accelerate-your-career-satisfaction?u=76281980)
@@ -99,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Internal Mobility and the Great Reshuffle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of internal mobility
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/benefits-of-internal-mobility?u=76281980)
@@ -352,7 +367,7 @@ created: 2026-04-29
 
 ### 2. Positioning Yourself for an Internal Move
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/assess-your-skills?u=76281980)
@@ -783,7 +798,7 @@ created: 2026-04-29
 
 ### 3. How to Find Internal Opportunities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Know where to look for internal opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/know-where-to-look-for-internal-opportunities?u=76281980)
@@ -1235,7 +1250,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the first step
 > [LinkedIn Learning](https://www.linkedin.com/learning/navigating-internal-mobility-as-an-employee/take-the-first-step?u=76281980)

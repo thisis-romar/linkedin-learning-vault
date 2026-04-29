@@ -49,17 +49,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Text Mining]]** (5 videos)
-- **[[#2. Reading Text]]** (4 videos)
-- **[[#3. Text Cleansing and Extraction]]** (5 videos)
-- **[[#4. Advanced Text Processing]]** (4 videos)
-- **[[#5. Best Practices]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The need for text mining skills in data science
+- [**1. Text Mining**](#1-text-mining) (5 videos)
+  - Text mining today
+  - Document concepts
+  - Corpus concepts
+  - Introduction to the NLTK library
+  - Setting up the environment
+- [**2. Reading Text**](#2-reading-text) (4 videos)
+  - Reading raw files
+  - Reading files with corpus reader
+  - Exploring the corpus
+  - Analyzing the corpus
+- [**3. Text Cleansing and Extraction**](#3-text-cleansing-and-extraction) (5 videos)
+  - Tokenization
+  - Cleansing text
+  - Stop word removal
+  - Stemming
+  - Lemmatization
+- [**4. Advanced Text Processing**](#4-advanced-text-processing) (4 videos)
+  - Building n-grams
+  - Tagging parts of speech
+  - Term frequency-inverse document frequency (TF-IDF)
+  - Building a TF-IDF matrix
+- [**5. Best Practices**](#5-best-practices) (3 videos)
+  - Storing text
+  - Processing text data
+  - Scalable processing of text data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for text mining skills in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/the-need-for-text-mining-skills-in-data-science?u=76281980)
@@ -99,7 +122,7 @@ created: 2026-04-29
 
 ### 1. Text Mining
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Text mining today
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/text-mining-today?u=76281980)
@@ -298,7 +321,7 @@ created: 2026-04-29
 
 ### 2. Reading Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading raw files
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/reading-raw-files?u=76281980)
@@ -474,7 +497,7 @@ created: 2026-04-29
 
 ### 3. Text Cleansing and Extraction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tokenization
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/tokenization?u=76281980)
@@ -709,7 +732,7 @@ created: 2026-04-29
 
 ### 4. Advanced Text Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building n-grams
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/building-n-grams?u=76281980)
@@ -935,7 +958,7 @@ created: 2026-04-29
 
 ### 5. Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Storing text
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/storing-text?u=76281980)
@@ -1034,7 +1057,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/processing-text-with-python-essential-training/next-steps?u=76281980)

@@ -43,17 +43,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Python Features]]** (6 videos)
-- **[[#2. Using Iterators]]** (8 videos)
-- **[[#3. String Processing]]** (5 videos)
-- **[[#4. Working with Sequences]]** (7 videos)
-- **[[#5. Exceptions]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - Getting set up
+  - Using CoderPad
+- [**1. Python Features**](#1-python-features) (6 videos)
+  - Documentation strings
+  - Special variable names
+  - Understanding scope
+  - Truth value testing
+  - The assignment expression
+  - Using print and pprint
+- [**2. Using Iterators**](#2-using-iterators) (8 videos)
+  - Basic iterators
+  - More iterators
+  - For-else
+  - Itertools: count, cycle, accumulate
+  - Itertools: chain, chain.from_iterable, batched
+  - Itertools: dropwhile, takewhile, filterfalse
+  - Itertools: combinations and permutations
+  - Solution: Using Iterators
+- [**3. String Processing**](#3-string-processing) (5 videos)
+  - Built-in string constants
+  - String searching
+  - String manipulation
+  - String formatting
+  - Solution: String processing
+- [**4. Working with Sequences**](#4-working-with-sequences) (7 videos)
+  - Sequence slicing
+  - Comparing sequences
+  - Overview of comprehensions
+  - Using list comprehensions
+  - Working with set comprehensions
+  - Using dictionary comprehensions
+  - Solution: Sequences
+- [**5. Exceptions**](#5-exceptions) (6 videos)
+  - What are exceptions?
+  - Handling exceptions
+  - Common exception types
+  - Custom exceptions
+  - Challenge: Exceptions
+  - Solution: Exceptions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=76281980)
@@ -267,7 +303,7 @@ created: 2026-04-29
 
 ### 1. Python Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Documentation strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980)
@@ -1059,7 +1095,7 @@ created: 2026-04-29
 
 ### 2. Using Iterators
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic iterators
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/basic-iterators?u=76281980)
@@ -1941,7 +1977,7 @@ created: 2026-04-29
 
 ### 3. String Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in string constants
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/built-in-string-constants?u=76281980)
@@ -2697,7 +2733,7 @@ created: 2026-04-29
 
 ### 4. Working with Sequences
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequence slicing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/sequence-slicing?u=76281980)
@@ -3334,7 +3370,7 @@ created: 2026-04-29
 
 ### 5. Exceptions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980)
@@ -3820,7 +3856,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980)

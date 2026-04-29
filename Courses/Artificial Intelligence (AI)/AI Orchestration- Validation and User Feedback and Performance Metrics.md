@@ -53,15 +53,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Validating ML Models and LLMs]]** (10 videos)
-- **[[#2. Evaluating ML Models and LLMs]]** (17 videos)
-- **[[#3. Collecting and Using User Feedback in LLMs]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Prerequisites
+  - Quick overview of this course
+- [**1. Validating ML Models and LLMs**](#1-validating-ml-models-and-llms) (10 videos)
+  - Validation in the ML workflow
+  - Types of cross-validation
+  - Regular and k-fold cross-validation
+  - Stratified cross-validation and nested cross-validation
+  - K-fold cross-validation
+  - Validating LLMs
+  - Offline validation
+  - Golden datasets
+  - Benchmarking
+  - AI validating AI
+- [**2. Evaluating ML Models and LLMs**](#2-evaluating-ml-models-and-llms) (17 videos)
+  - Evaluating models using metrics
+  - Evaluating regression models
+  - Evaluating classification models
+  - Evaluating clustering models
+  - Accuracy precision recall
+  - Evaluating large language models (LLMs)
+  - Human evaluation
+  - Statistical methods for LLM evaluation
+  - ROUGE scores
+  - BLEU score
+  - METEOR score
+  - Perplexity
+  - Model-based methods for LLM evaluation
+  - Natural language inference
+  - BLEURT
+  - Judge models
+  - LLM evaluation
+- [**3. Collecting and Using User Feedback in LLMs**](#3-collecting-and-using-user-feedback-in-llms) (4 videos)
+  - User feedback in LLMs
+  - Implicit and explicit feedback
+  - Reinforcement learning
+  - Reinforcement learning from human feedback
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/prerequisites?u=76281980)
@@ -140,7 +174,7 @@ created: 2026-04-29
 
 ### 1. Validating ML Models and LLMs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Validation in the ML workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/validation-in-the-ml-workflow?u=76281980)
@@ -970,7 +1004,7 @@ created: 2026-04-29
 
 ### 2. Evaluating ML Models and LLMs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating models using metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/evaluating-models-using-metrics?u=76281980)
@@ -2227,7 +2261,7 @@ created: 2026-04-29
 
 ### 3. Collecting and Using User Feedback in LLMs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### User feedback in LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/user-feedback-in-llms?u=76281980)
@@ -2637,7 +2671,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-validation-and-user-feedback-and-performance-metrics/summary-and-next-steps?u=76281980)

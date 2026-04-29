@@ -48,14 +48,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Security Misconfiguration]]** (6 videos)
-- **[[#2. Insecure Design]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - 2021 OWASP Top 10
+  - OWASP Top 10 series
+- [**1. Security Misconfiguration**](#1-security-misconfiguration) (6 videos)
+  - What is security misconfiguration?
+  - Example #1: 2020 SolarWinds data breach
+  - Example #2: State of Pentesting Report
+  - Prevention technique #1: Repeatable hardening
+  - Prevention technique #2: Minimal platform
+  - Prevention technique #3: Configuration review
+- [**2. Insecure Design**](#2-insecure-design) (6 videos)
+  - What are vulnerable and outdated components?
+  - Real-world example #1: Equifax breach 2017
+  - Real-world example #2: Target breach 2013
+  - Prevention technique #1: Remove unnecessary features
+  - Prevention technique #2: Continuous inventory management
+  - Prevention technique #3: Leverage virtual patching
+- [**Conclusion**](#conclusion) (1 videos)
+  - Explore more of the OWASP Top 10
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/2021-owasp-top-10?u=76281980)
@@ -123,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Security Misconfiguration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is security misconfiguration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-is-security-misconfiguration?u=76281980)
@@ -495,7 +510,7 @@ created: 2026-04-29
 
 ### 2. Insecure Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are vulnerable and outdated components?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/what-are-vulnerable-and-outdated-components?u=76281980)
@@ -776,7 +791,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore more of the OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-5-security-misconfiguration-and-6-vulnerable-and-outdated-components/explore-more-of-the-owasp-top-10?u=76281980)

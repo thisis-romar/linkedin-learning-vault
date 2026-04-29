@@ -46,18 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Urgency of Getting Data Privacy Right]]** (3 videos)
-- **[[#2. Privacy: From a Compliance Chore to a Strategic Advantage]]** (3 videos)
-- **[[#3. Tie Privacy to Your Corporate Values]]** (2 videos)
-- **[[#4. Create Advocates throughout the Organization]]** (3 videos)
-- **[[#5. Build Privacy into Products]]** (2 videos)
-- **[[#6. Integrate the Privacy Program into the Existing Business]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - Introduction to building a culture of privacy
+- [**1. The Urgency of Getting Data Privacy Right**](#1-the-urgency-of-getting-data-privacy-right) (3 videos)
+  - Why organizations need to think about building a culture of privacy
+  - New privacy regulations on the horizon
+  - Consumers are taking notice of privacy
+- [**2. Privacy: From a Compliance Chore to a Strategic Advantage**](#2-privacy-from-a-compliance-chore-to-a-strategic-advantage) (3 videos)
+  - Assessing your current privacy program
+  - Why a privacy policy is not enough
+  - Making privacy a brand differentiator
+- [**3. Tie Privacy to Your Corporate Values**](#3-tie-privacy-to-your-corporate-values) (2 videos)
+  - Tying privacy to your corporate mission
+  - Selling privacy to the executive team
+- [**4. Create Advocates throughout the Organization**](#4-create-advocates-throughout-the-organization) (3 videos)
+  - Making privacy relevant to every employee
+  - Building a team of privacy champions
+  - Making privacy everyone's job
+- [**5. Build Privacy into Products**](#5-build-privacy-into-products) (2 videos)
+  - Creating a set of privacy guidelines for the business
+  - Building privacy into your products
+- [**6. Integrate the Privacy Program into the Existing Business**](#6-integrate-the-privacy-program-into-the-existing-business) (1 videos)
+  - Sustaining a culture of privacy
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980)
@@ -169,7 +186,7 @@ created: 2026-04-29
 
 ### 1. The Urgency of Getting Data Privacy Right
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why organizations need to think about building a culture of privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980)
@@ -416,7 +433,7 @@ created: 2026-04-29
 
 ### 2. Privacy: From a Compliance Chore to a Strategic Advantage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing your current privacy program
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980)
@@ -649,7 +666,7 @@ created: 2026-04-29
 
 ### 3. Tie Privacy to Your Corporate Values
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tying privacy to your corporate mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/tying-privacy-to-your-corporate-mission?u=76281980)
@@ -789,7 +806,7 @@ created: 2026-04-29
 
 ### 4. Create Advocates throughout the Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making privacy relevant to every employee
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980)
@@ -1028,7 +1045,7 @@ created: 2026-04-29
 
 ### 5. Build Privacy into Products
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a set of privacy guidelines for the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980)
@@ -1196,7 +1213,7 @@ created: 2026-04-29
 
 ### 6. Integrate the Privacy Program into the Existing Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustaining a culture of privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980)
@@ -1257,7 +1274,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980)

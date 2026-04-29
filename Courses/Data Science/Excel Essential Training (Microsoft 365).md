@@ -54,23 +54,59 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started with Excel]]** (6 videos)
-- **[[#2. Entering Data in Excel]]** (4 videos)
-- **[[#3. Formulas and Functions in Excel]]** (4 videos)
-- **[[#4. Formatting in Excel]]** (3 videos)
-- **[[#5. Adjusting Excel Worksheet Layouts and Data]]** (3 videos)
-- **[[#6. Adjusting Excel Page Layouts and Printing]]** (2 videos)
-- **[[#7. Working with Charts in Excel]]** (2 videos)
-- **[[#8. Adjusting Excel Worksheet Views]]** (2 videos)
-- **[[#9. Working with Multiple Excel Worksheets and Workbooks]]** (3 videos)
-- **[[#10. Excel Data Management Features]]** (3 videos)
-- **[[#11. Security and Sharing in Excel]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Getting started with Excel for Microsoft 365
+- [**1. Getting Started with Excel**](#1-getting-started-with-excel) (6 videos)
+  - Excel fundamentals: What can it do?
+  - Excel's ribbon menu and the Quick Access Toolbar
+  - Shortcut menus and the mini toolbar
+  - Understanding Excel workbooks and worksheets
+  - Use Excel Help
+  - Excel's accessibility features
+- [**2. Entering Data in Excel**](#2-entering-data-in-excel) (4 videos)
+  - Exploring data entry, editing, and AutoFill
+  - Working with dates and times in Excel
+  - Using Undo and Redo
+  - Use Save or Save As
+- [**3. Formulas and Functions in Excel**](#3-formulas-and-functions-in-excel) (4 videos)
+  - Using simple formulas in Excel
+  - Copying a formula into adjacent cells
+  - Using SUM and AVERAGE in Excel
+  - XLOOKUP and lookup functions
+- [**4. Formatting in Excel**](#4-formatting-in-excel) (3 videos)
+  - Exploring font styles, borders, and color backgrounds
+  - Applying numeric formats in Excel
+  - Adjusting row heights and column widths in Excel
+- [**5. Adjusting Excel Worksheet Layouts and Data**](#5-adjusting-excel-worksheet-layouts-and-data) (3 videos)
+  - Rows and columns: Insert/delete and hide/unhide
+  - Moving, copying, and inserting data
+  - Finding and replacing data
+- [**6. Adjusting Excel Page Layouts and Printing**](#6-adjusting-excel-page-layouts-and-printing) (2 videos)
+  - Page Layout view and commands
+  - Using Page Break Preview and print setup options
+- [**7. Working with Charts in Excel**](#7-working-with-charts-in-excel) (2 videos)
+  - Creating charts
+  - Exploring chart types
+- [**8. Adjusting Excel Worksheet Views**](#8-adjusting-excel-worksheet-views) (2 videos)
+  - Freezing and unfreezing panes
+  - Splitting screens horizontally and vertically
+- [**9. Working with Multiple Excel Worksheets and Workbooks**](#9-working-with-multiple-excel-worksheets-and-workbooks) (3 videos)
+  - Renaming, inserting, and deleting sheets
+  - Moving, copying, and grouping sheets
+  - Opening, closing, and saving workbooks
+- [**10. Excel Data Management Features**](#10-excel-data-management-features) (3 videos)
+  - Sorting data
+  - Using filters
+  - Creating PivotTables
+- [**11. Security and Sharing in Excel**](#11-security-and-sharing-in-excel) (2 videos)
+  - Protecting worksheets and workbooks
+  - Sharing workbooks and tracking changes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your Excel journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Excel for Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/getting-started-with-excel-for-microsoft-365?u=76281980)
@@ -98,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Excel fundamentals: What can it do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/excel-fundamentals-what-can-it-do?u=76281980)
@@ -816,7 +852,7 @@ created: 2026-04-29
 
 ### 2. Entering Data in Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring data entry, editing, and AutoFill
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-data-entry-editing-and-autofill?u=76281980)
@@ -1317,7 +1353,7 @@ created: 2026-04-29
 
 ### 3. Formulas and Functions in Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using simple formulas in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/using-simple-formulas-in-excel?u=76281980)
@@ -2030,7 +2066,7 @@ created: 2026-04-29
 
 ### 4. Formatting in Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring font styles, borders, and color backgrounds
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/exploring-font-styles-borders-and-color-backgrounds?u=76281980)
@@ -2506,7 +2542,7 @@ created: 2026-04-29
 
 ### 5. Adjusting Excel Worksheet Layouts and Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rows and columns: Insert/delete and hide/unhide
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/rows-and-columns-insert-delete-hide-unhide?u=76281980)
@@ -2856,7 +2892,7 @@ created: 2026-04-29
 
 ### 6. Adjusting Excel Page Layouts and Printing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Page Layout view and commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/page-layout-view-and-commands?u=76281980)
@@ -3182,7 +3218,7 @@ created: 2026-04-29
 
 ### 7. Working with Charts in Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/creating-charts?u=76281980)
@@ -3629,7 +3665,7 @@ created: 2026-04-29
 
 ### 8. Adjusting Excel Worksheet Views
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Freezing and unfreezing panes
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/freezing-and-unfreezing-panes?u=76281980)
@@ -3902,7 +3938,7 @@ created: 2026-04-29
 
 ### 9. Working with Multiple Excel Worksheets and Workbooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Renaming, inserting, and deleting sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/renaming-inserting-and-deleting-sheets?u=76281980)
@@ -4291,7 +4327,7 @@ created: 2026-04-29
 
 ### 10. Excel Data Management Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sorting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/sorting-data?u=76281980)
@@ -4840,7 +4876,7 @@ created: 2026-04-29
 
 ### 11. Security and Sharing in Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting worksheets and workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/protecting-worksheets-and-workbooks?u=76281980)
@@ -5154,7 +5190,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your Excel journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-essential-training-microsoft-365-25302368/continue-your-excel-journey?u=76281980)

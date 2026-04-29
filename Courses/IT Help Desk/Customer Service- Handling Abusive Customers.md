@@ -51,14 +51,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Handling an Abusive Customer]]** (7 videos)
-- **[[#2. Examples of How to Handle an Abusive Customer]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Handling abusive customers
+  - Understanding why customers are abusive
+- [**1. Handling an Abusive Customer**](#1-handling-an-abusive-customer) (7 videos)
+  - Assessing the customer service interaction
+  - Reassuring the customer
+  - Using empathy to show you care
+  - Changing the customer focus
+  - Resolving the customer's issue
+  - Ending the customer interaction
+  - Following up with the customer
+- [**2. Examples of How to Handle an Abusive Customer**](#2-examples-of-how-to-handle-an-abusive-customer) (2 videos)
+  - Handling an abusive customer on the phone
+  - Handling an abusive customer in person
+- [**Conclusion**](#conclusion) (1 videos)
+  - Confidently deal with abusive customers
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling abusive customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-abusive-customers?u=76281980)
@@ -171,7 +183,7 @@ created: 2026-04-29
 
 ### 1. Handling an Abusive Customer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing the customer service interaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/assessing-the-customer-service-interaction?u=76281980)
@@ -801,7 +813,7 @@ created: 2026-04-29
 
 ### 2. Examples of How to Handle an Abusive Customer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling an abusive customer on the phone
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/handling-an-abusive-customer-on-the-phone?u=76281980)
@@ -1095,7 +1107,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Confidently deal with abusive customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-handling-abusive-customers-25071433/confidently-deal-with-abusive-customers?u=76281980)

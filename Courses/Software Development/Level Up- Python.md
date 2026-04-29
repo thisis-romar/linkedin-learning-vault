@@ -54,12 +54,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Challenges]]** (15 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Put your Python skills to the test!
+  - Using GitHub Codespaces with this course
+- [**1. Challenges**](#1-challenges) (15 videos)
+  - Find prime factors
+  - Identify a palindrome
+  - Sort a string
+  - Find all list items
+  - Play the waiting game
+  - Save a dictionary
+  - Schedule a function
+  - Send an email
+  - Simulate dice
+  - Count unique words
+  - Generate a password
+  - Merge CSV files
+  - Solve a sudoku
+  - Build a zip archive
+  - Download sequential files
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Put your Python skills to the test!
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/put-your-python-skills-to-the-test?u=76281980)
@@ -245,7 +262,7 @@ created: 2026-04-29
 
 ### 1. Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Find prime factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python/find-prime-factors?u=76281980)

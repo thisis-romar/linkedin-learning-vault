@@ -46,20 +46,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Financial Ratio Analysis?]]** (1 videos)
-- **[[#2. A Review of the Financial Statements]]** (4 videos)
-- **[[#3. The DuPont Framework]]** (5 videos)
-- **[[#4. Common-Size Financial Statements]]** (4 videos)
-- **[[#5. Profitability Ratios]]** (4 videos)
-- **[[#6. Efficiency Ratios]]** (5 videos)
-- **[[#7. Leverage Ratios]]** (3 videos)
-- **[[#8. Potential Pitfalls to Ratio Analysis]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Gain financial insights
+- [**1. What Is Financial Ratio Analysis?**](#1-what-is-financial-ratio-analysis) (1 videos)
+  - Introduction to financial ratio analysis
+- [**2. A Review of the Financial Statements**](#2-a-review-of-the-financial-statements) (4 videos)
+  - What are the financial statements?
+  - The balance sheet
+  - The income statement
+  - The statement of cash flows
+- [**3. The DuPont Framework**](#3-the-dupont-framework) (5 videos)
+  - The DuPont company: creating accounting history
+  - Return on equity
+  - DuPont framework
+  - DuPont framework: Target and Walmart
+  - Problem description to explanation
+- [**4. Common-Size Financial Statements**](#4-common-size-financial-statements) (4 videos)
+  - Olympic medals and GDP per capita
+  - Common size overview
+  - Target's common-size income statement
+  - Target's common-size balance sheet
+- [**5. Profitability Ratios**](#5-profitability-ratios) (4 videos)
+  - McDonald's most profitable items
+  - Comparing profitability with financial ratios
+  - Specific profitability ratios
+  - Price-earnings ratio
+- [**6. Efficiency Ratios**](#6-efficiency-ratios) (5 videos)
+  - Mark-up vs. profitability: Harry Winston vs. Walmart
+  - Number of days' sales in inventory
+  - Average collection period
+  - Length of the operating cycle
+  - Fixed asset turnover and other utilization ratios
+- [**7. Leverage Ratios**](#7-leverage-ratios) (3 videos)
+  - Singapore Airlines' low leverage
+  - Current ratio
+  - Leverage ratios
+- [**8. Potential Pitfalls to Ratio Analysis**](#8-potential-pitfalls-to-ratio-analysis) (3 videos)
+  - Historical data pitfalls and baseball
+  - Excess data and comparability issues
+  - "Smoking gun" and historical data biases
+- [**Conclusion**](#conclusion) (1 videos)
+  - What financial ratio analysis can NOT do
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gain financial insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?u=76281980)
@@ -123,7 +154,7 @@ created: 2026-04-29
 
 ### 1. What Is Financial Ratio Analysis?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to financial ratio analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/introduction-to-financial-ratio-analysis-2?u=76281980)
@@ -209,7 +240,7 @@ created: 2026-04-29
 
 ### 2. A Review of the Financial Statements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the financial statements?
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-are-the-financial-statements-2?u=76281980)
@@ -719,7 +750,7 @@ created: 2026-04-29
 
 ### 3. The DuPont Framework
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The DuPont company: creating accounting history
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/the-dupont-company-creating-accounting-history?u=76281980)
@@ -1132,7 +1163,7 @@ created: 2026-04-29
 
 ### 4. Common-Size Financial Statements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Olympic medals and GDP per capita
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/olympic-medals-and-gdp-per-capita?u=76281980)
@@ -1580,7 +1611,7 @@ created: 2026-04-29
 
 ### 5. Profitability Ratios
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### McDonald's most profitable items
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mcdonald-s-most-profitable-items?u=76281980)
@@ -1935,7 +1966,7 @@ created: 2026-04-29
 
 ### 6. Efficiency Ratios
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mark-up vs. profitability: Harry Winston vs. Walmart
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/mark-up-vs-profitability-harry-winston-vs-walmart?u=76281980)
@@ -2453,7 +2484,7 @@ created: 2026-04-29
 
 ### 7. Leverage Ratios
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Singapore Airlines' low leverage
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/singapore-airlines-low-leverage?u=76281980)
@@ -2785,7 +2816,7 @@ created: 2026-04-29
 
 ### 8. Potential Pitfalls to Ratio Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Historical data pitfalls and baseball
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/historical-data-pitfalls-and-baseball?u=76281980)
@@ -3086,7 +3117,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What financial ratio analysis can NOT do
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/what-financial-ratio-analysis-can-not-do?u=76281980)

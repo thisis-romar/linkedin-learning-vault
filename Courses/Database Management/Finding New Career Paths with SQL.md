@@ -53,16 +53,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Designing Your Career with SQL Skills]]** (3 videos)
-- **[[#2. Analytics and Marketing with SQL]]** (2 videos)
-- **[[#3. Data Science and SQL]]** (3 videos)
-- **[[#4. Engineering with SQL]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Starting your new career path with SQL
+  - Assessing your current SQL skills
+- [**1. Designing Your Career with SQL Skills**](#1-designing-your-career-with-sql-skills) (3 videos)
+  - Finding where your interests intersect with your SQL skills
+  - Identifying gaps and opportunities to learn
+  - Possible career paths that can use your SQL skills
+- [**2. Analytics and Marketing with SQL**](#2-analytics-and-marketing-with-sql) (2 videos)
+  - SQL in digital marketing
+  - Modern data visualization and dashboards
+- [**3. Data Science and SQL**](#3-data-science-and-sql) (3 videos)
+  - Data science overview
+  - Descriptive analytics and research
+  - Predictive analytics and machine learning using SQL
+- [**4. Engineering with SQL**](#4-engineering-with-sql) (5 videos)
+  - Introduction to engineering and database administration using SQL
+  - Web development
+  - Mobile app development and knowledge transfer
+  - Data engineering and cloud computing
+  - Database administration
+- [**Conclusion**](#conclusion) (1 videos)
+  - Extending your SQL career
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting your new career path with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/starting-your-new-career-path-with-sql?u=76281980)
@@ -163,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Designing Your Career with SQL Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding where your interests intersect with your SQL skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/finding-where-your-interests-intersect-with-your-sql-skills?u=76281980)
@@ -350,7 +366,7 @@ created: 2026-04-29
 
 ### 2. Analytics and Marketing with SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL in digital marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/sql-in-digital-marketing?u=76281980)
@@ -490,7 +506,7 @@ created: 2026-04-29
 
 ### 3. Data Science and SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/data-science-overview?u=76281980)
@@ -655,7 +671,7 @@ created: 2026-04-29
 
 ### 4. Engineering with SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to engineering and database administration using SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/introduction-to-engineering-and-database-administration-using-sql?u=76281980)
@@ -1014,7 +1030,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending your SQL career
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-new-career-paths-with-sql/extending-your-sql-career?u=76281980)

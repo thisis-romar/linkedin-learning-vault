@@ -48,13 +48,20 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Publishing GPTs in the GPT Store]]** (5 videos)
-- **[[#2. Going further]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introducing the GPT Store
+- [**1. Publishing GPTs in the GPT Store**](#1-publishing-gpts-in-the-gpt-store) (5 videos)
+  - What is the GPT Store?
+  - Preparing your account to publish GPTs
+  - Publishing a GPT in the GPT Store
+  - Upgrading a GPT in the GPT Store
+  - Understanding policies and guidelines for GPTs
+- [**2. Going further**](#2-going-further) (1 videos)
+  - Going further with GPTs
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the GPT Store
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/publishing-your-gpts-in-the-gpt-store?u=76281980)
@@ -85,7 +92,7 @@ created: 2026-04-29
 
 ### 1. Publishing GPTs in the GPT Store
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the GPT Store?
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/what-is-the-gpt-store?u=76281980)
@@ -610,7 +617,7 @@ created: 2026-04-29
 
 ### 2. Going further
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going further with GPTs
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-publishing-gpts-on-the-gpt-store/going-further-with-gpts?u=76281980)

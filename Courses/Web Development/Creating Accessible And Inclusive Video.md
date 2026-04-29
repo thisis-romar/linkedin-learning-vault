@@ -46,15 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Why Create Accessible and Inclusive Videos?]]** (2 videos)
-- **[[#2. Create an Accessible Experience]]** (10 videos)
-- **[[#3. Create Inclusive Content]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Prioritize video accessibility and inclusivity
+- [**1. Why Create Accessible and Inclusive Videos?**](#1-why-create-accessible-and-inclusive-videos) (2 videos)
+  - Benefits of creating an accessible experience
+  - Benefits of creating inclusive content
+- [**2. Create an Accessible Experience**](#2-create-an-accessible-experience) (10 videos)
+  - Be thoughtful about color, contrast, and light
+  - Optimize for text clarity
+  - Create captions for all audiences
+  - Create subtitles and consider other localization strategies
+  - Create a transcript
+  - Create audio descriptions
+  - Include a sign language interpreter
+  - Choose accessible video and audio formats
+  - Choose an accessible video player
+  - Plan proactively and test for accessibility
+- [**3. Create Inclusive Content**](#3-create-inclusive-content) (6 videos)
+  - Be thoughtful about featuring diverse video topics
+  - Script with diversity and inclusion in mind
+  - Avoid jargon, buzzwords, and insider terms
+  - Recruit a diverse video crew
+  - Cast diverse talent
+  - Prioritize diverse asset creation and curation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prioritize video accessibility and inclusivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/prioritize-video-accessibility-and-inclusivity?u=76281980)
@@ -80,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Why Create Accessible and Inclusive Videos?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of creating an accessible experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/benefits-of-creating-an-accessible-experience?u=76281980)
@@ -265,7 +285,7 @@ created: 2026-04-29
 
 ### 2. Create an Accessible Experience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be thoughtful about color, contrast, and light
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-color-contrast-and-light?u=76281980)
@@ -1099,7 +1119,7 @@ created: 2026-04-29
 
 ### 3. Create Inclusive Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be thoughtful about featuring diverse video topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/be-thoughtful-about-featuring-diverse-video-topics?u=76281980)
@@ -1572,7 +1592,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-accessible-and-inclusive-video/next-steps?u=76281980)

@@ -44,17 +44,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Django and React Preparation]]** (4 videos)
-- **[[#2. Filtering and Pagination with Django and React]]** (8 videos)
-- **[[#3. Forms with React and Django]]** (7 videos)
-- **[[#4. Refactoring React with Hooks and Higher-Order Components]]** (4 videos)
-- **[[#5. Testing React and Django]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Create a full-stack React app with Django REST framework
+  - What you should know
+  - Demo project overview
+- [**1. Django and React Preparation**](#1-django-and-react-preparation) (4 videos)
+  - Running the React and Django development servers
+  - Preparing React code for production
+  - Serving React code through Django's static files
+  - Navigating between React components using React Router
+- [**2. Filtering and Pagination with Django and React**](#2-filtering-and-pagination-with-django-and-react) (8 videos)
+  - Creating a ViewSet with Django
+  - Displaying a list of items with React
+  - Deleting an item using React and Django
+  - Partially updating an item using React
+  - Pagination with Django
+  - Pagination with React
+  - Filtering with Django
+  - Filtering with React
+- [**3. Forms with React and Django**](#3-forms-with-react-and-django) (7 videos)
+  - Handling creating models with Django REST framework
+  - Creating a REST API Service class with React and Axios
+  - Creating a basic form as a React component
+  - Creating form fields for basic form
+  - Connecting a React component to a service
+  - Validating form data with Django REST framework
+  - Displaying validation errors with React
+- [**4. Refactoring React with Hooks and Higher-Order Components**](#4-refactoring-react-with-hooks-and-higher-order-components) (4 videos)
+  - Using timers with state to display data
+  - Creating a higher-order component with React
+  - Using React hooks and refactoring a component to use hooks
+  - Refactoring a higher-order component to use hooks
+- [**5. Testing React and Django**](#5-testing-react-and-django) (7 videos)
+  - Unit testing a component
+  - Unit testing two React routes and navigation between components
+  - End2End testing the form submission process
+  - End2End testing the filtered data table
+  - Unit testing caching with Django REST framework
+  - Unit testing sorting and filtering
+  - Unit testing validation for the REST API
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a full-stack React app with Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/create-a-full-stack-react-app-with-django-rest-framework?u=76281980)
@@ -145,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Django and React Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Running the React and Django development servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/running-the-react-and-django-development-servers?u=76281980)
@@ -264,7 +298,7 @@ created: 2026-04-29
 
 ### 2. Filtering and Pagination with Django and React
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a ViewSet with Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/creating-a-viewset-with-django?u=76281980)
@@ -651,7 +685,7 @@ created: 2026-04-29
 
 ### 3. Forms with React and Django
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling creating models with Django REST framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/handling-creating-models-with-django-rest-framework?u=76281980)
@@ -950,7 +984,7 @@ created: 2026-04-29
 
 ### 4. Refactoring React with Hooks and Higher-Order Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using timers with state to display data
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/using-timers-with-state-to-display-data?u=76281980)
@@ -1123,7 +1157,7 @@ created: 2026-04-29
 
 ### 5. Testing React and Django
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unit testing a component
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/unit-testing-a-component?u=76281980)
@@ -1383,7 +1417,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-react-and-django-apps/next-steps?u=76281980)

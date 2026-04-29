@@ -48,19 +48,72 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Private Cloud Basics]]** (6 videos)
-- **[[#2. Private Cloud Platforms]]** (11 videos)
-- **[[#3. Private Clouds within Multicloud and Hybrid Clouds]]** (6 videos)
-- **[[#4. OpenStack]]** (7 videos)
-- **[[#5. AWS Outposts]]** (7 videos)
-- **[[#6. Microsoft Stack]]** (7 videos)
-- **[[#7. Private Cloud Deployment]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understanding private clouds
+  - What you should know
+- [**1. Private Cloud Basics**](#1-private-cloud-basics) (6 videos)
+  - Private versus public cloud
+  - Why we leverage private clouds
+  - Why we don't leverage private clouds
+  - Considering costs and making the business case for private clouds
+  - The evolving private cloud market
+  - AI's impact on private clouds
+- [**2. Private Cloud Platforms**](#2-private-cloud-platforms) (11 videos)
+  - Types of private clouds
+  - Traditional private clouds
+  - IoT private clouds
+  - Edge private cloud
+  - Private clouds as a service
+  - AI private clouds
+  - Multi-private clouds
+  - Emerging private cloud solutions for the enterprise
+  - Picking the right solution for your enterprise
+  - Challenge: To private cloud or not to private cloud
+  - Solution: From requirements to solution
+- [**3. Private Clouds within Multicloud and Hybrid Clouds**](#3-private-clouds-within-multicloud-and-hybrid-clouds) (6 videos)
+  - Introduction to private clouds within multiclouds and hybrid clouds
+  - Why do we build complex cloud deployments?
+  - Business case for hybrid and multiclouds with private clouds
+  - Hybrid clouds and private clouds
+  - Multiclouds and private clouds
+  - Future direction of private clouds
+- [**4. OpenStack**](#4-openstack) (7 videos)
+  - OpenStack compatibility
+  - OpenStack flexibility
+  - OpenStack security
+  - OpenStack operations
+  - OpenStack summary
+  - Challenge: When do I use OpenStack?
+  - Solution: From requirements to solution
+- [**5. AWS Outposts**](#5-aws-outposts) (7 videos)
+  - AWS Outposts compatibility
+  - AWS Outposts flexibility
+  - AWS Outposts security
+  - AWS Outposts operations
+  - AWS Outposts summary
+  - Challenge: When do I use AWS Outposts?
+  - Solution: From requirements to solution
+- [**6. Microsoft Stack**](#6-microsoft-stack) (7 videos)
+  - Microsoft Stack compatibility
+  - Microsoft Stack flexibility
+  - Microsoft Stack security
+  - Microsoft Stack operations
+  - Microsoft Stack summary
+  - Challenge: When do I use Microsoft Stack?
+  - Solution: From requirements to solution
+- [**7. Private Cloud Deployment**](#7-private-cloud-deployment) (6 videos)
+  - Should I leverage a private cloud?
+  - Selecting which private cloud to leverage
+  - Preparing for private cloud deployment
+  - Considering private cloud security and operations
+  - Challenge: What are the steps to a sound private cloud deployment?
+  - Solution: Succeeding with private cloud
+- [**Conclusion**](#conclusion) (1 videos)
+  - Going deeper with private clouds
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding private clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/understanding-private-clouds-26504344?u=76281980)
@@ -115,7 +168,7 @@ created: 2026-04-29
 
 ### 1. Private Cloud Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Private versus public cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/private-versus-public-cloud?u=76281980)
@@ -409,7 +462,7 @@ created: 2026-04-29
 
 ### 2. Private Cloud Platforms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of private clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/types-of-private-clouds?u=76281980)
@@ -932,7 +985,7 @@ created: 2026-04-29
 
 ### 3. Private Clouds within Multicloud and Hybrid Clouds
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to private clouds within multiclouds and hybrid clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/introduction-to-private-clouds-within-multiclouds-and-hybrid-clouds?u=76281980)
@@ -1223,7 +1276,7 @@ created: 2026-04-29
 
 ### 4. OpenStack
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OpenStack compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/openstack-compatibility?u=76281980)
@@ -1549,7 +1602,7 @@ created: 2026-04-29
 
 ### 5. AWS Outposts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS Outposts compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/aws-outpost-compatibility?u=76281980)
@@ -1877,7 +1930,7 @@ created: 2026-04-29
 
 ### 6. Microsoft Stack
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Stack compatibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/microsoft-stack-compatibility?u=76281980)
@@ -2179,7 +2232,7 @@ created: 2026-04-29
 
 ### 7. Private Cloud Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Should I leverage a private cloud?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/should-i-leverage-a-private-cloudl?u=76281980)
@@ -2493,7 +2546,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going deeper with private clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-private-cloud-options/going-deeper-with-private-clouds?u=76281980)

@@ -42,18 +42,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Foundations of a Great Communicator]]** (4 videos)
-- **[[#2. Manage Your Message]]** (2 videos)
-- **[[#3. Develop Vocal Mastery]]** (4 videos)
-- **[[#4. Develop Body Language Mastery]]** (4 videos)
-- **[[#5. Confident Digital Communication]]** (1 videos)
-- **[[#6. Dealing with Nerves When Communicating]]** (2 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Prepare to become a more confident communicator
+- [**1. Foundations of a Great Communicator**](#1-foundations-of-a-great-communicator) (4 videos)
+  - Confident communication is a skill
+  - The three elements of powerful communication
+  - Communication blocks that hold you back
+  - The power of presence when you communicate
+- [**2. Manage Your Message**](#2-manage-your-message) (2 videos)
+  - Consider your audience when preparing to communicate
+  - Use the golden structure to organize your thoughts
+- [**3. Develop Vocal Mastery**](#3-develop-vocal-mastery) (4 videos)
+  - If you breathe better, you sound better when speaking
+  - Vary your rate of speech to add clarity
+  - Use volume to radiate more confidence when speaking
+  - Make your message memorable with melody
+- [**4. Develop Body Language Mastery**](#4-develop-body-language-mastery) (4 videos)
+  - Use eye contact effectively while communicating
+  - Talk with your hands to show confidence
+  - Move with purpose and impact while communicating
+  - Communicate with your face
+- [**5. Confident Digital Communication**](#5-confident-digital-communication) (1 videos)
+  - Communicate with confidence digitally
+- [**6. Dealing with Nerves When Communicating**](#6-dealing-with-nerves-when-communicating) (2 videos)
+  - Five ways to handle nervousness when speaking
+  - Tap into real confidence when communicating
+- [**Conclusion**](#conclusion) (3 videos)
+  - Frequently asked questions on communicating confidently
+  - Self-awareness to build your communication skills
+  - Practice to improve your communication
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare to become a more confident communicator
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/prepare-to-become-a-more-confident-communicator?u=76281980)
@@ -82,7 +103,7 @@ created: 2026-04-29
 
 ### 1. Foundations of a Great Communicator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Confident communication is a skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/confident-communication-is-a-skill?u=76281980)
@@ -528,7 +549,7 @@ created: 2026-04-29
 
 ### 2. Manage Your Message
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Consider your audience when preparing to communicate
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/consider-your-audience-when-preparing-to-communicate?u=76281980)
@@ -785,7 +806,7 @@ created: 2026-04-29
 
 ### 3. Develop Vocal Mastery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### If you breathe better, you sound better when speaking
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/if-you-breathe-better-you-sound-better-when-speaking?u=76281980)
@@ -1143,7 +1164,7 @@ created: 2026-04-29
 
 ### 4. Develop Body Language Mastery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use eye contact effectively while communicating
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/use-eye-contact-effectively-while-communicating?u=76281980)
@@ -1702,7 +1723,7 @@ created: 2026-04-29
 
 ### 5. Confident Digital Communication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicate with confidence digitally
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/communicate-with-confidence-digitally?u=76281980)
@@ -1801,7 +1822,7 @@ created: 2026-04-29
 
 ### 6. Dealing with Nerves When Communicating
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Five ways to handle nervousness when speaking
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/five-ways-to-handle-nervousness-when-speaking?u=76281980)
@@ -1955,7 +1976,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Frequently asked questions on communicating confidently
 > [LinkedIn Learning](https://www.linkedin.com/learning/communicating-with-confidence-23450131/frequently-asked-questions-on-communicating-confidently?u=76281980)

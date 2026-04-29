@@ -46,16 +46,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Cost Management]]** (3 videos)
-- **[[#2. Managing Costs with Budgets]]** (4 videos)
-- **[[#3. Analyzing Costs with Reporting]]** (5 videos)
-- **[[#4. Reducing Costs with Reservations]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Control costs with Azure management and billing
+- [**1. Introduction to Cost Management**](#1-introduction-to-cost-management) (3 videos)
+  - Introducing the scenario
+  - Understanding cost management and billing
+  - The cost management methodology
+- [**2. Managing Costs with Budgets**](#2-managing-costs-with-budgets) (4 videos)
+  - Introducing budgets
+  - Creating a budget
+  - Automating actions with budgets
+  - Cost management best practices
+- [**3. Analyzing Costs with Reporting**](#3-analyzing-costs-with-reporting) (5 videos)
+  - Introducing billing
+  - Downloading billing data
+  - Understanding your billing data
+  - Understanding scope
+  - Analyze costs with built-in views
+- [**4. Reducing Costs with Reservations**](#4-reducing-costs-with-reservations) (3 videos)
+  - Introducing reservations
+  - Understanding reservation recommendations
+  - Creating reservations
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next with Azure management?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Control costs with Azure management and billing
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980)
@@ -86,7 +103,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Cost Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the scenario
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980)
@@ -304,7 +321,7 @@ created: 2026-04-29
 
 ### 2. Managing Costs with Budgets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing budgets
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-budgets?u=76281980)
@@ -614,7 +631,7 @@ created: 2026-04-29
 
 ### 3. Analyzing Costs with Reporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing billing
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980)
@@ -969,7 +986,7 @@ created: 2026-04-29
 
 ### 4. Reducing Costs with Reservations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing reservations
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980)
@@ -1200,7 +1217,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next with Azure management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980)

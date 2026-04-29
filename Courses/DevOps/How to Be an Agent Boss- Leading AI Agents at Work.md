@@ -49,15 +49,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Discover and Build Agents]]** (2 videos)
-- **[[#2. Delegate and Manage Agents]]** (2 videos)
-- **[[#3. Optimize and Improve Agents]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Lead AI agents with confidence
+- [**1. Discover and Build Agents**](#1-discover-and-build-agents) (2 videos)
+  - Discover agents: Find the best match for your needs
+  - Build agents with purpose: Define scope and choose the right tools
+- [**2. Delegate and Manage Agents**](#2-delegate-and-manage-agents) (2 videos)
+  - Delegate tasks to agents: Calibrate autonomy and oversight
+  - Manage agents: Metrics, reviews, and lifecycle decisions
+- [**3. Optimize and Improve Agents**](#3-optimize-and-improve-agents) (2 videos)
+  - Improve your agent: Enhance and evolve over time
+  - Control agent costs: Forecast, monitor, and optimize for ROI
+- [**Conclusion**](#conclusion) (1 videos)
+  - The future: Your impact as a leader
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lead AI agents with confidence
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/lead-ai-agents-with-confidence?u=76281980)
@@ -83,7 +91,7 @@ created: 2026-04-29
 
 ### 1. Discover and Build Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover agents: Find the best match for your needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/discover-and-select-the-right-ai-agent-for-your-business-needs?u=76281980)
@@ -487,7 +495,7 @@ created: 2026-04-29
 
 ### 2. Delegate and Manage Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Delegate tasks to agents: Calibrate autonomy and oversight
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/delegate-work-to-ai-agents-calibrate-autonomy-and-oversight?u=76281980)
@@ -758,7 +766,7 @@ created: 2026-04-29
 
 ### 3. Optimize and Improve Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your agent: Enhance and evolve over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/improve-your-agent-upskill-and-evolve-over-time?u=76281980)
@@ -975,7 +983,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future: Your impact as a leader
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-be-an-agent-boss-leading-ai-agents-at-work/the-future-your-impact-as-a-leader?u=76281980)

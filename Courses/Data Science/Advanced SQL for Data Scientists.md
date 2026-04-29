@@ -53,17 +53,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Data Modeling: Tables]]** (7 videos)
-- **[[#2. Data Modeling: Indexes]]** (7 videos)
-- **[[#3. Query Optimization]]** (7 videos)
-- **[[#4. User-Defined Functions]]** (7 videos)
-- **[[#5. Special-Purpose Functionality]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Advanced SQL techniques for data science
+  - What you should know
+- [**1. Data Modeling: Tables**](#1-data-modeling-tables) (7 videos)
+  - Rules of normalization
+  - Denormalization
+  - Partitioning data
+  - Materialized views
+  - Read replicas
+  - Challenge: Design a data model for analytics
+  - Solution: Design a data model for analytics
+- [**2. Data Modeling: Indexes**](#2-data-modeling-indexes) (7 videos)
+  - B-tree indexes
+  - Bitmap indexes
+  - Hash indexes
+  - GiST and SP-GiST indexes
+  - GIN and BRIN indexes
+  - Challenge: Choosing an optimal indexing strategy
+  - Solution: Choosing an optimal indexing strategy
+- [**3. Query Optimization**](#3-query-optimization) (7 videos)
+  - EXPLAIN and ANALYZE commands
+  - Generating data with generate_sequence
+  - Generating time series data
+  - Analyzing a query with WHERE clauses and indexes
+  - Analyzing a query with a join
+  - Challenge: Optimize a query using an explain plan
+  - Solution: Optimize a query using an explain plan
+- [**4. User-Defined Functions**](#4-user-defined-functions) (7 videos)
+  - Extending SQL with user-defined functions
+  - SQL query functions
+  - Function overloading
+  - Function volatility
+  - PL/Python functions
+  - Challenge: Write a user-defined function
+  - Solution: Write a user-defined function
+- [**5. Special-Purpose Functionality**](#5-special-purpose-functionality) (7 videos)
+  - Federated queries
+  - Bloom filters
+  - Hstore for key-value pairs
+  - JSON for semi-structured data
+  - Hierarchical data and ltrees
+  - Challenge: Design a table to support unstructured data
+  - Solution: Design a table to support unstructured data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced SQL techniques for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/advanced-sql-techniques-for-data-science?u=76281980)
@@ -114,7 +152,7 @@ created: 2026-04-29
 
 ### 1. Data Modeling: Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rules of normalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/rules-of-normalization?u=76281980)
@@ -733,7 +771,7 @@ created: 2026-04-29
 
 ### 2. Data Modeling: Indexes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### B-tree indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/b-tree-indexes?u=76281980)
@@ -1088,7 +1126,7 @@ created: 2026-04-29
 
 ### 3. Query Optimization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### EXPLAIN and ANALYZE commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/explain-and-analyze-commands?u=76281980)
@@ -1773,7 +1811,7 @@ created: 2026-04-29
 
 ### 4. User-Defined Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending SQL with user-defined functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/extending-sql-with-user-defined-functions?u=76281980)
@@ -2438,7 +2476,7 @@ created: 2026-04-29
 
 ### 5. Special-Purpose Functionality
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Federated queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/federated-queries?u=76281980)
@@ -3264,7 +3302,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-data-scientists-13972889/next-steps?u=76281980)

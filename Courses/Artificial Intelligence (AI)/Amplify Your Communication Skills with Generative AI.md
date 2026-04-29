@@ -39,14 +39,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Writing with Style and Impact Using Generative AI]]** (4 videos)
-- **[[#2. Boost Interpersonal Communication with AI]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Use AI to take your communication to the next level
+  - Best practices to make AI your communication copilot
+  - How to use AI tools ethically and authentically
+  - Learn which AI tools can enhance your communication
+- [**1. Writing with Style and Impact Using Generative AI**](#1-writing-with-style-and-impact-using-generative-ai) (4 videos)
+  - Write clear, persuasive, and warm emails with generative AI
+  - Learn to write compelling copy with generative AI
+  - Develop engaging presentations with generative AI
+  - Summarize, revise, and refine writing with generative AI
+- [**2. Boost Interpersonal Communication with AI**](#2-boost-interpersonal-communication-with-ai) (4 videos)
+  - Develop your conversation skills with generative AI
+  - Be more persuasive in negotiations using generative AI
+  - Prepare for meetings effectively using generative AI
+  - Prepare for difficult conversations using generative AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Put your generative AI communication skills into practice
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use AI to take your communication to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/use-ai-to-take-your-communication-to-the-next-level?u=76281980)
@@ -392,7 +405,7 @@ created: 2026-04-29
 
 ### 1. Writing with Style and Impact Using Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Write clear, persuasive, and warm emails with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980)
@@ -891,7 +904,7 @@ created: 2026-04-29
 
 ### 2. Boost Interpersonal Communication with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop your conversation skills with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980)
@@ -1278,7 +1291,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Put your generative AI communication skills into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/put-your-generative-ai-communication-skills-into-practice?u=76281980)

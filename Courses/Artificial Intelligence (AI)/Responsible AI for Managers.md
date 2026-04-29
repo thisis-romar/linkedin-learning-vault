@@ -43,15 +43,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Guiding Principles of Responsible AI in Management]]** (2 videos)
-- **[[#2. Accountability for Responsible AI in Management]]** (2 videos)
-- **[[#3. Management Practices in AI Implementation]]** (2 videos)
-- **[[#4. Responsible AI: Real-World Examples in Management]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The manager's role in responsible AI
+- [**1. Guiding Principles of Responsible AI in Management**](#1-guiding-principles-of-responsible-ai-in-management) (2 videos)
+  - Ethical AI principles
+  - Responsible AI principles
+- [**2. Accountability for Responsible AI in Management**](#2-accountability-for-responsible-ai-in-management) (2 videos)
+  - Data privacy and safety
+  - Mitigating bias and risk
+- [**3. Management Practices in AI Implementation**](#3-management-practices-in-ai-implementation) (2 videos)
+  - AI  and decision-making
+  - Prioritizing employee engagement and impact
+- [**4. Responsible AI: Real-World Examples in Management**](#4-responsible-ai-real-world-examples-in-management) (2 videos)
+  - Responsible AI in action
+  - Responsible AI resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The manager's role in responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/the-manager-s-role-in-responsible-ai?u=76281980)
@@ -75,7 +84,7 @@ created: 2026-04-29
 
 ### 1. Guiding Principles of Responsible AI in Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical AI principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980)
@@ -179,7 +188,7 @@ created: 2026-04-29
 
 ### 2. Accountability for Responsible AI in Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data privacy and safety
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980)
@@ -309,7 +318,7 @@ created: 2026-04-29
 
 ### 3. Management Practices in AI Implementation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI  and decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980)
@@ -441,7 +450,7 @@ created: 2026-04-29
 
 ### 4. Responsible AI: Real-World Examples in Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980)

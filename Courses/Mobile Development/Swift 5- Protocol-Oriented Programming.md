@@ -45,16 +45,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Pillars of Protocol Orientation]]** (10 videos)
-- **[[#2. Protocol-Oriented Programming]]** (6 videos)
-- **[[#3. Generics]]** (7 videos)
-- **[[#4. Implement the Weather App Using POP]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Benefits: Protocol-oriented programming
+  - What you should know
+- [**1. The Pillars of Protocol Orientation**](#1-the-pillars-of-protocol-orientation) (10 videos)
+  - What is protocol-oriented programming?
+  - Introducing the protocol
+  - Adopting protocols
+  - Conforming to protocols via extensions
+  - Understanding polymorphism
+  - Protocol inheritance
+  - Adopting multiple protocols
+  - Protocol extensions
+  - Challenge: Removing tight coupling
+  - Solution: Removing tight coupling
+- [**2. Protocol-Oriented Programming**](#2-protocol-oriented-programming) (6 videos)
+  - Why protocols?
+  - From unstructured code to POP
+  - Designing with classes: First try
+  - Designing with classes: Subclassing
+  - The benefits of thinking in protocols
+  - Highlighting the differences
+- [**3. Generics**](#3-generics) (7 videos)
+  - The importance of generics
+  - Defining generic functions and methods
+  - Working with generic types
+  - Placeholder types in protocols
+  - Using generics with protocols
+  - Challenge: Implementing a generic stack
+  - Solution: Implementing a generic stack
+- [**4. Implement the Weather App Using POP**](#4-implement-the-weather-app-using-pop) (10 videos)
+  - Weather app design
+  - Defining the UI using SwiftUI
+  - The WebServiceController protocol
+  - Working with a third-party API
+  - Implementing the OpenWeatherMap controller
+  - Completing the OpenWeatherMap controller
+  - Introducing the view model
+  - Presenting weather data
+  - Challenge: Integrating a fallback service
+  - Solution: Integrating a fallback service
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits: Protocol-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/benefits-protocol-oriented-programming?u=76281980)
@@ -129,7 +165,7 @@ created: 2026-04-29
 
 ### 1. The Pillars of Protocol Orientation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is protocol-oriented programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/what-is-protocol-oriented-programming?u=76281980)
@@ -1141,7 +1177,7 @@ created: 2026-04-29
 
 ### 2. Protocol-Oriented Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why protocols?
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/why-protocols?u=76281980)
@@ -1658,7 +1694,7 @@ created: 2026-04-29
 
 ### 3. Generics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/the-importance-of-generics?u=76281980)
@@ -2260,7 +2296,7 @@ created: 2026-04-29
 
 ### 4. Implement the Weather App Using POP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Weather app design
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/weather-app-design?u=76281980)
@@ -3115,7 +3151,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-5-protocol-oriented-programming/next-steps?u=76281980)

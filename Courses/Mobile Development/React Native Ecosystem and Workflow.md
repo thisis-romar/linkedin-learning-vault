@@ -48,17 +48,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The React Native UI Libraries]]** (5 videos)
-- **[[#2. Development Resources]]** (2 videos)
-- **[[#3. Backend Options for a React Native Project]]** (2 videos)
-- **[[#4. Testing Your App]]** (1 videos)
-- **[[#5. Deploying to the Stores]]** (1 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Explore React Native's ecosystem
+  - What you should know
+- [**1. The React Native UI Libraries**](#1-the-react-native-ui-libraries) (5 videos)
+  - Overview of Facebook's own React starter
+  - Exploring icons for React Native
+  - Get a great foundation with NativeBase
+  - Forms in React Native
+  - React Native Elements
+- [**2. Development Resources**](#2-development-resources) (2 videos)
+  - Full-stack frameworks
+  - IDEs for React Native
+- [**3. Backend Options for a React Native Project**](#3-backend-options-for-a-react-native-project) (2 videos)
+  - Firebase: A best-of-class cloud backend
+  - Other backend options
+- [**4. Testing Your App**](#4-testing-your-app) (1 videos)
+  - Jest: A React testing library
+- [**5. Deploying to the Stores**](#5-deploying-to-the-stores) (1 videos)
+  - Apple and Android stores
+- [**Conclusion**](#conclusion) (2 videos)
+  - Expo and React navigation libraries
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore React Native's ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/explore-react-native-s-ecosystem?u=76281980)
@@ -111,7 +126,7 @@ created: 2026-04-29
 
 ### 1. The React Native UI Libraries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Facebook's own React starter
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/overview-of-facebook-s-own-react-starter?u=76281980)
@@ -386,7 +401,7 @@ created: 2026-04-29
 
 ### 2. Development Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Full-stack frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/full-stack-frameworks?u=76281980)
@@ -523,7 +538,7 @@ created: 2026-04-29
 
 ### 3. Backend Options for a React Native Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase: A best-of-class cloud backend
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/firebase-a-best-of-class-cloud-backend?u=76281980)
@@ -670,7 +685,7 @@ created: 2026-04-29
 
 ### 4. Testing Your App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Jest: A React testing library
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/jest-a-react-testing-library?u=76281980)
@@ -735,7 +750,7 @@ created: 2026-04-29
 
 ### 5. Deploying to the Stores
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apple and Android stores
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/apple-and-android-stores?u=76281980)
@@ -810,7 +825,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expo and React navigation libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050/expo-and-react-navigation-libraries?u=76281980)

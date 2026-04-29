@@ -53,19 +53,64 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. CSS Grid: Core Concepts]]** (9 videos)
-- **[[#2. Planning for Grid Layouts]]** (5 videos)
-- **[[#3. Multi-Column Layout]]** (7 videos)
-- **[[#4. Full-Bleed Layout]]** (4 videos)
-- **[[#5. A Very Uniform Card Layout]]** (4 videos)
-- **[[#6. A Variable Card Layout]]** (7 videos)
-- **[[#7. Asymmetrical or Broken Layout]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome to CSS Grid
+  - What you should know
+  - Using GitHub Codespaces with this course
+- [**1. CSS Grid: Core Concepts**](#1-css-grid-core-concepts) (9 videos)
+  - What is CSS Grid?
+  - Grid terminology
+  - Create a grid
+  - Grid lines and units
+  - Placing grid items
+  - Grid areas
+  - Named grid lines
+  - Grid gap
+  - Grid alignment
+- [**2. Planning for Grid Layouts**](#2-planning-for-grid-layouts) (5 videos)
+  - When to use Grid?
+  - Drawing layouts with pen and paper
+  - Using Grid generators
+  - Mobile-first approach
+  - Accessibility considerations
+- [**3. Multi-Column Layout**](#3-multi-column-layout) (7 videos)
+  - What you're creating: A multi-column layout
+  - Overview of the starting point
+  - Create the main grid
+  - Manual grid item placement
+  - Add third column for wider viewports
+  - Justify the grid
+  - Bonus: Refactor using grid areas
+- [**4. Full-Bleed Layout**](#4-full-bleed-layout) (4 videos)
+  - What you're creating: A full-bleed layout
+  - Overview of the starting point
+  - Create the shared grid
+  - Define columns and position grid items
+- [**5. A Very Uniform Card Layout**](#5-a-very-uniform-card-layout) (4 videos)
+  - What you're creating: A uniform card layout
+  - Overview of card markup and starter styles
+  - Define the main grid
+  - Create grid for each card
+- [**6. A Variable Card Layout**](#6-a-variable-card-layout) (7 videos)
+  - What you're creating: A variable card layout
+  - Overview of card markup
+  - Define the main grid
+  - Place cards on the grid
+  - Create grid for each card
+  - Position items within the card grid
+  - Make sure it's responsive
+- [**7. Asymmetrical or Broken Layout**](#7-asymmetrical-or-broken-layout) (5 videos)
+  - What you're creating: An asymmetrical layout
+  - Overview of the starting point
+  - Define the primary grid layout
+  - Create the first nested grid
+  - Create the second nested grid
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to CSS Grid
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/welcome-to-css-grid?u=76281980)
@@ -188,7 +233,7 @@ created: 2026-04-29
 
 ### 1. CSS Grid: Core Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is CSS Grid?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-is-css-grid?u=76281980)
@@ -1105,7 +1150,7 @@ created: 2026-04-29
 
 ### 2. Planning for Grid Layouts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to use Grid?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/when-to-use-grid?u=76281980)
@@ -1351,7 +1396,7 @@ created: 2026-04-29
 
 ### 3. Multi-Column Layout
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What you're creating: A multi-column layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-multi-column-layout?u=76281980)
@@ -1940,7 +1985,7 @@ created: 2026-04-29
 
 ### 4. Full-Bleed Layout
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What you're creating: A full-bleed layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-full-bleed-layout?u=76281980)
@@ -2252,7 +2297,7 @@ created: 2026-04-29
 
 ### 5. A Very Uniform Card Layout
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What you're creating: A uniform card layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-uniform-card-layout?u=76281980)
@@ -2537,7 +2582,7 @@ created: 2026-04-29
 
 ### 6. A Variable Card Layout
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What you're creating: A variable card layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-a-variable-card-layout?u=76281980)
@@ -3042,7 +3087,7 @@ created: 2026-04-29
 
 ### 7. Asymmetrical or Broken Layout
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What you're creating: An asymmetrical layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/what-we-re-creating-an-asymmetrical-layout?u=76281980)
@@ -3448,7 +3493,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-advanced-layouts-with-grid-24947327/next-steps?u=76281980)

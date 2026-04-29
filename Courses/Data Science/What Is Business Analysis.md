@@ -40,12 +40,18 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Business Analysis?]]** (5 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why business analysis
+- [**1. What Is Business Analysis?**](#1-what-is-business-analysis) (5 videos)
+  - What is business analysis?
+  - Business analysis as a profession
+  - Business analysis as a set of competencies
+  - Business analysis as a research discipline
+  - The career path into business analysis
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/why-business-analysis?u=76281980)
@@ -86,7 +92,7 @@ created: 2026-04-29
 
 ### 1. What Is Business Analysis?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is business analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/what-is-business-analysis/what-is-business-analysis?u=76281980)

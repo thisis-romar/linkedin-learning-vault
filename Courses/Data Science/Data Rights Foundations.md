@@ -42,16 +42,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. Global Policies]]** (6 videos)
-- **[[#3. Data Types and Data Rights]]** (4 videos)
-- **[[#4. Data Protection and Security]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Overview of data rights
+  - What you should know
+- [**1. Introduction**](#1-introduction) (5 videos)
+  - What are data rights?
+  - How can they be monitored?
+  - How can they be questioned?
+  - Challenge: Research local policy
+  - Solution: Research local policy
+- [**2. Global Policies**](#2-global-policies) (6 videos)
+  - Global best practice
+  - Common examples
+  - Common formats
+  - Request process
+  - Challenge: Intercontinental policy
+  - Solution: Intercontinental policy
+- [**3. Data Types and Data Rights**](#3-data-types-and-data-rights) (4 videos)
+  - Data elements
+  - Data tracking
+  - Challenge: Format details
+  - Solution: Format details
+- [**4. Data Protection and Security**](#4-data-protection-and-security) (4 videos)
+  - Protection from data leaks
+  - Security practices
+  - Challenge: Research protection sites
+  - Solution: Research protection sites
+- [**Conclusion**](#conclusion) (1 videos)
+  - Actions you can take
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data rights
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/overview-of-data-rights?u=76281980)
@@ -114,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are data rights?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/what-are-data-rights?u=76281980)
@@ -328,7 +350,7 @@ created: 2026-04-29
 
 ### 2. Global Policies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Global best practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/global-best-practice?u=76281980)
@@ -551,7 +573,7 @@ created: 2026-04-29
 
 ### 3. Data Types and Data Rights
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/data-elements?u=76281980)
@@ -725,7 +747,7 @@ created: 2026-04-29
 
 ### 4. Data Protection and Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protection from data leaks
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/protection-from-data-leaks?u=76281980)
@@ -871,7 +893,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Actions you can take
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-rights-foundations/actions-you-can-take?u=76281980)

@@ -36,13 +36,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI Tips for Managers]]** (14 videos)
-- **[[#2. Helpful Resources]]** (0 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How AI is transforming the manager's role
+- [**1. AI Tips for Managers**](#1-ai-tips-for-managers) (14 videos)
+  - AI will make you efficient, not extinct
+  - Make your team meetings impactful with AI
+  - Use AI to enhance your one-to-one meetings
+  - Use AI to coach and give better feedback to your team
+  - Practice accepting feedback with AI
+  - Create training and development opportunities using AI
+  - Delegate to your team with confidence with the help of AI
+  - Manage conflict like a leader using AI
+  - Leverage AI in your own development
+  - Identify and get ahead of trends using AI
+  - Leverage AI to develop cross-functional knowledge
+  - Use AI to build and drive strategy
+  - How AI can help you present data like never before
+  - Use AI to support internal mobility
+- [**2. Helpful Resources**](#2-helpful-resources) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How AI is transforming the manager's role
 > [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/how-ai-is-transforming-the-manager-role?u=76281980)
@@ -69,7 +84,7 @@ created: 2026-04-29
 
 ### 1. AI Tips for Managers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI will make you efficient, not extinct
 > [LinkedIn Learning](https://www.linkedin.com/learning/become-an-ai-powered-people-manager/ai-will-make-you-efficient-not-extinct?u=76281980)
@@ -1048,7 +1063,7 @@ created: 2026-04-29
 
 ### 2. Helpful Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Path Context

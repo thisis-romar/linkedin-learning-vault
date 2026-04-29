@@ -39,16 +39,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#0. Introduction]]** (2 videos)
-- **[[#1. AI-Enhanced Preparation]]** (3 videos)
-- **[[#2. AI in the Hiring Process]]** (3 videos)
-- **[[#3. AI-Driven Interview Process]]** (3 videos)
-- **[[#4. Selecting the Best Candidate with AI]]** (3 videos)
-- **[[#5. AI in Feedback and Follow-Up]]** (3 videos)
+- [**0. Introduction**](#0-introduction) (2 videos)
+  - Introducing AI into the hiring process
+  - Exploring the available AI tools
+- [**1. AI-Enhanced Preparation**](#1-ai-enhanced-preparation) (3 videos)
+  - Utilizing AI for analyzing past successful hires
+  - Leveraging AI for cultural fit assessment
+  - AI for optimizing interview questions
+- [**2. AI in the Hiring Process**](#2-ai-in-the-hiring-process) (3 videos)
+  - AI-driven interview scheduling and coordination
+  - AI for identifying career paths and growth potential
+  - The role of AI in understanding the new workforce model
+- [**3. AI-Driven Interview Process**](#3-ai-driven-interview-process) (3 videos)
+  - AI in screening and initial candidate assessments
+  - Vitual interviews and AI integration
+  - Building rapport and trust in an AI-augmented interview
+- [**4. Selecting the Best Candidate with AI**](#4-selecting-the-best-candidate-with-ai) (3 videos)
+  - AI for objective candidate comparison
+  - AI in predicting candidate success
+  - Balancing AI insights with human judgement
+- [**5. AI in Feedback and Follow-Up**](#5-ai-in-feedback-and-follow-up) (3 videos)
+  - AI-enhanced feedback loops
+  - AI for offer optimization and acceptance
+  - AI in post-hire engagement and retention
 
 ### 0. Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing AI into the hiring process
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/introducing-ai-into-the-hiring-process?u=76281980)
@@ -102,7 +119,7 @@ created: 2026-04-29
 
 ### 1. AI-Enhanced Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Utilizing AI for analyzing past successful hires
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/utilizing-ai-for-analyzing-past-successful-hires?u=76281980)
@@ -312,7 +329,7 @@ created: 2026-04-29
 
 ### 2. AI in the Hiring Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-driven interview scheduling and coordination
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-driven-interview-scheduling-and-coordination?u=76281980)
@@ -503,7 +520,7 @@ created: 2026-04-29
 
 ### 3. AI-Driven Interview Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI in screening and initial candidate assessments
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-in-screening-and-initial-candidate-assessments?u=76281980)
@@ -734,7 +751,7 @@ created: 2026-04-29
 
 ### 4. Selecting the Best Candidate with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI for objective candidate comparison
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-for-objective-candidate-comparison?u=76281980)
@@ -934,7 +951,7 @@ created: 2026-04-29
 
 ### 5. AI in Feedback and Follow-Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-enhanced feedback loops
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-in-the-recruiting-lifecycle/ai-enhanced-feedback-loops?u=76281980)

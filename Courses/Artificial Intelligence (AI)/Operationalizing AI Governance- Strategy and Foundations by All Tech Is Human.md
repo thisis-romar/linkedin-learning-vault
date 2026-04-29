@@ -50,11 +50,13 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Operationalizing AI Governance]]** (2 videos)
+- [**Operationalizing AI Governance**](#operationalizing-ai-governance) (2 videos)
+  - Strategy and foundations
+  - Execution and scaling
 
 ### Operationalizing AI Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategy and foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/operationalizing-ai-governance-strategy-and-foundations-by-all-tech-is-human/strategy-and-foundations?u=76281980)

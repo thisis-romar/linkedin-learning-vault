@@ -55,16 +55,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. The Technology Landscape]]** (5 videos)
-- **[[#2. Use Cases]]** (4 videos)
-- **[[#3. The Top-Down Mandate for Change]]** (4 videos)
-- **[[#4. Tips from the Trenches]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Your digital ops journey
+  - What's changed in the age of generative AI?
+  - My discussion with a CEO
+  - The imperative of the digital-era executive
+- [**1. The Technology Landscape**](#1-the-technology-landscape) (5 videos)
+  - Software is eating the world—of work
+  - The digital operations landscape
+  - Piecing it all together with Legos
+  - Playing with AI Legos
+  - New Legos
+- [**2. Use Cases**](#2-use-cases) (4 videos)
+  - Where is digital ops?
+  - Front-office use cases
+  - Back-office use cases
+  - The whole digital operation
+- [**3. The Top-Down Mandate for Change**](#3-the-top-down-mandate-for-change) (4 videos)
+  - The need for a strong, top-down mandate
+  - Examples of top-down mandates
+  - How to draft your top-down mandate
+  - Examples of successful outcomes
+- [**4. Tips from the Trenches**](#4-tips-from-the-trenches) (6 videos)
+  - Benefits: ROP portfolio
+  - Invest reasonably
+  - The DIY fallacy
+  - Grassroots Innovation
+  - Labor stays, and so do bots
+  - Managing AI expectations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your digital ops journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/your-digital-ops-journey-25743614?u=76281980)
@@ -233,7 +257,7 @@ created: 2026-04-29
 
 ### 1. The Technology Landscape
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Software is eating the world—of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/software-is-eating-the-world-of-work?u=76281980)
@@ -525,7 +549,7 @@ created: 2026-04-29
 
 ### 2. Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where is digital ops?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/where-is-digital-ops?u=76281980)
@@ -736,7 +760,7 @@ created: 2026-04-29
 
 ### 3. The Top-Down Mandate for Change
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for a strong, top-down mandate
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/the-need-for-a-strong-top-down-mandate?u=76281980)
@@ -941,7 +965,7 @@ created: 2026-04-29
 
 ### 4. Tips from the Trenches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits: ROP portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/benefits-rop-portfolio?u=76281980)
@@ -1281,7 +1305,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/rpa-ai-and-cognitive-tech-for-leaders/next-steps?u=76281980)

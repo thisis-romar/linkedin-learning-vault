@@ -46,15 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Asynchronous Patterns]]** (9 videos)
-- **[[#2. Advanced Streams]]** (8 videos)
-- **[[#3. HTTP Streaming]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know
+  - Using the exercise files
+- [**1. Asynchronous Patterns**](#1-asynchronous-patterns) (9 videos)
+  - Callback pattern
+  - Resolving promises
+  - Rejecting promises
+  - The promisify function
+  - Sequential execution
+  - Sequential execution with async/await
+  - Parallel execution
+  - Concurrent tasks
+  - Logging concurrent tasks
+- [**2. Advanced Streams**](#2-advanced-streams) (8 videos)
+  - Why streams?
+  - Readable streams
+  - Using readable streams
+  - Writable streams
+  - Backpressure
+  - Piping streams
+  - Duplex streams
+  - Transform streams
+- [**3. HTTP Streaming**](#3-http-streaming) (4 videos)
+  - Streaming to the browser
+  - Handling range requests
+  - Forking and uploading streams
+  - Parsing multipart/form-data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980)
@@ -200,7 +225,7 @@ created: 2026-04-29
 
 ### 1. Asynchronous Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Callback pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980)
@@ -1328,7 +1353,7 @@ created: 2026-04-29
 
 ### 2. Advanced Streams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why streams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/why-streams?u=76281980)
@@ -2353,7 +2378,7 @@ created: 2026-04-29
 
 ### 3. HTTP Streaming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Streaming to the browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/streaming-to-the-browser?u=76281980)
@@ -3050,7 +3075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980)

@@ -48,16 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. UI Fundamentals]]** (5 videos)
-- **[[#2. UI and Game Design]]** (5 videos)
-- **[[#3. Sprites and 2D]]** (4 videos)
-- **[[#4. 2D and Tiles]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - Companion files
+- [**1. UI Fundamentals**](#1-ui-fundamentals) (5 videos)
+  - 2D projects and user interfaces
+  - Canvas and event systems
+  - Creating a background and panel
+  - Creating labels and text
+  - Canvas groups
+- [**2. UI and Game Design**](#2-ui-and-game-design) (5 videos)
+  - Configuring sprite images
+  - Creating buttons
+  - Button states
+  - Handling button clicks
+  - Layouts
+- [**3. Sprites and 2D**](#3-sprites-and-2d) (4 videos)
+  - Exploring 2D games
+  - Importing sprites and sprite sheets
+  - Creating sprite animations
+  - Sprites and 2D physics
+- [**4. 2D and Tiles**](#4-2d-and-tiles) (4 videos)
+  - Importing and creating tilesets
+  - Configuring 2D worlds
+  - Painting level layouts
+  - Working with 2D tiles
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/welcome?u=76281980)
@@ -114,7 +135,7 @@ created: 2026-04-29
 
 ### 1. UI Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### 2D projects and user interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980)
@@ -691,7 +712,7 @@ created: 2026-04-29
 
 ### 2. UI and Game Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring sprite images
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/configuring-sprite-images?u=76281980)
@@ -1248,7 +1269,7 @@ created: 2026-04-29
 
 ### 3. Sprites and 2D
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring 2D games
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980)
@@ -1760,7 +1781,7 @@ created: 2026-04-29
 
 ### 4. 2D and Tiles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing and creating tilesets
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-and-creating-tilesets?u=76281980)
@@ -2226,7 +2247,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/next-steps?u=76281980)

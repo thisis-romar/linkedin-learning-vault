@@ -59,20 +59,69 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to the Data Professions]]** (4 videos)
-- **[[#2. Data Preparation Basics]]** (7 videos)
-- **[[#3. Data Visualization 101]]** (4 videos)
-- **[[#4. Practical Data Visualization]]** (7 videos)
-- **[[#5. Exploratory Data Analysis]]** (7 videos)
-- **[[#6. Getting Started with Machine Learning]]** (3 videos)
-- **[[#7. Data Sourcing via Web Scraping]]** (7 videos)
-- **[[#8. Collaborative Analytics with Streamlit]]** (6 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Data science life hacks
+  - How to use Codespaces with this course
+- [**1. Introduction to the Data Professions**](#1-introduction-to-the-data-professions) (4 videos)
+  - Introduction to the data professions
+  - Data science careers: Identifying where and how you'll thrive
+  - Why to use Python for analytics
+  - High-level course road map
+- [**2. Data Preparation Basics**](#2-data-preparation-basics) (7 videos)
+  - Intro to data preparation
+  - Numpy and pandas basics
+  - Filtering and selecting
+  - Treating missing values
+  - Removing duplicates
+  - Concatenating and transforming
+  - Grouping and aggregation
+- [**3. Data Visualization 101**](#3-data-visualization-101) (4 videos)
+  - Importance of visualization in data science
+  - The three types of data visualization
+  - Selecting optimal data graphics
+  - Communicating with color and context
+- [**4. Practical Data Visualization**](#4-practical-data-visualization) (7 videos)
+  - Introduction to the matplotlib and Seaborn libraries
+  - Creating standard data graphics
+  - Defining elements of a plot
+  - Plot formatting
+  - Creating labels and annotations
+  - Visualizing time series
+  - Creating statistical data graphics in Seaborn
+- [**5. Exploratory Data Analysis**](#5-exploratory-data-analysis) (7 videos)
+  - Simple arithmetic
+  - Generating summary statistics
+  - Summarizing categorical data
+  - Pearson correlation analysis
+  - Spearman rank correlation and Chi-square
+  - Extreme value analysis for outliers
+  - Multivariate analysis for outliers
+- [**6. Getting Started with Machine Learning**](#6-getting-started-with-machine-learning) (3 videos)
+  - Cleaning and treating categorical variables
+  - Transforming data set distributions
+  - Applied machine learning: Starter problem
+- [**7. Data Sourcing via Web Scraping**](#7-data-sourcing-via-web-scraping) (7 videos)
+  - Introduction of web scraping
+  - Python requests for automating data collection
+  - BeautifulSoup object
+  - NavigableString objects
+  - Data parsing
+  - Web scraping in practice
+  - Asynchronous scraping
+- [**8. Collaborative Analytics with Streamlit**](#8-collaborative-analytics-with-streamlit) (6 videos)
+  - Introduction to Streamlit
+  - Environment setup
+  - Create basic charts
+  - Line charts in Streamlit
+  - Bar charts and pie charts in Streamlit
+  - Create statistical charts
+- [**Conclusion**](#conclusion) (2 videos)
+  - Portfolio and career readiness
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science life hacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980)
@@ -159,7 +208,7 @@ created: 2026-04-29
 
 ### 1. Introduction to the Data Professions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the data professions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980)
@@ -579,7 +628,7 @@ created: 2026-04-29
 
 ### 2. Data Preparation Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to data preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980)
@@ -1688,7 +1737,7 @@ created: 2026-04-29
 
 ### 3. Data Visualization 101
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of visualization in data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980)
@@ -2142,7 +2191,7 @@ created: 2026-04-29
 
 ### 4. Practical Data Visualization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the matplotlib and Seaborn libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980)
@@ -3792,7 +3841,7 @@ created: 2026-04-29
 
 ### 5. Exploratory Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple arithmetic
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/simple-arithmetic?u=76281980)
@@ -5359,7 +5408,7 @@ created: 2026-04-29
 
 ### 6. Getting Started with Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cleaning and treating categorical variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980)
@@ -5842,7 +5891,7 @@ created: 2026-04-29
 
 ### 7. Data Sourcing via Web Scraping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction of web scraping
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980)
@@ -7584,7 +7633,7 @@ created: 2026-04-29
 
 ### 8. Collaborative Analytics with Streamlit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Streamlit
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980)
@@ -8462,7 +8511,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Portfolio and career readiness
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980)

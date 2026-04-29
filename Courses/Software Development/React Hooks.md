@@ -47,18 +47,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Intro to React Hooks]]** (2 videos)
-- **[[#2. The useState Hook]]** (7 videos)
-- **[[#3. The useEffect Hook]]** (4 videos)
-- **[[#4. Additional Hooks]]** (6 videos)
-- **[[#5. Creating Custom Hooks]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
-- **[[#Appendix]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Understanding modern React
+- [**1. Intro to React Hooks**](#1-intro-to-react-hooks) (2 videos)
+  - Installing Create React App
+  - Reviewing the project
+- [**2. The useState Hook**](#2-the-usestate-hook) (7 videos)
+  - Reviewing Array and Object destructuring
+  - Incorporating the useState Hook
+  - Building a checkbox with useState
+  - Working with component trees
+  - Sending interactions up component trees
+  - How to use CoderPad
+  - Solution: Building an interactive to-do list
+- [**3. The useEffect Hook**](#3-the-useeffect-hook) (4 videos)
+  - Introducing useEffect
+  - Working with the dependency array
+  - Fetching data with useEffect
+  - Solution: Working with timers
+- [**4. Additional Hooks**](#4-additional-hooks) (6 videos)
+  - Handling complex state with useReducer
+  - Refactoring useState to useReducer
+  - Dispatching actions with useReducer
+  - Managing form inputs with useRef
+  - Creating controlled components with useState
+  - Solution: Building a counter
+- [**5. Creating Custom Hooks**](#5-creating-custom-hooks) (7 videos)
+  - Reusing form logic with custom Hooks
+  - Placing data in context
+  - Retrieving data with useContext
+  - Creating a custom Hook with context
+  - Data fetching with a Fetch Hook
+  - Building a fetch component
+  - Solution: Creating a user settings hook
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
+- [**Appendix**](#appendix) (1 videos)
+  - React Hooks history
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding modern React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/understanding-modern-react-25372915?u=76281980)
@@ -82,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Intro to React Hooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Create React App
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/installing-create-react-app?u=76281980)
@@ -222,7 +251,7 @@ created: 2026-04-29
 
 ### 2. The useState Hook
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing Array and Object destructuring
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/reviewing-array-and-object-destructuring?u=76281980)
@@ -804,7 +833,7 @@ created: 2026-04-29
 
 ### 3. The useEffect Hook
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing useEffect
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/introducing-useeffect?u=76281980)
@@ -1181,7 +1210,7 @@ created: 2026-04-29
 
 ### 4. Additional Hooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling complex state with useReducer
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/handling-complex-state-with-usereducer?u=76281980)
@@ -1663,7 +1692,7 @@ created: 2026-04-29
 
 ### 5. Creating Custom Hooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reusing form logic with custom Hooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/reusing-form-logic-with-custom-hooks?u=76281980)
@@ -2287,7 +2316,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/next-steps?u=76281980)
@@ -2318,7 +2347,7 @@ created: 2026-04-29
 
 ### Appendix
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### React Hooks history
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-hooks/react-hooks-history?u=76281980)

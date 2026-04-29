@@ -47,15 +47,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Thinking Outside of your Organization]]** (5 videos)
-- **[[#2. Five Stages of Digital Maturity]]** (3 videos)
-- **[[#3. Putting the Model into Action: The Development of Capability Teams]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - How to assess digital maturity
+  - Digital transformation and digital maturity
+- [**1. Thinking Outside of your Organization**](#1-thinking-outside-of-your-organization) (5 videos)
+  - Speed is the new currency of business
+  - The new sources of competitive advantage in the digital world
+  - Innovation labs
+  - One speed business
+  - The importance of developing ecosystems
+- [**2. Five Stages of Digital Maturity**](#2-five-stages-of-digital-maturity) (3 videos)
+  - Five stages of digital maturity
+  - Provide strategic clarity, focus, and alignment
+  - Serve the customer where they wish, how they wish
+- [**3. Putting the Model into Action: The Development of Capability Teams**](#3-putting-the-model-into-action-the-development-of-capability-teams) (2 videos)
+  - Capability teams defined
+  - Evolution of capability teams
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to assess digital maturity
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/how-to-assess-digital-maturity?u=76281980)
@@ -189,7 +202,7 @@ created: 2026-04-29
 
 ### 1. Thinking Outside of your Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Speed is the new currency of business
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/speed-is-the-new-currency-of-business?u=76281980)
@@ -547,7 +560,7 @@ created: 2026-04-29
 
 ### 2. Five Stages of Digital Maturity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Five stages of digital maturity
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/five-stages-of-digital-maturity?u=76281980)
@@ -791,7 +804,7 @@ created: 2026-04-29
 
 ### 3. Putting the Model into Action: The Development of Capability Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Capability teams defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/capability-teams-defined?u=76281980)
@@ -928,7 +941,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/assessing-digital-maturity/next-steps?u=76281980)

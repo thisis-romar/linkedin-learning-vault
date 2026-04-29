@@ -54,15 +54,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Security at Work]]** (2 videos)
-- **[[#2. Security in the Home]]** (2 videos)
-- **[[#3. Security While Traveling]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Cloud security basics
+  - Defining cloud security terms
+  - Understanding the top five attacks in the cloud
+  - Protecting your privacy in the cloud
+- [**1. Security at Work**](#1-security-at-work) (2 videos)
+  - Avoiding security misconfigurations
+  - Choosing a cloud provider
+- [**2. Security in the Home**](#2-security-in-the-home) (2 videos)
+  - Securing your smart home (IoT) devices
+  - Protecting devices on your home network
+- [**3. Security While Traveling**](#3-security-while-traveling) (2 videos)
+  - Understanding public Wi-Fi and hotspots
+  - Protecting your mobile devices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Bringing it all together
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud security basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/cloud-security-basics?u=76281980)
@@ -361,7 +372,7 @@ created: 2026-04-29
 
 ### 1. Security at Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding security misconfigurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/avoiding-security-misconfigurations?u=76281980)
@@ -543,7 +554,7 @@ created: 2026-04-29
 
 ### 2. Security in the Home
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your smart home (IoT) devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/securing-your-smart-home-iot-devices?u=76281980)
@@ -731,7 +742,7 @@ created: 2026-04-29
 
 ### 3. Security While Traveling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding public Wi-Fi and hotspots
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/understanding-public-wi-fi-and-hotspots?u=76281980)
@@ -914,7 +925,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bringing it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022/bringing-it-all-together?u=76281980)

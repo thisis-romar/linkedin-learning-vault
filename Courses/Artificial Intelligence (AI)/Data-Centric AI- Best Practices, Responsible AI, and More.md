@@ -53,22 +53,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Data-Centric AI?]]** (3 videos)
-- **[[#2. Why Is Data-Centric AI Important?]]** (3 videos)
-- **[[#3. Workflow of Data-Centric AI]]** (3 videos)
-- **[[#4. MLOps: Introduction and Importance]]** (2 videos)
-- **[[#5. Building Optimized MLOps with Data-Centric AI]]** (4 videos)
-- **[[#6. Data-Centric AI in Action]]** (3 videos)
-- **[[#7. Explainability and Interpretability]]** (3 videos)
-- **[[#8. Bias Detection and Mitigation]]** (3 videos)
-- **[[#9. Data Drift and Model Drift]]** (2 videos)
-- **[[#10. Responsible AI]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - A different approach to AI
+  - Overview of the course objectives and agenda
+- [**1. What Is Data-Centric AI?**](#1-what-is-data-centric-ai) (3 videos)
+  - Introduction to data-centric AI
+  - Understanding the role of data in AI and machine learning
+  - Data quality and reliability in AI applications
+- [**2. Why Is Data-Centric AI Important?**](#2-why-is-data-centric-ai-important) (3 videos)
+  - Significance of data-centric AI in real-world scenarios
+  - Benefits of adopting a data-centric approach in AI projects
+  - Case studies highlighting the impact of data-centric AI
+- [**3. Workflow of Data-Centric AI**](#3-workflow-of-data-centric-ai) (3 videos)
+  - End-to-end workflow of data-centric AI
+  - Deep dive into data-centric AI components
+  - Iterative nature of the workflow for ML applications
+- [**4. MLOps: Introduction and Importance**](#4-mlops-introduction-and-importance) (2 videos)
+  - Purpose of MLOps (Machine Learning Operations)
+  - Challenges faced in deploying and maintaining ML models
+- [**5. Building Optimized MLOps with Data-Centric AI**](#5-building-optimized-mlops-with-data-centric-ai) (4 videos)
+  - Adding data-centric AI principles into the MLOps workflow
+  - Data personas in MLOps workflow
+  - Optimizing the MLOps process: Development
+  - Optimizing the MLOps process: Productionalizing
+- [**6. Data-Centric AI in Action**](#6-data-centric-ai-in-action) (3 videos)
+  - Data validation, train-test validation, and model validation
+  - Best practices
+  - Code example: Exploration
+- [**7. Explainability and Interpretability**](#7-explainability-and-interpretability) (3 videos)
+  - Importance of model explainability and interpretability
+  - Techniques for understanding and interpreting ML models
+  - Code example: Model validation
+- [**8. Bias Detection and Mitigation**](#8-bias-detection-and-mitigation) (3 videos)
+  - Discussion on the challenges of bias in AI systems
+  - Detecting and mitigating bias in data-centric AI projects
+  - Code example: Bias detection and mitigation
+- [**9. Data Drift and Model Drift**](#9-data-drift-and-model-drift) (2 videos)
+  - Monitoring and maintaining ML models in production
+  - Understanding data drift and model drift
+- [**10. Responsible AI**](#10-responsible-ai) (2 videos)
+  - Introduction to ethical considerations in AI
+  - Principles for responsible AI development and deployment
+- [**Conclusion**](#conclusion) (1 videos)
+  - Closing remarks and next steps for further learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A different approach to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/a-different-approach-to-ai?u=76281980)
@@ -123,7 +154,7 @@ created: 2026-04-29
 
 ### 1. What Is Data-Centric AI?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data-centric AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-data-centric-ai?u=76281980)
@@ -368,7 +399,7 @@ created: 2026-04-29
 
 ### 2. Why Is Data-Centric AI Important?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Significance of data-centric AI in real-world scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/significance-of-data-centric-ai-in-real-world-scenarios?u=76281980)
@@ -631,7 +662,7 @@ created: 2026-04-29
 
 ### 3. Workflow of Data-Centric AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### End-to-end workflow of data-centric AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/end-to-end-workflow-of-data-centric-ai?u=76281980)
@@ -845,7 +876,7 @@ created: 2026-04-29
 
 ### 4. MLOps: Introduction and Importance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose of MLOps (Machine Learning Operations)
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/purpose-of-mlops-machine-learning-operations?u=76281980)
@@ -1057,7 +1088,7 @@ created: 2026-04-29
 
 ### 5. Building Optimized MLOps with Data-Centric AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding data-centric AI principles into the MLOps workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/adding-data-centric-ai-principles-into-the-mlops-workflow?u=76281980)
@@ -1520,7 +1551,7 @@ created: 2026-04-29
 
 ### 6. Data-Centric AI in Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data validation, train-test validation, and model validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/data-validation-train-test-validation-and-model-validation?u=76281980)
@@ -2067,7 +2098,7 @@ created: 2026-04-29
 
 ### 7. Explainability and Interpretability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of model explainability and interpretability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/importance-of-model-explainability-and-interpretability?u=76281980)
@@ -2270,7 +2301,7 @@ created: 2026-04-29
 
 ### 8. Bias Detection and Mitigation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discussion on the challenges of bias in AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/discussion-on-the-challenges-of-bias-in-ai-systems?u=76281980)
@@ -2522,7 +2553,7 @@ created: 2026-04-29
 
 ### 9. Data Drift and Model Drift
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring and maintaining ML models in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/monitoring-and-maintaining-ml-models-in-production?u=76281980)
@@ -2842,7 +2873,7 @@ created: 2026-04-29
 
 ### 10. Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ethical considerations in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/introduction-to-ethical-considerations-in-ai?u=76281980)
@@ -3056,7 +3087,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Closing remarks and next steps for further learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-centric-ai-best-practices-responsible-ai-and-more/closing-remarks-and-next-steps-for-further-learning?u=76281980)

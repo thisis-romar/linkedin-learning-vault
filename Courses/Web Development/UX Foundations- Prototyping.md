@@ -39,16 +39,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Prototyping Basics]]** (3 videos)
-- **[[#2. Prototyping Fidelity]]** (5 videos)
-- **[[#3. Paper Prototyping]]** (1 videos)
-- **[[#4. Prototyping with Figma]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Prototyping for user experience
+- [**1. Prototyping Basics**](#1-prototyping-basics) (3 videos)
+  - What is UX prototyping?
+  - Why do we prototype?
+  - Avoid costly mistakes with prototyping
+- [**2. Prototyping Fidelity**](#2-prototyping-fidelity) (5 videos)
+  - Prototyping and the design process
+  - Master design fidelity in prototyping
+  - Explore your design ideas through low-fidelity prototyping
+  - Medium- and high-fidelity prototyping for flexibility
+  - Testing your prototype and avoiding confirmation bias
+- [**3. Paper Prototyping**](#3-paper-prototyping) (1 videos)
+  - Paper prototyping for simple explorations
+- [**4. Prototyping with Figma**](#4-prototyping-with-figma) (4 videos)
+  - Basic prototyping with Figma
+  - Connecting screens and interactions in Figma prototypes
+  - Scrolling and overlay interactions in Figma prototypes
+  - Interactive components in Figma prototyping
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your prototyping journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototyping for user experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-for-user-experience?u=76281980)
@@ -79,7 +94,7 @@ created: 2026-04-29
 
 ### 1. Prototyping Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is UX prototyping?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/what-is-ux-prototyping?u=76281980)
@@ -238,7 +253,7 @@ created: 2026-04-29
 
 ### 2. Prototyping Fidelity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototyping and the design process
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/prototyping-and-the-design-process?u=76281980)
@@ -566,7 +581,7 @@ created: 2026-04-29
 
 ### 3. Paper Prototyping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Paper prototyping for simple explorations
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/paper-prototyping-for-simple-explorations?u=76281980)
@@ -624,7 +639,7 @@ created: 2026-04-29
 
 ### 4. Prototyping with Figma
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic prototyping with Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/basic-prototyping-with-figma?u=76281980)
@@ -990,7 +1005,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your prototyping journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-prototyping-23479952/continue-your-prototyping-journey?u=76281980)

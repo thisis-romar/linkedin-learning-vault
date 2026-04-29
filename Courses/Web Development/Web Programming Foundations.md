@@ -48,16 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Deconstructing the Web]]** (6 videos)
-- **[[#2. The Duality of Web Programming]]** (4 videos)
-- **[[#3. Which Came First: The Browser or the Editor?]]** (3 videos)
-- **[[#4. The Parts That Make up the Web]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome
+- [**1. Deconstructing the Web**](#1-deconstructing-the-web) (6 videos)
+  - From URL to website
+  - The web, in a browser
+  - The structure of a web document visualized
+  - The node tree: How the browser sees a web document
+  - HTML: The source code of the web
+  - The web document is a document with superpowers
+- [**2. The Duality of Web Programming**](#2-the-duality-of-web-programming) (4 videos)
+  - The dual purpose of web code
+  - Content and structure
+  - Metadata and purpose
+  - Accessibility
+- [**3. Which Came First: The Browser or the Editor?**](#3-which-came-first-the-browser-or-the-editor) (3 videos)
+  - The web browser of today and of tomorrow
+  - What is a code editor?
+  - Developer tools
+- [**4. The Parts That Make up the Web**](#4-the-parts-that-make-up-the-web) (6 videos)
+  - HTML
+  - CSS
+  - JavaScript
+  - The Document Object Model (DOM)
+  - Events
+  - Putting it all together
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=76281980)
@@ -114,7 +135,7 @@ created: 2026-04-29
 
 ### 1. Deconstructing the Web
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From URL to website
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/from-url-to-website?u=76281980)
@@ -383,7 +404,7 @@ created: 2026-04-29
 
 ### 2. The Duality of Web Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The dual purpose of web code
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-dual-purpose-of-web-code?u=76281980)
@@ -596,7 +617,7 @@ created: 2026-04-29
 
 ### 3. Which Came First: The Browser or the Editor?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The web browser of today and of tomorrow
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/the-web-browser-of-today-and-of-tomorrow?u=76281980)
@@ -854,7 +875,7 @@ created: 2026-04-29
 
 ### 4. The Parts That Make up the Web
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/html?u=76281980)
@@ -1162,7 +1183,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-programming-foundations/next-steps?u=76281980)

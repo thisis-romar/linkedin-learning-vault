@@ -46,15 +46,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Impact of Cyberattacks]]** (2 videos)
-- **[[#2. The Cyberattack Crisis Communications Phases]]** (4 videos)
-- **[[#3. Evaluate and Train]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Anyone can suffer a ransomware or other cyberattack
+- [**1. The Impact of Cyberattacks**](#1-the-impact-of-cyberattacks) (2 videos)
+  - Why cyberattacks impact every organization
+  - Determining who is on your team when a cyberattack occurs
+- [**2. The Cyberattack Crisis Communications Phases**](#2-the-cyberattack-crisis-communications-phases) (4 videos)
+  - What to say and to whom at onset
+  - Prepare your team to address a crisis
+  - Practice to improve crisis communications
+  - What to tell people after the attack
+- [**3. Evaluate and Train**](#3-evaluate-and-train) (2 videos)
+  - Continue to evaluate after a training
+  - Design crisis scenario-based training for higher retention
+- [**Conclusion**](#conclusion) (1 videos)
+  - You can do this
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Anyone can suffer a ransomware or other cyberattack
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/anyone-can-suffer-a-ransomware-or-other-cyberattack?u=76281980)
@@ -98,7 +108,7 @@ created: 2026-04-29
 
 ### 1. The Impact of Cyberattacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why cyberattacks impact every organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/why-cyberattacks-impact-every-organization-25557209?u=76281980)
@@ -263,7 +273,7 @@ created: 2026-04-29
 
 ### 2. The Cyberattack Crisis Communications Phases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What to say and to whom at onset
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/what-to-say-and-to-whom-at-onset-25555325?u=76281980)
@@ -581,7 +591,7 @@ created: 2026-04-29
 
 ### 3. Evaluate and Train
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue to evaluate after a training
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/continue-to-evaluate-after-a-training?u=76281980)
@@ -737,7 +747,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### You can do this
 > [LinkedIn Learning](https://www.linkedin.com/learning/crisis-communication-planning-after-a-ransomware-or-other-cybersecurity-attack/you-can-do-this?u=76281980)

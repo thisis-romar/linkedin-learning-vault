@@ -50,19 +50,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Defining Necessary VBA Constructs]]** (5 videos)
-- **[[#2. Developing Process Control Structures]]** (8 videos)
-- **[[#3. Adding a Ticker to Track Time]]** (5 videos)
-- **[[#4. Adding Customers during the Simulation]]** (5 videos)
-- **[[#5. Modifying the Simulation]]** (7 videos)
-- **[[#6. Allowing Conditional Processing]]** (6 videos)
-- **[[#7. Analyzing Simulation Results]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Analyze your business processes using Excel VBA
+  - Gain insight into your business through simulation
+- [**1. Defining Necessary VBA Constructs**](#1-defining-necessary-vba-constructs) (5 videos)
+  - Create a class module
+  - Define class properties
+  - Create an instance of a class
+  - Create collections
+  - Delete objects to free up memory
+- [**2. Developing Process Control Structures**](#2-developing-process-control-structures) (8 videos)
+  - Describe process flow and programming goals
+  - Declare variables used in the simulation
+  - Define the Customers class and add a customer
+  - Define the Stations class and add stations
+  - Add code to calculate and write out times
+  - Delete unneeded objects
+  - Run the simulation
+  - Adapt the code for multiple runs
+- [**3. Adding a Ticker to Track Time**](#3-adding-a-ticker-to-track-time) (5 videos)
+  - Define process flow and programming goals
+  - Create an outline of IF and For Next statements
+  - Add instructions within the framework
+  - Add code to write out simulation results
+  - Run the simulation
+- [**4. Adding Customers during the Simulation**](#4-adding-customers-during-the-simulation) (5 videos)
+  - Describe process flow and programming goals
+  - Use the Poisson distribution to calculate arrival times
+  - Add customers to the simulation
+  - Add code to write out simulation results
+  - Run the simulation
+- [**5. Modifying the Simulation**](#5-modifying-the-simulation) (7 videos)
+  - Describe process flow and programming goals
+  - Add capacity to each station
+  - Run the simulation with added station capacity
+  - Add more stations to the simulation
+  - Run the simulation with additional stations
+  - Add rework loops to stations
+  - Run the simulation with rework loops
+- [**6. Allowing Conditional Processing**](#6-allowing-conditional-processing) (6 videos)
+  - Describe process flow and programming goals
+  - Allow conditional station paths
+  - Run the simulation
+  - Allow other employees to help the process
+  - Run the simulation with helpers
+  - Add time for customers to complete the process
+- [**7. Analyzing Simulation Results**](#7-analyzing-simulation-results) (5 videos)
+  - Read the simulation results as written
+  - Manually reset the results cells
+  - Summarize results using the Total row
+  - Sort and filter Excel table values
+  - Troubleshoot errors in your code
+- [**Conclusion**](#conclusion) (1 videos)
+  - Further resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze your business processes using Excel VBA
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/analyze-your-business-processes-using-excel-vba?u=76281980)
@@ -185,7 +229,7 @@ created: 2026-04-29
 
 ### 1. Defining Necessary VBA Constructs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a class module
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/create-a-class-module?u=76281980)
@@ -557,7 +601,7 @@ created: 2026-04-29
 
 ### 2. Developing Process Control Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe process flow and programming goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123394?u=76281980)
@@ -1207,7 +1251,7 @@ created: 2026-04-29
 
 ### 3. Adding a Ticker to Track Time
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define process flow and programming goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/define-process-flow-and-programming-goals?u=76281980)
@@ -1699,7 +1743,7 @@ created: 2026-04-29
 
 ### 4. Adding Customers during the Simulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe process flow and programming goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25122472?u=76281980)
@@ -2188,7 +2232,7 @@ created: 2026-04-29
 
 ### 5. Modifying the Simulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe process flow and programming goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals-25123393?u=76281980)
@@ -2812,7 +2856,7 @@ created: 2026-04-29
 
 ### 6. Allowing Conditional Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe process flow and programming goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/describe-process-flow-and-programming-goals?u=76281980)
@@ -3437,7 +3481,7 @@ created: 2026-04-29
 
 ### 7. Analyzing Simulation Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Read the simulation results as written
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/read-the-simulation-results-as-written?u=76281980)
@@ -3831,7 +3875,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-process-modeling-25158426/further-resources?u=76281980)

@@ -46,19 +46,62 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up Your Development Environment]]** (4 videos)
-- **[[#2. Firebase Authentication]]** (9 videos)
-- **[[#3. Storing and Syncing Data with Firebase Cloud Firestore]]** (7 videos)
-- **[[#4. Storing Files with Firebase Cloud Storage]]** (7 videos)
-- **[[#5. Control Access with Custom Claims and Security Rules]]** (7 videos)
-- **[[#6. Going Serverless with Firebase Cloud Functions]]** (3 videos)
-- **[[#7. Hosting with Firebase]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Structuring your apps for the cloud
+  - What you should know
+  - Using the exercise files
+- [**1. Setting Up Your Development Environment**](#1-setting-up-your-development-environment) (4 videos)
+  - Installing tools and CLIs
+  - Generating a new React application
+  - Overview of the Firebase console
+  - Configuring your web application
+- [**2. Firebase Authentication**](#2-firebase-authentication) (9 videos)
+  - Firebase Authentication setup
+  - Creating users
+  - Displaying current user
+  - Redirect user upon signup
+  - User logout
+  - User login
+  - Authenticated user redirect
+  - Challenge: Authentication redirect
+  - Solution: Authentication redirect
+- [**3. Storing and Syncing Data with Firebase Cloud Firestore**](#3-storing-and-syncing-data-with-firebase-cloud-firestore) (7 videos)
+  - Cloud Firestore intro
+  - Cloud Firestore setup
+  - Deploying security rules for Cloud Firestore
+  - Creating documents
+  - Displaying user document
+  - Updating user documents, part 1
+  - Updating user documents, part 2
+- [**4. Storing Files with Firebase Cloud Storage**](#4-storing-files-with-firebase-cloud-storage) (7 videos)
+  - Cloud Storage setup
+  - Cloud Storage security rules
+  - Profile image upload form
+  - File upload trigger
+  - Cloud Storage file upload
+  - Challenge: Monitor upload progress
+  - Solution: Upload progress
+- [**5. Control Access with Custom Claims and Security Rules**](#5-control-access-with-custom-claims-and-security-rules) (7 videos)
+  - Firebase ID tokens
+  - Setting Firebase custom claims
+  - Admin interface: Users page
+  - Admin interface: Read user collection
+  - Admin interface: Render user collection
+  - Challenge: View user profile with admin
+  - Solution: View user profile with admin
+- [**6. Going Serverless with Firebase Cloud Functions**](#6-going-serverless-with-firebase-cloud-functions) (3 videos)
+  - Cloud Functions setup
+  - Cloud Functions: Email setup
+  - Cloud Functions: Authentication trigger
+- [**7. Hosting with Firebase**](#7-hosting-with-firebase) (2 videos)
+  - Firebase Hosting setup
+  - Deploying your React app
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring your apps for the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980)
@@ -198,7 +241,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Development Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing tools and CLIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980)
@@ -480,7 +523,7 @@ created: 2026-04-29
 
 ### 2. Firebase Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase Authentication setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980)
@@ -1345,7 +1388,7 @@ created: 2026-04-29
 
 ### 3. Storing and Syncing Data with Firebase Cloud Firestore
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Firestore intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980)
@@ -1840,7 +1883,7 @@ created: 2026-04-29
 
 ### 4. Storing Files with Firebase Cloud Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Storage setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980)
@@ -2307,7 +2350,7 @@ created: 2026-04-29
 
 ### 5. Control Access with Custom Claims and Security Rules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase ID tokens
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980)
@@ -2898,7 +2941,7 @@ created: 2026-04-29
 
 ### 6. Going Serverless with Firebase Cloud Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Functions setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980)
@@ -3100,7 +3143,7 @@ created: 2026-04-29
 
 ### 7. Hosting with Firebase
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Firebase Hosting setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980)
@@ -3188,7 +3231,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980)

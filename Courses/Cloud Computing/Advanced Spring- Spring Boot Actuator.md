@@ -52,16 +52,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Intro to Spring Boot Actuator]]** (6 videos)
-- **[[#2. Creating and Securing Actuator Endpoints]]** (3 videos)
-- **[[#3. Metrics and Prometheus]]** (7 videos)
-- **[[#4. Grafana Dashboards]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Need to monitor the performance of your applications?
+  - What you should know
+- [**1. Intro to Spring Boot Actuator**](#1-intro-to-spring-boot-actuator) (6 videos)
+  - Introduction to Spring Boot Actuator
+  - Actuator endpoints and documentation
+  - Exposing and enabling endpoints
+  - Show details and create health endpoint groups
+  - Show application information with the info endpoint
+  - Overriding the Actuator base path
+- [**2. Creating and Securing Actuator Endpoints**](#2-creating-and-securing-actuator-endpoints) (3 videos)
+  - Implementing the Health Indicator interface
+  - Creating a custom Actuator endpoint
+  - How to secure Actuator endpoints with Spring Security
+- [**3. Metrics and Prometheus**](#3-metrics-and-prometheus) (7 videos)
+  - Spring Boot Actuator metrics and Prometheus
+  - Micrometer Prometheus registry
+  - Prometheus configuration
+  - Installing and running a Prometheus Docker image
+  - Take the Prometheus UI for a spin
+  - Adding custom metrics
+  - Viewing custom metrics from the Prometheus UI
+- [**4. Grafana Dashboards**](#4-grafana-dashboards) (3 videos)
+  - Installing and running a Grafana Docker image
+  - Import metrics data from Prometheus to Grafana
+  - Creating dashboards with Grafana
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Need to monitor the performance of your applications?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/need-to-monitor-the-performance-of-your-applications?u=76281980)
@@ -113,7 +135,7 @@ created: 2026-04-29
 
 ### 1. Intro to Spring Boot Actuator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring Boot Actuator
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/introduction-to-spring-boot-actuator?u=76281980)
@@ -709,7 +731,7 @@ created: 2026-04-29
 
 ### 2. Creating and Securing Actuator Endpoints
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing the Health Indicator interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/implementing-the-health-indicator-interface?u=76281980)
@@ -1142,7 +1164,7 @@ created: 2026-04-29
 
 ### 3. Metrics and Prometheus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spring Boot Actuator metrics and Prometheus
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/spring-boot-actuator-metrics-and-prometheus?u=76281980)
@@ -1620,7 +1642,7 @@ created: 2026-04-29
 
 ### 4. Grafana Dashboards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing and running a Grafana Docker image
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/installing-and-running-a-grafana-docker-image?u=76281980)
@@ -1895,7 +1917,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator/next-steps?u=76281980)

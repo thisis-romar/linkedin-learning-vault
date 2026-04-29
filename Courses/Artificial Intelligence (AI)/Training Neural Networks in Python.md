@@ -54,17 +54,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Choosing a Neural Network]]** (6 videos)
-- **[[#2. The Building Blocks of Neural Networks]]** (9 videos)
-- **[[#3. Building Your Network]]** (4 videos)
-- **[[#4. Training Your Network]]** (8 videos)
-- **[[#5. Let's Make a Segment Display Classifier]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Creating a neural network in Python
+  - What you should know
+  - Using GitHub Codespaces with this course
+- [**1. Choosing a Neural Network**](#1-choosing-a-neural-network) (6 videos)
+  - What is a neural network?
+  - Why Python
+  - The many applications of machine learning
+  - Types of classifiers
+  - Types of neural networks
+  - Multilayer perceptrons
+- [**2. The Building Blocks of Neural Networks**](#2-the-building-blocks-of-neural-networks) (9 videos)
+  - Neurons and the brain
+  - A simple model of a neuron
+  - Activation functions
+  - Perceptrons: A better model of a neuron
+  - Challenge: Finish the perceptron
+  - Solution: Finish the perceptron
+  - Logic gates
+  - Challenge: Logic gates with perceptrons
+  - Solution: Logic gates with perceptrons
+- [**3. Building Your Network**](#3-building-your-network) (4 videos)
+  - Linear separability
+  - Writing the multilayer perceptron class
+  - Challenge: Finish the multilayer perceptron class
+  - Solution: Finish the multilayer perceptron class
+- [**4. Training Your Network**](#4-training-your-network) (8 videos)
+  - The need for training
+  - The training process
+  - The error function
+  - Gradient descent
+  - The Delta rule
+  - The Backpropagation algorithm
+  - Challenge: Write your own Backpropagation method
+  - Solution: Write your own Backpropagation method
+- [**5. Let's Make a Segment Display Classifier**](#5-lets-make-a-segment-display-classifier) (8 videos)
+  - Segment display recognition
+  - Challenge: Design your own SDR neural network
+  - Solution: Design your own SDR neural network
+  - Challenge: Train your own SDR neural network
+  - Solution: Train your own SDR neural network
+  - 7 to 1 network GUI demo
+  - 7 to 10 network GUI demo
+  - 7 to 7 network GUI demo
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a neural network in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980)
@@ -274,7 +313,7 @@ created: 2026-04-29
 
 ### 1. Choosing a Neural Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a neural network?
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980)
@@ -616,7 +655,7 @@ created: 2026-04-29
 
 ### 2. The Building Blocks of Neural Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Neurons and the brain
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980)
@@ -1271,7 +1310,7 @@ created: 2026-04-29
 
 ### 3. Building Your Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear separability
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/linear-separability?u=76281980)
@@ -1556,7 +1595,7 @@ created: 2026-04-29
 
 ### 4. Training Your Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for training
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-need-for-training?u=76281980)
@@ -2379,7 +2418,7 @@ created: 2026-04-29
 
 ### 5. Let's Make a Segment Display Classifier
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Segment display recognition
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980)
@@ -3052,7 +3091,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980)

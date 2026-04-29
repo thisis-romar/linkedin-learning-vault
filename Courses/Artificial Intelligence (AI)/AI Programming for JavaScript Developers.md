@@ -53,17 +53,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Creating the App]]** (5 videos)
-- **[[#2. Working with Prompts]]** (8 videos)
-- **[[#3. Incorporating APIs]]** (6 videos)
-- **[[#4. Customizing the Assistants API]]** (5 videos)
-- **[[#5. Utilizing LangChain Features]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn to build AI-enhanced applications
+  - Understanding AI in the JavaScript ecosystem
+  - What you should know
+- [**1. Creating the App**](#1-creating-the-app) (5 videos)
+  - Installing OpenAI with npm
+  - Generating an API key
+  - Choosing and setting a language model
+  - How to use CoderPad
+  - Solution: Configuring AI Inputs
+- [**2. Working with Prompts**](#2-working-with-prompts) (8 videos)
+  - Writing functions
+  - Working with streams
+  - Creating a prompt
+  - Refactoring functions with code prompts
+  - Setting templates
+  - Challenge: Customizing questions
+  - Solution: Customizing questions
+  - Solution: Building OpenAI prompts
+- [**3. Incorporating APIs**](#3-incorporating-apis) (6 videos)
+  - Accepting user input with readline
+  - Creating image descriptions based on a URL
+  - Transcribing audio files with OpenAI
+  - Building a Node app to transcribe audio
+  - Using DALL-E 3 for image generation
+  - Solution: Connecting with APIs
+- [**4. Customizing the Assistants API**](#4-customizing-the-assistants-api) (5 videos)
+  - Using the Assistants API playground
+  - Creating an assistant in a Node application
+  - Adding messages to threads
+  - Running and parsing the assistant response
+  - Solution: Working with the Assistants API
+- [**5. Utilizing LangChain Features**](#5-utilizing-langchain-features) (5 videos)
+  - Setting up a LangChain project
+  - Creating a chat template
+  - Using runnable sequences
+  - Combining multiple chains
+  - Solution: Building a conversation pipeline
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to build AI-enhanced applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/learn-to-build-ai-enhanced-applications?u=76281980)
@@ -205,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Creating the App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing OpenAI with npm
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/installing-openai-with-npm?u=76281980)
@@ -533,7 +566,7 @@ created: 2026-04-29
 
 ### 2. Working with Prompts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/writing-functions?u=76281980)
@@ -1042,7 +1075,7 @@ created: 2026-04-29
 
 ### 3. Incorporating APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accepting user input with readline
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/accepting-user-input-with-readline?u=76281980)
@@ -1678,7 +1711,7 @@ created: 2026-04-29
 
 ### 4. Customizing the Assistants API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Assistants API playground
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/using-the-assistants-api-playground?u=76281980)
@@ -2161,7 +2194,7 @@ created: 2026-04-29
 
 ### 5. Utilizing LangChain Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up a LangChain project
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/setting-up-a-langchain-project?u=76281980)
@@ -2565,7 +2598,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-programming-for-javascript-developers/next-steps?u=76281980)

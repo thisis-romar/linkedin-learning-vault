@@ -42,17 +42,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Databricks Lakehouse Platform]]** (8 videos)
-- **[[#2. Data Transformation with Apache Spark]]** (8 videos)
-- **[[#3. Data Management with Delta Lake]]** (8 videos)
-- **[[#4. Data Pipelines with Delta Live Tables]]** (8 videos)
-- **[[#5. Workloads with Jobs]]** (8 videos)
-- **[[#6. Data Access with Unity Catalog]]** (7 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course overview
+- [**1. Databricks Lakehouse Platform**](#1-databricks-lakehouse-platform) (8 videos)
+  - Introduction to the Databricks Lakehouse platform
+  - Overview of the Databricks architecture
+  - Creating and managing clusters
+  - Configuring cluster runtimes
+  - Terminating clusters
+  - Restarting clusters
+  - Filtering the clusters list
+  - All-purpose vs. job clusters
+- [**2. Data Transformation with Apache Spark**](#2-data-transformation-with-apache-spark) (8 videos)
+  - Set up IntelliJ for Databricks with Go
+  - Installing and using the Databricks CLI
+  - Installing and using Databricks for RStudio
+  - Introduction to notebooks
+  - Executing notebooks
+  - Sharing notebooks
+  - Multilanguage support
+  - Databricks Repos overview
+- [**3. Data Management with Delta Lake**](#3-data-management-with-delta-lake) (8 videos)
+  - Efficient data transformation with Spark SQL
+  - Using Catalog Explorer
+  - Creating tables from files
+  - Querying external data sources
+  - Inspecting tables
+  - Reliable data pipelines with Delta Lake
+  - ACID transactions
+  - Z-ordering optimization
+- [**4. Data Pipelines with Delta Live Tables**](#4-data-pipelines-with-delta-live-tables) (8 videos)
+  - Vacuuming and garbage collection
+  - Table documentation
+  - Automated pipelines with Delta Live Tables
+  - Delta Live Tables components
+  - Continuous vs. triggered pipelines
+  - Configuring Auto Loader
+  - Querying pipeline events
+  - End-to-end example of Delta Live Tables
+- [**5. Workloads with Jobs**](#5-workloads-with-jobs) (8 videos)
+  - Orchestrating workloads with jobs
+  - Databricks jobs demo
+  - Multitask workflows
+  - Task dependencies
+  - Viewing job history
+  - Using dashboards
+  - Handling failures
+  - Configuring retries
+- [**6. Data Access with Unity Catalog**](#6-data-access-with-unity-catalog) (7 videos)
+  - Unified data access with Unity Catalog
+  - Catalogs vs. metastores
+  - Unity Catalog quick start with Python
+  - Applying object security
+  - Best practices for catalogs
+  - Best practices for connections
+  - Best practices for business units
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/course-overview?u=76281980)
@@ -120,7 +168,7 @@ created: 2026-04-29
 
 ### 1. Databricks Lakehouse Platform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the Databricks Lakehouse platform
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/introduction-to-the-databricks-lakehouse-platform?u=76281980)
@@ -604,7 +652,7 @@ created: 2026-04-29
 
 ### 2. Data Transformation with Apache Spark
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up IntelliJ for Databricks with Go
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/set-up-intellij-for-databricks-with-go?u=76281980)
@@ -1247,7 +1295,7 @@ created: 2026-04-29
 
 ### 3. Data Management with Delta Lake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Efficient data transformation with Spark SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/efficient-data-transformation-with-spark-sql?u=76281980)
@@ -1890,7 +1938,7 @@ created: 2026-04-29
 
 ### 4. Data Pipelines with Delta Live Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vacuuming and garbage collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/vacuuming-and-garbage-collection?u=76281980)
@@ -2351,7 +2399,7 @@ created: 2026-04-29
 
 ### 5. Workloads with Jobs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Orchestrating workloads with jobs
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/orchestrating-workloads-with-jobs?u=76281980)
@@ -2890,7 +2938,7 @@ created: 2026-04-29
 
 ### 6. Data Access with Unity Catalog
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unified data access with Unity Catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/databricks-certified-data-engineer-associate-cert-prep/unified-data-access-with-unity-catalog?u=76281980)

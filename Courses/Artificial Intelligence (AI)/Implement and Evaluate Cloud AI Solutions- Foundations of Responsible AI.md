@@ -51,17 +51,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Implementing AI Solutions]]** (2 videos)
-- **[[#2. Evaluating Cloud AI Platforms]]** (2 videos)
-- **[[#3. Ensuring Responsible AI]]** (2 videos)
-- **[[#4. Monitoring and Improving AI Systems]]** (2 videos)
-- **[[#5. Case Studies and Real-World Applications]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Building trustworthy AI: From concept to real-world impact
+  - What is responsible AI?
+  - Why AI implementation matters
+- [**1. Implementing AI Solutions**](#1-implementing-ai-solutions) (2 videos)
+  - Strategic AI implementation steps
+  - Tools and techniques for AI implementation
+- [**2. Evaluating Cloud AI Platforms**](#2-evaluating-cloud-ai-platforms) (2 videos)
+  - Evaluating cloud AI platforms
+  - Choosing the right platform
+- [**3. Ensuring Responsible AI**](#3-ensuring-responsible-ai) (2 videos)
+  - Ethical AI development and strategic considerations
+  - Bias and fairness in AI
+- [**4. Monitoring and Improving AI Systems**](#4-monitoring-and-improving-ai-systems) (2 videos)
+  - Continuous monitoring for AI systems
+  - Iterative improvement of AI systems
+- [**5. Case Studies and Real-World Applications**](#5-case-studies-and-real-world-applications) (2 videos)
+  - Successful AI implementation examples
+  - Lessons learned from AI failures
+- [**Conclusion**](#conclusion) (1 videos)
+  - Recap and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building trustworthy AI: From concept to real-world impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/building-trustworthy-ai-from-concept-to-real-world-impact?u=76281980)
@@ -270,7 +284,7 @@ created: 2026-04-29
 
 ### 1. Implementing AI Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic AI implementation steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/strategic-ai-implementation-steps?u=76281980)
@@ -487,7 +501,7 @@ created: 2026-04-29
 
 ### 2. Evaluating Cloud AI Platforms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating cloud AI platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/evaluating-cloud-ai-platforms?u=76281980)
@@ -652,7 +666,7 @@ created: 2026-04-29
 
 ### 3. Ensuring Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical AI development and strategic considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/ethical-ai-development-strategic-considerations?u=76281980)
@@ -835,7 +849,7 @@ created: 2026-04-29
 
 ### 4. Monitoring and Improving AI Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous monitoring for AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/continuous-monitoring-for-ai-systems?u=76281980)
@@ -996,7 +1010,7 @@ created: 2026-04-29
 
 ### 5. Case Studies and Real-World Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Successful AI implementation examples
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/successful-ai-implementation-examples?u=76281980)
@@ -1163,7 +1177,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/implement-and-evaluate-cloud-ai-solutions-foundations-of-responsible-ai/recap-and-next-steps?u=76281980)

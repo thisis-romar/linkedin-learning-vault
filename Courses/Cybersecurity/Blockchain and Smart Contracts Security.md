@@ -47,19 +47,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Demystifying Blockchain]]** (3 videos)
-- **[[#2. Security Properties of Blockchain]]** (4 videos)
-- **[[#3. Security Model for the Blockchain Ecosystem]]** (3 videos)
-- **[[#4. Blockchain Platform Security]]** (2 videos)
-- **[[#5. Distributed Apps and Smart Contracts Security]]** (6 videos)
-- **[[#6. Non-distributed Apps and Enabler Services]]** (3 videos)
-- **[[#7. End User Security]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Security concerns with blockchain
+  - What you should know
+- [**1. Demystifying Blockchain**](#1-demystifying-blockchain) (3 videos)
+  - What is blockchain?
+  - Smart contracts and dApps
+  - How blockchain works
+- [**2. Security Properties of Blockchain**](#2-security-properties-of-blockchain) (4 videos)
+  - Consensus
+  - Immutability
+  - Cryptography: Keys and addresses
+  - Cryptography: Validation
+- [**3. Security Model for the Blockchain Ecosystem**](#3-security-model-for-the-blockchain-ecosystem) (3 videos)
+  - Overall technology architecture
+  - Attack surface and vectors
+  - Security model
+- [**4. Blockchain Platform Security**](#4-blockchain-platform-security) (2 videos)
+  - Proof-of-work protocol attacks
+  - Proof-of-stake protocol attacks
+- [**5. Distributed Apps and Smart Contracts Security**](#5-distributed-apps-and-smart-contracts-security) (6 videos)
+  - Smart contracts and EVM
+  - Anatomy of a smart contract
+  - Deploying a smart contract
+  - Smart contracts threats: Part one
+  - Smart contracts threats: Part two
+  - Secure design
+- [**6. Non-distributed Apps and Enabler Services**](#6-non-distributed-apps-and-enabler-services) (3 videos)
+  - Blockchain ecosystem threats: Part one
+  - Blockchain ecosystem threats: Part two
+  - Blockchain ecosystem threats: Part three
+- [**7. End User Security**](#7-end-user-security) (2 videos)
+  - Wallet and keys security
+  - Web session security
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security concerns with blockchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/security-concerns-with-blockchain?u=76281980)
@@ -122,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Demystifying Blockchain
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is blockchain?
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/what-is-blockchain?u=76281980)
@@ -409,7 +435,7 @@ created: 2026-04-29
 
 ### 2. Security Properties of Blockchain
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Consensus
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/consensus?u=76281980)
@@ -708,7 +734,7 @@ created: 2026-04-29
 
 ### 3. Security Model for the Blockchain Ecosystem
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overall technology architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/overall-technology-architecture?u=76281980)
@@ -857,7 +883,7 @@ created: 2026-04-29
 
 ### 4. Blockchain Platform Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Proof-of-work protocol attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/proof-of-work-protocol-attacks?u=76281980)
@@ -1060,7 +1086,7 @@ created: 2026-04-29
 
 ### 5. Distributed Apps and Smart Contracts Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Smart contracts and EVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/smart-contracts-and-evm?u=76281980)
@@ -1531,7 +1557,7 @@ created: 2026-04-29
 
 ### 6. Non-distributed Apps and Enabler Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain ecosystem threats: Part one
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/blockchain-ecosystem-threats-part-one?u=76281980)
@@ -1735,7 +1761,7 @@ created: 2026-04-29
 
 ### 7. End User Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wallet and keys security
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/wallet-and-keys-security?u=76281980)
@@ -1821,7 +1847,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-and-smart-contracts-security/next-steps?u=76281980)

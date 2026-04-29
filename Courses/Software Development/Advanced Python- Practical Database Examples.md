@@ -49,15 +49,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Creating an API that Serves Data from a Database with FastAPI]]** (12 videos)
-- **[[#2. Developing Analysis Applications with Pandas]]** (8 videos)
-- **[[#3. Building a Full-Stack Task List Application with Flask]]** (14 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Use databases to level up your Python applications
+- [**1. Creating an API that Serves Data from a Database with FastAPI**](#1-creating-an-api-that-serves-data-from-a-database-with-fastapi) (12 videos)
+  - What is an API?
+  - API frameworks in Python
+  - Set up FastAPI in a Python application
+  - Define a database schema
+  - Create a MySQL database
+  - Create an API contract
+  - Build a POST endpoint with FastAPI
+  - Call a new API using Postman
+  - Add data to a database in Python using SQLAlchemy
+  - Integrate a database with a FastAPI application
+  - Challenge: Develop a GET endpoint with FastAPI and a DB
+  - Solution: Develop a GET endpoint with FastAPI and a Database
+- [**2. Developing Analysis Applications with Pandas**](#2-developing-analysis-applications-with-pandas) (8 videos)
+  - Introduction to pandas
+  - Set up pandas and Jupyter Notebook
+  - Analyze data with pandas
+  - Analyze data with Matplotlib
+  - Connect to a DB using SQLAlchemy within Juypter Notebook
+  - Visualize data using SQLAlchemy, pandas, and Matplotlib
+  - Challenge: Ingest data and visualize it with Matplotlib
+  - Solution: Ingest data and visualize it using Matplotlib
+- [**3. Building a Full-Stack Task List Application with Flask**](#3-building-a-full-stack-task-list-application-with-flask) (14 videos)
+  - Set up Flask in a Python application
+  - Create a webpage with Flask
+  - Build a landing page
+  - Develop additional routes to enhance your application
+  - Build a project tasks page
+  - Create a Postgres database
+  - Instantiate a Postgres table using Python
+  - Connect a database to a Python Flask project
+  - Integrate project data from a Database into Flask
+  - Integrate task data from a database into a Flask app
+  - Develop add functionality to add a project
+  - Develop add functionality to add a task
+  - Challenge: Develop delete functionality
+  - Solution: Develop delete functionality
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue building applications with databases
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use databases to level up your Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980)
@@ -98,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Creating an API that Serves Data from a Database with FastAPI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an API?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980)
@@ -1116,7 +1152,7 @@ created: 2026-04-29
 
 ### 2. Developing Analysis Applications with Pandas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to pandas
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980)
@@ -1633,7 +1669,7 @@ created: 2026-04-29
 
 ### 3. Building a Full-Stack Task List Application with Flask
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up Flask in a Python application
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980)
@@ -2543,7 +2579,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue building applications with databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980)

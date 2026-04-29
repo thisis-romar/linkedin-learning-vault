@@ -39,16 +39,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Bias and Fairness]]** (3 videos)
-- **[[#2. Accuracy and Reliability]]** (2 videos)
-- **[[#3. Transparency and Explainability]]** (2 videos)
-- **[[#4. Privacy and Security]]** (2 videos)
-- **[[#5. Best Practices and Future Trends]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Embracing responsible AI practices in hiring
+  - Meet Don Phin
+  - What is ethical AI in hiring, and why does it matter?
+- [**1. Bias and Fairness**](#1-bias-and-fairness) (3 videos)
+  - When is hiring bias problematic?
+  - What are some examples of how AI creates hiring bias?
+  - What is AI gatekeeping in talent acquisition?
+- [**2. Accuracy and Reliability**](#2-accuracy-and-reliability) (2 videos)
+  - How do we ensure AI makes fair, accurate hiring decisions?
+  - How can customzing AI tools improve accuracy?
+- [**3. Transparency and Explainability**](#3-transparency-and-explainability) (2 videos)
+  - Why are transparency in AI hiring tools so important?
+  - What can candidates do if they want to challenge AI hiring?
+- [**4. Privacy and Security**](#4-privacy-and-security) (2 videos)
+  - How is candidate data handled by AI, and what are the risks?
+  - What are the concerns about using biometrics in hiring?
+- [**5. Best Practices and Future Trends**](#5-best-practices-and-future-trends) (2 videos)
+  - What is key when using AI in hiring ethically and wisely?
+  - How will AI evolve and what trends are coming?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embracing responsible AI practices in hiring
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/embracing-responsible-ai-practices-in-hiring?u=76281980)
@@ -185,7 +199,7 @@ created: 2026-04-29
 
 ### 1. Bias and Fairness
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When is hiring bias problematic?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/when-is-hiring-bias-problematic?u=76281980)
@@ -388,7 +402,7 @@ created: 2026-04-29
 
 ### 2. Accuracy and Reliability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do we ensure AI makes fair, accurate hiring decisions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-do-we-ensure-ai-makes-fair-accurate-hiring-decisions?u=76281980)
@@ -478,7 +492,7 @@ created: 2026-04-29
 
 ### 3. Transparency and Explainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why are transparency in AI hiring tools so important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/why-are-transparency-in-ai-hiring-tools-so-important?u=76281980)
@@ -592,7 +606,7 @@ created: 2026-04-29
 
 ### 4. Privacy and Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How is candidate data handled by AI, and what are the risks?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/how-is-candidate-data-handled-by-ai-and-what-are-the-risks?u=76281980)
@@ -702,7 +716,7 @@ created: 2026-04-29
 
 ### 5. Best Practices and Future Trends
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is key when using AI in hiring ethically and wisely?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-ai-for-hiring-and-talent-acquisition-a-conversation-with-don-phin/what-is-key-when-using-ai-in-hiring-ethically-and-wisely?u=76281980)

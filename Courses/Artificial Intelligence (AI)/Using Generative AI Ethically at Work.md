@@ -52,15 +52,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Making Choices Legally and Ethically]]** (5 videos)
-- **[[#2. Ethics and Generative AI]]** (4 videos)
-- **[[#3. Encountering AI Ethics at Work]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Ethical considerations of AI and practical applications
+  - An ethical driver's license for AI
+- [**1. Making Choices Legally and Ethically**](#1-making-choices-legally-and-ethically) (5 videos)
+  - Recognize ethical choices with AI
+  - The legal, the ethical, and the prudential when using AI
+  - The basics of AI regulations: Copyright
+  - The basics of AI regulations: Privacy and security
+  - Learn AI policies and governance for your workplace
+- [**2. Ethics and Generative AI**](#2-ethics-and-generative-ai) (4 videos)
+  - Understand hard truths about generative AI
+  - The cupcake analogy of AI use
+  - Know your generative AI tool
+  - Make ethical choices when using generative AI
+- [**3. Encountering AI Ethics at Work**](#3-encountering-ai-ethics-at-work) (6 videos)
+  - Defining different uses of AI at work
+  - AI ethics: Respecting copyright
+  - AI ethics: Protecting privacy
+  - AI ethics: Cybersecurity and AI risks
+  - AI ethics: AI etiquette
+  - AI ethics: Accountability and strategic use of AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Being kind
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical considerations of AI and practical applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/ethical-considerations-of-ai-and-practical-applications?u=76281980)
@@ -130,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Making Choices Legally and Ethically
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognize ethical choices with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?u=76281980)
@@ -532,7 +550,7 @@ created: 2026-04-29
 
 ### 2. Ethics and Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand hard truths about generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/understand-hard-truths-about-generative-ai?u=76281980)
@@ -895,7 +913,7 @@ created: 2026-04-29
 
 ### 3. Encountering AI Ethics at Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining different uses of AI at work
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/defining-different-uses-of-ai-at-work?u=76281980)
@@ -1308,7 +1326,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Being kind
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/being-kind?u=76281980)

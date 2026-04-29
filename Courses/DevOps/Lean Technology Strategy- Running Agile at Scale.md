@@ -40,11 +40,16 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Running Agile at Scale]]** (5 videos)
+- [**1. Running Agile at Scale**](#1-running-agile-at-scale) (5 videos)
+  - The problems with agile at scale
+  - Principles of high-performance program management
+  - Case study: HP FutureSmart firmware
+  - Continuous improvement
+  - Conclusion
 
 ### 1. Running Agile at Scale
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The problems with agile at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale/the-problems-with-agile-at-scale?u=76281980)

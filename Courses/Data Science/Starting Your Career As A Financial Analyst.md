@@ -42,11 +42,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Starting Your Career as a Financial Analyst]]** (19 videos)
+- [**1. Starting Your Career as a Financial Analyst**](#1-starting-your-career-as-a-financial-analyst) (19 videos)
+  - Intro
+  - Christian's backstory and living in Australia
+  - The Financial Fox backstory
+  - Key lessons for financial analysts
+  - Finance vs. accounting
+  - What is finance automation?
+  - What tools are good for finance analysts?
+  - Day in the life of a financial analyst
+  - Presentation musts for financial analysts
+  - How important are soft skills for financial analysts?
+  - Should I learn crypto as a financial analyst?
+  - Will quantum computing change everything?
+  - What machine learning skills should I learn for finance?
+  - Benefits of becoming a financial analyst
+  - Skills you need to level up your finance career
+  - What the future holds for financial analysts
+  - What is AutoML?
+  - What is blockchain?
+  - Outro
 
 ### 1. Starting Your Career as a Financial Analyst
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/starting-your-career-as-a-financial-analyst/intro-14781673?u=76281980)

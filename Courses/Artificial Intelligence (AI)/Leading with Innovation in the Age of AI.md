@@ -57,16 +57,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Innovation Fundamentals]]** (3 videos)
-- **[[#2. The Innovation Process]]** (5 videos)
-- **[[#3. Theaters of Innovation]]** (4 videos)
-- **[[#4. The Role of Leaders]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The innovation imperative
+- [**1. Innovation Fundamentals**](#1-innovation-fundamentals) (3 videos)
+  - Why organizations often fail at innovation
+  - The core logic of innovation
+  - What AI means for innovation
+- [**2. The Innovation Process**](#2-the-innovation-process) (5 videos)
+  - Fostering creativity without losing control
+  - The lean startup process
+  - Design thinking
+  - Collaborative innovation
+  - Accelerating innovation with AI
+- [**3. Theaters of Innovation**](#3-theaters-of-innovation) (4 videos)
+  - Rethinking the target customer
+  - Reimagining customer value
+  - Reengineering the value chain
+  - Social innovation
+- [**4. The Role of Leaders**](#4-the-role-of-leaders) (2 videos)
+  - The role of leaders in driving innovation
+  - Cultivating an innovation culture
+- [**Conclusion**](#conclusion) (2 videos)
+  - Balancing order and chaos in innovation
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The innovation imperative
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-innovation-imperative?u=76281980)
@@ -98,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Innovation Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why organizations often fail at innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/why-organizations-often-fail-at-innovation?u=76281980)
@@ -346,7 +363,7 @@ created: 2026-04-29
 
 ### 2. The Innovation Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fostering creativity without losing control
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/fostering-creativity-without-losing-control?u=76281980)
@@ -777,7 +794,7 @@ created: 2026-04-29
 
 ### 3. Theaters of Innovation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rethinking the target customer
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/rethinking-the-target-customer?u=76281980)
@@ -1130,7 +1147,7 @@ created: 2026-04-29
 
 ### 4. The Role of Leaders
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of leaders in driving innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/the-role-of-leaders-in-driving-innovation?u=76281980)
@@ -1306,7 +1323,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Balancing order and chaos in innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-innovation-in-the-age-of-ai/balancing-order-and-chaos-in-innovation?u=76281980)

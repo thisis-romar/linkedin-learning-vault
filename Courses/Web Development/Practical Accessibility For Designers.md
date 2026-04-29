@@ -40,17 +40,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Accessibility]]** (6 videos)
-- **[[#2. Making Websites Work for People with Vision Impairments]]** (8 videos)
-- **[[#3. Making Websites Work for D/deaf People]]** (3 videos)
-- **[[#4. Making Websites Work for Neurodiverse People]]** (5 videos)
-- **[[#5. Ensuring People Can Use Your Website Regardless of Mobility Status]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Gain a new perspective on accessibility in your designs
+  - What you should know
+- [**1. Introduction to Accessibility**](#1-introduction-to-accessibility) (6 videos)
+  - Why should you prioritize accessibility?
+  - Defining accessibility
+  - Accessibility standards
+  - Testing web accessibility: Understanding the process
+  - Testing web accessibility: Using tools
+  - Testing web accessibility: Human testers
+- [**2. Making Websites Work for People with Vision Impairments**](#2-making-websites-work-for-people-with-vision-impairments) (8 videos)
+  - How vision impairments affect access
+  - Creating accessible navigation
+  - Text and typography for a range of vision needs
+  - How contrast affects accessibility
+  - Designing accessible forms
+  - Making images accessible for blind people
+  - How to treat colours for accessibility
+  - Making UX copy accessible for blind people
+- [**3. Making Websites Work for D/deaf People**](#3-making-websites-work-for-ddeaf-people) (3 videos)
+  - What is D/deafness?
+  - Subtitles, captions, and transcripts
+  - Live content
+- [**4. Making Websites Work for Neurodiverse People**](#4-making-websites-work-for-neurodiverse-people) (5 videos)
+  - Making websites understandable
+  - Making text readable
+  - Making text legible
+  - Making websites consistent and predictable
+  - Helping users avoid and correct mistakes
+- [**5. Ensuring People Can Use Your Website Regardless of Mobility Status**](#5-ensuring-people-can-use-your-website-regardless-of-mobility-status) (5 videos)
+  - Making websites operable
+  - Navigating without a mouse
+  - User control of content
+  - Tap or touch area
+  - Adapting design to different devices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary of course and exercises
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gain a new perspective on accessibility in your designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/gain-a-new-perspective-on-accessibility-in-your-designs?u=76281980)
@@ -108,7 +138,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why should you prioritize accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/why-should-you-prioritize-accessibility?u=76281980)
@@ -533,7 +563,7 @@ created: 2026-04-29
 
 ### 2. Making Websites Work for People with Vision Impairments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How vision impairments affect access
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/how-vision-impairments-affect-access?u=76281980)
@@ -1385,7 +1415,7 @@ created: 2026-04-29
 
 ### 3. Making Websites Work for D/deaf People
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is D/deafness?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/what-is-d-deafness?u=76281980)
@@ -1637,7 +1667,7 @@ created: 2026-04-29
 
 ### 4. Making Websites Work for Neurodiverse People
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making websites understandable
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-understandable?u=76281980)
@@ -2152,7 +2182,7 @@ created: 2026-04-29
 
 ### 5. Ensuring People Can Use Your Website Regardless of Mobility Status
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making websites operable
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/making-websites-operable?u=76281980)
@@ -2632,7 +2662,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary of course and exercises
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-accessibility-for-designers/summary-of-course-and-exercises?u=76281980)

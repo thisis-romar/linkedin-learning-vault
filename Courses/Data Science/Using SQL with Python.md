@@ -50,15 +50,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Common Interface]]** (8 videos)
-- **[[#2. A CRUD Class]]** (6 videos)
-- **[[#3. Final Project: URL Shortener]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Use SQL with Python
+  - Using the exercise files
+  - What do you need for this course?
+  - Installing the tools
+- [**1. Common Interface**](#1-common-interface) (8 videos)
+  - The Python DB-API
+  - Creating a connection
+  - Simple queries
+  - Prepared statements
+  - Hello, SQLite
+  - Hello, MySQL
+  - Challenge
+  - Solution
+- [**2. A CRUD Class**](#2-a-crud-class) (6 videos)
+  - The essential four
+  - SQL Wrapper
+  - Adding CRUD methods
+  - Using the module
+  - Challenge
+  - Solution
+- [**3. Final Project: URL Shortener**](#3-final-project-url-shortener) (6 videos)
+  - Defining the project
+  - Testing a web application
+  - Code demonstration
+  - Touring the code
+  - Challenge
+  - Solution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Thank you
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use SQL with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/use-sql-with-python?u=76281980)
@@ -464,7 +489,7 @@ created: 2026-04-29
 
 ### 1. Common Interface
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Python DB-API
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/the-python-db-api?u=76281980)
@@ -1215,7 +1240,7 @@ created: 2026-04-29
 
 ### 2. A CRUD Class
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The essential four
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/the-essential-four?u=76281980)
@@ -1860,7 +1885,7 @@ created: 2026-04-29
 
 ### 3. Final Project: URL Shortener
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/defining-the-project?u=76281980)
@@ -2410,7 +2435,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-sql-with-python/thank-you?u=76281980)

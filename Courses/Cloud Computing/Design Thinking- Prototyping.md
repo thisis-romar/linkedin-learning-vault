@@ -45,17 +45,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Why Prototyping?]]** (3 videos)
-- **[[#2. Where in the Design Process?]]** (4 videos)
-- **[[#3. Modern Uses and Solutions]]** (2 videos)
-- **[[#4. Methods and Approaches]]** (2 videos)
-- **[[#5. Choosing What to Prototype]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Prototyping for creative problem solving
+  - The power of prototyping
+  - The four categories of prototyping
+- [**1. Why Prototyping?**](#1-why-prototyping) (3 videos)
+  - Generate ideas rapidly
+  - The value of a prototype: Is the time right?
+  - Reduce design and technical debt
+- [**2. Where in the Design Process?**](#2-where-in-the-design-process) (4 videos)
+  - Use simulations to study interactions and flows
+  - Explore technologies
+  - Creating objects
+  - Convey: When pages are not enough
+- [**3. Modern Uses and Solutions**](#3-modern-uses-and-solutions) (2 videos)
+  - Document: When requirement docs and pages fall short
+  - Document better with prototyping
+- [**4. Methods and Approaches**](#4-methods-and-approaches) (2 videos)
+  - Get to the next steps faster
+  - Learn: User study and validation
+- [**5. Choosing What to Prototype**](#5-choosing-what-to-prototype) (4 videos)
+  - Deciding what to prototype
+  - Choosing the right prototyping approach
+  - Challenge: Prototype an app experience
+  - Solution: Prototype an app experience
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototyping for creative problem solving
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/prototyping-for-creative-problem-solving?u=76281980)
@@ -172,7 +191,7 @@ created: 2026-04-29
 
 ### 1. Why Prototyping?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generate ideas rapidly
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/generate-ideas-rapidly?u=76281980)
@@ -388,7 +407,7 @@ created: 2026-04-29
 
 ### 2. Where in the Design Process?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use simulations to study interactions and flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/use-simulations-to-study-interactions-and-flows?u=76281980)
@@ -664,7 +683,7 @@ created: 2026-04-29
 
 ### 3. Modern Uses and Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Document: When requirement docs and pages fall short
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/document-when-requirement-docs-and-pages-fall-short?u=76281980)
@@ -800,7 +819,7 @@ created: 2026-04-29
 
 ### 4. Methods and Approaches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get to the next steps faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/get-to-the-next-steps-faster?u=76281980)
@@ -950,7 +969,7 @@ created: 2026-04-29
 
 ### 5. Choosing What to Prototype
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deciding what to prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/deciding-what-to-prototype?u=76281980)
@@ -1231,7 +1250,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/design-thinking-prototyping-27945180/next-steps?u=76281980)

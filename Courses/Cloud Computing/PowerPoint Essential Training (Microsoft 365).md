@@ -50,23 +50,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Get Started Quickly]]** (2 videos)
-- **[[#2. Work with Slides]]** (6 videos)
-- **[[#3. Images and Shapes]]** (9 videos)
-- **[[#4. Add Diagrams and Charts]]** (2 videos)
-- **[[#5. Add Video, Audio and Animation to Slides]]** (7 videos)
-- **[[#6. Helpful Accessibility Features]]** (2 videos)
-- **[[#7. Collaborate and Prepare]]** (4 videos)
-- **[[#8. Deliver the Presentation]]** (2 videos)
-- **[[#9. Reuse the Presentation]]** (4 videos)
-- **[[#10. Use Copilot in PowerPoint]]** (2 videos)
-- **[[#11. PowerPoint Challenges]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Deliver a powerful message with a powerful presentation
+- [**1. Get Started Quickly**](#1-get-started-quickly) (2 videos)
+  - Start quickly with a theme or template
+  - Create and save a new presentation
+- [**2. Work with Slides**](#2-work-with-slides) (6 videos)
+  - Add, remove, and rearrange slides
+  - Change the slide layout
+  - Change the slide color or background
+  - Change slides at once with slide masters
+  - Add your own text boxes
+  - Use Designer to create professional layouts
+- [**3. Images and Shapes**](#3-images-and-shapes) (9 videos)
+  - Add images
+  - Work with shapes
+  - Format and add effects to objects
+  - Align objects using the Arrange tool
+  - Understand object layering
+  - Group objects and use Format Painter
+  - Remove the background from pictures
+  - Group shapes together
+  - Crop images to shapes
+- [**4. Add Diagrams and Charts**](#4-add-diagrams-and-charts) (2 videos)
+  - Create and format charts
+  - Use SmartArt to create diagrams
+- [**5. Add Video, Audio and Animation to Slides**](#5-add-video-audio-and-animation-to-slides) (7 videos)
+  - Add and format video
+  - Add and work with audio files
+  - Add animation to objects and text
+  - Add slide transitions
+  - Use Morph to create animation
+  - Use Zoom to create animation
+  - Include live webcam video with Cameo
+- [**6. Helpful Accessibility Features**](#6-helpful-accessibility-features) (2 videos)
+  - Features for PowerPoint users with disabilities
+  - Create accessible presentations
+- [**7. Collaborate and Prepare**](#7-collaborate-and-prepare) (4 videos)
+  - Add speaker notes
+  - Rehearse with timings and Presenter Coach
+  - Share and collaborate on a presentation
+  - View previous revisions
+- [**8. Deliver the Presentation**](#8-deliver-the-presentation) (2 videos)
+  - Use Presenter View to run the show
+  - Run unattended slideshows
+- [**9. Reuse the Presentation**](#9-reuse-the-presentation) (4 videos)
+  - Save a custom theme
+  - Save a presentation as a template
+  - Record a presentation with the built-in teleprompter
+  - Export as a PDF, JPEG, or animated GIF
+- [**10. Use Copilot in PowerPoint**](#10-use-copilot-in-powerpoint) (2 videos)
+  - Use Copilot to create and summarize presentations
+  - Use Copilot to create slides
+- [**11. PowerPoint Challenges**](#11-powerpoint-challenges) (2 videos)
+  - Challenge: Make gears turn
+  - Challenge: Give text a background image
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deliver a powerful message with a powerful presentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980)
@@ -91,7 +135,7 @@ created: 2026-04-29
 
 ### 1. Get Started Quickly
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start quickly with a theme or template
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/start-quickly-with-a-theme-or-template-25896388?u=76281980)
@@ -269,7 +313,7 @@ created: 2026-04-29
 
 ### 2. Work with Slides
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add, remove, and rearrange slides
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-remove-and-rearrange-slides-25898408?u=76281980)
@@ -922,7 +966,7 @@ created: 2026-04-29
 
 ### 3. Images and Shapes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add images
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980)
@@ -1790,7 +1834,7 @@ created: 2026-04-29
 
 ### 4. Add Diagrams and Charts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and format charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980)
@@ -2051,7 +2095,7 @@ created: 2026-04-29
 
 ### 5. Add Video, Audio and Animation to Slides
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add and format video
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-format-video-25899366?u=76281980)
@@ -2750,7 +2794,7 @@ created: 2026-04-29
 
 ### 6. Helpful Accessibility Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Features for PowerPoint users with disabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980)
@@ -2887,7 +2931,7 @@ created: 2026-04-29
 
 ### 7. Collaborate and Prepare
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add speaker notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-speaker-notes-26202393?u=76281980)
@@ -3155,7 +3199,7 @@ created: 2026-04-29
 
 ### 8. Deliver the Presentation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Presenter View to run the show
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-presenter-view-to-run-the-show-26201384?u=76281980)
@@ -3358,7 +3402,7 @@ created: 2026-04-29
 
 ### 9. Reuse the Presentation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Save a custom theme
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-custom-theme-26203373?u=76281980)
@@ -3755,7 +3799,7 @@ created: 2026-04-29
 
 ### 10. Use Copilot in PowerPoint
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Copilot to create and summarize presentations
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980)
@@ -3956,7 +4000,7 @@ created: 2026-04-29
 
 ### 11. PowerPoint Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Make gears turn
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-make-gears-turn-26201378?u=76281980)
@@ -4193,7 +4237,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980)

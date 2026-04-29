@@ -56,17 +56,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Are Neural Networks?]]** (4 videos)
-- **[[#2. Key Components in Neural Network Architecture]]** (3 videos)
-- **[[#3. Other Types of Neural Networks]]** (4 videos)
-- **[[#4. Build a Simple Neural Network Using Keras]]** (8 videos)
-- **[[#5. Best Practices for Optimizing a Neural Network]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Neural networks 101: Your path to AI brilliance
+  - What you should know
+- [**1. What Are Neural Networks?**](#1-what-are-neural-networks) (4 videos)
+  - Neural networks: The building blocks of generative AI
+  - Machine learning and neural networks
+  - Neural network fundamentals
+  - The need for multilayer networks
+- [**2. Key Components in Neural Network Architecture**](#2-key-components-in-neural-network-architecture) (3 videos)
+  - Layers: Input, hidden, and output
+  - Transfer and activation functions
+  - How neural networks learn
+- [**3. Other Types of Neural Networks**](#3-other-types-of-neural-networks) (4 videos)
+  - Convolutional neural networks (CNN)
+  - Transformer architecture: The model that redefined modern AI
+  - Why we need more than CNNs
+  - Self-attention in vision transformers
+- [**4. Build a Simple Neural Network Using Keras**](#4-build-a-simple-neural-network-using-keras) (8 videos)
+  - The Keras Sequential model
+  - Use case and determine evaluation metric
+  - Data checks and data preparation
+  - Data preprocessing
+  - Train the neural network using Keras
+  - How to use the challenge exercise files
+  - Challenge: Build a neural network
+  - Solution: Build a neural network
+- [**5. Best Practices for Optimizing a Neural Network**](#5-best-practices-for-optimizing-a-neural-network) (6 videos)
+  - Overfitting and underfitting: Two common ANN problems
+  - Hyperparameters and neural networks
+  - How do you improve model performance?
+  - Regularization techniques to improve overfitting models
+  - Challenge: Manually tune hyperparameters
+  - Solution: Manually tune hyperparameters
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Neural networks 101: Your path to AI brilliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-101-your-path-to-ai-brilliance?u=76281980)
@@ -112,7 +140,7 @@ created: 2026-04-29
 
 ### 1. What Are Neural Networks?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Neural networks: The building blocks of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/neural-networks-the-building-blocks-of-generative-ai?u=76281980)
@@ -433,7 +461,7 @@ created: 2026-04-29
 
 ### 2. Key Components in Neural Network Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Layers: Input, hidden, and output
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/layers-input-hidden-and-output?u=76281980)
@@ -659,7 +687,7 @@ created: 2026-04-29
 
 ### 3. Other Types of Neural Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Convolutional neural networks (CNN)
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/convolutional-neural-networks-cnn?u=76281980)
@@ -1044,7 +1072,7 @@ created: 2026-04-29
 
 ### 4. Build a Simple Neural Network Using Keras
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Keras Sequential model
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/the-keras-sequential-model?u=76281980)
@@ -1599,7 +1627,7 @@ created: 2026-04-29
 
 ### 5. Best Practices for Optimizing a Neural Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overfitting and underfitting: Two common ANN problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/overfitting-and-underfitting-two-common-ann-problems?u=76281980)
@@ -2018,7 +2046,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-foundations-neural-networks-22853427/next-steps?u=76281980)

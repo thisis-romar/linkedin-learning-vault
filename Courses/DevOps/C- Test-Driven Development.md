@@ -50,15 +50,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. TDD Theory]]** (4 videos)
-- **[[#2. Getting Started with TDD]]** (7 videos)
-- **[[#3. Advanced TDD Techniques]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Testing web applications and APIs
+  - What you should know
+- [**1. TDD Theory**](#1-tdd-theory) (4 videos)
+  - About testing
+  - What is TDD?
+  - Advantages and disadvantages of TDD
+  - Software and tooling
+- [**2. Getting Started with TDD**](#2-getting-started-with-tdd) (7 videos)
+  - Demo project introduction
+  - Creating a test
+  - Fixing the code
+  - Adding another test
+  - Satisfying the next test
+  - Challenge: Making the test pass
+  - Solution: Making the test pass
+- [**3. Advanced TDD Techniques**](#3-advanced-tdd-techniques) (9 videos)
+  - Introduction to mocking
+  - Adding an interface
+  - Using a test with a mock
+  - Testing without a database: Preparations
+  - Demo: Testing without a database
+  - Testing ASP.NET Core applications: Preparations
+  - Demo: Testing ASP.NET Core applications
+  - Challenge: Testing an API
+  - Solution: Testing an API
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with C#
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing web applications and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980)
@@ -178,7 +201,7 @@ created: 2026-04-29
 
 ### 1. TDD Theory
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### About testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/about-testing?u=76281980)
@@ -487,7 +510,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with TDD
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Demo project introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980)
@@ -957,7 +980,7 @@ created: 2026-04-29
 
 ### 3. Advanced TDD Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to mocking
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/introduction-to-mocking?u=76281980)
@@ -1681,7 +1704,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980)

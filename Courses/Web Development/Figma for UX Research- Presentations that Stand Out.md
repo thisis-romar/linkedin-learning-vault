@@ -49,20 +49,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started in Figma]]** (3 videos)
-- **[[#2. Title Slides]]** (5 videos)
-- **[[#3. Agenda Slides]]** (3 videos)
-- **[[#4. Methodology Slides]]** (3 videos)
-- **[[#5. Participant Demographics]]** (3 videos)
-- **[[#6. Presenting Quantitative Data]]** (6 videos)
-- **[[#7. Presenting Qualitative Data]]** (2 videos)
-- **[[#8. Final Touches]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Figma for UX researchers
+  - What you should know
+- [**1. Getting Started in Figma**](#1-getting-started-in-figma) (3 videos)
+  - Creating your first Figma project
+  - Overview of a Figma design file
+  - Importing assets and ideas into Figma
+- [**2. Title Slides**](#2-title-slides) (5 videos)
+  - Using frames
+  - Working with text in Figma, part 1
+  - Working with text in Figma, part 2
+  - Working with shapes in Figma
+  - Working with images in Figma
+- [**3. Agenda Slides**](#3-agenda-slides) (3 videos)
+  - Working with image masks in Figma
+  - Creating bulleted lists in Figma
+  - Grouping and lines in Figma
+- [**4. Methodology Slides**](#4-methodology-slides) (3 videos)
+  - Creating a timeline with key steps in Figma, part 1
+  - Creating a timeline with key steps in Figma, part 2
+  - Exploring different Figma effects and styles
+- [**5. Participant Demographics**](#5-participant-demographics) (3 videos)
+  - Create tables with columns in Figma
+  - Creating infographics in Figma
+  - Adding participant faces for empathy
+- [**6. Presenting Quantitative Data**](#6-presenting-quantitative-data) (6 videos)
+  - Creating bar charts in Figma
+  - Creating line charts in Figma
+  - Creating pie and donut charts in Figma
+  - Creating pie and donut charts in Figma Part II
+  - Emphasizing key data in your slides
+  - Using Figma plugins
+- [**7. Presenting Qualitative Data**](#7-presenting-qualitative-data) (2 videos)
+  - Annotating screenshots in Figma
+  - Creating quote bubbles in Figma
+- [**8. Final Touches**](#8-final-touches) (2 videos)
+  - Creating titles and page numbers transition slides
+  - Creating titles and page numbers transition slides Part II
+- [**Conclusion**](#conclusion) (1 videos)
+  - Export and smooth sailing
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Figma for UX researchers
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/figma-for-ux-researchers?u=76281980)
@@ -113,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Getting Started in Figma
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your first Figma project
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-your-first-figma-project?u=76281980)
@@ -800,7 +830,7 @@ created: 2026-04-29
 
 ### 2. Title Slides
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using frames
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/using-frames?u=76281980)
@@ -1872,7 +1902,7 @@ created: 2026-04-29
 
 ### 3. Agenda Slides
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with image masks in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/working-with-image-masks-in-figma?u=76281980)
@@ -2964,7 +2994,7 @@ created: 2026-04-29
 
 ### 4. Methodology Slides
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a timeline with key steps in Figma, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-a-timeline-with-key-steps-in-figma-part-1?u=76281980)
@@ -3841,7 +3871,7 @@ created: 2026-04-29
 
 ### 5. Participant Demographics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create tables with columns in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/create-tables-with-columns-in-figma?u=76281980)
@@ -4730,7 +4760,7 @@ created: 2026-04-29
 
 ### 6. Presenting Quantitative Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating bar charts in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-bar-charts-in-figma?u=76281980)
@@ -6222,7 +6252,7 @@ created: 2026-04-29
 
 ### 7. Presenting Qualitative Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Annotating screenshots in Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/annotating-screenshots-in-figma?u=76281980)
@@ -6956,7 +6986,7 @@ created: 2026-04-29
 
 ### 8. Final Touches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating titles and page numbers transition slides
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/creating-titles-and-page-numbers-transition-slides?u=76281980)
@@ -7558,7 +7588,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Export and smooth sailing
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-research-presentations-that-stand-out/export-and-smooth-sailing?u=76281980)

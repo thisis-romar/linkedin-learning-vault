@@ -57,19 +57,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Agentic AI]]** (5 videos)
-- **[[#2. An Agentic AI System]]** (7 videos)
-- **[[#3. Your First Agentic AI Application]]** (5 videos)
-- **[[#4. Design Patterns for Agentic AI]]** (5 videos)
-- **[[#5. Enterprise Use Cases for Agentic AI]]** (5 videos)
-- **[[#6. Implementing a Customer Service AI Agent]]** (5 videos)
-- **[[#7. Responsible AI Considerations for AI Agents]]** (4 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Building your own AI agent
+  - Course coverage and prerequisites
+- [**1. Introduction to Agentic AI**](#1-introduction-to-agentic-ai) (5 videos)
+  - Basic GenAI uses and limitations
+  - What is agentic AI?
+  - An agentic AI example
+  - Benefits and challenges of agentic AI
+  - Technologies for agentic AI
+- [**2. An Agentic AI System**](#2-an-agentic-ai-system) (7 videos)
+  - Components of an agentic AI system
+  - Goals in agentic AI
+  - Planner in agentic AI
+  - Orchestrator and executor in agentic AI
+  - Tools in agentic AI
+  - GenAI models in agentic AI
+  - Memory in agentic AI
+- [**3. Your First Agentic AI Application**](#3-your-first-agentic-ai-application) (5 videos)
+  - A basic AI agent
+  - Router AI agent design
+  - Setting up the indexes for the router
+  - Setting up the agentic router
+  - Routing with agentic AI
+- [**4. Design Patterns for Agentic AI**](#4-design-patterns-for-agentic-ai) (5 videos)
+  - Reflection pattern in agentic AI
+  - Router pattern in agentic AI
+  - Tool use pattern in agentic AI
+  - Planning pattern in agentic AI
+  - Multi-agent pattern in agentic AI
+- [**5. Enterprise Use Cases for Agentic AI**](#5-enterprise-use-cases-for-agentic-ai) (5 videos)
+  - AI agents in finance
+  - AI agents in customer care
+  - AI agents in insurance
+  - AI agents in human resources
+  - AI agents in project management
+- [**6. Implementing a Customer Service AI Agent**](#6-implementing-a-customer-service-ai-agent) (5 videos)
+  - A customer service AI agent
+  - Customer service AI agent design
+  - Setting up functions and indexes
+  - Setting up the customer service AI agent
+  - Using the customer service AI agent
+- [**7. Responsible AI Considerations for AI Agents**](#7-responsible-ai-considerations-for-ai-agents) (4 videos)
+  - Hallucinations in agentic AI
+  - Explainability in agentic AI
+  - Integrations in agentic AI
+  - Compliance in agentic AI
+- [**8. Conclusion**](#8-conclusion) (1 videos)
+  - Continuing on with agentic AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your own AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/building-your-own-ai-agent?u=76281980)
@@ -149,7 +188,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Agentic AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic GenAI uses and limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/basic-gen-ai-uses-limitations?u=76281980)
@@ -432,7 +471,7 @@ created: 2026-04-29
 
 ### 2. An Agentic AI System
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of an agentic AI system
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/components-of-an-agentic-ai-system?u=76281980)
@@ -964,7 +1003,7 @@ created: 2026-04-29
 
 ### 3. Your First Agentic AI Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A basic AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-basic-ai-agent?u=76281980)
@@ -1236,7 +1275,7 @@ created: 2026-04-29
 
 ### 4. Design Patterns for Agentic AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reflection pattern in agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/reflection-pattern-in-agentic-ai?u=76281980)
@@ -1551,7 +1590,7 @@ created: 2026-04-29
 
 ### 5. Enterprise Use Cases for Agentic AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI agents in finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/ai-agents-in-finance?u=76281980)
@@ -1926,7 +1965,7 @@ created: 2026-04-29
 
 ### 6. Implementing a Customer Service AI Agent
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A customer service AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/a-customer-service-ai-agent?u=76281980)
@@ -2196,7 +2235,7 @@ created: 2026-04-29
 
 ### 7. Responsible AI Considerations for AI Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hallucinations in agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/hallucinations-in-agentic-ai?u=76281980)
@@ -2364,7 +2403,7 @@ created: 2026-04-29
 
 ### 8. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-for-developers-concepts-and-application-for-enterprises/continuing-on-with-agentic-ai?u=76281980)

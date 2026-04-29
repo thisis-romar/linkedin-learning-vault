@@ -54,15 +54,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Java Data Structures]]** (2 videos)
-- **[[#2. Using Arrays]]** (2 videos)
-- **[[#3. Java Collections]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Data structures in Java
+  - What you should know
+  - Using the exercise files
+  - Tour of CoderPad
+- [**1. Java Data Structures**](#1-java-data-structures) (2 videos)
+  - What is a data structure?
+  - How to choose a data structure
+- [**2. Using Arrays**](#2-using-arrays) (2 videos)
+  - Understanding arrays
+  - Using arrays
+- [**3. Java Collections**](#3-java-collections) (5 videos)
+  - The Collection interface
+  - LinkedLists
+  - Stacks
+  - Queues
+  - TreeSets
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data structures in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/data-structures-in-java?u=76281980)
@@ -334,7 +348,7 @@ created: 2026-04-29
 
 ### 1. Java Data Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a data structure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/what-is-a-data-structure?u=76281980)
@@ -452,7 +466,7 @@ created: 2026-04-29
 
 ### 2. Using Arrays
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/understanding-arrays?u=76281980)
@@ -647,7 +661,7 @@ created: 2026-04-29
 
 ### 3. Java Collections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Collection interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/the-collection-interface-23038543?u=76281980)
@@ -1234,7 +1248,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-data-structures-14403471/next-steps?u=76281980)

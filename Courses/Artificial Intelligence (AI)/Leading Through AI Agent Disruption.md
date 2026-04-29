@@ -53,13 +53,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Challenges and Opportunities of Agentic AI for Leadership]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Preparing for agentic AI
+- [**1. Challenges and Opportunities of Agentic AI for Leadership**](#1-challenges-and-opportunities-of-agentic-ai-for-leadership) (8 videos)
+  - Agentic AI and business efficiency
+  - Agentic AI key challenges
+  - Agentic AI key opportunities
+  - The impact of data quality and bias on agentic AI
+  - Transparency and accountability in agentic AI adoption
+  - Automating leadership decision-making with agentic AI
+  - Human-centric approaches to agentic AI
+  - Change management considerations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Anticipating what's next with AI agents
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/preparing-for-agentic-ai-26922359?u=76281980)
@@ -91,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Challenges and Opportunities of Agentic AI for Leadership
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agentic AI and business efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/agentic-ai-and-business-efficiency?u=76281980)
@@ -575,7 +585,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Anticipating what's next with AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-through-ai-agent-disruption/anticipating-what-s-next-with-ai-agents?u=76281980)

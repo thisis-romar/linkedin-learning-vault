@@ -47,13 +47,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Data-First AI Agents]]** (10 videos)
-- **[[#2. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Data-first AI agents
+- [**1. Data-First AI Agents**](#1-data-first-ai-agents) (10 videos)
+  - The importance of data in AI agents
+  - Dealing with data puddles
+  - Bringing structure to agentive AI data
+  - Mitigating risks when building agentive AI
+  - Agentive AI and data governance
+  - Responsible AI and data
+  - When to build agentive AI systems
+  - How to build trust in AI agents
+  - The data lifecycle of agentive AI
+  - Using AI as a data opportunity
+- [**2. Conclusion**](#2-conclusion) (1 videos)
+  - Agentive AI as an opportunity space
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data-first AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/data-first-ai-agents?u=76281980)
@@ -75,7 +87,7 @@ created: 2026-04-29
 
 ### 1. Data-First AI Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of data in AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/the-importance-of-data-in-ai-agents?u=76281980)
@@ -960,7 +972,7 @@ created: 2026-04-29
 
 ### 2. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agentive AI as an opportunity space
 > [LinkedIn Learning](https://www.linkedin.com/learning/agentic-ai-building-data-first-ai-agents/agentive-ai-as-an-opportunity-space?u=76281980)

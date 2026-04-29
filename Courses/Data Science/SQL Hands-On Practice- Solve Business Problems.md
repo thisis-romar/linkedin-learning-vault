@@ -63,17 +63,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Product Analytics in SQL with CTEs]]** (6 videos)
-- **[[#2. Data Transformation in SQL with CASE]]** (5 videos)
-- **[[#3. Combining Multiple Data Sources in SQL with UNION]]** (5 videos)
-- **[[#4. Dealing with Hierarchical Data in SQL with Self Joins]]** (5 videos)
-- **[[#5. Solving Advanced Problems in SQL with Window Functions]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Advancing your skills with SQL
+  - What you should know
+  - CoderPad introduction
+- [**1. Product Analytics in SQL with CTEs**](#1-product-analytics-in-sql-with-ctes) (6 videos)
+  - Summarizing customer data for leadership
+  - Combining aggregate functions with CTEs
+  - Introduction to CTEs
+  - Solution: Pull descriptive statistics with a CTE
+  - Solution: Explore variable distributions with CTEs
+  - Solution: Payment funnel analysis with CTEs
+- [**2. Data Transformation in SQL with CASE**](#2-data-transformation-in-sql-with-case) (5 videos)
+  - Translating status codes into business acumen
+  - Recoding and bucketing values using CASE
+  - Introduction to CASE
+  - Solution: Creating binary columns with CASE
+  - Solution: Create aggregated columns with CASE
+- [**3. Combining Multiple Data Sources in SQL with UNION**](#3-combining-multiple-data-sources-in-sql-with-union) (5 videos)
+  - Combining multiple email lists
+  - Combining multiple data sources with UNION
+  - Introduction to UNION
+  - Solution: Combine product tables with UNION
+  - Solution: Unpivoting columns into rows using UNION
+- [**4. Dealing with Hierarchical Data in SQL with Self Joins**](#4-dealing-with-hierarchical-data-in-sql-with-self-joins) (5 videos)
+  - Dealing with hierarchical data
+  - Relating users and admins using a self join
+  - Introduction to self joins
+  - Solution: Employee-manager data with a self join
+  - Solution: Comparing rows within the same table
+- [**5. Solving Advanced Problems in SQL with Window Functions**](#5-solving-advanced-problems-in-sql-with-window-functions) (6 videos)
+  - Pulling the most recent sales data
+  - Rank(), row_number(), and dense_rank()
+  - Pulling the most recent sale with row_number()
+  - Introduction to window functions
+  - Solution: Get running totals with window functions
+  - Solution: Timestamp differences with LEAD()
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with SQL
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advancing your skills with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/advancing-your-skills-with-sql?u=76281980)
@@ -149,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Product Analytics in SQL with CTEs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing customer data for leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/summarizing-customer-data-for-leadership?u=76281980)
@@ -899,7 +930,7 @@ created: 2026-04-29
 
 ### 2. Data Transformation in SQL with CASE
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Translating status codes into business acumen
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/translating-status-codes-into-business-acumen?u=76281980)
@@ -1432,7 +1463,7 @@ created: 2026-04-29
 
 ### 3. Combining Multiple Data Sources in SQL with UNION
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Combining multiple email lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/combining-multiple-email-lists?u=76281980)
@@ -1834,7 +1865,7 @@ created: 2026-04-29
 
 ### 4. Dealing with Hierarchical Data in SQL with Self Joins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dealing with hierarchical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/dealing-with-hierarchical-data?u=76281980)
@@ -2292,7 +2323,7 @@ created: 2026-04-29
 
 ### 5. Solving Advanced Problems in SQL with Window Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pulling the most recent sales data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/pulling-the-most-recent-sales-data?u=76281980)
@@ -2877,7 +2908,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-hands-on-practice-solve-business-problems/continuing-on-with-sql?u=76281980)

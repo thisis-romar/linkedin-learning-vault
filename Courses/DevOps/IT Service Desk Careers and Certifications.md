@@ -39,18 +39,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The IT Service Desk]]** (3 videos)
-- **[[#2. IT Service Desk Technical Skills]]** (3 videos)
-- **[[#3. IT Service Desk Nontechnical Skills]]** (5 videos)
-- **[[#4. IT Service Desk Certifications]]** (5 videos)
-- **[[#5. IT Service Desk Career Paths]]** (2 videos)
-- **[[#6. IT Service Desk Workplace Scenarios]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - IT service desk careers and certifications
+- [**1. The IT Service Desk**](#1-the-it-service-desk) (3 videos)
+  - IT service desk responsibilities
+  - IT service desk engineer
+  - The first step on the IT career ladder
+- [**2. IT Service Desk Technical Skills**](#2-it-service-desk-technical-skills) (3 videos)
+  - Hardware
+  - Software
+  - General IT skills
+- [**3. IT Service Desk Nontechnical Skills**](#3-it-service-desk-nontechnical-skills) (5 videos)
+  - Customer service
+  - Communication
+  - Time management
+  - Problem-solving
+  - Business knowledge
+- [**4. IT Service Desk Certifications**](#4-it-service-desk-certifications) (5 videos)
+  - Certification options
+  - Vendor certifications
+  - CompTIA certifications
+  - Information technology infrastructure library certifications
+  - Project management certifications
+- [**5. IT Service Desk Career Paths**](#5-it-service-desk-career-paths) (2 videos)
+  - Service desk career paths
+  - IT career paths
+- [**6. IT Service Desk Workplace Scenarios**](#6-it-service-desk-workplace-scenarios) (2 videos)
+  - Office based workplace
+  - Remote and hybrid workplaces
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IT service desk careers and certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-careers-and-certifications?u=76281980)
@@ -81,7 +103,7 @@ created: 2026-04-29
 
 ### 1. The IT Service Desk
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IT service desk responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/it-service-desk-responsibilities?u=76281980)
@@ -229,7 +251,7 @@ created: 2026-04-29
 
 ### 2. IT Service Desk Technical Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hardware
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/hardware?u=76281980)
@@ -356,7 +378,7 @@ created: 2026-04-29
 
 ### 3. IT Service Desk Nontechnical Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/customer-service?u=76281980)
@@ -588,7 +610,7 @@ created: 2026-04-29
 
 ### 4. IT Service Desk Certifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Certification options
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/certification-options?u=76281980)
@@ -861,7 +883,7 @@ created: 2026-04-29
 
 ### 5. IT Service Desk Career Paths
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Service desk career paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/service-desk-career-paths?u=76281980)
@@ -973,7 +995,7 @@ created: 2026-04-29
 
 ### 6. IT Service Desk Workplace Scenarios
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Office based workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/office-based-workplace?u=76281980)
@@ -1092,7 +1114,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-careers-and-certifications/next-steps?u=76281980)

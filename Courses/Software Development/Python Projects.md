@@ -48,18 +48,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Planning the Project]]** (5 videos)
-- **[[#2. Retrieving Content]]** (5 videos)
-- **[[#3. Emailing the Digest]]** (3 videos)
-- **[[#4. Building the GUI]]** (2 videos)
-- **[[#5. Iterating on the Design]]** (2 videos)
-- **[[#6. Packaging and Distribution]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Create your own Python projects
+  - What you should know
+  - Finding inspiration
+- [**1. Planning the Project**](#1-planning-the-project) (5 videos)
+  - User stories
+  - Use cases
+  - Requirements
+  - Program architecture
+  - Stub code
+- [**2. Retrieving Content**](#2-retrieving-content) (5 videos)
+  - Daily inspirational quotes
+  - Weather forecast using OpenWeatherMap
+  - 2023 Update on X (formerly known as Twitter)
+  - Trending X (formerly known as Twitter) topics
+  - Random Wikipedia articles
+- [**3. Emailing the Digest**](#3-emailing-the-digest) (3 videos)
+  - Format an email message
+  - Send an email
+  - Schedule a task
+- [**4. Building the GUI**](#4-building-the-gui) (2 videos)
+  - Plan the GUI
+  - Explore a Python Tkinter GUI
+- [**5. Iterating on the Design**](#5-iterating-on-the-design) (2 videos)
+  - Iterative improvements
+  - Save configuration settings
+- [**6. Packaging and Distribution**](#6-packaging-and-distribution) (1 videos)
+  - Distribute Python applications
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your own Python projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/create-your-own-python-projects?u=76281980)
@@ -174,7 +196,7 @@ created: 2026-04-29
 
 ### 1. Planning the Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### User stories
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/user-stories?u=76281980)
@@ -545,7 +567,7 @@ created: 2026-04-29
 
 ### 2. Retrieving Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Daily inspirational quotes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980)
@@ -1013,7 +1035,7 @@ created: 2026-04-29
 
 ### 3. Emailing the Digest
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Format an email message
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980)
@@ -1404,7 +1426,7 @@ created: 2026-04-29
 
 ### 4. Building the GUI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan the GUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980)
@@ -1645,7 +1667,7 @@ created: 2026-04-29
 
 ### 5. Iterating on the Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Iterative improvements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980)
@@ -1762,7 +1784,7 @@ created: 2026-04-29
 
 ### 6. Packaging and Distribution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Distribute Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980)
@@ -1821,7 +1843,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/next-steps?u=76281980)

@@ -46,17 +46,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Big Data on Azure Databricks]]** (7 videos)
-- **[[#2. Core Azure Databricks Workloads]]** (7 videos)
-- **[[#3. Scaling Azure Databricks Workloads]]** (6 videos)
-- **[[#4. Data Pipelines with Azure Databricks]]** (9 videos)
-- **[[#5. Machine Learning Architectures]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Optimize data pipelines
+  - What you should know
+  - About using cloud services
+- [**1. Big Data on Azure Databricks**](#1-big-data-on-azure-databricks) (7 videos)
+  - Meet Databricks Apache Spark clusters
+  - Business scenarios for Spark
+  - Understand Spark key components
+  - Azure Databricks concepts
+  - Quick start: Use a notebook
+  - Set up Databricks AI Playground
+  - Use Databricks AI Playground
+- [**2. Core Azure Databricks Workloads**](#2-core-azure-databricks-workloads) (7 videos)
+  - Review Databricks Azure cluster setup
+  - Use a Python notebook with dashboards
+  - Use an R notebook
+  - Use a Scala notebook for visualization
+  - Use a notebook with scikit-learn
+  - Use a Spark Streaming notebook
+  - Use an external Scala library: variant-spark
+- [**3. Scaling Azure Databricks Workloads**](#3-scaling-azure-databricks-workloads) (6 videos)
+  - Understand data engineering workload steps
+  - Understand cluster configurations
+  - Understand Spark job execution overhead
+  - Explore optimization control planes
+  - Optimize a cluster and job
+  - Run a production-size job
+- [**4. Data Pipelines with Azure Databricks**](#4-data-pipelines-with-azure-databricks) (9 videos)
+  - Use Databricks jobs and role-based control
+  - Use Databricks Runtime ML
+  - Understand ML Pipelines API
+  - Use ML Pipelines API
+  - Use distributed ML training
+  - Understand Databricks Delta
+  - Use Databricks Delta
+  - Use Azure Blob storage
+  - Understand MLflow
+- [**5. Machine Learning Architectures**](#5-machine-learning-architectures) (5 videos)
+  - Azure Databricks pipeline considerations
+  - Azure Databricks for data warehousing
+  - Azure Databricks and machine learning
+  - Azure Databricks for churn analysis
+  - Azure Databricks for intrusion detection
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980)
@@ -130,7 +168,7 @@ created: 2026-04-29
 
 ### 1. Big Data on Azure Databricks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet Databricks Apache Spark clusters
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980)
@@ -568,7 +606,7 @@ created: 2026-04-29
 
 ### 2. Core Azure Databricks Workloads
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review Databricks Azure cluster setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980)
@@ -1536,7 +1574,7 @@ created: 2026-04-29
 
 ### 3. Scaling Azure Databricks Workloads
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand data engineering workload steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980)
@@ -2157,7 +2195,7 @@ created: 2026-04-29
 
 ### 4. Data Pipelines with Azure Databricks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Databricks jobs and role-based control
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980)
@@ -3118,7 +3156,7 @@ created: 2026-04-29
 
 ### 5. Machine Learning Architectures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Databricks pipeline considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980)
@@ -3399,7 +3437,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980)

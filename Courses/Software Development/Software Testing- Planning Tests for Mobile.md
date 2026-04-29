@@ -50,16 +50,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setting Up Your Test Tools]]** (6 videos)
-- **[[#2. Planning Your Alpha Test]]** (7 videos)
-- **[[#3. Planning Your Beta Test]]** (7 videos)
-- **[[#4. Short Term and Long Term Planning]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Testing mobile applications
+  - What you should know
+- [**1. Setting Up Your Test Tools**](#1-setting-up-your-test-tools) (6 videos)
+  - Tracking versions
+  - Tracking issues
+  - Introduction to TestFlight
+  - Introduction to Google Play
+  - Identify your needs
+  - Setting up your project
+- [**2. Planning Your Alpha Test**](#2-planning-your-alpha-test) (7 videos)
+  - Preparing for your alpha test
+  - Using external testers for alpha
+  - Risks in preparation for alpha
+  - Identifying alpha topics and goals
+  - Design the alpha test plan
+  - Nailing down test resources
+  - Executing your alpha schedule
+- [**3. Planning Your Beta Test**](#3-planning-your-beta-test) (7 videos)
+  - Integrating customer validation
+  - Identifying beta topics and goals
+  - Designing your beta test plan
+  - Recruiting users
+  - Distributing your Android app
+  - Distributing your iOS app
+  - Executing your beta schedule
+- [**4. Short Term and Long Term Planning**](#4-short-term-and-long-term-planning) (4 videos)
+  - Taking feedback forward
+  - Dealing with common issues
+  - Riding the critical path
+  - Core values of test planning
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing mobile applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/testing-mobile-applications?u=76281980)
@@ -138,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Test Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tracking versions
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/tracking-versions?u=76281980)
@@ -768,7 +795,7 @@ created: 2026-04-29
 
 ### 2. Planning Your Alpha Test
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for your alpha test
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/preparing-for-your-alpha-test?u=76281980)
@@ -1536,7 +1563,7 @@ created: 2026-04-29
 
 ### 3. Planning Your Beta Test
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating customer validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/integrating-customer-validation?u=76281980)
@@ -2162,7 +2189,7 @@ created: 2026-04-29
 
 ### 4. Short Term and Long Term Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking feedback forward
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/taking-feedback-forward?u=76281980)
@@ -2584,7 +2611,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-planning-tests-for-mobile/next-steps?u=76281980)

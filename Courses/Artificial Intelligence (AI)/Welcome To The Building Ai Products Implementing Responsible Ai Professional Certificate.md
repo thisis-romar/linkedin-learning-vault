@@ -47,11 +47,12 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building AI products: Implementing responsible AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building AI products: Implementing responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-implementing-responsible-ai-professional-certificate/building-ai-products-implementing-responsible-ai?u=76281980)

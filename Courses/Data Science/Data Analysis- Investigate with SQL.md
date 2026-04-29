@@ -53,17 +53,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Starting the Investigation with SQL Query]]** (3 videos)
-- **[[#2. Filter Data for Refined Results]]** (4 videos)
-- **[[#3. Performing Manual Data Analysis]]** (2 videos)
-- **[[#4. Exploring Related Table Data]]** (4 videos)
-- **[[#5. Conclusive Analysis for Data-Driven Action]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Why learn SQL today?
+  - What you should know
+  - Solve a crime with SQL
+- [**1. Starting the Investigation with SQL Query**](#1-starting-the-investigation-with-sql-query) (3 videos)
+  - Data analysis: First steps
+  - SQL core concepts: Data types, tables, columns, and records
+  - First query: Comments, aliases, and sorting
+- [**2. Filter Data for Refined Results**](#2-filter-data-for-refined-results) (4 videos)
+  - Adding criteria to SQL queries
+  - Second query: WHERE clause, operators, date, and texts
+  - Query composition: More operators for refining results
+  - Third query: Operators and context understanding
+- [**3. Performing Manual Data Analysis**](#3-performing-manual-data-analysis) (2 videos)
+  - Logical deduction by observing results
+  - Crime-solving SQL analysis recap
+- [**4. Exploring Related Table Data**](#4-exploring-related-table-data) (4 videos)
+  - Examining the evidence in related tables
+  - Fourth query breakdown: BETWEEN operator and date ranges
+  - Finding supporting evidence to align objectives
+  - Fifth query breakdown: Using the IN and AND operators
+- [**5. Conclusive Analysis for Data-Driven Action**](#5-conclusive-analysis-for-data-driven-action) (3 videos)
+  - Solving the case with data-driven insights
+  - Project: The art of disguise
+  - Project: Solution walkthrough
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue enhancing your SQL data-driven skills
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why learn SQL today?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/delete-why-learn-sql-today?u=76281980)
@@ -238,7 +258,7 @@ created: 2026-04-29
 
 ### 1. Starting the Investigation with SQL Query
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data analysis: First steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/data-analysis-first-steps-25848460?u=76281980)
@@ -448,7 +468,7 @@ created: 2026-04-29
 
 ### 2. Filter Data for Refined Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding criteria to SQL queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/adding-criteria-to-sql-queries-25843468?u=76281980)
@@ -661,7 +681,7 @@ created: 2026-04-29
 
 ### 3. Performing Manual Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Logical deduction by observing results
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/logical-deduction-by-observing-results-25843467?u=76281980)
@@ -842,7 +862,7 @@ created: 2026-04-29
 
 ### 4. Exploring Related Table Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Examining the evidence in related tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/examining-the-evidence-in-related-tables-25846440?u=76281980)
@@ -1023,7 +1043,7 @@ created: 2026-04-29
 
 ### 5. Conclusive Analysis for Data-Driven Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving the case with data-driven insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/solving-the-case-with-data-driven-insights-25845462?u=76281980)
@@ -1264,7 +1284,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue enhancing your SQL data-driven skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analysis-investigate-with-sql/continue-enhancing-your-sql-data-driven-skills-25841483?u=76281980)

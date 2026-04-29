@@ -47,17 +47,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Overview of IT Architecture]]** (6 videos)
-- **[[#2. Context, Roles, Activities, and Frameworks]]** (5 videos)
-- **[[#3. Achieving the Goals of IT Architecture]]** (4 videos)
-- **[[#4. Contribution to IT Practices]]** (7 videos)
-- **[[#5. Advances in IT Architecture]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Stand apart with IT architecture know-how
+- [**1. Overview of IT Architecture**](#1-overview-of-it-architecture) (6 videos)
+  - IT infrastructure: The product of IT architecture
+  - Configuration, functionality, and qualities
+  - What is IT architecture?
+  - Why IT architecture?
+  - Traditional vs. modern IT architecture
+  - IT architecture vs. enterprise IT architecture
+- [**2. Context, Roles, Activities, and Frameworks**](#2-context-roles-activities-and-frameworks) (5 videos)
+  - IT architecture in context
+  - The role of the IT architect
+  - Characteristics of successful IT architects
+  - The activities of the IT architecture practice
+  - IT architecture frameworks and methodologies
+- [**3. Achieving the Goals of IT Architecture**](#3-achieving-the-goals-of-it-architecture) (4 videos)
+  - Reducing unnecessary complexity
+  - Standardization
+  - Consolidation
+  - Invest in existing IT infrastructure or start fresh?
+- [**4. Contribution to IT Practices**](#4-contribution-to-it-practices) (7 videos)
+  - IT risk management
+  - IT security management
+  - IT compliance management
+  - IT identity and access management
+  - IT storage management
+  - IT update management
+  - IT disaster recovery management
+- [**5. Advances in IT Architecture**](#5-advances-in-it-architecture) (10 videos)
+  - Hybrid and multicloud IT architectures
+  - Edge computing
+  - Microservices and containerization
+  - Serverless computing
+  - Zero trust security
+  - Artificial intelligence and machine learning
+  - Data mesh
+  - Observability and monitoring
+  - Quantum computing
+  - Sustainability and green IT
+- [**Conclusion**](#conclusion) (1 videos)
+  - Further your journey into IT architecture
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stand apart with IT architecture know-how
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/stand-apart-with-it-architecture-know-how?u=76281980)
@@ -90,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Overview of IT Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IT infrastructure: The product of IT architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-infrastructure-the-product-of-it-architecture?u=76281980)
@@ -594,7 +628,7 @@ created: 2026-04-29
 
 ### 2. Context, Roles, Activities, and Frameworks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IT architecture in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-architecture-in-context?u=76281980)
@@ -973,7 +1007,7 @@ created: 2026-04-29
 
 ### 3. Achieving the Goals of IT Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reducing unnecessary complexity
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/reducing-unnecessary-complexity?u=76281980)
@@ -1286,7 +1320,7 @@ created: 2026-04-29
 
 ### 4. Contribution to IT Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IT risk management
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/it-risk-management?u=76281980)
@@ -1694,7 +1728,7 @@ created: 2026-04-29
 
 ### 5. Advances in IT Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid and multicloud IT architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/hybrid-and-multi-cloud-it-architectures?u=76281980)
@@ -2264,7 +2298,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further your journey into IT architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-architecture-24969192/further-your-journey-into-it-architecture?u=76281980)

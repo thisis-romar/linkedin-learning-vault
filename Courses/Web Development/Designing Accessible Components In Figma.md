@@ -48,14 +48,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Accessible Components]]** (8 videos)
-- **[[#2. Advanced Components]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why does accessibility matter in Figma?
+  - What are accessible components?
+- [**1. Accessible Components**](#1-accessible-components) (8 videos)
+  - Style your components
+  - Create your first component in Figma
+  - Create accessible buttons
+  - Create accessible icons
+  - Accessible radio buttons and checkboxes
+  - Creating an accessible image card
+  - Challenge: Create accessible input fields
+  - Solution: Create accessible input fields
+- [**2. Advanced Components**](#2-advanced-components) (6 videos)
+  - Accessible header menus
+  - Accessible footers
+  - Figma plugins for accessibility
+  - Create a simple web page with Figma components
+  - Challenge: Design a contact page
+  - Solution: Design a contact page
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue designing accessible components
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why does accessibility matter in Figma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/why-does-accessibility-matter-in-figma?u=76281980)
@@ -149,7 +166,7 @@ created: 2026-04-29
 
 ### 1. Accessible Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Style your components
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/style-your-components?u=76281980)
@@ -1084,7 +1101,7 @@ created: 2026-04-29
 
 ### 2. Advanced Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible header menus
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/accessible-header-menus?u=76281980)
@@ -1625,7 +1642,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue designing accessible components
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-accessible-components-in-figma/continue-designing-accessible-components?u=76281980)

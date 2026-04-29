@@ -39,15 +39,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Web Content Accessibilty Guidelines]]** (4 videos)
-- **[[#2.  Who Needs Accommodations?]]** (6 videos)
-- **[[#3.  Making Learning Accessible]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Create training that's accessible to all
+  - Defining accessible learning
+- [**1. Web Content Accessibilty Guidelines**](#1-web-content-accessibilty-guidelines) (4 videos)
+  - Expectations for providing accommodations
+  - Web Content Accessibility Guidelines
+  - Perceivable, operable, understandable, and robust
+  - Common accessibility issues
+- [**2.  Who Needs Accommodations?**](#2-who-needs-accommodations) (6 videos)
+  - Vision
+  - Hearing
+  - Motor function
+  - Cognitive function
+  - Language
+  - Digital access
+- [**3.  Making Learning Accessible**](#3-making-learning-accessible) (5 videos)
+  - Using learning management systems and other tools
+  - Structuring content for screen readers
+  - Adding captions and transcripts for video content
+  - Adding alt text to images
+  - Using real text links
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create training that's accessible to all
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980)
@@ -133,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Web Content Accessibilty Guidelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expectations for providing accommodations
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/expectations-for-providing-accommodations?u=76281980)
@@ -500,7 +518,7 @@ created: 2026-04-29
 
 ### 2.  Who Needs Accommodations?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980)
@@ -905,7 +923,7 @@ created: 2026-04-29
 
 ### 3.  Making Learning Accessible
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using learning management systems and other tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980)
@@ -1470,7 +1488,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/next-steps?u=76281980)

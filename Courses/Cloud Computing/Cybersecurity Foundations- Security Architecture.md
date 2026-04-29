@@ -49,17 +49,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Developing Your Identity Management Program]]** (3 videos)
-- **[[#2. Developing Your Vulnerability Management Program]]** (3 videos)
-- **[[#3. Developing Your Threat Management Program]]** (3 videos)
-- **[[#4. Developing Your Trust Management Program]]** (3 videos)
-- **[[#5. Developing Security Architecture Patterns]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Protect your enterprise with the four disciplines of cybersecurity
+  - A brief introduction to security architecture frameworks
+  - A function and component-based approach to security architecture
+  - The four disciplines of cybersecurity
+- [**1. Developing Your Identity Management Program**](#1-developing-your-identity-management-program) (3 videos)
+  - Generating your identity management objectives
+  - Collecting your core identity management capabilities
+  - Assembling your identity management platform
+- [**2. Developing Your Vulnerability Management Program**](#2-developing-your-vulnerability-management-program) (3 videos)
+  - Generating your vulnerability management objectives
+  - Collecting your core vulnerability management capabilities
+  - Assembling your vulnerability management platform
+- [**3. Developing Your Threat Management Program**](#3-developing-your-threat-management-program) (3 videos)
+  - Generating your threat management objectives
+  - Collecting your core threat management capabilities
+  - Assembling your threat management platform
+- [**4. Developing Your Trust Management Program**](#4-developing-your-trust-management-program) (3 videos)
+  - Generating your trust management objectives
+  - Collecting your core trust management capabilities
+  - Assembling your trust management platform
+- [**5. Developing Security Architecture Patterns**](#5-developing-security-architecture-patterns) (2 videos)
+  - Building an enterprise reference security architecture
+  - Building a zero trust architecture
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect your enterprise with the four disciplines of cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/protect-your-enterprise-with-the-four-disciplines-of-cybersecurity?u=76281980)
@@ -243,7 +262,7 @@ created: 2026-04-29
 
 ### 1. Developing Your Identity Management Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating your identity management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-identity-management-objectives?u=76281980)
@@ -387,7 +406,7 @@ created: 2026-04-29
 
 ### 2. Developing Your Vulnerability Management Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating your vulnerability management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-vulnerability-management-objectives?u=76281980)
@@ -563,7 +582,7 @@ created: 2026-04-29
 
 ### 3. Developing Your Threat Management Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating your threat management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-threat-management-objectives?u=76281980)
@@ -701,7 +720,7 @@ created: 2026-04-29
 
 ### 4. Developing Your Trust Management Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating your trust management objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/generating-your-trust-management-objectives?u=76281980)
@@ -851,7 +870,7 @@ created: 2026-04-29
 
 ### 5. Developing Security Architecture Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building an enterprise reference security architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/building-an-enterprise-reference-security-architecture?u=76281980)
@@ -955,7 +974,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-security-architecture/next-steps?u=76281980)

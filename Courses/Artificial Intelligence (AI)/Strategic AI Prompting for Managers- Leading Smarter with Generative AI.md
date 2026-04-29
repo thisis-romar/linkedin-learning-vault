@@ -38,13 +38,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#Strategic AI Prompting for Managers]]** (12 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Using generative AI strategically as a manager
+- [**Strategic AI Prompting for Managers**](#strategic-ai-prompting-for-managers) (12 videos)
+  - AI prompts for team communication
+  - AI prompts for conflict resolution
+  - AI prompts for team coaching
+  - AI prompts for performance management
+  - AI Prompts for smarter decision-making
+  - AI prompts for optimizing resource allocation
+  - AI prompts for change management
+  - AI prompts for new hire onboarding
+  - AI Prompts for smarter hiring decisions
+  - AI prompts for cross-functional collaboration
+  - AI prompts for employee well-being
+  - AI prompts for strategic planning and goal setting
+- [**Conclusion**](#conclusion) (1 videos)
+  - Generative AI in action: Applying what you've learned
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using generative AI strategically as a manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/using-generative-ai-strategically-as-a-manager?u=76281980)
@@ -74,7 +88,7 @@ created: 2026-04-29
 
 ### Strategic AI Prompting for Managers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI prompts for team communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/ai-prompts-for-team-communication?u=76281980)
@@ -697,7 +711,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI in action: Applying what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-ai-prompting-for-managers-leading-smarter-with-generative-ai/generative-ai-in-action-applying-what-you-ve-learned?u=76281980)

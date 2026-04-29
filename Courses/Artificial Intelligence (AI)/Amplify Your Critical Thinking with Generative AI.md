@@ -44,14 +44,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Rooting Out Biases]]** (3 videos)
-- **[[#2. Critical Thinking Framework for Generative AI]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - A timeless framework for an evolving technology
+  - Putting generative AI to the critical thinking test
+- [**1. Rooting Out Biases**](#1-rooting-out-biases) (3 videos)
+  - Putting generative AI through the truth filter
+  - Identifying biases in generative AI
+  - Identifying biases in your thinking using generative AI
+- [**2. Critical Thinking Framework for Generative AI**](#2-critical-thinking-framework-for-generative-ai) (8 videos)
+  - Using the PIQPACC critical thinking framework with generative AI
+  - Establishing purpose boundaries when researching with generative AI
+  - Testing information quality using generative AI
+  - Using generative AI to create empowered questions
+  - Using generative AI for perspective simulation
+  - Using generative AI to probe assumptions
+  - Clarifying concepts using generative AI
+  - Improving your conclusions using generative AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Choose three ways others can use critical thinking with generative AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A timeless framework for an evolving technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/a-timeless-framework-for-an-evolving-technology?u=76281980)
@@ -168,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Rooting Out Biases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting generative AI through the truth filter
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/putting-generative-ai-through-the-truth-filter?u=76281980)
@@ -402,7 +416,7 @@ created: 2026-04-29
 
 ### 2. Critical Thinking Framework for Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the PIQPACC critical thinking framework with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/using-the-piqpacc-critical-thinking-framework-with-generative-ai?u=76281980)
@@ -1116,7 +1130,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose three ways others can use critical thinking with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-critical-thinking-with-generative-ai/choose-three-ways-others-can-use-critical-thinking-with-generative-ai?u=76281980)

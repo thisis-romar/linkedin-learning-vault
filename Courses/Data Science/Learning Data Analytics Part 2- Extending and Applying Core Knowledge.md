@@ -52,19 +52,70 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Working with Business Data]]** (5 videos)
-- **[[#2. Building Data Sets with Queries]]** (8 videos)
-- **[[#3. Chart Data Anytime and Anywhere]]** (7 videos)
-- **[[#4. Pivot Data Anytime and Anywhere]]** (7 videos)
-- **[[#5. Building in Power BI Desktop]]** (7 videos)
-- **[[#6. Power Query Tips and Tricks for Data Analysts]]** (7 videos)
-- **[[#7. Presenting Data in Meetings]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Extending your data analysis skills
+  - What you should know
+  - Required software
+- [**1. Working with Business Data**](#1-working-with-business-data) (5 videos)
+  - Understanding business rules
+  - Understanding noise in data
+  - Breaking down the ask
+  - Challenge: Getting started
+  - Solution: Getting started
+- [**2. Building Data Sets with Queries**](#2-building-data-sets-with-queries) (8 videos)
+  - Understanding queries
+  - Building basic select queries
+  - Building distinct queries
+  - Building queries with Joins
+  - Building append queries
+  - Building total queries
+  - Challenge: Total number of orders by customer
+  - Solution: Total number orders by customer
+- [**3. Chart Data Anytime and Anywhere**](#3-chart-data-anytime-and-anywhere) (7 videos)
+  - Ad hoc reporting
+  - Building basic charts visual
+  - Visuals using conditional formatting
+  - Setting templates and default charts
+  - Linking verus embedding charts and data
+  - Challenge: Ad hoc presentation
+  - Solution: Ad hoc presentation
+- [**4. Pivot Data Anytime and Anywhere**](#4-pivot-data-anytime-and-anywhere) (7 videos)
+  - What are pivots?
+  - Build basic pivot tables
+  - Modifying pivots for readability
+  - Visualizing pivot tables
+  - Using pivots to filter data sets
+  - Challenge: Best customer year
+  - Solution: Best customer year
+- [**5. Building in Power BI Desktop**](#5-building-in-power-bi-desktop) (7 videos)
+  - Building dashboards
+  - Building a matrix and visuals
+  - Use cards for numbers
+  - Using visuals in Power BI for filters
+  - Publishing visuals and data sets
+  - Challenge: Product dashboard
+  - Solution: Product dashboard
+- [**6. Power Query Tips and Tricks for Data Analysts**](#6-power-query-tips-and-tricks-for-data-analysts) (7 videos)
+  - Using column profile to learn the data
+  - Appending data by leveraging folders
+  - Duplicate or reference data sets
+  - Unpivoting data from existing reports
+  - Custom sorting in Power BI
+  - Challenge: Custom sort by education
+  - Solution: Custom sort by education
+- [**7. Presenting Data in Meetings**](#7-presenting-data-in-meetings) (6 videos)
+  - Consider how to present data in meetings
+  - What to do before going company wide
+  - Leveraging PowerPoint for presentations
+  - Documenting data procedures
+  - Challenge: Highlight dashboard using PowerPoint
+  - Solution: Highlight dashboard using PowerPoint
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with data analysis
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending your data analysis skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/extending-your-data-analysis-skills-23313587?u=76281980)
@@ -148,7 +199,7 @@ created: 2026-04-29
 
 ### 1. Working with Business Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding business rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-business-rules?u=76281980)
@@ -470,7 +521,7 @@ created: 2026-04-29
 
 ### 2. Building Data Sets with Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/understanding-queries?u=76281980)
@@ -1408,7 +1459,7 @@ created: 2026-04-29
 
 ### 3. Chart Data Anytime and Anywhere
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ad hoc reporting
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/ad-hoc-reporting?u=76281980)
@@ -2196,7 +2247,7 @@ created: 2026-04-29
 
 ### 4. Pivot Data Anytime and Anywhere
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are pivots?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/what-are-pivots?u=76281980)
@@ -2847,7 +2898,7 @@ created: 2026-04-29
 
 ### 5. Building in Power BI Desktop
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building dashboards
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/building-dashboards?u=76281980)
@@ -3753,7 +3804,7 @@ created: 2026-04-29
 
 ### 6. Power Query Tips and Tricks for Data Analysts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using column profile to learn the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/using-column-profile-to-learn-the-data?u=76281980)
@@ -4379,7 +4430,7 @@ created: 2026-04-29
 
 ### 7. Presenting Data in Meetings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Consider how to present data in meetings
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/consider-how-to-present-data-in-meetings?u=76281980)
@@ -4944,7 +4995,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-part-2-extending-and-applying-core-knowledge/continuing-on-with-data-analysis?u=76281980)

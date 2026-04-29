@@ -39,19 +39,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Sampling]]** (3 videos)
-- **[[#2. Confidence Intervals]]** (3 videos)
-- **[[#3. Hypothesis Tests]]** (5 videos)
-- **[[#4. Comparing Two Populations]]** (3 videos)
-- **[[#5. ANOVA: Analysis of Variance]]** (2 videos)
-- **[[#6. Regression]]** (3 videos)
-- **[[#7. Simulation]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Using Excel for statistics
+  - What you need to know
+  - Exercise files
+  - Tool pack
+- [**1. Sampling**](#1-sampling) (3 videos)
+  - Sample considerations
+  - The central limit theorem
+  - T-statistic vs. z-statistic
+- [**2. Confidence Intervals**](#2-confidence-intervals) (3 videos)
+  - Introduction to confidence intervals
+  - Creating confidence intervals in Excel (proportions)
+  - Creating confidence intervals in Excel (means)
+- [**3. Hypothesis Tests**](#3-hypothesis-tests) (5 videos)
+  - How to test a hypothesis
+  - Five steps of hypothesis testing
+  - One-tailed vs. two-tailed tests
+  - Hypothesis test exercise (means)
+  - Hypothesis test exercise (proportions)
+- [**4. Comparing Two Populations**](#4-comparing-two-populations) (3 videos)
+  - Explanation of two population comparisons
+  - Comparing two populations (proportions)
+  - Comparing two populations (means)
+- [**5. ANOVA: Analysis of Variance**](#5-anova-analysis-of-variance) (2 videos)
+  - ANOVA: What is analysis of variance?
+  - Hypothesis test and the F-statistic
+- [**6. Regression**](#6-regression) (3 videos)
+  - What is regression?
+  - Regression terminology
+  - Linear regressions
+- [**7. Simulation**](#7-simulation) (3 videos)
+  - What are simulations?
+  - Monte Carlo simulation example
+  - Business simulation example
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue learning Excel statistics
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Excel for statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980)
@@ -202,7 +229,7 @@ created: 2026-04-29
 
 ### 1. Sampling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sample considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980)
@@ -940,7 +967,7 @@ created: 2026-04-29
 
 ### 2. Confidence Intervals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to confidence intervals
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/introduction-to-confidence-intervals?u=76281980)
@@ -1569,7 +1596,7 @@ created: 2026-04-29
 
 ### 3. Hypothesis Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to test a hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/how-to-test-a-hypothesis?u=76281980)
@@ -2467,7 +2494,7 @@ created: 2026-04-29
 
 ### 4. Comparing Two Populations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanation of two population comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/explanation-of-two-population-comparisons?u=76281980)
@@ -3072,7 +3099,7 @@ created: 2026-04-29
 
 ### 5. ANOVA: Analysis of Variance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ANOVA: What is analysis of variance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/anova-what-is-analysis-of-variance?u=76281980)
@@ -3633,7 +3660,7 @@ created: 2026-04-29
 
 ### 6. Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980)
@@ -4124,7 +4151,7 @@ created: 2026-04-29
 
 ### 7. Simulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are simulations?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-are-simulations?u=76281980)
@@ -4596,7 +4623,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Excel statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980)

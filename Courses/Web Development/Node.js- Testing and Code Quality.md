@@ -54,17 +54,70 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Testing and Code Quality Fundamentals]]** (9 videos)
-- **[[#2. Finding Errors with Linting]]** (10 videos)
-- **[[#3. Validate Correctness with Unit Testing]]** (10 videos)
-- **[[#4. Replacing and Inspecting Using Spies, Stubs, and Mocks]]** (8 videos)
-- **[[#5. Reporting on Your Entire Codebase]]** (9 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Cleaning your codebase
+  - What you should know
+  - Preparing for Node.js development
+  - Exercise files
+  - Demo setup and tour
+- [**1. Testing and Code Quality Fundamentals**](#1-testing-and-code-quality-fundamentals) (9 videos)
+  - What is code quality?
+  - Coding conventions and standards
+  - Creating and enforcing coding standards
+  - Unit, integration, and functional testing
+  - Testing frameworks
+  - TDD and BDD test specifications
+  - Assertions for correctness
+  - Challenge: Organize your tests
+  - Solution: Organize your tests
+- [**2. Finding Errors with Linting**](#2-finding-errors-with-linting) (10 videos)
+  - Standardizing with EditorConfig
+  - Adding EditorConfig to a project and IDE
+  - Comparing JavaScript linters
+  - Installing ESLint
+  - Configuring ESLint
+  - Extending an ESLint shareable config
+  - Linting your codebase
+  - Fixing code in VSC with ESLint
+  - Challenge: Create a shareable ESLint config
+  - Solution: Create a shareable ESLint config
+- [**3. Validate Correctness with Unit Testing**](#3-validate-correctness-with-unit-testing) (10 videos)
+  - Survey of Node.js testing frameworks
+  - Install Jest in a Node.js project
+  - What and where to unit test?
+  - Writing your first Jest unit test
+  - Running a test suite with Jest
+  - Testing asynchronous callbacks with Jest
+  - Writing callback test suites with Jest
+  - Testing promises with Jest
+  - Challenge: Test async/await with Jest
+  - Solution: Test async/await with Jest
+- [**4. Replacing and Inspecting Using Spies, Stubs, and Mocks**](#4-replacing-and-inspecting-using-spies-stubs-and-mocks) (8 videos)
+  - Replacing code with test doubles
+  - Mocking functions for test code
+  - Writing your first Jest mock
+  - Mock an entire module with Jest
+  - Mocking module dependencies
+  - Spying to observe interactions
+  - Challenge: Mock a successful reservation creation
+  - Solution: Mock a successful reservation creation
+- [**5. Reporting on Your Entire Codebase**](#5-reporting-on-your-entire-codebase) (9 videos)
+  - Why code coverage matters
+  - Measuring code coverage with Jest
+  - Functional testing with Jest
+  - Test doubles and Express apps
+  - Form submissions with SuperTest
+  - Fallacies of 100% test coverage
+  - Coverage with continuous integration
+  - Challenge: Isolate routes for faster tests
+  - Solution: Isolate routes for faster tests
+- [**Conclusion**](#conclusion) (2 videos)
+  - Testing and code quality goals
+  - Where to go from here?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cleaning your codebase
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/cleaning-your-codebase?u=76281980)
@@ -398,7 +451,7 @@ created: 2026-04-29
 
 ### 1. Testing and Code Quality Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is code quality?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/what-is-code-quality?u=76281980)
@@ -1651,7 +1704,7 @@ created: 2026-04-29
 
 ### 2. Finding Errors with Linting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Standardizing with EditorConfig
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/standardizing-with-editorconfig?u=76281980)
@@ -2904,7 +2957,7 @@ created: 2026-04-29
 
 ### 3. Validate Correctness with Unit Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Survey of Node.js testing frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/survey-of-node-js-testing-frameworks?u=76281980)
@@ -4030,7 +4083,7 @@ created: 2026-04-29
 
 ### 4. Replacing and Inspecting Using Spies, Stubs, and Mocks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Replacing code with test doubles
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/replacing-code-with-test-doubles?u=76281980)
@@ -5019,7 +5072,7 @@ created: 2026-04-29
 
 ### 5. Reporting on Your Entire Codebase
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why code coverage matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/why-code-coverage-matters?u=76281980)
@@ -6152,7 +6205,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing and code quality goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-testing-and-code-quality-14003857/testing-and-code-quality-goals?u=76281980)

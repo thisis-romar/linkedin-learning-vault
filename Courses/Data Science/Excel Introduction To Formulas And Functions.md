@@ -49,17 +49,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introducing Excel Formulas and Functions]]** (7 videos)
-- **[[#2. Creating Basic Summary Functions]]** (5 videos)
-- **[[#3. Managing Named Ranges and Excel Tables]]** (4 videos)
-- **[[#4. Managing Data in Excel]]** (4 videos)
-- **[[#5. Auditing Worksheet Formulas]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Create powerful Excel formulas
+  - What you should know before starting
+- [**1. Introducing Excel Formulas and Functions**](#1-introducing-excel-formulas-and-functions) (7 videos)
+  - Familiarize yourself with functions and formulas
+  - Create a formula
+  - Introduce arithmetic operators
+  - Use cell references in formulas
+  - Use absolute and relative references in formulas
+  - Copy and paste formulas and values
+  - Edit a formula
+- [**2. Creating Basic Summary Functions**](#2-creating-basic-summary-functions) (5 videos)
+  - Create a SUM or AVERAGE formula
+  - Create an AutoSum formula
+  - Create formulas to count cells
+  - Create formulas to summarize cells conditionally
+  - Summarize data on the status bar
+- [**3. Managing Named Ranges and Excel Tables**](#3-managing-named-ranges-and-excel-tables) (4 videos)
+  - Summarize data using named ranges
+  - Edit and delete named ranges
+  - Summarize data using an Excel table
+  - Refer to Excel table cells in formulas
+- [**4. Managing Data in Excel**](#4-managing-data-in-excel) (4 videos)
+  - Manage data using text functions
+  - Separate data using Flash Fill
+  - Create data validation rules
+  - Restrict data entry using lists
+- [**5. Auditing Worksheet Formulas**](#5-auditing-worksheet-formulas) (4 videos)
+  - Trace formula precedents and dependents
+  - Evaluate Excel formulas step by step
+  - Identify and trace errors
+  - Manage Excel formula error indicators
+- [**Conclusion**](#conclusion) (1 videos)
+  - Further resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create powerful Excel formulas
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-powerful-excel-formulas?u=76281980)
@@ -110,7 +137,7 @@ created: 2026-04-29
 
 ### 1. Introducing Excel Formulas and Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Familiarize yourself with functions and formulas
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/familiarize-yourself-with-functions-and-formulas?u=76281980)
@@ -910,7 +937,7 @@ created: 2026-04-29
 
 ### 2. Creating Basic Summary Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a SUM or AVERAGE formula
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/create-a-sum-or-average-formula?u=76281980)
@@ -1374,7 +1401,7 @@ created: 2026-04-29
 
 ### 3. Managing Named Ranges and Excel Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize data using named ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/summarize-data-using-named-ranges?u=76281980)
@@ -1807,7 +1834,7 @@ created: 2026-04-29
 
 ### 4. Managing Data in Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage data using text functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/manage-data-using-text-functions?u=76281980)
@@ -2191,7 +2218,7 @@ created: 2026-04-29
 
 ### 5. Auditing Worksheet Formulas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Trace formula precedents and dependents
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/trace-formula-precedents-and-dependents?u=76281980)
@@ -2444,7 +2471,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formulas-and-functions-2023/further-resources?u=76281980)

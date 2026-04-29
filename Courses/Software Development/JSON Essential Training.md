@@ -52,18 +52,59 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Understanding JSON]]** (7 videos)
-- **[[#2. Processing JSON Data]]** (5 videos)
-- **[[#3. Using JSON Data]]** (7 videos)
-- **[[#4. Applying Techniques for Working with JSON]]** (3 videos)
-- **[[#5. Working with JSON Schema]]** (7 videos)
-- **[[#6. Structuring Data with JSON-LD]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - The essentials of using JSON
+  - What you should know
+  - Set up your environment
+  - Work with the GitHub repo
+- [**1. Understanding JSON**](#1-understanding-json) (7 videos)
+  - What is JSON?
+  - Understand objects in programming
+  - Structure JSON by following the rules
+  - Build a basic JSON structure
+  - Build a nested JSON structure
+  - Challenge: Debug a JSON structure and create your own
+  - Solution: Debug a JSON structure and create your own
+- [**2. Processing JSON Data**](#2-processing-json-data) (5 videos)
+  - Process JSON with language tools and libraries
+  - Convert JSON to an object or array
+  - Convert an object or array to JSON
+  - Challenge: Process JSON data
+  - Solution: Process JSON data
+- [**3. Using JSON Data**](#3-using-json-data) (7 videos)
+  - How to send and receive JSON data
+  - Create an HTTP request
+  - Work with an HTTP response
+  - Convert between JSON and other data formats
+  - Make sense of JSON-P
+  - Challenge: Examine JSON data used by websites
+  - Solution: Examine JSON data used by websites
+- [**4. Applying Techniques for Working with JSON**](#4-applying-techniques-for-working-with-json) (3 videos)
+  - Prevent data reuse
+  - Return readable JSON
+  - Test for an empty object
+- [**5. Working with JSON Schema**](#5-working-with-json-schema) (7 videos)
+  - What is JSON Schema?
+  - Create a basic schema with JSON Schema
+  - Validate JSON data against a schema
+  - Specify required properties with JSON Schema
+  - Work with schema generators
+  - Challenge: Work with JSON Schema
+  - Solution: Work with JSON Schema
+- [**6. Structuring Data with JSON-LD**](#6-structuring-data-with-json-ld) (7 videos)
+  - What is JSON-LD?
+  - Implement predefined key names
+  - Map a data structure with JSON-LD
+  - Work with JSON-LD generators
+  - Add a JSON-LD snippet to a web page
+  - Challenge: Structure data with JSON-LD
+  - Solution: Structure data with JSON-LD
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The essentials of using JSON
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/the-essentials-of-using-json?u=76281980)
@@ -196,7 +237,7 @@ created: 2026-04-29
 
 ### 1. Understanding JSON
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is JSON?
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json?u=76281980)
@@ -756,7 +797,7 @@ created: 2026-04-29
 
 ### 2. Processing JSON Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Process JSON with language tools and libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/process-json-with-language-tools-and-libraries?u=76281980)
@@ -1100,7 +1141,7 @@ created: 2026-04-29
 
 ### 3. Using JSON Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to send and receive JSON data
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/how-to-send-and-receive-json-data?u=76281980)
@@ -1563,7 +1604,7 @@ created: 2026-04-29
 
 ### 4. Applying Techniques for Working with JSON
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prevent data reuse
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/prevent-data-reuse?u=76281980)
@@ -1891,7 +1932,7 @@ created: 2026-04-29
 
 ### 5. Working with JSON Schema
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is JSON Schema?
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json-schema?u=76281980)
@@ -2644,7 +2685,7 @@ created: 2026-04-29
 
 ### 6. Structuring Data with JSON-LD
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is JSON-LD?
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/what-is-json-ld?u=76281980)
@@ -3327,7 +3368,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/json-essential-training/next-steps?u=76281980)

@@ -47,15 +47,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#2. AI and Your Organization]]** (3 videos)
-- **[[#3. AI and Your Workforce]]** (4 videos)
-- **[[#4. AI and Business Value]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Tackling AI as a leadership challenge
+- [**2. AI and Your Organization**](#2-ai-and-your-organization) (3 videos)
+  - Building an AI-friendly culture
+  - AI and organizational structure
+  - Lessons in AI implementation
+- [**3. AI and Your Workforce**](#3-ai-and-your-workforce) (4 videos)
+  - AI and employee retention
+  - AI and employee development
+  - AI and performance management
+  - AI and team effectiveness
+- [**4. AI and Business Value**](#4-ai-and-business-value) (3 videos)
+  - AI and business differentiation
+  - Mitigating AI risks while fostering innovation
+  - Ethics and fairness in AI adoption
+- [**Conclusion**](#conclusion) (1 videos)
+  - Leadership in the age of AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tackling AI as a leadership challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/debunking-myths-and-misconceptions-about-ai?u=76281980)
@@ -86,7 +98,7 @@ created: 2026-04-29
 
 ### 2. AI and Your Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building an AI-friendly culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/building-an-ai-friendly-culture?u=76281980)
@@ -299,7 +311,7 @@ created: 2026-04-29
 
 ### 3. AI and Your Workforce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and employee retention
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-employee-retention?u=76281980)
@@ -593,7 +605,7 @@ created: 2026-04-29
 
 ### 4. AI and Business Value
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and business differentiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/ai-and-business-differentiation?u=76281980)
@@ -855,7 +867,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leadership in the age of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-challenges-and-opportunities-for-leadership/leadership-in-the-age-of-ai?u=76281980)

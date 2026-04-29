@@ -51,16 +51,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Building Your Customer Service Skills]]** (4 videos)
-- **[[#2. Building Rapport with Your Customers]]** (4 videos)
-- **[[#3. Exceeding Customer Expectations]]** (5 videos)
-- **[[#4. Solving Customer Service Challenges]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Keeping your customers happy
+  - Creating your customer service learning plan
+- [**1. Building Your Customer Service Skills**](#1-building-your-customer-service-skills) (4 videos)
+  - Defining customer service
+  - Identifying your customers
+  - Making a difference for customers
+  - Avoiding burnout by staying focused
+- [**2. Building Rapport with Your Customers**](#2-building-rapport-with-your-customers) (4 videos)
+  - Connecting rapport to outstanding service
+  - Implementing techniques to build rapport
+  - Starting a conversation
+  - Enhancing your likability
+- [**3. Exceeding Customer Expectations**](#3-exceeding-customer-expectations) (5 videos)
+  - Uncovering customer needs
+  - Actively listening to customers
+  - Identifying emotional needs
+  - Managing expectations
+  - Going the extra mile
+- [**4. Solving Customer Service Challenges**](#4-solving-customer-service-challenges) (7 videos)
+  - Taking ownership of problems
+  - Empathizing with customers
+  - Preventing negative emotions
+  - Defusing angry customers
+  - Anchoring your own attitude
+  - Expanding your influence
+  - Becoming a customer advocate
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing to build your customer service skills
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping your customers happy
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/keeping-your-customers-happy?u=76281980)
@@ -152,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Building Your Customer Service Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/defining-customer-service?u=76281980)
@@ -479,7 +502,7 @@ created: 2026-04-29
 
 ### 2. Building Rapport with Your Customers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting rapport to outstanding service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/connecting-rapport-to-outstanding-service?u=76281980)
@@ -861,7 +884,7 @@ created: 2026-04-29
 
 ### 3. Exceeding Customer Expectations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Uncovering customer needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/uncovering-customer-needs?u=76281980)
@@ -1346,7 +1369,7 @@ created: 2026-04-29
 
 ### 4. Solving Customer Service Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking ownership of problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/taking-ownership-of-problems?u=76281980)
@@ -1979,7 +2002,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to build your customer service skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-foundations-21620021/continuing-to-build-your-customer-service-skills?u=76281980)

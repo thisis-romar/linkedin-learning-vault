@@ -43,18 +43,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Cloud Foundations]]** (9 videos)
-- **[[#2. Looking at the Clouds]]** (8 videos)
-- **[[#3. Cloud Flaws, Incidents. and Failures]]** (6 videos)
-- **[[#4. Hands-On with Cloud Flaws]]** (4 videos)
-- **[[#5. Cloud Security Management]]** (5 videos)
-- **[[#6. Cloud Security Capabilities]]** (7 videos)
-- **[[#What's Next]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Making your cloud deployments secure
+  - What you should know
+- [**1. Cloud Foundations**](#1-cloud-foundations) (9 videos)
+  - Cloud security guidance
+  - Essential characteristics
+  - Cloud services
+  - Infrastructure as a service
+  - Platform as a service
+  - Software as a service
+  - Deployment models
+  - Hypervisors and visualization
+  - Cloud security certification
+- [**2. Looking at the Clouds**](#2-looking-at-the-clouds) (8 videos)
+  - Microsoft Azure cloud
+  - Amazon Web Services
+  - Amazon Web Services
+  - Command-line access to Amazon
+  - Google Apps
+  - Security as a service
+  - Cloud provider SECaaS
+  - An insight into Rapid7's SECaaS
+- [**3. Cloud Flaws, Incidents. and Failures**](#3-cloud-flaws-incidents-and-failures) (6 videos)
+  - Incidents in the cloud
+  - Anatomy of a service failure
+  - Anatomy of a business failure
+  - Incident response
+  - Azure recommendations on incident management
+  - Cloud resilience
+- [**4. Hands-On with Cloud Flaws**](#4-hands-on-with-cloud-flaws) (4 videos)
+  - Threats to cloud deployments
+  - Unauthorised access to buckets by anyone
+  - Unauthorized account access to buckets
+  - Searching for account keys
+- [**5. Cloud Security Management**](#5-cloud-security-management) (5 videos)
+  - Architecting governance and risk
+  - Legal, compliance, and audit
+  - Information governance
+  - Application security
+  - Deploying and operating applications
+- [**6. Cloud Security Capabilities**](#6-cloud-security-capabilities) (7 videos)
+  - Cryptography foundations
+  - Data security and encryption
+  - Identity in the cloud
+  - Controlling access to cloud objects
+  - Setting up access control in AWS
+  - Logging and monitoring in the cloud
+  - VM monitoring with Azure
+- [**What's Next**](#whats-next) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making your cloud deployments secure
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/making-your-cloud-deployments-secure?u=76281980)
@@ -97,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Cloud Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud security guidance
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/cloud-security-guidance-23670522?u=76281980)
@@ -685,7 +727,7 @@ created: 2026-04-29
 
 ### 2. Looking at the Clouds
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Azure cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/microsoft-azure-cloud?u=76281980)
@@ -1332,7 +1374,7 @@ created: 2026-04-29
 
 ### 3. Cloud Flaws, Incidents. and Failures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Incidents in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/incidents-in-the-cloud?u=76281980)
@@ -1728,7 +1770,7 @@ created: 2026-04-29
 
 ### 4. Hands-On with Cloud Flaws
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Threats to cloud deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/threats-to-cloud-deployments?u=76281980)
@@ -1938,7 +1980,7 @@ created: 2026-04-29
 
 ### 5. Cloud Security Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecting governance and risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/architecting-governance-and-risk?u=76281980)
@@ -2377,7 +2419,7 @@ created: 2026-04-29
 
 ### 6. Cloud Security Capabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptography foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/cryptography-foundations?u=76281980)
@@ -2997,7 +3039,7 @@ created: 2026-04-29
 
 ### What's Next
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-with-cloud-computing-2/next-steps?u=76281980)

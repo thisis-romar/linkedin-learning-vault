@@ -39,20 +39,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Real-World Scenarios]]** (2 videos)
-- **[[#2. Accessible Visual Design]]** (5 videos)
-- **[[#3. Keyboard Interaction]]** (3 videos)
-- **[[#4. Touch Interfaces]]** (3 videos)
-- **[[#5. Images and Multimedia Accessibility]]** (4 videos)
-- **[[#6. Form Accessibility]]** (4 videos)
-- **[[#7. Flexibility and Accessibility]]** (3 videos)
-- **[[#8. Structured Content]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Making the digital world accessible
+- [**1. Real-World Scenarios**](#1-real-world-scenarios) (2 videos)
+  - An ecommerce purchase
+  - Personas
+- [**2. Accessible Visual Design**](#2-accessible-visual-design) (5 videos)
+  - The use of color
+  - Color contrast
+  - Animation, movement, and flashing
+  - Proximity and grouping in design
+  - Effective visual focus indicators
+- [**3. Keyboard Interaction**](#3-keyboard-interaction) (3 videos)
+  - Keyboard functionality
+  - Avoiding keyboard traps
+  - Linear flow of content
+- [**4. Touch Interfaces**](#4-touch-interfaces) (3 videos)
+  - Accessibility and touch
+  - Target sizes
+  - Working with gestures
+- [**5. Images and Multimedia Accessibility**](#5-images-and-multimedia-accessibility) (4 videos)
+  - Working with audio and video
+  - Understanding media types
+  - The importance of text equivalents
+  - Accessibility for complex visuals
+- [**6. Form Accessibility**](#6-form-accessibility) (4 videos)
+  - Labeling forms
+  - The placeholder attribute
+  - HTML5 form inputs
+  - Form validation and error messaging
+- [**7. Flexibility and Accessibility**](#7-flexibility-and-accessibility) (3 videos)
+  - Flexible vs. fixed width designs
+  - Responsive design and accessibility
+  - Designing for text resizing
+- [**8. Structured Content**](#8-structured-content) (3 videos)
+  - Content hierarchy and headings
+  - The importance of page titles
+  - Page structure
+- [**Conclusion**](#conclusion) (1 videos)
+  - A challenge for you
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making the digital world accessible
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/making-the-digital-world-accessible?u=76281980)
@@ -96,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Real-World Scenarios
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An ecommerce purchase
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/an-ecommerce-purchase-14870326?u=76281980)
@@ -325,7 +354,7 @@ created: 2026-04-29
 
 ### 2. Accessible Visual Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The use of color
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/the-use-of-color-14869535?u=76281980)
@@ -853,7 +882,7 @@ created: 2026-04-29
 
 ### 3. Keyboard Interaction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keyboard functionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/keyboard-functionality-14874210?u=76281980)
@@ -1223,7 +1252,7 @@ created: 2026-04-29
 
 ### 4. Touch Interfaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility and touch
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/accessibility-and-touch-14876138?u=76281980)
@@ -1499,7 +1528,7 @@ created: 2026-04-29
 
 ### 5. Images and Multimedia Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with audio and video
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/working-with-audio-and-video-14870323?u=76281980)
@@ -2007,7 +2036,7 @@ created: 2026-04-29
 
 ### 6. Form Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Labeling forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/labeling-forms-14875142?u=76281980)
@@ -2348,7 +2377,7 @@ created: 2026-04-29
 
 ### 7. Flexibility and Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Flexible vs. fixed width designs
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/flexible-vs-fixed-width-designs-14871235?u=76281980)
@@ -2672,7 +2701,7 @@ created: 2026-04-29
 
 ### 8. Structured Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Content hierarchy and headings
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/content-hierarchy-and-headings-14869537?u=76281980)
@@ -2949,7 +2978,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A challenge for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-web-design/a-challenge-for-you?u=76281980)

@@ -54,11 +54,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. What Is Ethereum?]]** (10 videos)
+- [**1. What Is Ethereum?**](#1-what-is-ethereum) (10 videos)
+  - Introduction to Ethereum
+  - Ethereum in financial services
+  - Ethereum in digital identity management
+  - Ethereum in industry applications
+  - Ethereum in government
+  - Ethereum smart contracts
+  - Ether (ETH) and the initial coin offering (ICO)
+  - Decentralized autonomous organization (DAO)
+  - The Ethereum ecosystem
+  - Building blockchain apps
 
 ### 1. What Is Ethereum?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Ethereum
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-2-introduction-to-ethereum/introduction-to-ethereum?u=76281980)

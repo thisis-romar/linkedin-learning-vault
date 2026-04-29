@@ -47,16 +47,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding the Evolution of Agentic AI]]** (3 videos)
-- **[[#2. Business Applications of Agentic AI]]** (3 videos)
-- **[[#3. Agentic AI Theoretical and Ethical Considerations]]** (3 videos)
-- **[[#4. Future Outlook on Agentic AI]]** (2 videos)
-- **[[#5. Strategic Planning for Agentic AI Implementation]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to agentic AI for businesses
+- [**1. Understanding the Evolution of Agentic AI**](#1-understanding-the-evolution-of-agentic-ai) (3 videos)
+  - What is agentic AI?
+  - How does agentic AI broadly function?
+  - Historical improvements and limitations
+- [**2. Business Applications of Agentic AI**](#2-business-applications-of-agentic-ai) (3 videos)
+  - Impacts on processes
+  - Changing team dynamics
+  - Varying implications across industries
+- [**3. Agentic AI Theoretical and Ethical Considerations**](#3-agentic-ai-theoretical-and-ethical-considerations) (3 videos)
+  - Realized versus expected applications of agentic AI
+  - Ethical concerns of implementing AI into business practices
+  - Planning for AI ethics
+- [**4. Future Outlook on Agentic AI**](#4-future-outlook-on-agentic-ai) (2 videos)
+  - How agentic AI may evolve in the next ten years
+  - Upcoming challenges with rapid innovation
+- [**5. Strategic Planning for Agentic AI Implementation**](#5-strategic-planning-for-agentic-ai-implementation) (3 videos)
+  - Strategic planning for AI integration
+  - Balancing innovation with practicality
+  - Next steps in planning for agentic AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to agentic AI for businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/introduction-to-agentic-ai-for-businesses?u=76281980)
@@ -85,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Evolution of Agentic AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is agentic AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/what-is-agentic-ai?u=76281980)
@@ -248,7 +263,7 @@ created: 2026-04-29
 
 ### 2. Business Applications of Agentic AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Impacts on processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/impacts-on-processes?u=76281980)
@@ -375,7 +390,7 @@ created: 2026-04-29
 
 ### 3. Agentic AI Theoretical and Ethical Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Realized versus expected applications of agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/realized-versus-expected-applications-of-agentic-ai?u=76281980)
@@ -561,7 +576,7 @@ created: 2026-04-29
 
 ### 4. Future Outlook on Agentic AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How agentic AI may evolve in the next ten years
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/how-agentic-ai-may-evolve-in-the-next-ten-years?u=76281980)
@@ -670,7 +685,7 @@ created: 2026-04-29
 
 ### 5. Strategic Planning for Agentic AI Implementation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic planning for AI integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights/strategic-planning-for-ai-integration?u=76281980)

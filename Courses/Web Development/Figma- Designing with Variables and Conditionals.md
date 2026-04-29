@@ -39,14 +39,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Exploring Figma’s Approach to Variables]]** (5 videos)
-- **[[#2. Designing with Variables and Conditional Logic]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Working with variables and conditionals
+  - Getting set up
+- [**1. Exploring Figma’s Approach to Variables**](#1-exploring-figmas-approach-to-variables) (5 videos)
+  - Figma design file overview
+  - Creating local variables
+  - Organizing variables into groups
+  - Adding variable collections
+  - Working with variable modes
+- [**2. Designing with Variables and Conditional Logic**](#2-designing-with-variables-and-conditional-logic) (7 videos)
+  - Assigning variables to text elements
+  - Prototyping with conditional logic
+  - Developing a reset function
+  - Controlling visibility with Booleans
+  - Adding products to the cart
+  - Adding quantities to the cart
+  - Removing quantities in the cart
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with variables and conditionals
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variables-and-conditionals?u=76281980)
@@ -104,7 +119,7 @@ created: 2026-04-29
 
 ### 1. Exploring Figma’s Approach to Variables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Figma design file overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980)
@@ -452,7 +467,7 @@ created: 2026-04-29
 
 ### 2. Designing with Variables and Conditional Logic
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assigning variables to text elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980)
@@ -1136,7 +1151,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980)

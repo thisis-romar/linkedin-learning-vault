@@ -48,12 +48,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Rust Coding Challenges]]** (17 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Put Rust into practice
+  - What you need to get started
+  - Using GitHub Codespaces with this course
+- [**1. Rust Coding Challenges**](#1-rust-coding-challenges) (17 videos)
+  - Calculate the median
+  - Find unique items
+  - Print any text type
+  - Case-insensitive sort
+  - Convert text to Morse code
+  - Value of a hand of cards
+  - Has a deadline been reached?
+  - Convert between Celsius and Fahrenheit
+  - Sum a list of numbers with missing values
+  - Calculate the number of weeks between two dates
+  - Validate an ISBN number
+  - Check if a file exists
+  - Interpret an RGB hex color
+  - Run-length encoding
+  - Handle inconsistent dates
+  - Travel planner
+  - Final challenge: Vigenère cipher
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Put Rust into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/put-rust-into-practice?u=76281980)
@@ -284,7 +304,7 @@ created: 2026-04-29
 
 ### 1. Rust Coding Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate the median
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-rust/calculate-the-median?u=76281980)

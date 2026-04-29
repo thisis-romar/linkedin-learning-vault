@@ -54,11 +54,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Learning about Smart Contracts]]** (14 videos)
+- [**1. Learning about Smart Contracts**](#1-learning-about-smart-contracts) (14 videos)
+  - Smart contracts review
+  - What is the supply chain?
+  - Supply chain challenges and blockchain solutions
+  - Blockchain solution examples
+  - Ethereum tokens
+  - Supply chain project
+  - Exploring solidity
+  - Defining types of data
+  - Data types
+  - Solidity data modifiers, part 1
+  - Solidity data modifiers, part 2
+  - Revisiting gas
+  - Controlling flow
+  - Handling errors
 
 ### 1. Learning about Smart Contracts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Smart contracts review
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-7-smart-contracts/smart-contracts-review?u=76281980)

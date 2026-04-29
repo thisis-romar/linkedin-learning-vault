@@ -44,16 +44,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Creating and Building Monorepos]]** (7 videos)
-- **[[#2. Tools to Manage Your Monorepos]]** (4 videos)
-- **[[#3. GitHub Actions for Monorepos]]** (6 videos)
-- **[[#4. Best Practices]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Managing code in monorepos
+  - What is a monorepo, and why should you use one?
+  - Using GitHub Codespaces with this course
+- [**1. Creating and Building Monorepos**](#1-creating-and-building-monorepos) (7 videos)
+  - Creating your first monorepo
+  - Setting up config files
+  - Adding a new project
+  - Running commands
+  - Building your monorepo
+  - Monorepo Git hooks
+  - Installing shared components
+- [**2. Tools to Manage Your Monorepos**](#2-tools-to-manage-your-monorepos) (4 videos)
+  - How to migrate projects to your monorepo
+  - Running custom commands on your monorepo
+  - Dependabot pull requests
+  - Other tools to manage monorepos
+- [**3. GitHub Actions for Monorepos**](#3-github-actions-for-monorepos) (6 videos)
+  - Getting familiar with GitHub Actions
+  - Creating the perfect workflow for your monorepo
+  - Creating workflows for your apps
+  - Using multiple workflows for your apps
+  - Building and deploying monorepos with Netlify
+  - Deploying monorepos with GitHub actions
+- [**4. Best Practices**](#4-best-practices) (2 videos)
+  - How to design your monorepo
+  - Architectural governance in your monorepo
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing code in monorepos
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/managing-code-in-monorepos?u=76281980)
@@ -311,7 +334,7 @@ created: 2026-04-29
 
 ### 1. Creating and Building Monorepos
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your first monorepo
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/creating-your-first-monorepo-26274110?u=76281980)
@@ -812,7 +835,7 @@ created: 2026-04-29
 
 ### 2. Tools to Manage Your Monorepos
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to migrate projects to your monorepo
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-migrate-projects-to-your-monorepo?u=76281980)
@@ -1076,7 +1099,7 @@ created: 2026-04-29
 
 ### 3. GitHub Actions for Monorepos
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting familiar with GitHub Actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/getting-familiar-with-github-actions?u=76281980)
@@ -1566,7 +1589,7 @@ created: 2026-04-29
 
 ### 4. Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to design your monorepo
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/how-to-design-your-monorepo?u=76281980)
@@ -1695,7 +1718,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-monorepos-on-github-17057806/next-steps?u=76281980)

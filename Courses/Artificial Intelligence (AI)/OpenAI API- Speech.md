@@ -54,14 +54,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Text-to-Speech]]** (8 videos)
-- **[[#2. Speech-to-Text]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Voice models and the AI revolution
+  - What you should know
+  - Using the exercise files
+  - Responsible usage of AI
+- [**1. Text-to-Speech**](#1-text-to-speech) (8 videos)
+  - Text-to-speech overview
+  - Setting up OpenAI library
+  - Test ride with the text-to-speech API
+  - What we will build
+  - Project structure
+  - Creating a TTS endpoint
+  - Challenge: Voice selection
+  - Solution: Voice selection
+- [**2. Speech-to-Text**](#2-speech-to-text) (5 videos)
+  - Speech-to-text overview
+  - Testing the speech-to-text API
+  - What we will build
+  - Project structure
+  - Using the API in an app
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Voice models and the AI revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/voice-models-and-the-ai-revolution?u=76281980)
@@ -151,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Text-to-Speech
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Text-to-speech overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/text-to-speech-overview?u=76281980)
@@ -574,7 +592,7 @@ created: 2026-04-29
 
 ### 2. Speech-to-Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Speech-to-text overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/speech-to-text-overview?u=76281980)
@@ -767,7 +785,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-speech/next-steps?u=76281980)

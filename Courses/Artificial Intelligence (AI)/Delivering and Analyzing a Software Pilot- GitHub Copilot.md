@@ -50,20 +50,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started with GitHub Copilot]]** (2 videos)
-- **[[#2. Planning a Software Pilot]]** (4 videos)
-- **[[#3. Launching the Pilot]]** (4 videos)
-- **[[#4. Monitoring the Pilot]]** (4 videos)
-- **[[#5. Ending the Pilot]]** (4 videos)
-- **[[#6. Gathering Feedback]]** (4 videos)
-- **[[#7. Using NLTK to Analyze Feedback]]** (5 videos)
-- **[[#8. Writing a Business Case]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introduction and overview
+  - What you should know
+  - Who this course is for
+- [**1. Getting Started with GitHub Copilot**](#1-getting-started-with-github-copilot) (2 videos)
+  - Overview of GitHub Copilot
+  - Setting up GitHub Copilot for development
+- [**2. Planning a Software Pilot**](#2-planning-a-software-pilot) (4 videos)
+  - Defining objectives and goals
+  - Selecting the pilot team
+  - Establishing key performance indicators
+  - Preparing your environment for the pilot
+- [**3. Launching the Pilot**](#3-launching-the-pilot) (4 videos)
+  - Steps to officially start the pilot
+  - Initial challenges and how to address them
+  - Communication strategies during the pilot
+  - Ensuring smooth operations and support
+- [**4. Monitoring the Pilot**](#4-monitoring-the-pilot) (4 videos)
+  - Tools and techniques for monitoring
+  - Capturing and analyzing metrics
+  - Making adjustments during the pilot
+  - Case studies of effective monitoring
+- [**5. Ending the Pilot**](#5-ending-the-pilot) (4 videos)
+  - Criteria for concluding the pilot
+  - Steps for a structured wrap-up
+  - Transitioning from pilot to full deployment
+  - Common pitfalls to avoid at this stage
+- [**6. Gathering Feedback**](#6-gathering-feedback) (4 videos)
+  - Methods for collecting feedback
+  - Organizing and preparing feedback for analysis
+  - Prioritizing feedback and identifying trends
+  - Engaging with pilot teams post-pilot
+- [**7. Using NLTK to Analyze Feedback**](#7-using-nltk-to-analyze-feedback) (5 videos)
+  - Introduction to NLTK for text analysis
+  - Preparing your data for analysis
+  - Techniques to identify sentiments and themes
+  - Gathering metrics from GitHub regarding Copilot usage
+  - Visualizing data and results
+- [**8. Writing a Business Case**](#8-writing-a-business-case) (4 videos)
+  - Structuring your business case
+  - Incorporating data and insights from the pilot
+  - Presenting results to stakeholders
+  - Strategies for gaining support for full deployment
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps to continue your software pilot journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-and-overview?u=76281980)
@@ -192,7 +227,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with GitHub Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of GitHub Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/overview-of-github-copilot?u=76281980)
@@ -335,7 +370,7 @@ created: 2026-04-29
 
 ### 2. Planning a Software Pilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining objectives and goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/defining-objectives-and-goals?u=76281980)
@@ -671,7 +706,7 @@ created: 2026-04-29
 
 ### 3. Launching the Pilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Steps to officially start the pilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/steps-to-officially-start-the-pilot?u=76281980)
@@ -998,7 +1033,7 @@ created: 2026-04-29
 
 ### 4. Monitoring the Pilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools and techniques for monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/tools-and-techniques-for-monitoring?u=76281980)
@@ -1309,7 +1344,7 @@ created: 2026-04-29
 
 ### 5. Ending the Pilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Criteria for concluding the pilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/criteria-for-concluding-the-pilot?u=76281980)
@@ -1610,7 +1645,7 @@ created: 2026-04-29
 
 ### 6. Gathering Feedback
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Methods for collecting feedback
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/methods-for-collecting-feedback?u=76281980)
@@ -1906,7 +1941,7 @@ created: 2026-04-29
 
 ### 7. Using NLTK to Analyze Feedback
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to NLTK for text analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/introduction-to-nltk-for-text-analysis?u=76281980)
@@ -2693,7 +2728,7 @@ created: 2026-04-29
 
 ### 8. Writing a Business Case
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring your business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/structuring-your-business-case?u=76281980)
@@ -2952,7 +2987,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps to continue your software pilot journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/delivering-and-analyzing-a-software-pilot-github-copilot/next-steps-to-continue-your-software-pilot-journey?u=76281980)

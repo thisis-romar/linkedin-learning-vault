@@ -49,15 +49,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Working with Files]]** (13 videos)
-- **[[#2. Working with Directories]]** (7 videos)
-- **[[#3. Accepting User-Uploaded Files]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Work with files and directories in PHP
+  - Using the exercise files on GitHub
+- [**1. Working with Files**](#1-working-with-files) (13 videos)
+  - Filesystem basics
+  - Relative paths and magic constants
+  - Accessing files
+  - Reading from files
+  - Reading line by line
+  - File permissions
+  - Writing to files
+  - Writing line returns
+  - Deleting files
+  - Moving the file pointer
+  - Examining file details
+  - Challenge: Create a log file
+  - Solution: Create a log file
+- [**2. Working with Directories**](#2-working-with-directories) (7 videos)
+  - Directory basics
+  - Creating and deleting directories
+  - Accessing directory contents
+  - Skipping directory entries
+  - Pattern matching with glob
+  - Challenge: Directory treasure hunt
+  - Solution: Directory treasure hunt
+- [**3. Accepting User-Uploaded Files**](#3-accepting-user-uploaded-files) (9 videos)
+  - Configuring PHP for file uploads
+  - Sending files as form data
+  - Inspecting uploaded files
+  - Moving uploaded files
+  - Handling upload errors
+  - Setting file permissions
+  - Securing file uploads
+  - Challenge: Profile photo
+  - Solution: Profile photos
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with files and directories in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/work-with-files-and-directories-in-php?u=76281980)
@@ -145,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Working with Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filesystem basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/filesystem-basics?u=76281980)
@@ -1761,7 +1793,7 @@ created: 2026-04-29
 
 ### 2. Working with Directories
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Directory basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/directory-basics?u=76281980)
@@ -2519,7 +2551,7 @@ created: 2026-04-29
 
 ### 3. Accepting User-Uploaded Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring PHP for file uploads
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/configuring-php-for-file-uploads?u=76281980)
@@ -3476,7 +3508,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-working-with-files-and-directories/next-steps?u=76281980)

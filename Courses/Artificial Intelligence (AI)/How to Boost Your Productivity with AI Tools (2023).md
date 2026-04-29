@@ -61,15 +61,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Your Approach to Using AI in Business]]** (5 videos)
-- **[[#2. AI Prompts to Make Your Job Easier]]** (5 videos)
-- **[[#3. AI Prompts to Help Make Your Work Better]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - AI is a dream for productivity
+- [**1. Your Approach to Using AI in Business**](#1-your-approach-to-using-ai-in-business) (5 videos)
+  - The two reasons to use AI in business
+  - Identifying opportunities to benefit from AI
+  - A different approach to AI prompt writing
+  - Taking responsibility for the output of AI
+  - Organizing your AI prompts
+- [**2. AI Prompts to Make Your Job Easier**](#2-ai-prompts-to-make-your-job-easier) (5 videos)
+  - Using AI to respond to an email
+  - Using AI to help plan a project
+  - Using AI to convert text to HTML markup
+  - Using AI to turn a document into a presentation
+  - Using AI to come up with relevant social posts
+- [**3. AI Prompts to Help Make Your Work Better**](#3-ai-prompts-to-help-make-your-work-better) (5 videos)
+  - Using AI to help generate ideas
+  - Using AI to start a mind map
+  - Using AI to improve your arguments
+  - Using AI to challenge conventional thinking
+  - Using AI to help you present ideas to decision makers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI is a dream for productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/ai-is-a-dream-for-productivity?u=76281980)
@@ -117,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Your Approach to Using AI in Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The two reasons to use AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/the-two-reasons-to-use-ai-in-business?u=76281980)
@@ -467,7 +484,7 @@ created: 2026-04-29
 
 ### 2. AI Prompts to Make Your Job Easier
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to respond to an email
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/using-ai-to-respond-to-an-email?u=76281980)
@@ -1169,7 +1186,7 @@ created: 2026-04-29
 
 ### 3. AI Prompts to Help Make Your Work Better
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to help generate ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/using-ai-to-help-generate-ideas?u=76281980)
@@ -1630,7 +1647,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-2023/summary-and-next-steps?u=76281980)

@@ -52,14 +52,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Impact of AI on Strategic Business Analysis]]** (6 videos)
-- **[[#2. Being a Strategic BA in an AI World]]** (9 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Hands-on AI-powered tactics for business analysis
+- [**1. The Impact of AI on Strategic Business Analysis**](#1-the-impact-of-ai-on-strategic-business-analysis) (6 videos)
+  - What is strategy?
+  - The evolution of strategy
+  - Modern approaches to strategy
+  - How business analysis can support the "new strategy"
+  - How AI enhances strategic alignment
+  - Evaluating AI in strategic planning
+- [**2. Being a Strategic BA in an AI World**](#2-being-a-strategic-ba-in-an-ai-world) (9 videos)
+  - Establishing strategic objectives
+  - Leveraging your existing strategy
+  - Assessing capabilities and needs
+  - Aligning use cases to strategic goals
+  - Enhancing decision-making with AI
+  - Developing strategic contingency plans
+  - Adapting strategy to changing conditions
+  - Growing the culture of AI-driven strategy
+  - Scaling and measuring AI-driven value
+- [**Conclusion**](#conclusion) (2 videos)
+  - Preparing for an AI-driven strategic future
+  - Moving forward
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on AI-powered tactics for business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/intro-video-to-be-renamed-24300527?u=76281980)
@@ -88,7 +106,7 @@ created: 2026-04-29
 
 ### 1. The Impact of AI on Strategic Business Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is strategy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/what-is-strategy-24300525?u=76281980)
@@ -512,7 +530,7 @@ created: 2026-04-29
 
 ### 2. Being a Strategic BA in an AI World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing strategic objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/establishing-strategic-objectives-24502401?u=76281980)
@@ -1138,7 +1156,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for an AI-driven strategic future
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-powered-strategic-business-analysis/preparing-for-an-ai-driven-strategic-future-24504284?u=76281980)

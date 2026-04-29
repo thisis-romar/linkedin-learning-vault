@@ -39,17 +39,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Collaborating for Accessibility]]** (2 videos)
-- **[[#2. Question Complexity]]** (3 videos)
-- **[[#3. Accessible Content Design]]** (4 videos)
-- **[[#4. Accessible Visual Design]]** (10 videos)
-- **[[#5. Accessibility Testing]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why accessibility-first design?
+  - Use an accessibility-first workflow
+- [**1. Collaborating for Accessibility**](#1-collaborating-for-accessibility) (2 videos)
+  - Cross-discipline collaboration and T-shaped knowledge
+  - Work in parallel to reduce handoff
+- [**2. Question Complexity**](#2-question-complexity) (3 videos)
+  - Avoid hidden content
+  - Respect established patterns
+  - Create performant and lightweight experiences
+- [**3. Accessible Content Design**](#3-accessible-content-design) (4 videos)
+  - Semantics and document structure
+  - Inclusive language and reading level
+  - Hidden text and accessible naming
+  - Alternate content for media
+- [**4. Accessible Visual Design**](#4-accessible-visual-design) (10 videos)
+  - Just-in-time design
+  - Accessible color
+  - Accessible typography
+  - Accessible iconography
+  - Accessible tap targets
+  - Accessible interactive states
+  - Accessible interaction patterns
+  - Ergonomic layouts
+  - Embrace fluid design
+  - Respect user preferences
+- [**5. Accessibility Testing**](#5-accessibility-testing) (3 videos)
+  - Manual accessibility testing
+  - User testing for accessibility
+  - Automated accessibility testing
+- [**Conclusion**](#conclusion) (2 videos)
+  - Accessible design handoff
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why accessibility-first design?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/why-accessibility-first-design?u=76281980)
@@ -135,7 +161,7 @@ created: 2026-04-29
 
 ### 1. Collaborating for Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cross-discipline collaboration and T-shaped knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/cross-discipline-collaboration-and-t-shaped-knowledge?u=76281980)
@@ -222,7 +248,7 @@ created: 2026-04-29
 
 ### 2. Question Complexity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid hidden content
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/avoid-hidden-content?u=76281980)
@@ -417,7 +443,7 @@ created: 2026-04-29
 
 ### 3. Accessible Content Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Semantics and document structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/semantics-and-document-structure?u=76281980)
@@ -725,7 +751,7 @@ created: 2026-04-29
 
 ### 4. Accessible Visual Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Just-in-time design
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/just-in-time-design?u=76281980)
@@ -1422,7 +1448,7 @@ created: 2026-04-29
 
 ### 5. Accessibility Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manual accessibility testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/manual-accessibility-testing?u=76281980)
@@ -1669,7 +1695,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible design handoff
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-first-design/accessible-design-handoff?u=76281980)

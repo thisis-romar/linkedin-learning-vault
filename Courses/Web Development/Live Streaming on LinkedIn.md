@@ -46,11 +46,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Live Streaming on LinkedIn]]** (14 videos)
+- [**1. Live Streaming on LinkedIn**](#1-live-streaming-on-linkedin) (14 videos)
+  - Get ready to go live!
+  - Know your goals
+  - Tech requirements and recommendations
+  - Format, frequency, and timing
+  - How to plan each episode
+  - Branding your show
+  - Equipment you'll need
+  - How to be an engaging live host
+  - How to promote your show
+  - How to develop your promo plan
+  - Showtime
+  - How to be ready for live fails
+  - How to repurpose your live stream
+  - How to monetize your LinkedIn Live content
 
 ### 1. Live Streaming on LinkedIn
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get ready to go live!
 > [LinkedIn Learning](https://www.linkedin.com/learning/live-streaming-on-linkedin/get-ready-to-go-live?u=76281980)

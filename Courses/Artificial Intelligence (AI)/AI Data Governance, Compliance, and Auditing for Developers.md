@@ -51,16 +51,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. National and International Foundations for AI Data Governance]]** (5 videos)
-- **[[#2. The Role of Data Transparency in AI Data Governance]]** (4 videos)
-- **[[#3. Compliance for AI Data Governance]]** (4 videos)
-- **[[#4. AI Data Governance Auditing]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Your developer guide to AI data governance
+- [**1. National and International Foundations for AI Data Governance**](#1-national-and-international-foundations-for-ai-data-governance) (5 videos)
+  - Introduction to national and international foundation for AI data governance
+  - International laws for AI data governance
+  - National AI data governance regulation in the US
+  - Industry AI data governance regulations
+  - AI data governance standards
+- [**2. The Role of Data Transparency in AI Data Governance**](#2-the-role-of-data-transparency-in-ai-data-governance) (4 videos)
+  - Introduction to the role of data transparency
+  - Introduction to data observability
+  - Introduction to data lineage
+  - Introduction to data traceability
+- [**3. Compliance for AI Data Governance**](#3-compliance-for-ai-data-governance) (4 videos)
+  - Introduction to AI data compliance
+  - Why comply?
+  - General legislative requirements
+  - Compliance techniques
+- [**4. AI Data Governance Auditing**](#4-ai-data-governance-auditing) (2 videos)
+  - Introduction to AI data governance auditing
+  - AI data governance auditing approaches
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your AI data governance journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your developer guide to AI data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/your-developer-guide-to-ai-data-governance?u=76281980)
@@ -92,7 +109,7 @@ created: 2026-04-29
 
 ### 1. National and International Foundations for AI Data Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to national and international foundation for AI data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-national-and-international-foundation-for-ai-data-governance?u=76281980)
@@ -680,7 +697,7 @@ created: 2026-04-29
 
 ### 2. The Role of Data Transparency in AI Data Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the role of data transparency
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-the-role-of-data-transparency?u=76281980)
@@ -1024,7 +1041,7 @@ created: 2026-04-29
 
 ### 3. Compliance for AI Data Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI data compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-compliance?u=76281980)
@@ -1394,7 +1411,7 @@ created: 2026-04-29
 
 ### 4. AI Data Governance Auditing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI data governance auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/introduction-to-ai-data-governance-auditing?u=76281980)
@@ -1613,7 +1630,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your AI data governance journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-governance-compliance-and-auditing-for-developers/continuing-your-ai-data-governance-journey?u=76281980)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/master-your-python-skills
 course_count: 11
 linkedin_topics:
   - Software Development
-louvain_cluster: 12
+louvain_cluster: 16
 tags:
   - learning-path
   - topic/software-development

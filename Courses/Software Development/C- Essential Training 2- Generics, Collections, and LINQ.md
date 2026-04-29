@@ -51,19 +51,62 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Generics]]** (5 videos)
-- **[[#2. Working with Collections]]** (6 videos)
-- **[[#3. Exception Handling]]** (6 videos)
-- **[[#4. Programming Threads with async and await]]** (5 videos)
-- **[[#5. Delegates and Events]]** (7 videos)
-- **[[#6. Extension Methods]]** (5 videos)
-- **[[#7. Language Integrated Query (LINQ)]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Essentials deep dive
+  - What you should know
+  - CoderPad tour
+- [**1. Generics**](#1-generics) (5 videos)
+  - Understanding generics
+  - Working with generics
+  - Defining generic types and methods
+  - Generic constraints
+  - Solution: Generic type with constraints
+- [**2. Working with Collections**](#2-working-with-collections) (6 videos)
+  - Understanding collection types in the BCL
+  - Choosing the right collection type
+  - Working with collections
+  - Working with keyed collections
+  - Understanding concurrent collections
+  - Solution: Choose the right collection
+- [**3. Exception Handling**](#3-exception-handling) (6 videos)
+  - Basics of try-catch-finally
+  - Exception filtering by type with catch
+  - Exception filtering with when
+  - Throwing and rethrowing exceptions
+  - Creating custom exceptions
+  - Solution: Multiple exception types
+- [**4. Programming Threads with async and await**](#4-programming-threads-with-async-and-await) (5 videos)
+  - Threading basics
+  - Basics of using async and await
+  - Task management
+  - Handling errors when using await
+  - Solution: Task management
+- [**5. Delegates and Events**](#5-delegates-and-events) (7 videos)
+  - Understanding delegates
+  - Understanding events
+  - Common delegates with Action<T> and Func<T>
+  - Understanding lambda expressions
+  - Expressions as delegates
+  - Other uses for expressions
+  - Solution: Delegate using Func<T>
+- [**6. Extension Methods**](#6-extension-methods) (5 videos)
+  - The case for extension methods
+  - Writing an extension method
+  - Using an extension method
+  - Common extension methods on collections
+  - Solution: Extension method
+- [**7. Language Integrated Query (LINQ)**](#7-language-integrated-query-linq) (5 videos)
+  - Understand the purpose of LINQ
+  - Querying collections with LINQ
+  - Filtering and ordering queries
+  - Other sources for LINQ
+  - Solution: LINQ query to filter and sort
+- [**Conclusion**](#conclusion) (1 videos)
+  - Build something and continue learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Essentials deep dive
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/essentials-deep-dive?u=76281980)
@@ -195,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Generics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-generics?u=76281980)
@@ -816,7 +859,7 @@ created: 2026-04-29
 
 ### 2. Working with Collections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding collection types in the BCL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-collection-types-in-the-bcl?u=76281980)
@@ -1550,7 +1593,7 @@ created: 2026-04-29
 
 ### 3. Exception Handling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of try-catch-finally
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980)
@@ -2246,7 +2289,7 @@ created: 2026-04-29
 
 ### 4. Programming Threads with async and await
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Threading basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/threading-basics?u=76281980)
@@ -2824,7 +2867,7 @@ created: 2026-04-29
 
 ### 5. Delegates and Events
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding delegates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-delegates?u=76281980)
@@ -3505,7 +3548,7 @@ created: 2026-04-29
 
 ### 6. Extension Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The case for extension methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/the-case-for-extension-methods?u=76281980)
@@ -3861,7 +3904,7 @@ created: 2026-04-29
 
 ### 7. Language Integrated Query (LINQ)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the purpose of LINQ
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understand-the-purpose-of-linq?u=76281980)
@@ -4326,7 +4369,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build something and continue learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980)

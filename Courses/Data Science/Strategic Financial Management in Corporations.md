@@ -48,18 +48,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Navigate Corporate Financial Structures]]** (2 videos)
-- **[[#2. Optimize Investment Decisions and Capital Allocation]]** (3 videos)
-- **[[#3. Enhance Financing Strategies and Capital Structure]]** (2 videos)
-- **[[#4. Streamline Working Capital and Cash Flow Strategies]]** (2 videos)
-- **[[#5. Assess Valuation and Navigate Post-Merger Integration]]** (2 videos)
-- **[[#6. Develop Risk Management Strategies and Ensure Compliance]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Drive business success through strategic financial management
+  - Course advisory
+- [**1. Navigate Corporate Financial Structures**](#1-navigate-corporate-financial-structures) (2 videos)
+  - Differentiate between corporate financial structures
+  - Align financial structure with business strategy
+- [**2. Optimize Investment Decisions and Capital Allocation**](#2-optimize-investment-decisions-and-capital-allocation) (3 videos)
+  - Evaluate corporate investment opportunities
+  - Maximize capital allocation for ROI in corporate finance
+  - Apply scenario planning for long-term investments
+- [**3. Enhance Financing Strategies and Capital Structure**](#3-enhance-financing-strategies-and-capital-structure) (2 videos)
+  - Strengthen capital structure for corporate growth
+  - Implement strategic debt financing
+- [**4. Streamline Working Capital and Cash Flow Strategies**](#4-streamline-working-capital-and-cash-flow-strategies) (2 videos)
+  - Enhance cash flow management for corporate financial health
+  - Balance inventory, receivables, and payables
+- [**5. Assess Valuation and Navigate Post-Merger Integration**](#5-assess-valuation-and-navigate-post-merger-integration) (2 videos)
+  - Assess company valuation for mergers and acquisitions
+  - Develop a plan for post-merger integration success
+- [**6. Develop Risk Management Strategies and Ensure Compliance**](#6-develop-risk-management-strategies-and-ensure-compliance) (2 videos)
+  - Design a corporate risk management framework
+  - Ensure compliance and ethical financial practices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Achieve corporate finance success
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Drive business success through strategic financial management
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/drive-business-success-through-strategic-financial-management?u=76281980)
@@ -133,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Navigate Corporate Financial Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Differentiate between corporate financial structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/differentiate-between-corporate-financial-structures?u=76281980)
@@ -250,7 +266,7 @@ created: 2026-04-29
 
 ### 2. Optimize Investment Decisions and Capital Allocation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluate corporate investment opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/evaluate-corporate-investment-opportunities?u=76281980)
@@ -429,7 +445,7 @@ created: 2026-04-29
 
 ### 3. Enhance Financing Strategies and Capital Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strengthen capital structure for corporate growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/strengthen-capital-structure-for-corporate-growth?u=76281980)
@@ -593,7 +609,7 @@ created: 2026-04-29
 
 ### 4. Streamline Working Capital and Cash Flow Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhance cash flow management for corporate financial health
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/enhance-cash-flow-management-for-corporate-financial-health?u=76281980)
@@ -744,7 +760,7 @@ created: 2026-04-29
 
 ### 5. Assess Valuation and Navigate Post-Merger Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess company valuation for mergers and acquisitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/assess-company-valuation-for-mergers-and-acquisitions?u=76281980)
@@ -868,7 +884,7 @@ created: 2026-04-29
 
 ### 6. Develop Risk Management Strategies and Ensure Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design a corporate risk management framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/design-a-corporate-risk-management-framework?u=76281980)
@@ -1010,7 +1026,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Achieve corporate finance success
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-management-in-corporations/achieve-corporate-finance-success?u=76281980)

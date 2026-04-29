@@ -46,20 +46,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Life as a Programmer]]** (4 videos)
-- **[[#2. Software Development]]** (5 videos)
-- **[[#3. Tools of the Trade]]** (6 videos)
-- **[[#4. Programming Languages]]** (6 videos)
-- **[[#5. Python Show and Tell]]** (7 videos)
-- **[[#6. Working with Python]]** (5 videos)
-- **[[#7. Exploring Different Languages]]** (6 videos)
-- **[[#8. Your First Programming Job]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Beginning your programming journey
+- [**1. Life as a Programmer**](#1-life-as-a-programmer) (4 videos)
+  - What do programmers do?
+  - A week in the life
+  - The biggest challenges
+  - Keeping your skills sharp
+- [**2. Software Development**](#2-software-development) (5 videos)
+  - What is software development?
+  - The software development process
+  - Explore the various roles in software development
+  - Tools used for software development
+  - Getting software to customers
+- [**3. Tools of the Trade**](#3-tools-of-the-trade) (6 videos)
+  - Explore version control systems
+  - Tour various code repository services
+  - Introduction to libraries and frameworks
+  - Survey different types of IDEs
+  - How programmers use AI in their work
+  - Learn where to get help
+- [**4. Programming Languages**](#4-programming-languages) (6 videos)
+  - What is a programming language?
+  - Basic components of a programming language
+  - What is source code?
+  - Running source code
+  - Exploring variables
+  - Basic statements and expressions
+- [**5. Python Show and Tell**](#5-python-show-and-tell) (7 videos)
+  - Introduction to Python
+  - Basic Python syntax
+  - Saving data with Python
+  - Making decisions with Python
+  - Functions in Python
+  - Challenge: What's the output?
+  - Solution: What's the output?
+- [**6. Working with Python**](#6-working-with-python) (5 videos)
+  - Introduction to object-oriented programming
+  - Creating and using a class
+  - How to organize your code
+  - Adding modules to your programs
+  - How Python is used in the real world
+- [**7. Exploring Different Languages**](#7-exploring-different-languages) (6 videos)
+  - Statements and expressions across languages
+  - Exploring variables across languages
+  - Making decisions in code across languages
+  - Tech careers and their associated programming languages
+  - Challenge: Pick the language
+  - Solution: Pick the language
+- [**8. Your First Programming Job**](#8-your-first-programming-job) (5 videos)
+  - Explore the hiring process
+  - Building up your technical portfolio
+  - Writing your résumé
+  - Preparing for technical interviews
+  - How to be successful starting out
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Beginning your programming journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/beginning-your-programming-journey?u=76281980)
@@ -103,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Life as a Programmer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What do programmers do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-do-programmers-do?u=76281980)
@@ -429,7 +475,7 @@ created: 2026-04-29
 
 ### 2. Software Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is software development?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-software-development?u=76281980)
@@ -793,7 +839,7 @@ created: 2026-04-29
 
 ### 3. Tools of the Trade
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore version control systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-version-control-systems?u=76281980)
@@ -1172,7 +1218,7 @@ created: 2026-04-29
 
 ### 4. Programming Languages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a programming language?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/what-is-a-programming-language?u=76281980)
@@ -1513,7 +1559,7 @@ created: 2026-04-29
 
 ### 5. Python Show and Tell
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-python?u=76281980)
@@ -2055,7 +2101,7 @@ created: 2026-04-29
 
 ### 6. Working with Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/introduction-to-object-oriented-programming?u=76281980)
@@ -2434,7 +2480,7 @@ created: 2026-04-29
 
 ### 7. Exploring Different Languages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Statements and expressions across languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/statements-and-expressions-across-languages?u=76281980)
@@ -2790,7 +2836,7 @@ created: 2026-04-29
 
 ### 8. Your First Programming Job
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the hiring process
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/explore-the-hiring-process?u=76281980)
@@ -3167,7 +3213,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development/next-steps?u=76281980)

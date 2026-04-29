@@ -50,15 +50,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Managing Users]]** (16 videos)
-- **[[#2. Managing Groups]]** (15 videos)
-- **[[#3. Managing Devices]]** (9 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Cloud identity
+  - Prerequisites
+  - Roadmap
+- [**1. Managing Users**](#1-managing-users) (16 videos)
+  - Types of user accounts
+  - User object overview
+  - Directory roles
+  - Demo: Assigning a directory role
+  - Creating user accounts
+  - Demo: Creating a new cloud user account
+  - Reading user accounts
+  - Demo: Reading a cloud user account
+  - Updating user accounts
+  - Demo: Updating a cloud user account
+  - Deleting user accounts
+  - Demo: Deleting a cloud user account
+  - Blocking user account sign-ins
+  - Demo: Blocking a user account sign-in
+  - User settings
+  - Demo: Configuring user settings
+- [**2. Managing Groups**](#2-managing-groups) (15 videos)
+  - Types of groups
+  - Group object overview
+  - Creating groups
+  - Demo: Creating a new Microsoft 365 group
+  - Reading groups
+  - Demo: Reading a Microsoft 365 group
+  - Updating groups
+  - Demo: Updating a Microsoft 365 group
+  - Deleting groups
+  - Demo: Deleting a Microsoft 365 group
+  - Expiring groups
+  - Demo: Applying an expiration policy
+  - Group settings
+  - Demo: Configuring group settings
+  - Administrative units
+- [**3. Managing Devices**](#3-managing-devices) (9 videos)
+  - Device management overview
+  - Hybrid Entra ID join
+  - Demo: Implementing hybrid Entra ID join
+  - Entra ID join
+  - Demo: Implementing Entra ID join
+  - Device registration
+  - Demo: Implementing device registration
+  - Device settings
+  - Demo: Configuring device settings
+- [**Conclusion**](#conclusion) (3 videos)
+  - Key takeaways
+  - Your personal checklist
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud identity
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/cloud-identity?u=76281980)
@@ -200,7 +246,7 @@ created: 2026-04-29
 
 ### 1. Managing Users
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-user-accounts?u=76281980)
@@ -1233,7 +1279,7 @@ created: 2026-04-29
 
 ### 2. Managing Groups
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/types-of-groups?u=76281980)
@@ -2192,7 +2238,7 @@ created: 2026-04-29
 
 ### 3. Managing Devices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Device management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/device-management-overview?u=76281980)
@@ -3015,7 +3061,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-microsoft-entra-id/key-takeaways?u=76281980)

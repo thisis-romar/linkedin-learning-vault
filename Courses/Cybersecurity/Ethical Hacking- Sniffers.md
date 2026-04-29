@@ -49,18 +49,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Sniffing Overview]]** (6 videos)
-- **[[#2. Spoofing Attacks]]** (6 videos)
-- **[[#3. Dissecting DHCP]]** (6 videos)
-- **[[#4. Reviewing ARP]]** (4 videos)
-- **[[#5. Attacking DNS]]** (6 videos)
-- **[[#6. Sniffing Tools and Techniques]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Visualizing network traffic
+  - What you should know
+  - Hacking ethically
+- [**1. Sniffing Overview**](#1-sniffing-overview) (6 videos)
+  - Sniffing network traffic
+  - Using other sniffing tools
+  - Dissecting the OSI model
+  - Comparing passive and active attacks
+  - Using Wireshark
+  - Tapping into the data stream
+- [**2. Spoofing Attacks**](#2-spoofing-attacks) (6 videos)
+  - Launching a macof attack
+  - Exploiting Layer 2 protocols
+  - Spoofing a MAC address
+  - Defending against MAC attacks
+  - VLAN hopping attack
+  - Spoofing IRDP
+- [**3. Dissecting DHCP**](#3-dissecting-dhcp) (6 videos)
+  - Investigating DHCP
+  - Depleting the DHCP pool
+  - Deploying a rogue DHCP server
+  - Defending against DHCP attacks
+  - Challenge: Identifying key elements in a capture
+  - Solution: Identifying key elements in a capture
+- [**4. Reviewing ARP**](#4-reviewing-arp) (4 videos)
+  - Describing ARP
+  - Exploring ARP spoofing tools
+  - Detecting ARP spoofing
+  - Defending against ARP attacks
+- [**5. Attacking DNS**](#5-attacking-dns) (6 videos)
+  - Summarizing DNS
+  - Caching and forgery
+  - Poisoning DNS
+  - Guarding against DNS attacks
+  - Challenge: Investigate a DNS header
+  - Solution: Investigate a DNS header
+- [**6. Sniffing Tools and Techniques**](#6-sniffing-tools-and-techniques) (6 videos)
+  - Capturing images
+  - Examining HTTP headers and URLs
+  - Scooping data with TShark
+  - Sniffing tools for mobile devices
+  - Investigating Omnipeek
+  - Guarding against sniffing
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing network traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/visualizing-network-traffic?u=76281980)
@@ -141,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Sniffing Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sniffing network traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980)
@@ -726,7 +764,7 @@ created: 2026-04-29
 
 ### 2. Spoofing Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Launching a macof attack
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980)
@@ -1142,7 +1180,7 @@ created: 2026-04-29
 
 ### 3. Dissecting DHCP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Investigating DHCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980)
@@ -1605,7 +1643,7 @@ created: 2026-04-29
 
 ### 4. Reviewing ARP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing ARP
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980)
@@ -1940,7 +1978,7 @@ created: 2026-04-29
 
 ### 5. Attacking DNS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing DNS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/summarizing-dns?u=76281980)
@@ -2420,7 +2458,7 @@ created: 2026-04-29
 
 ### 6. Sniffing Tools and Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Capturing images
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/capturing-images?u=76281980)
@@ -2869,7 +2907,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980)

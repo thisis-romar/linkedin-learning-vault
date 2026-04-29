@@ -36,16 +36,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Unified Communications Overview]]** (4 videos)
-- **[[#2. Components and Integration]]** (4 videos)
-- **[[#3. Media Gateway]]** (5 videos)
-- **[[#4. Business Integration]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Providing Voice over Internet Protocol (VoIP) telephony
+  - What you need to know
+- [**1. Unified Communications Overview**](#1-unified-communications-overview) (4 videos)
+  - Unified communications (UC) overview
+  - Making a call using VoIP
+  - Evolution of the Public Switched Telephone Network (PSTN)
+  - Moving from the PSTN to VoIP
+- [**2. Components and Integration**](#2-components-and-integration) (4 videos)
+  - UC components
+  - Unifying communication systems
+  - Voice signal conversion with digital codecs
+  - Data transportation using real-time protocols
+- [**3. Media Gateway**](#3-media-gateway) (5 videos)
+  - Passing telephony data through gateways
+  - Understanding MGCP/Megaco (H.248)
+  - Session Initiation Protocol (SIP)
+  - The H.323 wrapper, H.225, and H.245
+  - Translators and mixers
+- [**4. Business Integration**](#4-business-integration) (5 videos)
+  - Plan a unified communications system
+  - Network assessment
+  - Assure quality of service
+  - Using STIR/SHAKEN to restore trust
+  - VoIP security
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing Voice over Internet Protocol (VoIP) telephony
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/providing-voice-over-internet-protocol-voip-telephony-14173322?u=76281980)
@@ -105,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Unified Communications Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unified communications (UC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980)
@@ -357,7 +378,7 @@ created: 2026-04-29
 
 ### 2. Components and Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### UC components
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980)
@@ -611,7 +632,7 @@ created: 2026-04-29
 
 ### 3. Media Gateway
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Passing telephony data through gateways
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980)
@@ -902,7 +923,7 @@ created: 2026-04-29
 
 ### 4. Business Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan a unified communications system
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980)
@@ -1306,7 +1327,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980)

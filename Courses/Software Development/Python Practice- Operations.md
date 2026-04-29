@@ -46,13 +46,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Code Challenges]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Try your Python programming skills
+  - What you need to know
+  - Exploring the Lab environment
+- [**1. Code Challenges**](#1-code-challenges) (7 videos)
+  - Solution: Are two strings equal?
+  - Solution: String replacement
+  - Solution: Reverse a string
+  - Solution: Format a string
+  - Solution: Insert into a string
+  - Solution: Does a string contain all the letters?
+  - Solution: Anagram validator
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Try your Python programming skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/try-your-python-programming-skills?u=76281980)
@@ -167,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Code Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Are two strings equal?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980)
@@ -512,7 +523,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980)

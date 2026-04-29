@@ -45,15 +45,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Variables]]** (5 videos)
-- **[[#2. Classes and Objects]]** (7 videos)
-- **[[#3. Control Flow]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Practice some Java
+  - What you should know
+  - Using GitHub Codespaces with this course
+- [**1. Variables**](#1-variables) (5 videos)
+  - Topic overview: Variables
+  - Try it: Primitive variables
+  - Check it: Primitive variables
+  - Try it: Reference variables
+  - Check it: Reference variables
+- [**2. Classes and Objects**](#2-classes-and-objects) (7 videos)
+  - Topic overview: Classes and objects
+  - Try it: Creating classes
+  - Check it: Creating classes
+  - Try it: Methods
+  - Check it: Methods
+  - Try it: Creating objects
+  - Check it: Creating objects
+- [**3. Control Flow**](#3-control-flow) (7 videos)
+  - Topic overview: Control flow
+  - Try it: If/else statements
+  - Check it: If/else statements
+  - Try it: For loops
+  - Check it: For loops
+  - Try it: Enhanced for loops
+  - Check it: Enhanced for loops
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps to practice more Java
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice some Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980)
@@ -276,7 +299,7 @@ created: 2026-04-29
 
 ### 1. Variables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Topic overview: Variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980)
@@ -673,7 +696,7 @@ created: 2026-04-29
 
 ### 2. Classes and Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Topic overview: Classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980)
@@ -1140,7 +1163,7 @@ created: 2026-04-29
 
 ### 3. Control Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Topic overview: Control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980)
@@ -1794,7 +1817,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps to practice more Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980)

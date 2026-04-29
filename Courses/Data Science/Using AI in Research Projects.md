@@ -45,14 +45,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Doing Research on AI Systems]]** (2 videos)
-- **[[#2. Using AI to Improve Research]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Artificial intelligence for research
+- [**1. Doing Research on AI Systems**](#1-doing-research-on-ai-systems) (2 videos)
+  - Doing research on AI when it's not AI research
+  - Doing research on AI systems
+- [**2. Using AI to Improve Research**](#2-using-ai-to-improve-research) (7 videos)
+  - Getting corporate buy-in for using AI
+  - General vs research-specific tools
+  - AI for heuristic or expert reviews
+  - AI for usability study preparation
+  - AI for in-depth interviews (IDIs) and focus group preparation
+  - AI for analysis of qualitative data
+  - The ethics of using AI in research
+- [**Conclusion**](#conclusion) (1 videos)
+  - The future of AI and research
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Artificial intelligence for research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/artificial-intelligence-for-research?u=76281980)
@@ -77,7 +88,7 @@ created: 2026-04-29
 
 ### 1. Doing Research on AI Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Doing research on AI when it's not AI research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/doing-research-on-ai-when-it-s-not-ai-research?u=76281980)
@@ -189,7 +200,7 @@ created: 2026-04-29
 
 ### 2. Using AI to Improve Research
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting corporate buy-in for using AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/getting-corporate-buy-in-for-using-ai?u=76281980)
@@ -554,7 +565,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of AI and research
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-research-projects/the-future-of-ai-and-research?u=76281980)

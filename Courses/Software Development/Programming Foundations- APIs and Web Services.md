@@ -39,18 +39,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Exploring APIs and Web Services]]** (4 videos)
-- **[[#2. Implementing RESTful APIs]]** (5 videos)
-- **[[#3. Implementing GraphQL]]** (4 videos)
-- **[[#4.  Integrating Generative AI APIs]]** (4 videos)
-- **[[#5. Ensuring API Security and Best Practices]]** (6 videos)
-- **[[#6. Anticipating Future Trends in APIs and Web Services]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to APIs and web services
+- [**1. Exploring APIs and Web Services**](#1-exploring-apis-and-web-services) (4 videos)
+  - Defining APIs
+  - Understanding web services
+  - Challenge: Calling a public API
+  - Solution: Calling a public API
+- [**2. Implementing RESTful APIs**](#2-implementing-restful-apis) (5 videos)
+  - Applying REST principles
+  - Building RESTful APIs with Python
+  - Exploring advanced API concepts
+  - Challenge: Develop a simple RESTful API
+  - Solution: Develop a simple RESTful API
+- [**3. Implementing GraphQL**](#3-implementing-graphql) (4 videos)
+  - Exploring GraphQL benefits
+  - Creating with GraphQL
+  - Challenge: Build a GraphQL server
+  - Solution: Build a GraphQL server
+- [**4.  Integrating Generative AI APIs**](#4-integrating-generative-ai-apis) (4 videos)
+  - Exploring the OpenAI APIs
+  - Utilizing the OpenAI API
+  - Challenge: Integrate the OpenAI API
+  - Solution: Integrate the OpenAI API
+- [**5. Ensuring API Security and Best Practices**](#5-ensuring-api-security-and-best-practices) (6 videos)
+  - Securing APIs
+  - Challenge: Secure an API
+  - Solution: Secure an API
+  - Documenting and testing APIs
+  - Challenge: Document an API
+  - Solution: Document an API
+- [**6. Anticipating Future Trends in APIs and Web Services**](#6-anticipating-future-trends-in-apis-and-web-services) (2 videos)
+  - Embracing emerging technologies
+  - Navigating the evolving API ecosystem
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your programming foundations: APIs and web services journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to APIs and web services
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/introduction-to-apis-and-web-services?u=76281980)
@@ -89,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Exploring APIs and Web Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/defining-apis?u=76281980)
@@ -475,7 +502,7 @@ created: 2026-04-29
 
 ### 2. Implementing RESTful APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying REST principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/applying-rest-principles?u=76281980)
@@ -969,7 +996,7 @@ created: 2026-04-29
 
 ### 3. Implementing GraphQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring GraphQL benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-graphql-benefits?u=76281980)
@@ -1432,7 +1459,7 @@ created: 2026-04-29
 
 ### 4.  Integrating Generative AI APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the OpenAI APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/exploring-the-openai-apis?u=76281980)
@@ -1844,7 +1871,7 @@ created: 2026-04-29
 
 ### 5. Ensuring API Security and Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/securing-apis?u=76281980)
@@ -2320,7 +2347,7 @@ created: 2026-04-29
 
 ### 6. Anticipating Future Trends in APIs and Web Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embracing emerging technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/embracing-emerging-technologies?u=76281980)
@@ -2482,7 +2509,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your programming foundations: APIs and web services journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services-27993033/your-programming-foundations-apis-and-web-services-journey?u=76281980)

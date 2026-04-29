@@ -51,15 +51,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. NLP and Transformers]]** (5 videos)
-- **[[#2. BERT and Transfer Learning]]** (3 videos)
-- **[[#3. Transformers and BERT]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Why TensorFlow?
+  - What you should know
+  - What is TensorFlow?
+- [**1. NLP and Transformers**](#1-nlp-and-transformers) (5 videos)
+  - What is NLP?
+  - Transformers, their use, and history
+  - Transformers for NLP
+  - Challenge: NLP model size
+  - Solution: NLP model size
+- [**2. BERT and Transfer Learning**](#2-bert-and-transfer-learning) (3 videos)
+  - Bias in BERT and GPT
+  - How was BERT trained?
+  - Transfer learning
+- [**3. Transformers and BERT**](#3-transformers-and-bert) (6 videos)
+  - Transformer: Architecture overview
+  - BERT model and tokenization
+  - Tokenizers
+  - Self-attention
+  - Multi-head attention and feedforward network
+  - Fine-tuning BERT
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why TensorFlow?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/why-tensorflow?u=76281980)
@@ -182,7 +200,7 @@ created: 2026-04-29
 
 ### 1. NLP and Transformers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is NLP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/what-is-nlp?u=76281980)
@@ -441,7 +459,7 @@ created: 2026-04-29
 
 ### 2. BERT and Transfer Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias in BERT and GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/bias-in-bert-and-gpt?u=76281980)
@@ -664,7 +682,7 @@ created: 2026-04-29
 
 ### 3. Transformers and BERT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transformer: Architecture overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/transformer-architecture-overview?u=76281980)
@@ -1110,7 +1128,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tensorflow-working-with-nlp/next-steps?u=76281980)

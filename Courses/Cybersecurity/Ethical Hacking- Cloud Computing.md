@@ -49,16 +49,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Cloud Overview]]** (4 videos)
-- **[[#2. Cloud Identity Management]]** (5 videos)
-- **[[#3. Cloud High Availability]]** (8 videos)
-- **[[#4. Hardening the Cloud]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Get prepped for ethical hacking cloud computing certification
+  - What you should know
+- [**1. Cloud Overview**](#1-cloud-overview) (4 videos)
+  - Cloud computing characteristics and security
+  - Cloud deployment and service models
+  - Cloud services and the hacking process
+  - Common cloud computing threats
+- [**2. Cloud Identity Management**](#2-cloud-identity-management) (5 videos)
+  - Cloud identity management
+  - Create cloud users and groups
+  - Enable MFA for cloud users
+  - Azure resource permissions
+  - AWS resource permissions
+- [**3. Cloud High Availability**](#3-cloud-high-availability) (8 videos)
+  - Cloud service high availability
+  - Cloud security recommendation tools
+  - Deploying cloud firewall solutions
+  - Cloud data residency
+  - Cloud storage replication
+  - Cloud virtual machine replication
+  - Configure cloud load balancing
+  - Application containers and clusters
+- [**4. Hardening the Cloud**](#4-hardening-the-cloud) (10 videos)
+  - Cloud auditing
+  - Enable cloud alert notification
+  - Encryption and the cloud
+  - Force HTTPS for cloud-hosted web applications
+  - Deploying a cloud jump box
+  - Cloud artificial intelligence and machine learning
+  - Cloud DDoS protection
+  - Pen testing and the cloud
+  - Cloud hacking tools
+  - Cloud security best practices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get prepped for ethical hacking cloud computing certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/get-prepped-for-ethical-hacking-cloud-computing-certification?u=76281980)
@@ -134,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Cloud Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud computing characteristics and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-computing-characteristics-and-security?u=76281980)
@@ -588,7 +618,7 @@ created: 2026-04-29
 
 ### 2. Cloud Identity Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud identity management
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-identity-management?u=76281980)
@@ -1238,7 +1268,7 @@ created: 2026-04-29
 
 ### 3. Cloud High Availability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud service high availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-service-high-availability?u=76281980)
@@ -2056,7 +2086,7 @@ created: 2026-04-29
 
 ### 4. Hardening the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/cloud-auditing?u=76281980)
@@ -3161,7 +3191,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cloud-computing-22183183/next-steps?u=76281980)

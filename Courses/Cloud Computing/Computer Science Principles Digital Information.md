@@ -49,17 +49,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Innovation and Technology]]** (2 videos)
-- **[[#2. Computer Communications]]** (4 videos)
-- **[[#3. Number Systems]]** (4 videos)
-- **[[#4. Encoding and Sending Text]]** (2 videos)
-- **[[#5. Working with Large Amounts of Data]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know beforehand
+  - Contact
+- [**1. Innovation and Technology**](#1-innovation-and-technology) (2 videos)
+  - History of innovation
+  - Impact of coding and programming
+- [**2. Computer Communications**](#2-computer-communications) (4 videos)
+  - Yes and no answers with binary
+  - Binary and bits
+  - Communicating with bits
+  - Digital communication
+- [**3. Number Systems**](#3-number-systems) (4 videos)
+  - Abstraction of numbers
+  - Binary numbers
+  - Bit size and values
+  - Overflow
+- [**4. Encoding and Sending Text**](#4-encoding-and-sending-text) (2 videos)
+  - ASCII and Unicode
+  - Encoding formatted text
+- [**5. Working with Large Amounts of Data**](#5-working-with-large-amounts-of-data) (4 videos)
+  - File sizes and bytes
+  - Text compression
+  - Encoding images
+  - Image compression and file formats
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980)
@@ -180,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Innovation and Technology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### History of innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980)
@@ -369,7 +389,7 @@ created: 2026-04-29
 
 ### 2. Computer Communications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Yes and no answers with binary
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/yes-and-no-answers-with-binary?u=76281980)
@@ -736,7 +756,7 @@ created: 2026-04-29
 
 ### 3. Number Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Abstraction of numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/abstraction-of-numbers?u=76281980)
@@ -1161,7 +1181,7 @@ created: 2026-04-29
 
 ### 4. Encoding and Sending Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ASCII and Unicode
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/ascii-and-unicode?u=76281980)
@@ -1299,7 +1319,7 @@ created: 2026-04-29
 
 ### 5. Working with Large Amounts of Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### File sizes and bytes
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/file-sizes-and-bytes?u=76281980)
@@ -1715,7 +1735,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/summary?u=76281980)

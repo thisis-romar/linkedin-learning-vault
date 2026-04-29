@@ -45,12 +45,16 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Building the Dashboard]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Using chatbots to deliver results
+- [**1. Building the Dashboard**](#1-building-the-dashboard) (3 videos)
+  - Brainstorming with the chatbot
+  - Defining success criteria with a PRD
+  - From PRD to interactive dashboard with AI tools
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using chatbots to deliver results
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/using-chatbots-to-deliver-results?u=76281980)
@@ -76,7 +80,7 @@ created: 2026-04-29
 
 ### 1. Building the Dashboard
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Brainstorming with the chatbot
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980)

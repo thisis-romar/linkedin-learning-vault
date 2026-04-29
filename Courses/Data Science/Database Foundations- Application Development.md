@@ -53,15 +53,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Application Layers]]** (4 videos)
-- **[[#2. PostgreSQL and PHP]]** (10 videos)
-- **[[#3. SQL Server and ASP.NET Core]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Integrating databases with an application
+  - What you should know
+  - The exercise files
+- [**1. Application Layers**](#1-application-layers) (4 videos)
+  - Multitier architectures
+  - Communicate with the data layer
+  - Databases on the web
+  - Project overview
+- [**2. PostgreSQL and PHP**](#2-postgresql-and-php) (10 videos)
+  - What is PHP and Apache?
+  - Create a PHP web server
+  - Connect to the PHP server
+  - PostgreSQL functions
+  - Use PHP variables
+  - Use if/else to handle errors
+  - Add data to a database
+  - Format SELECT query results
+  - Filter results with form controls
+  - Add data to a table with form controls
+- [**3. SQL Server and ASP.NET Core**](#3-sql-server-and-aspnet-core) (7 videos)
+  - What is ASP.NET Core?
+  - Create the ASP.NET Core web server with Docker
+  - Add a database to SQL Server
+  - ASP.NET modularity
+  - Model tabular data
+  - Controller classes
+  - URL segments
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating databases with an application
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/integrating-databases-with-an-application?u=76281980)
@@ -157,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Application Layers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Multitier architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/multitier-architectures?u=76281980)
@@ -441,7 +466,7 @@ created: 2026-04-29
 
 ### 2. PostgreSQL and PHP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is PHP and Apache?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-is-php-and-apache?u=76281980)
@@ -1683,7 +1708,7 @@ created: 2026-04-29
 
 ### 3. SQL Server and ASP.NET Core
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ASP.NET Core?
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/what-is-asp-dot-net-core?u=76281980)
@@ -2636,7 +2661,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-application-development/next-steps?u=76281980)

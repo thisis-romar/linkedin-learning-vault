@@ -47,18 +47,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Develop Solutions for Azure Blob Storage]]** (6 videos)
-- **[[#2. Develop Solutions for Azure Files]]** (7 videos)
-- **[[#3. Develop Solutions for Azure Queues]]** (3 videos)
-- **[[#4. Secure Azure Storage]]** (6 videos)
-- **[[#5. Manage Azure Storage]]** (4 videos)
-- **[[#6. Backup Azure Storage]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to Azure Storage
+  - Azure Storage services
+- [**1. Develop Solutions for Azure Blob Storage**](#1-develop-solutions-for-azure-blob-storage) (6 videos)
+  - Azure Storage accounts and replication
+  - Binary large object storage (Blob)
+  - Blob containers
+  - Blob access tiers
+  - Blob lifecycle management
+  - Managing blobs
+- [**2. Develop Solutions for Azure Files**](#2-develop-solutions-for-azure-files) (7 videos)
+  - Azure Files
+  - Azure Files vs. Azure Blobs
+  - Managing file shares
+  - File share snapshots
+  - Replacing on-premises server with Azure Files
+  - Azure File Sync
+  - Implementing Azure File Sync
+- [**3. Develop Solutions for Azure Queues**](#3-develop-solutions-for-azure-queues) (3 videos)
+  - Azure Storage queues
+  - Managing queues
+  - Developing with queues
+- [**4. Secure Azure Storage**](#4-secure-azure-storage) (6 videos)
+  - Securing storage data
+  - Storage security and authorization
+  - Shared access signatures
+  - Storage Service Encryption
+  - Blob storage access policies
+  - Storage security best practices
+- [**5. Manage Azure Storage**](#5-manage-azure-storage) (4 videos)
+  - Azure Storage Explorer
+  - Import/Export service
+  - AzCopy
+  - Using Azure storage SDK
+- [**6. Backup Azure Storage**](#6-backup-azure-storage) (4 videos)
+  - Protecting Azure file shares
+  - Backing up Azure file shares
+  - Protecting Azure Blob storage
+  - Backing up and replication for Azure Blob storage
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning never stops
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Azure Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/introduction-to-azure-storage?u=76281980)
@@ -165,7 +198,7 @@ created: 2026-04-29
 
 ### 1. Develop Solutions for Azure Blob Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Storage accounts and replication
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-accounts-and-replication?u=76281980)
@@ -674,7 +707,7 @@ created: 2026-04-29
 
 ### 2. Develop Solutions for Azure Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Files
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-files?u=76281980)
@@ -1300,7 +1333,7 @@ created: 2026-04-29
 
 ### 3. Develop Solutions for Azure Queues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Storage queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-queues?u=76281980)
@@ -1665,7 +1698,7 @@ created: 2026-04-29
 
 ### 4. Secure Azure Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing storage data
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/securing-storage-data?u=76281980)
@@ -2248,7 +2281,7 @@ created: 2026-04-29
 
 ### 5. Manage Azure Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Storage Explorer
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/azure-storage-explorer?u=76281980)
@@ -2632,7 +2665,7 @@ created: 2026-04-29
 
 ### 6. Backup Azure Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting Azure file shares
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/protecting-azure-file-shares?u=76281980)
@@ -3042,7 +3075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning never stops
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-storage-essential-training-2021/learning-never-stops?u=76281980)

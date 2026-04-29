@@ -47,11 +47,12 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Governing Agentic AI Systems]]** (1 videos)
+- [**Governing Agentic AI Systems**](#governing-agentic-ai-systems) (1 videos)
+  - Governing agentic AI systems
 
 ### Governing Agentic AI Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Governing agentic AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/governing-agentic-ai-systems-by-all-tech-is-human/governing-agentic-ai-systems?u=76281980)

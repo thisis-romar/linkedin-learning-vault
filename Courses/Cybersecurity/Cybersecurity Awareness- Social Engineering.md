@@ -45,16 +45,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Social Engineering Tactics]]** (8 videos)
-- **[[#2. Safeguarding Your Company from Attacks]]** (10 videos)
-- **[[#3. Testing Your Defenses]]** (2 videos)
-- **[[#4. Cybersecurity Awareness]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Defeat social engineers and cyber scammers
+  - What is social engineering?
+- [**1. Social Engineering Tactics**](#1-social-engineering-tactics) (8 videos)
+  - Influence and decision-making
+  - Phishing
+  - Pretexting
+  - Vishing
+  - Baiting
+  - Tailgating and shoulder surfing
+  - Challenge: Social engineering tactics
+  - Solution: Social engineering tactics
+- [**2. Safeguarding Your Company from Attacks**](#2-safeguarding-your-company-from-attacks) (10 videos)
+  - Cybersecurity awareness training
+  - Properly manage passwords
+  - Install patches
+  - Spam filter
+  - Sandboxing
+  - Scan your attachments
+  - Anti-social engineering software
+  - Create policies and procedures
+  - Challenge: Safegarding your company from attacks
+  - Solution: Safegarding your company from attacks
+- [**3. Testing Your Defenses**](#3-testing-your-defenses) (2 videos)
+  - Phishing simulations
+  - Penetration testing
+- [**4. Cybersecurity Awareness**](#4-cybersecurity-awareness) (2 videos)
+  - Active and passive education
+  - Personal data security
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your cybersecurity awareness journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defeat social engineers and cyber scammers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/defeat-social-engineers-and-cyber-scammers?u=76281980)
@@ -118,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Social Engineering Tactics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Influence and decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/influence-and-decision-making?u=76281980)
@@ -675,7 +700,7 @@ created: 2026-04-29
 
 ### 2. Safeguarding Your Company from Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity awareness training
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/cybersecurity-awareness-training?u=76281980)
@@ -1304,7 +1329,7 @@ created: 2026-04-29
 
 ### 3. Testing Your Defenses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Phishing simulations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/phishing-simulations?u=76281980)
@@ -1420,7 +1445,7 @@ created: 2026-04-29
 
 ### 4. Cybersecurity Awareness
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Active and passive education
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/active-and-passive-education?u=76281980)
@@ -1529,7 +1554,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your cybersecurity awareness journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-social-engineering-22875721/continue-your-cybersecurity-awareness-journey?u=76281980)

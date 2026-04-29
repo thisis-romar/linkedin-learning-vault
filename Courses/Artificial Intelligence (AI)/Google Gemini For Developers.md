@@ -55,17 +55,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Gemini Dev Environments]]** (5 videos)
-- **[[#2. Gemini Prompts]]** (4 videos)
-- **[[#3. Gemini Model Settings]]** (4 videos)
-- **[[#4. Gemini Model Tools]]** (4 videos)
-- **[[#5. Gemini Model Applications]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building the future: Google Gemini tools for AI developers
+- [**1. Gemini Dev Environments**](#1-gemini-dev-environments) (5 videos)
+  - Understand Google Gemini 2.x models
+  - Understand Google Gemini 2.x experimental models
+  - Understand Google Gemini 2.x Canvas
+  - Use Google AI Studio
+  - Use Colab Jupyter Notebook
+- [**2. Gemini Prompts**](#2-gemini-prompts) (4 videos)
+  - Design and test language model prompts
+  - Use system instructions with prompts
+  - Use Gemini compare mode
+  - Design and test multimodal prompts
+- [**3. Gemini Model Settings**](#3-gemini-model-settings) (4 videos)
+  - Configure model temperature
+  - Configure model safety settings
+  - Configure model parameters
+  - Use the AI Studio dashboard
+- [**4. Gemini Model Tools**](#4-gemini-model-tools) (4 videos)
+  - Use structured output
+  - Use code execution
+  - Use function calling
+  - Use model grounding
+- [**5. Gemini Model Applications**](#5-gemini-model-applications) (3 videos)
+  - Generate videos with Veo 2
+  - Test Gemini Live
+  - Test a Gemini app
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the future: Google Gemini tools for AI developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/building-the-future-google-gemini-tools-for-ai-developers?u=76281980)
@@ -93,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Gemini Dev Environments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Google Gemini 2.x models
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/understand-google-gemini-2-x-models?u=76281980)
@@ -509,7 +531,7 @@ created: 2026-04-29
 
 ### 2. Gemini Prompts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design and test language model prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/design-and-test-language-model-prompts?u=76281980)
@@ -887,7 +909,7 @@ created: 2026-04-29
 
 ### 3. Gemini Model Settings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure model temperature
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/configure-model-temperature?u=76281980)
@@ -1176,7 +1198,7 @@ created: 2026-04-29
 
 ### 4. Gemini Model Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use structured output
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/use-structured-output?u=76281980)
@@ -1495,7 +1517,7 @@ created: 2026-04-29
 
 ### 5. Gemini Model Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generate videos with Veo 2
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/generate-videos-with-veo2?u=76281980)
@@ -1777,7 +1799,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-gemini-for-developers-25832309/next-steps?u=76281980)

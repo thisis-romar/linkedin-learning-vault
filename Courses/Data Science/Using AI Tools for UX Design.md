@@ -51,17 +51,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Project Overview]]** (1 videos)
-- **[[#2. Creating Concepts Using Text-to-Image AI]]** (6 videos)
-- **[[#3. Using AI Tools to Increase Image Resolution]]** (1 videos)
-- **[[#4. Building Image Assets Using AI Tools]]** (3 videos)
-- **[[#5. Using AI Tools to Create Brand Style Guides]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - AI tools for UX designers
+  - Expectations
+- [**1. Project Overview**](#1-project-overview) (1 videos)
+  - Client's ask
+- [**2. Creating Concepts Using Text-to-Image AI**](#2-creating-concepts-using-text-to-image-ai) (6 videos)
+  - Introduction to text-to-image AI apps
+  - Midjourney: Setup
+  - Midjourney: Using commands to create concepts
+  - Midjourney: Finer control using commands and parameters
+  - Midjourney: Uploading reference photos
+  - Alternative and beta tools for concept work
+- [**3. Using AI Tools to Increase Image Resolution**](#3-using-ai-tools-to-increase-image-resolution) (1 videos)
+  - Upscaling your image assets
+- [**4. Building Image Assets Using AI Tools**](#4-building-image-assets-using-ai-tools) (3 videos)
+  - Creating hero imagery with Midjourney
+  - Using Dall·E 2 for icon creation
+  - Creating vectors from your AI-generated imagery
+- [**5. Using AI Tools to Create Brand Style Guides**](#5-using-ai-tools-to-create-brand-style-guides) (4 videos)
+  - Creating color swatches with Colormind and the other tools in Obsidian
+  - Creating font pairing using Fontjoy and other tools in Obsidian
+  - Using Chat GPT as your branding expert
+  - Using AI for concept logos
+- [**Conclusion**](#conclusion) (1 videos)
+  - Wrapping up
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI tools for UX designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/ai-tools-for-ux-designers?u=76281980)
@@ -135,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Project Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Client's ask
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/client-s-ask?u=76281980)
@@ -208,7 +226,7 @@ created: 2026-04-29
 
 ### 2. Creating Concepts Using Text-to-Image AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to text-to-image AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/introduction-to-text-to-image-ai-apps?u=76281980)
@@ -1314,7 +1332,7 @@ created: 2026-04-29
 
 ### 3. Using AI Tools to Increase Image Resolution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Upscaling your image assets
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/upscaling-your-image-assets?u=76281980)
@@ -1420,7 +1438,7 @@ created: 2026-04-29
 
 ### 4. Building Image Assets Using AI Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating hero imagery with Midjourney
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-hero-imagery-with-midjourney?u=76281980)
@@ -2137,7 +2155,7 @@ created: 2026-04-29
 
 ### 5. Using AI Tools to Create Brand Style Guides
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating color swatches with Colormind and the other tools in Obsidian
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/creating-color-swatches-with-colormind-and-the-other-tools-in-obsidian?u=76281980)
@@ -3160,7 +3178,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-tools-for-ux-design/wrapping-up?u=76281980)

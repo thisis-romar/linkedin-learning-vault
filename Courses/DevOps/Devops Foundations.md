@@ -51,19 +51,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. DevOps Basics]]** (5 videos)
-- **[[#2. DevOps and People: A Culture Change]]** (4 videos)
-- **[[#3. DevOps and Process: The Building Blocks]]** (3 videos)
-- **[[#4. Infrastructure as Code]]** (5 videos)
-- **[[#5. Continuous Delivery]]** (6 videos)
-- **[[#6. Site Reliability Engineering]]** (6 videos)
-- **[[#7. Advanced Topics]]** (6 videos)
-- **[[#8. Your DevOps Career]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The foundations of DevOps
+- [**1. DevOps Basics**](#1-devops-basics) (5 videos)
+  - What is DevOps?
+  - DevOps core values: CAMS
+  - DevOps guiding principles: The Three Ways
+  - Your DevOps practice playbook
+  - Which DevOps tools should I use?
+- [**2. DevOps and People: A Culture Change**](#2-devops-and-people-a-culture-change) (4 videos)
+  - Why do we need a DevOps culture?
+  - Communication and trust power DevOps
+  - Collaboration: Break silos in case of DevOps
+  - Continuous learning the DevOps way
+- [**3. DevOps and Process: The Building Blocks**](#3-devops-and-process-the-building-blocks) (3 videos)
+  - DevOps process building block: Agile
+  - DevOps process building block: Lean
+  - DevOps process building block: Visible ops change control
+- [**4. Infrastructure as Code**](#4-infrastructure-as-code) (5 videos)
+  - What is infrastructure as code?
+  - DevOps applications of infrastructure as code
+  - Configuration management: From golden image to foil ball
+  - Automating infrastructure, containers, and platforms
+  - Your DevOps infrastructure as code toolchain
+- [**5. Continuous Delivery**](#5-continuous-delivery) (6 videos)
+  - What is continuous delivery?
+  - Six practices for continuous integration
+  - Five practices for continuous delivery
+  - The role of QA in DevOps
+  - Continuous deployment: The final frontier
+  - Your DevOps CI toolchain
+- [**6. Site Reliability Engineering**](#6-site-reliability-engineering) (6 videos)
+  - What is site reliability engineering?
+  - Building for reliability: Theory
+  - Building for reliability: Practice
+  - Operational feedback: Observability
+  - Operational feedback: Incident response and retrospectives
+  - Your DevOps SRE toolchain
+- [**7. Advanced Topics**](#7-advanced-topics) (6 videos)
+  - Platform engineering: The paved road
+  - DevSecOps: Making your systems more secure the DevOps way
+  - Cloud native and Kubernetes
+  - DevOps and chaos engineering
+  - MLOps: Leveraging DevOps to run ML systems
+  - AIOps: Using AI in your DevOps work
+- [**8. Your DevOps Career**](#8-your-devops-career) (3 videos)
+  - DevOps and your career
+  - DevOps learning resources
+  - Your personal DevOps journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The foundations of DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980)
@@ -99,7 +138,7 @@ created: 2026-04-29
 
 ### 1. DevOps Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980)
@@ -576,7 +615,7 @@ created: 2026-04-29
 
 ### 2. DevOps and People: A Culture Change
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do we need a DevOps culture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980)
@@ -1025,7 +1064,7 @@ created: 2026-04-29
 
 ### 3. DevOps and Process: The Building Blocks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps process building block: Agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980)
@@ -1359,7 +1398,7 @@ created: 2026-04-29
 
 ### 4. Infrastructure as Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is infrastructure as code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980)
@@ -1863,7 +1902,7 @@ created: 2026-04-29
 
 ### 5. Continuous Delivery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is continuous delivery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980)
@@ -2597,7 +2636,7 @@ created: 2026-04-29
 
 ### 6. Site Reliability Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is site reliability engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980)
@@ -3164,7 +3203,7 @@ created: 2026-04-29
 
 ### 7. Advanced Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Platform engineering: The paved road
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980)
@@ -3832,7 +3871,7 @@ created: 2026-04-29
 
 ### 8. Your DevOps Career
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps and your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980)

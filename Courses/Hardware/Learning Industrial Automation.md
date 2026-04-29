@@ -42,15 +42,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Industrial Automation]]** (6 videos)
-- **[[#2. Programmable Logic Controller]]** (8 videos)
-- **[[#3. Supervisory Control and Data Acquisition]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to industrial automation
+  - What you should know
+- [**1. Industrial Automation**](#1-industrial-automation) (6 videos)
+  - Basics of industrial automation
+  - Field level
+  - Communication level 1: EtherNET
+  - Communication level 2: ControlNET
+  - Communication level 3: Device
+  - Control (PLC and DCS) and management level
+- [**2. Programmable Logic Controller**](#2-programmable-logic-controller) (8 videos)
+  - Programmable logic controller (PLC) overview
+  - Main components
+  - Programmable logic controller programming languages
+  - Programmable logic controller programming: Block diagram
+  - Programmable logic controller programming: Ladder logic
+  - Human-machine interface (HMI)
+  - Open Platform Communications (OPC)
+  - Open Platform Communications (OPC) software
+- [**3. Supervisory Control and Data Acquisition**](#3-supervisory-control-and-data-acquisition) (3 videos)
+  - Supervisory Control and Data Acquisition (SCADA) defined
+  - Components, layout, and design
+  - SCADA functions and usage
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/introduction-to-industrial-automation?u=76281980)
@@ -100,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Industrial Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of industrial automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/basics-of-industrial-automation-14444217?u=76281980)
@@ -451,7 +471,7 @@ created: 2026-04-29
 
 ### 2. Programmable Logic Controller
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Programmable logic controller (PLC) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/programmable-logic-controller-plc-overview?u=76281980)
@@ -844,7 +864,7 @@ created: 2026-04-29
 
 ### 3. Supervisory Control and Data Acquisition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supervisory Control and Data Acquisition (SCADA) defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/supervisory-control-and-data-acquisition-scada-defined?u=76281980)
@@ -969,7 +989,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-industrial-automation/next-steps-22802778?u=76281980)

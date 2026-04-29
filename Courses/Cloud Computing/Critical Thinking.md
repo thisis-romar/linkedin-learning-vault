@@ -49,16 +49,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Critical Thinking?]]** (3 videos)
-- **[[#2. Thinking the Problem Through]]** (6 videos)
-- **[[#3. Using Critical Thinking Tools]]** (6 videos)
-- **[[#4. Practice Critical Thinking]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to critical thinking
+- [**1. What Is Critical Thinking?**](#1-what-is-critical-thinking) (3 videos)
+  - The importance of critical thinking
+  - Distinguish between causes vs. consequences
+  - Break big problems into small ones
+- [**2. Thinking the Problem Through**](#2-thinking-the-problem-through) (6 videos)
+  - Define the problem statement
+  - Understand the real question
+  - Ask focusing questions
+  - Examine past efforts
+  - Use new lenses to think critically
+  - How to find root causes
+- [**3. Using Critical Thinking Tools**](#3-using-critical-thinking-tools) (6 videos)
+  - Challenge how the business operates
+  - Use the five whys of critical thinking
+  - Answer the seven so-whats?
+  - Use the 80/20 rule to think critically
+  - How to successfully conduct analysis
+  - Consider the implications of answers
+- [**4. Practice Critical Thinking**](#4-practice-critical-thinking) (2 videos)
+  - Teach others how to think critically
+  - Common pitfalls when solving problems
+- [**Conclusion**](#conclusion) (1 videos)
+  - Apply critical thinking every day
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to critical thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/welcome-critical-thinking?u=76281980)
@@ -87,7 +106,7 @@ created: 2026-04-29
 
 ### 1. What Is Critical Thinking?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of critical thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/the-importance-of-critical-thinking-2?u=76281980)
@@ -280,7 +299,7 @@ created: 2026-04-29
 
 ### 2. Thinking the Problem Through
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define the problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/define-the-problem-statement-2?u=76281980)
@@ -699,7 +718,7 @@ created: 2026-04-29
 
 ### 3. Using Critical Thinking Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge how the business operates
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980)
@@ -1273,7 +1292,7 @@ created: 2026-04-29
 
 ### 4. Practice Critical Thinking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Teach others how to think critically
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980)
@@ -1440,7 +1459,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply critical thinking every day
 > [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980)

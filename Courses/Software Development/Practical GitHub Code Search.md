@@ -44,14 +44,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Regular Search Features]]** (5 videos)
-- **[[#2. Code Search Beta]]** (3 videos)
-- **[[#Conclusion]]** (0 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Creating projects for development
+  - Using the slideshow
+- [**1. Regular Search Features**](#1-regular-search-features) (5 videos)
+  - GitHub code search
+  - Using the search box and shortcuts
+  - Search qualifiers
+  - Search results
+  - Syntax operators
+- [**2. Code Search Beta**](#2-code-search-beta) (3 videos)
+  - Finding code
+  - Finding code to learn from
+  - Code results
+- [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating projects for development
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/creating-projects-for-development?u=76281980)
@@ -114,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Regular Search Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub code search
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/github-code-search?u=76281980)
@@ -631,7 +641,7 @@ created: 2026-04-29
 
 ### 2. Code Search Beta
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding code
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-code-search/finding-code?u=76281980)
@@ -1050,7 +1060,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

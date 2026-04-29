@@ -47,22 +47,89 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Docker Explained]]** (5 videos)
-- **[[#2. Installing Docker: The Hard Way]]** (7 videos)
-- **[[#3. Docker Images Demystified]]** (6 videos)
-- **[[#4. Exploring Dockerfiles]]** (16 videos)
-- **[[#5. Advanced Docker Operations]]** (6 videos)
-- **[[#6. Docker in Docker]]** (4 videos)
-- **[[#7. Networking]]** (6 videos)
-- **[[#8. Storing Data]]** (6 videos)
-- **[[#9. The Docker Registry]]** (5 videos)
-- **[[#10. Additional Docker Resources]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Diving deeper into Docker
+  - What you should know
+- [**1. Docker Explained**](#1-docker-explained) (5 videos)
+  - Docker recap
+  - Container runtimes
+  - OCI and CRI runtimes
+  - The Docker Engine
+  - Where are Docker's configuration files?
+- [**2. Installing Docker: The Hard Way**](#2-installing-docker-the-hard-way) (7 videos)
+  - When Docker Desktop doesn't cut it
+  - Installing Lima
+  - Configuring Lima
+  - Starting the Lima VM
+  - Installing Windows Subsystem for Linux (WSL)
+  - Installing Docker within WSL
+  - Visualizing your containers with Portainer
+- [**3. Docker Images Demystified**](#3-docker-images-demystified) (6 videos)
+  - What are Docker images?
+  - Diving deeper into Docker images: Part 1
+  - Diving deeper into Docker images: Part 2
+  - Storage drivers
+  - Decomposing Docker pull
+  - Configure Docker to enable debug logging
+- [**4. Exploring Dockerfiles**](#4-exploring-dockerfiles) (16 videos)
+  - Introduction to Dockerfiles
+  - The anatomy of a Dockerfile
+  - Sourcing other Docker images with FROM
+  - Building your first image
+  - Adding and copying files with COPY and ADD
+  - Updating the image
+  - Customizing your Docker image with RUN
+  - Starting your app with ENTRYPOINT
+  - "Starting" your app with CMD
+  - Adding variables with ENV and ARG
+  - Other helpful Dockerfile commands
+  - Multi-stage builds
+  - Multi-platform images
+  - Multi-app images
+  - Challenge: Build and run your first image
+  - Solution: Build and run your first image
+- [**5. Advanced Docker Operations**](#5-advanced-docker-operations) (6 videos)
+  - Extending container privileges with capabilities
+  - Setting container limits: Part 1
+  - Setting container limits: Part 2
+  - Configuring logging with logging drivers: Part 1
+  - Configuring logging with logging drivers: Part 2
+  - Configuring the Docker daemon
+- [**6. Docker in Docker**](#6-docker-in-docker) (4 videos)
+  - The case for Docker in Docker
+  - Creating the container to run containers
+  - Installing Docker in the container of containers
+  - Limitations of Docker through Docker
+- [**7. Networking**](#7-networking) (6 videos)
+  - Introduction to container networking
+  - Creating Docker networks with bridge-mode networking
+  - Exposing container ports between containers
+  - Sharing a host's network with host mode networking
+  - Disabling networking with the none driver
+  - Advanced network drivers and network plugins
+- [**8. Storing Data**](#8-storing-data) (6 videos)
+  - Introduction to container storage
+  - How volumes work
+  - Creating Docker volumes
+  - Creating bind mounts
+  - Copying data from volumes
+  - Bind mount caveats with Docker Desktop
+- [**9. The Docker Registry**](#9-the-docker-registry) (5 videos)
+  - Introduction to Docker registries
+  - Creating a simple registry
+  - Pushing multi-platform manifest lists
+  - Creating and logging into authenticated registries
+  - Popular alternative container image registries
+- [**10. Additional Docker Resources**](#10-additional-docker-resources) (3 videos)
+  - Docker best practices
+  - Taking it to the next level with Docker Compose
+  - Level up even more with Kubernetes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Thank you
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Diving deeper into Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/diving-deeper-into-docker?u=76281980)
@@ -135,7 +202,7 @@ created: 2026-04-29
 
 ### 1. Docker Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Docker recap
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/docker-recap?u=76281980)
@@ -565,7 +632,7 @@ created: 2026-04-29
 
 ### 2. Installing Docker: The Hard Way
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When Docker Desktop doesn't cut it
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/when-docker-desktop-doesn-t-cut-it?u=76281980)
@@ -1338,7 +1405,7 @@ created: 2026-04-29
 
 ### 3. Docker Images Demystified
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Docker images?
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/what-are-docker-images?u=76281980)
@@ -2013,7 +2080,7 @@ created: 2026-04-29
 
 ### 4. Exploring Dockerfiles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Dockerfiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-dockerfiles?u=76281980)
@@ -4449,7 +4516,7 @@ created: 2026-04-29
 
 ### 5. Advanced Docker Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending container privileges with capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/extending-container-privileges-with-capabilities?u=76281980)
@@ -5403,7 +5470,7 @@ created: 2026-04-29
 
 ### 6. Docker in Docker
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The case for Docker in Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/the-case-for-docker-in-docker?u=76281980)
@@ -5796,7 +5863,7 @@ created: 2026-04-29
 
 ### 7. Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to container networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-networking?u=76281980)
@@ -6804,7 +6871,7 @@ created: 2026-04-29
 
 ### 8. Storing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to container storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-container-storage?u=76281980)
@@ -7556,7 +7623,7 @@ created: 2026-04-29
 
 ### 9. The Docker Registry
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Docker registries
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/introduction-to-docker-registries?u=76281980)
@@ -8259,7 +8326,7 @@ created: 2026-04-29
 
 ### 10. Additional Docker Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Docker best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/docker-best-practices?u=76281980)
@@ -8512,7 +8579,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/docker-essential-training/thank-you?u=76281980)

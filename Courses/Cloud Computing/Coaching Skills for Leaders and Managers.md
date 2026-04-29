@@ -40,15 +40,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Coaching Fundamentals]]** (3 videos)
-- **[[#2. Coaching Models]]** (2 videos)
-- **[[#3. Coaching Skills]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Unlock your team's potential
+- [**1. Coaching Fundamentals**](#1-coaching-fundamentals) (3 videos)
+  - Coaching basics
+  - The business case for coaching
+  - Common coaching challenges
+- [**2. Coaching Models**](#2-coaching-models) (2 videos)
+  - Coaching frameworks
+  - GROW coaching model
+- [**3. Coaching Skills**](#3-coaching-skills) (3 videos)
+  - Listen as a coach
+  - Give feedback as a coach
+  - Goal setting as a coach
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock your team's potential
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/unlock-your-team-s-potential?u=76281980)
@@ -84,7 +94,7 @@ created: 2026-04-29
 
 ### 1. Coaching Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Coaching basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-basics?u=76281980)
@@ -366,7 +376,7 @@ created: 2026-04-29
 
 ### 2. Coaching Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Coaching frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-frameworks?u=76281980)
@@ -566,7 +576,7 @@ created: 2026-04-29
 
 ### 3. Coaching Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Listen as a coach
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980)
@@ -839,7 +849,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/next-steps?u=76281980)

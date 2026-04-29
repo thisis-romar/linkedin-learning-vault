@@ -46,15 +46,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Why Cloud Technology Is Transforming Business]]** (10 videos)
-- **[[#2. Fundamental Cloud Concepts]]** (9 videos)
-- **[[#3. Cloud Computing Models and Shared Responsibility]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Executive introduction
+  - Course introduction
+- [**1. Why Cloud Technology Is Transforming Business**](#1-why-cloud-technology-is-transforming-business) (10 videos)
+  - Introduction
+  - Innovations, paradigm shifts, and digital transformation
+  - What is the cloud?
+  - The benefits of cloud computing
+  - Real-world examples: Why it’s critical to transform and embrace new technology
+  - Cloud eras
+  - Challenges that lead to a digital transformation
+  - Google transformation cloud
+  - The Google Cloud Adoption Framework
+  - Summary
+- [**2. Fundamental Cloud Concepts**](#2-fundamental-cloud-concepts) (9 videos)
+  - Introduction
+  - Total cost of ownership (TCO)
+  - Capital expenditures (CapEx) versus operating expenses (OpEx)
+  - Private cloud, hybrid cloud, and multi-cloud strategies
+  - How a network supports digital transformation
+  - Network performance: Bandwidth and latency
+  - Google Cloud regions and zones
+  - Google’s edge network
+  - Summary
+- [**3. Cloud Computing Models and Shared Responsibility**](#3-cloud-computing-models-and-shared-responsibility) (9 videos)
+  - Introduction to cloud computing models and shared responsibility
+  - Cloud computing service models
+  - IaaS (infrastructure as a service)
+  - PaaS (platform as a service)
+  - SaaS (software as a service)
+  - Choosing a cloud computing model
+  - The shared responsibility model
+  - How the shared responsibility model works
+  - Summary
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Executive introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/executive-introduction?u=76281980)
@@ -151,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Why Cloud Technology Is Transforming Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/introduction-22233541?u=76281980)
@@ -729,7 +760,7 @@ created: 2026-04-29
 
 ### 2. Fundamental Cloud Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/introduction?u=76281980)
@@ -1254,7 +1285,7 @@ created: 2026-04-29
 
 ### 3. Cloud Computing Models and Shared Responsibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud computing models and shared responsibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/introduction-to-cloud-computing-models-and-shared-responsibility?u=76281980)
@@ -1702,7 +1733,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-1-digital-transformation-with-google-cloud/course-summary?u=76281980)

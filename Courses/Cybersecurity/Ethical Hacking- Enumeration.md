@@ -47,19 +47,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Basics of Enumeration]]** (4 videos)
-- **[[#2. Local Host Enumeration]]** (4 videos)
-- **[[#3. Enumeration Remote Hosts]]** (11 videos)
-- **[[#4. Enumerating Web Apps]]** (4 videos)
-- **[[#5. Enumerating the Internet]]** (3 videos)
-- **[[#6. Enumerating Cloud]]** (4 videos)
-- **[[#7. Other Enumeration]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Starting your testing with enumeration
+  - What you need to know
+  - Disclaimer
+- [**1. Basics of Enumeration**](#1-basics-of-enumeration) (4 videos)
+  - What is enumeration?
+  - Understanding contexts
+  - Working with contexts
+  - Understanding NetBIOS, SMB, SAMBA, and RPC
+- [**2. Local Host Enumeration**](#2-local-host-enumeration) (4 videos)
+  - Profiling a Unix host
+  - Profiling a Windows host
+  - Investigating the Windows network interface
+  - Investigating the Linux network interface
+- [**3. Enumeration Remote Hosts**](#3-enumeration-remote-hosts) (11 videos)
+  - Enumerating host services
+  - Enumerating SMB from Linux: Episode 1
+  - Enumerating SMB from Linux: Episode 2
+  - Enumerating SMB from Linux: Episode 3
+  - Enumerating SMB from Windows: Episode 1
+  - Enumerating SMB from Windows: Episode 2
+  - Enumerating using SNMP
+  - Enumerating with RPC
+  - Using WMI to enumerate Windows
+  - Enumeration using Finger
+  - Remote enumeration using PowerShell
+- [**4. Enumerating Web Apps**](#4-enumerating-web-apps) (4 videos)
+  - What is that web server?
+  - Enumerating a website with Nikto
+  - Enumerating webpages
+  - Enumerating hidden webpages
+- [**5. Enumerating the Internet**](#5-enumerating-the-internet) (3 videos)
+  - Tracing routes across the internet routes
+  - Using Shodan
+  - Scan the internet with ZMap
+- [**6. Enumerating Cloud**](#6-enumerating-cloud) (4 videos)
+  - Enumeration of the cloud
+  - Enumerating cloud policies
+  - Enumerating cloud compute resources
+  - Enumerating cloud storage resources
+- [**7. Other Enumeration**](#7-other-enumeration) (7 videos)
+  - Scanning with SuperScan
+  - Scanning with NetScanTools Pro
+  - Enumerating LDAP
+  - Checking for SMTP users
+  - Digging into DNS
+  - Enumerating netbios
+  - Taking time to enumerate
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting your testing with enumeration
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980)
@@ -147,7 +188,7 @@ created: 2026-04-29
 
 ### 1. Basics of Enumeration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is enumeration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-enumeration?u=76281980)
@@ -431,7 +472,7 @@ created: 2026-04-29
 
 ### 2. Local Host Enumeration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Profiling a Unix host
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980)
@@ -790,7 +831,7 @@ created: 2026-04-29
 
 ### 3. Enumeration Remote Hosts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enumerating host services
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-host-services?u=76281980)
@@ -1606,7 +1647,7 @@ created: 2026-04-29
 
 ### 4. Enumerating Web Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is that web server?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980)
@@ -1809,7 +1850,7 @@ created: 2026-04-29
 
 ### 5. Enumerating the Internet
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tracing routes across the internet routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/tracing-routes-across-the-internet-routes?u=76281980)
@@ -2007,7 +2048,7 @@ created: 2026-04-29
 
 ### 6. Enumerating Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enumeration of the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980)
@@ -2348,7 +2389,7 @@ created: 2026-04-29
 
 ### 7. Other Enumeration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scanning with SuperScan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980)
@@ -2834,7 +2875,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980)

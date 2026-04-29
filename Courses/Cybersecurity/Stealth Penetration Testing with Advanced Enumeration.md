@@ -46,17 +46,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Operating Stealthily]]** (3 videos)
-- **[[#2. Living off the Land]]** (3 videos)
-- **[[#3. Advanced Enumeration]]** (3 videos)
-- **[[#4. Tunneling and Exfiltration]]** (3 videos)
-- **[[#5. Escalating Privileges]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Taking the next step in your ethical hacking career
+  - What you should know
+  - Disclaimer
+- [**1. Operating Stealthily**](#1-operating-stealthily) (3 videos)
+  - Being detected
+  - Trying stealthy shells
+  - Leaving footprints
+- [**2. Living off the Land**](#2-living-off-the-land) (3 videos)
+  - What is living off the land?
+  - Using PowerHub
+  - Using the PHPSploit shell
+- [**3. Advanced Enumeration**](#3-advanced-enumeration) (3 videos)
+  - Stealthy linux enumeration
+  - Stealthy Windows enumeration
+  - Powering up our escalation
+- [**4. Tunneling and Exfiltration**](#4-tunneling-and-exfiltration) (3 videos)
+  - Setting up and using an SSH tunnel
+  - Exfiltrating data over ICMP
+  - Exfiltration via DNS
+- [**5. Escalating Privileges**](#5-escalating-privileges) (4 videos)
+  - Using Baron Samedit to escalate in Linux
+  - Escalating through a dirty pipe
+  - Escalating through a nightmare
+  - Exploiting the Active Domain
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the next step in your ethical hacking career
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/taking-the-next-step-in-your-ethical-hacking-career?u=76281980)
@@ -128,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Operating Stealthily
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Being detected
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/being-detected?u=76281980)
@@ -337,7 +357,7 @@ created: 2026-04-29
 
 ### 2. Living off the Land
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is living off the land?
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-is-living-off-the-land?u=76281980)
@@ -589,7 +609,7 @@ created: 2026-04-29
 
 ### 3. Advanced Enumeration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stealthy linux enumeration
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/stealthy-linux-enumeration?u=76281980)
@@ -806,7 +826,7 @@ created: 2026-04-29
 
 ### 4. Tunneling and Exfiltration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up and using an SSH tunnel
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/setting-up-and-using-an-ssh-tunnel?u=76281980)
@@ -1075,7 +1095,7 @@ created: 2026-04-29
 
 ### 5. Escalating Privileges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Baron Samedit to escalate in Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/using-baron-samedit-to-escalate-in-linux?u=76281980)
@@ -1361,7 +1381,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/stealth-penetration-testing-with-advanced-enumeration/what-s-next?u=76281980)

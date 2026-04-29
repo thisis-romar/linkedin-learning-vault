@@ -46,13 +46,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Up and Running with Microsoft Word]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Get up and running quickly with Word
+- [**1. Up and Running with Microsoft Word**](#1-up-and-running-with-microsoft-word) (8 videos)
+  - Work with ribbons and the Backstage view
+  - Create and save documents
+  - Work with Word Online
+  - Write and format text
+  - Format a document
+  - Insert page breaks, section breaks, and columns
+  - Add and format images
+  - Add headers, footers, and page numbers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to learn more about Word
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get up and running quickly with Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980)
@@ -82,7 +92,7 @@ created: 2026-04-29
 
 ### 1. Up and Running with Microsoft Word
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with ribbons and the Backstage view
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980)
@@ -879,7 +889,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more about Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980)

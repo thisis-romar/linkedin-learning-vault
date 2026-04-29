@@ -48,16 +48,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Anatomy of a Contact]]** (7 videos)
-- **[[#2. Customer Service Tasks]]** (6 videos)
-- **[[#3. Language and Professionalism]]** (9 videos)
-- **[[#4. Common Help Desk Customer Service Situations]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - How to get the most value out of this course
+  - What makes service desk customer service unique?
+- [**1. Anatomy of a Contact**](#1-anatomy-of-a-contact) (7 videos)
+  - Contact greeting and validation
+  - Contact investigation and diagnosis: Close-ended questions
+  - Contact investigation and diagnosis: Open-ended questions
+  - Contact investigation and diagnosis: Probing questions
+  - Contact investigation and diagnosis: Confirming questions
+  - Contact resolution
+  - Contact closure
+- [**2. Customer Service Tasks**](#2-customer-service-tasks) (6 videos)
+  - Placing a contact on hold
+  - Hold: The DATE process
+  - When to use mute
+  - Escalation procedures: Why
+  - Escalation procedures: How
+  - Transfer procedures
+- [**3. Language and Professionalism**](#3-language-and-professionalism) (9 videos)
+  - The value of building rapport with customers
+  - Building rapport over the phone, part 1
+  - Building rapport over the phone, part 2
+  - Building rapport through writing: Style
+  - Building rapport through writing: Tone
+  - Building rapport through writing: Words
+  - Building rapport face-to-face
+  - Refining our message
+  - How to effectively manage conflict
+- [**4. Common Help Desk Customer Service Situations**](#4-common-help-desk-customer-service-situations) (8 videos)
+  - Recovering unsatisfied customers
+  - Learning how to redirect customers
+  - How to say no without saying no
+  - How to say no: the steps
+  - Customer behavior profiles: Impassioned
+  - Customer behavior profiles: Combative
+  - Customer behavior profiles: Chatty
+  - Customer behavior profiles: Timid
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980)
@@ -187,7 +221,7 @@ created: 2026-04-29
 
 ### 1. Anatomy of a Contact
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Contact greeting and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-greeting-and-validation?u=76281980)
@@ -722,7 +756,7 @@ created: 2026-04-29
 
 ### 2. Customer Service Tasks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Placing a contact on hold
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/placing-a-contact-on-hold?u=76281980)
@@ -1272,7 +1306,7 @@ created: 2026-04-29
 
 ### 3. Language and Professionalism
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of building rapport with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980)
@@ -2223,7 +2257,7 @@ created: 2026-04-29
 
 ### 4. Common Help Desk Customer Service Situations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recovering unsatisfied customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/recovering-unsatisfied-customers?u=76281980)
@@ -3215,7 +3249,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/next-steps?u=76281980)

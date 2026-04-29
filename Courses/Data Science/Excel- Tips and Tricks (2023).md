@@ -46,24 +46,70 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Seven Super Shortcuts]]** (7 videos)
-- **[[#2. Ribbon and Quick Access Toolbar Tips]]** (2 videos)
-- **[[#3. Display Shortcuts]]** (2 videos)
-- **[[#4. Navigation and Selection Shortcuts]]** (5 videos)
-- **[[#5. Data Entry and Editing Shortcuts]]** (4 videos)
-- **[[#6. Drag-and-Drop Techniques]]** (4 videos)
-- **[[#7. Formula Shortcuts]]** (5 videos)
-- **[[#8. Operational Shortcuts]]** (3 videos)
-- **[[#9. Formatting Shortcuts]]** (5 videos)
-- **[[#10. Data Management Techniques]]** (3 videos)
-- **[[#11. Charting and Visual Object Tips]]** (3 videos)
-- **[[#12. Ten Tiny Tips]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Become a proficient Excel user
+- [**1. Seven Super Shortcuts**](#1-seven-super-shortcuts) (7 videos)
+  - Enter data or formulas in non-adjacent cells simultaneously
+  - Copy data or formulas down a column
+  - Instantly enter today's date or time
+  - Convert formulas to values with a simple drag
+  - Display all worksheet formulas instantly
+  - Create charts instantly with these keyboard shortcuts
+  - Zoom in and out quickly
+- [**2. Ribbon and Quick Access Toolbar Tips**](#2-ribbon-and-quick-access-toolbar-tips) (2 videos)
+  - Access ribbon commands with Alt key sequences
+  - Expand or collapse the ribbon and full screen views
+- [**3. Display Shortcuts**](#3-display-shortcuts) (2 videos)
+  - Create split screens and frozen titles in a flash
+  - Restore missing labels and hide repeating labels
+- [**4. Navigation and Selection Shortcuts**](#4-navigation-and-selection-shortcuts) (5 videos)
+  - Navigate between workbooks and worksheets efficiently
+  - Navigate within worksheets efficiently
+  - Open, close, save, and create new workbooks with shortcuts
+  - Select an entire row, column, region, or worksheet
+  - Select non-contiguous ranges and visible cells only
+- [**5. Data Entry and Editing Shortcuts**](#5-data-entry-and-editing-shortcuts) (4 videos)
+  - Accelerate data entry
+  - Enter dates and date series efficiently
+  - Enter times and time series efficiently
+  - Use Custom Lists for rapid data entry and list-based sorting
+- [**6. Drag-and-Drop Techniques**](#6-drag-and-drop-techniques) (4 videos)
+  - Accelerate copy and move tasks in cells and worksheets
+  - Drag and insert cells with the Shift key
+  - Display Paste Special options instantly
+  - Accelerate formatting with the right mouse button
+- [**7. Formula Shortcuts**](#7-formula-shortcuts) (5 videos)
+  - Create formulas rapidly
+  - Select all dependent or precedent cells
+  - Use AutoSum shortcuts
+  - Use Conditional Formatting to highlight formula cells only
+  - Perform calculations without formulas
+- [**8. Operational Shortcuts**](#8-operational-shortcuts) (3 videos)
+  - Re-align imported text
+  - Collapse/expand detail quickly with group/ungroup buttons
+  - Create double-spaced printouts quickly
+- [**9. Formatting Shortcuts**](#9-formatting-shortcuts) (5 videos)
+  - Use keyboard shortcuts for frequently used numeric formats
+  - Accentuate data with alignment tools
+  - Add/remove borders and strikethrough with keyboard shortcuts
+  - Display values in thousands or millions without formulas
+  - Quickly format phone and SS numbers
+- [**10. Data Management Techniques**](#10-data-management-techniques) (3 videos)
+  - Clean up spaces quickly with the TRIM function
+  - Split column data using Text to Columns and Flash Fill
+  - Ensure unique entries with data validation rules
+- [**11. Charting and Visual Object Tips**](#11-charting-and-visual-object-tips) (3 videos)
+  - Control chart placement and sizing with dragging techniques
+  - Create and manipulate shapes with the Shift, Ctrl, and Alt keys
+  - Create linked dynamic and linked static images
+- [**12. Ten Tiny Tips**](#12-ten-tiny-tips) (1 videos)
+  - Become a more proficient Excel user with these short tips
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue learning Excel
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Become a proficient Excel user
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-proficient-excel-user?u=76281980)
@@ -86,7 +132,7 @@ created: 2026-04-29
 
 ### 1. Seven Super Shortcuts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enter data or formulas in non-adjacent cells simultaneously
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-data-or-formulas-in-non-adjacent-cells-simultaneously?u=76281980)
@@ -791,7 +837,7 @@ created: 2026-04-29
 
 ### 2. Ribbon and Quick Access Toolbar Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Access ribbon commands with Alt key sequences
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/access-ribbon-commands-with-alt-key-sequences?u=76281980)
@@ -1024,7 +1070,7 @@ created: 2026-04-29
 
 ### 3. Display Shortcuts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create split screens and frozen titles in a flash
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-split-screens-and-frozen-titles-in-a-flash?u=76281980)
@@ -1292,7 +1338,7 @@ created: 2026-04-29
 
 ### 4. Navigation and Selection Shortcuts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate between workbooks and worksheets efficiently
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980)
@@ -1823,7 +1869,7 @@ created: 2026-04-29
 
 ### 5. Data Entry and Editing Shortcuts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate data entry
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-data-entry?u=76281980)
@@ -2311,7 +2357,7 @@ created: 2026-04-29
 
 ### 6. Drag-and-Drop Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate copy and move tasks in cells and worksheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-copy-and-move-tasks-in-cells-and-worksheets?u=76281980)
@@ -2649,7 +2695,7 @@ created: 2026-04-29
 
 ### 7. Formula Shortcuts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create formulas rapidly
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-formulas-rapidly?u=76281980)
@@ -3148,7 +3194,7 @@ created: 2026-04-29
 
 ### 8. Operational Shortcuts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Re-align imported text
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980)
@@ -3457,7 +3503,7 @@ created: 2026-04-29
 
 ### 9. Formatting Shortcuts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use keyboard shortcuts for frequently used numeric formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-keyboard-shortcuts-for-frequently-used-numeric-formats?u=76281980)
@@ -4036,7 +4082,7 @@ created: 2026-04-29
 
 ### 10. Data Management Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Clean up spaces quickly with the TRIM function
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980)
@@ -4413,7 +4459,7 @@ created: 2026-04-29
 
 ### 11. Charting and Visual Object Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Control chart placement and sizing with dragging techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980)
@@ -4743,7 +4789,7 @@ created: 2026-04-29
 
 ### 12. Ten Tiny Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Become a more proficient Excel user with these short tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-more-proficient-excel-user-with-these-short-tips?u=76281980)
@@ -4879,7 +4925,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/continue-learning-excel?u=76281980)

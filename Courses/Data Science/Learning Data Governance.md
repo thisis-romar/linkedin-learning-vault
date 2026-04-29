@@ -60,15 +60,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Data Governance?]]** (7 videos)
-- **[[#2. Data Governance Deployment]]** (8 videos)
-- **[[#3. Managing a Data Governance Program]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Data governance affects everyone
+- [**1. What Is Data Governance?**](#1-what-is-data-governance) (7 videos)
+  - The role of data in the 21st century
+  - Why do we need data governance?
+  - Data governance definition and basics
+  - The principles of data governance
+  - Data governance focus areas
+  - Understanding data modeling
+  - How do you know if your organization needs data governance?
+- [**2. Data Governance Deployment**](#2-data-governance-deployment) (8 videos)
+  - Who owns the data and why does that matter?
+  - Understanding roles in the data governance domain
+  - Designing data governance processes
+  - The value of a data catalog
+  - Creating data governance policies
+  - Exploring the role of knowledge graphs
+  - Data governance and artificial intelligence
+  - The role of data governance in the Internet of Things
+- [**3. Managing a Data Governance Program**](#3-managing-a-data-governance-program) (4 videos)
+  - Data governance in compliance, privacy, and security
+  - Managing and maintaining data governance
+  - Monitoring and measuring your program
+  - The role of the chief data officer
+- [**Conclusion**](#conclusion) (1 videos)
+  - The value of data governance
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data governance affects everyone
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-affects-everyone?u=76281980)
@@ -108,7 +129,7 @@ created: 2026-04-29
 
 ### 1. What Is Data Governance?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of data in the 21st century
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-role-of-data-in-the-21st-century?u=76281980)
@@ -584,7 +605,7 @@ created: 2026-04-29
 
 ### 2. Data Governance Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Who owns the data and why does that matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/who-owns-the-data-and-why-does-that-matter?u=76281980)
@@ -1318,7 +1339,7 @@ created: 2026-04-29
 
 ### 3. Managing a Data Governance Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data governance in compliance, privacy, and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/data-governance-in-compliance-privacy-and-security?u=76281980)
@@ -1699,7 +1720,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-governance-14224082/the-value-of-data-governance?u=76281980)

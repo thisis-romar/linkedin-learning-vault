@@ -39,17 +39,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Accessibly Access a Website]]** (2 videos)
-- **[[#2. Understand Accessibility Standards]]** (6 videos)
-- **[[#3. Accessibility Tools]]** (3 videos)
-- **[[#4. Test and Triage Accessibility Issues]]** (6 videos)
-- **[[#5. Repair and Test Accessibility Issues Again]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Take the mystery out of web accessibility
+  - Why accessibility matters
+- [**1. Accessibly Access a Website**](#1-accessibly-access-a-website) (2 videos)
+  - Your keyboard and computer
+  - NVDA and JAWS
+- [**2. Understand Accessibility Standards**](#2-understand-accessibility-standards) (6 videos)
+  - Introduction to WCAG
+  - Perceivable
+  - Operable
+  - Understandable and robust
+  - Challenge: Find information on WCAG
+  - Solution: Find information on WCAG
+- [**3. Accessibility Tools**](#3-accessibility-tools) (3 videos)
+  - Manual testing
+  - Automated testing
+  - Helper tools
+- [**4. Test and Triage Accessibility Issues**](#4-test-and-triage-accessibility-issues) (6 videos)
+  - Identify conformance goals
+  - Do automated testing
+  - Do targeted manual testing
+  - Triage issues
+  - Challenge: Run axe on a website
+  - Solution: Run axe on a website
+- [**5. Repair and Test Accessibility Issues Again**](#5-repair-and-test-accessibility-issues-again) (2 videos)
+  - Repair accessibility issues
+  - Retest after repairs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the mystery out of web accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/take-the-mystery-out-of-web-accessibility?u=76281980)
@@ -164,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Accessibly Access a Website
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your keyboard and computer
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/your-keyboard-and-computer?u=76281980)
@@ -356,7 +378,7 @@ created: 2026-04-29
 
 ### 2. Understand Accessibility Standards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to WCAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/introduction-to-wcag?u=76281980)
@@ -822,7 +844,7 @@ created: 2026-04-29
 
 ### 3. Accessibility Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/manual-testing?u=76281980)
@@ -1016,7 +1038,7 @@ created: 2026-04-29
 
 ### 4. Test and Triage Accessibility Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify conformance goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/identify-conformance-goals?u=76281980)
@@ -1411,7 +1433,7 @@ created: 2026-04-29
 
 ### 5. Repair and Test Accessibility Issues Again
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Repair accessibility issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/repair-accessibility-issues?u=76281980)
@@ -1601,7 +1623,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-accessibility-for-developers/next-steps?u=76281980)

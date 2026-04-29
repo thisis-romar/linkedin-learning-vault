@@ -50,16 +50,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Cloud Native Spring]]** (9 videos)
-- **[[#2. Spring Images]]** (5 videos)
-- **[[#3. Deploying to Kubernetes]]** (7 videos)
-- **[[#4. Additional Topics]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Spring to Kubernetes
+  - What you need to know
+  - Setting up the Codespaces environment
+  - Developer workflows
+- [**1. Cloud Native Spring**](#1-cloud-native-spring) (9 videos)
+  - Cloud native applications
+  - Creating the application
+  - Preparing data access
+  - Building data access
+  - Exposing as a webservice
+  - Challenge: Cloud Native Spring
+  - Solution: Cloud Native Spring
+  - Logging with Spring
+  - Metrics with Spring
+- [**2. Spring Images**](#2-spring-images) (5 videos)
+  - Containerized workloads
+  - Spring Docker plugin
+  - Building a custom Docker image
+  - Uploading to a container registry
+  - Spring Native images
+- [**3. Deploying to Kubernetes**](#3-deploying-to-kubernetes) (7 videos)
+  - Deploying to Kubernetes
+  - Building the initial scaffolding
+  - Building a deployment
+  - Building a service
+  - Adding ingress
+  - Adding monitoring
+  - Introduction to Helm
+- [**4. Additional Topics**](#4-additional-topics) (3 videos)
+  - Testing strategies
+  - Automation in CI/CD
+  - Security considerations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spring to Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980)
@@ -294,7 +323,7 @@ created: 2026-04-29
 
 ### 1. Cloud Native Spring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud native applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980)
@@ -1114,7 +1143,7 @@ created: 2026-04-29
 
 ### 2. Spring Images
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Containerized workloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980)
@@ -1479,7 +1508,7 @@ created: 2026-04-29
 
 ### 3. Deploying to Kubernetes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying to Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/deploying-to-kubernetes?u=76281980)
@@ -2113,7 +2142,7 @@ created: 2026-04-29
 
 ### 4. Additional Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980)
@@ -2381,7 +2410,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980)

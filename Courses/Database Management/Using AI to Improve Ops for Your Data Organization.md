@@ -45,15 +45,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Data Cataloging and Classification with AI]]** (4 videos)
-- **[[#2. Data Quality Monitoring and Metadata CI/CD with AI]]** (7 videos)
-- **[[#3. Data Analytics and Decision-Making Using AI]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Transformational change for your data organization
+  - Introduction to DataOps and the benefits of using AI tools to enhance operations
+- [**1. Data Cataloging and Classification with AI**](#1-data-cataloging-and-classification-with-ai) (4 videos)
+  - Identify and prioritize your organization's data
+  - How AI can be used to discover, catalog, and understand your data sources?
+  - Automate data cataloging and classification using Collibra Data Intelligence Platform
+  - Risks and controls for consideration
+- [**2. Data Quality Monitoring and Metadata CI/CD with AI**](#2-data-quality-monitoring-and-metadata-cicd-with-ai) (7 videos)
+  - Introduction to data quality monitoring and traditional methods
+  - Enhance the quality of streaming data pipelines using AI and stream monitoring tools
+  - Enhance the quality of batch processing pipelines using AI
+  - Demonstration of AWS Glue data quality
+  - Enhance the quality of structured and unstructured data using AI
+  - Demonstration of automating data quality monitoring using Collibra Data Intelligence Platform
+  - What to know before implementing AI for data quality automation
+- [**3. Data Analytics and Decision-Making Using AI**](#3-data-analytics-and-decision-making-using-ai) (7 videos)
+  - The power of data analytics, business intelligence tools, and AI
+  - Demonstration of pattern recognition and predictive analytics using Power BI
+  - Demonstration of automating anomaly detection and root cause suggestion using Power BI
+  - Demonstration of automating sentiment analysis with Power BI
+  - Forecasting time-series data using Power BI
+  - Talk to your data using AI
+  - Risks of using AI for data analytics and mitigating controls
+- [**Conclusion**](#conclusion) (1 videos)
+  - Extending AI in your data operations
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transformational change for your data organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980)
@@ -159,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Data Cataloging and Classification with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify and prioritize your organization's data
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980)
@@ -500,7 +521,7 @@ created: 2026-04-29
 
 ### 2. Data Quality Monitoring and Metadata CI/CD with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data quality monitoring and traditional methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980)
@@ -946,7 +967,7 @@ created: 2026-04-29
 
 ### 3. Data Analytics and Decision-Making Using AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of data analytics, business intelligence tools, and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980)
@@ -1438,7 +1459,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending AI in your data operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/extending-ai-in-your-data-operations?u=76281980)

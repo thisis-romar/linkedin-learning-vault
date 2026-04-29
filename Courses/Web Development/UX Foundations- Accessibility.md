@@ -39,17 +39,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Accessibility?]]** (3 videos)
-- **[[#2. Accessibility by Example]]** (6 videos)
-- **[[#3. Tools and Techniques]]** (4 videos)
-- **[[#4. Personas for People with Disabilities]]** (6 videos)
-- **[[#5. Integrating Accessibility into Your UX Work and Process]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome
+- [**1. What Is Accessibility?**](#1-what-is-accessibility) (3 videos)
+  - What is accessibility?
+  - Views of accessibility
+  - Accessibility and user experience
+- [**2. Accessibility by Example**](#2-accessibility-by-example) (6 videos)
+  - Managing flow
+  - Re-creating visual interactions
+  - Ensuring proximity in your design
+  - Setting expectations
+  - Writing the perfect content
+  - Designing for memory issues
+- [**3. Tools and Techniques**](#3-tools-and-techniques) (4 videos)
+  - Overview of voice recognition software
+  - Overview of screen magnifiers
+  - Overview of screen readers
+  - Overview of hardware assistive technology
+- [**4. Personas for People with Disabilities**](#4-personas-for-people-with-disabilities) (6 videos)
+  - People are people
+  - Vision issues
+  - Hearing issues
+  - Mobility and dexterity issues
+  - Cognitive issues
+  - Aging into disability
+- [**5. Integrating Accessibility into Your UX Work and Process**](#5-integrating-accessibility-into-your-ux-work-and-process) (5 videos)
+  - Accessibility in content strategy
+  - Accessibility and layout
+  - Accessibility and visual design
+  - Accessibility and interaction design
+  - Accessibility and user research
+- [**Conclusion**](#conclusion) (1 videos)
+  - More resources and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/welcome?u=76281980)
@@ -78,7 +104,7 @@ created: 2026-04-29
 
 ### 1. What Is Accessibility?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/what-is-accessibility?u=76281980)
@@ -376,7 +402,7 @@ created: 2026-04-29
 
 ### 2. Accessibility by Example
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/managing-flow?u=76281980)
@@ -979,7 +1005,7 @@ created: 2026-04-29
 
 ### 3. Tools and Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of voice recognition software
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/overview-of-voice-recognition-software?u=76281980)
@@ -1214,7 +1240,7 @@ created: 2026-04-29
 
 ### 4. Personas for People with Disabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### People are people
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/people-are-people?u=76281980)
@@ -1763,7 +1789,7 @@ created: 2026-04-29
 
 ### 5. Integrating Accessibility into Your UX Work and Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility in content strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/accessibility-in-content-strategy?u=76281980)
@@ -2113,7 +2139,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More resources and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-accessibility/more-resources-and-next-steps?u=76281980)

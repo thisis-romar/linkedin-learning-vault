@@ -47,19 +47,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Exploring the Angular CLI]]** (3 videos)
-- **[[#2. Updating Angular Versions]]** (3 videos)
-- **[[#3. Creating New Angular Projects]]** (6 videos)
-- **[[#4. Serving Angular Applications for Development]]** (2 videos)
-- **[[#5. Generating Angular Application Code]]** (9 videos)
-- **[[#6. Building Angular Applications]]** (5 videos)
-- **[[#7. Running Tests]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Maximize productivity with Angular CLI
+  - What you should know
+  - Using the exercise files
+- [**1. Exploring the Angular CLI**](#1-exploring-the-angular-cli) (3 videos)
+  - What is the Angular CLI?
+  - Installing the CLI
+  - Using the CLI
+- [**2. Updating Angular Versions**](#2-updating-angular-versions) (3 videos)
+  - Using the Angular Update Guide
+  - Using ng update: Part 1
+  - Using ng update: Part 2
+- [**3. Creating New Angular Projects**](#3-creating-new-angular-projects) (6 videos)
+  - The ng new command
+  - Understanding the config files
+  - Adding application assets
+  - Adding a CSS framework
+  - Challenge: Adding JavaScript libraries
+  - Solution: Adding JavaScript libraries
+- [**4. Serving Angular Applications for Development**](#4-serving-angular-applications-for-development) (2 videos)
+  - The ng serve command
+  - Customizing the development server
+- [**5. Generating Angular Application Code**](#5-generating-angular-application-code) (9 videos)
+  - Creating new code with schematics
+  - Generating components and modules
+  - Generating directives
+  - Generating pipes
+  - Generating route guards
+  - Adding libraries using schematics
+  - Generating custom library
+  - Challenge: Generating services
+  - Solution: Generating services
+- [**6. Building Angular Applications**](#6-building-angular-applications) (5 videos)
+  - A build pipeline for an Angular app
+  - The ng build command
+  - Configuring different build options
+  - Setting up build scripts
+  - Deploying with the Angular CLI
+- [**7. Running Tests**](#7-running-tests) (4 videos)
+  - Built-in test runner
+  - The ng test command
+  - Test run options
+  - Testing workflow
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Maximize productivity with Angular CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/maximize-productivity-with-angular-cli?u=76281980)
@@ -170,7 +206,7 @@ created: 2026-04-29
 
 ### 1. Exploring the Angular CLI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the Angular CLI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/what-is-the-angular-cli?u=76281980)
@@ -296,7 +332,7 @@ created: 2026-04-29
 
 ### 2. Updating Angular Versions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Angular Update Guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/using-the-angular-update-guide?u=76281980)
@@ -547,7 +583,7 @@ created: 2026-04-29
 
 ### 3. Creating New Angular Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The ng new command
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-new-command?u=76281980)
@@ -969,7 +1005,7 @@ created: 2026-04-29
 
 ### 4. Serving Angular Applications for Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The ng serve command
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/the-ng-serve-command?u=76281980)
@@ -1094,7 +1130,7 @@ created: 2026-04-29
 
 ### 5. Generating Angular Application Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating new code with schematics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/creating-new-code-with-schematics?u=76281980)
@@ -1411,7 +1447,7 @@ created: 2026-04-29
 
 ### 6. Building Angular Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A build pipeline for an Angular app
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/a-build-pipeline-for-an-angular-app?u=76281980)
@@ -1621,7 +1657,7 @@ created: 2026-04-29
 
 ### 7. Running Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in test runner
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/built-in-test-runner?u=76281980)
@@ -1816,7 +1852,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-angular-cli/next-steps?u=76281980)

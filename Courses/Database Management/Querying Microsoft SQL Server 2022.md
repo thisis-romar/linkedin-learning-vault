@@ -49,21 +49,91 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Introduction to T-SQL Queries]]** (10 videos)
-- **[[#2. Additional Filter Techniques]]** (8 videos)
-- **[[#3. Retrieve Records from Multiple Tables]]** (7 videos)
-- **[[#4. Group Records]]** (8 videos)
-- **[[#5. Manipulate Data with Functions]]** (15 videos)
-- **[[#6. Writing SQL Scripts]]** (3 videos)
-- **[[#7. SQL Subqueries]]** (7 videos)
-- **[[#8. Work with Variables]]** (4 videos)
-- **[[#9. Result Set Operators]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Turn data into information with queries
+  - What you should know
+  - Download the sample database
+  - Exploring the code challenge environment
+- [**1. Introduction to T-SQL Queries**](#1-introduction-to-t-sql-queries) (10 videos)
+  - What is Transact SQL?
+  - The SQL querying environment
+  - Return records with SELECT and FROM
+  - Filter records with WHERE
+  - Sort records with ORDER BY
+  - Column aliases
+  - Create values with constants and math
+  - Challenge: Write a SELECT query
+  - Solution: Write a SELECT query
+  - Solution: Query information from a database
+- [**2. Additional Filter Techniques**](#2-additional-filter-techniques) (8 videos)
+  - Limit results with TOP
+  - Remove duplicates with DISTINCT
+  - Comparison operators
+  - Understand NULL values
+  - Match text with LIKE and wildcards
+  - Challenge: Retrieve matching text strings
+  - Solution: Retrieve matching text strings
+  - Solution: Filter results from a query result
+- [**3. Retrieve Records from Multiple Tables**](#3-retrieve-records-from-multiple-tables) (7 videos)
+  - Table joins and relationships
+  - Inner joins
+  - Left, right, and full outer joins
+  - Cross joins
+  - Challenge: Return data from multiple tables
+  - Solution: Return data from multiple tables
+  - Solution: Join data in multiple tables
+- [**4. Group Records**](#4-group-records) (8 videos)
+  - Understand record grouping
+  - Use GROUP BY and COUNT
+  - Aggregate functions
+  - Explore data with SUM
+  - Filter groups with HAVING
+  - Challenge: Obtain order summaries
+  - Solution: Obtain order summaries
+  - Solution: Group rows and aggregate data
+- [**5. Manipulate Data with Functions**](#5-manipulate-data-with-functions) (15 videos)
+  - Use functions in T-SQL
+  - String functions
+  - Text concatenation
+  - Round with mathematical functions
+  - Find the GREATEST or LEAST value
+  - Work with date functions
+  - FORMAT date and times
+  - Group dates into buckets
+  - Return random records with NEWID
+  - Create a series of values
+  - The IIF logical function
+  - Write a CASE statement
+  - Challenge: Use functions in a SQL query
+  - Solution: Use functions in a SQL query
+  - Solution: Use functions in a query
+- [**6. Writing SQL Scripts**](#6-writing-sql-scripts) (3 videos)
+  - Change database context with USE
+  - Add comments to a script
+  - When to use square brackets
+- [**7. SQL Subqueries**](#7-sql-subqueries) (7 videos)
+  - What is a subquery?
+  - Use a subquery in a HAVING clause
+  - Correlated subqueries
+  - PIVOT the result set
+  - Challenge: Write a query with a subquery
+  - Solution: Write a query with a subquery
+  - Solution: Obtain information with a subquery
+- [**8. Work with Variables**](#8-work-with-variables) (4 videos)
+  - Create and use variables in a query
+  - Create a counter for a looping statement
+  - Challenge: Use variables in a query
+  - Solution: Use variables in a query
+- [**9. Result Set Operators**](#9-result-set-operators) (3 videos)
+  - Combine results with UNION
+  - Return distinct rows with EXCEPT
+  - Return common rows with INTERSECT
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Turn data into information with queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980)
@@ -243,7 +313,7 @@ created: 2026-04-29
 
 ### 1. Introduction to T-SQL Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Transact SQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980)
@@ -1285,7 +1355,7 @@ created: 2026-04-29
 
 ### 2. Additional Filter Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Limit results with TOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/limit-results-with-top?u=76281980)
@@ -1978,7 +2048,7 @@ created: 2026-04-29
 
 ### 3. Retrieve Records from Multiple Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Table joins and relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980)
@@ -2756,7 +2826,7 @@ created: 2026-04-29
 
 ### 4. Group Records
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand record grouping
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980)
@@ -3701,7 +3771,7 @@ created: 2026-04-29
 
 ### 5. Manipulate Data with Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use functions in T-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-functions-in-t-sql?u=76281980)
@@ -5360,7 +5430,7 @@ created: 2026-04-29
 
 ### 6. Writing SQL Scripts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change database context with USE
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/change-database-context-with-use?u=76281980)
@@ -5576,7 +5646,7 @@ created: 2026-04-29
 
 ### 7. SQL Subqueries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a subquery?
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-a-subquery?u=76281980)
@@ -6487,7 +6557,7 @@ created: 2026-04-29
 
 ### 8. Work with Variables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and use variables in a query
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980)
@@ -6946,7 +7016,7 @@ created: 2026-04-29
 
 ### 9. Result Set Operators
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Combine results with UNION
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980)
@@ -7204,7 +7274,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980)

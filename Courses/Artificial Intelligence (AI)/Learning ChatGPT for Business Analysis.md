@@ -52,14 +52,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. All about ChatGPT]]** (5 videos)
-- **[[#2. ChatGPT Use Cases]]** (17 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Power up with ChatGPT
+  - Are you in the best place to start?
+- [**1. All about ChatGPT**](#1-all-about-chatgpt) (5 videos)
+  - What is ChatGPT?
+  - Using the ChatGPT interface
+  - Privacy and security concerns
+  - What ChatGPT is and isn't good for
+  - Creating and using synthetic data in ChatGPT
+- [**2. ChatGPT Use Cases**](#2-chatgpt-use-cases) (17 videos)
+  - Gaining insights from the output of elicitation
+  - Analyzing data
+  - Market scans
+  - Making decisions
+  - Process definition and optimization
+  - Risk assessments and mitigations
+  - Building training material
+  - Analyzing customer feedback
+  - Requirement prioritization and categorization
+  - Use case generation
+  - Test case generation
+  - Customer support and website FAQs
+  - Scenario planning
+  - Improve requirements quality
+  - Improve metrics and measures
+  - Team building exercises
+  - Certification prep
+- [**Conclusion**](#conclusion) (1 videos)
+  - We're just getting started with ChatGPT
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Power up with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/power-up-with-chatgpt?u=76281980)
@@ -139,7 +164,7 @@ created: 2026-04-29
 
 ### 1. All about ChatGPT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ChatGPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/what-is-chatgpt?u=76281980)
@@ -407,7 +432,7 @@ created: 2026-04-29
 
 ### 2. ChatGPT Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gaining insights from the output of elicitation
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/gaining-insights-from-the-output-of-elicitation?u=76281980)
@@ -1345,7 +1370,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### We're just getting started with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-chatgpt-for-business-analysis/we-re-just-getting-started-with-chatgpt?u=76281980)

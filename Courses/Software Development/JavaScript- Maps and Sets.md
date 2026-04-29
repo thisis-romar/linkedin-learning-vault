@@ -46,16 +46,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Maps]]** (12 videos)
-- **[[#2. WeakMaps]]** (2 videos)
-- **[[#3. Sets]]** (10 videos)
-- **[[#4. WeakSets]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Get to know JavaScript maps and sets
+  - What you should know
+- [**1. Maps**](#1-maps) (12 videos)
+  - The Map object defined
+  - Build your Map object with the set method
+  - Access a value with get
+  - Does the map have your key?
+  - Determine map size
+  - Remove key-value pairs with clear and delete
+  - Map: Keys and values methods
+  - Map contents with the entries method
+  - Loop over a map with forEach
+  - Group entries with groupBy
+  - Solution: Maps 1
+  - Solution: Maps 2
+- [**2. WeakMaps**](#2-weakmaps) (2 videos)
+  - What is the WeakMap object?
+  - Same methods, different map
+- [**3. Sets**](#3-sets) (10 videos)
+  - The Set object defined
+  - Add values to your set
+  - Does Set have your value?
+  - Get your set size
+  - Delete and clear values in your set
+  - Iterate over values in a set
+  - Iterate over a set with entries
+  - Iterate over your set with forEach
+  - Solution: Sets 1
+  - Solution: Sets 2
+- [**4. WeakSets**](#4-weaksets) (2 videos)
+  - What is the WeakSet object?
+  - Same methods, different set
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get to know JavaScript maps and sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/get-to-know-javascript-maps-and-sets?u=76281980)
@@ -134,7 +163,7 @@ created: 2026-04-29
 
 ### 1. Maps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Map object defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/the-map-object-defined?u=76281980)
@@ -969,7 +998,7 @@ created: 2026-04-29
 
 ### 2. WeakMaps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the WeakMap object?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakmap-object?u=76281980)
@@ -1063,7 +1092,7 @@ created: 2026-04-29
 
 ### 3. Sets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Set object defined
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/the-set-object-defined?u=76281980)
@@ -1682,7 +1711,7 @@ created: 2026-04-29
 
 ### 4. WeakSets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the WeakSet object?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakset-object?u=76281980)
@@ -1766,7 +1795,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980)

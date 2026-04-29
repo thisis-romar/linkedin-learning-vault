@@ -54,18 +54,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to MLOps]]** (6 videos)
-- **[[#2. Requirements and Design]]** (5 videos)
-- **[[#3. Data Processing and Management]]** (6 videos)
-- **[[#4. Continuous Training]]** (6 videos)
-- **[[#5. Model Management]]** (5 videos)
-- **[[#6. Continuous Integration]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with MLOps
+  - Scope and prerequisites
+- [**1. Introduction to MLOps**](#1-introduction-to-mlops) (6 videos)
+  - Machine learning life cycle
+  - Unique challenges with ML
+  - What is DevOps?
+  - What is MLOps?
+  - Principles of MLOps
+  - When to start MLOps?
+- [**2. Requirements and Design**](#2-requirements-and-design) (5 videos)
+  - Selecting ML projects
+  - Creating requirements
+  - Designing the ML workflow
+  - Assembling the team
+  - Choosing tools and technologies
+- [**3. Data Processing and Management**](#3-data-processing-and-management) (6 videos)
+  - Managed data pipelines
+  - Automated data validation
+  - Managed feature stores
+  - Data versioning
+  - Data governance
+  - Tools and technologies for data processing
+- [**4. Continuous Training**](#4-continuous-training) (6 videos)
+  - Managed training pipelines
+  - Creating data labels
+  - Experiment tracking
+  - AutoML
+  - Tools and technologies for training
+  - Training with generative AI
+- [**5. Model Management**](#5-model-management) (5 videos)
+  - Model versioning
+  - Model registry
+  - Benchmarking models
+  - Model life cycle management
+  - Tools and technologies for model management
+- [**6. Continuous Integration**](#6-continuous-integration) (5 videos)
+  - Solution integration pipelines
+  - Notebook to software
+  - Solution integration patterns
+  - Best practices for solution integration
+  - Integration with generative AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with MLOps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?u=76281980)
@@ -167,7 +203,7 @@ created: 2026-04-29
 
 ### 1. Introduction to MLOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning life cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/machine-learning-life-cycle?u=76281980)
@@ -584,7 +620,7 @@ created: 2026-04-29
 
 ### 2. Requirements and Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting ML projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/selecting-ml-projects?u=76281980)
@@ -924,7 +960,7 @@ created: 2026-04-29
 
 ### 3. Data Processing and Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managed data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-data-pipelines?u=76281980)
@@ -1282,7 +1318,7 @@ created: 2026-04-29
 
 ### 4. Continuous Training
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managed training pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/managed-training-pipelines?u=76281980)
@@ -1702,7 +1738,7 @@ created: 2026-04-29
 
 ### 5. Model Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Model versioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/model-versioning?u=76281980)
@@ -1974,7 +2010,7 @@ created: 2026-04-29
 
 ### 6. Continuous Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution integration pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/solution-integration-pipelines?u=76281980)
@@ -2270,7 +2306,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with MLOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/continuing-on-with-mlops?u=76281980)

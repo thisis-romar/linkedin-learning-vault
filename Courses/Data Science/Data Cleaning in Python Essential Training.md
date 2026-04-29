@@ -53,17 +53,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Bad Data]]** (4 videos)
-- **[[#2. Causes of Errors]]** (5 videos)
-- **[[#3. Detecting Errors]]** (8 videos)
-- **[[#4. Preventing Errors]]** (8 videos)
-- **[[#5. Fixing Errors]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why is clean data important?
+  - Using Codespaces
+- [**1. Bad Data**](#1-bad-data) (4 videos)
+  - Types of errors
+  - Missing values
+  - Bad values
+  - Duplicates
+- [**2. Causes of Errors**](#2-causes-of-errors) (5 videos)
+  - Human errors
+  - Machine errors
+  - Design errors
+  - Challenge: UI design
+  - Solution: UI design
+- [**3. Detecting Errors**](#3-detecting-errors) (8 videos)
+  - Schemas
+  - Validation
+  - Finding missing data
+  - Domain knowledge
+  - Subgroups
+  - Using Copilot to build schema
+  - Challenge: Find bad data
+  - Solution: Find bad data
+- [**4. Preventing Errors**](#4-preventing-errors) (8 videos)
+  - Serialization formats
+  - Digital signature
+  - Data pipelines and automation
+  - Transactions
+  - Data organization and tidy data
+  - Process and data quality metrics
+  - Challenge: ETL
+  - Solution: ETL
+- [**5. Fixing Errors**](#5-fixing-errors) (8 videos)
+  - Renaming fields
+  - Fixing types
+  - Joining and splitting data
+  - Deleting bad data
+  - Filling missing values
+  - Reshaping data
+  - Challenge: Workshop earnings
+  - Solution: Workshop earnings
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is clean data important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/why-is-clean-data-important?u=76281980)
@@ -235,7 +271,7 @@ created: 2026-04-29
 
 ### 1. Bad Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/types-of-errors?u=76281980)
@@ -481,7 +517,7 @@ created: 2026-04-29
 
 ### 2. Causes of Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Human errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/human-errors?u=76281980)
@@ -626,7 +662,7 @@ created: 2026-04-29
 
 ### 3. Detecting Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Schemas
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/schemas?u=76281980)
@@ -1034,7 +1070,7 @@ created: 2026-04-29
 
 ### 4. Preventing Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Serialization formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/serialization-formats?u=76281980)
@@ -1527,7 +1563,7 @@ created: 2026-04-29
 
 ### 5. Fixing Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Renaming fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/renaming-fields?u=76281980)
@@ -2031,7 +2067,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-cleaning-in-python-essential-training-17061364/next-steps?u=76281980)

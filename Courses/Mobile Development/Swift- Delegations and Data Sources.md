@@ -47,15 +47,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Basics of Classes and MVC]]** (4 videos)
-- **[[#2. Delegation]]** (7 videos)
-- **[[#3. Data Sources]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know
+  - How to use the exercise files
+- [**1. The Basics of Classes and MVC**](#1-the-basics-of-classes-and-mvc) (4 videos)
+  - What is a class?
+  - Model
+  - View
+  - Controller
+- [**2. Delegation**](#2-delegation) (7 videos)
+  - Destination view controllers in code
+  - Destination view controllers in storyboards
+  - Delegates in theory
+  - Delegates in iOS code
+  - Delegates in iOS storyboards
+  - Contexts in watchOS
+  - Delegates in watchOS
+- [**3. Data Sources**](#3-data-sources) (2 videos)
+  - Data sources
+  - Delegates and data sources in Apple methods
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/welcome?u=76281980)
@@ -139,7 +156,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Classes and MVC
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a class?
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/what-is-a-class?u=76281980)
@@ -611,7 +628,7 @@ created: 2026-04-29
 
 ### 2. Delegation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Destination view controllers in code
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/destination-view-controllers-in-code?u=76281980)
@@ -1352,7 +1369,7 @@ created: 2026-04-29
 
 ### 3. Data Sources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/data-sources?u=76281980)
@@ -1704,7 +1721,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/swift-delegations-and-data-sources-2018/next-steps?u=76281980)

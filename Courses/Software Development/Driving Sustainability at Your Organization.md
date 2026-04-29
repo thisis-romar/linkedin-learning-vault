@@ -46,15 +46,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Case for Business Sustainability]]** (4 videos)
-- **[[#2. Foundations of a Sustainable Business]]** (5 videos)
-- **[[#3. Implementing Sustainability]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Sustainability in business
+- [**1. The Case for Business Sustainability**](#1-the-case-for-business-sustainability) (4 videos)
+  - Healthy ecosystems = healthy businesses
+  - Planet, people, profit
+  - Corporate social responsibility
+  - Regulations and reporting frameworks
+- [**2. Foundations of a Sustainable Business**](#2-foundations-of-a-sustainable-business) (5 videos)
+  - Energy efficiencies and renewables
+  - Water efficiencies and conservation
+  - Waste and pollution reduction
+  - Sustainable transportation
+  - Diversity, equity, and inclusion
+- [**3. Implementing Sustainability**](#3-implementing-sustainability) (5 videos)
+  - Benchmarking
+  - Track your progress
+  - Follow the checklist
+  - Identify and engage your stakeholders
+  - Sustainability across sectors
+- [**Conclusion**](#conclusion) (1 videos)
+  - Actualize your goals
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/sustainability-in-business?u=76281980)
@@ -102,7 +118,7 @@ created: 2026-04-29
 
 ### 1. The Case for Business Sustainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Healthy ecosystems = healthy businesses
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/4222104?u=76281980)
@@ -366,7 +382,7 @@ created: 2026-04-29
 
 ### 2. Foundations of a Sustainable Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Energy efficiencies and renewables
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/energy-efficiencies-and-renewables?u=76281980)
@@ -750,7 +766,7 @@ created: 2026-04-29
 
 ### 3. Implementing Sustainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benchmarking
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/benchmarking?u=76281980)
@@ -1117,7 +1133,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Actualize your goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/driving-sustainability-at-your-organization/actualize-your-goals?u=76281980)

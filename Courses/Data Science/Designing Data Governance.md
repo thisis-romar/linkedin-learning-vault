@@ -48,16 +48,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Find Your Data Framework]]** (3 videos)
-- **[[#2. Select Data Stewards]]** (4 videos)
-- **[[#3. Build Your Data Governance Council]]** (4 videos)
-- **[[#4. Tackle Your First Data Governance Tasks]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building a data-driven culture
+- [**1. Find Your Data Framework**](#1-find-your-data-framework) (3 videos)
+  - Clarifying your company's mission statement
+  - Writing your data governance mission statement
+  - What are frameworks, and how can they help data governance?
+- [**2. Select Data Stewards**](#2-select-data-stewards) (4 videos)
+  - What are data stewards?
+  - Key tasks that data stewards perform
+  - Differences between business and technical data stewards
+  - Motivating data stewards to help
+- [**3. Build Your Data Governance Council**](#3-build-your-data-governance-council) (4 videos)
+  - What is a data governance council?
+  - Finding an effective sponsor for data governance council
+  - Convincing colleagues to join your data governance council
+  - Prioritizing actions for your data governance council
+- [**4. Tackle Your First Data Governance Tasks**](#4-tackle-your-first-data-governance-tasks) (4 videos)
+  - Defining data domains
+  - Data dictionaries
+  - Writing data dictionaries
+  - Prioritizing projects for your data governance council
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a data-driven culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/building-a-data-driven-culture?u=76281980)
@@ -85,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Find Your Data Framework
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Clarifying your company's mission statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/clarifying-your-company-s-mission-statement?u=76281980)
@@ -291,7 +308,7 @@ created: 2026-04-29
 
 ### 2. Select Data Stewards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are data stewards?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-are-data-stewards?u=76281980)
@@ -549,7 +566,7 @@ created: 2026-04-29
 
 ### 3. Build Your Data Governance Council
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a data governance council?
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/what-is-a-data-governance-council?u=76281980)
@@ -774,7 +791,7 @@ created: 2026-04-29
 
 ### 4. Tackle Your First Data Governance Tasks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/defining-data-domains?u=76281980)
@@ -1021,7 +1038,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-data-governance/next-steps-and-additional-resources?u=76281980)

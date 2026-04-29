@@ -53,16 +53,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What is SQL?]]** (8 videos)
-- **[[#2. SQL in Finance]]** (5 videos)
-- **[[#3. Financial analysis in SQL]]** (5 videos)
-- **[[#4. Predictive modeling in finance]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Become the Ultimate Financial Analyst Using SQL
+  - What you should know
+  - Using CoderPad
+- [**1. What is SQL?**](#1-what-is-sql) (8 videos)
+  - Background and use cases of SQL
+  - Types of SQL commands
+  - SQL data types
+  - Queries: The basic building blocks of SQL
+  - How to use functions to perform calculations
+  - Joins using table relationships
+  - Setting up sample data and files
+  - Solution: Creating your first query
+- [**2. SQL in Finance**](#2-sql-in-finance) (5 videos)
+  - SQL in the finance field
+  - How data is used in finance
+  - Data in fintech vs finance
+  - Excel vs SQL in finance
+  - Solution: Creating your second SQL query
+- [**3. Financial analysis in SQL**](#3-financial-analysis-in-sql) (5 videos)
+  - What is financial analysis?
+  - Analyzing financial statements
+  - Analyzing tabular data
+  - Calculating financial metrics: WACC, NPV, IRR
+  - Solution: Creating basic reports using SQL
+- [**4. Predictive modeling in finance**](#4-predictive-modeling-in-finance) (5 videos)
+  - What is predictive modeling?
+  - How predictive modeling is used in finance
+  - Forecasting revenue trends
+  - Developing predictive models using SQL and Python/R
+  - Case study: Detecting fraud
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Become the Ultimate Financial Analyst Using SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/become-the-ultimate-financial-analyst-using-sql-23442774?u=76281980)
@@ -174,7 +201,7 @@ created: 2026-04-29
 
 ### 1. What is SQL?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Background and use cases of SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/background-and-use-cases-of-sql-23448343?u=76281980)
@@ -594,7 +621,7 @@ created: 2026-04-29
 
 ### 2. SQL in Finance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL in the finance field
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/sql-in-the-finance-field-23454232?u=76281980)
@@ -813,7 +840,7 @@ created: 2026-04-29
 
 ### 3. Financial analysis in SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is financial analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-financial-analysis-23449328?u=76281980)
@@ -1073,7 +1100,7 @@ created: 2026-04-29
 
 ### 4. Predictive modeling in finance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is predictive modeling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/what-is-predictive-modeling-23448340?u=76281980)
@@ -1352,7 +1379,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-professionals/next-steps-23451295?u=76281980)

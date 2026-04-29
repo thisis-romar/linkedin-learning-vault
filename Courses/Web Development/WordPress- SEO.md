@@ -48,16 +48,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. SEO Principles]]** (6 videos)
-- **[[#2. SEO All in One Pack]]** (7 videos)
-- **[[#3. WordPress SEO by Yoast]]** (6 videos)
-- **[[#4. WordPress SEO by Yoast Settings]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Reach customers with SEO
+  - What you should know
+- [**1. SEO Principles**](#1-seo-principles) (6 videos)
+  - Fundamentals of SEO
+  - Keyword strategies
+  - SEO factors outside of WordPress
+  - SEO factors inside WordPress
+  - Speeding up your site
+  - Build for the mobile index
+- [**2. SEO All in One Pack**](#2-seo-all-in-one-pack) (7 videos)
+  - Install and activate All in One SEO Pack
+  - Complete Welcome Wizard
+  - Add SEO info for posts and pages
+  - Add focus key phrase
+  - Add XML sitemaps
+  - Add social meta
+  - Pro features
+- [**3. WordPress SEO by Yoast**](#3-wordpress-seo-by-yoast) (6 videos)
+  - Install and activate Yoast SEO
+  - Import SEO content
+  - Configuration workout and initial setup
+  - Add SEO info to posts and pages
+  - Improve posts with the Yoast SEO optimizer
+  - Add social info to posts and pages
+- [**4. WordPress SEO by Yoast Settings**](#4-wordpress-seo-by-yoast-settings) (7 videos)
+  - Bulk edit posts and pages
+  - Configure search appearance
+  - ConfigureXML sitemaps
+  - Verify Google Search Console
+  - Redirect URLs automatically
+  - Yoast Premium plugins
+  - Build a reusable import file
+- [**Conclusion**](#conclusion) (1 videos)
+  - Optimize your posts
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reach customers with SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980)
@@ -125,7 +154,7 @@ created: 2026-04-29
 
 ### 1. SEO Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals of SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980)
@@ -520,7 +549,7 @@ created: 2026-04-29
 
 ### 2. SEO All in One Pack
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and activate All in One SEO Pack
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-all-in-one-seo-pack?u=76281980)
@@ -1055,7 +1084,7 @@ created: 2026-04-29
 
 ### 3. WordPress SEO by Yoast
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and activate Yoast SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980)
@@ -1682,7 +1711,7 @@ created: 2026-04-29
 
 ### 4. WordPress SEO by Yoast Settings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bulk edit posts and pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980)
@@ -2135,7 +2164,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize your posts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980)

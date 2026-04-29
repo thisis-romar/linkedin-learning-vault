@@ -50,19 +50,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Extractive Text Summarization]]** (4 videos)
-- **[[#2. Performing Extractive Text Summarization Using Hugging Face]]** (4 videos)
-- **[[#3. Understanding Abstractive Text Summarization]]** (2 videos)
-- **[[#4. Understanding Transformers]]** (4 videos)
-- **[[#5. Performing Summarization Using a Hugging Face Pipeline]]** (6 videos)
-- **[[#6. Fine-Tuning a Transformer Model for Summarization]]** (4 videos)
-- **[[#7. Exploring Different Hugging Face Transformers for Summarization]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - AI Text Summarization with Hugging Face
+- [**1. Understanding Extractive Text Summarization**](#1-understanding-extractive-text-summarization) (4 videos)
+  - Prerequisites
+  - Extractive text summarization
+  - Intermediate representations for extractive summarization
+  - Evaluation metrics for summaries
+- [**2. Performing Extractive Text Summarization Using Hugging Face**](#2-performing-extractive-text-summarization-using-hugging-face) (4 videos)
+  - Exploring Hugging Face
+  - Signing up for Hugging Face
+  - The sumy library for extractive summarization
+  - Extractive text summarization on Hugging Face
+- [**3. Understanding Abstractive Text Summarization**](#3-understanding-abstractive-text-summarization) (2 videos)
+  - Abstractive text summarization
+  - Abstractive summarization using the Hosted Inference API on Hugging Face
+- [**4. Understanding Transformers**](#4-understanding-transformers) (4 videos)
+  - Sequence-to-sequence models
+  - Attention in sequence-to-sequence models
+  - A brief introduction to Transformers
+  - Transformers in Hugging Face
+- [**5. Performing Summarization Using a Hugging Face Pipeline**](#5-performing-summarization-using-a-hugging-face-pipeline) (6 videos)
+  - Using Colab to work with Hugging Face Transformers
+  - Loading the CNN Daily Mail dataset
+  - Cleaning text data
+  - Generating summaries with Hugging Face Transformers
+  - Evaluating summaries using ROUGE scores
+  - Summarizing text and computing aggregate ROUGE scores
+- [**6. Fine-Tuning a Transformer Model for Summarization**](#6-fine-tuning-a-transformer-model-for-summarization) (4 videos)
+  - Understanding tokenizers
+  - Fine-tuning the T5 small model
+  - Pushing the model to the Hugging Face Hub
+  - Summarizing text using the fine-tuned model
+- [**7. Exploring Different Hugging Face Transformers for Summarization**](#7-exploring-different-hugging-face-transformers-for-summarization) (6 videos)
+  - Accessing the BBC dataset on Google Drive
+  - Instantiating and cleaning the BBC News summaries dataset
+  - Generating summaries using Pegasus
+  - Generating multiple summaries and computing aggregate ROUGE scores
+  - Generating summaries using BART
+  - Computing ROUGE metrics for a set of summaries
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI Text Summarization with Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/ai-text-summarization-with-hugging-face?u=76281980)
@@ -178,7 +210,7 @@ created: 2026-04-29
 
 ### 1. Understanding Extractive Text Summarization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/prerequisites?u=76281980)
@@ -450,7 +482,7 @@ created: 2026-04-29
 
 ### 2. Performing Extractive Text Summarization Using Hugging Face
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/exploring-hugging-face?u=76281980)
@@ -762,7 +794,7 @@ created: 2026-04-29
 
 ### 3. Understanding Abstractive Text Summarization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Abstractive text summarization
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/abstractive-text-summarization?u=76281980)
@@ -949,7 +981,7 @@ created: 2026-04-29
 
 ### 4. Understanding Transformers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequence-to-sequence models
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/sequence-to-sequence-models?u=76281980)
@@ -1245,7 +1277,7 @@ created: 2026-04-29
 
 ### 5. Performing Summarization Using a Hugging Face Pipeline
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Colab to work with Hugging Face Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/using-colab-to-work-with-hugging-face-transformers?u=76281980)
@@ -1744,7 +1776,7 @@ created: 2026-04-29
 
 ### 6. Fine-Tuning a Transformer Model for Summarization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding tokenizers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/understanding-tokenizers?u=76281980)
@@ -2131,7 +2163,7 @@ created: 2026-04-29
 
 ### 7. Exploring Different Hugging Face Transformers for Summarization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing the BBC dataset on Google Drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/accessing-the-bbc-dataset-on-google-drive?u=76281980)
@@ -2620,7 +2652,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-text-summarization-with-hugging-face/summary-and-next-steps?u=76281980)

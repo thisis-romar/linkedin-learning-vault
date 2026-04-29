@@ -39,16 +39,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introducing Lean Six Sigma]]** (3 videos)
-- **[[#2. Understanding Six Sigma]]** (6 videos)
-- **[[#3. Understanding Lean]]** (6 videos)
-- **[[#4. Implementing Lean Six Sigma]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The continuous improvement culture
+- [**1. Introducing Lean Six Sigma**](#1-introducing-lean-six-sigma) (3 videos)
+  - Why Six Sigma?
+  - Why Lean?
+  - Why Lean Six Sigma?
+- [**2. Understanding Six Sigma**](#2-understanding-six-sigma) (6 videos)
+  - Six Sigma: Define
+  - Six Sigma: Measure
+  - Six Sigma: Analyze
+  - Six Sigma: Improve
+  - Six Sigma: Control
+  - Design for Six Sigma
+- [**3. Understanding Lean**](#3-understanding-lean) (6 videos)
+  - Lean metrics
+  - Five S's
+  - Just-in-time
+  - Total productive maintenance
+  - Quality at the source
+  - Continuous improvement
+- [**4. Implementing Lean Six Sigma**](#4-implementing-lean-six-sigma) (4 videos)
+  - Lead the project
+  - Control the project
+  - Apply Lean Six Sigma to services
+  - Lean Six Sigma for supply chain
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The continuous improvement culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/the-continuous-improvement-culture-24002420?u=76281980)
@@ -78,7 +99,7 @@ created: 2026-04-29
 
 ### 1. Introducing Lean Six Sigma
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Six Sigma?
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/why-six-sigma-24006200?u=76281980)
@@ -306,7 +327,7 @@ created: 2026-04-29
 
 ### 2. Understanding Six Sigma
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Six Sigma: Define
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/six-sigma-define?u=76281980)
@@ -746,7 +767,7 @@ created: 2026-04-29
 
 ### 3. Understanding Lean
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lean metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lean-metrics-24001547?u=76281980)
@@ -1205,7 +1226,7 @@ created: 2026-04-29
 
 ### 4. Implementing Lean Six Sigma
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lead the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/lead-the-project-24008073?u=76281980)
@@ -1493,7 +1514,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-six-sigma-foundations/next-steps-24008071?u=76281980)

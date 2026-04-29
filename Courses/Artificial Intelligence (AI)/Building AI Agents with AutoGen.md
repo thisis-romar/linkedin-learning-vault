@@ -40,19 +40,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI Agents with AutoGen]]** (4 videos)
-- **[[#2. Developing a Research Assistant]]** (4 videos)
-- **[[#3. Solving Complex Tasks Using Nested Chats]]** (3 videos)
-- **[[#4. Tool Use and Adding Internet Capability]]** (4 videos)
-- **[[#5. Building an End-to-End Coding Copilot in Autogen]]** (4 videos)
-- **[[#6. Teachable Agents]]** (3 videos)
-- **[[#7. Building a Data Analysis Company with Group Chat]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Let's build some AI agents with AutoGen
+- [**1. AI Agents with AutoGen**](#1-ai-agents-with-autogen) (4 videos)
+  - Understanding AI agents
+  - Overview of the AutoGen framework
+  - Configuring LLMs and setting up AutoGen
+  - Building a basic
+- [**2. Developing a Research Assistant**](#2-developing-a-research-assistant) (4 videos)
+  - Multi-agent conversation
+  - Research assistant design
+  - Creating agents for the assistant
+  - Creating tasks for the agent
+- [**3. Solving Complex Tasks Using Nested Chats**](#3-solving-complex-tasks-using-nested-chats) (3 videos)
+  - Nested chats to add multi-level reviewing
+  - Creating reviewer agents
+  - Creating nested chat
+- [**4. Tool Use and Adding Internet Capability**](#4-tool-use-and-adding-internet-capability) (4 videos)
+  - What are tools?
+  - Add calculation tool to math tutor agent
+  - Register tools and run the agent
+  - Add web search ability to the research assistant
+- [**5. Building an End-to-End Coding Copilot in Autogen**](#5-building-an-end-to-end-coding-copilot-in-autogen) (4 videos)
+  - Code executors in AutoGen
+  - Create agents
+  - Define task to analyze data
+  - Execute user-defined code in AutoGen
+- [**6. Teachable Agents**](#6-teachable-agents) (3 videos)
+  - Introduction to teachable agents
+  - Setting up teachable agents
+  - Teaching and retrieving information
+- [**7. Building a Data Analysis Company with Group Chat**](#7-building-a-data-analysis-company-with-group-chat) (3 videos)
+  - Organizational structure of agents
+  - Build the group chat
+  - Speaker selection config
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with AutoGen
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Let's build some AI agents with AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/let-s-build-some-ai-agents-with-autogen?u=76281980)
@@ -79,7 +106,7 @@ created: 2026-04-29
 
 ### 1. AI Agents with AutoGen
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980)
@@ -358,7 +385,7 @@ created: 2026-04-29
 
 ### 2. Developing a Research Assistant
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Multi-agent conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980)
@@ -742,7 +769,7 @@ created: 2026-04-29
 
 ### 3. Solving Complex Tasks Using Nested Chats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Nested chats to add multi-level reviewing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/nested-chats-to-add-multi-level-reviewing?u=76281980)
@@ -1034,7 +1061,7 @@ created: 2026-04-29
 
 ### 4. Tool Use and Adding Internet Capability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are tools?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980)
@@ -1397,7 +1424,7 @@ created: 2026-04-29
 
 ### 5. Building an End-to-End Coding Copilot in Autogen
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Code executors in AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/code-executors-in-autogen?u=76281980)
@@ -1800,7 +1827,7 @@ created: 2026-04-29
 
 ### 6. Teachable Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to teachable agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/introduction-to-teachable-agents?u=76281980)
@@ -2144,7 +2171,7 @@ created: 2026-04-29
 
 ### 7. Building a Data Analysis Company with Group Chat
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizational structure of agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980)
@@ -2426,7 +2453,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with AutoGen
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980)

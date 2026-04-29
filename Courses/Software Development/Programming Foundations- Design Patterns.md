@@ -39,20 +39,68 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Design Patterns]]** (3 videos)
-- **[[#2. The Strategy Pattern]]** (10 videos)
-- **[[#3. The Adapter Pattern]]** (5 videos)
-- **[[#4. The Observer Pattern]]** (6 videos)
-- **[[#5. The Decorator Pattern]]** (7 videos)
-- **[[#6. The Iterator Pattern]]** (8 videos)
-- **[[#7. The Factory Patterns]]** (5 videos)
-- **[[#Glossaries]]** (0 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Don't reinvent the wheel
+  - What you should know
+- [**1. Design Patterns**](#1-design-patterns) (3 videos)
+  - Object-oriented design experience
+  - What are design patterns?
+  - What are design principles?
+- [**2. The Strategy Pattern**](#2-the-strategy-pattern) (10 videos)
+  - Revisiting inheritance
+  - Limitations of inheritance
+  - Trying interfaces
+  - Get inspiration from design principles
+  - Programming to an interface
+  - Applying the principles
+  - Exploring the strategy pattern
+  - Why HAS-A is better than IS-A
+  - Challenge: The Strategy pattern
+  - Solution: The Strategy pattern
+- [**3. The Adapter Pattern**](#3-the-adapter-pattern) (5 videos)
+  - Understanding the adapter pattern
+  - The Adapter pattern defined
+  - Using the Adapter pattern
+  - Challenge: The Adapter pattern
+  - Solution: The Adapter pattern
+- [**4. The Observer Pattern**](#4-the-observer-pattern) (6 videos)
+  - Understanding the Observer pattern
+  - The Observer pattern defined
+  - Using the Observer pattern
+  - The Observer pattern and loose coupling
+  - Challenge: The Observer pattern
+  - Solution: The Observer pattern
+- [**5. The Decorator Pattern**](#5-the-decorator-pattern) (7 videos)
+  - Creating chaos with inheritance
+  - Understanding the open-closed principle
+  - Extending behavior with composition
+  - Understanding the decorator pattern
+  - Using the Decorator pattern
+  - Challenge: The Decorator pattern
+  - Solution: The Decorator pattern
+- [**6. The Iterator Pattern**](#6-the-iterator-pattern) (8 videos)
+  - Encapsulating iteration
+  - Understanding the Iterator pattern
+  - Using the Iterator pattern
+  - Using built-in iterators
+  - The single responsibility principle
+  - The iterator pattern as language feature
+  - Challenge: The Iterator pattern
+  - Solution: The Iterator pattern
+- [**7. The Factory Patterns**](#7-the-factory-patterns) (5 videos)
+  - The need for factory patterns
+  - The Factory Method pattern
+  - Using the Factory Method pattern
+  - Challenge: The simple Factory pattern
+  - Solution: The simple Factory pattern
+- [**Glossaries**](#glossaries) (0 videos)
+- [**Conclusion**](#conclusion) (2 videos)
+  - Applying patterns
+  - Where to go from here
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Don't reinvent the wheel
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/don-t-reinvent-the-wheel?u=76281980)
@@ -119,7 +167,7 @@ created: 2026-04-29
 
 ### 1. Design Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented design experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/object-oriented-design-experience?u=76281980)
@@ -303,7 +351,7 @@ created: 2026-04-29
 
 ### 2. The Strategy Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Revisiting inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/revisiting-inheritance?u=76281980)
@@ -928,7 +976,7 @@ created: 2026-04-29
 
 ### 3. The Adapter Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-adapter-pattern?u=76281980)
@@ -1199,7 +1247,7 @@ created: 2026-04-29
 
 ### 4. The Observer Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the Observer pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/understanding-the-observer-pattern?u=76281980)
@@ -1471,7 +1519,7 @@ created: 2026-04-29
 
 ### 5. The Decorator Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating chaos with inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/creating-chaos-with-inheritance?u=76281980)
@@ -1948,7 +1996,7 @@ created: 2026-04-29
 
 ### 6. The Iterator Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Encapsulating iteration
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/encapsulating-iteration?u=76281980)
@@ -2318,7 +2366,7 @@ created: 2026-04-29
 
 ### 7. The Factory Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for factory patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/the-need-for-factory-patterns?u=76281980)
@@ -2619,12 +2667,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/applying-patterns?u=76281980)

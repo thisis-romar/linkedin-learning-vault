@@ -38,15 +38,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Getting Started]]** (1 videos)
-- **[[#1. XaaS: The Origin Story]]** (2 videos)
-- **[[#2. Understanding the Value of XaaS]]** (3 videos)
-- **[[#3. Implementing XaaS at Your Business]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Getting Started**](#getting-started) (1 videos)
+  - The future of business is XaaS
+- [**1. XaaS: The Origin Story**](#1-xaas-the-origin-story) (2 videos)
+  - A brief history of business computing
+  - A brief history of XaaS
+- [**2. Understanding the Value of XaaS**](#2-understanding-the-value-of-xaas) (3 videos)
+  - What are the different types of XaaS?
+  - Benefits of XaaS
+  - Digital transformation and XaaS
+- [**3. Implementing XaaS at Your Business**](#3-implementing-xaas-at-your-business) (4 videos)
+  - Basic architecture of XaaS
+  - Skills required for delivering XaaS
+  - Challenges of XaaS: On-premises versus cloud-based technology
+  - Case study: XaaS in practice
+- [**Conclusion**](#conclusion) (1 videos)
+  - What you can do next
 
 ### Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of business is XaaS
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/the-future-of-business-is-xaas?u=76281980)
@@ -92,7 +103,7 @@ created: 2026-04-29
 
 ### 1. XaaS: The Origin Story
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A brief history of business computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/a-brief-history-of-business-computing?u=76281980)
@@ -217,7 +228,7 @@ created: 2026-04-29
 
 ### 2. Understanding the Value of XaaS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the different types of XaaS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-are-the-different-types-of-xaas?u=76281980)
@@ -452,7 +463,7 @@ created: 2026-04-29
 
 ### 3. Implementing XaaS at Your Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic architecture of XaaS
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/basic-architecture-of-xaas?u=76281980)
@@ -749,7 +760,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What you can do next
 > [LinkedIn Learning](https://www.linkedin.com/learning/everything-as-a-service-xaas-is-the-future-of-business/what-you-can-do-next?u=76281980)

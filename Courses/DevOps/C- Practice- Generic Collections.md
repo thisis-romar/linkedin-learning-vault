@@ -46,13 +46,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Collections Code Challenges]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Practice your C# generic collections skills
+  - What you should know
+  - Explore the code challenge
+- [**1. Collections Code Challenges**](#1-collections-code-challenges) (6 videos)
+  - Solution: Insert into List<T>
+  - Solution: Examine dictionary contents
+  - Solution: PriorityQueue
+  - Solution: Use a slice to get a subset
+  - Solution: ConvertAll
+  - Solution: HashSet operations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice your C# generic collections skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/practice-your-c-sharp-generic-collections-skills?u=76281980)
@@ -340,7 +350,7 @@ created: 2026-04-29
 
 ### 1. Collections Code Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Insert into List<T>
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/4481725?u=76281980)
@@ -759,7 +769,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-practice-generic-collections/next-steps?u=76281980)

@@ -53,14 +53,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Creating with Copilot]]** (4 videos)
-- **[[#2. Editing and Revising with Copilot]]** (2 videos)
-- **[[#3. Summarizing and Understanding with Copilot]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Use Copilot in Word
+  - Understand the Copilot subscriptions
+- [**1. Creating with Copilot**](#1-creating-with-copilot) (4 videos)
+  - Draft a new document from scratch
+  - Create a new document using files as references
+  - Produce additional content in a document
+  - Generate images for your document
+- [**2. Editing and Revising with Copilot**](#2-editing-and-revising-with-copilot) (2 videos)
+  - Adjust the tone in existing content
+  - Convert text to tables
+- [**3. Summarizing and Understanding with Copilot**](#3-summarizing-and-understanding-with-copilot) (2 videos)
+  - Summarize and understand documents
+  - Research details to support your document
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Copilot in Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/use-copilot-in-word?u=76281980)
@@ -130,7 +140,7 @@ created: 2026-04-29
 
 ### 1. Creating with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Draft a new document from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/draft-a-new-document-from-scratch?u=76281980)
@@ -406,7 +416,7 @@ created: 2026-04-29
 
 ### 2. Editing and Revising with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adjust the tone in existing content
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/adjust-the-tone-in-existing-content?u=76281980)
@@ -522,7 +532,7 @@ created: 2026-04-29
 
 ### 3. Summarizing and Understanding with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize and understand documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-word-create-and-refine-documents-with-ai-24565169/summarize-and-understand-documents?u=76281980)

@@ -50,15 +50,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Collaborative UX in The AI Copilot Stack]]** (3 videos)
-- **[[#2. The Titanium Tetrahedron in AI UX Matters]]** (8 videos)
-- **[[#3. Building Appropriate Trust]]** (3 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Designing for AI
+  - What is copilot stack?
+- [**1. Collaborative UX in The AI Copilot Stack**](#1-collaborative-ux-in-the-ai-copilot-stack) (3 videos)
+  - What is collaborative UX?
+  - Collaborative UX practices
+  - Copilot stack layers
+- [**2. The Titanium Tetrahedron in AI UX Matters**](#2-the-titanium-tetrahedron-in-ai-ux-matters) (8 videos)
+  - The three iron triangle dimensions
+  - Dimension 1: Practices for speed
+  - Semantic coding for speed
+  - Dimension 2: Practices for costs
+  - Semantic coding for cost
+  - Dimension 3: Practices for quality
+  - Dimension 4: Practices for emotion
+  - Semantic coding for emotion
+- [**3. Building Appropriate Trust**](#3-building-appropriate-trust) (3 videos)
+  - Adding friction: The new math
+  - What's responsible technology?
+  - Semantic coding for responsible AI
+- [**4. Conclusion**](#4-conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980)
@@ -177,7 +194,7 @@ created: 2026-04-29
 
 ### 1. Collaborative UX in The AI Copilot Stack
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is collaborative UX?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980)
@@ -517,7 +534,7 @@ created: 2026-04-29
 
 ### 2. The Titanium Tetrahedron in AI UX Matters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The three iron triangle dimensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980)
@@ -1272,7 +1289,7 @@ created: 2026-04-29
 
 ### 3. Building Appropriate Trust
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding friction: The new math
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/adding-friction-the-new-math?u=76281980)
@@ -1488,7 +1505,7 @@ created: 2026-04-29
 
 ### 4. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980)

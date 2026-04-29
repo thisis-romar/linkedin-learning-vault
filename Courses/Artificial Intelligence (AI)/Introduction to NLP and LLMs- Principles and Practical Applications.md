@@ -51,17 +51,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to NLP and LLMs]]** (4 videos)
-- **[[#2. NLP and LLMs Use Cases]]** (3 videos)
-- **[[#3. Ethical Considerations and Responsible AI]]** (3 videos)
-- **[[#4. Leading NLP and LLM Projects]]** (4 videos)
-- **[[#5. Future Trends]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Principles and practical applications of NLP and LLMs
+  - What you should know
+- [**1. Introduction to NLP and LLMs**](#1-introduction-to-nlp-and-llms) (4 videos)
+  - What is natural language processing (NLP)?
+  - Why process text data?
+  - Understanding large language models (LLMs)
+  - Key elements of LLMs
+- [**2. NLP and LLMs Use Cases**](#2-nlp-and-llms-use-cases) (3 videos)
+  - Identifying opportunities for NLP and LLM
+  - Quantifying the potential ROI of NLP and LLM projects
+  - Building a business case for NLP and LLM initiatives
+- [**3. Ethical Considerations and Responsible AI**](#3-ethical-considerations-and-responsible-ai) (3 videos)
+  - Bias and fairness in NLP and LLMs
+  - Privacy and data security
+  - Responsible AI practices
+- [**4. Leading NLP and LLM Projects**](#4-leading-nlp-and-llm-projects) (4 videos)
+  - Key roles in an NLP/LLM team
+  - Team essential skills and competencies
+  - Project management and execution
+  - Metrics for model deployment and evaluation
+- [**5. Future Trends**](#5-future-trends) (2 videos)
+  - The evolving landscape of NLP and LLMs
+  - Prepare for the future: Build a NLP/LLM strategy
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Principles and practical applications of NLP and LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/principles-and-practical-applications-of-nlp-and-llms?u=76281980)
@@ -107,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Introduction to NLP and LLMs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is natural language processing (NLP)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/what-is-natural-language-processing-nlp?u=76281980)
@@ -330,7 +349,7 @@ created: 2026-04-29
 
 ### 2. NLP and LLMs Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying opportunities for NLP and LLM
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/identifying-opportunities-for-nlp-and-llm?u=76281980)
@@ -502,7 +521,7 @@ created: 2026-04-29
 
 ### 3. Ethical Considerations and Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias and fairness in NLP and LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/bias-and-fairness-in-nlp-and-llms?u=76281980)
@@ -737,7 +756,7 @@ created: 2026-04-29
 
 ### 4. Leading NLP and LLM Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key roles in an NLP/LLM team
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/key-roles-in-an-nlp-llm-team?u=76281980)
@@ -1036,7 +1055,7 @@ created: 2026-04-29
 
 ### 5. Future Trends
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The evolving landscape of NLP and LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/the-evolving-landscape-of-nlp-and-llms?u=76281980)
@@ -1198,7 +1217,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nlp-and-llms-principles-and-practical-applications/next-steps?u=76281980)

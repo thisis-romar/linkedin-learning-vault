@@ -51,18 +51,62 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to AI]]** (5 videos)
-- **[[#2. Getting started with Serverless]]** (3 videos)
-- **[[#3. Infrastructure as code]]** (4 videos)
-- **[[#4. Introduction to Step Functions]]** (9 videos)
-- **[[#5. Building a Workflow with AI]]** (8 videos)
-- **[[#6. Build a Chatbot with GenAI]]** (9 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Serverless apps with AI services on AWS
+  - What you should know
+  - What you are going to build in this course
+- [**1. Introduction to AI**](#1-introduction-to-ai) (5 videos)
+  - Introduction to AI
+  - Introduction to Amazon AI Services
+  - Introduction to Gen AI
+  - Introduction to Amazon Bedrock
+  - Challenges when building AI and Gen AI applications
+- [**2. Getting started with Serverless**](#2-getting-started-with-serverless) (3 videos)
+  - What is serverless?
+  - Why serverless is great to build AI apps
+  - Using Amazon Bedrock from serverless services
+- [**3. Infrastructure as code**](#3-infrastructure-as-code) (4 videos)
+  - The important role of infrastructure as code
+  - Introducing AWS SAM
+  - Installing and configuring AWS SAM
+  - Getting started with the project
+- [**4. Introduction to Step Functions**](#4-introduction-to-step-functions) (9 videos)
+  - Understanding Step Functions
+  - Creating your first workflow in the AWS console
+  - Creating a workflow as IaC
+  - Introduction to ASL
+  - Introduction to flow states
+  - Step Functions integrations
+  - Modifying the workflow with simple integration
+  - Challenge: Modify the state machine to add an integration to AI service
+  - Solution: Modify the state machine to add an integration to AI service
+- [**5. Building a Workflow with AI**](#5-building-a-workflow-with-ai) (8 videos)
+  - Modifying the existing state machine to use Amazon Bedrock
+  - Challenge: Integrate with Amazon Bedrock
+  - Solution:  Integrate with Amazon Bedrock
+  - What is event-driven architecture?
+  - How to trigger a state machine when there is a new S3 file
+  - How to send an email from the state machine
+  - Challenge: Integrate to EventBridge event bus to send an event
+  - Solution: Integrate to EventBridge event bus to send an event
+- [**6. Build a Chatbot with GenAI**](#6-build-a-chatbot-with-genai) (9 videos)
+  - What is an Amazon Bedrock agent?
+  - What you are going to build
+  - Creating a Lambda function for the agent
+  - Creating an Open API for the function
+  - What is an Amazon Bedrock knowledge base?
+  - Creating a knowledge base
+  - Creating an Amazon Bedrock agent
+  - Challenge: Add another function to the agent
+  - Solution: Add another function to the agent
+- [**Conclusion**](#conclusion) (3 videos)
+  - What we built
+  - Cleaning up the environment
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Serverless apps with AI services on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980)
@@ -174,7 +218,7 @@ created: 2026-04-29
 
 ### 1. Introduction to AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980)
@@ -508,7 +552,7 @@ created: 2026-04-29
 
 ### 2. Getting started with Serverless
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is serverless?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980)
@@ -683,7 +727,7 @@ created: 2026-04-29
 
 ### 3. Infrastructure as code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The important role of infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980)
@@ -991,7 +1035,7 @@ created: 2026-04-29
 
 ### 4. Introduction to Step Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Step Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980)
@@ -2204,7 +2248,7 @@ created: 2026-04-29
 
 ### 5. Building a Workflow with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modifying the existing state machine to use Amazon Bedrock
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980)
@@ -3267,7 +3311,7 @@ created: 2026-04-29
 
 ### 6. Build a Chatbot with GenAI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Amazon Bedrock agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980)
@@ -4225,7 +4269,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What we built
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980)

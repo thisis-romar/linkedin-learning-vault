@@ -49,17 +49,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Build Your Brand into Your LinkedIn Profile]]** (2 videos)
-- **[[#2. Craft Your LinkedIn Profile Intro]]** (5 videos)
-- **[[#3. Craft Your Profile Summary and Feature Content on LinkedIn]]** (3 videos)
-- **[[#4. Outline Your Career Journey]]** (4 videos)
-- **[[#5. Build Credibility with Skills, Endorsements, and Recommendations]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Connect to opportunity with LinkedIn
+  - What to know before getting started on LinkedIn
+- [**1. Build Your Brand into Your LinkedIn Profile**](#1-build-your-brand-into-your-linkedin-profile) (2 videos)
+  - Elevate your presence: Use profile to build your brand
+  - Transform your profile into a story that stands out
+- [**2. Craft Your LinkedIn Profile Intro**](#2-craft-your-linkedin-profile-intro) (5 videos)
+  - Add a photo to stand out
+  - Get recognized with name pronunciation
+  - Craft an attention grabbing headline
+  - Signal that you're open to work
+  - Add your pronouns to your LinkedIn profile
+- [**3. Craft Your Profile Summary and Feature Content on LinkedIn**](#3-craft-your-profile-summary-and-feature-content-on-linkedin) (3 videos)
+  - Introduce yourself with a profile summary
+  - Craft a summary that reflects who you are
+  - Highlight key achievements with featured content
+- [**4. Outline Your Career Journey**](#4-outline-your-career-journey) (4 videos)
+  - Use your work experience to tell a story
+  - Add your work experience to showcase what you do best
+  - Incorporate career breaks into your LinkedIn profile
+  - Highlight social impact with volunteer experience
+- [**5. Build Credibility with Skills, Endorsements, and Recommendations**](#5-build-credibility-with-skills-endorsements-and-recommendations) (3 videos)
+  - Showcase your expertise with skills and endorsements
+  - Get recommendations to build credibility
+  - Build trust with verifications
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps for LinkedIn success
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to opportunity with LinkedIn
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/connect-to-opportunity-with-linkedin?u=76281980)
@@ -128,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Build Your Brand into Your LinkedIn Profile
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elevate your presence: Use profile to build your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/elevate-your-presence-use-profile-to-build-your-brand?u=76281980)
@@ -281,7 +301,7 @@ created: 2026-04-29
 
 ### 2. Craft Your LinkedIn Profile Intro
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add a photo to stand out
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/add-a-photo-to-stand-out?u=76281980)
@@ -687,7 +707,7 @@ created: 2026-04-29
 
 ### 3. Craft Your Profile Summary and Feature Content on LinkedIn
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduce yourself with a profile summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/introduce-yourself-with-profile-summary?u=76281980)
@@ -1049,7 +1069,7 @@ created: 2026-04-29
 
 ### 4. Outline Your Career Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use your work experience to tell a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/use-your-work-experience-to-tell-a-story?u=76281980)
@@ -1492,7 +1512,7 @@ created: 2026-04-29
 
 ### 5. Build Credibility with Skills, Endorsements, and Recommendations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Showcase your expertise with skills and endorsements
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/showcase-your-expertise-with-skills-and-endorsements?u=76281980)
@@ -1858,7 +1878,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for LinkedIn success
 > [LinkedIn Learning](https://www.linkedin.com/learning/rock-your-linkedin-profile-28032639/next-steps-for-linkedin-success?u=76281980)

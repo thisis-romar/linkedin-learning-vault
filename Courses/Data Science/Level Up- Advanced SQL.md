@@ -51,16 +51,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Joins]]** (3 videos)
-- **[[#2. Grouping]]** (3 videos)
-- **[[#3. Advanced Select Options]]** (3 videos)
-- **[[#4. Windowing Functions]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Advanced SQL code challenges
+  - Using GitHub Codespaces with this course
+  - How to execute SQLite queries
+- [**1. Joins**](#1-joins) (3 videos)
+  - Create a list of employees and their immediate managers
+  - Find salespeople who have zero sales
+  - List all customers and their sales, even if some data is gone
+- [**2. Grouping**](#2-grouping) (3 videos)
+  - How many cars have been sold per employee?
+  - Find the least and most expensive car sold by each employee
+  - Display a report for employees who have sold more than five cars
+- [**3. Advanced Select Options**](#3-advanced-select-options) (3 videos)
+  - Summarize sales per year by using a CTE
+  - Display the number of sales for each employee by month for 2021
+  - Find the sales of cars that are electric by using a subquery
+- [**4. Windowing Functions**](#4-windowing-functions) (3 videos)
+  - For each salesperson, rank the car models they've sold the most
+  - Create a report showing sales per month and an annual total
+  - Display the number of cars sold this month and last month
+- [**Conclusion**](#conclusion) (1 videos)
+  - Keep learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced SQL code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/advanced-sql-code-challenges-25062252?u=76281980)
@@ -332,7 +348,7 @@ created: 2026-04-29
 
 ### 1. Joins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a list of employees and their immediate managers
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/create-a-list-of-employees-and-their-immediate-managers?u=76281980)
@@ -506,7 +522,7 @@ created: 2026-04-29
 
 ### 2. Grouping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How many cars have been sold per employee?
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/how-many-cars-have-been-sold-per-employee?u=76281980)
@@ -685,7 +701,7 @@ created: 2026-04-29
 
 ### 3. Advanced Select Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize sales per year by using a CTE
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/summarize-sales-per-year-by-using-a-cte?u=76281980)
@@ -882,7 +898,7 @@ created: 2026-04-29
 
 ### 4. Windowing Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### For each salesperson, rank the car models they've sold the most
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/for-each-salesperson-rank-the-car-models-they-ve-sold-the-most?u=76281980)
@@ -1089,7 +1105,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-sql/keep-learning?u=76281980)

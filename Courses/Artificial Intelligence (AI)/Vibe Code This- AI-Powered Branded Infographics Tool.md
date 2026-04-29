@@ -53,12 +53,17 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Vibe Code the Infographics Tool]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Vibe coding an AI-based tool
+- [**1. Vibe Code the Infographics Tool**](#1-vibe-code-the-infographics-tool) (4 videos)
+  - Creating the PRD for the project
+  - Setting up Google AI Studio
+  - Customizing our design
+  - Sharing and deploying the project
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vibe coding an AI-based tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-ai-powered-branded-infographics-tool/vibe-coding-an-ai-based-tool?u=76281980)
@@ -76,7 +81,7 @@ created: 2026-04-29
 
 ### 1. Vibe Code the Infographics Tool
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the PRD for the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-ai-powered-branded-infographics-tool/creating-the-prd-for-the-project?u=76281980)

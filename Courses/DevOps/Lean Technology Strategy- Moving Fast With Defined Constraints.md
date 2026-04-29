@@ -38,11 +38,15 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Moving Fast With Defined Constraints]]** (4 videos)
+- [**1. Moving Fast With Defined Constraints**](#1-moving-fast-with-defined-constraints) (4 videos)
+  - Understanding the boundaries
+  - Understanding the language of risk and compliance
+  - Share responsibilities to achieve better outcomes
+  - Creating faster feedback on risk and compliance, governance, measurement, and reporting
 
 ### 1. Moving Fast With Defined Constraints
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the boundaries
 > [LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints/understanding-the-boundaries?u=76281980)

@@ -60,17 +60,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. SQL Introduction and Asking the Right Questions]]** (3 videos)
-- **[[#2. Using Data Types]]** (4 videos)
-- **[[#3. Working with Dates]]** (2 videos)
-- **[[#4. Easy SQL Functions]]** (3 videos)
-- **[[#5. Presenting Your SQL Results in Data Visualization]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Using SQL for data analysis
+  - What you should know
+  - Setting up Codespaces
+  - Getting started with a database in Codespaces
+- [**1. SQL Introduction and Asking the Right Questions**](#1-sql-introduction-and-asking-the-right-questions) (3 videos)
+  - A quick review of Structured Query Language (SQL)
+  - What is a relational database?
+  - Common SQL structures
+- [**2. Using Data Types**](#2-using-data-types) (4 videos)
+  - Using data types and identifying the wrong data types
+  - Finding missing values
+  - Finding possible inaccurate data values
+  - Finding duplicate rows
+- [**3. Working with Dates**](#3-working-with-dates) (2 videos)
+  - Working with dates
+  - Filtering data by dates
+- [**4. Easy SQL Functions**](#4-easy-sql-functions) (3 videos)
+  - Common SQL string functions
+  - Common SQL aggregate functions
+  - Introduction to data manipulation
+- [**5. Presenting Your SQL Results in Data Visualization**](#5-presenting-your-sql-results-in-data-visualization) (2 videos)
+  - Getting started with data visualization
+  - Creating data visualization
+- [**Conclusion**](#conclusion) (1 videos)
+  - Leveling up SQL
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using SQL for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980)
@@ -284,7 +303,7 @@ created: 2026-04-29
 
 ### 1. SQL Introduction and Asking the Right Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick review of Structured Query Language (SQL)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980)
@@ -663,7 +682,7 @@ created: 2026-04-29
 
 ### 2. Using Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using data types and identifying the wrong data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980)
@@ -1130,7 +1149,7 @@ created: 2026-04-29
 
 ### 3. Working with Dates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with dates
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980)
@@ -1321,7 +1340,7 @@ created: 2026-04-29
 
 ### 4. Easy SQL Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common SQL string functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980)
@@ -1646,7 +1665,7 @@ created: 2026-04-29
 
 ### 5. Presenting Your SQL Results in Data Visualization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980)
@@ -1770,7 +1789,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveling up SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980)

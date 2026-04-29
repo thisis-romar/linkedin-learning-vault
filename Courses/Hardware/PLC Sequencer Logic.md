@@ -46,17 +46,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. PLC Sequencer Output Instruction (SQO)]]** (10 videos)
-- **[[#2. SQO Examples]]** (12 videos)
-- **[[#3.PLC Sequencer Compare Instruction (SQC)]]** (8 videos)
-- **[[#4. PLC Sequencer Load Instruction (SQL)]]** (8 videos)
-- **[[#5. Final Challenge]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Getting to know PLC sequencers
+  - What you should know before watching
+  - LogixPro PLC Simulator software
+- [**1. PLC Sequencer Output Instruction (SQO)**](#1-plc-sequencer-output-instruction-sqo) (10 videos)
+  - Intro to sequencer instructions
+  - Sequencer output instruction (SQO)
+  - SQO parameters, part 1
+  - SQO parameters, part 2
+  - SQO operation example
+  - Example motor and pilot lights
+  - Ladder logic for motor and pilot lights
+  - Motor and pilot lights software demo
+  - Motor and pilot lights challenge
+  - Motor and pilot lights solution
+- [**2. SQO Examples**](#2-sqo-examples) (12 videos)
+  - Example dishwasher sequence
+  - Dishwasher sequence truth table
+  - Dishwasher sequence ladder logic
+  - Dishwasher software demo
+  - Dishwasher SQO challenge
+  - Dishwasher SQO solution
+  - Traffic lights example
+  - Traffic light sequence truth table
+  - Traffic light ladder logic
+  - Traffic light software demo
+  - Traffic light SQO challenge
+  - Traffic light SQO solution
+- [**3.PLC Sequencer Compare Instruction (SQC)**](#3plc-sequencer-compare-instruction-sqc) (8 videos)
+  - Sequencer compare instruction (SQC)
+  - Instruction SQC parameter
+  - Example: Three-machine products
+  - Three-machine truth table
+  - Three-machine ladder logic
+  - Three-machine software demo
+  - SQC instruction challenge
+  - SQC instruction solution
+- [**4. PLC Sequencer Load Instruction (SQL)**](#4-plc-sequencer-load-instruction-sql) (8 videos)
+  - Sequencer load instruction (SQL)
+  - Instruction (SQL) parameter
+  - Illustrate operation of SQL
+  - Example of SQL
+  - SQL ladder logic
+  - SQL demo
+  - SQL instruction challenge
+  - SQL instruction solution
+- [**5. Final Challenge**](#5-final-challenge) (6 videos)
+  - Final challenge introduction
+  - Car wash process
+  - Car wash truth table
+  - Car wash solution, part 1
+  - Car wash solution, part 2
+  - Sequencer things to consider
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting to know PLC sequencers
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/getting-to-know-plc-sequencers?u=76281980)
@@ -142,7 +190,7 @@ created: 2026-04-29
 
 ### 1. PLC Sequencer Output Instruction (SQO)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to sequencer instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/intro-to-sequencer-instructions?u=76281980)
@@ -692,7 +740,7 @@ created: 2026-04-29
 
 ### 2. SQO Examples
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Example dishwasher sequence
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/example-dishwasher-sequence?u=76281980)
@@ -1176,7 +1224,7 @@ created: 2026-04-29
 
 ### 3.PLC Sequencer Compare Instruction (SQC)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequencer compare instruction (SQC)
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-compare-instruction-sqc?u=76281980)
@@ -1477,7 +1525,7 @@ created: 2026-04-29
 
 ### 4. PLC Sequencer Load Instruction (SQL)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequencer load instruction (SQL)
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/sequencer-load-instruction-sql?u=76281980)
@@ -1747,7 +1795,7 @@ created: 2026-04-29
 
 ### 5. Final Challenge
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final challenge introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/final-challenge-introduction?u=76281980)
@@ -1971,7 +2019,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-sequencer-logic/next-steps?u=76281980)

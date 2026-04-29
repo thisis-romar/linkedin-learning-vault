@@ -48,12 +48,14 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Using the OpenAI API]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building AI-powered apps with the OpenAI API
+- [**1. Using the OpenAI API**](#1-using-the-openai-api) (1 videos)
+  - Five steps to using the OpenAI API
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building AI-powered apps with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-introduction/building-ai-powered-apps-with-the-openai-api?u=76281980)
@@ -77,7 +79,7 @@ created: 2026-04-29
 
 ### 1. Using the OpenAI API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Five steps to using the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-introduction/5-steps-to-using-the-openai-api?u=76281980)

@@ -51,16 +51,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Tools for Application Users]]** (6 videos)
-- **[[#2. Tools for Data Scientists]]** (5 videos)
-- **[[#3. Tools for DevOps]]** (6 videos)
-- **[[#4. Tools for Developers]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - State of Google Cloud tools
+  - Who should watch this course
+  - A note about working with cloud services
+- [**1. Tools for Application Users**](#1-tools-for-application-users) (6 videos)
+  - Google Console for learners
+  - User authentication and authorization
+  - GCP services and menus
+  - Key Google Cloud services: Compute
+  - Key Google Cloud services: Files and data
+  - Key Google Cloud services: IAM and more
+- [**2. Tools for Data Scientists**](#2-tools-for-data-scientists) (5 videos)
+  - Enable APIs for DLVMs
+  - Using Google Cloud or SDK with terminal
+  - Using Google Colab notebooks
+  - Using Google-managed Notebooks
+  - Using BigQuery ML
+- [**3. Tools for DevOps**](#3-tools-for-devops) (6 videos)
+  - Using Google Cloud scripts with Cloud Shell for storage
+  - Deploying a VM with Google Cloud script
+  - Running GCP Deployments
+  - Monitoring GCP with Cloud Logging
+  - Monitoring GCP Security with SCC
+  - Designing GCP Solutions with Architecture Diagramming
+- [**4. Tools for Developers**](#4-tools-for-developers) (6 videos)
+  - Coding with the GCP local Google Cloud SDK
+  - Coding with the GCP add-in for VSCode
+  - Storing code in Cloud Source Repositories
+  - Storing artifacts in GCR or Artifact Registry
+  - Storing secrets in Secrets Manager
+  - Implementing CI/CD with Cloud Build
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with Google Cloud Developer and DevOps Tools
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### State of Google Cloud tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/state-of-google-cloud-tools?u=76281980)
@@ -196,7 +223,7 @@ created: 2026-04-29
 
 ### 1. Tools for Application Users
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Console for learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/google-console-for-learners?u=76281980)
@@ -744,7 +771,7 @@ created: 2026-04-29
 
 ### 2. Tools for Data Scientists
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable APIs for DLVMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/enable-apis-for-dlvms?u=76281980)
@@ -1184,7 +1211,7 @@ created: 2026-04-29
 
 ### 3. Tools for DevOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Google Cloud scripts with Cloud Shell for storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/using-google-cloud-scripts-with-cloud-shell-for-storage?u=76281980)
@@ -1722,7 +1749,7 @@ created: 2026-04-29
 
 ### 4. Tools for Developers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Coding with the GCP local Google Cloud SDK
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/coding-with-the-gcp-local-google-cloud-sdk?u=76281980)
@@ -2240,7 +2267,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Google Cloud Developer and DevOps Tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-google-cloud-developer-and-devops-tools/next-steps-with-google-cloud-developer-and-devops-tools?u=76281980)

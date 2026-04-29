@@ -46,16 +46,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Cell Formats]]** (4 videos)
-- **[[#2. Custom Formats]]** (6 videos)
-- **[[#3. Cell Styles and Themes]]** (3 videos)
-- **[[#4. Conditional Formatting]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Save time with effective Excel formatting
+- [**1. Cell Formats**](#1-cell-formats) (4 videos)
+  - Formatting with fonts
+  - Cell fill and borders
+  - Alignment options and what to avoid
+  - Important number formats
+- [**2. Custom Formats**](#2-custom-formats) (6 videos)
+  - Custom number formats
+  - Scaling
+  - Date and time formats
+  - Symbols in formats
+  - Conditional color formats
+  - Leading and trailing characters
+- [**3. Cell Styles and Themes**](#3-cell-styles-and-themes) (3 videos)
+  - Default styles
+  - Custom styles
+  - Themes
+- [**4. Conditional Formatting**](#4-conditional-formatting) (6 videos)
+  - Built-in rules
+  - Data bars
+  - Color scales
+  - Icons
+  - Conditional formatting formulas
+  - Manage rules
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to learn more
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Save time with effective Excel formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/save-time-with-effective-excel-formatting?u=76281980)
@@ -87,7 +108,7 @@ created: 2026-04-29
 
 ### 1. Cell Formats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Formatting with fonts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/formatting-with-fonts?u=76281980)
@@ -489,7 +510,7 @@ created: 2026-04-29
 
 ### 2. Custom Formats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom number formats
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/custom-number-formats?u=76281980)
@@ -968,7 +989,7 @@ created: 2026-04-29
 
 ### 3. Cell Styles and Themes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Default styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/default-styles?u=76281980)
@@ -1239,7 +1260,7 @@ created: 2026-04-29
 
 ### 4. Conditional Formatting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/built-in-rules?u=76281980)
@@ -1699,7 +1720,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-introduction-to-formatting-22826330/where-to-learn-more?u=76281980)

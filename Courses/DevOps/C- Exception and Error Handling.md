@@ -51,15 +51,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Overview]]** (1 videos)
-- **[[#2. Exception Basics]]** (7 videos)
-- **[[#3. Advanced Exceptions]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Exceptional times call for exception handling
+  - Getting set up
+- [**1. Overview**](#1-overview) (1 videos)
+  - What are exceptions?
+- [**2. Exception Basics**](#2-exception-basics) (7 videos)
+  - Basic exception handling code
+  - The System.Exception class
+  - Built-in exceptions
+  - Handling multiple exceptions
+  - Throwing exceptions
+  - Challenge: Basics
+  - Solution: Basics
+- [**3. Advanced Exceptions**](#3-advanced-exceptions) (7 videos)
+  - Using try-catch-finally
+  - Exception filtering
+  - Creating custom exceptions
+  - Inner exceptions
+  - Exception handling best practices
+  - Challenge: Custom exceptions
+  - Solution: Custom exceptions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exceptional times call for exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exceptional-times-call-for-exception-handling?u=76281980)
@@ -149,7 +167,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980)
@@ -193,7 +211,7 @@ created: 2026-04-29
 
 ### 2. Exception Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic exception handling code
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980)
@@ -780,7 +798,7 @@ created: 2026-04-29
 
 ### 3. Advanced Exceptions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using try-catch-finally
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/using-try-catch-finally?u=76281980)
@@ -1361,7 +1379,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/next-steps?u=76281980)

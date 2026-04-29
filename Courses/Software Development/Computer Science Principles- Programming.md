@@ -48,17 +48,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Control Computers with Code]]** (2 videos)
-- **[[#2. Define Actions Using Code]]** (7 videos)
-- **[[#3. Repeat Actions and Test for Conditions]]** (9 videos)
-- **[[#4. Objects and OOP]]** (6 videos)
-- **[[#5. Beyond Programming]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - What you should know
+- [**1. Control Computers with Code**](#1-control-computers-with-code) (2 videos)
+  - History of programming
+  - Forms of programming
+- [**2. Define Actions Using Code**](#2-define-actions-using-code) (7 videos)
+  - Work with values and variables
+  - Use functions to repeat actions
+  - Break down tasks
+  - Customize functions with parameters
+  - Variables and scope
+  - Return values from functions
+  - Work with an API
+- [**3. Repeat Actions and Test for Conditions**](#3-repeat-actions-and-test-for-conditions) (9 videos)
+  - Capture input from the user
+  - Manage different variable types
+  - Create conditional tests
+  - Build compound conditional tests
+  - Use while loops
+  - Use for loops
+  - Create arrays to store groups of values
+  - Use loops with arrays
+  - Changing arrays
+- [**4. Objects and OOP**](#4-objects-and-oop) (6 videos)
+  - Everything is an object
+  - Everything is a class
+  - Work with existing classes and objects
+  - Make your own classes and objects
+  - Extend classes
+  - Use polymorphism using interfaces
+- [**5. Beyond Programming**](#5-beyond-programming) (5 videos)
+  - Debug problems
+  - Refactor code to make improvements
+  - Save progress and work with others
+  - Build iteratively using agile development
+  - Create for multiple platforms
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/welcome?u=76281980)
@@ -137,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Control Computers with Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### History of programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/history-of-programming?u=76281980)
@@ -292,7 +324,7 @@ created: 2026-04-29
 
 ### 2. Define Actions Using Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with values and variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/work-with-values-and-variables?u=76281980)
@@ -765,7 +797,7 @@ created: 2026-04-29
 
 ### 3. Repeat Actions and Test for Conditions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Capture input from the user
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/capture-input-from-the-user?u=76281980)
@@ -1395,7 +1427,7 @@ created: 2026-04-29
 
 ### 4. Objects and OOP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Everything is an object
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/everything-is-an-object?u=76281980)
@@ -1854,7 +1886,7 @@ created: 2026-04-29
 
 ### 5. Beyond Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debug problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/debug-problems?u=76281980)
@@ -2163,7 +2195,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-programming/next-steps?u=76281980)

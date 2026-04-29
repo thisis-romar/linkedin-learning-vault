@@ -46,15 +46,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. First Steps with Copilot]]** (6 videos)
-- **[[#2. Data Management with Copilot]]** (9 videos)
-- **[[#3. Analyzing and Visualizing Data with Copilot]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome to Copilot and AI-powered Excel
+  - Working with Excel tables
+- [**1. First Steps with Copilot**](#1-first-steps-with-copilot) (6 videos)
+  - Getting your data into Copilot
+  - A tour of the Copilot editor
+  - Basic table reformatting with Copilot
+  - Using Copilot CHAT in Excel for non-Excel tasks
+  - Challenge: Table setup in Copilot
+  - Solution: Table setup in Copilot
+- [**2. Data Management with Copilot**](#2-data-management-with-copilot) (9 videos)
+  - Creating formulas and functions faster with Copilot
+  - Debugging Excel formulas with Excel Copilot
+  - Using Microsoft Copilot as an Excel formula tutor
+  - Using the COPILOT() function
+  - Data profiling
+  - Sorting and filtering data
+  - Working with multiple tables in Copilot
+  - Challenge: Enhancing a table with Copilot
+  - Solution: Enhancing a table with Copilot
+- [**3. Analyzing and Visualizing Data with Copilot**](#3-analyzing-and-visualizing-data-with-copilot) (9 videos)
+  - Conditional formatting
+  - Advanced data analysis and insights
+  - AI-powered data visualization with Copilot
+  - Introducing advanced analysis with Python for Copilot
+  - Time series analysis with advanced analysis in Copilot
+  - Text analysis with advanced analysis in Copilot
+  - Researcher and analyst agents in Copilot
+  - Challenge: Copilot for data analysis
+  - Solution: Copilot for data analysis
+- [**Conclusion**](#conclusion) (1 videos)
+  - The future of AI in Excel
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Copilot and AI-powered Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/welcome-to-copilot-and-ai-powered-excel?u=76281980)
@@ -173,7 +200,7 @@ created: 2026-04-29
 
 ### 1. First Steps with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting your data into Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/getting-your-data-into-copilot-27828092?u=76281980)
@@ -712,7 +739,7 @@ created: 2026-04-29
 
 ### 2. Data Management with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating formulas and functions faster with Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/creating-formulas-and-functions-faster-with-copilot-27846084?u=76281980)
@@ -1518,7 +1545,7 @@ created: 2026-04-29
 
 ### 3. Analyzing and Visualizing Data with Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditional formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/conditional-formatting-27848098?u=76281980)
@@ -2402,7 +2429,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of AI in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-with-copilot-ai-driven-data-analysis/the-future-of-ai-in-excel?u=76281980)

@@ -50,19 +50,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. How Does KNIME Complement Your Existing Analytics Toolkit?]]** (3 videos)
-- **[[#2. Getting Comfortable with KNIME]]** (5 videos)
-- **[[#3. Accessing Data]]** (3 videos)
-- **[[#4. Data Understanding]]** (3 videos)
-- **[[#5. Data Integration and Merging]]** (7 videos)
-- **[[#6. Modeling]]** (5 videos)
-- **[[#7. A World of Possibilities]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Open-source machine learning with KNIME
+  - Who is this course for?
+- [**1. How Does KNIME Complement Your Existing Analytics Toolkit?**](#1-how-does-knime-complement-your-existing-analytics-toolkit) (3 videos)
+  - Why use an Analytics Workbench?
+  - Using CRISP-DM to evaluate tools
+  - Why choose KNIME?
+- [**2. Getting Comfortable with KNIME**](#2-getting-comfortable-with-knime) (5 videos)
+  - The KNIME interface
+  - Find case studies on the Examples Server
+  - The KNIME Hub
+  - Add thousands of nodes with Extensions
+  - Search and Help
+- [**3. Accessing Data**](#3-accessing-data) (3 videos)
+  - Accessing data
+  - File reader node
+  - Database access with KNIME
+- [**4. Data Understanding**](#4-data-understanding) (3 videos)
+  - Describe data and verify data quality
+  - Explore data: Scatterplot
+  - Explore data: Boxplot
+- [**5. Data Integration and Merging**](#5-data-integration-and-merging) (7 videos)
+  - Merging with the Joiner node
+  - Aggregating with the GroupBy node
+  - Creating new variables with Construct
+  - Select data with Column Filter
+  - Balancing data with Row Sampling node
+  - Clean data with the Missing Value node
+  - Format with Cell Splitter
+- [**6. Modeling**](#6-modeling) (5 videos)
+  - KNIME modeling options
+  - Regression example
+  - Decision tree
+  - Decision tree: Scoring new data
+  - Components in KNIME: AutoML and XAI
+- [**7. A World of Possibilities**](#7-a-world-of-possibilities) (4 videos)
+  - PMML
+  - R and GGPLOT2
+  - Python options in KNIME
+  - Certification in KNIME
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Open-source machine learning with KNIME
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/open-source-machine-learning-with-knime-22655522?u=76281980)
@@ -172,7 +205,7 @@ created: 2026-04-29
 
 ### 1. How Does KNIME Complement Your Existing Analytics Toolkit?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use an Analytics Workbench?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/why-use-an-analytics-workbench?u=76281980)
@@ -407,7 +440,7 @@ created: 2026-04-29
 
 ### 2. Getting Comfortable with KNIME
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The KNIME interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/the-knime-interface?u=76281980)
@@ -668,7 +701,7 @@ created: 2026-04-29
 
 ### 3. Accessing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/accessing-data?u=76281980)
@@ -958,7 +991,7 @@ created: 2026-04-29
 
 ### 4. Data Understanding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe data and verify data quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/describe-data-and-verify-data-quality?u=76281980)
@@ -1221,7 +1254,7 @@ created: 2026-04-29
 
 ### 5. Data Integration and Merging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Merging with the Joiner node
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/merging-with-the-joiner-node?u=76281980)
@@ -1686,7 +1719,7 @@ created: 2026-04-29
 
 ### 6. Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### KNIME modeling options
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/knime-modeling-options?u=76281980)
@@ -2366,7 +2399,7 @@ created: 2026-04-29
 
 ### 7. A World of Possibilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PMML
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/pmml?u=76281980)
@@ -2739,7 +2772,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-machine-learning-with-knime/next-steps-22651562?u=76281980)

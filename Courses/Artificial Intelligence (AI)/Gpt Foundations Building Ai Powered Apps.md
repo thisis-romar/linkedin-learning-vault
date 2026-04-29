@@ -53,17 +53,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to OpenAI]]** (2 videos)
-- **[[#2. Beginner Prompting]]** (4 videos)
-- **[[#3. Intermediate Prompting]]** (5 videos)
-- **[[#4. Advanced Prompting]]** (5 videos)
-- **[[#5. Building a BigStarCollectibles Chatbot]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to GPT-4 foundations
+- [**1. Introduction to OpenAI**](#1-introduction-to-openai) (2 videos)
+  - Getting started with ChatGPT-4
+  - What are large language models (LLMs)?
+- [**2. Beginner Prompting**](#2-beginner-prompting) (4 videos)
+  - Introduction to prompting
+  - Tailoring your own prompts
+  - Challenge: Generating a superpower for Bubbles
+  - Solution: Generating a superpower for Bubbles
+- [**3. Intermediate Prompting**](#3-intermediate-prompting) (5 videos)
+  - Summarization and classification prompt techniques with GPT
+  - Giving GPT-4 a persona
+  - Formatting your prompts
+  - Challenge: Placing a Binaryville character order
+  - Solution: Placing a Binaryville character order
+- [**4. Advanced Prompting**](#4-advanced-prompting) (5 videos)
+  - Configuring the system prompt
+  - Adding memory to ChatGPT-4
+  - Prompt chaining with ChatGPT-4
+  - Challenge: Remembering your order
+  - Solution: Remembering your order
+- [**5. Building a BigStarCollectibles Chatbot**](#5-building-a-bigstarcollectibles-chatbot) (8 videos)
+  - Vibe coding a chatbot with GPT-4
+  - Showing a no-code chatbot
+  - Building a no-code chatbot
+  - Customizing your chatbot
+  - Prompt chaining for your chatbot
+  - Incorporating memory and knowledge into your AI app
+  - Challenge: A BigStarCollectibles chatbot
+  - Solution: A BigStarCollectibles chatbot
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to GPT-4 foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/welcome-to-gpt-4-foundations?u=76281980)
@@ -92,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Introduction to OpenAI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with ChatGPT-4
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/getting-started-with-chatgpt?u=76281980)
@@ -333,7 +359,7 @@ created: 2026-04-29
 
 ### 2. Beginner Prompting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/introduction-to-prompting?u=76281980)
@@ -625,7 +651,7 @@ created: 2026-04-29
 
 ### 3. Intermediate Prompting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarization and classification prompt techniques with GPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/summarization-and-classification-prompt-techniques-with-gpt?u=76281980)
@@ -1033,7 +1059,7 @@ created: 2026-04-29
 
 ### 4. Advanced Prompting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring the system prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/configuring-the-system-prompt?u=76281980)
@@ -1555,7 +1581,7 @@ created: 2026-04-29
 
 ### 5. Building a BigStarCollectibles Chatbot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vibe coding a chatbot with GPT-4
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/vibe-coding-a-chatbot-with-gpt?u=76281980)
@@ -2418,7 +2444,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/gpt-foundations-building-ai-powered-apps/next-steps?u=76281980)

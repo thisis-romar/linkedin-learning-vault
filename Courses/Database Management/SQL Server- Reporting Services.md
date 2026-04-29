@@ -47,20 +47,71 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Get Started with SSRS]]** (7 videos)
-- **[[#2. Build Your First Report]]** (8 videos)
-- **[[#3. Work with Data]]** (6 videos)
-- **[[#4. Build Interactive Reports]]** (6 videos)
-- **[[#5. Create Charts]]** (4 videos)
-- **[[#6. Additional Data Visualizations]]** (6 videos)
-- **[[#7. Improve the Presentation]]** (4 videos)
-- **[[#8. Build a Web Portal Dashboard]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Present SQL data with Reporting Services
+  - What you should know
+- [**1. Get Started with SSRS**](#1-get-started-with-ssrs) (7 videos)
+  - What is SQL Server Reporting Services (SSRS)?
+  - Installing SSRS
+  - Install a SQL Server instance for the report server
+  - Configure the report server
+  - Set up the example database
+  - Access the web portal
+  - Install Report Builder
+- [**2. Build Your First Report**](#2-build-your-first-report) (8 videos)
+  - Components of a report
+  - Create a report data source
+  - Create a dataset
+  - Add a data table with the wizard
+  - Joining data tables
+  - Format a report
+  - Reviewing report properties
+  - View, print, and export a report
+- [**3. Work with Data**](#3-work-with-data) (6 videos)
+  - Create a shared data source
+  - Create a shared dataset
+  - Filtering data
+  - Grouping data in a report
+  - Understand matrixes
+  - Use aggregate functions
+- [**4. Build Interactive Reports**](#4-build-interactive-reports) (6 videos)
+  - Convert filters into parameters
+  - Report parameter properties
+  - Make a dynamic report title
+  - Add a parameter manually
+  - Report actions
+  - Sort records in a table
+- [**5. Create Charts**](#5-create-charts) (4 videos)
+  - Introduction to charts
+  - Create a chart
+  - Add additional data series
+  - Format charts
+- [**6. Additional Data Visualizations**](#6-additional-data-visualizations) (6 videos)
+  - Gauges
+  - Indicators
+  - Data bars
+  - Create a sparkline dataset
+  - Display a sparkline
+  - Maps
+- [**7. Improve the Presentation**](#7-improve-the-presentation) (4 videos)
+  - Include header and footer details
+  - Add graphics and logos
+  - Align page elements
+  - Insert page breaks
+- [**8. Build a Web Portal Dashboard**](#8-build-a-web-portal-dashboard) (7 videos)
+  - Add a key performance indicator (KPI)
+  - Create a dynamic KPI
+  - Organize the web portal with folders
+  - Customize the web portal branding
+  - Create an SSRS user account
+  - Subscribe to a report
+  - Save report snapshots with historical data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Present SQL data with Reporting Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/present-sql-data-with-reporting-services?u=76281980)
@@ -108,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Get Started with SSRS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SQL Server Reporting Services (SSRS)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/what-is-sql-server-reporting-services-ssrs?u=76281980)
@@ -711,7 +762,7 @@ created: 2026-04-29
 
 ### 2. Build Your First Report
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of a report
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/components-of-a-report?u=76281980)
@@ -1766,7 +1817,7 @@ created: 2026-04-29
 
 ### 3. Work with Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a shared data source
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/create-a-shared-data-source?u=76281980)
@@ -2552,7 +2603,7 @@ created: 2026-04-29
 
 ### 4. Build Interactive Reports
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Convert filters into parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/convert-filters-into-parameters?u=76281980)
@@ -3373,7 +3424,7 @@ created: 2026-04-29
 
 ### 5. Create Charts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/introduction-to-charts?u=76281980)
@@ -3887,7 +3938,7 @@ created: 2026-04-29
 
 ### 6. Additional Data Visualizations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gauges
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/gauges?u=76281980)
@@ -4705,7 +4756,7 @@ created: 2026-04-29
 
 ### 7. Improve the Presentation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Include header and footer details
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/include-header-and-footer-details?u=76281980)
@@ -5133,7 +5184,7 @@ created: 2026-04-29
 
 ### 8. Build a Web Portal Dashboard
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add a key performance indicator (KPI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/add-a-key-performance-indicator-kpi?u=76281980)
@@ -5759,7 +5810,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-reporting-services-24671486/next-steps?u=76281980)

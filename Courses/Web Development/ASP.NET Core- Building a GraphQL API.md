@@ -50,16 +50,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started with GraphQL]]** (5 videos)
-- **[[#2. Data Querying with GraphQL in .NET Web API]]** (8 videos)
-- **[[#3. Data Mutation with GraphQL in .NET Web API]]** (7 videos)
-- **[[#4. Querying and Mutating Relational Data with GraphQL in .NET Web API]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Using GraphQL API
+  - What you should know
+- [**1. Getting Started with GraphQL**](#1-getting-started-with-graphql) (5 videos)
+  - What is GraphQL?
+  - GraphQL vs. REST
+  - Open-source GraphQL projects
+  - .NET Web API project overview
+  - Setting up GraphQL in Web API
+- [**2. Data Querying with GraphQL in .NET Web API**](#2-data-querying-with-graphql-in-net-web-api) (8 videos)
+  - Operations in GraphQL
+  - Types in GraphQL
+  - Adding your first object graph type (course entity)
+  - Adding your first query: All courses
+  - Challenge: Add query to get single course
+  - Solution: Add query to get single course
+  - Adding your GraphQL schema file
+  - Testing
+- [**3. Data Mutation with GraphQL in .NET Web API**](#3-data-mutation-with-graphql-in-net-web-api) (7 videos)
+  - What is a mutation?
+  - Adding your first mutation: Add data
+  - Add data: Testing
+  - Challenge: Mutation to update data
+  - Solution: Mutation to update data
+  - Update data: Testing
+  - Mutation to delete data
+- [**4. Querying and Mutating Relational Data with GraphQL in .NET Web API**](#4-querying-and-mutating-relational-data-with-graphql-in-net-web-api) (5 videos)
+  - Adding relationship data
+  - Query to get relational data
+  - Get relational data: Testing
+  - Mutation to add relational data
+  - Add relational data: Testing
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps for learning more about GraphQL API
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using GraphQL API
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/using-graphql-api?u=76281980)
@@ -120,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with GraphQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GraphQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-graphql?u=76281980)
@@ -548,7 +576,7 @@ created: 2026-04-29
 
 ### 2. Data Querying with GraphQL in .NET Web API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Operations in GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/operations-in-graphql?u=76281980)
@@ -1177,7 +1205,7 @@ created: 2026-04-29
 
 ### 3. Data Mutation with GraphQL in .NET Web API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a mutation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/what-is-a-mutation?u=76281980)
@@ -1756,7 +1784,7 @@ created: 2026-04-29
 
 ### 4. Querying and Mutating Relational Data with GraphQL in .NET Web API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding relationship data
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/adding-relationship-data?u=76281980)
@@ -2208,7 +2236,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for learning more about GraphQL API
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-building-a-graphql-api/next-steps-for-learning-more-about-graphql-api?u=76281980)

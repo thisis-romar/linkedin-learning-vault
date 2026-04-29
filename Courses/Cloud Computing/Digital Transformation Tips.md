@@ -49,18 +49,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Foundations of Digital Transformation]]** (5 videos)
-- **[[#2. Check Readiness: Look Before You Leap]]** (4 videos)
-- **[[#3. Planning for Success]]** (4 videos)
-- **[[#4. Communication Best Practices]]** (4 videos)
-- **[[#5. Iterate]]** (5 videos)
-- **[[#6. Workplace Transformation]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Digital transformation and your business
+- [**1. Foundations of Digital Transformation**](#1-foundations-of-digital-transformation) (5 videos)
+  - Making data and systems accessible via the cloud
+  - Linking elements together via the Internet of Things
+  - Big data: Mining for insights
+  - Securing cloud information
+  - Automating for efficiency and accuracy
+- [**2. Check Readiness: Look Before You Leap**](#2-check-readiness-look-before-you-leap) (4 videos)
+  - Build leadership buy-in for transformation success
+  - Streamline transitions with clear processes
+  - Verify available time and funding for transformation readiness
+  - Avoid transition overload that can stall adoption
+- [**3. Planning for Success**](#3-planning-for-success) (4 videos)
+  - Know what problems you're trying to solve
+  - Engineer transitions with the goal in mind
+  - Secure the right team for a smooth digital transition
+  - Close technology gaps to enable modern tools
+- [**4. Communication Best Practices**](#4-communication-best-practices) (4 videos)
+  - Understanding the communication needs of your participants
+  - Build audience-centric transformation communications
+  - Keep employees informed and engaged with up-to-date training materials
+  - Establish feedback loops for continuous improvement
+- [**5. Iterate**](#5-iterate) (5 videos)
+  - Measuring your digital transformation against metrics
+  - Ongoing ways to advocate for your digital transformation
+  - Foster a continuous learning culture to engage employees
+  - Embrace continuous improvement in digital transformation
+  - Celebrate digital transformation success
+- [**6. Workplace Transformation**](#6-workplace-transformation) (5 videos)
+  - Chat vs. email: Use the right tool for better communication
+  - Links vs. attachments: Enhance collaboration and accuracy
+  - Getting the most out of video conferencing
+  - The AI revolution in the workplace
+  - Implementing AI solutions for business success
+- [**Conclusion**](#conclusion) (1 videos)
+  - Making your digital transformation a success
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital transformation and your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/digital-transformation-and-your-business?u=76281980)
@@ -90,7 +119,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Digital Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making data and systems accessible via the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980)
@@ -446,7 +475,7 @@ created: 2026-04-29
 
 ### 2. Check Readiness: Look Before You Leap
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build leadership buy-in for transformation success
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-leadership-buy-in-for-transformation-success?u=76281980)
@@ -707,7 +736,7 @@ created: 2026-04-29
 
 ### 3. Planning for Success
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Know what problems you're trying to solve
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/know-what-problems-you-re-trying-to-solve?u=76281980)
@@ -934,7 +963,7 @@ created: 2026-04-29
 
 ### 4. Communication Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the communication needs of your participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/understanding-the-communication-needs-of-your-participants?u=76281980)
@@ -1185,7 +1214,7 @@ created: 2026-04-29
 
 ### 5. Iterate
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring your digital transformation against metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/measuring-your-digital-transformation-against-metrics?u=76281980)
@@ -1481,7 +1510,7 @@ created: 2026-04-29
 
 ### 6. Workplace Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Chat vs. email: Use the right tool for better communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980)
@@ -1801,7 +1830,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making your digital transformation a success
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-your-digital-transformation-a-success?u=76281980)

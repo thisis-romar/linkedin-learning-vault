@@ -54,17 +54,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Data: What Data Do Vector Databases Store and How Is It Stored?]]** (6 videos)
-- **[[#2. Natural Querying: How Do You Search for Data in a Vector Database?]]** (6 videos)
-- **[[#3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?]]** (5 videos)
-- **[[#4. Scalability: What Does a Vector Database Need to Do?]]** (5 videos)
-- **[[#5. Demonstrate Vector DBs and Use Cases]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learning AI-native vector databases
+  - What you should know
+  - The superpower of vector databases
+- [**1. Data: What Data Do Vector Databases Store and How Is It Stored?**](#1-data-what-data-do-vector-databases-store-and-how-is-it-stored) (6 videos)
+  - Structured versus unstructured data
+  - Human-understandable versus machine-understandable data
+  - Drawing out and visualizing vector representations of data
+  - Introduce the concept of distance between two vectors
+  - Challenge: Working with vectors
+  - Solution: Working with vectors
+- [**2. Natural Querying: How Do You Search for Data in a Vector Database?**](#2-natural-querying-how-do-you-search-for-data-in-a-vector-database) (6 videos)
+  - Frame the query as a question or search
+  - Generate the question in machine-understandable language
+  - Adding data to a vector database
+  - Performing semantic searches using Weaviate
+  - Challenge: Vector search with Weaviate
+  - Solution: Vector Search with Weaviate
+- [**3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?**](#3-machine-learning-vectors-how-does-a-vector-database-understand-your-data) (5 videos)
+  - Machine learning models and object classification
+  - Translating data from human to machine-understandable
+  - ML models and vector embeddings
+  - Challenge: Search with images and text
+  - Solution: Search with images and text
+- [**4. Scalability: What Does a Vector Database Need to Do?**](#4-scalability-what-does-a-vector-database-need-to-do) (5 videos)
+  - Scalability: When to use a vector DB
+  - Ways to measure performance of a vector DB
+  - CRUD operations in vector DBs
+  - Challenge: CRUD and performance
+  - Solution: CRUD and performance
+- [**5. Demonstrate Vector DBs and Use Cases**](#5-demonstrate-vector-dbs-and-use-cases) (5 videos)
+  - Vector DB1: E-commerce RecSys
+  - Vector DB2: Hybrid search
+  - Vector DB3: Retrieval augmented generation
+  - Challenge: Vector DBs
+  - Solution: Vector DBs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your AI-native vector databases learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning AI-native vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980)
@@ -188,7 +219,7 @@ created: 2026-04-29
 
 ### 1. Data: What Data Do Vector Databases Store and How Is It Stored?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structured versus unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980)
@@ -902,7 +933,7 @@ created: 2026-04-29
 
 ### 2. Natural Querying: How Do You Search for Data in a Vector Database?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Frame the query as a question or search
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980)
@@ -1907,7 +1938,7 @@ created: 2026-04-29
 
 ### 3. Machine Learning Vectors: How Does a Vector Database Understand Your Data?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning models and object classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980)
@@ -2787,7 +2818,7 @@ created: 2026-04-29
 
 ### 4. Scalability: What Does a Vector Database Need to Do?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scalability: When to use a vector DB
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980)
@@ -3403,7 +3434,7 @@ created: 2026-04-29
 
 ### 5. Demonstrate Vector DBs and Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vector DB1: E-commerce RecSys
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980)
@@ -4208,7 +4239,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your AI-native vector databases learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980)

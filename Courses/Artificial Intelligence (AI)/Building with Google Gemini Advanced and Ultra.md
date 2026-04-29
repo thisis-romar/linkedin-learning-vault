@@ -57,12 +57,17 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Google Gemini Changes Artificial Intelligence]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to Google's AI family of the future
+- [**1. Google Gemini Changes Artificial Intelligence**](#1-google-gemini-changes-artificial-intelligence) (4 videos)
+  - Learning Google Gemini fundamentals
+  - Chatting with new Google Gemini
+  - Prompting with Google Gemini
+  - Building with Google Gemini
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Google's AI family of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980)
@@ -87,7 +92,7 @@ created: 2026-04-29
 
 ### 1. Google Gemini Changes Artificial Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Google Gemini fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980)

@@ -55,20 +55,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Scrum Roles]]** (5 videos)
-- **[[#2. Scrum Artifacts]]** (7 videos)
-- **[[#3. Scrum Events: Sprints and Sprint Planning]]** (6 videos)
-- **[[#4. Scrum Events: Daily Scrum]]** (3 videos)
-- **[[#5. Scrum Events: Sprint Review]]** (1 videos)
-- **[[#6. Scrum Events: Daily Retrospective]]** (2 videos)
-- **[[#7. Product Backlog Refinement]]** (3 videos)
-- **[[#8. Certifications]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Scrum for agile software development
+  - What you should know
+- [**1. Scrum Roles**](#1-scrum-roles) (5 videos)
+  - Product owner: The what
+  - Product owner example
+  - Development team: The how
+  - Understanding the development team
+  - Scrum master: The servant leader
+- [**2. Scrum Artifacts**](#2-scrum-artifacts) (7 videos)
+  - Software tools for scrum
+  - Product backlog overview
+  - Product backlog characteristics and tips
+  - Sample product backlog
+  - Sprint backlog overview
+  - Product increment overview
+  - The definition of done
+- [**3. Scrum Events: Sprints and Sprint Planning**](#3-scrum-events-sprints-and-sprint-planning) (6 videos)
+  - Sprint overview
+  - Sprint best practices
+  - Sprint planning: Part 1
+  - Sprint planning: Part 2
+  - Sprint planning in Jira
+  - Boards in Jira
+- [**4. Scrum Events: Daily Scrum**](#4-scrum-events-daily-scrum) (3 videos)
+  - Daily scrum overview
+  - Daily scrum example
+  - Tracking progress
+- [**5. Scrum Events: Sprint Review**](#5-scrum-events-sprint-review) (1 videos)
+  - Sprint review overview
+- [**6. Scrum Events: Daily Retrospective**](#6-scrum-events-daily-retrospective) (2 videos)
+  - Sprint retrospective overview
+  - Tracking retrospective items
+- [**7. Product Backlog Refinement**](#7-product-backlog-refinement) (3 videos)
+  - Product backlog refinement
+  - Planning poker
+  - Technical debt
+- [**8. Certifications**](#8-certifications) (4 videos)
+  - Scrum certifications
+  - Certified scrum master
+  - Professional scrum master
+  - Certification advice
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum for agile software development
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-for-agile-software-development?u=76281980)
@@ -125,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Scrum Roles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Product owner: The what
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-owner-the-what?u=76281980)
@@ -414,7 +448,7 @@ created: 2026-04-29
 
 ### 2. Scrum Artifacts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Software tools for scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/software-tools-for-scrum?u=76281980)
@@ -700,7 +734,7 @@ created: 2026-04-29
 
 ### 3. Scrum Events: Sprints and Sprint Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sprint overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-overview?u=76281980)
@@ -986,7 +1020,7 @@ created: 2026-04-29
 
 ### 4. Scrum Events: Daily Scrum
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Daily scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/daily-scrum-overview?u=76281980)
@@ -1158,7 +1192,7 @@ created: 2026-04-29
 
 ### 5. Scrum Events: Sprint Review
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sprint review overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-review-overview?u=76281980)
@@ -1218,7 +1252,7 @@ created: 2026-04-29
 
 ### 6. Scrum Events: Daily Retrospective
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sprint retrospective overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/sprint-retrospective-overview?u=76281980)
@@ -1323,7 +1357,7 @@ created: 2026-04-29
 
 ### 7. Product Backlog Refinement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Product backlog refinement
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/product-backlog-refinement?u=76281980)
@@ -1515,7 +1549,7 @@ created: 2026-04-29
 
 ### 8. Certifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/scrum-certifications?u=76281980)
@@ -1672,7 +1706,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-scrum-for-developers-18798445/next-steps?u=76281980)

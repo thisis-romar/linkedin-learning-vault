@@ -56,18 +56,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Programming Basics]]** (5 videos)
-- **[[#2. Programming Syntax]]** (10 videos)
-- **[[#3. Variables and Data Types]]** (8 videos)
-- **[[#4. Conditional Code]]** (6 videos)
-- **[[#5. Modular Code]]** (7 videos)
-- **[[#Glossaries]]** (0 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The fundamentals of programming
+  - Following along with the course
+- [**1. Programming Basics**](#1-programming-basics) (5 videos)
+  - What is programming?
+  - What is a programming language?
+  - Writing source code
+  - Running your code
+  - Using an IDE
+- [**2. Programming Syntax**](#2-programming-syntax) (10 videos)
+  - Why Python?
+  - Installing Python on a Mac
+  - Installing Python on Windows
+  - Running Python on the command line on Mac
+  - Running Python on the command line on Windows
+  - Installing Visual Studio Code on a Mac
+  - Installing Visual Studio Code on Windows
+  - Running Python in an IDE
+  - Basic statements and expressions
+  - Troubleshooting issues
+- [**3. Variables and Data Types**](#3-variables-and-data-types) (8 videos)
+  - Introduction to variables and data types
+  - Variables across languages
+  - Working with numbers
+  - Working with strings
+  - Properly using whitespace
+  - Working with comments
+  - Challenge: What's the output?
+  - Solution: What's the output?
+- [**4. Conditional Code**](#4-conditional-code) (6 videos)
+  - Making decisions in code
+  - Exploring conditional code
+  - Working with simple conditions
+  - Conditionals across languages
+  - Challenge: Guessing game
+  - Solution: Guessing game
+- [**5. Modular Code**](#5-modular-code) (7 videos)
+  - Introduction to functions
+  - Creating and calling functions
+  - Setting parameters and arguments
+  - Returning values from functions
+  - Functions across languages
+  - Challenge: Favorite cities
+  - Solution: Favorite cities
+- [**Glossaries**](#glossaries) (0 videos)
+- [**Conclusion**](#conclusion) (2 videos)
+  - Exploring languages
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The fundamentals of programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?u=76281980)
@@ -144,7 +184,7 @@ created: 2026-04-29
 
 ### 1. Programming Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-programming?u=76281980)
@@ -559,7 +599,7 @@ created: 2026-04-29
 
 ### 2. Programming Syntax
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Python?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980)
@@ -1437,7 +1477,7 @@ created: 2026-04-29
 
 ### 3. Variables and Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to variables and data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980)
@@ -2162,7 +2202,7 @@ created: 2026-04-29
 
 ### 4. Conditional Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making decisions in code
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/making-decisions-in-code?u=76281980)
@@ -2710,7 +2750,7 @@ created: 2026-04-29
 
 ### 5. Modular Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-functions?u=76281980)
@@ -3328,12 +3368,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980)

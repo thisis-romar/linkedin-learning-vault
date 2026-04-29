@@ -48,18 +48,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Get Started with Web-Based Media]]** (6 videos)
-- **[[#2. Work with Audio Elements]]** (7 videos)
-- **[[#3. Work with Video Elements]]** (6 videos)
-- **[[#4. Create Media Playback Controls]]** (6 videos)
-- **[[#5. Style Media Playback Controls]]** (6 videos)
-- **[[#6. Work with the Media API]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Build interactive audio and video into your websites and applications
+  - What you should know
+  - Use the exercise files
+  - What's new in this update
+- [**1. Get Started with Web-Based Media**](#1-get-started-with-web-based-media) (6 videos)
+  - Set up your environment
+  - Create a new document
+  - Link to media content
+  - Use embedded media
+  - Challenge: Remove the iframe border
+  - Solution: Remove the iframe border
+- [**2. Work with Audio Elements**](#2-work-with-audio-elements) (7 videos)
+  - Modify your document for audio
+  - Specify an audio source
+  - Specify multiple audio sources
+  - Include fallback content
+  - Additional audio attributes
+  - Challenge: Increase audio accessibility with tags
+  - Solution: Increase audio accessibility with tags
+- [**3. Work with Video Elements**](#3-work-with-video-elements) (6 videos)
+  - Modify your document for video
+  - Specify height and width
+  - Use a poster image
+  - Media accessibility
+  - Challenge: Fill the background with looping video
+  - Solution: Fill the background with looping video
+- [**4. Create Media Playback Controls**](#4-create-media-playback-controls) (6 videos)
+  - Disable default media controls
+  - Add playback buttons
+  - Include text elements
+  - Create a progress bar
+  - Challenge: Overlay the media controls
+  - Solution: Overlay the media controls
+- [**5. Style Media Playback Controls**](#5-style-media-playback-controls) (6 videos)
+  - Define CSS styles in a document
+  - Design your buttons
+  - Style your text
+  - Design your progress bar
+  - Challenge: Use web fonts
+  - Solution: Use web fonts
+- [**6. Work with the Media API**](#6-work-with-the-media-api) (7 videos)
+  - Overview of media API
+  - Listen for Media events
+  - Program button controls
+  - Dynamic time display
+  - Wire up the progress bar
+  - Challenge: Show and hide the controls
+  - Solution: Show and hide the controls
+- [**Conclusion**](#conclusion) (1 videos)
+  - Further information
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build interactive audio and video into your websites and applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/build-interactive-audio-and-video-into-your-websites-and-applications?u=76281980)
@@ -164,7 +207,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Web-Based Media
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up your environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/set-up-your-environment?u=76281980)
@@ -433,7 +476,7 @@ created: 2026-04-29
 
 ### 2. Work with Audio Elements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modify your document for audio
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-audio?u=76281980)
@@ -757,7 +800,7 @@ created: 2026-04-29
 
 ### 3. Work with Video Elements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modify your document for video
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/modify-your-document-for-video?u=76281980)
@@ -1033,7 +1076,7 @@ created: 2026-04-29
 
 ### 4. Create Media Playback Controls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Disable default media controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/disable-default-media-controls?u=76281980)
@@ -1271,7 +1314,7 @@ created: 2026-04-29
 
 ### 5. Style Media Playback Controls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define CSS styles in a document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/define-css-styles-in-a-document?u=76281980)
@@ -1675,7 +1718,7 @@ created: 2026-04-29
 
 ### 6. Work with the Media API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of media API
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/overview-of-media-api?u=76281980)
@@ -2099,7 +2142,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further information
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-web-audio-and-video/further-information?u=76281980)

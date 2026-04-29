@@ -48,16 +48,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Leading Practices]]** (10 videos)
-- **[[#2. Security Documentation]]** (7 videos)
-- **[[#3. Source Code Security Reviews]]** (9 videos)
-- **[[#4. Static Testing for the OWASP Top 10 (2021)]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The importance of static testing
+  - What you should know
+- [**1. Leading Practices**](#1-leading-practices) (10 videos)
+  - Security in the SDLC
+  - Development methodologies
+  - Programming languages
+  - Security frameworks
+  - The OWASP Top 10
+  - Other notable projects
+  - Top 25 software errors
+  - BSIMM
+  - Building your test lab
+  - Preparing your checklist
+- [**2. Security Documentation**](#2-security-documentation) (7 videos)
+  - Internal project plans
+  - Communication planning
+  - Change control policy
+  - Security incident response policy
+  - Logging and monitoring policy
+  - Third-party agreements
+  - OWASP ASVS
+- [**3. Source Code Security Reviews**](#3-source-code-security-reviews) (9 videos)
+  - Challenges of assessing source code
+  - OWASP Code Review Guide
+  - Static code analysis
+  - Code review models
+  - Application threat modeling: STRIDE
+  - Application threat modeling: DREAD
+  - Code review metrics
+  - Demo: Codacy
+  - Demo: SonarQube
+- [**4. Static Testing for the OWASP Top 10 (2021)**](#4-static-testing-for-the-owasp-top-10-2021) (11 videos)
+  - The OWASP Top 10
+  - A1: Broken access controls
+  - A2: Cryptographic failures
+  - A3: Injection
+  - A4: Insecure design
+  - A5: Security misconfiguration
+  - A6: Vulnerable and outdated components
+  - A7: Identification and authentication failures
+  - A8: Software and data integrity failures
+  - A9: Security logging and monitoring failures
+  - A10: Server-Side Request Forgery
+- [**Conclusion**](#conclusion) (1 videos)
+  - Static application security testing next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of static testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-importance-of-static-testing?u=76281980)
@@ -137,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Leading Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security in the SDLC
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/security-in-the-sdlc?u=76281980)
@@ -961,7 +1001,7 @@ created: 2026-04-29
 
 ### 2. Security Documentation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Internal project plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/internal-project-plans?u=76281980)
@@ -1668,7 +1708,7 @@ created: 2026-04-29
 
 ### 3. Source Code Security Reviews
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges of assessing source code
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/challenges-of-assessing-source-code?u=76281980)
@@ -2602,7 +2642,7 @@ created: 2026-04-29
 
 ### 4. Static Testing for the OWASP Top 10 (2021)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/the-owasp-top-10-22186228?u=76281980)
@@ -3800,7 +3840,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Static application security testing next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/static-application-security-testing/static-application-security-testing-next-steps?u=76281980)

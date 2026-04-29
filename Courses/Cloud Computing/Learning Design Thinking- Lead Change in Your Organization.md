@@ -51,17 +51,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Design Thinking?]]** (10 videos)
-- **[[#2. Leading Design Thinking]]** (8 videos)
-- **[[#3. Guiding Creative Collaboration]]** (9 videos)
-- **[[#4. AI as a Design Thinking Team Member]]** (4 videos)
-- **[[#5. Making to Advance Thinking]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why design thinking matters
+  - About this course
+- [**1. What Is Design Thinking?**](#1-what-is-design-thinking) (10 videos)
+  - What is design thinking?
+  - The value of design thinking
+  - The design thinking approach
+  - The six elements of a design thinking mindset
+  - Avoiding common pitfalls of design thinking
+  - Why multidisciplinary matters
+  - Tangibility: Making space to create
+  - Tangibility: Making space to create when remote
+  - Tangibility: Making complexity visual
+  - Explore design thinking attributes in your teams today
+- [**2. Leading Design Thinking**](#2-leading-design-thinking) (8 videos)
+  - Leading design thinking
+  - Challenges of leading design thinking
+  - Building your skills in leading a design thinking team
+  - Aligning the team
+  - Employing a team leap activity
+  - Set a shared goal: Mission countdown
+  - Active alignment
+  - Considerations when remote
+- [**3. Guiding Creative Collaboration**](#3-guiding-creative-collaboration) (9 videos)
+  - Human-centered design (HCD) overview
+  - Hypothesis generation
+  - Empathy for the journey
+  - Journey example
+  - Synthesis: Making sense of the data
+  - Concept generation
+  - Developing a service blueprint
+  - Managing creative flow with the wider group
+  - Is design thinking just a workshop?
+- [**4. AI as a Design Thinking Team Member**](#4-ai-as-a-design-thinking-team-member) (4 videos)
+  - Design thinking and AI
+  - AI as a research assistant
+  - AI as a concepting partner
+  - AI as your thought partner
+- [**5. Making to Advance Thinking**](#5-making-to-advance-thinking) (3 videos)
+  - Prototyping fast and often
+  - Lo-fi prototyping
+  - Prototyping beyond the screen
+- [**Conclusion**](#conclusion) (2 videos)
+  - Culture change to make this mindset real
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why design thinking matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/why-design-thinking-matters?u=76281980)
@@ -121,7 +159,7 @@ created: 2026-04-29
 
 ### 1. What Is Design Thinking?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is design thinking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/what-is-design-thinking?u=76281980)
@@ -785,7 +823,7 @@ created: 2026-04-29
 
 ### 2. Leading Design Thinking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading design thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/leading-design-thinking?u=76281980)
@@ -1407,7 +1445,7 @@ created: 2026-04-29
 
 ### 3. Guiding Creative Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Human-centered design (HCD) overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/human-centered-design-overview?u=76281980)
@@ -2037,7 +2075,7 @@ created: 2026-04-29
 
 ### 4. AI as a Design Thinking Team Member
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design thinking and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/design-thinking-and-ai?u=76281980)
@@ -2282,7 +2320,7 @@ created: 2026-04-29
 
 ### 5. Making to Advance Thinking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototyping fast and often
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/prototyping-fast-and-often?u=76281980)
@@ -2452,7 +2490,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Culture change to make this mindset real
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization-24519030/culture-change-to-make-this-mindset-real?u=76281980)

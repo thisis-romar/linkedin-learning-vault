@@ -48,19 +48,89 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Advanced Accessibility Topics in Adobe Acrobat]]** (15 videos)
-- **[[#2. Working with Tables in Adobe Acrobat]]** (11 videos)
-- **[[#3. Working with Forms in Adobe Acrobat]]** (6 videos)
-- **[[#4. Advanced Accessibility Topics in Microsoft Word]]** (6 videos)
-- **[[#5. Advanced Accessibility Topics in Adobe InDesign]]** (11 videos)
-- **[[#6. PDF/UA Remediation]]** (15 videos)
-- **[[#7. Third-Party Tools]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Is your document accessible?
+  - What you should know
+- [**1. Advanced Accessibility Topics in Adobe Acrobat**](#1-advanced-accessibility-topics-in-adobe-acrobat) (15 videos)
+  - Shortcuts for walking the tags tree
+  - Creating a tag from a selection
+  - Paragraphs that split across a page
+  - Creating hyperlinks
+  - Fixing untagged hyperlinks
+  - Addressing multiline hyperlinks
+  - Advanced techniques using the Content pane
+  - Security and accessibility
+  - Merging and splitting documents
+  - Tagging challenging elements
+  - Using Autotag
+  - Fixing decorative bullets and numbers
+  - Reading options in Acrobat
+  - Detriments of editing a PDF file
+  - Working with ligatures and drop caps
+- [**2. Working with Tables in Adobe Acrobat**](#2-working-with-tables-in-adobe-acrobat) (11 videos)
+  - Defining header cells in a table
+  - Tables that span multiple pages
+  - Understanding table spans
+  - Tagging tables with merged cells
+  - Defining scope and span manually
+  - Dealing with blank cells
+  - What makes a bad table?
+  - Creative table solutions
+  - Creating heading and data associations
+  - An alternative solution to header associations
+  - Linearizing tables
+- [**3. Working with Forms in Adobe Acrobat**](#3-working-with-forms-in-adobe-acrobat) (6 videos)
+  - Adding form fields in Adobe Acrobat
+  - Adding a tooltip to form fields
+  - Manually tagging form fields
+  - Automatically tagging form fields
+  - Tagging a button
+  - Structuring form tags in the Tags panel
+- [**4. Advanced Accessibility Topics in Microsoft Word**](#4-advanced-accessibility-topics-in-microsoft-word) (6 videos)
+  - Saving accessible PDFs from Microsoft Word
+  - Working with merged cells
+  - Working with custom styles
+  - Working with multiple table header rows
+  - Working with multilevel lists
+  - Setting hyperlink tooltips
+- [**5. Advanced Accessibility Topics in Adobe InDesign**](#5-advanced-accessibility-topics-in-adobe-indesign) (11 videos)
+  - Working with merged table cells
+  - Working with table headers
+  - Getting creative with bullets and numbers
+  - Adding alt text for hyperlinks
+  - Adding form fields in InDesign
+  - Adding form fields in tables
+  - Defining tab order for form fields in InDesign
+  - Working with InDesign-drawn objects
+  - Text effects and accessibility
+  - Helpful scripts for accessibility
+  - The MadeToTag plugin
+- [**6. PDF/UA Remediation**](#6-pdfua-remediation) (15 videos)
+  - Understanding PDF/UA
+  - Reviewing the PAC 2021 Checker
+  - The Preflight panel
+  - Artifacting nonstructural elements
+  - Fixing element used as a root element error
+  - Fixing inappropriate use of an element error
+  - Role mapping issues
+  - Fixing alternative descriptions for annotations error
+  - Adding IDs for note elements
+  - Fixing a figure element with no bounding box error
+  - Embedding fonts
+  - Fixing table header cell has no associated subcells error
+  - Adding the PDF/UA entry
+  - Why is PDF/UA not verified?
+  - PDF/UA resources
+- [**7. Third-Party Tools**](#7-third-party-tools) (3 videos)
+  - Tools for visualizing document structure
+  - axesWord
+  - axesPDF
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps for accessibility
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Is your document accessible?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/is-your-document-accessible?u=76281980)
@@ -122,7 +192,7 @@ created: 2026-04-29
 
 ### 1. Advanced Accessibility Topics in Adobe Acrobat
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Shortcuts for walking the tags tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/shortcuts-for-walking-the-tags-tree?u=76281980)
@@ -1982,7 +2052,7 @@ created: 2026-04-29
 
 ### 2. Working with Tables in Adobe Acrobat
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining header cells in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/defining-header-cells-in-a-table?u=76281980)
@@ -3525,7 +3595,7 @@ created: 2026-04-29
 
 ### 3. Working with Forms in Adobe Acrobat
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding form fields in Adobe Acrobat
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/adding-form-fields-in-adobe-acrobat?u=76281980)
@@ -4542,7 +4612,7 @@ created: 2026-04-29
 
 ### 4. Advanced Accessibility Topics in Microsoft Word
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Saving accessible PDFs from Microsoft Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/saving-accessible-pdfs-from-microsoft-word?u=76281980)
@@ -5243,7 +5313,7 @@ created: 2026-04-29
 
 ### 5. Advanced Accessibility Topics in Adobe InDesign
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with merged table cells
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/working-with-merged-table-cells?u=76281980)
@@ -6793,7 +6863,7 @@ created: 2026-04-29
 
 ### 6. PDF/UA Remediation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding PDF/UA
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/understanding-pdf-ua?u=76281980)
@@ -8052,7 +8122,7 @@ created: 2026-04-29
 
 ### 7. Third-Party Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools for visualizing document structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/tools-for-visualizing-document-structure?u=76281980)
@@ -8483,7 +8553,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-accessible-pdfs-21974253/next-steps-for-accessibility?u=76281980)

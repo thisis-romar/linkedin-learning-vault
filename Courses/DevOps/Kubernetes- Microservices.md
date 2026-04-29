@@ -49,16 +49,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Cloud Native Was Made for Microservices]]** (4 videos)
-- **[[#2. Set up Your Cluster and Deploy Your Microservices]]** (4 videos)
-- **[[#3. Service Discovery in Kubernetes]]** (6 videos)
-- **[[#4. Advanced Topics]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Cloud native networking with Kubernetes
+  - What you should know
+  - How to use the exercise files
+- [**1. Cloud Native Was Made for Microservices**](#1-cloud-native-was-made-for-microservices) (4 videos)
+  - Monolithic vs. microservices architecture
+  - History of application deployments
+  - Kubernetes network model
+  - Container Network Interface
+- [**2. Set up Your Cluster and Deploy Your Microservices**](#2-set-up-your-cluster-and-deploy-your-microservices) (4 videos)
+  - Spin up a Minikube cluster in Windows, Mac, and Linux
+  - Install Calico
+  - Deploy the backend microservices
+  - Deploy the frontend microservice
+- [**3. Service Discovery in Kubernetes**](#3-service-discovery-in-kubernetes) (6 videos)
+  - An overview of Kubernetes services
+  - Examine a ClusterIP service
+  - Examine a NodePort service
+  - Examine a LoadBalancer service
+  - Challenge: Deploy and test a new microservice
+  - Solution: Deploy and test a new microservice
+- [**4. Advanced Topics**](#4-advanced-topics) (3 videos)
+  - Understanding network policies
+  - Getting traffic into a cluster using Ingress
+  - An overview of services meshes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Thank you
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud native networking with Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/cloud-native-networking-with-kubernetes?u=76281980)
@@ -161,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Cloud Native Was Made for Microservices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monolithic vs. microservices architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/monolithic-vs-microservices-architecture?u=76281980)
@@ -419,7 +440,7 @@ created: 2026-04-29
 
 ### 2. Set up Your Cluster and Deploy Your Microservices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spin up a Minikube cluster in Windows, Mac, and Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/spin-up-a-minikube-cluster-in-windows-mac-and-linux?u=76281980)
@@ -813,7 +834,7 @@ created: 2026-04-29
 
 ### 3. Service Discovery in Kubernetes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of Kubernetes services
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/an-overview-of-kubernetes-services?u=76281980)
@@ -1560,7 +1581,7 @@ created: 2026-04-29
 
 ### 4. Advanced Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding network policies
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/understanding-network-policies?u=76281980)
@@ -1785,7 +1806,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-microservices-23787657/thank-you?u=76281980)

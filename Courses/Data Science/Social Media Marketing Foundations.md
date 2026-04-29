@@ -49,17 +49,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Create a Social Media Strategy]]** (4 videos)
-- **[[#2. Choose the Right Social Networks]]** (4 videos)
-- **[[#3. Publish Engaging Social Content]]** (3 videos)
-- **[[#4. Interact with Customers]]** (3 videos)
-- **[[#5. Foster Social Media Partnerships]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What is social media marketing?
+  - Use the provided handouts
+- [**1. Create a Social Media Strategy**](#1-create-a-social-media-strategy) (4 videos)
+  - Produce an actionable social media strategy
+  - Focus on social media measurement
+  - Develop marketing personas for your audience
+  - Hire a social media manager
+- [**2. Choose the Right Social Networks**](#2-choose-the-right-social-networks) (4 videos)
+  - Community-based social networks
+  - Discovery-focused social platforms
+  - Social messaging apps
+  - Review sites and discussion forums
+- [**3. Publish Engaging Social Content**](#3-publish-engaging-social-content) (3 videos)
+  - Create organic content for social media
+  - Produce engaging paid social campaigns
+  - Humanize your content
+- [**4. Interact with Customers**](#4-interact-with-customers) (3 videos)
+  - Embrace social listening and monitoring
+  - Proactive engagement to earn attention
+  - Reactive engagement for customer service
+- [**5. Foster Social Media Partnerships**](#5-foster-social-media-partnerships) (3 videos)
+  - Coordinate teams with a social media policy
+  - Set up successful creator campaigns
+  - Experiment beyond best practices in social
+- [**Conclusion**](#conclusion) (1 videos)
+  - Stay updated on social media marketing
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is social media marketing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980)
@@ -115,7 +135,7 @@ created: 2026-04-29
 
 ### 1. Create a Social Media Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Produce an actionable social media strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980)
@@ -385,7 +405,7 @@ created: 2026-04-29
 
 ### 2. Choose the Right Social Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Community-based social networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980)
@@ -614,7 +634,7 @@ created: 2026-04-29
 
 ### 3. Publish Engaging Social Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create organic content for social media
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980)
@@ -808,7 +828,7 @@ created: 2026-04-29
 
 ### 4. Interact with Customers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace social listening and monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980)
@@ -1007,7 +1027,7 @@ created: 2026-04-29
 
 ### 5. Foster Social Media Partnerships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Coordinate teams with a social media policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/coordinate-teams-with-a-social-media-policy?u=76281980)
@@ -1177,7 +1197,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay updated on social media marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980)

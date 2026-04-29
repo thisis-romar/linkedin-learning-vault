@@ -48,18 +48,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Flexbox?]]** (2 videos)
-- **[[#2. Flexbox-Powered Menus]]** (7 videos)
-- **[[#3. Responsive Card Layouts]]** (5 videos)
-- **[[#4. Holy Grail Layout]]** (4 videos)
-- **[[#5. Handing Control to the User]]** (5 videos)
-- **[[#6. Putting It All Together]]** (1 videos)
-- **[[#Next steps]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - How to use the exercise files
+- [**1. What Is Flexbox?**](#1-what-is-flexbox) (2 videos)
+  - What is Flexbox?
+  - Caveats when using Flexbox today
+- [**2. Flexbox-Powered Menus**](#2-flexbox-powered-menus) (7 videos)
+  - Exploring common menu layouts
+  - Marking up five types of menus
+  - Using Flexbox to control single-level menu layout
+  - Using Flexbox to control advanced menus
+  - Using Flexbox to control multilevel menus with dropdowns
+  - Creating a social media menu
+  - Using Flexbox to control multiple menus
+- [**3. Responsive Card Layouts**](#3-responsive-card-layouts) (5 videos)
+  - Challenges with card layouts
+  - Marking up typical cards
+  - Using Flexbox to create a grid of cards
+  - Adding responsive breakpoints
+  - Solving the common "anchor doesn't fill the card" problem
+- [**4. Holy Grail Layout**](#4-holy-grail-layout) (4 videos)
+  - What is the holy grail layout?
+  - Marking up the holy grail layout in HTML
+  - Styling the holy grail layout with Flexbox
+  - Changing the layout with Flexbox
+- [**5. Handing Control to the User**](#5-handing-control-to-the-user) (5 videos)
+  - Handing control to the user
+  - Sidebar position switching
+  - Changing from holy grail to vertical display
+  - Hiding and showing the sidebar
+  - Animating content
+- [**6. Putting It All Together**](#6-putting-it-all-together) (1 videos)
+  - Putting it all together
+- [**Next steps**](#next-steps) (1 videos)
+  - Thank you
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/welcome?u=76281980)
@@ -178,7 +205,7 @@ created: 2026-04-29
 
 ### 1. What Is Flexbox?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Flexbox?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-flexbox?u=76281980)
@@ -299,7 +326,7 @@ created: 2026-04-29
 
 ### 2. Flexbox-Powered Menus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring common menu layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/exploring-common-menu-layouts?u=76281980)
@@ -1046,7 +1073,7 @@ created: 2026-04-29
 
 ### 3. Responsive Card Layouts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges with card layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/challenges-with-card-layouts?u=76281980)
@@ -1429,7 +1456,7 @@ created: 2026-04-29
 
 ### 4. Holy Grail Layout
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the holy grail layout?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/what-is-the-holy-grail-layout?u=76281980)
@@ -1749,7 +1776,7 @@ created: 2026-04-29
 
 ### 5. Handing Control to the User
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Handing control to the user
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/handing-control-to-the-user?u=76281980)
@@ -2208,7 +2235,7 @@ created: 2026-04-29
 
 ### 6. Putting It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/putting-it-all-together?u=76281980)
@@ -2393,7 +2420,7 @@ created: 2026-04-29
 
 ### Next steps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox/thank-you?u=76281980)

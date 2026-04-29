@@ -50,18 +50,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Continuous Wavelet Transform]]** (1 videos)
-- **[[#2. Discrete Wavelets]]** (1 videos)
-- **[[#3. Wavelet Filter Bank]]** (1 videos)
-- **[[#4. Discrete Wavelet Data]]** (1 videos)
-- **[[#5. Wavelet Best Basis]]** (1 videos)
-- **[[#6. Wavelet Thresholding]]** (1 videos)
-- **[[#References]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction
+- [**1. Continuous Wavelet Transform**](#1-continuous-wavelet-transform) (1 videos)
+  - Continuous wavelet transform
+- [**2. Discrete Wavelets**](#2-discrete-wavelets) (1 videos)
+  - Discrete wavelets
+- [**3. Wavelet Filter Bank**](#3-wavelet-filter-bank) (1 videos)
+  - Wavelet filter bank
+- [**4. Discrete Wavelet Data**](#4-discrete-wavelet-data) (1 videos)
+  - Discrete wavelet data
+- [**5. Wavelet Best Basis**](#5-wavelet-best-basis) (1 videos)
+  - Wavelet best basis
+- [**6. Wavelet Thresholding**](#6-wavelet-thresholding) (1 videos)
+  - Wavelet thresholding
+- [**References**](#references) (1 videos)
+  - References
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/introduction?u=76281980)
@@ -235,7 +243,7 @@ created: 2026-04-29
 
 ### 1. Continuous Wavelet Transform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous wavelet transform
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/continuous-wavelet-transform?u=76281980)
@@ -405,7 +413,7 @@ created: 2026-04-29
 
 ### 2. Discrete Wavelets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discrete wavelets
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelets?u=76281980)
@@ -496,7 +504,7 @@ created: 2026-04-29
 
 ### 3. Wavelet Filter Bank
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wavelet filter bank
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-filter-bank?u=76281980)
@@ -559,7 +567,7 @@ created: 2026-04-29
 
 ### 4. Discrete Wavelet Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discrete wavelet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/discrete-wavelet-data?u=76281980)
@@ -667,7 +675,7 @@ created: 2026-04-29
 
 ### 5. Wavelet Best Basis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wavelet best basis
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-best-basis?u=76281980)
@@ -746,7 +754,7 @@ created: 2026-04-29
 
 ### 6. Wavelet Thresholding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wavelet thresholding
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/wavelet-thresholding?u=76281980)
@@ -886,7 +894,7 @@ created: 2026-04-29
 
 ### References
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### References
 > [LinkedIn Learning](https://www.linkedin.com/learning/wavelet-analysis-concepts-with-wolfram-language/references?u=76281980)

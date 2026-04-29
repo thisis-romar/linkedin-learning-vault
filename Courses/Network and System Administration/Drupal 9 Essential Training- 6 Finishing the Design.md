@@ -45,14 +45,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Finishing the Design]]** (4 videos)
-- **[[#2. Site Management]]** (2 videos)
-- **[[#3. Bonus]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to the course
+- [**1. Finishing the Design**](#1-finishing-the-design) (4 videos)
+  - Finishing the design: Adding the logo
+  - Finishing the design: Updating the front page, part 1
+  - Finishing the design: Updating the front page, part 2
+  - CSS and JS Injector
+- [**2. Site Management**](#2-site-management) (2 videos)
+  - How to update Drupal
+  - How to synchronize between servers
+- [**3. Bonus**](#3-bonus) (3 videos)
+  - Bonus: Creating a digital asset management system, part 1
+  - Bonus: Creating a digital asset management system, part 2
+  - Final thoughts
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/introduction-to-the-course?u=76281980)
@@ -103,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Finishing the Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finishing the design: Adding the logo
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/finishing-the-design-adding-the-logo?u=76281980)
@@ -748,7 +758,7 @@ created: 2026-04-29
 
 ### 2. Site Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to update Drupal
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/how-to-update-drupal?u=76281980)
@@ -967,7 +977,7 @@ created: 2026-04-29
 
 ### 3. Bonus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bonus: Creating a digital asset management system, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-6-finishing-the-design/bonus-creating-a-digital-asset-management-system-part-1?u=76281980)

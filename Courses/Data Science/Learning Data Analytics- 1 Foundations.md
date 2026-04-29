@@ -61,19 +61,70 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started with Data Analysis]]** (5 videos)
-- **[[#2. Fundamentals of Data Understanding]]** (7 videos)
-- **[[#3. Key Elements to Understand when Starting Data Analysis]]** (8 videos)
-- **[[#4. Getting Started with a Data Project]]** (6 videos)
-- **[[#5. Data Importing, Exporting, and Connections]]** (5 videos)
-- **[[#6. Getting Started with Data Cleaning and Modeling]]** (8 videos)
-- **[[#7. Applying Common Techniques for All Data Analysts]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Beginning your data analysis journey
+  - What you should know
+  - Using the exercise files
+- [**1. Getting Started with Data Analysis**](#1-getting-started-with-data-analysis) (5 videos)
+  - Defining data analysis and data analyst
+  - Discovering if you are an analyst
+  - Organizational roles in data
+  - Understanding types of data job roles
+  - Discovering skills of the data analyst
+- [**2. Fundamentals of Data Understanding**](#2-fundamentals-of-data-understanding) (7 videos)
+  - Learning to identify data
+  - Learning about data fields and types
+  - Dealing with the data you don't have
+  - Learning syntax
+  - Learning basic SQL statements
+  - Challenge: Reading SQL
+  - Solution: Reading SQL
+- [**3. Key Elements to Understand when Starting Data Analysis**](#3-key-elements-to-understand-when-starting-data-analysis) (8 videos)
+  - Learning to interpret existing data
+  - Finding existing data
+  - Cleaning data
+  - Understanding data and workflow
+  - Understanding joins
+  - Working with joins and validation
+  - Challenge: Products are not categorized
+  - Solution: Products are not categorized
+- [**4. Getting Started with a Data Project**](#4-getting-started-with-a-data-project) (6 videos)
+  - Getting started with data projects
+  - Discovering common beginner mistakes
+  - Learning Excel datasets
+  - Learning database datasets
+  - Maintaining original data
+  - Understanding truths
+- [**5. Data Importing, Exporting, and Connections**](#5-data-importing-exporting-and-connections) (5 videos)
+  - Learning about data governance
+  - Understanding source data
+  - Working with flat files
+  - Working with connections
+  - Creating datasets for others
+- [**6. Getting Started with Data Cleaning and Modeling**](#6-getting-started-with-data-cleaning-and-modeling) (8 videos)
+  - Understanding ETL in data
+  - Cleaning data using Excel macros
+  - Cleaning data with Power Query
+  - Working with reusable data
+  - Modeling data with queries
+  - Modeling data in Power Query
+  - Challenge: Rename headers in Power Query
+  - Solution: Rename headers in Power Query
+- [**7. Applying Common Techniques for All Data Analysts**](#7-applying-common-techniques-for-all-data-analysts) (8 videos)
+  - Convert data in Power Query
+  - Finding and removing duplicates
+  - Changing case and replace values
+  - Combining data with merge columns
+  - Creating logical functions
+  - Building aggregate datasets
+  - Challenge: Count and amounts of products
+  - Solution: Count and amounts of products
+- [**Conclusion**](#conclusion) (1 videos)
+  - More resources for your learning data analytics journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Beginning your data analysis journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980)
@@ -141,7 +192,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining data analysis and data analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980)
@@ -568,7 +619,7 @@ created: 2026-04-29
 
 ### 2. Fundamentals of Data Understanding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning to identify data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-identify-data?u=76281980)
@@ -1273,7 +1324,7 @@ created: 2026-04-29
 
 ### 3. Key Elements to Understand when Starting Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning to interpret existing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-interpret-existing-data?u=76281980)
@@ -1990,7 +2041,7 @@ created: 2026-04-29
 
 ### 4. Getting Started with a Data Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with data projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980)
@@ -2741,7 +2792,7 @@ created: 2026-04-29
 
 ### 5. Data Importing, Exporting, and Connections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning about data governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980)
@@ -3374,7 +3425,7 @@ created: 2026-04-29
 
 ### 6. Getting Started with Data Cleaning and Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding ETL in data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-etl-in-data?u=76281980)
@@ -4471,7 +4522,7 @@ created: 2026-04-29
 
 ### 7. Applying Common Techniques for All Data Analysts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Convert data in Power Query
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980)
@@ -5264,7 +5315,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More resources for your learning data analytics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980)

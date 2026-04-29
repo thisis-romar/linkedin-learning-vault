@@ -65,19 +65,77 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Generative AI and Cloud Computing Basics]]** (5 videos)
-- **[[#2. Cloud-Based Services for Generative AI]]** (7 videos)
-- **[[#3. Features of Cloud-Based Generative AI]]** (8 videos)
-- **[[#4. Cloud-Based Generative AI Use Cases]]** (11 videos)
-- **[[#5. Cloud-Based Generative AI Tools and Solutions]]** (7 videos)
-- **[[#6. Advanced Considerations]]** (9 videos)
-- **[[#7. Agentic AI and Generative AI in the Cloud]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Cloud-based generative AI
+- [**1. Generative AI and Cloud Computing Basics**](#1-generative-ai-and-cloud-computing-basics) (5 videos)
+  - Introduction to cloud-based generative AI
+  - The business value of generative AI on cloud platforms
+  - New evolutions of generative AI in the cloud
+  - GenAI business use cases
+  - Where GenAI is most effective
+- [**2. Cloud-Based Services for Generative AI**](#2-cloud-based-services-for-generative-ai) (7 videos)
+  - Introduction to cloud-based storage and data management
+  - Introduction to cloud-based tools for model training and deployment
+  - Introduction to cloud-based APIs for generative AI
+  - Introduction to cloud-based generative models for image and video data
+  - Introduction to Generative Adversarial Networks (GANs) on the cloud
+  - Challenge: Set up cloud services for generative AI
+  - Solution: Set up cloud services for generative AI
+- [**3. Features of Cloud-Based Generative AI**](#3-features-of-cloud-based-generative-ai) (8 videos)
+  - Introduction to cloud-based generative AI models for text data
+  - Overview of natural language processing (NLP) techniques for text generation
+  - Cloud-based tools for training language models
+  - MLOps and cloud-based generative AI on the cloud
+  - Emerging GenAI early success
+  - GenAI case study: Defining the business problem to be solved
+  - GenAI case study: System architecture
+  - GenAI case study: Technology solutions
+- [**4. Cloud-Based Generative AI Use Cases**](#4-cloud-based-generative-ai-use-cases) (11 videos)
+  - Art and music generation use case
+  - Game development use case
+  - Text generation use case
+  - Image and video generation use case
+  - Data augmentation use case
+  - Personalization use case
+  - Medical diagnosis use case
+  - Robotics use case
+  - Other emerging use cases
+  - Challenge: Get creative with art
+  - Solution: Get creative with art
+- [**5. Cloud-Based Generative AI Tools and Solutions**](#5-cloud-based-generative-ai-tools-and-solutions) (7 videos)
+  - Amazon Bedrock
+  - Google Cloud AI Platform
+  - AI and Microsoft Azure
+  - OpenAI
+  - GenAI-powered tools: Security
+  - GenAI-powered tools: DevOps
+  - GenAI-powered tools: Cloud operations
+- [**6. Advanced Considerations**](#6-advanced-considerations) (9 videos)
+  - Edge computing and cloud-based generative AI
+  - Federated learning for distributed generative models on the cloud
+  - Security and privacy issues in cloud-based generative AI
+  - Overview of generative AI ethics in the cloud
+  - Data science and generative AI in the cloud
+  - Gen AI troubleshooting and operations
+  - Bias monitoring and transparency for generative AI in the cloud
+  - Challenge: Generative AI on the edge of clouds
+  - Solution: Generative AI on the edge of clouds
+- [**7. Agentic AI and Generative AI in the Cloud**](#7-agentic-ai-and-generative-ai-in-the-cloud) (9 videos)
+  - Overview of agentic AI in the cloud
+  - Linked between generative AI and agentic AI
+  - The importance of agentic AI
+  - Agentic AI and GenAI, what changes, and what's the same
+  - Multi-AI agent deployment on the cloud
+  - Agentic AI tools for generative AI development in the cloud
+  - Where agentic AI is a fit, and not
+  - Challenge: Agentic AI use case
+  - Solution: Agentic AI use case
+- [**Conclusion**](#conclusion) (1 videos)
+  - Trying out cloud-based generative AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud-based generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/cloud-based-generative-ai?u=76281980)
@@ -106,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Generative AI and Cloud Computing Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud-based generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/introduction-to-cloud-based-generative-ai?u=76281980)
@@ -378,7 +436,7 @@ created: 2026-04-29
 
 ### 2. Cloud-Based Services for Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud-based storage and data management
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/introduction-to-cloud-based-storage-and-data-management?u=76281980)
@@ -756,7 +814,7 @@ created: 2026-04-29
 
 ### 3. Features of Cloud-Based Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud-based generative AI models for text data
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/introduction-to-cloud-based-generative-ai-models-for-text-data?u=76281980)
@@ -1244,7 +1302,7 @@ created: 2026-04-29
 
 ### 4. Cloud-Based Generative AI Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Art and music generation use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/art-and-music-generation-use-case?u=76281980)
@@ -1841,7 +1899,7 @@ created: 2026-04-29
 
 ### 5. Cloud-Based Generative AI Tools and Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Amazon Bedrock
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/amazon-bedrock?u=76281980)
@@ -2179,7 +2237,7 @@ created: 2026-04-29
 
 ### 6. Advanced Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Edge computing and cloud-based generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/edge-computing-and-cloud-based-generative-ai?u=76281980)
@@ -2621,7 +2679,7 @@ created: 2026-04-29
 
 ### 7. Agentic AI and Generative AI in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of agentic AI in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/overview-of-agentic-ai-in-the-cloud?u=76281980)
@@ -3008,7 +3066,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Trying out cloud-based generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-generative-ai-in-cloud-computing-services-and-use-cases-25654185/trying-out-cloud-based-generative-ai?u=76281980)

@@ -46,13 +46,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Put away your data and listen carefully
+- [**1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions**](#1-data-analyst-mindset-10-non-technical-ways-to-influence-decisions) (10 videos)
+  - Know your role: The guide
+  - Be intelligent: Ask the right questions
+  - Build trust: Listen more than you speak
+  - Trigger congruency: The Three Nods Rule
+  - Show don't tell: Use storyboards
+  - Be memorable: Use visual action words
+  - Focus on change, nothing else really matters
+  - Never say no, or yes for that matter
+  - Be tool agnostic
+  - Avoiding common issues
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your data analyst learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Put away your data and listen carefully
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/put-away-your-data-and-listen-carefully?u=76281980)
@@ -78,7 +90,7 @@ created: 2026-04-29
 
 ### 1. Data Analyst Mindset: 10 Non-technical Ways to Influence Decisions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Know your role: The guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/know-your-role-the-guide?u=76281980)
@@ -901,7 +913,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your data analyst learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analyst-mindset-10-nontechnical-ways-to-influence-decisions/continue-your-data-analyst-learning-journey?u=76281980)

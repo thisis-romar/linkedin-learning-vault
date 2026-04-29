@@ -40,17 +40,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Behavior Testing with Cucumber and Gherkin]]** (5 videos)
-- **[[#2. Build Your First API Test]]** (3 videos)
-- **[[#3. Handling Authentication in API Testing]]** (5 videos)
-- **[[#4. Advanced API Testing in Practice]]** (7 videos)
-- **[[#5. Planning Your API Testing Strategy]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Be an API testing and validation MVP
+  - What you should know
+  - API overview
+  - Exercise files
+- [**1. Behavior Testing with Cucumber and Gherkin**](#1-behavior-testing-with-cucumber-and-gherkin) (5 videos)
+  - Acceptance testing
+  - Explanation of Gherkin
+  - Set up your test environment
+  - Create your first feature description
+  - Write your first test
+- [**2. Build Your First API Test**](#2-build-your-first-api-test) (3 videos)
+  - Make your first request
+  - Introduce variables in requests
+  - Validate responses
+- [**3. Handling Authentication in API Testing**](#3-handling-authentication-in-api-testing) (5 videos)
+  - Expand your testing environment
+  - Making an authenticated request
+  - Changing your API and target via your requests
+  - Validate responses
+  - Refactor the tests
+- [**4. Advanced API Testing in Practice**](#4-advanced-api-testing-in-practice) (7 videos)
+  - Writing to the API
+  - Establishing a system state for tests
+  - Solution: Validating system state
+  - Handling response codes
+  - Using extensions
+  - Starting with GraphQL testing
+  - Testing GraphQL mutations
+- [**5. Planning Your API Testing Strategy**](#5-planning-your-api-testing-strategy) (6 videos)
+  - Mapping your API
+  - Documenting your API
+  - Prioritizing your endpoints
+  - Structuring your tests
+  - Generating your tests from OpenAPI
+  - Refining your BDD tests
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be an API testing and validation MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/be-an-api-testing-and-validation-mvp?u=76281980)
@@ -277,7 +308,7 @@ created: 2026-04-29
 
 ### 1. Behavior Testing with Cucumber and Gherkin
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Acceptance testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/acceptance-testing?u=76281980)
@@ -632,7 +663,7 @@ created: 2026-04-29
 
 ### 2. Build Your First API Test
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make your first request
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/make-your-first-request?u=76281980)
@@ -927,7 +958,7 @@ created: 2026-04-29
 
 ### 3. Handling Authentication in API Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expand your testing environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/expand-your-testing-environment?u=76281980)
@@ -1722,7 +1753,7 @@ created: 2026-04-29
 
 ### 4. Advanced API Testing in Practice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing to the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/writing-to-the-api?u=76281980)
@@ -2494,7 +2525,7 @@ created: 2026-04-29
 
 ### 5. Planning Your API Testing Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mapping your API
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/mapping-your-api?u=76281980)
@@ -2950,7 +2981,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-and-validation-22610641/next-steps?u=76281980)

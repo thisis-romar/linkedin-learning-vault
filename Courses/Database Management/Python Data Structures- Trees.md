@@ -50,15 +50,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Navigating Trees]]** (7 videos)
-- **[[#2. Modifying Trees]]** (6 videos)
-- **[[#3. Rebalancing Trees]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Getting started with trees
+  - What you should know
+  - BSTs and other trees
+- [**1. Navigating Trees**](#1-navigating-trees) (7 videos)
+  - Building a basic tree
+  - Searching a tree
+  - Traversing a tree
+  - Getting the maximum height of a tree
+  - Getting all nodes at a particular depth
+  - Challenge: Printing a tree
+  - Solution: Printing a tree
+- [**2. Modifying Trees**](#2-modifying-trees) (6 videos)
+  - Adding nodes
+  - Deleting nodes: Theory
+  - Deleting nodes: Code
+  - Detecting unbalanced trees
+  - Challenge: Adding a balance indicator to the printed tree
+  - Solution: Adding a balance indicator to the printed tree
+- [**3. Rebalancing Trees**](#3-rebalancing-trees) (5 videos)
+  - Introduction to rotations
+  - Rotating trees in Python
+  - Fixing a tree with multiple points of imbalance
+  - Challenge: Smarter automated rebalancing
+  - Solution: Smarter automated rebalancing
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with data structures
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/getting-started-with-trees?u=76281980)
@@ -254,7 +276,7 @@ created: 2026-04-29
 
 ### 1. Navigating Trees
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a basic tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/building-a-basic-tree?u=76281980)
@@ -954,7 +976,7 @@ created: 2026-04-29
 
 ### 2. Modifying Trees
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding nodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/adding-nodes?u=76281980)
@@ -1425,7 +1447,7 @@ created: 2026-04-29
 
 ### 3. Rebalancing Trees
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to rotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/introduction-to-rotations?u=76281980)
@@ -1887,7 +1909,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-trees/next-steps-with-data-structures?u=76281980)

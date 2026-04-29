@@ -49,16 +49,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Welcome]]** (3 videos)
-- **[[#1. Introduction to DevOps for ITIL®-Driven Shops]]** (3 videos)
-- **[[#2. DevOps and Enterprise IT Challenges]]** (4 videos)
-- **[[#3. DevOps and ITIL®-Driven Shops]]** (5 videos)
-- **[[#4. ITIL®-Driven Shops and DevOps]]** (11 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Welcome**](#welcome) (3 videos)
+  - Welcome
+  - Why DevOps for ITIL® practitioners?
+  - What you should know
+- [**1. Introduction to DevOps for ITIL®-Driven Shops**](#1-introduction-to-devops-for-itil-driven-shops) (3 videos)
+  - The traditional enterprise IT shop and the breakdown of separation of duties with digitalization
+  - DevOps, enterprise DevOps, ITIL®-driven shops, and enterprise challenges
+  - What DevOps and enterprise DevOps have in common, and how they differ
+- [**2. DevOps and Enterprise IT Challenges**](#2-devops-and-enterprise-it-challenges) (4 videos)
+  - Enterprise-level change control and release gates
+  - Legacy, regulated, and nonautomated environments
+  - Disparate, siloed teams
+  - Massive scale
+- [**3. DevOps and ITIL®-Driven Shops**](#3-devops-and-itil-driven-shops) (5 videos)
+  - Values
+  - Principles
+  - Methods
+  - Practices
+  - Tools
+- [**4. ITIL®-Driven Shops and DevOps**](#4-itil-driven-shops-and-devops) (11 videos)
+  - Services and service management
+  - The service life cycle
+  - Terminology and key principles and models
+  - Strategy processes
+  - Design processes
+  - Transition processes
+  - Operations processes
+  - CSI processes
+  - Functions
+  - Roles
+  - Technology and architecture
+- [**Conclusion**](#conclusion) (2 videos)
+  - ITIL® 4 and DevOps
+  - Next steps
 
 ### Welcome
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/welcome?u=76281980)
@@ -162,7 +190,7 @@ created: 2026-04-29
 
 ### 1. Introduction to DevOps for ITIL®-Driven Shops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The traditional enterprise IT shop and the breakdown of separation of duties with digitalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/the-traditional-enterprise-it-shop-and-the-breakdown-of-separation-of-duties-with-digitalization?u=76281980)
@@ -539,7 +567,7 @@ created: 2026-04-29
 
 ### 2. DevOps and Enterprise IT Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enterprise-level change control and release gates
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/enterprise-level-change-control-and-release-gates?u=76281980)
@@ -874,7 +902,7 @@ created: 2026-04-29
 
 ### 3. DevOps and ITIL®-Driven Shops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Values
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/values?u=76281980)
@@ -1379,7 +1407,7 @@ created: 2026-04-29
 
 ### 4. ITIL®-Driven Shops and DevOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Services and service management
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/services-and-service-management?u=76281980)
@@ -2168,7 +2196,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ITIL® 4 and DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-devops-for-itil-practitioners/itil-4-and-devops?u=76281980)

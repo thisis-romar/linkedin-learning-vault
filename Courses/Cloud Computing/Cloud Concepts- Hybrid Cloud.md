@@ -48,15 +48,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Hybrid Cloud]]** (3 videos)
-- **[[#2. Hybrid Cloud Vendors]]** (6 videos)
-- **[[#3. Learning Hybrid Cloud Strategies]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Explore the benefits of hybrid cloud
+- [**1. Understanding Hybrid Cloud**](#1-understanding-hybrid-cloud) (3 videos)
+  - Defining cloud concepts
+  - Hybrid cloud benefits
+  - Exploring hybrid cloud use cases
+- [**2. Hybrid Cloud Vendors**](#2-hybrid-cloud-vendors) (6 videos)
+  - Overview of hybrid cloud vendors
+  - AWS hybrid cloud
+  - Microsoft Azure hybrid cloud
+  - Google hybrid cloud platform
+  - VMware hybrid cloud
+  - IBM hybrid cloud
+- [**3. Learning Hybrid Cloud Strategies**](#3-learning-hybrid-cloud-strategies) (4 videos)
+  - Hybrid cloud strategy considerations
+  - Hybrid cloud management
+  - Cloud migration best practices
+  - Hybrid cloud security
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about hybrid cloud
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the benefits of hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/explore-the-benefits-of-hybrid-cloud?u=76281980)
@@ -85,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Understanding Hybrid Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining cloud concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/defining-cloud-concepts?u=76281980)
@@ -298,7 +313,7 @@ created: 2026-04-29
 
 ### 2. Hybrid Cloud Vendors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of hybrid cloud vendors
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/overview-of-hybrid-cloud-vendors?u=76281980)
@@ -574,7 +589,7 @@ created: 2026-04-29
 
 ### 3. Learning Hybrid Cloud Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid cloud strategy considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/hybrid-cloud-strategy-considerations?u=76281980)
@@ -787,7 +802,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about hybrid cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-hybrid-cloud/learning-more-about-hybrid-cloud?u=76281980)

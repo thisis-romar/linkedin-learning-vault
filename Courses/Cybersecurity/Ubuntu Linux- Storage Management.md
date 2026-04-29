@@ -53,15 +53,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Working with Partitions and Filesystems]]** (8 videos)
-- **[[#2. Logical Volume Management]]** (4 videos)
-- **[[#3. Filesystem Security and Backups]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - Understanding storage terminology
+  - Lab setup
+- [**1. Working with Partitions and Filesystems**](#1-working-with-partitions-and-filesystems) (8 videos)
+  - Explore and identify block devices
+  - Create and modify partitions
+  - Create, modify, and mount filesystems
+  - Create and mount an encrypted partition
+  - Configure disk mounting
+  - Mount volumes on demand
+  - Reconfigure swap space
+  - Create redundant storage with RAID
+- [**2. Logical Volume Management**](#2-logical-volume-management) (4 videos)
+  - Understanding LVM
+  - Creating a physical volume, volume group, and logical volume
+  - Extending a volume group and logical volume
+  - Migrating and replace a physical volume
+- [**3. Filesystem Security and Backups**](#3-filesystem-security-and-backups) (4 videos)
+  - Access control lists (ACLs)
+  - Exploring disk quotas
+  - Diagnosing file access issues
+  - Backing up data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/welcome?u=76281980)
@@ -302,7 +322,7 @@ created: 2026-04-29
 
 ### 1. Working with Partitions and Filesystems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore and identify block devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980)
@@ -1536,7 +1556,7 @@ created: 2026-04-29
 
 ### 2. Logical Volume Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding LVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980)
@@ -1891,7 +1911,7 @@ created: 2026-04-29
 
 ### 3. Filesystem Security and Backups
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Access control lists (ACLs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/access-control-lists-acls?u=76281980)
@@ -2276,7 +2296,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/next-steps?u=76281980)

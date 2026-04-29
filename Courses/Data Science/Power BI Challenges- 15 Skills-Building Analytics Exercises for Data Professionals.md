@@ -51,27 +51,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Prepare the Data]]** (2 videos)
-- **[[#2. Design a Visual from Unfamiliar Data]]** (2 videos)
-- **[[#3. Improve the Appearance of Your Visual]]** (2 videos)
-- **[[#4. Design Report Page Filters]]** (2 videos)
-- **[[#5. Add KPIs to Your Report]]** (2 videos)
-- **[[#6. Adding Visuals to the Report]]** (2 videos)
-- **[[#7. Improve the Appeal of Your Report]]** (2 videos)
-- **[[#8. Improve Usability]]** (2 videos)
-- **[[#9. Add Data to the Model]]** (2 videos)
-- **[[#10. Add Target Profit to Your Report]]** (2 videos)
-- **[[#11. Complete the Report Page]]** (2 videos)
-- **[[#12. Improve Your Report]]** (2 videos)
-- **[[#13. Import a Custom Visual]]** (2 videos)
-- **[[#14. Adjust the Final Report]]** (2 videos)
-- **[[#15. DAX]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Build your skills with Power BI
+  - What does this course cover?
+- [**1. Prepare the Data**](#1-prepare-the-data) (2 videos)
+  - Challenge
+  - Solution
+- [**2. Design a Visual from Unfamiliar Data**](#2-design-a-visual-from-unfamiliar-data) (2 videos)
+  - Challenge
+  - Solution
+- [**3. Improve the Appearance of Your Visual**](#3-improve-the-appearance-of-your-visual) (2 videos)
+  - Challenge
+  - Solution
+- [**4. Design Report Page Filters**](#4-design-report-page-filters) (2 videos)
+  - Challenge
+  - Solution
+- [**5. Add KPIs to Your Report**](#5-add-kpis-to-your-report) (2 videos)
+  - Challenge
+  - Solution
+- [**6. Adding Visuals to the Report**](#6-adding-visuals-to-the-report) (2 videos)
+  - Challenge
+  - Solution
+- [**7. Improve the Appeal of Your Report**](#7-improve-the-appeal-of-your-report) (2 videos)
+  - Challenge
+  - Solution
+- [**8. Improve Usability**](#8-improve-usability) (2 videos)
+  - Challenge
+  - Solution
+- [**9. Add Data to the Model**](#9-add-data-to-the-model) (2 videos)
+  - Challenge
+  - Solution
+- [**10. Add Target Profit to Your Report**](#10-add-target-profit-to-your-report) (2 videos)
+  - Challenge
+  - Solution
+- [**11. Complete the Report Page**](#11-complete-the-report-page) (2 videos)
+  - Challenge
+  - Solution
+- [**12. Improve Your Report**](#12-improve-your-report) (2 videos)
+  - Challenge
+  - Solution
+- [**13. Import a Custom Visual**](#13-import-a-custom-visual) (2 videos)
+  - Challenge
+  - Solution
+- [**14. Adjust the Final Report**](#14-adjust-the-final-report) (2 videos)
+  - Challenge
+  - Solution
+- [**15. DAX**](#15-dax) (2 videos)
+  - Challenge
+  - Solution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with Power BI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your skills with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/build-your-skills-with-power-bi?u=76281980)
@@ -133,7 +166,7 @@ created: 2026-04-29
 
 ### 1. Prepare the Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900441?u=76281980)
@@ -269,7 +302,7 @@ created: 2026-04-29
 
 ### 2. Design a Visual from Unfamiliar Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898402?u=76281980)
@@ -430,7 +463,7 @@ created: 2026-04-29
 
 ### 3. Improve the Appearance of Your Visual
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22899457?u=76281980)
@@ -628,7 +661,7 @@ created: 2026-04-29
 
 ### 4. Design Report Page Filters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19854089?u=76281980)
@@ -803,7 +836,7 @@ created: 2026-04-29
 
 ### 5. Add KPIs to Your Report
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900438?u=76281980)
@@ -981,7 +1014,7 @@ created: 2026-04-29
 
 ### 6. Adding Visuals to the Report
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22896473?u=76281980)
@@ -1188,7 +1221,7 @@ created: 2026-04-29
 
 ### 7. Improve the Appeal of Your Report
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge?u=76281980)
@@ -1376,7 +1409,7 @@ created: 2026-04-29
 
 ### 8. Improve Usability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898406?u=76281980)
@@ -1638,7 +1671,7 @@ created: 2026-04-29
 
 ### 9. Add Data to the Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22895512?u=76281980)
@@ -1814,7 +1847,7 @@ created: 2026-04-29
 
 ### 10. Add Target Profit to Your Report
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898403?u=76281980)
@@ -2038,7 +2071,7 @@ created: 2026-04-29
 
 ### 11. Complete the Report Page
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22898405?u=76281980)
@@ -2203,7 +2236,7 @@ created: 2026-04-29
 
 ### 12. Improve Your Report
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19858049?u=76281980)
@@ -2362,7 +2395,7 @@ created: 2026-04-29
 
 ### 13. Import a Custom Visual
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19857051?u=76281980)
@@ -2434,7 +2467,7 @@ created: 2026-04-29
 
 ### 14. Adjust the Final Report
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-22900440?u=76281980)
@@ -2630,7 +2663,7 @@ created: 2026-04-29
 
 ### 15. DAX
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/challenge-19846201?u=76281980)
@@ -2796,7 +2829,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-challenges-15-skills-building-analytics-exercises-for-data-professionals/continuing-on-with-power-bi?u=76281980)

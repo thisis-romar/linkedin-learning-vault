@@ -53,15 +53,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Change Management Fundamentals]]** (4 videos)
-- **[[#2. Your Change Control Process]]** (13 videos)
-- **[[#3. Implementing Change Management]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Managing change with minimal pain
+- [**1. Change Management Fundamentals**](#1-change-management-fundamentals) (4 videos)
+  - The Change Challenge
+  - Change management, the key to excellence
+  - A maze of twisty little processes, all alike
+  - The changing face of change management
+- [**2. Your Change Control Process**](#2-your-change-control-process) (13 videos)
+  - Change management overview
+  - Change management roles
+  - Prepare the change
+  - Validate the change
+  - Request the change
+  - Approve the change
+  - Schedule the change
+  - Communicate the change
+  - Perform the change
+  - Track the change
+  - Review the change
+  - Challenge: Creating your own change management process
+  - Solution: Example change management processes
+- [**3. Implementing Change Management**](#3-implementing-change-management) (4 videos)
+  - Starting change management
+  - Change management antipatterns
+  - The human cost of change management
+  - AI and change management
+- [**Conclusion**](#conclusion) (1 videos)
+  - Be the change you want to approve
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing change with minimal pain
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/managing-change-with-minimal-pain-27999131?u=76281980)
@@ -90,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Change Management Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Change Challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/the-change-challenge?u=76281980)
@@ -398,7 +421,7 @@ created: 2026-04-29
 
 ### 2. Your Change Control Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change management overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/change-management-overview?u=76281980)
@@ -1689,7 +1712,7 @@ created: 2026-04-29
 
 ### 3. Implementing Change Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting change management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/starting-change-management?u=76281980)
@@ -2050,7 +2073,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be the change you want to approve
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-change-management/be-the-change-you-want-to-approve?u=76281980)

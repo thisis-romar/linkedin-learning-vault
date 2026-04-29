@@ -46,16 +46,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Personal Leadership Skills]]** (6 videos)
-- **[[#2. Team Leadership Skills]]** (3 videos)
-- **[[#3. Leadership for Organizational Impact]]** (4 videos)
-- **[[#4. Managing the Executive Promotion Process]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Three circles of executive performance
+- [**1. Personal Leadership Skills**](#1-personal-leadership-skills) (6 videos)
+  - Scaled, deep leadership
+  - Change agent: Inventing and solving
+  - Invention
+  - Trusted decision maker
+  - How to: Build and demonstrate executive presence
+  - How to: Know where you stand
+- [**2. Team Leadership Skills**](#2-team-leadership-skills) (3 videos)
+  - Executing with little oversight
+  - Taking risks and recovering from setbacks
+  - Delivering results
+- [**3. Leadership for Organizational Impact**](#3-leadership-for-organizational-impact) (4 videos)
+  - Developing strategic vision
+  - Leading the whole enterprise
+  - Leading with influence
+  - How to: Engage executive sponsors
+- [**4. Managing the Executive Promotion Process**](#4-managing-the-executive-promotion-process) (5 videos)
+  - How to: Get unstuck in your career
+  - Understand your organization's executive promotion process
+  - Confirm the challenge level
+  - How to: Increase your scope
+  - How to: Work around poor managers
+- [**Conclusion**](#conclusion) (1 videos)
+  - From action to results
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three circles of executive performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980)
@@ -89,7 +109,7 @@ created: 2026-04-29
 
 ### 1. Personal Leadership Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaled, deep leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/scaled-deep-leadership?u=76281980)
@@ -528,7 +548,7 @@ created: 2026-04-29
 
 ### 2. Team Leadership Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Executing with little oversight
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980)
@@ -755,7 +775,7 @@ created: 2026-04-29
 
 ### 3. Leadership for Organizational Impact
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing strategic vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980)
@@ -1042,7 +1062,7 @@ created: 2026-04-29
 
 ### 4. Managing the Executive Promotion Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to: Get unstuck in your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-get-unstuck-in-your-career?u=76281980)
@@ -1403,7 +1423,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From action to results
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980)

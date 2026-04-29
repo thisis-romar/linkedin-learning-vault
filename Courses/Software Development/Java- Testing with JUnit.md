@@ -55,16 +55,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (6 videos)
-- **[[#1. Getting Started with JUnit]]** (7 videos)
-- **[[#2. Writing Basic Tests with JUnit]]** (8 videos)
-- **[[#3. More Advanced Usage of JUnit]]** (10 videos)
-- **[[#4. Quick Peek at Next Steps]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (6 videos)
+  - Create proper unit tests in Java
+  - What should you know
+  - Unit testing and other types of testing
+  - TDD: Test-driven development
+  - Advantages of unit testing
+  - What is JUnit?
+- [**1. Getting Started with JUnit**](#1-getting-started-with-junit) (7 videos)
+  - Quick example of a basic unit test
+  - Setting up JUnit for IntelliJ
+  - Setting up JUnit for VS Code
+  - Setting up JUnit for Eclipse
+  - Your first test: HelloJUnit
+  - A tour of Coderpad
+  - Solution: Create a test method
+- [**2. Writing Basic Tests with JUnit**](#2-writing-basic-tests-with-junit) (8 videos)
+  - Annotations
+  - Write and run test classes and methods
+  - DisplayName
+  - Assertions
+  - Assumptions
+  - Test execution order
+  - Nested tests
+  - Solution: Custom names
+- [**3. More Advanced Usage of JUnit**](#3-more-advanced-usage-of-junit) (10 videos)
+  - Dependency injection in your tests
+  - Repeated tests
+  - Parameterized tests
+  - Timeouts
+  - Parallel execution
+  - Lifecyle control: Before and after
+  - Custom messages and reports
+  - Conditional test execution
+  - Disabling unit tests
+  - Solution: Refactoring
+- [**4. Quick Peek at Next Steps**](#4-quick-peek-at-next-steps) (3 videos)
+  - How to make code ready for unit testing
+  - Best practices
+  - Mockito
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with JUnit
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create proper unit tests in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/create-proper-unit-tests-in-java?u=76281980)
@@ -339,7 +374,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with JUnit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Quick example of a basic unit test
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/quick-example-of-a-basic-unit-test?u=76281980)
@@ -1124,7 +1159,7 @@ created: 2026-04-29
 
 ### 2. Writing Basic Tests with JUnit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Annotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/annotations?u=76281980)
@@ -2173,7 +2208,7 @@ created: 2026-04-29
 
 ### 3. More Advanced Usage of JUnit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dependency injection in your tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/dependency-injection-in-your-tests?u=76281980)
@@ -3253,7 +3288,7 @@ created: 2026-04-29
 
 ### 4. Quick Peek at Next Steps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make code ready for unit testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/how-to-make-code-ready-for-unit-testing?u=76281980)
@@ -3712,7 +3747,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with JUnit
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-testing-with-junit-14267963/next-steps-with-junit?u=76281980)

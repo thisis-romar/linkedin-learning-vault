@@ -39,17 +39,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Terraform in Azure]]** (4 videos)
-- **[[#2. Setting Up Your Environment]]** (3 videos)
-- **[[#3. Getting Started with Terraform]]** (3 videos)
-- **[[#4. Creating with Terraform]]** (3 videos)
-- **[[#5. Terraform in Action]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Getting started
+  - WYSK: What you should know
+  - Using the exercise files on GitHub
+- [**1. Introduction to Terraform in Azure**](#1-introduction-to-terraform-in-azure) (4 videos)
+  - What is Infrastructure as Code?
+  - What is Terraform?
+  - Why is Terraform useful?
+  - Terraform vs. Bicep
+- [**2. Setting Up Your Environment**](#2-setting-up-your-environment) (3 videos)
+  - Installing Terraform
+  - Setting up Terraform for your Azure environment
+  - Setting up your code repo for Azure DevOps
+- [**3. Getting Started with Terraform**](#3-getting-started-with-terraform) (3 videos)
+  - Terraform commands
+  - Terraform workspaces
+  - Terraform state
+- [**4. Creating with Terraform**](#4-creating-with-terraform) (3 videos)
+  - Resources
+  - Calling Terraform provider
+  - Creating a resource group in Terraform
+- [**5. Terraform in Action**](#5-terraform-in-action) (5 videos)
+  - Creating a virtual network
+  - Creating a subnet
+  - Creating an internal network interface
+  - Creating a virtual machine
+  - Deploying Terraform code
+- [**Conclusion**](#conclusion) (1 videos)
+  - Experiment and continue to learn
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/getting-started?u=76281980)
@@ -160,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Terraform in Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Infrastructure as Code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/what-is-infrastructure-as-code?u=76281980)
@@ -290,7 +312,7 @@ created: 2026-04-29
 
 ### 2. Setting Up Your Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/installing-terraform?u=76281980)
@@ -448,7 +470,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Terraform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Terraform commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/terraform-commands?u=76281980)
@@ -583,7 +605,7 @@ created: 2026-04-29
 
 ### 4. Creating with Terraform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/resources?u=76281980)
@@ -751,7 +773,7 @@ created: 2026-04-29
 
 ### 5. Terraform in Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a virtual network
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/creating-a-virtual-network?u=76281980)
@@ -1228,7 +1250,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Experiment and continue to learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-terraform-on-azure-2022/experiment-and-continue-to-learn?u=76281980)

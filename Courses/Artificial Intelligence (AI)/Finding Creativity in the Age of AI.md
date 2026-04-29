@@ -53,15 +53,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Measuring Your Own Creativity]]** (2 videos)
-- **[[#2. Finding Creativity with AI]]** (8 videos)
-- **[[#3. Finding Creativity without AI]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Where does creativity live?
+- [**1. Measuring Your Own Creativity**](#1-measuring-your-own-creativity) (2 videos)
+  - Your creative baseline
+  - Is creativity what you're looking for?
+- [**2. Finding Creativity with AI**](#2-finding-creativity-with-ai) (8 videos)
+  - The FINDS framework: How AI can assist creativity
+  - Fuel: AI and idea generation
+  - Ignite: AI and divergent thinking
+  - Nurturing the work
+  - Defending and honing an existing concept
+  - Sharing and collaborating with AI
+  - When is creativity with AI not helpful?
+  - AI and copyright
+- [**3. Finding Creativity without AI**](#3-finding-creativity-without-ai) (9 videos)
+  - The CREATE framework
+  - Cease
+  - Making room for creativity
+  - Embracing our journey
+  - Getting closer to art and its history
+  - Tuning out to tune in
+  - Express and act on your work
+  - When creativity alone might not be enough
+  - Revisiting creativity with AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where does creativity live?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/where-does-creativity-live?u=76281980)
@@ -111,7 +132,7 @@ created: 2026-04-29
 
 ### 1. Measuring Your Own Creativity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your creative baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/your-creative-baseline?u=76281980)
@@ -208,7 +229,7 @@ created: 2026-04-29
 
 ### 2. Finding Creativity with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The FINDS framework: How AI can assist creativity
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-finds-framework-how-ai-can-assist-creativity?u=76281980)
@@ -791,7 +812,7 @@ created: 2026-04-29
 
 ### 3. Finding Creativity without AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The CREATE framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/the-create-framework?u=76281980)
@@ -1326,7 +1347,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finding-creativity-in-the-age-of-ai/next-steps?u=76281980)

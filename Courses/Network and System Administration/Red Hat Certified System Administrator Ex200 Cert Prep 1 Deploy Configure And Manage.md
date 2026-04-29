@@ -44,17 +44,86 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Deploy Systems]]** (8 videos)
-- **[[#2. System Config and Services]]** (12 videos)
-- **[[#3. Essential Tools]]** (16 videos)
-- **[[#4. Manage System Software]]** (16 videos)
-- **[[#5. Create Simple Shell Scripts]]** (12 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Break into system administration with the Red Hat EX200 certification
+  - What you should know
+  - About Red Hat certifications
+  - The State of Enterprise Linux
+- [**1. Deploy Systems**](#1-deploy-systems) (8 videos)
+  - Create a bootable Enterprise Linux 9 live USB drive on Windows
+  - Install Enterprise Linux on a physical machine
+  - Virtualization on Enterprise Linux
+  - Prepare the host for virtualization
+  - Install Linux interactively in a guest VM
+  - Use Kickstart files to automate installs
+  - Install Linux unattended in a guest VM
+  - Manage virtual machines
+- [**2. System Config and Services**](#2-system-config-and-services) (12 videos)
+  - Understand the Linux Boot Process
+  - Rescue a system
+  - Introduction to systemd services
+  - Get systemd service status
+  - Manage systemd services
+  - Make systemd services persistent
+  - Configure networking
+  - Configure a system to use network time protocol
+  - Manage one-time jobs with at
+  - Manage reoccurring user jobs with cron
+  - Manage reoccurring system jobs with cron
+  - Limit access to at and cron
+- [**3. Essential Tools**](#3-essential-tools) (16 videos)
+  - About file globs
+  - Use character classes
+  - Use globs to match files
+  - Use input-output redirection (>, >>, |, 2>, and more)
+  - Use grep and regular expressions to analyze text
+  - Create files and directories
+  - Copy files and directories
+  - Move files and directories
+  - Remove files and directories
+  - Create hard and soft links
+  - Introduction to Vim
+  - Edit text with Vim
+  - Locate, read, and use system documentation
+  - Archive files using tar and cpio
+  - Compress files and archives
+  - Read system logs
+- [**4. Manage System Software**](#4-manage-system-software) (16 videos)
+  - Linux repository management systems
+  - Install from a software repository
+  - RPM package format
+  - Select DNF packages by name
+  - Get info on packages with DNF
+  - Get info on package groups
+  - Search for packages
+  - Install and remove packages
+  - Install and remove package groups
+  - Managing DNF package modules
+  - Manage DNF repositories
+  - Get package information with RPM
+  - RPM query formatting
+  - Manage OS updates
+  - Update the kernel
+  - Manage kernel modules
+- [**5. Create Simple Shell Scripts**](#5-create-simple-shell-scripts) (12 videos)
+  - What makes a shell script a shell script?
+  - Bash variable scope
+  - Positional arguments
+  - Pipe data into a script
+  - Output to STDOUT and STDERR
+  - Conditional flow with if, then if
+  - Conditional flow with case
+  - Numeric conditions
+  - String conditions
+  - File conditions
+  - Use looping constructs: The for loop
+  - Use looping constructs: The while loop
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Break into system administration with the Red Hat EX200 certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/break-into-system-administration-with-the-red-hat-ex200-certification?u=76281980)
@@ -322,7 +391,7 @@ created: 2026-04-29
 
 ### 1. Deploy Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a bootable Enterprise Linux 9 live USB drive on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/create-a-bootable-enterprise-linux-9-live-usb-drive-on-windows?u=76281980)
@@ -1302,7 +1371,7 @@ created: 2026-04-29
 
 ### 2. System Config and Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Linux Boot Process
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/understand-the-linux-boot-process?u=76281980)
@@ -2455,7 +2524,7 @@ created: 2026-04-29
 
 ### 3. Essential Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### About file globs
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/about-file-globs?u=76281980)
@@ -4669,7 +4738,7 @@ created: 2026-04-29
 
 ### 4. Manage System Software
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linux repository management systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/linux-repository-management-systems?u=76281980)
@@ -6409,7 +6478,7 @@ created: 2026-04-29
 
 ### 5. Create Simple Shell Scripts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes a shell script a shell script?
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/what-makes-a-shell-script-a-shell-script?u=76281980)
@@ -7369,7 +7438,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-1-deploy-configure-and-manage-23465745/next-steps?u=76281980)

@@ -55,16 +55,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Data Warehouses]]** (6 videos)
-- **[[#2. Dimension Modeling]]** (6 videos)
-- **[[#3. Create Your First Data Warehouse]]** (3 videos)
-- **[[#4. Modern Data Warehouses]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to data warehouses
+- [**1. Introduction to Data Warehouses**](#1-introduction-to-data-warehouses) (6 videos)
+  - Data warehouse key concepts
+  - Importance of data warehouses
+  - Data lake vs. data warehouse
+  - Data mart vs. data warehouse
+  - ETL process
+  - Traditional data warehouse options
+- [**2. Dimension Modeling**](#2-dimension-modeling) (6 videos)
+  - Dimensional modeling
+  - Dimensional modeling vs. a traditional approach
+  - Facts
+  - Dimensions
+  - Star schema
+  - Snowflake schema
+- [**3. Create Your First Data Warehouse**](#3-create-your-first-data-warehouse) (3 videos)
+  - How to install SQL Server
+  - How to connect SSMS to SQL Server
+  - How to create a data warehouse using SQL Server
+- [**4. Modern Data Warehouses**](#4-modern-data-warehouses) (3 videos)
+  - Cloud data warehouse
+  - Cloud vs. on-premises data warehouse
+  - Cloud data warehouse options
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data warehouses
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/introduction-to-data-warehouses?u=76281980)
@@ -93,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Data Warehouses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data warehouse key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980)
@@ -413,7 +433,7 @@ created: 2026-04-29
 
 ### 2. Dimension Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimensional modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling?u=76281980)
@@ -719,7 +739,7 @@ created: 2026-04-29
 
 ### 3. Create Your First Data Warehouse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to install SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980)
@@ -1005,7 +1025,7 @@ created: 2026-04-29
 
 ### 4. Modern Data Warehouses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse?u=76281980)
@@ -1160,7 +1180,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980)

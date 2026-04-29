@@ -45,17 +45,107 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Getting Started]]** (2 videos)
-- **[[#1. Relationships]]** (20 videos)
-- **[[#2. Dynamic Design]]** (12 videos)
-- **[[#3. Parameter and Set Actions]]** (15 videos)
-- **[[#4. Geospatial Mapping]]** (16 videos)
-- **[[#5. Advanced Calculations]]** (15 videos)
-- **[[#6. Predictive Analytics]]** (10 videos)
+- [**Getting Started**](#getting-started) (2 videos)
+  - Course structure and outline
+  - Introducing the course project
+- [**1. Relationships**](#1-relationships) (20 videos)
+  - Relationships
+  - Logical and physical layers
+  - Relationships vs. joins
+  - Requirements for relationships
+  - Creating relationships
+  - Optimizing performance
+  - Multi-fact relationships
+  - Interface differences (2020.2)
+  - The 8 R's of relationships
+  - Contextual joins: Remain
+  - Contextual joins: Relevant
+  - Contextual joins: Retain
+  - Contextual joins: Recovered
+  - Contextual joins: Represented
+  - Contextual joins: Removed
+  - Smart aggregation
+  - Smart aggregation: Replicate
+  - Smart aggregation: Resolve
+  - Assignment: Relationships
+  - Solution: Relationships
+- [**2. Dynamic Design**](#2-dynamic-design) (12 videos)
+  - Dynamic design
+  - Visual appeal
+  - Background templates
+  - KPI shapes
+  - Info icons
+  - Instructions and commentary
+  - Flexibility
+  - Multi-dimensions
+  - Multi-measures
+  - Pro tip: Dynamic formatting
+  - Sheet selectors
+  - Filter menus
+- [**3. Parameter and Set Actions**](#3-parameter-and-set-actions) (15 videos)
+  - Interactivity
+  - Parameter actions
+  - Parameter actions: Multi-measure
+  - Parameter actions: Index chart
+  - Parameter actions: Year-over-year
+  - Parameter actions: Sheet selector
+  - Parameter actions: Relative dimensional analysis
+  - Set actions
+  - Set actions: Proportional brushing
+  - Set actions: Asymmetric drilldown
+  - Set actions: Color scaling
+  - Pro tip: Viz animations
+  - Pro tip: Viz extensions
+  - Assignment: Dynamic design and actions
+  - Solution: Dynamic design and actions
+- [**4. Geospatial Mapping**](#4-geospatial-mapping) (16 videos)
+  - Geospatial mapping
+  - Geospatial data
+  - The mapping workspace
+  - Geospatial use cases
+  - Standard maps
+  - Spatial functions
+  - Custom territories
+  - Map hierarchies
+  - Geospatial customization
+  - Map layers
+  - Background maps: WMS
+  - Background maps: Mapbox
+  - Background images
+  - Common mapping issues
+  - Assignment: Geospatial mapping
+  - Solution: Geospatial mapping
+- [**5. Advanced Calculations**](#5-advanced-calculations) (15 videos)
+  - Advanced calculations
+  - Regular expressions
+  - Regular expressions functions
+  - Review: Table calculations
+  - Review: Addressing and partitioning
+  - Position-based table calculations functions
+  - Pro tip: Index top filter
+  - Review: Level of detail expressions
+  - Choosing an LOD type
+  - LOD use case: Benchmarking and time flags
+  - LOD use case: Customer order frequency
+  - LOD use case: Cohort analysis
+  - LOD use case: New customer acquisition
+  - Assignment: Advanced calculations
+  - Solution: Advanced calculations
+- [**6. Predictive Analytics**](#6-predictive-analytics) (10 videos)
+  - Predictive analytics
+  - Regression models
+  - Trend lines
+  - Forecasting
+  - Control charts
+  - Clustering
+  - R and Python integration
+  - Dashboard extensions
+  - Assignment: Geospatial mapping
+  - Solution: Geospatial mapping
 
 ### Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course structure and outline
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/course-structure-outline?u=76281980)
@@ -160,7 +250,7 @@ created: 2026-04-29
 
 ### 1. Relationships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/relationships?u=76281980)
@@ -1653,7 +1743,7 @@ created: 2026-04-29
 
 ### 2. Dynamic Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic design
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/dynamic-design?u=76281980)
@@ -3753,7 +3843,7 @@ created: 2026-04-29
 
 ### 3. Parameter and Set Actions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interactivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/interactivity?u=76281980)
@@ -6414,7 +6504,7 @@ created: 2026-04-29
 
 ### 4. Geospatial Mapping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Geospatial mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/geospatial-mapping?u=76281980)
@@ -7836,7 +7926,7 @@ created: 2026-04-29
 
 ### 5. Advanced Calculations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced calculations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/advanced-calculations?u=76281980)
@@ -10385,7 +10475,7 @@ created: 2026-04-29
 
 ### 6. Predictive Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-tableau-desktop/predictive-analytics?u=76281980)

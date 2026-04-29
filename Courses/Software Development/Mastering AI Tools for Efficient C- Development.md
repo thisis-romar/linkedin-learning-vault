@@ -51,15 +51,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Using AI for Code Completion]]** (4 videos)
-- **[[#2. Leveraging AI for Documentation]]** (3 videos)
-- **[[#3. AI-Assisted Technical Writing Based on Code]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What to expect in this course
+  - What you should know
+- [**1. Using AI for Code Completion**](#1-using-ai-for-code-completion) (4 videos)
+  - Introduction to AI autocomplete tools
+  - Introduction to and installation of GitHub's Copilot
+  - Using comments to guide code completion
+  - Using Copilot for refactoring and cleanup
+- [**2. Leveraging AI for Documentation**](#2-leveraging-ai-for-documentation) (3 videos)
+  - Documenting your code with AI
+  - Documenting your code with GitHub Copilot
+  - Documenting your code with ChatGPT
+- [**3. AI-Assisted Technical Writing Based on Code**](#3-ai-assisted-technical-writing-based-on-code) (3 videos)
+  - Technical writing with AI
+  - Best practices for AI technical writing
+  - Building a custom GPT for writing tutorials
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What to expect in this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/what-to-expect-in-this-course?u=76281980)
@@ -107,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Using AI for Code Completion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI autocomplete tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/introduction-to-ai-autocomplete-tools?u=76281980)
@@ -703,7 +716,7 @@ created: 2026-04-29
 
 ### 2. Leveraging AI for Documentation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Documenting your code with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/documenting-your-code-with-ai?u=76281980)
@@ -1058,7 +1071,7 @@ created: 2026-04-29
 
 ### 3. AI-Assisted Technical Writing Based on Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Technical writing with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/technical-writing-with-ai?u=76281980)
@@ -1313,7 +1326,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mastering-ai-tools-for-efficient-c-sharp-development/next-steps?u=76281980)

@@ -51,21 +51,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Overview of Vanilla JS]]** (2 videos)
-- **[[#2. Project Overview]]** (1 videos)
-- **[[#3. Environment Setup]]** (2 videos)
-- **[[#4. Replace Ajax]]** (2 videos)
-- **[[#5. Select and Modify DOM Elements]]** (3 videos)
-- **[[#6. Replace Event Listeners]]** (3 videos)
-- **[[#7. Implement Data Binding]]** (5 videos)
-- **[[#8. Replace Simple Animations]]** (3 videos)
-- **[[#9. Ensure Backward Compatibility]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know
+  - Exercise files
+- [**1. Overview of Vanilla JS**](#1-overview-of-vanilla-js) (2 videos)
+  - Libraries, frameworks, and vanilla JavaScript
+  - Identify when to replace frameworks and libraries
+- [**2. Project Overview**](#2-project-overview) (1 videos)
+  - Application architecture
+- [**3. Environment Setup**](#3-environment-setup) (2 videos)
+  - Environment setup
+  - Getting your API key
+- [**4. Replace Ajax**](#4-replace-ajax) (2 videos)
+  - Fetch API
+  - Create an Ajax request with Fetch
+- [**5. Select and Modify DOM Elements**](#5-select-and-modify-dom-elements) (3 videos)
+  - Element selection with vanilla JavaScript
+  - Select and modify elements with querySelector
+  - Select and modify elements with querySelectorAll
+- [**6. Replace Event Listeners**](#6-replace-event-listeners) (3 videos)
+  - JavaScript events
+  - Add event listeners with vanilla JavaScript
+  - Work with the event object
+- [**7. Implement Data Binding**](#7-implement-data-binding) (5 videos)
+  - Data binding
+  - Create elements with vanilla JavaScript
+  - Add and modify properties with vanilla JavaScript
+  - Append elements with vanilla JavaScript
+  - Template literals to build DOM content
+- [**8. Replace Simple Animations**](#8-replace-simple-animations) (3 videos)
+  - Animation with vanilla JavaScript
+  - Show and hide elements using vanilla JavaScript
+  - Transition element appearance using CSS
+- [**9. Ensure Backward Compatibility**](#9-ensure-backward-compatibility) (2 videos)
+  - Backward compatibility for vanilla JavaScript
+  - Transpile vanilla JavaScript
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980)
@@ -158,7 +185,7 @@ created: 2026-04-29
 
 ### 1. Overview of Vanilla JS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Libraries, frameworks, and vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980)
@@ -304,7 +331,7 @@ created: 2026-04-29
 
 ### 2. Project Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Application architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980)
@@ -366,7 +393,7 @@ created: 2026-04-29
 
 ### 3. Environment Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Environment setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980)
@@ -501,7 +528,7 @@ created: 2026-04-29
 
 ### 4. Replace Ajax
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fetch API
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980)
@@ -648,7 +675,7 @@ created: 2026-04-29
 
 ### 5. Select and Modify DOM Elements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Element selection with vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/element-selection-with-vanilla-javascript?u=76281980)
@@ -896,7 +923,7 @@ created: 2026-04-29
 
 ### 6. Replace Event Listeners
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript events
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980)
@@ -1145,7 +1172,7 @@ created: 2026-04-29
 
 ### 7. Implement Data Binding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data binding
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980)
@@ -1634,7 +1661,7 @@ created: 2026-04-29
 
 ### 8. Replace Simple Animations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Animation with vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980)
@@ -1795,7 +1822,7 @@ created: 2026-04-29
 
 ### 9. Ensure Backward Compatibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Backward compatibility for vanilla JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980)
@@ -1966,7 +1993,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980)

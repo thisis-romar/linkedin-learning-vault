@@ -57,12 +57,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Using Copilot in Office Applications]]** (9 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Explore Microsoft 365's AI assistant
+- [**1. Using Copilot in Office Applications**](#1-using-copilot-in-office-applications) (9 videos)
+  - Use Copilot Chat with your work data
+  - Generate drafts and modify documents in Word
+  - Analyze data with Copilot in Excel
+  - Create and improve presentations in PowerPoint
+  - Draft and summarize messages in Outlook
+  - Summarize meetings and leverage Copilot in Teams
+  - Use guided prompts with Copilot's Researcher and Analyst agents
+  - Make your own infographics, slides, and forms with Create
+  - Vibe working: Agent Mode and Office Agent
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Microsoft 365's AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/explore-microsoft-365-s-ai-assistant?u=76281980)
@@ -87,7 +97,7 @@ created: 2026-04-29
 
 ### 1. Using Copilot in Office Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Copilot Chat with your work data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-26545077/use-copilot-chat-with-your-work-data-30057156?u=76281980)

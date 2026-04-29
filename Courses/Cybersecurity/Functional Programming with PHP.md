@@ -48,17 +48,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introductory Functional Concepts]]** (5 videos)
-- **[[#2. First-Class Functions]]** (7 videos)
-- **[[#3. PHP: The Functional Parts]]** (11 videos)
-- **[[#4. Advanced Functional Concepts]]** (5 videos)
-- **[[#5. Code Conversion Challenges]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - A functional approach to transform code
+  - What you should know
+  - Installing and running PHP
+- [**1. Introductory Functional Concepts**](#1-introductory-functional-concepts) (5 videos)
+  - Why use functional programming?
+  - What is declarative programming?
+  - Immutability in functional programming
+  - Separation of data and functions
+  - First-class functions
+- [**2. First-Class Functions**](#2-first-class-functions) (7 videos)
+  - Functions as data, part 1
+  - Functions as data, part 2
+  - Passing functions as arguments
+  - Returning functions
+  - Closure
+  - Higher-order functions
+  - Arrow functions in PHP
+- [**3. PHP: The Functional Parts**](#3-php-the-functional-parts) (11 videos)
+  - Working with arrays, functionally
+  - The spread operator and array_merge
+  - Mapping
+  - Filtering
+  - Passing keys to array functions
+  - Sorting
+  - Custom sorting behavior with usort
+  - Reducing
+  - Combining array functions
+  - Challenge: Recreating the array_map function
+  - Solution: Recreating the array_map function
+- [**4. Advanced Functional Concepts**](#4-advanced-functional-concepts) (5 videos)
+  - Advanced functional concepts
+  - Partial application and currying
+  - Recursion
+  - Composition, part 1
+  - Composition, part 2
+- [**5. Code Conversion Challenges**](#5-code-conversion-challenges) (6 videos)
+  - Challenge: Property getter
+  - Solution: Property getter
+  - Challenge: Tallying votes
+  - Solution: Tallying votes
+  - Challenge: Value or array
+  - Solution: Value or array
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A functional approach to transform code
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/a-functional-approach-to-transform-code?u=76281980)
@@ -204,7 +242,7 @@ created: 2026-04-29
 
 ### 1. Introductory Functional Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use functional programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/why-use-functional-programming?u=76281980)
@@ -622,7 +660,7 @@ created: 2026-04-29
 
 ### 2. First-Class Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Functions as data, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/functions-as-data-part-1?u=76281980)
@@ -1331,7 +1369,7 @@ created: 2026-04-29
 
 ### 3. PHP: The Functional Parts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with arrays, functionally
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/working-with-arrays-functionally?u=76281980)
@@ -2306,7 +2344,7 @@ created: 2026-04-29
 
 ### 4. Advanced Functional Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced functional concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/advanced-functional-concepts?u=76281980)
@@ -2689,7 +2727,7 @@ created: 2026-04-29
 
 ### 5. Code Conversion Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Property getter
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/challenge-property-getter?u=76281980)
@@ -2959,7 +2997,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/functional-programming-with-php/next-steps?u=76281980)

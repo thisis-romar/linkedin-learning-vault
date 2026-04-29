@@ -49,14 +49,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Ensuring Your GitHub Account's Integrity: Authentication and Security Introduction]]** (4 videos)
-- **[[#2. Configuring and Managing Repositories and Organizations: GitHub Administration Introduction]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building secure and efficient GitHub workflows
+- [**1. Ensuring Your GitHub Account's Integrity: Authentication and Security Introduction**](#1-ensuring-your-github-accounts-integrity-authentication-and-security-introduction) (4 videos)
+  - Introduction to authentication and security
+  - Securing account with 2FA
+  - Understanding access permissions
+  - Enterprise Managed Users (EMUs) explained
+- [**2. Configuring and Managing Repositories and Organizations: GitHub Administration Introduction**](#2-configuring-and-managing-repositories-and-organizations-github-administration-introduction) (10 videos)
+  - Introduction to GitHub administration
+  - Enabling and disabling features
+  - Repository permission levels explained
+  - Setting repository visibility options
+  - Repository privacy settings and options
+  - Features and options in the security tab
+  - Understanding repository insights
+  - Managing collaborators in GitHub
+  - Managing organization settings
+  - Members, teams, and roles in a GitHub organization
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps: Continuing your GitHub mastery journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building secure and efficient GitHub workflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/building-secure-and-efficient-github-workflows?u=76281980)
@@ -100,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Ensuring Your GitHub Account's Integrity: Authentication and Security Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to authentication and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-authentication-and-security?u=76281980)
@@ -375,7 +391,7 @@ created: 2026-04-29
 
 ### 2. Configuring and Managing Repositories and Organizations: GitHub Administration Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to GitHub administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/introduction-to-github-administration?u=76281980)
@@ -1036,7 +1052,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps: Continuing your GitHub mastery journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-foundations-privacy-security-and-administration/next-steps-continuing-your-github-mastery-journey?u=76281980)

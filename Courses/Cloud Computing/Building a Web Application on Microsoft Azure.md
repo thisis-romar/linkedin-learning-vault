@@ -50,18 +50,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Using Azure DevOps for Storing Your Code]]** (5 videos)
-- **[[#2. Hosting and Running the Web Application in Azure App Service]]** (6 videos)
-- **[[#3. Using Azure SQL for Your Data Storage]]** (4 videos)
-- **[[#4. Using Azure Storage for Storing Binary Files]]** (10 videos)
-- **[[#5. Using Azure Functions to Improve Your Web Application]]** (7 videos)
-- **[[#6. Taking Advantage of Azure Logic Apps for Your Web App]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Capitalize on the power of Azure to craft your web app
+  - What you need to know
+  - What you are going to build
+- [**1. Using Azure DevOps for Storing Your Code**](#1-using-azure-devops-for-storing-your-code) (5 videos)
+  - Using Azure DevOps for storing your code
+  - Exploring the Pet Management application base source code
+  - Creating a new Azure DevOps account and organization
+  - Creating a new Azure DevOps project and adding existing code
+  - Creating and accepting a pull request in Azure Repos
+- [**2. Hosting and Running the Web Application in Azure App Service**](#2-hosting-and-running-the-web-application-in-azure-app-service) (6 videos)
+  - Hosting and running the web application in Azure App Service
+  - Provisioning a new Azure App Service resource in the portal
+  - Creating a new deployment slot for development
+  - Connecting the deployment slot to Azure Repos
+  - Modifying the source code to automatically publish the app
+  - Swapping the deployment slots
+- [**3. Using Azure SQL for Your Data Storage**](#3-using-azure-sql-for-your-data-storage) (4 videos)
+  - Using Azure SQL for your data storage
+  - Creating the Azure SQL server and database
+  - Modifying the application to use the SQL EF provider
+  - Creating a pull request for publishing the changes
+- [**4. Using Azure Storage for Storing Binary Files**](#4-using-azure-storage-for-storing-binary-files) (10 videos)
+  - Using Azure Storage for storing binary files
+  - Creating the Storage account using the Azure portal
+  - Creating the Blob container in the Storage account
+  - Modifying the seed data to read the photos from the container
+  - Modifying the user interface to upload photos
+  - Implementing the StorageService class
+  - Invoking the StorageService from the Edit page
+  - Testing the web application locally
+  - Publishing the application to the deployment slot
+  - Swapping the production and dev deployment slots
+- [**5. Using Azure Functions to Improve Your Web Application**](#5-using-azure-functions-to-improve-your-web-application) (7 videos)
+  - Using Azure Functions to improve your web application
+  - Creating the Azure Functions project and repository
+  - Testing the function by using the Azure Storage Explorer
+  - Implementing the resize code and the output binding
+  - Modifying the web application to display the thumbnails
+  - Pushing all the changes to the remote repositories
+  - Provisioning the Function App resource and testing the app
+- [**6. Taking Advantage of Azure Logic Apps for Your Web App**](#6-taking-advantage-of-azure-logic-apps-for-your-web-app) (4 videos)
+  - Taking advantage of Azure Logic Apps for your web app
+  - Creating the Azure Logic App resource for sending an email
+  - Testing the Logic App
+  - Modifying the existing Logic App to add a custom SQL Query
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Capitalize on the power of Azure to craft your web app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/capitalize-on-the-power-of-azure-to-craft-your-web-app?u=76281980)
@@ -197,7 +237,7 @@ created: 2026-04-29
 
 ### 1. Using Azure DevOps for Storing Your Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure DevOps for storing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-devops-for-storing-your-code?u=76281980)
@@ -510,7 +550,7 @@ created: 2026-04-29
 
 ### 2. Hosting and Running the Web Application in Azure App Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hosting and running the web application in Azure App Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/hosting-and-running-the-web-application-in-azure-app-service?u=76281980)
@@ -854,7 +894,7 @@ created: 2026-04-29
 
 ### 3. Using Azure SQL for Your Data Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure SQL for your data storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-sql-for-your-data-storage?u=76281980)
@@ -1205,7 +1245,7 @@ created: 2026-04-29
 
 ### 4. Using Azure Storage for Storing Binary Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure Storage for storing binary files
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-storage-for-storing-binary-files?u=76281980)
@@ -1823,7 +1863,7 @@ created: 2026-04-29
 
 ### 5. Using Azure Functions to Improve Your Web Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure Functions to improve your web application
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/using-azure-functions-to-improve-your-web-application?u=76281980)
@@ -2338,7 +2378,7 @@ created: 2026-04-29
 
 ### 6. Taking Advantage of Azure Logic Apps for Your Web App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking advantage of Azure Logic Apps for your web app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/taking-advantage-of-azure-logic-apps-for-your-web-app?u=76281980)
@@ -2605,7 +2645,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696/next-steps?u=76281980)

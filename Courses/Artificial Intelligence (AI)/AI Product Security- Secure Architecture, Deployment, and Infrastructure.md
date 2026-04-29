@@ -54,20 +54,82 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Foundations of Securing AI Products]]** (5 videos)
-- **[[#2. What Can Go Wrong?]]** (2 videos)
-- **[[#3. Security Model for AI Products]]** (6 videos)
-- **[[#4. Securing Data]]** (7 videos)
-- **[[#5. Securing Models]]** (14 videos)
-- **[[#6. Securing Code]]** (6 videos)
-- **[[#7. Securing AI Deployments and Infrastructure]]** (7 videos)
-- **[[#8. Best Practices]]** (12 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Builld your AI products securely
+  - What you need to know
+- [**1. Foundations of Securing AI Products**](#1-foundations-of-securing-ai-products) (5 videos)
+  - ML- vs. LLM-based development
+  - ML-based AI product development
+  - MLOps stages
+  - LLM-based AI product development
+  - LLMOps stages
+- [**2. What Can Go Wrong?**](#2-what-can-go-wrong) (2 videos)
+  - What can go wrong in ML and MLOps?
+  - What can go wrong in LLM and LLMOps?
+- [**3. Security Model for AI Products**](#3-security-model-for-ai-products) (6 videos)
+  - Introducing the N-factor model for securing AI products
+  - Factor: Securing data
+  - Factor: Securing models
+  - Factor: Securing code
+  - Factor: Securing deployments and infrastructure
+  - Interconnected nature of all factors
+- [**4. Securing Data**](#4-securing-data) (7 videos)
+  - Data exposure during transit
+  - Injection attacks
+  - Unauthorized access
+  - Insider threat
+  - Feature poisoning
+  - Privacy leakage
+  - Poisoned feedback loop
+- [**5. Securing Models**](#5-securing-models) (14 videos)
+  - Intro to poisoning
+  - Data poisoning
+  - Model poisoning
+  - Model theft
+  - Model testing attack prerequisites
+  - Model testing attack scenarios
+  - Model testing attack defense
+  - Model registry unauthorized modifications
+  - Model extraction threat
+  - Model extraction defense
+  - Model inversion comparison
+  - Model inversion threat
+  - Model inversion defense
+  - Prompt injection attack
+- [**6. Securing Code**](#6-securing-code) (6 videos)
+  - Insecure data processing code
+  - Hard-coded secrets
+  - Vulnerabilities in open-source libraries
+  - Dependency confusion
+  - Backdoor libraries
+  - Conclusion
+- [**7. Securing AI Deployments and Infrastructure**](#7-securing-ai-deployments-and-infrastructure) (7 videos)
+  - Insecure compute and storage
+  - CI/CD pipelines
+  - Unrestricted network access
+  - Insufficient resource isolation
+  - Misconfigured container images
+  - Drift
+  - Vector databases
+- [**8. Best Practices**](#8-best-practices) (12 videos)
+  - Introduction to top 10 practices
+  - Threat modeling
+  - Security testing
+  - Incidence response
+  - Governance
+  - Privacy
+  - Adversarial robustness
+  - Collaboration
+  - Explainability and transparency
+  - Logging and monitoring
+  - Security training and awareness
+  - Bringing it all together
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in your AI journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Builld your AI products securely
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/builld-your-ai-products-securely?u=76281980)
@@ -118,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Securing AI Products
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ML- vs. LLM-based development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/ml-vs-llm-based-development?u=76281980)
@@ -539,7 +601,7 @@ created: 2026-04-29
 
 ### 2. What Can Go Wrong?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What can go wrong in ML and MLOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/what-can-go-wrong-in-ml-and-mlops?u=76281980)
@@ -780,7 +842,7 @@ created: 2026-04-29
 
 ### 3. Security Model for AI Products
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the N-factor model for securing AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/introducing-n-factor-model-for-securing-ai-products?u=76281980)
@@ -997,7 +1059,7 @@ created: 2026-04-29
 
 ### 4. Securing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data exposure during transit
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/data-exposure-during-transit?u=76281980)
@@ -1461,7 +1523,7 @@ created: 2026-04-29
 
 ### 5. Securing Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to poisoning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/intro-to-poisoning?u=76281980)
@@ -2149,7 +2211,7 @@ created: 2026-04-29
 
 ### 6. Securing Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Insecure data processing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/insecure-data-processing-code?u=76281980)
@@ -2404,7 +2466,7 @@ created: 2026-04-29
 
 ### 7. Securing AI Deployments and Infrastructure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Insecure compute and storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/insecure-compute-and-storage?u=76281980)
@@ -2669,7 +2731,7 @@ created: 2026-04-29
 
 ### 8. Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to top 10 practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/introduction-to-top-10-practices?u=76281980)
@@ -3134,7 +3196,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your AI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-secure-architecture-deployment-and-infrastructure/next-steps?u=76281980)

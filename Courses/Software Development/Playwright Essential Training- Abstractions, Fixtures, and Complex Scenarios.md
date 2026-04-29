@@ -47,17 +47,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Abstractions in Playwright]]** (10 videos)
-- **[[#2. Fixtures in Playwright]]** (7 videos)
-- **[[#3. Mocking and Emulation in Playwright]]** (8 videos)
-- **[[#4. Customizing the Playwright Config]]** (4 videos)
-- **[[#5. Handling Complex Scenarios and Interactions in Playwright]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Level up your Playwright skills: Complex scenarios simplified
+  - What you need to know
+  - Using the GitHub exercise files
+  - Cloning the repository and installation
+  - Overview of the website under test
+- [**1. Abstractions in Playwright**](#1-abstractions-in-playwright) (10 videos)
+  - Abstractions: Pros and cons
+  - Creating a page object in Playwright
+  - Using a page object in Playwright
+  - Overview of test data management in Playwright
+  - Creating a data factory for Playwright tests
+  - Creating helpers for Playwright tests
+  - Creating custom assertions for Playwright tests
+  - Managing TypeScript config
+  - Challenge: Create a test using data factory and helper Functions
+  - Solution: Create a test using data factory and helper functions
+- [**2. Fixtures in Playwright**](#2-fixtures-in-playwright) (7 videos)
+  - Overview of Playwright fixtures
+  - Creating a fixture in Playwright
+  - Using a fixture in Playwright tests
+  - Overview of advanced fixtures in Playwright
+  - Implementing an advanced fixture in Playwright
+  - Challenge: Update message test to use fixtures
+  - Solution: Update message test to use fixtures
+- [**3. Mocking and Emulation in Playwright**](#3-mocking-and-emulation-in-playwright) (8 videos)
+  - Overview of network routing in Playwright
+  - Intercepting HTTP requests with Playwright
+  - Mocking HTTP responses with Playwright
+  - Browser emulation in Playwright
+  - Localization and geolocation in Playwright
+  - Injecting JavaScript in Playwright
+  - Challenge: Mocking and emulation in Playwright
+  - Solution: Mocking and emulation in Playwright
+- [**4. Customizing the Playwright Config**](#4-customizing-the-playwright-config) (4 videos)
+  - Running a webserver during a Playwright test
+  - Optimizing Playwright: Workers and sharding
+  - Retrying tests in Playwright
+  - Overview of timeouts in Playwright
+- [**5. Handling Complex Scenarios and Interactions in Playwright**](#5-handling-complex-scenarios-and-interactions-in-playwright) (4 videos)
+  - Working with multiple windows and popups in Playwright
+  - Working with alerts and dialogs in Playwright
+  - Working with uploads and downloads in Playwright
+  - Working with challenging elements in Playwright
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Level up your Playwright skills: Complex scenarios simplified
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/level-up-your-playwright-skills-complex-scenarios-simplified?u=76281980)
@@ -390,7 +429,7 @@ created: 2026-04-29
 
 ### 1. Abstractions in Playwright
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Abstractions: Pros and cons
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/abstractions-pros-and-cons?u=76281980)
@@ -1909,7 +1948,7 @@ created: 2026-04-29
 
 ### 2. Fixtures in Playwright
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Playwright fixtures
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-playwright-fixtures?u=76281980)
@@ -2497,7 +2536,7 @@ created: 2026-04-29
 
 ### 3. Mocking and Emulation in Playwright
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of network routing in Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980)
@@ -3758,7 +3797,7 @@ created: 2026-04-29
 
 ### 4. Customizing the Playwright Config
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Running a webserver during a Playwright test
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980)
@@ -4250,7 +4289,7 @@ created: 2026-04-29
 
 ### 5. Handling Complex Scenarios and Interactions in Playwright
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with multiple windows and popups in Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980)
@@ -5099,7 +5138,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980)

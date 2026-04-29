@@ -46,15 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Windows Management]]** (3 videos)
-- **[[#2. Triggers and Interactions]]** (10 videos)
-- **[[#3. Auto-Animate Interactions]]** (5 videos)
-- **[[#4. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to Adobe XD: Prototype
+- [**1. Windows Management**](#1-windows-management) (3 videos)
+  - Desktop preview app
+  - Setting viewport height
+  - Fixed position while scrolling
+- [**2. Triggers and Interactions**](#2-triggers-and-interactions) (10 videos)
+  - Tap and Previous Artboard transition
+  - Hover transition
+  - Overlay transitions
+  - Copy and paste interaction
+  - Adding menu navigation
+  - Anchor links (Scroll To interaction)
+  - Preserving scroll position
+  - Keyboards and game pads
+  - Voice triggers with speech playback
+  - Hyperlinks
+- [**3. Auto-Animate Interactions**](#3-auto-animate-interactions) (5 videos)
+  - Introducing auto-animate
+  - Drag interaction
+  - Integrating video
+  - Integrating Lottie
+  - Exporting to After Effects
+- [**4. Conclusion**](#4-conclusion) (1 videos)
+  - Where to go to from here
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Adobe XD: Prototype
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980)
@@ -91,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Windows Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Desktop preview app
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980)
@@ -266,7 +286,7 @@ created: 2026-04-29
 
 ### 2. Triggers and Interactions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tap and Previous Artboard transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980)
@@ -1357,7 +1377,7 @@ created: 2026-04-29
 
 ### 3. Auto-Animate Interactions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing auto-animate
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/introducing-auto-animate?u=76281980)
@@ -1853,7 +1873,7 @@ created: 2026-04-29
 
 ### 4. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go to from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/where-to-go-to-from-here?u=76281980)

@@ -46,16 +46,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Refactoring Strategies]]** (4 videos)
-- **[[#2. Before You Refactor]]** (3 videos)
-- **[[#3. Optimizing Code]]** (3 videos)
-- **[[#4. Creating Clean Code]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know
+  - What is refactoring?
+- [**1. Refactoring Strategies**](#1-refactoring-strategies) (4 videos)
+  - Create a baseline
+  - Incremental steps
+  - Remove unused code
+  - Improve performance
+- [**2. Before You Refactor**](#2-before-you-refactor) (3 videos)
+  - Use version control
+  - Refactor in branches
+  - Tools for refactoring
+- [**3. Optimizing Code**](#3-optimizing-code) (3 videos)
+  - Identify problem areas
+  - Common optimizations
+  - Inlining code
+- [**4. Creating Clean Code**](#4-creating-clean-code) (3 videos)
+  - Code readability
+  - Extract methods
+  - Create clean APIs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/welcome-22867113?u=76281980)
@@ -127,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Refactoring Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/create-a-baseline-22863229?u=76281980)
@@ -416,7 +433,7 @@ created: 2026-04-29
 
 ### 2. Before You Refactor
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/use-version-control-22864225?u=76281980)
@@ -599,7 +616,7 @@ created: 2026-04-29
 
 ### 3. Optimizing Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify problem areas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/identify-problem-areas-22862983?u=76281980)
@@ -806,7 +823,7 @@ created: 2026-04-29
 
 ### 4. Creating Clean Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Code readability
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/code-readability-22867114?u=76281980)
@@ -1054,7 +1071,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-refactoring-tips-and-tricks/next-steps-22867112?u=76281980)

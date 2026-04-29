@@ -48,12 +48,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Using Copilot in Office Applications]]** (7 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Explore Microsoft 365's AI assistant
+  - Understand the Microsoft 365 Copilot subscription
+- [**1. Using Copilot in Office Applications**](#1-using-copilot-in-office-applications) (7 videos)
+  - Use Copilot Business Chat with your work data
+  - Generate drafts and modify documents in Word
+  - Analyze data in Excel
+  - Create and improve PowerPoint presentations
+  - Draft and summarize messages in Outlook
+  - Leverage several Copilot tools in Microsoft Teams
+  - Get summaries of meetings in Teams
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Microsoft 365's AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-your-ai-assistant-in-microsoft-365?u=76281980)
@@ -118,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Using Copilot in Office Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Copilot Business Chat with your work data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-copilot-for-work-2024/use-copilot-business-chat-with-your-work-data?u=76281980)

@@ -67,18 +67,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. React Fundamentals]]** (5 videos)
-- **[[#2. Creating React Elements]]** (6 videos)
-- **[[#3. Writing React Components]]** (4 videos)
-- **[[#4. Handling State in a React Project]]** (6 videos)
-- **[[#5. React Server Components]]** (5 videos)
-- **[[#6. Asynchronous React in Next.js]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Building modern user interfaces with React
+  - How to use Codespaces and what you should know
+- [**1. React Fundamentals**](#1-react-fundamentals) (5 videos)
+  - What is React?
+  - How React works
+  - Understanding the React compiler
+  - Setting up Chrome tools for React
+  - Working with VS Code
+- [**2. Creating React Elements**](#2-creating-react-elements) (6 videos)
+  - Initializing a project with Vite
+  - Creating React elements
+  - Working with JSX syntax
+  - Creating a React component
+  - Adding component properties
+  - Destructuring component properties
+- [**3. Writing React Components**](#3-writing-react-components) (4 videos)
+  - Working with lists
+  - Adding keys to list items
+  - Displaying images with React
+  - Using Fragments
+- [**4. Handling State in a React Project**](#4-handling-state-in-a-react-project) (6 videos)
+  - Destructuring arrays
+  - Understanding the useState hook
+  - Toggling state with a button
+  - Handling state with nested components
+  - Managing state with useReducer
+  - Working with the useEffect hook
+- [**5. React Server Components**](#5-react-server-components) (5 videos)
+  - Creating a project with Next.js
+  - Using the App Router
+  - Building a server component
+  - Challenge: Creating a route
+  - Solution: Creating a route
+- [**6. Asynchronous React in Next.js**](#6-asynchronous-react-in-nextjs) (5 videos)
+  - Fetching data in React applications
+  - Passing data as props
+  - Creating a client component
+  - Building a form
+  - Creating a server action
+- [**Conclusion**](#conclusion) (1 videos)
+  - Designing performant apps with React Server Components
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building modern user interfaces with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/building-modern-user-interfaces-with-react?u=76281980)
@@ -160,7 +194,7 @@ created: 2026-04-29
 
 ### 1. React Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/what-is-react?u=76281980)
@@ -420,7 +454,7 @@ created: 2026-04-29
 
 ### 2. Creating React Elements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Initializing a project with Vite
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/initializing-a-project-with-vite?u=76281980)
@@ -807,7 +841,7 @@ created: 2026-04-29
 
 ### 3. Writing React Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/working-with-lists?u=76281980)
@@ -1121,7 +1155,7 @@ created: 2026-04-29
 
 ### 4. Handling State in a React Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Destructuring arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/destructuring-arrays?u=76281980)
@@ -1571,7 +1605,7 @@ created: 2026-04-29
 
 ### 5. React Server Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a project with Next.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?u=76281980)
@@ -1979,7 +2013,7 @@ created: 2026-04-29
 
 ### 6. Asynchronous React in Next.js
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fetching data in React applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/fetching-data-in-react-applications?u=76281980)
@@ -2575,7 +2609,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing performant apps with React Server Components
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-essential-training/designing-performant-apps-with-react-server-components?u=76281980)

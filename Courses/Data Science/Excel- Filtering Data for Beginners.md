@@ -46,15 +46,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Basic Excel Filter Concepts]]** (2 videos)
-- **[[#2. Refining Filters in Excel]]** (4 videos)
-- **[[#3. Excel Filtering Tips]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Zero in on the right data with filters in Excel
+  - What you should know
+- [**1. Basic Excel Filter Concepts**](#1-basic-excel-filter-concepts) (2 videos)
+  - What is a filter?
+  - Types of filters
+- [**2. Refining Filters in Excel**](#2-refining-filters-in-excel) (4 videos)
+  - Custom filters
+  - Advanced filters
+  - Filter for unique values
+  - Filter with a formula
+- [**3. Excel Filtering Tips**](#3-excel-filtering-tips) (3 videos)
+  - Use slicers to filter
+  - Use Power Query to filter
+  - Shortcut keys for filtering
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps: From filters to advanced Excel analysis
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Zero in on the right data with filters in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/zero-in-on-the-right-data-with-filters-in-excel?u=76281980)
@@ -114,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Basic Excel Filter Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a filter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-is-a-filter?u=76281980)
@@ -290,7 +302,7 @@ created: 2026-04-29
 
 ### 2. Refining Filters in Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980)
@@ -651,7 +663,7 @@ created: 2026-04-29
 
 ### 3. Excel Filtering Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use slicers to filter
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980)
@@ -948,7 +960,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps: From filters to advanced Excel analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980)

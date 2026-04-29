@@ -50,18 +50,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Role of Artificial Intelligence in Your Workflows]]** (4 videos)
-- **[[#2. Using AI in Photoshop]]** (13 videos)
-- **[[#3. Using AI in Lightroom]]** (9 videos)
-- **[[#4. Using AI in Illustrator]]** (8 videos)
-- **[[#5. Using AI in InDesign]]** (6 videos)
-- **[[#6. Using AI in Adobe Stock]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Artificial intelligence for all
+- [**1. The Role of Artificial Intelligence in Your Workflows**](#1-the-role-of-artificial-intelligence-in-your-workflows) (4 videos)
+  - Welcome to the age of artificial intelligence
+  - Introducing Adobe Sensei
+  - The role of Adobe Sensei in Creative Cloud
+  - Adobe Sensei and you
+- [**2. Using AI in Photoshop**](#2-using-ai-in-photoshop) (13 videos)
+  - Removing basic subjects from an image
+  - Removing complex subjects from an image
+  - Selecting objects
+  - Selecting people
+  - Replacing skies in landscape images
+  - Harmonizing colors in compositions
+  - Restoring an old image
+  - Enlarging images
+  - Challenge: Building an image composition
+  - Solution: Building an image composition
+  - Removing anything from an image
+  - Creating magic with Generative Fill
+  - Outpainting images with Generative Fill
+- [**3. Using AI in Lightroom**](#3-using-ai-in-lightroom) (9 videos)
+  - Optimizing images automatically
+  - Searching photos intelligently
+  - Advanced masking with a single click
+  - Masking facial features
+  - Masking colors and skies
+  - Advanced masking
+  - Challenge: Retouching campaign images
+  - Solution: Retouching campaign images
+  - Add Blur and Bokeh effects using Lens Blur
+- [**4. Using AI in Illustrator**](#4-using-ai-in-illustrator) (8 videos)
+  - Selecting and editing visually similar objects
+  - Creating smarter color blends with freeform gradients
+  - Changing artwork shape and position with Puppet Warp
+  - Challenge: Optimizing an illustration
+  - Solution: Optimizing an illustration
+  - Generating anything with Text to Vector Graphic
+  - Identifying and converting fonts using Retype
+  - Creating easy mockups with Mockup
+- [**5. Using AI in InDesign**](#5-using-ai-in-indesign) (6 videos)
+  - Optimize image cropping
+  - Wrapping text around image subjects
+  - Creating and applying Style Packs
+  - Finding similar fonts and images
+  - Challenge: Creating an ad
+  - Solution: Creating an ad
+- [**6. Using AI in Adobe Stock**](#6-using-ai-in-adobe-stock) (7 videos)
+  - Introducing Adobe Stock
+  - Using intelligent filters
+  - Combining keywords with visual search
+  - Subject-based searching
+  - Challenge: Finding a campaign image
+  - Solution: Finding a campaign image
+  - Using generative AI to create images
+- [**Conclusion**](#conclusion) (1 videos)
+  - Goodbye
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Artificial intelligence for all
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/artificial-intelligence-for-all?u=76281980)
@@ -87,7 +136,7 @@ created: 2026-04-29
 
 ### 1. The Role of Artificial Intelligence in Your Workflows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the age of artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/welcome-to-the-age-of-artificial-intelligence?u=76281980)
@@ -325,7 +374,7 @@ created: 2026-04-29
 
 ### 2. Using AI in Photoshop
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Removing basic subjects from an image
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/removing-basic-subjects-from-an-image?u=76281980)
@@ -2031,7 +2080,7 @@ created: 2026-04-29
 
 ### 3. Using AI in Lightroom
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing images automatically
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimizing-images-automatically?u=76281980)
@@ -3041,7 +3090,7 @@ created: 2026-04-29
 
 ### 4. Using AI in Illustrator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting and editing visually similar objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/selecting-and-editing-visually-similar-objects?u=76281980)
@@ -3919,7 +3968,7 @@ created: 2026-04-29
 
 ### 5. Using AI in InDesign
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize image cropping
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/optimize-image-cropping-23697149?u=76281980)
@@ -4590,7 +4639,7 @@ created: 2026-04-29
 
 ### 6. Using AI in Adobe Stock
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Adobe Stock
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/introducing-adobe-stock?u=76281980)
@@ -5245,7 +5294,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-in-adobe-photoshop-and-creative-cloud-2023/goodbye?u=76281980)

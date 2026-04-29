@@ -46,17 +46,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Streams and Lambda Expressions]]** (4 videos)
-- **[[#2. Collections and Generics]]** (4 videos)
-- **[[#3. Annotations and Reflection]]** (4 videos)
-- **[[#4. Concurrency and Multithreading]]** (3 videos)
-- **[[#5. Working with the Singleton Design Pattern]]** (3 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Advance your Java Skills
+  - CoderPad challenge environment
+- [**1. Streams and Lambda Expressions**](#1-streams-and-lambda-expressions) (4 videos)
+  - Functional programming
+  - Lambda expressions
+  - Streams API and handling data sets
+  - Solution: Java streams and lambda expressions
+- [**2. Collections and Generics**](#2-collections-and-generics) (4 videos)
+  - Java collection framework
+  - Role of generics
+  - Creating and using classes with parameterized types
+  - Solution: Refactor to parameterized type
+- [**3. Annotations and Reflection**](#3-annotations-and-reflection) (4 videos)
+  - Understanding annotations
+  - Creating custom annotations
+  - Reflection API for dynamic code manipulation
+  - Solution: Custom annotation
+- [**4. Concurrency and Multithreading**](#4-concurrency-and-multithreading) (3 videos)
+  - Concurrency and multithreading explained
+  - Java concepts for concurrency
+  - Solution: Implement a concurrent algorithm
+- [**5. Working with the Singleton Design Pattern**](#5-working-with-the-singleton-design-pattern) (3 videos)
+  - Singleton design pattern and its use cases
+  - Implementing the Singleton pattern
+  - Solution: Create a singleton
+- [**6. Conclusion**](#6-conclusion) (1 videos)
+  - Keep going with Java
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advance your Java Skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/advance-your-java-skills?u=76281980)
@@ -150,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Streams and Lambda Expressions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/functional-programming?u=76281980)
@@ -502,7 +523,7 @@ created: 2026-04-29
 
 ### 2. Collections and Generics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Java collection framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/java-collection-framework?u=76281980)
@@ -766,7 +787,7 @@ created: 2026-04-29
 
 ### 3. Annotations and Reflection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding annotations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/understanding-annotations?u=76281980)
@@ -1018,7 +1039,7 @@ created: 2026-04-29
 
 ### 4. Concurrency and Multithreading
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Concurrency and multithreading explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/concurrency-and-multithreading-explained?u=76281980)
@@ -1334,7 +1355,7 @@ created: 2026-04-29
 
 ### 5. Working with the Singleton Design Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Singleton design pattern and its use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/singleton-design-pattern-and-its-use-cases?u=76281980)
@@ -1534,7 +1555,7 @@ created: 2026-04-29
 
 ### 6. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep going with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-java-hands-on-with-streams-lambda-expressions-collections-generics-and-more/keep-going-with-java?u=76281980)

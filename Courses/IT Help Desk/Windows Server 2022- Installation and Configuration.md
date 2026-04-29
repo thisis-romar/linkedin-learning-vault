@@ -49,16 +49,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction to Windows Server 2022: Installation and Configuration]]** (2 videos)
-- **[[#1. Installing Windows Server 2022]]** (4 videos)
-- **[[#2. Configuring Windows Server]]** (6 videos)
-- **[[#3. Configuring Storage]]** (7 videos)
-- **[[#4. Configuring Server Roles and Features]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction to Windows Server 2022: Installation and Configuration**](#introduction-to-windows-server-2022-installation-and-configuration) (2 videos)
+  - Introduction to Windows Server 2022: Installation and configuration
+  - Suggested knowledge
+- [**1. Installing Windows Server 2022**](#1-installing-windows-server-2022) (4 videos)
+  - Planning for Windows Server installation
+  - Preparing for Windows Server Installation
+  - Installation with Desktop Experience
+  - Installation with Server Core
+- [**2. Configuring Windows Server**](#2-configuring-windows-server) (6 videos)
+  - Configuring a computer name with Server Manager
+  - Configuring TCP/IP with Server Manager
+  - Configuring a computer name with SConfig
+  - Configuring TCP/IP with SConfig
+  - Configruing a computer name with PowerShell
+  - Configuring TCP/IP with PowerShell
+- [**3. Configuring Storage**](#3-configuring-storage) (7 videos)
+  - Creating a simple volume
+  - Extending and shrinking a volume
+  - Converting from basic to dynamic disks
+  - Creating a spanned volume
+  - Creating a striped volume
+  - Creating a mirrored volume
+  - Creating a RAID 5 Volume
+- [**4. Configuring Server Roles and Features**](#4-configuring-server-roles-and-features) (4 videos)
+  - Installing roles and features
+  - Configuring a role
+  - Installing roles on Server Core
+  - Managing features on demand
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction to Windows Server 2022: Installation and Configuration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Windows Server 2022: Installation and configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/introduction-to-windows-server-2022-installation-and-configuration?u=76281980)
@@ -131,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Installing Windows Server 2022
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning for Windows Server installation
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/planning-for-windows-server-installation?u=76281980)
@@ -534,7 +558,7 @@ created: 2026-04-29
 
 ### 2. Configuring Windows Server
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring a computer name with Server Manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/configuring-a-computer-name-with-server-manager?u=76281980)
@@ -1100,7 +1124,7 @@ created: 2026-04-29
 
 ### 3. Configuring Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a simple volume
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/creating-a-simple-volume?u=76281980)
@@ -1880,7 +1904,7 @@ created: 2026-04-29
 
 ### 4. Configuring Server Roles and Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing roles and features
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/installing-roles-and-features?u=76281980)
@@ -2404,7 +2428,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-installation-and-configuration/next-steps?u=76281980)

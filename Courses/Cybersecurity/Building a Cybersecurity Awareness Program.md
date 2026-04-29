@@ -48,17 +48,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding the Current Security Awareness Foundation]]** (3 videos)
-- **[[#2. Developing a Solid Awareness Plan]]** (3 videos)
-- **[[#3. Implementing and Communicating the Security Awareness Program]]** (4 videos)
-- **[[#4. Engaging Employees with Ongoing Awareness Initiatives]]** (4 videos)
-- **[[#5. Measuring the Effectiveness of Your Security Awareness Program]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Discover cybersecurity awareness
+  - Defining security awareness: Going beyond the training to behavior and culture
+- [**1. Understanding the Current Security Awareness Foundation**](#1-understanding-the-current-security-awareness-foundation) (3 videos)
+  - Getting to know your collaborators and partners
+  - Learning your company policies, standards, and guidelines
+  - Gauging the baseline knowledge of your audience and their appetite for security as well as baselining the risks
+- [**2. Developing a Solid Awareness Plan**](#2-developing-a-solid-awareness-plan) (3 videos)
+  - Developing a program plan and identifying resources needed
+  - Program plan creation demonstration
+  - Creating a budget
+- [**3. Implementing and Communicating the Security Awareness Program**](#3-implementing-and-communicating-the-security-awareness-program) (4 videos)
+  - Creating brand recognition for security
+  - Introducing the program and communicating the why
+  - Developing a training plan
+  - Leveraging champions, ambassadors, and liaisons
+- [**4. Engaging Employees with Ongoing Awareness Initiatives**](#4-engaging-employees-with-ongoing-awareness-initiatives) (4 videos)
+  - Getting creative to reach your audience
+  - Communication is key to reaching your audience
+  - Social engineering simulations for experiential training
+  - Holding large-scale events
+- [**5. Measuring the Effectiveness of Your Security Awareness Program**](#5-measuring-the-effectiveness-of-your-security-awareness-program) (2 videos)
+  - Measuring impact and behavior change
+  - Communicating the impact and building the team
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps: Maturing and adjusting the program over time
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover cybersecurity awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/discover-cybersecurity-awareness?u=76281980)
@@ -156,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Current Security Awareness Foundation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting to know your collaborators and partners
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-to-know-your-collaborators-and-partners?u=76281980)
@@ -378,7 +397,7 @@ created: 2026-04-29
 
 ### 2. Developing a Solid Awareness Plan
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing a program plan and identifying resources needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/developing-a-program-plan-and-identifying-resources-needed?u=76281980)
@@ -598,7 +617,7 @@ created: 2026-04-29
 
 ### 3. Implementing and Communicating the Security Awareness Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating brand recognition for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/creating-brand-recognition-for-security?u=76281980)
@@ -901,7 +920,7 @@ created: 2026-04-29
 
 ### 4. Engaging Employees with Ongoing Awareness Initiatives
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting creative to reach your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/getting-creative-to-reach-your-audience?u=76281980)
@@ -1239,7 +1258,7 @@ created: 2026-04-29
 
 ### 5. Measuring the Effectiveness of Your Security Awareness Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring impact and behavior change
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/measuring-impact-and-behavior-change?u=76281980)
@@ -1412,7 +1431,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps: Maturing and adjusting the program over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cybersecurity-awareness-program-23360167/next-steps-maturing-and-adjusting-the-program-over-time?u=76281980)

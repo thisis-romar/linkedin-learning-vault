@@ -42,19 +42,80 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Got GIS Data?]]** (10 videos)
-- **[[#2. What Can Be Done with GIS Data?]]** (6 videos)
-- **[[#3. What Is Up with Projections?]]** (6 videos)
-- **[[#4. How to Collect GIS Data in the Field?]]** (6 videos)
-- **[[#5. How to Master ArcGIS Online?]]** (6 videos)
-- **[[#6. How to Build a GIS Project from Scratch?]]** (20 videos)
-- **[[#7. How to Land a GIS job?]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Need help with your GIS projects?
+  - What you should know
+- [**1. Got GIS Data?**](#1-got-gis-data) (10 videos)
+  - Where is the GIS data?
+  - How to consider the scale of GIS data
+  - What spatial data are already in ArcGIS?
+  - How to get local and state GIS data
+  - How to get the USA national map data
+  - How to get census GIS data
+  - How to get Earth Explorer data
+  - How to bring hosted GIS data into ArcGIS
+  - Challenge: Get GIS data for a specific geography
+  - Solution: Get GIS data for a specific geography
+- [**2. What Can Be Done with GIS Data?**](#2-what-can-be-done-with-gis-data) (6 videos)
+  - Understanding GIS data types
+  - Mastering vector GIS data
+  - Mastering raster GIS data
+  - How to choose the right GIS data formats for Projects
+  - Challenge: Vectorization vs. rasterization
+  - Solution: Vectorization vs. rasterization
+- [**3. What Is Up with Projections?**](#3-what-is-up-with-projections) (6 videos)
+  - How to understand the latitude, longitude, and scale
+  - What is a developable surface?
+  - Using geoids, spheroids, and datums in GIS
+  - Mastering projections in GIS
+  - Challenge: On-the-fly projection vs. project
+  - Solution: On-the-fly projection vs. project
+- [**4. How to Collect GIS Data in the Field?**](#4-how-to-collect-gis-data-in-the-field) (6 videos)
+  - Geospatial data collection basics
+  - How to create a spatial database from coordinates
+  - How to add scanned map data and drone imagery to a spatial database
+  - How to collect GIS data using ArcGIS Survey123
+  - Challenge: Georeference master
+  - Solution: Georeference master
+- [**5. How to Master ArcGIS Online?**](#5-how-to-master-arcgis-online) (6 videos)
+  - What is ArcGIS Online?
+  - How to bring data into ArcGIS Online
+  - How to build web maps from ArcGIS Pro
+  - How to make an online mapping application
+  - Challenge: Make an online mapping application
+  - Solution: Make an online mapping application
+- [**6. How to Build a GIS Project from Scratch?**](#6-how-to-build-a-gis-project-from-scratch) (20 videos)
+  - Challenge: Get the GIS data
+  - Solution: Get the GIS data
+  - Challenge: Visualize the GIS data
+  - Solution: Visualize the GIS data
+  - Challenge: GIS attribute data exploration
+  - Solution: GIS attribute data exploration
+  - Challenge: Isolate the GIS data
+  - Solution: Isolate the GIS data
+  - Challenge: Construct new GIS data
+  - Solution: Construct new GIS data
+  - Challenge: Analyze the GIS data
+  - Solution: Analyze the GIS data
+  - Challenge: Import GIS data into a geodatabase
+  - Solution: Import GIS data into a geodatabase
+  - Challenge: Convert GIS data
+  - Solution: Convert GIS data
+  - Challenge: Make a web map
+  - Solution: Make a web map
+  - Challenge: Make an online mapping application
+  - Solution: Make an online mapping application
+- [**7. How to Land a GIS job?**](#7-how-to-land-a-gis-job) (4 videos)
+  - What are the different types of GIS jobs?
+  - Where can you find GIS jobs?
+  - How can you master the GIS job interview? Part 1
+  - How can you master the GIS job interview? Part 2
+- [**Conclusion**](#conclusion) (1 videos)
+  - What are your next steps in GIS?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Need help with your GIS projects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/need-help-with-your-gis-projects?u=76281980)
@@ -102,7 +163,7 @@ created: 2026-04-29
 
 ### 1. Got GIS Data?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where is the GIS data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/where-is-the-gis-data?u=76281980)
@@ -951,7 +1012,7 @@ created: 2026-04-29
 
 ### 2. What Can Be Done with GIS Data?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding GIS data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/understanding-gis-data-types?u=76281980)
@@ -1458,7 +1519,7 @@ created: 2026-04-29
 
 ### 3. What Is Up with Projections?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to understand the latitude, longitude, and scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/how-to-understand-the-latitude-longitude-and-scale?u=76281980)
@@ -2084,7 +2145,7 @@ created: 2026-04-29
 
 ### 4. How to Collect GIS Data in the Field?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Geospatial data collection basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/geospatial-data-collection-basics?u=76281980)
@@ -3149,7 +3210,7 @@ created: 2026-04-29
 
 ### 5. How to Master ArcGIS Online?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ArcGIS Online?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-is-arcgis-online?u=76281980)
@@ -4369,7 +4430,7 @@ created: 2026-04-29
 
 ### 6. How to Build a GIS Project from Scratch?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Get the GIS data
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/challenge-get-the-gis-data?u=76281980)
@@ -5469,7 +5530,7 @@ created: 2026-04-29
 
 ### 7. How to Land a GIS job?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the different types of GIS jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-the-different-types-of-gis-jobs?u=76281980)
@@ -5779,7 +5840,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are your next steps in GIS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/real-world-gis-22715766/what-are-your-next-steps-in-gis?u=76281980)

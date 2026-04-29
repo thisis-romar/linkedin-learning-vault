@@ -49,16 +49,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to ESG Concepts]]** (6 videos)
-- **[[#2. A Deeper Dive into the Environmental, Social, and Governance Pillars]]** (4 videos)
-- **[[#3. ESG Reporting and Ratings]]** (4 videos)
-- **[[#4. ESG Careers]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Environmental, social, and governance concerns
+- [**1. Introduction to ESG Concepts**](#1-introduction-to-esg-concepts) (6 videos)
+  - What is ESG?
+  - The demand for ESG
+  - Benefits of a strong ESG program
+  - ESG risks
+  - Sustainable investing
+  - Sustainable investing approaches
+- [**2. A Deeper Dive into the Environmental, Social, and Governance Pillars**](#2-a-deeper-dive-into-the-environmental-social-and-governance-pillars) (4 videos)
+  - The E of ESG
+  - The S of ESG
+  - The G of ESG
+  - ESG factors and metrics
+- [**3. ESG Reporting and Ratings**](#3-esg-reporting-and-ratings) (4 videos)
+  - ESG reporting
+  - ESG reporting types
+  - ESG ratings
+  - Communicating ESG while avoiding greenwashing
+- [**4. ESG Careers**](#4-esg-careers) (1 videos)
+  - ESG upskilling
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Environmental, social, and governance concerns
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/environmental-social-and-governance-concerns?u=76281980)
@@ -84,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Introduction to ESG Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ESG?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/what-is-esg?u=76281980)
@@ -343,7 +360,7 @@ created: 2026-04-29
 
 ### 2. A Deeper Dive into the Environmental, Social, and Governance Pillars
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The E of ESG
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/the-e-of-esg?u=76281980)
@@ -555,7 +572,7 @@ created: 2026-04-29
 
 ### 3. ESG Reporting and Ratings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ESG reporting
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-reporting?u=76281980)
@@ -770,7 +787,7 @@ created: 2026-04-29
 
 ### 4. ESG Careers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ESG upskilling
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/esg-upskilling?u=76281980)
@@ -820,7 +837,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-esg-environmental-social-and-governance/next-steps-23138038?u=76281980)

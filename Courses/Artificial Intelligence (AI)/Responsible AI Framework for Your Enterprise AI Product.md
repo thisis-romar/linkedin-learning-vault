@@ -50,14 +50,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Before You Build Your AI Products]]** (2 videos)
-- **[[#2. What We Talk About When We Talk About Responsible AI]]** (5 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The five rings of responsible AI
+  - Why we need responsible AI: Lessons from the paperclip maximizer
+- [**1. Before You Build Your AI Products**](#1-before-you-build-your-ai-products) (2 videos)
+  - The Three Laws of Robotics by Isaac Asimov
+  - Responsible AI framework: The five rings
+- [**2. What We Talk About When We Talk About Responsible AI**](#2-what-we-talk-about-when-we-talk-about-responsible-ai) (5 videos)
+  - Ethical AI
+  - Secure AI
+  - Explainable AI
+  - Privacy-preserving AI
+  - Fair AI
+- [**Conclusion**](#conclusion) (2 videos)
+  - The limitation of this course
+  - Build your responsible ex machina
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The five rings of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-five-rings-of-responsible-ai?u=76281980)
@@ -150,7 +161,7 @@ created: 2026-04-29
 
 ### 1. Before You Build Your AI Products
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Three Laws of Robotics by Isaac Asimov
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-three-laws-of-robotics-by-isaac-asimov?u=76281980)
@@ -299,7 +310,7 @@ created: 2026-04-29
 
 ### 2. What We Talk About When We Talk About Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/ethical-ai?u=76281980)
@@ -824,7 +835,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The limitation of this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-framework-for-your-enterprise-ai-product/the-limitation-of-this-course?u=76281980)

@@ -45,16 +45,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Collecting Valid Service Management Data Points]]** (5 videos)
-- **[[#2. Why Monitor Service Management Performance?]]** (3 videos)
-- **[[#3. Determining Which Metrics to Monitor]]** (4 videos)
-- **[[#4. Exploring Tools and Reporting]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Monitoring service management success
+  - What you should know
+- [**1. Collecting Valid Service Management Data Points**](#1-collecting-valid-service-management-data-points) (5 videos)
+  - From data to wisdom
+  - Garbage in, garbage out
+  - How to kill good data
+  - Less is sometimes more
+  - Always review your data
+- [**2. Why Monitor Service Management Performance?**](#2-why-monitor-service-management-performance) (3 videos)
+  - Why are you monitoring?
+  - Outcomes for monitoring
+  - Knowing what actions to take
+- [**3. Determining Which Metrics to Monitor**](#3-determining-which-metrics-to-monitor) (4 videos)
+  - Most common metrics
+  - The role of service-level agreements
+  - Net Promoter Score
+  - How does Net Promoter Score work?
+- [**4. Exploring Tools and Reporting**](#4-exploring-tools-and-reporting) (3 videos)
+  - Common reporting tools
+  - Visibility of reporting
+  - Baseline reporting
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring service management success
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/monitoring-service-management-success?u=76281980)
@@ -97,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Collecting Valid Service Management Data Points
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From data to wisdom
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/from-data-to-wisdom?u=76281980)
@@ -382,7 +400,7 @@ created: 2026-04-29
 
 ### 2. Why Monitor Service Management Performance?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why are you monitoring?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/why-are-you-monitoring?u=76281980)
@@ -543,7 +561,7 @@ created: 2026-04-29
 
 ### 3. Determining Which Metrics to Monitor
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Most common metrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/most-common-metrics?u=76281980)
@@ -862,7 +880,7 @@ created: 2026-04-29
 
 ### 4. Exploring Tools and Reporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common reporting tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/common-reporting-tools?u=76281980)
@@ -1047,7 +1065,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-monitoring-and-metrics-fundamentals/next-steps?u=76281980)

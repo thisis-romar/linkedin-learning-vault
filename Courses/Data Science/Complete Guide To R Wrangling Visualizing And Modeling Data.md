@@ -57,23 +57,93 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is R?]]** (2 videos)
-- **[[#2. Getting Started]]** (10 videos)
-- **[[#3. Importing Data]]** (6 videos)
-- **[[#4. Visualizing Data with ggplot2]]** (9 videos)
-- **[[#5. Wrangling Data]]** (10 videos)
-- **[[#6. Recoding Data]]** (5 videos)
-- **[[#7. An R for Data Science Case Study]]** (1 videos)
-- **[[#8. Exploring Data]]** (7 videos)
-- **[[#9. Analyzing Data]]** (6 videos)
-- **[[#10. Predicting Outcomes]]** (6 videos)
-- **[[#11. Clustering and Classifying Cases]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Make your data make sense
+  - Using the exercise files
+- [**1. What Is R?**](#1-what-is-r) (2 videos)
+  - R in context
+  - Data science with R: A case study
+- [**2. Getting Started**](#2-getting-started) (10 videos)
+  - Installing R
+  - Environments for R
+  - Installing RStudio
+  - Navigating the RStudio environment
+  - Entering data
+  - Data types and structures
+  - Comments and headers
+  - Packages for R
+  - The tidyverse
+  - Piping commands with %>%
+- [**3. Importing Data**](#3-importing-data) (6 videos)
+  - R's built-in datasets
+  - Exploring sample datasets with pacman
+  - Importing data from a spreadsheet
+  - Importing XML data
+  - Importing JSON data
+  - Saving data in native R formats
+- [**4. Visualizing Data with ggplot2**](#4-visualizing-data-with-ggplot2) (9 videos)
+  - Introduction to ggplot2
+  - Using colors in R
+  - Using color palettes
+  - Creating bar charts
+  - Creating histograms
+  - Creating box plots
+  - Creating scatterplots
+  - Creating multiple graphs
+  - Creating cluster charts
+- [**5. Wrangling Data**](#5-wrangling-data) (10 videos)
+  - Creating tidy data
+  - Using tibbles
+  - Using data.table
+  - Converting data from wide to tall and from tall to wide
+  - Converting data from tables to rows
+  - Working with dates and times
+  - Working with list data
+  - Working with XML data
+  - Working with categorical variables
+  - Filtering cases and subgroups
+- [**6. Recoding Data**](#6-recoding-data) (5 videos)
+  - Recoding categorical data
+  - Recoding quantitative data
+  - Transforming outliers
+  - Creating scale scores by counting
+  - Creating scale scores by averaging
+- [**7. An R for Data Science Case Study**](#7-an-r-for-data-science-case-study) (1 videos)
+  - Data science with R: A case study
+- [**8. Exploring Data**](#8-exploring-data) (7 videos)
+  - Computing frequencies
+  - Computing descriptive statistics
+  - Computing correlations
+  - Creating contingency tables
+  - Conducting a principal component analysis
+  - Conducting an item analysis
+  - Conducting a confirmatory factor analysis
+- [**9. Analyzing Data**](#9-analyzing-data) (6 videos)
+  - Comparing proportions
+  - Comparing one mean to a population: One-sample t-test
+  - Comparing paired means: Paired samples t-test
+  - Comparing two means: Independent samples t-test
+  - Comparing multiple means: One-factor analysis of variance
+  - Comparing means with multiple categorical predictors: Factorial analysis of variance
+- [**10. Predicting Outcomes**](#10-predicting-outcomes) (6 videos)
+  - Predicting outcomes with linear regression
+  - Predicting outcomes with lasso regression
+  - Predicting outcomes with quantile regression
+  - Predicting outcomes with logistic regression
+  - Predicting outcomes with Poisson or log-linear regression
+  - Assessing predictions with blocked-entry models
+- [**11. Clustering and Classifying Cases**](#11-clustering-and-classifying-cases) (5 videos)
+  - Grouping cases with hierarchical clustering
+  - Grouping cases with k-means clustering
+  - Classifying cases with k-nearest neighbors
+  - Classifying cases with decision tree analysis
+  - Creating ensemble models with random forest classification
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make your data make sense
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/make-your-data-make-sense?u=76281980)
@@ -136,7 +206,7 @@ created: 2026-04-29
 
 ### 1. What Is R?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### R in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-in-context?u=76281980)
@@ -533,7 +603,7 @@ created: 2026-04-29
 
 ### 2. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/installing-r?u=76281980)
@@ -1725,7 +1795,7 @@ created: 2026-04-29
 
 ### 3. Importing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### R's built-in datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/r-s-built-in-datasets?u=76281980)
@@ -2452,7 +2522,7 @@ created: 2026-04-29
 
 ### 4. Visualizing Data with ggplot2
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ggplot2
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/introduction-to-ggplot2?u=76281980)
@@ -3940,7 +4010,7 @@ created: 2026-04-29
 
 ### 5. Wrangling Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating tidy data
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/creating-tidy-data?u=76281980)
@@ -5259,7 +5329,7 @@ created: 2026-04-29
 
 ### 6. Recoding Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recoding categorical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/recoding-categorical-data?u=76281980)
@@ -6020,7 +6090,7 @@ created: 2026-04-29
 
 ### 7. An R for Data Science Case Study
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science with R: A case study
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/data-science-with-r-a-case-study-23459352?u=76281980)
@@ -6429,7 +6499,7 @@ created: 2026-04-29
 
 ### 8. Exploring Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/computing-frequencies?u=76281980)
@@ -7768,7 +7838,7 @@ created: 2026-04-29
 
 ### 9. Analyzing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/comparing-proportions?u=76281980)
@@ -8851,7 +8921,7 @@ created: 2026-04-29
 
 ### 10. Predicting Outcomes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Predicting outcomes with linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/predicting-outcomes-with-linear-regression?u=76281980)
@@ -9967,7 +10037,7 @@ created: 2026-04-29
 
 ### 11. Clustering and Classifying Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping cases with hierarchical clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/grouping-cases-with-hierarchical-clustering?u=76281980)
@@ -11094,7 +11164,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-r-wrangling-visualizing-and-modeling-data/next-steps?u=76281980)

@@ -51,18 +51,79 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is the BRFSS?]]** (13 videos)
-- **[[#2. Designing Your Metadata]]** (8 videos)
-- **[[#3. Reading in Data and Applying Exclusions]]** (11 videos)
-- **[[#4. Preparing for Descriptive Analysis]]** (8 videos)
-- **[[#5. Conducting Descriptive Analysis]]** (7 videos)
-- **[[#6. Descriptive Analysis: Weights and Tests]]** (8 videos)
-- **[[#Conclusion]]** (4 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - What you should know
+- [**1. What Is the BRFSS?**](#1-what-is-the-brfss) (13 videos)
+  - U.S. risk factors
+  - Introduction to the BRFSS
+  - More on the BRFSS
+  - What is a descriptive BRFSS analysis?
+  - Cross-sectional analysis in the BRFSS
+  - Ethical use of BRFSS data
+  - BRFSS resources
+  - Choosing R for a BRFSS analysis: Some considerations
+  - Choosing R for a BRFSS analysis: More considerations
+  - Installing R
+  - Navigating in R
+  - Installing the foreign package
+  - Installing necessary packages
+- [**2. Designing Your Metadata**](#2-designing-your-metadata) (8 videos)
+  - Uses of a data dictionary
+  - How to set up a data dictionary
+  - Adding to the data dictionary
+  - Understanding confounders
+  - Making a web of causation
+  - Designing confounders: Age and smoking
+  - Designing confounders: Other demographics
+  - Designing confounders: Other variables used in analysis
+- [**3. Reading in Data and Applying Exclusions**](#3-reading-in-data-and-applying-exclusions) (11 videos)
+  - Reading in BRFSS XPT data
+  - Naming conventions
+  - Keeping native variables
+  - Applying the first exclusion
+  - Applying the rest of the exclusions
+  - Operations in code
+  - Making a data reduction diagram
+  - Generating exposure
+  - Generating outcome variables
+  - Challenge: Delete rows
+  - Solution: Delete rows
+- [**4. Preparing for Descriptive Analysis**](#4-preparing-for-descriptive-analysis) (8 videos)
+  - Generating the age variables
+  - Generating the smoking variables
+  - Finalizing the analytic data set
+  - What is Table 1?
+  - Reviewing categorical variable distribution
+  - Reviewing continuous variable distribution
+  - Challenge: Make a categorical variable from a continuous one
+  - Solution: Make a categorical variable from a continuous one
+- [**5. Conducting Descriptive Analysis**](#5-conducting-descriptive-analysis) (7 videos)
+  - Preparing categorical Table 1 shell
+  - Preparing continuous Table 1 shell
+  - Adding overall frequencies to categorical Table 1
+  - Making a frequency macro
+  - Adding overall frequencies to continuous Table 1
+  - Completing categorical Table 1
+  - Completing continuous Table 1
+- [**6. Descriptive Analysis: Weights and Tests**](#6-descriptive-analysis-weights-and-tests) (8 videos)
+  - Three truths about using weights
+  - Conducting a descriptive weighted analysis
+  - Why conduct bivariate tests?
+  - Adding categorical bivariate tests to Table 1
+  - Introduction to ANOVA and linear regression code
+  - Adding continuous bivariate tests to Table 1
+  - Challenge: Do a weighted analysis
+  - Solution: Do a weighted analysis
+- [**Conclusion**](#conclusion) (4 videos)
+  - Review of the metadata
+  - Uses of metadata
+  - Review of the process
+  - Next steps in the BRFSS analysis
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/welcome?u=76281980)
@@ -116,7 +177,7 @@ created: 2026-04-29
 
 ### 1. What Is the BRFSS?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### U.S. risk factors
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980)
@@ -1159,7 +1220,7 @@ created: 2026-04-29
 
 ### 2. Designing Your Metadata
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Uses of a data dictionary
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980)
@@ -2149,7 +2210,7 @@ created: 2026-04-29
 
 ### 3. Reading in Data and Applying Exclusions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading in BRFSS XPT data
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reading-in-brfss-xpt-data?u=76281980)
@@ -3475,7 +3536,7 @@ created: 2026-04-29
 
 ### 4. Preparing for Descriptive Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating the age variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-age-variables?u=76281980)
@@ -4594,7 +4655,7 @@ created: 2026-04-29
 
 ### 5. Conducting Descriptive Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing categorical Table 1 shell
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980)
@@ -5542,7 +5603,7 @@ created: 2026-04-29
 
 ### 6. Descriptive Analysis: Weights and Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three truths about using weights
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/three-truths-about-using-weights?u=76281980)
@@ -6776,7 +6837,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review of the metadata
 > [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980)

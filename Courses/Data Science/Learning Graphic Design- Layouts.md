@@ -46,15 +46,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Universal Principles]]** (4 videos)
-- **[[#2. Page Margins and the Grid]]** (3 videos)
-- **[[#3. Putting a Layout Together]]** (2 videos)
-- **[[#Closing]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What is layout
+  - The hidden page (visible and invisible properties)
+- [**1. Universal Principles**](#1-universal-principles) (4 videos)
+  - Keep it simple
+  - Have a focal point and think boldly
+  - The necessary silence of white space
+  - Handling images
+- [**2. Page Margins and the Grid**](#2-page-margins-and-the-grid) (3 videos)
+  - Symmetrical
+  - Asymmetrical
+  - Two-page book grid
+- [**3. Putting a Layout Together**](#3-putting-a-layout-together) (2 videos)
+  - A campus poster
+  - A magazine article
+- [**Closing**](#closing) (1 videos)
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/welcome?u=76281980)
@@ -228,7 +241,7 @@ created: 2026-04-29
 
 ### 1. Universal Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep it simple
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/keep-it-simple?u=76281980)
@@ -502,7 +515,7 @@ created: 2026-04-29
 
 ### 2. Page Margins and the Grid
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Symmetrical
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/symmetrical?u=76281980)
@@ -762,7 +775,7 @@ created: 2026-04-29
 
 ### 3. Putting a Layout Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A campus poster
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/a-campus-poster?u=76281980)
@@ -1311,7 +1324,7 @@ created: 2026-04-29
 
 ### Closing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphic-design-layouts/conclusion?u=76281980)

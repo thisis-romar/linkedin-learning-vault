@@ -48,16 +48,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting to Know AI Agents]]** (3 videos)
-- **[[#2. Agent Prompting Fundamentals: Asking for What You Need]]** (3 videos)
-- **[[#3. Intermediate Techniques: Breaking It Down]]** (6 videos)
-- **[[#4. Advanced Techniques: Thinking and Acting]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of smart prompting for AI agents
+- [**1. Getting to Know AI Agents**](#1-getting-to-know-ai-agents) (3 videos)
+  - Meet your new AI assistant
+  - Real-world benefits of AI agents
+  - Seeing AI agents in action
+- [**2. Agent Prompting Fundamentals: Asking for What You Need**](#2-agent-prompting-fundamentals-asking-for-what-you-need) (3 videos)
+  - Prompting best practices: Clear and simple instructions
+  - Adding personality and tone
+  - Getting the right answer
+- [**3. Intermediate Techniques: Breaking It Down**](#3-intermediate-techniques-breaking-it-down) (6 videos)
+  - Step-by-step thinking: Guided reasoning
+  - Step-by-step thinking: Example-driven reasoning
+  - Step-by-step thinking: Consensus check
+  - From step-by-step to all-in-one prompting
+  - Review and improve: Learn from each attempt
+  - Splitting big tasks into smaller ones
+- [**4. Advanced Techniques: Thinking and Acting**](#4-advanced-techniques-thinking-and-acting) (2 videos)
+  - Smart moves: Combining thought and action
+  - Thinking aloud for transparent AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Key takeaways and practical tips
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of smart prompting for AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/the-power-of-smart-prompting-for-ai-agents?u=76281980)
@@ -89,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Getting to Know AI Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet your new AI assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/meet-your-new-ai-assistant?u=76281980)
@@ -396,7 +412,7 @@ created: 2026-04-29
 
 ### 2. Agent Prompting Fundamentals: Asking for What You Need
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompting best practices: Clear and simple instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/prompting-best-practices-clear-and-simple-instructions?u=76281980)
@@ -835,7 +851,7 @@ created: 2026-04-29
 
 ### 3. Intermediate Techniques: Breaking It Down
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Step-by-step thinking: Guided reasoning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/step-by-step-thinking-guided-reasoning?u=76281980)
@@ -1461,7 +1477,7 @@ created: 2026-04-29
 
 ### 4. Advanced Techniques: Thinking and Acting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Smart moves: Combining thought and action
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/smart-moves-combining-thought-and-action?u=76281980)
@@ -1733,7 +1749,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways and practical tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-made-simple-your-zero-to-hero-guide-to-prompting-for-work-automation/key-takeaways-and-practical-tips?u=76281980)

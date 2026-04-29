@@ -54,20 +54,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Pathfinding Algorithms in a Maze Game]]** (2 videos)
-- **[[#2. The Stack Data Structure]]** (3 videos)
-- **[[#3. The 2D List Data Structure]]** (5 videos)
-- **[[#4. Depth-First Search Algorithm]]** (6 videos)
-- **[[#5. The Queue Data Structure]]** (3 videos)
-- **[[#6. The Breadth-First Search Algorithm]]** (5 videos)
-- **[[#7. The Priority Queue Data Structure]]** (3 videos)
-- **[[#8. The A* Search Algorithm]]** (5 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Python data structures and algorithms in action
+  - What you should know
+- [**1. Pathfinding Algorithms in a Maze Game**](#1-pathfinding-algorithms-in-a-maze-game) (2 videos)
+  - Understand the example application
+  - Navigate the GUI
+- [**2. The Stack Data Structure**](#2-the-stack-data-structure) (3 videos)
+  - Understand the stack data structure
+  - Build a stack class in Python
+  - Solution: Reverse a string using a stack
+- [**3. The 2D List Data Structure**](#3-the-2d-list-data-structure) (5 videos)
+  - Understand the 2D list data structure
+  - Represent a maze as a 2D list
+  - Read a maze from a text file
+  - Challenge: Read and display a maze from a text file
+  - Solution: Read and display a maze from a text file
+- [**4. Depth-First Search Algorithm**](#4-depth-first-search-algorithm) (6 videos)
+  - Understand the depth-first search algorithm
+  - Visualize depth-first search on a grid
+  - Use the Grid Tracer app
+  - Code a depth-first search in Python
+  - Challenge: Trace the path of a depth-first search
+  - Solution: Trace the path of a depth-first search
+- [**5. The Queue Data Structure**](#5-the-queue-data-structure) (3 videos)
+  - Understand the queue data structure
+  - Build a queue class in Python
+  - Solution: Practice queue methods
+- [**6. The Breadth-First Search Algorithm**](#6-the-breadth-first-search-algorithm) (5 videos)
+  - Understand the breadth-first search algorithm
+  - Visualize breadth-first search in a grid
+  - Code a breadth-first search in Python
+  - Challenge: Trace the path of a breadth-first search
+  - Solution: Trace the path of a breadth-first search
+- [**7. The Priority Queue Data Structure**](#7-the-priority-queue-data-structure) (3 videos)
+  - Understand the priority queue data structure
+  - Use the heap module to implement a priority queue
+  - Solution: Heapq methods practice
+- [**8. The A* Search Algorithm**](#8-the-a-search-algorithm) (5 videos)
+  - Understand the A* search algorithm
+  - Visualize the A* algorithm
+  - Code the A* algorithm in Python
+  - Challenge: Trace the path of an A* search
+  - Solution: Trace the path of an A* search
+- [**Conclusion**](#conclusion) (2 videos)
+  - Pathfinding algorithms in the course maze GUI
+  - Parting comments and what comes next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python data structures and algorithms in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/python-data-structures-and-algorithms-in-action?u=76281980)
@@ -127,7 +163,7 @@ created: 2026-04-29
 
 ### 1. Pathfinding Algorithms in a Maze Game
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the example application
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-example-application?u=76281980)
@@ -376,7 +412,7 @@ created: 2026-04-29
 
 ### 2. The Stack Data Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the stack data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-stack-data-structure?u=76281980)
@@ -727,7 +763,7 @@ created: 2026-04-29
 
 ### 3. The 2D List Data Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the 2D list data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-2d-list-data-structure?u=76281980)
@@ -1061,7 +1097,7 @@ created: 2026-04-29
 
 ### 4. Depth-First Search Algorithm
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the depth-first search algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-depth-first-search-algorithm?u=76281980)
@@ -1653,7 +1689,7 @@ created: 2026-04-29
 
 ### 5. The Queue Data Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the queue data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-queue-data-structure?u=76281980)
@@ -1845,7 +1881,7 @@ created: 2026-04-29
 
 ### 6. The Breadth-First Search Algorithm
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the breadth-first search algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-breadth-first-search-algorithm?u=76281980)
@@ -2263,7 +2299,7 @@ created: 2026-04-29
 
 ### 7. The Priority Queue Data Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the priority queue data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-priority-queue-data-structure?u=76281980)
@@ -2530,7 +2566,7 @@ created: 2026-04-29
 
 ### 8. The A* Search Algorithm
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the A* search algorithm
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/understand-the-a-search-algorithm?u=76281980)
@@ -3168,7 +3204,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pathfinding algorithms in the course maze GUI
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-and-algorithms/pathfinding-algorithms-in-the-course-maze-gui?u=76281980)

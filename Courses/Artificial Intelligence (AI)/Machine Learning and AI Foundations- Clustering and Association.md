@@ -47,19 +47,64 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. What Is Cluster Analysis?]]** (6 videos)
-- **[[#2. K-Means]]** (11 videos)
-- **[[#3. Visualizing and Reporting Cluster Solutions]]** (3 videos)
-- **[[#4. HDBSCAN]]** (2 videos)
-- **[[#5. Cluster Methods for Categorical Variables]]** (7 videos)
-- **[[#6. Anomaly Detection]]** (4 videos)
-- **[[#7. Association Rules and Sequence Detection]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Clustering and association
+  - What you should know
+  - Using the exercise files
+  - What is unsupervised machine learning?
+- [**1. What Is Cluster Analysis?**](#1-what-is-cluster-analysis) (6 videos)
+  - Looking at the data with a 2D scatter plot
+  - Understanding hierarchical cluster analysis
+  - Running hierarchical cluster analysis
+  - Interpreting a dendrogram
+  - Methods for measuring distance
+  - What is k-nearest neighbors?
+- [**2. K-Means**](#2-k-means) (11 videos)
+  - How does k-means work?
+  - Which variables should be used with k-means?
+  - Interpreting a box plot
+  - Running a k-means cluster analysis
+  - Interpreting cluster analysis output
+  - What does silhouette mean?
+  - Which cases should be used with k-means?
+  - Finding optimum value for k: k = 3
+  - Finding optimum value for k: k = 4
+  - Finding optimum value for k: k = 5
+  - What the best solution?
+- [**3. Visualizing and Reporting Cluster Solutions**](#3-visualizing-and-reporting-cluster-solutions) (3 videos)
+  - Summarizing cluster means in a table
+  - Traffic Light feature in Excel
+  - Line graphs
+- [**4. HDBSCAN**](#4-hdbscan) (2 videos)
+  - How does HDBSCAN work?
+  - An HDBSCAN example
+- [**5. Cluster Methods for Categorical Variables**](#5-cluster-methods-for-categorical-variables) (7 videos)
+  - Relating clusters to categories statistically
+  - Relating clusters to categories visually
+  - Running a multiple correspondence analysis
+  - Interpreting a perceptual map
+  - Using cluster analysis and decision trees together
+  - A BIRCH/two-step example
+  - A self organizing map example
+- [**6. Anomaly Detection**](#6-anomaly-detection) (4 videos)
+  - The k = 1 trick
+  - Anomaly detection algorithms
+  - Using SOM for anomaly detection
+  - One Class SVM
+- [**7. Association Rules and Sequence Detection**](#7-association-rules-and-sequence-detection) (7 videos)
+  - Intro to association rules and sequence analysis
+  - Running association rules
+  - Some association rules terminology
+  - Interpreting association rules
+  - Putting association rules to use
+  - Comparing clustering and association rules
+  - Sequence detection
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Clustering and association
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980)
@@ -295,7 +340,7 @@ created: 2026-04-29
 
 ### 1. What Is Cluster Analysis?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Looking at the data with a 2D scatter plot
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/looking-at-the-data-with-a-2d-scatter-plot?u=76281980)
@@ -902,7 +947,7 @@ created: 2026-04-29
 
 ### 2. K-Means
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How does k-means work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-k-means-work?u=76281980)
@@ -1838,7 +1883,7 @@ created: 2026-04-29
 
 ### 3. Visualizing and Reporting Cluster Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing cluster means in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980)
@@ -2155,7 +2200,7 @@ created: 2026-04-29
 
 ### 4. HDBSCAN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How does HDBSCAN work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-hdbscan-work?u=76281980)
@@ -2334,7 +2379,7 @@ created: 2026-04-29
 
 ### 5. Cluster Methods for Categorical Variables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relating clusters to categories statistically
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980)
@@ -3128,7 +3173,7 @@ created: 2026-04-29
 
 ### 6. Anomaly Detection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The k = 1 trick
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980)
@@ -3608,7 +3653,7 @@ created: 2026-04-29
 
 ### 7. Association Rules and Sequence Detection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to association rules and sequence analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/intro-to-association-rules-and-sequence-analysis?u=76281980)
@@ -4375,7 +4420,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980)

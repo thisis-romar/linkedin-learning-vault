@@ -62,15 +62,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Transformers in NLP]]** (3 videos)
-- **[[#2. Training Transformers and Their Architecture]]** (4 videos)
-- **[[#3. Large Language Models]]** (14 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Learning about Large Language Models
+- [**1. Transformers in NLP**](#1-transformers-in-nlp) (3 videos)
+  - What are large language models?
+  - Transformers in production
+  - Transformers: History
+- [**2. Training Transformers and Their Architecture**](#2-training-transformers-and-their-architecture) (4 videos)
+  - Transfer learning
+  - Transformer: Architecture overview
+  - Self-attention
+  - Multi-head attention and Feed Forward Network
+- [**3. Large Language Models**](#3-large-language-models) (14 videos)
+  - GPT-3
+  - GPT-3 use cases
+  - Challenges and shortcomings of GPT-3
+  - GLaM
+  - Megatron-Turing NLG Model
+  - Gopher
+  - Scaling laws
+  - Chinchilla
+  - BIG-bench
+  - PaLM
+  - OPT and BLOOM
+  - GitHub models
+  - Accessing Large Language Models using an API
+  - Inference time vs. pre-training
+- [**Conclusion**](#conclusion) (1 videos)
+  - Going further with Transformers
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning about Large Language Models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980)
@@ -98,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Transformers in NLP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are large language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980)
@@ -250,7 +273,7 @@ created: 2026-04-29
 
 ### 2. Training Transformers and Their Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transfer learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980)
@@ -535,7 +558,7 @@ created: 2026-04-29
 
 ### 3. Large Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GPT-3
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980)
@@ -1928,7 +1951,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going further with Transformers
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980)

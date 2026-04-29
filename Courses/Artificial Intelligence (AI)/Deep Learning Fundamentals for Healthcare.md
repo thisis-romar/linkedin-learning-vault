@@ -40,14 +40,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Deep Learning for Healthcare]]** (10 videos)
-- **[[#2. Computer Vision for Healthcare]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with deep learning for healthcare
+  - What you should know
+- [**1. Introduction to Deep Learning for Healthcare**](#1-introduction-to-deep-learning-for-healthcare) (10 videos)
+  - What is deep learning?
+  - Why deep learning excels in healthcare?
+  - How deep learning works: ​Anatomy of neural networks
+  - Deep learning architectures
+  - Deep learning algorithms
+  - Key concepts in training deep learning models
+  - Deep learning frameworks and libraries
+  - Building and implementing neural networks: TensorFlow
+  - Building and implementing neural networks: PyTorch
+  - Limitations and ethical considerations
+- [**2. Computer Vision for Healthcare**](#2-computer-vision-for-healthcare) (10 videos)
+  - Introduction to computer vision in healthcare
+  - Understanding image data in healthcare
+  - Anatomy of medical images: Exploring digital properties and structure
+  - Preparing X-ray image datasets for computer vision tasks
+  - Task overview : Classifying normal vs. pneumonia X-rays
+  - Classifying normal vs. pneumonia X-rays using convolutional neural networks (CNNs)
+  - Classifying normal vs. pneumonia X-rays using a pretrained architecture
+  - Classifying normal vs. pneumonia X-rays using zero-shot learning
+  - Task overview: Object detection in medical imaging
+  - Zero-shot object detection in X-rays using CLIP-based models
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with deep learning for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/getting-started-with-deep-learning-for-healthcare?u=76281980)
@@ -102,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Deep Learning for Healthcare
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is deep learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/what-is-deep-learning?u=76281980)
@@ -1126,7 +1149,7 @@ created: 2026-04-29
 
 ### 2. Computer Vision for Healthcare
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to computer vision in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/introduction-to-computer-vision-in-healthcare?u=76281980)
@@ -2628,7 +2651,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-fundamentals-for-healthcare/next-steps?u=76281980)

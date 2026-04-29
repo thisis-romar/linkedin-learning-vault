@@ -54,19 +54,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. MPLS TE Foundation]]** (2 videos)
-- **[[#2. MPLS TE Components]]** (3 videos)
-- **[[#3. MPLS TE Configuration]]** (7 videos)
-- **[[#4. Advanced MPLS TE Features]]** (7 videos)
-- **[[#5. MPLS TE Fast Reroute (FRR)]]** (5 videos)
-- **[[#6. Cost Calculation of IGP Routes over TE Tunnels]]** (5 videos)
-- **[[#7. MPLS TE and MPLS VPN]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Boost your MPLS skill set with traffic engineering
+- [**1. MPLS TE Foundation**](#1-mpls-te-foundation) (2 videos)
+  - Traffic engineering introduction
+  - MPLS Traffic Engineering (TE) overview
+- [**2. MPLS TE Components**](#2-mpls-te-components) (3 videos)
+  - Routing protocol requirements
+  - Resource Reservation Protocol with TE extension
+  - RSVP messages
+- [**3. MPLS TE Configuration**](#3-mpls-te-configuration) (7 videos)
+  - MPLS TE generic configuration
+  - MPLS TE explicit tunnel
+  - Steering traffic into an MPLS TE tunnel with static routes
+  - Steering traffic into an MPLS TE tunnel with PBR
+  - MPLS TE dynamic tunnel
+  - MPLS TE semi-dynamic tunnel using exclude-address
+  - MPLS TE semi-dynamic tunnel using loose next hop
+- [**4. Advanced MPLS TE Features**](#4-advanced-mpls-te-features) (7 videos)
+  - MPLS TE auto-bandwidth
+  - MPLS TE affinity
+  - MPLS TE administrative weight
+  - MPLS TE setup and hold priority
+  - MPLS TE autoroute announce
+  - MPLS TE forwarding adjacency
+  - Class-based tunnel selection (CBTS)
+- [**5. MPLS TE Fast Reroute (FRR)**](#5-mpls-te-fast-reroute-frr) (5 videos)
+  - MPLS TE Fast Reroute for link protection: Part 1
+  - MPLS TE Fast Reroute for link protection: Part 2
+  - MPLS TE Fast Reroute for node protection
+  - Shared Risk Link Group (SRLG)
+  - MPLS TE Path Protection
+- [**6. Cost Calculation of IGP Routes over TE Tunnels**](#6-cost-calculation-of-igp-routes-over-te-tunnels) (5 videos)
+  - TE tunnels default cost calculation
+  - Adjusting the cost calculation of TE tunnels
+  - MPLS TE load balancing
+  - MPLS TE reoptimization
+  - MPLS TE link manager
+- [**7. MPLS TE and MPLS VPN**](#7-mpls-te-and-mpls-vpn) (3 videos)
+  - VRF-to-TE tunnel routing
+  - TE tunnel with a P router as a tailend router
+  - AToM tunnel selection
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Boost your MPLS skill set with traffic engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/boost-your-mpls-skillset-with-traffic-engineering?u=76281980)
@@ -99,7 +133,7 @@ created: 2026-04-29
 
 ### 1. MPLS TE Foundation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Traffic engineering introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980)
@@ -252,7 +286,7 @@ created: 2026-04-29
 
 ### 2. MPLS TE Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Routing protocol requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/routing-protocol-requirement?u=76281980)
@@ -428,7 +462,7 @@ created: 2026-04-29
 
 ### 3. MPLS TE Configuration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MPLS TE generic configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980)
@@ -1039,7 +1073,7 @@ created: 2026-04-29
 
 ### 4. Advanced MPLS TE Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MPLS TE auto-bandwidth
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980)
@@ -1676,7 +1710,7 @@ created: 2026-04-29
 
 ### 5. MPLS TE Fast Reroute (FRR)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MPLS TE Fast Reroute for link protection: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-i?u=76281980)
@@ -2065,7 +2099,7 @@ created: 2026-04-29
 
 ### 6. Cost Calculation of IGP Routes over TE Tunnels
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### TE tunnels default cost calculation
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980)
@@ -2388,7 +2422,7 @@ created: 2026-04-29
 
 ### 7. MPLS TE and MPLS VPN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### VRF-to-TE tunnel routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980)
@@ -2583,7 +2617,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980)

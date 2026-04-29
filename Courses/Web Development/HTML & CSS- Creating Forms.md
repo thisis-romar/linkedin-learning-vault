@@ -48,17 +48,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Designing a Form Experience]]** (4 videos)
-- **[[#2. Creating Forms with HTML]]** (9 videos)
-- **[[#3. Making Forms Interactive]]** (2 videos)
-- **[[#4. Styling Form Fields with CSS]]** (8 videos)
-- **[[#5. Form Layout with CSS]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know
+  - Using the exercise files
+- [**1. Designing a Form Experience**](#1-designing-a-form-experience) (4 videos)
+  - Ask the right questions
+  - Explain what you want
+  - Create a good flow
+  - Data privacy
+- [**2. Creating Forms with HTML**](#2-creating-forms-with-html) (9 videos)
+  - Basic form structure
+  - Text, email, and URL input types
+  - Number input type
+  - Date and time input types
+  - Radio buttons
+  - Select
+  - Textarea and additional input types
+  - Submit and other types of buttons
+  - Attributes used in forms
+- [**3. Making Forms Interactive**](#3-making-forms-interactive) (2 videos)
+  - Form submission and security
+  - Form validation
+- [**4. Styling Form Fields with CSS**](#4-styling-form-fields-with-css) (8 videos)
+  - Basic form styles: Text color and size
+  - Box sizing for forms
+  - Styling text inputs
+  - Styling radio buttons and check boxes with images
+  - Styling radio buttons and check boxes as buttons
+  - Styling select
+  - Styling buttons
+  - Styling pseudo-classes
+- [**5. Form Layout with CSS**](#5-form-layout-with-css) (4 videos)
+  - Small-screen layout for forms
+  - Wide-screen layout for forms
+  - Form labels
+  - Placeholder attribute
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/welcome?u=76281980)
@@ -146,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Designing a Form Experience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ask the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/ask-the-right-questions?u=76281980)
@@ -582,7 +613,7 @@ created: 2026-04-29
 
 ### 2. Creating Forms with HTML
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic form structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-structure?u=76281980)
@@ -1786,7 +1817,7 @@ created: 2026-04-29
 
 ### 3. Making Forms Interactive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Form submission and security
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/form-submission-and-security?u=76281980)
@@ -2037,7 +2068,7 @@ created: 2026-04-29
 
 ### 4. Styling Form Fields with CSS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic form styles: Text color and size
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/basic-form-styles-text-color-and-size?u=76281980)
@@ -2876,7 +2907,7 @@ created: 2026-04-29
 
 ### 5. Form Layout with CSS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Small-screen layout for forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/small-screen-layout-for-forms?u=76281980)
@@ -3252,7 +3283,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-css-creating-forms/next-steps?u=76281980)

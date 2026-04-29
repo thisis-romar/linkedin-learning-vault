@@ -39,16 +39,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Digital Ocean]]** (10 videos)
-- **[[#2. AWS]]** (8 videos)
-- **[[#3. Heroku]]** (5 videos)
-- **[[#4. Azure]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Making your site go live
+  - What you should know
+  - Choosing the right deployment for you
+- [**1. Digital Ocean**](#1-digital-ocean) (10 videos)
+  - Digital Ocean account
+  - Creating a droplet
+  - Securing your server
+  - Postgres setup
+  - Transferring code to the server
+  - Configuring settings files 
+  - Testing deployment
+  - Gunicorn testing
+  - NGINX setup
+  - Connecting your URL
+- [**2. AWS**](#2-aws) (8 videos)
+  - AWS account
+  - Deploying to AWS
+  - Testing your site
+  - Database connection and setup
+  - Migrate
+  - S3 storage setup
+  - Static and media files
+  - Custom URL
+- [**3. Heroku**](#3-heroku) (5 videos)
+  - Heroku account
+  - Deploying on Heroku
+  - Database on Heroku
+  - Static and media files
+  - Custom URL
+- [**4. Azure**](#4-azure) (8 videos)
+  - Azure account
+  - Database setup
+  - Transferring code to the server
+  - Configuring settings files
+  - Testing deployment
+  - Gunicorn testing
+  - NGINX setup
+  - Connecting your URL
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making your site go live
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/making-your-site-go-live?u=76281980)
@@ -188,7 +223,7 @@ created: 2026-04-29
 
 ### 1. Digital Ocean
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital Ocean account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/digital-ocean-account?u=76281980)
@@ -1204,7 +1239,7 @@ created: 2026-04-29
 
 ### 2. AWS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/aws-account?u=76281980)
@@ -2127,7 +2162,7 @@ created: 2026-04-29
 
 ### 3. Heroku
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Heroku account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/heroku-account?u=76281980)
@@ -2936,7 +2971,7 @@ created: 2026-04-29
 
 ### 4. Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure account
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/azure-account?u=76281980)
@@ -3639,7 +3674,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/deploying-django-apps-make-your-site-go-live/next-steps?u=76281980)

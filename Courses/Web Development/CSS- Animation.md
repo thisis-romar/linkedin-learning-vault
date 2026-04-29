@@ -49,18 +49,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Overview of CSS Transitions and Transforms]]** (5 videos)
-- **[[#2. Understanding CSS Animations]]** (8 videos)
-- **[[#3. CSS Animation Building Blocks]]** (6 videos)
-- **[[#4. Animating SVGs with CSS]]** (3 videos)
-- **[[#5. Advanced CSS Animation Techniques]]** (4 videos)
-- **[[#6. Tools for Creating CSS Animations]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - CSS animation advantages
+  - Using GitHub Codespaces with this course
+- [**1. Overview of CSS Transitions and Transforms**](#1-overview-of-css-transitions-and-transforms) (5 videos)
+  - CSS transform basics
+  - Simple 3D transforms
+  - CSS transitions
+  - Challenge: Adding a transition
+  - Solution: Adding a transition
+- [**2. Understanding CSS Animations**](#2-understanding-css-animations) (8 videos)
+  - CSS keyframe animation fundamentals
+  - animation-delay and animation-fill-mode
+  - A closer look at animation-fill-mode
+  - animation-direction
+  - Timing functions and easing
+  - The steps() timing function
+  - Challenge: Adding keyframes to an animation
+  - Solution: Adding keyframes to an animation
+- [**3. CSS Animation Building Blocks**](#3-css-animation-building-blocks) (6 videos)
+  - Infinitely looping animations
+  - Pause and play with animation-play-state
+  - Animating 3D transforms
+  - Chaining multiple keyframe animations
+  - Challenge: Adding a third animation to the chain
+  - Solution: Adding a third animation to the chain
+- [**4. Animating SVGs with CSS**](#4-animating-svgs-with-css) (3 videos)
+  - Preparing an SVG for animation
+  - SVG exporting and optimization settings
+  - Animating SVG with CSS
+- [**5. Advanced CSS Animation Techniques**](#5-advanced-css-animation-techniques) (4 videos)
+  - Creating a motion path for CSS with offset-path
+  - Animating CSS motion path with offset-path
+  - Dynamic CSS animation with CSS variables
+  - Animating variable fonts with CSS
+- [**6. Tools for Creating CSS Animations**](#6-tools-for-creating-css-animations) (1 videos)
+  - Using browser animation inspection tools
+- [**Conclusion**](#conclusion) (1 videos)
+  - Helpful online tools for CSS
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS animation advantages
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-animation-advantages?u=76281980)
@@ -248,7 +278,7 @@ created: 2026-04-29
 
 ### 1. Overview of CSS Transitions and Transforms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS transform basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-transform-basics?u=76281980)
@@ -569,7 +599,7 @@ created: 2026-04-29
 
 ### 2. Understanding CSS Animations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS keyframe animation fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/css-keyframe-animation-fundamentals?u=76281980)
@@ -1215,7 +1245,7 @@ created: 2026-04-29
 
 ### 3. CSS Animation Building Blocks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Infinitely looping animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/infinitely-looping-animations?u=76281980)
@@ -1701,7 +1731,7 @@ created: 2026-04-29
 
 ### 4. Animating SVGs with CSS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing an SVG for animation
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/preparing-an-svg-for-animation?u=76281980)
@@ -2009,7 +2039,7 @@ created: 2026-04-29
 
 ### 5. Advanced CSS Animation Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a motion path for CSS with offset-path
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/creating-a-motion-path-for-css-with-offset-path?u=76281980)
@@ -2409,7 +2439,7 @@ created: 2026-04-29
 
 ### 6. Tools for Creating CSS Animations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using browser animation inspection tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/using-browser-animation-inspection-tools?u=76281980)
@@ -2506,7 +2536,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Helpful online tools for CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-animation-14153685/helpful-online-tools-for-css?u=76281980)

@@ -51,17 +51,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction: Understanding Your AI Teammates]]** (4 videos)
-- **[[#1. Hiring the Assistant]]** (3 videos)
-- **[[#2. Briefing the Expert]]** (3 videos)
-- **[[#3. Engaging the Coach]]** (3 videos)
-- **[[#4. Partnering with the Creative]]** (3 videos)
-- **[[#5. Becoming the Orchestrator]]** (4 videos)
-- **[[#Conclusion: Owning Your Future with AI]]** (1 videos)
+- [**Introduction: Understanding Your AI Teammates**](#introduction-understanding-your-ai-teammates) (4 videos)
+  - From tool to teammates: Welcome!
+  - Shifting from passive user to team orchestrator
+  - Setting up your voice-enabled AI workspace
+  - Replacing short queries with voice dialogues
+- [**1. Hiring the Assistant**](#1-hiring-the-assistant) (3 videos)
+  - Delegating inbox triage to your assistant
+  - Teaching your assistant how you think
+  - Personalizing your AI with custom instructions
+- [**2. Briefing the Expert**](#2-briefing-the-expert) (3 videos)
+  - Getting curated recommendations from the expert
+  - Briefing the expert for high-stakes decisions
+  - Letting the expert interview you for better advice
+- [**3. Engaging the Coach**](#3-engaging-the-coach) (3 videos)
+  - Setting up the framework for your coach project
+  - Running an onboarding session for your coach
+  - Journaling with AI to update your coach
+- [**4. Partnering with the Creative**](#4-partnering-with-the-creative) (3 videos)
+  - Co-creating ideas using the canvas interface
+  - Training the creative on your voice and style
+  - Building interactive apps without writing code
+- [**5. Becoming the Orchestrator**](#5-becoming-the-orchestrator) (4 videos)
+  - Mastering the seven habits of orchestration
+  - Project: Automating a weekly news report
+  - Project: Building a custom curiosity GPT
+  - Project: Planning life events with your AI team
+- [**Conclusion: Owning Your Future with AI**](#conclusion-owning-your-future-with-ai) (1 videos)
+  - Evolving from AI user to digital product owner
 
 ### Introduction: Understanding Your AI Teammates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From tool to teammates: Welcome!
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/from-tool-to-teammates-welcome?u=76281980)
@@ -374,7 +395,7 @@ created: 2026-04-29
 
 ### 1. Hiring the Assistant
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Delegating inbox triage to your assistant
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/delegating-inbox-triage-to-your-assistant?u=76281980)
@@ -684,7 +705,7 @@ created: 2026-04-29
 
 ### 2. Briefing the Expert
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting curated recommendations from the expert
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/getting-curated-recommendations-from-the-expert?u=76281980)
@@ -1024,7 +1045,7 @@ created: 2026-04-29
 
 ### 3. Engaging the Coach
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the framework for your coach project
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/setting-up-the-framework-for-your-coach-project?u=76281980)
@@ -1499,7 +1520,7 @@ created: 2026-04-29
 
 ### 4. Partnering with the Creative
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Co-creating ideas using the canvas interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/co-creating-ideas-using-the-canvas-interface?u=76281980)
@@ -1964,7 +1985,7 @@ created: 2026-04-29
 
 ### 5. Becoming the Orchestrator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering the seven habits of orchestration
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/mastering-the-seven-habits-of-orchestration?u=76281980)
@@ -2506,7 +2527,7 @@ created: 2026-04-29
 
 ### Conclusion: Owning Your Future with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evolving from AI user to digital product owner
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-tool-to-teammates-working-smarter-with-ai/evolving-from-ai-user-to-digital-product-owner?u=76281980)

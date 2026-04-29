@@ -44,16 +44,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Prompt Best Practices]]** (4 videos)
-- **[[#2. Advanced Techniques]]** (7 videos)
-- **[[#3. DALL-E 3 in ChatGPT]]** (4 videos)
-- **[[#4. Security Considerations]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - ChatGPT: The AI game changer
+  - How ChatGPT works
+- [**1. Prompt Best Practices**](#1-prompt-best-practices) (4 videos)
+  - Providing context and using delimiters
+  - Use detailed instructions
+  - Challenge: Prompt refactor
+  - Solution: Prompt refactor
+- [**2. Advanced Techniques**](#2-advanced-techniques) (7 videos)
+  - Personas
+  - Splitting up complex tasks
+  - Custom instructions
+  - Leveraging multi-modality
+  - Socratic prompting
+  - Challenge: Writing copy
+  - Solution: Writing copy
+- [**3. DALL-E 3 in ChatGPT**](#3-dall-e-3-in-chatgpt) (4 videos)
+  - What is DALL-E?
+  - DALL-E 3 best practices
+  - Challenge: Enrich a DALL-E prompt
+  - Solution: Enrich a DALL-E prompt
+- [**4. Security Considerations**](#4-security-considerations) (5 videos)
+  - ChatGPT security considerations
+  - Plans and data controls
+  - Hallucinations
+  - Challenge: Use data controls
+  - Solution: Use data controls
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ChatGPT: The AI game changer
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-the-ai-game-changer?u=76281980)
@@ -126,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Prompt Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing context and using delimiters
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/providing-context-and-using-delimiters?u=76281980)
@@ -374,7 +397,7 @@ created: 2026-04-29
 
 ### 2. Advanced Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Personas
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/personas?u=76281980)
@@ -793,7 +816,7 @@ created: 2026-04-29
 
 ### 3. DALL-E 3 in ChatGPT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DALL-E?
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/what-is-dall-e?u=76281980)
@@ -936,7 +959,7 @@ created: 2026-04-29
 
 ### 4. Security Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ChatGPT security considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/chatgpt-security-considerations?u=76281980)
@@ -1125,7 +1148,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-chatgpt/next-steps?u=76281980)

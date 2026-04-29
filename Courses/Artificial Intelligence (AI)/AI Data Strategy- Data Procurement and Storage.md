@@ -54,16 +54,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. AI Data Strategy]]** (5 videos)
-- **[[#2. Data Procurement and Sources]]** (9 videos)
-- **[[#3. Storage Considerations for AI Products]]** (4 videos)
-- **[[#4. Case Study Assessments]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - AI data strategy: Data procurement and storage
+  - What you should know
+- [**1. AI Data Strategy**](#1-ai-data-strategy) (5 videos)
+  - Strategic decision-making in AI product development
+  - Data strategy vocabulary
+  - ML-driven AI vs. generative AI: A strategic overview
+  - The role of data strategy in AI product success
+  - Aligning data with business goals for AI product development
+- [**2. Data Procurement and Sources**](#2-data-procurement-and-sources) (9 videos)
+  - Sourcing structured data for ML-driven AI products
+  - Best practices for sourcing unstructured data
+  - Understanding bias in traditional ML systems
+  - Bias in generative AI: Challenges and mitigation strategies
+  - Framework for bias mitigation in AI
+  - Building intelligent systems with data protection
+  - Open data platforms: Democratizing AI development
+  - Leveraging APIs for AI
+  - Building sustainable data ecosystems
+- [**3. Storage Considerations for AI Products**](#3-storage-considerations-for-ai-products) (4 videos)
+  - Choosing scalable storage solutions for ML-driven AI
+  - Optimizing storage for performance in ML-driven AI
+  - Data security and compliance in AI product development: On-premise, local AI
+  - Future-proofing data storage for AI products
+- [**4. Case Study Assessments**](#4-case-study-assessments) (1 videos)
+  - Design a real-world data strategy for an AI-powered product
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI data strategy: Data procurement and storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980)
@@ -113,7 +135,7 @@ created: 2026-04-29
 
 ### 1. AI Data Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic decision-making in AI product development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980)
@@ -760,7 +782,7 @@ created: 2026-04-29
 
 ### 2. Data Procurement and Sources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sourcing structured data for ML-driven AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980)
@@ -1824,7 +1846,7 @@ created: 2026-04-29
 
 ### 3. Storage Considerations for AI Products
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing scalable storage solutions for ML-driven AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980)
@@ -2273,7 +2295,7 @@ created: 2026-04-29
 
 ### 4. Case Study Assessments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design a real-world data strategy for an AI-powered product
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980)
@@ -2420,7 +2442,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980)

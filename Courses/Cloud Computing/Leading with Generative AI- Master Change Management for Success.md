@@ -55,11 +55,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Leading with Generative AI: Master Change Management for Success]]** (15 videos)
+- [**1. Leading with Generative AI: Master Change Management for Success**](#1-leading-with-generative-ai-master-change-management-for-success) (15 videos)
+  - Introduction to generative AI and change management: Leading the future
+  - Comparing generative AI to past innovations: Insights for effective change management
+  - The impact of generative AI on the job market and change management strategies
+  - Preparing for generative AI: Essential change management techniques
+  - Introduction to the FASTER framework: Generative AI and change management
+  - Building a foundation for generative AI with the FASTER change management framework
+  - Aligning your team with generative AI: A change management approach
+  - Bridging the gap: Integrating generative AI into change management processes
+  - Safeguarding change management with generative AI and the FASTER framework
+  - Training for change: Leveraging generative AI in the FASTER management framework
+  - Evolving change management practices with generative AI and the FASTER framework
+  - Replicating success: Generative AI in the FASTER change management framework
+  - Establishing urgency for generative AI in change management
+  - Preparing employees for change with generative AI and effective change management
+  - Closing insights: Generative AI and change management for future leaders
 
 ### 1. Leading with Generative AI: Master Change Management for Success
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to generative AI and change management: Leading the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-with-generative-ai-master-change-management-for-success/introduction-to-generative-ai-and-change-management-leading-the-future?u=76281980)

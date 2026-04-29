@@ -47,15 +47,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Language Constructs]]** (5 videos)
-- **[[#2. Structural Pattern Matching]]** (7 videos)
-- **[[#3. Object-Oriented Programming Features]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - C# language features
+  - What you should know
+  - Setting up the environment
+- [**1. Language Constructs**](#1-language-constructs) (5 videos)
+  - Indexes and ranges
+  - Literal number improvements
+  - The null-coalescing operator
+  - Deconstruction with tuples
+  - Deconstruction with classes
+- [**2. Structural Pattern Matching**](#2-structural-pattern-matching) (7 videos)
+  - Overview of pattern matching
+  - Basic patterns
+  - Enhanced switch statements
+  - Position patterns
+  - Relational patterns
+  - Pattern challenge
+  - Pattern solution
+- [**3. Object-Oriented Programming Features**](#3-object-oriented-programming-features) (4 videos)
+  - Working with indexers
+  - Overriding ToString()
+  - Equality testing
+  - Using records
+- [**Conclusion**](#conclusion) (1 videos)
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### C# language features
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/c-sharp-language-features?u=76281980)
@@ -197,7 +217,7 @@ created: 2026-04-29
 
 ### 1. Language Constructs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Indexes and ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/indexes-and-ranges?u=76281980)
@@ -826,7 +846,7 @@ created: 2026-04-29
 
 ### 2. Structural Pattern Matching
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of pattern matching
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/overview-of-pattern-matching?u=76281980)
@@ -1708,7 +1728,7 @@ created: 2026-04-29
 
 ### 3. Object-Oriented Programming Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with indexers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/working-with-indexers?u=76281980)
@@ -2406,7 +2426,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-language-features/conclusion?u=76281980)

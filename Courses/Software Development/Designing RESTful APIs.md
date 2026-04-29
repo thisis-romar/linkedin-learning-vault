@@ -40,16 +40,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Who Needs Your API?]]** (6 videos)
-- **[[#2. What Does Your API Look Like?]]** (3 videos)
-- **[[#3. How Does Your API Work?]]** (4 videos)
-- **[[#4. Common Design Challenges]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Design a RESTful API for your organization
+  - Before you build an API
+- [**1. Who Needs Your API?**](#1-who-needs-your-api) (6 videos)
+  - Why good API design is important
+  - Approaches to adding an API
+  - Tips for modeling APIs
+  - Identifying participants
+  - Identifying activities and breaking them into steps
+  - Case study: Identifying participants and activities
+- [**2. What Does Your API Look Like?**](#2-what-does-your-api-look-like) (3 videos)
+  - Creating and grouping API methods
+  - Mapping activities to verbs and actions
+  - Validating your API
+- [**3. How Does Your API Work?**](#3-how-does-your-api-work) (4 videos)
+  - REST and HTML
+  - HTTP header and response codes
+  - REST APIs: Constraints
+  - REST APIs: Code on demand and uniform interfaces
+- [**4. Common Design Challenges**](#4-common-design-challenges) (7 videos)
+  - Authentication and authorization
+  - API versioning best practices
+  - Choosing media types and processing content
+  - Hypermedia approaches
+  - Advanced HTTP headers: Content negotiation and caching
+  - Documentation approaches
+  - SDK design considerations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps toward designing a RESTful API
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design a RESTful API for your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980)
@@ -131,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Who Needs Your API?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why good API design is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980)
@@ -590,7 +613,7 @@ created: 2026-04-29
 
 ### 2. What Does Your API Look Like?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and grouping API methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/creating-and-grouping-api-methods-14392975?u=76281980)
@@ -1041,7 +1064,7 @@ created: 2026-04-29
 
 ### 3. How Does Your API Work?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### REST and HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980)
@@ -1537,7 +1560,7 @@ created: 2026-04-29
 
 ### 4. Common Design Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication and authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980)
@@ -2225,7 +2248,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps toward designing a RESTful API
 > [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/next-steps-toward-designing-a-restful-api?u=76281980)

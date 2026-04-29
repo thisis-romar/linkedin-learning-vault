@@ -52,17 +52,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Starting a Project with Poetry]]** (7 videos)
-- **[[#2. Power Up Your Tests]]** (9 videos)
-- **[[#3. Tidy Up Your Code]]** (7 videos)
-- **[[#4. Standardize Testing Using tox]]** (4 videos)
-- **[[#5. Setting up a Workflow on GitHub Action]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Create an open-source project in Python
+  - What you should know
+- [**1. Starting a Project with Poetry**](#1-starting-a-project-with-poetry) (7 videos)
+  - What is Poetry?
+  - Install Poetry
+  - Starting a project
+  - What is pyproject.toml?
+  - Adding dependencies
+  - Poetry lock and install
+  - Checkpoint: What you have so far
+- [**2. Power Up Your Tests**](#2-power-up-your-tests) (9 videos)
+  - What is pytest?
+  - Introduction to your project
+  - Writing simple tests
+  - Testing with multiple parameters
+  - Test if an exception is raised
+  - What is a fixture?
+  - Using fixture
+  - Skipping a test, with good reasons
+  - Checkpoint: What you have so far
+- [**3. Tidy Up Your Code**](#3-tidy-up-your-code) (7 videos)
+  - What is PEP 8?
+  - What is Black?
+  - Formatting your code with Black
+  - What is a linter?
+  - Linting your code with Flake8
+  - Using pre-commit to clean up automatically
+  - Checkpoint: What you have so far
+- [**4. Standardize Testing Using tox**](#4-standardize-testing-using-tox) (4 videos)
+  - What is tox?
+  - tox basic usage
+  - tox advance usage
+  - Checkpoint: What you have so far
+- [**5. Setting up a Workflow on GitHub Action**](#5-setting-up-a-workflow-on-github-action) (4 videos)
+  - What is GitHub Action?
+  - Setting up a workflow for testing
+  - Why do you need code coverage?
+  - Adding code coverage to workflow
+- [**Conclusion**](#conclusion) (1 videos)
+  - Open-source project with good practice
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an open-source project in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980)
@@ -117,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Starting a Project with Poetry
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Poetry?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-poetry?u=76281980)
@@ -513,7 +547,7 @@ created: 2026-04-29
 
 ### 2. Power Up Your Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is pytest?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980)
@@ -1155,7 +1189,7 @@ created: 2026-04-29
 
 ### 3. Tidy Up Your Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is PEP 8?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980)
@@ -1727,7 +1761,7 @@ created: 2026-04-29
 
 ### 4. Standardize Testing Using tox
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is tox?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980)
@@ -1945,7 +1979,7 @@ created: 2026-04-29
 
 ### 5. Setting up a Workflow on GitHub Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub Action?
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980)
@@ -2224,7 +2258,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Open-source project with good practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980)

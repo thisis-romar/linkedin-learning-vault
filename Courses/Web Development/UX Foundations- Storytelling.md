@@ -46,15 +46,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Strategic Story Planning]]** (7 videos)
-- **[[#2. Role of Empathy in Storytelling]]** (3 videos)
-- **[[#3. Boosting Sales with Consistent, Targeted Story]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The business of story
+- [**1. Strategic Story Planning**](#1-strategic-story-planning) (7 videos)
+  - Choose the right story
+  - Defining the story arc
+  - Set the stage
+  - Action sequence
+  - End the story right
+  - Be the guide, not the hero
+  - Clarify your message
+- [**2. Role of Empathy in Storytelling**](#2-role-of-empathy-in-storytelling) (3 videos)
+  - Embrace emotion to empathize with customers
+  - Authentic, relatable stories
+  - Brain science: Why we buy
+- [**3. Boosting Sales with Consistent, Targeted Story**](#3-boosting-sales-with-consistent-targeted-story) (5 videos)
+  - Your signature story
+  - Where to tell your story: Evaluating possible platforms
+  - Perspective matters: The angle you choose
+  - From storytelling to story-selling: Monetizing your stories
+  - Visual storytelling: The power of pictures
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The business of story
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/the-business-of-story-21039234?u=76281980)
@@ -81,7 +98,7 @@ created: 2026-04-29
 
 ### 1. Strategic Story Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose the right story
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/choose-the-right-story-24077540?u=76281980)
@@ -731,7 +748,7 @@ created: 2026-04-29
 
 ### 2. Role of Empathy in Storytelling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace emotion to empathize with customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/embrace-emotion-to-empathize-with-customers-24080442?u=76281980)
@@ -972,7 +989,7 @@ created: 2026-04-29
 
 ### 3. Boosting Sales with Consistent, Targeted Story
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your signature story
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/your-signature-story-21043251?u=76281980)
@@ -1396,7 +1413,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-storytelling/next-steps-24078478?u=76281980)

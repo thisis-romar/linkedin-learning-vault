@@ -45,18 +45,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up Your Coding Environment]]** (3 videos)
-- **[[#2. Programming Building Blocks: Variables]]** (4 videos)
-- **[[#3. Using Variables to Build a UI]]** (8 videos)
-- **[[#4. Programming Building Blocks: Methods]]** (9 videos)
-- **[[#5. Programming Building Blocks: Control Flow]]** (7 videos)
-- **[[#6. Finishing the Application]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know before watching this course
+  - The finished app
+- [**1. Setting Up Your Coding Environment**](#1-setting-up-your-coding-environment) (3 videos)
+  - Creating an Xcode project
+  - Understanding the Xcode interface
+  - Adjusting Xcode preferences and settings
+- [**2. Programming Building Blocks: Variables**](#2-programming-building-blocks-variables) (4 videos)
+  - Understanding how programming works
+  - Understanding variables and constants
+  - Working with variables in a playground
+  - Using variables in SwiftUI
+- [**3. Using Variables to Build a UI**](#3-using-variables-to-build-a-ui) (8 videos)
+  - SwiftUI layout basics
+  - Creating custom SwiftUI components
+  - Creating calculator buttons
+  - Setting button text
+  - Setting button width
+  - Setting button colors
+  - Challenge: Create the value text view
+  - Solution: Create the value text view
+- [**4. Programming Building Blocks: Methods**](#4-programming-building-blocks-methods) (9 videos)
+  - Understanding methods
+  - Using methods
+  - Running code when a button is pressed
+  - Using a method as a variable
+  - Passing parameters to method variables
+  - SwiftUI binding
+  - Using different methods to handle different events
+  - Challenge: Create methods for the equal button
+  - Solution: Create methods for the equal button
+- [**5. Programming Building Blocks: Control Flow**](#5-programming-building-blocks-control-flow) (7 videos)
+  - Understanding conditional statements
+  - Using conditional statements and Booleans
+  - Handling the numeric button presses
+  - Optionals and If Let statements
+  - Enums
+  - Challenge: Conditionals
+  - Solution: Conditionals
+- [**6. Finishing the Application**](#6-finishing-the-application) (7 videos)
+  - Storing the saved number
+  - Showing the total when the equals button is tapped
+  - Formatting the total number
+  - Replacing the mode buttons with symbols
+  - Adding an app icon
+  - Challenge: Clear button
+  - Solution: Clear button
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/welcome?u=76281980)
@@ -150,7 +192,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Coding Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an Xcode project
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-an-xcode-project?u=76281980)
@@ -299,7 +341,7 @@ created: 2026-04-29
 
 ### 2. Programming Building Blocks: Variables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding how programming works
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980)
@@ -583,7 +625,7 @@ created: 2026-04-29
 
 ### 3. Using Variables to Build a UI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SwiftUI layout basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-layout-basics?u=76281980)
@@ -1203,7 +1245,7 @@ created: 2026-04-29
 
 ### 4. Programming Building Blocks: Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-methods?u=76281980)
@@ -1980,7 +2022,7 @@ created: 2026-04-29
 
 ### 5. Programming Building Blocks: Control Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding conditional statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980)
@@ -2629,7 +2671,7 @@ created: 2026-04-29
 
 ### 6. Finishing the Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Storing the saved number
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/storing-the-saved-number?u=76281980)
@@ -3061,7 +3103,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980)

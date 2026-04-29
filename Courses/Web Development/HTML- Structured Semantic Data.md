@@ -48,15 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Implementing Data Schemes with Microdata]]** (8 videos)
-- **[[#2. Working with JSON-LD]]** (5 videos)
-- **[[#3. Structured Data Examples]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Appreciating the value of the semantic web
+  - Introducing schema.org, a standardized way of describing items
+  - Comparing JSON-LD, RDFa, and microdata for implementing data schemes
+- [**1. Implementing Data Schemes with Microdata**](#1-implementing-data-schemes-with-microdata) (8 videos)
+  - Using itemscope and itemtype to add meaning
+  - Adding itemprop to expand on meaning
+  - Embedding schemas in schemas
+  - Using the meta tag for information that cannot be marked up
+  - Using the Structured Data Markup Helper for microdata
+  - Testing your microdata markup with the Structured Data Testing Tool
+  - Challenge: Marking up a document with microdata
+  - Solution: Marking up a document with microdata
+- [**2. Working with JSON-LD**](#2-working-with-json-ld) (5 videos)
+  - Writing JSON-LD by hand
+  - Working with the Structured Data Markup Helper
+  - Testing our JSON-LD code with the Structured Data Testing Tool
+  - Challenge: Marking up a document with JSON-LD
+  - Solution: Marking up a document with JSON-LD
+- [**3. Structured Data Examples**](#3-structured-data-examples) (5 videos)
+  - Understanding rich search results from Google
+  - Writing JSON-LD code for rich search results with a recipe
+  - Testing and previewing the rich results code
+  - Challenge: Rich search results for courses
+  - Solution: Rich search results for courses
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Appreciating the value of the semantic web
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/appreciating-the-value-of-the-semantic-web-23000145?u=76281980)
@@ -302,7 +324,7 @@ created: 2026-04-29
 
 ### 1. Implementing Data Schemes with Microdata
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using itemscope and itemtype to add meaning
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/using-itemscope-and-itemtype-to-add-meaning?u=76281980)
@@ -1055,7 +1077,7 @@ created: 2026-04-29
 
 ### 2. Working with JSON-LD
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing JSON-LD by hand
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/writing-json-ld-by-hand?u=76281980)
@@ -1366,7 +1388,7 @@ created: 2026-04-29
 
 ### 3. Structured Data Examples
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding rich search results from Google
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/understanding-rich-search-results-from-google?u=76281980)
@@ -1863,7 +1885,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-structured-semantic-data/next-steps?u=76281980)

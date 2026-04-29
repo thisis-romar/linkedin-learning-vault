@@ -52,16 +52,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding RAG]]** (2 videos)
-- **[[#2. RAG in action]]** (4 videos)
-- **[[#3. RAG for GRC]]** (3 videos)
-- **[[#4. Advanced RAG Application]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome to RAG for Cyber Security
+  - What to know before getting started
+- [**1. Understanding RAG**](#1-understanding-rag) (2 videos)
+  - What is Retrieval-Augmented Generation?
+  - Core components of RAG systems
+- [**2. RAG in action**](#2-rag-in-action) (4 videos)
+  - Introduce RAGs capabilities for risk and cyber security
+  - Uploading  MITRE ATT&CK techniques to a vector database
+  - Adding the LLM
+  - Case Study: MITRE ATT&CK and RAG in action
+- [**3. RAG for GRC**](#3-rag-for-grc) (3 videos)
+  - Using RAG for GRC automation
+  - Enhancing regulatory compliance with RAG
+  - Gap analysis using RAG: A deep dive
+- [**4. Advanced RAG Application**](#4-advanced-rag-application) (2 videos)
+  - Maintaining and scaling RAG systems
+  - Course summary
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to RAG for Cyber Security
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980)
@@ -115,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Understanding RAG
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Retrieval-Augmented Generation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980)
@@ -359,7 +373,7 @@ created: 2026-04-29
 
 ### 2. RAG in action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduce RAGs capabilities for risk and cyber security
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980)
@@ -849,7 +863,7 @@ created: 2026-04-29
 
 ### 3. RAG for GRC
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using RAG for GRC automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980)
@@ -1133,7 +1147,7 @@ created: 2026-04-29
 
 ### 4. Advanced RAG Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintaining and scaling RAG systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980)
@@ -1357,7 +1371,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980)

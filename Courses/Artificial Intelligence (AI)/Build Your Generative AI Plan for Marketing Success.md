@@ -50,16 +50,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Delegate Marketing Tasks to Your AI Deputy]]** (5 videos)
-- **[[#2. Create Your Own Marketing Analytics Assistant]]** (3 videos)
-- **[[#3. Boost Your Career with a Strategic Brainstorming Partner]]** (4 videos)
-- **[[#4. Becoming a Marketing Trailblazer with Generative AI]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Practical applications of generative AI for marketers
+  - What you should know
+- [**1. Delegate Marketing Tasks to Your AI Deputy**](#1-delegate-marketing-tasks-to-your-ai-deputy) (5 videos)
+  - Analogies for working with AI
+  - Content generation: Generative AI's starting point
+  - Using generative AI for admin tasks and internal communications
+  - Simple marketing tasks generative AI can do in a heartbeat
+  - Performing sophisticated marketing tasks with generative AI
+- [**2. Create Your Own Marketing Analytics Assistant**](#2-create-your-own-marketing-analytics-assistant) (3 videos)
+  - Creative campaign development with generative AI
+  - How generative AI aids marketing measurement
+  - Identifying marketing insights with generative AI
+- [**3. Boost Your Career with a Strategic Brainstorming Partner**](#3-boost-your-career-with-a-strategic-brainstorming-partner) (4 videos)
+  - Asking generative AI to help you ask it
+  - Asking generative AI for its opinion: Brainstorming
+  - Asking generative AI to be your teacher or mentor
+  - Long-term career planning and development with GenAI
+- [**4. Becoming a Marketing Trailblazer with Generative AI**](#4-becoming-a-marketing-trailblazer-with-generative-ai) (4 videos)
+  - Organizational readiness and executive alignment
+  - Training the whole company on generative AI
+  - Integrating GenAI into processes, products, and services
+  - Measuring the value and long-term impact of GenAI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing to leverage AI to support your marketing
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practical applications of generative AI for marketers
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/practical-applications-of-generative-ai-for-marketers?u=76281980)
@@ -102,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Delegate Marketing Tasks to Your AI Deputy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analogies for working with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/analogies-for-working-with-ai?u=76281980)
@@ -528,7 +547,7 @@ created: 2026-04-29
 
 ### 2. Create Your Own Marketing Analytics Assistant
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creative campaign development with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/creative-campaign-development-with-generative-ai?u=76281980)
@@ -718,7 +737,7 @@ created: 2026-04-29
 
 ### 3. Boost Your Career with a Strategic Brainstorming Partner
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Asking generative AI to help you ask it
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/asking-generative-ai-to-help-you-ask-it?u=76281980)
@@ -1070,7 +1089,7 @@ created: 2026-04-29
 
 ### 4. Becoming a Marketing Trailblazer with Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizational readiness and executive alignment
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/organizational-readiness-and-executive-alignment?u=76281980)
@@ -1367,7 +1386,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to leverage AI to support your marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-your-generative-ai-plan-for-marketing-success/continuing-to-leverage-ai-to-support-your-marketing?u=76281980)

@@ -48,17 +48,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Why Best Practices?]]** (4 videos)
-- **[[#2. Declaring Variables]]** (7 videos)
-- **[[#3. Assigning Values]]** (6 videos)
-- **[[#4. Type Casting]]** (6 videos)
-- **[[#5. Comparing Values]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Working effectively with JavaScript data
+  - What you should know
+  - Setting up your environment
+- [**1. Why Best Practices?**](#1-why-best-practices) (4 videos)
+  - Understanding style guides
+  - Using modern deployment tools
+  - Understanding ESLint
+  - Foundational practice: Always use strict mode
+- [**2. Declaring Variables**](#2-declaring-variables) (7 videos)
+  - Prefer const, then let
+  - Use individual statements to create variables
+  - Create descriptive variable names
+  - Standardize acronym case
+  - Remove unused variables
+  - Challenge: Declare variables
+  - Solution: Declare variables
+- [**3. Assigning Values**](#3-assigning-values) (6 videos)
+  - Don't assign variables in chains
+  - Standardize quotes
+  - Create arrays and objects using literals
+  - Quote object property names consistently
+  - Challenge: Assign values
+  - Solution: Assign values
+- [**4. Type Casting**](#4-type-casting) (6 videos)
+  - Type cast strings with the String wrapper
+  - Type cast numbers with the Number wrapper
+  - Type cast Booleans using double negation
+  - Rely on implicit Boolean values in conditionals
+  - Challenge: Type cast
+  - Solution: Type cast
+- [**5. Comparing Values**](#5-comparing-values) (7 videos)
+  - Use triple-character equality operators
+  - Don't use Yoda conditions
+  - Compare appropriately for the data type
+  - Use ternary statements judiciously
+  - Add parentheses to clarify logic
+  - Challenge: Compare values
+  - Solution: Compare values
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working effectively with JavaScript data
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980)
@@ -200,7 +234,7 @@ created: 2026-04-29
 
 ### 1. Why Best Practices?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding style guides
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980)
@@ -493,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Declaring Variables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prefer const, then let
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980)
@@ -1010,7 +1044,7 @@ created: 2026-04-29
 
 ### 3. Assigning Values
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Don't assign variables in chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-assign-variables-in-chains?u=76281980)
@@ -1330,7 +1364,7 @@ created: 2026-04-29
 
 ### 4. Type Casting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Type cast strings with the String wrapper
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-strings-with-the-string-wrapper?u=76281980)
@@ -1634,7 +1668,7 @@ created: 2026-04-29
 
 ### 5. Comparing Values
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use triple-character equality operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980)
@@ -2138,7 +2172,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980)

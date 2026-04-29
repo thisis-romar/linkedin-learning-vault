@@ -40,18 +40,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. IoT Basics]]** (5 videos)
-- **[[#2. IoT in the Cloud Use Cases]]** (5 videos)
-- **[[#3. Amazon Web Service IoT Platform]]** (5 videos)
-- **[[#4. Microsoft Azure IoT Hub]]** (5 videos)
-- **[[#5. IoT on the Cloud: Solutions Walkthrough]]** (5 videos)
-- **[[#6. Other Considerations]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Intro to Internet of Things (IoT) on cloud platforms
+  - What you should know
+- [**1. IoT Basics**](#1-iot-basics) (5 videos)
+  - What is an IoT device?
+  - IoT data
+  - IoT data processing
+  - IoT data storage at the edge and in the cloud
+  - IoT growth in the cloud
+- [**2. IoT in the Cloud Use Cases**](#2-iot-in-the-cloud-use-cases) (5 videos)
+  - Healthcare
+  - Finance
+  - Law enforcement
+  - Manufacturing
+  - Education
+- [**3. Amazon Web Service IoT Platform**](#3-amazon-web-service-iot-platform) (5 videos)
+  - Design
+  - Build
+  - Deploy
+  - Operate
+  - Demo
+- [**4. Microsoft Azure IoT Hub**](#4-microsoft-azure-iot-hub) (5 videos)
+  - Design
+  - Build
+  - Deploy
+  - Operate
+  - Demo
+- [**5. IoT on the Cloud: Solutions Walkthrough**](#5-iot-on-the-cloud-solutions-walkthrough) (5 videos)
+  - Requirement
+  - Design
+  - Build
+  - Train
+  - Deployment
+- [**6. Other Considerations**](#6-other-considerations) (5 videos)
+  - Performance
+  - Cost
+  - Operations
+  - Security
+  - Governance
+- [**Conclusion**](#conclusion) (1 videos)
+  - Addional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Internet of Things (IoT) on cloud platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/intro-to-internet-of-things-iot-on-cloud-platforms-23421633?u=76281980)
@@ -106,7 +139,7 @@ created: 2026-04-29
 
 ### 1. IoT Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an IoT device?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/what-is-an-iot-device?u=76281980)
@@ -413,7 +446,7 @@ created: 2026-04-29
 
 ### 2. IoT in the Cloud Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/healthcare?u=76281980)
@@ -677,7 +710,7 @@ created: 2026-04-29
 
 ### 3. Amazon Web Service IoT Platform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-3?u=76281980)
@@ -970,7 +1003,7 @@ created: 2026-04-29
 
 ### 4. Microsoft Azure IoT Hub
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/design-2?u=76281980)
@@ -1250,7 +1283,7 @@ created: 2026-04-29
 
 ### 5. IoT on the Cloud: Solutions Walkthrough
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Requirement
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/requirement?u=76281980)
@@ -1519,7 +1552,7 @@ created: 2026-04-29
 
 ### 6. Other Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/performance?u=76281980)
@@ -1787,7 +1820,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Addional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-cloud-computing-for-iot/addional-resources?u=76281980)

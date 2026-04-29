@@ -50,21 +50,76 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Building Circuits]]** (2 videos)
-- **[[#2. Resistors]]** (4 videos)
-- **[[#3. Resistive Circuits]]** (10 videos)
-- **[[#4. Oscilloscope Measurements]]** (4 videos)
-- **[[#5. Capacitors]]** (9 videos)
-- **[[#6. Alternating Current]]** (3 videos)
-- **[[#7. Electrical Signals]]** (3 videos)
-- **[[#8. Reactive Circuits]]** (10 videos)
-- **[[#9. Inductors]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Principles of basic electronic circuits
+  - What you should know
+  - Using the exercise files
+  - Safety warnings
+- [**1. Building Circuits**](#1-building-circuits) (2 videos)
+  - Read electrical schematics
+  - Build circuits on breadboards
+- [**2. Resistors**](#2-resistors) (4 videos)
+  - Types of resistors
+  - Resistor characteristics
+  - Read resistor color codes
+  - Measure resistance
+- [**3. Resistive Circuits**](#3-resistive-circuits) (10 videos)
+  - Resistors in series
+  - Voltage dividers
+  - Shift voltage levels
+  - Measure resistive sensors
+  - Potentiometers
+  - Resistors in parallel
+  - Kirchhoff's circuit laws
+  - Wheatstone Bridge
+  - Challenge: Light activated switch
+  - Solution: Challenge: Light activated switch
+- [**4. Oscilloscope Measurements**](#4-oscilloscope-measurements) (4 videos)
+  - What is an oscilloscope?
+  - Measure a signal
+  - Oscilloscope display settings
+  - Oscilloscope trigger settings
+- [**5. Capacitors**](#5-capacitors) (9 videos)
+  - What is a capacitor?
+  - Types of capacitors
+  - Read capacitor values
+  - Capacitor characteristics
+  - Capacitors in parallel
+  - Capacitors in series
+  - RC circuits
+  - Challenge: Camera flash
+  - Solution: Camera flash
+- [**6. Alternating Current**](#6-alternating-current) (3 videos)
+  - Alternating current vs. direct current
+  - Sine wave characteristics
+  - Measure AC voltage
+- [**7. Electrical Signals**](#7-electrical-signals) (3 videos)
+  - Frequency domain
+  - Bandwidth and square waves
+  - Signal sources
+- [**8. Reactive Circuits**](#8-reactive-circuits) (10 videos)
+  - Impedance
+  - Filter frequency response
+  - Logarithmic scale
+  - Decibels
+  - RC low pass filter
+  - Decoupling capacitors
+  - RC high pass filter
+  - Impedance matching and bridging
+  - Challenge: Filter audio
+  - Solution: Filter audio
+- [**9. Inductors**](#9-inductors) (5 videos)
+  - Inductance
+  - What is an inductor?
+  - Types of inductors
+  - L/R response
+  - Capacitors vs. inductors
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue to learn more on electronics
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Principles of basic electronic circuits
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/principles-of-basic-electronic-circuits?u=76281980)
@@ -211,7 +266,7 @@ created: 2026-04-29
 
 ### 1. Building Circuits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Read electrical schematics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/read-electrical-schematics-14160027?u=76281980)
@@ -457,7 +512,7 @@ created: 2026-04-29
 
 ### 2. Resistors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of resistors
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/types-of-resistors-14155501?u=76281980)
@@ -816,7 +871,7 @@ created: 2026-04-29
 
 ### 3. Resistive Circuits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Resistors in series
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/resistors-in-series-14158256?u=76281980)
@@ -1506,7 +1561,7 @@ created: 2026-04-29
 
 ### 4. Oscilloscope Measurements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an oscilloscope?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-an-oscilloscope-14154695?u=76281980)
@@ -1898,7 +1953,7 @@ created: 2026-04-29
 
 ### 5. Capacitors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a capacitor?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/what-is-a-capacitor-14155491?u=76281980)
@@ -2538,7 +2593,7 @@ created: 2026-04-29
 
 ### 6. Alternating Current
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Alternating current vs. direct current
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/alternating-current-vs-direct-current-14154693?u=76281980)
@@ -2805,7 +2860,7 @@ created: 2026-04-29
 
 ### 7. Electrical Signals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Frequency domain
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/frequency-domain-14158269?u=76281980)
@@ -3033,7 +3088,7 @@ created: 2026-04-29
 
 ### 8. Reactive Circuits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Impedance
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/impedance-14157280?u=76281980)
@@ -4035,7 +4090,7 @@ created: 2026-04-29
 
 ### 9. Inductors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inductance
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/inductance-14159237?u=76281980)
@@ -4445,7 +4500,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue to learn more on electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-basic-circuits/continue-to-learn-more-on-electronics?u=76281980)

@@ -46,15 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Convert Content to Semantic HTML Markup]]** (7 videos)
-- **[[#2. Build the Rest of the Webpage]]** (9 videos)
-- **[[#3. Additional Important Semantic Elements]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Craft meaningful HTML
+  - Working with CodePen
+  - Working with Visual Studio Code
+- [**1. Convert Content to Semantic HTML Markup**](#1-convert-content-to-semantic-html-markup) (7 videos)
+  - Explore content and add it to CodePen
+  - Identify major elements of a page
+  - Identify headings and paragraphs
+  - Enhance an article with emphasis and links
+  - Ordered, unordered, and definition lists
+  - Challenge: First pass at article markup
+  - Solution: First pass at article markup
+- [**2. Build the Rest of the Webpage**](#2-build-the-rest-of-the-webpage) (9 videos)
+  - Move your code from CodePen to Visual Studio Code (VS Code)
+  - Understand the head code
+  - Add semantic navigation
+  - Add images, figures, and figure captions
+  - Add footers with address, time, and date
+  - Add quotes, line breaks, and citations
+  - When to use div and span elements
+  - Challenge: Identify semantic problems
+  - Solution: Identify semantic problems
+- [**3. Additional Important Semantic Elements**](#3-additional-important-semantic-elements) (5 videos)
+  - Controlling breaks with <wbr> or &shy;
+  - Displaying code with <code>, <samp>, and <kbd>
+  - Providing scripting alternatives with <noscript>
+  - Providing details with <details> and <summary>
+  - Understanding the misunderstood <hr>
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Craft meaningful HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980)
@@ -158,7 +183,7 @@ created: 2026-04-29
 
 ### 1. Convert Content to Semantic HTML Markup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore content and add it to CodePen
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980)
@@ -821,7 +846,7 @@ created: 2026-04-29
 
 ### 2. Build the Rest of the Webpage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Move your code from CodePen to Visual Studio Code (VS Code)
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980)
@@ -1901,7 +1926,7 @@ created: 2026-04-29
 
 ### 3. Additional Important Semantic Elements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Controlling breaks with <wbr> or &shy;
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980)
@@ -2403,7 +2428,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/next-steps?u=76281980)

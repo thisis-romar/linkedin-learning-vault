@@ -55,17 +55,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Security Overview]]** (5 videos)
-- **[[#2. Best Practices: Packages]]** (3 videos)
-- **[[#3. Best Practices: Data]]** (4 videos)
-- **[[#4. Best Practices: Server Level]]** (4 videos)
-- **[[#5. Tools for Testing]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Securing your Node.js projects
+  - What you should know
+- [**1. Security Overview**](#1-security-overview) (5 videos)
+  - Introduction to OWASP and other sources
+  - OWASP Top 10 in Node.js
+  - Overview of broken access control
+  - Overview of cryptographic failures
+  - Overview of injections
+- [**2. Best Practices: Packages**](#2-best-practices-packages) (3 videos)
+  - Hands-on base template overview
+  - Maintain package dependencies
+  - Add 2-factor and read-only tokens with NPM
+- [**3. Best Practices: Data**](#3-best-practices-data) (4 videos)
+  - Data handling with type and validation
+  - Use prepared statements for SQL and NoSQL
+  - Set proper HTTP headers with Helmet
+  - Encrypt user data and session management
+- [**4. Best Practices: Server Level**](#4-best-practices-server-level) (4 videos)
+  - Use secure HTTPS protocol
+  - Rate limiting against DoS attacks
+  - Use a library to prevent CSRF attacks
+  - Use cookie attributes
+- [**5. Tools for Testing**](#5-tools-for-testing) (3 videos)
+  - Introduction to OWASP dependency check
+  - Find vulnerabilities with Snyk
+  - Penetration testing with Burp Suite
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your Node.js projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980)
@@ -121,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Security Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OWASP and other sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980)
@@ -492,7 +514,7 @@ created: 2026-04-29
 
 ### 2. Best Practices: Packages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on base template overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980)
@@ -803,7 +825,7 @@ created: 2026-04-29
 
 ### 3. Best Practices: Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data handling with type and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/data-handling-with-type-and-validation?u=76281980)
@@ -1064,7 +1086,7 @@ created: 2026-04-29
 
 ### 4. Best Practices: Server Level
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use secure HTTPS protocol
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/use-secure-https-protocol?u=76281980)
@@ -1302,7 +1324,7 @@ created: 2026-04-29
 
 ### 5. Tools for Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OWASP dependency check
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980)
@@ -1444,7 +1466,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980)

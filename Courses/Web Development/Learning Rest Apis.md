@@ -41,16 +41,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. REST API: Representational State Transfer Application Programming Interface]]** (7 videos)
-- **[[#2. Request]]** (4 videos)
-- **[[#3. Response]]** (3 videos)
-- **[[#4. Request/Response Pairs]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome
+- [**1. REST API: Representational State Transfer Application Programming Interface**](#1-rest-api-representational-state-transfer-application-programming-interface) (7 videos)
+  - The RESTful librarian
+  - What is a REST API?
+  - Sidebar: URL vs. URI
+  - The six constraints of REST
+  - How REST relates to HTTP
+  - Who or what interacts with REST APIs?
+  - Tools to see REST API in action
+- [**2. Request**](#2-request) (4 videos)
+  - Anatomy of a REST request
+  - Discovery
+  - Resource
+  - Methods (Verbs)
+- [**3. Response**](#3-response) (3 videos)
+  - Response header
+  - HTTP status messages
+  - REST and Authorization/Authentication
+- [**4. Request/Response Pairs**](#4-requestresponse-pairs) (5 videos)
+  - Request/response pairs
+  - GET
+  - POST
+  - PUT/PATCH
+  - DELETE
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/welcome?u=76281980)
@@ -108,7 +129,7 @@ created: 2026-04-29
 
 ### 1. REST API: Representational State Transfer Application Programming Interface
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The RESTful librarian
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/the-restful-librarian?u=76281980)
@@ -611,7 +632,7 @@ created: 2026-04-29
 
 ### 2. Request
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Anatomy of a REST request
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/anatomy-of-a-rest-request?u=76281980)
@@ -889,7 +910,7 @@ created: 2026-04-29
 
 ### 3. Response
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Response header
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/response-header?u=76281980)
@@ -1060,7 +1081,7 @@ created: 2026-04-29
 
 ### 4. Request/Response Pairs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Request/response pairs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/request-response-pairs?u=76281980)
@@ -1444,7 +1465,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-rest-apis/next-steps?u=76281980)

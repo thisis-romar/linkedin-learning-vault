@@ -41,14 +41,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Makes a Good Prompt?]]** (2 videos)
-- **[[#2. Prompt Examples]]** (5 videos)
-- **[[#3. Build Your AI Skills with Copilot Prompt Gallery]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Write more effective prompts in Copilot
+  - Understand the Copilot subscriptions
+- [**1. What Makes a Good Prompt?**](#1-what-makes-a-good-prompt) (2 videos)
+  - Understand the ingredients of a good prompt
+  - Prompting dos and don'ts
+- [**2. Prompt Examples**](#2-prompt-examples) (5 videos)
+  - Teams
+  - Word
+  - Powerpoint
+  - Excel
+  - Outlook
+- [**3. Build Your AI Skills with Copilot Prompt Gallery**](#3-build-your-ai-skills-with-copilot-prompt-gallery) (1 videos)
+  - Explore Copilot Prompt Gallery
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Write more effective prompts in Copilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980)
@@ -120,7 +130,7 @@ created: 2026-04-29
 
 ### 1. What Makes a Good Prompt?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the ingredients of a good prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980)
@@ -373,7 +383,7 @@ created: 2026-04-29
 
 ### 2. Prompt Examples
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980)
@@ -859,7 +869,7 @@ created: 2026-04-29
 
 ### 3. Build Your AI Skills with Copilot Prompt Gallery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Copilot Prompt Gallery
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980)

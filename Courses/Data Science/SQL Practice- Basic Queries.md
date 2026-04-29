@@ -48,13 +48,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Code Challenges]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Talking to your database in SQL
+  - What you should know
+  - Exploring the lab environment
+- [**1. Code Challenges**](#1-code-challenges) (7 videos)
+  - Solution: Get sorted data from a table
+  - Solution: Retrieve data from multiple tables
+  - Solution: Retrieve data filtered on a range
+  - Solution: Retrieve aggregated data
+  - Solution: Get data filtered with a string pattern
+  - Solution: Find the most expensive order
+  - Solution: Find the average of orders
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Talking to your database in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/talking-to-your-database-in-sql?u=76281980)
@@ -161,7 +172,7 @@ created: 2026-04-29
 
 ### 1. Code Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Get sorted data from a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/solution-retrieve-sorted-data-from-a-specific-table?u=76281980)
@@ -461,7 +472,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-practice-basic-queries/next-steps?u=76281980)

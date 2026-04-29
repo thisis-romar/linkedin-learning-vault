@@ -46,15 +46,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Bit Shift Register]]** (6 videos)
-- **[[#2. Word Shift Operations]]** (9 videos)
-- **[[#3. Program Flow Control Instructions]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - PLC program flow and control
+  - What you should know before watching
+- [**1. Bit Shift Register**](#1-bit-shift-register) (6 videos)
+  - Concepts of bits and words
+  - Bit shift registers intro
+  - Bit shift register parameters
+  - BSL instruction (bit shift left)
+  - BSR instruction (bit shift right)
+  - BSL instruction demonstration
+- [**2. Word Shift Operations**](#2-word-shift-operations) (9 videos)
+  - Word shift operations intro
+  - First in, first out (FIFO) instruction
+  - FFL (FIFO load) parameters, part 1
+  - FFL (FIFO load) parameters, part 2
+  - FFU (FIFO unload) parameters
+  - Illustrate FIFO operation: Example
+  - Illustrate FFL operation, part 1
+  - Illustrate FFL operation, part 2
+  - Example program
+- [**3. Program Flow Control Instructions**](#3-program-flow-control-instructions) (9 videos)
+  - Intro to program control instructions
+  - Jump (JMP) to label (LBL) instructions
+  - Master control rest (MCR) instruction
+  - Difference between JMP and MCR
+  - Introduction to subroutines
+  - Jump to subroutine (JSR) instruction
+  - Subroutine (SBR) instruction
+  - Return from subroutine (RET)
+  - Nested subroutines
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PLC program flow and control
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980)
@@ -112,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Bit Shift Register
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Concepts of bits and words
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980)
@@ -371,7 +398,7 @@ created: 2026-04-29
 
 ### 2. Word Shift Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Word shift operations intro
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/word-shift-operations-intro?u=76281980)
@@ -721,7 +748,7 @@ created: 2026-04-29
 
 ### 3. Program Flow Control Instructions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to program control instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980)
@@ -985,7 +1012,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980)

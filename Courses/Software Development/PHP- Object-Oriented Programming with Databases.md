@@ -45,18 +45,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Overview and Project Setup]]** (4 videos)
-- **[[#2. The Database Connection]]** (5 videos)
-- **[[#3. Define a Database-Driven Class]]** (6 videos)
-- **[[#4. Object-Oriented CRUD]]** (10 videos)
-- **[[#5. Object-Oriented Authentication]]** (9 videos)
-- **[[#6. Object-Oriented Pagination]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - How to use the exercise files
+  - What you need to know
+- [**1. Overview and Project Setup**](#1-overview-and-project-setup) (4 videos)
+  - Project overview
+  - Create a project database
+  - Create a database table
+  - Project files
+- [**2. The Database Connection**](#2-the-database-connection) (5 videos)
+  - Database credentials
+  - Connect to the database
+  - MySQLi methods and properties
+  - Query using OOP
+  - Disconnect from the database
+- [**3. Define a Database-Driven Class**](#3-define-a-database-driven-class) (6 videos)
+  - Active record design patterns
+  - Set the database
+  - Define query methods
+  - Build objects using record values
+  - Find a single record
+  - Display a detail page
+- [**4. Object-Oriented CRUD**](#4-object-oriented-crud) (10 videos)
+  - CRUD operations
+  - Create a record
+  - Dynamic attribute list
+  - Sanitize values for database
+  - Find record to update
+  - Update a record
+  - HTML forms for OOP
+  - Validations and errors
+  - Delete a record
+  - Create inheritable code
+- [**5. Object-Oriented Authentication**](#5-object-oriented-authentication) (9 videos)
+  - Admin class
+  - Hashing passwords
+  - Admin validations
+  - Find by username
+  - Verify password
+  - Define a session class
+  - Add page access control
+  - Improve the session class
+  - Session messages
+- [**6. Object-Oriented Pagination**](#6-object-oriented-pagination) (5 videos)
+  - Pagination concepts
+  - Define a pagination class
+  - Paginate bicycles
+  - Previous and next page links
+  - Numbered page links
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/welcome?u=76281980)
@@ -225,7 +268,7 @@ created: 2026-04-29
 
 ### 1. Overview and Project Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/project-overview?u=76281980)
@@ -544,7 +587,7 @@ created: 2026-04-29
 
 ### 2. The Database Connection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Database credentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/database-credentials?u=76281980)
@@ -1039,7 +1082,7 @@ created: 2026-04-29
 
 ### 3. Define a Database-Driven Class
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Active record design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/active-record-design-patterns?u=76281980)
@@ -1712,7 +1755,7 @@ created: 2026-04-29
 
 ### 4. Object-Oriented CRUD
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CRUD operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/crud-operations?u=76281980)
@@ -3800,7 +3843,7 @@ created: 2026-04-29
 
 ### 5. Object-Oriented Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Admin class
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/admin-class?u=76281980)
@@ -5278,7 +5321,7 @@ created: 2026-04-29
 
 ### 6. Object-Oriented Pagination
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pagination concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/pagination-concepts?u=76281980)
@@ -6212,7 +6255,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-with-databases/next-steps?u=76281980)

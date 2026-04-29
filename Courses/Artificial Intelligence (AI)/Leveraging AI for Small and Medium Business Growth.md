@@ -39,16 +39,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Think Strategically about AI for Your Company]]** (4 videos)
-- **[[#2. Identify AI Use Cases]]** (5 videos)
-- **[[#3. Implement AI in Your Company]]** (5 videos)
-- **[[#4. Ethics, Responsible AI, and Risk Management]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - AI: The secret weapon for small business
+  - What to know before starting this course
+- [**1. Think Strategically about AI for Your Company**](#1-think-strategically-about-ai-for-your-company) (4 videos)
+  - The four categories of AI
+  - Three AI success drivers
+  - Are you an AI taker, maker, or creator?
+  - Estimating ROI for an AI use case
+- [**2. Identify AI Use Cases**](#2-identify-ai-use-cases) (5 videos)
+  - Describing AI use cases with the AI canvas
+  - AI-powered inventory management
+  - AI-enabled content marketing in multiple languages
+  - Enhancing customer experience with chatbots
+  - Improving HR management with AI
+- [**3. Implement AI in Your Company**](#3-implement-ai-in-your-company) (5 videos)
+  - Starting with problems, ideas, or data
+  - Strategy as a learning process
+  - Boosting AI literacy on your team
+  - Creating teams of explorers for the future of AI
+  - Scaling AI use cases beyond proof of concept
+- [**4. Ethics, Responsible AI, and Risk Management**](#4-ethics-responsible-ai-and-risk-management) (4 videos)
+  - AI ethics for small and medium business
+  - Understanding AI systems' biases
+  - Data privacy and security considerations
+  - Risk management for AI projects
+- [**Conclusion**](#conclusion) (1 videos)
+  - AI: Your future AI roadmap for growth
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI: The secret weapon for small business
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-the-secret-weapon-for-small-business?u=76281980)
@@ -107,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Think Strategically about AI for Your Company
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The four categories of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/the-four-categories-of-ai?u=76281980)
@@ -376,7 +397,7 @@ created: 2026-04-29
 
 ### 2. Identify AI Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing AI use cases with the AI canvas
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/describing-ai-use-cases-with-the-ai-canvas?u=76281980)
@@ -888,7 +909,7 @@ created: 2026-04-29
 
 ### 3. Implement AI in Your Company
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting with problems, ideas, or data
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/starting-with-problems-ideas-or-data?u=76281980)
@@ -1214,7 +1235,7 @@ created: 2026-04-29
 
 ### 4. Ethics, Responsible AI, and Risk Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI ethics for small and medium business
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-ethics-for-small-and-medium-business?u=76281980)
@@ -1593,7 +1614,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI: Your future AI roadmap for growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-ai-for-small-and-medium-business-growth/ai-your-future-ai-roadmap-for-growth?u=76281980)

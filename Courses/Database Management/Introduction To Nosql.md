@@ -43,16 +43,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. NoSQL? Why Can’t You Have Any Sequels?]]** (3 videos)
-- **[[#2. NoSQL Powers Everything]]** (2 videos)
-- **[[#3. The Three Vs: Volume, Velocity, and Variety]]** (5 videos)
-- **[[#4. Differences in Scalability, Performance, and Data Modeling]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - A guide to NoSQL: No programming needed
+- [**1. NoSQL? Why Can’t You Have Any Sequels?**](#1-nosql-why-cant-you-have-any-sequels) (3 videos)
+  - So what is NoSQL?
+  - Asking data questions with query languages
+  - Horizontal scalability
+- [**2. NoSQL Powers Everything**](#2-nosql-powers-everything) (2 videos)
+  - You're already using NoSQL databases—you just don't know it
+  - Give more examples
+- [**3. The Three Vs: Volume, Velocity, and Variety**](#3-the-three-vs-volume-velocity-and-variety) (5 videos)
+  - Volume: How much data are you really talking about?
+  - Velocity: Defining online speeds with OLTP
+  - Velocity: Understanding and increasing throughput
+  - Variety: Rethinking the data model
+  - Variety: NoSQL data models
+- [**4. Differences in Scalability, Performance, and Data Modeling**](#4-differences-in-scalability-performance-and-data-modeling) (1 videos)
+  - Comparing the three Vs to current relational databases
+- [**Conclusion**](#conclusion) (1 videos)
+  - That's a wrap
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A guide to NoSQL: No programming needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/a-guide-to-nosql-no-programming-needed?u=76281980)
@@ -82,7 +95,7 @@ created: 2026-04-29
 
 ### 1. NoSQL? Why Can’t You Have Any Sequels?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### So what is NoSQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/so-what-is-nosql?u=76281980)
@@ -318,7 +331,7 @@ created: 2026-04-29
 
 ### 2. NoSQL Powers Everything
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### You're already using NoSQL databases—you just don't know it
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/you-re-already-using-nosql-databases-you-just-don-t-know-it?u=76281980)
@@ -433,7 +446,7 @@ created: 2026-04-29
 
 ### 3. The Three Vs: Volume, Velocity, and Variety
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Volume: How much data are you really talking about?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/volume-how-much-data-are-you-really-talking-about?u=76281980)
@@ -808,7 +821,7 @@ created: 2026-04-29
 
 ### 4. Differences in Scalability, Performance, and Data Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing the three Vs to current relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/comparing-the-three-vs-to-current-relational-databases?u=76281980)
@@ -869,7 +882,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### That's a wrap
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-nosql/that-s-a-wrap?u=76281980)

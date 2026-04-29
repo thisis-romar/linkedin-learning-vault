@@ -51,16 +51,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Modern Data Engineering with Snowflake]]** (4 videos)
-- **[[#2. Batch Data Ingestion with Snowflake]]** (9 videos)
-- **[[#3. Data Transformations with Snowflake]]** (9 videos)
-- **[[#4. Delivering data products with Snowflake]]** (5 videos)
-- **[[#5. Orchestrating Continuous Data Pipelines with Snowflake]]** (5 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The explosion of data and the demand for insights
+  - What we’ll cover in this course
+- [**1. Modern Data Engineering with Snowflake**](#1-modern-data-engineering-with-snowflake) (4 videos)
+  - Modern data engineering with snowflake
+  - You’ve probably done some data engineering in the past
+  - Preparing your development environment
+  - Build a really simple data pipeline in snowflake
+- [**2. Batch Data Ingestion with Snowflake**](#2-batch-data-ingestion-with-snowflake) (9 videos)
+  - What is data ingestion?
+  - Batch ingestion with snowflake
+  - Loading data from snowflake marketplace
+  - Loading data using snowflake’s web interface
+  - Optimize compute resources for efficient batch ingestion
+  - Loading data using snowflake CLI
+  - Loading data using the COPY INTO command
+  - Ingesting data from other data systems using connectors
+  - Recap and best practices for batch ingestion
+- [**3. Data Transformations with Snowflake**](#3-data-transformations-with-snowflake) (9 videos)
+  - What are data transformations?
+  - Data transformations with SQL
+  - Data transformations with snowpark
+  - Computations with user-defined functions
+  - Efficient transformations with streams
+  - Complex procedural logic with stored procedures
+  - Automatic transformations with dynamic tables
+  - Data transformations in visual studio code (optional)
+  - Recap and best practices for data transformations
+- [**4. Delivering data products with Snowflake**](#4-delivering-data-products-with-snowflake) (5 videos)
+  - Delivery of data products
+  - Data sharing on snowflake marketplace
+  - Streamlit in snowflake applications
+  - Snowflake native applications
+  - Recap and best practices for data product delivery
+- [**5. Orchestrating Continuous Data Pipelines with Snowflake**](#5-orchestrating-continuous-data-pipelines-with-snowflake) (5 videos)
+  - What is orchestration?
+  - Automation with tasks
+  - Orchestration with DAGs
+  - Recap and best practices for pipeline orchestration
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The explosion of data and the demand for insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/the-explosion-of-data-and-the-demand-for-insights?u=76281980)
@@ -182,7 +216,7 @@ created: 2026-04-29
 
 ### 1. Modern Data Engineering with Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern data engineering with snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/modern-data-engineering-with-snowflake?u=76281980)
@@ -664,7 +698,7 @@ created: 2026-04-29
 
 ### 2. Batch Data Ingestion with Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data ingestion?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-data-ingestion?u=76281980)
@@ -1718,7 +1752,7 @@ created: 2026-04-29
 
 ### 3. Data Transformations with Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are data transformations?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-are-data-transformations?u=76281980)
@@ -2838,7 +2872,7 @@ created: 2026-04-29
 
 ### 4. Delivering data products with Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Delivery of data products
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/delivery-of-data-products?u=76281980)
@@ -3265,7 +3299,7 @@ created: 2026-04-29
 
 ### 5. Orchestrating Continuous Data Pipelines with Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is orchestration?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-modern-data-engineering-with-snowflake/what-is-orchestration?u=76281980)

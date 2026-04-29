@@ -47,16 +47,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Mitigating Enpoint Threats]]** (4 videos)
-- **[[#2. Web Security]]** (5 videos)
-- **[[#3. Email Security]]** (6 videos)
-- **[[#4. Best Practice]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Mitigate endpoint threats and provide security
+  - What you need to know
+- [**1. Mitigating Enpoint Threats**](#1-mitigating-enpoint-threats) (4 videos)
+  - Incorporating safeguards
+  - Secure the endpoints
+  - Standards and regulations
+  - COBIT framework
+- [**2. Web Security**](#2-web-security) (5 videos)
+  - PCI DSS controls
+  - Defend the website
+  - Web proxies
+  - Web filtering
+  - TLS/SSL decryption
+- [**3. Email Security**](#3-email-security) (6 videos)
+  - Email malware
+  - Combatting SPAM
+  - Data loss prevention
+  - Email encryption
+  - Challenge: Examine suspect IP addresses
+  - Solution: Examine suspect IP addresses
+- [**4. Best Practice**](#4-best-practice) (5 videos)
+  - Malware protection
+  - Personal firewall: HIPS
+  - Hardware and software encryption
+  - Case study: Malware detection
+  - Case study: Malware confirmation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mitigate endpoint threats and provide security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/mitigate-endpoint-threats-and-provide-security?u=76281980)
@@ -113,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Mitigating Enpoint Threats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Incorporating safeguards
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/incorporating-safeguards?u=76281980)
@@ -366,7 +389,7 @@ created: 2026-04-29
 
 ### 2. Web Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PCI DSS controls
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/pci-dss-controls?u=76281980)
@@ -711,7 +734,7 @@ created: 2026-04-29
 
 ### 3. Email Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Email malware
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/email-malware?u=76281980)
@@ -1123,7 +1146,7 @@ created: 2026-04-29
 
 ### 4. Best Practice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Malware protection
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/malware-protection?u=76281980)
@@ -1487,7 +1510,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-content-and-endpoint-security/next-steps?u=76281980)

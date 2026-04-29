@@ -45,17 +45,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Setting Up Jenkins]]** (8 videos)
-- **[[#2. Create a Build Environment]]** (6 videos)
-- **[[#3. Connect Jenkins with Webhooks]]** (5 videos)
-- **[[#4. Deploy Code to AWS Lambda]]** (6 videos)
-- **[[#5. Shut Down AWS Resources]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - CI/CD supercharged: Jenkins meets AWS
+- [**1. Setting Up Jenkins**](#1-setting-up-jenkins) (8 videos)
+  - Architect the Jenkins environment on AWS
+  - Create an IAM role
+  - Create a security group
+  - Create the Jenkins EC2 instance
+  - Install Java, Jenkins, and NGINX
+  - Configure NGINX
+  - Configure Jenkins
+  - Solution: Set up a Jenkins server
+- [**2. Create a Build Environment**](#2-create-a-build-environment) (6 videos)
+  - Plan the build environment
+  - Create an IAM role for the build server
+  - Create a security group and key pair for the build server
+  - Create the build server
+  - Connect Jenkins to the build server
+  - Solution: Set up a build server
+- [**3. Connect Jenkins with Webhooks**](#3-connect-jenkins-with-webhooks) (5 videos)
+  - Plan the CI/CD pipeline
+  - What's a webhook?
+  - Create and test a webhook with GitHub
+  - Solution: Connect Jenkins to GitHub
+  - Create and test webhooks with other services
+- [**4. Deploy Code to AWS Lambda**](#4-deploy-code-to-aws-lambda) (6 videos)
+  - Initialize the deployment target in AWS Lambda
+  - Create a GitHub repository for the application code
+  - Create a freestyle job to deploy code from GitHub, part 1
+  - Create a freestyle job to deploy code from GitHub, part 2
+  - Deploy to AWS Lambda from GitHub
+  - Solution: Deploy to AWS Lambda from GitHub
+- [**5. Shut Down AWS Resources**](#5-shut-down-aws-resources) (2 videos)
+  - Decomission AWS resources
+  - Solution: Decommission AWS resources
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CI/CD supercharged: Jenkins meets AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980)
@@ -87,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Jenkins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Architect the Jenkins environment on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980)
@@ -647,7 +676,7 @@ created: 2026-04-29
 
 ### 2. Create a Build Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan the build environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980)
@@ -1030,7 +1059,7 @@ created: 2026-04-29
 
 ### 3. Connect Jenkins with Webhooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan the CI/CD pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980)
@@ -1334,7 +1363,7 @@ created: 2026-04-29
 
 ### 4. Deploy Code to AWS Lambda
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Initialize the deployment target in AWS Lambda
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980)
@@ -1761,7 +1790,7 @@ created: 2026-04-29
 
 ### 5. Shut Down AWS Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Decomission AWS resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/decomission-aws-resources?u=76281980)
@@ -1885,7 +1914,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980)

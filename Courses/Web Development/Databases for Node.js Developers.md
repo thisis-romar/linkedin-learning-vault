@@ -49,18 +49,64 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Course Setup]]** (4 videos)
-- **[[#2. Introduction to Databases]]** (4 videos)
-- **[[#3. MongoDB: Building Your Product Catalog]]** (14 videos)
-- **[[#4. MySQL: Managing Users and Orders]]** (12 videos)
-- **[[#5. Redis: A Fast Store for Sessions, Caching, and Real-Time Features]]** (7 videos)
-- **[[#6. Bringing It All Together: Creating and Managing Orders]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Databases in Node.js:  Relational, document, and in-memory storage in action
+- [**1. Course Setup**](#1-course-setup) (4 videos)
+  - What you should know
+  - Getting your tools ready
+  - How to use the exercise files
+  - Exploring the sample project
+- [**2. Introduction to Databases**](#2-introduction-to-databases) (4 videos)
+  - Some basics about databases
+  - Understanding relational databases
+  - Understanding document databases
+  - Selecting the ideal database for your Node.js project
+- [**3. MongoDB: Building Your Product Catalog**](#3-mongodb-building-your-product-catalog) (14 videos)
+  - Managing product data with MongoDB
+  - Setting up MongoDB with Docker
+  - Exploring MongoDB with Compass
+  - Introducing Mongoose
+  - Setting up Mongoose and connecting it to MongoDB
+  - Building a model for our products
+  - Integrating the model into our application
+  - Populating MongoDB with sample data
+  - Querying items with Mongoose
+  - Filtering items by tag
+  - Item administration: Listing and loading
+  - Item administration: Create, update, and delete
+  - Optimizing queries with indexes
+  - Performing text search in MongoDB
+- [**4. MySQL: Managing Users and Orders**](#4-mysql-managing-users-and-orders) (12 videos)
+  - Using MySQL for our users and orders
+  - Setting up MySQL with Docker
+  - Exploring MySQL with MySQL Workbench
+  - Introducing Sequelize
+  - Setting up the database connection
+  - Designing the database structure
+  - Creating a user model for Sequelize
+  - Creating the order models for Sequelize
+  - Loading and syncing the models
+  - Creating, updating and deleting users with Sequelize
+  - Securing credentials with password hashing
+  - Implementing the user login
+- [**5. Redis: A Fast Store for Sessions, Caching, and Real-Time Features**](#5-redis-a-fast-store-for-sessions-caching-and-real-time-features) (7 videos)
+  - Fast and flexible basket and session management with Redis
+  - Setting up Redis with Docker
+  - Exploring Redis with Redis Insight
+  - Connecting our application to Redis
+  - Managing user sessions with Redis
+  - Basic Redis operations for shopping baskets, part 1
+  - Basic Redis operations for shopping baskets, part 2
+- [**6. Bringing It All Together: Creating and Managing Orders**](#6-bringing-it-all-together-creating-and-managing-orders) (3 videos)
+  - Fetching item information for the basket
+  - Creating the order and using transactions
+  - Implementing the order admin view
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Databases in Node.js:  Relational, document, and in-memory storage in action
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980)
@@ -94,7 +140,7 @@ created: 2026-04-29
 
 ### 1. Course Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What you should know
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/what-you-should-know?u=76281980)
@@ -346,7 +392,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Some basics about databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980)
@@ -650,7 +696,7 @@ created: 2026-04-29
 
 ### 3. MongoDB: Building Your Product Catalog
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing product data with MongoDB
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-product-data-with-mongodb?u=76281980)
@@ -2203,7 +2249,7 @@ created: 2026-04-29
 
 ### 4. MySQL: Managing Users and Orders
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using MySQL for our users and orders
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980)
@@ -3769,7 +3815,7 @@ created: 2026-04-29
 
 ### 5. Redis: A Fast Store for Sessions, Caching, and Real-Time Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fast and flexible basket and session management with Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fast-and-flexible-basket-and-session-management-with-redis?u=76281980)
@@ -4506,7 +4552,7 @@ created: 2026-04-29
 
 ### 6. Bringing It All Together: Creating and Managing Orders
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fetching item information for the basket
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980)
@@ -4965,7 +5011,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980)

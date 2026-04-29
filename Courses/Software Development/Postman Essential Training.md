@@ -51,16 +51,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started with Postman]]** (12 videos)
-- **[[#2. Easy Postman Assertions]]** (6 videos)
-- **[[#3. Advanced Postman Assertions]]** (5 videos)
-- **[[#4. Running Your Test Collections]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Why automate your API tests?
+  - What you should know
+  - Setting up your test environment
+- [**1. Getting Started with Postman**](#1-getting-started-with-postman) (12 videos)
+  - Creating collections and folders
+  - The contact list application
+  - How JSON Web Tokens (JWTs) work
+  - Creating GET requests
+  - Creating POST requests
+  - Creating PUT and DELETE requests
+  - Creating negative requests: Part 1
+  - Creating negative requests: Part 2
+  - Using environment variables
+  - Saving response data as a variable
+  - Challenge: Add variables to a request
+  - Solution: Add variables to a request
+- [**2. Easy Postman Assertions**](#2-easy-postman-assertions) (6 videos)
+  - Status type assertions
+  - Body assertions
+  - Header and response time assertions
+  - Debugging with the Postman console
+  - Challenge: Write assertions
+  - Solution: Write assertions
+- [**3. Advanced Postman Assertions**](#3-advanced-postman-assertions) (5 videos)
+  - JSON assertions
+  - Nested JSON assertions
+  - Asserting on complicated JSON
+  - Challenge: Complicated assertions
+  - Solution: Complicated assertions
+- [**4. Running Your Test Collections**](#4-running-your-test-collections) (3 videos)
+  - Using the Collection Runner
+  - Exporting your collection
+  - Running your collection with Newman
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing with API testing
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why automate your API tests?
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/why-automate-your-api-tests?u=76281980)
@@ -167,7 +197,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Postman
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating collections and folders
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/creating-collections-and-folders?u=76281980)
@@ -1273,7 +1303,7 @@ created: 2026-04-29
 
 ### 2. Easy Postman Assertions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Status type assertions
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/status-type-assertions?u=76281980)
@@ -1806,7 +1836,7 @@ created: 2026-04-29
 
 ### 3. Advanced Postman Assertions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JSON assertions
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/json-assertions?u=76281980)
@@ -2276,7 +2306,7 @@ created: 2026-04-29
 
 ### 4. Running Your Test Collections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Collection Runner
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/using-the-collection-runner?u=76281980)
@@ -2575,7 +2605,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with API testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/postman-essential-training-21969591/continuing-with-api-testing?u=76281980)

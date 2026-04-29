@@ -47,20 +47,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Basics of Redis]]** (5 videos)
-- **[[#2. Representing Complex Data Structures: Hashes]]** (3 videos)
-- **[[#3. Lists and Sets in Redis]]** (11 videos)
-- **[[#4. Sorted Sets]]** (2 videos)
-- **[[#5. Key Naming Strategies]]** (3 videos)
-- **[[#6. Beyond Data Storage]]** (5 videos)
-- **[[#7. Watching Keys for Updates]]** (4 videos)
-- **[[#8. An introduction to Redis at Scale]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Understanding Redis
+  - Installing Redis
+  - Overview of the terminal CLI
+  - Understanding Redis docs
+- [**1. Basics of Redis**](#1-basics-of-redis) (5 videos)
+  - What is Redis?
+  - Data types
+  - Your first command: SET
+  - Testing GET
+  - Playing around with strings
+- [**2. Representing Complex Data Structures: Hashes**](#2-representing-complex-data-structures-hashes) (3 videos)
+  - What are hashes?
+  - Writing and reading from hashes
+  - Exploring hashes
+- [**3. Lists and Sets in Redis**](#3-lists-and-sets-in-redis) (11 videos)
+  - Introduction to lists
+  - Understanding the pop and push mechanics
+  - Practical example: Building a queuing system with lists
+  - Adding people to the queue
+  - Getting people out of the queue
+  - Checking who's there
+  - Putting someone in the middle
+  - Checking who's the last one in the queue
+  - Analyzing the solution: Problems with repeated members
+  - Sets compared to lists
+  - Running a queuing example using sets
+- [**4. Sorted Sets**](#4-sorted-sets) (2 videos)
+  - Explaining what a sorted set is
+  - Leader board example using a sorted set
+- [**5. Key Naming Strategies**](#5-key-naming-strategies) (3 videos)
+  - Comparing Redis to relational databases
+  - Relating keys to each other
+  - Representing multi-key models
+- [**6. Beyond Data Storage**](#6-beyond-data-storage) (5 videos)
+  - What else can you do with Redis?
+  - Exploring Pub/Sub
+  - Exploring streams: Adding data
+  - Exploring streams: Reading data
+  - Example: Real-time message bus using Pub/Sub
+- [**7. Watching Keys for Updates**](#7-watching-keys-for-updates) (4 videos)
+  - Introduction to key-space notifications
+  - Practical example: Building a session timeout feature
+  - Resolution
+  - Explanation overview
+- [**8. An introduction to Redis at Scale**](#8-an-introduction-to-redis-at-scale) (3 videos)
+  - What's missing for a production-ready architecture?
+  - An introduction to Redis Cluster
+  - An introduction to Redis Sentinel
+- [**Conclusion**](#conclusion) (1 videos)
+  - How to learn more about Redis
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980)
@@ -230,7 +271,7 @@ created: 2026-04-29
 
 ### 1. Basics of Redis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Redis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980)
@@ -642,7 +683,7 @@ created: 2026-04-29
 
 ### 2. Representing Complex Data Structures: Hashes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are hashes?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-are-hashes?u=76281980)
@@ -876,7 +917,7 @@ created: 2026-04-29
 
 ### 3. Lists and Sets in Redis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-lists?u=76281980)
@@ -1419,7 +1460,7 @@ created: 2026-04-29
 
 ### 4. Sorted Sets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining what a sorted set is
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/explaining-what-a-sorted-set-is?u=76281980)
@@ -1554,7 +1595,7 @@ created: 2026-04-29
 
 ### 5. Key Naming Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing Redis to relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980)
@@ -1676,7 +1717,7 @@ created: 2026-04-29
 
 ### 6. Beyond Data Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What else can you do with Redis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980)
@@ -2023,7 +2064,7 @@ created: 2026-04-29
 
 ### 7. Watching Keys for Updates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to key-space notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-key-space-notifications?u=76281980)
@@ -2186,7 +2227,7 @@ created: 2026-04-29
 
 ### 8. An introduction to Redis at Scale
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's missing for a production-ready architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980)
@@ -2643,7 +2684,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to learn more about Redis
 > [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980)

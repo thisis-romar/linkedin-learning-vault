@@ -45,15 +45,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Core Distinctions]]** (4 videos)
-- **[[#2. Cloud for Executives]]** (5 videos)
-- **[[#3. Leveraging the Cloud]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understanding the audience
+  - Discussing the cloud with a non-tech audience
+- [**1. Core Distinctions**](#1-core-distinctions) (4 videos)
+  - Discussing dynamic application infrastructures
+  - Discussing rapid innovation and change
+  - Discussing COGS vs. capital
+  - Cloud finances
+- [**2. Cloud for Executives**](#2-cloud-for-executives) (5 videos)
+  - Understanding what “the cloud” means to your audience
+  - CFO focus: The cloud and financial management
+  - CTO focus: Technical advantage using the cloud
+  - CSO focus: The cloud is secure
+  - CEO focus: The cloud and customer value
+- [**3. Leveraging the Cloud**](#3-leveraging-the-cloud) (3 videos)
+  - Discussing cloud metrics and OKRs
+  - Discussing cloud cost reduction
+  - Discussing cloud scaling and availability
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing cloud discussions with the C-Suite
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-the-audience?u=76281980)
@@ -166,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Core Distinctions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discussing dynamic application infrastructures
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980)
@@ -487,7 +502,7 @@ created: 2026-04-29
 
 ### 2. Cloud for Executives
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding what “the cloud” means to your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980)
@@ -815,7 +830,7 @@ created: 2026-04-29
 
 ### 3. Leveraging the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discussing cloud metrics and OKRs
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980)
@@ -1075,7 +1090,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing cloud discussions with the C-Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980)

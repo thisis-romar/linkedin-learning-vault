@@ -49,21 +49,59 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Understanding System Hacking]]** (5 videos)
-- **[[#2. Gaining Access]]** (5 videos)
-- **[[#3. Exploiting Vulnerabilities]]** (3 videos)
-- **[[#4. Escalating Privileges]]** (3 videos)
-- **[[#5. Maintaining Access]]** (4 videos)
-- **[[#6. Grasping Keyloggers]]** (2 videos)
-- **[[#7. Recognizing Spyware]]** (3 videos)
-- **[[#8. Hiding in Plain Sight]]** (4 videos)
-- **[[#9. Maintaining Persistence]]** (3 videos)
-- **[[#10. Covering Tracks]]** (3 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Hacking the system
+  - Getting the most out of this course
+  - Hacking ethically
+- [**1. Understanding System Hacking**](#1-understanding-system-hacking) (5 videos)
+  - Setting the stage
+  - Getting a foothold
+  - Authenticating a user
+  - Challenge: Reviewing Entra ID authentication methods
+  - Solution: Reviewing Entra ID authentication methods
+- [**2. Gaining Access**](#2-gaining-access) (5 videos)
+  - Acquiring passwords
+  - Discovering password tools
+  - Cracking passwords
+  - Employing rainbow tables
+  - Defending against password attacks
+- [**3. Exploiting Vulnerabilities**](#3-exploiting-vulnerabilities) (3 videos)
+  - Leveraging security flaws
+  - Overflowing the buffer
+  - Enhancing software security
+- [**4. Escalating Privileges**](#4-escalating-privileges) (3 videos)
+  - Understanding privilege escalation
+  - Obtaining administrator privileges
+  - Defending against privilege escalation
+- [**5. Maintaining Access**](#5-maintaining-access) (4 videos)
+  - Dissecting rootkits
+  - User Mode and Kernel Mode
+  - Using rootkits
+  - Detect, remove, and avoid rootkits
+- [**6. Grasping Keyloggers**](#6-grasping-keyloggers) (2 videos)
+  - Outlining keystroke loggers
+  - Protecting against keylogging
+- [**7. Recognizing Spyware**](#7-recognizing-spyware) (3 videos)
+  - Explaining spyware behavior
+  - Mobile spyware and invasive apps
+  - Defending against spyware
+- [**8. Hiding in Plain Sight**](#8-hiding-in-plain-sight) (4 videos)
+  - Using steganography
+  - Swimming in the NTFS data stream
+  - Using whitespace steganography
+  - Detecting steganography
+- [**9. Maintaining Persistence**](#9-maintaining-persistence) (3 videos)
+  - Remaining in the system
+  - Staying under the radar
+  - Defend against persistence attacks
+- [**10. Covering Tracks**](#10-covering-tracks) (3 videos)
+  - Disabling logging and hiding files
+  - Outlining ways to cover your tracks
+  - Summarize the course and what's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hacking the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-the-system?u=76281980)
@@ -148,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Understanding System Hacking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting the stage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/setting-the-stage?u=76281980)
@@ -423,7 +461,7 @@ created: 2026-04-29
 
 ### 2. Gaining Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Acquiring passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980)
@@ -825,7 +863,7 @@ created: 2026-04-29
 
 ### 3. Exploiting Vulnerabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging security flaws
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980)
@@ -1043,7 +1081,7 @@ created: 2026-04-29
 
 ### 4. Escalating Privileges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding privilege escalation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/understanding-privilege-escalation?u=76281980)
@@ -1274,7 +1312,7 @@ created: 2026-04-29
 
 ### 5. Maintaining Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dissecting rootkits
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980)
@@ -1569,7 +1607,7 @@ created: 2026-04-29
 
 ### 6. Grasping Keyloggers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Outlining keystroke loggers
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980)
@@ -1726,7 +1764,7 @@ created: 2026-04-29
 
 ### 7. Recognizing Spyware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining spyware behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/explaining-spyware-behavior?u=76281980)
@@ -1935,7 +1973,7 @@ created: 2026-04-29
 
 ### 8. Hiding in Plain Sight
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using steganography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-steganography?u=76281980)
@@ -2273,7 +2311,7 @@ created: 2026-04-29
 
 ### 9. Maintaining Persistence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Remaining in the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/remaining-in-the-system?u=76281980)
@@ -2450,7 +2488,7 @@ created: 2026-04-29
 
 ### 10. Covering Tracks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Disabling logging and hiding files
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980)

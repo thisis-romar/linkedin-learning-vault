@@ -48,15 +48,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Understanding the Need for a Debugger]]** (5 videos)
-- **[[#2. Debugger Basics]]** (12 videos)
-- **[[#3. Debugging in Practice]]** (12 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Welcome
+  - What you should know
+  - Exercise files
+  - What's new in this update
+  - Using challenges
+- [**1. Understanding the Need for a Debugger**](#1-understanding-the-need-for-a-debugger) (5 videos)
+  - Introducing our friend, the debugger
+  - Important jargon and concepts
+  - Debuggers in web browsers
+  - The importance of a good editor and IDE
+  - Why debugging AJAX can be tricky
+- [**2. Debugger Basics**](#2-debugger-basics) (12 videos)
+  - Debugging without a debugger
+  - Leverage more of the Console API
+  - Stop and look around: Simple breakpoints
+  - Explore other breakpoint options
+  - Challenge: Knowing when to stop
+  - Solution: Knowing when to stop
+  - Step into, over, and out of functions
+  - Find out where you are using the call stack
+  - Monitor variables with watches
+  - Source maps to debug minified files
+  - Challenge: Putting it all together
+  - Solution: Putting it all together
+- [**3. Debugging in Practice**](#3-debugging-in-practice) (12 videos)
+  - Debugging the use of a jQuery plugin
+  - Debugging a React application in Chrome
+  - Debugging on iOS using Simulator
+  - Remote debugging on an Android device
+  - Challenge: Other people's code
+  - Solution: Other people's code
+  - Debugging a Node.js application in WebStorm
+  - Setting up the WordPress example
+  - Challenge: Debugging with an IDE
+  - Solution: Debugging with an IDE
+  - Debug a WordPress theme in Visual Studio Code
+  - Use a debugger as a learning tool on a live site
+- [**Conclusion**](#conclusion) (2 videos)
+  - Next steps
+  - Extra JavaScript resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/welcome?u=76281980)
@@ -243,7 +279,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Need for a Debugger
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing our friend, the debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/introducing-our-friend-the-debugger?u=76281980)
@@ -723,7 +759,7 @@ created: 2026-04-29
 
 ### 2. Debugger Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging without a debugger
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-without-a-debugger?u=76281980)
@@ -2380,7 +2416,7 @@ created: 2026-04-29
 
 ### 3. Debugging in Practice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging the use of a jQuery plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/debugging-the-use-of-a-jquery-plugin-22149299?u=76281980)
@@ -4238,7 +4274,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-javascript-debugging-2/next-steps?u=76281980)

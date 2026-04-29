@@ -48,17 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to the Azure AI Model Catalog]]** (3 videos)
-- **[[#2. Navigating the Model Catalog]]** (3 videos)
-- **[[#3. Types of Models Available]]** (4 videos)
-- **[[#4. Model Selection and Comparison]]** (3 videos)
-- **[[#5. Deploying Models]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Effortlessly navigate Azure's AI model catalog
+  - What you should know
+- [**1. Introduction to the Azure AI Model Catalog**](#1-introduction-to-the-azure-ai-model-catalog) (3 videos)
+  - Overview of the Azure AI model catalog
+  - Importance and benefits of using the model catalog
+  - Key features and capabilities
+- [**2. Navigating the Model Catalog**](#2-navigating-the-model-catalog) (3 videos)
+  - Accessing the Azure AI model catalog
+  - Understanding the user interface
+  - Searching and filtering models
+- [**3. Types of Models Available**](#3-types-of-models-available) (4 videos)
+  - Curated by Azure AI: Popular non-Microsoft models
+  - Azure OpenAI models: Exclusive models available on Azure
+  - Open models from Hugging Face: Real-time inference models
+  - Industry models from partners
+- [**4. Model Selection and Comparison**](#4-model-selection-and-comparison) (3 videos)
+  - Reviewing model cards and sample inferences
+  - Comparing benchmarks across models and datasets
+  - Selecting the right model for your business scenario
+- [**5. Deploying Models**](#5-deploying-models) (3 videos)
+  - Deployment options: Managed compute vs. serverless APIs
+  - Step-by-step guide to deploying a model
+  - Integrating models into applications
+- [**Conclusion**](#conclusion) (2 videos)
+  - Recap
+  - Additional resources for continued learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Effortlessly navigate Azure's AI model catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/effortlessly-navigate-azure-s-ai-model-catalogue?u=76281980)
@@ -120,7 +140,7 @@ created: 2026-04-29
 
 ### 1. Introduction to the Azure AI Model Catalog
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the Azure AI model catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/overview-of-azure-ai-model-catalog?u=76281980)
@@ -295,7 +315,7 @@ created: 2026-04-29
 
 ### 2. Navigating the Model Catalog
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing the Azure AI model catalog
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/accessing-the-azure-ai-model-catalog?u=76281980)
@@ -489,7 +509,7 @@ created: 2026-04-29
 
 ### 3. Types of Models Available
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Curated by Azure AI: Popular non-Microsoft models
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/curated-by-azure-ai-popular-non-microsoft-models?u=76281980)
@@ -724,7 +744,7 @@ created: 2026-04-29
 
 ### 4. Model Selection and Comparison
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing model cards and sample inferences
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/reviewing-model-cards-and-sample-inferences?u=76281980)
@@ -1080,7 +1100,7 @@ created: 2026-04-29
 
 ### 5. Deploying Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deployment options: Managed compute vs. serverless APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/deployment-options-managed-compute-vs-serverless-apis?u=76281980)
@@ -1379,7 +1399,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-using-the-azure-ai-model-catalog/recap?u=76281980)

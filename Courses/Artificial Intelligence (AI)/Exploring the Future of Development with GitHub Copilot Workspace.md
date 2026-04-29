@@ -51,12 +51,16 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Using Copilot Workspace]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The coding revolution is driven by AI
+- [**1. Using Copilot Workspace**](#1-using-copilot-workspace) (3 videos)
+  - Creating a spec with Copilot Workspace
+  - Generating a plan for your Copilot Workspace
+  - Implementing a plan
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The coding revolution is driven by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/the-coding-revolution-is-driven-by-ai?u=76281980)
@@ -89,7 +93,7 @@ created: 2026-04-29
 
 ### 1. Using Copilot Workspace
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a spec with Copilot Workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-the-future-of-development-with-github-copilot-workspace/creating-a-spec-with-copilot-workspace?u=76281980)

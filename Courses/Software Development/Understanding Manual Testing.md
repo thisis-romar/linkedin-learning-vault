@@ -48,14 +48,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Overview]]** (3 videos)
-- **[[#2. Execution]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Mastering manual testing
+  - What you should know
+  - The argument: Automated vs. manual testing
+- [**1. Overview**](#1-overview) (3 videos)
+  - What is manual testing?
+  - Why is manual testing done?
+  - Types of manual testing
+- [**2. Execution**](#2-execution) (4 videos)
+  - Test plans and use cases
+  - It's not all black and white: Box testing
+  - Bugs and the output of manual testing
+  - Make manual testing work
+- [**Conclusion**](#conclusion) (2 videos)
+  - Where do you start?
+  - Be an exceptional manual tester
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/mastering-manual-testing?u=76281980)
@@ -207,7 +219,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is manual testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/what-is-manual-testing?u=76281980)
@@ -471,7 +483,7 @@ created: 2026-04-29
 
 ### 2. Execution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test plans and use cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/test-plans-and-use-cases?u=76281980)
@@ -785,7 +797,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where do you start?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-manual-testing/where-do-you-start?u=76281980)

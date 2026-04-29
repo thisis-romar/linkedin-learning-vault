@@ -39,15 +39,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Flow in Interaction Design]]** (3 videos)
-- **[[#2. Diagrams As Design Tools]]** (4 videos)
-- **[[#3. Constructing a Flow]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of flow in interaction design
+- [**1. Flow in Interaction Design**](#1-flow-in-interaction-design) (3 videos)
+  - Defining a user's flow
+  - Defining interaction models
+  - The role of conditional logic
+- [**2. Diagrams As Design Tools**](#2-diagrams-as-design-tools) (4 videos)
+  - Why use diagrams?
+  - Diagrams in the design process
+  - Flow and process diagrams
+  - Components of a flow diagram
+- [**3. Constructing a Flow**](#3-constructing-a-flow) (4 videos)
+  - Creating a flow map
+  - Identifying key tasks and activities
+  - Constructing the flow
+  - Designing the screens
+- [**Conclusion**](#conclusion) (1 videos)
+  - Mastering flow in UX
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of flow in interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?u=76281980)
@@ -83,7 +96,7 @@ created: 2026-04-29
 
 ### 1. Flow in Interaction Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a user's flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/defining-a-user-s-flow?u=76281980)
@@ -291,7 +304,7 @@ created: 2026-04-29
 
 ### 2. Diagrams As Design Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use diagrams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/why-use-diagrams?u=76281980)
@@ -554,7 +567,7 @@ created: 2026-04-29
 
 ### 3. Constructing a Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a flow map
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/creating-a-flow-map?u=76281980)
@@ -741,7 +754,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering flow in UX
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-flow/mastering-flow-in-ux?u=76281980)

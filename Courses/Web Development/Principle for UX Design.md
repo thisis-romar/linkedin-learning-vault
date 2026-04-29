@@ -46,17 +46,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started with Principle]]** (10 videos)
-- **[[#2. Managing Content in Principle]]** (7 videos)
-- **[[#3. Using the Principle Timeline]]** (7 videos)
-- **[[#4. Using the Principle Drivers]]** (5 videos)
-- **[[#5. Practical Principle Projects]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What is Principle?
+  - What you should know
+- [**1. Getting Started with Principle**](#1-getting-started-with-principle) (10 videos)
+  - Review of the Principle interface
+  - Tools and menus
+  - Create and add artboards
+  - Add content to an artboard
+  - Add and format text
+  - Create your first animation
+  - Test and share your work
+  - Import from Sketch
+  - Figma import
+  - Export to web
+- [**2. Managing Content in Principle**](#2-managing-content-in-principle) (7 videos)
+  - What Principle doesn't do
+  - Modify content in the Properties panel
+  - Create assets in Photoshop
+  - Create assets in Sketch
+  - Create assets in Illustrator
+  - Import retina images into Principle
+  - Crop and mask
+- [**3. Using the Principle Timeline**](#3-using-the-principle-timeline) (7 videos)
+  - Understand the timeline
+  - Add keyframes and durations
+  - Use the easing feature
+  - Create motion arcs
+  - Create circular motion
+  - Create a tabbed interface
+  - Create scrollable content
+- [**4. Using the Principle Drivers**](#4-using-the-principle-drivers) (5 videos)
+  - Overview of Driver channel
+  - Constrain drivers
+  - Drivers and layers
+  - Use the paging property
+  - Drivers and paging
+- [**5. Practical Principle Projects**](#5-practical-principle-projects) (11 videos)
+  - Create a drag-and-drop effect
+  - Create a component
+  - Create a preloader
+  - Create a card animation
+  - Create a slide-in menu
+  - Create special effects
+  - Prepare video for Principle
+  - Add video to an artboard
+  - Control audio volume
+  - Control video playback
+  - Create an Apple Watch alert
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Principle?
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-is-principle?u=76281980)
@@ -103,7 +146,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Principle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review of the Principle interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/review-of-the-principle-interface?u=76281980)
@@ -1018,7 +1061,7 @@ created: 2026-04-29
 
 ### 2. Managing Content in Principle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What Principle doesn't do
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/what-principle-doesn-t-do?u=76281980)
@@ -1771,7 +1814,7 @@ created: 2026-04-29
 
 ### 3. Using the Principle Timeline
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/understand-the-timeline?u=76281980)
@@ -2516,7 +2559,7 @@ created: 2026-04-29
 
 ### 4. Using the Principle Drivers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Driver channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/overview-of-driver-channel?u=76281980)
@@ -2978,7 +3021,7 @@ created: 2026-04-29
 
 ### 5. Practical Principle Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a drag-and-drop effect
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/create-a-drag-and-drop-effect?u=76281980)
@@ -4387,7 +4430,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/principle-for-ux-design-22683376/next-steps?u=76281980)

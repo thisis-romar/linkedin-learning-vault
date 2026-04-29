@@ -47,18 +47,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (4 videos)
-- **[[#2. Data Types]]** (14 videos)
-- **[[#3. Structures, Classes, and Pointers]]** (12 videos)
-- **[[#4. Control Flow]]** (6 videos)
-- **[[#5. Functions]]** (5 videos)
-- **[[#6. File I/O]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Get up and running with C++
+  - What you should know
+  - Using the exercise files on GitHub
+- [**1. Getting Started**](#1-getting-started) (4 videos)
+  - Elements of object-oriented programming
+  - Creating a simple program in C++
+  - Challenge: Console interaction
+  - Solution: Console interaction
+- [**2. Data Types**](#2-data-types) (14 videos)
+  - Basic data types
+  - Variables
+  - Using variables
+  - Expressions, assignments, and operations
+  - Type inference with auto
+  - Preprocessor directives
+  - Constants
+  - Arrays
+  - Strings
+  - Type casting
+  - Type casting examples
+  - Enumerations
+  - Challenge: Calculate an average
+  - Solution: Calculate an average
+- [**3. Structures, Classes, and Pointers**](#3-structures-classes-and-pointers) (12 videos)
+  - Structures
+  - Classes
+  - Using classes
+  - Header and implementation files
+  - Using several source files
+  - Pointers
+  - Using objects with pointers
+  - References
+  - Vectors
+  - Using objects with vectors
+  - Challenge: Create some classes
+  - Solution: Create some classes
+- [**4. Control Flow**](#4-control-flow) (6 videos)
+  - If statements
+  - Switch statements
+  - While loops
+  - For loops
+  - Challenge: Calculate GPA from a vector
+  - Solution: Calculate GPA from a vector
+- [**5. Functions**](#5-functions) (5 videos)
+  - Creating functions
+  - Function parameters
+  - Using functions
+  - Challenge: Create a report card function
+  - Solution: Create a report card function
+- [**6. File I/O**](#6-file-io) (4 videos)
+  - Opening a text file for reading
+  - Open a text file for writing
+  - Challenge: Upgrade to work with files
+  - Solution: Upgrade to work with files
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get up and running with C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/get-up-and-running-with-c-plus-plus?u=76281980)
@@ -327,7 +376,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elements of object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/elements-of-object-oriented-programming?u=76281980)
@@ -643,7 +692,7 @@ created: 2026-04-29
 
 ### 2. Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/basic-data-types?u=76281980)
@@ -2003,7 +2052,7 @@ created: 2026-04-29
 
 ### 3. Structures, Classes, and Pointers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/structures?u=76281980)
@@ -3032,7 +3081,7 @@ created: 2026-04-29
 
 ### 4. Control Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/if-statements?u=76281980)
@@ -3604,7 +3653,7 @@ created: 2026-04-29
 
 ### 5. Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/creating-functions?u=76281980)
@@ -4142,7 +4191,7 @@ created: 2026-04-29
 
 ### 6. File I/O
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Opening a text file for reading
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/opening-a-text-file-for-reading?u=76281980)
@@ -4422,7 +4471,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-plus-plus-22993675/next-steps?u=76281980)

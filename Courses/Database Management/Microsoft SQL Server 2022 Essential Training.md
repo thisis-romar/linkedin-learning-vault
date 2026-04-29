@@ -47,21 +47,96 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (7 videos)
-- **[[#2. Logging in to the Server]]** (4 videos)
-- **[[#3. Creating Databases]]** (9 videos)
-- **[[#4. Table Design for Healthy Databases]]** (10 videos)
-- **[[#5. Structured Query Language]]** (17 videos)
-- **[[#6. Writing Efficient Queries]]** (9 videos)
-- **[[#7. Backup and Restore]]** (5 videos)
-- **[[#8. Security]]** (5 videos)
-- **[[#9. Monitoring and Management]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Create databases with SQL Server 2022
+  - What you should know
+  - Exploring the code challenge environment
+- [**1. Getting Started**](#1-getting-started) (7 videos)
+  - Core concepts
+  - Choose a SQL Server 2022 edition
+  - Install SQL Server on your PC
+  - Install Management Studio
+  - Enable features with Configuration Manager
+  - Deploy SQL Server 2022 in the Azure cloud
+  - Work with SQL Server in Docker
+- [**2. Logging in to the Server**](#2-logging-in-to-the-server) (4 videos)
+  - User permissions and authentication
+  - Log in with Management Studio
+  - Enable the System Administrator account
+  - Connect to Azure and Docker servers
+- [**3. Creating Databases**](#3-creating-databases) (9 videos)
+  - Create the first database
+  - Database configuration options
+  - Table structures
+  - Create a simple table
+  - Edit a table's structure
+  - Enter data into a table using the GUI
+  - Import data from CSV files
+  - Create tables from flat files
+  - Install a sample database
+- [**4. Table Design for Healthy Databases**](#4-table-design-for-healthy-databases) (10 videos)
+  - Choose appropriate data types
+  - SQL Server data type options
+  - Automatically assign record identities
+  - Primary key fields
+  - Establish a default value
+  - Check constraints
+  - Unique constraints
+  - Foreign keys
+  - Create a foreign key column
+  - Create relationships between tables
+- [**5. Structured Query Language**](#5-structured-query-language) (17 videos)
+  - Understand the role of T-SQL
+  - Use the T-SQL editor
+  - Create a table with T-SQL
+  - Solution: Create tables with T-SQL commands
+  - Add data to a table
+  - Solution: Add data with T-SQL commands
+  - Retrieve records with SELECT
+  - Solution: Query data in a database
+  - Filter returned results with WHERE
+  - Sort records
+  - Solution: Filter and sort data with a query
+  - Delete records from a table
+  - Update records in a table
+  - Solution: Remove and update records in a table
+  - Joining related tables
+  - Solution: Query information from related tables
+  - Remove a table from the database
+- [**6. Writing Efficient Queries**](#6-writing-efficient-queries) (9 videos)
+  - Create a view of the data
+  - Data table indexes
+  - Create additional indexes on a table
+  - Aggregate functions
+  - Use built-in functions
+  - Leverage user-defined scalar functions
+  - Introduction to stored procedures
+  - Create stored procedures
+  - Parameterized stored procedures
+- [**7. Backup and Restore**](#7-backup-and-restore) (5 videos)
+  - Create a full backup of the database
+  - Create a differential backup
+  - Restore a backup
+  - Business continuity solutions
+  - Continuously replicate data to the cloud
+- [**8. Security**](#8-security) (5 videos)
+  - Create a new user account
+  - User roles and permissions
+  - Database schemas
+  - Dynamic data masking
+  - Always On data encryption
+- [**9. Monitoring and Management**](#9-monitoring-and-management) (5 videos)
+  - Explore the role of system databases
+  - Prevent excessive TempDB autogrowth
+  - Review the SQL Server error log
+  - Dynamic management views
+  - Database Console Commands (DBCC)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create databases with SQL Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980)
@@ -163,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Core concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980)
@@ -890,7 +965,7 @@ created: 2026-04-29
 
 ### 2. Logging in to the Server
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### User permissions and authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980)
@@ -1375,7 +1450,7 @@ created: 2026-04-29
 
 ### 3. Creating Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create the first database
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980)
@@ -2491,7 +2566,7 @@ created: 2026-04-29
 
 ### 4. Table Design for Healthy Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose appropriate data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980)
@@ -3565,7 +3640,7 @@ created: 2026-04-29
 
 ### 5. Structured Query Language
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the role of T-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980)
@@ -5282,7 +5357,7 @@ created: 2026-04-29
 
 ### 6. Writing Efficient Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a view of the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980)
@@ -6403,7 +6478,7 @@ created: 2026-04-29
 
 ### 7. Backup and Restore
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a full backup of the database
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980)
@@ -6811,7 +6886,7 @@ created: 2026-04-29
 
 ### 8. Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new user account
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980)
@@ -7469,7 +7544,7 @@ created: 2026-04-29
 
 ### 9. Monitoring and Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the role of system databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980)
@@ -7826,7 +7901,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980)

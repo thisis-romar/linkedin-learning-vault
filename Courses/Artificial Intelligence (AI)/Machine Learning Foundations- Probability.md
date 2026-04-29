@@ -55,18 +55,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Probability]]** (5 videos)
-- **[[#2. The Rules of Probability]]** (6 videos)
-- **[[#3. The Joint and Marginal Probability]]** (3 videos)
-- **[[#4. Discrete Probability Distributions]]** (6 videos)
-- **[[#5. Continuous Probability Distributions]]** (3 videos)
-- **[[#6. The Bayes' Theorem]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Probability for machine learning
+  - What you should know
+- [**1. Introduction to Probability**](#1-introduction-to-probability) (5 videos)
+  - Defining probability
+  - Applications of probability in ML
+  - Sample space and events
+  - Random variables
+  - Examples of probability
+- [**2. The Rules of Probability**](#2-the-rules-of-probability) (6 videos)
+  - Probability of an event
+  - The sum rule
+  - The product rule
+  - The sum rule extended
+  - Conditional probability
+  - Total probability
+- [**3. The Joint and Marginal Probability**](#3-the-joint-and-marginal-probability) (3 videos)
+  - Joint and marginal probability
+  - Joint probability tables
+  - The chain rule for probability
+- [**4. Discrete Probability Distributions**](#4-discrete-probability-distributions) (6 videos)
+  - Probability distributions
+  - Histograms and probability
+  - Discrete probability distribution
+  - The binomial distribution
+  - The Bernoulli distribution
+  - The Poisson distribution
+- [**5. Continuous Probability Distributions**](#5-continuous-probability-distributions) (3 videos)
+  - The continuous probability distribution
+  - Central limit theorem
+  - The law of large numbers
+- [**6. The Bayes' Theorem**](#6-the-bayes-theorem) (3 videos)
+  - Introduction to Bayes' theorem
+  - Example of Bayes' theorem in practice
+  - Naive Bayes' clasifier
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-for-machine-learning?u=76281980)
@@ -126,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Probability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/defining-probability?u=76281980)
@@ -496,7 +525,7 @@ created: 2026-04-29
 
 ### 2. The Rules of Probability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability of an event
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-of-an-event?u=76281980)
@@ -838,7 +867,7 @@ created: 2026-04-29
 
 ### 3. The Joint and Marginal Probability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Joint and marginal probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-and-marginal-probability?u=76281980)
@@ -1003,7 +1032,7 @@ created: 2026-04-29
 
 ### 4. Discrete Probability Distributions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability distributions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-distributions?u=76281980)
@@ -1320,7 +1349,7 @@ created: 2026-04-29
 
 ### 5. Continuous Probability Distributions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The continuous probability distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980)
@@ -1500,7 +1529,7 @@ created: 2026-04-29
 
 ### 6. The Bayes' Theorem
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Bayes' theorem
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/introduction-to-bayes-theorem?u=76281980)
@@ -1694,7 +1723,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980)

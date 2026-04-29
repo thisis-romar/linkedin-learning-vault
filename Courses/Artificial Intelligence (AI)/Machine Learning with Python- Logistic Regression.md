@@ -60,15 +60,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Regression]]** (3 videos)
-- **[[#2. Logistic Regression]]** (4 videos)
-- **[[#3. Classifying Data with Logistic Regression]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Classifying data with logistic regression
+  - What you should know
+  - Using the exercise files
+  - Using GitHub Codespaces with this course
+- [**1. Regression**](#1-regression) (3 videos)
+  - What is regression?
+  - The anatomy of a regression model
+  - Common types of regression
+- [**2. Logistic Regression**](#2-logistic-regression) (4 videos)
+  - What is logistic regression?
+  - Making predictions with logistic regression
+  - Interpreting the coefficients of logistic regression
+  - Why and when to use logistic regression
+- [**3. Classifying Data with Logistic Regression**](#3-classifying-data-with-logistic-regression) (4 videos)
+  - How to explore data for logistic regression in Python
+  - How to prepare data for logistic regression in Python
+  - How to build a logistic regression model in Python
+  - How to interpret a logistic regression model in Python
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classifying data with logistic regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/classifying-data-with-logistic-regression?u=76281980)
@@ -333,7 +349,7 @@ created: 2026-04-29
 
 ### 1. Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-regression?u=76281980)
@@ -566,7 +582,7 @@ created: 2026-04-29
 
 ### 2. Logistic Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is logistic regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/what-is-logistic-regression?u=76281980)
@@ -890,7 +906,7 @@ created: 2026-04-29
 
 ### 3. Classifying Data with Logistic Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to explore data for logistic regression in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/how-to-explore-data-for-logistic-regression-in-python?u=76281980)
@@ -1563,7 +1579,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-logistic-regression/next-steps?u=76281980)

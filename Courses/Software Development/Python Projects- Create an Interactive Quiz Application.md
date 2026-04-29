@@ -47,15 +47,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Overview]]** (4 videos)
-- **[[#2. The Basics]]** (7 videos)
-- **[[#3. Improvements]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Building a quiz app in Python
+  - What you should know
+  - Setting up the project
+- [**1. Overview**](#1-overview) (4 videos)
+  - Defining the app requirements
+  - Architecting the application
+  - Defining the quiz markup format
+  - Building the app starting point
+- [**2. The Basics**](#2-the-basics) (7 videos)
+  - Creating the Question and Answer classes
+  - Creating the Quiz class
+  - Reading and parsing the quiz
+  - Creating the QuizManager class
+  - Presenting the quiz
+  - Calculating the results
+  - Saving the results
+- [**3. Improvements**](#3-improvements) (3 videos)
+  - Presenting questions in random order
+  - Timing the quiz
+  - Redoing wrong questions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a quiz app in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/building-a-quiz-app-in-python?u=76281980)
@@ -209,7 +227,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the app requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/defining-the-app-requirements?u=76281980)
@@ -669,7 +687,7 @@ created: 2026-04-29
 
 ### 2. The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating the Question and Answer classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/creating-the-question-and-answer-classes?u=76281980)
@@ -1707,7 +1725,7 @@ created: 2026-04-29
 
 ### 3. Improvements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Presenting questions in random order
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/presenting-questions-in-random-order?u=76281980)
@@ -2103,7 +2121,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-create-an-interactive-quiz-application/next-steps?u=76281980)

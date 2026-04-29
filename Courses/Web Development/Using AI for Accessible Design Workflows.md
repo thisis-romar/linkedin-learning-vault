@@ -37,17 +37,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Create a Community Cohort and Culture]]** (2 videos)
-- **[[#2. Review and Critique Existing Materials]]** (8 videos)
-- **[[#3. Create an Accessibility Style Guide]]** (9 videos)
-- **[[#4. Apply Your Style Guide]]** (3 videos)
-- **[[#5. Promote Your Style Guide]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Leverage AI in accessible design workflow
+  - Create a roadmap to improving existing accessibility in designs
+- [**1. Create a Community Cohort and Culture**](#1-create-a-community-cohort-and-culture) (2 videos)
+  - Train your cohort in basic accessibility principles
+  - Lead your cohort with collaborative discussions
+- [**2. Review and Critique Existing Materials**](#2-review-and-critique-existing-materials) (8 videos)
+  - Organize accessibility testing
+  - Survey designs for audio and visual accessibility issues
+  - Evaluate designs for cognitive and inclusive obstacles
+  - Identify potential medical triggers in designs
+  - Document accessibility issues objectively
+  - Identify foci for improvement
+  - Process and organize results of investigation
+  - Organize a revision workflow
+- [**3. Create an Accessibility Style Guide**](#3-create-an-accessibility-style-guide) (9 videos)
+  - Supplement existing style guides
+  - Cohere policies into guidance on tone
+  - Document audience
+  - Implement a testing process
+  - Use AI to shortcut audio accessibility solutions
+  - Use AI to shortcut visual accessibility solutions
+  - Minimize obstacles for motor impaired audiences
+  - Avoid triggering seizures
+  - Define and implement inclusivity and avoid cognitive bandwidth overload in designs
+- [**4. Apply Your Style Guide**](#4-apply-your-style-guide) (3 videos)
+  - Implement changes in teams with content creators and designers
+  - Create templates and models
+  - Create libraries of accessible material
+- [**5. Promote Your Style Guide**](#5-promote-your-style-guide) (6 videos)
+  - Prepare detailed reports for tech and design
+  - Prepare high-level reports for stakeholders
+  - Create buy-in with effective presentations
+  - Share models of AI-generated solutions
+  - Provide accessible templates
+  - Generate a culture of iterative accessibility
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage AI in accessible design workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/leverage-ai-in-accessible-design-workflow?u=76281980)
@@ -148,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Create a Community Cohort and Culture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Train your cohort in basic accessibility principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/train-your-cohort-in-basic-accessibility-principles?u=76281980)
@@ -264,7 +295,7 @@ created: 2026-04-29
 
 ### 2. Review and Critique Existing Materials
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organize accessibility testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/organize-accessibility-testing?u=76281980)
@@ -767,7 +798,7 @@ created: 2026-04-29
 
 ### 3. Create an Accessibility Style Guide
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supplement existing style guides
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/supplement-existing-style-guides?u=76281980)
@@ -1222,7 +1253,7 @@ created: 2026-04-29
 
 ### 4. Apply Your Style Guide
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement changes in teams with content creators and designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/implement-changes-in-teams-with-content-creators-and-designers?u=76281980)
@@ -1376,7 +1407,7 @@ created: 2026-04-29
 
 ### 5. Promote Your Style Guide
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare detailed reports for tech and design
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/prepare-detailed-reports-for-tech-and-design?u=76281980)
@@ -1714,7 +1745,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-accessible-design-workflows/next-steps?u=76281980)

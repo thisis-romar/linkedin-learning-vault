@@ -46,14 +46,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Before You Write and Deliver Your Speech]]** (2 videos)
-- **[[#2. Writing and Delivering Speeches for Various Scenarios]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - So, you're giving a speech
+  - Speeches vs. presentations
+- [**1. Before You Write and Deliver Your Speech**](#1-before-you-write-and-deliver-your-speech) (2 videos)
+  - Understand your target audience
+  - Confirm your logistics
+- [**2. Writing and Delivering Speeches for Various Scenarios**](#2-writing-and-delivering-speeches-for-various-scenarios) (8 videos)
+  - Staging your virtual speech
+  - Giving a virtual speech
+  - Speaking to inform
+  - Speaking to persuade
+  - Delivering bad news
+  - Speaking at a special occasion
+  - Accepting an award
+  - Preparing an impromptu speech
+- [**Conclusion**](#conclusion) (1 videos)
+  - Deliver with confidence
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### So, you're giving a speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/so-you-re-giving-a-speech?u=76281980)
@@ -145,7 +158,7 @@ created: 2026-04-29
 
 ### 1. Before You Write and Deliver Your Speech
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand your target audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/understand-your-target-audience?u=76281980)
@@ -326,7 +339,7 @@ created: 2026-04-29
 
 ### 2. Writing and Delivering Speeches for Various Scenarios
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Staging your virtual speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/staging-your-virtual-speech?u=76281980)
@@ -1055,7 +1068,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deliver with confidence
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-and-delivering-speeches/deliver-with-confidence?u=76281980)

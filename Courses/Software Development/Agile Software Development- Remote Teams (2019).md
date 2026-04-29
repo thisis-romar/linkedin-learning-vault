@@ -50,17 +50,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Remote Working]]** (3 videos)
-- **[[#2. Collaboration and Conversations]]** (9 videos)
-- **[[#3. Technical Excellence & Security]]** (7 videos)
-- **[[#4. Deploying Early and Often]]** (3 videos)
-- **[[#5. Hiring, Planning, and Measuring]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Remote-first culture for agile teams
+  - What you should know
+- [**1. Remote Working**](#1-remote-working) (3 videos)
+  - The rise of remote working
+  - Remote working benefits
+  - Remote working challenges
+- [**2. Collaboration and Conversations**](#2-collaboration-and-conversations) (9 videos)
+  - Remote working models
+  - Remote working models: Colocated
+  - Remote working models: Distributed
+  - Conway's Law: Building a strong communication foundation
+  - The intentionally distributed mindset
+  - Shifting to a digital workspace
+  - The cost of context switching
+  - ChatOps: Integrating your communications
+  - Signal vs. Noise
+- [**3. Technical Excellence & Security**](#3-technical-excellence-security) (7 videos)
+  - Virtual private networks (VPNs) and firewalls
+  - Encryption and two-factor authentication
+  - Version control: Never run a remote team without it
+  - Methodologies that drive development
+  - Continuous improvement and marginal gains
+  - Continuous integration, delivery, and deployment
+  - Understanding technical debt
+- [**4. Deploying Early and Often**](#4-deploying-early-and-often) (3 videos)
+  - Atomic commits: One change, one commit
+  - Branching and forking
+  - Code reviews
+- [**5. Hiring, Planning, and Measuring**](#5-hiring-planning-and-measuring) (7 videos)
+  - Creating job descriptions for remote positions
+  - Interviewing and hiring for remote teams
+  - Where's the whiteboard?
+  - Remote whiteboard tools
+  - Remote pairing and mobbing
+  - Remote standups
+  - Remote retrospectives
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Remote-first culture for agile teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-first-culture-for-agile-teams?u=76281980)
@@ -125,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Remote Working
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The rise of remote working
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/the-rise-of-remote-working?u=76281980)
@@ -346,7 +378,7 @@ created: 2026-04-29
 
 ### 2. Collaboration and Conversations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Remote working models
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/remote-working-models?u=76281980)
@@ -1056,7 +1088,7 @@ created: 2026-04-29
 
 ### 3. Technical Excellence & Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Virtual private networks (VPNs) and firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/virtual-private-networks-vpns-and-firewalls?u=76281980)
@@ -1521,7 +1553,7 @@ created: 2026-04-29
 
 ### 4. Deploying Early and Often
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Atomic commits: One change, one commit
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/atomic-commits-one-change-one-commit?u=76281980)
@@ -1710,7 +1742,7 @@ created: 2026-04-29
 
 ### 5. Hiring, Planning, and Measuring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating job descriptions for remote positions
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/creating-job-descriptions-for-remote-positions?u=76281980)
@@ -2208,7 +2240,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-remote-teams-2019/next-steps?u=76281980)

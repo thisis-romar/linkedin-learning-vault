@@ -54,14 +54,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to GenAI on Snowflake]]** (2 videos)
-- **[[#2. Snowflake Cortex’s LLM-Based Functions]]** (8 videos)
-- **[[#3. Customize LLM Responses with Cortex Fine-Tuning]]** (9 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Navigating the generative AI revolution with Snowflake
+  - What we’ll cover in this course
+- [**1. Introduction to GenAI on Snowflake**](#1-introduction-to-genai-on-snowflake) (2 videos)
+  - Preparing your development environment
+  - Build a simple AI app in Snowflake
+- [**2. Snowflake Cortex’s LLM-Based Functions**](#2-snowflake-cortexs-llm-based-functions) (8 videos)
+  - Introduction
+  - Introduction to LLM functions and Cortex COMPLETE
+  - Task-specific LLM functions and helper functions
+  - Using the Cortex COMPLETE function
+  - Using task-specific Cortex LLM functions
+  - Using helper functions
+  - Getting ready to put it all together: Build a Streamlit app
+  - Module recap
+- [**3. Customize LLM Responses with Cortex Fine-Tuning**](#3-customize-llm-responses-with-cortex-fine-tuning) (9 videos)
+  - What is Cortex fine-tuning?
+  - Setting up your environment
+  - Analyzing customer support tickets
+  - Preparing your training data
+  - Starting the fine-tuning job
+  - Inference using fine-tuned model
+  - Streamlit app to autogenerate custom emails and text messages
+  - Module recap
+  - Continue your generative AI education
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating the generative AI revolution with Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980)
@@ -188,7 +209,7 @@ created: 2026-04-29
 
 ### 1. Introduction to GenAI on Snowflake
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980)
@@ -551,7 +572,7 @@ created: 2026-04-29
 
 ### 2. Snowflake Cortex’s LLM-Based Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980)
@@ -1601,7 +1622,7 @@ created: 2026-04-29
 
 ### 3. Customize LLM Responses with Cortex Fine-Tuning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Cortex fine-tuning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980)

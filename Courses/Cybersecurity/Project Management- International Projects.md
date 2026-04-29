@@ -44,17 +44,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Collaboration]]** (3 videos)
-- **[[#2. True Communication]]** (4 videos)
-- **[[#3. Distance]]** (3 videos)
-- **[[#4. Culture]]** (4 videos)
-- **[[#5. Language]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Improve your global project results
+- [**1. Collaboration**](#1-collaboration) (3 videos)
+  - Assessing collaboration
+  - We do as the leader does
+  - Building skills for collaboration
+- [**2. True Communication**](#2-true-communication) (4 videos)
+  - Avoiding the illusion
+  - Effective supplier communication steps
+  - Effective customer communication steps
+  - New obstacles to clarity
+- [**3. Distance**](#3-distance) (3 videos)
+  - Addressing physical separation
+  - Improving affiliation
+  - Considering time zones
+- [**4. Culture**](#4-culture) (4 videos)
+  - Social programming and values
+  - High vs. low context
+  - Power distance
+  - Monochronic vs. polychronic
+- [**5. Language**](#5-language) (4 videos)
+  - Common language
+  - Emails and texts
+  - Translations
+  - Drawings and specifications
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your global project results
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/improve-your-global-project-results?u=76281980)
@@ -91,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/assessing-collaboration?u=76281980)
@@ -282,7 +302,7 @@ created: 2026-04-29
 
 ### 2. True Communication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding the illusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/avoiding-the-illusion?u=76281980)
@@ -545,7 +565,7 @@ created: 2026-04-29
 
 ### 3. Distance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Addressing physical separation
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/addressing-physical-separation?u=76281980)
@@ -746,7 +766,7 @@ created: 2026-04-29
 
 ### 4. Culture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Social programming and values
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/social-programming-and-values?u=76281980)
@@ -1010,7 +1030,7 @@ created: 2026-04-29
 
 ### 5. Language
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common language
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/common-language?u=76281980)
@@ -1287,7 +1307,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-international-projects/next-steps?u=76281980)

@@ -50,15 +50,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Getting Started with Bitbucket Pipelines]]** (7 videos)
-- **[[#2. Working with Variables and Artifacts]]** (6 videos)
-- **[[#3. Configuring Build Environments]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - From commit to deployment with Bitbucket Pipelines
+  - What you should know
+  - Overview of CI/CD
+  - Understanding pipeline limits
+- [**1. Getting Started with Bitbucket Pipelines**](#1-getting-started-with-bitbucket-pipelines) (7 videos)
+  - Create a pipeline
+  - Bitbucket Pipelines configuration
+  - Configure pipeline stages
+  - Configure pipeline triggers
+  - Use YAML anchors
+  - Challenge: Create a pipeline
+  - Solution: Create a pipeline
+- [**2. Working with Variables and Artifacts**](#2-working-with-variables-and-artifacts) (6 videos)
+  - Variables and secrets
+  - Use environment and deployment variables
+  - Create and share artifacts
+  - Create and download packages
+  - Challenge: Deploy an artifact
+  - Solution: Deploy an artifact
+- [**3. Configuring Build Environments**](#3-configuring-build-environments) (5 videos)
+  - Use default images and tools
+  - Use public and custom images
+  - Use services
+  - Challenge: Create a pipeline with images and services
+  - Solution: Create a pipeline with images and services
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From commit to deployment with Bitbucket Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/from-commit-to-deployment-with-bitbucket-pipelines?u=76281980)
@@ -236,7 +259,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Bitbucket Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/create-a-pipeline?u=76281980)
@@ -827,7 +850,7 @@ created: 2026-04-29
 
 ### 2. Working with Variables and Artifacts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Variables and secrets
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/variables-and-secrets?u=76281980)
@@ -1478,7 +1501,7 @@ created: 2026-04-29
 
 ### 3. Configuring Build Environments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use default images and tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/use-default-images-and-tools?u=76281980)
@@ -1986,7 +2009,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/bitbucket-pipelines-for-ci-cd/next-steps?u=76281980)

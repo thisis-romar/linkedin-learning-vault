@@ -55,15 +55,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Setting the Stage for Strategic Thinking]]** (4 videos)
-- **[[#2. Developing Your Strategic Thinking]]** (4 videos)
-- **[[#3. Implementing Strategic Thinking]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to strategic thinking
+- [**1. Setting the Stage for Strategic Thinking**](#1-setting-the-stage-for-strategic-thinking) (4 videos)
+  - Embrace the strategic thinking mindset
+  - Make time to be strategic
+  - Get strategic about your career
+  - Understand the sequence of strategy
+- [**2. Developing Your Strategic Thinking**](#2-developing-your-strategic-thinking) (4 videos)
+  - Consider the future and learn from the past
+  - Create an informed strategy
+  - Practicality: Get real about your strategy
+  - AI and strategic thinking
+- [**3. Implementing Strategic Thinking**](#3-implementing-strategic-thinking) (4 videos)
+  - Strategic thinking with your team
+  - Measure your success
+  - Strategic thinking is an ongoing process
+  - The limits of strategy
+- [**Conclusion**](#conclusion) (1 videos)
+  - Make strategic thinking a habit
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/welcome-strategic-thinking?u=76281980)
@@ -91,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Setting the Stage for Strategic Thinking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace the strategic thinking mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/embrace-the-strategic-thinking-mindset-29714001?u=76281980)
@@ -433,7 +447,7 @@ created: 2026-04-29
 
 ### 2. Developing Your Strategic Thinking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Consider the future and learn from the past
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/consider-the-future-and-learn-from-the-past-29714002?u=76281980)
@@ -710,7 +724,7 @@ created: 2026-04-29
 
 ### 3. Implementing Strategic Thinking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic thinking with your team
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/strategic-thinking-with-your-team-29718000?u=76281980)
@@ -1015,7 +1029,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make strategic thinking a habit
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-thinking-22616141/make-strategic-thinking-a-habit-9710000?u=76281980)

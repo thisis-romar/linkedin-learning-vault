@@ -55,15 +55,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Understanding Gemini Models]]** (5 videos)
-- **[[#2. How the Gemini API Works]]** (5 videos)
-- **[[#3. Developing with the Gemini API]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Get started with the Gemini API
+  - What you should know
+  - Who is this course for?
+- [**1. Understanding Gemini Models**](#1-understanding-gemini-models) (5 videos)
+  - What is Gemini?
+  - Gemini Pro
+  - Gemini Pro Vision
+  - Embedding
+  - AQA
+- [**2. How the Gemini API Works**](#2-how-the-gemini-api-works) (5 videos)
+  - What is the Gemini API?
+  - API versions
+  - Pricing
+  - Designing prompt data
+  - Generating content
+- [**3. Developing with the Gemini API**](#3-developing-with-the-gemini-api) (4 videos)
+  - Getting an API key
+  - API structure, models, and endpoints
+  - Using the REST API
+  - Using a programming language SDK
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with the Gemini API
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/get-started-with-the-gemini-api?u=76281980)
@@ -145,7 +163,7 @@ created: 2026-04-29
 
 ### 1. Understanding Gemini Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Gemini?
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-gemini?u=76281980)
@@ -452,7 +470,7 @@ created: 2026-04-29
 
 ### 2. How the Gemini API Works
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the Gemini API?
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/what-is-the-gemini-api?u=76281980)
@@ -894,7 +912,7 @@ created: 2026-04-29
 
 ### 3. Developing with the Gemini API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting an API key
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/getting-an-api-key?u=76281980)
@@ -1400,7 +1418,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-the-google-gemini-api/next-steps?u=76281980)

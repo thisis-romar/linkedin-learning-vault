@@ -49,14 +49,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Inclusive Conversations Skills]]** (7 videos)
-- **[[#2. Inclusive Conversations in Practice]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - The need for inclusive conversations
+  - Diversity topics can be polarizing
+  - Thriving with inclusive dialogue
+- [**1. Inclusive Conversations Skills**](#1-inclusive-conversations-skills) (7 videos)
+  - Six steps to inclusive conversations
+  - Know yourself and others
+  - Inclusive conversations readiness
+  - Prepare for the conversation
+  - Getting to shared meaning
+  - Honing skills for shared meaning
+  - Strive for reciprocal empathy
+- [**2. Inclusive Conversations in Practice**](#2-inclusive-conversations-in-practice) (3 videos)
+  - Talking about race
+  - Talking about religion
+  - Talking about gender
+- [**Conclusion**](#conclusion) (1 videos)
+  - Inclusivity pledge
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for inclusive conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980)
@@ -224,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Inclusive Conversations Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Six steps to inclusive conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/six-steps-to-inclusive-conversations?u=76281980)
@@ -846,7 +860,7 @@ created: 2026-04-29
 
 ### 2. Inclusive Conversations in Practice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Talking about race
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980)
@@ -1137,7 +1151,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusivity pledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusivity-pledge-14485160?u=76281980)

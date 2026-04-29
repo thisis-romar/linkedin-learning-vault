@@ -48,17 +48,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Installing Domain Controllers]]** (4 videos)
-- **[[#2. Active Directory Administration Tools]]** (6 videos)
-- **[[#3. Flexible Single Master of Operations (FSMO)]]** (3 videos)
-- **[[#4. Active Directory Permissions]]** (3 videos)
-- **[[#5. Managing AD DS Objects]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Active Directory in Windows Server 2019
+  - What you should know
+- [**1. Installing Domain Controllers**](#1-installing-domain-controllers) (4 videos)
+  - Installing Active Directory Domain Services role
+  - Installing a forest root domain controller
+  - Installing additional domain controllers
+  - Installing read-only domain controllers
+- [**2. Active Directory Administration Tools**](#2-active-directory-administration-tools) (6 videos)
+  - Managing AD DS with Active Directory Administrative Center
+  - Managing AD DS with Active Directory Users and Computers
+  - Active Directory Domains and Trusts overview
+  - Active Directory Sites and Services overview
+  - Active Directory schema overview
+  - Managing AD DS from the command line
+- [**3. Flexible Single Master of Operations (FSMO)**](#3-flexible-single-master-of-operations-fsmo) (3 videos)
+  - FSMO overview
+  - Transferring a FSMO role
+  - Seizing a FSMO role
+- [**4. Active Directory Permissions**](#4-active-directory-permissions) (3 videos)
+  - Permissions overview
+  - Delegation of Control Wizard
+  - Creating a custom management tool
+- [**5. Managing AD DS Objects**](#5-managing-ad-ds-objects) (8 videos)
+  - Creating user accounts
+  - Moving user accounts
+  - User account templates
+  - Creating a group
+  - Managing group membership
+  - Computer accounts
+  - Creating organizational units (OUs)
+  - Examples of OU hierarchies
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Active Directory in Windows Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/active-directory-in-windows-server-2019?u=76281980)
@@ -128,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Installing Domain Controllers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Active Directory Domain Services role
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/installing-active-directory-domain-services-role?u=76281980)
@@ -550,7 +577,7 @@ created: 2026-04-29
 
 ### 2. Active Directory Administration Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing AD DS with Active Directory Administrative Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980)
@@ -985,7 +1012,7 @@ created: 2026-04-29
 
 ### 3. Flexible Single Master of Operations (FSMO)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### FSMO overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/fsmo-overview?u=76281980)
@@ -1308,7 +1335,7 @@ created: 2026-04-29
 
 ### 4. Active Directory Permissions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Permissions overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/permissions-overview?u=76281980)
@@ -1607,7 +1634,7 @@ created: 2026-04-29
 
 ### 5. Managing AD DS Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/creating-user-accounts?u=76281980)
@@ -2280,7 +2307,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-install-and-configure-active-directory/next-steps?u=76281980)

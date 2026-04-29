@@ -56,27 +56,95 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Starting with Excel]]** (3 videos)
-- **[[#2. Dataset Basics]]** (3 videos)
-- **[[#3. Looking at Data]]** (3 videos)
-- **[[#4. Dataset Variability]]** (5 videos)
-- **[[#5. Excel Descriptive Tools]]** (3 videos)
-- **[[#6. Basic Probability Concepts]]** (8 videos)
-- **[[#7. Discrete Probabilities]]** (5 videos)
-- **[[#8. Continuous Probabilities]]** (5 videos)
-- **[[#9. Sampling]]** (4 videos)
-- **[[#10. Confidence Intervals]]** (4 videos)
-- **[[#11. Hypothesis Tests]]** (6 videos)
-- **[[#12. Comparing Two Populations]]** (4 videos)
-- **[[#13. ANOVA: Analysis of Variance]]** (3 videos)
-- **[[#14. Regression]]** (4 videos)
-- **[[#15. Simulation]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Using Excel for statistics
+  - What you need to know
+  - Using the exercise files
+  - Excel on Mac or PC
+  - Using Copilot
+- [**1. Starting with Excel**](#1-starting-with-excel) (3 videos)
+  - Excel basics
+  - Random number generator
+  - Copilot: Basic assistance
+- [**2. Dataset Basics**](#2-dataset-basics) (3 videos)
+  - SUM, COUNT, MAX, MIN, and Range
+  - Means, medians, and modes
+  - Copilot: Dataset exploration
+- [**3. Looking at Data**](#3-looking-at-data) (3 videos)
+  - Frequency table
+  - Histogram
+  - Copilot: Tables and charts
+- [**4. Dataset Variability**](#4-dataset-variability) (5 videos)
+  - Standard deviation
+  - Normal curve and normal distribution
+  - Skewness and kurtosis
+  - Empirical rule
+  - Copilot: Measuring variability
+- [**5. Excel Descriptive Tools**](#5-excel-descriptive-tools) (3 videos)
+  - Descriptive tool
+  - Descriptive tool exercise
+  - Copilot: Descriptive tool
+- [**6. Basic Probability Concepts**](#6-basic-probability-concepts) (8 videos)
+  - Probability explained
+  - Percentiles
+  - Permutations
+  - Combinations
+  - Addition rule of probability
+  - Multiplication rule of probability
+  - Conditional probability and probability trees
+  - Copilot: Probability
+- [**7. Discrete Probabilities**](#7-discrete-probabilities) (5 videos)
+  - Discrete probability explained
+  - Discrete: Mean
+  - Discrete: Standard deviation
+  - Discrete: Binomial distribution
+  - Copilot: Discrete probability
+- [**8. Continuous Probabilities**](#8-continuous-probabilities) (5 videos)
+  - Continuous: Z-score tables
+  - Continuous: Creating a normal curve in Excel
+  - Continuous: Calculating normal distribution probabilities
+  - Copilot: Continuous probability
+  - Getting ready for part two
+- [**9. Sampling**](#9-sampling) (4 videos)
+  - Sample considerations
+  - The central limit theorem
+  - t-statistic vs. z-statistic
+  - Copilot: Sampling concepts
+- [**10. Confidence Intervals**](#10-confidence-intervals) (4 videos)
+  - Introduction to confidence intervals
+  - Creating confidence intervals in Excel: Proportions
+  - Creating confidence intervals in Excel: Means
+  - Copilot: Confidence intervals
+- [**11. Hypothesis Tests**](#11-hypothesis-tests) (6 videos)
+  - How to test a hypothesis
+  - Five steps of hypothesis testing
+  - One-tailed vs. two-tailed tests
+  - Hypothesis test exercise: Means
+  - Hypothesis test exercise: Proportions
+  - Copilot: Hypothesis testing
+- [**12. Comparing Two Populations**](#12-comparing-two-populations) (4 videos)
+  - Explanation of two population comparisons
+  - Comparing two populations: Proportions
+  - Comparing two populations: Means
+  - Copilot: Comparing two populations
+- [**13. ANOVA: Analysis of Variance**](#13-anova-analysis-of-variance) (3 videos)
+  - ANOVA: What is analysis of variance?
+  - Hypothesis test and the F-statistic
+  - Copilot: ANOVA
+- [**14. Regression**](#14-regression) (4 videos)
+  - What is regression?
+  - Regression terminology
+  - Linear regressions
+  - Copilot: Linear regression
+- [**15. Simulation**](#15-simulation) (2 videos)
+  - Business simulation example
+  - Copilot: Simulations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue learning Excel statistics
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Excel for statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/using-excel-for-statistics?u=76281980)
@@ -264,7 +332,7 @@ created: 2026-04-29
 
 ### 1. Starting with Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Excel basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/excel-basics?u=76281980)
@@ -985,7 +1053,7 @@ created: 2026-04-29
 
 ### 2. Dataset Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SUM, COUNT, MAX, MIN, and Range
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sum-count-max-min-and-range?u=76281980)
@@ -1621,7 +1689,7 @@ created: 2026-04-29
 
 ### 3. Looking at Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Frequency table
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/frequency-table?u=76281980)
@@ -2135,7 +2203,7 @@ created: 2026-04-29
 
 ### 4. Dataset Variability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Standard deviation
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/standard-deviation?u=76281980)
@@ -3120,7 +3188,7 @@ created: 2026-04-29
 
 ### 5. Excel Descriptive Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Descriptive tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/descriptive-tool?u=76281980)
@@ -3563,7 +3631,7 @@ created: 2026-04-29
 
 ### 6. Basic Probability Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/probability-explained?u=76281980)
@@ -4988,7 +5056,7 @@ created: 2026-04-29
 
 ### 7. Discrete Probabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discrete probability explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/discrete-probability-explained?u=76281980)
@@ -5690,7 +5758,7 @@ created: 2026-04-29
 
 ### 8. Continuous Probabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuous: Z-score tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continuous-z-score-tables?u=76281980)
@@ -6259,7 +6327,7 @@ created: 2026-04-29
 
 ### 9. Sampling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sample considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/sample-considerations?u=76281980)
@@ -7167,7 +7235,7 @@ created: 2026-04-29
 
 ### 10. Confidence Intervals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to confidence intervals
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/introduction-to-confidence-intervals?u=76281980)
@@ -7973,7 +8041,7 @@ created: 2026-04-29
 
 ### 11. Hypothesis Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to test a hypothesis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/how-to-test-a-hypothesis?u=76281980)
@@ -9050,7 +9118,7 @@ created: 2026-04-29
 
 ### 12. Comparing Two Populations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanation of two population comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/explanation-of-two-population-comparisons?u=76281980)
@@ -9885,7 +9953,7 @@ created: 2026-04-29
 
 ### 13. ANOVA: Analysis of Variance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ANOVA: What is analysis of variance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/anova-what-is-analysis-of-variance?u=76281980)
@@ -10548,7 +10616,7 @@ created: 2026-04-29
 
 ### 14. Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/what-is-regression?u=76281980)
@@ -11109,7 +11177,7 @@ created: 2026-04-29
 
 ### 15. Simulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business simulation example
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/business-simulation-example?u=76281980)
@@ -11373,7 +11441,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Excel statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-excel-statistics-with-copilot/continue-learning-excel-statistics?u=76281980)

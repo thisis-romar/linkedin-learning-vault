@@ -61,17 +61,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Cloud Architecture]]** (5 videos)
-- **[[#2. Understanding Business Needs]]** (8 videos)
-- **[[#3. It's All about the Cloud Parts]]** (7 videos)
-- **[[#4. From Requirements to Solutions]]** (9 videos)
-- **[[#5. Building Your First Architecture]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What is cloud architecture?
+  - What you should know
+- [**1. Introduction to Cloud Architecture**](#1-introduction-to-cloud-architecture) (5 videos)
+  - Cloud architecture basics
+  - Cloud architecture: Example 1
+  - Cloud architecture: Example 2
+  - Skills, tools, and processes
+  - Building a framework
+- [**2. Understanding Business Needs**](#2-understanding-business-needs) (8 videos)
+  - What problems need to be solved?
+  - The "as is" state
+  - The "to be" state
+  - The value of architecture optimization
+  - Cloud architecture and security
+  - Cloud architecture and AI
+  - Challenge: Approaching architecture planning for Atlas Inc.
+  - Solution: Approaching architecture planning for Atlas Inc.
+- [**3. It's All about the Cloud Parts**](#3-its-all-about-the-cloud-parts) (7 videos)
+  - Cloud storage
+  - Cloud compute
+  - Cloud databases
+  - Cloud security
+  - Cloud operations (CloudOps)
+  - Cloud AI
+  - Additional cloud services
+- [**4. From Requirements to Solutions**](#4-from-requirements-to-solutions) (9 videos)
+  - Storage level
+  - Data level
+  - Compute level
+  - Network level
+  - Security level
+  - Operations level
+  - Application level
+  - AI level
+  - Creating a winning cloud architecture
+- [**5. Building Your First Architecture**](#5-building-your-first-architecture) (4 videos)
+  - Step 1: Define your requirements
+  - Step 2: Define your desired end state
+  - Step 3: Mapping "as is" to "to be"
+  - Step 4: Create your final architecture
+- [**Conclusion**](#conclusion) (2 videos)
+  - Learning more about cloud architecture
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cloud architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-is-cloud-architecture?u=76281980)
@@ -97,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Cloud Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud architecture basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980)
@@ -340,7 +377,7 @@ created: 2026-04-29
 
 ### 2. Understanding Business Needs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What problems need to be solved?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-problems-need-to-be-solved?u=76281980)
@@ -599,7 +636,7 @@ created: 2026-04-29
 
 ### 3. It's All about the Cloud Parts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-storage?u=76281980)
@@ -788,7 +825,7 @@ created: 2026-04-29
 
 ### 4. From Requirements to Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage level
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980)
@@ -1169,7 +1206,7 @@ created: 2026-04-29
 
 ### 5. Building Your First Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Step 1: Define your requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-1-define-your-requirements?u=76281980)
@@ -1351,7 +1388,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about cloud architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/learning-more-about-cloud-architecture?u=76281980)

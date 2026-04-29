@@ -54,19 +54,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. A Review of the Financial Statements]]** (4 videos)
-- **[[#2. The DuPont Framework]]** (3 videos)
-- **[[#3. Common-Size Financial Statements]]** (4 videos)
-- **[[#4. Profitability Ratios]]** (2 videos)
-- **[[#5. Efficiency Ratios]]** (4 videos)
-- **[[#6. Leverage Ratios]]** (3 videos)
-- **[[#7. Limitations of Financial Statement Analysis]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What is financial statement analysis?
+  - Common methods of analysis
+- [**1. A Review of the Financial Statements**](#1-a-review-of-the-financial-statements) (4 videos)
+  - The accounting equation
+  - Reading the balance sheet
+  - Reading the income statement
+  - Evaluating the statement of cash flows
+- [**2. The DuPont Framework**](#2-the-dupont-framework) (3 videos)
+  - Determining return on equity
+  - Applying the DuPont framework
+  - Example: Ford vs. General Motors
+- [**3. Common-Size Financial Statements**](#3-common-size-financial-statements) (4 videos)
+  - Common-size overview
+  - Common-size income statement
+  - Common-size balance sheet
+  - Example: Walmart vs. Target
+- [**4. Profitability Ratios**](#4-profitability-ratios) (2 videos)
+  - The many ways to define income and profit
+  - Example: Nordstrom vs. Microsoft
+- [**5. Efficiency Ratios**](#5-efficiency-ratios) (4 videos)
+  - The operating cycle
+  - Days' sales of inventory (DSI)
+  - Average collection period
+  - Examples: Harley and McDonald's
+- [**6. Leverage Ratios**](#6-leverage-ratios) (3 videos)
+  - Current ratio in theory and practice
+  - The many debt ratios
+  - Example: Comparing tech company debt ratios
+- [**7. Limitations of Financial Statement Analysis**](#7-limitations-of-financial-statement-analysis) (3 videos)
+  - Limits to using past performance
+  - Pitfalls of financial statement analysis
+  - Avoid the temptation of a single reason
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is financial statement analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980)
@@ -169,7 +195,7 @@ created: 2026-04-29
 
 ### 1. A Review of the Financial Statements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The accounting equation
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-accounting-equation-19829526?u=76281980)
@@ -593,7 +619,7 @@ created: 2026-04-29
 
 ### 2. The DuPont Framework
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining return on equity
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980)
@@ -885,7 +911,7 @@ created: 2026-04-29
 
 ### 3. Common-Size Financial Statements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common-size overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980)
@@ -1261,7 +1287,7 @@ created: 2026-04-29
 
 ### 4. Profitability Ratios
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The many ways to define income and profit
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980)
@@ -1457,7 +1483,7 @@ created: 2026-04-29
 
 ### 5. Efficiency Ratios
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The operating cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980)
@@ -1821,7 +1847,7 @@ created: 2026-04-29
 
 ### 6. Leverage Ratios
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Current ratio in theory and practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/current-ratio-in-theory-and-practice-19833204?u=76281980)
@@ -2138,7 +2164,7 @@ created: 2026-04-29
 
 ### 7. Limitations of Financial Statement Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Limits to using past performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980)
@@ -2365,7 +2391,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980)

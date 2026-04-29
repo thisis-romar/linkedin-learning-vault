@@ -45,18 +45,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Get Started with Google Drive]]** (3 videos)
-- **[[#2. Work with Files]]** (6 videos)
-- **[[#3. Organize and Search Google Drive]]** (6 videos)
-- **[[#4. Work with Google Docs]]** (2 videos)
-- **[[#5. Collaborate with Google Docs]]** (6 videos)
-- **[[#6. Use Google Drive on a Mobile Device]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Do more than store files with Google Drive
+- [**1. Get Started with Google Drive**](#1-get-started-with-google-drive) (3 videos)
+  - Access Google Drive with your account
+  - Navigate the web interface
+  - Understand Google Drive file types
+- [**2. Work with Files**](#2-work-with-files) (6 videos)
+  - Upload files via the web
+  - Upload and sync files with the desktop app
+  - Convert files to Google doc format
+  - Download files and folders
+  - Delete and recover files
+  - Purchase additional storage space
+- [**3. Organize and Search Google Drive**](#3-organize-and-search-google-drive) (6 videos)
+  - Work with folders
+  - Change the view and sort order
+  - Use Stars to group files
+  - Create Workspaces for projects
+  - Search files and folders
+  - Explore files with the preview lightbox
+- [**4. Work with Google Docs**](#4-work-with-google-docs) (2 videos)
+  - Create Docs, Sheets, Slides, and Forms
+  - Understand the shared interface
+- [**5. Collaborate with Google Docs**](#5-collaborate-with-google-docs) (6 videos)
+  - Share files with other Google users
+  - Use shared drives with coworkers
+  - Work with files that are shared with you
+  - Work with revisions
+  - Edit a file simultaneously with another Google user
+  - Use Approval cycles to finalize documents
+- [**6. Use Google Drive on a Mobile Device**](#6-use-google-drive-on-a-mobile-device) (1 videos)
+  - Navigate the Google Drive app
+- [**Conclusion**](#conclusion) (1 videos)
+  - Take Drive further by mastering Google Docs
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Do more than store files with Google Drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/do-more-than-store-files-with-google-drive?u=76281980)
@@ -98,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Google Drive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Access Google Drive with your account
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/access-google-drive-with-your-account?u=76281980)
@@ -313,7 +339,7 @@ created: 2026-04-29
 
 ### 2. Work with Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Upload files via the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/upload-files-via-the-web?u=76281980)
@@ -788,7 +814,7 @@ created: 2026-04-29
 
 ### 3. Organize and Search Google Drive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with folders
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/work-with-folders?u=76281980)
@@ -1309,7 +1335,7 @@ created: 2026-04-29
 
 ### 4. Work with Google Docs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create Docs, Sheets, Slides, and Forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/create-docs-sheets-slides-and-forms?u=76281980)
@@ -1440,7 +1466,7 @@ created: 2026-04-29
 
 ### 5. Collaborate with Google Docs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Share files with other Google users
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/share-files-with-other-google-users?u=76281980)
@@ -1955,7 +1981,7 @@ created: 2026-04-29
 
 ### 6. Use Google Drive on a Mobile Device
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate the Google Drive app
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/navigate-the-google-drive-app?u=76281980)
@@ -2038,7 +2064,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take Drive further by mastering Google Docs
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-drive-essential-training-2023/take-drive-further-by-mastering-google-docs?u=76281980)

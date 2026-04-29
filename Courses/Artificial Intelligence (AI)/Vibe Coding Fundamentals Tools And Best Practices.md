@@ -36,12 +36,19 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Vibe Coding Fundamentals]]** (6 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The quiet shift in how developers are writing code
+- [**1. Vibe Coding Fundamentals**](#1-vibe-coding-fundamentals) (6 videos)
+  - What happens when AI starts writing code?
+  - The AI-driven tools changing how code is written
+  - Setup can make or break your vibe coding experience
+  - System prompts: The most overlooked step in vibe coding
+  - What makes a good prompt in vibe coding?
+  - Sample vibe coding session
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The quiet shift in how developers are writing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/the-quiet-shift-in-how-developers-are-writing-code?u=76281980)
@@ -71,7 +78,7 @@ created: 2026-04-29
 
 ### 1. Vibe Coding Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What happens when AI starts writing code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vibe-coding-fundamentals-tools-and-best-practices/what-happens-when-ai-starts-writing-code?u=76281980)

@@ -46,16 +46,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Operating Systems and Digital Forensics]]** (7 videos)
-- **[[#2. File System Types]]** (7 videos)
-- **[[#3. File Recovery]]** (7 videos)
-- **[[#4. Live Acquisition]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Operating system forensics
+  - What you should know
+- [**1. Operating Systems and Digital Forensics**](#1-operating-systems-and-digital-forensics) (7 videos)
+  - Introduction to OSs and digital forensics
+  - History
+  - Core concepts
+  - Roles in computing
+  - Process management hands-on
+  - Roles in forensics
+  - Future
+- [**2. File System Types**](#2-file-system-types) (7 videos)
+  - Introduction to file system types
+  - Windows file systems
+  - Windows hands-on
+  - Linux file systems
+  - Linux hands-on
+  - Apple file systems
+  - Apple hands-on
+- [**3. File Recovery**](#3-file-recovery) (7 videos)
+  - Introduction to file recovery
+  - Data carving
+  - Data carving preparation
+  - Data carving hands-on
+  - Slack space
+  - Data hiding and ADS
+  - Data hiding hands-on
+- [**4. Live Acquisition**](#4-live-acquisition) (9 videos)
+  - Introduction to live acquisition
+  - Addressing
+  - Memory structure
+  - Virtual memory
+  - Memory dump analysis with Volatility
+  - Processes
+  - Network connections
+  - Challenge
+  - Solution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Operating system forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/operating-system-forensics?u=76281980)
@@ -112,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Operating Systems and Digital Forensics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OSs and digital forensics
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction?u=76281980)
@@ -498,7 +531,7 @@ created: 2026-04-29
 
 ### 2. File System Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to file system types
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379530?u=76281980)
@@ -947,7 +980,7 @@ created: 2026-04-29
 
 ### 3. File Recovery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to file recovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24377627?u=76281980)
@@ -1578,7 +1611,7 @@ created: 2026-04-29
 
 ### 4. Live Acquisition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to live acquisition
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/introduction-24379529?u=76281980)
@@ -2069,7 +2102,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/operating-system-forensics-24652677/next-steps?u=76281980)

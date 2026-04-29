@@ -59,14 +59,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Understanding K-Means Clustering]]** (4 videos)
-- **[[#2. Segmenting Data with K-Means Clustering]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Getting started with Python and k-means clustering
+  - What you should know
+  - The tools you need
+  - Using the exercise files
+- [**1. Understanding K-Means Clustering**](#1-understanding-k-means-clustering) (4 videos)
+  - What is clustering?
+  - What is k-means clustering?
+  - Choosing the right number of clusters
+  - Why and when to use k-means clustering
+- [**2. Segmenting Data with K-Means Clustering**](#2-segmenting-data-with-k-means-clustering) (4 videos)
+  - How to segment data with k-means clustering in Python
+  - How to evaluate and visualize clusters in Python
+  - How to find the right number of clusters in Python
+  - How to interpret the results of k-means clustering in Python
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Python and k-means clustering
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/getting-started-with-python-and-k-means-clustering?u=76281980)
@@ -223,7 +236,7 @@ created: 2026-04-29
 
 ### 1. Understanding K-Means Clustering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is clustering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/what-is-clustering?u=76281980)
@@ -601,7 +614,7 @@ created: 2026-04-29
 
 ### 2. Segmenting Data with K-Means Clustering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to segment data with k-means clustering in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/how-to-segment-data-with-k-means-clustering-in-python?u=76281980)
@@ -1032,7 +1045,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-k-means-clustering/next-steps?u=76281980)

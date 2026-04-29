@@ -47,17 +47,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Basic Image Fitting and Positioning]]** (7 videos)
-- **[[#2. Clip Masks, Paths, and Custom Shapes]]** (9 videos)
-- **[[#3. Filtering and Blending]]** (7 videos)
-- **[[#4. Transformations and Animations]]** (4 videos)
-- **[[#5. Image Optimization and Performance]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Working with images in CSS
+  - What you should know
+  - Using GitHub Codespaces with this course
+- [**1. Basic Image Fitting and Positioning**](#1-basic-image-fitting-and-positioning) (7 videos)
+  - Modern image markup
+  - Removing space underneath an image
+  - Fitting an image inside any container
+  - Fitting and positioning a background image in a container
+  - Creating square and proportionate images
+  - Fitting an image inside a grid cell
+  - Fitting an image inside a flexbox
+- [**2. Clip Masks, Paths, and Custom Shapes**](#2-clip-masks-paths-and-custom-shapes) (9 videos)
+  - Rounded corners with border-radius
+  - Custom shapes using clip-path
+  - Creating circles and ellipses with clip-path
+  - Creating straight-lined shapes with polygon
+  - Creating rectangles with clip-path
+  - Creating custom paths with clip-path
+  - Creating custom shapes with SVG
+  - Using an alternative to clip-path: mask-image
+  - Creating a text knockout effect with background-clip
+- [**3. Filtering and Blending**](#3-filtering-and-blending) (7 videos)
+  - Filtering and blending
+  - Looking at the filter property
+  - Combining filters
+  - Using custom SVG filters
+  - Mix-blend-mode
+  - Experimenting with blend modes
+  - Background-blend-mode
+- [**4. Transformations and Animations**](#4-transformations-and-animations) (4 videos)
+  - Translate, scale, rotate, and manipulate perspective
+  - Animated effects with transitions
+  - Keyframe animations for image effects
+  - Important notes on using animations
+- [**5. Image Optimization and Performance**](#5-image-optimization-and-performance) (3 videos)
+  - Delivering responsive images
+  - Optimizing performance
+  - Ensuring cross-browser compatibility
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with images in CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/working-with-images-in-css?u=76281980)
@@ -180,7 +214,7 @@ created: 2026-04-29
 
 ### 1. Basic Image Fitting and Positioning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern image markup
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/modern-image-markup?u=76281980)
@@ -1064,7 +1098,7 @@ created: 2026-04-29
 
 ### 2. Clip Masks, Paths, and Custom Shapes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rounded corners with border-radius
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/rounded-corners-with-border-radius?u=76281980)
@@ -1800,7 +1834,7 @@ created: 2026-04-29
 
 ### 3. Filtering and Blending
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering and blending
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/filtering-and-blending?u=76281980)
@@ -2221,7 +2255,7 @@ created: 2026-04-29
 
 ### 4. Transformations and Animations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Translate, scale, rotate, and manipulate perspective
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/translate-scale-rotate-and-manipulate-perspective?u=76281980)
@@ -2681,7 +2715,7 @@ created: 2026-04-29
 
 ### 5. Image Optimization and Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Delivering responsive images
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/delivering-responsive-images?u=76281980)
@@ -2814,7 +2848,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-images-25655459/next-steps?u=76281980)

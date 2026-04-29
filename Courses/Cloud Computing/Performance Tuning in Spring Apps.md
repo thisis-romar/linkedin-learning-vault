@@ -52,16 +52,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Foundations of Spring Performance]]** (5 videos)
-- **[[#2. Spring Performance Monitoring]]** (6 videos)
-- **[[#3. Tuning for Common Spring Performance Challenges]]** (5 videos)
-- **[[#4. The Spring Developers Performance Toolkit]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Performance tuning in Spring
+  - What you should know
+  - Using the exercise files
+  - A Spring developer’s toolkit
+- [**1. Foundations of Spring Performance**](#1-foundations-of-spring-performance) (5 videos)
+  - Understanding performance
+  - JVM performance
+  - Transaction performance
+  - Challenge: JVM performance tuning
+  - Solution: JVM performance tuning
+- [**2. Spring Performance Monitoring**](#2-spring-performance-monitoring) (6 videos)
+  - Configuring Spring Actuator with Spring Boot
+  - Spring Actuator customized endpoints and health metrics
+  - Using Spring Actuator for runtime monitoring
+  - Customizing Spring performance logging
+  - Challenge: Spring performance monitoring
+  - Solution: Spring performance monitoring
+- [**3. Tuning for Common Spring Performance Challenges**](#3-tuning-for-common-spring-performance-challenges) (5 videos)
+  - Aspect-Oriented Programming
+  - Hibernate database interactions
+  - Application startup time
+  - Challenge: Spring performance tuning
+  - Solution: Spring performance tuning
+- [**4. The Spring Developers Performance Toolkit**](#4-the-spring-developers-performance-toolkit) (2 videos)
+  - Compiling a performance profile
+  - Presenting your work
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Performance tuning in Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980)
@@ -279,7 +302,7 @@ created: 2026-04-29
 
 ### 1. Foundations of Spring Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980)
@@ -879,7 +902,7 @@ created: 2026-04-29
 
 ### 2. Spring Performance Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring Spring Actuator with Spring Boot
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980)
@@ -1715,7 +1738,7 @@ created: 2026-04-29
 
 ### 3. Tuning for Common Spring Performance Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Aspect-Oriented Programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980)
@@ -2433,7 +2456,7 @@ created: 2026-04-29
 
 ### 4. The Spring Developers Performance Toolkit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Compiling a performance profile
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980)
@@ -2587,7 +2610,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980)

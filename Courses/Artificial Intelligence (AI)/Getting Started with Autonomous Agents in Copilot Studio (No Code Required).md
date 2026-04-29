@@ -48,12 +48,19 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Creating a Copilot Agent]]** (5 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Build agents in Copilot Studio
+  - What are agents?
+- [**1. Creating a Copilot Agent**](#1-creating-a-copilot-agent) (5 videos)
+  - Create agents from templates, conversationally, or manually
+  - Apply knowledge
+  - Add actions
+  - Edit instructions
+  - Introduce a trigger
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build agents in Copilot Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/build-agents-in-copilot-studio?u=76281980)
@@ -116,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Creating a Copilot Agent
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create agents from templates, conversationally, or manually
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980)

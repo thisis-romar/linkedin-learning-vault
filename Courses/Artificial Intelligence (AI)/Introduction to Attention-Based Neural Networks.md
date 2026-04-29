@@ -48,17 +48,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Recurrent Neural Networks to Learn Sequential Data]]** (5 videos)
-- **[[#2. Encoder-Decoder Networks for Language Models]]** (2 videos)
-- **[[#3. Attention-Based Neural Networks]]** (6 videos)
-- **[[#4. Image Captioning Model without Attention]]** (9 videos)
-- **[[#5. Image Captioning Model Using Attention]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Prerequisites
+  - What are attention-based models?
+  - Attention in language generation and translation models
+- [**1. Recurrent Neural Networks to Learn Sequential Data**](#1-recurrent-neural-networks-to-learn-sequential-data) (5 videos)
+  - Feed forward networks and their limitations
+  - Recurrent neural networks for sequential data
+  - The need for long memory cells
+  - LSTM and GRU cells
+  - Types of RRNNS
+- [**2. Encoder-Decoder Networks for Language Models**](#2-encoder-decoder-networks-for-language-models) (2 videos)
+  - Language generation models
+  - Sequence to sequence models for language translation
+- [**3. Attention-Based Neural Networks**](#3-attention-based-neural-networks) (6 videos)
+  - The role of attention in sequence to sequence models
+  - Attention mechanism in sequence to sequence models
+  - Alignment weights in attention models
+  - Bahdanau attention
+  - Attention models for image captioning
+  - Encoder decoder structure for image captioning
+- [**4. Image Captioning Model without Attention**](#4-image-captioning-model-without-attention) (9 videos)
+  - Setting up Colab and Google Drive
+  - Loading in the Flickr8k dataset
+  - Constructing the vocabulary
+  - Setting up the dataset class
+  - Implementing utility functions for training data
+  - Building the encoder CNN
+  - Building the decoder RNN
+  - Setting up the sequence to sequence model
+  - Training the image captioning model
+- [**5. Image Captioning Model Using Attention**](#5-image-captioning-model-using-attention) (7 videos)
+  - Loading the dataset and setting up utility functions
+  - The encoder CNN generating unrolled feature maps
+  - Implementing Bahdanau attention
+  - The decoder RNN using attention
+  - Generating captions using attention
+  - Training the attention-based image captioning model
+  - Visualizing the model's attention
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/prerequisites?u=76281980)
@@ -246,7 +279,7 @@ created: 2026-04-29
 
 ### 1. Recurrent Neural Networks to Learn Sequential Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Feed forward networks and their limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/feed-forward-networks-and-their-limitations?u=76281980)
@@ -739,7 +772,7 @@ created: 2026-04-29
 
 ### 2. Encoder-Decoder Networks for Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Language generation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/language-generation-models?u=76281980)
@@ -934,7 +967,7 @@ created: 2026-04-29
 
 ### 3. Attention-Based Neural Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of attention in sequence to sequence models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/the-role-of-attention-in-sequence-to-sequence-models?u=76281980)
@@ -1443,7 +1476,7 @@ created: 2026-04-29
 
 ### 4. Image Captioning Model without Attention
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Colab and Google Drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/setting-up-colab-and-google-drive?u=76281980)
@@ -2360,7 +2393,7 @@ created: 2026-04-29
 
 ### 5. Image Captioning Model Using Attention
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading the dataset and setting up utility functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/loading-the-dataset-and-setting-up-utility-functions?u=76281980)
@@ -2970,7 +3003,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-attention-based-neural-networks/summary-and-next-steps?u=76281980)

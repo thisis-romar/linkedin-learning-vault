@@ -52,16 +52,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to GANs and Their Broad Impact]]** (3 videos)
-- **[[#2. How GANs Learn to Create/Generate/Architecture]]** (3 videos)
-- **[[#3. Building Your First GAN]]** (3 videos)
-- **[[#4. GANs in the Real World]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Transforming innovation with GANs
+  - What you should know
+- [**1. Introduction to GANs and Their Broad Impact**](#1-introduction-to-gans-and-their-broad-impact) (3 videos)
+  - Introduction to GANs and their broad impact
+  - Generative and discriminative models
+  - Use case: Synthetic customer reviews for product analysis
+- [**2. How GANs Learn to Create/Generate/Architecture**](#2-how-gans-learn-to-creategeneratearchitecture) (3 videos)
+  - The Generator
+  - The Discriminator
+  - How GANs learn
+- [**3. Building Your First GAN**](#3-building-your-first-gan) (3 videos)
+  - How to use the challenge exercise files
+  - Challenge: Build and evaluate a GAN
+  - Solution: Build and evaluate a GAN
+- [**4. GANs in the Real World**](#4-gans-in-the-real-world) (2 videos)
+  - GANs and multimodal LLMs for scalable content generation
+  - A collaborative pipeline
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next Steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transforming innovation with GANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/transforming-innovation-with-gans?u=76281980)
@@ -109,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Introduction to GANs and Their Broad Impact
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to GANs and their broad impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/introduction-to-gans-and-their-broad-impact?u=76281980)
@@ -294,7 +308,7 @@ created: 2026-04-29
 
 ### 2. How GANs Learn to Create/Generate/Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Generator
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/the-generator?u=76281980)
@@ -559,7 +573,7 @@ created: 2026-04-29
 
 ### 3. Building Your First GAN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to use the challenge exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/how-to-use-the-challenge-exercise-files?u=76281980)
@@ -697,7 +711,7 @@ created: 2026-04-29
 
 ### 4. GANs in the Real World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GANs and multimodal LLMs for scalable content generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/gans-and-multimodal-llms-for-scalable-content-generation?u=76281980)
@@ -817,7 +831,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next Steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-generative-adversarial-networks-gans-26283306/next-steps?u=76281980)

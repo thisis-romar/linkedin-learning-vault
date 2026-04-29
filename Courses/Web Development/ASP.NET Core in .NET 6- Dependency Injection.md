@@ -49,16 +49,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Is Dependency Injection?]]** (2 videos)
-- **[[#2. Configuring Dependency Injection in ASP.NET Core]]** (3 videos)
-- **[[#3. Using Dependency Injection in ASP.NET Core]]** (6 videos)
-- **[[#4. Common Errors]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Dependency injection overview
+  - What you should know
+  - Setting up your environment
+- [**1. What Is Dependency Injection?**](#1-what-is-dependency-injection) (2 videos)
+  - What is dependency injection?
+  - Service lifetimes
+- [**2. Configuring Dependency Injection in ASP.NET Core**](#2-configuring-dependency-injection-in-aspnet-core) (3 videos)
+  - Setting up the services
+  - How to configure dependency injection
+  - Other dependency injection configuration methods
+- [**3. Using Dependency Injection in ASP.NET Core**](#3-using-dependency-injection-in-aspnet-core) (6 videos)
+  - How to inject services into a controller
+  - Inject services in other components of a web application
+  - How to set up a hosted service
+  - Disposing of a service
+  - Challenge: Set up an application using dependency injection
+  - Solution: Set up an application using dependency injection
+- [**4. Common Errors**](#4-common-errors) (4 videos)
+  - Forgetting to add a service
+  - Injecting services with different service lifetimes
+  - Circular dependency
+  - Ambiguous constructors
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your ASP.NET Core journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dependency injection overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/dependency-injection-overview?u=76281980)
@@ -242,7 +261,7 @@ created: 2026-04-29
 
 ### 1. What Is Dependency Injection?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is dependency injection?
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/what-is-dependency-injection?u=76281980)
@@ -376,7 +395,7 @@ created: 2026-04-29
 
 ### 2. Configuring Dependency Injection in ASP.NET Core
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the services
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/setting-up-the-services?u=76281980)
@@ -637,7 +656,7 @@ created: 2026-04-29
 
 ### 3. Using Dependency Injection in ASP.NET Core
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to inject services into a controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/how-to-inject-services-into-a-controller?u=76281980)
@@ -1047,7 +1066,7 @@ created: 2026-04-29
 
 ### 4. Common Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Forgetting to add a service
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/forgetting-to-add-a-service?u=76281980)
@@ -1306,7 +1325,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your ASP.NET Core journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection/continue-your-asp-dot-net-core-journey?u=76281980)

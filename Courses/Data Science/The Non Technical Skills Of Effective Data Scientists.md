@@ -66,14 +66,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What is Data Science?]]** (2 videos)
-- **[[#2. Imperative Nontechnical Skills]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The non-obvious skills data scientists should think about
+- [**1. What is Data Science?**](#1-what-is-data-science) (2 videos)
+  - Data Science is about inference and prediction
+  - Diagnosing inference vs. prediction projects
+- [**2. Imperative Nontechnical Skills**](#2-imperative-nontechnical-skills) (10 videos)
+  - Confidently defending your turf
+  - Embracing ambiguity
+  - Cognitive empathy
+  - Skepticism
+  - Curiosity
+  - Commitment to your craft
+  - Managing both up and down
+  - Being an effective analytics translator
+  - Diplomacy
+  - Persuasion
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The non-obvious skills data scientists should think about
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/the-non-obvious-skills-data-scientists-should-think-about?u=76281980)
@@ -105,7 +119,7 @@ created: 2026-04-29
 
 ### 1. What is Data Science?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data Science is about inference and prediction
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/data-science-is-about-inference-and-prediction?u=76281980)
@@ -216,7 +230,7 @@ created: 2026-04-29
 
 ### 2. Imperative Nontechnical Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Confidently defending your turf
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/confidently-defending-your-turf?u=76281980)
@@ -1178,7 +1192,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-non-technical-skills-of-effective-data-scientists/next-steps?u=76281980)

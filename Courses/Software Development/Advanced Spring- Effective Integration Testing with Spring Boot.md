@@ -51,17 +51,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Explore the Power of Spring Boot Libraries]]** (2 videos)
-- **[[#2. Integration Testing Against a Real Database]]** (4 videos)
-- **[[#3. Integration Testing Against Services with Caching Support]]** (4 videos)
-- **[[#4. Integration Testing Against a Web Controller]]** (3 videos)
-- **[[#5. Integration Testing for the Client App]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Take advantage of Spring events
+  - What you need to know
+  - Why bother testing?
+- [**1. Explore the Power of Spring Boot Libraries**](#1-explore-the-power-of-spring-boot-libraries) (2 videos)
+  - Creating a Spring Boot application from start.spring.io
+  - Creating human-readable tests with Mockito and AssertJ
+- [**2. Integration Testing Against a Real Database**](#2-integration-testing-against-a-real-database) (4 videos)
+  - Effective ways to test your data access
+  - Writing integration tests for a JPA repository
+  - Challenge: Write tests for a custom query
+  - Solution: Write tests for a custom query
+- [**3. Integration Testing Against Services with Caching Support**](#3-integration-testing-against-services-with-caching-support) (4 videos)
+  - Writing integration tests for the service layer
+  - Writing integration tests for cache
+  - Challenge: Write an integration test for exceptions
+  - Solution: Write an integration test for exceptions
+- [**4. Integration Testing Against a Web Controller**](#4-integration-testing-against-a-web-controller) (3 videos)
+  - Which type of web controller responsibilities to test?
+  - Writing integration tests for a web controller
+  - Testing custom exception returns
+- [**5. Integration Testing for the Client App**](#5-integration-testing-for-the-client-app) (4 videos)
+  - Integration testing without making an external API call
+  - Writing integration tests for rest endpoints
+  - Introduction to Spring Cloud Contract
+  - Ensuring client app (rest call) and web app (controller) are in sync
+- [**Conclusion**](#conclusion) (1 videos)
+  - More Spring Boot integration testing resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take advantage of Spring events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/take-advantage-of-spring-events?u=76281980)
@@ -163,7 +184,7 @@ created: 2026-04-29
 
 ### 1. Explore the Power of Spring Boot Libraries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a Spring Boot application from start.spring.io
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/creating-a-spring-boot-application-from-start-spring-io?u=76281980)
@@ -290,7 +311,7 @@ created: 2026-04-29
 
 ### 2. Integration Testing Against a Real Database
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Effective ways to test your data access
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/effective-ways-to-test-your-data-access?u=76281980)
@@ -618,7 +639,7 @@ created: 2026-04-29
 
 ### 3. Integration Testing Against Services with Caching Support
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing integration tests for the service layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/writing-integration-tests-for-the-service-layer?u=76281980)
@@ -903,7 +924,7 @@ created: 2026-04-29
 
 ### 4. Integration Testing Against a Web Controller
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Which type of web controller responsibilities to test?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/which-type-of-web-controller-responsibilities-to-test?u=76281980)
@@ -1166,7 +1187,7 @@ created: 2026-04-29
 
 ### 5. Integration Testing for the Client App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integration testing without making an external API call
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/integration-testing-without-making-an-external-api-call?u=76281980)
@@ -1569,7 +1590,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More Spring Boot integration testing resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-effective-integration-testing-with-spring-boot/more-spring-boot-integration-testing-resources-10133853?u=76281980)

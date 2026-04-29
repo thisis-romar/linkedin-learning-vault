@@ -48,18 +48,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to MPLS and L3VPN]]** (4 videos)
-- **[[#2. MPLS Fundamentals]]** (5 videos)
-- **[[#3. L3VPN Core Concepts]]** (5 videos)
-- **[[#4. Designing MPLS L3VPN]]** (5 videos)
-- **[[#5. Implementing MPLS L3VPN]]** (6 videos)
-- **[[#6. Advanced Topics and Wrap-Up]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Foundation and implementation
+- [**1. Introduction to MPLS and L3VPN**](#1-introduction-to-mpls-and-l3vpn) (4 videos)
+  - What is MPLS? Understanding the basics
+  - Introduction to Layer 3 VPNs (L3VPN) and their use cases
+  - Benefits of MPLS L3VPN for enterprises and service providers
+  - Overview of course objectives and target audience
+- [**2. MPLS Fundamentals**](#2-mpls-fundamentals) (5 videos)
+  - MPLS architecture and components
+  - Label distribution protocol (LDP) and resource reservation protocol (RSVP) explained
+  - MPLS packet flow and label switching
+  - Understanding MPLS terminology (PE, CE, P routers)
+  - Introduction to MPLS L3VPN concepts
+- [**3. L3VPN Core Concepts**](#3-l3vpn-core-concepts) (5 videos)
+  - What makes L3VPN unique? VRFs and route distinguishers
+  - The role of MP-BGP in L3VPN
+  - Route targets: Importing and exporting routes
+  - Control plane vs. data plane in L3VPN
+  - Common L3VPN topologies (hub-and-spoke, full mesh)
+- [**4. Designing MPLS L3VPN**](#4-designing-mpls-l3vpn) (5 videos)
+  - Planning an MPLS L3VPN deployment
+  - Addressing and routing considerations
+  - Scaling L3VPN: Best practices and limitations
+  - Security features in MPLS L3VPN
+  - Quality of service (QoS) in MPLS L3VPN: Ensuring performance
+- [**5. Implementing MPLS L3VPN**](#5-implementing-mpls-l3vpn) (6 videos)
+  - Case study: Step-by-step L3VPN deployment
+  - Configuring VRFs on PE routers
+  - Setting up MP-BGP for L3VPN
+  - Connecting CE to PE: Static and dynamic routing options
+  - Enabling MPLS in the service provider network
+  - Verifying connectivity and testing the VPN
+- [**6. Advanced Topics and Wrap-Up**](#6-advanced-topics-and-wrap-up) (4 videos)
+  - Inter-AS L3VPN: Connecting multiple providers
+  - MPLS L3VPN in modern networks (SD-WAN integration)
+  - Common pitfalls and how to avoid them
+  - The future of MPLS L3VPN: Trends and evolution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course summary and next steps for learners
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundation and implementation
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/introduction-to-mpls-l3vpn-foundation-and-implementation?u=76281980)
@@ -89,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Introduction to MPLS and L3VPN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is MPLS? Understanding the basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-is-mpls-understanding-the-basics?u=76281980)
@@ -417,7 +448,7 @@ created: 2026-04-29
 
 ### 2. MPLS Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MPLS architecture and components
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/mpls-architecture-and-components?u=76281980)
@@ -822,7 +853,7 @@ created: 2026-04-29
 
 ### 3. L3VPN Core Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes L3VPN unique? VRFs and route distinguishers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/what-makes-l3vpn-unique-vrfs-and-route-distinguishers?u=76281980)
@@ -1267,7 +1298,7 @@ created: 2026-04-29
 
 ### 4. Designing MPLS L3VPN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning an MPLS L3VPN deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/planning-an-mpls-l3vpn-deployment?u=76281980)
@@ -1686,7 +1717,7 @@ created: 2026-04-29
 
 ### 5. Implementing MPLS L3VPN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Case study: Step-by-step L3VPN deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/case-study-step-by-step-l3vpn-deployment?u=76281980)
@@ -2373,7 +2404,7 @@ created: 2026-04-29
 
 ### 6. Advanced Topics and Wrap-Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inter-AS L3VPN: Connecting multiple providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/inter-as-l3vpn-connecting-multiple-providers?u=76281980)
@@ -2758,7 +2789,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary and next steps for learners
 > [LinkedIn Learning](https://www.linkedin.com/learning/mpls-l3vpn-foundation-and-implementation/course-summary-and-next-steps-for-learners?u=76281980)

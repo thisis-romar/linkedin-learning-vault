@@ -54,12 +54,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Multimodal Prompting with ChatGPT 4.5 Turbo]]** (8 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Level up your prompting with Multimodal features
+- [**1. Multimodal Prompting with ChatGPT 4.5 Turbo**](#1-multimodal-prompting-with-chatgpt-45-turbo) (8 videos)
+  - ChatGPT Free versus ChatGPT Plus
+  - Dynamic AI prompts using mobile audio inputs
+  - Loading and utilizing data in AI prompts
+  - Interpreting images with AI
+  - Making data analysis easy with AI
+  - Visualizing data and conversations in AI
+  - Producing visual content with AI
+  - Custom GPTs
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Level up your prompting with Multimodal features
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/level-up-your-prompting-with-multimodal-features?u=76281980)
@@ -92,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Multimodal Prompting with ChatGPT 4.5 Turbo
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ChatGPT Free versus ChatGPT Plus
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompting-chatgpt-with-multimodal-techniques/chat-gpt-free-versus-chat-gpt-plus?u=76281980)

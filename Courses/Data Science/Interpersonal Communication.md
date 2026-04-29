@@ -47,15 +47,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Communicating with Your Colleagues]]** (4 videos)
-- **[[#2. Communicating with Your Supervisor]]** (4 videos)
-- **[[#3. Communicating in Tricky Situations]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Build your interpersonal communication skills
+- [**1. Communicating with Your Colleagues**](#1-communicating-with-your-colleagues) (4 videos)
+  - Building rapport
+  - How to interpret nonverbal cues
+  - How to make requests effectively
+  - When to send an email vs. have a call or meeting
+- [**2. Communicating with Your Supervisor**](#2-communicating-with-your-supervisor) (4 videos)
+  - How to manage expectations
+  - Get the guidance you need
+  - Ask your boss the right questions
+  - Know when to listen and when to speak
+- [**3. Communicating in Tricky Situations**](#3-communicating-in-tricky-situations) (5 videos)
+  - Communication and cultural differences
+  - How to handle an interruption
+  - How to respond to critical feedback
+  - How to communicate as an introvert
+  - Communicating through tense situations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Investing in communication skills
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your interpersonal communication skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/build-your-interpersonal-communication-skills?u=76281980)
@@ -91,7 +106,7 @@ created: 2026-04-29
 
 ### 1. Communicating with Your Colleagues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/building-rapport?u=76281980)
@@ -421,7 +436,7 @@ created: 2026-04-29
 
 ### 2. Communicating with Your Supervisor
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to manage expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/how-to-manage-expectations?u=76281980)
@@ -704,7 +719,7 @@ created: 2026-04-29
 
 ### 3. Communicating in Tricky Situations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communication and cultural differences
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/communication-and-cultural-differences?u=76281980)
@@ -1090,7 +1105,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Investing in communication skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/interpersonal-communication-22638889/investing-in-communication-skills?u=76281980)

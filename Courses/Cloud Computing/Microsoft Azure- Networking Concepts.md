@@ -46,16 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Core Networking Concepts]]** (4 videos)
-- **[[#2. Manage Azure Virtual Networking for Existing Resources]]** (4 videos)
-- **[[#3. Create and Configure New Azure Networking Resources]]** (5 videos)
-- **[[#4. Connecting Your On-Premises Network to Azure]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understand Microsoft Azure networking concepts
+  - What you should know
+- [**1. Core Networking Concepts**](#1-core-networking-concepts) (4 videos)
+  - Understanding Azure networking components
+  - Introduction to the Azure management portal
+  - Introduction to Azure networking resources
+  - Using Copilot for Azure Virtual Networking
+- [**2. Manage Azure Virtual Networking for Existing Resources**](#2-manage-azure-virtual-networking-for-existing-resources) (4 videos)
+  - Manage virtual networking for a virtual machine
+  - Manage virtual networking for a storage account
+  - Manage virtual networking for a database
+  - Manage network security groups
+- [**3. Create and Configure New Azure Networking Resources**](#3-create-and-configure-new-azure-networking-resources) (5 videos)
+  - Creating virtual networks
+  - Managing virtual networks
+  - Creating an Azure load balancer
+  - Creating public IP prefixes and addresses
+  - Create an Azure Firewall
+- [**4. Connecting Your On-Premises Network to Azure**](#4-connecting-your-on-premises-network-to-azure) (3 videos)
+  - Creating Azure ExpressRoute
+  - Creating an Azure Private Link service
+  - Creating a virtual network gateway to support a VPN
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about Azure networking
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Microsoft Azure networking concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understand-microsoft-azure-networking-concepts?u=76281980)
@@ -110,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Core Networking Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Azure networking components
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/understanding-azure-networking-components?u=76281980)
@@ -528,7 +547,7 @@ created: 2026-04-29
 
 ### 2. Manage Azure Virtual Networking for Existing Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage virtual networking for a virtual machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/manage-virtual-networking-for-a-virtual-machine?u=76281980)
@@ -1080,7 +1099,7 @@ created: 2026-04-29
 
 ### 3. Create and Configure New Azure Networking Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating virtual networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-virtual-networks?u=76281980)
@@ -1634,7 +1653,7 @@ created: 2026-04-29
 
 ### 4. Connecting Your On-Premises Network to Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating Azure ExpressRoute
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/creating-azure-expressroute?u=76281980)
@@ -1949,7 +1968,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about Azure networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-networking-concepts-24557931/learning-more-about-azure-networking?u=76281980)

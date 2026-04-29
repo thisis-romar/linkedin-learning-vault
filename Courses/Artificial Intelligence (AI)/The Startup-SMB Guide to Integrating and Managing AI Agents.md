@@ -39,15 +39,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Blueprint for an AI Foundation]]** (5 videos)
-- **[[#2. Onboarding Your AI Agents]]** (5 videos)
-- **[[#3. From Adoption and Governance to Going Big]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The AI imperative for SMBs
+- [**1. Blueprint for an AI Foundation**](#1-blueprint-for-an-ai-foundation) (5 videos)
+  - The promises and limits of today's AI
+  - The AI adoption spectrum
+  - Assessing business readiness for AI agents
+  - Exploring the work hierarchy
+  - AI implementation roadmap
+- [**2. Onboarding Your AI Agents**](#2-onboarding-your-ai-agents) (5 videos)
+  - Your toolkit before agents
+  - A history of AI agents
+  - Types of AI agents
+  - Considerations when hiring AI agents
+  - The promise of AI agents for SMBs and start-ups
+- [**3. From Adoption and Governance to Going Big**](#3-from-adoption-and-governance-to-going-big) (5 videos)
+  - Data, process, and talent
+  - Citizens and domain experts
+  - AI governance, guardrails, and guidance
+  - Adopting & scaling agentics in your business
+  - Assessing what's real, reliable, viable, and valuable
+- [**Conclusion**](#conclusion) (1 videos)
+  - The future of AI agents and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The AI imperative for SMBs
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-ai-imperative-for-smbs?u=76281980)
@@ -93,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Blueprint for an AI Foundation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The promises and limits of today's AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-promises-and-limits-of-today-s-ai?u=76281980)
@@ -422,7 +439,7 @@ created: 2026-04-29
 
 ### 2. Onboarding Your AI Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your toolkit before agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/your-toolkit-before-agents?u=76281980)
@@ -698,7 +715,7 @@ created: 2026-04-29
 
 ### 3. From Adoption and Governance to Going Big
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data, process, and talent
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/data-process-and-talent?u=76281980)
@@ -953,7 +970,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of AI agents and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-startup-smb-guide-to-integrating-and-managing-ai-agents/the-future-of-ai-agents-and-next-steps?u=76281980)

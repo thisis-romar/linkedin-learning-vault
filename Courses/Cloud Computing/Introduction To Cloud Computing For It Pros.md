@@ -42,20 +42,59 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Cloud Computing Basics]]** (7 videos)
-- **[[#2. Evaluate Cloud Computing for Business]]** (5 videos)
-- **[[#3. Cloud Storage]]** (4 videos)
-- **[[#4. Cloud Tools and Services]]** (4 videos)
-- **[[#5. Cloud Tools for Teams]]** (4 videos)
-- **[[#6. Migrate to the Cloud]]** (6 videos)
-- **[[#7. Evaluate Cloud Performance]]** (2 videos)
-- **[[#8. Emerging Cloud Technologies]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The essentials of cloud computing
+  - What you should know
+- [**1. Cloud Computing Basics**](#1-cloud-computing-basics) (7 videos)
+  - What is cloud computing?
+  - Explore the components of the cloud
+  - Cloud infrastructure
+  - Cloud services overview
+  - Storage and database services
+  - AI and ML-powered cloud services
+  - Low-code and no-code cloud services
+- [**2. Evaluate Cloud Computing for Business**](#2-evaluate-cloud-computing-for-business) (5 videos)
+  - The three main cloud computing scenarios
+  - The operational benefits of the cloud
+  - The economic benefits of the cloud
+  - Benefits of the cloud to staff
+  - The security risks of cloud computing
+- [**3. Cloud Storage**](#3-cloud-storage) (4 videos)
+  - Overview of cloud storage
+  - Storage providers
+  - Cloud storage security
+  - Cloud storage considerations
+- [**4. Cloud Tools and Services**](#4-cloud-tools-and-services) (4 videos)
+  - Explore Google Workspace
+  - Explore Microsoft 365
+  - Work with OneDrive
+  - Sync content with iCloud
+- [**5. Cloud Tools for Teams**](#5-cloud-tools-for-teams) (4 videos)
+  - Microsoft 365 Groups
+  - Work with Microsoft Teams
+  - Share with Box.com
+  - Work together with Google Docs
+- [**6. Migrate to the Cloud**](#6-migrate-to-the-cloud) (6 videos)
+  - Make a cloud migration plan
+  - Analyze services, providers, and costs
+  - Release data using the wave approach
+  - Secure your data
+  - Establish a training plan
+  - Respond to change
+- [**7. Evaluate Cloud Performance**](#7-evaluate-cloud-performance) (2 videos)
+  - Monitor performance post transition
+  - Fine-tune cloud use
+- [**8. Emerging Cloud Technologies**](#8-emerging-cloud-technologies) (4 videos)
+  - The Internet of Things
+  - Microservices
+  - Containers
+  - Artificial intelligence
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The essentials of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-essentials-of-cloud-computing?u=76281980)
@@ -103,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Cloud Computing Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cloud computing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/what-is-cloud-computing?u=76281980)
@@ -522,7 +561,7 @@ created: 2026-04-29
 
 ### 2. Evaluate Cloud Computing for Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The three main cloud computing scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-three-main-cloud-computing-scenarios?u=76281980)
@@ -784,7 +823,7 @@ created: 2026-04-29
 
 ### 3. Cloud Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/overview-of-cloud-storage?u=76281980)
@@ -1002,7 +1041,7 @@ created: 2026-04-29
 
 ### 4. Cloud Tools and Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Google Workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/explore-google-workspace?u=76281980)
@@ -1277,7 +1316,7 @@ created: 2026-04-29
 
 ### 5. Cloud Tools for Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft 365 Groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/microsoft-365-groups?u=76281980)
@@ -1715,7 +1754,7 @@ created: 2026-04-29
 
 ### 6. Migrate to the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make a cloud migration plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/make-a-cloud-migration-plan?u=76281980)
@@ -2106,7 +2145,7 @@ created: 2026-04-29
 
 ### 7. Evaluate Cloud Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitor performance post transition
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/monitor-performance-post-transition?u=76281980)
@@ -2261,7 +2300,7 @@ created: 2026-04-29
 
 ### 8. Emerging Cloud Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Internet of Things
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/the-internet-of-things?u=76281980)
@@ -2391,7 +2430,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-cloud-computing-for-it-pros-24084628/next-steps?u=76281980)

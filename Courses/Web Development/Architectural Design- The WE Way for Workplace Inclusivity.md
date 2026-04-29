@@ -39,16 +39,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Your Commons]]** (4 videos)
-- **[[#2. Your Sanctuary]]** (4 videos)
-- **[[#3. Your Neighborhood]]** (4 videos)
-- **[[#4. Your Cocoon]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome to the WE Way
+  - The four keys of the WE Way: Your commons, sanctuary, neighborhood, and cocoon
+- [**1. Your Commons**](#1-your-commons) (4 videos)
+  - Your commons: Where your space speaks
+  - Your commons: Take ownership of your authentic story to the world
+  - Your commons: Your space as an invitation to foster diversity, inclusion, and belonging
+  - Your commons: The practice
+- [**2. Your Sanctuary**](#2-your-sanctuary) (4 videos)
+  - Your sanctuary: Where your people restore, recuperate, and rejuvenate
+  - Your sanctuary: Your space as a warm invitation to bring your whole self to work
+  - Your sanctuary: Build delight into the workplace
+  - Your sanctuary: The practice
+- [**3. Your Neighborhood**](#3-your-neighborhood) (4 videos)
+  - Your neighborhood: Where your people connect
+  - Your neighborhood: Reimagine your back office
+  - Your neighborhood: Become a conductor of human connection
+  - Your neighborhood: The practice
+- [**4. Your Cocoon**](#4-your-cocoon) (3 videos)
+  - Your cocoon: Love and honor your worker
+  - Your cocoon: Where your people focus
+  - Your cocoon: The practice
+- [**Conclusion**](#conclusion) (1 videos)
+  - A call to action
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the WE Way
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/welcome-to-the-we-way?u=76281980)
@@ -157,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Your Commons
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your commons: Where your space speaks
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-commons-where-your-space-speaks?u=76281980)
@@ -445,7 +463,7 @@ created: 2026-04-29
 
 ### 2. Your Sanctuary
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your sanctuary: Where your people restore, recuperate, and rejuvenate
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-sanctuary-where-your-people-restore-recuperate-and-rejuvenate?u=76281980)
@@ -655,7 +673,7 @@ created: 2026-04-29
 
 ### 3. Your Neighborhood
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your neighborhood: Where your people connect
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-neighborhood-where-your-people-connect?u=76281980)
@@ -924,7 +942,7 @@ created: 2026-04-29
 
 ### 4. Your Cocoon
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your cocoon: Love and honor your worker
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/your-cocoon-love-and-honor-your-worker?u=76281980)
@@ -1126,7 +1144,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A call to action
 > [LinkedIn Learning](https://www.linkedin.com/learning/architectural-design-the-we-way-for-workplace-inclusivity/a-call-to-action?u=76281980)

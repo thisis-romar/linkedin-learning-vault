@@ -51,16 +51,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Phases of a Machine Learning Project]]** (4 videos)
-- **[[#2. Designing a Machine Learning Dataset]]** (6 videos)
-- **[[#3. Data Prep Challenges]]** (4 videos)
-- **[[#4. Chapter Name]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Scaling machine learning initiatives
+  - Defining terms
+- [**1. The Phases of a Machine Learning Project**](#1-the-phases-of-a-machine-learning-project) (4 videos)
+  - Data and supervised machine learning
+  - The nine big data bottlenecks
+  - The stages of predictive analytics data
+  - Why you might have too little data
+- [**2. Designing a Machine Learning Dataset**](#2-designing-a-machine-learning-dataset) (6 videos)
+  - How much data do I need?
+  - Balancing
+  - Who truly has big data?
+  - Assessing data
+  - Selecting: Data that should be left out
+  - Seasonality and time alignment
+- [**3. Data Prep Challenges**](#3-data-prep-challenges) (4 videos)
+  - Data and the data scientist
+  - Aggregate and restructure
+  - Dummy coding
+  - Feature engineering
+- [**4. Chapter Name**](#4-chapter-name) (7 videos)
+  - Understanding the modeling process
+  - Slow algorithms: Brute force
+  - Slow algorithms: More calculations
+  - Slow algorithms: More models
+  - How to sample properly
+  - Modeling with missing data
+  - Looking ahead to deployment and scoring in production
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your predictive modeling journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling machine learning initiatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/scaling-machine-learning-initiatives-23239794?u=76281980)
@@ -130,7 +154,7 @@ created: 2026-04-29
 
 ### 1. The Phases of a Machine Learning Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data and supervised machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980)
@@ -433,7 +457,7 @@ created: 2026-04-29
 
 ### 2. Designing a Machine Learning Dataset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How much data do I need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-much-data-do-i-need?u=76281980)
@@ -832,7 +856,7 @@ created: 2026-04-29
 
 ### 3. Data Prep Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data and the data scientist
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980)
@@ -1027,7 +1051,7 @@ created: 2026-04-29
 
 ### 4. Chapter Name
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the modeling process
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980)
@@ -1419,7 +1443,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your predictive modeling journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980)

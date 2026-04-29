@@ -47,16 +47,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Python: What's Built In?]]** (9 videos)
-- **[[#2. Python: Math]]** (7 videos)
-- **[[#3. Python Input/Output]]** (8 videos)
-- **[[#4. Python: Date and Time, HTML Parsing, and HTTP]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Make writing Python easier with Python standard libraries
+  - What you need to know
+  - Using exercise files
+  - How to use CoderPad
+  - Python standard library introduction
+- [**1. Python: What's Built In?**](#1-python-whats-built-in) (9 videos)
+  - Logical operators: And, or, not
+  - Comparison operators
+  - Calculating length
+  - Range and list
+  - Min and max
+  - Rounding, absolute value, and exponents
+  - Sorted function
+  - Type functions
+  - Solution: Count valid numbers
+- [**2. Python: Math**](#2-python-math) (7 videos)
+  - Trigonometry, ceiling, floor, and constants
+  - Factorial, square root, and GCD
+  - Python random module
+  - Calculating statistics with Python
+  - Iterators with itertools: Infinite processes
+  - Iterators with itertools: Permutations and combinations
+  - Solution: Calculate hypotenuse
+- [**3. Python Input/Output**](#3-python-inputoutput) (8 videos)
+  - Command-line arguments
+  - Input and output
+  - Files and file writing
+  - File seeking in Python
+  - Iterative files
+  - Tempfile module
+  - Manipulate zip files in Python
+  - Solution: Count words in a file
+- [**4. Python: Date and Time, HTML Parsing, and HTTP**](#4-python-date-and-time-html-parsing-and-http) (8 videos)
+  - Getting the current time with Python
+  - Formatting dates and times in Python with datetime
+  - Calculating future times and Python calendar module
+  - Create a timer with the Python time module
+  - Python HTML parser module
+  - Text wrap module
+  - Python HTTP package and urllib and JSON modules
+  - Solution: Add Fractions with Fraction Module
+- [**Conclusion**](#conclusion) (1 videos)
+  - Add these built-in functions to your own applications
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make writing Python easier with Python standard libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/make-writing-python-easier-with-python-standard-libraries?u=76281980)
@@ -270,7 +308,7 @@ created: 2026-04-29
 
 ### 1. Python: What's Built In?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Logical operators: And, or, not
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/logical-operators-and-or-not-14504431?u=76281980)
@@ -1235,7 +1273,7 @@ created: 2026-04-29
 
 ### 2. Python: Math
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Trigonometry, ceiling, floor, and constants
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/trigonometry-ceiling-floor-and-constants-14507479?u=76281980)
@@ -1927,7 +1965,7 @@ created: 2026-04-29
 
 ### 3. Python Input/Output
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/command-line-arguments-14506486?u=76281980)
@@ -2613,7 +2651,7 @@ created: 2026-04-29
 
 ### 4. Python: Date and Time, HTML Parsing, and HTTP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the current time with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/getting-the-current-time-with-python-14502518?u=76281980)
@@ -3275,7 +3313,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add these built-in functions to your own applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-python-3-standard-library/add-these-built-in-functions-to-your-own-applications?u=76281980)

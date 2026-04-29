@@ -48,16 +48,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Cloud Native Computing Foundation]]** (2 videos)
-- **[[#2. Management and Orchestration]]** (3 videos)
-- **[[#3. Networking and Runtime]]** (2 videos)
-- **[[#4. Application Observability, Analysis, and Security]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Kubernetes: Cloud native ecosystem
+  - What you need to know
+- [**1. Cloud Native Computing Foundation**](#1-cloud-native-computing-foundation) (2 videos)
+  - What is the CNCF?
+  - First look at the CNCF landscape
+- [**2. Management and Orchestration**](#2-management-and-orchestration) (3 videos)
+  - Application development and deployment
+  - Service discovery and registry
+  - Managing cloud native services
+- [**3. Networking and Runtime**](#3-networking-and-runtime) (2 videos)
+  - Container networking 101
+  - Container storage and runtime projects
+- [**4. Application Observability, Analysis, and Security**](#4-application-observability-analysis-and-security) (4 videos)
+  - Cloud native monitoring with Prometheus
+  - Application logging
+  - Application tracing
+  - Security, policy, and distribution
+- [**Conclusion**](#conclusion) (1 videos)
+  - The CNCF today and tomorrow
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kubernetes: Cloud native ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/kubernetes-cloud-native-ecosystem?u=76281980)
@@ -109,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Cloud Native Computing Foundation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the CNCF?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/what-is-the-cncf?u=76281980)
@@ -241,7 +255,7 @@ created: 2026-04-29
 
 ### 2. Management and Orchestration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Application development and deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/application-development-and-deployment?u=76281980)
@@ -474,7 +488,7 @@ created: 2026-04-29
 
 ### 3. Networking and Runtime
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Container networking 101
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/container-networking-101?u=76281980)
@@ -598,7 +612,7 @@ created: 2026-04-29
 
 ### 4. Application Observability, Analysis, and Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud native monitoring with Prometheus
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/cloud-native-monitoring-with-prometheus?u=76281980)
@@ -842,7 +856,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The CNCF today and tomorrow
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671/the-cncf-today-and-tomorrow?u=76281980)

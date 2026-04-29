@@ -53,15 +53,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Prompt Engineering Fundamentals]]** (3 videos)
-- **[[#2. AI Systems and Architecture]]** (4 videos)
-- **[[#3. Tools and Implementation]]** (16 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Course introduction
+  - Course overview
+  - AI orchestration overview
+- [**1. Prompt Engineering Fundamentals**](#1-prompt-engineering-fundamentals) (3 videos)
+  - Prompt engineering pyramid
+  - Chain of thought prompt Rust
+  - Chain of thought Rust prompt demo
+- [**2. AI Systems and Architecture**](#2-ai-systems-and-architecture) (4 videos)
+  - Explaining chain of thought Rust prompt
+  - Caching for AI
+  - Optimizing local RAG
+  - Local vs. cloud models
+- [**3. Tools and Implementation**](#3-tools-and-implementation) (16 videos)
+  - Llamafile getting started Gemma
+  - Llamafile simple
+  - Rust "hello world" project structure
+  - AWS spot deploy ML
+  - Hugging Face workflow models
+  - GitHub AI models workflow
+  - Ollama local demo
+  - Technical training approaches
+  - Ollama modelfile rust debugger
+  - Effective AI engineering learning
+  - AI orchestration local workstation
+  - Using TMUX on Linux
+  - Using NVIDIA-SMI
+  - Ollama architecture
+  - Using Zenith GPU monitoring
+  - Compiling Rust candle GPU
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-introduction?u=76281980)
@@ -296,7 +323,7 @@ created: 2026-04-29
 
 ### 1. Prompt Engineering Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt engineering pyramid
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/prompt-engineering-pyramid?u=76281980)
@@ -630,7 +657,7 @@ created: 2026-04-29
 
 ### 2. AI Systems and Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining chain of thought Rust prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/explaining-chain-of-thought-rust-prompt?u=76281980)
@@ -958,7 +985,7 @@ created: 2026-04-29
 
 ### 3. Tools and Implementation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Llamafile getting started Gemma
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/llamafile-getting-started-gemma?u=76281980)
@@ -2293,7 +2320,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-designing-the-prototype-architecture-and-data-strategy/course-conclusion?u=76281980)

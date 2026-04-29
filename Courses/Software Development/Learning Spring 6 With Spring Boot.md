@@ -52,18 +52,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started with Spring Boot]]** (5 videos)
-- **[[#2. Data Access in Spring]]** (6 videos)
-- **[[#3. Service Tier]]** (3 videos)
-- **[[#4. Web Pages with Spring]]** (5 videos)
-- **[[#5. Exposing RESTful Endpoints]]** (4 videos)
-- **[[#6. Additional Topics with Spring Boot]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn the premier framework for the JVM
+  - What you should know
+  - Run PostgreSQL
+- [**1. Getting Started with Spring Boot**](#1-getting-started-with-spring-boot) (5 videos)
+  - Introduction to Spring
+  - Introduction to Spring Boot
+  - Create a project
+  - Examine a Spring Boot skeleton project
+  - Annotations everywhere
+- [**2. Data Access in Spring**](#2-data-access-in-spring) (6 videos)
+  - Welcome to Spring Data
+  - Embedded databases with Spring Boot
+  - Repositories with Spring Data
+  - Use a remote database
+  - Challenge: Data access
+  - Solution: Data access
+- [**3. Service Tier**](#3-service-tier) (3 videos)
+  - Understand dependency injection
+  - Build a service abstraction
+  - Develop a service object with Spring
+- [**4. Web Pages with Spring**](#4-web-pages-with-spring) (5 videos)
+  - Introduction to the controller
+  - Build your first controller
+  - Thymeleaf as a rendering engine
+  - Challenge: Create a web page
+  - Solution: Create a web page
+- [**5. Exposing RESTful Endpoints**](#5-exposing-restful-endpoints) (4 videos)
+  - Understanding RestController
+  - Expose a service layer through REST
+  - Challenge: RESTful endpoints
+  - Solution: RESTful endpoints
+- [**6. Additional Topics with Spring Boot**](#6-additional-topics-with-spring-boot) (3 videos)
+  - Test Spring Boot applications
+  - Spring Security basics
+  - Other topics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the premier framework for the JVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/learn-the-premier-framework-for-the-jvm?u=76281980)
@@ -279,7 +309,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Spring Boot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-spring?u=76281980)
@@ -726,7 +756,7 @@ created: 2026-04-29
 
 ### 2. Data Access in Spring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Spring Data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/welcome-to-spring-data?u=76281980)
@@ -1189,7 +1219,7 @@ created: 2026-04-29
 
 ### 3. Service Tier
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand dependency injection
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understand-dependency-injection?u=76281980)
@@ -1520,7 +1550,7 @@ created: 2026-04-29
 
 ### 4. Web Pages with Spring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/introduction-to-the-controller?u=76281980)
@@ -1776,7 +1806,7 @@ created: 2026-04-29
 
 ### 5. Exposing RESTful Endpoints
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding RestController
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/understanding-restcontroller?u=76281980)
@@ -2012,7 +2042,7 @@ created: 2026-04-29
 
 ### 6. Additional Topics with Spring Boot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test Spring Boot applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/test-spring-boot-applications?u=76281980)
@@ -2243,7 +2273,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3/next-steps?u=76281980)

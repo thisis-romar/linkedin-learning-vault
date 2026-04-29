@@ -49,16 +49,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Managing Microsoft 365 General Settings]]** (8 videos)
-- **[[#2. Managing Microsoft 365 Email Services]]** (5 videos)
-- **[[#3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance]]** (4 videos)
-- **[[#4. Manage Microsoft 365 Authentication, Teams, and SharePoint]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Microsoft 365: Administration
+  - What should you know
+- [**1. Managing Microsoft 365 General Settings**](#1-managing-microsoft-365-general-settings) (8 videos)
+  - Exploring Microsoft 365 core functionalities
+  - Exploring Microsoft 365 Admin Center: Part 1
+  - Exploring Microsoft 365 Admin Center: Part 2
+  - Managing domain names in Microsoft 365
+  - Managing licensing and products
+  - Managing general user settings
+  - Creating a Microsoft 365 user
+  - Manage Microsoft 365 by using PowerShell
+- [**2. Managing Microsoft 365 Email Services**](#2-managing-microsoft-365-email-services) (5 videos)
+  - Get familiar with Exchange Admin Center
+  - Explore the recipients in Exchange Online
+  - Managing Exchange Online user mailboxes
+  - Exploring groups in Microsoft 365
+  - Manage resource mailboxes
+- [**3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance**](#3-managing-microsoft-365-sharepoint-teams-security-and-compliance) (4 videos)
+  - Managing the SharePoint admin center in Microsoft 365
+  - Managing the Microsoft Teams admin center in Microsoft 365
+  - Managing the Microsoft Entra admin center in Microsoft 365
+  - Managing Microsoft 365 Defender
+- [**4. Manage Microsoft 365 Authentication, Teams, and SharePoint**](#4-manage-microsoft-365-authentication-teams-and-sharepoint) (4 videos)
+  - Configure multifactor authentication
+  - Configuring SharePoint sites
+  - Managing Microsoft Teams settings
+  - Managing Microsoft Teams users
+- [**Conclusion**](#conclusion) (1 videos)
+  - Beyond Microsoft 365 Administration
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft 365: Administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980)
@@ -100,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Managing Microsoft 365 General Settings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Microsoft 365 core functionalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980)
@@ -805,7 +829,7 @@ created: 2026-04-29
 
 ### 2. Managing Microsoft 365 Email Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get familiar with Exchange Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980)
@@ -1408,7 +1432,7 @@ created: 2026-04-29
 
 ### 3. Managing Microsoft 365 SharePoint, Teams, Security, and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing the SharePoint admin center in Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980)
@@ -1827,7 +1851,7 @@ created: 2026-04-29
 
 ### 4. Manage Microsoft 365 Authentication, Teams, and SharePoint
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure multifactor authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980)
@@ -2205,7 +2229,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Beyond Microsoft 365 Administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980)

@@ -48,17 +48,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Burp Suite Basics]]** (5 videos)
-- **[[#2. Scanning]]** (4 videos)
-- **[[#3. Man in the Middle]]** (5 videos)
-- **[[#4. Being an Intruder]]** (3 videos)
-- **[[#5. Extensions]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learning how to use Burp Suite effectively
+  - What you should know
+  - Course disclaimer
+- [**1. Burp Suite Basics**](#1-burp-suite-basics) (5 videos)
+  - What is Burp Suite?
+  - Getting to know Burp Suite
+  - Proxying web traffic
+  - Using Burp Suite as a proxy
+  - Setting up additional targets
+- [**2. Scanning**](#2-scanning) (4 videos)
+  - Crawling the website
+  - Finding hidden webpages
+  - Understanding message content
+  - Finding missing content
+- [**3. Man in the Middle**](#3-man-in-the-middle) (5 videos)
+  - Intercepting bank transactions
+  - Exploiting headers
+  - Inserting an SQL injection via Burp Suite
+  - Saving request messages for further exploitation
+  - Injecting commands into messages
+- [**4. Being an Intruder**](#4-being-an-intruder) (3 videos)
+  - Introducing the Intruder
+  - Manipulating cookies
+  - The four Intruders
+- [**5. Extensions**](#5-extensions) (3 videos)
+  - Using CO2 to integrate SQLMap
+  - A first look at Burp AI
+  - Exploring issues with Burp AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning how to use Burp Suite effectively
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/learning-how-to-use-burp-suite-effectively?u=76281980)
@@ -140,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Burp Suite Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Burp Suite?
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/what-is-burp-suite-29767190?u=76281980)
@@ -622,7 +646,7 @@ created: 2026-04-29
 
 ### 2. Scanning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Crawling the website
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/crawling-the-website?u=76281980)
@@ -1031,7 +1055,7 @@ created: 2026-04-29
 
 ### 3. Man in the Middle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intercepting bank transactions
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/intercepting-bank-transactions?u=76281980)
@@ -1448,7 +1472,7 @@ created: 2026-04-29
 
 ### 4. Being an Intruder
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the Intruder
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/introducing-the-intruder?u=76281980)
@@ -1721,7 +1745,7 @@ created: 2026-04-29
 
 ### 5. Extensions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using CO2 to integrate SQLMap
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/using-co2-to-integrate-sqlmap?u=76281980)
@@ -1872,7 +1896,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/burp-suite-essential-training/next-steps?u=76281980)

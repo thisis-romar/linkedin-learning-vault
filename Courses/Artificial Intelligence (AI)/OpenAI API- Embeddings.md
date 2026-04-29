@@ -54,15 +54,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Embeddings]]** (2 videos)
-- **[[#2. Obtaining Embeddings via the Embeddings API]]** (3 videos)
-- **[[#3. Using Embeddings in the Real World]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to embeddings
+- [**1. Understanding Embeddings**](#1-understanding-embeddings) (2 videos)
+  - Explore embeddings
+  - Leverage cosine similarity
+- [**2. Obtaining Embeddings via the Embeddings API**](#2-obtaining-embeddings-via-the-embeddings-api) (3 videos)
+  - Explore the Embeddings API
+  - Estimate embeddings pricing
+  - Generate embeddings for a single word
+- [**3. Using Embeddings in the Real World**](#3-using-embeddings-in-the-real-world) (2 videos)
+  - Cluster similar words
+  - Generate embeddings for sentences
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your embeddings journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to embeddings
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980)
@@ -91,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Understanding Embeddings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore embeddings
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980)
@@ -204,7 +213,7 @@ created: 2026-04-29
 
 ### 2. Obtaining Embeddings via the Embeddings API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the Embeddings API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980)
@@ -437,7 +446,7 @@ created: 2026-04-29
 
 ### 3. Using Embeddings in the Real World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cluster similar words
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980)
@@ -618,7 +627,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your embeddings journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980)

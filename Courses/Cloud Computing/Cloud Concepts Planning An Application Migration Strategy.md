@@ -37,18 +37,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Cloud Migration]]** (6 videos)
-- **[[#2. Selecting the Workloads]]** (4 videos)
-- **[[#3. Selecting a Target Platform]]** (4 videos)
-- **[[#4. Cloud-Based Tools]]** (3 videos)
-- **[[#5. Setting Up a Migration Factory]]** (5 videos)
-- **[[#6. Migration at Scale]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Take the migration journey with your applications to the cloud
+  - What you should know
+- [**1. Introduction to Cloud Migration**](#1-introduction-to-cloud-migration) (6 videos)
+  - Understanding the business case
+  - Understanding the risks
+  - Public cloud migration
+  - Private cloud migration
+  - Multicloud migration
+  - Cloud-based AI migration
+- [**2. Selecting the Workloads**](#2-selecting-the-workloads) (4 videos)
+  - Good candidates for migration
+  - Poor candidates for migration
+  - Leveraging workload categories
+  - Creating migration priorities
+- [**3. Selecting a Target Platform**](#3-selecting-a-target-platform) (4 videos)
+  - Public clouds
+  - Private clouds
+  - Multicloud
+  - Other cloud platform options
+- [**4. Cloud-Based Tools**](#4-cloud-based-tools) (3 videos)
+  - AWS migration tools
+  - Microsoft migration tools
+  - AI migration tools for cloud computing
+- [**5. Setting Up a Migration Factory**](#5-setting-up-a-migration-factory) (5 videos)
+  - Workload triage
+  - Selecting tools
+  - Considering AI with cloud migration
+  - Considering DevOps
+  - Creating a process
+- [**6. Migration at Scale**](#6-migration-at-scale) (5 videos)
+  - Getting up to 100 applications a day
+  - Organization and skill considerations
+  - Security considerations
+  - Governance considerations
+  - AI and generative AI considerations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about cloud migration
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the migration journey with your applications to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/take-the-migration-journey-with-your-applications-to-the-cloud?u=76281980)
@@ -96,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Cloud Migration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/understanding-the-business-case?u=76281980)
@@ -464,7 +494,7 @@ created: 2026-04-29
 
 ### 2. Selecting the Workloads
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Good candidates for migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/good-candidates-for-migration?u=76281980)
@@ -688,7 +718,7 @@ created: 2026-04-29
 
 ### 3. Selecting a Target Platform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Public clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/public-clouds?u=76281980)
@@ -874,7 +904,7 @@ created: 2026-04-29
 
 ### 4. Cloud-Based Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS migration tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/aws-migration-tools?u=76281980)
@@ -1048,7 +1078,7 @@ created: 2026-04-29
 
 ### 5. Setting Up a Migration Factory
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Workload triage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/workload-triage?u=76281980)
@@ -1312,7 +1342,7 @@ created: 2026-04-29
 
 ### 6. Migration at Scale
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting up to 100 applications a day
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/getting-as-many-as-10-100-applications-a-day?u=76281980)
@@ -1518,7 +1548,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-concepts-planning-an-application-migration-strategy/learning-more-about-cloud-migration?u=76281980)

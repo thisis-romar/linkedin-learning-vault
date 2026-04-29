@@ -57,22 +57,93 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Data Lakes]]** (5 videos)
-- **[[#2. Storage In Data Lakes]]** (7 videos)
-- **[[#3. Data Ingestion in Data Lakes]]** (7 videos)
-- **[[#4. Data Management and Governance in Data Lakes]]** (6 videos)
-- **[[#5. Introduction to Data Lakehouses]]** (4 videos)
-- **[[#6. Data Consumption and Query Engines in Lakes and Lakehouses]]** (7 videos)
-- **[[#7. Advanced Data Platforms for Lakes and Lakehouses]]** (6 videos)
-- **[[#8. Final Project: Building a Data Lakehouse]]** (9 videos)
-- **[[#9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse]]** (8 videos)
-- **[[#10. Final Project: Generative AI in the Lakehouse]]** (7 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Data lakes, lakehouses, and more
+  - What you should know
+  - Final project preview
+- [**1. Introduction to Data Lakes**](#1-introduction-to-data-lakes) (5 videos)
+  - What is a data lake?
+  - Origins and evolution
+  - Architecture core components
+  - Data lake vs. data warehouse
+  - Data lake vs. data mesh
+- [**2. Storage In Data Lakes**](#2-storage-in-data-lakes) (7 videos)
+  - Storage types
+  - Storage hosting
+  - Storage solutions: S3, GCS and Azure Blob Storage and HDFS
+  - Folder structures
+  - File formats
+  - Data compression
+  - Data partitioning
+- [**3. Data Ingestion in Data Lakes**](#3-data-ingestion-in-data-lakes) (7 videos)
+  - Data ingestion methods
+  - ETL vs. ELT
+  - Data transformation
+  - Data quality
+  - Error handling, logging, and monitoring
+  - Orchestration
+  - Data ingestion platforms
+- [**4. Data Management and Governance in Data Lakes**](#4-data-management-and-governance-in-data-lakes) (6 videos)
+  - Introduction to data management and governance
+  - Metadata management
+  - Data cataloging
+  - Data lineage
+  - Data security, privacy, and compliance
+  - Data management tools and platforms
+- [**5. Introduction to Data Lakehouses**](#5-introduction-to-data-lakehouses) (4 videos)
+  - What is a data lakehouse?
+  - ACID transactions
+  - Schema management
+  - Table formats: Delta Lake, Apache Iceberg, Apache Hudi
+- [**6. Data Consumption and Query Engines in Lakes and Lakehouses**](#6-data-consumption-and-query-engines-in-lakes-and-lakehouses) (7 videos)
+  - Introduction to data consumption
+  - Unified data analysis: Spark
+  - SQL on Hadoop: Hive and Impala
+  - Interactive query engines: Presto and Trino
+  - Data indexing
+  - Optimizing query performance
+  - Data consumption security considerations
+- [**7. Advanced Data Platforms for Lakes and Lakehouses**](#7-advanced-data-platforms-for-lakes-and-lakehouses) (6 videos)
+  - Unified analytics platforms: Databricks and Snowflake
+  - Cloud data warehouses: BigQuery, Azure Synapse, and Redshift
+  - Self-service data platforms: Dremio and Starburst
+  - Interactive notebooks: Jupyter, Zeppelin, Databricks
+  - BI tools: Tableau, Power BI, Superset, Metabase
+  - APIs and services for data consumption
+- [**8. Final Project: Building a Data Lakehouse**](#8-final-project-building-a-data-lakehouse) (9 videos)
+  - Final project overview
+  - Data model overview
+  - Project installation and code walkthrough
+  - Infrastructure setup
+  - Raw data ingestion
+  - Transformation models overview
+  - Solution: Build a data model with SQL
+  - Executing data transformations
+  - Data orchestration
+- [**9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse**](#9-final-project-bi-advanced-analytics-and-ml-in-the-lakehouse) (8 videos)
+  - Dremio walkthrough
+  - Executing queries and creating virtual datasets
+  - Creating complex virtual datasets using SQL
+  - Connecting Dremio to Apache Superset
+  - Creating a marketing dashboard
+  - Connecting Dremio to Jupyter Notebook
+  - Advanced product reviews analytics
+  - Solution: Vehicle health analytics in Jupyter
+- [**10. Final Project: Generative AI in the Lakehouse**](#10-final-project-generative-ai-in-the-lakehouse) (7 videos)
+  - Introduction to LLMs and vector embeddings: Llama
+  - Introduction to RAG (retrieval-augmented generation)
+  - Introduction to vector databases: Chroma
+  - What is Langchain?
+  - Generative AI project overview: Sales copilot
+  - Installation and code walkthrough
+  - Project execution: Using the copilot
+- [**Conclusion**](#conclusion) (2 videos)
+  - Recap and key takeaways
+  - Next steps on your data journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data lakes, lakehouses, and more
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-lakes-lakehouses-and-more-24328459?u=76281980)
@@ -205,7 +276,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Data Lakes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a data lake?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lake-24330335?u=76281980)
@@ -538,7 +609,7 @@ created: 2026-04-29
 
 ### 2. Storage In Data Lakes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage types
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/storage-types-24326591?u=76281980)
@@ -1050,7 +1121,7 @@ created: 2026-04-29
 
 ### 3. Data Ingestion in Data Lakes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data ingestion methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/data-ingestion-methods-24327494?u=76281980)
@@ -1550,7 +1621,7 @@ created: 2026-04-29
 
 ### 4. Data Management and Governance in Data Lakes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data management and governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-management-and-governance-24325639?u=76281980)
@@ -1910,7 +1981,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Data Lakehouses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a data lakehouse?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/what-is-a-data-lakehouse-24331166?u=76281980)
@@ -2235,7 +2306,7 @@ created: 2026-04-29
 
 ### 6. Data Consumption and Query Engines in Lakes and Lakehouses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data consumption
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-data-consumption-24330319?u=76281980)
@@ -2795,7 +2866,7 @@ created: 2026-04-29
 
 ### 7. Advanced Data Platforms for Lakes and Lakehouses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unified analytics platforms: Databricks and Snowflake
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/unified-analytics-platforms-databricks-and-snowflake-24328456?u=76281980)
@@ -3186,7 +3257,7 @@ created: 2026-04-29
 
 ### 8. Final Project: Building a Data Lakehouse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/capstone-project-overview-24323781?u=76281980)
@@ -4148,7 +4219,7 @@ created: 2026-04-29
 
 ### 9. Final Project: BI, Advanced Analytics, and ML in the Lakehouse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dremio walkthrough
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/dremio-walkthrough-24328460?u=76281980)
@@ -5079,7 +5150,7 @@ created: 2026-04-29
 
 ### 10. Final Project: Generative AI in the Lakehouse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LLMs and vector embeddings: Llama
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/introduction-to-llms-and-vector-embeddings-llama?u=76281980)
@@ -5625,7 +5696,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap and key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-data-lakes-and-lakehouses/recap-and-key-takeaways-24330327?u=76281980)

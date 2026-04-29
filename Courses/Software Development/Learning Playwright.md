@@ -50,15 +50,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Playwright Installation and Configuration]]** (7 videos)
-- **[[#2. Creating Tests with Playwright]]** (11 videos)
-- **[[#3. Maintaining Playwright Tests]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Unlock the future of test automation with Playwright
+  - What is Playwright, and why choose it?
+  - Using the exercise files
+- [**1. Playwright Installation and Configuration**](#1-playwright-installation-and-configuration) (7 videos)
+  - Installing Playwright
+  - Updating the Playwright config
+  - Playwright config browsers and projects
+  - Exploring the test runner command line interface
+  - Overview of package.json
+  - Exploring the VS Code extension
+  - Exploring the Playwright UI Mode
+- [**2. Creating Tests with Playwright**](#2-creating-tests-with-playwright) (11 videos)
+  - Overview of the website under test
+  - Generating tests with codegen
+  - Overview of locator strategies in Playwright
+  - Overview of assertions in Playwright
+  - Structuring Playwright tests
+  - Handling cookie authentication in Playwright
+  - Visual testing in Playwright
+  - API testing in Playwright
+  - Automating the right things with Playwright
+  - Challenge: Create three automated tests
+  - Solution: Create three automated tests
+- [**3. Maintaining Playwright Tests**](#3-maintaining-playwright-tests) (4 videos)
+  - Introduction to maintaining tests with Playwright
+  - Playwright screenshots, videos, and reporters
+  - Playwright trace viewer
+  - Scaling Playwright tests
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock the future of test automation with Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/unlock-the-future-of-test-automation-with-playwright?u=76281980)
@@ -213,7 +239,7 @@ created: 2026-04-29
 
 ### 1. Playwright Installation and Configuration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/installing-playwright?u=76281980)
@@ -1212,7 +1238,7 @@ created: 2026-04-29
 
 ### 2. Creating Tests with Playwright
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the website under test
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/overview-of-the-website-under-test?u=76281980)
@@ -3168,7 +3194,7 @@ created: 2026-04-29
 
 ### 3. Maintaining Playwright Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to maintaining tests with Playwright
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/introduction-to-maintaining-tests-with-playwright?u=76281980)
@@ -3637,7 +3663,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-playwright/next-steps?u=76281980)

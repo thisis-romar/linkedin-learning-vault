@@ -51,14 +51,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Benefits and Advantages]]** (3 videos)
-- **[[#2. Increased Risks]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Implications of AI on cybersecurity
+  - What you should know
+  - AI models and software applications
+  - Garbage in = garbage out
+  - Generative AI
+- [**1. Benefits and Advantages**](#1-benefits-and-advantages) (3 videos)
+  - AI improvements for corporate applications
+  - Improvements for software development
+  - Improvements for application security
+- [**2. Increased Risks**](#2-increased-risks) (4 videos)
+  - Evolution of application security risk
+  - Better impersonation using AI
+  - Security problems in AI applications
+  - Security controls for AI applications
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implications of AI on cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/implications-of-ai-on-cybersecurity?u=76281980)
@@ -350,7 +363,7 @@ created: 2026-04-29
 
 ### 1. Benefits and Advantages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI improvements for corporate applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/ai-improvements-for-corporate-applications?u=76281980)
@@ -561,7 +574,7 @@ created: 2026-04-29
 
 ### 2. Increased Risks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evolution of application security risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/evolution-of-application-security-risk?u=76281980)
@@ -821,7 +834,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-application-security/next-steps?u=76281980)

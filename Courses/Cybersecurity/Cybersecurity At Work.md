@@ -49,18 +49,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Social Engineering Scams and Attacks]]** (5 videos)
-- **[[#2. Wireless Security]]** (3 videos)
-- **[[#3. Account Security]]** (3 videos)
-- **[[#4. Software and Internet Security]]** (5 videos)
-- **[[#5. Hybrid Work Security]]** (5 videos)
-- **[[#6. Data Security]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Secure behavior in the workplace
+- [**1. Social Engineering Scams and Attacks**](#1-social-engineering-scams-and-attacks) (5 videos)
+  - Social engineering overview
+  - Email phishing
+  - Social media information (over)sharing
+  - Counterfeit apps
+  - Scenario: Voice phishing
+- [**2. Wireless Security**](#2-wireless-security) (3 videos)
+  - Public Wi-Fi
+  - Home Wi-Fi
+  - VPN
+- [**3. Account Security**](#3-account-security) (3 videos)
+  - Password security
+  - Data breaches and compromised passwords
+  - Multifactor authentication
+- [**4. Software and Internet Security**](#4-software-and-internet-security) (5 videos)
+  - Updating software
+  - Common vulnerabilities and exposures (CVE)
+  - Malware overview
+  - Malware: Ransomware
+  - The anatomy of a cyber attack
+- [**5. Hybrid Work Security**](#5-hybrid-work-security) (5 videos)
+  - Physical office security
+  - Physical office security best practices
+  - Laptop and desktop security
+  - Smartphone and mobile device attacks
+  - Scenario: Stolen laptop
+- [**6. Data Security**](#6-data-security) (3 videos)
+  - Intellectual property
+  - Customer information
+  - Employee information
+- [**Conclusion**](#conclusion) (1 videos)
+  - You are part of the security team
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure behavior in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/secure-behavior-in-the-workplace?u=76281980)
@@ -87,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Social Engineering Scams and Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Social engineering overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/social-engineering-overview?u=76281980)
@@ -350,7 +376,7 @@ created: 2026-04-29
 
 ### 2. Wireless Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Public Wi-Fi
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/public-wi-fi?u=76281980)
@@ -514,7 +540,7 @@ created: 2026-04-29
 
 ### 3. Account Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Password security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/password-security?u=76281980)
@@ -675,7 +701,7 @@ created: 2026-04-29
 
 ### 4. Software and Internet Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Updating software
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/updating-software?u=76281980)
@@ -986,7 +1012,7 @@ created: 2026-04-29
 
 ### 5. Hybrid Work Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Physical office security
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/physical-office-security?u=76281980)
@@ -1334,7 +1360,7 @@ created: 2026-04-29
 
 ### 6. Data Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intellectual property
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/intellectual-property?u=76281980)
@@ -1440,7 +1466,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### You are part of the security team
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-at-work-22609530/you-are-part-of-the-security-team?u=76281980)

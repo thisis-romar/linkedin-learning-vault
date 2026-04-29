@@ -53,16 +53,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Why Storytelling?]]** (3 videos)
-- **[[#2. Story Structure]]** (6 videos)
-- **[[#3. Story Mechanisms]]** (7 videos)
-- **[[#4. Final Touches]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The art of storytelling
+- [**1. Why Storytelling?**](#1-why-storytelling) (3 videos)
+  - Humans are wired for story
+  - Data storytelling is essential, except when it isn't
+  - Using story even when you don't
+- [**2. Story Structure**](#2-story-structure) (6 videos)
+  - The KWYs
+  - Story components
+  - Finding the story in your data
+  - Outlining your story
+  - Use your words
+  - Sketching ideas
+- [**3. Story Mechanisms**](#3-story-mechanisms) (7 videos)
+  - Change over time
+  - Linear logic
+  - Flow diagrams
+  - Compare and contrast
+  - Progressive depth
+  - Personalization
+  - Text
+- [**4. Final Touches**](#4-final-touches) (5 videos)
+  - Labeling
+  - Eye candy
+  - Repetition and redundancy
+  - Relatability
+  - Don't be afraid of complexity
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The art of storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/the-art-of-storytelling?u=76281980)
@@ -93,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Why Storytelling?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Humans are wired for story
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/humans-are-wired-for-story?u=76281980)
@@ -349,7 +372,7 @@ created: 2026-04-29
 
 ### 2. Story Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The KWYs
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/the-kwys?u=76281980)
@@ -1084,7 +1107,7 @@ created: 2026-04-29
 
 ### 3. Story Mechanisms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change over time
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/change-over-time?u=76281980)
@@ -1675,7 +1698,7 @@ created: 2026-04-29
 
 ### 4. Final Touches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Labeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/labeling?u=76281980)
@@ -2154,7 +2177,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-storytelling/next-steps?u=76281980)

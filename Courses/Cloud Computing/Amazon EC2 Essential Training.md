@@ -47,15 +47,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (6 videos)
-- **[[#1. Introduction to Amazon EC2]]** (17 videos)
-- **[[#2. EC2 Deep Dive]]** (11 videos)
-- **[[#3. EC2 Purchasing Options]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (6 videos)
+  - Learning Amazon EC2
+  - What is Amazon EC2?
+  - AWS Free Tier
+  - AWS regions and availability zones
+  - AWS Local Zones
+  - Picking the right region: Best practices
+- [**1. Introduction to Amazon EC2**](#1-introduction-to-amazon-ec2) (17 videos)
+  - What makes up an EC2 instance?
+  - Amazon Machine Image (AMI)
+  - How to find a pre-defined AMI
+  - How to create and restore an AMI
+  - EC2 instance types
+  - Key pairs
+  - VPC and subnets
+  - Security groups
+  - Demo: Security groups
+  - EBS volumes
+  - Demo: EBS volumes
+  - Advanced launch options: Part 1
+  - Advanced launch options: Part 2
+  - EC2 user data
+  - Connect to your EC2 instance
+  - Navigating the EC2 console
+  - Navigating the EC2 dashboard
+- [**2. EC2 Deep Dive**](#2-ec2-deep-dive) (11 videos)
+  - EBS snapshots
+  - Demo: EBS snapshots
+  - Instance store
+  - Elastic IP
+  - Elastic network interface
+  - Demo: Elastic network interface
+  - Placement groups
+  - Instance metadata
+  - Attaching an IAM role
+  - Launch templates
+  - Security groups as source or destination
+- [**3. EC2 Purchasing Options**](#3-ec2-purchasing-options) (8 videos)
+  - Introduction to EC2 purchasing options
+  - On-demand instances and capacity reservations
+  - Spot instances
+  - Requesting spot instances
+  - Reserved instances
+  - Savings plans
+  - Dedicated instances vs. dedicated hosts
+  - Launching dedicated instances and dedicated hosts
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Amazon EC2
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/learning-amazon-ec2?u=76281980)
@@ -654,7 +697,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Amazon EC2
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes up an EC2 instance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/what-makes-up-an-ec2-instance?u=76281980)
@@ -3267,7 +3310,7 @@ created: 2026-04-29
 
 ### 2. EC2 Deep Dive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### EBS snapshots
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/ebs-snapshots?u=76281980)
@@ -4992,7 +5035,7 @@ created: 2026-04-29
 
 ### 3. EC2 Purchasing Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to EC2 purchasing options
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/introduction-to-ec2-purchasing-options?u=76281980)
@@ -5916,7 +5959,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/amazon-ec2-essential-training/additional-resources?u=76281980)

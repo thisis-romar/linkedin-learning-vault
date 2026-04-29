@@ -58,16 +58,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Building a New Tech Team]]** (5 videos)
-- **[[#2. Leading an Established Tech Team]]** (5 videos)
-- **[[#3. Challenges to Inclusivity]]** (4 videos)
-- **[[#4. Beyond Your Tech Team]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Inclusive leadership
+  - Does inclusion really change the game in tech?
+  - Making the case for inclusion at work
+- [**1. Building a New Tech Team**](#1-building-a-new-tech-team) (5 videos)
+  - Building and leading a new team from inclusive foundations
+  - Inclusive hiring
+  - Setting expectations for your team
+  - Maintaining inclusive practices as your team matures
+  - Challenge: Inclusion on new teams
+- [**2. Leading an Established Tech Team**](#2-leading-an-established-tech-team) (5 videos)
+  - Leading existing teams
+  - Identifying barriers to inclusivity
+  - Working with established stakeholders
+  - Inclusivity in toxic settings
+  - Challenge: Leading established teams
+- [**3. Challenges to Inclusivity**](#3-challenges-to-inclusivity) (4 videos)
+  - Inclusive leadership as a marathon
+  - Balancing time
+  - Knowing when your voice isn't needed
+  - Challenge: Balancing time
+- [**4. Beyond Your Tech Team**](#4-beyond-your-tech-team) (3 videos)
+  - Inclusive culture change throughout your company
+  - Leadership in the tech industry
+  - Challenge: Beyond your team
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusive leadership
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980)
@@ -220,7 +241,7 @@ created: 2026-04-29
 
 ### 1. Building a New Tech Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building and leading a new team from inclusive foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980)
@@ -545,7 +566,7 @@ created: 2026-04-29
 
 ### 2. Leading an Established Tech Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading existing teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/leading-existing-teams?u=76281980)
@@ -969,7 +990,7 @@ created: 2026-04-29
 
 ### 3. Challenges to Inclusivity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusive leadership as a marathon
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership-as-a-marathon?u=76281980)
@@ -1186,7 +1207,7 @@ created: 2026-04-29
 
 ### 4. Beyond Your Tech Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusive culture change throughout your company
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-culture-change-throughout-your-company?u=76281980)
@@ -1332,7 +1353,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980)

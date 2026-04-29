@@ -50,16 +50,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Dependabot Features and Use Cases]]** (5 videos)
-- **[[#2. Dependabot and Python]]** (5 videos)
-- **[[#3. Dependabot and PHP]]** (5 videos)
-- **[[#4. Dependabot and JavaScript]]** (5 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Get started with Dependabot
+  - What you should know
+- [**1. Dependabot Features and Use Cases**](#1-dependabot-features-and-use-cases) (5 videos)
+  - GitHub and Dependabot features
+  - Dependabot advanced features
+  - Ideal uses cases for Dependabot
+  - Challenge: Dependabot anti-patterns
+  - Solution: Dependabot anti-patterns
+- [**2. Dependabot and Python**](#2-dependabot-and-python) (5 videos)
+  - Python project architecture
+  - requirements.txt
+  - dependabot.yml for Python
+  - Challenge: Dependabot pull requests for Python
+  - Solution: Dependabot pull requests for Python
+- [**3. Dependabot and PHP**](#3-dependabot-and-php) (5 videos)
+  - PHP project architecture
+  - composer.json
+  - dependabot.yml for PHP and branches
+  - Challenge: Dependabot pull requests for PHP
+  - Solution: Dependabot pull requests for PHP
+- [**4. Dependabot and JavaScript**](#4-dependabot-and-javascript) (5 videos)
+  - JavaScript project architecture
+  - package.json
+  - dependabot.yml for JavaScript projects
+  - Challenge: Dependabot pull requests for JavaScript
+  - Solution: Dependabot pull requests for JavaScript
+- [**Conclusion**](#conclusion) (2 videos)
+  - Links and resources
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with Dependabot
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/get-started-with-dependabot?u=76281980)
@@ -124,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Dependabot Features and Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub and Dependabot features
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/github-and-dependabot-features?u=76281980)
@@ -327,7 +351,7 @@ created: 2026-04-29
 
 ### 2. Dependabot and Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/python-project-architecture?u=76281980)
@@ -664,7 +688,7 @@ created: 2026-04-29
 
 ### 3. Dependabot and PHP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PHP project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/php-project-architecture?u=76281980)
@@ -1088,7 +1112,7 @@ created: 2026-04-29
 
 ### 4. Dependabot and JavaScript
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/javascript-project-architecture?u=76281980)
@@ -1422,7 +1446,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Links and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/github-dependabot-dependency-updates/links-and-resources?u=76281980)

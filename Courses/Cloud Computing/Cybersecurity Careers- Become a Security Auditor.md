@@ -53,16 +53,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Start a Fulfilling Career in Security Auditing and Compliance]]** (1 videos)
-- **[[#1. Security Auditing Basics]]** (3 videos)
-- **[[#2. Security Frameworks]]** (3 videos)
-- **[[#3. Gaining Employment in Security Auditing]]** (2 videos)
-- **[[#4. Roadmap to Success as a Security Auditor]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Start a Fulfilling Career in Security Auditing and Compliance**](#start-a-fulfilling-career-in-security-auditing-and-compliance) (1 videos)
+  - Helping organizations stay secure through auditing
+- [**1. Security Auditing Basics**](#1-security-auditing-basics) (3 videos)
+  - What are security auditing and compliance?
+  - Why do organizations need to be audited?
+  - Who can be a security auditor?
+- [**2. Security Frameworks**](#2-security-frameworks) (3 videos)
+  - Overview of common security frameworks
+  - NIST security framework
+  - PCI security frameworks
+- [**3. Gaining Employment in Security Auditing**](#3-gaining-employment-in-security-auditing) (2 videos)
+  - How to land your first security auditing position
+  - How to level up in security auditing
+- [**4. Roadmap to Success as a Security Auditor**](#4-roadmap-to-success-as-a-security-auditor) (2 videos)
+  - Be a successful team auditor
+  - How to communicate effectively as a security auditor
+- [**Conclusion**](#conclusion) (2 videos)
+  - Security auditing leads to many opportunities
+  - Continuing on with security auditing
 
 ### Start a Fulfilling Career in Security Auditing and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Helping organizations stay secure through auditing
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980)
@@ -101,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Security Auditing Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are security auditing and compliance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/what-are-security-auditing-and-compliance?u=76281980)
@@ -335,7 +348,7 @@ created: 2026-04-29
 
 ### 2. Security Frameworks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of common security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980)
@@ -577,7 +590,7 @@ created: 2026-04-29
 
 ### 3. Gaining Employment in Security Auditing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to land your first security auditing position
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980)
@@ -738,7 +751,7 @@ created: 2026-04-29
 
 ### 4. Roadmap to Success as a Security Auditor
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be a successful team auditor
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/be-a-successful-team-auditor?u=76281980)
@@ -877,7 +890,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security auditing leads to many opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/security-auditing-leads-to-many-opportunities?u=76281980)

@@ -50,12 +50,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Code Challenges]]** (8 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Slither into advanced core Python code challenges
+  - Using GitHub Codespaces with this course
+- [**1. Code Challenges**](#1-code-challenges) (8 videos)
+  - Find a runner’s average race time
+  - HTML to markdown converter
+  - Create a pairwise offset
+  - Find a runner’s age at slowest race time
+  - Context managers: Calculator
+  - Get Olympic medals
+  - Create an argument checker
+  - Implement a LinkedIn checker
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Slither into advanced core Python code challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/slither-into-advanced-core-python-code-challenges?u=76281980)
@@ -248,7 +258,7 @@ created: 2026-04-29
 
 ### 1. Code Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Find a runner’s average race time
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-average-race-time?u=76281980)

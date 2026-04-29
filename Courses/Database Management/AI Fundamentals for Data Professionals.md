@@ -45,16 +45,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to AI and Machine Learning]]** (4 videos)
-- **[[#2. Data and Feature Engineering]]** (4 videos)
-- **[[#3. High-Level Machine Learning Techniques]]** (5 videos)
-- **[[#4. Implementation and Future Trends]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction
+- [**1. Introduction to AI and Machine Learning**](#1-introduction-to-ai-and-machine-learning) (4 videos)
+  - AI and machine learning overview
+  - Types of machine learning
+  - Popular AI and ML tools
+  - AI applications and use cases
+- [**2. Data and Feature Engineering**](#2-data-and-feature-engineering) (4 videos)
+  - Data types and sources
+  - Exploratory data analysis (EDA)
+  - Data preprocessing techniques
+  - Feature engineering
+- [**3. High-Level Machine Learning Techniques**](#3-high-level-machine-learning-techniques) (5 videos)
+  - Supervised learning overview
+  - Unsupervised learning overview
+  - Reinforcement learning overview
+  - Deep learning overview: Part 1
+  - Deep learning overview: Part 2
+- [**4. Implementation and Future Trends**](#4-implementation-and-future-trends) (4 videos)
+  - Model evaluation and validation
+  - AI project lifecycle
+  - AI ethics and bias: Part 1
+  - AI ethics and bias: Part 2
+- [**Conclusion**](#conclusion) (1 videos)
+  - Bring it all together
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/introduction?u=76281980)
@@ -88,7 +107,7 @@ created: 2026-04-29
 
 ### 1. Introduction to AI and Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and machine learning overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/ai-and-machine-learning-overview?u=76281980)
@@ -365,7 +384,7 @@ created: 2026-04-29
 
 ### 2. Data and Feature Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data types and sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/data-types-and-sources?u=76281980)
@@ -668,7 +687,7 @@ created: 2026-04-29
 
 ### 3. High-Level Machine Learning Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supervised learning overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/supervised-learning-overview?u=76281980)
@@ -1059,7 +1078,7 @@ created: 2026-04-29
 
 ### 4. Implementation and Future Trends
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Model evaluation and validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/model-evaluation-and-validation?u=76281980)
@@ -1385,7 +1404,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bring it all together
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-fundamentals-for-data-professionals/bring-it-all-together?u=76281980)

@@ -50,15 +50,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Exploring Customer Data]]** (9 videos)
-- **[[#2. Classification Analysis]]** (10 videos)
-- **[[#3. Cluster Analysis]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introduction to R
+  - What you should know
+  - RStudio
+- [**1. Exploring Customer Data**](#1-exploring-customer-data) (9 videos)
+  - Introducing Red30 Tech
+  - Understanding Red30 Tech data
+  - How to perform basic descriptive analysis
+  - How to find top customers
+  - How to better understand customers
+  - How to analyze sales employees
+  - How to determine the best product category
+  - Challenge: Customer longevity analysis
+  - Solution: Customer longevity analysis
+- [**2. Classification Analysis**](#2-classification-analysis) (10 videos)
+  - Understanding classification analysis
+  - How to prepare data for classification
+  - How to run a decision tree algorithm
+  - How to run a random forest algorithm
+  - How to run a support vector machine algorithm
+  - Understanding summary metrics
+  - How to decide which algorithm is best
+  - How to improve the chosen algorithm
+  - Challenge: Explore the chosen algorithm
+  - Solution: Explore the chosen algorithm
+- [**3. Cluster Analysis**](#3-cluster-analysis) (8 videos)
+  - Understanding cluster analysis
+  - How to prepare data for clustering
+  - How to run a k-means algorithm
+  - How to run a hierarchical clustering algorithm
+  - How to run a GMM clustering algorithm
+  - Evaluating cluster results
+  - Challenge: Clustering late payment customers
+  - Solution: Clustering late payment customers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to R
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/introduction-to-r?u=76281980)
@@ -269,7 +300,7 @@ created: 2026-04-29
 
 ### 1. Exploring Customer Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Red30 Tech
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/introducing-red30-tech?u=76281980)
@@ -1034,7 +1065,7 @@ created: 2026-04-29
 
 ### 2. Classification Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding classification analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-classification-analysis?u=76281980)
@@ -1945,7 +1976,7 @@ created: 2026-04-29
 
 ### 3. Cluster Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cluster analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/understanding-cluster-analysis?u=76281980)
@@ -2743,7 +2774,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-your-first-project-in-r/next-steps?u=76281980)

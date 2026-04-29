@@ -54,14 +54,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Introduction for Conversational Apps with Data]]** (4 videos)
-- **[[#2. Finding Answers from Unstructured Data with Cortex Search]]** (10 videos)
-- **[[#3. Answer Questions from Structured Data with Cortex Analyst]]** (9 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Getting answers from data
+  - Getting answers from data: Using RAG
+  - Getting answers from data: Using text-to-SQL
+  - What we will build: Success in this course
+- [**1. Introduction for Conversational Apps with Data**](#1-introduction-for-conversational-apps-with-data) (4 videos)
+  - Querying unstructured data: RAG
+  - Querying unstructured data: Hybrid search
+  - Querying structured data: Text-to-SQL
+  - Let’s dive in
+- [**2. Finding Answers from Unstructured Data with Cortex Search**](#2-finding-answers-from-unstructured-data-with-cortex-search) (10 videos)
+  - Opening up unstructured data with RAG
+  - What is Cortex Search?
+  - Loading unstructured data to a Snowflake stage
+  - Parsing and chunking text
+  - Creating the Cortex Search Service
+  - Building a RAG with Cortex Search
+  - How to measure success
+  - Automatic processing of new documents
+  - Building out the front end
+  - Well done!
+- [**3. Answer Questions from Structured Data with Cortex Analyst**](#3-answer-questions-from-structured-data-with-cortex-analyst) (9 videos)
+  - Avoiding death by dashboard
+  - Setting up the app
+  - Understanding the semantic model
+  - Working with the semantic model
+  - Using Cortex Analyst
+  - From text-to-SQL to TAG: Creating table-assisted generation
+  - Expanding the scope of the semantic model
+  - Building the Streamlit app
+  - Congratulations!
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting answers from data
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/getting-answers-from-data?u=76281980)
@@ -446,7 +473,7 @@ created: 2026-04-29
 
 ### 1. Introduction for Conversational Apps with Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying unstructured data: RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/querying-unstructured-data-rag?u=76281980)
@@ -827,7 +854,7 @@ created: 2026-04-29
 
 ### 2. Finding Answers from Unstructured Data with Cortex Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Opening up unstructured data with RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/opening-up-unstructured-data-with-rag?u=76281980)
@@ -2021,7 +2048,7 @@ created: 2026-04-29
 
 ### 3. Answer Questions from Structured Data with Cortex Analyst
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding death by dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-generative-ai-apps-to-talk-to-your-data/avoiding-death-by-dashboard?u=76281980)

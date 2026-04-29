@@ -46,16 +46,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Network Services]]** (12 videos)
-- **[[#2. Network Security]]** (9 videos)
-- **[[#3. Wireless Networks]]** (9 videos)
-- **[[#4. Network Virtualization]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you can learn
+  - How to get hands-on practice
+- [**1. Network Services**](#1-network-services) (12 videos)
+  - Domain name system (DNS)
+  - Cisco Discovery Protocol (CDP) theory
+  - CDP configuration
+  - Link Layer Discovery Protocol (LLDP) theory
+  - LLDP configuration
+  - Network Time Protocol (NTP) theory
+  - NTP configuration
+  - Network Address Translation (NAT) theory
+  - NAT configuration
+  - Dynamic Host Configuration Protocol (DHCP) overview
+  - DHCP options
+  - DHCP configuration
+- [**2. Network Security**](#2-network-security) (9 videos)
+  - Common network security concerns
+  - Access Control List (ACL) theory
+  - Standard numbered ACL theory
+  - Standard numbered ACL configuration
+  - Extended numbered ACL theory
+  - Extended numbered ACL configuration
+  - Extended named ACL configuration
+  - The need for switch port security
+  - Port security configuration
+- [**3. Wireless Networks**](#3-wireless-networks) (9 videos)
+  - Introduction to wireless LANs (WLANs)
+  - WLAN antennas
+  - WLAN frequencies and channels
+  - WLAN standards
+  - WLAN transmission methods
+  - WLAN optimization and features
+  - WLAN security basics
+  - WLAN security standards
+  - Configuring a Cisco Wireless LAN Controller (WLC)
+- [**4. Network Virtualization**](#4-network-virtualization) (5 videos)
+  - Virtualized servers
+  - Virtualized network devices
+  - Introduction to software-defined networking (SDN)
+  - Software-defined wide area networks (SD-WANs)
+  - Software-Defined Access (SD-Access)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/welcome?u=76281980)
@@ -192,7 +231,7 @@ created: 2026-04-29
 
 ### 1. Network Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Domain name system (DNS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/domain-name-system-dns?u=76281980)
@@ -1400,7 +1439,7 @@ created: 2026-04-29
 
 ### 2. Network Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common network security concerns
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/common-network-security-concerns?u=76281980)
@@ -2347,7 +2386,7 @@ created: 2026-04-29
 
 ### 3. Wireless Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to wireless LANs (WLANs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/introduction-to-wireless-lans-wlans?u=76281980)
@@ -3146,7 +3185,7 @@ created: 2026-04-29
 
 ### 4. Network Virtualization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Virtualized servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/virtualized-servers?u=76281980)
@@ -3441,7 +3480,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-wireless-networks-services-security-and-virtualization/next-steps?u=76281980)

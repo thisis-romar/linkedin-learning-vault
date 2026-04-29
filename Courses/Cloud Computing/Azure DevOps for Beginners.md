@@ -51,18 +51,78 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setup and Overview]]** (10 videos)
-- **[[#2. Azure Boards]]** (14 videos)
-- **[[#3. Azure Repos]]** (9 videos)
-- **[[#4. Azure Pipelines]]** (12 videos)
-- **[[#5. Extending DevOps]]** (9 videos)
-- **[[#6. Additional Topics]]** (3 videos)
-- **[[#7. Continue Your Journey]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Use Azure DevOps to enhance application development
+  - Getting the most from this course
+- [**1. Setup and Overview**](#1-setup-and-overview) (10 videos)
+  - Overview of Azure DevOps
+  - Where to access Azure DevOps
+  - Understand the DevOps price plans
+  - Log in to Azure DevOps web portal
+  - Tour the DevOps portal
+  - Create an Azure DevOps project
+  - Create a project with the Microsoft demo generator
+  - View the generated project
+  - Add users to an organization
+  - Add users to an Azure DevOps team
+- [**2. Azure Boards**](#2-azure-boards) (14 videos)
+  - Manage your team workflow with Azure Boards
+  - Tour of Azure Boards
+  - Create a work item
+  - Boards and backlogs
+  - Set sprint cadence
+  - Boards and sprints
+  - Kanban board basics
+  - Add columns and swimlanes to a Kanban board
+  - Set work in progress (WIP) limits
+  - Kanban board tag settings
+  - Kanban board custom styles
+  - View work progress with dashboards
+  - Create custom work item queries
+  - Add a custom query to the dashboard
+- [**3. Azure Repos**](#3-azure-repos) (9 videos)
+  - What are Azure repos?
+  - View the parts of Azure repos
+  - Create an Azure repo in the portal
+  - Clone the repo to a developer computer
+  - Create a repo branch
+  - Edit and commit to repo
+  - Push the branch to DevOps
+  - Create a pull request
+  - Team review of pull request
+- [**4. Azure Pipelines**](#4-azure-pipelines) (12 videos)
+  - What are Azure pipelines?
+  - Continuous integration with build pipelines
+  - The pipeline components
+  - Explore the pipeline section of the DevOps portal
+  - Explore the example web project
+  - Add a service connection to Azure Resource Manager
+  - Explore the pipeline templates
+  - Add a build pipeline
+  - Manually run and troubleshoot a pipeline
+  - Update the repo to trigger the build
+  - Add a release pipeline
+  - Use custom variables in the pipeline
+- [**5. Extending DevOps**](#5-extending-devops) (9 videos)
+  - Extensibility and integration overview
+  - Add Azure DevOps apps to Slack
+  - Configure Slack channel to work with DevOps
+  - Examine configuration messages
+  - Watch integration message flow into Slack
+  - What extensions can contribute
+  - Use the marketplace to install free extensions
+  - Use the code search extension
+  - Use the persona extension
+- [**6. Additional Topics**](#6-additional-topics) (3 videos)
+  - Streamline dependencies with Azure Artifacts
+  - Enhance testing efficiency with Azure Test Plans
+  - GitHub actions versus Azure Devops
+- [**7. Continue Your Journey**](#7-continue-your-journey) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Azure DevOps to enhance application development
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980)
@@ -161,7 +221,7 @@ created: 2026-04-29
 
 ### 1. Setup and Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Azure DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980)
@@ -944,7 +1004,7 @@ created: 2026-04-29
 
 ### 2. Azure Boards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage your team workflow with Azure Boards
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980)
@@ -2073,7 +2133,7 @@ created: 2026-04-29
 
 ### 3. Azure Repos
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Azure repos?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980)
@@ -2836,7 +2896,7 @@ created: 2026-04-29
 
 ### 4. Azure Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Azure pipelines?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980)
@@ -3776,7 +3836,7 @@ created: 2026-04-29
 
 ### 5. Extending DevOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extensibility and integration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980)
@@ -4299,7 +4359,7 @@ created: 2026-04-29
 
 ### 6. Additional Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Streamline dependencies with Azure Artifacts
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980)
@@ -4576,7 +4636,7 @@ created: 2026-04-29
 
 ### 7. Continue Your Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980)

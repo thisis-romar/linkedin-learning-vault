@@ -53,16 +53,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Built-In Data Functions]]** (7 videos)
-- **[[#2. Collection Classes]]** (6 videos)
-- **[[#3. Serializing Data in Python]]** (6 videos)
-- **[[#4. Python Logging]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Python and Data: Made for each other
+  - Getting Set Up
+  - The sample data set
+  - Tour of CoderPad
+- [**1. Built-In Data Functions**](#1-built-in-data-functions) (7 videos)
+  - Using built-in functions
+  - Finding min and max values
+  - Data utility functions
+  - Sorting data
+  - Data filtering
+  - Data transformation
+  - Solution: Build a data summary
+- [**2. Collection Classes**](#2-collection-classes) (6 videos)
+  - Overview of collection classes
+  - Named tuples
+  - Default dictionaries
+  - Counters
+  - The deque class
+  - Solution: Classify event types
+- [**3. Serializing Data in Python**](#3-serializing-data-in-python) (6 videos)
+  - Overview of serialization
+  - Serializing data as CSV
+  - Serializing data as JSON
+  - Deserialization of data
+  - Challenge: Create a CSV file
+  - Solution: Create a CSV file
+- [**4. Python Logging**](#4-python-logging) (3 videos)
+  - Overview of logging
+  - Basic logging
+  - Custom logging
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python and Data: Made for each other
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/python-and-data-made-for-each-other?u=76281980)
@@ -370,7 +397,7 @@ created: 2026-04-29
 
 ### 1. Built-In Data Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/using-built-in-functions?u=76281980)
@@ -1352,7 +1379,7 @@ created: 2026-04-29
 
 ### 2. Collection Classes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of collection classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-collection-classes?u=76281980)
@@ -1943,7 +1970,7 @@ created: 2026-04-29
 
 ### 3. Serializing Data in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of serialization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-serialization?u=76281980)
@@ -2640,7 +2667,7 @@ created: 2026-04-29
 
 ### 4. Python Logging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/overview-of-logging?u=76281980)
@@ -3061,7 +3088,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-data/next-steps?u=76281980)

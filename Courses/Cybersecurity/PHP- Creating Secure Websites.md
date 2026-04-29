@@ -48,16 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Security Overview]]** (3 videos)
-- **[[#2. Securing Your PHP Installation]]** (5 videos)
-- **[[#3. Filtering Input and Controlling Output]]** (5 videos)
-- **[[#4. Defending the Most Common Attacks]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The need for security with PHP
+- [**1. Security Overview**](#1-security-overview) (3 videos)
+  - What is security?
+  - Security and PHP
+  - General security principles
+- [**2. Securing Your PHP Installation**](#2-securing-your-php-installation) (5 videos)
+  - Keeping versions up to date
+  - phpinfo and phpMyAdmin
+  - Configure error reporting and logging
+  - Other configuration options
+  - PHP on a shared host
+- [**3. Filtering Input and Controlling Output**](#3-filtering-input-and-controlling-output) (5 videos)
+  - Validating input
+  - Sanitizing data
+  - Keeping code private
+  - Smart logging
+  - Cookie configuration
+- [**4. Defending the Most Common Attacks**](#4-defending-the-most-common-attacks) (6 videos)
+  - Cross-site scripting (XSS)
+  - Cross-site request forgery (CSRF)
+  - SQL injection
+  - Session hijacking and fixation
+  - Remote system execution
+  - PHP code injection
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for security with PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/the-need-for-security-with-php?u=76281980)
@@ -94,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Security Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is security?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980)
@@ -387,7 +408,7 @@ created: 2026-04-29
 
 ### 2. Securing Your PHP Installation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping versions up to date
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980)
@@ -836,7 +857,7 @@ created: 2026-04-29
 
 ### 3. Filtering Input and Controlling Output
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Validating input
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980)
@@ -1697,7 +1718,7 @@ created: 2026-04-29
 
 ### 4. Defending the Most Common Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cross-site scripting (XSS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980)
@@ -2395,7 +2416,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/next-steps?u=76281980)

@@ -50,16 +50,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to RAG]]** (3 videos)
-- **[[#2. RAFT technique]]** (3 videos)
-- **[[#3. Dataset Preparation for RAFT]]** (4 videos)
-- **[[#4. Fine-Tune the Model in Hugging Face]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to RAG and fine-tuning
+- [**1. Introduction to RAG**](#1-introduction-to-rag) (3 videos)
+  - Understanding RAG
+  - What is fine-tuning?
+  - Combining RAG and fine-tuning: RAFT
+- [**2. RAFT technique**](#2-raft-technique) (3 videos)
+  - Understand RAFT
+  - Fine-tuning and inference
+  - Results of RAFT
+- [**3. Dataset Preparation for RAFT**](#3-dataset-preparation-for-raft) (4 videos)
+  - Preparing the data for RAFT
+  - Q&A pair generation
+  - Adding answers to document-question pairs
+  - Generate and save dataset
+- [**4. Fine-Tune the Model in Hugging Face**](#4-fine-tune-the-model-in-hugging-face) (3 videos)
+  - Intro to Hugging Face
+  - Fine-tuning the Llama 3.2 model on Hugging Face
+  - Using the fine-tuned model
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with RAG and fine-tuning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to RAG and fine-tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/welcome-to-rag-and-finetuning?u=76281980)
@@ -92,7 +107,7 @@ created: 2026-04-29
 
 ### 1. Introduction to RAG
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understanding-rag?u=76281980)
@@ -267,7 +282,7 @@ created: 2026-04-29
 
 ### 2. RAFT technique
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand RAFT
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/understand-raft?u=76281980)
@@ -445,7 +460,7 @@ created: 2026-04-29
 
 ### 3. Dataset Preparation for RAFT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing the data for RAFT
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/preparing-the-data-for-raft?u=76281980)
@@ -888,7 +903,7 @@ created: 2026-04-29
 
 ### 4. Fine-Tune the Model in Hugging Face
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/intro-to-hugging-face?u=76281980)
@@ -1195,7 +1210,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with RAG and fine-tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/rag-fine-tuning-advanced-techniques-for-accuracy-and-model-performance/next-steps-with-rag-and-finetuning?u=76281980)

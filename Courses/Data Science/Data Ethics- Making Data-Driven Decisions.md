@@ -48,15 +48,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Thinking about ethics]]** (6 videos)
-- **[[#2. Decision Traceability]]** (7 videos)
-- **[[#3. Objectivity]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Ethical decisionmaking
+- [**1. Thinking about ethics**](#1-thinking-about-ethics) (6 videos)
+  - Being a moral company
+  - How to approach ethics
+  - Start with ethical objectivism
+  - Think about your categorical imperatives
+  - What would a virtuous person do?
+  - The seven major data ethics challenges
+- [**2. Decision Traceability**](#2-decision-traceability) (7 videos)
+  - The right to algorithmic traceability
+  - Data accessibility and comprehensibility
+  - Can anyone access their data?
+  - Trace your black box decisions
+  - Open the box with Explainable AI (XAI)
+  - Self-driving cars' trolley problem
+  - Decide how to crash a self-driving car
+- [**3. Objectivity**](#3-objectivity) (5 videos)
+  - What does data objectivity mean?
+  - Ways to think about bias
+  - How to fix data bias
+  - Can data be objective?
+  - What is fairness?
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical decisionmaking
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/ethical-decisionmaking?u=76281980)
@@ -97,7 +117,7 @@ created: 2026-04-29
 
 ### 1. Thinking about ethics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Being a moral company
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/being-a-moral-company?u=76281980)
@@ -629,7 +649,7 @@ created: 2026-04-29
 
 ### 2. Decision Traceability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The right to algorithmic traceability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/the-right-to-algorithmic-traceability?u=76281980)
@@ -1236,7 +1256,7 @@ created: 2026-04-29
 
 ### 3. Objectivity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What does data objectivity mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/what-does-data-objectivity-mean?u=76281980)
@@ -1697,7 +1717,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-ethics-making-data-driven-decisions-2022/next-steps?u=76281980)

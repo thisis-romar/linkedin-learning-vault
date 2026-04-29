@@ -40,16 +40,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Digital Strategy: Foundational Ideas]]** (3 videos)
-- **[[#2. Digital Innovation]]** (3 videos)
-- **[[#3. Platforms and Ecosystems]]** (3 videos)
-- **[[#4. Artificial Intelligence]]** (3 videos)
-- **[[#5. Building a Digital Culture]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The opportunity of digital disruption
+  - Beware the “digital lipstick” syndrome
+- [**1. Digital Strategy: Foundational Ideas**](#1-digital-strategy-foundational-ideas) (3 videos)
+  - Rethinking strategy in the digital era
+  - Think of digital disruption as a gift
+  - Start with customer obsession
+- [**2. Digital Innovation**](#2-digital-innovation) (3 videos)
+  - Building purely digital products and services
+  - Digitizing existing products and services
+  - Digitizing your value chain
+- [**3. Platforms and Ecosystems**](#3-platforms-and-ecosystems) (3 videos)
+  - Embracing the new era of ecosystems
+  - Competing via or on platforms
+  - Harnessing the wisdom of crowds
+- [**4. Artificial Intelligence**](#4-artificial-intelligence) (3 videos)
+  - What is AI and where is it headed?
+  - Harnessing AI for competitive advantage
+  - Avoiding biases and other pitfalls
+- [**5. Building a Digital Culture**](#5-building-a-digital-culture) (2 videos)
+  - Becoming an agile organization
+  - The key takeaways
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The opportunity of digital disruption
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/the-opportunity-of-digital-disruption?u=76281980)
@@ -149,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Digital Strategy: Foundational Ideas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rethinking strategy in the digital era
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/rethinking-strategy-in-the-digital-era?u=76281980)
@@ -376,7 +392,7 @@ created: 2026-04-29
 
 ### 2. Digital Innovation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building purely digital products and services
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/building-purely-digital-products-and-services?u=76281980)
@@ -638,7 +654,7 @@ created: 2026-04-29
 
 ### 3. Platforms and Ecosystems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embracing the new era of ecosystems
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/embracing-the-new-era-of-ecosystems?u=76281980)
@@ -886,7 +902,7 @@ created: 2026-04-29
 
 ### 4. Artificial Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AI and where is it headed?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/what-is-ai-and-where-is-it-headed?u=76281980)
@@ -1164,7 +1180,7 @@ created: 2026-04-29
 
 ### 5. Building a Digital Culture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming an agile organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-strategy/becoming-an-agile-organization?u=76281980)

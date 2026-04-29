@@ -46,16 +46,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Framework Design]]** (4 videos)
-- **[[#2. Extending Frameworks]]** (3 videos)
-- **[[#3. Hosting Code]]** (4 videos)
-- **[[#4. Continuous Integration]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Framework design with C#
+  - What you should know
+- [**1. Framework Design**](#1-framework-design) (4 videos)
+  - Design frameworks
+  - Code encapsulation
+  - Design interfaces
+  - Modular clases
+- [**2. Extending Frameworks**](#2-extending-frameworks) (3 videos)
+  - Create independent modules
+  - Enforce an architecture pattern
+  - Extend a framework
+- [**3. Hosting Code**](#3-hosting-code) (4 videos)
+  - Share framework
+  - Hosting frameworks
+  - Document a framework
+  - Setting up Github
+- [**4. Continuous Integration**](#4-continuous-integration) (3 videos)
+  - What is CI
+  - Custom build scripts
+  - Using Github actions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Share framework with the community
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Framework design with C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/framework-design-with-c-sharp?u=76281980)
@@ -99,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Framework Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/design-frameworks?u=76281980)
@@ -396,7 +413,7 @@ created: 2026-04-29
 
 ### 2. Extending Frameworks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create independent modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/create-independent-modules?u=76281980)
@@ -662,7 +679,7 @@ created: 2026-04-29
 
 ### 3. Hosting Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Share framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework?u=76281980)
@@ -1081,7 +1098,7 @@ created: 2026-04-29
 
 ### 4. Continuous Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is CI
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980)
@@ -1382,7 +1399,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Share framework with the community
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980)

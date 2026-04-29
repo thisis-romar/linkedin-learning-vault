@@ -52,16 +52,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Data Engineering]]** (3 videos)
-- **[[#2. Databases and Dataframes]]** (3 videos)
-- **[[#3. Data Engineering Tools]]** (4 videos)
-- **[[#4. ETL Pipelines]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - What is data engineering?
+- [**1. Introduction to Data Engineering**](#1-introduction-to-data-engineering) (3 videos)
+  - Introduction to data engineering
+  - Data engineer vs. data scientist
+  - Essential tools for data engineering
+- [**2. Databases and Dataframes**](#2-databases-and-dataframes) (3 videos)
+  - Intro to databases and their types
+  - Understanding database schema
+  - Distributive computing
+- [**3. Data Engineering Tools**](#3-data-engineering-tools) (4 videos)
+  - MapReduce and Hadoop
+  - Hive
+  - Spark
+  - Airflow
+- [**4. ETL Pipelines**](#4-etl-pipelines) (11 videos)
+  - Sources of data extraction
+  - Data extraction from a PostgreSQL database
+  - Challenge: Data extraction
+  - Solution: Data extraction
+  - Transforming data
+  - Challenge: Transforming data
+  - Solution: Transforming data
+  - Loading data into a DB
+  - Challenge: Loading data
+  - Solution: Loading data
+  - Scheduling ETL pipeline using Airflow
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/what-is-data-engineering?u=76281980)
@@ -104,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Data Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/introduction-to-data-engineering?u=76281980)
@@ -308,7 +331,7 @@ created: 2026-04-29
 
 ### 2. Databases and Dataframes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to databases and their types
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/intro-to-databases-and-their-types?u=76281980)
@@ -590,7 +613,7 @@ created: 2026-04-29
 
 ### 3. Data Engineering Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MapReduce and Hadoop
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/mapreduce-and-hadoop?u=76281980)
@@ -877,7 +900,7 @@ created: 2026-04-29
 
 ### 4. ETL Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sources of data extraction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/sources-of-data-extraction?u=76281980)
@@ -1690,7 +1713,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-foundations/next-steps?u=76281980)

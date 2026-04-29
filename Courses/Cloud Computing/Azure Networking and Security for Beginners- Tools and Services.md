@@ -49,16 +49,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Securing Identities]]** (8 videos)
-- **[[#2. Securing Network Connectivity]]** (10 videos)
-- **[[#3. Securing Data]]** (4 videos)
-- **[[#4. Defender for Cloud]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Enhance the security of Azure
+  - What you need to know
+  - Azure security model
+- [**1. Securing Identities**](#1-securing-identities) (8 videos)
+  - Understand authentication and authorization
+  - Introduction to Microsoft Entra ID
+  - Configuring Microsoft Entra ID
+  - Role based access control
+  - Configure RBAC
+  - Conditional access
+  - Multifactor authentication
+  - Best practices
+- [**2. Securing Network Connectivity**](#2-securing-network-connectivity) (10 videos)
+  - Understand network components
+  - Network security groups
+  - Controlling traffic with network security groups
+  - Azure network routing
+  - Configure routing
+  - Azure Firewall
+  - Configure Azure Firewall
+  - Azure DDoS protection
+  - Other network security tools
+  - Best practices
+- [**3. Securing Data**](#3-securing-data) (4 videos)
+  - Azure Key Vault
+  - Protect data at rest
+  - Protect data in transit
+  - Best practices
+- [**4. Defender for Cloud**](#4-defender-for-cloud) (2 videos)
+  - Introduction to Defender for Cloud
+  - Use cases of Defender for Cloud
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about Azure security
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhance the security of Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/enhance-the-security-of-azure?u=76281980)
@@ -219,7 +247,7 @@ created: 2026-04-29
 
 ### 1. Securing Identities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand authentication and authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-authentication-and-authorization?u=76281980)
@@ -1247,7 +1275,7 @@ created: 2026-04-29
 
 ### 2. Securing Network Connectivity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand network components
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/understand-network-components?u=76281980)
@@ -2778,7 +2806,7 @@ created: 2026-04-29
 
 ### 3. Securing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Key Vault
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/azure-key-vault?u=76281980)
@@ -3190,7 +3218,7 @@ created: 2026-04-29
 
 ### 4. Defender for Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Defender for Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/introduction-to-defender-for-cloud?u=76281980)
@@ -3463,7 +3491,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about Azure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-networking-and-security-for-beginners-tools-and-services/learning-more-about-azure-security?u=76281980)

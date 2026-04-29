@@ -48,16 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Discovery: Understanding Business Needs]]** (4 videos)
-- **[[#2. Service Capacity Management]]** (4 videos)
-- **[[#3. Resource Capacity Management]]** (6 videos)
-- **[[#4. Availability Management]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introduction
+  - What is capacity management?
+  - What is availability management?
+- [**1. Discovery: Understanding Business Needs**](#1-discovery-understanding-business-needs) (4 videos)
+  - Taking time to understand the business services
+  - Reviewing the ways of working
+  - Setting out your scope
+  - Setting out policy
+- [**2. Service Capacity Management**](#2-service-capacity-management) (4 videos)
+  - What is service capacity management?
+  - Reviewing the infrastructure
+  - Capacity forecasting: Data collection
+  - Capacity forecasting: Techniques
+- [**3. Resource Capacity Management**](#3-resource-capacity-management) (6 videos)
+  - What is resource capacity management?
+  - Assessing resource capacity: Data collection
+  - Resource monitoring: Workload balancing and consolidation
+  - Preparing for future services
+  - How does it work in cloud infrastructure?
+  - Running capacity sessions
+- [**4. Availability Management**](#4-availability-management) (3 videos)
+  - Metrics and reporting
+  - Creating your reporting
+  - Challenges to overcome
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/introduction?u=76281980)
@@ -220,7 +241,7 @@ created: 2026-04-29
 
 ### 1. Discovery: Understanding Business Needs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking time to understand the business services
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/taking-time-to-understand-the-business-services?u=76281980)
@@ -557,7 +578,7 @@ created: 2026-04-29
 
 ### 2. Service Capacity Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is service capacity management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-service-capacity-management?u=76281980)
@@ -897,7 +918,7 @@ created: 2026-04-29
 
 ### 3. Resource Capacity Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is resource capacity management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/what-is-resource-capacity-management?u=76281980)
@@ -1393,7 +1414,7 @@ created: 2026-04-29
 
 ### 4. Availability Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Metrics and reporting
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/metrics-and-reporting?u=76281980)
@@ -1682,7 +1703,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-capacity-and-availability-management/next-steps?u=76281980)

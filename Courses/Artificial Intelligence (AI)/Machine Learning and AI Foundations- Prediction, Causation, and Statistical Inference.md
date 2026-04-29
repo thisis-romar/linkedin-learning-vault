@@ -49,19 +49,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is a Casual Model?]]** (3 videos)
-- **[[#2. Healthy Skepticism about Our Data and Our Results]]** (3 videos)
-- **[[#3. Correlation Does Not Imply Causation]]** (5 videos)
-- **[[#4. Prediction and Proof in Statistics]]** (6 videos)
-- **[[#5. Deduction and Induction]]** (5 videos)
-- **[[#6. Prediction and Proof in Data Mining]]** (3 videos)
-- **[[#7. The Two Cultures: Contrasting Statistics and Data Mining]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Prediction, causation, and statistical inference
+- [**1. What Is a Casual Model?**](#1-what-is-a-casual-model) (3 videos)
+  - Lady tasting tea
+  - Why causation matters in a business setting
+  - What is a causal model?
+- [**2. Healthy Skepticism about Our Data and Our Results**](#2-healthy-skepticism-about-our-data-and-our-results) (3 videos)
+  - Skepticism about data: Truman 1948 Election Poll
+  - Skepticism about results: Is that really the best predictor?
+  - Skepticism about causes: Is X really causing Y?
+- [**3. Correlation Does Not Imply Causation**](#3-correlation-does-not-imply-causation) (5 videos)
+  - What is a strong correlation?
+  - Pearson on correlation and causation
+  - Correlation and regression
+  - Challenge: What is causing what?
+  - Solution: What is causing what?
+- [**4. Prediction and Proof in Statistics**](#4-prediction-and-proof-in-statistics) (6 videos)
+  - Using probability to measure uncertainty
+  - p-value review
+  - Hypothesis testing checklist
+  - Taleb on normality, mediocristan, and extremistan
+  - Challenge: Evaluate significant finding
+  - Solution: Evaluate significant finding
+- [**5. Deduction and Induction**](#5-deduction-and-induction) (5 videos)
+  - What are induction and deduction?
+  - Hume on induction
+  - Popper on induction and falsification
+  - Taleb on induction
+  - Counterfactuals: Pearl on induction and causality
+- [**6. Prediction and Proof in Data Mining**](#6-prediction-and-proof-in-data-mining) (3 videos)
+  - Data mining vs. data dredging
+  - Train/Test: What can go wrong?
+  - A/B testing during the evaluation phase
+- [**7. The Two Cultures: Contrasting Statistics and Data Mining**](#7-the-two-cultures-contrasting-statistics-and-data-mining) (4 videos)
+  - The Two Cultures
+  - Explain vs. predict
+  - Comparing CRISP-DM and the scientific method
+  - Applying the two methods at work
+- [**Conclusion**](#conclusion) (1 videos)
+  - Review
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prediction, causation, and statistical inference
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/prediction-causation-and-statistical-inference?u=76281980)
@@ -93,7 +124,7 @@ created: 2026-04-29
 
 ### 1. What Is a Casual Model?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lady tasting tea
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980)
@@ -263,7 +294,7 @@ created: 2026-04-29
 
 ### 2. Healthy Skepticism about Our Data and Our Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Skepticism about data: Truman 1948 Election Poll
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980)
@@ -472,7 +503,7 @@ created: 2026-04-29
 
 ### 3. Correlation Does Not Imply Causation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a strong correlation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980)
@@ -991,7 +1022,7 @@ created: 2026-04-29
 
 ### 4. Prediction and Proof in Statistics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using probability to measure uncertainty
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980)
@@ -1512,7 +1543,7 @@ created: 2026-04-29
 
 ### 5. Deduction and Induction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are induction and deduction?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-are-induction-and-deduction?u=76281980)
@@ -1898,7 +1929,7 @@ created: 2026-04-29
 
 ### 6. Prediction and Proof in Data Mining
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data mining vs. data dredging
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980)
@@ -2142,7 +2173,7 @@ created: 2026-04-29
 
 ### 7. The Two Cultures: Contrasting Statistics and Data Mining
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Two Cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980)
@@ -2554,7 +2585,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980)

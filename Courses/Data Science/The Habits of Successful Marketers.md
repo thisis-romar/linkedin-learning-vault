@@ -46,16 +46,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Analytical Skills for Marketers]]** (3 videos)
-- **[[#2. Implementation Skills for Marketers]]** (3 videos)
-- **[[#3. Collaborative Skills for Marketers]]** (3 videos)
-- **[[#4. Creative Thinking Skills for Marketers]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Long-term success as a marketer
+- [**1. Analytical Skills for Marketers**](#1-analytical-skills-for-marketers) (3 videos)
+  - Set goals for accountability
+  - Inform decisions with data-driven research
+  - Balance big-picture thinking with the details
+- [**2. Implementation Skills for Marketers**](#2-implementation-skills-for-marketers) (3 videos)
+  - Embrace a persistent execution process
+  - Take risks by regularly experimenting
+  - Aim to be adaptive as circumstances evolve
+- [**3. Collaborative Skills for Marketers**](#3-collaborative-skills-for-marketers) (3 videos)
+  - Sharpen your communication capabilities
+  - Influence as a cross-functional partner
+  - Emphasize a customer-centric approach
+- [**4. Creative Thinking Skills for Marketers**](#4-creative-thinking-skills-for-marketers) (3 videos)
+  - Develop your creative abilities as a marketer
+  - Use storytelling as a guiding principle
+  - Observe and learn consistently as a marketer
+- [**Conclusion**](#conclusion) (1 videos)
+  - Accept the development process
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Long-term success as a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/long-term-success-as-a-marketer-16190565?u=76281980)
@@ -101,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Analytical Skills for Marketers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set goals for accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/set-goals-for-accountability?u=76281980)
@@ -276,7 +290,7 @@ created: 2026-04-29
 
 ### 2. Implementation Skills for Marketers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace a persistent execution process
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/embrace-a-persistent-execution-process?u=76281980)
@@ -455,7 +469,7 @@ created: 2026-04-29
 
 ### 3. Collaborative Skills for Marketers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sharpen your communication capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/sharpen-your-communication-capabilities?u=76281980)
@@ -622,7 +636,7 @@ created: 2026-04-29
 
 ### 4. Creative Thinking Skills for Marketers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop your creative abilities as a marketer
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/develop-your-creative-abilities-as-a-marketer?u=76281980)
@@ -784,7 +798,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accept the development process
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-habits-of-successful-marketers/accept-the-development-process?u=76281980)

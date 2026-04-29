@@ -47,16 +47,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Data Quality Fundamentals]]** (16 videos)
-- **[[#2. Data Quality Across the Data Lifecycle]]** (13 videos)
-- **[[#3. Common Data Quality Issues and How to Measure Them]]** (8 videos)
-- **[[#4. Data Quality Tooling]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The importance of data quality
+- [**1. Data Quality Fundamentals**](#1-data-quality-fundamentals) (16 videos)
+  - Data quality introduction
+  - Impact of poor data quality
+  - Defining data quality
+  - Data quality dimensions: Intro
+  - DQ dimensions: Validity, completeness, consistency
+  - DQ dimensions: Integrity, timeliness, currency
+  - DQ dimensions: Reasonableness, uniqueness, accuracy
+  - Common data quality assessment frameworks
+  - Connecting data quality to business outcomes: Intro
+  - Thought exercise: Ecommerce
+  - Thought exercise: Understand the business model
+  - Thought exercise: Map your data lifecycle
+  - Thought exercise: Identify your stakeholders
+  - Thought exercise: Evaluate how stakeholders drive revenue
+  - Thought exercise: Assess how DQ impacts revenue and risk
+  - Thought exercise: Synthesize research and communicate ROI
+- [**2. Data Quality Across the Data Lifecycle**](#2-data-quality-across-the-data-lifecycle) (13 videos)
+  - Data lifecycle introduction
+  - Data lifecycle overview
+  - Data lifecycle stakeholders: Business
+  - Data lifecycle stakeholders: Engineers
+  - Data lifecycle stakeholders: Data
+  - DQ across the lifecycle: Business strategy
+  - DQ across the lifecycle: Data creation
+  - DQ across the lifecycle: Data acquisition
+  - DQ across the lifecycle: Transactional databases
+  - DQ across the lifecycle: ETL/ELT pipelines
+  - DQ across the lifecycle: Analytical databases
+  - DQ across the lifecycle: Data analytics and data products
+  - DQ across the lifecycle: Data/insights consumption
+- [**3. Common Data Quality Issues and How to Measure Them**](#3-common-data-quality-issues-and-how-to-measure-them) (8 videos)
+  - Introduction to issues and measurements
+  - Root cause analysis: RCA
+  - Null rates
+  - Data freshness and timeliness
+  - Schema changes
+  - Data transformation bugs
+  - Data drift
+  - Measuring data quality
+- [**4. Data Quality Tooling**](#4-data-quality-tooling) (6 videos)
+  - Introduction to tooling
+  - Data dictionaries
+  - Data catalogs
+  - Data lineage
+  - Data monitoring and observability
+  - Data contracts
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of data quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/the-importance-of-data-quality?u=76281980)
@@ -91,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Data Quality Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data quality introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-quality-introdution?u=76281980)
@@ -876,7 +921,7 @@ created: 2026-04-29
 
 ### 2. Data Quality Across the Data Lifecycle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data lifecycle introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/data-lifecycle-introduction?u=76281980)
@@ -1521,7 +1566,7 @@ created: 2026-04-29
 
 ### 3. Common Data Quality Issues and How to Measure Them
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to issues and measurements
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-issues-and-measurements?u=76281980)
@@ -1897,7 +1942,7 @@ created: 2026-04-29
 
 ### 4. Data Quality Tooling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to tooling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/introduction-to-tooling?u=76281980)
@@ -2171,7 +2216,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-quality-core-concepts/next-steps?u=76281980)

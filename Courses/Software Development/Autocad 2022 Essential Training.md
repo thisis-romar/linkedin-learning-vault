@@ -42,21 +42,76 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Using Units and Options]]** (4 videos)
-- **[[#2. Drawing More Objects]]** (4 videos)
-- **[[#3. Modifying Objects]]** (14 videos)
-- **[[#4. Hatching and Gradients]]** (3 videos)
-- **[[#5. More Text Techniques]]** (2 videos)
-- **[[#6. More Dimensioning Techniques]]** (5 videos)
-- **[[#7. Reusing Content]]** (6 videos)
-- **[[#8. Attributes and Tables]]** (5 videos)
-- **[[#9. External References (XRefs)]]** (5 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - The essentials of AutoCAD
+  - The advantages of using AutoCAD
+  - What you should know before watching this course
+  - Using the exercise files
+  - The new AutoCAD 2022 interface
+- [**1. Using Units and Options**](#1-using-units-and-options) (4 videos)
+  - Setting drawing units
+  - Setting options
+  - Objects using different units
+  - Working with templates: DWT
+- [**2. Drawing More Objects**](#2-drawing-more-objects) (4 videos)
+  - Rectangles and polygons
+  - Points and donuts
+  - Ellipses
+  - Isometric views and elliptical arcs
+- [**3. Modifying Objects**](#3-modifying-objects) (14 videos)
+  - Selecting objects
+  - Using Offset and Mirror
+  - Using Move and Copy
+  - Using Rotate and Scale
+  - Creating and using arrays
+  - Using Stretch and Lengthen
+  - Using Trim and Extend
+  - Using Break and Join
+  - Using grips and grip editing
+  - Using Boundaries
+  - Using Selection Cycling
+  - Using Fillet and Chamfer
+  - Using Divide and Measure
+  - Editing polylines and splines
+- [**4. Hatching and Gradients**](#4-hatching-and-gradients) (3 videos)
+  - Using the Hatch command
+  - Using the Gradient command
+  - Editing hatches and gradients
+- [**5. More Text Techniques**](#5-more-text-techniques) (2 videos)
+  - Aligning text
+  - Framing text in a title block
+- [**6. More Dimensioning Techniques**](#6-more-dimensioning-techniques) (5 videos)
+  - Editing dimensions and dimension overrides
+  - Using Continue and Baseline
+  - Breaking and spacing dimensions
+  - Automatic dimensioning
+  - Using multileaders
+- [**7. Reusing Content**](#7-reusing-content) (6 videos)
+  - Using groups
+  - Creating and inserting a block
+  - Using the EXPLODE command
+  - Redefining a block definition
+  - Using WBLOCK
+  - Creating a simple dynamic block
+- [**8. Attributes and Tables**](#8-attributes-and-tables) (5 videos)
+  - Creating a simple block with attributes
+  - Enhanced Attribute Editor
+  - Working with table styles
+  - Designing a table
+  - Adding fields to a table
+- [**9. External References (XRefs)**](#9-external-references-xrefs) (5 videos)
+  - Working with XRefs
+  - Attaching and overlaying XRefs
+  - Clipping XRefs
+  - Editing XRefs
+  - Editing XRefs in-place
+- [**Conclusion**](#conclusion) (2 videos)
+  - Conclusion and summary
+  - Where to next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The essentials of AutoCAD
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/the-essentials-of-autocad?u=76281980)
@@ -325,7 +380,7 @@ created: 2026-04-29
 
 ### 1. Using Units and Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting drawing units
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/setting-drawing-units?u=76281980)
@@ -1044,7 +1099,7 @@ created: 2026-04-29
 
 ### 2. Drawing More Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rectangles and polygons
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/rectangles-and-polygons?u=76281980)
@@ -1655,7 +1710,7 @@ created: 2026-04-29
 
 ### 3. Modifying Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/selecting-objects?u=76281980)
@@ -3935,7 +3990,7 @@ created: 2026-04-29
 
 ### 4. Hatching and Gradients
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Hatch command
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-the-hatch-command?u=76281980)
@@ -4407,7 +4462,7 @@ created: 2026-04-29
 
 ### 5. More Text Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Aligning text
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/aligning-text?u=76281980)
@@ -4914,7 +4969,7 @@ created: 2026-04-29
 
 ### 6. More Dimensioning Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Editing dimensions and dimension overrides
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/editing-dimensions-and-dimension-overrides?u=76281980)
@@ -5660,7 +5715,7 @@ created: 2026-04-29
 
 ### 7. Reusing Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/using-groups?u=76281980)
@@ -6580,7 +6635,7 @@ created: 2026-04-29
 
 ### 8. Attributes and Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a simple block with attributes
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/creating-a-simple-block-with-attributes?u=76281980)
@@ -7479,7 +7534,7 @@ created: 2026-04-29
 
 ### 9. External References (XRefs)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with XRefs
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/working-with-xrefs?u=76281980)
@@ -8144,7 +8199,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion and summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/autocad-2022-essential-training/conclusion-and-summary?u=76281980)

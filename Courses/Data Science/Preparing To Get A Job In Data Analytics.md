@@ -46,16 +46,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Data Analytics?]]** (5 videos)
-- **[[#2. How to Upskill and Learn Data Analyst Skills]]** (6 videos)
-- **[[#3. How to Network and Use LinkedIn for Data Analytics]]** (5 videos)
-- **[[#4. How to Build a Portfolio for Data Analytics]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Data analytics: From initial interest to job interview
+- [**1. What Is Data Analytics?**](#1-what-is-data-analytics) (5 videos)
+  - What is data analytics?
+  - What does a data analyst do?
+  - What are the different types of data analytics?
+  - Should you be a data analyst?
+  - How much work does it take to be a data analyst?
+- [**2. How to Upskill and Learn Data Analyst Skills**](#2-how-to-upskill-and-learn-data-analyst-skills) (6 videos)
+  - Skills needed in data analysis
+  - How to learn statistics for data analytics
+  - How to learn basic data skills for data analytics
+  - How to learn Power BI and Tableau for data analytics
+  - How to learn SQL for data analytics
+  - How to learn programming in Python or R for data analytics
+- [**3. How to Network and Use LinkedIn for Data Analytics**](#3-how-to-network-and-use-linkedin-for-data-analytics) (5 videos)
+  - LinkedIn profile: First impressions
+  - LinkedIn profile: Skills, experience, and recommendations
+  - How to build a personal brand for data analytics
+  - How to maximize LinkedIn and network for data analytics
+  - How to get interviews for data analytics
+- [**4. How to Build a Portfolio for Data Analytics**](#4-how-to-build-a-portfolio-for-data-analytics) (4 videos)
+  - What is a data analytics portfolio?
+  - How and where to build a portfolio
+  - How to pick projects related to the role and industry
+  - How to leverage a portfolio in interviews
+- [**Conclusion**](#conclusion) (1 videos)
+  - Start upskilling, networking, and building a portfolio
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data analytics: From initial interest to job interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/data-analytics-from-initial-interest-to-job-interview?u=76281980)
@@ -85,7 +107,7 @@ created: 2026-04-29
 
 ### 1. What Is Data Analytics?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-data-analytics?u=76281980)
@@ -453,7 +475,7 @@ created: 2026-04-29
 
 ### 2. How to Upskill and Learn Data Analyst Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Skills needed in data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/skills-needed-in-data-analysis?u=76281980)
@@ -879,7 +901,7 @@ created: 2026-04-29
 
 ### 3. How to Network and Use LinkedIn for Data Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### LinkedIn profile: First impressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/linkedin-profile-first-impressions?u=76281980)
@@ -1279,7 +1301,7 @@ created: 2026-04-29
 
 ### 4. How to Build a Portfolio for Data Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a data analytics portfolio?
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/what-is-a-data-analytics-portfolio?u=76281980)
@@ -1572,7 +1594,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start upskilling, networking, and building a portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-to-get-a-job-in-data-analytics/start-upskilling-networking-and-building-a-portfolio?u=76281980)

@@ -46,15 +46,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Preventing Customer Anger]]** (3 videos)
-- **[[#2. Serving Angry Customers]]** (5 videos)
-- **[[#3. Learning from Angry Customers]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Serving upset customers with ease
+  - Exploring your upset customers learning plan
+  - Helping the customer be right
+- [**1. Preventing Customer Anger**](#1-preventing-customer-anger) (3 videos)
+  - Creating personal connections with rapport
+  - Avoiding unpleasant surprises
+  - Using preemptive acknowledgment
+- [**2. Serving Angry Customers**](#2-serving-angry-customers) (5 videos)
+  - Recognizing your natural instincts
+  - Listening with empathy
+  - Apologizing effectively
+  - Avoiding arguments
+  - Drawing the line at abusive behavior
+- [**3. Learning from Angry Customers**](#3-learning-from-angry-customers) (3 videos)
+  - Preserving the relationship
+  - Conducting an after-action review
+  - Sharing customer feedback
+- [**Conclusion**](#conclusion) (1 videos)
+  - Putting the work in
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Serving upset customers with ease
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/serving-upset-customers-with-ease?u=76281980)
@@ -335,7 +350,7 @@ created: 2026-04-29
 
 ### 1. Preventing Customer Anger
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating personal connections with rapport
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/creating-personal-connections-with-rapport?u=76281980)
@@ -626,7 +641,7 @@ created: 2026-04-29
 
 ### 2. Serving Angry Customers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognizing your natural instincts
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/recognizing-your-natural-instincts?u=76281980)
@@ -1178,7 +1193,7 @@ created: 2026-04-29
 
 ### 3. Learning from Angry Customers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preserving the relationship
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/preserving-the-relationship?u=76281980)
@@ -1468,7 +1483,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting the work in
 > [LinkedIn Learning](https://www.linkedin.com/learning/working-with-upset-customers-22154277/putting-the-work-in?u=76281980)

@@ -59,17 +59,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Predictive AI Architecture]]** (4 videos)
-- **[[#2. Generative AI Models]]** (5 videos)
-- **[[#3. Generative AI Architecture]]** (5 videos)
-- **[[#4. Improving Generative AI]]** (4 videos)
-- **[[#5. Generative AI Legal and Ethical Issues]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Explore generative AI vs. traditional AI
+- [**1. Predictive AI Architecture**](#1-predictive-ai-architecture) (4 videos)
+  - Machine learning
+  - Supervised and unsupervised learning
+  - Artificial neural networks
+  - Data models
+- [**2. Generative AI Models**](#2-generative-ai-models) (5 videos)
+  - Foundation models
+  - Large language models (LLMs)
+  - Small language models (SLMs)
+  - Image diffusion models
+  - Generative pre-trained transformer (GPT)
+- [**3. Generative AI Architecture**](#3-generative-ai-architecture) (5 videos)
+  - Prompt engineering
+  - Generative adversarial networks (GANs)
+  - Self-supervised learning
+  - Variational autoencoder (VAE)
+  - Building a generative AI system
+- [**4. Improving Generative AI**](#4-improving-generative-ai) (4 videos)
+  - Inferencing
+  - Filling gaps
+  - Agents
+  - Context windows
+- [**5. Generative AI Legal and Ethical Issues**](#5-generative-ai-legal-and-ethical-issues) (5 videos)
+  - Traceable decision-making
+  - Hallucination liability
+  - Copyright training
+  - Mass data collection and privacy
+  - The expertise death spiral
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps for AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore generative AI vs. traditional AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/explore-generative-ai-vs-traditional-ai-25810008?u=76281980)
@@ -98,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Predictive AI Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/machine-learning-25805087?u=76281980)
@@ -388,7 +413,7 @@ created: 2026-04-29
 
 ### 2. Generative AI Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundation models
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/foundation-models-25807058?u=76281980)
@@ -805,7 +830,7 @@ created: 2026-04-29
 
 ### 3. Generative AI Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/prompt-engineering?u=76281980)
@@ -1203,7 +1228,7 @@ created: 2026-04-29
 
 ### 4. Improving Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inferencing
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/inferencing?u=76281980)
@@ -1544,7 +1569,7 @@ created: 2026-04-29
 
 ### 5. Generative AI Legal and Ethical Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Traceable decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/traceable-decision-making?u=76281980)
@@ -1927,7 +1952,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-vs-traditional-ai/next-steps-for-ai-25806074?u=76281980)

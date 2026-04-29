@@ -51,16 +51,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Create a Context Diagram]]** (4 videos)
-- **[[#2. Create a Functional Flow Diagram]]** (4 videos)
-- **[[#3. Create a Cross-Functional Flow Diagram]]** (4 videos)
-- **[[#4. Create a Flowchart Diagram]]** (4 videos)
-- **[[#Put It All Together]]** (2 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Introducing common business modeling tools
+  - Define process modeling
+  - Overview of modeling tools
+  - Modeling consistency and standards
+- [**1. Create a Context Diagram**](#1-create-a-context-diagram) (4 videos)
+  - The purpose of the context diagram
+  - Context diagram features
+  - How to create a context diagram
+  - Pitfalls of context diagrams
+- [**2. Create a Functional Flow Diagram**](#2-create-a-functional-flow-diagram) (4 videos)
+  - The purpose of the functional flow diagram
+  - Functional flow diagram features
+  - How to create a functional flow diagram
+  - Pitfalls of functional flow diagrams
+- [**3. Create a Cross-Functional Flow Diagram**](#3-create-a-cross-functional-flow-diagram) (4 videos)
+  - The purpose of the cross-functional flow diagram
+  - Cross-functional flow diagram features
+  - How to create a cross-functional flow diagram
+  - Pitfalls of cross-functional diagrams
+- [**4. Create a Flowchart Diagram**](#4-create-a-flowchart-diagram) (4 videos)
+  - The purpose of the flowchart diagram
+  - Flowchart diagram features
+  - How to create a flowchart diagram
+  - Pitfalls of flowchart diagrams
+- [**Put It All Together**](#put-it-all-together) (2 videos)
+  - How to determine which diagram to use and why
+  - Put modeling into action
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing common business modeling tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/introducing-common-business-modeling-tools?u=76281980)
@@ -293,7 +315,7 @@ created: 2026-04-29
 
 ### 1. Create a Context Diagram
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of the context diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-context-diagram?u=76281980)
@@ -614,7 +636,7 @@ created: 2026-04-29
 
 ### 2. Create a Functional Flow Diagram
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of the functional flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-functional-flow-diagram?u=76281980)
@@ -875,7 +897,7 @@ created: 2026-04-29
 
 ### 3. Create a Cross-Functional Flow Diagram
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of the cross-functional flow diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-cross-functional-flow-diagram?u=76281980)
@@ -1217,7 +1239,7 @@ created: 2026-04-29
 
 ### 4. Create a Flowchart Diagram
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of the flowchart diagram
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/the-purpose-of-the-flowchart-diagram?u=76281980)
@@ -1531,7 +1553,7 @@ created: 2026-04-29
 
 ### Put It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine which diagram to use and why
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling/how-to-determine-which-diagram-to-use-and-why?u=76281980)

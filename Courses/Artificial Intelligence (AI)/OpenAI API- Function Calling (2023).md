@@ -50,12 +50,14 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Function Calling]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Function calling with the OpenAI API
+- [**1. Function Calling**](#1-function-calling) (1 videos)
+  - Understanding function calling with the OpenAI API
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Function calling with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-function-calling-2023/function-calling-with-the-openai-api?u=76281980)
@@ -82,7 +84,7 @@ created: 2026-04-29
 
 ### 1. Function Calling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding function calling with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-function-calling-2023/understanding-function-calling-with-the-openai-api?u=76281980)

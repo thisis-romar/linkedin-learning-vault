@@ -46,17 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Interview Basics]]** (5 videos)
-- **[[#2. C++ Specific Questions]]** (6 videos)
-- **[[#3. C++ Programming Questions]]** (3 videos)
-- **[[#4. Advanced C++ Programming Topics]]** (3 videos)
-- **[[#5. C++ Classes]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - C++ interviews
+  - What you should know
+- [**1. Interview Basics**](#1-interview-basics) (5 videos)
+  - Getting ready for the interview
+  - Know the company
+  - Types of questions
+  - How to prepare for technical questions
+  - Questions to ask
+- [**2. C++ Specific Questions**](#2-c-specific-questions) (6 videos)
+  - Difference between C and C++
+  - What is OOP?
+  - Polymorphism in C++
+  - Inheritance in C++
+  - Encapsulation in C++
+  - Abstraction in C++
+- [**3. C++ Programming Questions**](#3-c-programming-questions) (3 videos)
+  - Strings in C++
+  - Arrays in C++
+  - Vectors in C++
+- [**4. Advanced C++ Programming Topics**](#4-advanced-c-programming-topics) (3 videos)
+  - Linked lists in C++
+  - Stacks in C++
+  - Queues in C++
+- [**5. C++ Classes**](#5-c-classes) (3 videos)
+  - Classes in C++
+  - Access modifiers in C++
+  - Virtual functions in C++
+- [**Conclusion**](#conclusion) (1 videos)
+  - More practice with C++
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### C++ interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/c-plus-plus-interviews-14295274?u=76281980)
@@ -105,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Interview Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting ready for the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980)
@@ -433,7 +456,7 @@ created: 2026-04-29
 
 ### 2. C++ Specific Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Difference between C and C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980)
@@ -734,7 +757,7 @@ created: 2026-04-29
 
 ### 3. C++ Programming Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strings in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/strings-in-c-plus-plus?u=76281980)
@@ -1008,7 +1031,7 @@ created: 2026-04-29
 
 ### 4. Advanced C++ Programming Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linked lists in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/linked-lists-in-c-plus-plus?u=76281980)
@@ -1248,7 +1271,7 @@ created: 2026-04-29
 
 ### 5. C++ Classes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classes in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980)
@@ -1397,7 +1420,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More practice with C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/more-practice-with-c-plus-plus?u=76281980)

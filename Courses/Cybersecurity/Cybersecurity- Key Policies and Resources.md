@@ -48,17 +48,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Overview of the Cybersecurity Problem (and Solutions)]]** (3 videos)
-- **[[#2. Overview of Federal Law and Policy]]** (3 videos)
-- **[[#3. Overview of International Law and Regulation]]** (2 videos)
-- **[[#4. Engaging with Federal Agencies and Law Enforcement]]** (2 videos)
-- **[[#5. Making Your Family and Organization More Secure and Resilient]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Navigating cybersecurity: Essential policies and resources
+  - Who is this course for?
+- [**1. Overview of the Cybersecurity Problem (and Solutions)**](#1-overview-of-the-cybersecurity-problem-and-solutions) (3 videos)
+  - The cooperative origins of the internet
+  - The market incentives and disincentives for security
+  - The role of users in cybersecurity
+- [**2. Overview of Federal Law and Policy**](#2-overview-of-federal-law-and-policy) (3 videos)
+  - Who does what in the federal government?
+  - Privacy and consumer protection
+  - Contacting law enforcement
+- [**3. Overview of International Law and Regulation**](#3-overview-of-international-law-and-regulation) (2 videos)
+  - International bodies and organizations
+  - Privacy in the European Union
+- [**4. Engaging with Federal Agencies and Law Enforcement**](#4-engaging-with-federal-agencies-and-law-enforcement) (2 videos)
+  - Combatting ransomware
+  - Protecting critical infrastructure
+- [**5. Making Your Family and Organization More Secure and Resilient**](#5-making-your-family-and-organization-more-secure-and-resilient) (2 videos)
+  - Personal security checkup
+  - Protecting your organization
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating cybersecurity: Essential policies and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/navigating-cybersecurity-essential-policies-and-resources?u=76281980)
@@ -105,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Overview of the Cybersecurity Problem (and Solutions)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The cooperative origins of the internet
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/the-cooperative-origins-of-the-internet?u=76281980)
@@ -256,7 +271,7 @@ created: 2026-04-29
 
 ### 2. Overview of Federal Law and Policy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Who does what in the federal government?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/who-does-what-in-the-federal-government?u=76281980)
@@ -450,7 +465,7 @@ created: 2026-04-29
 
 ### 3. Overview of International Law and Regulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### International bodies and organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/international-bodies-and-organizations?u=76281980)
@@ -558,7 +573,7 @@ created: 2026-04-29
 
 ### 4. Engaging with Federal Agencies and Law Enforcement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Combatting ransomware
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/combatting-ransomware?u=76281980)
@@ -696,7 +711,7 @@ created: 2026-04-29
 
 ### 5. Making Your Family and Organization More Secure and Resilient
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Personal security checkup
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/personal-security-checkup?u=76281980)
@@ -820,7 +835,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-key-policies-and-resources/next-steps?u=76281980)

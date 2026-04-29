@@ -47,12 +47,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Challenges]]** (15 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Test your Scala skills
+- [**1. Challenges**](#1-challenges) (15 videos)
+  - Palindrome detector
+  - Password checker
+  - Colored boxes
+  - System properties
+  - Resistor tolerance
+  - Snakes and camels
+  - Stuff the stats sheet
+  - A slice of Pi
+  - Cron and regular expressions
+  - Reservoir sampling
+  - Evaluate a decision tree
+  - Calculator
+  - Error handling
+  - Sierpinski Triangle
+  - Rocketship
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test your Scala skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/test-your-scala-skills?u=76281980)
@@ -86,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Palindrome detector
 > [LinkedIn Learning](https://www.linkedin.com/learning/coding-exercises-scala/palindrome-detector?u=76281980)

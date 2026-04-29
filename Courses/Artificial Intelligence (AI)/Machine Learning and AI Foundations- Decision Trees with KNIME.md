@@ -57,16 +57,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introducing Decision Trees]]** (5 videos)
-- **[[#2. Introducing the C5.0 Algorithm]]** (12 videos)
-- **[[#3. Introducing Classification Trees]]** (7 videos)
-- **[[#4. Introducing Regression Trees]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - The basics of decision trees
+  - What you should know
+  - How to use the practice files
+- [**1. Introducing Decision Trees**](#1-introducing-decision-trees) (5 videos)
+  - What is a decision tree?
+  - The pros and cons of decision trees
+  - Introducing KNIME
+  - A quick review of machine learning basics with examples
+  - An overview of decision tree algorithms
+- [**2. Introducing the C5.0 Algorithm**](#2-introducing-the-c50-algorithm) (12 videos)
+  - Ross Quinlan, ID3, C4.5, and C5.0
+  - Understanding the entropy calculation
+  - How C4.5 handles missing data
+  - The Give Me Some Credit data set
+  - Working with the prebuilt example
+  - KNIME settings for C4.5
+  - How C4.5 handles nominal variables
+  - How C4.5 handles continuous variables
+  - Equal size sampling
+  - A quick look at the complete C4.5 tree
+  - Evaluating the accuracy of your C4.5 tree
+  - When to turn off pruning
+- [**3. Introducing Classification Trees**](#3-introducing-classification-trees) (7 videos)
+  - Introducing Leo Breiman and CART
+  - What is the Gini coefficient?
+  - How CART handles missing data using surrogates
+  - Changing the settings in KNIME
+  - How CART handles nominal variables
+  - A quick look at the complete CART tree
+  - Evaluating the accuracy of your CART tree
+- [**4. Introducing Regression Trees**](#4-introducing-regression-trees) (9 videos)
+  - MPG data set
+  - The regression tree prebuilt example
+  - The math behind regression trees
+  - How RT handles nominal variables
+  - Ordinal variable handling
+  - Closer look at a full regression tree
+  - KNIME's missing data options for regression trees
+  - Line plot
+  - Accuracy
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of decision trees
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980)
@@ -182,7 +219,7 @@ created: 2026-04-29
 
 ### 1. Introducing Decision Trees
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a decision tree?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980)
@@ -632,7 +669,7 @@ created: 2026-04-29
 
 ### 2. Introducing the C5.0 Algorithm
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ross Quinlan, ID3, C4.5, and C5.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980)
@@ -1553,7 +1590,7 @@ created: 2026-04-29
 
 ### 3. Introducing Classification Trees
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Leo Breiman and CART
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980)
@@ -2019,7 +2056,7 @@ created: 2026-04-29
 
 ### 4. Introducing Regression Trees
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MPG data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/mpg-data-set?u=76281980)
@@ -2642,7 +2679,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980)

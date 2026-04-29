@@ -43,21 +43,81 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Toolchain and Installation]]** (3 videos)
-- **[[#2. The Basics]]** (6 videos)
-- **[[#3. Flow Control]]** (4 videos)
-- **[[#4. Data Types]]** (11 videos)
-- **[[#5. Operators]]** (6 videos)
-- **[[#6. Functions]]** (6 videos)
-- **[[#7. Classes and Objects]]** (8 videos)
-- **[[#8. Templates]]** (5 videos)
-- **[[#9. Standard Template Library]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn C++
+  - Using the exercise files
+  - What is C++?
+- [**1. Toolchain and Installation**](#1-toolchain-and-installation) (3 videos)
+  - The C++ toolchain
+  - Using an IDE with the exercise files
+  - Check for std::format support
+- [**2. The Basics**](#2-the-basics) (6 videos)
+  - Basic syntax
+  - Anatomy of a C++ program
+  - Statements and expressions
+  - Identifiers
+  - Defining variables
+  - Pointers and references
+- [**3. Flow Control**](#3-flow-control) (4 videos)
+  - Conditionals
+  - Loops
+  - Iterating with for
+  - Functions
+- [**4. Data Types**](#4-data-types) (11 videos)
+  - Overview of data types
+  - Integer types
+  - Floating point types
+  - The auto type
+  - Qualifiers
+  - Type aliases
+  - Primitive arrays
+  - C-strings
+  - Structures
+  - Challenge: Library card
+  - Solution: Library card
+- [**5. Operators**](#5-operators) (6 videos)
+  - Common operators
+  - Compound assignment operators
+  - Increment and decrement operators
+  - Operator precedence
+  - Challenge: Prime numbers
+  - Solution: Prime numbers
+- [**6. Functions**](#6-functions) (6 videos)
+  - Overview of C++ functions
+  - Passing values to a function
+  - Returning values from a function
+  - Using recursion
+  - Challenge: Non-recursive factorial
+  - Solution: Non-recursive factorial
+- [**7. Classes and Objects**](#7-classes-and-objects) (8 videos)
+  - Overview of classes and objects
+  - Data members
+  - Function members
+  - Constructors and destructors
+  - Operator overloads
+  - Non-member operators
+  - Challenge: Non-member operators
+  - Solution: Non-member operators
+- [**8. Templates**](#8-templates) (5 videos)
+  - Understanding templates
+  - Template functions
+  - Template classes
+  - Challenge: Template factorial
+  - Solution: Template factorial
+- [**9. Standard Template Library**](#9-standard-template-library) (7 videos)
+  - Overview of the STL
+  - Vectors
+  - Strings
+  - Format
+  - I/O Stream
+  - Challenge: Transform a file (STL)
+  - Solution: Transform a file (STL)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Thank you
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980)
@@ -282,7 +342,7 @@ created: 2026-04-29
 
 ### 1. Toolchain and Installation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The C++ toolchain
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980)
@@ -628,7 +688,7 @@ created: 2026-04-29
 
 ### 2. The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic syntax
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/basic-syntax?u=76281980)
@@ -1289,7 +1349,7 @@ created: 2026-04-29
 
 ### 3. Flow Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditionals
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/conditionals?u=76281980)
@@ -1844,7 +1904,7 @@ created: 2026-04-29
 
 ### 4. Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-data-types?u=76281980)
@@ -2845,7 +2905,7 @@ created: 2026-04-29
 
 ### 5. Operators
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/common-operators?u=76281980)
@@ -3355,7 +3415,7 @@ created: 2026-04-29
 
 ### 6. Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of C++ functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-c-plus-plus-functions?u=76281980)
@@ -3972,7 +4032,7 @@ created: 2026-04-29
 
 ### 7. Classes and Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-classes-and-objects?u=76281980)
@@ -4826,7 +4886,7 @@ created: 2026-04-29
 
 ### 8. Templates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/understanding-templates?u=76281980)
@@ -5246,7 +5306,7 @@ created: 2026-04-29
 
 ### 9. Standard Template Library
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the STL
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-the-stl?u=76281980)
@@ -5912,7 +5972,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/thank-you?u=76281980)

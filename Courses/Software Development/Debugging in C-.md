@@ -48,16 +48,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Basics of Debugging]]** (7 videos)
-- **[[#2. More Debugging Tips and Tricks]]** (4 videos)
-- **3. Common Errors in C#** (5 videos)
-- **4. Practice Debugging C# Programs** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Debugging in C#
+  - What you should know
+  - How to use CoderPad
+- [**1. Basics of Debugging**](#1-basics-of-debugging) (7 videos)
+  - What is debugging?
+  - What is a print statement?
+  - What is a breakpoint?
+  - Inspecting values of variables
+  - Execution in debug mode
+  - The debugging process
+  - Solution: Find the bug in string truncation
+- [**2. More Debugging Tips and Tricks**](#2-more-debugging-tips-and-tricks) (4 videos)
+  - Covering edge cases
+  - Defensive programming
+  - Side effects
+  - Solution: Discount calculator
+- [**3. Common Errors in C#**](#3-common-errors-in-c) (5 videos)
+  - NullReferenceException
+  - IndexOutOfRangeException
+  - Logical errors
+  - Using a reference like a value
+  - Solution: Library management system
+- [**4. Practice Debugging C# Programs**](#4-practice-debugging-c-programs) (5 videos)
+  - Basic code challenge
+  - Basic code challenge: Solution
+  - Logical code challenge
+  - Logical code challenge: Solution
+  - Solution: Find bug in factorial function
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging in C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/debugging-in-c-sharp?u=76281980)
@@ -173,7 +198,7 @@ created: 2026-04-29
 
 ### 1. Basics of Debugging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is debugging?
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/what-is-debugging?u=76281980)
@@ -773,7 +798,7 @@ created: 2026-04-29
 
 ### 2. More Debugging Tips and Tricks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Covering edge cases
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/covering-edge-cases?u=76281980)
@@ -1077,7 +1102,7 @@ created: 2026-04-29
 
 ### 3. Common Errors in C#
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### NullReferenceException
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/nullreferenceexception?u=76281980)
@@ -1503,7 +1528,7 @@ created: 2026-04-29
 
 ### 4. Practice Debugging C# Programs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic code challenge
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/basic-code-challenge?u=76281980)
@@ -1971,7 +1996,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/debugging-in-c-sharp/next-steps?u=76281980)

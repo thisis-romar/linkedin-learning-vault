@@ -46,18 +46,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (5 videos)
-- **[[#2. Setting Up Your Store]]** (2 videos)
-- **[[#3. Setting Up Your Memberships]]** (6 videos)
-- **[[#4. Restricting Content and Products]]** (4 videos)
-- **[[#5. Managing Members]]** (3 videos)
-- **[[#6. Before You Launch]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Build a paid membership website
+  - What you need
+  - Demo project overview
+- [**1. Getting Started**](#1-getting-started) (5 videos)
+  - What is a paid membership site?
+  - Define project requirements
+  - Why WooCommerce?
+  - Why WooCommerce Memberships?
+  - Set up your site
+- [**2. Setting Up Your Store**](#2-setting-up-your-store) (2 videos)
+  - Installing WooCommerce
+  - Importing demo products
+- [**3. Setting Up Your Memberships**](#3-setting-up-your-memberships) (6 videos)
+  - Get and install WooCommerce Memberships
+  - Setup and configuration
+  - Create products for memberships
+  - Create a membership plan
+  - Add custom profile fields
+  - Create member discounts
+- [**4. Restricting Content and Products**](#4-restricting-content-and-products) (4 videos)
+  - Understanding restriction rules
+  - Restrict content to members
+  - Restrict products to members
+  - Dripping content
+- [**5. Managing Members**](#5-managing-members) (3 videos)
+  - Set up member account area
+  - Manual member management
+  - Customize email content
+- [**6. Before You Launch**](#6-before-you-launch) (3 videos)
+  - Test registration and payments
+  - Test access to content
+  - Test email deliverability
+- [**Conclusion**](#conclusion) (2 videos)
+  - Additional integrations
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a paid membership website
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/build-a-paid-membership-website?u=76281980)
@@ -142,7 +170,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a paid membership site?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/what-is-a-paid-membership-site?u=76281980)
@@ -459,7 +487,7 @@ created: 2026-04-29
 
 ### 2. Setting Up Your Store
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing WooCommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/installing-woocommerce?u=76281980)
@@ -623,7 +651,7 @@ created: 2026-04-29
 
 ### 3. Setting Up Your Memberships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get and install WooCommerce Memberships
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/get-and-install-woocommerce-memberships?u=76281980)
@@ -1111,7 +1139,7 @@ created: 2026-04-29
 
 ### 4. Restricting Content and Products
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding restriction rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/understanding-restriction-rules?u=76281980)
@@ -1491,7 +1519,7 @@ created: 2026-04-29
 
 ### 5. Managing Members
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up member account area
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/set-up-member-account-area?u=76281980)
@@ -1658,7 +1686,7 @@ created: 2026-04-29
 
 ### 6. Before You Launch
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test registration and payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/test-registration-and-payments?u=76281980)
@@ -1763,7 +1791,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional integrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-wordpress-membership-site-with-ecommerce/additional-integrations?u=76281980)

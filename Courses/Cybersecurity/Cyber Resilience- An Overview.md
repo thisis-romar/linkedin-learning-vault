@@ -48,16 +48,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Cyber Resilience Mindset]]** (3 videos)
-- **[[#2. Operationalizing Cyber Resilience]]** (5 videos)
-- **[[#3. Building the Strategy]]** (3 videos)
-- **[[#4. Communicating Cybersecurity Program Effectiveness]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building a cyber-resilient organization
+- [**1. The Cyber Resilience Mindset**](#1-the-cyber-resilience-mindset) (3 videos)
+  - What is cyber resilience and why should you care?
+  - The key pillars of cyber resilience
+  - A comparison of cybersecurity and cyber defense
+- [**2. Operationalizing Cyber Resilience**](#2-operationalizing-cyber-resilience) (5 videos)
+  - Anticipate: Control the controllables
+  - Withstand: Hang in there
+  - Recover: Getting back to normal
+  - Adapt: What did you learn?
+  - Case study: Major industry breach
+- [**3. Building the Strategy**](#3-building-the-strategy) (3 videos)
+  - Understanding the business
+  - Understanding executive leadership concerns
+  - Prioritization
+- [**4. Communicating Cybersecurity Program Effectiveness**](#4-communicating-cybersecurity-program-effectiveness) (4 videos)
+  - The importance of effective communication
+  - Leveraging KPIs and metrics
+  - Team structure and cross-functional collaboration
+  - The art of storytelling
+- [**Conclusion**](#conclusion) (1 videos)
+  - The future of cyber resilience
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a cyber-resilient organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/buildilng-a-cyber-resilient-organization?u=76281980)
@@ -84,7 +101,7 @@ created: 2026-04-29
 
 ### 1. The Cyber Resilience Mindset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cyber resilience and why should you care?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/what-is-cyber-resilience-and-why-do-we-care?u=76281980)
@@ -349,7 +366,7 @@ created: 2026-04-29
 
 ### 2. Operationalizing Cyber Resilience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Anticipate: Control the controllables
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/anticipate-control-the-controllables?u=76281980)
@@ -744,7 +761,7 @@ created: 2026-04-29
 
 ### 3. Building the Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/understanding-the-business?u=76281980)
@@ -981,7 +998,7 @@ created: 2026-04-29
 
 ### 4. Communicating Cybersecurity Program Effectiveness
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of effective communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-importance-of-effective-communication?u=76281980)
@@ -1340,7 +1357,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of cyber resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/cyber-resilience-an-overview/the-future-of-cyber-resilience?u=76281980)

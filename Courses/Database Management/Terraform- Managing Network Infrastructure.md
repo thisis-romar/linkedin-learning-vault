@@ -49,15 +49,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Terraform Basics]]** (5 videos)
-- **[[#2. Foundational Networking in AWS with Terraform]]** (5 videos)
-- **[[#3. Advanced Networking in AWS with Terraform]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Network management in the cloud
+  - What you need to know
+- [**1. Terraform Basics**](#1-terraform-basics) (5 videos)
+  - Terraform's composition
+  - Understanding Terraform state
+  - Manual exploration leads to good Terraform code
+  - Terraform configuration language basics
+  - Setting up your Terraform Repo
+- [**2. Foundational Networking in AWS with Terraform**](#2-foundational-networking-in-aws-with-terraform) (5 videos)
+  - Creating a bare minimum VPC with Terraform
+  - Looping over subnets with Terraform count
+  - Using Terraform to provision EC2 instances
+  - Building public subnets in AWS with Terraform
+  - Building private subnets in AWS with Terraform
+- [**3. Advanced Networking in AWS with Terraform**](#3-advanced-networking-in-aws-with-terraform) (4 videos)
+  - Using Terraform to expand our infrastructure footprint
+  - Routing traffic between VPCs using Terraform and VPC peering
+  - Scaling the network with Terraform and Transit Gateway
+  - Using segmentation with Transit Gateway and Terraform
+- [**Conclusion**](#conclusion) (1 videos)
+  - What comes next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Network management in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/network-management-in-the-cloud?u=76281980)
@@ -131,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Terraform Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Terraform's composition
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/terraform-s-composition?u=76281980)
@@ -576,7 +593,7 @@ created: 2026-04-29
 
 ### 2. Foundational Networking in AWS with Terraform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a bare minimum VPC with Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/creating-a-bare-minimum-vpc-with-terraform?u=76281980)
@@ -1090,7 +1107,7 @@ created: 2026-04-29
 
 ### 3. Advanced Networking in AWS with Terraform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Terraform to expand our infrastructure footprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/using-terraform-to-expand-our-infrastructure-footprint?u=76281980)
@@ -1543,7 +1560,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What comes next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/terraform-managing-network-infrastructure/what-comes-next?u=76281980)

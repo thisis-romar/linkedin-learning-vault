@@ -49,21 +49,77 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Start a Database-Driven Project]]** (5 videos)
-- **[[#2. Build Web Pages with PHP]]** (7 videos)
-- **[[#3. Headers and Redirects]]** (3 videos)
-- **[[#4. Build Forms with PHP]]** (6 videos)
-- **[[#5. MySQL Basics]]** (8 videos)
-- **[[#6. Use PHP to Access MySQL]]** (7 videos)
-- **[[#7. CRUD with PHP]]** (7 videos)
-- **[[#8. Validate Data with PHP]]** (6 videos)
-- **[[#9. Prevent SQL Injection]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - PHP with MySQL Essential Training: The Basics
+  - How to use the exercise files
+- [**1. Start a Database-Driven Project**](#1-start-a-database-driven-project) (5 videos)
+  - Blueprint the application
+  - Establish your work area
+  - Create and style the first page
+  - Include and require files
+  - Make page assets reusable
+- [**2. Build Web Pages with PHP**](#2-build-web-pages-with-php) (7 videos)
+  - Links and URLs
+  - Use URL parameters
+  - Default values for URL parameters
+  - Encode URL parameters
+  - Encode for HTML
+  - Challenge: Add pages
+  - Solution: Add pages
+- [**3. Headers and Redirects**](#3-headers-and-redirects) (3 videos)
+  - Modify headers
+  - Page redirection
+  - Output buffering
+- [**4. Build Forms with PHP**](#4-build-forms-with-php) (6 videos)
+  - Build forms
+  - Use form parameters
+  - Detect form submission
+  - Single-page form processing
+  - Challenge: Add forms
+  - Solution: Add forms
+- [**5. MySQL Basics**](#5-mysql-basics) (8 videos)
+  - MySQL introduction
+  - Create a database
+  - Create a database table
+  - CRUD in MySQL
+  - Populate a MySQL table
+  - Relational database tables
+  - Challenge: Pages table
+  - Solution: Pages table
+- [**6. Use PHP to Access MySQL**](#6-use-php-to-access-mysql) (7 videos)
+  - Database APIs in PHP
+  - Connect to MySQL with PHP
+  - Retrieve data
+  - Work with retrieved data
+  - Error handling
+  - Challenge: List pages
+  - Solution: List pages
+- [**7. CRUD with PHP**](#7-crud-with-php) (7 videos)
+  - Find a single record
+  - Use form data to create records
+  - Use form data to update records
+  - Form options from database data
+  - Delete a record
+  - Challenge: Pages CRUD
+  - Solution: Pages CRUD
+- [**8. Validate Data with PHP**](#8-validate-data-with-php) (6 videos)
+  - Common data validation types
+  - Validate form values
+  - Display validation errors
+  - Problems with validation logic
+  - Challenge: Validations
+  - Solution: Validations
+- [**9. Prevent SQL Injection**](#9-prevent-sql-injection) (4 videos)
+  - Understand SQL injection
+  - Sanitize data for SQL
+  - Delimit data values
+  - Prepared statements
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PHP with MySQL Essential Training: The Basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=76281980)
@@ -164,7 +220,7 @@ created: 2026-04-29
 
 ### 1. Start a Database-Driven Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blueprint the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/blueprint-the-application-14191290?u=76281980)
@@ -1130,7 +1186,7 @@ created: 2026-04-29
 
 ### 2. Build Web Pages with PHP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Links and URLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/links-and-urls-14186834?u=76281980)
@@ -2484,7 +2540,7 @@ created: 2026-04-29
 
 ### 3. Headers and Redirects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modify headers
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/modify-headers-14189446?u=76281980)
@@ -3045,7 +3101,7 @@ created: 2026-04-29
 
 ### 4. Build Forms with PHP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build forms
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/build-forms-14186829?u=76281980)
@@ -4016,7 +4072,7 @@ created: 2026-04-29
 
 ### 5. MySQL Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MySQL introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/mysql-introduction-14187622?u=76281980)
@@ -5226,7 +5282,7 @@ created: 2026-04-29
 
 ### 6. Use PHP to Access MySQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Database APIs in PHP
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/database-apis-in-php-14192190?u=76281980)
@@ -6278,7 +6334,7 @@ created: 2026-04-29
 
 ### 7. CRUD with PHP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Find a single record
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/find-a-single-record-14187616?u=76281980)
@@ -7871,7 +7927,7 @@ created: 2026-04-29
 
 ### 8. Validate Data with PHP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common data validation types
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/common-data-validation-types-14185932?u=76281980)
@@ -9032,7 +9088,7 @@ created: 2026-04-29
 
 ### 9. Prevent SQL Injection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand SQL injection
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/understand-sql-injection-14189456?u=76281980)
@@ -9702,7 +9758,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/next-steps-14187623?u=76281980)

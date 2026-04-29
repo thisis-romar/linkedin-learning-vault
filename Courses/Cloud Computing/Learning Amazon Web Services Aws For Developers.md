@@ -49,17 +49,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. AWS Console]]** (3 videos)
-- **[[#2. Security]]** (7 videos)
-- **[[#3. Development]]** (4 videos)
-- **[[#4. Messaging and Event-Driven]]** (4 videos)
-- **[[#5. Deployment, Scalability, and Monitoring]]** (6 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started in AWS
+  - What you should know
+- [**1. AWS Console**](#1-aws-console) (3 videos)
+  - AWS account and pricing
+  - AWS console and services
+  - Certified Developer-Associate
+- [**2. Security**](#2-security) (7 videos)
+  - Identity and Access Management (IAM)
+  - Users and groups
+  - Roles and policies
+  - Cognito
+  - Identity pools
+  - Identity provider (IdP)
+  - User pools
+- [**3. Development**](#3-development) (4 videos)
+  - SDK and tools
+  - Simple Storage Service (S3)
+  - DynamoDB
+  - Lambda
+- [**4. Messaging and Event-Driven**](#4-messaging-and-event-driven) (4 videos)
+  - Simple Queue Service (SQS)
+  - Simple Notification Service (SNS)
+  - Events and Lambda
+  - Step Functions
+- [**5. Deployment, Scalability, and Monitoring**](#5-deployment-scalability-and-monitoring) (6 videos)
+  - Elastic Beanstalk
+  - CloudFormation
+  - ElastiCache
+  - Lambda using cache
+  - CloudFront
+  - CloudWatch
+- [**Conclusion**](#conclusion) (2 videos)
+  - Cleanup
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started in AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/getting-started-in-aws?u=76281980)
@@ -124,7 +152,7 @@ created: 2026-04-29
 
 ### 1. AWS Console
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS account and pricing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/aws-account-and-pricing?u=76281980)
@@ -335,7 +363,7 @@ created: 2026-04-29
 
 ### 2. Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identity and Access Management (IAM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/identity-and-access-management-iam?u=76281980)
@@ -888,7 +916,7 @@ created: 2026-04-29
 
 ### 3. Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SDK and tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/sdk-and-tools?u=76281980)
@@ -1362,7 +1390,7 @@ created: 2026-04-29
 
 ### 4. Messaging and Event-Driven
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simple Queue Service (SQS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/simple-queue-service-sqs?u=76281980)
@@ -1744,7 +1772,7 @@ created: 2026-04-29
 
 ### 5. Deployment, Scalability, and Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/elastic-beanstalk?u=76281980)
@@ -2309,7 +2337,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cleanup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-14924833/cleanup?u=76281980)

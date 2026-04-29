@@ -51,15 +51,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Errors in Java]]** (2 videos)
-- **[[#2. Exceptions in Java]]** (5 videos)
-- **[[#3. Runtime Exceptions in Java]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why bother with exception handling?
+  - What are throwables?
+- [**1. Errors in Java**](#1-errors-in-java) (2 videos)
+  - What are errors?
+  - Error: Uncaught StackOverflowError
+- [**2. Exceptions in Java**](#2-exceptions-in-java) (5 videos)
+  - What are exceptions?
+  - Exception: IOException
+  - Exception: FileNotFoundException
+  - Challenge: Catch and handle two exceptions
+  - Solution: Catch and handle two exceptions
+- [**3. Runtime Exceptions in Java**](#3-runtime-exceptions-in-java) (8 videos)
+  - What are runtime exceptions?
+  - Runtime exception: Return NumberFormatException to user
+  - Challenge: Handle an ArithmeticException
+  - Solution: Handle an ArithmeticException
+  - Runtime exception: Handling of NullPointerException
+  - Runtime exception: Unknown runtime exception
+  - Challenge: Handle potential runtime exceptions
+  - Solution: Handle potential runtime exceptions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with exception handling
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why bother with exception handling?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/why-bother-with-exception-handling?u=76281980)
@@ -160,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Errors in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are errors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-errors?u=76281980)
@@ -317,7 +335,7 @@ created: 2026-04-29
 
 ### 2. Exceptions in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-exceptions?u=76281980)
@@ -741,7 +759,7 @@ created: 2026-04-29
 
 ### 3. Runtime Exceptions in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are runtime exceptions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/what-are-runtime-exceptions?u=76281980)
@@ -1395,7 +1413,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-exception-handling/next-steps-with-exception-handling?u=76281980)

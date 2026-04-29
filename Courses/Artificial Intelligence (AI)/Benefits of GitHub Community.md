@@ -45,13 +45,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Benefits of the open source community]]** (5 videos)
-- **[[#2. Open Source Applications]]** (5 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why the GitHub community is important
+- [**1. Benefits of the open source community**](#1-benefits-of-the-open-source-community) (5 videos)
+  - What is Open Source
+  - Sponsoring and being sponsored
+  - How GitHub supports open source
+  - Community members and organizations
+  - The benefits of the GitHub marketplace
+- [**2. Open Source Applications**](#2-open-source-applications) (5 videos)
+  - What is Innersource
+  - What is Forking?
+  - Discoverable repositories
+  - Creating issue templates
+  - Pull request templates
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why the GitHub community is important
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/why-the-github-community-is-important?u=76281980)
@@ -80,7 +91,7 @@ created: 2026-04-29
 
 ### 1. Benefits of the open source community
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Open Source
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-open-source?u=76281980)
@@ -292,7 +303,7 @@ created: 2026-04-29
 
 ### 2. Open Source Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Innersource
 > [LinkedIn Learning](https://www.linkedin.com/learning/benefits-of-github-community/what-is-innersource?u=76281980)

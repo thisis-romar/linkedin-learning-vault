@@ -50,16 +50,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Gemini]]** (2 videos)
-- **[[#2. Using Gemini Day-to-Day]]** (10 videos)
-- **[[#3. Advance Your Prompts to Improve Results]]** (6 videos)
-- **[[#4. Multimodal Gemini]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Learning prompt engineering with Gemini
+- [**1. Introduction to Gemini**](#1-introduction-to-gemini) (2 videos)
+  - Enabling Gemini
+  - Writing your first prompt
+- [**2. Using Gemini Day-to-Day**](#2-using-gemini-day-to-day) (10 videos)
+  - Brainstorming with Gemini
+  - Iterating with Gemini
+  - Improving your writing with Gemini
+  - Browsing the web with Gemini
+  - Introduction to Gemini apps
+  - Planning a vacation with Gemini
+  - Using deep research with Gemini
+  - Using the Gemini Canvas to build a simple app
+  - Challenge: Writing copy for your new activewear brand
+  - Solution: Writing copy for your new activewear brand
+- [**3. Advance Your Prompts to Improve Results**](#3-advance-your-prompts-to-improve-results) (6 videos)
+  - Improving prompting with examples and quotes
+  - Using completion sequences and few-shot learning
+  - Using chain-of-thought reasoning and Gemini reasoning mode
+  - Structuring your data with Gemini
+  - Challenge: Give Gemini a tricky problem
+  - Solution: Give Gemini a tricky problem
+- [**4. Multimodal Gemini**](#4-multimodal-gemini) (7 videos)
+  - Image recognition and augmentation with Gemini
+  - Creative image generation with Gemini
+  - Generating short videos with Veo 3
+  - Analyzing a multimodal document with Gemini
+  - Searching and summarizing a YouTube video with Gemini
+  - Challenge: Comparing two world wonders
+  - Solution: Comparing two world wonders
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your prompt engineering journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning prompt engineering with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/learning-prompt-engineering-with-gemini?u=76281980)
@@ -84,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Gemini
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enabling Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/enabling-gemini?u=76281980)
@@ -227,7 +254,7 @@ created: 2026-04-29
 
 ### 2. Using Gemini Day-to-Day
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Brainstorming with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/brainstorming-with-gemini?u=76281980)
@@ -1148,7 +1175,7 @@ created: 2026-04-29
 
 ### 3. Advance Your Prompts to Improve Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improving prompting with examples and quotes
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/improving-prompting-with-examples-and-quotes?u=76281980)
@@ -1650,7 +1677,7 @@ created: 2026-04-29
 
 ### 4. Multimodal Gemini
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Image recognition and augmentation with Gemini
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/image-recognition-and-augmentation-with-gemini?u=76281980)
@@ -2155,7 +2182,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your prompt engineering journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/prompt-engineering-with-gemini-26255674/continuing-your-prompt-engineering-journey?u=76281980)

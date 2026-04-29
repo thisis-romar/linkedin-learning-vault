@@ -52,19 +52,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Customer Analytics Overview]]** (6 videos)
-- **[[#2. Will You Become My Customer?]]** (5 videos)
-- **[[#3. What Else Are You Interested In?]]** (5 videos)
-- **[[#4. How Much Is Your Future Business Worth?]]** (5 videos)
-- **[[#5. Are You Happy with Me?]]** (5 videos)
-- **[[#6. Will You Leave Me?]]** (5 videos)
-- **[[#7. Best Practices]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - The power of predictive analytics
+  - Expectations and course organization
+  - How to use the exercise files
+- [**1. Customer Analytics Overview**](#1-customer-analytics-overview) (6 videos)
+  - The importance of customer analytics
+  - The customer lifecycle
+  - Apply analytics to the customer lifecycle
+  - Sources of customer data
+  - The customer analytics process
+  - Use case: Online computer store
+- [**2. Will You Become My Customer?**](#2-will-you-become-my-customer) (5 videos)
+  - The customer acquisition process
+  - Find high propensity prospects
+  - Recommend best channel for contact
+  - Offer chat based on visitor propensity
+  - Use case: Determine customer propensity
+- [**3. What Else Are You Interested In?**](#3-what-else-are-you-interested-in) (5 videos)
+  - Upselling and cross-selling
+  - Find items bought together
+  - Create customer group preferences
+  - User-item affinity and recommendations
+  - Use case: Recommend items
+- [**4. How Much Is Your Future Business Worth?**](#4-how-much-is-your-future-business-worth) (5 videos)
+  - Generate customer loyalty
+  - Create customer value classes
+  - Discover response patterns
+  - Predict customer lifetime value
+  - Use case: Predict CLV
+- [**5. Are You Happy with Me?**](#5-are-you-happy-with-me) (5 videos)
+  - Improve customer satisfaction
+  - Predict intent of contact
+  - Find unsatisfied customers
+  - Group problem types
+  - Use case: Group problem types
+- [**6. Will You Leave Me?**](#6-will-you-leave-me) (5 videos)
+  - Prevent customer attrition
+  - Predict customers who might leave
+  - Find incentives
+  - Discover customer attrition patterns
+  - Use case: Customer patterns
+- [**7. Best Practices**](#7-best-practices) (4 videos)
+  - Devise customer analytics processes
+  - Choose the right data
+  - Design data processing pipelines
+  - Implement continuous improvement
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-power-of-predictive-analytics?u=76281980)
@@ -168,7 +207,7 @@ created: 2026-04-29
 
 ### 1. Customer Analytics Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of customer analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-importance-of-customer-analytics?u=76281980)
@@ -549,7 +588,7 @@ created: 2026-04-29
 
 ### 2. Will You Become My Customer?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The customer acquisition process
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/the-customer-acquisition-process?u=76281980)
@@ -940,7 +979,7 @@ created: 2026-04-29
 
 ### 3. What Else Are You Interested In?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Upselling and cross-selling
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/upselling-and-cross-selling?u=76281980)
@@ -1319,7 +1358,7 @@ created: 2026-04-29
 
 ### 4. How Much Is Your Future Business Worth?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generate customer loyalty
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/generate-customer-loyalty?u=76281980)
@@ -1629,7 +1668,7 @@ created: 2026-04-29
 
 ### 5. Are You Happy with Me?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve customer satisfaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/improve-customer-satisfaction?u=76281980)
@@ -1954,7 +1993,7 @@ created: 2026-04-29
 
 ### 6. Will You Leave Me?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prevent customer attrition
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/prevent-customer-attrition?u=76281980)
@@ -2289,7 +2328,7 @@ created: 2026-04-29
 
 ### 7. Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Devise customer analytics processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/devise-customer-analytics-processes?u=76281980)
@@ -2471,7 +2510,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/predictive-customer-analytics-15863628/next-steps-and-additional-resources?u=76281980)

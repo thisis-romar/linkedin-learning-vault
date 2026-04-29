@@ -46,14 +46,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Interpersonal Skills]]** (6 videos)
-- **[[#2. Job-Specific Skills]]** (8 videos)
-- **[[#3. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Welcome
+  - The administrative support professional needed in every office
+  - Administrative professional career path and growth opportunities
+  - Getting started on your administrative career
+- [**1. Interpersonal Skills**](#1-interpersonal-skills) (6 videos)
+  - Confidentiality in the workplace
+  - Emotional intelligence techniques for office success
+  - Supporting multiple executives and teams
+  - Customer service excellence for admin professionals
+  - Building strong and collaborative teams
+  - Administrative leadership skills for managing others
+- [**2. Job-Specific Skills**](#2-job-specific-skills) (8 videos)
+  - Calendar and schedule management for maximum efficiency
+  - Effective meeting support and note-taking
+  - Email management strategies
+  - Remote work best practices
+  - Leveraging artificial intelligence
+  - Event planning and coordination
+  - Organizational skills to stay ahead in the workplace
+  - Essential communication skills
+- [**3. Conclusion**](#3-conclusion) (1 videos)
+  - Next steps to advance your career
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/welcome?u=76281980)
@@ -280,7 +299,7 @@ created: 2026-04-29
 
 ### 1. Interpersonal Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Confidentiality in the workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/confidentiality-in-the-workplace?u=76281980)
@@ -694,7 +713,7 @@ created: 2026-04-29
 
 ### 2. Job-Specific Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calendar and schedule management for maximum efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/calendar-and-schedule-management-for-maximum-efficiency?u=76281980)
@@ -1304,7 +1323,7 @@ created: 2026-04-29
 
 ### 3. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps to advance your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/administrative-professional-foundations-26206428/next-steps-to-advance-your-career?u=76281980)

@@ -50,16 +50,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Agile Testing?]]** (5 videos)
-- **[[#2. The Agile Testing Approach]]** (8 videos)
-- **[[#3. Testing Process and Responsibilities]]** (4 videos)
-- **[[#4. Agile Testing In Action]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Testing agile projects
+- [**1. What Is Agile Testing?**](#1-what-is-agile-testing) (5 videos)
+  - Testing in the agile context
+  - The role of the tester
+  - Shifting left
+  - Test collaborations
+  - Fundamental QA methods
+- [**2. The Agile Testing Approach**](#2-the-agile-testing-approach) (8 videos)
+  - Backlog grooming
+  - Sprint planning
+  - The "three amigos"
+  - Story kickoff
+  - Retrospective
+  - Action outcomes
+  - Challenge: Testing estimations
+  - Solution: Testing estimations
+- [**3. Testing Process and Responsibilities**](#3-testing-process-and-responsibilities) (4 videos)
+  - Bug tracking
+  - Workflow
+  - Bug advocacy
+  - Test matrices
+- [**4. Agile Testing In Action**](#4-agile-testing-in-action) (3 videos)
+  - Manual testing
+  - Test automation
+  - Continuous integration
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing agile projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/testing-agile-projects?u=76281980)
@@ -89,7 +111,7 @@ created: 2026-04-29
 
 ### 1. What Is Agile Testing?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing in the agile context
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/testing-in-the-agile-context-19300571?u=76281980)
@@ -361,7 +383,7 @@ created: 2026-04-29
 
 ### 2. The Agile Testing Approach
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Backlog grooming
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/backlog-grooming-19801484?u=76281980)
@@ -693,7 +715,7 @@ created: 2026-04-29
 
 ### 3. Testing Process and Responsibilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bug tracking
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/bug-tracking-19295906?u=76281980)
@@ -976,7 +998,7 @@ created: 2026-04-29
 
 ### 4. Agile Testing In Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manual testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/manual-testing-19295905?u=76281980)
@@ -1117,7 +1139,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-testing-2/next-steps-23016445?u=76281980)

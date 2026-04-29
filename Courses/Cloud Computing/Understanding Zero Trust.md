@@ -40,15 +40,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Background]]** (3 videos)
-- **[[#2. Zero Trust]]** (8 videos)
-- **[[#3. Implementing Zero Trust]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Using Zero Trust to protect against cyberattack
+  - What you should know
+- [**1. Background**](#1-background) (3 videos)
+  - A brief history of technology trust
+  - Concepts of software trust
+  - A case study in failed trust
+- [**2. Zero Trust**](#2-zero-trust) (8 videos)
+  - What is Zero Trust?
+  - The principles of Zero Trust
+  - ACT-IAC and the six pillars of zero trust
+  - Zero trust across the digital estate
+  - Policy-based admission control
+  - Zero Trust and the business context
+  - Zero Trust data
+  - An extended approach to Zero Trust
+- [**3. Implementing Zero Trust**](#3-implementing-zero-trust) (3 videos)
+  - Building a Zero Trust foundation
+  - Designing a policy engine
+  - Examples of zero trust
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Zero Trust to protect against cyberattack
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/using-zero-trust-to-protect-against-cyberattack?u=76281980)
@@ -93,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Background
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A brief history of technology trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/a-brief-history-of-technology-trust?u=76281980)
@@ -276,7 +293,7 @@ created: 2026-04-29
 
 ### 2. Zero Trust
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Zero Trust?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-is-zero-trust?u=76281980)
@@ -987,7 +1004,7 @@ created: 2026-04-29
 
 ### 3. Implementing Zero Trust
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a Zero Trust foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/building-a-zero-trust-foundation?u=76281980)
@@ -1161,7 +1178,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-zero-trust/what-s-next?u=76281980)

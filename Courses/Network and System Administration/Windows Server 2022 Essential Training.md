@@ -51,17 +51,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started]]** (7 videos)
-- **[[#2. Managing Windows Server 2022]]** (6 videos)
-- **[[#3. Active Directory Creation and Administration]]** (8 videos)
-- **[[#4. Monitoring and Maintenance]]** (6 videos)
-- **[[#5. Windows Server 2022 in the Azure Cloud]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Getting started with Windows Server 2022
+- [**1. Getting Started**](#1-getting-started) (7 videos)
+  - Intro to Windows Server 2022
+  - Changes to Windows Server 2022
+  - Versions and features
+  - Upgrading to Windows Server 2022
+  - Automated installation options
+  - Windows Server 2022 installation
+  - Setting up IP addressing
+- [**2. Managing Windows Server 2022**](#2-managing-windows-server-2022) (6 videos)
+  - PowerShell commandlets
+  - Roles and features installation
+  - Computer Management and the Microsoft Management Console
+  - Windows Admin Center
+  - EFS and drive encryption
+  - Remote Desktop Services
+- [**3. Active Directory Creation and Administration**](#3-active-directory-creation-and-administration) (8 videos)
+  - Domain and forest creation
+  - AD management tools
+  - Adding a second domain controller or child domain
+  - Joining AD from a workstation
+  - File sharing and drive mapping
+  - Group Policy
+  - DNS management
+  - DHCP installation
+- [**4. Monitoring and Maintenance**](#4-monitoring-and-maintenance) (6 videos)
+  - Backing up Windows Server 2022
+  - Volume Shadow Copy
+  - Event logs for troubleshooting
+  - File server resource manager for security
+  - Performance Monitor
+  - Task Manager and Resource Monitor
+- [**5. Windows Server 2022 in the Azure Cloud**](#5-windows-server-2022-in-the-azure-cloud) (4 videos)
+  - The Azure environment
+  - Installing Windows Server 2022 in Azure
+  - Accessing the server in the cloud
+  - Azure Active Directory synchronization
+- [**Conclusion**](#conclusion) (1 videos)
+  - Going to the next level with Windows Server 2022
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/getting-started-with-windows-server-2022?u=76281980)
@@ -94,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/intro-to-windows-server-2022?u=76281980)
@@ -626,7 +659,7 @@ created: 2026-04-29
 
 ### 2. Managing Windows Server 2022
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PowerShell commandlets
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/powershell-commandlets?u=76281980)
@@ -1525,7 +1558,7 @@ created: 2026-04-29
 
 ### 3. Active Directory Creation and Administration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Domain and forest creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/domain-and-forest-creation?u=76281980)
@@ -2677,7 +2710,7 @@ created: 2026-04-29
 
 ### 4. Monitoring and Maintenance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Backing up Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/backing-up-windows-server-2022?u=76281980)
@@ -3560,7 +3593,7 @@ created: 2026-04-29
 
 ### 5. Windows Server 2022 in the Azure Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Azure environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/the-azure-environment?u=76281980)
@@ -4046,7 +4079,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going to the next level with Windows Server 2022
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-essential-training/going-to-the-next-level-with-windows-server-2022?u=76281980)

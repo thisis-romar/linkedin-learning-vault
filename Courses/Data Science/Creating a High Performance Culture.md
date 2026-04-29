@@ -44,18 +44,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Building a High-Performance Culture]]** (4 videos)
-- **[[#2. Setting Direction for a High-Performance Culture]]** (3 videos)
-- **[[#3. Communicating the Culture]]** (3 videos)
-- **[[#4. Organizing to Succeed]]** (2 videos)
-- **[[#5. Managing Performance]]** (3 videos)
-- **[[#6. Living the Culture]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to creating a high-performance culture
+- [**1. Building a High-Performance Culture**](#1-building-a-high-performance-culture) (4 videos)
+  - Components of high-performing cultures
+  - Creating the virtuous circle
+  - Assessing your current culture
+  - Defining high performance
+- [**2. Setting Direction for a High-Performance Culture**](#2-setting-direction-for-a-high-performance-culture) (3 videos)
+  - Creating a compelling vision and mission
+  - Linking culture to purpose
+  - Tying strategy to culture
+- [**3. Communicating the Culture**](#3-communicating-the-culture) (3 videos)
+  - Choosing your communication vehicles
+  - Using storytelling to engage employees
+  - Making culture a conversation
+- [**4. Organizing to Succeed**](#4-organizing-to-succeed) (2 videos)
+  - Designing your team for high performance
+  - Build culture into your processes
+- [**5. Managing Performance**](#5-managing-performance) (3 videos)
+  - Setting goals and measuring results
+  - Reinforce good behavior
+  - Correcting bad behavior
+- [**6. Living the Culture**](#6-living-the-culture) (3 videos)
+  - Taking small actions
+  - Highlighting culture moments
+  - Providing regular feedback
+- [**Conclusion**](#conclusion) (2 videos)
+  - Overcoming common obstacles
+  - Plan for a high-performance culture
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to creating a high-performance culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/welcome-to-creating-a-high-performance-culture?u=76281980)
@@ -93,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Building a High-Performance Culture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of high-performing cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/components-of-high-performing-cultures-22388723?u=76281980)
@@ -360,7 +381,7 @@ created: 2026-04-29
 
 ### 2. Setting Direction for a High-Performance Culture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a compelling vision and mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/creating-a-compelling-vision-and-mission-22383774?u=76281980)
@@ -599,7 +620,7 @@ created: 2026-04-29
 
 ### 3. Communicating the Culture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing your communication vehicles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980)
@@ -677,7 +698,7 @@ created: 2026-04-29
 
 ### 4. Organizing to Succeed
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing your team for high performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/designing-your-team-for-high-performance?u=76281980)
@@ -816,7 +837,7 @@ created: 2026-04-29
 
 ### 5. Managing Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting goals and measuring results
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/setting-goals-and-measuring-results-22390017?u=76281980)
@@ -1049,7 +1070,7 @@ created: 2026-04-29
 
 ### 6. Living the Culture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking small actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980)
@@ -1287,7 +1308,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overcoming common obstacles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/overcoming-common-obstacles-22388725?u=76281980)

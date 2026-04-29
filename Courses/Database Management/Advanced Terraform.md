@@ -46,16 +46,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Creating a New Terraform Configuration]]** (7 videos)
-- **[[#2. Intermediate Terraform Concepts]]** (9 videos)
-- **[[#3. Advanced Terraform Concepts]]** (5 videos)
-- **[[#4. Terraform Automation]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Introduction to Advanced Terraform
+  - What you should know
+  - Terraform review and terminology
+  - Exercise files
+- [**1. Creating a New Terraform Configuration**](#1-creating-a-new-terraform-configuration) (7 videos)
+  - Practical Terraform
+  - Google Cloud and Terraform: Tools and setup
+  - Designing a cloud infrastructure in Terraform
+  - Terraform configuration overview
+  - Deploying the Terraform configuration
+  - Review deployed resources
+  - Destroying resources
+- [**2. Intermediate Terraform Concepts**](#2-intermediate-terraform-concepts) (9 videos)
+  - Input variables
+  - Using input variables
+  - Output variables
+  - Sensitive data
+  - Looping with count
+  - Looping with for_each
+  - Expressions and functions
+  - Introduction to modules
+  - Using Terraform modules
+- [**3. Advanced Terraform Concepts**](#3-advanced-terraform-concepts) (5 videos)
+  - Analyzing a module
+  - Custom modules
+  - Terraform remote state overview
+  - Deploying backend resources
+  - Deploying a remote state configuration
+- [**4. Terraform Automation**](#4-terraform-automation) (7 videos)
+  - Multiple environment configurations
+  - Terraform CI/CD options
+  - Terraform Cloud setup
+  - Deploying with Terraform Cloud
+  - GitOps CI/CD setup
+  - GitOps CI/CD with Terraform Cloud
+  - Deprecating resources
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Advanced Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/introduction-to-advanced-terraform?u=76281980)
@@ -370,7 +403,7 @@ created: 2026-04-29
 
 ### 1. Creating a New Terraform Configuration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practical Terraform
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/practical-terraform?u=76281980)
@@ -1039,7 +1072,7 @@ created: 2026-04-29
 
 ### 2. Intermediate Terraform Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Input variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/input-variables?u=76281980)
@@ -2222,7 +2255,7 @@ created: 2026-04-29
 
 ### 3. Advanced Terraform Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyzing a module
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/analyzing-a-module?u=76281980)
@@ -2773,7 +2806,7 @@ created: 2026-04-29
 
 ### 4. Terraform Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Multiple environment configurations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/multiple-environment-configurations?u=76281980)
@@ -3877,7 +3910,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-terraform-18720794/next-steps?u=76281980)

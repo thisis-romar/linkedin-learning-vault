@@ -55,18 +55,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setup: Data Engineering Foundations]]** (4 videos)
-- **[[#2. Extraction]]** (4 videos)
-- **[[#3. Data Modeling]]** (7 videos)
-- **[[#4. Transform]]** (2 videos)
-- **[[#5. Load]]** (5 videos)
-- **[[#6. Using the Knowledge Graph with AI]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The power of knowledge graphs in data engineering
+  - What you need to know for the course
+- [**1. Setup: Data Engineering Foundations**](#1-setup-data-engineering-foundations) (4 videos)
+  - What is data engineering?
+  - Aspects of data engineering
+  - Importance of data engineering for semantic AI
+  - Use case: Two Trees Olive Oil
+- [**2. Extraction**](#2-extraction) (4 videos)
+  - What data do you need?
+  - Where is the data?
+  - What state is the data in?
+  - Translating relational to graph data
+- [**3. Data Modeling**](#3-data-modeling) (7 videos)
+  - Creating your design document
+  - Options for data modeling
+  - Thinking about nodes
+  - Thinking about relations
+  - Thinking about retrieval/traversal
+  - Thinking about updates
+  - Thinking about storage
+- [**4. Transform**](#4-transform) (2 videos)
+  - Data transformation
+  - Missing data
+- [**5. Load**](#5-load) (5 videos)
+  - Setting up our Stardog project, part 1
+  - Setting up our Stardog project, part 2
+  - Load instances in Stardog
+  - Test the load
+  - Test the query
+- [**6. Using the Knowledge Graph with AI**](#6-using-the-knowledge-graph-with-ai) (3 videos)
+  - Architecture
+  - Query options
+  - Using a knowledge graph with AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of knowledge graphs in data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980)
@@ -140,7 +168,7 @@ created: 2026-04-29
 
 ### 1. Setup: Data Engineering Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980)
@@ -306,7 +334,7 @@ created: 2026-04-29
 
 ### 2. Extraction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What data do you need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980)
@@ -551,7 +579,7 @@ created: 2026-04-29
 
 ### 3. Data Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your design document
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980)
@@ -1055,7 +1083,7 @@ created: 2026-04-29
 
 ### 4. Transform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/data-transformation?u=76281980)
@@ -1285,7 +1313,7 @@ created: 2026-04-29
 
 ### 5. Load
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up our Stardog project, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980)
@@ -1965,7 +1993,7 @@ created: 2026-04-29
 
 ### 6. Using the Knowledge Graph with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980)
@@ -2159,7 +2187,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980)

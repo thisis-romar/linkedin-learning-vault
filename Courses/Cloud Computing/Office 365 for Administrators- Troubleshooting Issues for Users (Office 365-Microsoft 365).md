@@ -49,20 +49,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Word]]** (5 videos)
-- **[[#2. PowerPoint]]** (5 videos)
-- **[[#3. Excel and Access]]** (6 videos)
-- **[[#4. Teams and OneNote]]** (3 videos)
-- **[[#5. Visio]]** (3 videos)
-- **[[#6. OneDrive and SharePoint]]** (4 videos)
-- **[[#7. Publisher]]** (2 videos)
-- **[[#8. Outlook]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Office 365 administration troubleshooting
+  - What you need to know
+- [**1. Word**](#1-word) (5 videos)
+  - Troubleshoot: Word startup
+  - Troubleshoot: Lost Word documents
+  - Troubleshoot: Word formatting
+  - Troubleshoot: Damaged Word documents
+  - Troubleshoot: Word printing
+- [**2. PowerPoint**](#2-powerpoint) (5 videos)
+  - Troubleshoot: PowerPoint startup
+  - Troubleshoot: Lost presentations
+  - Troubleshoot: Damaged presentations
+  - Troubleshoot: PowerPoint video and audio
+  - Troubleshoot: PowerPoint printing
+- [**3. Excel and Access**](#3-excel-and-access) (6 videos)
+  - Troubleshoot: Excel startup
+  - Troubleshoot: Lost Excel workbooks
+  - Troubleshoot: Damaged Excel workbooks
+  - Troubleshoot: Excel formatting and compatibility
+  - Troubleshoot: Excel printing
+  - Troubleshoot: Lost and damaged Access databases
+- [**4. Teams and OneNote**](#4-teams-and-onenote) (3 videos)
+  - Troubleshoot: Teams audio and video
+  - Recover lost OneNote files
+  - Reset a OneNote notebook
+- [**5. Visio**](#5-visio) (3 videos)
+  - Troubleshoot: Visio printing
+  - Troubleshoot: Visio shapes
+  - Troubleshoot: Visio compatibility
+- [**6. OneDrive and SharePoint**](#6-onedrive-and-sharepoint) (4 videos)
+  - OneDrive synchronization limits
+  - Troubleshoot: OneDrive files
+  - Troubleshoot: OneDrive syncing
+  - Troubleshoot: SharePoint sites
+- [**7. Publisher**](#7-publisher) (2 videos)
+  - Troubleshoot: Publisher mail merge
+  - Troubleshoot: Publisher printing
+- [**8. Outlook**](#8-outlook) (3 videos)
+  - Troubleshoot: Damaged Outlook data files
+  - Troubleshoot: Connecting to a mailbox
+  - Interpret and fix non-delivery error codes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Office 365 administration troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980)
@@ -115,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Word
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Word startup
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980)
@@ -743,7 +777,7 @@ created: 2026-04-29
 
 ### 2. PowerPoint
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: PowerPoint startup
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980)
@@ -1177,7 +1211,7 @@ created: 2026-04-29
 
 ### 3. Excel and Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Excel startup
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980)
@@ -1678,7 +1712,7 @@ created: 2026-04-29
 
 ### 4. Teams and OneNote
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Teams audio and video
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980)
@@ -1966,7 +2000,7 @@ created: 2026-04-29
 
 ### 5. Visio
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Visio printing
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-printing?u=76281980)
@@ -2151,7 +2185,7 @@ created: 2026-04-29
 
 ### 6. OneDrive and SharePoint
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OneDrive synchronization limits
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980)
@@ -2505,7 +2539,7 @@ created: 2026-04-29
 
 ### 7. Publisher
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Publisher mail merge
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-mail-merge?u=76281980)
@@ -2693,7 +2727,7 @@ created: 2026-04-29
 
 ### 8. Outlook
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot: Damaged Outlook data files
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980)
@@ -2998,7 +3032,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/next-steps?u=76281980)

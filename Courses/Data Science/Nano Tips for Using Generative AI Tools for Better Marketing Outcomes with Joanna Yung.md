@@ -46,11 +46,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Harness AI for Better Marketing Outcomes]]** (10 videos)
+- [**1. Harness AI for Better Marketing Outcomes**](#1-harness-ai-for-better-marketing-outcomes) (10 videos)
+  - The future of marketing: Understanding the role of AI
+  - Preparing your business for an AI-powered marketing strategy
+  - Take your content writing to the next level with AI writing tools
+  - Create stunning visuals with AI image generation tools
+  - Enhancing videos with AI editing tools
+  - Elevate your designs to new heights with AI design tools
+  - Boost your search rankings and drive traffic with AI SEO tools
+  - Streamline your workflow and boost efficiency with AI automation
+  - AI-powered chatbots for customer service and engagement
+  - Revolutionize your advertising with AI tools for ads
 
 ### 1. Harness AI for Better Marketing Outcomes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of marketing: Understanding the role of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-generative-ai-tools-for-better-marketing-outcomes-with-joanna-yung/the-future-of-marketing-understanding-the-role-of-ai?u=76281980)

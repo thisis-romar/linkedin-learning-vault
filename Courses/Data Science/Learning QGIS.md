@@ -46,24 +46,64 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding and Installing QGIS]]** (4 videos)
-- **[[#2. Vector Data with QGIS]]** (3 videos)
-- **[[#3. Raster Data with QGIS]]** (5 videos)
-- **[[#4. 3D Maps]]** (3 videos)
-- **[[#5. Styling Data]]** (6 videos)
-- **[[#6. Labeling Features]]** (2 videos)
-- **[[#7. Changing Default Properties]]** (2 videos)
-- **[[#8. Printing with Print Layout]]** (2 videos)
-- **[[#9. Creating New Data]]** (4 videos)
-- **[[#10. Using Advanced Tools]]** (3 videos)
-- **[[#11. Using Plugins]]** (2 videos)
-- **[[#12. Python in QGIS]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Exploring the powerful world of QGIS
+- [**1. Understanding and Installing QGIS**](#1-understanding-and-installing-qgis) (4 videos)
+  - Installing QGIS
+  - Understanding the types of QGIS installs
+  - Overview of QGIS features, part 1
+  - Overview of QGIS features, part 2
+- [**2. Vector Data with QGIS**](#2-vector-data-with-qgis) (3 videos)
+  - Types of vector data in QGIS
+  - Add shapefiles to QGIS
+  - Add WFS data to QGIS
+- [**3. Raster Data with QGIS**](#3-raster-data-with-qgis) (5 videos)
+  - Types of raster data in QGIS
+  - Add ECW data
+  - Add WMS data
+  - Add DEM data
+  - Creating contour lines from DEM
+- [**4. 3D Maps**](#4-3d-maps) (3 videos)
+  - Creating 3D maps
+  - 3D configuration and elevation
+  - 3D animations
+- [**5. Styling Data**](#5-styling-data) (6 videos)
+  - Point layers
+  - Polyline layers
+  - Polygon layers
+  - Thematic layers, part 1
+  - Thematic layers, part 2
+  - DEM layers
+- [**6. Labeling Features**](#6-labeling-features) (2 videos)
+  - Label vector data, part 1
+  - Label vector data, part 2
+- [**7. Changing Default Properties**](#7-changing-default-properties) (2 videos)
+  - Project properties, part 1
+  - Project properties, part 2
+- [**8. Printing with Print Layout**](#8-printing-with-print-layout) (2 videos)
+  - Adding maps
+  - Adding elements
+- [**9. Creating New Data**](#9-creating-new-data) (4 videos)
+  - Creating new vector vata
+  - Exporting layers to shapefiles
+  - Adding data from Excel (CSV)
+  - Editing existing data
+- [**10. Using Advanced Tools**](#10-using-advanced-tools) (3 videos)
+  - Overlay two vector layers
+  - Create a heatmap from points
+  - Create centroids from polygons
+- [**11. Using Plugins**](#11-using-plugins) (2 videos)
+  - Adding and using Street View plugin
+  - Adding and using qgis2web plugin
+- [**12. Python in QGIS**](#12-python-in-qgis) (2 videos)
+  - Using the Python Console
+  - Create a Python script
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the powerful world of QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/exploring-the-powerful-world-of-qgis?u=76281980)
@@ -91,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Understanding and Installing QGIS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980)
@@ -502,7 +542,7 @@ created: 2026-04-29
 
 ### 2. Vector Data with QGIS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of vector data in QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980)
@@ -817,7 +857,7 @@ created: 2026-04-29
 
 ### 3. Raster Data with QGIS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of raster data in QGIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980)
@@ -1438,7 +1478,7 @@ created: 2026-04-29
 
 ### 4. 3D Maps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating 3D maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/creating-3d-maps?u=76281980)
@@ -1902,7 +1942,7 @@ created: 2026-04-29
 
 ### 5. Styling Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Point layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/point-layers?u=76281980)
@@ -2798,7 +2838,7 @@ created: 2026-04-29
 
 ### 6. Labeling Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Label vector data, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-1?u=76281980)
@@ -3081,7 +3121,7 @@ created: 2026-04-29
 
 ### 7. Changing Default Properties
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project properties, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980)
@@ -3332,7 +3372,7 @@ created: 2026-04-29
 
 ### 8. Printing with Print Layout
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-maps?u=76281980)
@@ -3615,7 +3655,7 @@ created: 2026-04-29
 
 ### 9. Creating New Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating new vector vata
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/creating-new-vector-vata?u=76281980)
@@ -4102,7 +4142,7 @@ created: 2026-04-29
 
 ### 10. Using Advanced Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overlay two vector layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/overlay-two-vector-layers?u=76281980)
@@ -4474,7 +4514,7 @@ created: 2026-04-29
 
 ### 11. Using Plugins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding and using Street View plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980)
@@ -4693,7 +4733,7 @@ created: 2026-04-29
 
 ### 12. Python in QGIS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Python Console
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/using-the-python-console?u=76281980)
@@ -4892,7 +4932,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980)

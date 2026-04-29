@@ -52,16 +52,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Building Trust in a Digital-First Sales World]]** (3 videos)
-- **[[#2. Building Relationships to Get More Meetings]]** (4 videos)
-- **[[#3. Modeling Conversations to Build Trust throughout the Sales Process]]** (4 videos)
-- **[[#4. Building Better Relationships with Current Clients]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - AI and the art of strong sales relationships
+- [**1. Building Trust in a Digital-First Sales World**](#1-building-trust-in-a-digital-first-sales-world) (3 videos)
+  - Identify what matters to buyers when building trust
+  - Basics of ChatGPT for sales teams
+  - Leverage ChatGPT to build sales relationships
+- [**2. Building Relationships to Get More Meetings**](#2-building-relationships-to-get-more-meetings) (4 videos)
+  - Avoid pitfalls when using ChatGPT to build relationships
+  - Turn content into connections: Use AI to create conversations
+  - Get up-to-speed on industry trends to build trust
+  - Decode preferred communication styles
+- [**3. Modeling Conversations to Build Trust throughout the Sales Process**](#3-modeling-conversations-to-build-trust-throughout-the-sales-process) (4 videos)
+  - Engaging in technical and HR-focused conversations
+  - Engaging in ROI and finance conversations
+  - Engaging in sales and marketing conversations
+  - Navigating conversations across teams
+- [**4. Building Better Relationships with Current Clients**](#4-building-better-relationships-with-current-clients) (3 videos)
+  - Learn your new clients' business in minutes
+  - Build your account plans to cultivate new relationships
+  - Grow your business through needs-based upselling
+- [**Conclusion**](#conclusion) (1 videos)
+  - Tying it all together and what's up next!
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and the art of strong sales relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980)
@@ -86,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Building Trust in a Digital-First Sales World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify what matters to buyers when building trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980)
@@ -257,7 +273,7 @@ created: 2026-04-29
 
 ### 2. Building Relationships to Get More Meetings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoid pitfalls when using ChatGPT to build relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980)
@@ -511,7 +527,7 @@ created: 2026-04-29
 
 ### 3. Modeling Conversations to Build Trust throughout the Sales Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Engaging in technical and HR-focused conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980)
@@ -741,7 +757,7 @@ created: 2026-04-29
 
 ### 4. Building Better Relationships with Current Clients
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn your new clients' business in minutes
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/learn-your-new-clients-business-in-minutes?u=76281980)
@@ -907,7 +923,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tying it all together and what's up next!
 > [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980)

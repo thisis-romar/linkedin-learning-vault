@@ -50,18 +50,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Advanced Querying with Select]]** (6 videos)
-- **[[#2. Indexing Tables]]** (8 videos)
-- **[[#3. Object-Relational Mapping (ORM)]]** (7 videos)
-- **[[#4. Designing for Scalability]]** (8 videos)
-- **[[#5. Designing for Reliability]]** (7 videos)
-- **[[#6. Designing for Maintainability]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with SQL for application developers
+  - Tour of CoderPad
+- [**1. Advanced Querying with Select**](#1-advanced-querying-with-select) (6 videos)
+  - Designing an ecommerce application database
+  - Creating tables and loading data
+  - Using environment variables for connection parameters
+  - Connecting to a database
+  - Parameterizing SELECT statements
+  - Avoiding N+1 queries
+- [**2. Indexing Tables**](#2-indexing-tables) (8 videos)
+  - Overview of index types
+  - Using B-tree indexes and range scans
+  - Using hash indexes and equality operations
+  - Covering indexes
+  - Indexes and bulk data loading
+  - Avoiding index locks
+  - Challenge: Define a B-tree and a hash index
+  - Solution: Defining B-tree and hash indexes
+- [**3. Object-Relational Mapping (ORM)**](#3-object-relational-mapping-orm) (7 videos)
+  - Overview of object-relational mapping
+  - Introduction to SQLAlchemy
+  - Installing SQLAlchemy
+  - Query with SQLAlchemy
+  - Limitations of ORM and cautionary advice
+  - Challenge: Create an ORM model
+  - Solution: Create an ORM model
+- [**4. Designing for Scalability**](#4-designing-for-scalability) (8 videos)
+  - Overview of partitioning
+  - Range partitioning
+  - List partitioning
+  - Hash partitioning
+  - Querying partitioned tables
+  - Using read-only replicas
+  - Challenge: Define a partitioned table
+  - Solution: Defining a partitioned table
+- [**5. Designing for Reliability**](#5-designing-for-reliability) (7 videos)
+  - Database errors
+  - Error trapping
+  - Database not responding, timeouts, and exponential backoff
+  - Connection pooling and bulk heads
+  - Monitoring and logging best practices
+  - Challenge: When your Python application fails
+  - Solution: When your Python application fails
+- [**6. Designing for Maintainability**](#6-designing-for-maintainability) (6 videos)
+  - Understanding schema changes
+  - Ad hoc scripts for schema changes
+  - Automated schema migration with Flyway
+  - Automated schema migration with Liquibase
+  - Challenge
+  - Solution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Key considerations
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with SQL for application developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/getting-started-with-sql-for-application-developers-23751431?u=76281980)
@@ -132,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Advanced Querying with Select
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing an ecommerce application database
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/designing-an-ecommerce-application-database?u=76281980)
@@ -750,7 +795,7 @@ created: 2026-04-29
 
 ### 2. Indexing Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of index types
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-index-types?u=76281980)
@@ -1106,7 +1151,7 @@ created: 2026-04-29
 
 ### 3. Object-Relational Mapping (ORM)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of object-relational mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-object-relational-mapping?u=76281980)
@@ -1546,7 +1591,7 @@ created: 2026-04-29
 
 ### 4. Designing for Scalability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/overview-of-partitioning?u=76281980)
@@ -2060,7 +2105,7 @@ created: 2026-04-29
 
 ### 5. Designing for Reliability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Database errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/database-errors?u=76281980)
@@ -2484,7 +2529,7 @@ created: 2026-04-29
 
 ### 6. Designing for Maintainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding schema changes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/understanding-schema-changes?u=76281980)
@@ -2806,7 +2851,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-application-development/key-considerations?u=76281980)

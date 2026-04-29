@@ -50,15 +50,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Defining Good Questions]]** (4 videos)
-- **[[#2. Getting Chat Prompts to Work for You]]** (4 videos)
-- **[[#3. Driving Analysis Products with Generative AI]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Working with generative AI as a business analyst
+  - Considerations: Generative AI for business analysis work
+- [**1. Defining Good Questions**](#1-defining-good-questions) (4 videos)
+  - Getting warmed up with generative AI
+  - Getting to know your stakeholders with generative AI
+  - Structuring chat prompts using user stories
+  - Seeking understanding with generative AI
+- [**2. Getting Chat Prompts to Work for You**](#2-getting-chat-prompts-to-work-for-you) (4 videos)
+  - Getting chat prompts to generate ideas
+  - Writing chat prompts that assess and prioritize
+  - Writing chat prompts for good questions
+  - Good questions to get good questions with GenAI
+- [**3. Driving Analysis Products with Generative AI**](#3-driving-analysis-products-with-generative-ai) (3 videos)
+  - Building requirements with chat prompts
+  - Supporting your testing work using chat prompts
+  - Building business cases through good prompts
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with generative AI as a business analyst
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/working-with-generative-ai-as-a-business-analyst?u=76281980)
@@ -139,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Defining Good Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting warmed up with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-warmed-up-with-generative-ai?u=76281980)
@@ -509,7 +523,7 @@ created: 2026-04-29
 
 ### 2. Getting Chat Prompts to Work for You
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting chat prompts to generate ideas
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/getting-chat-prompts-to-generate-ideas?u=76281980)
@@ -887,7 +901,7 @@ created: 2026-04-29
 
 ### 3. Driving Analysis Products with Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building requirements with chat prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/building-requirements-with-chat-prompts?u=76281980)
@@ -1113,7 +1127,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-chat-prompts-for-business-analysis/next-steps?u=76281980)

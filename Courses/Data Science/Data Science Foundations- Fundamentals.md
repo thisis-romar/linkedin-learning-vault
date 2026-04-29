@@ -57,21 +57,76 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Data Science?]]** (6 videos)
-- **[[#2. The Place of Data Science in the Data Universe]]** (8 videos)
-- **[[#3. Ethics, Privacy, and Regulation]]** (5 videos)
-- **[[#4. Sources of Data and Insights]]** (11 videos)
-- **[[#5. Tools and Techniques for Data Science]]** (5 videos)
-- **[[#6. Math Foundations for Data Science]]** (5 videos)
-- **[[#7. Learning Paradigms]]** (8 videos)
-- **[[#8. Algorithms That Create]]** (2 videos)
-- **[[#9. Acting on Data Science]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome
+- [**1. What Is Data Science?**](#1-what-is-data-science) (6 videos)
+  - Supply and demand for data science
+  - The data science Venn diagram revisited
+  - The evolution of data science
+  - The CRISP-DM framework
+  - Roles, teams, and tools in modern data science
+  - The central role of questions in data science
+- [**2. The Place of Data Science in the Data Universe**](#2-the-place-of-data-science-in-the-data-universe) (8 videos)
+  - Artificial intelligence
+  - Machine learning
+  - Deep learning and neural networks
+  - Transformers and attention for generative AI
+  - Big data
+  - Predictive analytics
+  - Prescriptive analytics
+  - The evolution of business intelligence
+- [**3. Ethics, Privacy, and Regulation**](#3-ethics-privacy-and-regulation) (5 videos)
+  - Bias
+  - Security and privacy
+  - Legal
+  - Explainable AI
+  - Agency of algorithms and decision-makers
+- [**4. Sources of Data and Insights**](#4-sources-of-data-and-insights) (11 videos)
+  - Data preparation
+  - Labeling data for supervised learning
+  - In-house data
+  - Open data
+  - APIs
+  - Scraping data
+  - Synthetic data and simulation environments
+  - Passive collection of training data
+  - Data vendors
+  - New data from surveys and experiments
+  - Data ethics
+- [**5. Tools and Techniques for Data Science**](#5-tools-and-techniques-for-data-science) (5 videos)
+  - Applications for data analysis
+  - Languages for data science
+  - Alternatives to programming: Low-code, no-code, and AutoML
+  - MLOps
+  - Machine learning and AI as a service
+- [**6. Math Foundations for Data Science**](#6-math-foundations-for-data-science) (5 videos)
+  - Sampling and probability
+  - Algebra
+  - Calculus
+  - Optimization and the combinatorial explosion
+  - Bayes' theorem
+- [**7. Learning Paradigms**](#7-learning-paradigms) (8 videos)
+  - Supervised, unsupervised, and reinforcement learning
+  - Descriptive analytics
+  - Clustering techniques
+  - Dimensionality reduction
+  - Anomaly detection
+  - Trend analysis
+  - Aggregating models
+  - Validating models
+- [**8. Algorithms That Create**](#8-algorithms-that-create) (2 videos)
+  - Generative Adversarial Networks (GANs)
+  - Reinforcement learning
+- [**9. Acting on Data Science**](#9-acting-on-data-science) (3 videos)
+  - The importance of interpretability in AI
+  - Techniques for creating interpretable models
+  - Delivering actionable insights
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/welcome?u=76281980)
@@ -101,7 +156,7 @@ created: 2026-04-29
 
 ### 1. What Is Data Science?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supply and demand for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supply-and-demand-for-data-science?u=76281980)
@@ -687,7 +742,7 @@ created: 2026-04-29
 
 ### 2. The Place of Data Science in the Data Universe
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Artificial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/artificial-intelligence?u=76281980)
@@ -1760,7 +1815,7 @@ created: 2026-04-29
 
 ### 3. Ethics, Privacy, and Regulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/bias?u=76281980)
@@ -2364,7 +2419,7 @@ created: 2026-04-29
 
 ### 4. Sources of Data and Insights
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/data-preparation?u=76281980)
@@ -3510,7 +3565,7 @@ created: 2026-04-29
 
 ### 5. Tools and Techniques for Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applications for data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/applications-for-data-analysis?u=76281980)
@@ -3951,7 +4006,7 @@ created: 2026-04-29
 
 ### 6. Math Foundations for Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sampling and probability
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/sampling-and-probability?u=76281980)
@@ -4542,7 +4597,7 @@ created: 2026-04-29
 
 ### 7. Learning Paradigms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supervised, unsupervised, and reinforcement learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/supervised-unsupervised-and-reinforcement-learning?u=76281980)
@@ -5621,7 +5676,7 @@ created: 2026-04-29
 
 ### 8. Algorithms That Create
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative Adversarial Networks (GANs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/generative-adversarial-networks-gans?u=76281980)
@@ -5907,7 +5962,7 @@ created: 2026-04-29
 
 ### 9. Acting on Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of interpretability in AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/the-importance-of-interpretability-in-ai?u=76281980)
@@ -6138,7 +6193,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-fundamentals-24591071/next-steps?u=76281980)

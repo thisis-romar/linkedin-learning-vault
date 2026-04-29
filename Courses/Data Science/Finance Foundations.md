@@ -35,22 +35,83 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Finance?]]** (3 videos)
-- **[[#2. Risk and Return]]** (9 videos)
-- **[[#3. Understanding Financial Statements]]** (8 videos)
-- **[[#4. Short-Term Financial Management]]** (6 videos)
-- **[[#5. Obtaining Long-Term Financing]]** (7 videos)
-- **[[#6. Understanding Securities Markets]]** (7 videos)
-- **[[#7. Financial Institutions]]** (6 videos)
-- **[[#8. Capital Budgeting]]** (4 videos)
-- **[[#9. Advances Using Technology in Finance]]** (4 videos)
-- **[[#10. Personal Financial Planning]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The essentials of finance
+  - What you should know before watching this course
+- [**1. What Is Finance?**](#1-what-is-finance) (3 videos)
+  - The board of directors discusses finance
+  - Finance inside of companies
+  - Finance outside of companies
+- [**2. Risk and Return**](#2-risk-and-return) (9 videos)
+  - Introducing risk and return
+  - What is risk?
+  - Why we don’t like risk
+  - Reducing risk through diversification
+  - Beta: The concept
+  - Beta: Examples
+  - Risk-free rate
+  - Equity risk premium
+  - Capital asset pricing model (CAPM)
+- [**3. Understanding Financial Statements**](#3-understanding-financial-statements) (8 videos)
+  - Overview of financial statements
+  - The balance sheet
+  - The income statement
+  - The statement of cash flows
+  - Widely-used ratios: Debt ratio and current ratio
+  - Return on sales, asset turnover, and return on equity
+  - Widely-used ratios: Price-earnings ratio
+  - Forecasting financial statements
+- [**4. Short-Term Financial Management**](#4-short-term-financial-management) (6 videos)
+  - Introducing short-term financial management
+  - The operating cycle
+  - Cash management
+  - Managing receivables and inventory
+  - Obtaining short-term financing
+  - Internal controls
+- [**5. Obtaining Long-Term Financing**](#5-obtaining-long-term-financing) (7 videos)
+  - Introducing long-term financing
+  - Does capital structure matter? No?
+  - Does capital structure matter? Yes?
+  - Does capital structure matter? Factors influencing optimal capital structure
+  - Cost of capital: All debt or all equity financing
+  - Cost of capital: Split debt-equity financing
+  - Weighted-average cost of capital
+- [**6. Understanding Securities Markets**](#6-understanding-securities-markets) (7 videos)
+  - Introducing securities markets
+  - The difference between a stock and a bond
+  - Stock markets
+  - Bond markets
+  - Publicly-traded shares: What impacts the share price?
+  - Initial public offering (IPO): Microsoft
+  - Can you pick stocks in the stock market?
+- [**7. Financial Institutions**](#7-financial-institutions) (6 videos)
+  - Introducing financial institutions
+  - Traditional banks
+  - Investment banks
+  - Investment funds: Index funds
+  - Investment funds: Managed funds, private-equity funds, and hedge funds
+  - Insurance companies
+- [**8. Capital Budgeting**](#8-capital-budgeting) (4 videos)
+  - Introducing capital budgeting
+  - Capital budgeting overview
+  - The importance of the time value of money
+  - Example: Buying a car in Hong Kong
+- [**9. Advances Using Technology in Finance**](#9-advances-using-technology-in-finance) (4 videos)
+  - What is fintech?
+  - Blockchain: Introduction
+  - Cryptocurrency
+  - Alternative financing
+- [**10. Personal Financial Planning**](#10-personal-financial-planning) (4 videos)
+  - Introducing personal financing planning
+  - The secret to financial security
+  - The importance of personal budgeting
+  - Simple savings and investment plans
+- [**Conclusion**](#conclusion) (1 videos)
+  - Reviewing corporate finance
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The essentials of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-essentials-of-finance?u=76281980)
@@ -143,7 +204,7 @@ created: 2026-04-29
 
 ### 1. What Is Finance?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The board of directors discusses finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/the-board-of-directors-discusses-finance?u=76281980)
@@ -399,7 +460,7 @@ created: 2026-04-29
 
 ### 2. Risk and Return
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing risk and return
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-risk-and-return?u=76281980)
@@ -1220,7 +1281,7 @@ created: 2026-04-29
 
 ### 3. Understanding Financial Statements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/overview-of-financial-statements?u=76281980)
@@ -2050,7 +2111,7 @@ created: 2026-04-29
 
 ### 4. Short-Term Financial Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing short-term financial management
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-short-term-financial-management?u=76281980)
@@ -2509,7 +2570,7 @@ created: 2026-04-29
 
 ### 5. Obtaining Long-Term Financing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing long-term financing
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-long-term-financing?u=76281980)
@@ -3132,7 +3193,7 @@ created: 2026-04-29
 
 ### 6. Understanding Securities Markets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing securities markets
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-securities-markets?u=76281980)
@@ -3762,7 +3823,7 @@ created: 2026-04-29
 
 ### 7. Financial Institutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing financial institutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-financial-institutions?u=76281980)
@@ -4299,7 +4360,7 @@ created: 2026-04-29
 
 ### 8. Capital Budgeting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing capital budgeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-capital-budgeting?u=76281980)
@@ -4680,7 +4741,7 @@ created: 2026-04-29
 
 ### 9. Advances Using Technology in Finance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is fintech?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/what-is-fintech?u=76281980)
@@ -5062,7 +5123,7 @@ created: 2026-04-29
 
 ### 10. Personal Financial Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing personal financing planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/introducing-personal-financing-planning?u=76281980)
@@ -5432,7 +5493,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing corporate finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-foundations-24834241/reviewing-corporate-finance?u=76281980)

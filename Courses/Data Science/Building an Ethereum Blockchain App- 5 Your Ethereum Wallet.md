@@ -54,11 +54,16 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Your Ethereum Wallet]]** (5 videos)
+- [**1. Your Ethereum Wallet**](#1-your-ethereum-wallet) (5 videos)
+  - What is an Ethereum wallet?
+  - Types of Ethereum wallets
+  - Web and desktop wallets
+  - Mobile, hardware, and paper wallets
+  - Installing MetaMask
 
 ### 1. Your Ethereum Wallet
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Ethereum wallet?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-5-your-ethereum-wallet/what-is-an-ethereum-wallet?u=76281980)

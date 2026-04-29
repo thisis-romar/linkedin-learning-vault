@@ -50,16 +50,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Is dbatools?]]** (4 videos)
-- **[[#2. Get Information]]** (6 videos)
-- **[[#3. Set Information]]** (4 videos)
-- **[[#4. Migrations Made Easy with dbatools]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Why dbatools?
+  - What you should know
+  - Setting up your environment
+- [**1. What Is dbatools?**](#1-what-is-dbatools) (4 videos)
+  - Introducing dbatools
+  - Installing and updating the module
+  - Find the command you need
+  - Running your first command
+- [**2. Get Information**](#2-get-information) (6 videos)
+  - Get a list of SQL Servers in your environment
+  - Get database status across your estate
+  - Check database last backup times
+  - Get SQL Server patch levels
+  - Review SQL Server Configuration Settings
+  - Find failed SQL Agent jobs
+- [**3. Set Information**](#3-set-information) (4 videos)
+  - Set databases online or offline
+  - Discover and apply recommended data compression levels
+  - Update database compatibility levels
+  - Insert data into SQL Server tables
+- [**4. Migrations Made Easy with dbatools**](#4-migrations-made-easy-with-dbatools) (5 videos)
+  - Migrate whole instances with one line of code
+  - Simple database migrations
+  - More advanced database migrations
+  - Migrating logins
+  - Exporting documentation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why dbatools?
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/why-dbatools-25063140?u=76281980)
@@ -216,7 +239,7 @@ created: 2026-04-29
 
 ### 1. What Is dbatools?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing dbatools
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/introducing-dbatools?u=76281980)
@@ -479,7 +502,7 @@ created: 2026-04-29
 
 ### 2. Get Information
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get a list of SQL Servers in your environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/get-a-list-of-sql-servers-in-your-environment?u=76281980)
@@ -1015,7 +1038,7 @@ created: 2026-04-29
 
 ### 3. Set Information
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set databases online or offline
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/set-databases-online-or-offline?u=76281980)
@@ -1314,7 +1337,7 @@ created: 2026-04-29
 
 ### 4. Migrations Made Easy with dbatools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Migrate whole instances with one line of code
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/migrate-whole-instances-with-one-line-of-code?u=76281980)
@@ -1714,7 +1737,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/automating-sql-server-with-dbatools/continue-your-learning?u=76281980)

@@ -42,19 +42,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Finance and Accounting Basics]]** (3 videos)
-- **[[#2. Most Common Financial Reports]]** (4 videos)
-- **[[#3. Techniques for Using Financial Reports]]** (5 videos)
-- **[[#4. Short-Term Financial Management]]** (3 videos)
-- **[[#5. Costing a Product or Service]]** (2 videos)
-- **[[#6. Creating a Budget]]** (2 videos)
-- **[[#7. Income Tax Basics]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - How to make wiser business decisions
+  - Don’t fear the numbers
+- [**1. Finance and Accounting Basics**](#1-finance-and-accounting-basics) (3 videos)
+  - The purpose of finance
+  - Entrepreneurs, investors, and facilitators
+  - What is accounting?
+- [**2. Most Common Financial Reports**](#2-most-common-financial-reports) (4 videos)
+  - Overview of the financial statements
+  - What to look for in a balance sheet
+  - Overview of the income statement
+  - Interpreting the statement of cash flows
+- [**3. Techniques for Using Financial Reports**](#3-techniques-for-using-financial-reports) (5 videos)
+  - What is financial ratio analysis?
+  - Calculating return on equity
+  - A deeper look at the DuPont framework’s three components
+  - The DuPont framework: Walmart and Target
+  - What is the next step in the analysis?
+- [**4. Short-Term Financial Management**](#4-short-term-financial-management) (3 videos)
+  - Managing cash through the operating cycle
+  - Strategies for cash management
+  - Managing receivables and inventory
+- [**5. Costing a Product or Service**](#5-costing-a-product-or-service) (2 videos)
+  - Considering costs: Fixed, variable, and contribution margin
+  - How to calculate your break-even point
+- [**6. Creating a Budget**](#6-creating-a-budget) (2 videos)
+  - Drafting a budget
+  - Review of the budgeting steps
+- [**7. Income Tax Basics**](#7-income-tax-basics) (3 videos)
+  - Understanding income taxes
+  - Tax brackets, average tax rate, and marginal tax rate
+  - Tax deductions and tax credits
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make wiser business decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/how-to-make-wiser-business-decisions?u=76281980)
@@ -147,7 +172,7 @@ created: 2026-04-29
 
 ### 1. Finance and Accounting Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/the-purpose-of-finance?u=76281980)
@@ -444,7 +469,7 @@ created: 2026-04-29
 
 ### 2. Most Common Financial Reports
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the financial statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/overview-of-the-financial-statements?u=76281980)
@@ -909,7 +934,7 @@ created: 2026-04-29
 
 ### 3. Techniques for Using Financial Reports
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is financial ratio analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/what-is-financial-ratio-analysis?u=76281980)
@@ -1367,7 +1392,7 @@ created: 2026-04-29
 
 ### 4. Short-Term Financial Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing cash through the operating cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/managing-cash-through-the-operating-cycle?u=76281980)
@@ -1656,7 +1681,7 @@ created: 2026-04-29
 
 ### 5. Costing a Product or Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Considering costs: Fixed, variable, and contribution margin
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/considering-costs-fixed-variable-and-contribution-margin?u=76281980)
@@ -1863,7 +1888,7 @@ created: 2026-04-29
 
 ### 6. Creating a Budget
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Drafting a budget
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/drafting-a-budget?u=76281980)
@@ -2020,7 +2045,7 @@ created: 2026-04-29
 
 ### 7. Income Tax Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding income taxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/understanding-income-taxes?u=76281980)
@@ -2317,7 +2342,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/finance-for-non-financial-managers-23778630/next-steps?u=76281980)

@@ -46,15 +46,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Simple Ways to Build Rapport with Customers]]** (2 videos)
-- **[[#2. Techniques for Maintaining Rapport]]** (3 videos)
-- **[[#3. Building Rapport in Specific Situations]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Does rapport really matter?
+- [**1. Simple Ways to Build Rapport with Customers**](#1-simple-ways-to-build-rapport-with-customers) (2 videos)
+  - Build rapport in six seconds or less
+  - Acknowledge concern with customers
+- [**2. Techniques for Maintaining Rapport**](#2-techniques-for-maintaining-rapport) (3 videos)
+  - Yield to customers
+  - Pace customers
+  - Speak in complete sentences with customers
+- [**3. Building Rapport in Specific Situations**](#3-building-rapport-in-specific-situations) (5 videos)
+  - End customer interactions with a fond farewell
+  - Create rapport in a customer chat interaction
+  - Create rapport in a customer email
+  - Use rapport to disarm angry customers
+  - Maintain rapport when delivering bad news to customers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Start, stop, continue exercise
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Does rapport really matter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/does-rapport-really-matter?u=76281980)
@@ -111,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Simple Ways to Build Rapport with Customers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build rapport in six seconds or less
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/build-rapport-in-six-seconds-or-less-14480262?u=76281980)
@@ -243,7 +255,7 @@ created: 2026-04-29
 
 ### 2. Techniques for Maintaining Rapport
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Yield to customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/yield-to-customers-14476332?u=76281980)
@@ -444,7 +456,7 @@ created: 2026-04-29
 
 ### 3. Building Rapport in Specific Situations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### End customer interactions with a fond farewell
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/end-customer-interactions-with-a-fond-farewell-14479289?u=76281980)
@@ -771,7 +783,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start, stop, continue exercise
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-rapport-with-customers-2022/start-stop-continue-exercise-14481266?u=76281980)

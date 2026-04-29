@@ -48,15 +48,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. PowerShell Overview]]** (5 videos)
-- **[[#2. Using PowerShell]]** (6 videos)
-- **[[#3. Taking PowerShell On Premises and Online]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know
+  - Using the exercise files
+- [**1. PowerShell Overview**](#1-powershell-overview) (5 videos)
+  - Why PowerShell?
+  - How to read the language
+  - Getting help
+  - Discovering cmdlets and aliases
+  - Get-Service and Get-Member
+- [**2. Using PowerShell**](#2-using-powershell) (6 videos)
+  - Functions
+  - Relieving anxiety with -WhatIf and -Confirm
+  - ISE and you
+  - Working with output
+  - Grid view
+  - Running PowerShell remotely
+- [**3. Taking PowerShell On Premises and Online**](#3-taking-powershell-on-premises-and-online) (4 videos)
+  - Finding and installing modules
+  - Server cmdlets
+  - Office 365 PowerShell
+  - Azure PowerShell
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/welcome-2?u=76281980)
@@ -187,7 +206,7 @@ created: 2026-04-29
 
 ### 1. PowerShell Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why PowerShell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/why-powershell?u=76281980)
@@ -843,7 +862,7 @@ created: 2026-04-29
 
 ### 2. Using PowerShell
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/functions?u=76281980)
@@ -1497,7 +1516,7 @@ created: 2026-04-29
 
 ### 3. Taking PowerShell On Premises and Online
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding and installing modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/finding-and-installing-modules?u=76281980)
@@ -2243,7 +2262,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powershell/next-steps-2?u=76281980)

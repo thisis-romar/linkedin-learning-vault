@@ -48,16 +48,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Is Automation Testing and Python-Selenium Framework?]]** (5 videos)
-- **[[#2. Parsing the HTML DOM Structure]]** (11 videos)
-- **[[#3. Navigating through Pages]]** (5 videos)
-- **[[#4. Waits]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know
+  - Using the exercise files
+- [**1. What Is Automation Testing and Python-Selenium Framework?**](#1-what-is-automation-testing-and-python-selenium-framework) (5 videos)
+  - What is automated testing?
+  - Python-Selenium bindings
+  - A simple code example
+  - Cross-browser support
+  - Cross-browser support
+- [**2. Parsing the HTML DOM Structure**](#2-parsing-the-html-dom-structure) (11 videos)
+  - What is the HTML DOM structure?
+  - Locating elements by ID
+  - Locating elements by name
+  - Locating elements by XPath
+  - Locating elements by class
+  - Challenge
+  - Solution
+  - Challenge
+  - Solution
+  - Challenge
+  - Solution
+- [**3. Navigating through Pages**](#3-navigating-through-pages) (5 videos)
+  - Page interaction
+  - Filling forms
+  - Drag and drop elements
+  - Challenge
+  - Solution
+- [**4. Waits**](#4-waits) (3 videos)
+  - What are waits and why do we need them?
+  - Explicit waits
+  - Implicit waits
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/welcome?u=76281980)
@@ -169,7 +197,7 @@ created: 2026-04-29
 
 ### 1. What Is Automation Testing and Python-Selenium Framework?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is automated testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-is-automated-testing?u=76281980)
@@ -549,7 +577,7 @@ created: 2026-04-29
 
 ### 2. Parsing the HTML DOM Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the HTML DOM structure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-is-the-html-dom-structure?u=76281980)
@@ -1357,7 +1385,7 @@ created: 2026-04-29
 
 ### 3. Navigating through Pages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Page interaction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/page-interaction?u=76281980)
@@ -1811,7 +1839,7 @@ created: 2026-04-29
 
 ### 4. Waits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are waits and why do we need them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/what-are-waits-and-why-do-we-need-them?u=76281980)
@@ -2008,7 +2036,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-automation-and-testing/next-steps?u=76281980)

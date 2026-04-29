@@ -46,23 +46,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What interests you about working at our company?]]** (2 videos)
-- **[[#2. Could you talk through an example of an effective marketing campaign from a brand you admire?]]** (2 videos)
-- **[[#3. Describe your marketing experience.]]** (2 videos)
-- **[[#4. Explain how to create and launch a marketing campaign.]]** (2 videos)
-- **[[#5. Tell me about a failed marketing project you were involved with—what would you do differently?]]** (2 videos)
-- **[[#6. Do you consider yourself detail-oriented or better at tackling big-picture problems?]]** (2 videos)
-- **[[#7. How do you craft effective messaging internally and externally?]]** (2 videos)
-- **[[#8. What data would you reference to better personalize an initiative to the right people?]]** (2 videos)
-- **[[#9. In the past, how did you measure the success of a marketing campaign?]]** (2 videos)
-- **[[#10. If asked, "Is this marketing activity the right investment?," how would you respond?]]** (2 videos)
-- **[[#11. What’s your research process when analyzing potential market opportunities and competitors?]]** (2 videos)
-- **[[#Follow-up]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to marketing manager roles
+  - Overview of marketing manager roles
+- [**1. What interests you about working at our company?**](#1-what-interests-you-about-working-at-our-company) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**2. Could you talk through an example of an effective marketing campaign from a brand you admire?**](#2-could-you-talk-through-an-example-of-an-effective-marketing-campaign-from-a-brand-you-admire) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**3. Describe your marketing experience.**](#3-describe-your-marketing-experience) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**4. Explain how to create and launch a marketing campaign.**](#4-explain-how-to-create-and-launch-a-marketing-campaign) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**5. Tell me about a failed marketing project you were involved with—what would you do differently?**](#5-tell-me-about-a-failed-marketing-project-you-were-involved-withwhat-would-you-do-differently) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**6. Do you consider yourself detail-oriented or better at tackling big-picture problems?**](#6-do-you-consider-yourself-detail-oriented-or-better-at-tackling-big-picture-problems) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**7. How do you craft effective messaging internally and externally?**](#7-how-do-you-craft-effective-messaging-internally-and-externally) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**8. What data would you reference to better personalize an initiative to the right people?**](#8-what-data-would-you-reference-to-better-personalize-an-initiative-to-the-right-people) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**9. In the past, how did you measure the success of a marketing campaign?**](#9-in-the-past-how-did-you-measure-the-success-of-a-marketing-campaign) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**10. If asked, "Is this marketing activity the right investment?," how would you respond?**](#10-if-asked-is-this-marketing-activity-the-right-investment-how-would-you-respond) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**11. What’s your research process when analyzing potential market opportunities and competitors?**](#11-whats-your-research-process-when-analyzing-potential-market-opportunities-and-competitors) (2 videos)
+  - How to approach this question
+  - Candidate answer and feedback
+- [**Follow-up**](#follow-up) (1 videos)
+  - How to write a memorable thank-you note
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to marketing manager roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/introduction-to-marketing-manager-roles?u=76281980)
@@ -130,7 +155,7 @@ created: 2026-04-29
 
 ### 1. What interests you about working at our company?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question?u=76281980)
@@ -210,7 +235,7 @@ created: 2026-04-29
 
 ### 2. Could you talk through an example of an effective marketing campaign from a brand you admire?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363110?u=76281980)
@@ -305,7 +330,7 @@ created: 2026-04-29
 
 ### 3. Describe your marketing experience.
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362147?u=76281980)
@@ -400,7 +425,7 @@ created: 2026-04-29
 
 ### 4. Explain how to create and launch a marketing campaign.
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364085?u=76281980)
@@ -509,7 +534,7 @@ created: 2026-04-29
 
 ### 5. Tell me about a failed marketing project you were involved with—what would you do differently?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366069?u=76281980)
@@ -589,7 +614,7 @@ created: 2026-04-29
 
 ### 6. Do you consider yourself detail-oriented or better at tackling big-picture problems?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8362148?u=76281980)
@@ -672,7 +697,7 @@ created: 2026-04-29
 
 ### 7. How do you craft effective messaging internally and externally?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364087?u=76281980)
@@ -771,7 +796,7 @@ created: 2026-04-29
 
 ### 8. What data would you reference to better personalize an initiative to the right people?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8363111?u=76281980)
@@ -864,7 +889,7 @@ created: 2026-04-29
 
 ### 9. In the past, how did you measure the success of a marketing campaign?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366072?u=76281980)
@@ -943,7 +968,7 @@ created: 2026-04-29
 
 ### 10. If asked, "Is this marketing activity the right investment?," how would you respond?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8366070?u=76281980)
@@ -1034,7 +1059,7 @@ created: 2026-04-29
 
 ### 11. What’s your research process when analyzing potential market opportunities and competitors?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to approach this question
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-approach-this-question-8364086?u=76281980)
@@ -1123,7 +1148,7 @@ created: 2026-04-29
 
 ### Follow-up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to write a memorable thank-you note
 > [LinkedIn Learning](https://www.linkedin.com/learning/job-interview-tips-for-marketing-managers/how-to-write-a-memorable-thank-you-note?u=76281980)

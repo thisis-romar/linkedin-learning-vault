@@ -40,17 +40,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. History of the Industrial Revolutions]]** (4 videos)
-- **[[#2. The Elements of Change]]** (5 videos)
-- **[[#3. The Core Technologies]]** (8 videos)
-- **[[#4. The Impact of this Revolution]]** (4 videos)
-- **[[#5. Preparing and Responding to Change]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How the fourth Industrial Revolution is changing the world
+- [**1. History of the Industrial Revolutions**](#1-history-of-the-industrial-revolutions) (4 videos)
+  - What is meant by Industrial Revolutions?
+  - The first and second Industrial Revolutions
+  - The third Industrial Revolution
+  - The fourth Industrial Revolution
+- [**2. The Elements of Change**](#2-the-elements-of-change) (5 videos)
+  - The significance of velocity, scope, impact, and convergence
+  - Everyone is getting connected
+  - Exploring rapid digital transformation
+  - Rapid advances in different sciences
+  - Economic and demographic shifts
+- [**3. The Core Technologies**](#3-the-core-technologies) (8 videos)
+  - The big picture of technology trends
+  - Artificial intelligence
+  - Internet-of-Things
+  - Blockchain, cryptos, tokens, and NFTs
+  - Autonomous vehicles
+  - Web3
+  - Here comes the metaverse
+  - Digital twins
+- [**4. The Impact of this Revolution**](#4-the-impact-of-this-revolution) (4 videos)
+  - The emergence of smarter cities
+  - The future of work
+  - Vanishing industries and new industries
+  - Ethical consequences and considerations
+- [**5. Preparing and Responding to Change**](#5-preparing-and-responding-to-change) (3 videos)
+  - Taking action: Organizations
+  - Taking action: Individuals
+  - Revolution, climate change, and the big picture
+- [**Conclusion**](#conclusion) (1 videos)
+  - Final thoughts, next steps, and additional resources on the fourth Industrial Revolution
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How the fourth Industrial Revolution is changing the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/how-the-fourth-industrial-revolution-is-changing-the-world?u=76281980)
@@ -76,7 +102,7 @@ created: 2026-04-29
 
 ### 1. History of the Industrial Revolutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is meant by Industrial Revolutions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980)
@@ -368,7 +394,7 @@ created: 2026-04-29
 
 ### 2. The Elements of Change
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The significance of velocity, scope, impact, and convergence
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980)
@@ -898,7 +924,7 @@ created: 2026-04-29
 
 ### 3. The Core Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The big picture of technology trends
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980)
@@ -1675,7 +1701,7 @@ created: 2026-04-29
 
 ### 4. The Impact of this Revolution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The emergence of smarter cities
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980)
@@ -2124,7 +2150,7 @@ created: 2026-04-29
 
 ### 5. Preparing and Responding to Change
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking action: Organizations
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980)
@@ -2433,7 +2459,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts, next steps, and additional resources on the fourth Industrial Revolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980)

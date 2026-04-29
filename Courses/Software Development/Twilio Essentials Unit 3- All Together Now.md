@@ -46,11 +46,20 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. All Together Now]]** (9 videos)
+- [**1. All Together Now**](#1-all-together-now) (9 videos)
+  - Introducing the project
+  - Serverless
+  - Understanding conferences
+  - Private data
+  - Text registration
+  - Call registrants
+  - Deploying
+  - Texting a follow-up survey
+  - Wrap up
 
 ### 1. All Together Now
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-3-all-together-now/introducing-the-project?u=76281980)

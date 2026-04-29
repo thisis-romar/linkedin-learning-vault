@@ -48,13 +48,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Creating Custom GPTs]]** (7 videos)
-- **[[#2. Going Further]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Build your own custom GPTs with ChatGPT
+- [**1. Creating Custom GPTs**](#1-creating-custom-gpts) (7 videos)
+  - What is a GPT?
+  - Using existing GPTs
+  - Creating a GPT from scratch
+  - Adding web browsing, image creation, and data processing
+  - Adding knowledge to GPTs by uploading data
+  - Exploring privacy and copyright
+  - Adding custom actions
+- [**2. Going Further**](#2-going-further) (1 videos)
+  - Going further
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your own custom GPTs with ChatGPT
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/build-your-own-custom-gpts-with-chatgpt?u=76281980)
@@ -88,7 +97,7 @@ created: 2026-04-29
 
 ### 1. Creating Custom GPTs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a GPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/what-is-a-gpt?u=76281980)
@@ -779,7 +788,7 @@ created: 2026-04-29
 
 ### 2. Going Further
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going further
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-chatgpt-creating-custom-gpts/going-further?u=76281980)

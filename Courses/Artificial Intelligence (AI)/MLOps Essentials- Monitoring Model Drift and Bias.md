@@ -52,18 +52,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Model Monitoring]]** (4 videos)
-- **[[#2. Model Drift Basics]]** (5 videos)
-- **[[#3. Detecting Model Drift]]** (6 videos)
-- **[[#4. Drift Monitoring Process and Best Practices]]** (4 videos)
-- **[[#5. Introduction to Model Bias]]** (5 videos)
-- **[[#6. Bias Detection and Best Practices]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The need for model monitoring
+  - Setting up the exercise files
+- [**1. Introduction to Model Monitoring**](#1-introduction-to-model-monitoring) (4 videos)
+  - ML models in production
+  - Challenges with serving models in production
+  - Metrics to monitor
+  - Data for model monitoring
+- [**2. Model Drift Basics**](#2-model-drift-basics) (5 videos)
+  - Introduction to model drift
+  - Concept drift
+  - Feature drift
+  - What causes drift?
+  - Drift remediation process
+- [**3. Detecting Model Drift**](#3-detecting-model-drift) (6 videos)
+  - Detecting concept drift
+  - Concept drift detection example
+  - Detecting feature drift
+  - Feature drift detection example
+  - Detecting drift in text and images
+  - Software for drift detection
+- [**4. Drift Monitoring Process and Best Practices**](#4-drift-monitoring-process-and-best-practices) (4 videos)
+  - Drift monitoring pipeline
+  - Analyzing drift trends
+  - Discovering root causes for drift
+  - Retraining to overcome drift
+- [**5. Introduction to Model Bias**](#5-introduction-to-model-bias) (5 videos)
+  - Fairness and bias
+  - Fairness in ML
+  - Sources of ML bias
+  - Protected attributes
+  - Demographic parity
+- [**6. Bias Detection and Best Practices**](#6-bias-detection-and-best-practices) (5 videos)
+  - Bias detection techniques
+  - Equal opportunity score
+  - EOS example
+  - Bias detection software
+  - Overcoming bias in ML
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The need for model monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/the-need-for-model-monitoring?u=76281980)
@@ -155,7 +187,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Model Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ML models in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980)
@@ -365,7 +397,7 @@ created: 2026-04-29
 
 ### 2. Model Drift Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to model drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/introduction-to-model-drift?u=76281980)
@@ -650,7 +682,7 @@ created: 2026-04-29
 
 ### 3. Detecting Model Drift
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Detecting concept drift
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-concept-drift?u=76281980)
@@ -969,7 +1001,7 @@ created: 2026-04-29
 
 ### 4. Drift Monitoring Process and Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Drift monitoring pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-monitoring-pipeline?u=76281980)
@@ -1183,7 +1215,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Model Bias
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fairness and bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/fairness-and-bias?u=76281980)
@@ -1395,7 +1427,7 @@ created: 2026-04-29
 
 ### 6. Bias Detection and Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias detection techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-techniques?u=76281980)
@@ -1655,7 +1687,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/next-steps?u=76281980)

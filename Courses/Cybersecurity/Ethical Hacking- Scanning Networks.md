@@ -49,18 +49,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Scanning Purpose and Methodology]]** (6 videos)
-- **[[#2. Discovering Hosts]]** (5 videos)
-- **[[#3. Identifying Open Services]]** (5 videos)
-- **[[#4. Determining Operating Systems]]** (5 videos)
-- **[[#5. Moving through the Network]]** (4 videos)
-- **[[#6. Avoiding Detection]]** (4 videos)
-- **[[#7. Counteracting Scanning]]** (5 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Scanning the LAN
+  - Discovering resources
+  - Hacking ethically
+  - Setting up your virtual network
+- [**1. Scanning Purpose and Methodology**](#1-scanning-purpose-and-methodology) (6 videos)
+  - Roadmapping a scan
+  - Outlining the TCP flags
+  - Leveraging the TCP three-way handshake
+  - Summarizing scanning tools
+  - Discovering Nmap
+  - Using hping3
+- [**2. Discovering Hosts**](#2-discovering-hosts) (5 videos)
+  - Locating network hosts
+  - Comparing ping scans
+  - Sending SYN and ACK scans
+  - Challenge: Identify a scanning signature
+  - Solution: Identify a scanning signature
+- [**3. Identifying Open Services**](#3-identifying-open-services) (5 videos)
+  - Evaluating port scanning methods
+  - Scanning IPv6 networks
+  - Identifying listening hosts using SCTP
+  - Using SSDP for discovery
+  - Optimizing scans with Nmap Script Engine
+- [**4. Determining Operating Systems**](#4-determining-operating-systems) (5 videos)
+  - Fingerprinting the OS
+  - Using Wireshark for OS discovery
+  - Employing IPv6 fingerprinting
+  - Harnessing the TTL value
+  - Mapping the network using Nmap
+- [**5. Moving through the Network**](#5-moving-through-the-network) (4 videos)
+  - Generating less noise
+  - Understanding the idle scan
+  - Firewalking the network
+  - Implementing stealth scans
+- [**6. Avoiding Detection**](#6-avoiding-detection) (4 videos)
+  - Manipulating packets
+  - Spoofing and cloaking
+  - Employing proxies
+  - Leveraging anonymizers
+- [**7. Counteracting Scanning**](#7-counteracting-scanning) (5 videos)
+  - Preventing scanning
+  - Detecting spoofing
+  - Challenge: Draw a network diagram
+  - Solution: Draw a network diagram
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scanning the LAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-the-lan?u=76281980)
@@ -180,7 +218,7 @@ created: 2026-04-29
 
 ### 1. Scanning Purpose and Methodology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Roadmapping a scan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980)
@@ -666,7 +704,7 @@ created: 2026-04-29
 
 ### 2. Discovering Hosts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Locating network hosts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980)
@@ -1065,7 +1103,7 @@ created: 2026-04-29
 
 ### 3. Identifying Open Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating port scanning methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980)
@@ -1477,7 +1515,7 @@ created: 2026-04-29
 
 ### 4. Determining Operating Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fingerprinting the OS
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980)
@@ -1894,7 +1932,7 @@ created: 2026-04-29
 
 ### 5. Moving through the Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating less noise
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980)
@@ -2170,7 +2208,7 @@ created: 2026-04-29
 
 ### 6. Avoiding Detection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manipulating packets
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980)
@@ -2449,7 +2487,7 @@ created: 2026-04-29
 
 ### 7. Counteracting Scanning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preventing scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/preventing-scanning?u=76281980)

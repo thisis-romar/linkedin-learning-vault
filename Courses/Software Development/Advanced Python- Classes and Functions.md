@@ -47,17 +47,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Language Features]]** (5 videos)
-- **[[#2. Advanced Functions]]** (5 videos)
-- **[[#3. Python Comprehensions]]** (5 videos)
-- **[[#4. Classes and Objects]]** (7 videos)
-- **[[#5. Structural Pattern Matching]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introduction
+  - Getting set up
+  - Tour of CoderPad
+- [**1. Language Features**](#1-language-features) (5 videos)
+  - Python coding style
+  - Understanding strings vs. bytes
+  - The assignment expression
+  - Boolean types and values
+  - Template strings
+- [**2. Advanced Functions**](#2-advanced-functions) (5 videos)
+  - Documentation strings
+  - Variable argument lists
+  - Lambda functions
+  - Keyword-only arguments
+  - Solution: Advanced Functions
+- [**3. Python Comprehensions**](#3-python-comprehensions) (5 videos)
+  - Introduction to comprehensions
+  - List comprehensions
+  - Dictionary comprehensions
+  - Set comprehensions
+  - Solution: Comprehensions
+- [**4. Classes and Objects**](#4-classes-and-objects) (7 videos)
+  - Python classes overview
+  - Defining enumerations
+  - Special methods: string values
+  - Special methods: computed attributes
+  - Special methods: operations
+  - Special methods: comparisons
+  - Solution: Special Methods
+- [**5. Structural Pattern Matching**](#5-structural-pattern-matching) (7 videos)
+  - Overview of pattern matching
+  - Simple patterns
+  - Capture patterns
+  - Class patterns
+  - Sequence patterns
+  - Pattern guards
+  - Solution: Patterns
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980)
@@ -251,7 +284,7 @@ created: 2026-04-29
 
 ### 1. Language Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python coding style
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980)
@@ -828,7 +861,7 @@ created: 2026-04-29
 
 ### 2. Advanced Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Documentation strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/documentation-strings?u=76281980)
@@ -1317,7 +1350,7 @@ created: 2026-04-29
 
 ### 3. Python Comprehensions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to comprehensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction-to-comprehensions?u=76281980)
@@ -1834,7 +1867,7 @@ created: 2026-04-29
 
 ### 4. Classes and Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python classes overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980)
@@ -2793,7 +2826,7 @@ created: 2026-04-29
 
 ### 5. Structural Pattern Matching
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of pattern matching
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980)
@@ -3343,7 +3376,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980)

@@ -50,15 +50,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Soft Skills]]** (7 videos)
-- **[[#2. Technology]]** (5 videos)
-- **[[#3. Career Building]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - An introduction to DevOps Tips
+- [**1. Soft Skills**](#1-soft-skills) (7 videos)
+  - Hiring for DevOps
+  - Upskilling your team
+  - Tips for working remotely
+  - Avoiding burnout
+  - Collaborating across teams
+  - Using ChatOps for automation
+  - Applying DevOps to boring technology
+- [**2. Technology**](#2-technology) (5 videos)
+  - Testing with infrastructure as code (IaC)
+  - An overview of microservices
+  - Prepping for on-call shifts
+  - Transitioning to serverless
+  - Practicing DevOps on databases
+- [**3. Career Building**](#3-career-building) (5 videos)
+  - Starting a DevOps career from scratch
+  - Exploring developer roadmaps
+  - A deep dive into the DevOps roadmap
+  - To certify or not to certify
+  - Keeping up with the DevOps industry
+- [**Conclusion**](#conclusion) (1 videos)
+  - One last tip
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to DevOps Tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980)
@@ -94,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Soft Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hiring for DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980)
@@ -575,7 +594,7 @@ created: 2026-04-29
 
 ### 2. Technology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing with infrastructure as code (IaC)
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980)
@@ -929,7 +948,7 @@ created: 2026-04-29
 
 ### 3. Career Building
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting a DevOps career from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/starting-a-devops-career-from-scratch?u=76281980)
@@ -1217,7 +1236,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### One last tip
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980)

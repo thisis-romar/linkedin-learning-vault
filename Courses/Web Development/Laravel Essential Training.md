@@ -43,19 +43,71 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Laravel Basics: Routes, Views, and Controllers]]** (7 videos)
-- **[[#2. Laravel Basics: Configuration, Database, Migrations, and Eloquent]]** (6 videos)
-- **[[#3. Starting Your Project]]** (7 videos)
-- **[[#4. Creating, Indexing, and Showing]]** (9 videos)
-- **[[#5. Editing, Updating, and Deleting]]** (6 videos)
-- **[[#6. Relationships]]** (5 videos)
-- **[[#7. Soft Deleting]]** (5 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Meet Laravel
+  - What you should know
+  - Understand the MVC architecture
+  - Using Codespaces with this course
+- [**1. Laravel Basics: Routes, Views, and Controllers**](#1-laravel-basics-routes-views-and-controllers) (7 videos)
+  - Serve the application
+  - Handle routing
+  - Creating a view
+  - Building layouts with Blade
+  - Working with controllers
+  - Challenge: Create a controller and a view, then add a route
+  - Solution: Create a controller and a view, then add a route
+- [**2. Laravel Basics: Configuration, Database, Migrations, and Eloquent**](#2-laravel-basics-configuration-database-migrations-and-eloquent) (6 videos)
+  - Understand Laravel configuration
+  - Working with the database
+  - Creating and running migrations
+  - Creating models and using Eloquent
+  - Challenge: Create a migration to add a column and update a row
+  - Solution: Create a migration to add a column and update a row
+- [**3. Starting Your Project**](#3-starting-your-project) (7 videos)
+  - Understand the project requirements
+  - Add authentication with Laravel Breeze
+  - Adding styles to the project
+  - Create the first model, migration, controller, and routes
+  - Register resource routes
+  - Challenge: Create a new resource
+  - Solution: Create a new resource
+- [**4. Creating, Indexing, and Showing**](#4-creating-indexing-and-showing) (9 videos)
+  - Add an index method to fetch all notes
+  - Create an index view to display all notes
+  - Add pagination and clean up the index view
+  - Add a create method and view to show a form
+  - Add a store action to save the data
+  - Add a show action and view to display single note
+  - Create a unique ID for each note
+  - Challenge: Add index and create methods for a new resource
+  - Solution: Add index and create methods for a new resource
+- [**5. Editing, Updating, and Deleting**](#5-editing-updating-and-deleting) (6 videos)
+  - Add an edit method and view to allow editing of the note
+  - Add an update method to update edited data
+  - Add a destroy method to delete a note
+  - Show flash data to users
+  - Challenge: Update notes with a new resource
+  - Solution: Update notes with a new resource
+- [**6. Relationships**](#6-relationships) (5 videos)
+  - What are Eloquent relationships?
+  - Define relationships
+  - Query and save relationships
+  - Challenge: Define a new relationship and use it
+  - Solution: Define a new relationship and use it
+- [**7. Soft Deleting**](#7-soft-deleting) (5 videos)
+  - Enable soft delete
+  - Query soft deleted models
+  - Show soft deleted model
+  - Restore soft deleted models
+  - Permanently delete models
+- [**Conclusion**](#conclusion) (3 videos)
+  - Optional: Set up a local development environment
+  - Quick summary
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet Laravel
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/meet-laravel?u=76281980)
@@ -264,7 +316,7 @@ created: 2026-04-29
 
 ### 1. Laravel Basics: Routes, Views, and Controllers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Serve the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/serve-the-application?u=76281980)
@@ -857,7 +909,7 @@ created: 2026-04-29
 
 ### 2. Laravel Basics: Configuration, Database, Migrations, and Eloquent
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Laravel configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-laravel-configuration?u=76281980)
@@ -1375,7 +1427,7 @@ created: 2026-04-29
 
 ### 3. Starting Your Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the project requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/understand-the-project-requirements?u=76281980)
@@ -2082,7 +2134,7 @@ created: 2026-04-29
 
 ### 4. Creating, Indexing, and Showing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add an index method to fetch all notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-index-method-to-fetch-all-notes?u=76281980)
@@ -3424,7 +3476,7 @@ created: 2026-04-29
 
 ### 5. Editing, Updating, and Deleting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add an edit method and view to allow editing of the note
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/add-an-edit-method-and-view-to-allow-editing-of-the-note?u=76281980)
@@ -4071,7 +4123,7 @@ created: 2026-04-29
 
 ### 6. Relationships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Eloquent relationships?
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/what-are-eloquent-relationships?u=76281980)
@@ -4359,7 +4411,7 @@ created: 2026-04-29
 
 ### 7. Soft Deleting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable soft delete
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/enable-soft-delete?u=76281980)
@@ -5025,7 +5077,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optional: Set up a local development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/laravel-essential-training/optional-set-up-a-local-development-environment?u=76281980)

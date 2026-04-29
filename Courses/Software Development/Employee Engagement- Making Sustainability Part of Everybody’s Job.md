@@ -48,15 +48,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Importance of Employee Engagement for Sustainability (What and Why)]]** (3 videos)
-- **[[#2. The Virtuous Cycle Framework (How and Who)]]** (7 videos)
-- **[[#3. Making Sustainability Part of Everybody's Job]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Sustainability is part of everybody's job
+  - How I made sustainability part of my job
+  - Defining employee engagement for sustainability
+- [**1. The Importance of Employee Engagement for Sustainability (What and Why)**](#1-the-importance-of-employee-engagement-for-sustainability-what-and-why) (3 videos)
+  - Employee engagement for sustainability: Expanding the circle
+  - Employee engagement for sustainability: The talent shortage
+  - Employee engagement for sustainability: Avoiding risks
+- [**2. The Virtuous Cycle Framework (How and Who)**](#2-the-virtuous-cycle-framework-how-and-who) (7 videos)
+  - The virtuous cycle of employee engagement
+  - How to educate employees to engage with sustainability
+  - How to inspire employees to engage with sustainability
+  - How to activate employees to engage with sustainability
+  - Challenge: Create a virtuous cycle in your organization
+  - Sustainability impact vs. influence
+  - Finding your sustainability sweet spot
+- [**3. Making Sustainability Part of Everybody's Job**](#3-making-sustainability-part-of-everybodys-job) (3 videos)
+  - Challenges and opportunities for employee engagement
+  - Challenge: Overcome barriers to engage employees in sustainability
+  - Solution: Overcome barriers to engage employees in sustainability
+- [**Conclusion**](#conclusion) (1 videos)
+  - To change everything, we need everyone
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability is part of everybody's job
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980)
@@ -208,7 +225,7 @@ created: 2026-04-29
 
 ### 1. The Importance of Employee Engagement for Sustainability (What and Why)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Employee engagement for sustainability: Expanding the circle
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980)
@@ -398,7 +415,7 @@ created: 2026-04-29
 
 ### 2. The Virtuous Cycle Framework (How and Who)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The virtuous cycle of employee engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980)
@@ -981,7 +998,7 @@ created: 2026-04-29
 
 ### 3. Making Sustainability Part of Everybody's Job
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges and opportunities for employee engagement
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980)
@@ -1189,7 +1206,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### To change everything, we need everyone
 > [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980)

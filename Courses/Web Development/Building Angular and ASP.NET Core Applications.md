@@ -48,17 +48,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setting Up the App Infrastructure]]** (4 videos)
-- **[[#2. Setting Up Web API]]** (7 videos)
-- **[[#3. Getting Started with Angular]]** (12 videos)
-- **[[#4. Implementing NgRx to an Existing Angular App]]** (7 videos)
-- **[[#5. Implementing Authentication in Your Angular App]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with Angular
+  - What you should know already
+- [**1. Setting Up the App Infrastructure**](#1-setting-up-the-app-infrastructure) (4 videos)
+  - Demo application overview
+  - .NET Core templates
+  - Web API architectural overview
+  - Angular architectural overview
+- [**2. Setting Up Web API**](#2-setting-up-web-api) (7 videos)
+  - Creating data models
+  - Adding a service and data
+  - Create API endpoint
+  - Read API endpoint
+  - Update API endpoint
+  - Delete API endpoint
+  - Testing API endpoints using Postman
+- [**3. Getting Started with Angular**](#3-getting-started-with-angular) (12 videos)
+  - Angular key concepts
+  - Generating components and services
+  - Cleaning up code and updating the router
+  - Designing the Books page
+  - Reading data from Angular
+  - Designing the Create page
+  - Adding new data from Angular
+  - Designing the Book Details page
+  - Getting a single book from Angular
+  - Updating existing data from Angular
+  - Deleting data from Angular
+  - Handling errors in Angular
+- [**4. Implementing NgRx to an Existing Angular App**](#4-implementing-ngrx-to-an-existing-angular-app) (7 videos)
+  - Why NgRx?
+  - NgRx actions
+  - NgRx store
+  - NgRx reducers
+  - Connecting the dots
+  - Challenge: Delete a book
+  - Solution: Delete a book
+- [**5. Implementing Authentication in Your Angular App**](#5-implementing-authentication-in-your-angular-app) (4 videos)
+  - Setting up Auth0
+  - Setting up an authentication service
+  - Handling authentication
+  - AuthGuard
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980)
@@ -125,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Setting Up the App Infrastructure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Demo application overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/demo-application-overview?u=76281980)
@@ -386,7 +423,7 @@ created: 2026-04-29
 
 ### 2. Setting Up Web API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating data models
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/creating-data-models?u=76281980)
@@ -991,7 +1028,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Angular
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Angular key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980)
@@ -2582,7 +2619,7 @@ created: 2026-04-29
 
 ### 4. Implementing NgRx to an Existing Angular App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why NgRx?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980)
@@ -3158,7 +3195,7 @@ created: 2026-04-29
 
 ### 5. Implementing Authentication in Your Angular App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Auth0
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980)
@@ -3503,7 +3540,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/where-to-go-next?u=76281980)

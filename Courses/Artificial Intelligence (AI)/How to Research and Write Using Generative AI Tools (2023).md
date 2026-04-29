@@ -45,15 +45,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Overview of Working with AI]]** (3 videos)
-- **[[#2. Using AI to Improve Your Research]]** (6 videos)
-- **[[#3. Using AI to Improve Your Writing]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Meet your AI creative collaborator
+- [**1. Overview of Working with AI**](#1-overview-of-working-with-ai) (3 videos)
+  - How to work with AI
+  - How to write an effective prompt for AI
+  - How to work with the responses from a generative AI chatbot
+- [**2. Using AI to Improve Your Research**](#2-using-ai-to-improve-your-research) (6 videos)
+  - Using AI to summarize complex information
+  - Using AI to view things from multiple perspectives
+  - Using AI to get advice from the best experts
+  - Using AI to help you create fast user personas
+  - Using AI to discover and use new strategic models
+  - Using AI to discover interesting facts and statistics
+- [**3. Using AI to Improve Your Writing**](#3-using-ai-to-improve-your-writing) (4 videos)
+  - Using AI to analyze a writing style and help you write in a similar style
+  - Using AI to get interesting headline and article ideas
+  - Using AI to help you outline your content
+  - Using AI to improve your writing
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet your AI creative collaborator
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/meet-your-ai-creative-collaborator?u=76281980)
@@ -103,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Overview of Working with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to work with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980)
@@ -418,7 +433,7 @@ created: 2026-04-29
 
 ### 2. Using AI to Improve Your Research
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to summarize complex information
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-summarize-complex-information?u=76281980)
@@ -1252,7 +1267,7 @@ created: 2026-04-29
 
 ### 3. Using AI to Improve Your Writing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to analyze a writing style and help you write in a similar style
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980)
@@ -1926,7 +1941,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/summary-and-next-steps?u=76281980)

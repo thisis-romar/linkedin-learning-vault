@@ -47,14 +47,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Approaches to Process Discovery]]** (5 videos)
-- **[[#2. Automating Business Automation]]** (7 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - A leading enterprise technology
+  - Generative AI reinforces process fundamentals
+  - Course overview
+- [**1. Approaches to Process Discovery**](#1-approaches-to-process-discovery) (5 videos)
+  - Laying the groundwork
+  - A modern approach to discovery
+  - Process discovery vs. process mining
+  - Synergies with automation
+  - The new frontier of automation and AI
+- [**2. Automating Business Automation**](#2-automating-business-automation) (7 videos)
+  - Setting an initial scope for automation
+  - Challenge: Process complexity
+  - Solution: Process complexity
+  - Challenge: Benefit estimation
+  - Solution: Benefit estimation
+  - Challenge: Prioritization and scope-setting
+  - Solution: Prioritization of scope-setting
+- [**Conclusion**](#conclusion) (2 videos)
+  - A summary of hurdles
+  - The automation ecosystem
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A leading enterprise technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-leading-enterprise-technology-25742338?u=76281980)
@@ -148,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Approaches to Process Discovery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Laying the groundwork
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/laying-the-groundwork?u=76281980)
@@ -356,7 +373,7 @@ created: 2026-04-29
 
 ### 2. Automating Business Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting an initial scope for automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/setting-an-initial-scope-for-automation?u=76281980)
@@ -672,7 +689,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A summary of hurdles
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-discovery-for-robotic-process-automation/a-summary-of-hurdles?u=76281980)

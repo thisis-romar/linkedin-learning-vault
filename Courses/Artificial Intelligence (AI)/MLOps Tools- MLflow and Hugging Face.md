@@ -55,23 +55,74 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to MLflow]]** (4 videos)
-- **[[#2. MLflow Projects]]** (4 videos)
-- **[[#3. MLflow Models]]** (4 videos)
-- **[[#4. Introduction to Hugging Face]]** (5 videos)
-- **[[#5. Introduction to Applied Hugging Face]]** (3 videos)
-- **[[#6. Using Hugging Face]]** (6 videos)
-- **[[#7. Packaging Hugging Face]]** (4 videos)
-- **[[#8. Hugging Face and Azure ML Studio]]** (5 videos)
-- **[[#9. Hugging Face Automation]]** (4 videos)
-- **[[#10. Hugging Face with Azure Containers]]** (4 videos)
-- **[[#11. Fine-Tuning and ONNX Exporting]]** (4 videos)
-- **[[#12. Hugging Face Spaces]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - MLOps platforms introduction
+- [**1. Introduction to MLflow**](#1-introduction-to-mlflow) (4 videos)
+  - Overview of MLflow
+  - Installing and using MLflow
+  - Introduction to the tracking UI
+  - Parameters, version, artifacts, and metrics
+- [**2. MLflow Projects**](#2-mlflow-projects) (4 videos)
+  - Working with MLflow projects
+  - Create an MLflow project
+  - Run projects from remote Git repositories
+  - Connecting MLflow to Databricks
+- [**3. MLflow Models**](#3-mlflow-models) (4 videos)
+  - Components of the MLflow package
+  - Use a registry with an MLflow model
+  - Referencing artifacts with the API
+  - Saving and serving MLflow models
+- [**4. Introduction to Hugging Face**](#4-introduction-to-hugging-face) (5 videos)
+  - What is Hugging Face?
+  - Overview of the Hugging Face Hub
+  - Introduction to the Hugging Face Hub
+  - Using Hugging Face repositories
+  - Using Hugging Face Spaces
+- [**5. Introduction to Applied Hugging Face**](#5-introduction-to-applied-hugging-face) (3 videos)
+  - Introduction to applied Hugging Face
+  - Using GPU-enabled Codespaces
+  - Using the Hugging Face CLI
+- [**6. Using Hugging Face**](#6-using-hugging-face) (6 videos)
+  - Using the Model Hub
+  - Downloading models
+  - Working with models
+  - Adding datasets
+  - Using datasets
+  - Working with datasets
+- [**7. Packaging Hugging Face**](#7-packaging-hugging-face) (4 videos)
+  - Hugging Face and FastAPI
+  - Containerizing Hugging Face
+  - Running FastAPI with Hugging Face
+  - CI/CD packaging with GitHub Actions
+- [**8. Hugging Face and Azure ML Studio**](#8-hugging-face-and-azure-ml-studio) (5 videos)
+  - Hugging Face and Azure ML Studio
+  - Registering a Hugging Face dataset on Azure
+  - Registering a Hugging Face model on Azure
+  - Inspecting a Hugging Face dataset on Azure
+  - Azure ML Python SDK
+- [**9. Hugging Face Automation**](#9-hugging-face-automation) (4 videos)
+  - Using GitHub Actions for model deployments
+  - Using Azure Container Registry
+  - Automating packaging with Azure Container Registry
+  - Automating packaging Docker Hub
+- [**10. Hugging Face with Azure Containers**](#10-hugging-face-with-azure-containers) (4 videos)
+  - Create an Azure container application
+  - Configure an Azure container application
+  - Deploy Hugging Face to Azure
+  - Troubleshooting container deployment
+- [**11. Fine-Tuning and ONNX Exporting**](#11-fine-tuning-and-onnx-exporting) (4 videos)
+  - Introduction to fine-tuning theory
+  - Performing fine-tuning
+  - Introduction to ONNX and Hugging Face
+  - Exporting Hugging Face models to ONNX
+- [**12. Hugging Face Spaces**](#12-hugging-face-spaces) (3 videos)
+  - Introduction to Hugging Face Spaces
+  - Hugging Face Spaces walkthrough
+  - Deploying to Hugging Face Spaces
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MLOps platforms introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/mlops-platforms-intro?u=76281980)
@@ -123,7 +174,7 @@ created: 2026-04-29
 
 ### 1. Introduction to MLflow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of MLflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/overview-of-mlflow?u=76281980)
@@ -790,7 +841,7 @@ created: 2026-04-29
 
 ### 2. MLflow Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with MLflow projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/working-with-mlflow-projects?u=76281980)
@@ -1269,7 +1320,7 @@ created: 2026-04-29
 
 ### 3. MLflow Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of the MLflow package
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/components-of-mlflow-package?u=76281980)
@@ -1802,7 +1853,7 @@ created: 2026-04-29
 
 ### 4. Introduction to Hugging Face
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Hugging Face?
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/what-is-hugging-face?u=76281980)
@@ -2581,7 +2632,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Applied Hugging Face
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to applied Hugging Face
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-applied-hugging-face?u=76281980)
@@ -2792,7 +2843,7 @@ created: 2026-04-29
 
 ### 6. Using Hugging Face
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Model Hub
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-the-model-hub?u=76281980)
@@ -3819,7 +3870,7 @@ created: 2026-04-29
 
 ### 7. Packaging Hugging Face
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hugging Face and FastAPI
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-and-fastapi?u=76281980)
@@ -4330,7 +4381,7 @@ created: 2026-04-29
 
 ### 8. Hugging Face and Azure ML Studio
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hugging Face and Azure ML Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/hugging-face-azure-ml-studio?u=76281980)
@@ -4941,7 +4992,7 @@ created: 2026-04-29
 
 ### 9. Hugging Face Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using GitHub Actions for model deployments
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/using-github-actions-for-model-deployments?u=76281980)
@@ -5491,7 +5542,7 @@ created: 2026-04-29
 
 ### 10. Hugging Face with Azure Containers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an Azure container application
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/create-an-azure-container-application?u=76281980)
@@ -6086,7 +6137,7 @@ created: 2026-04-29
 
 ### 11. Fine-Tuning and ONNX Exporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to fine-tuning theory
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-fine-tuning-theory?u=76281980)
@@ -6565,7 +6616,7 @@ created: 2026-04-29
 
 ### 12. Hugging Face Spaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Hugging Face Spaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/mlops-tools-mlflow-and-hugging-face/introduction-to-hugging-face-spaces?u=76281980)

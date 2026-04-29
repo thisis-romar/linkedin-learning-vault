@@ -47,18 +47,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Firewalls]]** (8 videos)
-- **[[#2. Hardware Firewalls]]** (2 videos)
-- **[[#3. Network Simulation Using GNS3]]** (5 videos)
-- **[[#4. Special Purpose Perimeter Devices]]** (4 videos)
-- **[[#5. Protection from Intrusion]]** (6 videos)
-- **[[#6. Evasion Techniques]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Finding weaknesses in the perimeter
+  - What you should know
+  - Course disclaimer
+- [**1. Firewalls**](#1-firewalls) (8 videos)
+  - Understanding Firewalls
+  - Apply the basics of the Windows firewall
+  - Use advanced features in the Windows Firewall
+  - Review firewall logs
+  - Understand Linux IPTables
+  - Set up an IPTables firewall
+  - Manage rules with Firewall Builder
+  - Port testing
+- [**2. Hardware Firewalls**](#2-hardware-firewalls) (2 videos)
+  - Set up a Cisco PIX firewall
+  - Create a secure enclave
+- [**3. Network Simulation Using GNS3**](#3-network-simulation-using-gns3) (5 videos)
+  - Install GNS3
+  - Obtain network device images
+  - Set up a network
+  - Simulate the ASA firewall
+  - Integrate Kali into GNS3
+- [**4. Special Purpose Perimeter Devices**](#4-special-purpose-perimeter-devices) (4 videos)
+  - Understand Web Application Firewalls
+  - Protect API services with the WSO2 gateway
+  - Understand honeypots
+  - Run the Cowrie honeypot
+- [**5. Protection from Intrusion**](#5-protection-from-intrusion) (6 videos)
+  - Intrusion response techniques
+  - xListing sites
+  - Snort rules
+  - Detect intrusions with Security Onion
+  - Extend IDS with reputation
+  - EINSTEIN
+- [**6. Evasion Techniques**](#6-evasion-techniques) (10 videos)
+  - Evading antivirus detection
+  - Exotic scanning with Nmap
+  - Obfuscating payloads with msfvenom
+  - Hiding payloads in benign files
+  - Custom packaging of software
+  - Fileless attacks with PowerShell
+  - Hiding with the cloak of invisibility
+  - Embedding malware in an alternate data stream
+  - Tunneling through DNS with iodine
+  - Checking for oversight
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding weaknesses in the perimeter
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?u=76281980)
@@ -145,7 +184,7 @@ created: 2026-04-29
 
 ### 1. Firewalls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understanding-firewalls?u=76281980)
@@ -840,7 +879,7 @@ created: 2026-04-29
 
 ### 2. Hardware Firewalls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up a Cisco PIX firewall
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/set-up-a-cisco-pix-firewall-2?u=76281980)
@@ -1004,7 +1043,7 @@ created: 2026-04-29
 
 ### 3. Network Simulation Using GNS3
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install GNS3
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/install-gns3?u=76281980)
@@ -1519,7 +1558,7 @@ created: 2026-04-29
 
 ### 4. Special Purpose Perimeter Devices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Web Application Firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/understand-web-application-firewalls?u=76281980)
@@ -1913,7 +1952,7 @@ created: 2026-04-29
 
 ### 5. Protection from Intrusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intrusion response techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/intrusion-response-techniques?u=76281980)
@@ -2341,7 +2380,7 @@ created: 2026-04-29
 
 ### 6. Evasion Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evading antivirus detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/evading-antivirus-detection?u=76281980)
@@ -2954,7 +2993,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/next-steps-2?u=76281980)

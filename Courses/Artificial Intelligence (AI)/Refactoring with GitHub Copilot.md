@@ -60,16 +60,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. GitHub Copilot and Refactoring Basics]]** (6 videos)
-- **[[#2. Refactoring Techniques with AI]]** (5 videos)
-- **[[#3. Advanced Refactoring for Long-Lived Code Bases]]** (4 videos)
-- **[[#4. Refactoring in the Real World]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Refactoring with the GitHub Copilot AI
+  - Prerequisites
+  - How to use Codespaces
+- [**1. GitHub Copilot and Refactoring Basics**](#1-github-copilot-and-refactoring-basics) (6 videos)
+  - What is GitHub Copilot?
+  - Chatting with Copilot
+  - Refactoring explained
+  - Code smells
+  - Refactoring strategies
+  - Refactoring with Copilot
+- [**2. Refactoring Techniques with AI**](#2-refactoring-techniques-with-ai) (5 videos)
+  - Simplifying functionality
+  - Enhancing naming and readability
+  - Removing dead code
+  - Optimizing conditionals and loops
+  - Refactoring data structures
+- [**3. Advanced Refactoring for Long-Lived Code Bases**](#3-advanced-refactoring-for-long-lived-code-bases) (4 videos)
+  - Dealing with legacy code
+  - Refactoring for performance
+  - Considerations refactoring large code bases
+  - Refactoring and automated testing
+- [**4. Refactoring in the Real World**](#4-refactoring-in-the-real-world) (5 videos)
+  - How to convince your team to refactor
+  - Pay down technical debt
+  - Keep devs happy
+  - Lower TCO on the project
+  - The impact of ai on refactoring
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Refactoring with the GitHub Copilot AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/refactoring-with-github-copilot-ai?u=76281980)
@@ -147,7 +171,7 @@ created: 2026-04-29
 
 ### 1. GitHub Copilot and Refactoring Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is GitHub Copilot?
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/what-is-github-copilot-24295480?u=76281980)
@@ -679,7 +703,7 @@ created: 2026-04-29
 
 ### 2. Refactoring Techniques with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simplifying functionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/simplifying-functionality-24296434?u=76281980)
@@ -1162,7 +1186,7 @@ created: 2026-04-29
 
 ### 3. Advanced Refactoring for Long-Lived Code Bases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dealing with legacy code
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/dealing-with-legacy-code-24298067?u=76281980)
@@ -1468,7 +1492,7 @@ created: 2026-04-29
 
 ### 4. Refactoring in the Real World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to convince your team to refactor
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/how-to-convince-your-team-to-refactor-24290992?u=76281980)
@@ -1770,7 +1794,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/refactoring-with-github-copilot/next-steps-24290988?u=76281980)

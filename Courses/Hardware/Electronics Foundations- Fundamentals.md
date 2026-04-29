@@ -48,15 +48,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Fundamentals of Electricity]]** (9 videos)
-- **[[#2. Multimeter Measurements]]** (3 videos)
-- **[[#3. Power]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - The fundamentals of electronics
+  - What you should know
+  - Using the exercise files
+  - Safety message
+- [**1. Fundamentals of Electricity**](#1-fundamentals-of-electricity) (9 videos)
+  - Electrical charge
+  - Conductors and insulators
+  - Voltage
+  - Current
+  - Circuit basics
+  - Resistance and Ohm's Law
+  - SI prefixes
+  - Challenge: Limit current to an LED
+  - Solution: Limit current to an LED
+- [**2. Multimeter Measurements**](#2-multimeter-measurements) (3 videos)
+  - What is a multimeter?
+  - Measure DC voltage
+  - Measure direct current
+- [**3. Power**](#3-power) (7 videos)
+  - Electric power
+  - Ideal vs. real-world power sources
+  - Battery capacity
+  - Batteries in series and parallel
+  - Grounded vs. floating power sources
+  - Challenge: Power a light bulb
+  - Solution: Power a light bulb
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your electronics journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The fundamentals of electronics
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/the-fundamentals-of-electronics?u=76281980)
@@ -189,7 +213,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Electricity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Electrical charge
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electrical-charge-14050884?u=76281980)
@@ -820,7 +844,7 @@ created: 2026-04-29
 
 ### 2. Multimeter Measurements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a multimeter?
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/what-is-a-multimeter-14051825?u=76281980)
@@ -1089,7 +1113,7 @@ created: 2026-04-29
 
 ### 3. Power
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Electric power
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/electric-power-14055170?u=76281980)
@@ -1568,7 +1592,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your electronics journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-fundamentals/continue-your-electronics-journey?u=76281980)

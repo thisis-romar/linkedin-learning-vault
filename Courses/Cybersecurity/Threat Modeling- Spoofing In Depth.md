@@ -46,17 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Authentication Basics]]** (2 videos)
-- **[[#2. Spoofing Authentication Factors]]** (6 videos)
-- **[[#3. Spoofing Hosts]]** (5 videos)
-- **[[#4. Spoofing People]]** (3 videos)
-- **[[#5. Spoofing Files]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Mitigate spoofing threats
+  - Four-question framework
+  - Spoofing as a part of STRIDE
+- [**1. Authentication Basics**](#1-authentication-basics) (2 videos)
+  - Account creation
+  - Authentication factors
+- [**2. Spoofing Authentication Factors**](#2-spoofing-authentication-factors) (6 videos)
+  - Attacking what you know
+  - Attacking what you have
+  - Attacking what you are
+  - Attacking where you are
+  - Attacking who you know
+  - Attacking phone authentication
+- [**3. Spoofing Hosts**](#3-spoofing-hosts) (5 videos)
+  - Spoofing a host
+  - Advanced host spoofing
+  - Spoofing the OSI model
+  - What you know in host spoofing
+  - Spoofing TLS
+- [**4. Spoofing People**](#4-spoofing-people) (3 videos)
+  - Spoofing a specific person in email
+  - Spoofing a person on a website
+  - Spoofing a person in video and audio
+- [**5. Spoofing Files**](#5-spoofing-files) (3 videos)
+  - The nature of "open" and paths
+  - Libraries (LD_PATH, %Downloads%)
+  - Defenses with extra fail
+- [**Conclusion**](#conclusion) (1 videos)
+  - Secure by Design: Bring authenticity to your systems
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mitigate spoofing threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/mitigate-spoofing-threats?u=76281980)
@@ -195,7 +218,7 @@ created: 2026-04-29
 
 ### 1. Authentication Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Account creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/account-creation?u=76281980)
@@ -353,7 +376,7 @@ created: 2026-04-29
 
 ### 2. Spoofing Authentication Factors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Attacking what you know
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/attacking-what-you-know?u=76281980)
@@ -673,7 +696,7 @@ created: 2026-04-29
 
 ### 3. Spoofing Hosts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spoofing a host
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-host?u=76281980)
@@ -1040,7 +1063,7 @@ created: 2026-04-29
 
 ### 4. Spoofing People
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spoofing a specific person in email
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/spoofing-a-specific-person-in-email?u=76281980)
@@ -1206,7 +1229,7 @@ created: 2026-04-29
 
 ### 5. Spoofing Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The nature of "open" and paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/the-nature-of-open-and-paths?u=76281980)
@@ -1408,7 +1431,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure by Design: Bring authenticity to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-spoofing-in-depth/next-steps?u=76281980)

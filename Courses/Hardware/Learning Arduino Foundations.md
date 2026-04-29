@@ -44,16 +44,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Arduino]]** (5 videos)
-- **[[#2. Creating an Arduino Program]]** (8 videos)
-- **[[#3. Interface with Output (LED)]]** (6 videos)
-- **[[#4. Interface with Input (Pushbutton)]]** (6 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with Arduino
+  - Arduino hardware for this course
+- [**1. Introduction to Arduino**](#1-introduction-to-arduino) (5 videos)
+  - What is an Arduino?
+  - The Arduino layout
+  - Digital interfaces
+  - Analog interfaces
+  - The power pins
+- [**2. Creating an Arduino Program**](#2-creating-an-arduino-program) (8 videos)
+  - Download the Arduino software
+  - A tour of the Arduino IDE
+  - The setup() and loop() functions
+  - pinMode()
+  - digitalWrite()
+  - Creating your first sketch
+  - Serial Monitor
+  - Testing blink LED and Serial Monitor
+- [**3. Interface with Output (LED)**](#3-interface-with-output-led) (6 videos)
+  - Light-emitting diodes (LEDs)
+  - Deep dive: Calculating a current limiting resistor
+  - Wire an LED to Arduino
+  - Code to blink an LED
+  - Example: Wiring a digital traffic signal
+  - Example: Coding a digital traffic signal
+- [**4. Interface with Input (Pushbutton)**](#4-interface-with-input-pushbutton) (6 videos)
+  - Pushbutton
+  - Active low, active high
+  - Wire a pushbutton to Arduino
+  - Code for the pushbutton
+  - Activate an LED with a pushbutton
+  - Using the built-in LED with INPUT_PULLUP
+- [**Conclusion**](#conclusion) (3 videos)
+  - Next steps
+  - Troubleshooting
+  - Troubleshooting: Arduino wiring
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/getting-started-with-arduino-22858971?u=76281980)
@@ -115,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Arduino
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Arduino?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/what-is-an-arduino-14276604?u=76281980)
@@ -363,7 +393,7 @@ created: 2026-04-29
 
 ### 2. Creating an Arduino Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Download the Arduino software
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/download-the-arduino-software-14278392?u=76281980)
@@ -798,7 +828,7 @@ created: 2026-04-29
 
 ### 3. Interface with Output (LED)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Light-emitting diodes (LEDs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/light-emitting-diodes-leds?u=76281980)
@@ -1196,7 +1226,7 @@ created: 2026-04-29
 
 ### 4. Interface with Input (Pushbutton)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pushbutton
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/pushbutton-14277375?u=76281980)
@@ -1544,7 +1574,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-foundations-2/next-steps-22858970?u=76281980)

@@ -45,11 +45,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Amazon Web Services Quick Tips]]** (21 videos)
+- [**Amazon Web Services Quick Tips**](#amazon-web-services-quick-tips) (21 videos)
+  - Amazon Web Services quick tips
+  - Triggering an AWS Lambda from DynamoDB
+  - Scheduling a Lambda to run regularly
+  - Generating an API Gateway for DynamoDB
+  - Allowing RDS access for multiple servers
+  - Sending email from an AWS Lambda
+  - Monitoring AWS billing with alarms
+  - Setting triggers for S3 bucket events
+  - Protecting an S3 bucket from deletion
+  - Saving money with S3 Glacier
+  - Using CloudTrail for user action audits
+  - Setting user policies with IAM groups
+  - Hitting an AWS Lambda via API Gateway
+  - Creating an SNS event with S3
+  - Easily hosting a web app on S3
+  - Limiting access via IAM boundaries
+  - Enable MFA for root security
+  - IAM credential report
+  - Cognito user pool triggers
+  - SQS
+  - CloudFront
 
 ### Amazon Web Services Quick Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Amazon Web Services quick tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-quick-tips-for-developers/amazon-web-services-quick-tips?u=76281980)

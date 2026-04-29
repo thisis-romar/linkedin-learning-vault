@@ -45,15 +45,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Routing Basics]]** (6 videos)
-- **[[#2. Nested Routes and URL Parameters]]** (7 videos)
-- **[[#3. Take Routing Further]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Building modern UIs
+  - What you should know about React
+  - Set up the project
+- [**1. Routing Basics**](#1-routing-basics) (6 videos)
+  - The fundamentals of routing
+  - Install React Router DOM and connect to the browser's URL
+  - Configure your first route
+  - Use Link to navigate between pages
+  - Challenge: Create a navigation with Link and Route
+  - Solution: Create a navigation with Link and Route
+- [**2. Nested Routes and URL Parameters**](#2-nested-routes-and-url-parameters) (7 videos)
+  - How nested routing works
+  - Create a 404 or No Match Route
+  - Define placeholders to create dynamic routes
+  - Read and display URL parameters
+  - Display active links
+  - Challenge: Render a nested UI from route matches
+  - Solution: Render a nested UI from route matches
+- [**3. Take Routing Further**](#3-take-routing-further) (5 videos)
+  - Index routes
+  - Navigate programmatically
+  - Pass data when navigating programmatically
+  - Challenge: Pass location state
+  - Solution: Pass location state
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building modern UIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/building-modern-uis?u=76281980)
@@ -151,7 +173,7 @@ created: 2026-04-29
 
 ### 1. Routing Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The fundamentals of routing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/the-fundamentals-of-routing?u=76281980)
@@ -554,7 +576,7 @@ created: 2026-04-29
 
 ### 2. Nested Routes and URL Parameters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How nested routing works
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/how-nested-routing-works?u=76281980)
@@ -1109,7 +1131,7 @@ created: 2026-04-29
 
 ### 3. Take Routing Further
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Index routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/index-routes?u=76281980)
@@ -1377,7 +1399,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6/next-steps?u=76281980)

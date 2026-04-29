@@ -48,17 +48,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Build a Troubleshooting Mindset]]** (4 videos)
-- **[[#2. Introducing Microservices]]** (4 videos)
-- **[[#3. Effective Logging Strategies]]** (10 videos)
-- **[[#4. Debugging Node.js Applications]]** (5 videos)
-- **[[#5. Measuring Performance]]** (4 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - The power of debugging and performance tuning
+  - What you should know
+  - Using challenges
+  - Configuring your development environment
+  - Demo application tour
+- [**1. Build a Troubleshooting Mindset**](#1-build-a-troubleshooting-mindset) (4 videos)
+  - Finding what went wrong
+  - Why measure performance?
+  - Documenting problems
+  - When is a problem resolved?
+- [**2. Introducing Microservices**](#2-introducing-microservices) (4 videos)
+  - What's a microservice architecture?
+  - Microservice rock, paper, scissors
+  - Introducing PM2 for process management
+  - Managing microservices with PM2
+- [**3. Effective Logging Strategies**](#3-effective-logging-strategies) (10 videos)
+  - Why and what should I log?
+  - Problems with Node.js console
+  - Implementing Express error pages
+  - Choosing a logging library
+  - Adding Winston for Node logging
+  - Request logging with Morgan
+  - Correlating requests in logs
+  - Cross-application request correlation
+  - Challenge: Cross-application request IDs
+  - Solution: Cross-application request IDs
+- [**4. Debugging Node.js Applications**](#4-debugging-nodejs-applications) (5 videos)
+  - Debugging isn't just logging
+  - Introducing Node's built-in debugger
+  - Command-line debugging with Node inspect
+  - Debugging Node in Chrome DevTools
+  - Debugging Node with Visual Studio Code
+- [**5. Measuring Performance**](#5-measuring-performance) (4 videos)
+  - Benchmarking performance
+  - Benchmarking with ApacheBench
+  - Benchmarking code with Winston
+  - Profiling code execution
+- [**Conclusion**](#conclusion) (3 videos)
+  - Knowing what to optimize
+  - Caching fundamentals
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of debugging and performance tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/the-power-of-debugging-and-performance-tuning?u=76281980)
@@ -477,7 +512,7 @@ created: 2026-04-29
 
 ### 1. Build a Troubleshooting Mindset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding what went wrong
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/finding-what-went-wrong?u=76281980)
@@ -912,7 +947,7 @@ created: 2026-04-29
 
 ### 2. Introducing Microservices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's a microservice architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/what-s-a-microservice-architecture?u=76281980)
@@ -1370,7 +1405,7 @@ created: 2026-04-29
 
 ### 3. Effective Logging Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why and what should I log?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/why-and-what-should-i-log?u=76281980)
@@ -2897,7 +2932,7 @@ created: 2026-04-29
 
 ### 4. Debugging Node.js Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debugging isn't just logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/debugging-isn-t-just-logging?u=76281980)
@@ -3575,7 +3610,7 @@ created: 2026-04-29
 
 ### 5. Measuring Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benchmarking performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/benchmarking-performance?u=76281980)
@@ -4146,7 +4181,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Knowing what to optimize
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning/knowing-what-to-optimize?u=76281980)

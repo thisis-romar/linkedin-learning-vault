@@ -49,15 +49,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Fundamentals of Generics]]** (5 videos)
-- **[[#2. Generic Classes and Methods]]** (7 videos)
-- **[[#3. Generics: Deep Dive]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Generics in Java
+  - Prerequisites for this course
+- [**1. Fundamentals of Generics**](#1-fundamentals-of-generics) (5 videos)
+  - Understand the need for generics
+  - Understand generics in Java
+  - Terms in generics
+  - Rules and naming conventions
+  - Advantages of generics
+- [**2. Generic Classes and Methods**](#2-generic-classes-and-methods) (7 videos)
+  - Generic classes/interface use case
+  - Create a generic class demo
+  - Understand generic methods and constructors
+  - Implement a generic method as a utility
+  - Using bounded types
+  - Challenge: Write code using generic classes/bounded types
+  - Solution: Write code using generic classes/bounded types
+- [**3. Generics: Deep Dive**](#3-generics-deep-dive) (7 videos)
+  - Generic class hierarchies
+  - Type argument hierarchies
+  - Understand type erasure in generics
+  - Understand bridge methods
+  - Understand type inference and target types
+  - Applying wildcard arguments
+  - Restrictions on generics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go from here
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generics in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generics-in-java?u=76281980)
@@ -143,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Generics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the need for generics
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/understand-the-need-for-generics?u=76281980)
@@ -956,7 +978,7 @@ created: 2026-04-29
 
 ### 2. Generic Classes and Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generic classes/interface use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-classes-interface-use-case?u=76281980)
@@ -2154,7 +2176,7 @@ created: 2026-04-29
 
 ### 3. Generics: Deep Dive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generic class hierarchies
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/generic-class-hierarchies?u=76281980)
@@ -3263,7 +3285,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-generic-classes-14576260/where-to-go-from-here?u=76281980)

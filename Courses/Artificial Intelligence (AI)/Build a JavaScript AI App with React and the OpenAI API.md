@@ -53,18 +53,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Building a Weather App with AI Power]]** (3 videos)
-- **[[#2. The Core App]]** (4 videos)
-- **[[#3. Connecting to the OpenAI API]]** (4 videos)
-- **[[#4. Using AI as a Human-to-Machine Translator]]** (4 videos)
-- **[[#5. Integrating AI into the Weather App]]** (6 videos)
-- **[[#6. Creating Rich AI Outputs]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Build a JavaScript AI app with React and the OpenAI API
+  - Use the exercise files on GitHub Codespaces
+  - Using GitHub Codespaces with this course
+- [**1. Building a Weather App with AI Power**](#1-building-a-weather-app-with-ai-power) (3 videos)
+  - Beyond ChatGPT: What AI can do for you
+  - Real-world challenge: A more useful weather app
+  - Ideating with ChatGPT as a base
+- [**2. The Core App**](#2-the-core-app) (4 videos)
+  - Sidebar: Build a React app using Vite and GitHub Codespaces
+  - Boot up the app in GitHub Codespaces
+  - Work with the OpenWeatherMap API
+  - App walk-through
+- [**3. Connecting to the OpenAI API**](#3-connecting-to-the-openai-api) (4 videos)
+  - What is the OpenAI API, and how does it relate to ChatGPT?
+  - Test the API in the OpenAI Playground
+  - Generate secret keys
+  - Test the API with a REST client
+- [**4. Using AI as a Human-to-Machine Translator**](#4-using-ai-as-a-human-to-machine-translator) (4 videos)
+  - Create a location string from a prompt
+  - The challenge of non-deterministic APIs
+  - Function calling in the OpenAI API
+  - Create a custom function call for the OpenAI API
+- [**5. Integrating AI into the Weather App**](#5-integrating-ai-into-the-weather-app) (6 videos)
+  - Sequence API calls in an app
+  - Create a fetch request to the OpenAI API
+  - Add a function call to the request
+  - Parse the response
+  - Pass the response to the weather data request
+  - Update the weather data display
+- [**6. Creating Rich AI Outputs**](#6-creating-rich-ai-outputs) (4 videos)
+  - Prompt engineering for developers
+  - Advanced calls to the OpenAI API
+  - Integrate the AI API response
+  - Provide good UX with independent loaders
+- [**Conclusion**](#conclusion) (1 videos)
+  - Go further
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a JavaScript AI app with React and the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/build-a-javascript-ai-app-with-react-and-the-openai-api?u=76281980)
@@ -248,7 +277,7 @@ created: 2026-04-29
 
 ### 1. Building a Weather App with AI Power
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Beyond ChatGPT: What AI can do for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/beyond-chatgpt-what-ai-can-do-for-you?u=76281980)
@@ -554,7 +583,7 @@ created: 2026-04-29
 
 ### 2. The Core App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sidebar: Build a React app using Vite and GitHub Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sidebar-build-a-react-app-using-vite-and-github-codespaces?u=76281980)
@@ -992,7 +1021,7 @@ created: 2026-04-29
 
 ### 3. Connecting to the OpenAI API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the OpenAI API, and how does it relate to ChatGPT?
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/what-is-the-openai-api-and-how-does-it-relate-to-chatgpt?u=76281980)
@@ -1441,7 +1470,7 @@ created: 2026-04-29
 
 ### 4. Using AI as a Human-to-Machine Translator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a location string from a prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/create-a-location-string-from-a-prompt?u=76281980)
@@ -1763,7 +1792,7 @@ created: 2026-04-29
 
 ### 5. Integrating AI into the Weather App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequence API calls in an app
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/sequence-api-calls-in-an-app?u=76281980)
@@ -2416,7 +2445,7 @@ created: 2026-04-29
 
 ### 6. Creating Rich AI Outputs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt engineering for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/prompt-engineering-for-developers?u=76281980)
@@ -2885,7 +2914,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Go further
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api/go-further?u=76281980)

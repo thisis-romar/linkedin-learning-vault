@@ -47,13 +47,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Ten Tips on AI for Business Leaders]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Course introduction
+  - What business leaders really need to know about AI
+- [**1. Ten Tips on AI for Business Leaders**](#1-ten-tips-on-ai-for-business-leaders) (10 videos)
+  - What we mean by AI
+  - The AI adoption journey
+  - AI that fits your business
+  - AI is about humans
+  - AI offers adequacy, humans offer excellence
+  - What tasks are AI good at?
+  - Accountability and responsibility for AI
+  - Assign the right AI leader
+  - Choosing the right AI platforms
+  - Creating AI guidelines
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/course-introduction?u=76281980)
@@ -169,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Ten Tips on AI for Business Leaders
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What we mean by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/what-we-mean-by-ai?u=76281980)
@@ -1183,7 +1196,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-cheat-sheet-for-business-leaders/summary-and-next-steps?u=76281980)

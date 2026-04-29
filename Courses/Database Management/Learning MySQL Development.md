@@ -47,18 +47,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Database Basics]]** (5 videos)
-- **[[#2. Exploring MySQL]]** (6 videos)
-- **[[#3. Creating Tables]]** (8 videos)
-- **[[#4. Selecting Data]]** (6 videos)
-- **[[#5. Updating and Deleting Data]]** (5 videos)
-- **[[#6. Joining Tables]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn to use MySQL
+  - How to get started with MySQL
+- [**1. Database Basics**](#1-database-basics) (5 videos)
+  - What is a database?
+  - SQL, a declarative language
+  - Databases vs. flat files and spreadsheets
+  - Common database terms
+  - Database best practices
+- [**2. Exploring MySQL**](#2-exploring-mysql) (6 videos)
+  - Advantages and disadvantages of MySQL
+  - Exploring MySQL Workbench
+  - MySQL data types: Part 1
+  - MySQL data types: Part 2
+  - Challenge: Explore the built-in databases
+  - Solution: Explore the built-in databases
+- [**3. Creating Tables**](#3-creating-tables) (8 videos)
+  - Create a database
+  - Create a table
+  - Use CREATE and ALTER to define a table
+  - Primary keys and foreign keys
+  - Display database relationships with reverse engineering
+  - Load bulk data
+  - Challenge: Create a normalized movies table
+  - Solution: Create a normalized movies table
+- [**4. Selecting Data**](#4-selecting-data) (6 videos)
+  - The basics of SELECT
+  - Refine SELECT queries
+  - Filter results with WHERE
+  - Display data with CASE
+  - Challenge: Filter movies by score
+  - Solution: Filter movies by score
+- [**5. Updating and Deleting Data**](#5-updating-and-deleting-data) (5 videos)
+  - Add data to tables with INSERT
+  - Update existing rows with UPDATE
+  - Remove data with DELETE
+  - Challenge: Clean up the movies
+  - Solution: Clean up the movies
+- [**6. Joining Tables**](#6-joining-tables) (5 videos)
+  - The basics of JOIN
+  - Match fields with INNER JOIN
+  - Match all fields with outer joins
+  - Challenge: Find the best film
+  - Solution: Find the best film
+- [**Conclusion**](#conclusion) (1 videos)
+  - Level up your MySQL knowledge
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to use MySQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980)
@@ -162,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Database Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980)
@@ -565,7 +603,7 @@ created: 2026-04-29
 
 ### 2. Exploring MySQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advantages and disadvantages of MySQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980)
@@ -985,7 +1023,7 @@ created: 2026-04-29
 
 ### 3. Creating Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a database
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980)
@@ -1744,7 +1782,7 @@ created: 2026-04-29
 
 ### 4. Selecting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-select?u=76281980)
@@ -2165,7 +2203,7 @@ created: 2026-04-29
 
 ### 5. Updating and Deleting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add data to tables with INSERT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980)
@@ -2534,7 +2572,7 @@ created: 2026-04-29
 
 ### 6. Joining Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of JOIN
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980)
@@ -2851,7 +2889,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Level up your MySQL knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/level-up-your-mysql-knowledge?u=76281980)

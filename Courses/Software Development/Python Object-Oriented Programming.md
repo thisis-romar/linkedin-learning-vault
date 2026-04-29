@@ -53,16 +53,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Object-Oriented Python]]** (6 videos)
-- **[[#2. Inheritance and Composition]]** (6 videos)
-- **[[#3. "Magic" Object Methods]]** (6 videos)
-- **[[#4. Data Classes]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Python object-oriented programming
+  - What you should know
+  - Setting up the development environment
+  - Using CoderPad
+- [**1. Object-Oriented Python**](#1-object-oriented-python) (6 videos)
+  - Object-oriented programming refresher
+  - Basic class definition
+  - Instance methods and attributes
+  - Checking instance types
+  - Class methods and members
+  - Solution: Stocks
+- [**2. Inheritance and Composition**](#2-inheritance-and-composition) (6 videos)
+  - Understanding inheritance
+  - Abstract base classes
+  - Using multiple inheritance
+  - Interfaces
+  - Understanding composition
+  - Solution: Stocks and bonds
+- [**3. "Magic" Object Methods**](#3-magic-object-methods) (6 videos)
+  - What are magic methods?
+  - String representation
+  - Equality and comparison
+  - Attribute access
+  - Callable objects
+  - Solution: Compare objects
+- [**4. Data Classes**](#4-data-classes) (5 videos)
+  - Defining a data class
+  - Using post initialization
+  - Using default values
+  - Immutable data classes
+  - Solution: Data classes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python object-oriented programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980)
@@ -325,7 +353,7 @@ created: 2026-04-29
 
 ### 1. Object-Oriented Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Object-oriented programming refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980)
@@ -955,7 +983,7 @@ created: 2026-04-29
 
 ### 2. Inheritance and Composition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding inheritance
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980)
@@ -1608,7 +1636,7 @@ created: 2026-04-29
 
 ### 3. "Magic" Object Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are magic methods?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-are-magic-methods?u=76281980)
@@ -2196,7 +2224,7 @@ created: 2026-04-29
 
 ### 4. Data Classes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining a data class
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/defining-a-data-class?u=76281980)
@@ -2632,7 +2660,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/next-steps?u=76281980)

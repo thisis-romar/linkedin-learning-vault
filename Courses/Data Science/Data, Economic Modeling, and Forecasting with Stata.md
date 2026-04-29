@@ -48,16 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Overview]]** (2 videos)
-- **[[#2. Modeling Basics]]** (5 videos)
-- **[[#3. Screencap Basics in Stata]]** (11 videos)
-- **[[#4. Advanced Topics]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Be prepared for the data jobs of the future
+- [**1. Overview**](#1-overview) (2 videos)
+  - Purpose of modeling in Stata
+  - The value of good data and good big data
+- [**2. Modeling Basics**](#2-modeling-basics) (5 videos)
+  - Statistics and econometrics
+  - Univariate and multivariate linear regression models
+  - Correlation is not causation
+  - Overly tight model fit
+  - Models are always wrong
+- [**3. Screencap Basics in Stata**](#3-screencap-basics-in-stata) (11 videos)
+  - Overview and enter data
+  - Data preparation and selection
+  - Inputting data
+  - Mean and summary statistics
+  - Standard deviation and SE
+  - Correlation
+  - Key output validity measures
+  - Univariate model
+  - Multivariate model
+  - Appling univariate model to forecast
+  - Saving and files
+- [**4. Advanced Topics**](#4-advanced-topics) (1 videos)
+  - Advanced topics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be prepared for the data jobs of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/be-prepared-for-the-data-jobs-of-the-future?u=76281980)
@@ -84,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose of modeling in Stata
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/purpose-of-modeling-in-stata?u=76281980)
@@ -154,7 +175,7 @@ created: 2026-04-29
 
 ### 2. Modeling Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Statistics and econometrics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/statistics-and-econometrics?u=76281980)
@@ -345,7 +366,7 @@ created: 2026-04-29
 
 ### 3. Screencap Basics in Stata
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview and enter data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/overview-and-enter-data?u=76281980)
@@ -1049,7 +1070,7 @@ created: 2026-04-29
 
 ### 4. Advanced Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced topics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/advanced-topics?u=76281980)
@@ -1163,7 +1184,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-economic-modeling-and-forecasting-with-stata/next-steps?u=76281980)

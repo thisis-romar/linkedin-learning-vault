@@ -46,19 +46,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding and Installing MapGuide]]** (3 videos)
-- **[[#2. Connecting and Loading Data with MapGuide Maestro]]** (3 videos)
-- **[[#3. Stylizing Data]]** (6 videos)
-- **[[#4. Maps]]** (1 videos)
-- **[[#5. Basic Web Layouts]]** (2 videos)
-- **[[#6. Application Definitions]]** (4 videos)
-- **[[#7. Publishing to the Web]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Explore what MapGuide has to offer
+  - Using the exercise files
+- [**1. Understanding and Installing MapGuide**](#1-understanding-and-installing-mapguide) (3 videos)
+  - Understanding the components of MapGuide
+  - Installing MapGuide Server and MapGuide Maestro
+  - Using the MapGuide web viewer
+- [**2. Connecting and Loading Data with MapGuide Maestro**](#2-connecting-and-loading-data-with-mapguide-maestro) (3 videos)
+  - Creating project folders in Maestro
+  - Loading data using Maestro
+  - Creating data connections with Maestro
+- [**3. Stylizing Data**](#3-stylizing-data) (6 videos)
+  - Creating point layers
+  - Creating polyline layers
+  - Creating polygon layers
+  - Creating raster layers
+  - Creating thematic layers
+  - Labeling vector layers
+- [**4. Maps**](#4-maps) (1 videos)
+  - Creating maps in Maestro
+- [**5. Basic Web Layouts**](#5-basic-web-layouts) (2 videos)
+  - Creating basic web layouts
+  - Creating searches in basic web layouts
+- [**6. Application Definitions**](#6-application-definitions) (4 videos)
+  - Creating application definitions
+  - Using Google and other external providers in application definitions
+  - Creating searches in application definitions
+  - Creating a QuickPlot
+- [**7. Publishing to the Web**](#7-publishing-to-the-web) (3 videos)
+  - Publishing to the web
+  - Publishing basic web layouts
+  - Publishing application definitions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore what MapGuide has to offer
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980)
@@ -122,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Understanding and Installing MapGuide
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the components of MapGuide
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980)
@@ -1029,7 +1054,7 @@ created: 2026-04-29
 
 ### 2. Connecting and Loading Data with MapGuide Maestro
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating project folders in Maestro
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980)
@@ -1700,7 +1725,7 @@ created: 2026-04-29
 
 ### 3. Stylizing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating point layers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-point-layers?u=76281980)
@@ -2818,7 +2843,7 @@ created: 2026-04-29
 
 ### 4. Maps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating maps in Maestro
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980)
@@ -3175,7 +3200,7 @@ created: 2026-04-29
 
 ### 5. Basic Web Layouts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating basic web layouts
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980)
@@ -3726,7 +3751,7 @@ created: 2026-04-29
 
 ### 6. Application Definitions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating application definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980)
@@ -4563,7 +4588,7 @@ created: 2026-04-29
 
 ### 7. Publishing to the Web
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Publishing to the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980)
@@ -4909,7 +4934,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980)

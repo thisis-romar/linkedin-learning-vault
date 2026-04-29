@@ -54,16 +54,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction and Setup]]** (4 videos)
-- **[[#2. Feature Engineering]]** (3 videos)
-- **[[#3. Training and Deployment]]** (4 videos)
-- **[[#4. React Front End]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Build an AI application with React and SageMaker
+  - Course prerequisites
+- [**1. Introduction and Setup**](#1-introduction-and-setup) (4 videos)
+  - Basics of machine learning
+  - Introduction to SageMaker
+  - AWS SageMaker setup
+  - Initializing the React project
+- [**2. Feature Engineering**](#2-feature-engineering) (3 videos)
+  - Introduction to SageMaker Data Wrangler
+  - Data cleaning and processing with Data Wrangler
+  - Feature engineering and transforming data
+- [**3. Training and Deployment**](#3-training-and-deployment) (4 videos)
+  - Overview of algorithms and the training process
+  - Train the model with Autopilot
+  - Review models and deploy
+  - Predict and clean up resources
+- [**4. React Front End**](#4-react-front-end) (4 videos)
+  - Base app component
+  - Form component
+  - Results component
+  - Finish results component
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue learning SageMaker
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build an AI application with React and SageMaker
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/build-an-ai-application-with-react-and-sagemaker?u=76281980)
@@ -108,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Introduction and Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/basics-of-machine-learning?u=76281980)
@@ -252,7 +270,7 @@ created: 2026-04-29
 
 ### 2. Feature Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to SageMaker Data Wrangler
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/introduction-to-sagemaker-data-wrangler?u=76281980)
@@ -667,7 +685,7 @@ created: 2026-04-29
 
 ### 3. Training and Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of algorithms and the training process
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/overview-of-algorithms-and-training-process?u=76281980)
@@ -1013,7 +1031,7 @@ created: 2026-04-29
 
 ### 4. React Front End
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Base app component
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/base-app-component?u=76281980)
@@ -1562,7 +1580,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning SageMaker
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-an-ai-application-with-react-and-aws-sagemaker/continue-learning-sagemaker?u=76281980)

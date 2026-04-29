@@ -47,15 +47,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Scala Basics]]** (8 videos)
-- **[[#2. Object-Oriented Programming in Scala]]** (11 videos)
-- **[[#3. Functional Programming in Scala]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction and setup
+- [**1. Scala Basics**](#1-scala-basics) (8 videos)
+  - Values and types
+  - Expressions
+  - Variables and instructions
+  - Functions
+  - Recursion
+  - Recursion: Exercise
+  - Recursion: Solution
+  - String interpolation
+- [**2. Object-Oriented Programming in Scala**](#2-object-oriented-programming-in-scala) (11 videos)
+  - Classes, instances, fields, and methods
+  - Classes, instances, and methods: Exercise
+  - Classes, instances, and methods: Solution
+  - Method notation
+  - Inheritance
+  - Overriding, polymorphism, and anonymous classes
+  - Abstract classes and traits
+  - Objects
+  - Case classes
+  - Exceptions
+  - Generics
+- [**3. Functional Programming in Scala**](#3-functional-programming-in-scala) (9 videos)
+  - Functional programming basics
+  - Anonymous functions
+  - Scala collections: List
+  - Map, flatMap, and filter
+  - List exercises
+  - List exercises: Solutions
+  - For comprehensions
+  - Scala collections: Ranges, arrays, and sets
+  - Scala collections: Tuples and maps
+- [**Conclusion**](#conclusion) (1 videos)
+  - Recap and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/introduction-and-setup?u=76281980)
@@ -282,7 +312,7 @@ created: 2026-04-29
 
 ### 1. Scala Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Values and types
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/values-and-types?u=76281980)
@@ -1797,7 +1827,7 @@ created: 2026-04-29
 
 ### 2. Object-Oriented Programming in Scala
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classes, instances, fields, and methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/classes-instances-fields-and-methods?u=76281980)
@@ -3988,7 +4018,7 @@ created: 2026-04-29
 
 ### 3. Functional Programming in Scala
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional programming basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/functional-programming-basics?u=76281980)
@@ -5858,7 +5888,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/scala-essential-training-2023/recap-and-next-steps?u=76281980)

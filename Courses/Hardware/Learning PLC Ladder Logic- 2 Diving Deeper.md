@@ -46,17 +46,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. PLC Data Input/Output BCD]]** (11 videos)
-- **[[#2. Math Instructions]]** (10 videos)
-- **[[#3. Data Compare Instructions]]** (7 videos)
-- **[[#4. Data Transfer Operation]]** (7 videos)
-- **[[#5. Sequence Logic]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn to climb the PLC ladder
+  - What you should know
+  - Using LogixPro PLC software simulation
+- [**1. PLC Data Input/Output BCD**](#1-plc-data-inputoutput-bcd) (11 videos)
+  - Introduction to binary coded decimal
+  - Thumbwheel in PLC
+  - FRD instruction
+  - Example: FRD
+  - Solution: FRD
+  - LED displays in PLC
+  - TOD instruction
+  - Example: TOD
+  - Solution: TOD
+  - Example: FRD and TOD
+  - Solution: FRD and TOD
+- [**2. Math Instructions**](#2-math-instructions) (10 videos)
+  - Introduction to math instructions
+  - Types of math instructions
+  - Considerations with math instructions
+  - Example: Convert Fahrenheit to Celsius
+  - Solution: Convert Fahrenheit to Celsius
+  - Example: Use arithmetic instructions
+  - Solution 1: Use arithmetic instructions
+  - Solution 2: Use arithmetic instructions
+  - ONS: One-shot instruction
+  - Example: ONS with math instructions
+- [**3. Data Compare Instructions**](#3-data-compare-instructions) (7 videos)
+  - Introduction to comparison instructions
+  - Common comparison instructions
+  - Example: Comparison instruction
+  - Solution: Comparison instruction
+  - Limit Comparison instruction
+  - Example and solution 1: LIM
+  - Example and solution 2: LIM
+- [**4. Data Transfer Operation**](#4-data-transfer-operation) (7 videos)
+  - Introduction to MOV instruction
+  - Example: MOV instruction
+  - Solution: MOV instruction
+  - Masked move instruction
+  - Mask parameter
+  - Example: MVM instruction
+  - Solution: MVM instruction
+- [**5. Sequence Logic**](#5-sequence-logic) (11 videos)
+  - Introduction to sequence logic
+  - Introduction to state diagrams
+  - Example: Develop a state diagram
+  - Solution: Develop a state diagram
+  - Understand bottle style logic
+  - Example: Sequential process
+  - Solution 1: Develop the state diagram
+  - Solution 2: Bottle logic for state 1
+  - Solution 3: Control section
+  - Solution 4: Output section
+  - Solution 5: Using the software
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to climb the PLC ladder
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/learn-to-climb-the-plc-ladder?u=76281980)
@@ -142,7 +192,7 @@ created: 2026-04-29
 
 ### 1. PLC Data Input/Output BCD
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to binary coded decimal
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-binary-coded-decimal?u=76281980)
@@ -619,7 +669,7 @@ created: 2026-04-29
 
 ### 2. Math Instructions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to math instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-math-instructions?u=76281980)
@@ -1081,7 +1131,7 @@ created: 2026-04-29
 
 ### 3. Data Compare Instructions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to comparison instructions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-comparison-instructions?u=76281980)
@@ -1357,7 +1407,7 @@ created: 2026-04-29
 
 ### 4. Data Transfer Operation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to MOV instruction
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-mov-instruction?u=76281980)
@@ -1640,7 +1690,7 @@ created: 2026-04-29
 
 ### 5. Sequence Logic
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to sequence logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/introduction-to-sequence-logic?u=76281980)
@@ -2178,7 +2228,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-2-diving-deeper/next-steps?u=76281980)

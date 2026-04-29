@@ -52,20 +52,69 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Tidy Data]]** (4 videos)
-- **[[#2. Working with Tibbles]]** (3 videos)
-- **[[#3. Importing Data into R]]** (8 videos)
-- **[[#4. Data Transformation]]** (5 videos)
-- **[[#5. Data Cleaning]]** (5 videos)
-- **[[#6. Data Wrangling Case Study: Coal Consumption]]** (5 videos)
-- **[[#7. Data Wrangling Case Study: Water Quality]]** (8 videos)
-- **[[#8. Data Wrangling Case Study: Social Security Disability]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Preparing for data wrangling
+  - What you need to know
+  - Exercise files
+- [**1. Tidy Data**](#1-tidy-data) (4 videos)
+  - What is tidy data?
+  - Variables, observations, and values
+  - Common data problems
+  - Using the tidyverse
+- [**2. Working with Tibbles**](#2-working-with-tibbles) (3 videos)
+  - Building and printing tibbles
+  - Subsetting tibbles
+  - Filtering tibbles
+- [**3. Importing Data into R**](#3-importing-data-into-r) (8 videos)
+  - What are CSV files?
+  - Importing CSV files into R
+  - What are TSV files?
+  - Importing TSV files into R
+  - Importing delimited files into R
+  - Importing fixed-width files into R
+  - Importing Excel files into R
+  - Reading data from databases and the web
+- [**4. Data Transformation**](#4-data-transformation) (5 videos)
+  - Wide vs. long datasets
+  - Making wide datasets long with pivot_longer()
+  - Making long datasets wide with pivot_wider()
+  - Converting data types in R
+  - Working with dates and times in R
+- [**5. Data Cleaning**](#5-data-cleaning) (5 videos)
+  - Detecting outliers
+  - Missing and special values in R
+  - Breaking apart columns with separate()
+  - Combining columns with unite()
+  - Manipulating strings in R with stringr
+- [**6. Data Wrangling Case Study: Coal Consumption**](#6-data-wrangling-case-study-coal-consumption) (5 videos)
+  - Understanding the coal dataset
+  - Reading in the coal dataset
+  - Converting the coal dataset from wide to long
+  - Segmenting the coal dataset
+  - Visualizing the coal dataset
+- [**7. Data Wrangling Case Study: Water Quality**](#7-data-wrangling-case-study-water-quality) (8 videos)
+  - Understanding the water quality dataset
+  - Reading in the water quality dataset
+  - Filtering the water quality dataset
+  - Water quality data types
+  - Correcting data entry errors
+  - Identifying and removing outliers
+  - Converting temperature from Fahrenheit to Celsius
+  - Widening the water quality dataset
+- [**8. Data Wrangling Case Study: Social Security Disability**](#8-data-wrangling-case-study-social-security-disability) (7 videos)
+  - Understanding the social security disability dataset
+  - Importing the social security disability dataset
+  - Making the social security disability dataset long
+  - Formatting dates in the social security disability dataset
+  - Fiscal years in the social security disability dataset
+  - Widening the social security disability dataset
+  - Visualizing the social security disability dataset
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for data wrangling
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/preparing-for-data-wrangling?u=76281980)
@@ -152,7 +201,7 @@ created: 2026-04-29
 
 ### 1. Tidy Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is tidy data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-is-tidy-data?u=76281980)
@@ -647,7 +696,7 @@ created: 2026-04-29
 
 ### 2. Working with Tibbles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building and printing tibbles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/building-and-printing-tibbles?u=76281980)
@@ -898,7 +947,7 @@ created: 2026-04-29
 
 ### 3. Importing Data into R
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are CSV files?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/what-are-csv-files?u=76281980)
@@ -1647,7 +1696,7 @@ created: 2026-04-29
 
 ### 4. Data Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wide vs. long datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/wide-vs-long-datasets?u=76281980)
@@ -2152,7 +2201,7 @@ created: 2026-04-29
 
 ### 5. Data Cleaning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Detecting outliers
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/detecting-outliers?u=76281980)
@@ -2827,7 +2876,7 @@ created: 2026-04-29
 
 ### 6. Data Wrangling Case Study: Coal Consumption
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the coal dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-coal-dataset?u=76281980)
@@ -3192,7 +3241,7 @@ created: 2026-04-29
 
 ### 7. Data Wrangling Case Study: Water Quality
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the water quality dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-water-quality-dataset?u=76281980)
@@ -3820,7 +3869,7 @@ created: 2026-04-29
 
 ### 8. Data Wrangling Case Study: Social Security Disability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the social security disability dataset
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/understanding-the-social-security-disability-dataset?u=76281980)
@@ -4223,7 +4272,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-wrangling-in-r-14135737/next-steps?u=76281980)

@@ -40,13 +40,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Data Stories]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Theory is good, but practice can be better
+  - What you should know
+- [**1. Data Stories**](#1-data-stories) (8 videos)
+  - Why perfect predictions can backfire
+  - Why inaccurate modelling can cause harm
+  - Why causality needs careful thought
+  - Why experiments need ethical considerations
+  - How dashboards and visualizations can clarify or obscure
+  - Why early modeling success should not be taken for granted
+  - Why effective communication between stakeholders matters
+  - Why survey quality shouldn't be taken for granted
+- [**Conclusion**](#conclusion) (1 videos)
+  - Boost your data skills
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Theory is good, but practice can be better
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/theory-is-good-but-practice-can-be-better?u=76281980)
@@ -115,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Data Stories
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why perfect predictions can backfire
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/why-perfect-predictions-can-backfire?u=76281980)
@@ -997,7 +1008,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Boost your data skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/decision-intelligence-data-stories/boost-your-data-skills?u=76281980)

@@ -52,20 +52,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Authentication and Accounts]]** (5 videos)
-- **[[#2. Authorization]]** (5 videos)
-- **[[#3. Encryption]]** (4 videos)
-- **[[#4. Viruses and Malware]]** (8 videos)
-- **[[#5. Network Security]]** (2 videos)
-- **[[#6. Group Policy]]** (4 videos)
-- **[[#7. Remote Desktop]]** (4 videos)
-- **[[#8. Additional Security Considerations]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Windows 10 security overview
+  - What you should know before starting
+  - About this update
+- [**1. Authentication and Accounts**](#1-authentication-and-accounts) (5 videos)
+  - Overview of authentication and accounts
+  - Working with local accounts in Windows 10
+  - Working with Microsoft accounts in Windows 10
+  - Working with domain accounts in Windows 10
+  - Working with Azure accounts in Windows 10
+- [**2. Authorization**](#2-authorization) (5 videos)
+  - Overview of authorization
+  - Understanding inheritance of permissions
+  - Assigning permissions
+  - Creating and using groups
+  - Working with built-in groups
+- [**3. Encryption**](#3-encryption) (4 videos)
+  - Overview of encryption
+  - Using BitLocker
+  - Using Encrypting File System (EFS)
+  - Encrypting files for the cloud
+- [**4. Viruses and Malware**](#4-viruses-and-malware) (8 videos)
+  - Virus and malware overview
+  - Exploring antimalware solutions
+  - Windows Defender: Virus and threat protection
+  - Windows Defender: Device performance and health
+  - Windows Defender: Firewall and network protection
+  - Windows Defender: App and browser control
+  - Windows Defender: Application guard
+  - Windows Defender: Endpoints
+- [**5. Network Security**](#5-network-security) (2 videos)
+  - Securing network traffic by using IPsec
+  - Using VPN in Windows 10
+- [**6. Group Policy**](#6-group-policy) (4 videos)
+  - Overview of Group Policy
+  - Applying security settings by using Group Policy
+  - Using Group Policy to audit actions in Window 10
+  - Using Group Policy to harden Windows 10
+- [**7. Remote Desktop**](#7-remote-desktop) (4 videos)
+  - Basic configuration of Remote Desktop
+  - Advanced Remote Desktop configuration using Group Policy
+  - Allowing Remote Desktop through firewall
+  - Changing listening port for Remote Desktop
+- [**8. Additional Security Considerations**](#8-additional-security-considerations) (4 videos)
+  - Controlling updates for Windows 10
+  - Browsing the web securely with Edge
+  - Secure Boot
+  - Enabling controlled folder access
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to learn more about Windows 10 security
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Windows 10 security overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/windows-10-security-overview?u=76281980)
@@ -146,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Authentication and Accounts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of authentication and accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authentication-and-accounts?u=76281980)
@@ -389,7 +429,7 @@ created: 2026-04-29
 
 ### 2. Authorization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of authorization
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-authorization?u=76281980)
@@ -835,7 +875,7 @@ created: 2026-04-29
 
 ### 3. Encryption
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of encryption
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-encryption?u=76281980)
@@ -1280,7 +1320,7 @@ created: 2026-04-29
 
 ### 4. Viruses and Malware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Virus and malware overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/virus-and-malware-overview?u=76281980)
@@ -1865,7 +1905,7 @@ created: 2026-04-29
 
 ### 5. Network Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing network traffic by using IPsec
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/securing-network-traffic-by-using-ipsec?u=76281980)
@@ -2032,7 +2072,7 @@ created: 2026-04-29
 
 ### 6. Group Policy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Group Policy
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/overview-of-group-policy?u=76281980)
@@ -2322,7 +2362,7 @@ created: 2026-04-29
 
 ### 7. Remote Desktop
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic configuration of Remote Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/basic-configuration-of-remote-desktop?u=76281980)
@@ -2588,7 +2628,7 @@ created: 2026-04-29
 
 ### 8. Additional Security Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Controlling updates for Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/controlling-updates-for-windows-10?u=76281980)
@@ -2859,7 +2899,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more about Windows 10 security
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-security-14135501/where-to-learn-more-about-windows-10-security?u=76281980)

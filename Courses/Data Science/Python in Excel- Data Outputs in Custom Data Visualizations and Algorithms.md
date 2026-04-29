@@ -52,15 +52,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introducing Excel and Python]]** (11 videos)
-- **[[#2. Applying Algorithms]]** (9 videos)
-- **[[#3. Creating Visuals]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introducing the power of Python in Excel
+  - What you should know
+  - Enabling Python in Excel
+- [**1. Introducing Excel and Python**](#1-introducing-excel-and-python) (11 videos)
+  - Breaking down Excel and Python processes
+  - Leveraging Power Query
+  - Using the PY Excel function
+  - Using the XL Excel function and Python variables
+  - Determining calculation order
+  - Importing Python libraries into Excel
+  - Managing errors
+  - Working with Python objects
+  - Transforming DataFrame objects
+  - Challenge: Creating table objects in Excel
+  - Solution: Creating table objects in Excel
+- [**2. Applying Algorithms**](#2-applying-algorithms) (9 videos)
+  - Introducing AI and machine learning algorithms
+  - Determining trends for linear regression with Excel functions
+  - Leveraging Excel Solver for logistic regression
+  - Determining trends for logistic regression with Python code
+  - Grouping data with hierarchical clustering
+  - Grouping data with the K-Means algorithm
+  - Determining anomalies with anomaly detection algorithms
+  - Challenge: Running algorithms with Python in Excel
+  - Solution: Running algorithms with Python in Excel
+- [**3. Creating Visuals**](#3-creating-visuals) (9 videos)
+  - Visualizing data
+  - Leveraging Excel line charts
+  - Leveraging Excel scatter plots
+  - Configuring Python in Excel with dynamic parameters
+  - Creating Python visuals
+  - Visualizing hierarchical clustering with dendrograms
+  - Breaking down time series models into components
+  - Challenge: Comparing time series components to anomalies
+  - Solution: Comparing time series components to anomalies
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with Python in Excel
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the power of Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-the-power-of-python-in-excel?u=76281980)
@@ -139,7 +172,7 @@ created: 2026-04-29
 
 ### 1. Introducing Excel and Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking down Excel and Python processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/breaking-down-excel-and-python-processes?u=76281980)
@@ -1067,7 +1100,7 @@ created: 2026-04-29
 
 ### 2. Applying Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing AI and machine learning algorithms
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/introducing-ai-and-machine-learning-algorithms?u=76281980)
@@ -1725,7 +1758,7 @@ created: 2026-04-29
 
 ### 3. Creating Visuals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/visualizing-data?u=76281980)
@@ -2397,7 +2430,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms/continuing-on-with-python-in-excel?u=76281980)

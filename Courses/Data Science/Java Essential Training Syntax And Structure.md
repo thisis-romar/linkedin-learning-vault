@@ -46,21 +46,75 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started with Java]]** (2 videos)
-- **[[#2. Java Basics]]** (5 videos)
-- **[[#3. Variables]]** (7 videos)
-- **[[#4. Decision Structures]]** (9 videos)
-- **[[#5. Repetition Structures]]** (6 videos)
-- **[[#6. Methods]]** (7 videos)
-- **[[#7. Objects]]** (8 videos)
-- **[[#8. Arrays]]** (3 videos)
-- **[[#9. Text Processing]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn the essentials of Java 17
+  - CoderPad tour
+  - Programming and algorithms
+- [**1. Getting Started with Java**](#1-getting-started-with-java) (2 videos)
+  - Install IntelliJ Community Edition
+  - Install the Java Development Kit (JDK)
+- [**2. Java Basics**](#2-java-basics) (5 videos)
+  - Packages
+  - Classes
+  - Main method
+  - Reserved words
+  - Code Solution: Method names
+- [**3. Variables**](#3-variables) (7 videos)
+  - Creating variables
+  - Primitive data types
+  - Local variable type inference
+  - Naming variables
+  - Modifying variables
+  - Arithmetic operators
+  - Code Solution: Fill in the blanks
+- [**4. Decision Structures**](#4-decision-structures) (9 videos)
+  - If statements
+  - If-else statements
+  - If-else-if statements
+  - Switch statements
+  - Switch expressions
+  - Relational operators
+  - Logical operators
+  - Short circuit logic
+  - Code Solution: Change for a dollar game
+- [**5. Repetition Structures**](#5-repetition-structures) (6 videos)
+  - While loop
+  - Do while loop
+  - For loop
+  - Nested loops
+  - Break statement
+  - Code Solution: Roll the die game
+- [**6. Methods**](#6-methods) (7 videos)
+  - Creating methods
+  - Calling methods
+  - Variable scope
+  - Passing data to methods
+  - Returning data from methods
+  - Overloading methods
+  - Code Solution: Calculator
+- [**7. Objects**](#7-objects) (8 videos)
+  - Defining classes for objects
+  - Constructors
+  - Instantiating objects
+  - Objects as method parameters
+  - Objects as method return types
+  - Wrapper classes
+  - Records
+  - Code Solution: Create a car object
+- [**8. Arrays**](#8-arrays) (3 videos)
+  - Arrays
+  - Variable arguments
+  - Code Solution: Generate a bingo card
+- [**9. Text Processing**](#9-text-processing) (3 videos)
+  - Strings
+  - Text blocks
+  - Code Solution: Password validator
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the essentials of Java 17
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/learn-the-essentials-of-java-17?u=76281980)
@@ -154,7 +208,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install IntelliJ Community Edition
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/install-intellij-community-edition?u=76281980)
@@ -231,7 +285,7 @@ created: 2026-04-29
 
 ### 2. Java Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Packages
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/packages?u=76281980)
@@ -486,7 +540,7 @@ created: 2026-04-29
 
 ### 3. Variables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-variables?u=76281980)
@@ -905,7 +959,7 @@ created: 2026-04-29
 
 ### 4. Decision Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/if-statements?u=76281980)
@@ -1517,7 +1571,7 @@ created: 2026-04-29
 
 ### 5. Repetition Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### While loop
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/while-loop?u=76281980)
@@ -2017,7 +2071,7 @@ created: 2026-04-29
 
 ### 6. Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/creating-methods?u=76281980)
@@ -2484,7 +2538,7 @@ created: 2026-04-29
 
 ### 7. Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining classes for objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/defining-classes-for-objects?u=76281980)
@@ -2979,7 +3033,7 @@ created: 2026-04-29
 
 ### 8. Arrays
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/arrays?u=76281980)
@@ -3179,7 +3233,7 @@ created: 2026-04-29
 
 ### 9. Text Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/strings?u=76281980)
@@ -3386,7 +3440,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610/next-steps?u=76281980)

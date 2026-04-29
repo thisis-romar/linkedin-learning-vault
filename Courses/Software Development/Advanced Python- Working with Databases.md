@@ -53,16 +53,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Databases in Python]]** (4 videos)
-- **[[#2. Using SQLite in Python]]** (11 videos)
-- **[[#3. Using MySQL in Python]]** (13 videos)
-- **[[#4. Using PostgreSQL in Python]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Using databases to level up your Python applications
+- [**1. Introduction to Databases in Python**](#1-introduction-to-databases-in-python) (4 videos)
+  - What is a database?
+  - Relational databases
+  - Non-relational databases
+  - Python Database API
+- [**2. Using SQLite in Python**](#2-using-sqlite-in-python) (11 videos)
+  - What is SQLite?
+  - Creating an SQLite database
+  - Inserting your first record into an SQLite database
+  - Adding multiple records at a time to an SQLite database
+  - Filtering records in an SQLite database
+  - What is SQLAlchemy?
+  - Setting up a virtual environment for SQLAlchemy
+  - Executing a SQL query with SQLAlchemy
+  - Using the SQL expression language to write maintainable code
+  - Challenge: Create an SQLite database
+  - Solution: Create an SQLite database
+- [**3. Using MySQL in Python**](#3-using-mysql-in-python) (13 videos)
+  - What is MySQL?
+  - Creating a MySQL database
+  - Building tables in a MySQL database
+  - Adding data to a MySQL database
+  - Connecting a Python application to a MySQL database
+  - Encapsulating database operations
+  - Setting up MySQL in Python using SQLAlchemy
+  - Building a model with SQLAlchemy ORM
+  - Adding up a foreign key with SQLAlchemy ORM
+  - Using SQLAlchemy Sessions to transact on a MySQL database
+  - Retrieving data using SQLAlchemy ORM
+  - Challenge: Create a MySQL database
+  - Solution: Create a MySQL database
+- [**4. Using PostgreSQL in Python**](#4-using-postgresql-in-python) (11 videos)
+  - What is PostgreSQL?
+  - Creating a PostgreSQL database
+  - Creating a table in Postgres using Python
+  - Inserting data into a Postgres database
+  - Interacting with a Postgres database using Python
+  - Setting up SQLAlchemy Core to connect to a Postgres database
+  - Manipulating with Postgres data using SQLAlchemy Core
+  - Setting up SQLAlchemy ORM to connect to a Postgres database
+  - Manipulating with Postgres data using SQLAlchemy ORM
+  - Challenge: Create a Postgres database
+  - Solution: Create a Postgres database
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue using databases in Python applications
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using databases to level up your Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/using-databases-to-level-up-your-python-applications?u=76281980)
@@ -94,7 +135,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Databases in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-a-database?u=76281980)
@@ -388,7 +429,7 @@ created: 2026-04-29
 
 ### 2. Using SQLite in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SQLite?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-sqlite?u=76281980)
@@ -1210,7 +1251,7 @@ created: 2026-04-29
 
 ### 3. Using MySQL in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is MySQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-mysql?u=76281980)
@@ -2232,7 +2273,7 @@ created: 2026-04-29
 
 ### 4. Using PostgreSQL in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is PostgreSQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/what-is-postgresql?u=76281980)
@@ -3034,7 +3075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue using databases in Python applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-working-with-databases-22307421/continue-using-databases-in-python-applications?u=76281980)

@@ -53,15 +53,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (4 videos)
-- **[[#2. Building Functionality]]** (4 videos)
-- **[[#3. Variations on a Theme]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - The best dynamic Python data structure: Linked Lists
+  - What You Should Know
+  - Using CoderPad
+- [**1. Getting Started**](#1-getting-started) (4 videos)
+  - Lists, Linked Lists, and Memory
+  - Practical Applications of Linked Lists
+  - Building a Linked List in Python
+  - Solution: Finding a middle ground
+- [**2. Building Functionality**](#2-building-functionality) (4 videos)
+  - Searching
+  - Deleting Nodes
+  - Inserting Nodes
+  - Solution: Removing duplicates
+- [**3. Variations on a Theme**](#3-variations-on-a-theme) (4 videos)
+  - Circular Lists
+  - Doubly Linked Lists
+  - Orthogonal Linked Lists
+  - Solution: Fixing a doubly-linked list
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The best dynamic Python data structure: Linked Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/the-best-dynamic-python-data-structure-linked-lists?u=76281980)
@@ -214,7 +230,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lists, Linked Lists, and Memory
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/lists-linked-lists-and-memory?u=76281980)
@@ -614,7 +630,7 @@ created: 2026-04-29
 
 ### 2. Building Functionality
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Searching
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/searching?u=76281980)
@@ -1005,7 +1021,7 @@ created: 2026-04-29
 
 ### 3. Variations on a Theme
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Circular Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/circular-lists?u=76281980)
@@ -1581,7 +1597,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506/next-steps?u=76281980)

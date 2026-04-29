@@ -48,15 +48,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Remote and Virtual Projects Overview]]** (3 videos)
-- **[[#2. Engaging Remote Project Teams]]** (3 videos)
-- **[[#3. Getting Project Work Done Virtually]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to remote project management
+- [**1. Remote and Virtual Projects Overview**](#1-remote-and-virtual-projects-overview) (3 videos)
+  - What is different about remote projects?
+  - Pros and cons of virtual project teams
+  - Must-haves for remote projects
+- [**2. Engaging Remote Project Teams**](#2-engaging-remote-project-teams) (3 videos)
+  - Managing expectations for virtual project teams
+  - Tips for structuring a project team
+  - Communicating with project team members virtually
+- [**3. Getting Project Work Done Virtually**](#3-getting-project-work-done-virtually) (3 videos)
+  - Collaboration tools for virtual project teams
+  - How to lead effective virtual project meetings
+  - Challenges and solutions with virtual teams
+- [**Conclusion**](#conclusion) (1 videos)
+  - Takeaways for remote project teams
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to remote project management
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/introduction-to-remote-project-management?u=76281980)
@@ -86,7 +97,7 @@ created: 2026-04-29
 
 ### 1. Remote and Virtual Projects Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is different about remote projects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/what-is-different-about-remote-projects?u=76281980)
@@ -294,7 +305,7 @@ created: 2026-04-29
 
 ### 2. Engaging Remote Project Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing expectations for virtual project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/managing-expectations-for-virtual-project-teams?u=76281980)
@@ -481,7 +492,7 @@ created: 2026-04-29
 
 ### 3. Getting Project Work Done Virtually
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaboration tools for virtual project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/collaboration-tools-for-virtual-project-teams?u=76281980)
@@ -744,7 +755,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Takeaways for remote project teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/leading-remote-projects-and-virtual-teams/takeaways-for-remote-project-teams?u=76281980)

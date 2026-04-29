@@ -59,17 +59,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Context: Law, Ethics, and AI Risk]]** (5 videos)
-- **[[#2. Context: AI in Your Organization]]** (2 videos)
-- **[[#3. Culture: Establishing Governance Structures]]** (5 videos)
-- **[[#4. Content: Managing Data and AI Models]]** (7 videos)
-- **[[#5. Commitment]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Actionable steps to responsible AI
+  - Moving from principles to practice
+  - Introducing the Landon Hotel
+- [**1. Context: Law, Ethics, and AI Risk**](#1-context-law-ethics-and-ai-risk) (5 videos)
+  - Connector: Start with context
+  - The AI legal landscape
+  - Understanding ethical AI risks
+  - Getting clear on organizational values and AI risks
+  - The AI ethics statement, policies, and metrics
+- [**2. Context: AI in Your Organization**](#2-context-ai-in-your-organization) (2 videos)
+  - Documenting AI
+  - Procurement and Shadow AI
+- [**3. Culture: Establishing Governance Structures**](#3-culture-establishing-governance-structures) (5 videos)
+  - Connector: From context to culture
+  - Tone at the top
+  - Existing roles
+  - The AI ethics committee
+  - Diversity and stakeholders
+- [**4. Content: Managing Data and AI Models**](#4-content-managing-data-and-ai-models) (7 videos)
+  - Connector: From culture to content
+  - The big three: Privacy, bias, and explainability
+  - Addressing privacy, bias, and explainability in your AI program
+  - Data done right
+  - Document, document, document
+  - Environmental impacts
+  - A brief word about cybersecurity
+- [**5. Commitment**](#5-commitment) (4 videos)
+  - Connector: Moving to commitment
+  - Model drift and monitoring
+  - The role of independent audit
+  - Nurturing a responsible AI culture
+- [**Conclusion**](#conclusion) (1 videos)
+  - The journey of responsible AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Actionable steps to responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/actionable-steps-to-responsible-ai?u=76281980)
@@ -228,7 +255,7 @@ created: 2026-04-29
 
 ### 1. Context: Law, Ethics, and AI Risk
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connector: Start with context
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-start-with-context?u=76281980)
@@ -611,7 +638,7 @@ created: 2026-04-29
 
 ### 2. Context: AI in Your Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Documenting AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/documenting-ai?u=76281980)
@@ -776,7 +803,7 @@ created: 2026-04-29
 
 ### 3. Culture: Establishing Governance Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connector: From context to culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-context-to-culture?u=76281980)
@@ -1058,7 +1085,7 @@ created: 2026-04-29
 
 ### 4. Content: Managing Data and AI Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connector: From culture to content
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-from-culture-to-content?u=76281980)
@@ -1478,7 +1505,7 @@ created: 2026-04-29
 
 ### 5. Commitment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connector: Moving to commitment
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/connector-moving-to-commitment?u=76281980)
@@ -1686,7 +1713,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The journey of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-responsible-ai-program-context-culture-content-and-commitment/the-journey-of-responsible-ai?u=76281980)

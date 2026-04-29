@@ -49,17 +49,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Understanding Design Patterns]]** (6 videos)
-- **[[#2. Creational Patterns]]** (12 videos)
-- **[[#3. Structural Patterns]]** (12 videos)
-- **[[#4. Behavioral Patterns]]** (12 videos)
-- **[[#5. Design Best Practices]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Explore design patterns
+  - What you should know
+  - CoderPad placeholder video
+- [**1. Understanding Design Patterns**](#1-understanding-design-patterns) (6 videos)
+  - What is a design pattern?
+  - Types of design patterns
+  - Understanding object-oriented programming
+  - Working with inheritance and polymorphism
+  - Understanding pattern context
+  - Working with pattern language
+- [**2. Creational Patterns**](#2-creational-patterns) (12 videos)
+  - Factory
+  - Factory example
+  - Solution: Factory
+  - Abstract Factory
+  - Abstract Factory example
+  - Singleton
+  - Singleton example
+  - Solution: Singleton
+  - Builder
+  - Builder example
+  - Prototype
+  - Prototype example
+- [**3. Structural Patterns**](#3-structural-patterns) (12 videos)
+  - Decorator
+  - Decorator example
+  - Solution: Decorator
+  - Proxy
+  - Proxy example
+  - Adapter
+  - Adapter example
+  - Composite
+  - Composite example
+  - Solution: Composite
+  - Bridge
+  - Bridge example
+- [**4. Behavioral Patterns**](#4-behavioral-patterns) (12 videos)
+  - Observer
+  - Observer example
+  - Solution: Observer
+  - Visitor
+  - Visitor Example
+  - Iterator
+  - Iterator example
+  - Strategy
+  - Strategy Example
+  - Solution: Strategy
+  - Chain of Responsibility
+  - Chain of Responsibility example
+- [**5. Design Best Practices**](#5-design-best-practices) (2 videos)
+  - Consistency
+  - Programmer's mindset
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/explore-design-patterns?u=76281980)
@@ -186,7 +234,7 @@ created: 2026-04-29
 
 ### 1. Understanding Design Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a design pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/what-is-a-design-pattern?u=76281980)
@@ -482,7 +530,7 @@ created: 2026-04-29
 
 ### 2. Creational Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Factory
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/factory?u=76281980)
@@ -1332,7 +1380,7 @@ created: 2026-04-29
 
 ### 3. Structural Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Decorator
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/decorator?u=76281980)
@@ -2018,7 +2066,7 @@ created: 2026-04-29
 
 ### 4. Behavioral Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Observer
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/observer?u=76281980)
@@ -2771,7 +2819,7 @@ created: 2026-04-29
 
 ### 5. Design Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Consistency
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/consistency?u=76281980)
@@ -2863,7 +2911,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-design-patterns-24559831/next-steps?u=76281980)

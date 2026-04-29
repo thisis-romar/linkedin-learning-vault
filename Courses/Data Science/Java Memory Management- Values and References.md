@@ -50,16 +50,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Java Memory Explained]]** (6 videos)
-- **[[#2. Values vs. References]]** (6 videos)
-- **[[#3. Careful: Escaping References]]** (6 videos)
-- **[[#4. Quick Peek at Next Steps]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Make beautiful stack overflow errors
+  - What you should know
+  - Explore the code challenge environment
+- [**1. Java Memory Explained**](#1-java-memory-explained) (6 videos)
+  - What is Java memory?
+  - The importance of understanding Java memory
+  - JVM and memory management
+  - Stack memory
+  - Heap memory
+  - Heap vs. stack
+- [**2. Values vs. References**](#2-values-vs-references) (6 videos)
+  - Primitives
+  - Objects
+  - Final classes and immutable objects
+  - Strings in memory
+  - Primitives and objects in memory
+  - Solution: Making an object immutable
+- [**3. Careful: Escaping References**](#3-careful-escaping-references) (6 videos)
+  - The problem of escaping references
+  - Collections and escaping references
+  - Avoiding escaping collection references
+  - Example custom objects: References on the loose
+  - Avoiding escaping references
+  - Solution: Fixing an escaping reference
+- [**4. Quick Peek at Next Steps**](#4-quick-peek-at-next-steps) (4 videos)
+  - Garbage collection
+  - JVM tuning
+  - Spotting and avoiding memory leaks
+  - Solution: Fix the memory leak
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with Java memory management
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make beautiful stack overflow errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980)
@@ -120,7 +146,7 @@ created: 2026-04-29
 
 ### 1. Java Memory Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Java memory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980)
@@ -561,7 +587,7 @@ created: 2026-04-29
 
 ### 2. Values vs. References
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Primitives
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives?u=76281980)
@@ -1009,7 +1035,7 @@ created: 2026-04-29
 
 ### 3. Careful: Escaping References
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The problem of escaping references
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980)
@@ -1736,7 +1762,7 @@ created: 2026-04-29
 
 ### 4. Quick Peek at Next Steps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Garbage collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/garbage-collection?u=76281980)
@@ -2020,7 +2046,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with Java memory management
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980)

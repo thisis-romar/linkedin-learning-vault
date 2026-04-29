@@ -47,16 +47,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. How CMB2 Works]]** (8 videos)
-- **[[#2. Building Our Custom Fields]]** (9 videos)
-- **[[#3. Creating a Post Select Box]]** (2 videos)
-- **[[#4. Noteworthy Features]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Custom fields without dependency
+  - What you should know
+  - Demo project overview
+- [**1. How CMB2 Works**](#1-how-cmb2-works) (8 videos)
+  - What is CMB2 and how does it work?
+  - The difference between CMB2 and ACF
+  - Installing CMB2 via the Plugin Directory
+  - Setting up our project plugin
+  - CMB2 as a library for your plugin
+  - The CMB2 documentation
+  - Field types in CMB2
+  - CMB2 and the block editor
+- [**2. Building Our Custom Fields**](#2-building-our-custom-fields) (9 videos)
+  - Defining our custom fields
+  - Creating our meta boxes
+  - Adding a the custom field type
+  - Adding fields to our meta boxes
+  - Adding a file uploader
+  - Creating a repeatable field
+  - How to get data from CMB2
+  - Adding our custom fields to the frontend
+  - Displaying from a repeatable field
+- [**3. Creating a Post Select Box**](#3-creating-a-post-select-box) (2 videos)
+  - Building a post select box
+  - Updating the content output
+- [**4. Noteworthy Features**](#4-noteworthy-features) (4 videos)
+  - Bringing in taxonomies
+  - Frontend Meta Box support
+  - Creating a theme options page
+  - Adding fields to user profiles
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Custom fields without dependency
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/custom-fields-without-dependency?u=76281980)
@@ -150,7 +177,7 @@ created: 2026-04-29
 
 ### 1. How CMB2 Works
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is CMB2 and how does it work?
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/what-is-cmb2-and-how-does-it-work?u=76281980)
@@ -532,7 +559,7 @@ created: 2026-04-29
 
 ### 2. Building Our Custom Fields
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining our custom fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/defining-our-custom-fields?u=76281980)
@@ -1623,7 +1650,7 @@ created: 2026-04-29
 
 ### 3. Creating a Post Select Box
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a post select box
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/building-a-post-select-box?u=76281980)
@@ -1856,7 +1883,7 @@ created: 2026-04-29
 
 ### 4. Noteworthy Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bringing in taxonomies
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/bringing-in-taxonomies?u=76281980)
@@ -2043,7 +2070,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-custom-meta-boxes-in-wordpress/next-steps?u=76281980)

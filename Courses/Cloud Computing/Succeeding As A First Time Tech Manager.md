@@ -62,16 +62,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Build the Right Team]]** (7 videos)
-- **[[#2. Implement a Shared Vision]]** (3 videos)
-- **[[#3. Talking Tech to Any Audience]]** (3 videos)
-- **[[#4. Working with Global Teams]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - What it takes to lead
+- [**1. Build the Right Team**](#1-build-the-right-team) (7 videos)
+  - Preparing for the leadership role
+  - Understanding your team
+  - Hiring for complementary skills
+  - Always be hiring
+  - Evolving role of tech managers in the era of AI
+  - Managing human-AI collaboration
+  - Preparing for future
+- [**2. Implement a Shared Vision**](#2-implement-a-shared-vision) (3 videos)
+  - Communicating organizational vision
+  - Creating the goal for your team
+  - Creating KPIs for the common goal
+- [**3. Talking Tech to Any Audience**](#3-talking-tech-to-any-audience) (3 videos)
+  - Integrating your team with the business
+  - Talking tech to a non-tech audience
+  - Talking business to a tech audience
+- [**4. Working with Global Teams**](#4-working-with-global-teams) (5 videos)
+  - Leading a global team
+  - Communicating across cultures
+  - Implementing a global vision
+  - Working with global teams
+  - Leveraging AI for decision-making
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What it takes to lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/what-it-takes-to-lead-24914295?u=76281980)
@@ -106,7 +126,7 @@ created: 2026-04-29
 
 ### 1. Build the Right Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for the leadership role
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/preparing-for-the-leadership-role-24918144?u=76281980)
@@ -557,7 +577,7 @@ created: 2026-04-29
 
 ### 2. Implement a Shared Vision
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicating organizational vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/communicating-organizational-vision-24919137?u=76281980)
@@ -785,7 +805,7 @@ created: 2026-04-29
 
 ### 3. Talking Tech to Any Audience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating your team with the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/integrating-your-team-with-the-business-24920109?u=76281980)
@@ -916,7 +936,7 @@ created: 2026-04-29
 
 ### 4. Working with Global Teams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leading a global team
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/leading-a-global-team-24915135?u=76281980)
@@ -1213,7 +1233,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-as-a-first-time-tech-manager-23674826/next-steps-24919131?u=76281980)

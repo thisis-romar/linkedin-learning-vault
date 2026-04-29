@@ -50,16 +50,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to SQL Server and Relational Database Concepts]]** (4 videos)
-- **[[#2. Single Table Select Statements]]** (5 videos)
-- **[[#3. Multiple Table Select Statements]]** (6 videos)
-- **[[#4. Additional SQL Query Tools]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - How can SQL answer your data questions?
+  - Introduction to CoderPad
+- [**1. Introduction to SQL Server and Relational Database Concepts**](#1-introduction-to-sql-server-and-relational-database-concepts) (4 videos)
+  - What is SQL Server?
+  - Understanding servers, databases, and tables
+  - Relational database concepts
+  - Surrogate, primary, and foreign keys
+- [**2. Single Table Select Statements**](#2-single-table-select-statements) (5 videos)
+  - SQL data types and nullability
+  - Reading from a single table in SQL
+  - Filtering on a single condition in SQL
+  - Filtering on multiple conditions in SQL
+  - Solution: Filtering dates
+- [**3. Multiple Table Select Statements**](#3-multiple-table-select-statements) (6 videos)
+  - Inner joins
+  - Multiple inner joins
+  - Solution: Inner joins
+  - Outer joins
+  - Solution: Working with multiple tables
+  - Subqueries
+- [**4. Additional SQL Query Tools**](#4-additional-sql-query-tools) (6 videos)
+  - Case statements
+  - Solution: Case statement
+  - Built-in functions
+  - Aggregates
+  - Solution: Aggregates
+  - Query processing order
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How can SQL answer your data questions?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/how-can-sql-answer-your-data-questions?u=76281980)
@@ -128,7 +152,7 @@ created: 2026-04-29
 
 ### 1. Introduction to SQL Server and Relational Database Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SQL Server?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/what-is-sql-server-23421631?u=76281980)
@@ -401,7 +425,7 @@ created: 2026-04-29
 
 ### 2. Single Table Select Statements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL data types and nullability
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/sql-data-types-and-nullability?u=76281980)
@@ -974,7 +998,7 @@ created: 2026-04-29
 
 ### 3. Multiple Table Select Statements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inner joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/inner-joins?u=76281980)
@@ -1413,7 +1437,7 @@ created: 2026-04-29
 
 ### 4. Additional SQL Query Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Case statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/case-statements?u=76281980)
@@ -2056,7 +2080,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-fundamentals-master-basic-query-techniques/next-steps?u=76281980)

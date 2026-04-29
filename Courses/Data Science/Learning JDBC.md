@@ -52,15 +52,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introducing Java Data Access]]** (7 videos)
-- **[[#2. Data Access Basics]]** (11 videos)
-- **[[#3. Advanced Data Access]]** (6 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Get going with data access in Java
+  - What you need to know
+- [**1. Introducing Java Data Access**](#1-introducing-java-data-access) (7 videos)
+  - Relational database management systems
+  - Java Database Connectivity
+  - Terminology of JDBC
+  - Introduction to PostgreSQL
+  - Setting up Postgresql
+  - Creating the project
+  - Create, read, update, and delete (CRUD)
+- [**2. Data Access Basics**](#2-data-access-basics) (11 videos)
+  - Using a driver
+  - The Data Access Object (DAO) pattern
+  - Understanding result sets
+  - Reading all data
+  - Reading instance data
+  - Creating data
+  - Updating data
+  - Deleting data
+  - The Repository pattern
+  - Challenge: Implement a DAO
+  - Solution: Implement a DAO
+- [**3. Advanced Data Access**](#3-advanced-data-access) (6 videos)
+  - Using stored procedures
+  - Ordering and limiting results
+  - Paging
+  - Connection pooling and management
+  - Understanding transactions
+  - Exception handling in JDBC
+- [**Conclusion**](#conclusion) (2 videos)
+  - JPA and ORM
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get going with data access in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/get-going-with-data-access-in-java?u=76281980)
@@ -148,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Introducing Java Data Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational database management systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/relational-database-management-systems?u=76281980)
@@ -704,7 +732,7 @@ created: 2026-04-29
 
 ### 2. Data Access Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a driver
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/using-a-driver?u=76281980)
@@ -1742,7 +1770,7 @@ created: 2026-04-29
 
 ### 3. Advanced Data Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using stored procedures
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/using-stored-procedures?u=76281980)
@@ -2250,7 +2278,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JPA and ORM
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jdbc-24697410/jpa-and-orm?u=76281980)

@@ -46,16 +46,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Qualitative Research]]** (6 videos)
-- **[[#2. Quantitative Research]]** (3 videos)
-- **[[#3. Research Design: Creating Your Marketing Research Plan]]** (4 videos)
-- **[[#4. Communicating Your Research: Your Deliverables]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The power of market research
+  - Primary and secondary research
+- [**1. Qualitative Research**](#1-qualitative-research) (6 videos)
+  - Focus groups
+  - User interviews
+  - Image-based interviews
+  - Ethnography
+  - Diary studies
+  - Usability testing
+- [**2. Quantitative Research**](#2-quantitative-research) (3 videos)
+  - Surveys
+  - Data analytics
+  - Eye tracking and biometrics
+- [**3. Research Design: Creating Your Marketing Research Plan**](#3-research-design-creating-your-marketing-research-plan) (4 videos)
+  - Articulating your research goals
+  - Qualitative vs. quantitative: When to use each research method
+  - Selling your company on research
+  - Recruiting: How to find the right participants
+- [**4. Communicating Your Research: Your Deliverables**](#4-communicating-your-research-your-deliverables) (3 videos)
+  - Presenting your research: A crash course in persuasive techniques
+  - Personas
+  - Journey mapping
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of market research
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/the-power-of-market-research?u=76281980)
@@ -134,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Qualitative Research
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Focus groups
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/focus-groups?u=76281980)
@@ -604,7 +623,7 @@ created: 2026-04-29
 
 ### 2. Quantitative Research
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Surveys
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/surveys-2?u=76281980)
@@ -832,7 +851,7 @@ created: 2026-04-29
 
 ### 3. Research Design: Creating Your Marketing Research Plan
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Articulating your research goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/articulating-your-research-goals?u=76281980)
@@ -1122,7 +1141,7 @@ created: 2026-04-29
 
 ### 4. Communicating Your Research: Your Deliverables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Presenting your research: A crash course in persuasive techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/presenting-your-research-a-crash-course-in-persuasive-techniques?u=76281980)
@@ -1371,7 +1390,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/market-research-foundations/next-steps?u=76281980)

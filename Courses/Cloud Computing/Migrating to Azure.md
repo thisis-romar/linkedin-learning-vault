@@ -41,14 +41,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Starting Your Cloud Journey]]** (6 videos)
-- **[[#2. Becoming Azure Ready]]** (6 videos)
-- **[[#3. Beginning Your Azure Migration]]** (6 videos)
-- **[[#4. Innovating with Azure Cloud Services]]** (6 videos)
+- [**1. Starting Your Cloud Journey**](#1-starting-your-cloud-journey) (6 videos)
+  - Introducing the scenario
+  - The Microsoft Cloud Adoption Framework
+  - Motivations for migration
+  - Defining a migration strategy
+  - Planning for migration
+  - Choosing the right first project
+- [**2. Becoming Azure Ready**](#2-becoming-azure-ready) (6 videos)
+  - Organizing resources
+  - Managing access
+  - Managing costs
+  - Monitoring and reporting in Azure
+  - Working with Azure Monitor
+  - Best practice guidance
+- [**3. Beginning Your Azure Migration**](#3-beginning-your-azure-migration) (6 videos)
+  - Exploring migration scenarios
+  - Introducing Azure Migrate
+  - Migrating a virtual machine
+  - Migrating SQL Server
+  - Migrating data
+  - Migration best practces
+- [**4. Innovating with Azure Cloud Services**](#4-innovating-with-azure-cloud-services) (6 videos)
+  - Start innovating
+  - Introducing PaaS
+  - Introducing App Service
+  - Going serverless
+  - Artificial intelligence
+  - Automating repetitive tasks
 
 ### 1. Starting Your Cloud Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the scenario
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/introducing-the-scenario?u=76281980)
@@ -666,7 +690,7 @@ created: 2026-04-29
 
 ### 2. Becoming Azure Ready
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/organizing-resources?u=76281980)
@@ -1313,7 +1337,7 @@ created: 2026-04-29
 
 ### 3. Beginning Your Azure Migration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring migration scenarios
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/exploring-migration-scenarios?u=76281980)
@@ -1849,7 +1873,7 @@ created: 2026-04-29
 
 ### 4. Innovating with Azure Cloud Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start innovating
 > [LinkedIn Learning](https://www.linkedin.com/learning/migrating-to-azure/start-innovating?u=76281980)

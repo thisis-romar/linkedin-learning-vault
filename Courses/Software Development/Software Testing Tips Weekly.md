@@ -46,13 +46,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Soft skills]]** (7 videos)
-- **[[#Productivity]]** (6 videos)
-- **[[#Testing skills]]** (11 videos)
+- [**Soft skills**](#soft-skills) (7 videos)
+  - Top tips for talking with developers
+  - Building team communication skills
+  - Testing: Becoming an evangelist
+  - Asking questions
+  - Quality responsibility
+  - Sprint planning
+  - Be positive
+- [**Productivity**](#productivity) (6 videos)
+  - Screen recording for better bug reports
+  - DevTools for web performance
+  - Do you know where your log files are?
+  - Auditing your web app with Google Lighthouse
+  - Being technical without code
+  - Documenting exploratory testing
+- [**Testing skills**](#testing-skills) (11 videos)
+  - Better bug reports
+  - Using personas for testing
+  - Pair testing and mob testing
+  - Working with test data
+  - Continuous testing: Why you should care about it
+  - Accessibility testing considerations
+  - Test reporting
+  - Mobile device testing
+  - Contract testing
+  - Agile testing
+  - Security testing
 
 ### Soft skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Top tips for talking with developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/top-tips-for-talking-with-developers?u=76281980)
@@ -622,7 +646,7 @@ created: 2026-04-29
 
 ### Productivity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Screen recording for better bug reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/screen-recording-for-better-bug-reports?u=76281980)
@@ -985,7 +1009,7 @@ created: 2026-04-29
 
 ### Testing skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Better bug reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-testing-tips-weekly/better-bug-reports?u=76281980)

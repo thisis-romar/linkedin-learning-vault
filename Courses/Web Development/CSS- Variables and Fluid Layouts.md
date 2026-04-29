@@ -46,16 +46,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Learn CSS calc()]]** (4 videos)
-- **[[#2. Learn CSS Custom Properties]]** (7 videos)
-- **[[#3. Create Layouts]]** (8 videos)
-- **[[#4. Refactor a Web Page]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The evolution of responsive design
+  - What you should know
+- [**1. Learn CSS calc()**](#1-learn-css-calc) (4 videos)
+  - CSS calc() overview
+  - Applying calc() in a layout example
+  - Challenge: Creating a type scale
+  - Solution: Creating a type scale
+- [**2. Learn CSS Custom Properties**](#2-learn-css-custom-properties) (7 videos)
+  - CSS custom properties overview
+  - Configure CSS custom properties
+  - CSS custom properties and inheritance
+  - CSS custom properties and Sass variables
+  - Using Sass variables
+  - Challenge: Add custom properties to type scale
+  - Solution: Add custom properties to type scale
+- [**3. Create Layouts**](#3-create-layouts) (8 videos)
+  - Mark up a simple four-column grid system
+  - Create a starting CSS for the grid system
+  - Add media queries to your grid system
+  - Rewrite CSS to integrate calc() and custom properties
+  - Rewrite CSS to integrate gaps between grid cells
+  - Make the layout formula even more flexible
+  - Challenge: Media query integration
+  - Solution: Media query integration
+- [**4. Refactor a Web Page**](#4-refactor-a-web-page) (4 videos)
+  - Project: Use calc() and custom properties
+  - Step 1: Apply the grid layout
+  - Step 2: Add custom properties to grid layout
+  - Step 3: Apply a type scale and custom properties
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The evolution of responsive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/the-evolution-of-responsive-design-25743926?u=76281980)
@@ -133,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Learn CSS calc()
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS calc() overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-calc-overview?u=76281980)
@@ -428,7 +454,7 @@ created: 2026-04-29
 
 ### 2. Learn CSS Custom Properties
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CSS custom properties overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980)
@@ -904,7 +930,7 @@ created: 2026-04-29
 
 ### 3. Create Layouts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mark up a simple four-column grid system
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980)
@@ -1881,7 +1907,7 @@ created: 2026-04-29
 
 ### 4. Refactor a Web Page
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project: Use calc() and custom properties
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980)
@@ -2479,7 +2505,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/next-steps-25743925?u=76281980)

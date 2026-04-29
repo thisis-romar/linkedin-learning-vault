@@ -50,16 +50,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Extreme Programming (XP)]]** (4 videos)
-- **[[#2. Feedback Loops]]** (7 videos)
-- **[[#3. Continuous Process]]** (4 videos)
-- **[[#4. The Extreme Programming (XP) Mindset]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Be more productive, with higher quality
+- [**1. Extreme Programming (XP)**](#1-extreme-programming-xp) (4 videos)
+  - History of extreme programming (XP)
+  - Extreme programming (XP) overview
+  - Extreme programming (XP) themes
+  - Extreme programming (XP) values
+- [**2. Feedback Loops**](#2-feedback-loops) (7 videos)
+  - Feedback scales
+  - User stories
+  - Quarterly planning
+  - Iteration planning
+  - Standup meetings
+  - Test-driven development
+  - Pair programming
+- [**3. Continuous Process**](#3-continuous-process) (4 videos)
+  - If it's good, do it all the time
+  - Design improvement: Refactoring
+  - Continuous integration
+  - Small releases
+- [**4. The Extreme Programming (XP) Mindset**](#4-the-extreme-programming-xp-mindset) (3 videos)
+  - Programmer welfare and sustainable pace
+  - Code standards and collective code ownership
+  - System metaphor and simple design
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be more productive, with higher quality
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980)
@@ -94,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Extreme Programming (XP)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### History of extreme programming (XP)
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980)
@@ -453,7 +473,7 @@ created: 2026-04-29
 
 ### 2. Feedback Loops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Feedback scales
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980)
@@ -1193,7 +1213,7 @@ created: 2026-04-29
 
 ### 3. Continuous Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### If it's good, do it all the time
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980)
@@ -1685,7 +1705,7 @@ created: 2026-04-29
 
 ### 4. The Extreme Programming (XP) Mindset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Programmer welfare and sustainable pace
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980)
@@ -2030,7 +2050,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980)

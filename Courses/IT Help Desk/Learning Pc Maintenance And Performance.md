@@ -42,16 +42,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. PC Security]]** (7 videos)
-- **[[#2. PC Backup]]** (6 videos)
-- **[[#3. Windows Update]]** (3 videos)
-- **[[#4. Improving PC Performance]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Keeping your computer in tiptop shape
+- [**1. PC Security**](#1-pc-security) (7 videos)
+  - Applying account security
+  - Fighting malware
+  - Using a firewall
+  - Setting internet security
+  - Applying data encryption
+  - Challenge: Encrypting a thumb drive
+  - Solution: Encrypting a thumb drive
+- [**2. PC Backup**](#2-pc-backup) (6 videos)
+  - Configuring Windows Backup
+  - Recovering files and folders
+  - Challenge: Restoring a file
+  - Solution: Restoring a file
+  - Creating a system image
+  - Restoring the system
+- [**3. Windows Update**](#3-windows-update) (3 videos)
+  - Configuring Windows Update
+  - Updating Windows
+  - Rolling back a recent update
+- [**4. Improving PC Performance**](#4-improving-pc-performance) (3 videos)
+  - Monitoring system resources
+  - Upgrading hardware
+  - Adjusting performance options
+- [**5. Conclusion**](#5-conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping your computer in tiptop shape
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/keeping-your-computer-in-tiptop-shape?u=76281980)
@@ -82,7 +103,7 @@ created: 2026-04-29
 
 ### 1. PC Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying account security
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/applying-account-security?u=76281980)
@@ -538,7 +559,7 @@ created: 2026-04-29
 
 ### 2. PC Backup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring Windows Backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-backup?u=76281980)
@@ -1014,7 +1035,7 @@ created: 2026-04-29
 
 ### 3. Windows Update
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring Windows Update
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/configuring-windows-update?u=76281980)
@@ -1298,7 +1319,7 @@ created: 2026-04-29
 
 ### 4. Improving PC Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Monitoring system resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/monitoring-system-resources?u=76281980)
@@ -1551,7 +1572,7 @@ created: 2026-04-29
 
 ### 5. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-pc-maintenance-and-performance-24335407/next-steps?u=76281980)

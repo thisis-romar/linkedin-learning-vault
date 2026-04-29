@@ -46,18 +46,73 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Microsoft Office Specialist Exam Overview]]** (2 videos)
-- **[[#2. Manage Worksheets and Workbooks]]** (15 videos)
-- **[[#3. Manage Data Cells and Ranges]]** (11 videos)
-- **[[#4. Manage Tables and Table Data]]** (5 videos)
-- **[[#5. Perform Operations Using Formulas and Functions]]** (11 videos)
-- **[[#6. Manage Charts]]** (5 videos)
-- **[[#7. Final Practice Exam]]** (2 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Prove your Excel skills with a MOS certification
+  - Who should take this course?
+  - About the exercise files
+  - About the challenges
+- [**1. Microsoft Office Specialist Exam Overview**](#1-microsoft-office-specialist-exam-overview) (2 videos)
+  - Different kinds of Microsoft Office Specialist certifications
+  - Prepare for the test and review learning objectives
+- [**2. Manage Worksheets and Workbooks**](#2-manage-worksheets-and-workbooks) (15 videos)
+  - Import TXT data into a new or existing workbook
+  - Import data from online sources
+  - Search for data within a workbook
+  - Navigate to named cells, ranges, or workbook elements
+  - Insert and remove hyperlinks
+  - Format worksheets and workbooks
+  - Customize headers and footers
+  - Manage the Quick Access Toolbar
+  - Display and modify worksheets in different views
+  - Modify built-in workbook properties
+  - Inspect and export workbooks
+  - Configure print settings
+  - Manage comments and notes
+  - Challenge: Manage worksheets and workbooks
+  - Solution: Manage worksheets and workbooks
+- [**3. Manage Data Cells and Ranges**](#3-manage-data-cells-and-ranges) (11 videos)
+  - Paste data using special paste options
+  - Fill cells by using AutoFill
+  - Insert and delete columns, rows, and cells
+  - Format cells and ranges
+  - Generate random and sequential data using Functions
+  - Apply styles to cells and ranges
+  - Define and reference named ranges
+  - Insert sparklines
+  - Summarize data visually with built-in conditional formatting
+  - Challenge: Manage data, cells, and ranges
+  - Solution: Manage data, cells, and ranges
+- [**4. Manage Tables and Table Data**](#4-manage-tables-and-table-data) (5 videos)
+  - Create and format tables
+  - Modify tables
+  - Filter and sort table data
+  - Challenge: Manage tables and table data
+  - Solution: Manage tables and table data
+- [**5. Perform Operations Using Formulas and Functions**](#5-perform-operations-using-formulas-and-functions) (11 videos)
+  - Insert relative, absolute, and mixed references
+  - Use structured references in formulas
+  - Using the AVERAGE(), MAX(), MIN(), and SUM() functions
+  - Count cells using the COUNT(), COUNTA(), and COUNTBLANK() functions
+  - Perform conditional operations using the IF() function
+  - Sort data and return unique values using the SORT() and UNIQUE() functions
+  - Format text using the RIGHT(), LEFT(), and MID() functions
+  - Format text using UPPER(), LOWER(), and LEN() functions
+  - Format text using the CONCAT() and TEXTJOIN() functions
+  - Challenge: Perform operations using formulas and functions
+  - Solution: Perform operations using formulas and functions
+- [**6. Manage Charts**](#6-manage-charts) (5 videos)
+  - Create and modify charts
+  - Add and modify chart elements
+  - Format charts
+  - Challenge: Manage charts
+  - Solution: Manage charts
+- [**7. Final Practice Exam**](#7-final-practice-exam) (2 videos)
+  - Challenge: Full-length practice exam
+  - Solution: Full-length practice exam
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prove your Excel skills with a MOS certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/prove-your-excel-skills-with-a-mos-certification?u=76281980)
@@ -151,7 +206,7 @@ created: 2026-04-29
 
 ### 1. Microsoft Office Specialist Exam Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Different kinds of Microsoft Office Specialist certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/different-kinds-of-microsoft-office-specialist-certifications?u=76281980)
@@ -345,7 +400,7 @@ created: 2026-04-29
 
 ### 2. Manage Worksheets and Workbooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Import TXT data into a new or existing workbook
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/import-txt-data-into-a-new-or-existing-workbook?u=76281980)
@@ -2050,7 +2105,7 @@ created: 2026-04-29
 
 ### 3. Manage Data Cells and Ranges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Paste data using special paste options
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/paste-data-using-special-paste-options?u=76281980)
@@ -3126,7 +3181,7 @@ created: 2026-04-29
 
 ### 4. Manage Tables and Table Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and format tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/create-and-format-tables?u=76281980)
@@ -3557,7 +3612,7 @@ created: 2026-04-29
 
 ### 5. Perform Operations Using Formulas and Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Insert relative, absolute, and mixed references
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/insert-relative-absolute-and-mixed-references?u=76281980)
@@ -4547,7 +4602,7 @@ created: 2026-04-29
 
 ### 6. Manage Charts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and modify charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/create-and-modify-charts?u=76281980)
@@ -4996,7 +5051,7 @@ created: 2026-04-29
 
 ### 7. Final Practice Exam
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Full-length practice exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-associate-microsoft-365-apps-cert-prep/challenge-full-length-practice-exam?u=76281980)

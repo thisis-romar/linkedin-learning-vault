@@ -55,15 +55,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Transformers in NLP]]** (3 videos)
-- **[[#2. Large Language Model Components]]** (4 videos)
-- **[[#3. Large Language Models]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The impact and functionality of large language models
+- [**1. Transformers in NLP**](#1-transformers-in-nlp) (3 videos)
+  - What are large language models?
+  - How are large language models trained? Pre-training
+  - Making large language models follow instructions
+- [**2. Large Language Model Components**](#2-large-language-model-components) (4 videos)
+  - Transformer architecture
+  - What are parameters
+  - What are tokens?
+  - What are context lengths?
+- [**3. Large Language Models**](#3-large-language-models) (11 videos)
+  - BERT
+  - Scaling laws
+  - GPT-3
+  - Chinchilla
+  - PaLM and PaLM 2
+  - ChatGPT and GPT-4
+  - Open LLMs
+  - Comparing LLMs
+  - GitHub Models: Comparing LLMs
+  - Accessing large language models using an API
+  - LLM trends
+- [**Conclusion**](#conclusion) (1 videos)
+  - Going further with large language models
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The impact and functionality of large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/the-impact-and-functionality-of-large-language-models?u=76281980)
@@ -88,7 +108,7 @@ created: 2026-04-29
 
 ### 1. Transformers in NLP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are large language models?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/what-are-large-language-models?u=76281980)
@@ -381,7 +401,7 @@ created: 2026-04-29
 
 ### 2. Large Language Model Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transformer architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/transformer-architecture?u=76281980)
@@ -665,7 +685,7 @@ created: 2026-04-29
 
 ### 3. Large Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### BERT
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/bert?u=76281980)
@@ -1834,7 +1854,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going further with large language models
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-large-language-models/going-further-with-large-language-models?u=76281980)

@@ -43,20 +43,73 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Data Fundamentals]]** (5 videos)
-- **[[#2. Array-Like Structures]]** (12 videos)
-- **[[#3. Dictionaries]]** (8 videos)
-- **[[#4. Sets]]** (8 videos)
-- **[[#5. Queues]]** (4 videos)
-- **[[#6. Stacks]]** (5 videos)
-- **[[#7. Practice Using Data Structures in Python Applications]]** (6 videos)
-- **[[#8. Glossaries]]** (0 videos)
-- **[[#9. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Why to use data structures
+  - What you need to know
+  - How to use CoderPad
+  - How to Use GitHub Codespaces
+- [**1. Data Fundamentals**](#1-data-fundamentals) (5 videos)
+  - What is data?
+  - Introduction to data structures
+  - Built-in data structures in Python
+  - Common operations on data structures
+  - Big-O notation
+- [**2. Array-Like Structures**](#2-array-like-structures) (12 videos)
+  - What is an array?
+  - Create a list in Python
+  - Retrieve data from a list in Python
+  - Mutate a list in Python
+  - Solution: Swap items
+  - Multidimensional lists in Python
+  - Tuples in Python
+  - Solution: Square items
+  - Search array-like structures
+  - Sort array-like structures
+  - Solution: Find the second smallest item
+  - When to use array-like structures
+- [**3. Dictionaries**](#3-dictionaries) (8 videos)
+  - What is a dictionary?
+  - Create a dictionary in Python
+  - Mutate a dictionary in Python
+  - Solution: Update salary
+  - Handle missing dictionary keys
+  - Retrieve keys and value collections from dictionaries
+  - Solution: Clean user preferences
+  - When to use dictionaries
+- [**4. Sets**](#4-sets) (8 videos)
+  - What is a set?
+  - Determine set membership in Python
+  - Mutate a set in Python
+  - Solution: Unique characters
+  - Operations on sets in Python
+  - Immutable sets in Python
+  - Solution: Mutual friends
+  - When to use sets
+- [**5. Queues**](#5-queues) (4 videos)
+  - What is a queue?
+  - Use a deque as a queue in Python
+  - Solution: Generate binary numbers
+  - When to use queues
+- [**6. Stacks**](#6-stacks) (5 videos)
+  - What is a stack?
+  - Use a list as a stack in Python
+  - Use a deque as a stack in Python
+  - Solution: Matching parentheses
+  - When to use stacks
+- [**7. Practice Using Data Structures in Python Applications**](#7-practice-using-data-structures-in-python-applications) (6 videos)
+  - GitHub Codespace challenge: To-do list
+  - GitHub Codespace solution: To-do list
+  - GitHub Codespace challenge: Reservation waitlist
+  - GitHub Codespace solution: Reservation waitlist
+  - GitHub Codespace challenge: Inventory tracker
+  - GitHub Codespace solution: Inventory tracker
+- [**8. Glossaries**](#8-glossaries) (0 videos)
+- [**9. Conclusion**](#9-conclusion) (1 videos)
+  - How to decide which data structure to use
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why to use data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/why-use-data-structures-24503276?u=76281980)
@@ -216,7 +269,7 @@ created: 2026-04-29
 
 ### 1. Data Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-data-24506004?u=76281980)
@@ -518,7 +571,7 @@ created: 2026-04-29
 
 ### 2. Array-Like Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an array?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980)
@@ -1316,7 +1369,7 @@ created: 2026-04-29
 
 ### 3. Dictionaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a dictionary?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-dictionary-24502365?u=76281980)
@@ -1678,7 +1731,7 @@ created: 2026-04-29
 
 ### 4. Sets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a set?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-set-24296967?u=76281980)
@@ -2029,7 +2082,7 @@ created: 2026-04-29
 
 ### 5. Queues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a queue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-queue-24502368?u=76281980)
@@ -2202,7 +2255,7 @@ created: 2026-04-29
 
 ### 6. Stacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a stack?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-stack-24506006?u=76281980)
@@ -2450,7 +2503,7 @@ created: 2026-04-29
 
 ### 7. Practice Using Data Structures in Python Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GitHub Codespace challenge: To-do list
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980)
@@ -2804,12 +2857,12 @@ created: 2026-04-29
 
 ### 8. Glossaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### 9. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to decide which data structure to use
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980)

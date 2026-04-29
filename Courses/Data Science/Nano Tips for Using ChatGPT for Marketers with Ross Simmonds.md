@@ -50,11 +50,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Marketing with ChatGPT]]** (10 videos)
+- [**Marketing with ChatGPT**](#marketing-with-chatgpt) (10 videos)
+  - Introduction to ChatGPT and AI for marketers
+  - Why every prompt you write for ChatGPT needs a task
+  - Why you should give ChatGPT an exemplar for better results
+  - Why you should give ChatGPT context in your prompt
+  - Why you should always give ChatGPT a role to play
+  - How to ensure ChatGPT delivers the right tone
+  - How to use temperature in ChatGPT
+  - How to use AI correctly as a marketer
+  - How to make amazing visuals using ChatGPT
+  - The dos and don'ts of ChatGPT as a marketer
 
 ### Marketing with ChatGPT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ChatGPT and AI for marketers
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/introduction-to-chatgpt-and-ai-for-marketers?u=76281980)

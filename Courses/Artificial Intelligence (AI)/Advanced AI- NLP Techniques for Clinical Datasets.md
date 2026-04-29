@@ -42,16 +42,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Clinical Named Entity Recognition (CNER)]]** (2 videos)
-- **[[#2. Clinical Entity Resolution]]** (3 videos)
-- **[[#3. Clinical Text Representation]]** (3 videos)
-- **[[#4. Transformers for Clinical Text]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Use NLP techniques for your data
+  - What you should know
+  - How to use the exercise files
+- [**1. Clinical Named Entity Recognition (CNER)**](#1-clinical-named-entity-recognition-cner) (2 videos)
+  - What is clinical named entity recognition (CNER)?
+  - Clinical named entity recognition using scispaCy
+- [**2. Clinical Entity Resolution**](#2-clinical-entity-resolution) (3 videos)
+  - What is clinical entity resolution?
+  - Medical abbreviation resolution with scispaCy
+  - Entity linkage and resolution with a biomedical knowledge base
+- [**3. Clinical Text Representation**](#3-clinical-text-representation) (3 videos)
+  - What is clinical text representation?
+  - Clinical text representation using fastText
+  - Clinical text representation using Universal Sentence Encoder (USE)
+- [**4. Transformers for Clinical Text**](#4-transformers-for-clinical-text) (4 videos)
+  - What are transformers?
+  - Clinical diagnosis prediction using transformers
+  - Clinical named entity recognition using transformers
+  - Clinical word prediction using transformers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use NLP techniques for your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/use-nlp-techniques-for-your-data?u=76281980)
@@ -123,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Clinical Named Entity Recognition (CNER)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is clinical named entity recognition (CNER)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-named-entity-recognition-cner?u=76281980)
@@ -274,7 +290,7 @@ created: 2026-04-29
 
 ### 2. Clinical Entity Resolution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is clinical entity resolution?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-entity-resolution?u=76281980)
@@ -462,7 +478,7 @@ created: 2026-04-29
 
 ### 3. Clinical Text Representation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is clinical text representation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-is-clinical-text-representation?u=76281980)
@@ -675,7 +691,7 @@ created: 2026-04-29
 
 ### 4. Transformers for Clinical Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are transformers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/what-are-transformers?u=76281980)
@@ -859,7 +875,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-ai-nlp-techniques-for-clinical-datasets/next-steps?u=76281980)

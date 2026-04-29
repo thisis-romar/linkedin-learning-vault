@@ -50,18 +50,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. AWS Lex Overview]]** (4 videos)
-- **[[#2. Creating a Bot]]** (6 videos)
-- **[[#3. Slots and Slot Types]]** (6 videos)
-- **[[#4. Responses]]** (4 videos)
-- **[[#5. Publishing]]** (7 videos)
-- **[[#6. Functionality of Lambdas]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Creating chatbots
+  - What you should know
+- [**1. AWS Lex Overview**](#1-aws-lex-overview) (4 videos)
+  - Introduction to AWS Lex
+  - AWS account and console
+  - Chatbot concepts
+  - Lex API and CLI
+- [**2. Creating a Bot**](#2-creating-a-bot) (6 videos)
+  - Lex Bot creation
+  - Intents
+  - Kicking off the conversation
+  - Testing the bot
+  - Challenge: OrderDrink intent
+  - Solution: OrderDrink intent
+- [**3. Slots and Slot Types**](#3-slots-and-slot-types) (6 videos)
+  - Slot types
+  - Custom slot types
+  - User input prompts
+  - Confirmation prompts
+  - Challenge: Create a restricted slot
+  - Solution: Create a restricted slot
+- [**4. Responses**](#4-responses) (4 videos)
+  - Closing response
+  - Prompting with card group
+  - Challenge: Closing response for dessert
+  - Solution: Closing response for dessert
+- [**5. Publishing**](#5-publishing) (7 videos)
+  - Versions and aliases
+  - Client creation
+  - Client preparation
+  - Gathering configuration data
+  - Testing the bot with text
+  - Challenge: Engage bot from CLI
+  - Solution: Engage bot from CLI
+- [**6. Functionality of Lambdas**](#6-functionality-of-lambdas) (4 videos)
+  - Lex and Lambdas
+  - BookTrip sample bot
+  - Creating and connecting Lambdas
+  - Testing with Lambdas
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue training your chatbots
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating chatbots
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-chatbots?u=76281980)
@@ -120,7 +154,7 @@ created: 2026-04-29
 
 ### 1. AWS Lex Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AWS Lex
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/introduction-to-aws-lex?u=76281980)
@@ -303,7 +337,7 @@ created: 2026-04-29
 
 ### 2. Creating a Bot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lex Bot creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-bot-creation?u=76281980)
@@ -700,7 +734,7 @@ created: 2026-04-29
 
 ### 3. Slots and Slot Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Slot types
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/slot-types?u=76281980)
@@ -1148,7 +1182,7 @@ created: 2026-04-29
 
 ### 4. Responses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Closing response
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/closing-response?u=76281980)
@@ -1384,7 +1418,7 @@ created: 2026-04-29
 
 ### 5. Publishing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Versions and aliases
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/versions-and-aliases?u=76281980)
@@ -1895,7 +1929,7 @@ created: 2026-04-29
 
 ### 6. Functionality of Lambdas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lex and Lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-and-lambdas?u=76281980)
@@ -2241,7 +2275,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue training your chatbots
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/continue-training-your-chatbots?u=76281980)

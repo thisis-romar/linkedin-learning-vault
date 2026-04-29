@@ -42,17 +42,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. When to Use Surveys]]** (3 videos)
-- **[[#2. Creating Good Questions]]** (4 videos)
-- **[[#3. Recruiting and Deploying a Survey]]** (3 videos)
-- **[[#4. Using Different Survey Tools]]** (2 videos)
-- **[[#5. Analyzing and Reporting Results]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Getting good feedback
+- [**1. When to Use Surveys**](#1-when-to-use-surveys) (3 videos)
+  - What surveys are good at telling you
+  - Hybrid survey methods
+  - Fitting surveys into your research plan
+- [**2. Creating Good Questions**](#2-creating-good-questions) (4 videos)
+  - Know what you want to learn
+  - Different question types
+  - Common question mistakes
+  - Question order
+- [**3. Recruiting and Deploying a Survey**](#3-recruiting-and-deploying-a-survey) (3 videos)
+  - Who to send your survey to
+  - Rewards and incentives
+  - How to send out a questionnaire
+- [**4. Using Different Survey Tools**](#4-using-different-survey-tools) (2 videos)
+  - Online survey tools
+  - Demo of a survey creation tool
+- [**5. Analyzing and Reporting Results**](#5-analyzing-and-reporting-results) (3 videos)
+  - Reporting data
+  - Visualizing results
+  - Show what you learned
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting good feedback
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/getting-good-feedback?u=76281980)
@@ -93,7 +110,7 @@ created: 2026-04-29
 
 ### 1. When to Use Surveys
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What surveys are good at telling you
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/what-surveys-are-good-at-telling-you?u=76281980)
@@ -261,7 +278,7 @@ created: 2026-04-29
 
 ### 2. Creating Good Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Know what you want to learn
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/know-what-you-want-to-learn?u=76281980)
@@ -582,7 +599,7 @@ created: 2026-04-29
 
 ### 3. Recruiting and Deploying a Survey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Who to send your survey to
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/who-to-send-your-survey-to?u=76281980)
@@ -814,7 +831,7 @@ created: 2026-04-29
 
 ### 4. Using Different Survey Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Online survey tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/online-survey-tools?u=76281980)
@@ -1021,7 +1038,7 @@ created: 2026-04-29
 
 ### 5. Analyzing and Reporting Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reporting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/reporting-data?u=76281980)
@@ -1272,7 +1289,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/next-steps?u=76281980)

@@ -49,18 +49,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding Large Language Models]]** (2 videos)
-- **[[#2. Grounding LLMs to Data]]** (4 videos)
-- **[[#3. Introduction to LLMOps]]** (3 videos)
-- **[[#4. Ensuring the Safe and Responsible Operation of Your AI]]** (3 videos)
-- **[[#5. Multimodal AI]]** (4 videos)
-- **[[#6. Introduction to AI Agents]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What this course is about
+  - Prerequisites
+- [**1. Understanding Large Language Models**](#1-understanding-large-language-models) (2 videos)
+  - Introduction to large language models (LLMs)
+  - Choosing the right model
+- [**2. Grounding LLMs to Data**](#2-grounding-llms-to-data) (4 videos)
+  - How data grounding works
+  - Embeddings and vector search
+  - Connecting to structured data sources
+  - Preventing hallucination
+- [**3. Introduction to LLMOps**](#3-introduction-to-llmops) (3 videos)
+  - Running pilots with real users
+  - Evaluating your AI
+  - Monitoring your AI
+- [**4. Ensuring the Safe and Responsible Operation of Your AI**](#4-ensuring-the-safe-and-responsible-operation-of-your-ai) (3 videos)
+  - Responsible AI concerns and their mitigations
+  - User experience and system prompt design
+  - Content safety
+- [**5. Multimodal AI**](#5-multimodal-ai) (4 videos)
+  - Introduction to multimodal AI
+  - Allowing your AI to speak
+  - Enabling your AI to see
+  - General purpose models vs. task-specific models
+- [**6. Introduction to AI Agents**](#6-introduction-to-ai-agents) (2 videos)
+  - What is an AI agent?
+  - Single agent vs. multiple agents
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What this course is about
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980)
@@ -112,7 +133,7 @@ created: 2026-04-29
 
 ### 1. Understanding Large Language Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to large language models (LLMs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980)
@@ -238,7 +259,7 @@ created: 2026-04-29
 
 ### 2. Grounding LLMs to Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How data grounding works
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980)
@@ -510,7 +531,7 @@ created: 2026-04-29
 
 ### 3. Introduction to LLMOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Running pilots with real users
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/running-pilots-with-real-users?u=76281980)
@@ -721,7 +742,7 @@ created: 2026-04-29
 
 ### 4. Ensuring the Safe and Responsible Operation of Your AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI concerns and their mitigations
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980)
@@ -905,7 +926,7 @@ created: 2026-04-29
 
 ### 5. Multimodal AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to multimodal AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-multimodal-ai?u=76281980)
@@ -1114,7 +1135,7 @@ created: 2026-04-29
 
 ### 6. Introduction to AI Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an AI agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980)
@@ -1317,7 +1338,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980)

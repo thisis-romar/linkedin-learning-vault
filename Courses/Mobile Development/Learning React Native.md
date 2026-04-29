@@ -44,18 +44,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Is React Native?]]** (4 videos)
-- **[[#2. Working with Expo]]** (4 videos)
-- **[[#3. Components and APIs]]** (5 videos)
-- **[[#4. Working with Views]]** (8 videos)
-- **[[#5. Platform APIs]]** (6 videos)
-- **[[#6. Building Your Project]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Framework of learning React
+  - What you should know
+  - Using the exercise files
+- [**1. What Is React Native?**](#1-what-is-react-native) (4 videos)
+  - What is React?
+  - What is React Native?
+  - How React Native works?
+  - What is Expo?
+- [**2. Working with Expo**](#2-working-with-expo) (4 videos)
+  - Installing the Expo client
+  - Creating a Snack
+  - Creating a new project
+  - Running a project on a device
+- [**3. Components and APIs**](#3-components-and-apis) (5 videos)
+  - Native components
+  - Native APIs
+  - Creating style sheets
+  - Flexbox layouts
+  - The Image component
+- [**4. Working with Views**](#4-working-with-views) (8 videos)
+  - Responding to touches
+  - Using a touchable highlight
+  - Extracting a custom component
+  - Importing a custom component
+  - Using a flat list
+  - Creating a form
+  - Collecting input
+  - Creating a custom hook
+- [**5. Platform APIs**](#5-platform-apis) (6 videos)
+  - Using AsyncStorage
+  - React Navigation
+  - Navigating between screens
+  - Completing the Color Details page
+  - Fetching data
+  - Using RefreshControl
+- [**6. Building Your Project**](#6-building-your-project) (7 videos)
+  - Installing an iOS simulator
+  - Installing an Android AVD for Mac
+  - Installing an Android AVD for Windows
+  - Publishing your Expo project
+  - Building for iOS devices
+  - Building for Android devices
+  - Ejecting from Expo
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Framework of learning React
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/framework-of-learning-react?u=76281980)
@@ -224,7 +262,7 @@ created: 2026-04-29
 
 ### 1. What Is React Native?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is React?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/what-is-react?u=76281980)
@@ -495,7 +533,7 @@ created: 2026-04-29
 
 ### 2. Working with Expo
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing the Expo client
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/installing-the-expo-client?u=76281980)
@@ -821,7 +859,7 @@ created: 2026-04-29
 
 ### 3. Components and APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Native components
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/native-components?u=76281980)
@@ -1230,7 +1268,7 @@ created: 2026-04-29
 
 ### 4. Working with Views
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responding to touches
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/responding-to-touches?u=76281980)
@@ -1985,7 +2023,7 @@ created: 2026-04-29
 
 ### 5. Platform APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AsyncStorage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/using-asyncstorage?u=76281980)
@@ -2569,7 +2607,7 @@ created: 2026-04-29
 
 ### 6. Building Your Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing an iOS simulator
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/installing-an-ios-simulator?u=76281980)
@@ -3124,7 +3162,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-react-native/next-steps?u=76281980)

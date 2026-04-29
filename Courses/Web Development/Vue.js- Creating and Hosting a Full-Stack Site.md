@@ -47,18 +47,72 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Creating a Vue.js Front End]]** (15 videos)
-- **[[#2. Creating a Node Back End]]** (8 videos)
-- **[[#3. Adding MongoDB to Your Back-end]]** (8 videos)
-- **[[#4. Connecting the Front- and Back-end]]** (7 videos)
-- **[[#5. Adding Authentication with Firebase Authentication]]** (7 videos)
-- **[[#6. Hosting Your Site]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Vue.js
+  - Codespaces
+  - What you should know
+  - Installing Node.js and NPM
+  - What to expect from this course
+- [**1. Creating a Vue.js Front End**](#1-creating-a-vuejs-front-end) (15 videos)
+  - Why Vue?
+  - Setting up and running a Vue project
+  - Vue project structure
+  - Creating application pages
+  - Routing in Vue
+  - Adding data, styles, and images
+  - Creating a products page
+  - Creating a product detail page
+  - Creating a shopping cart page
+  - Creating a navigation bar
+  - Linking to the product detail page
+  - Creating a 404 page in Vue
+  - Using modular components
+  - Challenge: Modular components
+  - Solution: Modular components
+- [**2. Creating a Node Back End**](#2-creating-a-node-back-end) (8 videos)
+  - Why Node.js?
+  - Setting up an express server
+  - Testing servers with Postman
+  - Creating routes in Express
+  - Using nodemon to restart a server
+  - Creating server data
+  - Deleting server data
+  - Rewriting the shopping cart
+- [**3. Adding MongoDB to Your Back-end**](#3-adding-mongodb-to-your-back-end) (8 videos)
+  - Why MongoDB?
+  - Setting up MongoDB
+  - Connecting and adding data to MongoDB
+  - Adding MongoDB to a Node.js server
+  - Adding MongoDB to GET endpoints
+  - Loading individual products from MongoDB
+  - Creating data in MongoDB
+  - Deleting data in MongoDB
+- [**4. Connecting the Front- and Back-end**](#4-connecting-the-front--and-back-end) (7 videos)
+  - Introduction to the Axios library
+  - Loading data from the server: Part 1
+  - Loading data from the server: Part 2
+  - Adding items to the shopping cart
+  - Removing items from the shopping cart
+  - Challenge: Item already in cart
+  - Solution: Item already in cart
+- [**5. Adding Authentication with Firebase Authentication**](#5-adding-authentication-with-firebase-authentication) (7 videos)
+  - Why Firebase Authentication?
+  - Creating a Firebase project
+  - Sending Firebase Auth email links
+  - Logging in with an email link
+  - Listening for auth state changes
+  - Signing the user out
+  - Managing cart items with authentication
+- [**6. Hosting Your Site**](#6-hosting-your-site) (3 videos)
+  - The release process
+  - Preparing the front-end for release
+  - Releasing the app
+- [**Conclusion**](#conclusion) (1 videos)
+  - Recommended next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vue.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/vue-js?u=76281980)
@@ -236,7 +290,7 @@ created: 2026-04-29
 
 ### 1. Creating a Vue.js Front End
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Vue?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-vue?u=76281980)
@@ -1981,7 +2035,7 @@ created: 2026-04-29
 
 ### 2. Creating a Node Back End
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-node-js?u=76281980)
@@ -2948,7 +3002,7 @@ created: 2026-04-29
 
 ### 3. Adding MongoDB to Your Back-end
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why MongoDB?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-mongodb?u=76281980)
@@ -3907,7 +3961,7 @@ created: 2026-04-29
 
 ### 4. Connecting the Front- and Back-end
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the Axios library
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/introduction-to-the-axios-library?u=76281980)
@@ -4784,7 +4838,7 @@ created: 2026-04-29
 
 ### 5. Adding Authentication with Firebase Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Firebase Authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/why-firebase-authentication?u=76281980)
@@ -5611,7 +5665,7 @@ created: 2026-04-29
 
 ### 6. Hosting Your Site
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The release process
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/the-release-process?u=76281980)
@@ -5930,7 +5984,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recommended next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902/recommended-next-steps?u=76281980)

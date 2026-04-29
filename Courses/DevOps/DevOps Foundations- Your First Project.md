@@ -44,19 +44,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Project/The Mission]]** (3 videos)
-- **[[#2. Testing Locally with Docker]]** (4 videos)
-- **[[#3. Getting Started with Git]]** (4 videos)
-- **[[#4. Collaborative Version Control]]** (6 videos)
-- **[[#5.  Testing Your App with RSpec, Capybara, and Selenium]]** (9 videos)
-- **[[#6. Infrastructure as Code with OpenTofu]]** (10 videos)
-- **[[#7. CI/CD as Code]]** (8 videos)
-- **[[#8. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Your first project, DevOps-ified!
+  - What you should know
+  - Configuring AWS
+- [**1. The Project/The Mission**](#1-the-projectthe-mission) (3 videos)
+  - So what is this DevOps thing anyway?
+  - Your application, pre-DevOps
+  - Your application, post-DevOps
+- [**2. Testing Locally with Docker**](#2-testing-locally-with-docker) (4 videos)
+  - Bring production to your laptop with Docker
+  - Installing Docker
+  - Writing your first Dockerfile
+  - Writing your first Docker Compose manifest
+- [**3. Getting Started with Git**](#3-getting-started-with-git) (4 videos)
+  - Version control: The secret weapon of DevOps
+  - Installing Git
+  - Initializing your first Git repository
+  - Getting familiar with the Git workflow
+- [**4. Collaborative Version Control**](#4-collaborative-version-control) (6 videos)
+  - Beyond local repositories
+  - Introducing GitLab
+  - Creating the GitLab Docker Compose service
+  - Starting the GitLab Compose service
+  - Creating our first GitLab project
+  - Connecting Git to GitLab
+- [**5.  Testing Your App with RSpec, Capybara, and Selenium**](#5-testing-your-app-with-rspec-capybara-and-selenium) (9 videos)
+  - Test often, ship often
+  - Setting up your test
+  - Viewing our test harness in Docker Compose
+  - Updating the Dockerfile
+  - Running the test
+  - Finding criteria for a unit test
+  - Writing the unit test
+  - Setting up Selenium
+  - Running your test with Selenium
+- [**6. Infrastructure as Code with OpenTofu**](#6-infrastructure-as-code-with-opentofu) (10 videos)
+  - Deploy with confidence with infrastructure as code
+  - Finding the version of OpenTofu to use
+  - Adding OpenTofu to Docker Compose
+  - AWS deployment explained
+  - Writing your integration test
+  - Writing OpenTofu code
+  - Reviewing the OpenTofu plan
+  - Applying the OpenTofu plan
+  - Running your integration test
+  - Destroying the website from AWS S3
+- [**7. CI/CD as Code**](#7-cicd-as-code) (8 videos)
+  - Shipping fast with CI/CD
+  - Introducing GitLab CI
+  - Writing our first Gitlab CI workflow
+  - Configuring sensitive variables
+  - Creating our first Gitlab CI runner
+  - Putting it all together
+  - Challenge: Change the website title
+  - Solution: Change the website title
+- [**8. Conclusion**](#8-conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your first project, DevOps-ified!
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/your-first-project-devopsified-24080523?u=76281980)
@@ -368,7 +416,7 @@ created: 2026-04-29
 
 ### 1. The Project/The Mission
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### So what is this DevOps thing anyway?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/so-what-is-this-devops-thing-anyway-24082449?u=76281980)
@@ -619,7 +667,7 @@ created: 2026-04-29
 
 ### 2. Testing Locally with Docker
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bring production to your laptop with Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/bring-production-to-your-laptop-with-docker-24078552?u=76281980)
@@ -1259,7 +1307,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Git
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Version control: The secret weapon of DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/version-control-the-secret-weapon-of-devops-24078553?u=76281980)
@@ -1702,7 +1750,7 @@ created: 2026-04-29
 
 ### 4. Collaborative Version Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Beyond local repositories
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/beyond-local-repositories-24079510?u=76281980)
@@ -2523,7 +2571,7 @@ created: 2026-04-29
 
 ### 5.  Testing Your App with RSpec, Capybara, and Selenium
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test often, ship often
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/test-often-ship-often-24081427?u=76281980)
@@ -3574,7 +3622,7 @@ created: 2026-04-29
 
 ### 6. Infrastructure as Code with OpenTofu
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploy with confidence with infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/deploy-with-confidence-with-infrastructure-as-code-24075620?u=76281980)
@@ -4812,7 +4860,7 @@ created: 2026-04-29
 
 ### 7. CI/CD as Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Shipping fast with CI/CD
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/shipping-fast-with-ci-cd?u=76281980)
@@ -5844,7 +5892,7 @@ created: 2026-04-29
 
 ### 8. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-your-first-project-24355651/next-steps-24082454?u=76281980)

@@ -46,15 +46,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Generative AI]]** (2 videos)
-- **[[#2. Exploring Types of Generative AI]]** (6 videos)
-- **[[#3. Challenges and Ethical Considerations of Generative AI]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The art of generative AI: Balancing creativity and ethics
+- [**1. Understanding Generative AI**](#1-understanding-generative-ai) (2 videos)
+  - What is generative AI?
+  - What are the benefits of generative AI?
+- [**2. Exploring Types of Generative AI**](#2-exploring-types-of-generative-ai) (6 videos)
+  - Generative AI for creatives
+  - Text-based generative AI
+  - Text-to-image generative AI
+  - Image-to-image generative AI
+  - Video-based generative AI
+  - Audio-based generative AI
+- [**3. Challenges and Ethical Considerations of Generative AI**](#3-challenges-and-ethical-considerations-of-generative-ai) (6 videos)
+  - Ethics of generative AI
+  - Understanding deepfakes and deception
+  - Issues around copyright and content ownership
+  - Bias issues
+  - Difficulty of control
+  - Limitations in creativity and capabilities
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The art of generative AI: Balancing creativity and ethics
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/the-art-of-generative-ai-balancing-creativity-and-ethics?u=76281980)
@@ -86,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Understanding Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/what-is-generative-ai?u=76281980)
@@ -262,7 +278,7 @@ created: 2026-04-29
 
 ### 2. Exploring Types of Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI for creatives
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/generative-ai-for-creatives?u=76281980)
@@ -785,7 +801,7 @@ created: 2026-04-29
 
 ### 3. Challenges and Ethical Considerations of Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethics of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/ethics-of-generative-ai?u=76281980)
@@ -1220,7 +1236,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-skills-for-creative-content-opportunities-issues-and-ethics/next-steps?u=76281980)

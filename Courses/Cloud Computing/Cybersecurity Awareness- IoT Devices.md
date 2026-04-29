@@ -49,16 +49,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding IoT]]** (4 videos)
-- **[[#2. How Devices Operate]]** (3 videos)
-- **[[#3. Outcome of IoT]]** (3 videos)
-- **[[#4. Iot Security]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Importance of cybersecurity awareness
+  - What you should know
+- [**1. Understanding IoT**](#1-understanding-iot) (4 videos)
+  - Cybersecurity and IoT
+  - Internet in IoT
+  - Things in IoT
+  - Do IoT devices need the internet?
+- [**2. How Devices Operate**](#2-how-devices-operate) (3 videos)
+  - Daily activities of IoT
+  - How IoT communicates
+  - Common behaviors of IoT
+- [**3. Outcome of IoT**](#3-outcome-of-iot) (3 videos)
+  - Benefits of IoT in real life and the society
+  - Security risks of IoT
+  - Common cyber attacks on IoT
+- [**4. Iot Security**](#4-iot-security) (4 videos)
+  - How to create strong passwords
+  - Network segmentation
+  - Wi-Fi security
+  - Patching firmware
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of cybersecurity awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980)
@@ -112,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Understanding IoT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity and IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980)
@@ -404,7 +421,7 @@ created: 2026-04-29
 
 ### 2. How Devices Operate
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Daily activities of IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980)
@@ -639,7 +656,7 @@ created: 2026-04-29
 
 ### 3. Outcome of IoT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of IoT in real life and the society
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980)
@@ -931,7 +948,7 @@ created: 2026-04-29
 
 ### 4. Iot Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create strong passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980)
@@ -1222,7 +1239,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980)

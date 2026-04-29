@@ -51,19 +51,70 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Simple Linear Regression]]** (6 videos)
-- **[[#2. Introduction to Multiple Linear Regression]]** (8 videos)
-- **[[#3. Dummy Code and Interaction Terms]]** (4 videos)
-- **[[#4. Three Regression Strategies]]** (11 videos)
-- **[[#5. Spotting Problems and Taking Corrective Action]]** (7 videos)
-- **[[#6. Other Approaches to Regression]]** (8 videos)
-- **[[#7. Advanced Alternatives Using the Extension Hub]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Linear regression for machine learning
+  - What you should know
+  - Using the exercise files
+- [**1. Simple Linear Regression**](#1-simple-linear-regression) (6 videos)
+  - Building effective scatter plots in Chart Builder
+  - Adding labels and spikes to a scatter plot
+  - Create a 3D scatter plot
+  - Create a bubble chart
+  - Residuals and R2
+  - Calculating and interpreting regression coefficients
+- [**2. Introduction to Multiple Linear Regression**](#2-introduction-to-multiple-linear-regression) (8 videos)
+  - Challenges and assumptions of multiple regression
+  - Checking assumptions visually
+  - Checking assumptions with Explore
+  - Checking assumptions: Durbin-Watson
+  - Checking assumptions: Levine's test
+  - Checking assumptions: Correlation matrix
+  - Checking assumptions: Residuals plot
+  - Checking assumptions: Summary
+- [**3. Dummy Code and Interaction Terms**](#3-dummy-code-and-interaction-terms) (4 videos)
+  - Creating dummy codes
+  - Dummy coding with the R extension
+  - Detecting variable interactions
+  - Creating and testing interaction terms
+- [**4. Three Regression Strategies**](#4-three-regression-strategies) (11 videos)
+  - Three regression strategies and when to use them
+  - Understanding partial correlations
+  - Understanding part correlations
+  - Visualizing part and partial correlations
+  - Simultaneous regression: Setting up the analysis
+  - Simultaneous regression: Interpreting the output
+  - Hierarchical regression: Setting up the analysis
+  - Hierarchical regression: Interpreting the output
+  - Creating a train-test partition in SPSS
+  - Stepwise regression: Setting up the analysis
+  - Stepwise regression: Interpreting the output
+- [**5. Spotting Problems and Taking Corrective Action**](#5-spotting-problems-and-taking-corrective-action) (7 videos)
+  - Collinearity diagnostics
+  - Dealing with multicollinearity: Factor analysis/PCA
+  - Dealing with multicollinearity: Manually combine IVs
+  - Diagnosing outliers and influential points
+  - Dealing with outliers: Studentized deleted residuals
+  - Dealing with outliers: Should cases be removed?
+  - Detecting curvilinearity
+- [**6. Other Approaches to Regression**](#6-other-approaches-to-regression) (8 videos)
+  - Regression options
+  - Automatic linear modeling
+  - Regression trees
+  - Time series forecasting
+  - Categorical regression with optimal scaling
+  - Comparing regression to Neural Nets
+  - Logistic regression
+  - SEM
+- [**7. Advanced Alternatives Using the Extension Hub**](#7-advanced-alternatives-using-the-extension-hub) (3 videos)
+  - What is the extension hub?
+  - Ridge regression
+  - Lasso and elastic net
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear regression for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/linear-regression-for-machine-learning?u=76281980)
@@ -176,7 +227,7 @@ created: 2026-04-29
 
 ### 1. Simple Linear Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building effective scatter plots in Chart Builder
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980)
@@ -763,7 +814,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Multiple Linear Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenges and assumptions of multiple regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/challenges-and-assumptions-of-multiple-regression?u=76281980)
@@ -1775,7 +1826,7 @@ created: 2026-04-29
 
 ### 3. Dummy Code and Interaction Terms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating dummy codes
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980)
@@ -2234,7 +2285,7 @@ created: 2026-04-29
 
 ### 4. Three Regression Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three regression strategies and when to use them
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/three-regression-strategies-and-when-to-use-them?u=76281980)
@@ -3292,7 +3343,7 @@ created: 2026-04-29
 
 ### 5. Spotting Problems and Taking Corrective Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collinearity diagnostics
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/collinearity-diagnostics?u=76281980)
@@ -4166,7 +4217,7 @@ created: 2026-04-29
 
 ### 6. Other Approaches to Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Regression options
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980)
@@ -4968,7 +5019,7 @@ created: 2026-04-29
 
 ### 7. Advanced Alternatives Using the Extension Hub
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the extension hub?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-is-the-extension-hub?u=76281980)
@@ -5235,7 +5286,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980)

@@ -46,16 +46,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Empathy and UX]]** (2 videos)
-- **[[#2. Building Personal Empathy]]** (7 videos)
-- **[[#3. Empathy in UX Research]]** (7 videos)
-- **[[#4. Designing and Delivering Empathy]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Empathy and user experience
+- [**1. Empathy and UX**](#1-empathy-and-ux) (2 videos)
+  - What is empathy?
+  - How empathy relates to UX
+- [**2. Building Personal Empathy**](#2-building-personal-empathy) (7 videos)
+  - Where is your starting point?
+  - Empathy in life
+  - Empathy for customers and users
+  - Empathy through research and interaction
+  - Empathy for workplace kindness
+  - Dealing with the pain of empathy
+  - Empathy for neurodiversity: My experience with ADHD
+- [**3. Empathy in UX Research**](#3-empathy-in-ux-research) (7 videos)
+  - Choosing methods to tell a story
+  - Involve stakeholders in research
+  - In-person vs. remote research
+  - Example: Empathy in research sessions
+  - Managing emotional research
+  - Empathy through flexibility
+  - Can AI understand emotion?
+- [**4. Designing and Delivering Empathy**](#4-designing-and-delivering-empathy) (4 videos)
+  - Storytelling with research findings
+  - Designing with empathy
+  - Example: Personas
+  - Example: Customer journey maps
+- [**Conclusion**](#conclusion) (1 videos)
+  - Use your empathy for good
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Empathy and user experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/empathy-and-user-experience?u=76281980)
@@ -86,7 +108,7 @@ created: 2026-04-29
 
 ### 1. Empathy and UX
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is empathy?
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/what-is-empathy?u=76281980)
@@ -226,7 +248,7 @@ created: 2026-04-29
 
 ### 2. Building Personal Empathy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where is your starting point?
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/where-is-your-starting-point?u=76281980)
@@ -638,7 +660,7 @@ created: 2026-04-29
 
 ### 3. Empathy in UX Research
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing methods to tell a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/choosing-methods-to-tell-a-story?u=76281980)
@@ -1058,7 +1080,7 @@ created: 2026-04-29
 
 ### 4. Designing and Delivering Empathy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Storytelling with research findings
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/storytelling-with-research-findings?u=76281980)
@@ -1375,7 +1397,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use your empathy for good
 > [LinkedIn Learning](https://www.linkedin.com/learning/empathy-in-ux-design-25118320/use-your-empathy-for-good?u=76281980)

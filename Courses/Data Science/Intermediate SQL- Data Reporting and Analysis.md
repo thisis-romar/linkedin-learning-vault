@@ -52,17 +52,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Prepare to Code in SQL]]** (3 videos)
-- **[[#2. Reporting Data with SQL]]** (9 videos)
-- **[[#3. Editing Data]]** (7 videos)
-- **[[#4. Inserting Data]]** (6 videos)
-- **[[#5. Deleting Data]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn hands-on to extract, manipulate, edit, and delete real data
+  - Who this course is for
+  - What can you do with intermediate SQL?
+- [**1. Prepare to Code in SQL**](#1-prepare-to-code-in-sql) (3 videos)
+  - Get familiar with phpMyAdmin
+  - Understand the demo database
+  - Using ChatGPT to check SQL code
+- [**2. Reporting Data with SQL**](#2-reporting-data-with-sql) (9 videos)
+  - The basic SELECT query
+  - Aggregated results with GROUP BY
+  - Wildcards and aliases
+  - Merging tables with JOIN
+  - Use string functions
+  - Use number functions with grouped data
+  - Use date functions
+  - Challenge: Report average cost by staff
+  - Solution: Report average cost by staff
+- [**3. Editing Data**](#3-editing-data) (7 videos)
+  - UPDATE fields in a table
+  - Common issues with the UPDATE command
+  - Automating your query creation
+  - Updating a field using JOIN
+  - Updating dynamically
+  - Challenge: Update the film table using JOIN
+  - Solution: Update the film table using JOIN
+- [**4. Inserting Data**](#4-inserting-data) (6 videos)
+  - INSERT rows into a table
+  - Common issues with the INSERT command
+  - Using MERGE instead of UPDATE/INSERT
+  - Duplicate table with SELECT
+  - Challenge: Insert a row into the film table
+  - Solution: Insert a row into the film table
+- [**5. Deleting Data**](#5-deleting-data) (6 videos)
+  - DELETE rows from a table
+  - DROP an entire table
+  - ALTER TABLE for modifying fields
+  - Problems with foreign key constraints
+  - Challenge: Delete from the country table
+  - Solution: Delete from the country table
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn hands-on to extract, manipulate, edit, and delete real data
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/learn-hands-on-to-extract-manipulate-edit-and-delete-real-data?u=76281980)
@@ -170,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Prepare to Code in SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get familiar with phpMyAdmin
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/get-familiar-with-phpmyadmin?u=76281980)
@@ -386,7 +421,7 @@ created: 2026-04-29
 
 ### 2. Reporting Data with SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basic SELECT query
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/the-basic-select-query?u=76281980)
@@ -1250,7 +1285,7 @@ created: 2026-04-29
 
 ### 3. Editing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### UPDATE fields in a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/update-fields-in-a-table?u=76281980)
@@ -1949,7 +1984,7 @@ created: 2026-04-29
 
 ### 4. Inserting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### INSERT rows into a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/insert-rows-into-a-table?u=76281980)
@@ -2668,7 +2703,7 @@ created: 2026-04-29
 
 ### 5. Deleting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DELETE rows from a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/delete-rows-from-a-table?u=76281980)
@@ -3243,7 +3278,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/intermediate-sql-data-reporting-and-analysis/next-steps?u=76281980)

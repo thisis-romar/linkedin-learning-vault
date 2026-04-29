@@ -45,17 +45,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Ensemble Learning]]** (3 videos)
-- **[[#2. Bagging and Random Forests]]** (5 videos)
-- **[[#3. Boosting and Gradient Boosting]]** (5 videos)
-- **[[#4. XGBoost]]** (5 videos)
-- **[[#5. Stacking]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Ensemble learning: Boost your models' performance
+  - How to use Codespaces
+- [**1. Introduction to Ensemble Learning**](#1-introduction-to-ensemble-learning) (3 videos)
+  - Definition of ensemble learning and the problem of overfitting
+  - Real-world relevance
+  - Types of ensembles
+- [**2. Bagging and Random Forests**](#2-bagging-and-random-forests) (5 videos)
+  - Concept of bagging
+  - Random forest example
+  - Parameter tuning for Random Forest
+  - Challenge: Tune Random Forest parameters
+  - Solution: Tune Random Forest parameters
+- [**3. Boosting and Gradient Boosting**](#3-boosting-and-gradient-boosting) (5 videos)
+  - Concept of boosting
+  - AdaBoost and gradient boosting
+  - Hyperparameter tuning for boosting
+  - Challenge: tune AdaBoost model
+  - Solution: tune AdaBoost model
+- [**4. XGBoost**](#4-xgboost) (5 videos)
+  - Why XGBoost?
+  - Hands-on coding with XGBoost
+  - Hyperparameter tuning for XGBoost
+  - Challenge: Tune XGBoost model
+  - Solution: Tune XGBoost model
+- [**5. Stacking**](#5-stacking) (5 videos)
+  - Concept of stacking
+  - Hands-on coding with StackingClassifier
+  - Evaluation of stacking vs individual models
+  - Challenge: Create a stacked model
+  - Solution: Create a stacked model
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensemble learning: Boost your models' performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/ensemble-learning-boost-your-models-performance?u=76281980)
@@ -186,7 +212,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Ensemble Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Definition of ensemble learning and the problem of overfitting
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/definition-of-ensemble-learning-and-the-problem-of-overfitting?u=76281980)
@@ -496,7 +522,7 @@ created: 2026-04-29
 
 ### 2. Bagging and Random Forests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Concept of bagging
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980)
@@ -1118,7 +1144,7 @@ created: 2026-04-29
 
 ### 3. Boosting and Gradient Boosting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Concept of boosting
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-boosting?u=76281980)
@@ -1567,7 +1593,7 @@ created: 2026-04-29
 
 ### 4. XGBoost
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why XGBoost?
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/why-xgboost?u=76281980)
@@ -1936,7 +1962,7 @@ created: 2026-04-29
 
 ### 5. Stacking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Concept of stacking
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-stacking?u=76281980)
@@ -2148,7 +2174,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/next-steps?u=76281980)

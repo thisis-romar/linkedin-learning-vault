@@ -42,19 +42,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Back to Basics]]** (3 videos)
-- **[[#2. Accessible Design]]** (3 videos)
-- **[[#3. Hiding and Showing]]** (3 videos)
-- **[[#4. Semantics and Interactivity]]** (7 videos)
-- **[[#5. Images, Graphics, and Media]]** (6 videos)
-- **[[#6. Practical Examples]]** (5 videos)
-- **[[#7. Proof and Pudding]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Simplifying web development with accessibility
+- [**1. Back to Basics**](#1-back-to-basics) (3 videos)
+  - Overcomplicating things that already work
+  - The purpose of the web
+  - Why accessibility breaks
+- [**2. Accessible Design**](#2-accessible-design) (3 videos)
+  - Designing an accessible color palette
+  - Designing accessible typography
+  - Designing accessible content hierarchies and flows
+- [**3. Hiding and Showing**](#3-hiding-and-showing) (3 videos)
+  - Is hiding or showing content a good idea?
+  - How to hide visual content
+  - How to hide content from screen readers
+- [**4. Semantics and Interactivity**](#4-semantics-and-interactivity) (7 videos)
+  - The role of semantic elements
+  - Elements with purpose
+  - Link and button basics
+  - Links
+  - Buttons
+  - Screen reader–friendly links and buttons
+  - Icon links and buttons with SVG
+- [**5. Images, Graphics, and Media**](#5-images-graphics-and-media) (6 videos)
+  - Images, graphics, and media basics
+  - The img element
+  - The figure and figcaption elements
+  - Accessible SVG
+  - Making embedded videos more accessible
+  - Adding transcripts
+- [**6. Practical Examples**](#6-practical-examples) (5 videos)
+  - Mobile-friendly navigation menu
+  - Multilevel navigation menu
+  - Basic card
+  - Card with internal links
+  - Date picker
+- [**7. Proof and Pudding**](#7-proof-and-pudding) (4 videos)
+  - Simplifying web development with accessibility best practices
+  - Where to find more information
+  - Tools for manually testing sites
+  - Lighthouse score and similar
+- [**Conclusion**](#conclusion) (1 videos)
+  - Accessibility mindset
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simplifying web development with accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/simplifying-web-development-with-accessibility?u=76281980)
@@ -84,7 +117,7 @@ created: 2026-04-29
 
 ### 1. Back to Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overcomplicating things that already work
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/overcomplicating-things-that-already-work?u=76281980)
@@ -264,7 +297,7 @@ created: 2026-04-29
 
 ### 2. Accessible Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing an accessible color palette
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/designing-an-accessible-color-palette?u=76281980)
@@ -489,7 +522,7 @@ created: 2026-04-29
 
 ### 3. Hiding and Showing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Is hiding or showing content a good idea?
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/is-hiding-or-showing-content-a-good-idea?u=76281980)
@@ -659,7 +692,7 @@ created: 2026-04-29
 
 ### 4. Semantics and Interactivity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of semantic elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/the-role-of-semantic-elements?u=76281980)
@@ -1044,7 +1077,7 @@ created: 2026-04-29
 
 ### 5. Images, Graphics, and Media
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Images, graphics, and media basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/images-graphics-and-media-basics?u=76281980)
@@ -1517,7 +1550,7 @@ created: 2026-04-29
 
 ### 6. Practical Examples
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mobile-friendly navigation menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/mobile-friendly-navigation-menu?u=76281980)
@@ -2306,7 +2339,7 @@ created: 2026-04-29
 
 ### 7. Proof and Pudding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Simplifying web development with accessibility best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/simplifying-web-development-with-accessibility-best-practices?u=76281980)
@@ -2727,7 +2760,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices/accessibility-mindset?u=76281980)

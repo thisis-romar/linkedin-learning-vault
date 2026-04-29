@@ -49,21 +49,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Business Analysis?]]** (4 videos)
-- **[[#2. Doing a Needs Assessment]]** (2 videos)
-- **[[#3. Identifying Stakeholders]]** (3 videos)
-- **[[#4. Creating a Business Case]]** (2 videos)
-- **[[#5. Planning the Project]]** (3 videos)
-- **[[#6. Determining Requirements]]** (3 videos)
-- **[[#7. Traceability and Monitoring Requirements]]** (2 videos)
-- **[[#8. Evaluating the Solution]]** (2 videos)
-- **[[#9. Preparing for Release and Transition]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Prevent project failure with business analysis
+- [**1. What Is Business Analysis?**](#1-what-is-business-analysis) (4 videos)
+  - What is business analysis (BA)?
+  - Business analysis industry definitions
+  - What is the role of a business analyst?
+  - Business analyst skill set
+- [**2. Doing a Needs Assessment**](#2-doing-a-needs-assessment) (2 videos)
+  - Needs assessment basics
+  - Situation and solution statements
+- [**3. Identifying Stakeholders**](#3-identifying-stakeholders) (3 videos)
+  - Who are the stakeholders?
+  - Classifying your stakeholders
+  - Engaging stakeholders
+- [**4. Creating a Business Case**](#4-creating-a-business-case) (2 videos)
+  - Purpose of a business case
+  - Content of a business case
+- [**5. Planning the Project**](#5-planning-the-project) (3 videos)
+  - Project planning: Vision
+  - Project planning: Project roadmap
+  - Project planning: Responsibilities
+- [**6. Determining Requirements**](#6-determining-requirements) (3 videos)
+  - Requirement types
+  - Requirements elicitation techniques
+  - Using requirements modeling techniques
+- [**7. Traceability and Monitoring Requirements**](#7-traceability-and-monitoring-requirements) (2 videos)
+  - Traceability matrix and taskboard
+  - Change control
+- [**8. Evaluating the Solution**](#8-evaluating-the-solution) (2 videos)
+  - Testing and verifying the requirements
+  - Validating the requirements
+- [**9. Preparing for Release and Transition**](#9-preparing-for-release-and-transition) (3 videos)
+  - Project release planning
+  - Project transition planning
+  - Solution implementation planning
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prevent project failure with business analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/prevent-project-failure-with-business-analysis?u=76281980)
@@ -105,7 +131,7 @@ created: 2026-04-29
 
 ### 1. What Is Business Analysis?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is business analysis (BA)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/what-is-business-analysis-ba?u=76281980)
@@ -372,7 +398,7 @@ created: 2026-04-29
 
 ### 2. Doing a Needs Assessment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Needs assessment basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/needs-assessment-basics-15250136?u=76281980)
@@ -506,7 +532,7 @@ created: 2026-04-29
 
 ### 3. Identifying Stakeholders
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Who are the stakeholders?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/who-are-the-stakeholders?u=76281980)
@@ -762,7 +788,7 @@ created: 2026-04-29
 
 ### 4. Creating a Business Case
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose of a business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/purpose-of-a-business-case-15243951?u=76281980)
@@ -861,7 +887,7 @@ created: 2026-04-29
 
 ### 5. Planning the Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project planning: Vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-planning-vision-15249134?u=76281980)
@@ -1086,7 +1112,7 @@ created: 2026-04-29
 
 ### 6. Determining Requirements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Requirement types
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types-15246879?u=76281980)
@@ -1347,7 +1373,7 @@ created: 2026-04-29
 
 ### 7. Traceability and Monitoring Requirements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Traceability matrix and taskboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/traceability-matrix-and-taskboard?u=76281980)
@@ -1492,7 +1518,7 @@ created: 2026-04-29
 
 ### 8. Evaluating the Solution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing and verifying the requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/testing-and-verifying-the-requirements?u=76281980)
@@ -1584,7 +1610,7 @@ created: 2026-04-29
 
 ### 9. Preparing for Release and Transition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project release planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/project-release-planning?u=76281980)
@@ -1826,7 +1852,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-4/next-steps-15244958?u=76281980)

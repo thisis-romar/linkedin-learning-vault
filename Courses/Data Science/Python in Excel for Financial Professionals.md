@@ -53,16 +53,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started with Python in Excel]]** (6 videos)
-- **[[#2. Financial Modeling]]** (7 videos)
-- **[[#3. Automation]]** (4 videos)
-- **[[#4. Data Visualization]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome to Python in Excel
+  - What you should know
+  - Introduction to Python in Excel
+- [**1. Getting Started with Python in Excel**](#1-getting-started-with-python-in-excel) (6 videos)
+  - Integration of Python in Excel
+  - Installation
+  - Introduction to basic Python functions
+  - How to use your data with Python in Excel
+  - Challenge: Load three financial statements
+  - Solution: Load three financial statements
+- [**2. Financial Modeling**](#2-financial-modeling) (7 videos)
+  - Discounted cash flow, part 1
+  - Discounted cash flow, part 2
+  - Forecasting
+  - Budgeting
+  - Other financial models
+  - Challenge: Forecast sales for Company ABC
+  - Solution: Forecast sales for Company ABC
+- [**3. Automation**](#3-automation) (4 videos)
+  - Automate consolidation of data
+  - Automate cleaning data
+  - Challenge: Automation
+  - Solution: Automation
+- [**4. Data Visualization**](#4-data-visualization) (4 videos)
+  - Basic charts and graphs for finance
+  - Advanced charts and graphs for finance
+  - Challenge: Create five graphs
+  - Solution: Create five graphs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/welcome-to-python-in-excel?u=76281980)
@@ -153,7 +178,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Python in Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integration of Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/integration-of-python-in-excel?u=76281980)
@@ -454,7 +479,7 @@ created: 2026-04-29
 
 ### 2. Financial Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discounted cash flow, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/discounted-cash-flow-part-1?u=76281980)
@@ -816,7 +841,7 @@ created: 2026-04-29
 
 ### 3. Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automate consolidation of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/automate-consolidation-of-data?u=76281980)
@@ -993,7 +1018,7 @@ created: 2026-04-29
 
 ### 4. Data Visualization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic charts and graphs for finance
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/basic-charts-and-graphs-for-finance?u=76281980)
@@ -1181,7 +1206,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-for-financial-professionals/next-steps?u=76281980)

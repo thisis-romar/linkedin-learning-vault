@@ -53,13 +53,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI Tips for Cybersecurity Analysts]]** (10 videos)
-- **[[#2. Helpful Resources]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How AI is transforming cybersecurity
+- [**1. AI Tips for Cybersecurity Analysts**](#1-ai-tips-for-cybersecurity-analysts) (10 videos)
+  - Prompt engineering and productivity tips for cybersecurity analysts
+  - Advanced prompt engineering and productivity tips
+  - Using AI ethically and securely in cybersecurity, part 1
+  - Using AI ethically and securely in cybersecurity, part 2
+  - Running AI offline and locally
+  - Threat actors use of AI
+  - Threat detection with AI
+  - Improve security reporting using AI
+  - AI-driven threat intelligence
+  - LLM-driven honeypots
+- [**2. Helpful Resources**](#2-helpful-resources) (1 videos)
+  - The future of cybersecurity with AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How AI is transforming cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/how-ai-is-transforming-cybersecurity?u=76281980)
@@ -105,7 +117,7 @@ created: 2026-04-29
 
 ### 1. AI Tips for Cybersecurity Analysts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt engineering and productivity tips for cybersecurity analysts
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/prompt-engineering-productivity-tips-for-cybersecurity-analysts?u=76281980)
@@ -915,7 +927,7 @@ created: 2026-04-29
 
 ### 2. Helpful Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of cybersecurity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-cybersecurity-analyst/the-future-of-cybersecurity-with-ai?u=76281980)

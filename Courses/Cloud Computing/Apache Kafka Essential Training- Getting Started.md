@@ -49,18 +49,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Kafka]]** (6 videos)
-- **[[#2. Basic Concepts]]** (5 videos)
-- **[[#3. Using Kafka Command Line]]** (7 videos)
-- **[[#4. Kafka Partitions and Groups]]** (6 videos)
-- **[[#5. Kafka Java Programming]]** (5 videos)
-- **[[#6. Use Case Project]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Getting started with Apache Kafka
+- [**1. Introduction to Kafka**](#1-introduction-to-kafka) (6 videos)
+  - Message queues
+  - What is Kafka?
+  - Benefits of Kafka
+  - Kafka use cases
+  - Setting up the exercise files
+  - Setting up Kafka
+- [**2. Basic Concepts**](#2-basic-concepts) (5 videos)
+  - Messages
+  - Topics
+  - Kafka brokers
+  - Logs in Kafka
+  - Producers and consumers
+- [**3. Using Kafka Command Line**](#3-using-kafka-command-line) (7 videos)
+  - Kafka client scripts
+  - Creating a topic
+  - Exploring topics
+  - Publishing messages to topics
+  - Using console consumer
+  - Topics management
+  - Review Kafka setup
+- [**4. Kafka Partitions and Groups**](#4-kafka-partitions-and-groups) (6 videos)
+  - Intro to partitions
+  - Creating topics with partitions
+  - Publishing with keys
+  - Consumer groups
+  - Consumer offset management
+  - Consuming partitioned data
+- [**5. Kafka Java Programming**](#5-kafka-java-programming) (5 videos)
+  - Kafka client libraries
+  - Creating a producer in Java
+  - Publishing messages in Java
+  - Creating a consumer in Java
+  - Consuming messages in Java
+- [**6. Use Case Project**](#6-use-case-project) (4 videos)
+  - Kafka basics use case: Problem definition
+  - Setting up topics
+  - Producing and consuming data with scripts
+  - Producing and consuming data with Java
+- [**Conclusion**](#conclusion) (1 videos)
+  - Extending your Kafka knowledge
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Apache Kafka
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980)
@@ -94,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Kafka
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Message queues
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/message-queues?u=76281980)
@@ -508,7 +543,7 @@ created: 2026-04-29
 
 ### 2. Basic Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/messages?u=76281980)
@@ -871,7 +906,7 @@ created: 2026-04-29
 
 ### 3. Using Kafka Command Line
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kafka client scripts
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-scripts?u=76281980)
@@ -1272,7 +1307,7 @@ created: 2026-04-29
 
 ### 4. Kafka Partitions and Groups
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to partitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/intro-to-partitions?u=76281980)
@@ -1718,7 +1753,7 @@ created: 2026-04-29
 
 ### 5. Kafka Java Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kafka client libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980)
@@ -1965,7 +2000,7 @@ created: 2026-04-29
 
 ### 6. Use Case Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kafka basics use case: Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-basics-use-case-problem-definition?u=76281980)
@@ -2109,7 +2144,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending your Kafka knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980)

@@ -46,14 +46,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Action Basics]]** (4 videos)
-- **[[#2. Publishing a Marketplace Action]]** (6 videos)
-- **[[#Conclusion]]** (0 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Creating a marketplace GitHub action
+  - Using the slides
+- [**1. Action Basics**](#1-action-basics) (4 videos)
+  - How actions work
+  - Creating a repo and GitHub Pages
+  - Python to process YAML with Codespaces
+  - Finishing up the RSS feed
+- [**2. Publishing a Marketplace Action**](#2-publishing-a-marketplace-action) (6 videos)
+  - Creating a workflow with existing actions
+  - Creating a generator repo Dockerfile
+  - Creating an entry point
+  - Crafting an action.yml file
+  - Testing your actions
+  - Creating a release
+- [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a marketplace GitHub action
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-marketplace-github-action-29981144?u=76281980)
@@ -123,7 +135,7 @@ created: 2026-04-29
 
 ### 1. Action Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How actions work
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/how-actions-work?u=76281980)
@@ -767,7 +779,7 @@ created: 2026-04-29
 
 ### 2. Publishing a Marketplace Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a workflow with existing actions
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-github-actions/creating-a-workflow-with-existing-actions?u=76281980)
@@ -1674,7 +1686,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Resources

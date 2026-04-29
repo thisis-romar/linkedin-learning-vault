@@ -38,15 +38,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What is AI's Impact on Patient Care?]]** (3 videos)
-- **[[#2. How Does AI Impact Workflow Efficency and Data Management?]]** (3 videos)
-- **[[#3. What Are the Ethical Considerations of Using AI in Healthcare?]]** (5 videos)
-- **[[#4. What's the Future of AI in Healthcare?]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Generative AI is revolutionizing healthcare
+  - Meet Dr. Matthew Lungren
+- [**1. What is AI's Impact on Patient Care?**](#1-what-is-ais-impact-on-patient-care) (3 videos)
+  - How does AI affect the patient experience?
+  - How do AI workflows improve patient-doctor relationships?
+  - How can AI reduce burnout and limited access to care?
+- [**2. How Does AI Impact Workflow Efficency and Data Management?**](#2-how-does-ai-impact-workflow-efficency-and-data-management) (3 videos)
+  - What bottlenecks can AI solve in healthcare?
+  - What data management and security considerations are there?
+  - Why design proprietary AI healthcare systems?
+- [**3. What Are the Ethical Considerations of Using AI in Healthcare?**](#3-what-are-the-ethical-considerations-of-using-ai-in-healthcare) (5 videos)
+  - What are the ethical concerns of AI in healthcare?
+  - What does AI bias in healthcare look like?
+  - How does AI-driven healthcare affect informed consent?
+  - How can AI-driven healthcare become accessible to all?
+  - How should healthcare systems set clear standards for AI?
+- [**4. What's the Future of AI in Healthcare?**](#4-whats-the-future-of-ai-in-healthcare) (2 videos)
+  - What is the future of AI in healthcare?
+  - How should healthcare providers & patients learn and use AI?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI is revolutionizing healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980)
@@ -105,7 +120,7 @@ created: 2026-04-29
 
 ### 1. What is AI's Impact on Patient Care?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How does AI affect the patient experience?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980)
@@ -344,7 +359,7 @@ created: 2026-04-29
 
 ### 2. How Does AI Impact Workflow Efficency and Data Management?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What bottlenecks can AI solve in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-bottlenecks-can-ai-can-solve-in-healthcare?u=76281980)
@@ -500,7 +515,7 @@ created: 2026-04-29
 
 ### 3. What Are the Ethical Considerations of Using AI in Healthcare?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the ethical concerns of AI in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980)
@@ -899,7 +914,7 @@ created: 2026-04-29
 
 ### 4. What's the Future of AI in Healthcare?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the future of AI in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980)

@@ -49,16 +49,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Named Entity Recognition (NER)]]** (4 videos)
-- **[[#2. Topic Modeling]]** (5 videos)
-- **[[#3. Text Summarization]]** (3 videos)
-- **[[#4. Sentiment Analysis]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Gain insights from unstructured text data
+  - What you should know
+  - Exercise files
+- [**1. Named Entity Recognition (NER)**](#1-named-entity-recognition-ner) (4 videos)
+  - What is named entity recognition (NER)?
+  - NER with spaCy
+  - Data preprocessing for custom NER
+  - Custom model training with spaCy
+- [**2. Topic Modeling**](#2-topic-modeling) (5 videos)
+  - Introduction to topic modeling
+  - Data preprocessing for topic modeling
+  - Topic modeling with Gensim
+  - Topic modeling visualization with pyLDAvis
+  - Model evaluation for topic modeling
+- [**3. Text Summarization**](#3-text-summarization) (3 videos)
+  - What is text summarization?
+  - Text extraction for summarization
+  - Text summarization with sumy
+- [**4. Sentiment Analysis**](#4-sentiment-analysis) (3 videos)
+  - What is sentiment analysis?
+  - Sentiment analysis with VADER
+  - Sentiment analysis with transformers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gain insights from unstructured text data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/gain-insights-from-unstructured-text-data?u=76281980)
@@ -134,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Named Entity Recognition (NER)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is named entity recognition (NER)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-named-entity-recognition-ner?u=76281980)
@@ -383,7 +402,7 @@ created: 2026-04-29
 
 ### 2. Topic Modeling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to topic modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/introduction-to-topic-modeling?u=76281980)
@@ -691,7 +710,7 @@ created: 2026-04-29
 
 ### 3. Text Summarization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is text summarization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-text-summarization?u=76281980)
@@ -857,7 +876,7 @@ created: 2026-04-29
 
 ### 4. Sentiment Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is sentiment analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/what-is-sentiment-analysis?u=76281980)
@@ -1022,7 +1041,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-natural-language-processing/next-steps?u=76281980)

@@ -53,17 +53,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. How to Optimize Your DB Software]]** (2 videos)
-- **[[#2. Get Familiar with Your Database and Its Data]]** (5 videos)
-- **[[#3. Understand Simple and Powerful Syntax to Filter and Analyze Data]]** (5 videos)
-- **[[#4. Filter Data Based on More than One Condition]]** (2 videos)
-- **[[#5. Analyze Data with Flexibility, Efficiency, and Calculated Fields]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Why data? The role of SQL and how you can get involved
+  - What you should know: Microsoft SQL Server and installation
+  - Environment orientation
+  - Introduction to CoderPad
+- [**1. How to Optimize Your DB Software**](#1-how-to-optimize-your-db-software) (2 videos)
+  - Tweaking your settings
+  - Loading the database file
+- [**2. Get Familiar with Your Database and Its Data**](#2-get-familiar-with-your-database-and-its-data) (5 videos)
+  - Getting familiar with your database
+  - The basic query structure and using aliases
+  - Aliases and sorting
+  - Common mistakes
+  - Solution: Crafting queries
+- [**3. Understand Simple and Powerful Syntax to Filter and Analyze Data**](#3-understand-simple-and-powerful-syntax-to-filter-and-analyze-data) (5 videos)
+  - The WHERE clause: Finding numeric data
+  - The WHERE clause: Operators IN and BETWEEN
+  - The WHERE clause: Finding text data and using Wildcards
+  - The WHERE clause: Finding data using dates
+  - Solution: Date range and set analysis
+- [**4. Filter Data Based on More than One Condition**](#4-filter-data-based-on-more-than-one-condition) (2 videos)
+  - Introducing AND and OR
+  - Solution: Filtering with logical operators
+- [**5. Analyze Data with Flexibility, Efficiency, and Calculated Fields**](#5-analyze-data-with-flexibility-efficiency-and-calculated-fields) (3 videos)
+  - Calculated columns
+  - The CASE statement
+  - Solution: Calculated columns and conditional logic
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why data? The role of SQL and how you can get involved
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/why-data-it-significance-sql-s-role-and-how-you-can-become-part-of-it?u=76281980)
@@ -315,7 +337,7 @@ created: 2026-04-29
 
 ### 1. How to Optimize Your DB Software
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tweaking your settings
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/tweaking-your-settings-23855688?u=76281980)
@@ -593,7 +615,7 @@ created: 2026-04-29
 
 ### 2. Get Familiar with Your Database and Its Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting familiar with your database
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/getting-familiar-with-your-database-23857340?u=76281980)
@@ -1260,7 +1282,7 @@ created: 2026-04-29
 
 ### 3. Understand Simple and Powerful Syntax to Filter and Analyze Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The WHERE clause: Finding numeric data
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/the-where-clause-finding-numeric-data-23857339?u=76281980)
@@ -1822,7 +1844,7 @@ created: 2026-04-29
 
 ### 4. Filter Data Based on More than One Condition
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing AND and OR
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/introducing-the-and-and-or-23855686?u=76281980)
@@ -2010,7 +2032,7 @@ created: 2026-04-29
 
 ### 5. Analyze Data with Flexibility, Efficiency, and Calculated Fields
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculated columns
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/calculated-columns-23859325?u=76281980)
@@ -2313,7 +2335,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-intelligence-cracking-the-code-of-enterprise-data/next-steps-23857338?u=76281980)

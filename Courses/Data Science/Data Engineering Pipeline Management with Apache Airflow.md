@@ -49,17 +49,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Working with Role-Based Access Control]]** (12 videos)
-- **[[#2. Managing SLAs]]** (5 videos)
-- **[[#3. Scheduling DAGs with Datasets]]** (5 videos)
-- **[[#4. Working with Airflow Plugins]]** (4 videos)
-- **[[#5. Scaling Airflow]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Features for data engineering pipeline management
+- [**1. Working with Role-Based Access Control**](#1-working-with-role-based-access-control) (12 videos)
+  - Prerequisites
+  - Quick install overview
+  - Creating an admin user and exploring roles
+  - Creating users with different roles
+  - Executing a simple branching DAG
+  - Executing a simple SQL DAG
+  - The public and viewer roles
+  - The user role
+  - The op role
+  - Actions, resources, and permissions
+  - Adding permissions to the public role
+  - Creating and configuring a custom role
+- [**2. Managing SLAs**](#2-managing-slas) (5 videos)
+  - Configuring emails for SLA management
+  - Configuring task-level SLAs
+  - Triggering and viewing SLA misses
+  - Configuring DAG-level SLAs
+  - Configuring DAG failed action
+- [**3. Scheduling DAGs with Datasets**](#3-scheduling-dags-with-datasets) (5 videos)
+  - Dataset producer pipeline
+  - Dataset consumer pipeline
+  - Data-aware scheduling
+  - Purchases producer pipeline and join pipeline
+  - Data-aware scheduling with multiple datasets
+- [**4. Working with Airflow Plugins**](#4-working-with-airflow-plugins) (4 videos)
+  - Introducing plugins
+  - Adding menu items using plugins
+  - Exploring the CSV reader plugin
+  - Implementing the CSV reader plugin
+- [**5. Scaling Airflow**](#5-scaling-airflow) (9 videos)
+  - Scaling Apache Airflow
+  - Basic setup for the transformation pipeline
+  - DAG for the transformation pipeline
+  - Install RabbitMQ on macOS and Linux
+  - Set up an admin user for RabbitMQ
+  - Configuring the CeleryExecutor for Airflow
+  - Executing tasks on a single Celery worker
+  - Executing tasks on multiple Celery workers
+  - Assigning tasks to queues
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Features for data engineering pipeline management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980)
@@ -194,7 +231,7 @@ created: 2026-04-29
 
 ### 1. Working with Role-Based Access Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980)
@@ -1208,7 +1245,7 @@ created: 2026-04-29
 
 ### 2. Managing SLAs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring emails for SLA management
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980)
@@ -1727,7 +1764,7 @@ created: 2026-04-29
 
 ### 3. Scheduling DAGs with Datasets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dataset producer pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980)
@@ -2232,7 +2269,7 @@ created: 2026-04-29
 
 ### 4. Working with Airflow Plugins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980)
@@ -2598,7 +2635,7 @@ created: 2026-04-29
 
 ### 5. Scaling Airflow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling Apache Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980)
@@ -3327,7 +3364,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980)

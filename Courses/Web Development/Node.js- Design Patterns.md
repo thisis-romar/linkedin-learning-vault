@@ -48,16 +48,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Overview]]** (3 videos)
-- **[[#2. Creational Patterns]]** (8 videos)
-- **[[#3. Structural Patterns]]** (8 videos)
-- **[[#4. Behavioral Patterns]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know
+  - Using the exercise files
+- [**1. Overview**](#1-overview) (3 videos)
+  - What are design patterns?
+  - Gang of Four: Design patterns
+  - Anti-patterns
+- [**2. Creational Patterns**](#2-creational-patterns) (8 videos)
+  - The singleton problem
+  - The Singletons pattern
+  - Singletons in Node
+  - The Prototype pattern
+  - The prototype clone method
+  - The Factory pattern
+  - The Builder pattern
+  - Implementing a builder
+- [**3. Structural Patterns**](#3-structural-patterns) (8 videos)
+  - The Adapter pattern
+  - Implementing an adapter
+  - The Proxy pattern
+  - Implementing a proxy
+  - The Composite pattern
+  - Implementing composites
+  - The Decorator pattern
+  - Implementing decorators
+- [**4. Behavioral Patterns**](#4-behavioral-patterns) (11 videos)
+  - Chain of responsibility
+  - Implementing the storage class
+  - The Command pattern
+  - Implementing commands
+  - Improving the conductor
+  - The Iterator pattern
+  - Implementing iterators
+  - The Observer pattern
+  - Implementing observers
+  - The Strategy pattern
+  - Implementing strategies
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/welcome?u=76281980)
@@ -174,7 +208,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are design patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/what-are-design-patterns?u=76281980)
@@ -337,7 +371,7 @@ created: 2026-04-29
 
 ### 2. Creational Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The singleton problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-singleton-problem?u=76281980)
@@ -1122,7 +1156,7 @@ created: 2026-04-29
 
 ### 3. Structural Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Adapter pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/the-adapter-pattern?u=76281980)
@@ -1951,7 +1985,7 @@ created: 2026-04-29
 
 ### 4. Behavioral Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Chain of responsibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/chain-of-responsibility?u=76281980)
@@ -3420,7 +3454,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-design-patterns/next-steps?u=76281980)

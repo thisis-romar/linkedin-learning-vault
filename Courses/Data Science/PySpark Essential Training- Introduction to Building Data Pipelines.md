@@ -58,18 +58,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Spark and PySpark]]** (3 videos)
-- **[[#2. Setting Up PySpark]]** (2 videos)
-- **[[#3. Working with PySpark DataFrames]]** (6 videos)
-- **[[#4. Essential PySpark Data Manipulation]]** (7 videos)
-- **[[#5. PySpark SQL]]** (5 videos)
-- **[[#6. PySpark in a Production Environment]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Course overview
+  - Prerequisites
+  - Using GitHub repo
+- [**1. Introduction to Spark and PySpark**](#1-introduction-to-spark-and-pyspark) (3 videos)
+  - Introduction to Apache Spark: The foundation of PySpark
+  - The Apache Spark ecosystem
+  - Spark vs. PySpark
+- [**2. Setting Up PySpark**](#2-setting-up-pyspark) (2 videos)
+  - Google Colab notebook setup
+  - Downloading a dataset
+- [**3. Working with PySpark DataFrames**](#3-working-with-pyspark-dataframes) (6 videos)
+  - Introduction to PySpark DataFrames
+  - Data formats and loading data
+  - Schema and data types
+  - Basic querying (select, filter, and sort)
+  - Challenge: Querying a DataFrame
+  - Solution: Querying a DataFrame
+- [**4. Essential PySpark Data Manipulation**](#4-essential-pyspark-data-manipulation) (7 videos)
+  - Handling missing data
+  - Creating new columns
+  - Unions and joins
+  - Aggregating
+  - Writing data
+  - Challenge: Essential data manipulation
+  - Solution: Essential data manipulation
+- [**5. PySpark SQL**](#5-pyspark-sql) (5 videos)
+  - What is PySpark SQL?
+  - Creating temporary views
+  - Using SQL queries
+  - Challenge: PySpark SQL
+  - Solution: PySpark SQL
+- [**6. PySpark in a Production Environment**](#6-pyspark-in-a-production-environment) (4 videos)
+  - Production environment requirements
+  - Example production environment setup
+  - A typical PySpark production workflow
+  - Cloud services
+- [**Conclusion**](#conclusion) (1 videos)
+  - Recap of key concepts and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/pyspark-essentials-training-introduction?u=76281980)
@@ -145,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Spark and PySpark
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Apache Spark: The foundation of PySpark
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-apache-spark-the-foundation-of-pyspark?u=76281980)
@@ -280,7 +311,7 @@ created: 2026-04-29
 
 ### 2. Setting Up PySpark
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Colab notebook setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/google-collab-notebook-setup?u=76281980)
@@ -451,7 +482,7 @@ created: 2026-04-29
 
 ### 3. Working with PySpark DataFrames
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to PySpark DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/introduction-to-pyspark-dataframes?u=76281980)
@@ -793,7 +824,7 @@ created: 2026-04-29
 
 ### 4. Essential PySpark Data Manipulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling missing data
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/handling-missing-data?u=76281980)
@@ -1203,7 +1234,7 @@ created: 2026-04-29
 
 ### 5. PySpark SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is PySpark SQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/what-is-pyspark-sql?u=76281980)
@@ -1400,7 +1431,7 @@ created: 2026-04-29
 
 ### 6. PySpark in a Production Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Production environment requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/production-environment-requirements?u=76281980)
@@ -1642,7 +1673,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap of key concepts and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/pyspark-essential-training-introduction-to-building-data-pipelines/recap-of-key-concepts-and-next-steps?u=76281980)

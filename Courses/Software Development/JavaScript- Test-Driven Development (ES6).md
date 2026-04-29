@@ -48,19 +48,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Test-Driven Development (TDD) Basics]]** (6 videos)
-- **[[#2. Writing Unit Tests]]** (9 videos)
-- **[[#3. Writing Integration Tests]]** (6 videos)
-- **[[#4. Writing End-to-End Tests]]** (4 videos)
-- **[[#5. Improving Your TDD Workflow]]** (6 videos)
-- **[[#6. A Real-World Example]]** (6 videos)
-- **[[#7. Running Tests]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Intro video
+  - What you should know
+  - What this course covers
+  - Software installation
+- [**1. Test-Driven Development (TDD) Basics**](#1-test-driven-development-tdd-basics) (6 videos)
+  - What is TDD?
+  - Advantages of TDD
+  - Disadvantages of TDD
+  - The basic TDD cycle
+  - Writing effective tests
+  - The three different types of tests
+- [**2. Writing Unit Tests**](#2-writing-unit-tests) (9 videos)
+  - The purpose of unit testing
+  - JavaScript frameworks for unit testing
+  - Writing and running basic tests
+  - Testing basic functions
+  - Testing asynchronous functions
+  - Modifying existing functionality
+  - To mock or not to mock?
+  - Challenge: Given criteria, write unit tests
+  - Solution: Given criteria, write unit tests
+- [**3. Writing Integration Tests**](#3-writing-integration-tests) (6 videos)
+  - Introduction to integration testing
+  - How do integration tests fit into TDD?
+  - Test doubles
+  - When shouldn't I use test doubles?
+  - The two categories of integration tests
+  - JavaScript libraries For integration testing
+- [**4. Writing End-to-End Tests**](#4-writing-end-to-end-tests) (4 videos)
+  - Integration testing in practice
+  - Testing Node servers with SuperTest
+  - Testing an endpoint: The basic approach
+  - Creating a Mocha setup file
+- [**5. Improving Your TDD Workflow**](#5-improving-your-tdd-workflow) (6 videos)
+  - Testing database communication: Basic setup
+  - Database setup and teardown in tests
+  - Ignoring object properties in Mocha
+  - Using environment variables in testing
+  - Creating test helpers
+  - Resetting the database between tests
+- [**6. A Real-World Example**](#6-a-real-world-example) (6 videos)
+  - Creating test-doubles with Sinon
+  - Testing a Node endpoint with SuperTest
+  - Implementing a server endpoint
+  - Testing a server's error path
+  - Challenge: Testing "Not Found"
+  - Solution: Testing "Not Found"
+- [**7. Running Tests**](#7-running-tests) (2 videos)
+  - Run tests automatically
+  - Checking test coverage with NYC
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro video
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/intro-video?u=76281980)
@@ -204,7 +248,7 @@ created: 2026-04-29
 
 ### 1. Test-Driven Development (TDD) Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is TDD?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/what-is-tdd?u=76281980)
@@ -614,7 +658,7 @@ created: 2026-04-29
 
 ### 2. Writing Unit Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The purpose of unit testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/the-purpose-of-unit-testing?u=76281980)
@@ -1351,7 +1395,7 @@ created: 2026-04-29
 
 ### 3. Writing Integration Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to integration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/introduction-to-integration-testing?u=76281980)
@@ -1696,7 +1740,7 @@ created: 2026-04-29
 
 ### 4. Writing End-to-End Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integration testing in practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/integration-testing-in-practice?u=76281980)
@@ -1950,7 +1994,7 @@ created: 2026-04-29
 
 ### 5. Improving Your TDD Workflow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing database communication: Basic setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/testing-database-communication-basic-setup?u=76281980)
@@ -2352,7 +2396,7 @@ created: 2026-04-29
 
 ### 6. A Real-World Example
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating test-doubles with Sinon
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/creating-test-doubles-with-sinon?u=76281980)
@@ -2809,7 +2853,7 @@ created: 2026-04-29
 
 ### 7. Running Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Run tests automatically
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/run-tests-automatically?u=76281980)
@@ -2916,7 +2960,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-test-driven-development-es6/next-steps?u=76281980)

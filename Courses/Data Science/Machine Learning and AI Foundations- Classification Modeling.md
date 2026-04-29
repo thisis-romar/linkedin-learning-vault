@@ -54,16 +54,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Big Picture: Defining Your Classification Strategy]]** (6 videos)
-- **[[#2. How Do I Choose a "Winner"?]]** (4 videos)
-- **[[#3. Algorithms on Parade]]** (14 videos)
-- **[[#4. Common Modeling Challenges]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Classification problems in machine learning
+  - What you should know
+  - Defining terms
+- [**1. The Big Picture: Defining Your Classification Strategy**](#1-the-big-picture-defining-your-classification-strategy) (6 videos)
+  - The importance of binary classification
+  - Binary vs. multinomial
+  - So-called “black box” techniques
+  - One task, many algorithms
+  - Statistics vs. machine learning
+  - Model assessment vs. business evaluation
+- [**2. How Do I Choose a "Winner"?**](#2-how-do-i-choose-a-winner) (4 videos)
+  - Training and test partitions
+  - Lift Charts
+  - Gains tables
+  - Confusion matrix
+- [**3. Algorithms on Parade**](#3-algorithms-on-parade) (14 videos)
+  - Overview
+  - Discriminant with three categories
+  - Discriminant with two categories
+  - Stepwise discriminant
+  - Logistic regression
+  - Stepwise logistic regression
+  - Decision Trees
+  - KNN
+  - Linear SVM
+  - Neural nets
+  - Bayesian networks
+  - Heterogenous ensembles
+  - Bagging and random forest
+  - Boosting and XGBoost
+- [**4. Common Modeling Challenges**](#4-common-modeling-challenges) (6 videos)
+  - Imbalanced target categories
+  - Interactions
+  - Missing data
+  - Bias-variance trade-off and overfitting
+  - Data reduction
+  - AutoML
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classification problems in machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/classification-problems-in-machine-learning-20201180?u=76281980)
@@ -218,7 +252,7 @@ created: 2026-04-29
 
 ### 1. The Big Picture: Defining Your Classification Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of binary classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980)
@@ -528,7 +562,7 @@ created: 2026-04-29
 
 ### 2. How Do I Choose a "Winner"?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Training and test partitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980)
@@ -777,7 +811,7 @@ created: 2026-04-29
 
 ### 3. Algorithms on Parade
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/overview?u=76281980)
@@ -2127,7 +2161,7 @@ created: 2026-04-29
 
 ### 4. Common Modeling Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Imbalanced target categories
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/imbalanced-target-categories?u=76281980)
@@ -2661,7 +2695,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980)

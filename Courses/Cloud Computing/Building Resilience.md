@@ -49,15 +49,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Making Meaning for More Resilience]]** (3 videos)
-- **[[#2. Build Emotional Agility for Resilience]]** (8 videos)
-- **[[#3. Build Your Support System for More Resilience]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Thrive by building resilience
+- [**1. Making Meaning for More Resilience**](#1-making-meaning-for-more-resilience) (3 videos)
+  - What does it mean to be resilient?
+  - Self-compassion and your inner narrator
+  - Tune into emotional patterns for greater resilience
+- [**2. Build Emotional Agility for Resilience**](#2-build-emotional-agility-for-resilience) (8 videos)
+  - Increase mental agility and flexibility to build resilience
+  - Practice acknowledging difficult truths
+  - The importance of grief for resilience
+  - Set goals to build agency during challenges
+  - Celebrate wins for sustained resilience
+  - Reframe unhelpful thoughts to be more resilient
+  - Stress management for resilience
+  - Build a relationship with vulnerability
+- [**3. Build Your Support System for More Resilience**](#3-build-your-support-system-for-more-resilience) (4 videos)
+  - Assessing and building internal resources
+  - Assessing and building external resources
+  - Find and vet your mentors
+  - Give support to get support
+- [**Conclusion**](#conclusion) (1 videos)
+  - Break an emotional sweat
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thrive by building resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/thrive-by-building-resilience?u=76281980)
@@ -93,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Making Meaning for More Resilience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What does it mean to be resilient?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?u=76281980)
@@ -321,7 +338,7 @@ created: 2026-04-29
 
 ### 2. Build Emotional Agility for Resilience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Increase mental agility and flexibility to build resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/increase-mental-agility-flexibility-to-build-resilience?u=76281980)
@@ -933,7 +950,7 @@ created: 2026-04-29
 
 ### 3. Build Your Support System for More Resilience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing and building internal resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980)
@@ -1170,7 +1187,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Break an emotional sweat
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/break-an-emotional-sweat?u=76281980)

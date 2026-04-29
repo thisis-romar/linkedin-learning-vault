@@ -49,17 +49,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Cloud Concepts]]** (4 videos)
-- **[[#2. Core Azure Services]]** (6 videos)
-- **[[#3. Identity, Governance, Privacy, and Compliance]]** (9 videos)
-- **[[#4. Cloud and Network Security]]** (7 videos)
-- **[[#5. Core Solutions and Management Tools]]** (6 videos)
-- **[[#6. Planning and Cost Management]]** (4 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introduction
+  - What is cloud computing?
+  - What is Azure?
+- [**1. Cloud Concepts**](#1-cloud-concepts) (4 videos)
+  - Cloud benefits and considerations
+  - Discuss different types of cloud models
+  - Types of cloud services
+  - Shared responsibility model
+- [**2. Core Azure Services**](#2-core-azure-services) (6 videos)
+  - Azure architectural components
+  - Walk-through of Azure portal and core Azure workloads
+  - Azure compute services
+  - Azure network services
+  - Azure storage services
+  - Azure database services
+- [**3. Identity, Governance, Privacy, and Compliance**](#3-identity-governance-privacy-and-compliance) (9 videos)
+  - Azure identity services
+  - Microsoft Entra ID
+  - Conditional Access policy
+  - Azure governance methodologies
+  - RBAC
+  - Azure Blueprints
+  - Azure Policy
+  - Azure resource locks
+  - Cloud Adoption Framework for Azure
+- [**4. Cloud and Network Security**](#4-cloud-and-network-security) (7 videos)
+  - Microsoft Defender for Cloud
+  - Microsoft Sentinel
+  - Azure Key Vault
+  - Azure Dedicated Host
+  - Azure VNet and NSG
+  - Azure Firewall
+  - Azure DDoS Protection
+- [**5. Core Solutions and Management Tools**](#5-core-solutions-and-management-tools) (6 videos)
+  - Azure IoT
+  - Big data and analytics
+  - Artificial intelligence and machine learning
+  - Serverless computing
+  - Azure Advisor
+  - Azure Monitor
+- [**6. Planning and Cost Management**](#6-planning-and-cost-management) (4 videos)
+  - Azure pricing calculator
+  - Total Cost of Ownership Calculator
+  - Factors affecting cost
+  - Azure SLAs
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980)
@@ -174,7 +213,7 @@ created: 2026-04-29
 
 ### 1. Cloud Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud benefits and considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980)
@@ -440,7 +479,7 @@ created: 2026-04-29
 
 ### 2. Core Azure Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure architectural components
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980)
@@ -1063,7 +1102,7 @@ created: 2026-04-29
 
 ### 3. Identity, Governance, Privacy, and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure identity services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980)
@@ -1678,7 +1717,7 @@ created: 2026-04-29
 
 ### 4. Cloud and Network Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Defender for Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980)
@@ -2152,7 +2191,7 @@ created: 2026-04-29
 
 ### 5. Core Solutions and Management Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure IoT
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980)
@@ -2522,7 +2561,7 @@ created: 2026-04-29
 
 ### 6. Planning and Cost Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure pricing calculator
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980)

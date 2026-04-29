@@ -47,17 +47,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Arrays: The Basics]]** (5 videos)
-- **[[#2.  Working with Ordered Data]]** (5 videos)
-- **[[#3. Evaluating Data for a Single Value]]** (4 videos)
-- **[[#4.  Implementing Stacks and Queues]]** (4 videos)
-- **[[#5.  Bringing It Together: Advanced Methods]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - So many ways to work with arrays
+  - What you should know
+- [**1. Arrays: The Basics**](#1-arrays-the-basics) (5 videos)
+  - Arrays overview
+  - Length property and direct assignment
+  - forEach for ease and readability
+  - Solution: Basic array methods 1
+  - Solution: Basic array methods 2
+- [**2.  Working with Ordered Data**](#2-working-with-ordered-data) (5 videos)
+  - Order arrays with sort
+  - Reverse array order with reverse
+  - Find a single element with find and findIndex
+  - Solution: Working with ordered data 1
+  - Solution: Working with ordered data 2
+- [**3. Evaluating Data for a Single Value**](#3-evaluating-data-for-a-single-value) (4 videos)
+  - Does the array Include an element?
+  - Do elements pass a test?
+  - Solution: Evaluating single value 1
+  - Solution: Evaluating single value 2
+- [**4.  Implementing Stacks and Queues**](#4-implementing-stacks-and-queues) (4 videos)
+  - The end: Push and pop data
+  - The beginning: Unshift and shift data
+  - Solution: Implementing stacks and queues 1
+  - Solution: Implementing stacks and queues 2
+- [**5.  Bringing It Together: Advanced Methods**](#5-bringing-it-together-advanced-methods) (6 videos)
+  - Reformat data with map
+  - Filter data with filter
+  - Single values with reduce
+  - Flat + map = flatMap
+  - Solution: Advanced methods 1
+  - Solution: Advanced methods 2
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### So many ways to work with arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/so-many-ways-to-work-with-arrays?u=76281980)
@@ -148,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Arrays: The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/arrays-overview?u=76281980)
@@ -442,7 +469,7 @@ created: 2026-04-29
 
 ### 2.  Working with Ordered Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Order arrays with sort
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/order-arrays-with-sort?u=76281980)
@@ -755,7 +782,7 @@ created: 2026-04-29
 
 ### 3. Evaluating Data for a Single Value
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Does the array Include an element?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/does-the-array-include-an-element?u=76281980)
@@ -1010,7 +1037,7 @@ created: 2026-04-29
 
 ### 4.  Implementing Stacks and Queues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The end: Push and pop data
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/the-end-push-and-pop-data?u=76281980)
@@ -1260,7 +1287,7 @@ created: 2026-04-29
 
 ### 5.  Bringing It Together: Advanced Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reformat data with map
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/reformat-data-with-map?u=76281980)
@@ -1885,7 +1912,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-arrays/next-steps?u=76281980)

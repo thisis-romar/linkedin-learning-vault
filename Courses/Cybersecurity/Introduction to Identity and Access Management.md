@@ -54,16 +54,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Key Concepts for Identity]]** (4 videos)
-- **[[#2. Applying Authentication in Your Organization]]** (3 videos)
-- **[[#3. Applying Authorization in Your Organization]]** (3 videos)
-- **[[#4. Advanced Tips and Tricks]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The importance of identity and access management
+  - What you should know
+- [**1. Key Concepts for Identity**](#1-key-concepts-for-identity) (4 videos)
+  - Authentication, authorization, and accounting
+  - Authentication deep dive
+  - Users, groups, systems, assets, and permissions
+  - Access control principles
+- [**2. Applying Authentication in Your Organization**](#2-applying-authentication-in-your-organization) (3 videos)
+  - Better together: Identity providers and identity governance
+  - Single sign-on
+  - Federation
+- [**3. Applying Authorization in Your Organization**](#3-applying-authorization-in-your-organization) (3 videos)
+  - Least privilege
+  - Provisioning
+  - Identity lifecycle
+- [**4. Advanced Tips and Tricks**](#4-advanced-tips-and-tricks) (4 videos)
+  - Zero trust
+  - Role mining
+  - Conditional access and just-in-time access
+  - An important side note on passwords
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of identity and access management
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/the-importance-of-identity-and-access-management?u=76281980)
@@ -114,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Key Concepts for Identity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication, authorization, and accounting
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-authorization-and-accounting?u=76281980)
@@ -451,7 +468,7 @@ created: 2026-04-29
 
 ### 2. Applying Authentication in Your Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Better together: Identity providers and identity governance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/better-together-identity-providers-and-identity-governance?u=76281980)
@@ -701,7 +718,7 @@ created: 2026-04-29
 
 ### 3. Applying Authorization in Your Organization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Least privilege
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/least-privilege?u=76281980)
@@ -867,7 +884,7 @@ created: 2026-04-29
 
 ### 4. Advanced Tips and Tricks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Zero trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/zero-trust?u=76281980)
@@ -1168,7 +1185,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/next-steps?u=76281980)

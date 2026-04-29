@@ -41,17 +41,73 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Today's Interaction Designer]]** (4 videos)
-- **[[#2. A Model of Psychology and Interaction Design]]** (4 videos)
-- **[[#3. Introductory Psychology]]** (17 videos)
-- **[[#4. The Interaction Design Model]]** (6 videos)
-- **[[#5. Interaction Design]]** (22 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Interaction design
+  - What is interaction design?
+- [**1. Today's Interaction Designer**](#1-todays-interaction-designer) (4 videos)
+  - Project types and deliverables
+  - Technical and software skills
+  - Related disciplines and fields of study
+  - Resources and communities
+- [**2. A Model of Psychology and Interaction Design**](#2-a-model-of-psychology-and-interaction-design) (4 videos)
+  - Why psychology?
+  - Introducing the interaction design model
+  - Context
+  - Goals
+- [**3. Introductory Psychology**](#3-introductory-psychology) (17 videos)
+  - Sensation
+  - Perception
+  - Gestalt principles
+  - Affordances
+  - Motivation
+  - Attention and memory
+  - Reasoning and logic
+  - Mental models
+  - Cognitive load
+  - Theories of emotion
+  - Designing for delight
+  - Empathy
+  - Learning behaviors
+  - Classical conditioning
+  - Operant conditioning
+  - Social learning theory
+  - Using learned behavior
+- [**4. The Interaction Design Model**](#4-the-interaction-design-model) (6 videos)
+  - Overview of the IxD model
+  - Perceive
+  - Predict
+  - Feedback
+  - Learn
+  - Remember
+- [**5. Interaction Design**](#5-interaction-design) (22 videos)
+  - Dimensions of interaction design
+  - Design thinking
+  - Levels of design: Structure
+  - Levels of design: Flow
+  - Levels of design: Interface
+  - Design patterns
+  - Anti-patterns
+  - Dark patterns
+  - Navigation structure
+  - Navigation systems
+  - Content
+  - Inputs
+  - Gestures
+  - Voice
+  - Sensors
+  - Defining microinteractions
+  - Microinteractions: Motion
+  - Microinteractions: Sound
+  - Microinteractions: Haptics
+  - Error handling
+  - Mistakes
+  - Usability and accessibility
+- [**Conclusion**](#conclusion) (1 videos)
+  - A solid foundation
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980)
@@ -130,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Today's Interaction Designer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project types and deliverables
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980)
@@ -293,7 +349,7 @@ created: 2026-04-29
 
 ### 2. A Model of Psychology and Interaction Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why psychology?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980)
@@ -608,7 +664,7 @@ created: 2026-04-29
 
 ### 3. Introductory Psychology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sensation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensation-14242595?u=76281980)
@@ -1987,7 +2043,7 @@ created: 2026-04-29
 
 ### 4. The Interaction Design Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the IxD model
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/overview-of-the-ixd-model-14238700?u=76281980)
@@ -2490,7 +2546,7 @@ created: 2026-04-29
 
 ### 5. Interaction Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dimensions of interaction design
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980)
@@ -3986,7 +4042,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A solid foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980)

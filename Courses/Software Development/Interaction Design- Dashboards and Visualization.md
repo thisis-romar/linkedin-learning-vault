@@ -39,16 +39,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Graph Fundamentals]]** (4 videos)
-- **[[#2. Color Deep Dive]]** (3 videos)
-- **[[#3. Applied Visual Design]]** (3 videos)
-- **[[#4. Putting It Together]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Designing dashboards and data
+- [**1. Graph Fundamentals**](#1-graph-fundamentals) (4 videos)
+  - Displaying the right data
+  - Common graph types
+  - More common graphs
+  - Cautionary charts and elements
+- [**2. Color Deep Dive**](#2-color-deep-dive) (3 videos)
+  - Color foundations
+  - Color use
+  - Color accessibility
+- [**3. Applied Visual Design**](#3-applied-visual-design) (3 videos)
+  - Layout and hierarchy
+  - Dashboard interactivity
+  - Reducing graph visual noise
+- [**4. Putting It Together**](#4-putting-it-together) (4 videos)
+  - Conceptualizing a dashboard
+  - Layout considerations
+  - Visual design considerations
+  - Dashboard interactivity
+- [**Conclusion**](#conclusion) (1 videos)
+  - Goodbye
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing dashboards and data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/designing-dashboards-and-data?u=76281980)
@@ -76,7 +92,7 @@ created: 2026-04-29
 
 ### 1. Graph Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Displaying the right data
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/displaying-the-right-data?u=76281980)
@@ -342,7 +358,7 @@ created: 2026-04-29
 
 ### 2. Color Deep Dive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Color foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/color-foundations?u=76281980)
@@ -560,7 +576,7 @@ created: 2026-04-29
 
 ### 3. Applied Visual Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Layout and hierarchy
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/layout-and-hierarchy?u=76281980)
@@ -781,7 +797,7 @@ created: 2026-04-29
 
 ### 4. Putting It Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conceptualizing a dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/conceptualizing-a-dashboard?u=76281980)
@@ -1079,7 +1095,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-dashboards-and-visualization/goodbye?u=76281980)

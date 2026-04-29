@@ -54,15 +54,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is "Feasible"?]]** (2 videos)
-- **[[#2. Tech Feasibility in Detail]]** (16 videos)
-- **[[#3. Prototyping]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction
+- [**1. What Is "Feasible"?**](#1-what-is-feasible) (2 videos)
+  - The goal: Feasibility and prototyping
+  - Building options
+- [**2. Tech Feasibility in Detail**](#2-tech-feasibility-in-detail) (16 videos)
+  - "Must knows" for feasibility
+  - Proof of concept, part 1
+  - Proof of concept, part 2
+  - Core AI architecture concepts, part 1
+  - Core AI architecture concepts, part 2
+  - How to do tech feasibility
+  - Questions for different implementation options
+  - Who can help you out? Storage and computing power
+  - Architecture, latency, standalone vs. connected
+  - Security, ethics, and compliance
+  - Endpoints and data
+  - Talent
+  - Maintenance and retraining
+  - Scaling and testing
+  - Metrics and time and budget updates
+  - Best practices of working with vendors
+- [**3. Prototyping**](#3-prototyping) (10 videos)
+  - Fundamentals of prototyping and prototyping timeline
+  - Prototyping roles, personas and expected outcome
+  - Minimum viable product (MVP)
+  - Six strategies for building prototypes, part 1
+  - Six strategies for building prototypes, part 2
+  - Prototyping best practices
+  - The process of gathering feedback from users
+  - Best practices for gathering feedback from users
+  - Drawing conclusions after the feedback
+  - Demo
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/introduction?u=76281980)
@@ -92,7 +122,7 @@ created: 2026-04-29
 
 ### 1. What Is "Feasible"?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The goal: Feasibility and prototyping
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility?u=76281980)
@@ -265,7 +295,7 @@ created: 2026-04-29
 
 ### 2. Tech Feasibility in Detail
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### "Must knows" for feasibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980)
@@ -1579,7 +1609,7 @@ created: 2026-04-29
 
 ### 3. Prototyping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals of prototyping and prototyping timeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980)
@@ -2679,7 +2709,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980)

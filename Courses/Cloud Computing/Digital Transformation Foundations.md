@@ -38,15 +38,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Smart Digital Transformation]]** (3 videos)
-- **[[#2. Smart Digital Transformation Technology]]** (6 videos)
-- **[[#3. Design a Smart Product or Architect Smart Operations]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - From Physical to Digital with AI, IoT, and Digital Twins
+- [**1. Smart Digital Transformation**](#1-smart-digital-transformation) (3 videos)
+  - What is digital transformation?
+  - Why digitally transform?
+  - The smart macro trends
+- [**2. Smart Digital Transformation Technology**](#2-smart-digital-transformation-technology) (6 videos)
+  - Tech overview
+  - Digital twin
+  - Internet of Things
+  - Machine learning and generative AI
+  - Extended reality
+  - Blockchain
+- [**3. Design a Smart Product or Architect Smart Operations**](#3-design-a-smart-product-or-architect-smart-operations) (4 videos)
+  - Identifying value
+  - Design
+  - Sell
+  - Build
+- [**Conclusion**](#conclusion) (1 videos)
+  - Main takeaways
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From Physical to Digital with AI, IoT, and Digital Twins
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980)
@@ -76,7 +91,7 @@ created: 2026-04-29
 
 ### 1. Smart Digital Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is digital transformation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980)
@@ -307,7 +322,7 @@ created: 2026-04-29
 
 ### 2. Smart Digital Transformation Technology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tech overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980)
@@ -906,7 +921,7 @@ created: 2026-04-29
 
 ### 3. Design a Smart Product or Architect Smart Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying value
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980)
@@ -1176,7 +1191,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Main takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980)

@@ -49,17 +49,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started in Blockchain and Hyperledger]]** (2 videos)
-- **[[#2. Hyperledger Concepts]]** (6 videos)
-- **[[#3. Blockchain in Azure]]** (3 videos)
-- **[[#4. Set Up Your Blockchain Environment]]** (5 videos)
-- **[[#5. Create Your Azure Blockchain Application]]** (6 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Entering blockchain as a developer
+  - What you should know
+  - What we are going to build
+- [**1. Getting Started in Blockchain and Hyperledger**](#1-getting-started-in-blockchain-and-hyperledger) (2 videos)
+  - Blockchain landscape
+  - Public vs. private ledgers
+- [**2. Hyperledger Concepts**](#2-hyperledger-concepts) (6 videos)
+  - Hyperledger introduction
+  - Hyperledger Fabric network
+  - Managing identity in Fabric
+  - Smart contracts
+  - How to reach consensus
+  - What's new in HLF 2.0
+- [**3. Blockchain in Azure**](#3-blockchain-in-azure) (3 videos)
+  - Hyperledger Fabric on Azure
+  - Production vs. development differences
+  - Hyperledger tools
+- [**4. Set Up Your Blockchain Environment**](#4-set-up-your-blockchain-environment) (5 videos)
+  - Development environment setup
+  - Development environment for Fabric on Azure
+  - Deploy Hyperledger Fabric on Azure
+  - Connect to network
+  - Create development project
+- [**5. Create Your Azure Blockchain Application**](#5-create-your-azure-blockchain-application) (6 videos)
+  - Build the network
+  - Examine application structure
+  - Add readings
+  - Deploying chaincode to network
+  - Challenge: Determine oil grade
+  - Solution: Determine oil grade
+- [**Conclusion**](#conclusion) (2 videos)
+  - Teardown
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Entering blockchain as a developer
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/entering-blockchain-as-a-developer?u=76281980)
@@ -150,7 +177,7 @@ created: 2026-04-29
 
 ### 1. Getting Started in Blockchain and Hyperledger
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/blockchain-landscape?u=76281980)
@@ -289,7 +316,7 @@ created: 2026-04-29
 
 ### 2. Hyperledger Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hyperledger introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-introduction?u=76281980)
@@ -894,7 +921,7 @@ created: 2026-04-29
 
 ### 3. Blockchain in Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hyperledger Fabric on Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/hyperledger-fabric-on-azure?u=76281980)
@@ -1188,7 +1215,7 @@ created: 2026-04-29
 
 ### 4. Set Up Your Blockchain Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Development environment setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/development-environment-setup?u=76281980)
@@ -1683,7 +1710,7 @@ created: 2026-04-29
 
 ### 5. Create Your Azure Blockchain Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/build-the-network?u=76281980)
@@ -2329,7 +2356,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Teardown
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-for-developers-hyperledger-fabric-on-azure-14022311/teardown?u=76281980)

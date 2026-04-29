@@ -57,14 +57,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What is the EU AI Act and What Does it Cover?]]** (6 videos)
-- **[[#2. What Does the EU AI Act Mean for Businesses?]]** (4 videos)
-- **[[#3. Learn More About the EU AI Act]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understanding the EU AI Act
+  - Meet Jon Adams
+- [**1. What is the EU AI Act and What Does it Cover?**](#1-what-is-the-eu-ai-act-and-what-does-it-cover) (6 videos)
+  - An overview of the EU AI Act
+  - Identifying the scope and coverage of the act
+  - How does the law apply to different technologies?
+  - A risk-based approach to regulation
+  - Timeline and risk-evaluation for compliance
+  - Ensuring that people stay in the loop
+- [**2. What Does the EU AI Act Mean for Businesses?**](#2-what-does-the-eu-ai-act-mean-for-businesses) (4 videos)
+  - What does this mean for businesses outside the EU?
+  - Understanding enforcement and penalties
+  - How should business leaders prepare?
+  - Is there anything that individuals need to know or do?
+- [**3. Learn More About the EU AI Act**](#3-learn-more-about-the-eu-ai-act) (1 videos)
+  - Additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980)
@@ -114,7 +127,7 @@ created: 2026-04-29
 
 ### 1. What is the EU AI Act and What Does it Cover?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of the EU AI Act
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/an-overview-of-the-eu-ai-act?u=76281980)
@@ -515,7 +528,7 @@ created: 2026-04-29
 
 ### 2. What Does the EU AI Act Mean for Businesses?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What does this mean for businesses outside the EU?
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/what-does-this-mean-for-businesses-outside-the-eu?u=76281980)
@@ -760,7 +773,7 @@ created: 2026-04-29
 
 ### 3. Learn More About the EU AI Act
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/additional-resources?u=76281980)

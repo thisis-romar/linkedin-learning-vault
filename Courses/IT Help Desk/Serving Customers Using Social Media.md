@@ -48,18 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Delivering Efficient Customer Service on Social Media]]** (3 videos)
-- **[[#2. Crafting Personalized, On-Brand Customer Service Responses]]** (5 videos)
-- **[[#3. Using Templates for Efficient Responses to Your Customers]]** (2 videos)
-- **[[#4. Handling Angry Customers on Social Media]]** (3 videos)
-- **[[#5. Responding to Ratings and Reviews]]** (2 videos)
-- **[[#6. Leveraging Generative AI Tools in Responding to Customers on Social]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How to have a fulfilling career in social customer care
+- [**1. Delivering Efficient Customer Service on Social Media**](#1-delivering-efficient-customer-service-on-social-media) (3 videos)
+  - Respond quickly to customer inquiries on social
+  - Pivot channels gracefully in social customer service
+  - Answer one customer and help many more
+- [**2. Crafting Personalized, On-Brand Customer Service Responses**](#2-crafting-personalized-on-brand-customer-service-responses) (5 videos)
+  - Adopt an informal yet professional tone in your writing
+  - Include emojis and GIFs in your customer service responses
+  - Identify writing rules you can break in social media
+  - Demonstrate empathy in your responses to customers
+  - Personalize responses to customers with key details
+- [**3. Using Templates for Efficient Responses to Your Customers**](#3-using-templates-for-efficient-responses-to-your-customers) (2 videos)
+  - Determine when to use templates versus customized responses
+  - Write templates that are easy to customize
+- [**4. Handling Angry Customers on Social Media**](#4-handling-angry-customers-on-social-media) (3 videos)
+  - Defuse angry customers skillfully
+  - Determine when not to engage with angry customers on social
+  - Apologize authentically to angry customers
+- [**5. Responding to Ratings and Reviews**](#5-responding-to-ratings-and-reviews) (2 videos)
+  - Respond to low ratings and poor reviews
+  - Offer solutions, share resources, and suggest products
+- [**6. Leveraging Generative AI Tools in Responding to Customers on Social**](#6-leveraging-generative-ai-tools-in-responding-to-customers-on-social) (2 videos)
+  - Use GenAI to analyze customer posts
+  - Use GenAI to refine responses to customers before posting
+- [**Conclusion**](#conclusion) (1 videos)
+  - Take your social customer care skills to the next level
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to have a fulfilling career in social customer care
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/how-to-have-a-fulfilling-career-in-social-customer-care?u=76281980)
@@ -91,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Delivering Efficient Customer Service on Social Media
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Respond quickly to customer inquiries on social
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-quickly-to-customer-inquiries-on-social?u=76281980)
@@ -317,7 +336,7 @@ created: 2026-04-29
 
 ### 2. Crafting Personalized, On-Brand Customer Service Responses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adopt an informal yet professional tone in your writing
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/adopt-an-informal-yet-professional-tone-in-your-writing?u=76281980)
@@ -751,7 +770,7 @@ created: 2026-04-29
 
 ### 3. Using Templates for Efficient Responses to Your Customers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine when to use templates versus customized responses
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-to-use-templates-versus-customized-responses?u=76281980)
@@ -920,7 +939,7 @@ created: 2026-04-29
 
 ### 4. Handling Angry Customers on Social Media
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defuse angry customers skillfully
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/defuse-angry-customers-skillfully?u=76281980)
@@ -1166,7 +1185,7 @@ created: 2026-04-29
 
 ### 5. Responding to Ratings and Reviews
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Respond to low ratings and poor reviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980)
@@ -1347,7 +1366,7 @@ created: 2026-04-29
 
 ### 6. Leveraging Generative AI Tools in Responding to Customers on Social
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use GenAI to analyze customer posts
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980)
@@ -1667,7 +1686,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take your social customer care skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980)

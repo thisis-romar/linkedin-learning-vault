@@ -46,18 +46,76 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Users and Accounts]]** (9 videos)
-- **[[#2. Files Access Control]]** (13 videos)
-- **[[#3. Manage Security]]** (9 videos)
-- **[[#4. Accessing Linux Remotely]]** (7 videos)
-- **[[#5. Configure Local Storage]]** (8 videos)
-- **[[#6. Containers]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Prepare for the RHCSA EX200 Exam
+  - About Red Hat Certifications
+  - What was covered in Part One
+- [**1. Users and Accounts**](#1-users-and-accounts) (9 videos)
+  - Create and delete local user accounts
+  - Modify local user accounts
+  - Change passwords and adjust password aging for local user accounts
+  - Manage aging for local user accounts
+  - Create, delete, and modify local groups and group memberships
+  - Log in and switch users in multiuser targets
+  - Elevating privileges using sudo
+  - Challenge: Users and accounts
+  - Solution: Users and accounts
+- [**2. Files Access Control**](#2-files-access-control) (13 videos)
+  - File and directory modes
+  - Change file and directory ownership
+  - Set permissions using numeric mode
+  - Set permissions using symbolic mode
+  - Initial permissions using umask
+  - Special file bits: SUID and SGID
+  - Special directory bits: SGID and Sticky
+  - Read access control lists
+  - Set access control lists (ACLs)
+  - Configure inheritance with default access control lists
+  - Delete access control lists
+  - Challenge: File access control
+  - Solution: File access control
+- [**3. Manage Security**](#3-manage-security) (9 videos)
+  - Set enforcing and permissive modes for SELinux
+  - List and identify SELinux file and process context
+  - Restore SELinux default file contexts
+  - Use Booleans to modify SELinux behavior
+  - Diagnose routine SELinux policy violations
+  - Maintain security context when managing files
+  - Manage firewalls with firewalld
+  - Challenge: Manage security
+  - Solution: Manage security
+- [**4. Accessing Linux Remotely**](#4-accessing-linux-remotely) (7 videos)
+  - Configure Secure Shell
+  - Configure key-based authentication for SSH
+  - Securely transfer files between systems
+  - Access Linux from Windows using PuTTY
+  - Access Linux from macOS or Linux using SSH
+  - Access Linux from iOS using SSH
+  - Access Linux from Android using SSH
+- [**5. Configure Local Storage**](#5-configure-local-storage) (8 videos)
+  - List, create, and delete partitions on MBR and GPT disks
+  - Manage LVM volumes and volume groups
+  - Mount file systems at boot
+  - Mount file systems at boot by ID or label
+  - Extend existing logical volumes
+  - Mount and unmount CIFS and NFS network file systems
+  - Challenge: Local storage
+  - Solution: Local storage
+- [**6. Containers**](#6-containers) (8 videos)
+  - About containers on Enterprise Linux
+  - Retrieve container images from a remote registry
+  - Inspect container images
+  - Managing containers
+  - Working with container images
+  - Build a container from a container file
+  - Configure a container to start automatically as a systemd service
+  - Attach persistent storage to a container
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare for the RHCSA EX200 Exam
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/prepare-for-the-rhcsa-ex200-exam-23052024?u=76281980)
@@ -183,7 +241,7 @@ created: 2026-04-29
 
 ### 1. Users and Accounts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and delete local user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/create-and-delete-local-user-accounts?u=76281980)
@@ -1263,7 +1321,7 @@ created: 2026-04-29
 
 ### 2. Files Access Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### File and directory modes
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/file-and-directory-modes?u=76281980)
@@ -2764,7 +2822,7 @@ created: 2026-04-29
 
 ### 3. Manage Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set enforcing and permissive modes for SELinux
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/set-enforcing-and-permissive-modes-for-selinux?u=76281980)
@@ -3712,7 +3770,7 @@ created: 2026-04-29
 
 ### 4. Accessing Linux Remotely
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure Secure Shell
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/configure-secure-shell?u=76281980)
@@ -4236,7 +4294,7 @@ created: 2026-04-29
 
 ### 5. Configure Local Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### List, create, and delete partitions on MBR and GPT disks
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/list-create-and-delete-partitions-on-mbr-and-gpt-disks?u=76281980)
@@ -5226,7 +5284,7 @@ created: 2026-04-29
 
 ### 6. Containers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### About containers on Enterprise Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/about-containers-on-enterprise-linux?u=76281980)
@@ -6249,7 +6307,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-system-administrator-ex200-cert-prep-2-file-access-storage-and-security/next-steps?u=76281980)

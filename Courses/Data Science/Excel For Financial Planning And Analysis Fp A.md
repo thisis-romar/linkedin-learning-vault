@@ -46,16 +46,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Why Does Excel Matter to FP&A?]]** (4 videos)
-- **[[#2. Dynamic Data Tables in Excel for FP&A]]** (8 videos)
-- **[[#3. Dynamic Data Ranges in Excel for FP&A]]** (6 videos)
-- **[[#4. Dynamic Data Arrays in Excel for FP&A]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Leveraging Excel for financial planning & analysis (FP&A)
+- [**1. Why Does Excel Matter to FP&A?**](#1-why-does-excel-matter-to-fpa) (4 videos)
+  - What is financial planning & analysis (FP&A)?
+  - Excel in FP&A, management consulting and investment banking
+  - Where does Excel fit into the FP&A tech stack?
+  - Why do dynamic functions matter for FP&A?
+- [**2. Dynamic Data Tables in Excel for FP&A**](#2-dynamic-data-tables-in-excel-for-fpa) (8 videos)
+  - An introduction to dynamic data tables
+  - Dynamic data tables for FP&A modeling
+  - Updating data tables with Power Query
+  - FP&A applications with data tables
+  - Advanced dynamic mapping using Power Query
+  - Advanced dynamic mapping using INDEX, XMATCH, and INDIRECT
+  - Challenge: Mapping dynamic data tables to an FP&A model
+  - Solution: Mapping dynamic data tables to an FP&A model
+- [**3. Dynamic Data Ranges in Excel for FP&A**](#3-dynamic-data-ranges-in-excel-for-fpa) (6 videos)
+  - Using INDEX XMATCH for dynamic ranges
+  - Using XLOOKUP for dynamic ranges
+  - Introduction to OFFSET
+  - Using OFFSET for dynamic ranges
+  - Challenge: Flexing data and dynamic ranges for an FP&A model
+  - Solution: Flexing data and dynamic ranges for an FP&A model
+- [**4. Dynamic Data Arrays in Excel for FP&A**](#4-dynamic-data-arrays-in-excel-for-fpa) (7 videos)
+  - Introduction to dynamic arrays
+  - Using SEQUENCE for dynamic ranges
+  - Using FILTER for dynamic data management
+  - Using UNIQUE for dynamic data management
+  - Using SORT and SORTBY for dynamic data management
+  - Challenge: Segmenting data for use in an FP&A model
+  - Solution: Segmenting data for use in an FP&A model
+- [**Conclusion**](#conclusion) (1 videos)
+  - Implementing what you've learned
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging Excel for financial planning & analysis (FP&A)
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/leveraging-excel-for-financial-planning-analysis-fp-a?u=76281980)
@@ -86,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Why Does Excel Matter to FP&A?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is financial planning & analysis (FP&A)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980)
@@ -340,7 +367,7 @@ created: 2026-04-29
 
 ### 2. Dynamic Data Tables in Excel for FP&A
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An introduction to dynamic data tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980)
@@ -1613,7 +1640,7 @@ created: 2026-04-29
 
 ### 3. Dynamic Data Ranges in Excel for FP&A
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using INDEX XMATCH for dynamic ranges
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980)
@@ -2205,7 +2232,7 @@ created: 2026-04-29
 
 ### 4. Dynamic Data Arrays in Excel for FP&A
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to dynamic arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980)
@@ -3044,7 +3071,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980)

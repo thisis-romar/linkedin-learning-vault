@@ -49,20 +49,71 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to AI Agents in the Cloud]]** (7 videos)
-- **[[#2. Generative AI Tools and Platforms]]** (9 videos)
-- **[[#3. Building Agentic AI Solutions in the Cloud]]** (9 videos)
-- **[[#4. Integrating Agentic AI in the Cloud into DevOps Practices]]** (3 videos)
-- **[[#5. Agentic AI and Cloud Architecture]]** (7 videos)
-- **[[#6. AI Workflows and Prompt Engineering]]** (4 videos)
-- **[[#7. Important Topics for Agentic AI]]** (3 videos)
-- **[[#8. Future of Agentic AI in Cloud]]** (6 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to AI agents in cloud computing
+- [**1. Introduction to AI Agents in the Cloud**](#1-introduction-to-ai-agents-in-the-cloud) (7 videos)
+  - Overview of cloud-based agentic AI
+  - Definition and types of AI agents
+  - Use cases for agentic AI in the cloud
+  - Case study #1
+  - Case study #2
+  - Challenge: Identifying the use cases for agentic AI in the cloud
+  - Solution: Identifying the use cases for agentic AI in the cloud
+- [**2. Generative AI Tools and Platforms**](#2-generative-ai-tools-and-platforms) (9 videos)
+  - Overview of generative AI tools
+  - Autonomous task management tools
+  - Decision-making and reasoning tools
+  - Monitoring and incident management tools
+  - Security and compliance tools
+  - Content and media generation tools
+  - Customer interaction and support tools
+  - Challenge: Identifying the right agentic AI tools for XYZ Corp.
+  - Solution: Identifying the right agentic AI tools for XYZ Corp.
+- [**3. Building Agentic AI Solutions in the Cloud**](#3-building-agentic-ai-solutions-in-the-cloud) (9 videos)
+  - Autonomous resource management
+  - Automated DevOps pipelines
+  - Intelligent monitoring and alerting
+  - Personalized customer experience
+  - Predictive maintenance and issue resolution
+  - Enterprise data integration and AI
+  - Agentic AI for dynamic content generation
+  - Challenge: Building a personalized customer experience agent for XYZ Corp
+  - Solution: Building a personalized customer experience agent for XYZ Corp
+- [**4. Integrating Agentic AI in the Cloud into DevOps Practices**](#4-integrating-agentic-ai-in-the-cloud-into-devops-practices) (3 videos)
+  - Enhancing CI/CD pipelines with AI
+  - Security and compliance
+  - Testing and deployment
+- [**5. Agentic AI and Cloud Architecture**](#5-agentic-ai-and-cloud-architecture) (7 videos)
+  - AI agents and data integration
+  - Cloud-based agentic AI and storage
+  - Cloud-based agentic AI and compute
+  - Cloud-based agentic AI and containers
+  - AI agents and serverless
+  - Challenge: Creating an agentic AI cloud architecture for XYZ Corp.
+  - Solution: Creating an agentic AI cloud architecture for XYZ Corp.
+- [**6. AI Workflows and Prompt Engineering**](#6-ai-workflows-and-prompt-engineering) (4 videos)
+  - Crafting prompts to guide agentic behavior in AI models
+  - Refining AI prompts based on performance
+  - Challenge: AI workflows and prompt engineering at XYZ Corp
+  - Solution: AI workflows and prompt engineering at XYZ Corp
+- [**7. Important Topics for Agentic AI**](#7-important-topics-for-agentic-ai) (3 videos)
+  - Intelligent monitoring and incident management
+  - Enterprise data integration
+  - Human-AI collaboration in the cloud
+- [**8. Future of Agentic AI in Cloud**](#8-future-of-agentic-ai-in-cloud) (6 videos)
+  - Multi-agent systems
+  - Agentic AI-driven cloud security
+  - Scalable and resilient architectures
+  - Advanced data integration techniques
+  - Interoperability of agentic AI across cloud platforms
+  - Agentic AI in edge computing
+- [**Conclusion**](#conclusion) (2 videos)
+  - Learning more about AI agents
+  - Where to get more information
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI agents in cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/introduction-to-ai-agents-in-cloud-computing?u=76281980)
@@ -92,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Introduction to AI Agents in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of cloud-based agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-cloud-based-agentic-ai?u=76281980)
@@ -506,7 +557,7 @@ created: 2026-04-29
 
 ### 2. Generative AI Tools and Platforms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of generative AI tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/overview-of-generative-ai-tools?u=76281980)
@@ -896,7 +947,7 @@ created: 2026-04-29
 
 ### 3. Building Agentic AI Solutions in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Autonomous resource management
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/autonomous-resource-management?u=76281980)
@@ -1309,7 +1360,7 @@ created: 2026-04-29
 
 ### 4. Integrating Agentic AI in the Cloud into DevOps Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhancing CI/CD pipelines with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/enhancing-ci-cd-pipelines-with-ai-26507202?u=76281980)
@@ -1481,7 +1532,7 @@ created: 2026-04-29
 
 ### 5. Agentic AI and Cloud Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI agents and data integration
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/ai-agents-and-data-integration?u=76281980)
@@ -1786,7 +1837,7 @@ created: 2026-04-29
 
 ### 6. AI Workflows and Prompt Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Crafting prompts to guide agentic behavior in AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/crafting-prompts-to-guide-agentic-behavior-in-ai-models?u=76281980)
@@ -1955,7 +2006,7 @@ created: 2026-04-29
 
 ### 7. Important Topics for Agentic AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intelligent monitoring and incident management
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/intelligent-monitoring-and-incident-management?u=76281980)
@@ -2083,7 +2134,7 @@ created: 2026-04-29
 
 ### 8. Future of Agentic AI in Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Multi-agent systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/multi-agent-systems?u=76281980)
@@ -2388,7 +2439,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about AI agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-agentic-ai-in-cloud-computing-strategy-and-tool-optimization/learning-more-about-ai-agents?u=76281980)

@@ -37,15 +37,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Orienting Yourself within Figma]]** (2 videos)
-- **[[#2. Project Creation]]** (5 videos)
-- **[[#3. Prototyping, Collaborating, and Exporting]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Migrating to Figma
+  - Expectations
+- [**1. Orienting Yourself within Figma**](#1-orienting-yourself-within-figma) (2 videos)
+  - Creating your first team
+  - Overview of a design file
+- [**2. Project Creation**](#2-project-creation) (5 videos)
+  - Creating project styles
+  - Creating the hero section
+  - Applying auto layout
+  - Creating a responsive button
+  - Using masks
+- [**3. Prototyping, Collaborating, and Exporting**](#3-prototyping-collaborating-and-exporting) (4 videos)
+  - Prototyping with smart animations
+  - Working with other designers
+  - Collaborating with stakeholders
+  - Exporting files
+- [**Conclusion**](#conclusion) (1 videos)
+  - Wrap-up
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Migrating to Figma
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/migrating-to-figma?u=76281980)
@@ -86,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Orienting Yourself within Figma
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your first team
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980)
@@ -434,7 +448,7 @@ created: 2026-04-29
 
 ### 2. Project Creation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating project styles
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980)
@@ -1447,7 +1461,7 @@ created: 2026-04-29
 
 ### 3. Prototyping, Collaborating, and Exporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototyping with smart animations
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980)
@@ -1957,7 +1971,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap-up
 > [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/wrap-up?u=76281980)

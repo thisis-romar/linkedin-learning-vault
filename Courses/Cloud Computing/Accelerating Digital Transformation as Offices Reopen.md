@@ -40,13 +40,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Your Digital Transformation Journey]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Opening your doors to digital transformation
+- [**1. Your Digital Transformation Journey**](#1-your-digital-transformation-journey) (6 videos)
+  - Creating a resilient business
+  - Innovation inside the enterprise
+  - Shift from B2B to B2C
+  - Know the consumer
+  - Data monetization and data-driven culture
+  - Reshaping, reskilling, and upskilling the workforce
+- [**Conclusion**](#conclusion) (1 videos)
+  - The future of work
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Opening your doors to digital transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980)
@@ -91,7 +99,7 @@ created: 2026-04-29
 
 ### 1. Your Digital Transformation Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a resilient business
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980)
@@ -555,7 +563,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of work
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980)

@@ -35,14 +35,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Measuring Your Processes]]** (6 videos)
-- **[[#2. Improving Your Processes]]** (13 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - What is process improvement?
+- [**1. Measuring Your Processes**](#1-measuring-your-processes) (6 videos)
+  - Measuring and managing
+  - Measuring the right thing
+  - How to measure process improvement
+  - Using statistical process control (SPC)
+  - Setting action limits: Performance figures
+  - Setting action limits: Median moving range
+- [**2. Improving Your Processes**](#2-improving-your-processes) (13 videos)
+  - Optimizing your quality, costs, and time tradeoff
+  - Understanding the real cost of quality
+  - Reducing cost by reducing waste
+  - Understanding lead time
+  - Improving time business process reengineering
+  - Challenge: Balancing lines and flow
+  - Solution: Balancing lines and flow
+  - Improving time performance: Bottlenecks
+  - Improving time performance: Queues
+  - Reducing lead time using a pull approach to reduce buffers
+  - Thinking about your batch sizes
+  - Improving quality and cost through team projects
+  - Looking briefly at Lean and Six Sigma
+- [**Conclusion**](#conclusion) (1 videos)
+  - Final thoughts
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is process improvement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/what-is-process-improvement?u=76281980)
@@ -72,7 +93,7 @@ created: 2026-04-29
 
 ### 1. Measuring Your Processes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring and managing
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/measuring-and-managing-2?u=76281980)
@@ -569,7 +590,7 @@ created: 2026-04-29
 
 ### 2. Improving Your Processes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing your quality, costs, and time tradeoff
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/optimizing-your-quality-costs-and-time-tradeoff?u=76281980)
@@ -1724,7 +1745,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts
 > [LinkedIn Learning](https://www.linkedin.com/learning/process-improvement-foundations/final-thoughts-2?u=76281980)

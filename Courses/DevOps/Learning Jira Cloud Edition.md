@@ -46,19 +46,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started with Jira]]** (5 videos)
-- **[[#2. Navigating Jira]]** (5 videos)
-- **[[#3. Working in Projects]]** (4 videos)
-- **[[#4. Working with Issues]]** (7 videos)
-- **[[#5. Finding Issues]]** (6 videos)
-- **[[#6. Using Reporting Features]]** (9 videos)
-- **[[#7. Managing Profile Settings]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Managing work in Jira Cloud
+  - Who is this course for?
+  - What do you need for this course?
+- [**1. Getting Started with Jira**](#1-getting-started-with-jira) (5 videos)
+  - What is Jira?
+  - How is Jira used?
+  - Types of Jira
+  - Jira versions
+  - Important terms and definitions
+- [**2. Navigating Jira**](#2-navigating-jira) (5 videos)
+  - Logging in
+  - Using key views
+  - Accessing key features
+  - Challenge: Finding key features
+  - Solution: Finding key features
+- [**3. Working in Projects**](#3-working-in-projects) (4 videos)
+  - Viewing the project list
+  - Types of projects
+  - Parts of a project
+  - Identifying project leads
+- [**4. Working with Issues**](#4-working-with-issues) (7 videos)
+  - Creating issues
+  - Editing issues
+  - Adding attachments
+  - Linking issues
+  - Transitioning issues
+  - Estimating effort
+  - Tracking time
+- [**5. Finding Issues**](#5-finding-issues) (6 videos)
+  - Ways to find Jira issues
+  - Using basic search
+  - Using advanced search and JQL
+  - Sample queries
+  - Challenge: Finding issues
+  - Solution: Finding issues
+- [**6. Using Reporting Features**](#6-using-reporting-features) (9 videos)
+  - Reporting methods
+  - How to save and share filters
+  - Creating filter subscriptions
+  - Creating boards
+  - Creating dashboards
+  - Using reports
+  - Exporting issues
+  - Challenge: Using reporting features
+  - Solution: Using reporting features
+- [**7. Managing Profile Settings**](#7-managing-profile-settings) (1 videos)
+  - Changing user preferences
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional resources for Jira learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing work in Jira Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980)
@@ -194,7 +235,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Jira
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Jira?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980)
@@ -506,7 +547,7 @@ created: 2026-04-29
 
 ### 2. Navigating Jira
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Logging in
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980)
@@ -889,7 +930,7 @@ created: 2026-04-29
 
 ### 3. Working in Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Viewing the project list
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980)
@@ -1435,7 +1476,7 @@ created: 2026-04-29
 
 ### 4. Working with Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980)
@@ -1806,7 +1847,7 @@ created: 2026-04-29
 
 ### 5. Finding Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ways to find Jira issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980)
@@ -2102,7 +2143,7 @@ created: 2026-04-29
 
 ### 6. Using Reporting Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reporting methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980)
@@ -2734,7 +2775,7 @@ created: 2026-04-29
 
 ### 7. Managing Profile Settings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Changing user preferences
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980)
@@ -2789,7 +2830,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980)

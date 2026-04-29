@@ -46,17 +46,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (3 videos)
-- **[[#2. Working with Text, Images, and Multimedia]]** (6 videos)
-- **[[#3. Formatting Presentations]]** (4 videos)
-- **[[#4. Presenting]]** (3 videos)
-- **[[#5. Exporting and Sharing]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Discover the power of PowerPoint
+  - Understanding PowerPoint versions
+- [**1. Getting Started**](#1-getting-started) (3 videos)
+  - Browse the presentation gallery
+  - Create a new presentation
+  - Add slides and sections
+- [**2. Working with Text, Images, and Multimedia**](#2-working-with-text-images-and-multimedia) (6 videos)
+  - Add text with text slides, boxes, and shapes
+  - Format text
+  - Add photos
+  - Add video
+  - Add audio
+  - Add links
+- [**3. Formatting Presentations**](#3-formatting-presentations) (4 videos)
+  - Change themes
+  - Change slide backgrounds
+  - Add headers and footers
+  - Work with transitions
+- [**4. Presenting**](#4-presenting) (3 videos)
+  - Use speaker notes
+  - Present and navigate your slide deck
+  - Use Presenter View
+- [**5. Exporting and Sharing**](#5-exporting-and-sharing) (3 videos)
+  - Export as a PDF
+  - Save to the cloud
+  - Share and collaborate with others
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue improving your presentation skills
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover the power of PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/discover-the-power-of-powerpoint?u=76281980)
@@ -109,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Browse the presentation gallery
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/browse-the-presentation-gallery?u=76281980)
@@ -425,7 +447,7 @@ created: 2026-04-29
 
 ### 2. Working with Text, Images, and Multimedia
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add text with text slides, boxes, and shapes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/add-text-with-text-slides-boxes-and-shapes?u=76281980)
@@ -1186,7 +1208,7 @@ created: 2026-04-29
 
 ### 3. Formatting Presentations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change themes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/change-themes?u=76281980)
@@ -1549,7 +1571,7 @@ created: 2026-04-29
 
 ### 4. Presenting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use speaker notes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/use-speaker-notes?u=76281980)
@@ -1790,7 +1812,7 @@ created: 2026-04-29
 
 ### 5. Exporting and Sharing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Export as a PDF
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/export-as-a-pdf?u=76281980)
@@ -1998,7 +2020,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue improving your presentation skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-powerpoint-desktop-microsoft-365/continue-improving-your-presentation-skills?u=76281980)

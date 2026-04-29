@@ -48,15 +48,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Make Decisions and Solve Problems with Nuanced Thinking]]** (4 videos)
-- **[[#2. Overcoming Barriers to Nuanced Thinking]]** (3 videos)
-- **[[#3. Overcoming Barriers to Nuanced Decision-Making]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why nuanced thinking matters
+- [**1. Make Decisions and Solve Problems with Nuanced Thinking**](#1-make-decisions-and-solve-problems-with-nuanced-thinking) (4 videos)
+  - Learn the qualities of nuanced thinking
+  - Learn the qualities of nuanced decision-making
+  - Learn to differentiate problem solving and decision-making
+  - Face the challenges of nuanced decision-making in groups
+- [**2. Overcoming Barriers to Nuanced Thinking**](#2-overcoming-barriers-to-nuanced-thinking) (3 videos)
+  - Address the goodness binary with gray thinking
+  - Address the truth binary with probabilistic thinking
+  - Using probabilistic thinking to make better decisions
+- [**3. Overcoming Barriers to Nuanced Decision-Making**](#3-overcoming-barriers-to-nuanced-decision-making) (4 videos)
+  - Recognize how emotions impact decision-making
+  - Recognize hidden Incentives in decision-making
+  - Avoid attachment to a particular option for better outcomes
+  - Alternate divergent and convergent thinking
+- [**Conclusion**](#conclusion) (1 videos)
+  - Apply these techniques to your next decision
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why nuanced thinking matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/why-nuanced-thinking-matters?u=76281980)
@@ -89,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Make Decisions and Solve Problems with Nuanced Thinking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the qualities of nuanced thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/learn-the-qualities-of-nuanced-thinking?u=76281980)
@@ -431,7 +444,7 @@ created: 2026-04-29
 
 ### 2. Overcoming Barriers to Nuanced Thinking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Address the goodness binary with gray thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/address-the-goodness-binary-with-gray-thinking?u=76281980)
@@ -684,7 +697,7 @@ created: 2026-04-29
 
 ### 3. Overcoming Barriers to Nuanced Decision-Making
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognize how emotions impact decision-making
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/recognize-how-emotions-impact-decision-making?u=76281980)
@@ -1012,7 +1025,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply these techniques to your next decision
 > [LinkedIn Learning](https://www.linkedin.com/learning/sharpen-your-decision-making-with-nuanced-thinking-techniques/apply-these-techniques-to-your-next-decision?u=76281980)

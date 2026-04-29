@@ -42,16 +42,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Cultivation: Develop Your Creative Skills with AI]]** (4 videos)
-- **[[#2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas]]** (3 videos)
-- **[[#3. Imagination: Get Help Developing Fresh and Impactful Ideas]]** (5 videos)
-- **[[#4. Implementation: Using AI to Improve the Chances of Ideas Happening]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - AI as a creative booster
+  - Meet your new creative sidekicks
+  - Effectively partnering with AI to amplify your skills
+- [**1. Cultivation: Develop Your Creative Skills with AI**](#1-cultivation-develop-your-creative-skills-with-ai) (4 videos)
+  - Using AI to test and develop your creativity
+  - Using AI to enhance combinatorial creativity
+  - Using AI to improve your writing
+  - Using AI to improve your visualization skills
+- [**2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas**](#2-inspiration-using-ai-to-get-better-ingredients-for-fresh-ideas) (3 videos)
+  - Using AI to understand your audience's motivations
+  - Using AI to empathize with your audience
+  - Using AI to produce a more inspiring creative brief
+- [**3. Imagination: Get Help Developing Fresh and Impactful Ideas**](#3-imagination-get-help-developing-fresh-and-impactful-ideas) (5 videos)
+  - Using AI to nudge your thinking in fresh directions
+  - Using AI to suggest analogies
+  - Using AI to dramatize the benefit
+  - Using AI to suggest brand spokespeople
+  - Using AI to flesh out a concept
+- [**4. Implementation: Using AI to Improve the Chances of Ideas Happening**](#4-implementation-using-ai-to-improve-the-chances-of-ideas-happening) (2 videos)
+  - Using AI to understand how to make an idea happen
+  - Using AI to sell your ideas more effectively
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI as a creative booster
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/ai-as-a-creative-booster?u=76281980)
@@ -255,7 +273,7 @@ created: 2026-04-29
 
 ### 1. Cultivation: Develop Your Creative Skills with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to test and develop your creativity
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-test-and-develop-your-creativity?u=76281980)
@@ -919,7 +937,7 @@ created: 2026-04-29
 
 ### 2. Inspiration: Using AI to Get Better Ingredients for Fresh Ideas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to understand your audience's motivations
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-your-audience-s-motivations?u=76281980)
@@ -1318,7 +1336,7 @@ created: 2026-04-29
 
 ### 3. Imagination: Get Help Developing Fresh and Impactful Ideas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to nudge your thinking in fresh directions
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-nudge-your-thinking-in-fresh-directions?u=76281980)
@@ -1964,7 +1982,7 @@ created: 2026-04-29
 
 ### 4. Implementation: Using AI to Improve the Chances of Ideas Happening
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to understand how to make an idea happen
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/using-ai-to-understand-how-to-make-an-idea-happen?u=76281980)
@@ -2297,7 +2315,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-the-creative-process/summary-and-next-steps?u=76281980)

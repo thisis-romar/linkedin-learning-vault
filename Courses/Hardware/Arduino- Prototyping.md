@@ -48,20 +48,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Understand Prototyping]]** (3 videos)
-- **[[#2. Plan the Prototype]]** (6 videos)
-- **[[#3. Your Prototype "Hello World"]]** (4 videos)
-- **[[#4. Animate the Display]]** (4 videos)
-- **[[#5. Add Interaction]]** (5 videos)
-- **[[#6. Improve Responsiveness]]** (3 videos)
-- **[[#7. Advanced Interaction]]** (5 videos)
-- **[[#8. Iterating your Prototype]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Prototype with Arduino
+  - What you should know
+  - What's new in this update
+- [**1. Understand Prototyping**](#1-understand-prototyping) (3 videos)
+  - Purpose and pitfalls of prototypes
+  - Prototype form factors
+  - The prototype process
+- [**2. Plan the Prototype**](#2-plan-the-prototype) (6 videos)
+  - Prototype planning considerations
+  - Demo product brief of handheld game
+  - Define the proof-of-concept prototype
+  - Select components and libraries
+  - Design the circuit
+  - Make a pin map
+- [**3. Your Prototype "Hello World"**](#3-your-prototype-hello-world) (4 videos)
+  - Connect the display
+  - Display "Hello World" sketch
+  - Challenge: Controlling the display
+  - Solution: Controlling the display
+- [**4. Animate the Display**](#4-animate-the-display) (4 videos)
+  - Understand display dynamics
+  - Implement display dynamics
+  - Challenge: Modify the animation
+  - Solution: Modify the animation
+- [**5. Add Interaction**](#5-add-interaction) (5 videos)
+  - Understand interaction logic
+  - Breadboard buttons and update pin map
+  - Implement buttons
+  - Challenge: Name
+  - Solution: Name
+- [**6. Improve Responsiveness**](#6-improve-responsiveness) (3 videos)
+  - Blocking versus non-blocking code
+  - Understand timers
+  - Implement non-blocking interaction
+- [**7. Advanced Interaction**](#7-advanced-interaction) (5 videos)
+  - Button debouncing
+  - Advanced button interaction
+  - Implement button functions
+  - Challenge: Game intro
+  - Solution: Game intro
+- [**8. Iterating your Prototype**](#8-iterating-your-prototype) (4 videos)
+  - Use symbolic parameters
+  - Document prototypes
+  - Challenge: Complete the experience
+  - Solution: Complete the experience
+- [**Conclusion**](#conclusion) (1 videos)
+  - Final thoughts
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototype with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-with-arduino?u=76281980)
@@ -141,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Understand Prototyping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Purpose and pitfalls of prototypes
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/purpose-and-pitfalls-of-prototypes?u=76281980)
@@ -351,7 +389,7 @@ created: 2026-04-29
 
 ### 2. Plan the Prototype
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prototype planning considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/prototype-planning-considerations?u=76281980)
@@ -687,7 +725,7 @@ created: 2026-04-29
 
 ### 3. Your Prototype "Hello World"
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect the display
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/connect-the-display?u=76281980)
@@ -995,7 +1033,7 @@ created: 2026-04-29
 
 ### 4. Animate the Display
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand display dynamics
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-display-dynamics?u=76281980)
@@ -1397,7 +1435,7 @@ created: 2026-04-29
 
 ### 5. Add Interaction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand interaction logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/understand-interaction-logic?u=76281980)
@@ -1700,7 +1738,7 @@ created: 2026-04-29
 
 ### 6. Improve Responsiveness
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blocking versus non-blocking code
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/blocking-versus-non-blocking-code?u=76281980)
@@ -1955,7 +1993,7 @@ created: 2026-04-29
 
 ### 7. Advanced Interaction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Button debouncing
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/button-debouncing?u=76281980)
@@ -2450,7 +2488,7 @@ created: 2026-04-29
 
 ### 8. Iterating your Prototype
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use symbolic parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/use-symbolic-parameters?u=76281980)
@@ -2762,7 +2800,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts
 > [LinkedIn Learning](https://www.linkedin.com/learning/arduino-prototyping/final-thoughts?u=76281980)

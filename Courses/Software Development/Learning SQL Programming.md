@@ -55,16 +55,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (6 videos)
-- **[[#1. Ask for Data from a Database]]** (7 videos)
-- **[[#2. Ask for Data from Two or More Tables]]** (4 videos)
-- **[[#3. Data Types, Math, and Helpful Features]]** (6 videos)
-- **[[#4. Add or Modify Data]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (6 videos)
+  - Learning SQL programming
+  - Exercise files
+  - Exploring DB Browser for SQLite
+  - CoderPad tour
+  - What is a database?
+  - What is SQL?
+- [**1. Ask for Data from a Database**](#1-ask-for-data-from-a-database) (7 videos)
+  - Ask for data with SELECT
+  - Narrow down a query with WHERE
+  - Adding more criteria to a statement
+  - Broadening and limiting responses
+  - Organize responses with ORDER BY
+  - Find information about the data
+  - Solution: Retrieve data from the database
+- [**2. Ask for Data from Two or More Tables**](#2-ask-for-data-from-two-or-more-tables) (4 videos)
+  - Ask for data across two or more tables
+  - Understand JOIN types
+  - Grouping results
+  - Solution: Practice with JOINs
+- [**3. Data Types, Math, and Helpful Features**](#3-data-types-math-and-helpful-features) (6 videos)
+  - Data types in SQL
+  - Math in SQL
+  - Compound Select
+  - Transforming data
+  - Creating aliases with AS
+  - Solution: State score metrics
+- [**4. Add or Modify Data**](#4-add-or-modify-data) (4 videos)
+  - Add data to a table
+  - Modify data in a table
+  - Removing data from a table
+  - Solution: Identifying the correct record
+- [**Conclusion**](#conclusion) (2 videos)
+  - Overcoming common SQL mistakes
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning SQL programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming?u=76281980)
@@ -620,7 +649,7 @@ created: 2026-04-29
 
 ### 1. Ask for Data from a Database
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ask for data with SELECT
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-with-select?u=76281980)
@@ -1150,7 +1179,7 @@ created: 2026-04-29
 
 ### 2. Ask for Data from Two or More Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ask for data across two or more tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/ask-for-data-across-two-or-more-tables?u=76281980)
@@ -1556,7 +1585,7 @@ created: 2026-04-29
 
 ### 3. Data Types, Math, and Helpful Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data types in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/data-types-in-sql?u=76281980)
@@ -2106,7 +2135,7 @@ created: 2026-04-29
 
 ### 4. Add or Modify Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add data to a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/add-data-to-a-table?u=76281980)
@@ -2452,7 +2481,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overcoming common SQL mistakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-sql-programming-8382385/overcoming-common-sql-mistakes?u=76281980)

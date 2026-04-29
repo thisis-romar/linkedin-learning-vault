@@ -55,18 +55,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Statistics]]** (3 videos)
-- **[[#2. The Summary Statistics]]** (8 videos)
-- **[[#3. From Quantiles to Correlation]]** (6 videos)
-- **[[#4. Random Variables and Probability Distribution]]** (5 videos)
-- **[[#5. Sampling and Replacement]]** (3 videos)
-- **[[#6. Linear Regression]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Foundations of statistics for machine learning
+  - What you should know
+- [**1. Introduction to Statistics**](#1-introduction-to-statistics) (3 videos)
+  - Defining statistics
+  - Applications of statistics in ML
+  - Types of data
+- [**2. The Summary Statistics**](#2-the-summary-statistics) (8 videos)
+  - The mean
+  - The median
+  - The mode
+  - The percentile
+  - The percentage change
+  - The range
+  - The variance and the standard deviation
+  - The standard error of the mean vs. the standard deviation
+- [**3. From Quantiles to Correlation**](#3-from-quantiles-to-correlation) (6 videos)
+  - The quantiles and box plots
+  - Missing data
+  - The correlation
+  - The covariance
+  - The correlation coefficient
+  - The correlation vs. causation
+- [**4. Random Variables and Probability Distribution**](#4-random-variables-and-probability-distribution) (5 videos)
+  - Introduction to probability distribution
+  - The uniform distribution
+  - The normal distribution
+  - The Bernoulli distribution
+  - The Multinoulli distribution
+- [**5. Sampling and Replacement**](#5-sampling-and-replacement) (3 videos)
+  - Selection with replacement
+  - Selection without replacement
+  - Bootstrapping
+- [**6. Linear Regression**](#6-linear-regression) (4 videos)
+  - Independent and dependent variables
+  - Linear regression for continuous values
+  - Fitting a line
+  - Linear least squares
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Foundations of statistics for machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction?u=76281980)
@@ -127,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Statistics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/defining-statistics?u=76281980)
@@ -301,7 +333,7 @@ created: 2026-04-29
 
 ### 2. The Summary Statistics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The mean
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-mean?u=76281980)
@@ -833,7 +865,7 @@ created: 2026-04-29
 
 ### 3. From Quantiles to Correlation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The quantiles and box plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/the-quantiles-and-box-plots?u=76281980)
@@ -1224,7 +1256,7 @@ created: 2026-04-29
 
 ### 4. Random Variables and Probability Distribution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to probability distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/introduction-to-probability-distribution?u=76281980)
@@ -1471,7 +1503,7 @@ created: 2026-04-29
 
 ### 5. Sampling and Replacement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Selection with replacement
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/selection-with-replacement?u=76281980)
@@ -1636,7 +1668,7 @@ created: 2026-04-29
 
 ### 6. Linear Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Independent and dependent variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/independent-and-dependent-variables?u=76281980)
@@ -1866,7 +1898,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-statistics/next-steps?u=76281980)

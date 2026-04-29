@@ -46,11 +46,12 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill]]** (1 videos)
+- [**The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill**](#the-smart-way-to-grow-your-network-with-linkedins-andrew-mccaskill) (1 videos)
+  - Practical tips to build connections, write better messages, and grow your career
 
 ### The Smart Way to Grow Your Network with LinkedIn's Andrew McCaskill
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practical tips to build connections, write better messages, and grow your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-smart-way-to-grow-your-network-with-linkedin-s-andrew-mccaskill/practical-tips-to-build-connections-write-better-messages-and-grow-your-career-26255266?u=76281980)

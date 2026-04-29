@@ -47,16 +47,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Get Started]]** (2 videos)
-- **[[#2. Work with Files and Folders]]** (6 videos)
-- **[[#3. Use OneDrive with Microsoft 365]]** (5 videos)
-- **[[#4. Collaborate with Others]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Collaborate with your team using OneDrive
+  - What is OneDrive for Business?
+- [**1. Get Started**](#1-get-started) (2 videos)
+  - Sign in, access, and navigate OneDrive
+  - Sync with the OneDrive client app
+- [**2. Work with Files and Folders**](#2-work-with-files-and-folders) (6 videos)
+  - Upload files via the web
+  - Upload via the OneDrive client app
+  - Organize files and folders
+  - Rename, download, and work with files
+  - Delete and recover files
+  - Search your files
+- [**3. Use OneDrive with Microsoft 365**](#3-use-onedrive-with-microsoft-365) (5 videos)
+  - Save a file to OneDrive
+  - Use OneDrive with desktop apps
+  - Use OneDrive with Teams
+  - Restore a file to a previous version
+  - Use Copilot with OneDrive for Business
+- [**4. Collaborate with Others**](#4-collaborate-with-others) (5 videos)
+  - Share files and use an expiring link
+  - Request files from your coworkers
+  - Work simultaneously with a coworker
+  - Add comments to files and annotate PDFs
+  - Use OneDrive on your mobile device
+- [**Conclusion**](#conclusion) (1 videos)
+  - Master the Microsoft 365 Suite
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaborate with your team using OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/collaborate-with-your-team-using-onedrive?u=76281980)
@@ -126,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Get Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign in, access, and navigate OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/sign-in-access-and-navigate-onedrive?u=76281980)
@@ -339,7 +360,7 @@ created: 2026-04-29
 
 ### 2. Work with Files and Folders
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Upload files via the web
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/upload-files-via-the-web?u=76281980)
@@ -938,7 +959,7 @@ created: 2026-04-29
 
 ### 3. Use OneDrive with Microsoft 365
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Save a file to OneDrive
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/save-a-file-to-onedrive?u=76281980)
@@ -1378,7 +1399,7 @@ created: 2026-04-29
 
 ### 4. Collaborate with Others
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Share files and use an expiring link
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/share-files-and-use-an-expiring-link?u=76281980)
@@ -1810,7 +1831,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Master the Microsoft 365 Suite
 > [LinkedIn Learning](https://www.linkedin.com/learning/onedrive-for-business-essential-training-25688113/master-the-microsoft-365-suite?u=76281980)

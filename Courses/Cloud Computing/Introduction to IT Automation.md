@@ -40,16 +40,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is IT Automation?]]** (6 videos)
-- **[[#2. When to Use Automation]]** (5 videos)
-- **[[#3. Automation Tools]]** (8 videos)
-- **[[#4. Automation Using Scripts]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - An overview of IT automation
+  - What you should know
+- [**1. What Is IT Automation?**](#1-what-is-it-automation) (6 videos)
+  - What is IT automation?
+  - Why should you use IT automation?
+  - How does IT automation work?
+  - Advantages of IT automation
+  - Disadvantages of IT automation
+  - Does IT automation reduce costs?
+- [**2. When to Use Automation**](#2-when-to-use-automation) (5 videos)
+  - When should you automate?
+  - Automation approaches
+  - Automating all systems
+  - Automating some systems
+  - Automating software and system deployment
+- [**3. Automation Tools**](#3-automation-tools) (8 videos)
+  - Using automation tools
+  - Automation tools for Windows
+  - Automating Windows
+  - Automation tools for Linux
+  - Automating Linux
+  - Automation tools for the cloud
+  - Automating the cloud
+  - Cloud automation tools
+- [**4. Automation Using Scripts**](#4-automation-using-scripts) (8 videos)
+  - Automation using scripts
+  - Using scripts to automate Windows
+  - Using PowerShell scripts to automate Windows
+  - Using scripts to automate Linux
+  - Using PowerShell scripts to automate Linux
+  - Using scripts to automate the Azure cloud
+  - Using PowerShell scripts to automate the Azure cloud
+  - Using Azure CLI scripts to automate the Azure cloud
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue exploring IT automation
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/an-overview-of-it-automation?u=76281980)
@@ -112,7 +142,7 @@ created: 2026-04-29
 
 ### 1. What Is IT Automation?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is IT automation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/what-is-it-automation?u=76281980)
@@ -489,7 +519,7 @@ created: 2026-04-29
 
 ### 2. When to Use Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When should you automate?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/when-should-you-automate?u=76281980)
@@ -1007,7 +1037,7 @@ created: 2026-04-29
 
 ### 3. Automation Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using automation tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/using-automation-tools?u=76281980)
@@ -2150,7 +2180,7 @@ created: 2026-04-29
 
 ### 4. Automation Using Scripts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automation using scripts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/automation-using-scripts?u=76281980)
@@ -3959,7 +3989,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue exploring IT automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-it-automation/continue-exploring-it-automation?u=76281980)

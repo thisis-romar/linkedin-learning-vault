@@ -56,19 +56,72 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Open-Source LLMs and Why They're Important]]** (7 videos)
-- **[[#2. LLMs and Cybersecurity]]** (7 videos)
-- **[[#3. Code Vulnerability Scanning with LLMs]]** (6 videos)
-- **[[#4. OSINT with LLM Agents]]** (6 videos)
-- **[[#5. Web Vulnerability Scanning with LLM Agents]]** (6 videos)
-- **[[#6. LLM-Powered Firewall]]** (7 videos)
-- **[[#7. The Future of Cybersecurity with LLMs]]** (7 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Introduction to LLMs and LLM agents for cybersecurity
+  - Prerequisites of the course
+  - What can be learned in this course
+  - Google Colab and other important tools
+  - How to make the most of this course
+- [**1. Open-Source LLMs and Why They're Important**](#1-open-source-llms-and-why-theyre-important) (7 videos)
+  - GenAI and top LLMs: GPT4, Claude, and Gemini (closed source)
+  - Important LLM concepts: Transformer architecture, attention, quantization, parameter offloading, and fine-tuning
+  - Open source LLMs: Llama, Mistral, Mixtral, and Code Llama
+  - Assets to find and run models: Hugging Face, Replicate, Google Colab, and Ollama
+  - Fine-tuning models: QLoRA, PEFT, and Unsloth
+  - Challenge: Import an LLM in Colab
+  - Solution: Learn how to import an LLM from Hugging Face
+- [**2. LLMs and Cybersecurity**](#2-llms-and-cybersecurity) (7 videos)
+  - New evolving threats, powered by LLMs
+  - Advanced attacks by hackers using LLMs
+  - How cybersecurity professionals use LLMs for good
+  - Synthetic data generation: Introduction
+  - Synthetic data generation: Code example
+  - Challenge: Identify phishing emails using LLMs
+  - Solution: Fine-tune LLMs with email phishing datasets in Colab
+- [**3. Code Vulnerability Scanning with LLMs**](#3-code-vulnerability-scanning-with-llms) (6 videos)
+  - Introduction to code vulnerability scanning
+  - Blockchains and smart contract auditing
+  - Out-of-the-box output (vulnerability scanning) from an LLM
+  - Fine-tuning and mapping a dataset
+  - Training the model
+  - Inference and benchmarking
+- [**4. OSINT with LLM Agents**](#4-osint-with-llm-agents) (6 videos)
+  - Introduction to OSINT and how LLMs can help
+  - Introduction to agents and agent workflows
+  - Agent frameworks and Crew AI: Tools and tasks
+  - Planning the agents, their tasks, and their responsibilities
+  - Setting up the project: LLMs, Agents, and defining tasks
+  - Finishing touches and analyzing the output
+- [**5. Web Vulnerability Scanning with LLM Agents**](#5-web-vulnerability-scanning-with-llm-agents) (6 videos)
+  - Introduction to web vulnerability scanning
+  - Planning the project and discovering the right tools
+  - Getting network and DOM data and processing it
+  - Analyzing logs and setting up tools
+  - Setting up agents and their tasks
+  - Kicking off the crew and analyzing the output
+- [**6. LLM-Powered Firewall**](#6-llm-powered-firewall) (7 videos)
+  - Introduction to LLM-powered firewall projects
+  - Planning the approach
+  - Network data gathering and storing
+  - Data preprocessing
+  - LLM setup
+  - LLM fine-tuning
+  - Inference output and closing notes
+- [**7. The Future of Cybersecurity with LLMs**](#7-the-future-of-cybersecurity-with-llms) (7 videos)
+  - Threats of the future
+  - LLM powered agents for hacking
+  - Decentralized botnets for decentralized DOS attacks
+  - Swarm learning with decentralized AI botnets
+  - Predictive security with LLMs
+  - Resources to take your learning further
+  - Keep up with the ever-changing dynamic tech landscape
+- [**Conclusion**](#conclusion) (2 videos)
+  - Summarizing the course
+  - Key learnings, best practices, and parting statements
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LLMs and LLM agents for cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llms-and-llm-agents-for-cybersecurity?u=76281980)
@@ -358,7 +411,7 @@ created: 2026-04-29
 
 ### 1. Open-Source LLMs and Why They're Important
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI and top LLMs: GPT4, Claude, and Gemini (closed source)
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/gen-ai-and-top-llms-gpt4-claude-gemini-closed-source?u=76281980)
@@ -948,7 +1001,7 @@ created: 2026-04-29
 
 ### 2. LLMs and Cybersecurity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### New evolving threats, powered by LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/new-evolving-threats-powered-by-llms?u=76281980)
@@ -1488,7 +1541,7 @@ created: 2026-04-29
 
 ### 3. Code Vulnerability Scanning with LLMs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to code vulnerability scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-code-vulnerability-scanning?u=76281980)
@@ -1894,7 +1947,7 @@ created: 2026-04-29
 
 ### 4. OSINT with LLM Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OSINT and how LLMs can help
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-osint-and-how-llms-can-help?u=76281980)
@@ -2481,7 +2534,7 @@ created: 2026-04-29
 
 ### 5. Web Vulnerability Scanning with LLM Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to web vulnerability scanning
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-web-vulnerability-scanning?u=76281980)
@@ -3119,7 +3172,7 @@ created: 2026-04-29
 
 ### 6. LLM-Powered Firewall
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LLM-powered firewall projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/introduction-to-llm-powered-firewalls-project?u=76281980)
@@ -3648,7 +3701,7 @@ created: 2026-04-29
 
 ### 7. The Future of Cybersecurity with LLMs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Threats of the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/threats-of-the-future?u=76281980)
@@ -4132,7 +4185,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/fine-tuning-llms-for-cybersecurity-mistral-llama-autotrain-autogen-and-llm-agents/summarizing-the-course?u=76281980)

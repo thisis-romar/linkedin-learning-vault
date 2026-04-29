@@ -48,18 +48,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **1. Answering Foundational C# and .NET Questions** (4 videos)
-- **2. Answering C# Language-Specific Questions** (5 videos)
-- **[[#3. Solving Technical Interview Questions: String Manipulation]]** (7 videos)
-- **[[#4. Solving Technical Interview Questions: Arrays and Linked Lists]]** (4 videos)
-- **[[#5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures]]** (6 videos)
-- **[[#6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - The secret to nailing your C# interview
+  - Understand the different types of technical interviews
+  - Get ready for your technical interview
+  - How to use CoderPad
+- [**1. Answering Foundational C# and .NET Questions**](#1-answering-foundational-c-and-net-questions) (4 videos)
+  - How is C# different from other languages?
+  - What's the difference between C# and .NET?
+  - What is Common Language Runtime (CLR)?
+  - Managed vs. unmanaged code
+- [**2. Answering C# Language-Specific Questions**](#2-answering-c-language-specific-questions) (5 videos)
+  - What are classes, instances, and constructors?
+  - What's the difference between static and non-static members?
+  - Boxing vs. unboxing
+  - Pass by reference vs. pass by value
+  - Readonly versus const
+- [**3. Solving Technical Interview Questions: String Manipulation**](#3-solving-technical-interview-questions-string-manipulation) (7 videos)
+  - Concatenate strings with different methods
+  - Normalize string input
+  - Validate string input
+  - Access data from strings
+  - Create algorithm-driven strings in C#
+  - Solution: Developing a palindrome checker
+  - Solution: Reverse each word
+- [**4. Solving Technical Interview Questions: Arrays and Linked Lists**](#4-solving-technical-interview-questions-arrays-and-linked-lists) (4 videos)
+  - Review arrays for technical interviews
+  - Solution: Maximum product of two numbers
+  - Mastering linked lists for whiteboard coding interviews
+  - Solution: Delete the middle of a linked list
+- [**5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures**](#5-solving-technical-interview-questions-stacks-queues-and-hash-based-structures) (6 videos)
+  - Leverage stacks as a data structure
+  - Use queues in technical interviews
+  - Master hash-based structures
+  - Solution: Generate binary numbers
+  - Solution: Matching parentheses
+  - Solution: Find the most repeated word
+- [**6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism**](#6-solving-technical-interview-questions-abstraction-encapsulation-inheritance-and-polymorphism) (4 videos)
+  - Master abstraction for technical interviews
+  - Add encapsulation to your programs to impress interviewers
+  - Leverage inheritance in your technical interview solutions
+  - Explore the polymorphism built into C#
+- [**Conclusion**](#conclusion) (1 videos)
+  - Good luck with your interview
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The secret to nailing your C# interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/the-secret-to-nailing-your-c-sharp-interview?u=76281980)
@@ -224,7 +259,7 @@ created: 2026-04-29
 
 ### 1. Answering Foundational C# and .NET Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How is C# different from other languages?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/how-is-c-sharp-different-from-other-languages?u=76281980)
@@ -445,7 +480,7 @@ created: 2026-04-29
 
 ### 2. Answering C# Language-Specific Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are classes, instances, and constructors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/what-are-classes-instances-and-constructors?u=76281980)
@@ -909,7 +944,7 @@ created: 2026-04-29
 
 ### 3. Solving Technical Interview Questions: String Manipulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Concatenate strings with different methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/concatenate-strings-with-different-methods?u=76281980)
@@ -1608,7 +1643,7 @@ created: 2026-04-29
 
 ### 4. Solving Technical Interview Questions: Arrays and Linked Lists
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review arrays for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/review-arrays-for-technical-interviews?u=76281980)
@@ -1937,7 +1972,7 @@ created: 2026-04-29
 
 ### 5. Solving Technical Interview Questions: Stacks, Queues, and Hash-Based Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage stacks as a data structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/leverage-stacks-as-a-data-structure?u=76281980)
@@ -2374,7 +2409,7 @@ created: 2026-04-29
 
 ### 6. Solving Technical Interview Questions: Abstraction, Encapsulation, Inheritance, and Polymorphism
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Master abstraction for technical interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/master-abstraction-for-technical-interviews?u=76281980)
@@ -2835,7 +2870,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Good luck with your interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-sharp-interview/good-luck-with-your-interview?u=76281980)

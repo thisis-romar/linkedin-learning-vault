@@ -54,17 +54,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI Architectures]]** (6 videos)
-- **[[#2. Batch AI Architectures]]** (7 videos)
-- **[[#3. Real-Time AI Architectures]]** (7 videos)
-- **[[#4. Cloud AI Architectures]]** (6 videos)
-- **[[#5. Hybrid AI Architectures]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Processing data for AI
+- [**1. AI Architectures**](#1-ai-architectures) (6 videos)
+  - The ML life cycle
+  - Feature engineering
+  - Model training
+  - ML inference
+  - Scale and performance
+  - Architectures for AI
+- [**2. Batch AI Architectures**](#2-batch-ai-architectures) (7 videos)
+  - Characteristics of batch AI
+  - Batch feature engineering
+  - Batch model training
+  - Batch Inference
+  - Scaling batch AI
+  - Batch AI architecture example: Problem
+  - Batch AI architecture example: Solution
+- [**3. Real-Time AI Architectures**](#3-real-time-ai-architectures) (7 videos)
+  - Characteristics of real-time AI
+  - Real-time feature engineering
+  - Real-time model training
+  - Real-time inference architectures
+  - Scaling real-time AI
+  - Real-time AI architecture example: Problem
+  - Real-time AI architecture example: Solution
+- [**4. Cloud AI Architectures**](#4-cloud-ai-architectures) (6 videos)
+  - Cloud and serverless computing
+  - Architecting for the cloud
+  - AI in the cloud
+  - Cloud platforms for AI
+  - Cloud AI architecture example: Problem
+  - Cloud AI architecture example: Solution
+- [**5. Hybrid AI Architectures**](#5-hybrid-ai-architectures) (5 videos)
+  - Hybrid computing
+  - AI using hybrid computing
+  - AI architectures for hybrid computing
+  - Hybrid AI architecture example: Problem
+  - Hybrid AI architecture example: Solution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing with AI data processing
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Processing data for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/processing-data-for-ai?u=76281980)
@@ -91,7 +124,7 @@ created: 2026-04-29
 
 ### 1. AI Architectures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The ML life cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980)
@@ -525,7 +558,7 @@ created: 2026-04-29
 
 ### 2. Batch AI Architectures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of batch AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980)
@@ -1023,7 +1056,7 @@ created: 2026-04-29
 
 ### 3. Real-Time AI Architectures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of real-time AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980)
@@ -1527,7 +1560,7 @@ created: 2026-04-29
 
 ### 4. Cloud AI Architectures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud and serverless computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980)
@@ -1861,7 +1894,7 @@ created: 2026-04-29
 
 ### 5. Hybrid AI Architectures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hybrid computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980)
@@ -2152,7 +2185,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with AI data processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980)

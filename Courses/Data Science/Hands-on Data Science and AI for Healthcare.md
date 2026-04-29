@@ -49,16 +49,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Disease Prediction Using Machine Learning]]** (3 videos)
-- **[[#2. Sentiment Analysis of Patient Opinion]]** (2 videos)
-- **[[#3. Radiology Image Detection Using Computer Vision]]** (3 videos)
-- **[[#4. Exploratory Data Analysis Using Visualization]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Using data science and AI for healthcare
+  - What you should know
+  - How the exercise files work
+- [**1. Disease Prediction Using Machine Learning**](#1-disease-prediction-using-machine-learning) (3 videos)
+  - Use Case: Diabetes prediction
+  - Diabetes prediction using machine learning model
+  - Model explanation using SHAP
+- [**2. Sentiment Analysis of Patient Opinion**](#2-sentiment-analysis-of-patient-opinion) (2 videos)
+  - Use case: Online medication review
+  - Sentiment analysis using pre-trained transformer models
+- [**3. Radiology Image Detection Using Computer Vision**](#3-radiology-image-detection-using-computer-vision) (3 videos)
+  - Use case: Shoulder implant X-ray manufacturer detection
+  - X-ray manufacturer classification using convolutional neural networks (CNN)
+  - X-ray manufacturer classification using transfer learning
+- [**4. Exploratory Data Analysis Using Visualization**](#4-exploratory-data-analysis-using-visualization) (3 videos)
+  - Use case: Diseases and medications text
+  - Diseases and medications text visualization using word clouds
+  - Diseases and medications text visualization using Scattertext
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using data science and AI for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/using-data-science-and-ai-for-healthcare-24459176?u=76281980)
@@ -142,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Disease Prediction Using Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Case: Diabetes prediction
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diabetes-prediction-24459175?u=76281980)
@@ -345,7 +360,7 @@ created: 2026-04-29
 
 ### 2. Sentiment Analysis of Patient Opinion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use case: Online medication review
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-online-medication-review-24455886?u=76281980)
@@ -419,7 +434,7 @@ created: 2026-04-29
 
 ### 3. Radiology Image Detection Using Computer Vision
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use case: Shoulder implant X-ray manufacturer detection
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-shoulder-implant-x-ray-manufacturer-detection-24452924?u=76281980)
@@ -613,7 +628,7 @@ created: 2026-04-29
 
 ### 4. Exploratory Data Analysis Using Visualization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use case: Diseases and medications text
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/use-case-diseases-and-medications-text-24459174?u=76281980)
@@ -752,7 +767,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-data-science-and-ai-for-healthcare/next-steps-24455885?u=76281980)

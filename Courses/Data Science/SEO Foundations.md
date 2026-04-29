@@ -46,17 +46,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Overview of SEO]]** (3 videos)
-- **[[#2. Keywords: The Foundation of SEO]]** (3 videos)
-- **[[#3. Content Optimization for SEO: How Search Engines and People View Webpages]]** (3 videos)
-- **[[#4. Content Optimization: Technical SEO]]** (7 videos)
-- **[[#5. Links, Measurement, and AI for SEO]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Leveraging search to accomplish your business goals
+- [**1. Overview of SEO**](#1-overview-of-seo) (3 videos)
+  - What is search engine optimization?
+  - Reading search engine result pages
+  - How SEO affects your business
+- [**2. Keywords: The Foundation of SEO**](#2-keywords-the-foundation-of-seo) (3 videos)
+  - Planning and researching your SEO keywords
+  - Analyzing SEO keywords and leveraging keyword attributes
+  - Mapping SEO keyword distribution and continually evaluating
+- [**3. Content Optimization for SEO: How Search Engines and People View Webpages**](#3-content-optimization-for-seo-how-search-engines-and-people-view-webpages) (3 videos)
+  - Outlining content optimization
+  - Optimizing site structure
+  - Optimizing on-page elements
+- [**4. Content Optimization: Technical SEO**](#4-content-optimization-technical-seo) (7 videos)
+  - Interpreting the code behind webpages for SEO
+  - Outlining how search engines index content
+  - Working with canonical URLs and redirects: Technical SEO
+  - Leveraging structured data: Technical SEO
+  - Using Google Search Console for SEO
+  - Using the Google Page Experience signal and Core Web Vitals
+  - Planning content over the long term
+- [**5. Links, Measurement, and AI for SEO**](#5-links-measurement-and-ai-for-seo) (6 videos)
+  - Outlining the importance of links for SEO
+  - Building links for SEO
+  - Measuring SEO performance
+  - Analyzing keywords and links
+  - AI for discovery
+  - SEO measurement and AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Using your SEO foundational knowledge
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging search to accomplish your business goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/leveraging-search-to-accomplish-your-business-goals?u=76281980)
@@ -101,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Overview of SEO
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is search engine optimization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/what-is-search-engine-optimization?u=76281980)
@@ -282,7 +306,7 @@ created: 2026-04-29
 
 ### 2. Keywords: The Foundation of SEO
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning and researching your SEO keywords
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/planning-and-researching-your-seo-keywords?u=76281980)
@@ -527,7 +551,7 @@ created: 2026-04-29
 
 ### 3. Content Optimization for SEO: How Search Engines and People View Webpages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Outlining content optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-content-optimization?u=76281980)
@@ -840,7 +864,7 @@ created: 2026-04-29
 
 ### 4. Content Optimization: Technical SEO
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interpreting the code behind webpages for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/interpreting-the-code-behind-webpages-for-seo?u=76281980)
@@ -1464,7 +1488,7 @@ created: 2026-04-29
 
 ### 5. Links, Measurement, and AI for SEO
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Outlining the importance of links for SEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/outlining-the-importance-of-links-for-seo?u=76281980)
@@ -1979,7 +2003,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using your SEO foundational knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/seo-foundations-14828080/using-your-seo-foundational-knowledge?u=76281980)

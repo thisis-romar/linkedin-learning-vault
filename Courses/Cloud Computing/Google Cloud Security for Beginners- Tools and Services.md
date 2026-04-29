@@ -49,17 +49,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Identity and Access Management (IAM)]]** (4 videos)
-- **[[#2. Infrastructure Security]]** (4 videos)
-- **[[#3. Network Security]]** (3 videos)
-- **[[#4. Data Security]]** (3 videos)
-- **[[#5. Security Operations]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introduction to course
+  - Overview of the Google Cloud Platform
+  - Understanding the shared security responsibility model
+- [**1. Identity and Access Management (IAM)**](#1-identity-and-access-management-iam) (4 videos)
+  - Google Cloud Security and IAM basics
+  - Getting started with IAM in GCP
+  - Managing IAM roles and policies in GCP
+  - Securing GCP resources with IAM
+- [**2. Infrastructure Security**](#2-infrastructure-security) (4 videos)
+  - Overview of cloud infrastructure security
+  - Securing compute resources
+  - Data security and encryption
+  - Incident response and best practices
+- [**3. Network Security**](#3-network-security) (3 videos)
+  - Network security fundamentals
+  - Creating a virtual private cloud (VPC)
+  - Scaling with cloud load balancing
+- [**4. Data Security**](#4-data-security) (3 videos)
+  - Introduction to data security in the cloud
+  - The importance of backups and disaster recovery services
+  - Data security best practices
+- [**5. Security Operations**](#5-security-operations) (3 videos)
+  - Understanding the Security Command Center
+  - Improving your cloud security posture
+  - Building a security checklist
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to course
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-course?u=76281980)
@@ -209,7 +230,7 @@ created: 2026-04-29
 
 ### 1. Identity and Access Management (IAM)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Cloud Security and IAM basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/google-cloud-security-and-iam-basics?u=76281980)
@@ -448,7 +469,7 @@ created: 2026-04-29
 
 ### 2. Infrastructure Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of cloud infrastructure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/overview-of-cloud-infrastructure-security?u=76281980)
@@ -696,7 +717,7 @@ created: 2026-04-29
 
 ### 3. Network Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Network security fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/network-security-fundamentals?u=76281980)
@@ -986,7 +1007,7 @@ created: 2026-04-29
 
 ### 4. Data Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data security in the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/introduction-to-data-security-in-the-cloud?u=76281980)
@@ -1136,7 +1157,7 @@ created: 2026-04-29
 
 ### 5. Security Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the Security Command Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/understanding-the-security-command-center?u=76281980)
@@ -1321,7 +1342,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-security-for-beginners-tools-and-services-24377592/next-steps?u=76281980)

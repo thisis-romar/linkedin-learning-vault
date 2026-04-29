@@ -51,14 +51,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Local Users and Groups]]** (7 videos)
-- **[[#2. Authentication Tools]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - Users and groups
+  - Environment setup
+- [**1. Local Users and Groups**](#1-local-users-and-groups) (7 videos)
+  - Create user accounts
+  - Modify and delete user accounts
+  - Create and modify groups
+  - Home folder templating and global environment configuration
+  - Configure and monitor user resources
+  - Configure permissions to allow group collaboration
+  - Granting users and groups sudo access
+- [**2. Authentication Tools**](#2-authentication-tools) (3 videos)
+  - Explore pluggable authentication modules (PAM)
+  - Use LDAP for user authentication
+  - Authenticate clients with Kerberos
+- [**Conclusion**](#conclusion) (2 videos)
+  - Tools for exploring user logins
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/welcome?u=76281980)
@@ -269,7 +284,7 @@ created: 2026-04-29
 
 ### 1. Local Users and Groups
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/create-user-accounts?u=76281980)
@@ -919,7 +934,7 @@ created: 2026-04-29
 
 ### 2. Authentication Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore pluggable authentication modules (PAM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/explore-pluggable-authentication-modules-pam?u=76281980)
@@ -1348,7 +1363,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools for exploring user logins
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-user-and-group-management/tools-for-exploring-user-logins?u=76281980)

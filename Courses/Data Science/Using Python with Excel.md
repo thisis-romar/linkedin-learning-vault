@@ -48,15 +48,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Python and pandas]]** (6 videos)
-- **[[#2. openpyxl]]** (4 videos)
-- **[[#3. Working with Reports]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Managing Excel with Python
+- [**1. Python and pandas**](#1-python-and-pandas) (6 videos)
+  - Jupyter Notebooks basics
+  - Introducing the Python pandas library
+  - Loading and saving data with pandas
+  - Viewing and inspecting data with pandas
+  - Manipulating data with pandas
+  - Working with dates and times in pandas
+- [**2. openpyxl**](#2-openpyxl) (4 videos)
+  - Using openpyxl with Workbooks
+  - Selecting cells, rows, and columns
+  - Adding workbook formatting
+  - Creating names, ranges, and tables
+- [**3. Working with Reports**](#3-working-with-reports) (5 videos)
+  - Managing multiple sheets
+  - Working with large worksheets
+  - Conditional formatting
+  - Creating Excel plots in Python
+  - Exporting Python plots to Excel
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing Excel with Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-excel-with-python?u=76281980)
@@ -94,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Python and pandas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Jupyter Notebooks basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/jupyter-notebooks-basics?u=76281980)
@@ -540,7 +557,7 @@ created: 2026-04-29
 
 ### 2. openpyxl
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using openpyxl with Workbooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/using-openpyxl-with-workbooks?u=76281980)
@@ -855,7 +872,7 @@ created: 2026-04-29
 
 ### 3. Working with Reports
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing multiple sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/managing-multiple-sheets?u=76281980)
@@ -1276,7 +1293,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/using-python-with-excel-22676328/next-steps?u=76281980)

@@ -48,19 +48,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Monitoring and Observability]]** (4 videos)
-- **[[#2. Metrics and Monitoring]]** (4 videos)
-- **[[#3. Tracing and Distributed Systems]]** (2 videos)
-- **[[#4. Logging and Log Management]]** (4 videos)
-- **[[#5. Events]]** (2 videos)
-- **[[#6. Monitoring Techniques]]** (5 videos)
-- **[[#7. Utilizing Observability Signals]]** (5 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Measure, detect, and respond
+  - What you need to know
+- [**1. Introduction to Monitoring and Observability**](#1-introduction-to-monitoring-and-observability) (4 videos)
+  - Overview of monitoring and observability
+  - Importance of observability in building applications
+  - Pillars of observability
+  - Observability architecture
+- [**2. Metrics and Monitoring**](#2-metrics-and-monitoring) (4 videos)
+  - Metric types
+  - Analyzing metrics
+  - Choosing the right metric
+  - Metrics in action using Mimir and Grafana Cloud
+- [**3. Tracing and Distributed Systems**](#3-tracing-and-distributed-systems) (2 videos)
+  - Concepts of tracing and distributed systems
+  - Tracing in action using Tempo and Grafana Cloud
+- [**4. Logging and Log Management**](#4-logging-and-log-management) (4 videos)
+  - Concepts of logging and log management
+  - Best practices for logging
+  - Log collection and application
+  - Log monitoring in action using Loki and Grafana Cloud
+- [**5. Events**](#5-events) (2 videos)
+  - Collecting system events
+  - Event analysis and correlation
+- [**6. Monitoring Techniques**](#6-monitoring-techniques) (5 videos)
+  - Application performance monitoring
+  - Synthetics monitoring
+  - Infrastructure monitoring
+  - Product monitoring
+  - Other monitoring techniques
+- [**7. Utilizing Observability Signals**](#7-utilizing-observability-signals) (5 videos)
+  - Dashboards and visualization
+  - Monitoring and alerting
+  - SLIs, SLOs, SLAs
+  - Incident management
+  - Machine learning and observability
+- [**Conclusion**](#conclusion) (3 videos)
+  - Choosing your observability stack
+  - Measuring the success of your observability
+  - Implementing observability in your organization
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measure, detect, and respond
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980)
@@ -117,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Monitoring and Observability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of monitoring and observability
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980)
@@ -394,7 +425,7 @@ created: 2026-04-29
 
 ### 2. Metrics and Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Metric types
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980)
@@ -794,7 +825,7 @@ created: 2026-04-29
 
 ### 3. Tracing and Distributed Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Concepts of tracing and distributed systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-tracing-and-distributed-systems?u=76281980)
@@ -1009,7 +1040,7 @@ created: 2026-04-29
 
 ### 4. Logging and Log Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Concepts of logging and log management
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-logging-and-log-management?u=76281980)
@@ -1278,7 +1309,7 @@ created: 2026-04-29
 
 ### 5. Events
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collecting system events
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/collecting-system-events?u=76281980)
@@ -1351,7 +1382,7 @@ created: 2026-04-29
 
 ### 6. Monitoring Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Application performance monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980)
@@ -1739,7 +1770,7 @@ created: 2026-04-29
 
 ### 7. Utilizing Observability Signals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dashboards and visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/dashboards-and-visualization?u=76281980)
@@ -2432,7 +2463,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing your observability stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-your-observability-stack?u=76281980)

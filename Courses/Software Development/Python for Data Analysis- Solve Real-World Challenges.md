@@ -55,17 +55,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Case Study Introduction]]** (6 videos)
-- **[[#2. Breaking down the Problem Statement]]** (6 videos)
-- **[[#3. Data Collection, Cleaning and Transformation]]** (7 videos)
-- **[[#4. EDA]]** (10 videos)
-- **[[#5. Data Visualization & Storytelling]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Introduction
+  - Prerequisites
+  - CoderPad tour
+- [**1. Case Study Introduction**](#1-case-study-introduction) (6 videos)
+  - The Who, What, Where & Why
+  - Who
+  - What
+  - Where
+  - Why
+  - Case Study Introduction
+- [**2. Breaking down the Problem Statement**](#2-breaking-down-the-problem-statement) (6 videos)
+  - Define the problem (the three Ds)
+  - Get Familiar: Domain
+  - Domain: Applied
+  - Get Familiar: Data
+  - Get Familiar: Deliverable
+  - Set the Right Expectations
+- [**3. Data Collection, Cleaning and Transformation**](#3-data-collection-cleaning-and-transformation) (7 videos)
+  - Getting Setup in Codespaces
+  - Read from CSV
+  - General Cleaning Techniques
+  - General Cleaning Techniques: High Level Checks
+  - General Cleaning Techniques: Missing Values
+  - Data Transformations: Binning
+  - Solution: Prepare data for analysis
+- [**4. EDA**](#4-eda) (10 videos)
+  - Intro to EDA
+  - Summary Statistics
+  - Distributions: Histograms
+  - Data Transformations: Normalization and Log
+  - Other Distribution Types
+  - Data Visualizations: Comparing Categories
+  - Data Visualization: Data Tables
+  - Data Visualization: Relationships
+  - Create a ridgeplot
+  - Solution: Building summary table using pandas
+- [**5. Data Visualization & Storytelling**](#5-data-visualization-storytelling) (8 videos)
+  - Visual Best Practices: Part 1
+  - Visual Best Practices: Part 2
+  - Leverage Exploratory and Explanatory Visualizations
+  - Choose a medium
+  - Storyboarding
+  - Whats in a story?
+  - Putting it all together
+  - Solution: Visualizing with Matplotlib
+- [**Conclusion**](#conclusion) (1 videos)
+  - Wrap-up and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980)
@@ -171,7 +212,7 @@ created: 2026-04-29
 
 ### 1. Case Study Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Who, What, Where & Why
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/the-who-what-where-why?u=76281980)
@@ -444,7 +485,7 @@ created: 2026-04-29
 
 ### 2. Breaking down the Problem Statement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define the problem (the three Ds)
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/define-the-problem-the-three-ds-23881953?u=76281980)
@@ -853,7 +894,7 @@ created: 2026-04-29
 
 ### 3. Data Collection, Cleaning and Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting Setup in Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980)
@@ -1262,7 +1303,7 @@ created: 2026-04-29
 
 ### 4. EDA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to EDA
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/intro-to-eda?u=76281980)
@@ -2145,7 +2186,7 @@ created: 2026-04-29
 
 ### 5. Data Visualization & Storytelling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visual Best Practices: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-1-23886428?u=76281980)
@@ -2677,7 +2718,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrap-up and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980)

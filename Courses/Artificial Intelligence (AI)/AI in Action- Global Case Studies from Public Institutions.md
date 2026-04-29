@@ -45,16 +45,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI for Water, Health, and Climate Resilience]]** (3 videos)
-- **[[#2. Small AI and the Global Goals]]** (2 videos)
-- **[[#3. AI and City Services in Asia-Pacific]]** (3 videos)
-- **[[#4. Youth Perspectives on Generative AI]]** (3 videos)
-- **[[#5. AI and the Global Goals]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - AI for global challenges and the Sustainable Development Goals (also known as the Global Goals)
+- [**1. AI for Water, Health, and Climate Resilience**](#1-ai-for-water-health-and-climate-resilience) (3 videos)
+  - AI-powered disease surveillance through wastewater
+  - AI-based risk mapping for water and sanitation
+  - AI-based cholera risk forecasting
+- [**2. Small AI and the Global Goals**](#2-small-ai-and-the-global-goals) (2 videos)
+  - The Global Goals potential of small AI
+  - Small AI applications in the Global South
+- [**3. AI and City Services in Asia-Pacific**](#3-ai-and-city-services-in-asia-pacific) (3 videos)
+  - AI for social services in Asia-Pacific
+  - AI for urban management and city operations
+  - AI for disaster resilience and environmental sustainability
+- [**4. Youth Perspectives on Generative AI**](#4-youth-perspectives-on-generative-ai) (3 videos)
+  - Generative AI use among young adults
+  - Hope and concern about generative AI
+  - AI anxieties in a broader social context
+- [**5. AI and the Global Goals**](#5-ai-and-the-global-goals) (3 videos)
+  - AI design for the Global Goals
+  - AI-based indicators for Global Goals progress
+  - Digital twins and AI simulation for the Global Goals
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI for global challenges and the Sustainable Development Goals (also known as the Global Goals)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-global-challenges-and-the-global-goals?u=76281980)
@@ -95,7 +110,7 @@ created: 2026-04-29
 
 ### 1. AI for Water, Health, and Climate Resilience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-powered disease surveillance through wastewater
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-powered-disease-surveillance-through-wastewater?u=76281980)
@@ -326,7 +341,7 @@ created: 2026-04-29
 
 ### 2. Small AI and the Global Goals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Global Goals potential of small AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/the-global-goals-potential-of-small-ai?u=76281980)
@@ -405,7 +420,7 @@ created: 2026-04-29
 
 ### 3. AI and City Services in Asia-Pacific
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI for social services in Asia-Pacific
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-for-social-services-in-asia-pacific?u=76281980)
@@ -548,7 +563,7 @@ created: 2026-04-29
 
 ### 4. Youth Perspectives on Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI use among young adults
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/generative-ai-use-among-young-adults?u=76281980)
@@ -695,7 +710,7 @@ created: 2026-04-29
 
 ### 5. AI and the Global Goals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI design for the Global Goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-action-global-case-studies-from-public-institutions-36221069/ai-design-for-the-global-goals?u=76281980)

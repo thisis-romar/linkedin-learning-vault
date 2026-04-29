@@ -47,19 +47,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Why DevOps at the Enterprise level?]]** (4 videos)
-- **[[#2. Where to Start]]** (3 videos)
-- **[[#3. Value Stream Mapping]]** (3 videos)
-- **[[#4. Tooling at the Enterprise Level]]** (3 videos)
-- **[[#5. Vendor Management]]** (3 videos)
-- **[[#6. Steering the Transformation]]** (3 videos)
-- **[[#7. Organizational Structure]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Transforming your organization
+- [**1. Why DevOps at the Enterprise level?**](#1-why-devops-at-the-enterprise-level) (4 videos)
+  - Why is the enterprise level different?
+  - The role of corporate culture
+  - The three dimensions of enterprise DevOps
+  - Transformation is a continual process
+- [**2. Where to Start**](#2-where-to-start) (3 videos)
+  - Analyze your application portfolio
+  - Find a minimum viable cluster (MVC)
+  - Use the MVC to uplift capabilities
+- [**3. Value Stream Mapping**](#3-value-stream-mapping) (3 videos)
+  - What is a value stream map (VSM)?
+  - Creating value stream maps
+  - Using value stream maps
+- [**4. Tooling at the Enterprise Level**](#4-tooling-at-the-enterprise-level) (3 videos)
+  - Types of DevOps tools
+  - Making the right choices
+  - Central vs. federated approaches
+- [**5. Vendor Management**](#5-vendor-management) (3 videos)
+  - Include vendors in the journey
+  - Contracts and incentives
+  - Implement engineering standards
+- [**6. Steering the Transformation**](#6-steering-the-transformation) (3 videos)
+  - Use the Deming cycle
+  - Transaction costs and batch sizes
+  - A transformation scorecard
+- [**7. Organizational Structure**](#7-organizational-structure) (3 videos)
+  - DevOps organizational patterns
+  - Using a central team
+  - How to make a DevOps team work for you
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transforming your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/transforming-your-organization?u=76281980)
@@ -67,7 +91,7 @@ created: 2026-04-29
 
 ### 1. Why DevOps at the Enterprise level?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is the enterprise level different?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/why-is-the-enterprise-level-different?u=76281980)
@@ -84,7 +108,7 @@ created: 2026-04-29
 
 ### 2. Where to Start
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze your application portfolio
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/analyze-your-application-portfolio?u=76281980)
@@ -98,7 +122,7 @@ created: 2026-04-29
 
 ### 3. Value Stream Mapping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a value stream map (VSM)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/what-is-a-value-stream-map-vsm?u=76281980)
@@ -112,7 +136,7 @@ created: 2026-04-29
 
 ### 4. Tooling at the Enterprise Level
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of DevOps tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/types-of-devops-tools?u=76281980)
@@ -126,7 +150,7 @@ created: 2026-04-29
 
 ### 5. Vendor Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Include vendors in the journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/include-vendors-in-the-journey?u=76281980)
@@ -140,7 +164,7 @@ created: 2026-04-29
 
 ### 6. Steering the Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the Deming cycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/use-the-deming-cycle?u=76281980)
@@ -154,7 +178,7 @@ created: 2026-04-29
 
 ### 7. Organizational Structure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps organizational patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/devops-organizational-patterns?u=76281980)
@@ -168,7 +192,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-transforming-the-enterprise/next-steps?u=76281980)

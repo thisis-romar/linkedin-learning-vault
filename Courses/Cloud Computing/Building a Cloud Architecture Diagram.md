@@ -50,16 +50,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Cloud Architecture Diagrams]]** (16 videos)
-- **[[#2. UML Diagram Types for Cloud Architecture]]** (7 videos)
-- **[[#3. Creating Cloud Architecture Diagrams]]** (8 videos)
-- **[[#4. Architectural Diagramming Tools for Cloud Architecture]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - An in-depth look at cloud architecture diagrams
+  - What you need to know
+- [**1. Cloud Architecture Diagrams**](#1-cloud-architecture-diagrams) (16 videos)
+  - What is a cloud architecture diagram?
+  - Enterprise architecture diagrams
+  - UML examples for AI systems
+  - Business architecture diagrams
+  - Application architecture diagrams
+  - Data architecture diagrams
+  - Technology architecture diagrams
+  - Unified Modeling Language (UML) diagrams
+  - UML use case diagram overview
+  - UML component diagram overview
+  - UML deployment diagram overview
+  - UML sequence diagram overview
+  - UML state diagram overview
+  - UML activity diagram overview
+  - UML class diagram overview
+  - Organizational responsibilities
+- [**2. UML Diagram Types for Cloud Architecture**](#2-uml-diagram-types-for-cloud-architecture) (7 videos)
+  - Use case diagrams
+  - Class diagrams
+  - Activity diagrams
+  - Architecture diagrams
+  - Sequence diagrams
+  - State machine diagrams
+  - Creating UML diagrams
+- [**3. Creating Cloud Architecture Diagrams**](#3-creating-cloud-architecture-diagrams) (8 videos)
+  - Mind map diagrams
+  - Creating a mind map
+  - Use case diagram
+  - Create a use case class diagram
+  - Architecture diagram
+  - Create architecture diagram
+  - Sequence diagram
+  - State machine diagram
+- [**4. Architectural Diagramming Tools for Cloud Architecture**](#4-architectural-diagramming-tools-for-cloud-architecture) (1 videos)
+  - Diagramming tools
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An in-depth look at cloud architecture diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/an-in-depth-look-at-cloud-architecture-diagrams?u=76281980)
@@ -141,7 +176,7 @@ created: 2026-04-29
 
 ### 1. Cloud Architecture Diagrams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a cloud architecture diagram?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/what-is-a-cloud-architecture-diagram?u=76281980)
@@ -1206,7 +1241,7 @@ created: 2026-04-29
 
 ### 2. UML Diagram Types for Cloud Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use case diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/use-case-diagrams?u=76281980)
@@ -1946,7 +1981,7 @@ created: 2026-04-29
 
 ### 3. Creating Cloud Architecture Diagrams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mind map diagrams
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/mind-map-diagrams?u=76281980)
@@ -2607,7 +2642,7 @@ created: 2026-04-29
 
 ### 4. Architectural Diagramming Tools for Cloud Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Diagramming tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/diagramming-tools?u=76281980)
@@ -2676,7 +2711,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-cloud-architecture-diagram/next-steps?u=76281980)

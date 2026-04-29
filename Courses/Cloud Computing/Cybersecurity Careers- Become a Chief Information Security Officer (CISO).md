@@ -49,16 +49,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. About the Role]]** (2 videos)
-- **[[#2. Getting Hired and Getting Started]]** (4 videos)
-- **[[#3. Building Your Strategic Plan]]** (5 videos)
-- **[[#4. CISO Best Practices]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - So you want to be a CISO?
+  - You need a foundational knowledge of cyber security
+- [**1. About the Role**](#1-about-the-role) (2 videos)
+  - What does a CISO do?
+  - What type of CISO do you want to be?
+- [**2. Getting Hired and Getting Started**](#2-getting-hired-and-getting-started) (4 videos)
+  - Before the interview
+  - The CISO resume
+  - The CISO interview
+  - First 90 days
+- [**3. Building Your Strategic Plan**](#3-building-your-strategic-plan) (5 videos)
+  - Select a security framework
+  - Complete an assessment
+  - Prioritize areas for improvement
+  - Set a mission and vision for your department
+  - Put it on paper and socialize
+- [**4. CISO Best Practices**](#4-ciso-best-practices) (2 videos)
+  - Relationship building
+  - PRIME framework
+- [**Conclusion**](#conclusion) (1 videos)
+  - Make the CISO dream come true
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### So you want to be a CISO?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/so-you-want-to-be-a-ciso?u=76281980)
@@ -180,7 +196,7 @@ created: 2026-04-29
 
 ### 1. About the Role
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What does a CISO do?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/what-does-a-ciso-do?u=76281980)
@@ -339,7 +355,7 @@ created: 2026-04-29
 
 ### 2. Getting Hired and Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Before the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/before-the-interview?u=76281980)
@@ -695,7 +711,7 @@ created: 2026-04-29
 
 ### 3. Building Your Strategic Plan
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Select a security framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/select-a-security-framework?u=76281980)
@@ -1058,7 +1074,7 @@ created: 2026-04-29
 
 ### 4. CISO Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relationship building
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/relationship-building?u=76281980)
@@ -1229,7 +1245,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make the CISO dream come true
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-chief-information-security-officer-ciso/make-the-ciso-dream-come-true?u=76281980)

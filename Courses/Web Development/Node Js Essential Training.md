@@ -52,16 +52,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Node.js?]]** (3 videos)
-- **[[#2. Node Globals]]** (8 videos)
-- **[[#3. Node Modules]]** (7 videos)
-- **[[#4. File Management and Streams]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learning the Node.js basics
+  - What you should know
+- [**1. What Is Node.js?**](#1-what-is-nodejs) (3 videos)
+  - Node.js history
+  - Installing Node.js
+  - Using Visual Studio Code
+- [**2. Node Globals**](#2-node-globals) (8 videos)
+  - Inspecting the global object
+  - Using the require function
+  - Handling argument variables with process.argv
+  - Working with standard input
+  - Using standard output
+  - Creating a delay with setTimeout
+  - Incorporating setInterval
+  - Reporting progress with setInterval
+- [**3. Node Modules**](#3-node-modules) (7 videos)
+  - Understanding core modules
+  - Collecting information with readline
+  - Using readline
+  - Exporting custom modules
+  - Creating a module
+  - Custom events with the EventEmitter
+  - Consuming a module with EventEmitter
+- [**4. File Management and Streams**](#4-file-management-and-streams) (8 videos)
+  - Listing directory files
+  - Reading files
+  - Writing and appending files
+  - Creating directories
+  - Renaming and removing files
+  - Renaming and removing directories
+  - Readable file streams
+  - Writable file streams
+- [**Conclusion**](#conclusion) (1 videos)
+  - More training
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning the Node.js basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/learning-the-node-js-basics?u=76281980)
@@ -126,7 +155,7 @@ created: 2026-04-29
 
 ### 1. What Is Node.js?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Node.js history
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/node-js-history?u=76281980)
@@ -213,7 +242,7 @@ created: 2026-04-29
 
 ### 2. Node Globals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inspecting the global object
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/inspecting-the-global-object?u=76281980)
@@ -867,7 +896,7 @@ created: 2026-04-29
 
 ### 3. Node Modules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding core modules
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/understanding-core-modules?u=76281980)
@@ -1452,7 +1481,7 @@ created: 2026-04-29
 
 ### 4. File Management and Streams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Listing directory files
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/listing-directory-files?u=76281980)
@@ -2203,7 +2232,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More training
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-essential-training-14888164/more-training?u=76281980)

@@ -49,20 +49,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Privacy: The Big Picture]]** (4 videos)
-- **[[#2. Privacy: Your Responsibilities as an Executive]]** (3 videos)
-- **[[#3. Building a Privacy Team and Culture]]** (3 videos)
-- **[[#4. Your Privacy Program]]** (3 videos)
-- **[[#5. Tactical Privacy in Action]]** (3 videos)
-- **[[#6. User Data Management]]** (3 videos)
-- **[[#7. A Proactive Privacy Program]]** (5 videos)
-- **[[#8. Staffing Your Privacy Team]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Privacy in today's enterprise
+  - Why executives need to understand privacy
+  - How this course will help executives
+- [**1. Privacy: The Big Picture**](#1-privacy-the-big-picture) (4 videos)
+  - The big picture: Privacy, your business, and the economy
+  - The big picture: Privacy, governments, auditors, and investors
+  - The big picture: Privacy and your users
+  - Privacy principles
+- [**2. Privacy: Your Responsibilities as an Executive**](#2-privacy-your-responsibilities-as-an-executive) (3 videos)
+  - Protecting your users: Trust
+  - Protecting your company: Audits and regulations
+  - Building privacy by design into your culture
+- [**3. Building a Privacy Team and Culture**](#3-building-a-privacy-team-and-culture) (3 videos)
+  - Attributes of your privacy program
+  - Privacy roles and responsibilities
+  - The need for metrics
+- [**4. Your Privacy Program**](#4-your-privacy-program) (3 videos)
+  - A two-tiered program
+  - The privacy working group
+  - The privacy execution team
+- [**5. Tactical Privacy in Action**](#5-tactical-privacy-in-action) (3 videos)
+  - Privacy disclosures
+  - Privacy reviews: Legal and technical
+  - Privacy training
+- [**6. User Data Management**](#6-user-data-management) (3 videos)
+  - A data-driven privacy program
+  - Data governance
+  - Data inventory and cataloging
+- [**7. A Proactive Privacy Program**](#7-a-proactive-privacy-program) (5 videos)
+  - Data rightsizing, deletion, and access control
+  - User control and choice
+  - Vendor risk assessment
+  - Incident response
+  - Audits
+- [**8. Staffing Your Privacy Team**](#8-staffing-your-privacy-team) (7 videos)
+  - Privacy and staffing
+  - Chief information security officer (CISO)
+  - Chief privacy officer (CPO)
+  - Data protection officer (DPO)
+  - Privacy, data science, and data platform
+  - Privacy and your policy/communications teams
+  - Adapting your privacy program
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Privacy in today's enterprise
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-in-today-s-enterprise?u=76281980)
@@ -160,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Privacy: The Big Picture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The big picture: Privacy, your business, and the economy
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/the-big-picture-privacy-your-business-and-the-economy?u=76281980)
@@ -294,7 +329,7 @@ created: 2026-04-29
 
 ### 2. Privacy: Your Responsibilities as an Executive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting your users: Trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/protecting-your-users-trust?u=76281980)
@@ -424,7 +459,7 @@ created: 2026-04-29
 
 ### 3. Building a Privacy Team and Culture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Attributes of your privacy program
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/attributes-of-your-privacy-program?u=76281980)
@@ -571,7 +606,7 @@ created: 2026-04-29
 
 ### 4. Your Privacy Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A two-tiered program
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-two-tiered-program?u=76281980)
@@ -741,7 +776,7 @@ created: 2026-04-29
 
 ### 5. Tactical Privacy in Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Privacy disclosures
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-disclosures?u=76281980)
@@ -888,7 +923,7 @@ created: 2026-04-29
 
 ### 6. User Data Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A data-driven privacy program
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/a-data-driven-privacy-program?u=76281980)
@@ -1056,7 +1091,7 @@ created: 2026-04-29
 
 ### 7. A Proactive Privacy Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data rightsizing, deletion, and access control
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/data-rightsizing-deletion-and-access-control?u=76281980)
@@ -1317,7 +1352,7 @@ created: 2026-04-29
 
 ### 8. Staffing Your Privacy Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Privacy and staffing
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/privacy-and-staffing?u=76281980)
@@ -1643,7 +1678,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-strategies-for-business-leaders/next-steps?u=76281980)

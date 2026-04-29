@@ -47,12 +47,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Challenges]]** (15 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Put your JavaScript skills to the test
+  - Using GitHub Codespaces with this course
+- [**1. Challenges**](#1-challenges) (15 videos)
+  - Available books
+  - Movie object
+  - Vegetarian dinner
+  - Technical books
+  - Private object
+  - Ticking time
+  - Classroom attendance
+  - Dynamic colors
+  - Coffee calculations
+  - Food truck
+  - Train generator
+  - String permutation
+  - Five friends
+  - URLify
+  - Password strength
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Put your JavaScript skills to the test
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/put-your-javascript-skills-to-the-test?u=76281980)
@@ -238,7 +255,7 @@ created: 2026-04-29
 
 ### 1. Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Available books
 > [LinkedIn Learning](https://www.linkedin.com/learning/level-up-javascript/available-books?u=76281980)

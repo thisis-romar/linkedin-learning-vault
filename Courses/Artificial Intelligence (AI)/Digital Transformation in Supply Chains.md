@@ -51,15 +51,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Current Supply Chain Technologies]]** (9 videos)
-- **[[#2. Emerging Supply Chain Technologies]]** (12 videos)
-- **[[#3. Transforming Your Supply Chain]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Digital transformation of supply chains
+- [**1. Current Supply Chain Technologies**](#1-current-supply-chain-technologies) (9 videos)
+  - Prepare for Supply Chain 4.0
+  - Track the information value chain
+  - Analyze supply chain processes
+  - Leverage big data and the Internet of Things into the supply chain
+  - Optimize supply chains with advanced analytics
+  - Apply artificial intelligence and machine learning
+  - Cloud computing and edge computing to improve information flow
+  - Exercise: Process mapping
+  - Solution: Process mapping
+- [**2. Emerging Supply Chain Technologies**](#2-emerging-supply-chain-technologies) (12 videos)
+  - Artificial intelligence (AI) in the supply chain
+  - Adopt autonomous vehicles in the supply chain
+  - Simulation, optimization, and digital twins in supply chains
+  - Additive manufacturing for supply chains
+  - Improve supply chain communication technology
+  - Augmented reality in supply chains
+  - Share and secure data with blockchains
+  - Quantum computing in supply chains
+  - Increase supply chain cybersecurity
+  - Combine technologies into supply chain solutions
+  - Exercise: Technology threats and opportunities
+  - Solution: Technology threats and opportunities
+- [**3. Transforming Your Supply Chain**](#3-transforming-your-supply-chain) (7 videos)
+  - Identify new business models for supply chains
+  - Build a business case for digital transformation
+  - Assemble a project team for supply chain digital transformation
+  - Position your digital transformation project
+  - Develop leadership skills for digital transformation
+  - Measure digital transformation impact on sustainability
+  - Explore the convergence of technologies
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Digital transformation of supply chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/digital-transformation-of-supply-chains?u=76281980)
@@ -97,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Current Supply Chain Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare for Supply Chain 4.0
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/prepare-for-supply-chain-4-0?u=76281980)
@@ -642,7 +672,7 @@ created: 2026-04-29
 
 ### 2. Emerging Supply Chain Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Artificial intelligence (AI) in the supply chain
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/artificial-intelligence-ai-in-the-supply-chain?u=76281980)
@@ -1289,7 +1319,7 @@ created: 2026-04-29
 
 ### 3. Transforming Your Supply Chain
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify new business models for supply chains
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/identify-new-business-models-for-supply-chains?u=76281980)
@@ -1714,7 +1744,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-in-supply-chains/next-steps?u=76281980)

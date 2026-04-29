@@ -44,21 +44,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Hardware Overview]]** (3 videos)
-- **[[#2. Inside Tour]]** (6 videos)
-- **[[#3. Internal Features]]** (3 videos)
-- **[[#4. Storage]]** (3 videos)
-- **[[#5. PC Graphics System]]** (4 videos)
-- **[[#6. Input/Output Devices]]** (4 videos)
-- **[[#7. Printers and Printing]]** (2 videos)
-- **[[#8. Networking]]** (4 videos)
-- **[[#9. Bluetooth and Bluetooth Peripherals]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Expand PC capabilities with peripherals
+- [**1. Hardware Overview**](#1-hardware-overview) (3 videos)
+  - Exploring the computer system
+  - Understanding peripherals
+  - Working with connectors and connections
+- [**2. Inside Tour**](#2-inside-tour) (6 videos)
+  - Opening the case
+  - Looking inside the box
+  - Exploring the motherboard
+  - Accessing internal storage
+  - Understanding power and cooling
+  - Closing the case
+- [**3. Internal Features**](#3-internal-features) (3 videos)
+  - Understanding the processor
+  - Reviewing memory requirements
+  - Adding expansion cards
+- [**4. Storage**](#4-storage) (3 videos)
+  - Working with internal storage
+  - Adding removable and external storage
+  - Preparing mass storage
+- [**5. PC Graphics System**](#5-pc-graphics-system) (4 videos)
+  - Understanding the graphics system
+  - Adjusting the monitor
+  - Configuring graphics
+  - Adding a second monitor
+- [**6. Input/Output Devices**](#6-inputoutput-devices) (4 videos)
+  - Connecting a keyboard
+  - Adding pointing devices
+  - Working with touchscreen input
+  - Accessing the audio
+- [**7. Printers and Printing**](#7-printers-and-printing) (2 videos)
+  - Exploring printer types
+  - Connecting and configuring the printer
+- [**8. Networking**](#8-networking) (4 videos)
+  - Exploring the network
+  - Making the network connection
+  - Accessing network resources
+  - Sharing network resources
+- [**9. Bluetooth and Bluetooth Peripherals**](#9-bluetooth-and-bluetooth-peripherals) (2 videos)
+  - Understanding Bluetooth
+  - Adding a Bluetooth peripheral
+- [**Conclusion**](#conclusion) (1 videos)
+  - Pursuing your professional curiosity
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expand PC capabilities with peripherals
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/expand-pc-capabilities-with-peripherals?u=76281980)
@@ -92,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Hardware Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the computer system
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-computer-system?u=76281980)
@@ -305,7 +338,7 @@ created: 2026-04-29
 
 ### 2. Inside Tour
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Opening the case
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980)
@@ -841,7 +874,7 @@ created: 2026-04-29
 
 ### 3. Internal Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the processor
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980)
@@ -1200,7 +1233,7 @@ created: 2026-04-29
 
 ### 4. Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with internal storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980)
@@ -1521,7 +1554,7 @@ created: 2026-04-29
 
 ### 5. PC Graphics System
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the graphics system
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980)
@@ -1925,7 +1958,7 @@ created: 2026-04-29
 
 ### 6. Input/Output Devices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting a keyboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980)
@@ -2275,7 +2308,7 @@ created: 2026-04-29
 
 ### 7. Printers and Printing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring printer types
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-printer-types?u=76281980)
@@ -2425,7 +2458,7 @@ created: 2026-04-29
 
 ### 8. Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980)
@@ -2744,7 +2777,7 @@ created: 2026-04-29
 
 ### 9. Bluetooth and Bluetooth Peripherals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Bluetooth
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980)
@@ -2906,7 +2939,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pursuing your professional curiosity
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/pursuing-your-professional-curiosity?u=76281980)

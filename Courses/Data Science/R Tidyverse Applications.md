@@ -50,16 +50,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Load Data]]** (9 videos)
-- **[[#2. Manipulate Data]]** (8 videos)
-- **[[#3. Factor and Map Data]]** (6 videos)
-- **[[#4. Analyze and Visualize Data]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction to R
+  - What is RStudio?
+- [**1. Load Data**](#1-load-data) (9 videos)
+  - Introducing the R tidyverse
+  - The R tidyverse packages
+  - Introducing KinetEco
+  - Understanding KinetEco Data
+  - What is a tibble?
+  - Loading data with the tidyverse
+  - Load and write data with readr
+  - Load data with readxl and write with writexl
+  - Solution: Load data
+- [**2. Manipulate Data**](#2-manipulate-data) (8 videos)
+  - Dealing with missing values with tidyr
+  - Reshaping data with tidyr
+  - Mutate strings with stringr
+  - Manipulate strings with stringr
+  - Join and split strings with stringr
+  - Understanding dates with lubridate
+  - Edit dates with lubridate
+  - Solution: Manipulate data
+- [**3. Factor and Map Data**](#3-factor-and-map-data) (6 videos)
+  - Factor categorical data with forcats
+  - Inspect and mutate factors with forcats
+  - Adjust factor levels with forcats
+  - Map functions with purrr
+  - Other functions with purrr
+  - Solution: Factor data
+- [**4. Analyze and Visualize Data**](#4-analyze-and-visualize-data) (8 videos)
+  - Summarize data with dplyr
+  - Group data with dplyr
+  - Mutate data with dplyr
+  - Filter data with dplyr
+  - Join data with dplyr
+  - Plot one variable visualizations with ggplot2
+  - Plot two variable visualizations with ggplot2
+  - Solution: Perform data analysis
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introduction-to-r?u=76281980)
@@ -309,7 +343,7 @@ created: 2026-04-29
 
 ### 1. Load Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the R tidyverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/introducing-the-r-tidyverse?u=76281980)
@@ -1542,7 +1576,7 @@ created: 2026-04-29
 
 ### 2. Manipulate Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dealing with missing values with tidyr
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/dealing-with-missing-values-with-tidyr?u=76281980)
@@ -2827,7 +2861,7 @@ created: 2026-04-29
 
 ### 3. Factor and Map Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Factor categorical data with forcats
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/factor-categorical-data-with-forcats?u=76281980)
@@ -3683,7 +3717,7 @@ created: 2026-04-29
 
 ### 4. Analyze and Visualize Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarize data with dplyr
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/summarize-data-with-dplyr?u=76281980)
@@ -4893,7 +4927,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-tidyverse-applications/next-steps?u=76281980)

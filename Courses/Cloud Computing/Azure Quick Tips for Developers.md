@@ -49,12 +49,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Azure Quick Tips for Developers]]** (44 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Azure quick tips overview
+- [**1. Azure Quick Tips for Developers**](#1-azure-quick-tips-for-developers) (44 videos)
+  - Create a resource group from the portal
+  - Customize the default view in the portal
+  - Use the activity log to review actions
+  - Create a custom report of RGs by tag value
+  - Use multiple accounts in the portal
+  - Add a guest user to an Azure subscription
+  - Create a report of users
+  - Use bulk operations to manage users
+  - Check a user's access in Azure
+  - Create a custom dashboard
+  - Share a dashboard with operations
+  - Extract an ARM template from a resource group
+  - Dashboard from Quickstart templates
+  - ARM template from deployment
+  - Clean up resources in a resource group
+  - Delete a resource group
+  - Create a basic blueprint
+  - Assign a blueprint to grant access to RG
+  - Visual Studio's resource group project
+  - Use policy to enforce tagging
+  - Configure scaling for an App Service
+  - Add an autoscale rule to an App Service
+  - Automate backups for App Service
+  - Restore an App Service from a backup
+  - Diagnose and solve App Service problems
+  - Set up Azure DevOps from the portal
+  - Azure Storage Explorer
+  - Reset service principle credentials
+  - Enable dynamic data masking in Azure SQL
+  - Create a VNET
+  - Add a subnet to a VNET
+  - Define peering for VNETs
+  - Create a virtual machine with auto shutdown
+  - Configure monitoring for Azure VM
+  - Create an SQL database from the portal
+  - Dynamically scale an Azure SQL database
+  - Create a Key Vault
+  - Grant access to a Key Vault
+  - Update a secret in a Key Vault
+  - Purge or recover deleted Key Vaults
+  - Integrate App Service and Key Vault
+  - Create an App Insights dashboard
+  - Azure Quickstart Center
+  - Azure free services
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure quick tips overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quick-tips-overview?u=76281980)
@@ -82,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Azure Quick Tips for Developers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a resource group from the portal
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980)

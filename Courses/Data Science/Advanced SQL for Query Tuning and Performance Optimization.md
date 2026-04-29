@@ -55,20 +55,83 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. How SQL Executes a Query]]** (6 videos)
-- **[[#2. PostgreSQL Tools for Tuning]]** (6 videos)
-- **[[#3. Types of Indexes]]** (11 videos)
-- **[[#4. Tuning Joins]]** (10 videos)
-- **[[#5. Partitioning Data]]** (9 videos)
-- **[[#6. Materialized Views]]** (5 videos)
-- **[[#7. Database Statistics and Identifying Slow Queries]]** (6 videos)
-- **[[#8. Other Optimization Techniques]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Reduce query response time with query tuning
+  - What you should know
+- [**1. How SQL Executes a Query**](#1-how-sql-executes-a-query) (6 videos)
+  - From declarative SQL to a procedural execution plan
+  - Scanning tables and indexes
+  - Joining tables
+  - Partitioning data
+  - Challenge: Choosing how to partition a table
+  - Solution: Choosing how to partition a table
+- [**2. PostgreSQL Tools for Tuning**](#2-postgresql-tools-for-tuning) (6 videos)
+  - Using PostgreSQL in Codespaces
+  - Explain and analyze
+  - Example plan: Selecting with a WHERE clause
+  - Indexes
+  - Challenge: Generating a query execution plan
+  - Solution: Generating a query execution plan
+- [**3. Types of Indexes**](#3-types-of-indexes) (11 videos)
+  - Indexing
+  - B-tree indexes
+  - B-tree index example plan
+  - Bitmap indexes
+  - Bitmap index example plan
+  - Hash indexes
+  - Hash index example plan
+  - Bloom filter indexes
+  - PostgreSQL-specific indexes
+  - Challenge: Choosing an index
+  - Solution: Choosing an index
+- [**4. Tuning Joins**](#4-tuning-joins) (10 videos)
+  - Types of joins
+  - Nested loops
+  - Nested loop example plan
+  - Hash joins
+  - Hash join example plan
+  - Merge joins
+  - Merge join example
+  - Subqueries vs. joins
+  - Challenge: Designing a join
+  - Solution: Designing a join
+- [**5. Partitioning Data**](#5-partitioning-data) (9 videos)
+  - Horizontal vs. vertical partitioning
+  - Partition by range
+  - Partition by range example
+  - Partition by list
+  - Partition by list example
+  - Partition by hash
+  - Partition by hash example
+  - Challenge: Partitioning a table
+  - Solution: Partitioning a table
+- [**6. Materialized Views**](#6-materialized-views) (5 videos)
+  - Materialized views
+  - Creating materialized views
+  - Refreshing materialized views
+  - Challenge: Creating a materialized view
+  - Solution: Creating a materialized view
+- [**7. Database Statistics and Identifying Slow Queries**](#7-database-statistics-and-identifying-slow-queries) (6 videos)
+  - Collect statistics about data in tables
+  - Analyzing execution statistics with pg_stat_statements
+  - Reviewing execution plans with the auto_explain module
+  - Additional analysis with other pg_stats data
+  - Challenge: Analyze schema statistics
+  - Solution: Analyze schema statistics
+- [**8. Other Optimization Techniques**](#8-other-optimization-techniques) (7 videos)
+  - Using common table expressions to avoid repetitive computation
+  - Hints to the Query Optimizer
+  - Parallel query execution
+  - Improving cache utilization
+  - Miscellaneous tips
+  - Challenge: Design a common table expression
+  - Solution: Design a common table expression
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reduce query response time with query tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?u=76281980)
@@ -125,7 +188,7 @@ created: 2026-04-29
 
 ### 1. How SQL Executes a Query
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From declarative SQL to a procedural execution plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980)
@@ -442,7 +505,7 @@ created: 2026-04-29
 
 ### 2. PostgreSQL Tools for Tuning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using PostgreSQL in Codespaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980)
@@ -733,7 +796,7 @@ created: 2026-04-29
 
 ### 3. Types of Indexes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Indexing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980)
@@ -1391,7 +1454,7 @@ created: 2026-04-29
 
 ### 4. Tuning Joins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/types-of-joins?u=76281980)
@@ -1881,7 +1944,7 @@ created: 2026-04-29
 
 ### 5. Partitioning Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Horizontal vs. vertical partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980)
@@ -2446,7 +2509,7 @@ created: 2026-04-29
 
 ### 6. Materialized Views
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Materialized views
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/materialized-views?u=76281980)
@@ -2631,7 +2694,7 @@ created: 2026-04-29
 
 ### 7. Database Statistics and Identifying Slow Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collect statistics about data in tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980)
@@ -2854,7 +2917,7 @@ created: 2026-04-29
 
 ### 8. Other Optimization Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using common table expressions to avoid repetitive computation
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980)
@@ -3108,7 +3171,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980)

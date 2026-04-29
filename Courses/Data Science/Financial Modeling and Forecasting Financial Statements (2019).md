@@ -51,18 +51,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Who Uses Forecasted Financial Statements?]]** (5 videos)
-- **[[#2. It All Starts with an Accurate Sales Forecast]]** (4 videos)
-- **[[#3. What Causes Financial Statement Numbers to Change?]]** (4 videos)
-- **[[#4. Constructing a Forecasted Income Statement]]** (4 videos)
-- **[[#5. Constructing a Forecasted Balance Sheet]]** (4 videos)
-- **[[#6. Constructing a Forecasted Statement of Cash Flows]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Projecting the financial future
+  - What you should know
+- [**1. Who Uses Forecasted Financial Statements?**](#1-who-uses-forecasted-financial-statements) (5 videos)
+  - Use the past to understand the future
+  - Keys to running a business
+  - Financial forecasts and loans
+  - Financial forecasts and investment decisions
+  - Use financial forecasts to understand new information
+- [**2. It All Starts with an Accurate Sales Forecast**](#2-it-all-starts-with-an-accurate-sales-forecast) (4 videos)
+  - IBM and the famously bad sales forecast
+  - Combine historical trends with current plans
+  - Incorporate seasonal patterns and recent developments
+  - The costs of being wrong
+- [**3. What Causes Financial Statement Numbers to Change?**](#3-what-causes-financial-statement-numbers-to-change) (4 videos)
+  - Home Depot 1985: Three weeks to live
+  - The impacts of natural changes
+  - The impacts of long-term planning decisions
+  - The impacts of financing choices
+- [**4. Constructing a Forecasted Income Statement**](#4-constructing-a-forecasted-income-statement) (4 videos)
+  - The Gap and predictable change
+  - Forecasting sales-based expenses
+  - Fixed costs and variable costs
+  - Forecasting interest and income taxes
+- [**5. Constructing a Forecasted Balance Sheet**](#5-constructing-a-forecasted-balance-sheet) (4 videos)
+  - The power of the accounting equation
+  - Identifying the missing number
+  - Easy "plugs": Cash, investments, paid-in capital
+  - Realistic but challenging "plug": Loans
+- [**6. Constructing a Forecasted Statement of Cash Flows**](#6-constructing-a-forecasted-statement-of-cash-flows) (5 videos)
+  - The Home Depot story revisited
+  - How to deduce cash flows
+  - Forecasting operating cash flow
+  - Forecasting investing cash flow
+  - Financing cash flow
+- [**Conclusion**](#conclusion) (1 videos)
+  - Dynamic modeling
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Projecting the financial future
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/projecting-the-financial-future?u=76281980)
@@ -146,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Who Uses Forecasted Financial Statements?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the past to understand the future
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/use-the-past-to-understand-the-future?u=76281980)
@@ -606,7 +635,7 @@ created: 2026-04-29
 
 ### 2. It All Starts with an Accurate Sales Forecast
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IBM and the famously bad sales forecast
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/ibm-and-the-famously-bad-sales-forecast?u=76281980)
@@ -936,7 +965,7 @@ created: 2026-04-29
 
 ### 3. What Causes Financial Statement Numbers to Change?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Home Depot 1985: Three weeks to live
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/home-depot-1985-three-weeks-to-live?u=76281980)
@@ -1235,7 +1264,7 @@ created: 2026-04-29
 
 ### 4. Constructing a Forecasted Income Statement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Gap and predictable change
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-gap-and-predictable-change?u=76281980)
@@ -1609,7 +1638,7 @@ created: 2026-04-29
 
 ### 5. Constructing a Forecasted Balance Sheet
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of the accounting equation
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-power-of-the-accounting-equation?u=76281980)
@@ -1966,7 +1995,7 @@ created: 2026-04-29
 
 ### 6. Constructing a Forecasted Statement of Cash Flows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Home Depot story revisited
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/the-home-depot-story-revisited?u=76281980)
@@ -2400,7 +2429,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements-2019/dynamic-modeling?u=76281980)

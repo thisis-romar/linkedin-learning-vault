@@ -51,19 +51,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Web Performance: An Introduction]]** (3 videos)
-- **[[#2. Web Performance Basics]]** (5 videos)
-- **[[#3. Creating a Performance Budget]]** (3 videos)
-- **[[#4. Optimizing Images]]** (8 videos)
-- **[[#5. Markup and Content]]** (8 videos)
-- **[[#6. Web Fonts]]** (5 videos)
-- **[[#7. Optimizing Delivery]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - What is performance and why is it so important?
+- [**1. Web Performance: An Introduction**](#1-web-performance-an-introduction) (3 videos)
+  - What is web performance and optimization?
+  - How do we measure performance?
+  - Why does performance matter?
+- [**2. Web Performance Basics**](#2-web-performance-basics) (5 videos)
+  - How browsers render content
+  - HTTP/2 and multiplexing
+  - Bottlenecks
+  - Caching
+  - The PRPL pattern
+- [**3. Creating a Performance Budget**](#3-creating-a-performance-budget) (3 videos)
+  - What is a performance budget?
+  - Creating a realistic performance budget
+  - Common culprits and performance hogs
+- [**4. Optimizing Images**](#4-optimizing-images) (8 videos)
+  - Images are the leading cause of the slow web
+  - Image quality matters
+  - The image scaling hack
+  - Image format options
+  - Manual image optimization
+  - Automated image optimization
+  - Responsive images
+  - Lazy-loading images
+- [**5. Markup and Content**](#5-markup-and-content) (8 videos)
+  - Automated optimization of JavaScript and CSS
+  - JavaScript bundling vs. modules
+  - JavaScript loading: Async and defer
+  - Lazy-loading JavaScript modules with import()
+  - Minifying and uglifying JavaScript
+  - Critical CSS
+  - Deferring noncritical CSS
+  - Component-based CSS loading
+- [**6. Web Fonts**](#6-web-fonts) (5 videos)
+  - Web fonts can be major performance hogs
+  - Optimizing third-party web font delivery
+  - Optimizing self-hosted web font delivery
+  - Variable fonts to the rescue?
+  - Web fonts on a performance budget
+- [**7. Optimizing Delivery**](#7-optimizing-delivery) (5 videos)
+  - Compress data with Gzip and Brotli
+  - Server push
+  - Preloading vs. prefetch
+  - Browser caching
+  - CDNs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Thank you
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is performance and why is it so important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-performance-and-why-is-it-so-important?u=76281980)
@@ -102,7 +141,7 @@ created: 2026-04-29
 
 ### 1. Web Performance: An Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is web performance and optimization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-web-performance-and-optimization?u=76281980)
@@ -441,7 +480,7 @@ created: 2026-04-29
 
 ### 2. Web Performance Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How browsers render content
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/how-browsers-render-content?u=76281980)
@@ -812,7 +851,7 @@ created: 2026-04-29
 
 ### 3. Creating a Performance Budget
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a performance budget?
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/what-is-a-performance-budget?u=76281980)
@@ -1035,7 +1074,7 @@ created: 2026-04-29
 
 ### 4. Optimizing Images
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Images are the leading cause of the slow web
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/images-are-the-leading-cause-of-the-slow-web?u=76281980)
@@ -1919,7 +1958,7 @@ created: 2026-04-29
 
 ### 5. Markup and Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automated optimization of JavaScript and CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/automated-optimization-of-javascript-and-css?u=76281980)
@@ -2752,7 +2791,7 @@ created: 2026-04-29
 
 ### 6. Web Fonts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Web fonts can be major performance hogs
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/web-fonts-can-be-major-performance-hogs?u=76281980)
@@ -3121,7 +3160,7 @@ created: 2026-04-29
 
 ### 7. Optimizing Delivery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Compress data with Gzip and Brotli
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/compress-data-with-gzip-and-brotli?u=76281980)
@@ -3401,7 +3440,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/developing-for-web-performance/thank-you?u=76281980)

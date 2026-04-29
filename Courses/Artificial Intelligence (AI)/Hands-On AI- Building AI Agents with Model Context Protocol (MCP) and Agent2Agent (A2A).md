@@ -48,18 +48,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Model Context Protocol]]** (6 videos)
-- **[[#2. A Simple MCP App]]** (5 videos)
-- **[[#3. HR Policy Agent with MCP]]** (4 videos)
-- **[[#4. HR Timeoff Agent with MCP]]** (4 videos)
-- **[[#5. Introduction to Agent2Agent Protocol]]** (6 videos)
-- **[[#6. Build a Multi-Agent HR App with A2A]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why MCP and A2A?
+- [**1. Introduction to Model Context Protocol**](#1-introduction-to-model-context-protocol) (6 videos)
+  - What is Model Context Protocol?
+  - MCP architecture
+  - Resources, tools, and prompt templates
+  - Transport in MCP
+  - Messaging flow in MCP
+  - Prebuilt MCP servers
+- [**2. A Simple MCP App**](#2-a-simple-mcp-app) (5 videos)
+  - MCP SDKs
+  - Simple MCP app design
+  - Build the code-of-conduct MCP server
+  - Build the code-of-conduct MCP client
+  - Execute the code-of-conduct app with MCP
+- [**3. HR Policy Agent with MCP**](#3-hr-policy-agent-with-mcp) (4 videos)
+  - HR policy agent design
+  - Build the HR policy MCP server
+  - Build the HR policy agent with MCP client
+  - Execute the HR policy agent with MCP
+- [**4. HR Timeoff Agent with MCP**](#4-hr-timeoff-agent-with-mcp) (4 videos)
+  - HR timeoff agent design
+  - Build the HR timeoff MCP server
+  - Build the HR Timeoff Agent with MCP Client
+  - Execute the HR timeoff agent with MCP
+- [**5. Introduction to Agent2Agent Protocol**](#5-introduction-to-agent2agent-protocol) (6 videos)
+  - What is A2A?
+  - Architecture of A2A
+  - A2A communication elements
+  - A2A protocols
+  - A2A discovery strategies
+  - A2A client and server communication flow
+- [**6. Build a Multi-Agent HR App with A2A**](#6-build-a-multi-agent-hr-app-with-a2a) (5 videos)
+  - HR multi-agent assistant design
+  - Implement A2A Server for agents
+  - Implement a A2A client
+  - Create a multi-agent router agent
+  - Execute the multi-agent HR App with A2A
+- [**Conclusion**](#conclusion) (1 videos)
+  - Recommended next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why MCP and A2A?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980)
@@ -85,7 +117,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Model Context Protocol
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Model Context Protocol?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980)
@@ -508,7 +540,7 @@ created: 2026-04-29
 
 ### 2. A Simple MCP App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MCP SDKs
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980)
@@ -815,7 +847,7 @@ created: 2026-04-29
 
 ### 3. HR Policy Agent with MCP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### HR policy agent design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980)
@@ -1049,7 +1081,7 @@ created: 2026-04-29
 
 ### 4. HR Timeoff Agent with MCP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### HR timeoff agent design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980)
@@ -1356,7 +1388,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Agent2Agent Protocol
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is A2A?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980)
@@ -1805,7 +1837,7 @@ created: 2026-04-29
 
 ### 6. Build a Multi-Agent HR App with A2A
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### HR multi-agent assistant design
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-multi-agent-assistant-design?u=76281980)
@@ -2167,7 +2199,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recommended next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/recommended-next-steps?u=76281980)

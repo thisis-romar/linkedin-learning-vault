@@ -45,17 +45,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Comparing Two Populations: Proportions]]** (3 videos)
-- **[[#2. Comparing Two Populations: Means]]** (4 videos)
-- **[[#3. T-Tests]]** (3 videos)
-- **[[#4. ANOVA: Analysis of Variance]]** (4 videos)
-- **[[#5. Regression Analysis]]** (4 videos)
-- **[[#Continuing Your Advanced Statistics Learning Journey]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of advanced statistics
+- [**1. Comparing Two Populations: Proportions**](#1-comparing-two-populations-proportions) (3 videos)
+  - Explanation of two population comparisons
+  - Two population: Confidence interval example
+  - Two population: Hypothesis test example
+- [**2. Comparing Two Populations: Means**](#2-comparing-two-populations-means) (4 videos)
+  - Explanation of two population mean comparisons
+  - Visualization: Re-randomizing
+  - Two population means: Confidence interval example
+  - Two population means: Hypothesis test example
+- [**3. T-Tests**](#3-t-tests) (3 videos)
+  - T-distribution vs. z-distribution
+  - T-score tables and degrees of freedom
+  - Use T-scores to develop confidence intervals
+- [**4. ANOVA: Analysis of Variance**](#4-anova-analysis-of-variance) (4 videos)
+  - ANOVA: What is analysis of variance?
+  - One-way ANOVA and the sum of squares total (SST)
+  - Sum of squares within (SSW) and sum of squares between (SSB)
+  - F-statistic and ANOVA hypothesis test example
+- [**5. Regression Analysis**](#5-regression-analysis) (4 videos)
+  - What is regression?
+  - Regression best fit line
+  - Coefficient of determination (R-squared)
+  - The correlation coefficient
+- [**Continuing Your Advanced Statistics Learning Journey**](#continuing-your-advanced-statistics-learning-journey) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of advanced statistics
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-power-of-advanced-statistics?u=76281980)
@@ -114,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Comparing Two Populations: Proportions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanation of two population comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-comparisons?u=76281980)
@@ -470,7 +490,7 @@ created: 2026-04-29
 
 ### 2. Comparing Two Populations: Means
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explanation of two population mean comparisons
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-mean-comparisons?u=76281980)
@@ -874,7 +894,7 @@ created: 2026-04-29
 
 ### 3. T-Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### T-distribution vs. z-distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-distribution-vs-z-distribution?u=76281980)
@@ -1139,7 +1159,7 @@ created: 2026-04-29
 
 ### 4. ANOVA: Analysis of Variance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ANOVA: What is analysis of variance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/anova-what-is-analysis-of-variance?u=76281980)
@@ -1567,7 +1587,7 @@ created: 2026-04-29
 
 ### 5. Regression Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/what-is-regression?u=76281980)
@@ -1964,7 +1984,7 @@ created: 2026-04-29
 
 ### Continuing Your Advanced Statistics Learning Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980)

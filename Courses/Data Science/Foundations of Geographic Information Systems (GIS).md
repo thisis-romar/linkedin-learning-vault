@@ -46,17 +46,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding GIS]]** (5 videos)
-- **[[#2. GIS Core Concepts]]** (5 videos)
-- **[[#3. Geospatial Analysis]]** (3 videos)
-- **[[#4. Spatial Data Sources]]** (2 videos)
-- **[[#5. GIS as a Spatial Platform]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Thinking spatially
+- [**1. Understanding GIS**](#1-understanding-gis) (5 videos)
+  - Solving spatial problems
+  - Finding and accessing GIS
+  - Recreating the world on a map
+  - Specifying location
+  - Essential map comprehension
+- [**2. GIS Core Concepts**](#2-gis-core-concepts) (5 videos)
+  - More than digital maps
+  - Identifying GIS layer components
+  - Describing attribute tables
+  - Using raster datasets
+  - Creating 3D models with LiDAR
+- [**3. Geospatial Analysis**](#3-geospatial-analysis) (3 videos)
+  - Asking a map questions
+  - Evaluating spatial relationships
+  - Analysis with imagery and surfaces
+- [**4. Spatial Data Sources**](#4-spatial-data-sources) (2 videos)
+  - Identifying GIS data sources
+  - Creating your own GIS data
+- [**5. GIS as a Spatial Platform**](#5-gis-as-a-spatial-platform) (2 videos)
+  - Enterprise-level GIS
+  - Mobile and web GIS
+- [**Conclusion**](#conclusion) (1 videos)
+  - Putting it to practice
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking spatially
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/thinking-spatially?u=76281980)
@@ -92,7 +111,7 @@ created: 2026-04-29
 
 ### 1. Understanding GIS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving spatial problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/solving-spatial-problems?u=76281980)
@@ -387,7 +406,7 @@ created: 2026-04-29
 
 ### 2. GIS Core Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More than digital maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/more-than-digital-maps?u=76281980)
@@ -717,7 +736,7 @@ created: 2026-04-29
 
 ### 3. Geospatial Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Asking a map questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/asking-a-map-questions?u=76281980)
@@ -888,7 +907,7 @@ created: 2026-04-29
 
 ### 4. Spatial Data Sources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying GIS data sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-data-sources?u=76281980)
@@ -1009,7 +1028,7 @@ created: 2026-04-29
 
 ### 5. GIS as a Spatial Platform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enterprise-level GIS
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/enterprise-level-gis?u=76281980)
@@ -1099,7 +1118,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting it to practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/putting-it-to-practice?u=76281980)

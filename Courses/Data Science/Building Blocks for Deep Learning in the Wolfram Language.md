@@ -48,12 +48,14 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Building and Training Basic Neural Networks]]** (1 videos)
-- **[[#2. Recurrent Neural Networks]]** (1 videos)
+- [**1. Building and Training Basic Neural Networks**](#1-building-and-training-basic-neural-networks) (1 videos)
+  - Building and training basic neural networks
+- [**2. Recurrent Neural Networks**](#2-recurrent-neural-networks) (1 videos)
+  - Recurrent neural networks
 
 ### 1. Building and Training Basic Neural Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building and training basic neural networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/building-and-training-basic-neural-networks?u=76281980)
@@ -61,7 +63,7 @@ created: 2026-04-29
 
 ### 2. Recurrent Neural Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recurrent neural networks
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-blocks-for-deep-learning-in-the-wolfram-language/recurrent-neural-networks?u=76281980)

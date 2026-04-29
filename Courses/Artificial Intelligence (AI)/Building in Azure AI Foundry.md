@@ -53,15 +53,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Overview of Azure AI Foundry]]** (2 videos)
-- **[[#2. Get Started with Azure AI Foundry]]** (6 videos)
-- **[[#3. Explore Advanced Capabilities]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Build your AI applications with Azure AI Foundry
+- [**1. Overview of Azure AI Foundry**](#1-overview-of-azure-ai-foundry) (2 videos)
+  - What is Azure AI Foundry?
+  - Manage AI applications
+- [**2. Get Started with Azure AI Foundry**](#2-get-started-with-azure-ai-foundry) (6 videos)
+  - Create your AI project
+  - Explore and deploy AI models
+  - Use the chat playground and system message
+  - Use your data
+  - Create content filters
+  - Deploy your AI application
+- [**3. Explore Advanced Capabilities**](#3-explore-advanced-capabilities) (3 videos)
+  - Create prompt flows
+  - Evaluate your AI application
+  - Apply evaluation metrics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your AI applications with Azure AI Foundry
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980)
@@ -87,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Overview of Azure AI Foundry
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Azure AI Foundry?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980)
@@ -167,7 +180,7 @@ created: 2026-04-29
 
 ### 2. Get Started with Azure AI Foundry
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your AI project
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980)
@@ -827,7 +840,7 @@ created: 2026-04-29
 
 ### 3. Explore Advanced Capabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create prompt flows
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980)
@@ -1122,7 +1135,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980)

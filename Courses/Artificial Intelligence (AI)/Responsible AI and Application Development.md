@@ -54,20 +54,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Designing Responsible AI]]** (2 videos)
-- **[[#2. Acquiring Data]]** (3 videos)
-- **[[#3. Preprocessing Data]]** (3 videos)
-- **[[#4. Augmenting Data]]** (3 videos)
-- **[[#5. Creating Model Architectures]]** (3 videos)
-- **[[#6. Transfer Learning]]** (4 videos)
-- **[[#7. Model Training]]** (2 videos)
-- **[[#8. Model Deployment and Applications]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Responsible AI and application development
+- [**1. Designing Responsible AI**](#1-designing-responsible-ai) (2 videos)
+  - Responsible design
+  - Being responsible end to end
+- [**2. Acquiring Data**](#2-acquiring-data) (3 videos)
+  - Ethical data collection
+  - Tools to understand your data
+  - Demo of model cards, nutrition labels, etc.
+- [**3. Preprocessing Data**](#3-preprocessing-data) (3 videos)
+  - Why preprocess data?
+  - Techniques to preprocess data
+  - Demo of data preprocessing
+- [**4. Augmenting Data**](#4-augmenting-data) (3 videos)
+  - What is data augmentation
+  - When data augmentation goes wrong
+  - Demo of image augmentation with PyTorch
+- [**5. Creating Model Architectures**](#5-creating-model-architectures) (3 videos)
+  - Optimization: Responsible neural architecture design
+  - Loss: Responsible neural architecture design
+  - Others: Responsible neural architecture design
+- [**6. Transfer Learning**](#6-transfer-learning) (4 videos)
+  - What is transfer learning?
+  - The risks of transfer learning: Inheriting bias
+  - The risks of fine-tuning: Inheriting bias
+  - Demonstrate BERT, inherited bias, and fine-tuning to fix
+- [**7. Model Training**](#7-model-training) (2 videos)
+  - Responsible practices during training
+  - Training an image classifier
+- [**8. Model Deployment and Applications**](#8-model-deployment-and-applications) (2 videos)
+  - Considerations in model deployment
+  - Ops and continuous evaluation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your responsible AI journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible AI and application development
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-ai-and-application-development?u=76281980)
@@ -92,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Designing Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible design
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-design?u=76281980)
@@ -235,7 +259,7 @@ created: 2026-04-29
 
 ### 2. Acquiring Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethical data collection
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/ethical-data-collection?u=76281980)
@@ -486,7 +510,7 @@ created: 2026-04-29
 
 ### 3. Preprocessing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why preprocess data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/why-preprocess-data?u=76281980)
@@ -802,7 +826,7 @@ created: 2026-04-29
 
 ### 4. Augmenting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data augmentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-data-augmentation?u=76281980)
@@ -1229,7 +1253,7 @@ created: 2026-04-29
 
 ### 5. Creating Model Architectures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimization: Responsible neural architecture design
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/optimization-responsible-neural-architecture-design?u=76281980)
@@ -1425,7 +1449,7 @@ created: 2026-04-29
 
 ### 6. Transfer Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is transfer learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/what-is-transfer-learning?u=76281980)
@@ -1857,7 +1881,7 @@ created: 2026-04-29
 
 ### 7. Model Training
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible practices during training
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/responsible-practices-during-training?u=76281980)
@@ -2019,7 +2043,7 @@ created: 2026-04-29
 
 ### 8. Model Deployment and Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Considerations in model deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/considerations-in-model-deployment?u=76281980)
@@ -2157,7 +2181,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your responsible AI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-and-application-development/continue-your-responsible-ai-journey?u=76281980)

@@ -48,17 +48,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Agile and the Business Analyst]]** (5 videos)
-- **[[#2. Agile Point of View]]** (5 videos)
-- **[[#3. Backlog Management]]** (6 videos)
-- **[[#4. Techniques for Agile Business Analysts]]** (7 videos)
-- **[[#5. Agile Concepts for Business Analysts]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you need to know
+  - Using the exercise files
+- [**1. Agile and the Business Analyst**](#1-agile-and-the-business-analyst) (5 videos)
+  - The business analyst role in agile
+  - The agile manifesto from a business analyst perspective
+  - Agile principles 1–4 from a business analyst perspective
+  - Agile principles 5–8 from a business analyst perspective
+  - Agile principles 9–12 from a business analyst perspective
+- [**2. Agile Point of View**](#2-agile-point-of-view) (5 videos)
+  - The business analyst point of view on an agile team
+  - Key agile mindsets of business analysts
+  - Increments of value
+  - Volatility, uncertainty, complexity, and ambiguity (VUCA)
+  - Day in the life of an agile business analyst
+- [**3. Backlog Management**](#3-backlog-management) (6 videos)
+  - A healthy backlog
+  - Ownership of the backlog
+  - Level of detail in the backlog
+  - Refining the backlog
+  - Analyzing the backlog
+  - Collaborating with the product owner on the backlog
+- [**4. Techniques for Agile Business Analysts**](#4-techniques-for-agile-business-analysts) (7 videos)
+  - Product decomposition
+  - Context techniques
+  - User stories
+  - Acceptance criteria
+  - User story maps
+  - Story slicing and splitting
+  - Lightweight modeling
+- [**5. Agile Concepts for Business Analysts**](#5-agile-concepts-for-business-analysts) (6 videos)
+  - Last responsible moment
+  - Minimum viable product (MVP)
+  - Experiments
+  - Value stream
+  - Outcome-focused
+  - Who is the customer?
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/welcome?u=76281980)
@@ -141,7 +174,7 @@ created: 2026-04-29
 
 ### 1. Agile and the Business Analyst
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The business analyst role in agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-role-in-agile?u=76281980)
@@ -549,7 +582,7 @@ created: 2026-04-29
 
 ### 2. Agile Point of View
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The business analyst point of view on an agile team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/the-business-analyst-point-of-view-on-an-agile-team?u=76281980)
@@ -971,7 +1004,7 @@ created: 2026-04-29
 
 ### 3. Backlog Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A healthy backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/a-healthy-backlog?u=76281980)
@@ -1390,7 +1423,7 @@ created: 2026-04-29
 
 ### 4. Techniques for Agile Business Analysts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Product decomposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/product-decomposition?u=76281980)
@@ -1863,7 +1896,7 @@ created: 2026-04-29
 
 ### 5. Agile Concepts for Business Analysts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Last responsible moment
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/last-responsible-moment?u=76281980)
@@ -2275,7 +2308,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-requirements-foundations/next-steps?u=76281980)

@@ -46,16 +46,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Configure Updates]]** (5 videos)
-- **[[#2. Monitor Windows]]** (10 videos)
-- **[[#3. Manage Local Users, Local Groups, and Devices]]** (7 videos)
-- **[[#4. Configure System and Data Recovery]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The benefits of managing and maintaining Windows 10
+- [**1. Configure Updates**](#1-configure-updates) (5 videos)
+  - Configure basic Windows Update options
+  - Plan for Windows Update in an enterprise
+  - Select the appropriate servicing channel
+  - Troubleshoot updates
+  - Update Microsoft Store apps
+- [**2. Monitor Windows**](#2-monitor-windows) (10 videos)
+  - Configure services
+  - Configure event subscriptions
+  - Manage performance with Task Manager
+  - Manage performance with Resource Monitor
+  - Manage performance with Performance Monitor
+  - Manage performance with Reliability Monitor
+  - Monitor and manage printers
+  - Schedule tasks with Task Scheduler
+  - Implement encryption
+  - Configure Windows Defender Firewall and antivirus
+- [**3. Manage Local Users, Local Groups, and Devices**](#3-manage-local-users-local-groups-and-devices) (7 videos)
+  - Create a workgroup or join a domain
+  - Create user accounts in Accounts and Computer Management
+  - Manage local groups: NTFS permissions in Computer Management
+  - Manage users with Computer Management and Group Policy
+  - Configure application settings
+  - Configure Credential Manager
+  - Use Group Policy to secure users and computers
+- [**4. Configure System and Data Recovery**](#4-configure-system-and-data-recovery) (10 videos)
+  - Recover Windows 10 with a recovery drive
+  - Create and manage System Restore points
+  - Explore recovery options
+  - Troubleshoot the startup and boot process
+  - Restore with file history
+  - Configure OneDrive
+  - Configure OneDrive for Business
+  - Access and configure Backup and Restore
+  - Explore wbadmin
+  - Recover the OS with Windows Recovery Environment
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of managing and maintaining Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/the-benefits-of-managing-and-maintaining-windows-10-14304567?u=76281980)
@@ -94,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Configure Updates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure basic Windows Update options
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-basic-windows-update-options?u=76281980)
@@ -523,7 +557,7 @@ created: 2026-04-29
 
 ### 2. Monitor Windows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure services
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/configure-services-14305517?u=76281980)
@@ -1813,7 +1847,7 @@ created: 2026-04-29
 
 ### 3. Manage Local Users, Local Groups, and Devices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a workgroup or join a domain
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/create-a-workgroup-or-join-a-domain-14308478?u=76281980)
@@ -2681,7 +2715,7 @@ created: 2026-04-29
 
 ### 4. Configure System and Data Recovery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recover Windows 10 with a recovery drive
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/recover-windows-10-with-a-recovery-drive?u=76281980)
@@ -3546,7 +3580,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-manage-and-maintain-windows-10-2019/next-steps?u=76281980)

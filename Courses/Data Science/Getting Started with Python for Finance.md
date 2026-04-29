@@ -52,16 +52,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Loading Data and Visualizations]]** (6 videos)
-- **[[#2. Calculations]]** (6 videos)
-- **[[#3. Rolling Windows]]** (4 videos)
-- **[[#4. Technical Analysis]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction
+  - What you should know
+- [**1. Loading Data and Visualizations**](#1-loading-data-and-visualizations) (6 videos)
+  - Loading data
+  - Line plots
+  - Resampling data
+  - Candlestick plot from scratch
+  - Challenge: Candlestick plot for 2019
+  - Solution: Candlestick plot for 2019
+- [**2. Calculations**](#2-calculations) (6 videos)
+  - Returns
+  - Plotting returns
+  - Cumulative returns
+  - Volatility
+  - Challenge: Plotting 30-day volatility
+  - Solution: Plotting 30-day volatility
+- [**3. Rolling Windows**](#3-rolling-windows) (4 videos)
+  - Creating moving averages
+  - Plotting moving averages
+  - Challenge: Exponential moving average
+  - Solution: Exponential moving average
+- [**4. Technical Analysis**](#4-technical-analysis) (5 videos)
+  - OBV
+  - Accumulation/distribution indicator
+  - Challenge: RSI
+  - Basic solution: RSI
+  - Optimized solution: RSI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/introduction?u=76281980)
@@ -124,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Loading Data and Visualizations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/loading-data?u=76281980)
@@ -750,7 +774,7 @@ created: 2026-04-29
 
 ### 2. Calculations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Returns
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/returns?u=76281980)
@@ -1488,7 +1512,7 @@ created: 2026-04-29
 
 ### 3. Rolling Windows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating moving averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/creating-moving-averages?u=76281980)
@@ -1891,7 +1915,7 @@ created: 2026-04-29
 
 ### 4. Technical Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OBV
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/obv?u=76281980)
@@ -2618,7 +2642,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-python-for-finance/next-steps?u=76281980)

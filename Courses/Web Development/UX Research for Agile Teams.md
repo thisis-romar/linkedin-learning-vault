@@ -48,16 +48,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Software Development Frameworks]]** (4 videos)
-- **[[#2. Team Preparation]]** (3 videos)
-- **[[#3. Research Adaption]]** (4 videos)
-- **[[#4. Analyzing Research]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - What to know
+- [**1. Software Development Frameworks**](#1-software-development-frameworks) (4 videos)
+  - UX research overview
+  - Agile and scrum overview
+  - Other frameworks
+  - Why development and business process matters to UX
+- [**2. Team Preparation**](#2-team-preparation) (3 videos)
+  - Team makeup
+  - Research cadence
+  - Logistics of securing research participants
+- [**3. Research Adaption**](#3-research-adaption) (4 videos)
+  - Choosing research method
+  - Crafting a hypothesis
+  - Balancing rigor and speed
+  - Performing research together
+- [**4. Analyzing Research**](#4-analyzing-research) (2 videos)
+  - Interpreting research findings
+  - Integrating results
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980)
@@ -103,7 +119,7 @@ created: 2026-04-29
 
 ### 1. Software Development Frameworks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### UX research overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/ux-research-overview?u=76281980)
@@ -245,7 +261,7 @@ created: 2026-04-29
 
 ### 2. Team Preparation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Team makeup
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980)
@@ -497,7 +513,7 @@ created: 2026-04-29
 
 ### 3. Research Adaption
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing research method
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980)
@@ -721,7 +737,7 @@ created: 2026-04-29
 
 ### 4. Analyzing Research
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Interpreting research findings
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980)
@@ -886,7 +902,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980)

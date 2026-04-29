@@ -55,18 +55,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Why Do You Want to Use Git?]]** (4 videos)
-- **[[#2. How Does Git Work?]]** (4 videos)
-- **[[#3. Install and Configure Git]]** (7 videos)
-- **[[#4. Push Your Code with Git]]** (10 videos)
-- **[[#5. Make Changes to Files]]** (12 videos)
-- **[[#6. Important Concepts in Git]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Get started with Git
+  - What you should know
+- [**1. Why Do You Want to Use Git?**](#1-why-do-you-want-to-use-git) (4 videos)
+  - Git for version control
+  - Git to share code
+  - Git to collaborate
+  - Open source
+- [**2. How Does Git Work?**](#2-how-does-git-work) (4 videos)
+  - Use Git locally
+  - Use a Git provider
+  - Distributed version control
+  - How to start working with Git
+- [**3. Install and Configure Git**](#3-install-and-configure-git) (7 videos)
+  - Use a Codespace for this course
+  - Install Git on Windows
+  - Install Git on Linux (PPT)
+  - Install Git on macOS
+  - Git GUI clients
+  - Optional: Install Visual Studio Code
+  - Configure Git
+- [**4. Push Your Code with Git**](#4-push-your-code-with-git) (10 videos)
+  - Set up a remote repository
+  - Fork the course repository
+  - Clone the remote repository
+  - Create a file and stage it
+  - Commit a file
+  - Push the file to the remote repository
+  - Pull changes from the remote repository
+  - Initialize a repository locally and sync it
+  - Challenge: Push your first code
+  - Solution: Push your first code
+- [**5. Make Changes to Files**](#5-make-changes-to-files) (12 videos)
+  - Git status
+  - Edit a file and view changes
+  - Delete files
+  - Rename files
+  - Working with folders
+  - Undo your changes
+  - View commit history
+  - Go back in Git history
+  - Revert a commit
+  - Make use of the GUI of Visual Studio Code
+  - Challenge: Make a change and revert
+  - Solution: Make a change and revert
+- [**6. Important Concepts in Git**](#6-important-concepts-in-git) (8 videos)
+  - Ignoring files
+  - The .git folder
+  - Create a branch  in your repository
+  - Create and merge a pull request
+  - Git commit messages
+  - Solving a merge conflict
+  - Challenge: Create a branch and a pull request
+  - Solution: Create a branch and a pull request
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started with Git
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980)
@@ -142,7 +190,7 @@ created: 2026-04-29
 
 ### 1. Why Do You Want to Use Git?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Git for version control
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980)
@@ -408,7 +456,7 @@ created: 2026-04-29
 
 ### 2. How Does Git Work?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Git locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980)
@@ -588,7 +636,7 @@ created: 2026-04-29
 
 ### 3. Install and Configure Git
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use a Codespace for this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980)
@@ -1017,7 +1065,7 @@ created: 2026-04-29
 
 ### 4. Push Your Code with Git
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up a remote repository
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980)
@@ -1559,7 +1607,7 @@ created: 2026-04-29
 
 ### 5. Make Changes to Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Git status
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-status?u=76281980)
@@ -2408,7 +2456,7 @@ created: 2026-04-29
 
 ### 6. Important Concepts in Git
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ignoring files
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/ignoring-files?u=76281980)
@@ -3027,7 +3075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980)

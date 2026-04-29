@@ -50,16 +50,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Constructing Query Source Data Sets]]** (5 videos)
-- **[[#2. Row Filters]]** (3 videos)
-- **[[#3. Grouping]]** (5 videos)
-- **[[#4. Ordering and Paging]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Course introduction
+  - Course agenda
+  - Tooling
+  - Introducing the demo database
+  - Using the code files
+- [**1. Constructing Query Source Data Sets**](#1-constructing-query-source-data-sets) (5 videos)
+  - Single data source queries
+  - Dual source query processing
+  - Joining multiple source data sets
+  - Challenge: Hybrid multi-table join
+  - Solution: Hybrid multi-table join
+- [**2. Row Filters**](#2-row-filters) (3 videos)
+  - Filtering source rows
+  - Missing information and ternary logic
+  - Dealing with ternary logic in SQL
+- [**3. Grouping**](#3-grouping) (5 videos)
+  - Grouping
+  - Dealing with NULLs and elimination duplicates
+  - Group filters
+  - Challenge: Filtering and grouped query
+  - Solution: Grouped query with Distinct
+- [**4. Ordering and Paging**](#4-ordering-and-paging) (3 videos)
+  - Presentation ordering in multitier architecture
+  - Ordering result sets
+  - Paging result sets
+- [**Conclusion**](#conclusion) (2 videos)
+  - Course review and takeaway
+  - Feedback and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-introduction?u=76281980)
@@ -300,7 +323,7 @@ created: 2026-04-29
 
 ### 1. Constructing Query Source Data Sets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Single data source queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/single-data-source-queries?u=76281980)
@@ -748,7 +771,7 @@ created: 2026-04-29
 
 ### 2. Row Filters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering source rows
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/filtering-source-rows?u=76281980)
@@ -1082,7 +1105,7 @@ created: 2026-04-29
 
 ### 3. Grouping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/grouping?u=76281980)
@@ -1602,7 +1625,7 @@ created: 2026-04-29
 
 ### 4. Ordering and Paging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Presentation ordering in multitier architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/presentation-ordering-in-multitier-architecture?u=76281980)
@@ -1882,7 +1905,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course review and takeaway
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/course-review-and-takeaway?u=76281980)

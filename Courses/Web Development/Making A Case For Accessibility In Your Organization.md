@@ -46,16 +46,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Beginning Your Accessibility Journey]]** (4 videos)
-- **[[#2. Building Momentum]]** (4 videos)
-- **[[#3. Innovating for Accessibility]]** (3 videos)
-- **[[#4. Developing Your Narrative]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building an accessibility program
+- [**1. Beginning Your Accessibility Journey**](#1-beginning-your-accessibility-journey) (4 videos)
+  - Focus on culture
+  - Develop your strategy
+  - Develop your accessibility maturity model
+  - Invest in tools and processes
+- [**2. Building Momentum**](#2-building-momentum) (4 videos)
+  - Create good habits and model behavior
+  - Test and validate toward accessibility standards
+  - Scale accessibility
+  - Improve the ecosystem
+- [**3. Innovating for Accessibility**](#3-innovating-for-accessibility) (3 videos)
+  - Build inclusive experiences
+  - Product development lifecycle
+  - Focus on usability
+- [**4. Developing Your Narrative**](#4-developing-your-narrative) (1 videos)
+  - Storytelling for your audience
+- [**Conclusion**](#conclusion) (1 videos)
+  - Action plan
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building an accessibility program
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/building-an-accessibility-program?u=76281980)
@@ -90,7 +104,7 @@ created: 2026-04-29
 
 ### 1. Beginning Your Accessibility Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Focus on culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/focus-on-culture?u=76281980)
@@ -370,7 +384,7 @@ created: 2026-04-29
 
 ### 2. Building Momentum
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create good habits and model behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/create-good-habits-and-model-behavior?u=76281980)
@@ -585,7 +599,7 @@ created: 2026-04-29
 
 ### 3. Innovating for Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build inclusive experiences
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/build-inclusive-experiences?u=76281980)
@@ -747,7 +761,7 @@ created: 2026-04-29
 
 ### 4. Developing Your Narrative
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Storytelling for your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/storytelling-for-your-audience?u=76281980)
@@ -832,7 +846,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/making-a-case-for-accessibility-in-your-organization/action-plan?u=76281980)

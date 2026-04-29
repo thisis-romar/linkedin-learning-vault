@@ -47,11 +47,12 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Quantile and Box-Whisker Plots]]** (1 videos)
+- [**1. Quantile and Box-Whisker Plots**](#1-quantile-and-box-whisker-plots) (1 videos)
+  - Quantile and box-whisker plots
 
 ### 1. Quantile and Box-Whisker Plots
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Quantile and box-whisker plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantile-and-box-whisker-plots-in-the-wolfram-language/quantile-and-box-whisker-plots?u=76281980)

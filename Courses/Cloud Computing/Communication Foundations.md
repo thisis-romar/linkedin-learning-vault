@@ -42,15 +42,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Four Communication Building Blocks]]** (4 videos)
-- **[[#2. Communication for Common Situations]]** (10 videos)
-- **[[#3. Communication in Difficult Situations]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Communication for career success
+- [**1. The Four Communication Building Blocks**](#1-the-four-communication-building-blocks) (4 videos)
+  - The four building blocks: People and perspective
+  - The four building blocks: Message
+  - The four building blocks: Context
+  - The four building blocks: Listening
+- [**2. Communication for Common Situations**](#2-communication-for-common-situations) (10 videos)
+  - When you give an update
+  - Tool kit: Giving an update
+  - When you attend meetings
+  - Tool kit: Meetings
+  - When you want to build rapport
+  - Tool kit: Building rapport
+  - When you communicate digitally
+  - Tool kit: Digital communication
+  - Pitching your ideas
+  - Tool kit: Pitching your ideas
+- [**3. Communication in Difficult Situations**](#3-communication-in-difficult-situations) (8 videos)
+  - When you are nervous
+  - Tool kit: Managing nervousness
+  - When you disagree with someone
+  - Tool kit: Managing disagreement
+  - When you are making an ask
+  - Tool kit: Making an ask
+  - When you are criticized or caught off guard
+  - Tool kit: Criticism
+- [**Conclusion**](#conclusion) (1 videos)
+  - Putting your communication skills into practice
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communication for career success
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/communication-for-career-success?u=76281980)
@@ -84,7 +108,7 @@ created: 2026-04-29
 
 ### 1. The Four Communication Building Blocks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The four building blocks: People and perspective
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-people-and-perspective?u=76281980)
@@ -375,7 +399,7 @@ created: 2026-04-29
 
 ### 2. Communication for Common Situations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When you give an update
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980)
@@ -1202,7 +1226,7 @@ created: 2026-04-29
 
 ### 3. Communication in Difficult Situations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When you are nervous
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-are-nervous?u=76281980)
@@ -1824,7 +1848,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting your communication skills into practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/putting-your-communication-skills-into-practice?u=76281980)

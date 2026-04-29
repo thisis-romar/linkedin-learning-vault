@@ -42,14 +42,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Four Question Framework]]** (4 videos)
-- **[[#2. STRIDE]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Develop secure products
+  - Why would you threat model?
+  - A simple approach to threat modeling
+- [**1. The Four Question Framework**](#1-the-four-question-framework) (4 videos)
+  - What are we working on?
+  - What can go wrong?
+  - What are we going to do about it?
+  - Did we do a good job?
+- [**2. STRIDE**](#2-stride) (8 videos)
+  - Spoofing a specific server
+  - Tampering with a file
+  - Interlude: Scope and timing
+  - Repudiating an order
+  - Information disclosure
+  - Denial of service
+  - Elevation of privilege
+  - Expansion of authority
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop secure products
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=76281980)
@@ -165,7 +181,7 @@ created: 2026-04-29
 
 ### 1. The Four Question Framework
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are we working on?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-working-on?u=76281980)
@@ -504,7 +520,7 @@ created: 2026-04-29
 
 ### 2. STRIDE
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spoofing a specific server
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980)
@@ -1112,7 +1128,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980)

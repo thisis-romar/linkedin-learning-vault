@@ -49,15 +49,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Crafting a Standout Personal Brand]]** (4 videos)
-- **[[#2. Managing Your Personal Brand with Impression Management]]** (5 videos)
-- **[[#3. Communicating Your Brand Online]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The truth about your career and personal branding
+- [**1. Crafting a Standout Personal Brand**](#1-crafting-a-standout-personal-brand) (4 videos)
+  - Securing your advantage with personal branding
+  - Making your brand authentically you
+  - Crafting a sticky personal brand story
+  - Creating an unforgettable brand statement
+- [**2. Managing Your Personal Brand with Impression Management**](#2-managing-your-personal-brand-with-impression-management) (5 videos)
+  - Putting your brand into action
+  - Putting your brand on management's radar
+  - Reinforcing your brand in every meeting
+  - Recognizing others to reinforce your brand
+  - Energizing others for a magnetic brand
+- [**3. Communicating Your Brand Online**](#3-communicating-your-brand-online) (3 videos)
+  - Crafting an intentional online brand
+  - Boosting your personal brand with LinkedIn
+  - Scaling your personal brand online
+- [**Conclusion**](#conclusion) (1 videos)
+  - Taking the first step for your brand
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The truth about your career and personal branding
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/the-truth-about-your-career-and-personal-branding?u=76281980)
@@ -86,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Crafting a Standout Personal Brand
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your advantage with personal branding
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980)
@@ -400,7 +414,7 @@ created: 2026-04-29
 
 ### 2. Managing Your Personal Brand with Impression Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting your brand into action
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-into-action?u=76281980)
@@ -797,7 +811,7 @@ created: 2026-04-29
 
 ### 3. Communicating Your Brand Online
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Crafting an intentional online brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-an-intentional-online-brand?u=76281980)
@@ -1089,7 +1103,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking the first step for your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980)

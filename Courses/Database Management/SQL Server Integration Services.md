@@ -47,19 +47,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Get Started with Integration Services]]** (4 videos)
-- **[[#2. SSIS Designer]]** (6 videos)
-- **[[#3. Control Flow Tasks]]** (8 videos)
-- **[[#4. Data Sources and Connections]]** (5 videos)
-- **[[#5. The Data Flow Task and Transformations]]** (8 videos)
-- **[[#6. Controlling Package Execution]]** (6 videos)
-- **[[#7. Deploy and Run SSIS Projects]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Integrate your data with SQL Server Integration Services (SSIS)
+  - What you should know
+  - Set up the example database
+- [**1. Get Started with Integration Services**](#1-get-started-with-integration-services) (4 videos)
+  - What is SSIS?
+  - Add SSIS to a SQL Server instance
+  - Connect to the SSIS catalog database
+  - Explore SSIS packages
+- [**2. SSIS Designer**](#2-ssis-designer) (6 videos)
+  - Install SQL Server Data Tools (SSDT)
+  - View SSIS solutions and projects
+  - Define control flow tasks
+  - Create a precedence constraint
+  - Create a sequence container
+  - Run a package
+- [**3. Control Flow Tasks**](#3-control-flow-tasks) (8 videos)
+  - Understanding tasks in control flow
+  - The Data Flow task
+  - The File System tasks
+  - Modify file attributes
+  - The Execute Package task
+  - The Send Mail task
+  - SQL Server tasks
+  - Maintenance tasks
+- [**4. Data Sources and Connections**](#4-data-sources-and-connections) (5 videos)
+  - Project level connections
+  - Convert package connections
+  - The Excel connection manager
+  - Connect to flat file data sources
+  - Additional connection managers
+- [**5. The Data Flow Task and Transformations**](#5-the-data-flow-task-and-transformations) (8 videos)
+  - Data flow components
+  - Extracting data from a source
+  - Understand transformations
+  - Character Map row transformation
+  - Conditional Split transformation
+  - Rowset transformations
+  - Loading data to a destination
+  - Prevent duplicate records
+- [**6. Controlling Package Execution**](#6-controlling-package-execution) (6 videos)
+  - Work with variables and scope
+  - Add execution parameters
+  - Change a variable’s value
+  - Group tasks in looping containers
+  - Event handlers
+  - Error handling in data flows
+- [**7. Deploy and Run SSIS Projects**](#7-deploy-and-run-ssis-projects) (3 videos)
+  - Deploy projects to SQL Server
+  - Run packages with T-SQL
+  - Schedule packages with SQL Server Agent
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate your data with SQL Server Integration Services (SSIS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/integrate-your-data-with-sql-server-integration-services-ssis?u=76281980)
@@ -200,7 +244,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Integration Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SSIS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/what-is-ssis?u=76281980)
@@ -549,7 +593,7 @@ created: 2026-04-29
 
 ### 2. SSIS Designer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install SQL Server Data Tools (SSDT)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/install-sql-server-data-tools-ssdt-22695053?u=76281980)
@@ -1212,7 +1256,7 @@ created: 2026-04-29
 
 ### 3. Control Flow Tasks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding tasks in control flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/understanding-tasks-in-control-flow?u=76281980)
@@ -2004,7 +2048,7 @@ created: 2026-04-29
 
 ### 4. Data Sources and Connections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project level connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/project-level-connections-22693129?u=76281980)
@@ -2457,7 +2501,7 @@ created: 2026-04-29
 
 ### 5. The Data Flow Task and Transformations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data flow components
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/data-flow-components?u=76281980)
@@ -3234,7 +3278,7 @@ created: 2026-04-29
 
 ### 6. Controlling Package Execution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with variables and scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/work-with-variables-and-scope?u=76281980)
@@ -3845,7 +3889,7 @@ created: 2026-04-29
 
 ### 7. Deploy and Run SSIS Projects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploy projects to SQL Server
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/deploy-projects-to-sql-server?u=76281980)
@@ -4161,7 +4205,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-integration-services-2/next-steps?u=76281980)

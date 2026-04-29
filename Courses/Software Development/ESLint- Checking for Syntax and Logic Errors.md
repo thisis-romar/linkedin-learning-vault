@@ -47,13 +47,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Checking for Syntax and Logic Errors]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Using ESLint to catch coding errors
+  - What you should know
+  - Using the exercise files for this course
+  - Using GitHub Codespaces with this course
+- [**1. Checking for Syntax and Logic Errors**](#1-checking-for-syntax-and-logic-errors) (8 videos)
+  - Understanding ESLint error rule types
+  - Flagging issues in functions
+  - Identifying problems in loops and conditionals
+  - Eliminating unfinished code
+  - Ensuring accurate values
+  - Calling out general logic errors
+  - Challenge
+  - Solution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using ESLint to catch coding errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-eslint-to-catch-coding-errors-25671666?u=76281980)
@@ -285,7 +298,7 @@ created: 2026-04-29
 
 ### 1. Checking for Syntax and Logic Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding ESLint error rule types
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/understanding-eslint-error-rule-types?u=76281980)
@@ -947,7 +960,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980)

@@ -48,17 +48,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Analyzing Loans, Payments, and Interest in Excel]]** (8 videos)
-- **[[#2. Calculating Depreciation with Excel Functions]]** (6 videos)
-- **[[#3. Determining Values and Rates of Return in Excel]]** (10 videos)
-- **[[#4. New Tools in Excel for MS365]]** (10 videos)
-- **[[#5. Combining Excel Functions Perform Financial Analysis]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Perform financial analysis in Excel
+  - What you should know
+  - Disclaimer
+- [**1. Analyzing Loans, Payments, and Interest in Excel**](#1-analyzing-loans-payments-and-interest-in-excel) (8 videos)
+  - PMT: Calculate a loan payment
+  - PPMT and IPMT: Calculate the principal and interest payments
+  - Splitting interest and principal payments
+  - Splitting interest and principal payments with dynamic arrays
+  - CUMPRINC and CUMIPMT: Cumulative principal and interest
+  - EFFECT and NOMINAL: Nominal and effective interest rates
+  - RATE: Discover the interest rate of an annuity
+  - NPER: Calculate the number of periods in an investment
+- [**2. Calculating Depreciation with Excel Functions**](#2-calculating-depreciation-with-excel-functions) (6 videos)
+  - SLN: Depreciation using the straight-line method
+  - DB: Calculate depreciation using the declining balance method
+  - DDB: Depreciation using the double-declining balance method
+  - SYD: Calculate depreciation for a specified period
+  - VDB: Declining balance depreciation for a partial period
+  - Comparing depreciation functions
+- [**3. Determining Values and Rates of Return in Excel**](#3-determining-values-and-rates-of-return-in-excel) (10 videos)
+  - FV: Future value of an investment
+  - FVSCHEDULE: Future value with variable returns
+  - Escalating with compounding interest or growth rates
+  - PV: Present value of an investment
+  - NPV: Net present value of an investment
+  - XNPV: Net present value given irregular inputs
+  - IRR: Internal rate of return
+  - XIRR: Internal rate of return for irregular cash flows
+  - MIRR: Internal rate of return for mixed cash flows
+  - RRI: The interest rate for the growth of an investment
+- [**4. New Tools in Excel for MS365**](#4-new-tools-in-excel-for-ms365) (10 videos)
+  - STOCKHISTORY: Get historical stock prices
+  - Live stock prices with Stocks data types
+  - Calculate exchange rates with the Currency data type
+  - FIELDVALUE: Get field data
+  - STOCKHISTORY with data types
+  - Charting STOCKHISTORY with data types
+  - Introduction to LAMBDA functions with BYCOL and BYROW
+  - Using BYCOL with multiple ranges
+  - Applying formatting to dynamic ranges
+  - Building a cumulative sum with SCAN
+- [**5. Combining Excel Functions Perform Financial Analysis**](#5-combining-excel-functions-perform-financial-analysis) (11 videos)
+  - TODAY, EOMONTH, EDATE, and timing flags
+  - Calculate pro-rata rental costs with date functions
+  - IF: Building logical comparisons
+  - Calculating the payback period
+  - Using RATE or RRI for compound annual growth rate (CAGR)
+  - Creating a debt schedule
+  - Using SLN and IF to calculate depreciation
+  - Creating a depreciation schedule
+  - Using dynamic arrays to create a depreciation waterfall
+  - Calcuating weighted average cost of capital (WACC)
+  - Using NPV to calculate a discounted cash flow (DCF)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Great resources for learning Excel
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Perform financial analysis in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980)
@@ -136,7 +185,7 @@ created: 2026-04-29
 
 ### 1. Analyzing Loans, Payments, and Interest in Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PMT: Calculate a loan payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980)
@@ -664,7 +713,7 @@ created: 2026-04-29
 
 ### 2. Calculating Depreciation with Excel Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SLN: Depreciation using the straight-line method
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/sln-depreciation-using-the-straight-line-method?u=76281980)
@@ -993,7 +1042,7 @@ created: 2026-04-29
 
 ### 3. Determining Values and Rates of Return in Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### FV: Future value of an investment
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fv-future-value-of-an-investment?u=76281980)
@@ -1372,7 +1421,7 @@ created: 2026-04-29
 
 ### 4. New Tools in Excel for MS365
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### STOCKHISTORY: Get historical stock prices
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980)
@@ -2004,7 +2053,7 @@ created: 2026-04-29
 
 ### 5. Combining Excel Functions Perform Financial Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### TODAY, EOMONTH, EDATE, and timing flags
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980)
@@ -2997,7 +3046,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Great resources for learning Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980)

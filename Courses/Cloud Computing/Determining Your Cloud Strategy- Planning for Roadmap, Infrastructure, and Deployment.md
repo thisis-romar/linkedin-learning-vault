@@ -58,17 +58,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Starting the Journey with the Cloud]]** (5 videos)
-- **[[#2. Identifying a Proof of Concept (POC) Project]]** (2 videos)
-- **[[#3. Creating a Center of Excellence (COE)]]** (3 videos)
-- **[[#4. Leveraging the Partner Ecosystem]]** (2 videos)
-- **[[#5. Designing for Emerging Tech Use Cases]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How to determine your cloud strategy
+- [**1. Starting the Journey with the Cloud**](#1-starting-the-journey-with-the-cloud) (5 videos)
+  - Defining the need to move to the cloud
+  - Understanding cloud deployment models
+  - Evaluating sustainability
+  - Educating your stakeholders
+  - Creating a future roadmap
+- [**2. Identifying a Proof of Concept (POC) Project**](#2-identifying-a-proof-of-concept-poc-project) (2 videos)
+  - Identifying the right candidate for a POC
+  - Building your POC team
+- [**3. Creating a Center of Excellence (COE)**](#3-creating-a-center-of-excellence-coe) (3 videos)
+  - Defining the roles and responsibilities of the COE
+  - Building the COE team
+  - Enabling the COE
+- [**4. Leveraging the Partner Ecosystem**](#4-leveraging-the-partner-ecosystem) (2 videos)
+  - Finding the right partner
+  - Evaluating the need for a managed service provider (MSP)
+- [**5. Designing for Emerging Tech Use Cases**](#5-designing-for-emerging-tech-use-cases) (3 videos)
+  - Designing for GenAI
+  - Designing for 6G
+  - Designing for natural language processing (NLP)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine your cloud strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/how-to-determine-your-cloud-strategy?u=76281980)
@@ -100,7 +117,7 @@ created: 2026-04-29
 
 ### 1. Starting the Journey with the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the need to move to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-need-to-move-to-the-cloud?u=76281980)
@@ -332,7 +349,7 @@ created: 2026-04-29
 
 ### 2. Identifying a Proof of Concept (POC) Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the right candidate for a POC
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/identifying-the-right-candidate-for-poc?u=76281980)
@@ -412,7 +429,7 @@ created: 2026-04-29
 
 ### 3. Creating a Center of Excellence (COE)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the roles and responsibilities of the COE
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/defining-the-roles-and-responsibilities-of-the-coe?u=76281980)
@@ -552,7 +569,7 @@ created: 2026-04-29
 
 ### 4. Leveraging the Partner Ecosystem
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding the right partner
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/finding-the-right-partner?u=76281980)
@@ -628,7 +645,7 @@ created: 2026-04-29
 
 ### 5. Designing for Emerging Tech Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/designing-for-gen-ai?u=76281980)
@@ -757,7 +774,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/determining-your-cloud-strategy-planning-for-roadmap-infrastructure-and-deployment/next-steps?u=76281980)

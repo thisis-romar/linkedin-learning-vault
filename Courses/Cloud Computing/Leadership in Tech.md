@@ -47,12 +47,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Promo]]** (1 videos)
-- **[[#1. Tech Leader Interviews]]** (14 videos)
+- [**Promo**](#promo) (1 videos)
+  - Leadership in tech: Promo
+- [**1. Tech Leader Interviews**](#1-tech-leader-interviews) (14 videos)
+  - Awareness, Synthesis, and Inspiration: Jeff Weiner
+  - Building diverse teams: Mohak Shroff
+  - Authentic leadership: Kathryn Koehler
+  - Beyond coding careers in tech: Igor Perisic
+  - Work and life balance: Tanya Staples
+  - Leadership, execution, and craftsmanship: Erran Berger
+  - Feedback and career conversations: Fiona Trayler
+  - Growth mindset: Chris Pruett
+  - Career change best foot forward: Jennifer Shappley
+  - Public speaking for leaders: Tim Fortescue
+  - Paying it forward: Erica Lockheimer
+  - New leader or new team: Ya Xu
+  - Awareness and feedback: Jeff Weiner
+  - New hire career conversations: Erran Berger
 
 ### Promo
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leadership in tech: Promo
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980)
@@ -78,7 +93,7 @@ created: 2026-04-29
 
 ### 1. Tech Leader Interviews
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Awareness, Synthesis, and Inspiration: Jeff Weiner
 > [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980)

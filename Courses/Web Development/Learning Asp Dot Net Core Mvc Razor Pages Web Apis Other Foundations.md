@@ -48,19 +48,64 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started with ASP.NET Core]]** (5 videos)
-- **[[#2. Creating Razor Pages Applications]]** (8 videos)
-- **[[#3. Creating MVC Applications]]** (6 videos)
-- **[[#4. Creating Web APIs]]** (6 videos)
-- **[[#5. Creating gRPC APIs]]** (7 videos)
-- **[[#6. Creating SignalR Applications]]** (5 videos)
-- **[[#7. Creating Blazor Applications]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why you should learn ASP.NET Core
+  - What you need to know
+- [**1. Getting Started with ASP.NET Core**](#1-getting-started-with-aspnet-core) (5 videos)
+  - Understanding the capabilities of ASP.NET Core
+  - ASP.NET Core development tools
+  - Create and run an ASP.NET Core application
+  - Configuring dependency injection
+  - Using middleware
+- [**2. Creating Razor Pages Applications**](#2-creating-razor-pages-applications) (8 videos)
+  - Understanding Razor Pages
+  - Using Razor syntax
+  - Implementing page layouts
+  - Routing to pages
+  - Creating links with tag helpers
+  - Binding to data
+  - Challenge: Create a Razor Pages application
+  - Solution: Create a Razor Pages application
+- [**3. Creating MVC Applications**](#3-creating-mvc-applications) (6 videos)
+  - Understanding Model-View-Controller applications
+  - Handling requests with controllers
+  - Working with MVC models
+  - Rendering MVC views
+  - Challenge: Create a MVC application
+  - Solution: Create a MVC application
+- [**4. Creating Web APIs**](#4-creating-web-apis) (6 videos)
+  - Understanding controller-based APIs and minimal APIs
+  - Creating controller-based Web APIs
+  - Creating minimal Web APIs
+  - Using Swagger to test Web APIs
+  - Challenge: Create a Web API
+  - Solution: Create a Web API
+- [**5. Creating gRPC APIs**](#5-creating-grpc-apis) (7 videos)
+  - Understanding gRPC APIs
+  - Creating a .proto file
+  - Generating C# assets
+  - Implementing service methods
+  - Calling gRPC services
+  - Challenge: Create a gRPC service
+  - Solution: Create a gRPC service
+- [**6. Creating SignalR Applications**](#6-creating-signalr-applications) (5 videos)
+  - Understanding SignalR applications
+  - Creating a server hub
+  - Creating a JavaScript client
+  - Challenge: Create a SignalR application
+  - Solution: Create a SignalR application
+- [**7. Creating Blazor Applications**](#7-creating-blazor-applications) (5 videos)
+  - Understanding Blazor
+  - Developing a Blazor application
+  - Creating a standalone Blazor WebAssembly application
+  - Challenge: Create a Blazor application
+  - Solution: Create a Blazor application
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps on your learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why you should learn ASP.NET Core
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/why-you-should-learn-asp-dot-net-core?u=76281980)
@@ -123,7 +168,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with ASP.NET Core
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the capabilities of ASP.NET Core
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980)
@@ -659,7 +704,7 @@ created: 2026-04-29
 
 ### 2. Creating Razor Pages Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Razor Pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980)
@@ -1657,7 +1702,7 @@ created: 2026-04-29
 
 ### 3. Creating MVC Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Model-View-Controller applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-model-view-controller-applications?u=76281980)
@@ -2260,7 +2305,7 @@ created: 2026-04-29
 
 ### 4. Creating Web APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding controller-based APIs and minimal APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980)
@@ -2925,7 +2970,7 @@ created: 2026-04-29
 
 ### 5. Creating gRPC APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding gRPC APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980)
@@ -3589,7 +3634,7 @@ created: 2026-04-29
 
 ### 6. Creating SignalR Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding SignalR applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980)
@@ -4078,7 +4123,7 @@ created: 2026-04-29
 
 ### 7. Creating Blazor Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Blazor
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980)
@@ -4589,7 +4634,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps on your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980)

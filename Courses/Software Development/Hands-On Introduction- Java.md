@@ -47,16 +47,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Model Objects]]** (3 videos)
-- **[[#2. External Data Sources]]** (3 videos)
-- **[[#3. Utility Classes]]** (3 videos)
-- **[[#4. State Management]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Getting hands on with Java
+  - What you should know
+  - Using GitHub Codespaces with this course
+  - Project setup
+- [**1. Model Objects**](#1-model-objects) (3 videos)
+  - Design a solution
+  - Create customer
+  - Create account
+- [**2. External Data Sources**](#2-external-data-sources) (3 videos)
+  - Connect to data source
+  - Construct customer from data source
+  - Construct account from data source
+- [**3. Utility Classes**](#3-utility-classes) (3 videos)
+  - Create Authenticator
+  - Create menu
+  - Display menu options
+- [**4. State Management**](#4-state-management) (3 videos)
+  - Deposit
+  - Update data source
+  - Withdraw
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with Java and project-based learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting hands on with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980)
@@ -330,7 +347,7 @@ created: 2026-04-29
 
 ### 1. Model Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design a solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980)
@@ -553,7 +570,7 @@ created: 2026-04-29
 
 ### 2. External Data Sources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connect to data source
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980)
@@ -908,7 +925,7 @@ created: 2026-04-29
 
 ### 3. Utility Classes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create Authenticator
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980)
@@ -1296,7 +1313,7 @@ created: 2026-04-29
 
 ### 4. State Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deposit
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980)
@@ -1594,7 +1611,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Java and project-based learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980)

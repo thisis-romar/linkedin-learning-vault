@@ -54,16 +54,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Cross-Functional Collaboration]]** (8 videos)
-- **[[#2. Software Delivery Is a Team Sport]]** (6 videos)
-- **[[#3.  Develop Emotional Intelligence]]** (6 videos)
-- **[[#4. Be Heard with Compelling Communication]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Leveling up your software development career
+- [**1. Cross-Functional Collaboration**](#1-cross-functional-collaboration) (8 videos)
+  - Why form cross-functional teams?
+  - Collaborating with product management
+  - Collaborating with UI/UX design
+  - Collaborating with architecture
+  - Collaborating with QA
+  - Collaborating with operations
+  - Challenge: Cross-functional teammates
+  - Solution: Cross-functional teammates
+- [**2. Software Delivery Is a Team Sport**](#2-software-delivery-is-a-team-sport) (6 videos)
+  - Psychological safety and risk-taking
+  - A knowledge-sharing culture
+  - Building trust
+  - Giving and receiving feedback
+  - Challenge: Are you a true team player?
+  - Solution: Are you a true team player?
+- [**3.  Develop Emotional Intelligence**](#3-develop-emotional-intelligence) (6 videos)
+  - Why EQ is a critical skill?
+  - Handling conflict effectively
+  - Coping with stress and burnout
+  - Demonstrating empathy
+  - Overcoming self-doubt
+  - Challenge: Developing your EQ skills
+- [**4. Be Heard with Compelling Communication**](#4-be-heard-with-compelling-communication) (6 videos)
+  - Communicate proactively
+  - Influence through clarity
+  - Express curiosity
+  - Choosing your communication method
+  - Challenge: Effective communication
+  - Solution: Effective communication
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveling up your software development career
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/leveling-up-your-software-development-career?u=76281980)
@@ -88,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Cross-Functional Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why form cross-functional teams?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/why-form-cross-functional-teams?u=76281980)
@@ -480,7 +508,7 @@ created: 2026-04-29
 
 ### 2. Software Delivery Is a Team Sport
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Psychological safety and risk-taking
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/psychological-safety-and-risk-taking?u=76281980)
@@ -802,7 +830,7 @@ created: 2026-04-29
 
 ### 3.  Develop Emotional Intelligence
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why EQ is a critical skill?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/why-eq-is-a-critical-skill?u=76281980)
@@ -1113,7 +1141,7 @@ created: 2026-04-29
 
 ### 4. Be Heard with Compelling Communication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicate proactively
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/communicate-proactively?u=76281980)
@@ -1380,7 +1408,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/accelerate-your-developer-career/next-steps?u=76281980)

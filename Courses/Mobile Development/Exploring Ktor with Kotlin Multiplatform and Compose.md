@@ -48,19 +48,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started with Ktor Server]]** (6 videos)
-- **[[#2. Data Storage and Caching]]** (6 videos)
-- **[[#3. Advanced API Features]]** (6 videos)
-- **[[#4. Kotlin Multiplatform Foundations]]** (5 videos)
-- **[[#5. Shared Network Layer]]** (5 videos)
-- **[[#6. Compose Multiplatform UI]]** (6 videos)
-- **[[#7. iOS Integration]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Explore Ktor with Kotlin Multiplatform and Compose Multiplatform
+- [**1. Getting Started with Ktor Server**](#1-getting-started-with-ktor-server) (6 videos)
+  - Set up Kotlin Multiplatform (KMP) projects with a Ktor server
+  - Essential Ktor plugins
+  - NASA Astronomy Picture of the Day (APOD) API integration
+  - APOD API endpoints with validation
+  - Challenge: Enhanced date validation
+  - Solution: Enhanced date validation
+- [**2. Data Storage and Caching**](#2-data-storage-and-caching) (6 videos)
+  - SQLite setup with Exposed object-relational mapping (ORM)
+  - Data access layer implementation
+  - Caching layer integration
+  - Background jobs and scheduling
+  - Challenge: Log each cached APOD
+  - Solution: Log each cached APOD
+- [**3. Advanced API Features**](#3-advanced-api-features) (6 videos)
+  - Enhanced error handling and status pages
+  - Advanced routing and request processing
+  - Performance monitoring and optimization
+  - API documentation and testing
+  - Challenge: Date range filtering
+  - Solution: Date range filtering
+- [**4. Kotlin Multiplatform Foundations**](#4-kotlin-multiplatform-foundations) (5 videos)
+  - KMP project architecture
+  - Shared data models and constants
+  - Dependency injection setup
+  - Challenge: Platform-specific logging
+  - Solution: Platform-specific logging
+- [**5. Shared Network Layer**](#5-shared-network-layer) (5 videos)
+  - Ktor client setup
+  - Repository pattern with shared code
+  - Shared business logic
+  - Challenge: Repository error handling
+  - Solution: Repository error handling
+- [**6. Compose Multiplatform UI**](#6-compose-multiplatform-ui) (6 videos)
+  - Compose UI architecture
+  - APOD display screens
+  - Client integration
+  - Use cases and clean architecture
+  - Challenge: Complete the FindScreen navigation
+  - Solution: Complete the FindScreen navigation
+- [**7. iOS Integration**](#7-ios-integration) (5 videos)
+  - Understanding iOS generation
+  - Xcode project configuration
+  - Running on iOS simulator
+  - Challenge: Cross-platform verification
+  - Solution: Cross-platform verification
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and course summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore Ktor with Kotlin Multiplatform and Compose Multiplatform
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/exploring-ktor-with-kotlin-multiplatform-and-compose?u=76281980)
@@ -86,7 +127,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Ktor Server
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up Kotlin Multiplatform (KMP) projects with a Ktor server
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980)
@@ -515,7 +556,7 @@ created: 2026-04-29
 
 ### 2. Data Storage and Caching
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SQLite setup with Exposed object-relational mapping (ORM)
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980)
@@ -861,7 +902,7 @@ created: 2026-04-29
 
 ### 3. Advanced API Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enhanced error handling and status pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980)
@@ -1192,7 +1233,7 @@ created: 2026-04-29
 
 ### 4. Kotlin Multiplatform Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### KMP project architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980)
@@ -1474,7 +1515,7 @@ created: 2026-04-29
 
 ### 5. Shared Network Layer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ktor client setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980)
@@ -1763,7 +1804,7 @@ created: 2026-04-29
 
 ### 6. Compose Multiplatform UI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Compose UI architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980)
@@ -2023,7 +2064,7 @@ created: 2026-04-29
 
 ### 7. iOS Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding iOS generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980)
@@ -2278,7 +2319,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980)

@@ -48,18 +48,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Technical Repudiation]]** (2 videos)
-- **[[#2. Fraud]]** (3 videos)
-- **[[#3. Identity Theft]]** (2 videos)
-- **[[#4. Attacks on Logs]]** (2 videos)
-- **[[#5. Repudiation in Specific Technologies]]** (3 videos)
-- **[[#6. Defenses]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - The threat of repudiation
+  - Four-question framework
+  - Repudiation as part of STRIDE
+- [**1. Technical Repudiation**](#1-technical-repudiation) (2 videos)
+  - Message repudiation
+  - Operational repudiation
+- [**2. Fraud**](#2-fraud) (3 videos)
+  - Buyers and sellers
+  - Intermediaries
+  - Account takeover
+- [**3. Identity Theft**](#3-identity-theft) (2 videos)
+  - Identity theft and repudiation
+  - Catfishing, deepfakes, and voice cloning
+- [**4. Attacks on Logs**](#4-attacks-on-logs) (2 videos)
+  - Attacks on logs
+  - Attacks via logs and response systems
+- [**5. Repudiation in Specific Technologies**](#5-repudiation-in-specific-technologies) (3 videos)
+  - Cloud
+  - AI and machine learning
+  - Crypto and blockchain
+- [**6. Defenses**](#6-defenses) (4 videos)
+  - Cryptographic defenses
+  - Logs
+  - Log analysis
+  - Anti-fraud
+- [**Conclusion**](#conclusion) (1 videos)
+  - Secure by design
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The threat of repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/the-threat-of-repudiation?u=76281980)
@@ -173,7 +193,7 @@ created: 2026-04-29
 
 ### 1. Technical Repudiation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Message repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/message-repudiation?u=76281980)
@@ -243,7 +263,7 @@ created: 2026-04-29
 
 ### 2. Fraud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Buyers and sellers
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/buyers-and-sellers?u=76281980)
@@ -367,7 +387,7 @@ created: 2026-04-29
 
 ### 3. Identity Theft
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identity theft and repudiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/identity-theft-and-repudiation?u=76281980)
@@ -439,7 +459,7 @@ created: 2026-04-29
 
 ### 4. Attacks on Logs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Attacks on logs
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-on-logs?u=76281980)
@@ -507,7 +527,7 @@ created: 2026-04-29
 
 ### 5. Repudiation in Specific Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cloud?u=76281980)
@@ -608,7 +628,7 @@ created: 2026-04-29
 
 ### 6. Defenses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptographic defenses
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980)
@@ -819,7 +839,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure by design
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980)

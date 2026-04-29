@@ -46,17 +46,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Pillars of Ecommerce]]** (4 videos)
-- **[[#2. Niche Marketing in Ecommerce]]** (4 videos)
-- **[[#3. Free Traffic for Ecommerce]]** (5 videos)
-- **[[#4. Paid Traffic for Ecommerce]]** (4 videos)
-- **[[#5. Increasing Conversions for Ecommerce]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Unlocking key principles and strategies of ecommerce marketing
+- [**1. The Pillars of Ecommerce**](#1-the-pillars-of-ecommerce) (4 videos)
+  - Ecommerce customer research
+  - Ecommerce product research
+  - Ecommerce platform breakdown
+  - Building a profitable ecommerce website
+- [**2. Niche Marketing in Ecommerce**](#2-niche-marketing-in-ecommerce) (4 videos)
+  - The customer journey in ecommerce
+  - Researching your market for ecommerce
+  - Articulating your unique selling point (USP)
+  - Sales copy for successful ecommerce
+- [**3. Free Traffic for Ecommerce**](#3-free-traffic-for-ecommerce) (5 videos)
+  - Navigating free traffic in ecommerce
+  - SEO for ecommerce websites
+  - Building brand awareness on social media
+  - YouTube marketing for ecommerce
+  - Blogging for ecommerce
+- [**4. Paid Traffic for Ecommerce**](#4-paid-traffic-for-ecommerce) (4 videos)
+  - Driving paid traffic for ecommerce
+  - Paid traffic sources
+  - Influencer marketing for ecommerce
+  - Attracting affiliates to your ecommerce store
+- [**5. Increasing Conversions for Ecommerce**](#5-increasing-conversions-for-ecommerce) (3 videos)
+  - Website conversions in ecommerce
+  - Ecommerce retargeting
+  - Email marketing for ecommerce
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your ecommerce learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlocking key principles and strategies of ecommerce marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/unlocking-key-principles-and-strategies-of-ecommerce-marketing?u=76281980)
@@ -88,7 +110,7 @@ created: 2026-04-29
 
 ### 1. The Pillars of Ecommerce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ecommerce customer research
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/ecommerce-customer-research?u=76281980)
@@ -405,7 +427,7 @@ created: 2026-04-29
 
 ### 2. Niche Marketing in Ecommerce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The customer journey in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/the-customer-journey-in-ecommerce?u=76281980)
@@ -676,7 +698,7 @@ created: 2026-04-29
 
 ### 3. Free Traffic for Ecommerce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating free traffic in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/navigating-free-traffic-in-ecommerce?u=76281980)
@@ -1032,7 +1054,7 @@ created: 2026-04-29
 
 ### 4. Paid Traffic for Ecommerce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Driving paid traffic for ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/driving-paid-traffic-for-ecommerce?u=76281980)
@@ -1277,7 +1299,7 @@ created: 2026-04-29
 
 ### 5. Increasing Conversions for Ecommerce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Website conversions in ecommerce
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/website-conversions-in-ecommerce?u=76281980)
@@ -1407,7 +1429,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your ecommerce learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-ecommerce-14401600/continuing-your-ecommerce-learning?u=76281980)

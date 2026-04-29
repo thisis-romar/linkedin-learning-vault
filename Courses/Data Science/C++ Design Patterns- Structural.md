@@ -52,19 +52,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Adapter]]** (6 videos)
-- **[[#2. The Bridge]]** (5 videos)
-- **[[#3. The Composite]]** (5 videos)
-- **[[#4. The Decorator]]** (5 videos)
-- **[[#5. The Façade]]** (5 videos)
-- **[[#6. The Flyweight]]** (4 videos)
-- **[[#7. The Proxy]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Structural design patterns in C++
+- [**1. The Adapter**](#1-the-adapter) (6 videos)
+  - Overview
+  - When should you use the Adapter pattern?
+  - Implementing an object adapter
+  - Implementing a class adapter
+  - Challenge: Refactor using the Adapter pattern
+  - Solution: Refactor using the Adapter pattern
+- [**2. The Bridge**](#2-the-bridge) (5 videos)
+  - Overview
+  - Exploding class hierarchies
+  - The Bridge pattern in action
+  - Challenge: Enhancing a design using the Bridge pattern
+  - Solution: Enhancing a design using the Bridge pattern
+- [**3. The Composite**](#3-the-composite) (5 videos)
+  - Overview
+  - Implementing a hierarchical structure
+  - Redesigning with the Composite pattern
+  - Challenge: Drawing shapes
+  - Solution: Drawing shapes
+- [**4. The Decorator**](#4-the-decorator) (5 videos)
+  - Overview
+  - Computer shop demo using inheritance
+  - Computer shop demo using the Decorator design pattern
+  - Challenge: Pizza toppings
+  - Solution: Pizza toppings
+- [**5. The Façade**](#5-the-faade) (5 videos)
+  - Overview
+  - Complex interface demo
+  - Applying the Facade design pattern
+  - Challenge: Hide complexity with a facade
+  - Solution: Hide complexity with a facade
+- [**6. The Flyweight**](#6-the-flyweight) (4 videos)
+  - Overview
+  - Introducing sprites
+  - Reducing memory usage: Part 1
+  - Reducing memory usage: Part 2
+- [**7. The Proxy**](#7-the-proxy) (5 videos)
+  - Overview
+  - What problem does the proxy solve?
+  - The virtual proxy
+  - Challenge: Implement a protective proxy
+  - Solution: Implement a protective proxy
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structural design patterns in C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/structural-design-patterns-in-c-plus-plus?u=76281980)
@@ -90,7 +127,7 @@ created: 2026-04-29
 
 ### 1. The Adapter
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22182030?u=76281980)
@@ -469,7 +506,7 @@ created: 2026-04-29
 
 ### 2. The Bridge
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181026?u=76281980)
@@ -754,7 +791,7 @@ created: 2026-04-29
 
 ### 3. The Composite
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22180031?u=76281980)
@@ -1096,7 +1133,7 @@ created: 2026-04-29
 
 ### 4. The Decorator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22181031?u=76281980)
@@ -1371,7 +1408,7 @@ created: 2026-04-29
 
 ### 5. The Façade
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview?u=76281980)
@@ -1658,7 +1695,7 @@ created: 2026-04-29
 
 ### 6. The Flyweight
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22184026?u=76281980)
@@ -1984,7 +2021,7 @@ created: 2026-04-29
 
 ### 7. The Proxy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/overview-22185033?u=76281980)
@@ -2320,7 +2357,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-design-patterns-structural-22183029/next-steps?u=76281980)

@@ -48,15 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Basics]]** (7 videos)
-- **[[#2. Working with Data]]** (6 videos)
-- **[[#3. Practical Python-in-Excel Examples]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Two great technologies together at last
+  - What you should know
+  - Getting set up
+- [**1. The Basics**](#1-the-basics) (7 videos)
+  - A simple example
+  - Python vs. Excel data types
+  - The xl() function
+  - Understanding row-order execution
+  - Debugging
+  - Challenge: Basics
+  - Solution: Basics
+- [**2. Working with Data**](#2-working-with-data) (6 videos)
+  - Introduction to DataFrames
+  - Exploring DataFrame content
+  - Manipulating DataFrames
+  - Interoperating with Python
+  - Challenge: DataFrames
+  - Solution: DataFrames
+- [**3. Practical Python-in-Excel Examples**](#3-practical-python-in-excel-examples) (5 videos)
+  - Fixing dates with dateutil
+  - Generate a random sequence
+  - Scatter plot with Seaborn
+  - Create a Gantt chart
+  - Extract data with regular expressions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Two great technologies together at last
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/two-great-technologies-together-at-last?u=76281980)
@@ -174,7 +196,7 @@ created: 2026-04-29
 
 ### 1. The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A simple example
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/a-simple-example?u=76281980)
@@ -925,7 +947,7 @@ created: 2026-04-29
 
 ### 2. Working with Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/introduction-to-dataframes?u=76281980)
@@ -1651,7 +1673,7 @@ created: 2026-04-29
 
 ### 3. Practical Python-in-Excel Examples
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fixing dates with dateutil
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/fixing-dates-with-dateutil?u=76281980)
@@ -2320,7 +2342,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-in-excel-getting-started-with-data-analysis/next-steps?u=76281980)

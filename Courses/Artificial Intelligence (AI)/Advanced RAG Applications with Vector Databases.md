@@ -63,15 +63,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Optimizing RAG]]** (15 videos)
-- **[[#2. Image Search with Vector Databases]]** (7 videos)
-- **[[#3. Multimodal RAG with Vector Databases]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - RAG with vector databases: Advanced strategies for AI optimization
+  - What you should know
+  - Setting up your exercise files
+- [**1. Optimizing RAG**](#1-optimizing-rag) (15 videos)
+  - Introduction to preprocessing for RAG
+  - Chunking considerations
+  - Chunking examples
+  - Introduction to embeddings
+  - Embedding examples
+  - Metadata
+  - Demo: Chunking
+  - Demo: Metadata
+  - Demo: Embed and store
+  - Demo: Querying
+  - Demo: Adding the LLM
+  - Challenge: Cite your document sources
+  - Solution: Cite your document sources
+  - Challenge: Change the chunk size
+  - Solution: Change the chunk size
+- [**2. Image Search with Vector Databases**](#2-image-search-with-vector-databases) (7 videos)
+  - Introduction to vector embeddings for images
+  - Vision models 101
+  - Demo: Getting semantic vectors
+  - Demo: Storing image vectors
+  - Demo: Comparing images semantically
+  - Challenge: Find the dog most similar to a cat
+  - Solution: Find the dog most similar to a cat
+- [**3. Multimodal RAG with Vector Databases**](#3-multimodal-rag-with-vector-databases) (7 videos)
+  - Introduction to the types of multimodality
+  - Ways to do multimodal RAG
+  - Introduction to multimodal embedding models
+  - Demo: Embedding and storing data
+  - Demo: Query images with text
+  - Challenge: Find anomalies in your embeddings
+  - Solution: Find anomalies in your embeddings
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### RAG with vector databases: Advanced strategies for AI optimization
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/rag-with-vector-databases-advanced-strategies-for-ai-optimization?u=76281980)
@@ -217,7 +250,7 @@ created: 2026-04-29
 
 ### 1. Optimizing RAG
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to preprocessing for RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980)
@@ -1190,7 +1223,7 @@ created: 2026-04-29
 
 ### 2. Image Search with Vector Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to vector embeddings for images
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980)
@@ -1483,7 +1516,7 @@ created: 2026-04-29
 
 ### 3. Multimodal RAG with Vector Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the types of multimodality
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-types-of-multimodality?u=76281980)
@@ -1869,7 +1902,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/next-steps?u=76281980)

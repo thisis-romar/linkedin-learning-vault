@@ -48,15 +48,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Build Rapport over the Phone]]** (5 videos)
-- **[[#2. Exceed Expectations over the Phone]]** (4 videos)
-- **[[#3. Solve Problems over the Phone]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Phone service still matters
+  - Understand the phone's unique challenges
+- [**1. Build Rapport over the Phone**](#1-build-rapport-over-the-phone) (5 videos)
+  - Develop the perfect phone greeting
+  - Create personal connections
+  - How to fill dead air
+  - Manage holds and transfers
+  - Control the call with friendliness
+- [**2. Exceed Expectations over the Phone**](#2-exceed-expectations-over-the-phone) (4 videos)
+  - Tune out distractions
+  - Listen over the phone
+  - Use advanced communication techniques
+  - Deliver moments of "wow"
+- [**3. Solve Problems over the Phone**](#3-solve-problems-over-the-phone) (4 videos)
+  - How to express empathy
+  - De-escalate angry calls
+  - Friendly follow-up
+  - Stay focused while you work
+- [**Conclusion**](#conclusion) (1 videos)
+  - Create your action plan
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Phone service still matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/phone-service-still-matters?u=76281980)
@@ -235,7 +251,7 @@ created: 2026-04-29
 
 ### 1. Build Rapport over the Phone
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Develop the perfect phone greeting
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/develop-the-perfect-phone-greeting-2?u=76281980)
@@ -699,7 +715,7 @@ created: 2026-04-29
 
 ### 2. Exceed Expectations over the Phone
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tune out distractions
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/tune-out-distractions-2?u=76281980)
@@ -1079,7 +1095,7 @@ created: 2026-04-29
 
 ### 3. Solve Problems over the Phone
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to express empathy
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/how-to-express-empathy-2?u=76281980)
@@ -1463,7 +1479,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your action plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/phone-based-customer-service/create-your-action-plan?u=76281980)

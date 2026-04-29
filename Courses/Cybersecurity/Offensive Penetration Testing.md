@@ -46,22 +46,101 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Setting the Foundation for Success]]** (4 videos)
-- **[[#2. Kali Linux Basics]]** (7 videos)
-- **[[#3. Understanding Network Protocols]]** (17 videos)
-- **[[#4. Web Application Penetration Testing]]** (15 videos)
-- **[[#5. Introduction to Buffer Overflow]]** (7 videos)
-- **[[#6. Public Exploits]]** (7 videos)
-- **[[#7. Getting a Shell, Now What?]]** (4 videos)
-- **[[#8. Privilege Escalation]]** (6 videos)
-- **[[#9. Password Cracking and Brute-Forcing Logins]]** (6 videos)
-- **[[#10. Putting It All Together]]** (3 videos)
-- **[[#11. Developing the Hacker Mindset]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Offensive penetration testing course overview
+- [**1. Setting the Foundation for Success**](#1-setting-the-foundation-for-success) (4 videos)
+  - Understanding the penetration test report
+  - Penetration test report demo
+  - Note-taking and mind mapping
+  - Finding resources to prepare for the offensive penetration testing
+- [**2. Kali Linux Basics**](#2-kali-linux-basics) (7 videos)
+  - Setting up the Kali Linux VM
+  - Overview of the tools in Kali Linux
+  - Understanding the command line
+  - Who, what, when, where, and how of the Linux command line
+  - Windows command lab
+  - Command line lab
+  - Command line lab walkthrough
+- [**3. Understanding Network Protocols**](#3-understanding-network-protocols) (17 videos)
+  - Scanning network protocols
+  - Scanning with Nmap
+  - Scanning with MASSCAN
+  - Scanning with Netcat
+  - Using Wireshark
+  - Wireshark and Encrypted Traffic
+  - Weaponizing Wireshark
+  - SMB enumeration
+  - SMB enumeration demo
+  - NFS enumeration
+  - SMTP enumeration
+  - SNMP enumeration
+  - FTP enumeration
+  - FTP enumeration demo
+  - SSH enumeration
+  - Protocol tips
+  - Network Protocols Lab
+- [**4. Web Application Penetration Testing**](#4-web-application-penetration-testing) (15 videos)
+  - Web application enumeration
+  - Using intercepting proxies: Part 1
+  - Using intercepting proxies: Part 2
+  - SQL injections
+  - SQL injection authentication bypass
+  - Cross-Site Scripting (XSS)
+  - BeEF demo
+  - File inclusion vulnerabilities
+  - File inclusion demo
+  - File upload vulnerabilities
+  - XXE attacks
+  - Content management systems
+  - Content management systems demo
+  - Web application lab
+  - Web application lab walkthrough
+- [**5. Introduction to Buffer Overflow**](#5-introduction-to-buffer-overflow) (7 videos)
+  - How to practice buffer overflows
+  - Setting up the environment
+  - Fuzzing the application
+  - Finding bad characters
+  - Finding the return address
+  - Getting a shell
+  - Buffer overflow lab
+- [**6. Public Exploits**](#6-public-exploits) (7 videos)
+  - Where to look for public exploits
+  - Understanding the code
+  - Modifying the code to fit the environment
+  - Introduction to Metasploit
+  - Using Metasploit or not
+  - Public exploit lab
+  - Public exploit lab walkthrough
+- [**7. Getting a Shell, Now What?**](#7-getting-a-shell-now-what) (4 videos)
+  - The different types of shells
+  - How to upgrade a shell
+  - Transferring files to and from Kali Linux
+  - Transferring files demo
+- [**8. Privilege Escalation**](#8-privilege-escalation) (6 videos)
+  - Linux privilege escalation
+  - Windows privilege escalation
+  - A word on privilege escalation enumeration scripts
+  - Privilege escalation lab
+  - Privilege escalation walkthrough: Windows
+  - Privilege escalation walkthrough: Linux
+- [**9. Password Cracking and Brute-Forcing Logins**](#9-password-cracking-and-brute-forcing-logins) (6 videos)
+  - Introduction to password cracking tools
+  - Introduction to login brute-forcing tools
+  - Password brute-forcing web logins
+  - Password brute-forcing tips
+  - Brute-force and password-cracking lab
+  - Brute-force and password-cracking lab walkthrough
+- [**10. Putting It All Together**](#10-putting-it-all-together) (3 videos)
+  - Hands-on penetration test lab
+  - Hands-on penetration test lab walkthrough
+  - Writing the report
+- [**11. Developing the Hacker Mindset**](#11-developing-the-hacker-mindset) (2 videos)
+  - Understanding the hacker mindset
+  - Tips on harnessing the hacker mindset
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Offensive penetration testing course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980)
@@ -300,7 +379,7 @@ created: 2026-04-29
 
 ### 1. Setting the Foundation for Success
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the penetration test report
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980)
@@ -1000,7 +1079,7 @@ created: 2026-04-29
 
 ### 2. Kali Linux Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the Kali Linux VM
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980)
@@ -2209,7 +2288,7 @@ created: 2026-04-29
 
 ### 3. Understanding Network Protocols
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scanning network protocols
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980)
@@ -4729,7 +4808,7 @@ created: 2026-04-29
 
 ### 4. Web Application Penetration Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Web application enumeration
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980)
@@ -7776,7 +7855,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Buffer Overflow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to practice buffer overflows
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980)
@@ -8570,7 +8649,7 @@ created: 2026-04-29
 
 ### 6. Public Exploits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to look for public exploits
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980)
@@ -9556,7 +9635,7 @@ created: 2026-04-29
 
 ### 7. Getting a Shell, Now What?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The different types of shells
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980)
@@ -10254,7 +10333,7 @@ created: 2026-04-29
 
 ### 8. Privilege Escalation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linux privilege escalation
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980)
@@ -11203,7 +11282,7 @@ created: 2026-04-29
 
 ### 9. Password Cracking and Brute-Forcing Logins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to password cracking tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980)
@@ -12213,7 +12292,7 @@ created: 2026-04-29
 
 ### 10. Putting It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on penetration test lab
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980)
@@ -12690,7 +12769,7 @@ created: 2026-04-29
 
 ### 11. Developing the Hacker Mindset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the hacker mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980)

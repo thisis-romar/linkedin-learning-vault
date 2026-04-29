@@ -49,15 +49,26 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Protecting Your Privacy During COVID]]** (3 videos)
-- **[[#2. Protecting Privacy in the New WFH World]]** (3 videos)
-- **[[#3. How to Protect Your Employees' Privacy During COVID]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Privacy considerations in the age of COVID
+- [**1. Protecting Your Privacy During COVID**](#1-protecting-your-privacy-during-covid) (3 videos)
+  - What is the risk?
+  - What technologies are used to track us?
+  - What can you do to protect your privacy?
+- [**2. Protecting Privacy in the New WFH World**](#2-protecting-privacy-in-the-new-wfh-world) (3 videos)
+  - Privacy risks and solutions for employees during COVID
+  - Protecting customer privacy when working from home
+  - Keeping security in mind when working from home
+- [**3. How to Protect Your Employees' Privacy During COVID**](#3-how-to-protect-your-employees-privacy-during-covid) (3 videos)
+  - Protecting your privacy when it's time to go back to the office
+  - Bringing people back to the office
+  - Maintaining privacy once you are back in the office
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about privacy in the age of COVID
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Privacy considerations in the age of COVID
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-considerations-in-the-age-of-covid?u=76281980)
@@ -90,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Protecting Your Privacy During COVID
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the risk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/what-is-the-risk?u=76281980)
@@ -246,7 +257,7 @@ created: 2026-04-29
 
 ### 2. Protecting Privacy in the New WFH World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Privacy risks and solutions for employees during COVID
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/privacy-risks-and-solutions-for-employees-during-covid?u=76281980)
@@ -423,7 +434,7 @@ created: 2026-04-29
 
 ### 3. How to Protect Your Employees' Privacy During COVID
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protecting your privacy when it's time to go back to the office
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/protecting-your-privacy-when-it-s-time-to-go-back-to-the-office?u=76281980)
@@ -605,7 +616,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about privacy in the age of COVID
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-in-the-new-world-of-work/learning-more-about-privacy-in-the-age-of-covid?u=76281980)

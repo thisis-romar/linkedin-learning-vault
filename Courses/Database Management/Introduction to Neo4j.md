@@ -48,16 +48,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction]]** (7 videos)
-- **[[#2. Getting Started]]** (6 videos)
-- **[[#3. Reading Data]]** (7 videos)
-- **[[#4. Writing Data]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Navigating the world of connected data
+- [**1. Introduction**](#1-introduction) (7 videos)
+  - What are graph databases
+  - Types of graph structures for data
+  - Why graph databases?
+  - Good graph database use cases and bad graph database use cases
+  - Introducing Neo4j: A property graph database
+  - Challenge: Is this a connected data problem?
+  - Solution: Is this a connected data problem?
+- [**2. Getting Started**](#2-getting-started) (6 videos)
+  - Anatomy of a property graph
+  - Getting up and running with Neo4j
+  - Hello, world!
+  - Introducing Cypher
+  - Challenge: Your first Cypher queries
+  - Solution: Your first Cypher queries
+- [**3. Reading Data**](#3-reading-data) (7 videos)
+  - Introducing the course data set
+  - MATCHing nodes
+  - MATCHing nodes and relationships
+  - Counting and aggregating data
+  - Beyond one hop
+  - Challenge: Time to answer some questions
+  - Solution: Time to answer some questions
+- [**4. Writing Data**](#4-writing-data) (5 videos)
+  - CREATEing your data
+  - Updating and REMOVEing your data
+  - DELETEing your data
+  - Challenge: Putting it all together
+  - Solution: Putting it all together
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating the world of connected data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/navigating-the-world-of-connected-data?u=76281980)
@@ -83,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are graph databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/what-are-graph-databases?u=76281980)
@@ -465,7 +492,7 @@ created: 2026-04-29
 
 ### 2. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Anatomy of a property graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/anatomy-of-a-property-graph?u=76281980)
@@ -829,7 +856,7 @@ created: 2026-04-29
 
 ### 3. Reading Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the course data set
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/introducing-the-course-data-set?u=76281980)
@@ -1507,7 +1534,7 @@ created: 2026-04-29
 
 ### 4. Writing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CREATEing your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/createing-your-data?u=76281980)
@@ -1940,7 +1967,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-neo4j/what-s-next?u=76281980)

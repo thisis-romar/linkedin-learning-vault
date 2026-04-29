@@ -44,16 +44,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#Linux Files]]** (11 videos)
-- **[[#Manage Linux Files]]** (9 videos)
-- **[[#Linux Permissions]]** (10 videos)
-- **[[#Access Control Lists]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Manage files and permissions in Linux
+  - What you should know
+  - Get help with commands
+  - Using the exercise files
+  - Reconfigure or migrate CentOS
+- [**Linux Files**](#linux-files) (11 videos)
+  - What is a file?
+  - Getting information about files
+  - About extended attributes
+  - Getting extended attributes
+  - About file globs
+  - Using character classes
+  - Using globs to match files
+  - Matching with brace expansion
+  - The Magic of extended globs
+  - Matching files with extended globs
+  - Advanced extended globs
+- [**Manage Linux Files**](#manage-linux-files) (9 videos)
+  - Understanding filesystem paths
+  - Creating files and dirs
+  - Copying files and dirs
+  - Moving and renaming files and dirs
+  - Deleting files and dirs
+  - Creating links to files and dirs
+  - Making file manipulation safe
+  - Challenge: Linux files
+  - Solution: Linux files
+- [**Linux Permissions**](#linux-permissions) (10 videos)
+  - Standard Linux permissions overview
+  - File and directory modes
+  - File ownership
+  - Permissions using numeric notation
+  - Permissions using symbolic notation
+  - Initial permissions using umask
+  - Special file bits: SUID and SGID
+  - Special directory bits: SGID and Sticky
+  - Challenge: Permissions
+  - Solution: Permissions
+- [**Access Control Lists**](#access-control-lists) (8 videos)
+  - ACL overview
+  - Read ACLs
+  - Setting ACLs
+  - Manage Default ACLs
+  - Delete ACLs
+  - ACL tricks
+  - Challenge: ACLs
+  - Solution: ACLs
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage files and permissions in Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/manage-files-and-permissions-in-linux?u=76281980)
@@ -433,7 +477,7 @@ created: 2026-04-29
 
 ### Linux Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a file?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/what-is-a-file?u=76281980)
@@ -1722,7 +1766,7 @@ created: 2026-04-29
 
 ### Manage Linux Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding filesystem paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/understanding-filesystem-paths?u=76281980)
@@ -2680,7 +2724,7 @@ created: 2026-04-29
 
 ### Linux Permissions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Standard Linux permissions overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/standard-linux-permissions-overview?u=76281980)
@@ -3709,7 +3753,7 @@ created: 2026-04-29
 
 ### Access Control Lists
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ACL overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/acl-overview?u=76281980)
@@ -4598,7 +4642,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/linux-files-and-permissions-14025387/next-steps?u=76281980)

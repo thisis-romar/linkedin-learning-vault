@@ -35,17 +35,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Breaking Down Accessibility]]** (5 videos)
-- **[[#2. Developing Accessible Products]]** (7 videos)
-- **[[#3. Testing for Accessibility]]** (3 videos)
-- **[[#4. Leading Designers and Developers]]** (5 videos)
-- **[[#5. Leveraging Accessibility]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Accessibility for managers and non-designers
+  - What is accessibility and why does it matter?
+  - How non-developers impact accessibility
+  - Designing with an inclusive orientation
+  - Leveraging value from accessibility
+- [**1. Breaking Down Accessibility**](#1-breaking-down-accessibility) (5 videos)
+  - Designing for accessible visual perception
+  - Designing for audio accessibility
+  - Aligning design for operative mobility
+  - Designing with understandable and robust cognition
+  - Avoiding triggering medical issues
+- [**2. Developing Accessible Products**](#2-developing-accessible-products) (7 videos)
+  - Development standards for accessible products
+  - Accessible forms
+  - Image accessibility
+  - Audio accessibilty
+  - Content hierarchy and structure
+  - Semantic markup
+  - The role of ARIA
+- [**3. Testing for Accessibility**](#3-testing-for-accessibility) (3 videos)
+  - Testing with impacted users
+  - Nontechnical testing resources
+  - Common-sense testing with an inclusive mindset
+- [**4. Leading Designers and Developers**](#4-leading-designers-and-developers) (5 videos)
+  - Creating an inclusive-conscious environment
+  - Informed orientation and policies
+  - Unleashing accessible design and development
+  - Developing relationships with impacted user groups
+  - Iterative testing
+- [**5. Leveraging Accessibility**](#5-leveraging-accessibility) (3 videos)
+  - Making a11y features visible to all users
+  - Promoting products as accessible
+  - Promoting accessibility policies
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility for managers and non-designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980)
@@ -346,7 +375,7 @@ created: 2026-04-29
 
 ### 1. Breaking Down Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for accessible visual perception
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-accessible-visual-perception?u=76281980)
@@ -716,7 +745,7 @@ created: 2026-04-29
 
 ### 2. Developing Accessible Products
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Development standards for accessible products
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980)
@@ -1223,7 +1252,7 @@ created: 2026-04-29
 
 ### 3. Testing for Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing with impacted users
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980)
@@ -1456,7 +1485,7 @@ created: 2026-04-29
 
 ### 4. Leading Designers and Developers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an inclusive-conscious environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980)
@@ -1771,7 +1800,7 @@ created: 2026-04-29
 
 ### 5. Leveraging Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making a11y features visible to all users
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980)
@@ -1899,7 +1928,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980)

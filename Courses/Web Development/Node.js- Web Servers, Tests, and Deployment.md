@@ -52,17 +52,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The HTTP Module]]** (5 videos)
-- **[[#2. npm]]** (5 videos)
-- **[[#3. Web Servers]]** (5 videos)
-- **[[#4. WebSockets]]** (4 videos)
-- **[[#5. Node.js Testing]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Going beyond the basics in Node
+  - What you should know
+  - Working with VS Code
+- [**1. The HTTP Module**](#1-the-http-module) (5 videos)
+  - Making a request with the request method
+  - Making a request with the GET method
+  - Building a web server
+  - Creating a file server
+  - Serving JSON data
+- [**2. npm**](#2-npm) (5 videos)
+  - The package.json file
+  - Using import statements
+  - Using minimist
+  - Using tiny-timer
+  - Managing packages
+- [**3. Web Servers**](#3-web-servers) (5 videos)
+  - File servers with serve
+  - Intro to Express
+  - Handling POST requests
+  - Handling DELETE requests
+  - Using Express middleware
+- [**4. WebSockets**](#4-websockets) (4 videos)
+  - Creating a WebSocket
+  - Broadcasting messages with a WebSocket
+  - Creating a WebSocket client with Socket.IO
+  - Emitting Socket.IO events
+- [**5. Node.js Testing**](#5-nodejs-testing) (4 videos)
+  - Creating modular projects
+  - Configuring Babel with Jest
+  - Writing a test
+  - Using code coverage
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going beyond the basics in Node
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980)
@@ -204,7 +231,7 @@ created: 2026-04-29
 
 ### 1. The HTTP Module
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making a request with the request method
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980)
@@ -719,7 +746,7 @@ created: 2026-04-29
 
 ### 2. npm
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The package.json file
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980)
@@ -1106,7 +1133,7 @@ created: 2026-04-29
 
 ### 3. Web Servers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### File servers with serve
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/file-servers-with-serve?u=76281980)
@@ -1487,7 +1514,7 @@ created: 2026-04-29
 
 ### 4. WebSockets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a WebSocket
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980)
@@ -1870,7 +1897,7 @@ created: 2026-04-29
 
 ### 5. Node.js Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating modular projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-modular-projects?u=76281980)
@@ -2175,7 +2202,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980)

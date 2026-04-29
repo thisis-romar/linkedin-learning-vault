@@ -49,19 +49,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Creating Our First Multiplatform App]]** (7 videos)
-- **[[#2. Combining Native with Multiplatform]]** (6 videos)
-- **[[#3. KMP and Swift]]** (3 videos)
-- **[[#4. Architecture]]** (2 videos)
-- **[[#5. Sharing Network]]** (4 videos)
-- **[[#6. Sharing Database]]** (4 videos)
-- **[[#7. Quality of Life]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Kotlin multiplatform development
+  - What you should know
+- [**1. Creating Our First Multiplatform App**](#1-creating-our-first-multiplatform-app) (7 videos)
+  - The problem Kotlin Multiplatform solves
+  - Comparison with alternatives
+  - Supported platforms and performance
+  - Just what the KDoctor ordered
+  - Android studio for KMP
+  - Xcode for KMP
+  - Crafting a template with the Kotlin Multiplatform wizard
+- [**2. Combining Native with Multiplatform**](#2-combining-native-with-multiplatform) (6 videos)
+  - Building our first multiplatform app
+  - Whether to use Compose Multiplatform
+  - Expect and actual
+  - An actual example
+  - Accessing operating system methods
+  - Multiplatform project structure
+- [**3. KMP and Swift**](#3-kmp-and-swift) (3 videos)
+  - Using Kotlin from Swift code
+  - Making it easier with Swift export
+  - KMP together with SwiftUI
+- [**4. Architecture**](#4-architecture) (2 videos)
+  - Recommended architecture with MVVM
+  - Google ViewModel
+- [**5. Sharing Network**](#5-sharing-network) (4 videos)
+  - Adding Ktor to your project
+  - Modeling with Kotlinx-serialization
+  - Making network requests
+  - Apollo GraphQL
+- [**6. Sharing Database**](#6-sharing-database) (4 videos)
+  - Adding SQLDelight to your project
+  - Setting up your database and adding objects
+  - Creating queries
+  - Going with the flow
+- [**7. Quality of Life**](#7-quality-of-life) (5 videos)
+  - Kermit for logging
+  - Managing resources
+  - KOIN for dependency injection
+  - Storing values in multiplatform-settings
+  - Dates in Kotlinx-datetime
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kotlin multiplatform development
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kotlin-multiplatform-development?u=76281980)
@@ -125,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Creating Our First Multiplatform App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The problem Kotlin Multiplatform solves
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/the-problem-kotlin-multiplatform-solves?u=76281980)
@@ -724,7 +758,7 @@ created: 2026-04-29
 
 ### 2. Combining Native with Multiplatform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building our first multiplatform app
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/building-our-first-multiplatform-app?u=76281980)
@@ -1227,7 +1261,7 @@ created: 2026-04-29
 
 ### 3. KMP and Swift
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Kotlin from Swift code
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/using-kotlin-from-swift-code?u=76281980)
@@ -1493,7 +1527,7 @@ created: 2026-04-29
 
 ### 4. Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recommended architecture with MVVM
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/recommended-architecture-with-mvvm?u=76281980)
@@ -1683,7 +1717,7 @@ created: 2026-04-29
 
 ### 5. Sharing Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding Ktor to your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-ktor-to-your-project?u=76281980)
@@ -2132,7 +2166,7 @@ created: 2026-04-29
 
 ### 6. Sharing Database
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding SQLDelight to your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/adding-sqldelight-to-your-project?u=76281980)
@@ -2480,7 +2514,7 @@ created: 2026-04-29
 
 ### 7. Quality of Life
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kermit for logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/kermit-for-logging?u=76281980)
@@ -3205,7 +3239,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-multiplatform-development/next-steps?u=76281980)

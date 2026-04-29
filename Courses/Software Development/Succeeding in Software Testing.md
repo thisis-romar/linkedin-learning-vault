@@ -44,15 +44,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. You've Got the Skills]]** (3 videos)
-- **[[#2. Thinking Critically about Software Testing]]** (7 videos)
-- **[[#3. Continuing Success in Software Testing]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Possibilities are endless in testing
+  - Who are you now?
+- [**1. You've Got the Skills**](#1-youve-got-the-skills) (3 videos)
+  - The greatest testers in the world
+  - Testing qualifications and training
+  - Learning through experience
+- [**2. Thinking Critically about Software Testing**](#2-thinking-critically-about-software-testing) (7 videos)
+  - The skills to succeed
+  - Growing better and broader in testing
+  - Specializing
+  - Excelling in exploratory testing
+  - Providing support through automation
+  - Trading in your testing hat
+  - Interview: Eric Proegler
+- [**3. Continuing Success in Software Testing**](#3-continuing-success-in-software-testing) (4 videos)
+  - Thinking about your career growth
+  - Continual learning
+  - Steps 1, 2, 3 in being the best tester
+  - Interview: Stephanie Dukes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Create your career
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Possibilities are endless in testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980)
@@ -128,7 +145,7 @@ created: 2026-04-29
 
 ### 1. You've Got the Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The greatest testers in the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980)
@@ -315,7 +332,7 @@ created: 2026-04-29
 
 ### 2. Thinking Critically about Software Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The skills to succeed
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980)
@@ -933,7 +950,7 @@ created: 2026-04-29
 
 ### 3. Continuing Success in Software Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thinking about your career growth
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/thinking-about-your-career-growth?u=76281980)
@@ -1250,7 +1267,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/create-your-career?u=76281980)

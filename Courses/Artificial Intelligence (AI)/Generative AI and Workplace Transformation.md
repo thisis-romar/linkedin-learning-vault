@@ -51,14 +51,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Employing the Mindset to Imagine the Implications]]** (3 videos)
-- **[[#2. Transforming Your Workforce Strategy To Support Generative AI Opportunities]]** (3 videos)
-- **[[#3. Leading Your Generative AI Superhuman Workforce]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The transformative nature of generative AI
+- [**1. Employing the Mindset to Imagine the Implications**](#1-employing-the-mindset-to-imagine-the-implications) (3 videos)
+  - Generative AI will bring exponential thinking
+  - The coming mega change transformation
+  - Asking great questions to create alignment
+- [**2. Transforming Your Workforce Strategy To Support Generative AI Opportunities**](#2-transforming-your-workforce-strategy-to-support-generative-ai-opportunities) (3 videos)
+  - Prioritizing your AI efforts
+  - How generative AI is changing roles and collaboration
+  - Preparing your workforce for the changes to come
+- [**3. Leading Your Generative AI Superhuman Workforce**](#3-leading-your-generative-ai-superhuman-workforce) (3 videos)
+  - Emerging skillsets of the AI era
+  - Help your workforce thrive with AI
+  - Leading in the generative AI era
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The transformative nature of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/the-transformative-nature-of-generative-ai-22831869?u=76281980)
@@ -91,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Employing the Mindset to Imagine the Implications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI will bring exponential thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/generative-ai-will-bring-exponential-thinking?u=76281980)
@@ -296,7 +306,7 @@ created: 2026-04-29
 
 ### 2. Transforming Your Workforce Strategy To Support Generative AI Opportunities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prioritizing your AI efforts
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/prioritizing-your-ai-efforts-22838630?u=76281980)
@@ -526,7 +536,7 @@ created: 2026-04-29
 
 ### 3. Leading Your Generative AI Superhuman Workforce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Emerging skillsets of the AI era
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-workplace-transformation/emerging-skillsets-of-the-ai-era?u=76281980)

@@ -48,13 +48,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI Case Studies]]** (12 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - AI is transforming every industry
+- [**1. AI Case Studies**](#1-ai-case-studies) (12 videos)
+  - Aquaculture: How Aquabyte applies machine learning to fish farming
+  - Agriculture: How John Deere embeds AI into farm machines
+  - Food products: How McCormick uses generative AI to develop new flavors
+  - At home: The SNOO Smart Sleeper, where your baby meets AI
+  - Tech: How Pinterest uses machine learning to deepen user engagement
+  - Retail: How AiFi is pioneering autonomous shopping
+  - Healthcare: How AI is transforming healthcare
+  - Hollywood: Using generative AI to reinvent live-action movies
+  - Legal: Generative AI in law firms
+  - Finance: AI at your bank
+  - Data: How Google uses AI to cool its data centers
+  - Energy: Use of AI in the power sector
+- [**Conclusion**](#conclusion) (1 videos)
+  - Integrating AI into your business
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI is transforming every industry
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/ai-is-transforming-every-industry?u=76281980)
@@ -81,7 +95,7 @@ created: 2026-04-29
 
 ### 1. AI Case Studies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Aquaculture: How Aquabyte applies machine learning to fish farming
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980)
@@ -957,7 +971,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating AI into your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980)

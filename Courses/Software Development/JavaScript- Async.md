@@ -46,16 +46,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Programming Asynchronously with Callbacks]]** (5 videos)
-- **[[#2. Programming Asynchronously with Promises]]** (8 videos)
-- **[[#3. Programming Asynchronously with Async/Await]]** (4 videos)
-- **[[#4. Programming Asynchronously with Web Workers]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Implementing smart asynchronous code
+  - What you should know
+  - Environment setup
+  - Getting an OpenWeatherMap API key
+- [**1. Programming Asynchronously with Callbacks**](#1-programming-asynchronously-with-callbacks) (5 videos)
+  - Understanding what asynchronous means
+  - Defining asynchronous programming
+  - Using callbacks in asynchronous programming
+  - Implementing callbacks for problem-solving
+  - Using error checking with multiple callbacks
+- [**2. Programming Asynchronously with Promises**](#2-programming-asynchronously-with-promises) (8 videos)
+  - Understanding promises
+  - Building asynchronous code with promises
+  - Appending methods to resolved promises
+  - Using catch methods for rejected promises
+  - Using the finally method for executing handlers
+  - Preparing the all method for executing multiple promises
+  - Implementing the all method for executing multiple promises
+  - Making code backward-compatible with polyfill
+- [**3. Programming Asynchronously with Async/Await**](#3-programming-asynchronously-with-asyncawait) (4 videos)
+  - Understanding the async/await model
+  - Using async functions with await statements
+  - Using statements to handle errors in async/await code
+  - Making async/await code backward compatible with polyfill
+- [**4. Programming Asynchronously with Web Workers**](#4-programming-asynchronously-with-web-workers) (5 videos)
+  - What is a web worker?
+  - Creating a web worker
+  - Sending data to a web worker
+  - Returning data from a web worker
+  - Identifying use cases for web workers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Asynchronous coding experience
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing smart asynchronous code
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/implementing-smart-asynchronous-code-22163789?u=76281980)
@@ -248,7 +275,7 @@ created: 2026-04-29
 
 ### 1. Programming Asynchronously with Callbacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding what asynchronous means
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-what-asynchronous-means-14342027?u=76281980)
@@ -735,7 +762,7 @@ created: 2026-04-29
 
 ### 2. Programming Asynchronously with Promises
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding promises
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-promises-14342019?u=76281980)
@@ -1250,7 +1277,7 @@ created: 2026-04-29
 
 ### 3. Programming Asynchronously with Async/Await
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the async/await model
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-the-async-await-model-14344029?u=76281980)
@@ -1508,7 +1535,7 @@ created: 2026-04-29
 
 ### 4. Programming Asynchronously with Web Workers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a web worker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/what-is-a-web-worker-14338950?u=76281980)
@@ -1949,7 +1976,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Asynchronous coding experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980)

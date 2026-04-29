@@ -50,14 +50,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Analyze the IT Function]]** (3 videos)
-- **[[#2. Redefining the IT Role]]** (3 videos)
-- **[[#3. Changing the Organizational Conversation]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why IT strategy matters
+- [**1. Analyze the IT Function**](#1-analyze-the-it-function) (3 videos)
+  - The changing nature of the IT role
+  - Making IT strategic
+  - Challenges to streamlining IT
+- [**2. Redefining the IT Role**](#2-redefining-the-it-role) (3 videos)
+  - Creating an agile IT department
+  - Measuring IT performance
+  - Creating the role of business information officer
+- [**3. Changing the Organizational Conversation**](#3-changing-the-organizational-conversation) (4 videos)
+  - Creating an IT mission
+  - Co-creating other departments' strategy
+  - Ways for IT leaders to collaborate outside of IT
+  - Tips to retain top IT talent
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why IT strategy matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/why-it-strategy-matters?u=76281980)
@@ -101,7 +112,7 @@ created: 2026-04-29
 
 ### 1. Analyze the IT Function
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The changing nature of the IT role
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/the-changing-nature-of-the-it-role-2?u=76281980)
@@ -398,7 +409,7 @@ created: 2026-04-29
 
 ### 2. Redefining the IT Role
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an agile IT department
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-agile-it-department-2?u=76281980)
@@ -665,7 +676,7 @@ created: 2026-04-29
 
 ### 3. Changing the Organizational Conversation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an IT mission
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-it-strategy/creating-an-it-mission-2?u=76281980)

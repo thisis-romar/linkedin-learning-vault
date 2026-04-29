@@ -46,12 +46,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Human Skills in the Age of AI]]** (9 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Human skills and AI
+- [**1. Human Skills in the Age of AI**](#1-human-skills-in-the-age-of-ai) (9 videos)
+  - What will make human skills valuable in the age of AI?
+  - Understanding terms used in the AI discussion
+  - What’s the “relationship economy”?
+  - Career changes brought about by AI
+  - Industries and human skills evolving due to AI
+  - The most helpful human skills
+  - What are ways in which AI might strengthen human capabilities?
+  - What’s the ideal collaboration between human skills and AI tools?
+  - How do we develop, validate, and demonstrate our human skills?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Human skills and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/human-skills-and-ai?u=76281980)
@@ -77,7 +87,7 @@ created: 2026-04-29
 
 ### 1. Human Skills in the Age of AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What will make human skills valuable in the age of AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/investing-in-human-skills-in-the-age-of-ai/what-will-make-human-skills-valuable-in-the-age-of-ai?u=76281980)

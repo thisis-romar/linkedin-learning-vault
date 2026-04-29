@@ -55,17 +55,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introducing the Generative AI Models and Libraries]]** (3 videos)
-- **[[#2. Create Your First Next-Gen App (Node.js)]]** (5 videos)
-- **[[#3. Extending the Chatbot Capabilities with External Tools]]** (6 videos)
-- **[[#4. Getting Started with the OpenAI Assistants API]]** (7 videos)
-- **[[#5. Build an AI-powered Virtual Assistant (Assistants API)]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Integrate generative AI into your web projects
+  - What you should know
+  - Tools and exercise files
+- [**1. Introducing the Generative AI Models and Libraries**](#1-introducing-the-generative-ai-models-and-libraries) (3 videos)
+  - Generative AI: Genesis and evolution
+  - OpenAI: Key concepts
+  - OpenAI: Getting started
+- [**2. Create Your First Next-Gen App (Node.js)**](#2-create-your-first-next-gen-app-nodejs) (5 videos)
+  - Node project setup
+  - Authenticate and configure with OpenAI
+  - Define prompts and a system message
+  - Challenge: Create an AI-agent and jokes generator
+  - Solution: Generate chat completions
+- [**3. Extending the Chatbot Capabilities with External Tools**](#3-extending-the-chatbot-capabilities-with-external-tools) (6 videos)
+  - Introducing function calling
+  - Enable function calling
+  - Define tools and parameters
+  - Challenge: Call the public API
+  - Solution: Call functions and connect to APIs
+  - Solution: Call functions and generate extended responses
+- [**4. Getting Started with the OpenAI Assistants API**](#4-getting-started-with-the-openai-assistants-api) (7 videos)
+  - Assistants API overview
+  - Create an assistant
+  - Upload files using the Files API
+  - Create a conversation session
+  - Run the conversation
+  - Check Run lifecycle and status
+  - Retrieve and display messages
+- [**5. Build an AI-powered Virtual Assistant (Assistants API)**](#5-build-an-ai-powered-virtual-assistant-assistants-api) (6 videos)
+  - Starter project and set up
+  - Making API requests
+  - Send a message
+  - Introduction the Moderation API
+  - Add a moderation layer
+  - Generate and moderate conversations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Last words and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrate generative AI into your web projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/integrate-generative-ai-into-your-web-projects?u=76281980)
@@ -197,7 +228,7 @@ created: 2026-04-29
 
 ### 1. Introducing the Generative AI Models and Libraries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI: Genesis and evolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/generative-ai-genesis-and-evolution?u=76281980)
@@ -455,7 +486,7 @@ created: 2026-04-29
 
 ### 2. Create Your First Next-Gen App (Node.js)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Node project setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/node-project-setup?u=76281980)
@@ -1118,7 +1149,7 @@ created: 2026-04-29
 
 ### 3. Extending the Chatbot Capabilities with External Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing function calling
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/introducing-function-calling?u=76281980)
@@ -1827,7 +1858,7 @@ created: 2026-04-29
 
 ### 4. Getting Started with the OpenAI Assistants API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assistants API overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/assistants-api-overview?u=76281980)
@@ -2646,7 +2677,7 @@ created: 2026-04-29
 
 ### 5. Build an AI-powered Virtual Assistant (Assistants API)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starter project and set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/starter-project-and-set-up?u=76281980)
@@ -3410,7 +3441,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Last words and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-javascript-web-projects/last-words-and-next-steps?u=76281980)

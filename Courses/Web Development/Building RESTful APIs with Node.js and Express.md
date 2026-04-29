@@ -55,17 +55,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setting Up]]** (5 videos)
-- **[[#2. Initial Server Build]]** (5 videos)
-- **[[#3. Database Setup]]** (3 videos)
-- **[[#4. CRUD Operations]]** (5 videos)
-- **[[#5. Other API Options]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - RESTful APIs with Node and Express
+  - What you should know
+- [**1. Setting Up**](#1-setting-up) (5 videos)
+  - Introduction to APIs and the libraries
+  - Introduction to Postman
+  - Install Node and Express
+  - Install Mongo
+  - Basic Babel setup
+- [**2. Initial Server Build**](#2-initial-server-build) (5 videos)
+  - RESTful APIs refresher
+  - Initial server setup
+  - Initial server files and folders
+  - Basic routing endpoints
+  - Basics of middleware and uses
+- [**3. Database Setup**](#3-database-setup) (3 videos)
+  - MongoDB basics refresher
+  - Database setup
+  - Schema setup
+- [**4. CRUD Operations**](#4-crud-operations) (5 videos)
+  - Create POST endpoint
+  - Create all items GET endpoint
+  - Create specific ID GET endpoint
+  - Create PUT endpoint
+  - Create DELETE endpoint
+- [**5. Other API Options**](#5-other-api-options) (2 videos)
+  - Static files serving
+  - Other potential libraries for API
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### RESTful APIs with Node and Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980)
@@ -130,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to APIs and the libraries
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980)
@@ -501,7 +524,7 @@ created: 2026-04-29
 
 ### 2. Initial Server Build
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### RESTful APIs refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-refresher?u=76281980)
@@ -938,7 +961,7 @@ created: 2026-04-29
 
 ### 3. Database Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MongoDB basics refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980)
@@ -1156,7 +1179,7 @@ created: 2026-04-29
 
 ### 4. CRUD Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create POST endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980)
@@ -1749,7 +1772,7 @@ created: 2026-04-29
 
 ### 5. Other API Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Static files serving
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/static-files-serving?u=76281980)
@@ -1843,7 +1866,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980)

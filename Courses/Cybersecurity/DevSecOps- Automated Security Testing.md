@@ -49,16 +49,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Security Testing Basics]]** (4 videos)
-- **[[#2. Security Automation: Getting Started]]** (5 videos)
-- **[[#3. Application Security Automation]]** (7 videos)
-- **[[#4. Security Testing in Software Delivery Pipelines]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - What you should know
+- [**1. Security Testing Basics**](#1-security-testing-basics) (4 videos)
+  - Security and DevOps history in short
+  - Security and DevOps for the first time
+  - Automated security testing basics
+  - Tips for security automation for DevOps
+- [**2. Security Automation: Getting Started**](#2-security-automation-getting-started) (5 videos)
+  - Setting up the demo environment
+  - Web application security quick tour
+  - Application security attack tools
+  - Security test automation with Gauntlt
+  - Running your first automated attack
+- [**3. Application Security Automation**](#3-application-security-automation) (7 videos)
+  - Application security vector: XSS
+  - XSS attack automation
+  - XSS attack automation refactoring
+  - SQLi attack automation
+  - Automating a fuzzer
+  - Network testing on the fly
+  - "Be mean to your code" in practice
+- [**4. Security Testing in Software Delivery Pipelines**](#4-security-testing-in-software-delivery-pipelines) (2 videos)
+  - Shift left and the DevOps way
+  - Security testing in CI/CD
+- [**Conclusion**](#conclusion) (2 videos)
+  - Start automating security testing
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/welcome?u=76281980)
@@ -119,7 +141,7 @@ created: 2026-04-29
 
 ### 1. Security Testing Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security and DevOps history in short
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/security-and-devops-history-in-short?u=76281980)
@@ -562,7 +584,7 @@ created: 2026-04-29
 
 ### 2. Security Automation: Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the demo environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/setting-up-the-demo-environment?u=76281980)
@@ -1271,7 +1293,7 @@ created: 2026-04-29
 
 ### 3. Application Security Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Application security vector: XSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/application-security-vector-xss?u=76281980)
@@ -2308,7 +2330,7 @@ created: 2026-04-29
 
 ### 4. Security Testing in Software Delivery Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Shift left and the DevOps way
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/shift-left-and-the-devops-way?u=76281980)
@@ -2515,7 +2537,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start automating security testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-automated-security-testing/start-automating-security-testing?u=76281980)

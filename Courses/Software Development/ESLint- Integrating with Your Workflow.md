@@ -47,13 +47,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Integrating ESLint with Your Workflow]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Customizing automatic error checking
+  - What you should know
+  - Using the exercise files for this course
+  - Using GitHub Codespaces with this course
+- [**1. Integrating ESLint with Your Workflow**](#1-integrating-eslint-with-your-workflow) (6 videos)
+  - Setting up a project with ESLint
+  - Enforcing code style with ESLint
+  - Integrating ESLint with webpack
+  - Using ESLint in an editor
+  - Challenge: Add ESLint to a project
+  - Solution: Add ESLint to a project
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Customizing automatic error checking
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/customizing-automatic-error-checking-25668968?u=76281980)
@@ -287,7 +298,7 @@ created: 2026-04-29
 
 ### 1. Integrating ESLint with Your Workflow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up a project with ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/setting-up-a-project-with-eslint?u=76281980)
@@ -1082,7 +1093,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/next-steps?u=76281980)

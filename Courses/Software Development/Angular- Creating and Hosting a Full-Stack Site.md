@@ -47,18 +47,77 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Creating an Angular Front End]]** (14 videos)
-- **[[#2. Creating a Node Back End]]** (7 videos)
-- **[[#3. Adding MySQL to Your Back End]]** (10 videos)
-- **[[#4. Connecting the Front and Back Ends]]** (7 videos)
-- **[[#5. Authentication]]** (9 videos)
-- **[[#6. Hosting Your Site]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Front-end to back-end creating and hosting a full-stack site
+  - What you should know
+  - Install Node.js and npm
+  - Exercise files
+  - The approach
+- [**1. Creating an Angular Front End**](#1-creating-an-angular-front-end) (14 videos)
+  - Why Angular?
+  - Set up an Angular project
+  - Angular project structure
+  - Create your first Angular component
+  - Routes and routing in Angular
+  - Add fake data
+  - Implement the Listings page
+  - Create a Listing Detail page
+  - Create a Contact Seller page
+  - Create a My Listings page
+  - Create a New Listings page
+  - Create a Listing Data form
+  - Create an Edit Listing page
+  - Create a navigation bar
+- [**2. Creating a Node Back End**](#2-creating-a-node-back-end) (7 videos)
+  - Why Node.js?
+  - Set up a hapi server
+  - Test a hapi server with Postman
+  - Create a listings endpoint
+  - Restart a Node server automatically
+  - Create an individual listing endpoint
+  - Errors in hapi using hapi/boom
+- [**3. Adding MySQL to Your Back End**](#3-adding-mysql-to-your-back-end) (10 videos)
+  - Why MySQL?
+  - Install MySQL and MySQL Workbench
+  - Set up a MySQL database
+  - Connect to a MySQL database from Node
+  - Rewrite the listings endpoints
+  - Create an endpoint for adding views
+  - Create an endpoint to get a user listing
+  - Create an endpoint to create listings
+  - Create an endpoint to edit listings
+  - Create an endpoint to delete listings
+- [**4. Connecting the Front and Back Ends**](#4-connecting-the-front-and-back-ends) (7 videos)
+  - Services in Angular
+  - RxJS and the Angular HttpClient
+  - Avoid CORS errors
+  - Connect the Listing Detail page
+  - Connect the My Listings page
+  - Connect the New Listing page
+  - Connect the Edit Listing page
+- [**5. Authentication**](#5-authentication) (9 videos)
+  - What is Firebase Auth?
+  - Set up a Firebase account
+  - Add Firebase to Angular
+  - Add Firebase to hapi
+  - Sign in and out
+  - Load user listings with Auth
+  - Create listings with Auth
+  - Edit listings with Auth
+  - Delete listings with Auth
+- [**6. Hosting Your Site**](#6-hosting-your-site) (6 videos)
+  - Move a full-stack app to the cloud
+  - Installing the Google Cloud CLI
+  - Moving MySQL to the cloud
+  - Environment variables
+  - Host a Node server on Google Cloud
+  - Build and serve an Angular app
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Front-end to back-end creating and hosting a full-stack site
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/front-end-to-back-end-creating-and-hosting-a-full-stack-site?u=76281980)
@@ -244,7 +303,7 @@ created: 2026-04-29
 
 ### 1. Creating an Angular Front End
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Angular?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-angular?u=76281980)
@@ -1689,7 +1748,7 @@ created: 2026-04-29
 
 ### 2. Creating a Node Back End
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Node.js?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-node-js?u=76281980)
@@ -2229,7 +2288,7 @@ created: 2026-04-29
 
 ### 3. Adding MySQL to Your Back End
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why MySQL?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/why-mysql?u=76281980)
@@ -3188,7 +3247,7 @@ created: 2026-04-29
 
 ### 4. Connecting the Front and Back Ends
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Services in Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/services-in-angular?u=76281980)
@@ -3899,7 +3958,7 @@ created: 2026-04-29
 
 ### 5. Authentication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Firebase Auth?
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/what-is-firebase-auth?u=76281980)
@@ -4666,7 +4725,7 @@ created: 2026-04-29
 
 ### 6. Hosting Your Site
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Move a full-stack app to the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/move-a-full-stack-app-to-the-cloud?u=76281980)
@@ -5252,7 +5311,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-creating-and-hosting-a-full-stack-site/next-steps?u=76281980)

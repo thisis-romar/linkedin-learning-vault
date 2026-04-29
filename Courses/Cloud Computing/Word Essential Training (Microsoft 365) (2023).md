@@ -48,21 +48,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (3 videos)
-- **[[#2. Working with Text]]** (3 videos)
-- **[[#3. Formatting Text]]** (3 videos)
-- **[[#4. Working with Paragraph Text]]** (4 videos)
-- **[[#5. Formatting Pages]]** (3 videos)
-- **[[#6. Creating Lists]]** (2 videos)
-- **[[#7. Illustrating Documents]]** (3 videos)
-- **[[#8. Proofing Documents]]** (3 videos)
-- **[[#9. Sharing and Collaborating]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Create brilliant documents with Microsoft Word
+  - What you should know
+  - The future of Word
+- [**1. Getting Started**](#1-getting-started) (3 videos)
+  - Open, close, and read documents
+  - Save new documents
+  - Use the Tell Me assistant
+- [**2. Working with Text**](#2-working-with-text) (3 videos)
+  - Inserting new text
+  - Rearrange text with cut, copy, and paste
+  - Copy text from another source
+- [**3. Formatting Text**](#3-formatting-text) (3 videos)
+  - Change font formatting
+  - Change text case
+  - Format text with styles
+- [**4. Working with Paragraph Text**](#4-working-with-paragraph-text) (4 videos)
+  - Change paragraph alignment
+  - Adjust line spacing
+  - Keep text together across page breaks
+  - Put text into columns
+- [**5. Formatting Pages**](#5-formatting-pages) (3 videos)
+  - Change page layout
+  - Use headers and footers
+  - Add page numbering
+- [**6. Creating Lists**](#6-creating-lists) (2 videos)
+  - Create bulleted and numbered lists
+  - Edit and format lists
+- [**7. Illustrating Documents**](#7-illustrating-documents) (3 videos)
+  - Illustrate with a table
+  - Illustrate with images
+  - Adjust images in a document
+- [**8. Proofing Documents**](#8-proofing-documents) (3 videos)
+  - Set proofing and autocorrect options
+  - Make your document accessible
+  - Proof your document with Editor
+- [**9. Sharing and Collaborating**](#9-sharing-and-collaborating) (4 videos)
+  - Print your documents
+  - Add password protection to a file
+  - Send documents via email
+  - Collaborate on documents in the cloud
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create brilliant documents with Microsoft Word
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-brilliant-documents-with-microsoft-word?u=76281980)
@@ -182,7 +214,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Open, close, and read documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/open-close-and-read-documents?u=76281980)
@@ -612,7 +644,7 @@ created: 2026-04-29
 
 ### 2. Working with Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inserting new text
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/inserting-new-text?u=76281980)
@@ -977,7 +1009,7 @@ created: 2026-04-29
 
 ### 3. Formatting Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change font formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-font-formatting?u=76281980)
@@ -1398,7 +1430,7 @@ created: 2026-04-29
 
 ### 4. Working with Paragraph Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change paragraph alignment
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-paragraph-alignment?u=76281980)
@@ -1915,7 +1947,7 @@ created: 2026-04-29
 
 ### 5. Formatting Pages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Change page layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/change-page-layout?u=76281980)
@@ -2260,7 +2292,7 @@ created: 2026-04-29
 
 ### 6. Creating Lists
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create bulleted and numbered lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/create-bulleted-and-numbered-lists?u=76281980)
@@ -2578,7 +2610,7 @@ created: 2026-04-29
 
 ### 7. Illustrating Documents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Illustrate with a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/illustrate-with-a-table?u=76281980)
@@ -3076,7 +3108,7 @@ created: 2026-04-29
 
 ### 8. Proofing Documents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set proofing and autocorrect options
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/set-proofing-and-autocorrect-options?u=76281980)
@@ -3589,7 +3621,7 @@ created: 2026-04-29
 
 ### 9. Sharing and Collaborating
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Print your documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/print-your-documents?u=76281980)
@@ -4003,7 +4035,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/word-essential-training-microsoft-365-2023/next-steps?u=76281980)

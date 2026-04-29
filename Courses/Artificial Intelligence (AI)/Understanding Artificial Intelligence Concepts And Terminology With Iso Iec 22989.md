@@ -49,18 +49,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI Concepts: Clauses 5-5.10]]** (7 videos)
-- **[[#2. Machine Learning Concepts: Clauses 5.11-5.12.4]]** (7 videos)
-- **[[#3. AI Technology and Administrative Controls]]** (5 videos)
-- **[[#4. AI System Lifecycle and Functional Overview: Clause 6-7.4]]** (4 videos)
-- **[[#5. AI Ecosystem: Clause 8-8.7]]** (5 videos)
-- **[[#6. Fields and Application of AI: Clause 9-10.4]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The benefits of a common AI language
+- [**1. AI Concepts: Clauses 5-5.10**](#1-ai-concepts-clauses-5-510) (7 videos)
+  - Overview of AI concepts (Clause 5.1)
+  - Strong, weak, general, and narrow AI (Clause 5-5.2)
+  - AI agents (Clause 5.3)
+  - AI knowledge (Clause 5.4)
+  - Cognitive, semantic, and soft computing (Clause 5.5-5.7)
+  - Genetic symbolic and subsymbolic algorithms (Clause 5.8-5.9)
+  - Data (Clause 5.10)
+- [**2. Machine Learning Concepts: Clauses 5.11-5.12.4**](#2-machine-learning-concepts-clauses-511-5124) (7 videos)
+  - Supervised, unsupervised, and semi-supervised (Clause 5.11-5.11.3)
+  - Additional training processes (Clause 5.11.4-5.11.8)
+  - Retraining ML models (Clause 5.11.9)
+  - Machine learning algorithms, part one (Clause 5.12-5.12.2)
+  - Machine learning algorithms, part two (Clause 5.12.1.3-5.12.1.3.2)
+  - Machine learning algorithms, part three (Clause 5.12.1.4 – 5.12.2)
+  - Machine learning algorithms, part four (Clause 5.12.3 – 5.12.4)
+- [**3. AI Technology and Administrative Controls**](#3-ai-technology-and-administrative-controls) (5 videos)
+  - Autonomy, heteronomy, and automation (Clause 5.13)
+  - Internet of things and CPS (Clause 5.14)
+  - Trustworthiness, verification, and validation (Clause 5.15-5.16)
+  - Jurisdictional issues and societal impact (Clause 5.17-5.18)
+  - AI stakeholder roles (Clause 5.19-5.19.7)
+- [**4. AI System Lifecycle and Functional Overview: Clause 6-7.4**](#4-ai-system-lifecycle-and-functional-overview-clause-6-74) (4 videos)
+  - AI system lifecycle overview (Clause 6.1)
+  - Lifecycle stages and processes (Clause 6.2)
+  - AI data, information, knowledge, and learning (Clause 7-7.3)
+  - AI predictions to actions (Clause 7.4-7.4.4)
+- [**5. AI Ecosystem: Clause 8-8.7**](#5-ai-ecosystem-clause-8-87) (5 videos)
+  - AI ecosystem and function with ML (Clause 8-8.4)
+  - AI engineering (Clause 8.5-8.5.3)
+  - Big data (Clause 8.6-8.6.1)
+  - Cloud and edge computing (Clause 8.6.2)
+  - Resource pools and ASIC (Clause 8.7-8.7.2)
+- [**6. Fields and Application of AI: Clause 9-10.4**](#6-fields-and-application-of-ai-clause-9-104) (4 videos)
+  - Computer vision and image recognition (Clause 9.1)
+  - Natural language processing (Clause 9.2-9.2.1)
+  - Data mining and planning (Clause 9.3-9.4)
+  - Application of AI systems (Clause 10-10.4)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your AI journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The benefits of a common AI language
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/the-benefits-of-a-common-ai-language?u=76281980)
@@ -89,7 +123,7 @@ created: 2026-04-29
 
 ### 1. AI Concepts: Clauses 5-5.10
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AI concepts (Clause 5.1)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/overview-of-ai-concepts-clause-5-1?u=76281980)
@@ -594,7 +628,7 @@ created: 2026-04-29
 
 ### 2. Machine Learning Concepts: Clauses 5.11-5.12.4
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supervised, unsupervised, and semi-supervised (Clause 5.11-5.11.3)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/supervised-unsupervised-and-semi-supervised-clause-5-11-5-11-3?u=76281980)
@@ -1197,7 +1231,7 @@ created: 2026-04-29
 
 ### 3. AI Technology and Administrative Controls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Autonomy, heteronomy, and automation (Clause 5.13)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/autonomy-heteronomy-and-automation-clause-5-13?u=76281980)
@@ -1598,7 +1632,7 @@ created: 2026-04-29
 
 ### 4. AI System Lifecycle and Functional Overview: Clause 6-7.4
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI system lifecycle overview (Clause 6.1)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-system-lifecycle-overview-clause-6-1?u=76281980)
@@ -1887,7 +1921,7 @@ created: 2026-04-29
 
 ### 5. AI Ecosystem: Clause 8-8.7
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI ecosystem and function with ML (Clause 8-8.4)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/ai-ecosystem-and-function-with-ml-clause-8-8-4?u=76281980)
@@ -2171,7 +2205,7 @@ created: 2026-04-29
 
 ### 6. Fields and Application of AI: Clause 9-10.4
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Computer vision and image recognition (Clause 9.1)
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/computer-vision-and-image-recognition-clause-9-1?u=76281980)
@@ -2479,7 +2513,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your AI journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/understanding-artificial-intelligence-concepts-and-terminology-with-iso-iec-22989-2022/continue-your-ai-journey?u=76281980)

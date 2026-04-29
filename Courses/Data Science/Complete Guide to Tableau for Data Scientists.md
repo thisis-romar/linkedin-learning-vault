@@ -55,23 +55,150 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Green and Blue Fields, What Do They Mean?]]** (7 videos)
-- **[[#2. Connecting to a Source of Data]]** (8 videos)
-- **[[#3. Combining Data]]** (9 videos)
-- **[[#4. When and How to Create Data Extracts]]** (4 videos)
-- **[[#5. Comparing Measures]]** (10 videos)
-- **[[#6. Transform Your Data with Calculations]]** (14 videos)
-- **[[#7. Mapping Your Data]]** (10 videos)
-- **[[#8 . The Analytics Tab]]** (13 videos)
-- **[[#9. Using Parameters for Viewer Input]]** (9 videos)
-- **[[#10. Dashboard Actions and Design Tips]]** (12 videos)
-- **[[#11. Analysis Tips and Tricks]]** (25 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - The power of Tableau for data scientists
+  - What you should know
+  - Tableau UI tour
+  - Tableau order of operations
+  - Welcome to the Langdon Hotel
+- [**1. Green and Blue Fields, What Do They Mean?**](#1-green-and-blue-fields-what-do-they-mean) (7 videos)
+  - Understand the difference between green and blue fields
+  - How do green and blue fields affect rows and columns?
+  - How do green and blue fields affect filters?
+  - How do green and blue fields affect colors?
+  - How do green and blue fields affect dates?
+  - Challenge: Green and blue
+  - Solution: Green and blue
+- [**2. Connecting to a Source of Data**](#2-connecting-to-a-source-of-data) (8 videos)
+  - How to connect to Excel sheets
+  - How to clean Excel data with the Data Interpreter
+  - How to connect to Google Sheets
+  - How to connect to PDF files and extract tables of data
+  - Setting up the default properties of your data source
+  - Saving your data sources for future use
+  - Challenge: Creating a data source
+  - Solution: Creating a data source
+- [**3. Combining Data**](#3-combining-data) (9 videos)
+  - Combining data using relationships
+  - What are the different ways of joining data?
+  - How to join tables in the same data connection
+  - How to join tables in two using a cross database join
+  - How to append one data source to another using unions
+  - Challenge: Combining data, part 1
+  - Solution: Combining data, part 1
+  - Challenge: Combining data, part 2
+  - Solution: Combining data, part 2
+- [**4. When and How to Create Data Extracts**](#4-when-and-how-to-create-data-extracts) (4 videos)
+  - What are the pros and cons of using a data extract?
+  - How to create a data extract.
+  - How to limit the data in a data extract
+  - How to edit a data extract to include more data
+- [**5. Comparing Measures**](#5-comparing-measures) (10 videos)
+  - What are measure names and measure values?
+  - Creating a combined axis chart
+  - Creating a dual axis chart
+  - Creating a bar-in-bar chart
+  - Creating a multiple measure crosstab
+  - Comparing two measures using a scatter plot
+  - Challenge: Comparing measures, part 1
+  - Solution: Comparing measures, part 1
+  - Challenge: Comparing measures, part 2
+  - Solution: Comparing measures, part 2
+- [**6. Transform Your Data with Calculations**](#6-transform-your-data-with-calculations) (14 videos)
+  - How do calculations work in Tableau?
+  - Understanding the order of operations in calculation
+  - Manipulating strings using string functions
+  - Manipulating dates with date functions
+  - Creating logic calculations using IF functions
+  - How do table calculations work?
+  - Table calc directions
+  - What are Level of Detail (LOD) calculations?
+  - EXCLUDE LOD calculations
+  - INCLUDE LOD calculations
+  - FIXED LOD calculations
+  - Using calculations in a join
+  - Challenge: Calculations
+  - Solution: Calculations
+- [**7. Mapping Your Data**](#7-mapping-your-data) (10 videos)
+  - Just because you can, should you create a map?
+  - How to create an area map
+  - How to create a symbol map
+  - Customizing the look of your maps
+  - Create locations from coordinates
+  - Create lines to connect locations on a map
+  - Analyzing distances using buffer calculations
+  - Analyzing spatial data using intersect calculations
+  - Challenge: Mapping
+  - Solution: Mapping
+- [**8 . The Analytics Tab**](#8-the-analytics-tab) (13 videos)
+  - What is the Analytics pane?
+  - Create a constant reference line
+  - Create a dynamic average reference line
+  - How to create box plots
+  - Adding totals and sub-totals to a view
+  - Adding a forecast to a view
+  - Adding a trend line to a view
+  - Looking for clusters of data in a view
+  - Creating a reference band
+  - Challenge: Analytics, part 1
+  - Solution: Analytics, part 1
+  - Challenge: Analytics, part 2
+  - Solution: Analytics, part 2
+- [**9. Using Parameters for Viewer Input**](#9-using-parameters-for-viewer-input) (9 videos)
+  - How are parameters different compared to filters?
+  - How to use parameters in a calculation
+  - Create dynamic reference lines using parameters
+  - Use a parameter to select dimensions and measures
+  - Use a parameter to search free text fields
+  - Top N analysis
+  - Dynamic parameters
+  - Challenge: Parameters
+  - Solution: Parameters
+- [**10. Dashboard Actions and Design Tips**](#10-dashboard-actions-and-design-tips) (12 videos)
+  - Introducing the dashboard UI
+  - How to create a tiled dashboard
+  - How to create a floating dashboard
+  - How to use filter actions
+  - How to use highlight actions
+  - How to use URL actions
+  - Navigating between dashboards using go to sheet actions
+  - How to use set actions
+  - A deeper look at containers
+  - Challenge: Dashboards
+  - Solution: Dashboards
+  - Solution: Dashboards, continued
+- [**11. Analysis Tips and Tricks**](#11-analysis-tips-and-tricks) (25 videos)
+  - How to create bar charts
+  - How to use colors to highlight data
+  - How to create timelines
+  - How to create small multiple timelines
+  - How to create month-over-month or year-over-year charts
+  - How to create a combined axis bar chart
+  - How to create a combined axis timeline
+  - How to create a dual axis timeline
+  - Two ways to create a crosstab
+  - Enhance a crosstab using colors to create a highlight table
+  - How to turn a crosstab into a heatmap
+  - How to create an area chart
+  - What's the difference between line charts vs. area charts?
+  - How to create 100% area charts
+  - How to create stacked bar charts
+  - How to create a 100% stacked bar chart
+  - How and why to add a running total to a line chart
+  - How to show the difference between values in a line chart
+  - How to create a scatter plot and a bubble chart
+  - How to create a connected scatterplot to show changes over time
+  - How to create a bar-in-bar chart and a candlestick chart
+  - How to create a symbol map
+  - How to create a filled area map
+  - How to create pie charts
+  - How to create Gantt charts
+- [**Conclusion**](#conclusion) (1 videos)
+  - How can I grow my data science and Tableau skills?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of Tableau for data scientists
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/the-power-of-tableau-for-data-scientists?u=76281980)
@@ -531,7 +658,7 @@ created: 2026-04-29
 
 ### 1. Green and Blue Fields, What Do They Mean?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the difference between green and blue fields
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/understand-the-difference-between-green-and-blue-fields?u=76281980)
@@ -1338,7 +1465,7 @@ created: 2026-04-29
 
 ### 2. Connecting to a Source of Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to connect to Excel sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-connect-to-excel-sheets?u=76281980)
@@ -2229,7 +2356,7 @@ created: 2026-04-29
 
 ### 3. Combining Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Combining data using relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/combining-data-using-relationships?u=76281980)
@@ -3407,7 +3534,7 @@ created: 2026-04-29
 
 ### 4. When and How to Create Data Extracts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the pros and cons of using a data extract?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-the-pros-and-cons-of-using-a-data-extract?u=76281980)
@@ -4015,7 +4142,7 @@ created: 2026-04-29
 
 ### 5. Comparing Measures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are measure names and measure values?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-are-measure-names-and-measure-values?u=76281980)
@@ -5300,7 +5427,7 @@ created: 2026-04-29
 
 ### 6. Transform Your Data with Calculations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do calculations work in Tableau?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-do-calculations-work-in-tableau?u=76281980)
@@ -6963,7 +7090,7 @@ created: 2026-04-29
 
 ### 7. Mapping Your Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Just because you can, should you create a map?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/just-because-you-can-should-you-create-a-map?u=76281980)
@@ -8401,7 +8528,7 @@ created: 2026-04-29
 
 ### 8 . The Analytics Tab
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the Analytics pane?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/what-is-the-analytics-tab?u=76281980)
@@ -9919,7 +10046,7 @@ created: 2026-04-29
 
 ### 9. Using Parameters for Viewer Input
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How are parameters different compared to filters?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-are-parameters-different-to-filters?u=76281980)
@@ -11263,7 +11390,7 @@ created: 2026-04-29
 
 ### 10. Dashboard Actions and Design Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the dashboard UI
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/introducing-the-dashboard-ui?u=76281980)
@@ -13019,7 +13146,7 @@ created: 2026-04-29
 
 ### 11. Analysis Tips and Tricks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create bar charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-to-create-bar-charts?u=76281980)
@@ -14671,7 +14798,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How can I grow my data science and Tableau skills?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-tableau-for-data-scientists/how-can-i-grow-my-data-science-and-tableau-skills?u=76281980)

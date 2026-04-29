@@ -45,17 +45,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding and Overcoming Communication Barriers]]** (2 videos)
-- **[[#2. Difficult Conversations Are Part of the Manager's Job]]** (3 videos)
-- **[[#3. Avoid These Common Mistakes]]** (4 videos)
-- **[[#4. Mindsets That Expand Conflict Competency]]** (2 videos)
-- **[[#5. Build Strategic Communication Skills]]** (5 videos)
-- **[[#Making Tough Calls]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Leadership skills and mindsets for difficult conversations
+- [**1. Understanding and Overcoming Communication Barriers**](#1-understanding-and-overcoming-communication-barriers) (2 videos)
+  - Your conversation style
+  - Overcome the main barrier of difficult conversations
+- [**2. Difficult Conversations Are Part of the Manager's Job**](#2-difficult-conversations-are-part-of-the-managers-job) (3 videos)
+  - How to know it's time for a conversation
+  - Managing emotions
+  - How to address avoided issues
+- [**3. Avoid These Common Mistakes**](#3-avoid-these-common-mistakes) (4 videos)
+  - Online communication mistakes
+  - Playing "power of attorney"
+  - Fixing and rescuing
+  - Getting distracted and losing control
+- [**4. Mindsets That Expand Conflict Competency**](#4-mindsets-that-expand-conflict-competency) (2 videos)
+  - Mindsets: Growth versus fixed
+  - Replace assumptions with curiosity
+- [**5. Build Strategic Communication Skills**](#5-build-strategic-communication-skills) (5 videos)
+  - Setting communication expectations
+  - Mapping out difficult conversations
+  - Discerning the real communication issue
+  - Listen to own the conversation
+  - Course correct problems
+- [**Making Tough Calls**](#making-tough-calls) (2 videos)
+  - Create a culture of accountability
+  - Making good decisions
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leadership skills and mindsets for difficult conversations
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/leadership-skills-and-mindsets-for-difficult-conversations-19253142?u=76281980)
@@ -86,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Understanding and Overcoming Communication Barriers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your conversation style
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/your-conversation-style-19258021?u=76281980)
@@ -254,7 +273,7 @@ created: 2026-04-29
 
 ### 2. Difficult Conversations Are Part of the Manager's Job
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to know it's time for a conversation
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/how-to-know-it-s-time-for-a-conversation-19255036?u=76281980)
@@ -513,7 +532,7 @@ created: 2026-04-29
 
 ### 3. Avoid These Common Mistakes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Online communication mistakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/online-communication-mistakes?u=76281980)
@@ -901,7 +920,7 @@ created: 2026-04-29
 
 ### 4. Mindsets That Expand Conflict Competency
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mindsets: Growth versus fixed
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/mindsets-growth-versus-fixed-19258020?u=76281980)
@@ -1078,7 +1097,7 @@ created: 2026-04-29
 
 ### 5. Build Strategic Communication Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting communication expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/setting-communication-expectations?u=76281980)
@@ -1512,7 +1531,7 @@ created: 2026-04-29
 
 ### Making Tough Calls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a culture of accountability
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-manager-s-guide-to-difficult-conversations/create-a-culture-of-accountability-19248781?u=76281980)

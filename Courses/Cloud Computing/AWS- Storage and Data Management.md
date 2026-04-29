@@ -50,19 +50,87 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Overview]]** (3 videos)
-- **[[#2. Object Storage]]** (11 videos)
-- **[[#3. File Systems]]** (10 videos)
-- **[[#4. Database Services]]** (9 videos)
-- **[[#5. Getting Data to AWS]]** (20 videos)
-- **[[#6. Moving Data in AWS]]** (7 videos)
-- **[[#7. Backup]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Storage and AWS
+  - What you should know
+  - Exercise files
+- [**1. Overview**](#1-overview) (3 videos)
+  - What is data management?
+  - Data security in AWS
+  - Regulatory compliance and AWS
+- [**2. Object Storage**](#2-object-storage) (11 videos)
+  - AWS S3 basics
+  - Durability and availability
+  - S3 bucket creation
+  - S3 upload and logging
+  - S3 cross-region replication
+  - Set up SNS for event notifications
+  - Set up S3 for event notifications
+  - AWS Glacier and S3 lifecycle rules
+  - S3 data lifecycle configuration
+  - Versioning in S3
+  - S3 teardown
+- [**3. File Systems**](#3-file-systems) (10 videos)
+  - Elastic Block Storage
+  - Create an instance with multiple EBS volumes
+  - Modify the type and size of an EBS volume
+  - Detach and reattach an EBS volume
+  - EBS backup, restore, and schedule with CloudWatch
+  - Elastic File System
+  - EFS demo create EFS
+  - EFS demo mount EFS
+  - EBS and EFS teardown
+  - Amazon FSx
+- [**4. Database Services**](#4-database-services) (9 videos)
+  - RDS
+  - Create a MySQL RDS instance
+  - Connect with MySQL Workbench
+  - Create an Aurora read replica
+  - RDS backup and recovery
+  - RDS teardown
+  - DynamoDB
+  - Create a DynamoDB table
+  - Dynamo teardown
+- [**5. Getting Data to AWS**](#5-getting-data-to-aws) (20 videos)
+  - Move data to AWS
+  - Transfer data using the AWS CLI
+  - Storage Gateway
+  - Configure File Gateway and shares
+  - Connect to File Gateway via NFS
+  - File Gateway teardown
+  - Transfer data with AWS Snowball
+  - AWS Database Migration Service
+  - DMS demo: Setup steps
+  - DMS demo: Create replication instance
+  - DMS demo: Create and execute task
+  - DMS teardown
+  - AWS SFTP service
+  - AWS SFTP prerequisites
+  - Create an SFTP endpoint
+  - Send data to S3 using AWS SFTP
+  - AWS SFTP teardown
+  - AWS DataSync
+  - Move data with AWS DataSync
+  - AWS DataSync teardown
+- [**6. Moving Data in AWS**](#6-moving-data-in-aws) (7 videos)
+  - AWS Glue overview
+  - AWS Glue: Create an S3 metadata crawler
+  - AWS Glue networking
+  - AWS Glue: Create a connection to RDS
+  - AWS Glue: RDS data crawler
+  - AWS Glue: Create and run a job
+  - Glue and course teardown
+- [**7. Backup**](#7-backup) (4 videos)
+  - Understand AWS Backup
+  - Create and configure an AWS Backup job
+  - Restore from backup
+  - AWS Backup teardown
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage and AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/storage-and-aws?u=76281980)
@@ -168,7 +236,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/what-is-data-management?u=76281980)
@@ -410,7 +478,7 @@ created: 2026-04-29
 
 ### 2. Object Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS S3 basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-s3-basics?u=76281980)
@@ -1645,7 +1713,7 @@ created: 2026-04-29
 
 ### 3. File Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elastic Block Storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/elastic-block-storage?u=76281980)
@@ -2816,7 +2884,7 @@ created: 2026-04-29
 
 ### 4. Database Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### RDS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/rds?u=76281980)
@@ -3904,7 +3972,7 @@ created: 2026-04-29
 
 ### 5. Getting Data to AWS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Move data to AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/move-data-to-aws?u=76281980)
@@ -6114,7 +6182,7 @@ created: 2026-04-29
 
 ### 6. Moving Data in AWS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS Glue overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/aws-glue-overview?u=76281980)
@@ -6852,7 +6920,7 @@ created: 2026-04-29
 
 ### 7. Backup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand AWS Backup
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/understand-aws-backup?u=76281980)
@@ -7289,7 +7357,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-storage-and-data-management-17535108/next-steps?u=76281980)

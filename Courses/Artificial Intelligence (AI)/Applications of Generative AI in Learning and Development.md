@@ -54,16 +54,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Laying the Foundation with GenAI:  Needs and Strategic Alignment]]** (2 videos)
-- **[[#2. Designing the Program: Structure and Content Development]]** (2 videos)
-- **[[#3. Developing and Delivering Effective Training: Content ,Tools, Techniques, and Methods]]** (2 videos)
-- **[[#4. Assessing and Evaluating  Effectiveness]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Discover the power of generative AI for learning and development
+- [**1. Laying the Foundation with GenAI:  Needs and Strategic Alignment**](#1-laying-the-foundation-with-genai-needs-and-strategic-alignment) (2 videos)
+  - Creating needs assessments with generative AI
+  - Aligning learning objectives with strategic goals using AI
+- [**2. Designing the Program: Structure and Content Development**](#2-designing-the-program-structure-and-content-development) (2 videos)
+  - Crafting a program structure with generative AI
+  - Outlining training with generative AI
+- [**3. Developing and Delivering Effective Training: Content ,Tools, Techniques, and Methods**](#3-developing-and-delivering-effective-training-content-tools-techniques-and-methods) (2 videos)
+  - Creating and curating content with generative AI
+  - Creating exercises, simulations, and role plays
+- [**4. Assessing and Evaluating  Effectiveness**](#4-assessing-and-evaluating-effectiveness) (1 videos)
+  - Designing assessment tools with generative AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover the power of generative AI for learning and development
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/discover-the-power-of-gen-ai-for-learning-and-development?u=76281980)
@@ -96,7 +105,7 @@ created: 2026-04-29
 
 ### 1. Laying the Foundation with GenAI:  Needs and Strategic Alignment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating needs assessments with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-needs-assessments-with-gen-ai?u=76281980)
@@ -252,7 +261,7 @@ created: 2026-04-29
 
 ### 2. Designing the Program: Structure and Content Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Crafting a program structure with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/crafting-a-program-structure-with-genai?u=76281980)
@@ -374,7 +383,7 @@ created: 2026-04-29
 
 ### 3. Developing and Delivering Effective Training: Content ,Tools, Techniques, and Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and curating content with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/creating-and-curating-content-with-gen-ai?u=76281980)
@@ -526,7 +535,7 @@ created: 2026-04-29
 
 ### 4. Assessing and Evaluating  Effectiveness
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing assessment tools with generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/designing-assessment-tools-with-genai?u=76281980)
@@ -606,7 +615,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/applications-of-generative-ai-in-learning-and-development/completed-after-script-development?u=76281980)

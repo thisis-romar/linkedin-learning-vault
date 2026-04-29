@@ -56,17 +56,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. New Paradigm of AI Audits]]** (4 videos)
-- **[[#2. Why Audit AI Systems?]]** (4 videos)
-- **[[#3. Data for AI Audits]]** (3 videos)
-- **[[#4. Principles for AI Audits]]** (4 videos)
-- **[[#5. Model Audits]]** (6 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to the new world of AI audits
+- [**1. New Paradigm of AI Audits**](#1-new-paradigm-of-ai-audits) (4 videos)
+  - What is an AI audit?
+  - How are audits used?
+  - The state of AI legislation
+  - Ethics of scoring and classifying humans
+- [**2. Why Audit AI Systems?**](#2-why-audit-ai-systems) (4 videos)
+  - AI audit limitations and opportunities
+  - Development workflows
+  - AI performance
+  - Statistical parity
+- [**3. Data for AI Audits**](#3-data-for-ai-audits) (3 videos)
+  - Data for auditing AI
+  - Sources of bias in data
+  - Types of bias and data sampling methods
+- [**4. Principles for AI Audits**](#4-principles-for-ai-audits) (4 videos)
+  - Why explainability matters
+  - Levels of transparency
+  - Responsible AI principles: Compliance
+  - Preparing for AI regulation
+- [**5. Model Audits**](#5-model-audits) (6 videos)
+  - Types of model audits
+  - Stages of a model audit
+  - Model audit: Home loans
+  - Auditing training data
+  - Audit outcomes: Explainability statements
+  - Continuous audits
+- [**Conclusion**](#conclusion) (2 videos)
+  - Generative AI
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the new world of AI audits
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/welcome-to-the-new-world-of-ai-audits?u=76281980)
@@ -92,7 +116,7 @@ created: 2026-04-29
 
 ### 1. New Paradigm of AI Audits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an AI audit?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/what-is-an-ai-audit?u=76281980)
@@ -378,7 +402,7 @@ created: 2026-04-29
 
 ### 2. Why Audit AI Systems?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI audit limitations and opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/ai-audit-limitations-and-opportunities?u=76281980)
@@ -654,7 +678,7 @@ created: 2026-04-29
 
 ### 3. Data for AI Audits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data for auditing AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/data-for-auditing-ai?u=76281980)
@@ -866,7 +890,7 @@ created: 2026-04-29
 
 ### 4. Principles for AI Audits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why explainability matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/why-explainability-matters?u=76281980)
@@ -1172,7 +1196,7 @@ created: 2026-04-29
 
 ### 5. Model Audits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of model audits
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/types-of-model-audits?u=76281980)
@@ -1519,7 +1543,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-auditing-ai-systems/generative-ai?u=76281980)

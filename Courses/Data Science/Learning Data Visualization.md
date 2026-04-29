@@ -51,16 +51,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Big Idea]]** (3 videos)
-- **[[#2. What to Think About]]** (7 videos)
-- **[[#3. Selecting the Visualization Type]]** (12 videos)
-- **[[#4. Designing Visualizations for Impact]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The essence of data visualization
+- [**1. Big Idea**](#1-big-idea) (3 videos)
+  - What is data visualization?
+  - Ask what makes a good data visualization
+  - Why visualize data?
+- [**2. What to Think About**](#2-what-to-think-about) (7 videos)
+  - Three focal points
+  - What your data is saying
+  - What your audience needs to hear
+  - What you really want to say
+  - Explanatory vs. exploratory
+  - The true "so what" and goals
+  - Human visual perception and pre-attentive processing
+- [**3. Selecting the Visualization Type**](#3-selecting-the-visualization-type) (12 videos)
+  - Choose charts with intention
+  - Cheat sheets
+  - What goes in the chart?
+  - Comparison visualizations
+  - Correlation visualizations
+  - Distribution visualizations
+  - Composition visualizations
+  - Geographic visualizations
+  - Flow visualizations
+  - Hierarchical visualizations
+  - Creative, innovative visualizations
+  - Other factors when choosing visualizations
+- [**4. Designing Visualizations for Impact**](#4-designing-visualizations-for-impact) (11 videos)
+  - The importance of sketching
+  - What's the "so what"?
+  - Pre-attentive processing and design
+  - Keeping it fresh and predictable
+  - Thoughtful use of color
+  - Setting scales
+  - Labels and annotations
+  - Making numbers relatable
+  - Accessibility
+  - When and how to use animation and interactivity
+  - Ruthless editing
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The essence of data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-essence-of-data-visualization?u=76281980)
@@ -110,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Big Idea
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data visualization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/what-is-data-visualization?u=76281980)
@@ -278,7 +313,7 @@ created: 2026-04-29
 
 ### 2. What to Think About
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three focal points
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/three-focal-points?u=76281980)
@@ -753,7 +788,7 @@ created: 2026-04-29
 
 ### 3. Selecting the Visualization Type
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose charts with intention
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/choose-charts-with-intention?u=76281980)
@@ -1690,7 +1725,7 @@ created: 2026-04-29
 
 ### 4. Designing Visualizations for Impact
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of sketching
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/the-importance-of-sketching?u=76281980)
@@ -2507,7 +2542,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-visualization-15572314/next-steps?u=76281980)

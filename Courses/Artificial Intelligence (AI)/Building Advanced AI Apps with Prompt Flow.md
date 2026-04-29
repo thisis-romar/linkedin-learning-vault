@@ -48,13 +48,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Exploring Prompt Flow]]** (8 videos)
-- **[[#2. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Prompt Flow: Your toolkit to build AI apps
+- [**1. Exploring Prompt Flow**](#1-exploring-prompt-flow) (8 videos)
+  - What is Prompt Flow?
+  - Exploring the Prompt Flow repo in Codespaces
+  - Exploring the Prompt Flow VS Code extension
+  - Creating a connection to OpenAI
+  - Running Prompt Flow examples
+  - Anatomy of a Prompt Flow
+  - Prompt variants
+  - Batch testing of flows
+- [**2. Conclusion**](#2-conclusion) (1 videos)
+  - Going further with Prompt Flow
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt Flow: Your toolkit to build AI apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980)
@@ -87,7 +97,7 @@ created: 2026-04-29
 
 ### 1. Exploring Prompt Flow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Prompt Flow?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980)
@@ -922,7 +932,7 @@ created: 2026-04-29
 
 ### 2. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going further with Prompt Flow
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980)

@@ -46,24 +46,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Define Your Project]]** (5 videos)
-- **[[#2. List the Tasks]]** (2 videos)
-- **[[#3. Plan the Running Order]]** (3 videos)
-- **[[#4. Add Contingency]]** (2 videos)
-- **[[#5. Crashing]]** (1 videos)
-- **[[#6. Gantt Chart]]** (5 videos)
-- **[[#7. Resources]]** (2 videos)
-- **[[#8. Risk]]** (1 videos)
-- **[[#9. Monitor Progress]]** (1 videos)
-- **[[#10. Monitor Cost]]** (3 videos)
-- **[[#11. Re-adjust the Plan]]** (2 videos)
-- **[[#12. Review]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Project management: A priceless skill
+  - Introduction to the 12-step process
+- [**1. Define Your Project**](#1-define-your-project) (5 videos)
+  - What is a project?
+  - Define the Iron Triangle
+  - Plan before you commit
+  - Kick-off meetings
+  - Key project drivers
+- [**2. List the Tasks**](#2-list-the-tasks) (2 videos)
+  - Three ways to list all the project tasks
+  - Choose the level of granularity
+- [**3. Plan the Running Order**](#3-plan-the-running-order) (3 videos)
+  - Use Post-its to plan the order of tasks
+  - How to estimate durations
+  - The importance of your project's critical path
+- [**4. Add Contingency**](#4-add-contingency) (2 videos)
+  - How much safety margin does a project need?
+  - How to calculate and add contingency
+- [**5. Crashing**](#5-crashing) (1 videos)
+  - How to speed up your plan
+- [**6. Gantt Chart**](#6-gantt-chart) (5 videos)
+  - How to create a Gantt chart
+  - A reason to love Gantt charts
+  - Set up a basic Gantt chart in Excel
+  - Add names and dates to your Gantt
+  - Add time and money to your Gantt
+- [**7. Resources**](#7-resources) (2 videos)
+  - Resource planning for one project
+  - Resource planning for multiple projects
+- [**8. Risk**](#8-risk) (1 videos)
+  - How to create a Risk chart
+- [**9. Monitor Progress**](#9-monitor-progress) (1 videos)
+  - How to monitor project progress
+- [**10. Monitor Cost**](#10-monitor-cost) (3 videos)
+  - Cost monitoring: The potential traps
+  - The six combinations of progress and spend
+  - How to forecast future cost
+- [**11. Re-adjust the Plan**](#11-re-adjust-the-plan) (2 videos)
+  - When to re-adjust the plan
+  - What to do when your project is late or over budget
+- [**12. Review**](#12-review) (2 videos)
+  - Why people avoid reviewing projects
+  - How to review a project
+- [**Conclusion**](#conclusion) (1 videos)
+  - Apply the simple 12-step process
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Project management: A priceless skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/project-management-a-priceless-skill-24309081?u=76281980)
@@ -186,7 +218,7 @@ created: 2026-04-29
 
 ### 1. Define Your Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a project?
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/what-is-a-project-24302498?u=76281980)
@@ -511,7 +543,7 @@ created: 2026-04-29
 
 ### 2. List the Tasks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three ways to list all the project tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/three-ways-to-list-all-the-project-tasks-24307155?u=76281980)
@@ -652,7 +684,7 @@ created: 2026-04-29
 
 ### 3. Plan the Running Order
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Post-its to plan the order of tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/use-post-its-to-plan-the-order-of-tasks-24301534?u=76281980)
@@ -846,7 +878,7 @@ created: 2026-04-29
 
 ### 4. Add Contingency
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How much safety margin does a project need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-much-safety-margin-does-a-project-need-24302494?u=76281980)
@@ -1013,7 +1045,7 @@ created: 2026-04-29
 
 ### 5. Crashing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to speed up your plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-speed-up-your-plan-24302497?u=76281980)
@@ -1079,7 +1111,7 @@ created: 2026-04-29
 
 ### 6. Gantt Chart
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create a Gantt chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-gantt-chart-24304474?u=76281980)
@@ -1671,7 +1703,7 @@ created: 2026-04-29
 
 ### 7. Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Resource planning for one project
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/resource-planning-for-one-project-24303470?u=76281980)
@@ -1807,7 +1839,7 @@ created: 2026-04-29
 
 ### 8. Risk
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create a Risk chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-create-a-risk-chart-24303471?u=76281980)
@@ -1876,7 +1908,7 @@ created: 2026-04-29
 
 ### 9. Monitor Progress
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to monitor project progress
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/how-to-monitor-project-progress-24304471?u=76281980)
@@ -1965,7 +1997,7 @@ created: 2026-04-29
 
 ### 10. Monitor Cost
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cost monitoring: The potential traps
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/cost-monitoring-the-potential-traps-24303468?u=76281980)
@@ -2206,7 +2238,7 @@ created: 2026-04-29
 
 ### 11. Re-adjust the Plan
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to re-adjust the plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/when-to-re-adjust-the-plan-24306293?u=76281980)
@@ -2322,7 +2354,7 @@ created: 2026-04-29
 
 ### 12. Review
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why people avoid reviewing projects
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/why-people-avoid-reviewing-projects?u=76281980)
@@ -2459,7 +2491,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply the simple 12-step process
 > [LinkedIn Learning](https://www.linkedin.com/learning/project-management-simplified-2019/apply-the-simple-12-step-process-24301535?u=76281980)

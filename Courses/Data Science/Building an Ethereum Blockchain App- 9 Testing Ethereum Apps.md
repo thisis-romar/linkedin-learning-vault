@@ -54,11 +54,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Testing Ethereum Apps]]** (10 videos)
+- [**1. Testing Ethereum Apps**](#1-testing-ethereum-apps) (10 videos)
+  - Blockchain dApp testing
+  - Deploying your dApp to a test blockchain
+  - Writing tests for Ethereum dApps
+  - Command-line testing, part 1
+  - Command-line testing, part 2
+  - Command-line testing, part 3
+  - JavaScript testing
+  - Logging and handling errors
+  - Logging activity in smart contracts
+  - Fixing bugs in a dApp
 
 ### 1. Testing Ethereum Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain dApp testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-9-testing-ethereum-apps/blockchain-dapp-testing?u=76281980)

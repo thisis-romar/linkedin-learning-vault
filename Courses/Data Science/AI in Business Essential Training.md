@@ -48,15 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Artificial Intelligence (AI)]]** (7 videos)
-- **[[#2. Data Analytics and Optimization]]** (4 videos)
-- **[[#3. Using AI in Business]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - AI for business decisions
+- [**1. Artificial Intelligence (AI)**](#1-artificial-intelligence-ai) (7 videos)
+  - What is AI?
+  - How does AI work?
+  - Optimization and AI
+  - What is optimization?
+  - Pattern and shape recognition and AI
+  - Expert systems
+  - Generative AI
+- [**2. Data Analytics and Optimization**](#2-data-analytics-and-optimization) (4 videos)
+  - Basics of data analytics
+  - Regression analysis and forecasting
+  - Using data to make an optimized decision
+  - Taking data analytics to the next level: AI
+- [**3. Using AI in Business**](#3-using-ai-in-business) (9 videos)
+  - Overview of uses of AI in business
+  - Operational decision making and AI
+  - Building a basic AI algorithm
+  - AI in financial markets
+  - AI in marketing
+  - AI and product pricing
+  - Human brakes on AI
+  - Where AI does not work
+  - Best practices with AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI for business decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/ai-for-business-decisions?u=76281980)
@@ -93,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Artificial Intelligence (AI)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/what-is-ai?u=76281980)
@@ -616,7 +638,7 @@ created: 2026-04-29
 
 ### 2. Data Analytics and Optimization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/basics-of-data-analytics?u=76281980)
@@ -1057,7 +1079,7 @@ created: 2026-04-29
 
 ### 3. Using AI in Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of uses of AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/overview-of-uses-of-ai-in-business?u=76281980)
@@ -1846,7 +1868,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-in-business-essential-training/next-steps?u=76281980)

@@ -50,17 +50,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Data Sharing: Risks and Possibilities]]** (5 videos)
-- **[[#2. Solving for Data Sharing]]** (4 videos)
-- **[[#3. k-Anonymity and Data Sharing]]** (5 videos)
-- **[[#4. l-Diversity]]** (2 videos)
-- **[[#5. The Challenge of Privacy: Your Digital Fingerprint]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - Who this course is for
+  - Data classification as part of data governance
+- [**1. Data Sharing: Risks and Possibilities**](#1-data-sharing-risks-and-possibilities) (5 videos)
+  - How data sharing works: The ads use case
+  - How data sharing can go wrong
+  - Data sharing risks: A case study
+  - When data sharing should raise red flags
+  - Valid reasons for data sharing
+- [**2. Solving for Data Sharing**](#2-solving-for-data-sharing) (4 videos)
+  - Techniques to minimize privacy risk
+  - Anonymization concepts
+  - Anonymization techniques
+  - Encryption
+- [**3. k-Anonymity and Data Sharing**](#3-k-anonymity-and-data-sharing) (5 videos)
+  - What is k-anonymity?
+  - k-Anonymity: A use case
+  - k-Anonymity: With very coarse data
+  - k-Anonymity: With very granular data
+  - k-Anonymity: Industry best practice
+- [**4. l-Diversity**](#4-l-diversity) (2 videos)
+  - How l-diversity helps privacy
+  - k-Anonymity vs. l-diversity
+- [**5. The Challenge of Privacy: Your Digital Fingerprint**](#5-the-challenge-of-privacy-your-digital-fingerprint) (3 videos)
+  - Your physical fingerprint
+  - Your digital fingerprint
+  - The power of joining outside data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/welcome?u=76281980)
@@ -208,7 +231,7 @@ created: 2026-04-29
 
 ### 1. Data Sharing: Risks and Possibilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How data sharing works: The ads use case
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-works-the-ads-use-case?u=76281980)
@@ -626,7 +649,7 @@ created: 2026-04-29
 
 ### 2. Solving for Data Sharing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Techniques to minimize privacy risk
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980)
@@ -1053,7 +1076,7 @@ created: 2026-04-29
 
 ### 3. k-Anonymity and Data Sharing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is k-anonymity?
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980)
@@ -1259,7 +1282,7 @@ created: 2026-04-29
 
 ### 4. l-Diversity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How l-diversity helps privacy
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-l-diversity-helps-privacy?u=76281980)
@@ -1335,7 +1358,7 @@ created: 2026-04-29
 
 ### 5. The Challenge of Privacy: Your Digital Fingerprint
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your physical fingerprint
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-physical-fingerprint?u=76281980)
@@ -1440,7 +1463,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980)

@@ -54,18 +54,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. A Developer's Life]]** (3 videos)
-- **[[#2. Core Technologies]]** (4 videos)
-- **[[#3. Core Concepts]]** (5 videos)
-- **[[#4. Supporting Technologies]]** (5 videos)
-- **[[#5. Education]]** (4 videos)
-- **[[#6. Getting a Job]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Becoming a web developer
+- [**1. A Developer's Life**](#1-a-developers-life) (3 videos)
+  - Types of web developers
+  - Is the developer life for me?
+  - How much can I make?
+- [**2. Core Technologies**](#2-core-technologies) (4 videos)
+  - HTML as the foundation
+  - CSS for design
+  - JavaScript for interactivity
+  - HTTP(S) for connecting
+- [**3. Core Concepts**](#3-core-concepts) (5 videos)
+  - How the internet works
+  - Building accessible projects
+  - Design methodologies
+  - Development approaches
+  - Version control
+- [**4. Supporting Technologies**](#4-supporting-technologies) (5 videos)
+  - Server technologies
+  - Back-end languages
+  - Developer tools
+  - Frameworks and libraries
+  - APIs and services
+- [**5. Education**](#5-education) (4 videos)
+  - What education do I need?
+  - Traditional education
+  - Coding bootcamps
+  - Online learning
+- [**6. Getting a Job**](#6-getting-a-job) (4 videos)
+  - How do developers find jobs?
+  - The hiring process
+  - Compensation
+  - Negotiating the best deal
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a web developer
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/becoming-a-web-developer?u=76281980)
@@ -117,7 +144,7 @@ created: 2026-04-29
 
 ### 1. A Developer's Life
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of web developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/types-of-web-developers?u=76281980)
@@ -254,7 +281,7 @@ created: 2026-04-29
 
 ### 2. Core Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### HTML as the foundation
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/html-as-the-foundation?u=76281980)
@@ -483,7 +510,7 @@ created: 2026-04-29
 
 ### 3. Core Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How the internet works
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-the-internet-works?u=76281980)
@@ -810,7 +837,7 @@ created: 2026-04-29
 
 ### 4. Supporting Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Server technologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/server-technologies?u=76281980)
@@ -1109,7 +1136,7 @@ created: 2026-04-29
 
 ### 5. Education
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What education do I need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/what-education-do-i-need?u=76281980)
@@ -1317,7 +1344,7 @@ created: 2026-04-29
 
 ### 6. Getting a Job
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do developers find jobs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/how-do-developers-find-jobs?u=76281980)
@@ -1587,7 +1614,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end/next-steps?u=76281980)

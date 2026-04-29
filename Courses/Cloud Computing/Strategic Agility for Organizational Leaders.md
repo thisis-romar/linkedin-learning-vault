@@ -55,17 +55,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Leading with Strategic Agility]]** (4 videos)
-- **[[#2. Strategic Agiity Mindset]]** (3 videos)
-- **[[#3. Strategic Agility Skillset]]** (3 videos)
-- **[[#4. Strategic Agility Toolset]]** (4 videos)
-- **[[#5. Continuous Agility]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Strategic agility and the pace of change
+- [**1. Leading with Strategic Agility**](#1-leading-with-strategic-agility) (4 videos)
+  - Strategic agility is critical to leadership today
+  - From change management to transformation
+  - Strategic agility for the modern organization
+  - Strategic agility: Mindset, skillset, toolset
+- [**2. Strategic Agiity Mindset**](#2-strategic-agiity-mindset) (3 videos)
+  - Strategic mindset powered by AI
+  - Mindset change powered by AI
+  - Taking intelligent risks
+- [**3. Strategic Agility Skillset**](#3-strategic-agility-skillset) (3 videos)
+  - Strategic skills
+  - Strategic skill development with AI
+  - Build agile teams that thrive in uncertainty
+- [**4. Strategic Agility Toolset**](#4-strategic-agility-toolset) (4 videos)
+  - Practicing futures thinking
+  - Moonshot thinking and prototyping
+  - AI-powered practices to fuel strategic agility
+  - Executing AI-powered strategy
+- [**5. Continuous Agility**](#5-continuous-agility) (2 videos)
+  - Developing strategic foresight
+  - Being continuously agile
+- [**Conclusion**](#conclusion) (1 videos)
+  - Activating strategic agility
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic agility and the pace of change
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-and-the-pace-of-change?u=76281980)
@@ -92,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Leading with Strategic Agility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic agility is critical to leadership today
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980)
@@ -421,7 +439,7 @@ created: 2026-04-29
 
 ### 2. Strategic Agiity Mindset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic mindset powered by AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980)
@@ -655,7 +673,7 @@ created: 2026-04-29
 
 ### 3. Strategic Agility Skillset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategic skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980)
@@ -868,7 +886,7 @@ created: 2026-04-29
 
 ### 4. Strategic Agility Toolset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practicing futures thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980)
@@ -1180,7 +1198,7 @@ created: 2026-04-29
 
 ### 5. Continuous Agility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing strategic foresight
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980)
@@ -1316,7 +1334,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Activating strategic agility
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/activating-strategic-agility?u=76281980)

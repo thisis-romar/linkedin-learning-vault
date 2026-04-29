@@ -49,17 +49,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What's Next in Your Career]]** (2 videos)
-- **[[#2. Plant]]** (4 videos)
-- **[[#3. Scan]]** (4 videos)
-- **[[#4. Pilot]]** (4 videos)
-- **[[#5. Lead]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome
+- [**1. What's Next in Your Career**](#1-whats-next-in-your-career) (2 videos)
+  - The career pivot methodology
+  - Pivoting for impact within your current role
+- [**2. Plant**](#2-plant) (4 videos)
+  - Reverse engineer past career pivots
+  - Inventory your strengths: What's working best?
+  - Craft the vision: What does success look like one year from now?
+  - Identify your pivot brackets: Knowns and unknowns
+- [**3. Scan**](#3-scan) (4 videos)
+  - Scan your network for connection opportunities
+  - Create a skill-building game plan
+  - Create accountability with friend mentors
+  - Make yourself discoverable: Find problems you can help solve
+- [**4. Pilot**](#4-pilot) (4 videos)
+  - Take small steps to experiment in your career
+  - Aim for the three Es: What makes a strong pilot?
+  - Build momentum from small experiments
+  - Cycle through the pivot process
+- [**5. Lead**](#5-lead) (3 videos)
+  - Apply pivot as coaching or conversation framework
+  - Career coaching dos and don'ts
+  - Care: Listen deeply
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/welcome-18780141?u=76281980)
@@ -95,7 +114,7 @@ created: 2026-04-29
 
 ### 1. What's Next in Your Career
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The career pivot methodology
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/the-career-pivot-methodology?u=76281980)
@@ -264,7 +283,7 @@ created: 2026-04-29
 
 ### 2. Plant
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reverse engineer past career pivots
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/reverse-engineer-past-career-pivots?u=76281980)
@@ -530,7 +549,7 @@ created: 2026-04-29
 
 ### 3. Scan
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scan your network for connection opportunities
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/scan-your-network-for-connection-opportunities?u=76281980)
@@ -795,7 +814,7 @@ created: 2026-04-29
 
 ### 4. Pilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take small steps to experiment in your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/take-small-steps-to-experiment-in-your-career?u=76281980)
@@ -1097,7 +1116,7 @@ created: 2026-04-29
 
 ### 5. Lead
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apply pivot as coaching or conversation framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/apply-pivot-as-coaching-or-conversation-framework-18777323?u=76281980)
@@ -1340,7 +1359,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/figuring-out-your-next-move/next-steps-18777324?u=76281980)

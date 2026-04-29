@@ -39,12 +39,22 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI Productivity Hacks]]** (9 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Improve productivity with AI
+- [**1. AI Productivity Hacks**](#1-ai-productivity-hacks) (9 videos)
+  - Adopt an AI-augmented mindset
+  - The seven work tasks where AI can help you do more
+  - AI can help you advance in your career
+  - Think smarter and focus better with AI
+  - Communicate and influence better with AI
+  - Collaborate better with AI
+  - Generate content with AI
+  - Make decisions with AI
+  - Futureproof your work with AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve productivity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980)
@@ -83,7 +93,7 @@ created: 2026-04-29
 
 ### 1. AI Productivity Hacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adopt an AI-augmented mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980)

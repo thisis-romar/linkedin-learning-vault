@@ -38,12 +38,17 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. OpenAI's Operator]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Accelerate everyday tasks with OpenAI's Operator
+- [**1. OpenAI's Operator**](#1-openais-operator) (4 videos)
+  - What is an agent?
+  - Creating and monitoring tasks with OpenAI's Operator
+  - Operator options and settings
+  - Is Operator safe?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accelerate everyday tasks with OpenAI's Operator
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/accelerate-everyday-tasks-with-openai-s-operator?u=76281980)
@@ -81,7 +86,7 @@ created: 2026-04-29
 
 ### 1. OpenAI's Operator
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an agent?
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-s-operator-automating-everyday-tasks-with-ai-agents/what-is-an-agent?u=76281980)

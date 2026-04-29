@@ -53,15 +53,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Security Engineering Career Basics]]** (3 videos)
-- **[[#2. How to Become a Security Engineer]]** (5 videos)
-- **[[#3. Day in the Life]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Becoming a security engineer
+- [**1. Security Engineering Career Basics**](#1-security-engineering-career-basics) (3 videos)
+  - What is a security engineer?
+  - What's the difference?
+  - Why pursue a career in cybersecurity?
+- [**2. How to Become a Security Engineer**](#2-how-to-become-a-security-engineer) (5 videos)
+  - Do your research
+  - Develop your skill set
+  - Certification options
+  - Benefits of networking
+  - Interviewing for a security engineering position
+- [**3. Day in the Life**](#3-day-in-the-life) (3 videos)
+  - Day in the life of a cloud security engineer
+  - Common challenges
+  - Solving problems
+- [**Conclusion**](#conclusion) (1 videos)
+  - The fun doesn't end
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a security engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/becoming-a-security-engineer?u=76281980)
@@ -95,7 +108,7 @@ created: 2026-04-29
 
 ### 1. Security Engineering Career Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a security engineer?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980)
@@ -296,7 +309,7 @@ created: 2026-04-29
 
 ### 2. How to Become a Security Engineer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Do your research
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980)
@@ -671,7 +684,7 @@ created: 2026-04-29
 
 ### 3. Day in the Life
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Day in the life of a cloud security engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980)
@@ -860,7 +873,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The fun doesn't end
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980)

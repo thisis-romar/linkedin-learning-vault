@@ -43,15 +43,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Microsoft 365 Overview]]** (7 videos)
-- **[[#2. Getting Started with Microsoft 365]]** (3 videos)
-- **[[#3. Basic Administration of Microsoft 365]]** (13 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Modernize IT infrastructure with Microsoft 365
+- [**1. Microsoft 365 Overview**](#1-microsoft-365-overview) (7 videos)
+  - What is Microsoft 365?
+  - Versioning and pricing options
+  - Benefits of cloud vs. on-premises
+  - Adopting Microsoft 365
+  - Understanding the modern workplace
+  - Microsoft 365 productivity apps
+  - Ensuring user buy-in
+- [**2. Getting Started with Microsoft 365**](#2-getting-started-with-microsoft-365) (3 videos)
+  - Creating a free Microsoft 365 E5 trial account
+  - Microsoft final setup procedures
+  - Deleting a Microsoft 365 trial account
+- [**3. Basic Administration of Microsoft 365**](#3-basic-administration-of-microsoft-365) (13 videos)
+  - Introduction to the Microsoft 365 Admin Center
+  - Managing users
+  - Managing groups
+  - Managing roles
+  - Managing resources
+  - Managing billing
+  - Getting support for Microsoft 365
+  - Configuring settings
+  - Additional setup tasks
+  - Viewing reports
+  - Monitoring health
+  - Microsoft 365 security and compliance
+  - Additional Admin Centers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue learning Microsoft 365
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modernize IT infrastructure with Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/modernize-it-infrastructure-with-microsoft-365?u=76281980)
@@ -74,7 +99,7 @@ created: 2026-04-29
 
 ### 1. Microsoft 365 Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Microsoft 365?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/what-is-microsoft-365?u=76281980)
@@ -1001,7 +1026,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Microsoft 365
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a free Microsoft 365 E5 trial account
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/creating-a-free-microsoft-365-e5-trial-account?u=76281980)
@@ -1393,7 +1418,7 @@ created: 2026-04-29
 
 ### 3. Basic Administration of Microsoft 365
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the Microsoft 365 Admin Center
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/introduction-to-the-microsoft-365-admin-center?u=76281980)
@@ -2727,7 +2752,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Microsoft 365
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-microsoft-365-for-it-pros-22645567/continue-learning-microsoft-365?u=76281980)

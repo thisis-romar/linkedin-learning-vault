@@ -56,17 +56,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started with AJAX]]** (6 videos)
-- **[[#2. Working with the Fetch API]]** (5 videos)
-- **[[#3. Modifying the DOM]]** (9 videos)
-- **[[#4. Working with the Axios Library]]** (7 videos)
-- **[[#5. Optimizing and Troubleshooting AJAX Requests]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Your essential guide
+  - What you should know
+  - Setting up your environment
+- [**1. Getting Started with AJAX**](#1-getting-started-with-ajax) (6 videos)
+  - What is AJAX?
+  - Understand asynchronous program flow
+  - Get an API key
+  - Research and create an AJAX request URL
+  - Challenge: Research an API and create a request URL
+  - Solution: Research an API and create a request URL
+- [**2. Working with the Fetch API**](#2-working-with-the-fetch-api) (5 videos)
+  - Understand the Fetch API
+  - Create and test a Fetch request
+  - Handle basic Fetch errors
+  - Challenge: Build a Fetch request
+  - Solution: Build a Fetch request
+- [**3. Modifying the DOM**](#3-modifying-the-dom) (9 videos)
+  - What is the DOM?
+  - Select elements with vanilla JavaScript
+  - Request data in response to an event
+  - Add an event listener
+  - Work with JSON data
+  - Modify form values with vanilla JavaScript
+  - Modify element content with vanilla JavaScript
+  - Challenge: Modify the DOM
+  - Solution: Modify the DOM
+- [**4. Working with the Axios Library**](#4-working-with-the-axios-library) (7 videos)
+  - Understand Axios
+  - Create an Axios request
+  - Handle errors with Axios
+  - Refactor parameters with Axios
+  - Implement interceptors with Axios
+  - Challenge: Build an Axios request
+  - Solution: Build an Axios request
+- [**5. Optimizing and Troubleshooting AJAX Requests**](#5-optimizing-and-troubleshooting-ajax-requests) (8 videos)
+  - Structure AJAX requests for performance
+  - View requests and responses in the browser
+  - Work with authorization errors
+  - Work with malformed requests
+  - Work with errors in Fetch
+  - Provide error fallbacks
+  - Challenge: Fix an AJAX request
+  - Solution: Fix an AJAX request
+- [**Conclusion**](#conclusion) (1 videos)
+  - Keep learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your essential guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/intro-video-to-be-renamed?u=76281980)
@@ -181,7 +220,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with AJAX
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AJAX?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-ajax?u=76281980)
@@ -673,7 +712,7 @@ created: 2026-04-29
 
 ### 2. Working with the Fetch API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the Fetch API
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-the-fetch-api?u=76281980)
@@ -1157,7 +1196,7 @@ created: 2026-04-29
 
 ### 3. Modifying the DOM
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the DOM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/what-is-the-dom?u=76281980)
@@ -1887,7 +1926,7 @@ created: 2026-04-29
 
 ### 4. Working with the Axios Library
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Axios
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/understand-axios?u=76281980)
@@ -2669,7 +2708,7 @@ created: 2026-04-29
 
 ### 5. Optimizing and Troubleshooting AJAX Requests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structure AJAX requests for performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/structure-ajax-requests-for-performance?u=76281980)
@@ -3449,7 +3488,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-ajax-and-fetch-24655836/next-steps?u=76281980)

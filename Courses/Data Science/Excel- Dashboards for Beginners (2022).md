@@ -46,14 +46,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Excel Dashboard Components]]** (4 videos)
-- **[[#2. Creating Your First Dashboard]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Transform the way you present data to leaders
+  - What is a dashboard?
+  - What to know before starting
+- [**1. Excel Dashboard Components**](#1-excel-dashboard-components) (4 videos)
+  - Store data in Excel tables
+  - Create PivotTables for data summaries
+  - Visualize data with PivotCharts
+  - Add interactivity with slicers and timelines
+- [**2. Creating Your First Dashboard**](#2-creating-your-first-dashboard) (5 videos)
+  - Get familiar with the data
+  - Create a summary table
+  - Build impactful charts
+  - Add interactivity with slicers and timelines
+  - Lay it all out
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your Excel dashboards journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform the way you present data to leaders
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980)
@@ -288,7 +301,7 @@ created: 2026-04-29
 
 ### 1. Excel Dashboard Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Store data in Excel tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980)
@@ -779,7 +792,7 @@ created: 2026-04-29
 
 ### 2. Creating Your First Dashboard
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get familiar with the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980)
@@ -1307,7 +1320,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your Excel dashboards journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980)

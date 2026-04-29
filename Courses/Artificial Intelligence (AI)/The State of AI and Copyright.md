@@ -49,12 +49,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Excerpts from the Conversation]]** (10 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Understanding the state of AI and copyright
+- [**1. Excerpts from the Conversation**](#1-excerpts-from-the-conversation) (10 videos)
+  - Introductions
+  - Does the doctrine of fair use apply when training AI models?
+  - Are there any international bodies governing the use of AI?
+  - What can creators do to protect their work from being used for AI training?
+  - Can we detect when AI has been used?
+  - What are some of the jurisdictional differences in ownership rights?
+  - Is there copyright protection for purely AI-generated content?
+  - In what ways can regulations shape the future of GenAI?
+  - What's the legal difference between a human creating derivative work and an AI creating derivative work?
+  - What are some resources for learning more about AI and copyright issues?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the state of AI and copyright
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/understanding-the-state-of-ai-and-copyright?u=76281980)
@@ -86,7 +97,7 @@ created: 2026-04-29
 
 ### 1. Excerpts from the Conversation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introductions
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-state-of-ai-and-copyright/introductions?u=76281980)

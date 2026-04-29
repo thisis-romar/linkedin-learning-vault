@@ -62,15 +62,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Getting Your Bearings]]** (4 videos)
-- **[[#2. Airflow Introduction]]** (6 videos)
-- **[[#3. Basic ETL in Airflow]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Hands-on data engineering
+  - Background knowledge
+  - The history of data in the enterprise
+  - Using GitHub Codespaces with this course
+- [**1. Getting Your Bearings**](#1-getting-your-bearings) (4 videos)
+  - Data engineering and data pipelines
+  - Orchestration: In the modern sense
+  - Extract, transform, load (ETL)
+  - Tasks, DAGs, and dependencies
+- [**2. Airflow Introduction**](#2-airflow-introduction) (6 videos)
+  - Introduction to Airflow
+  - Installing Airflow
+  - Running the Airflow webserver and scheduler
+  - Adjusting Airflow configuration settings
+  - Build a 1 Task DAG
+  - Build a 2 Task DAG
+- [**3. Basic ETL in Airflow**](#3-basic-etl-in-airflow) (11 videos)
+  - ETL in Airflow
+  - A real-world data engineering task
+  - Extracting data manually
+  - Extracting data with Airflow
+  - Transforming data manually
+  - Transforming data with Airflow
+  - Loading data manually
+  - Loading data with Airflow
+  - Building an ETL DAG with Airflow
+  - Challenge: Review ETL questions
+  - Solution: Solutions to ETL questions
+- [**Conclusion**](#conclusion) (1 videos)
+  - The future of data engineering
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/hands-on-data-engineering?u=76281980)
@@ -292,7 +318,7 @@ created: 2026-04-29
 
 ### 1. Getting Your Bearings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data engineering and data pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/data-engineering-and-data-pipelines?u=76281980)
@@ -532,7 +558,7 @@ created: 2026-04-29
 
 ### 2. Airflow Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/introduction-to-airflow?u=76281980)
@@ -1157,7 +1183,7 @@ created: 2026-04-29
 
 ### 3. Basic ETL in Airflow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ETL in Airflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/etl-in-airflow?u=76281980)
@@ -2160,7 +2186,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The future of data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-data-engineering/the-future-of-data-engineering?u=76281980)

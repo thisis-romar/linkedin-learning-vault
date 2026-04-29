@@ -46,17 +46,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Introducing SELECT]]** (4 videos)
-- **[[#2. Filtering the Result Set]]** (7 videos)
-- **[[#3. Manipulating the Result Set]]** (4 videos)
-- **[[#4. Joins]]** (5 videos)
-- **[[#5. DDL and DML: Creating and Changing Data]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Transact-SQL
+  - What you should know
+  - What is T-SQL?
+  - CoderPad tour
+- [**1. Introducing SELECT**](#1-introducing-select) (4 videos)
+  - Structure of a SELECT statement
+  - Aliasing columns and tables
+  - Adding calculations to your result set
+  - Solution: Simple SELECT statement
+- [**2. Filtering the Result Set**](#2-filtering-the-result-set) (7 videos)
+  - Filtering data with WHERE using equalities
+  - Handling inequalities with WHERE clauses
+  - Find rows where strings partially match
+  - Filtering numeric data
+  - Combining multiple operators into one WHERE clause
+  - Understanding how NULL data affects query results
+  - Solution: Filtered SELECT statement
+- [**3. Manipulating the Result Set**](#3-manipulating-the-result-set) (4 videos)
+  - ORDER BY
+  - TOP
+  - DISTINCT
+  - Solution: Intermediate SELECT statement
+- [**4. Joins**](#4-joins) (5 videos)
+  - INNER JOIN
+  - LEFT JOIN
+  - FULL OUTER JOIN
+  - Combining more than two tables
+  - Solution: Joins
+- [**5. DDL and DML: Creating and Changing Data**](#5-ddl-and-dml-creating-and-changing-data) (6 videos)
+  - Create a table
+  - Insert data into a table
+  - Update data within a table
+  - Delete data from a table
+  - TRUNCATE a table
+  - Update data with a join
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transact-SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980)
@@ -207,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Introducing SELECT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structure of a SELECT statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980)
@@ -427,7 +458,7 @@ created: 2026-04-29
 
 ### 2. Filtering the Result Set
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filtering data with WHERE using equalities
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980)
@@ -843,7 +874,7 @@ created: 2026-04-29
 
 ### 3. Manipulating the Result Set
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ORDER BY
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980)
@@ -1052,7 +1083,7 @@ created: 2026-04-29
 
 ### 4. Joins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### INNER JOIN
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980)
@@ -1373,7 +1404,7 @@ created: 2026-04-29
 
 ### 5. DDL and DML: Creating and Changing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a table
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980)
@@ -1801,7 +1832,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980)

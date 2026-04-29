@@ -54,11 +54,17 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Deploying and Maintaining Ethereum Apps]]** (6 videos)
+- [**1. Deploying and Maintaining Ethereum Apps**](#1-deploying-and-maintaining-ethereum-apps) (6 videos)
+  - Test blockchains
+  - The live blockchain: Mainnet
+  - Connecting to multiple blockchains and Infura
+  - Configuring Truffle and Infura
+  - Funding your account lab
+  - Deploying to the live blockchain
 
 ### 1. Deploying and Maintaining Ethereum Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test blockchains
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-10-deployment-and-maintenance/test-blockchains?u=76281980)

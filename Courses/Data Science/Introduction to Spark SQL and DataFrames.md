@@ -48,17 +48,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Spark DataFrames]]** (2 videos)
-- **[[#2. Installing Spark]]** (3 videos)
-- **[[#3. Getting Started with Spark DataFrames]]** (8 videos)
-- **[[#4. SQL for DataFrames]]** (6 videos)
-- **[[#5. Data Analysis with Spark]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Apache Spark SQL and data analysis
+  - What you should know
+- [**1. Introduction to Spark DataFrames**](#1-introduction-to-spark-dataframes) (2 videos)
+  - Introduction to DataFrames
+  - SQL for DataFrames
+- [**2. Installing Spark**](#2-installing-spark) (3 videos)
+  - Install Spark
+  - Install PySpark
+  - Using Jupyter notebooks with PySpark
+- [**3. Getting Started with Spark DataFrames**](#3-getting-started-with-spark-dataframes) (8 videos)
+  - Set up a Jupyter notebook
+  - Load data into DataFrames: CSV Files
+  - Load data into DataFrames: JSON Files
+  - Basic DataFrame operations
+  - Filter data with DataFrame API
+  - Aggregate data with DataFrame API
+  - Sample data from DataFrames
+  - Save data from DataFrames
+- [**4. SQL for DataFrames**](#4-sql-for-dataframes) (6 videos)
+  - Querying DataFrames with SQL
+  - Filtering DataFrames with SQL
+  - Aggregating Data with SQL
+  - Joining DataFrames with SQL
+  - Eliminating duplicates in DataFrames
+  - Working with NA values in DataFrames
+- [**5. Data Analysis with Spark**](#5-data-analysis-with-spark) (5 videos)
+  - Exploratory data analysis with DataFrames
+  - Exploratory data analysis with Spark SQL
+  - Timeseries analysis with DataFrames
+  - Basic machine learning with DataFrames, part 1
+  - Basic machine learning with DataFrames, part 2
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Apache Spark SQL and data analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980)
@@ -112,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Spark DataFrames
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980)
@@ -251,7 +278,7 @@ created: 2026-04-29
 
 ### 2. Installing Spark
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install Spark
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980)
@@ -440,7 +467,7 @@ created: 2026-04-29
 
 ### 3. Getting Started with Spark DataFrames
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up a Jupyter notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980)
@@ -1167,7 +1194,7 @@ created: 2026-04-29
 
 ### 4. SQL for DataFrames
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying DataFrames with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980)
@@ -1693,7 +1720,7 @@ created: 2026-04-29
 
 ### 5. Data Analysis with Spark
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploratory data analysis with DataFrames
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980)
@@ -2299,7 +2326,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980)

@@ -50,17 +50,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to LLMs and Their Applications]]** (2 videos)
-- **[[#2. Diving Into LLM Architectures]]** (6 videos)
-- **[[#3. Fine-Tuning Strategies for Custom Tasks]]** (5 videos)
-- **[[#4. Compression Techniques for LLMs]]** (5 videos)
-- **[[#5. Prompt Engineering for Effective LLM Communication]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - LLMs for industry
+  - Industry-specific LLMs
+- [**1. Introduction to LLMs and Their Applications**](#1-introduction-to-llms-and-their-applications) (2 videos)
+  - Understanding LLMs and their evolution
+  - Real-world applications of LLMs
+- [**2. Diving Into LLM Architectures**](#2-diving-into-llm-architectures) (6 videos)
+  - Overview of LLM architectures
+  - How LLMs process and generate text
+  - The building blocks of LLMs
+  - Using a simple LLM
+  - Challenge: LLM for sentiment analysis
+  - Solution: LLM for sentiment analysis
+- [**3. Fine-Tuning Strategies for Custom Tasks**](#3-fine-tuning-strategies-for-custom-tasks) (5 videos)
+  - Introduction to fine-tuning for LLMs
+  - Step-by-step guide to fine-tuning LLMs
+  - Best practices for fine-tuning LLMs
+  - Challenge: Fine-tune a pre-trained LLM
+  - Solution: Fine-tune a pre-trained LLM
+- [**4. Compression Techniques for LLMs**](#4-compression-techniques-for-llms) (5 videos)
+  - Why compress LLMs?
+  - Introduction to quantization and pruning
+  - Hands-on: Implementing compression in LLMs
+  - Challenge: Quantize a LLM
+  - Solution: Quantize a LLM
+- [**5. Prompt Engineering for Effective LLM Communication**](#5-prompt-engineering-for-effective-llm-communication) (5 videos)
+  - What is prompt engineering?
+  - Best practices for effective prompt engineering
+  - Types of prompt engineering
+  - Challenge: Prompting LLMs to generate text
+  - Solution: Prompting LLMs to generate text
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### LLMs for industry
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/llms-for-industry?u=76281980)
@@ -153,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Introduction to LLMs and Their Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding LLMs and their evolution
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980)
@@ -298,7 +324,7 @@ created: 2026-04-29
 
 ### 2. Diving Into LLM Architectures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of LLM architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980)
@@ -665,7 +691,7 @@ created: 2026-04-29
 
 ### 3. Fine-Tuning Strategies for Custom Tasks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to fine-tuning for LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980)
@@ -983,7 +1009,7 @@ created: 2026-04-29
 
 ### 4. Compression Techniques for LLMs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why compress LLMs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980)
@@ -1358,7 +1384,7 @@ created: 2026-04-29
 
 ### 5. Prompt Engineering for Effective LLM Communication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is prompt engineering?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980)
@@ -1867,7 +1893,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980)

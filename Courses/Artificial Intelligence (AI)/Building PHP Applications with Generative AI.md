@@ -55,16 +55,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Planning]]** (6 videos)
-- **[[#2. Writing Code]]** (5 videos)
-- **[[#3. Testing Your Code]]** (5 videos)
-- **[[#4. Documentation]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - How can generative AI help with PHP?
+  - What you should know
+  - How this course works
+- [**1. Planning**](#1-planning) (6 videos)
+  - Defining requirements
+  - Use cases
+  - User stories
+  - Creating timelines
+  - Challenge: Generate a requirements document
+  - Solution: Generate a requirements document
+- [**2. Writing Code**](#2-writing-code) (5 videos)
+  - Using ChatGPT to get code snippets
+  - Working with GitHub's Copilot
+  - Other code-writing tools
+  - Challenge: Writing a PHP class sorter
+  - Solution: Writing a PHP class sorter
+- [**3. Testing Your Code**](#3-testing-your-code) (5 videos)
+  - Automated testing vs. AI testing
+  - Writing unit tests with AI
+  - Generating test data
+  - Challenge: Generate test data for the provided class
+  - Solution: Generate test data for the provided class
+- [**4. Documentation**](#4-documentation) (3 videos)
+  - Types of documentation
+  - Creating Doc Blocks
+  - Creating comments for code
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How can generative AI help with PHP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/how-can-generative-ai-help-with-php?u=76281980)
@@ -156,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/defining-requirements?u=76281980)
@@ -710,7 +733,7 @@ created: 2026-04-29
 
 ### 2. Writing Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using ChatGPT to get code snippets
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/using-chatgpt-to-get-code-snippets?u=76281980)
@@ -1207,7 +1230,7 @@ created: 2026-04-29
 
 ### 3. Testing Your Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automated testing vs. AI testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/automated-testing-vs-ai-testing?u=76281980)
@@ -1621,7 +1644,7 @@ created: 2026-04-29
 
 ### 4. Documentation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/types-of-documentation?u=76281980)
@@ -1842,7 +1865,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-php-applications-with-generative-ai/next-steps?u=76281980)

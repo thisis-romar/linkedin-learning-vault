@@ -49,15 +49,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding Accessibility]]** (3 videos)
-- **[[#2. Accessibility Standards]]** (2 videos)
-- **[[#3. Creating Accessible Layout]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Creating accessible web layout for a diverse audience
+- [**1. Understanding Accessibility**](#1-understanding-accessibility) (3 videos)
+  - What is web accessibility?
+  - Making a case for accessibility
+  - Tools for testing accessibility
+- [**2. Accessibility Standards**](#2-accessibility-standards) (2 videos)
+  - Accessible standards (WCAG)
+  - Guiding principles of web accessibility
+- [**3. Creating Accessible Layout**](#3-creating-accessible-layout) (7 videos)
+  - Semantic HTML
+  - Accessible navigation and focus
+  - Accessible forms
+  - Accessible tables
+  - Accessible images and media
+  - Challenge: Build an accessible web page
+  - Solution: Build an accessible web page
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps for improving accessibility in web applications
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating accessible web layout for a diverse audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=76281980)
@@ -84,7 +98,7 @@ created: 2026-04-29
 
 ### 1. Understanding Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is web accessibility?
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/what-is-web-accessibility?u=76281980)
@@ -260,7 +274,7 @@ created: 2026-04-29
 
 ### 2. Accessibility Standards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible standards (WCAG)
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/accessible-standards-wcag?u=76281980)
@@ -373,7 +387,7 @@ created: 2026-04-29
 
 ### 3. Creating Accessible Layout
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Semantic HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/semantic-html?u=76281980)
@@ -1035,7 +1049,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for improving accessibility in web applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessible-layout-for-the-web/next-steps-for-improving-accessibility-in-web-applications?u=76281980)

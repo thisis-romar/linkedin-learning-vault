@@ -44,22 +44,87 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Certified Analytics Professional (CAP)]]** (5 videos)
-- **[[#2. Business Problem Framing]]** (5 videos)
-- **[[#3. Analytics Problem Framing]]** (6 videos)
-- **[[#4. Data]]** (7 videos)
-- **[[#5. Methodology (Approach) Selection]]** (7 videos)
-- **[[#6. Case Study 1]]** (5 videos)
-- **[[#7. Model Building]]** (8 videos)
-- **[[#8. Deployment]]** (8 videos)
-- **[[#9. Model Lifecycle Management]]** (6 videos)
-- **[[#10. Case Study 2]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The growing field of analytics
+  - What you should know
+- [**1. Certified Analytics Professional (CAP)**](#1-certified-analytics-professional-cap) (5 videos)
+  - Introduction
+  - CAP history
+  - CAP domains
+  - Related certifications
+  - Career paths
+- [**2. Business Problem Framing**](#2-business-problem-framing) (5 videos)
+  - Identifying business problems
+  - Identifying and analyzing stakeholders
+  - Collecting requirements
+  - Determining the feasibility
+  - Refining the problem
+- [**3. Analytics Problem Framing**](#3-analytics-problem-framing) (6 videos)
+  - Transforming business problems to analytics problems
+  - Reformulating problem statements
+  - Defining drivers and relationships to outputs
+  - Stating assumptions
+  - Defining success metrics
+  - Obtaining stakeholder agreement
+- [**4. Data**](#4-data) (7 videos)
+  - Working effectively with data
+  - Identifying and prioritizing data needs
+  - Acquiring data
+  - Cleaning, transforming, and validating data
+  - Identifying relationships in data
+  - Documenting and reporting findings
+  - Redefining problem statements
+- [**5. Methodology (Approach) Selection**](#5-methodology-approach-selection) (7 videos)
+  - Identifying available problem-solving methodologies
+  - Evaluating and selecting descriptive analysis
+  - Evaluating and selecting predictive analysis
+  - Evaluating and selecting prescriptive analysis
+  - Selecting software tools
+  - Using R to analyze data
+  - Using Tableau to visualize data
+- [**6. Case Study 1**](#6-case-study-1) (5 videos)
+  - Bike rental analysis
+  - Framing a problem
+  - Using RStudio for predictive analysis
+  - Using Tableau to visualize statistics
+  - Using Tableau to making predictions
+- [**7. Model Building**](#7-model-building) (8 videos)
+  - Understanding model building
+  - Identifying model structures
+  - Build and verify the models
+  - Running and evaluating models
+  - Calibrating models and data
+  - Integrating the models
+  - Documenting findings: ROC
+  - Communicating findings
+- [**8. Deployment**](#8-deployment) (8 videos)
+  - Understanding deployment
+  - Performing business validation of the model
+  - Developing a deployment plan and delivering it
+  - Creating model requirements
+  - Delivering, monitoring, and sustaining the production model or system
+  - Understanding deployment approaches
+  - Understanding DMAIC and CRISP-DM
+  - Project management approaches to deployment
+- [**9. Model Lifecycle Management**](#9-model-lifecycle-management) (6 videos)
+  - Understanding model lifecycle management
+  - Tracking model quality
+  - Recalibrating the model through validation
+  - Maintaining the model
+  - Supporting training activities
+  - Evaluating the business benefit of the model over time
+- [**10. Case Study 2**](#10-case-study-2) (5 videos)
+  - Business intelligence examples
+  - Selecting a methodology
+  - Building a model
+  - Deploying a model
+  - Managing the model lifecycle
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and additional study resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The growing field of analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/the-growing-field-of-analytics?u=76281980)
@@ -116,7 +181,7 @@ created: 2026-04-29
 
 ### 1. Certified Analytics Professional (CAP)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/introduction?u=76281980)
@@ -336,7 +401,7 @@ created: 2026-04-29
 
 ### 2. Business Problem Framing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying business problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-business-problems?u=76281980)
@@ -565,7 +630,7 @@ created: 2026-04-29
 
 ### 3. Analytics Problem Framing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transforming business problems to analytics problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/transforming-business-problems-to-analytics-problems?u=76281980)
@@ -838,7 +903,7 @@ created: 2026-04-29
 
 ### 4. Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working effectively with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/working-effectively-with-data?u=76281980)
@@ -1193,7 +1258,7 @@ created: 2026-04-29
 
 ### 5. Methodology (Approach) Selection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying available problem-solving methodologies
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/identifying-available-problem-solving-methodologies?u=76281980)
@@ -1527,7 +1592,7 @@ created: 2026-04-29
 
 ### 6. Case Study 1
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bike rental analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/bike-rental-analysis?u=76281980)
@@ -1816,7 +1881,7 @@ created: 2026-04-29
 
 ### 7. Model Building
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding model building
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-building?u=76281980)
@@ -2156,7 +2221,7 @@ created: 2026-04-29
 
 ### 8. Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-deployment?u=76281980)
@@ -2550,7 +2615,7 @@ created: 2026-04-29
 
 ### 9. Model Lifecycle Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding model lifecycle management
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/understanding-model-lifecycle-management?u=76281980)
@@ -2850,7 +2915,7 @@ created: 2026-04-29
 
 ### 10. Case Study 2
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business intelligence examples
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/business-intelligence-examples?u=76281980)
@@ -3109,7 +3174,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional study resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/certified-analytics-professional-cap-cert-prep/next-steps-and-additional-study-resources?u=76281980)

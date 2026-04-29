@@ -54,20 +54,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Modern Software Development]]** (3 videos)
-- **[[#2. Have an Agile Mindset]]** (2 videos)
-- **[[#3. Individuals and Interactions]]** (7 videos)
-- **[[#4. Deliver Working Software]]** (3 videos)
-- **[[#5. Respond to Change]]** (5 videos)
-- **[[#6. Popular Agile Frameworks]]** (3 videos)
-- **[[#7. Improve Customer Collaboration]]** (5 videos)
-- **[[#8. Start an Agile Transformation]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Understanding agile
+- [**1. Modern Software Development**](#1-modern-software-development) (3 videos)
+  - The agile mindset
+  - The rise of knowledge workers
+  - Challenges with software manufacturing
+- [**2. Have an Agile Mindset**](#2-have-an-agile-mindset) (2 videos)
+  - The agile manifesto: Values
+  - The agile manifesto: Principles
+- [**3. Individuals and Interactions**](#3-individuals-and-interactions) (7 videos)
+  - The cost of multitasking
+  - Avoid work handoffs
+  - The Penny Game
+  - Deliver at a predictable pace
+  - Cross-functional teams
+  - User stories
+  - User stories: Common challenges
+- [**4. Deliver Working Software**](#4-deliver-working-software) (3 videos)
+  - Start with the highest value
+  - Prioritize with a taskboard
+  - Avoid PowerPoint software
+- [**5. Respond to Change**](#5-respond-to-change) (5 videos)
+  - Inspect and adapt
+  - Stay within timeboxes
+  - Jump off the waterfall
+  - Commit to sprints
+  - Iterative delivery
+- [**6. Popular Agile Frameworks**](#6-popular-agile-frameworks) (3 videos)
+  - Scrum overview
+  - Extreme programming
+  - Kanban overview
+- [**7. Improve Customer Collaboration**](#7-improve-customer-collaboration) (5 videos)
+  - Common roles on the team
+  - The product owner
+  - The scrum master
+  - Combat groupthink
+  - Planning Poker
+- [**8. Start an Agile Transformation**](#8-start-an-agile-transformation) (2 videos)
+  - Major agile challenges
+  - Start an agile transformation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing with agile
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/understanding-agile-21059664?u=76281980)
@@ -100,7 +132,7 @@ created: 2026-04-29
 
 ### 1. Modern Software Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The agile mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-mindset-21058740?u=76281980)
@@ -391,7 +423,7 @@ created: 2026-04-29
 
 ### 2. Have an Agile Mindset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The agile manifesto: Values
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-agile-manifesto-values-21064155?u=76281980)
@@ -545,7 +577,7 @@ created: 2026-04-29
 
 ### 3. Individuals and Interactions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The cost of multitasking
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/the-cost-of-multitasking-21058739?u=76281980)
@@ -1064,7 +1096,7 @@ created: 2026-04-29
 
 ### 4. Deliver Working Software
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start with the highest value
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/start-with-the-highest-value-21057906?u=76281980)
@@ -1270,7 +1302,7 @@ created: 2026-04-29
 
 ### 5. Respond to Change
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inspect and adapt
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/inspect-and-adapt-21059665?u=76281980)
@@ -1671,7 +1703,7 @@ created: 2026-04-29
 
 ### 6. Popular Agile Frameworks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scrum overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/scrum-overview-21058741?u=76281980)
@@ -1911,7 +1943,7 @@ created: 2026-04-29
 
 ### 7. Improve Customer Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common roles on the team
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/common-roles-on-the-team-21064152?u=76281980)
@@ -2289,7 +2321,7 @@ created: 2026-04-29
 
 ### 8. Start an Agile Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Major agile challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/major-agile-challenges-21062182?u=76281980)
@@ -2446,7 +2478,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with agile
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-foundations/continuing-with-agile-21058738?u=76281980)

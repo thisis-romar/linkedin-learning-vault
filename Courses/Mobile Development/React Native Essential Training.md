@@ -42,18 +42,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (2 videos)
-- **[[#2. React Native Fundamentals]]** (5 videos)
-- **[[#3. Building a Simple Game App]]** (15 videos)
-- **[[#4. Building a Data-Driven App]]** (9 videos)
-- **[[#5. Animation and Gesture Control]]** (9 videos)
-- **[[#6. Deploying]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Working with React Native
+  - Is this course for you?
+  - Course overview
+- [**1. Getting Started**](#1-getting-started) (2 videos)
+  - Why React Native?
+  - Requirements and setup
+- [**2. React Native Fundamentals**](#2-react-native-fundamentals) (5 videos)
+  - Hello React Native with Expo
+  - Hello React Native on iOS
+  - Hello React Native on Android
+  - Styling React Native components
+  - Exploring components and APIs
+- [**3. Building a Simple Game App**](#3-building-a-simple-game-app) (15 videos)
+  - Introduction and preview
+  - Initializing the TargetSum app
+  - Configuring ESLint
+  - The game component with a random target
+  - Generating the random play numbers
+  - Styling the random play numbers
+  - Using TouchableOpacity for press events
+  - Changing UI based on selected numbers
+  - Adding shared behavior to numbers
+  - Using React DevTools with React Native
+  - Computing dynamic values where needed
+  - Changing UI based on game status
+  - Working with timers
+  - Caching to optimize computable values
+  - Remounting a component to reset it
+- [**4. Building a Data-Driven App**](#4-building-a-data-driven-app) (9 videos)
+  - Introduction and preview
+  - Initializing the Bakesale app
+  - Using the Fetch API
+  - Using FlatList with API data
+  - Working with images
+  - Navigating to different views with state
+  - Fetching more API data for a view
+  - Implementing a back link
+  - Using TextInput to implement search
+- [**5. Animation and Gesture Control**](#5-animation-and-gesture-control) (9 videos)
+  - Preparing for swiping
+  - The Animated and Easing APIs
+  - Creating an animation loop
+  - Considering the device dimensions
+  - The PanResponder API
+  - Preparing the PanHandlers
+  - Swiping left and right
+  - Handling swipe gestures
+  - Opening URLs
+- [**6. Deploying**](#6-deploying) (5 videos)
+  - Test first
+  - Testing on Android
+  - Changing app logo and splash screen
+  - Using TestFlight with internal testers
+  - Generating signed APK for Android
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with React Native
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/working-with-react-native?u=76281980)
@@ -251,7 +300,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why React Native?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/why-react-native?u=76281980)
@@ -544,7 +593,7 @@ created: 2026-04-29
 
 ### 2. React Native Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hello React Native with Expo
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/hello-react-native-with-expo?u=76281980)
@@ -1277,7 +1326,7 @@ created: 2026-04-29
 
 ### 3. Building a Simple Game App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and preview
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/introduction-and-preview-2?u=76281980)
@@ -3291,7 +3340,7 @@ created: 2026-04-29
 
 ### 4. Building a Data-Driven App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and preview
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/introduction-and-preview?u=76281980)
@@ -4667,7 +4716,7 @@ created: 2026-04-29
 
 ### 5. Animation and Gesture Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for swiping
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/preparing-for-swiping?u=76281980)
@@ -5781,7 +5830,7 @@ created: 2026-04-29
 
 ### 6. Deploying
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test first
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/test-first?u=76281980)
@@ -6508,7 +6557,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-native-essential-training/next-steps?u=76281980)

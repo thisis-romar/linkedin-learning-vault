@@ -50,18 +50,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Tidyverse Fundamentals]]** (12 videos)
-- **[[#2. Tidy Data: The Fundamental Idea behind the Tidyverse]]** (6 videos)
-- **[[#3. Reading Data In and Out of the Tidyverse]]** (4 videos)
-- **[[#4. Grouping and Summarizing Data with the Tidyverse]]** (10 videos)
-- **[[#5. Important Packages and Functions in the Tidyverse]]** (5 videos)
-- **[[#6. Working Smart with the Tidyverse]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started in the R tidyverse
+  - How to use the exercise files
+- [**1. Tidyverse Fundamentals**](#1-tidyverse-fundamentals) (12 videos)
+  - What is the tidyverse?
+  - Installing, loading, and working with the tidyverse packages
+  - Introducing data.frame and tibbles
+  - What are %>% and |> for in the tidyverse
+  - Using the %>% pipe in your code
+  - Using the |> pipe in your code
+  - Datasets built into the tidyverse packages
+  - Using the select() function to obtain columns from data
+  - Using the filter() function to filter data by conditions
+  - Using the mutate() function to modify and add columns
+  - Challenge: Rewrite this code to use the pipe of your choice
+  - Solution: Rewrite this code to use the pipe of your choice
+- [**2. Tidy Data: The Fundamental Idea behind the Tidyverse**](#2-tidy-data-the-fundamental-idea-behind-the-tidyverse) (6 videos)
+  - What is tidy data?
+  - Why does ggplot2 want tidy data?
+  - Using pivot_longer() to tidy data into a long format
+  - Cleaning column names with the janitor package
+  - Tidying columns containing multiple values with separate_*()
+  - List columns and nested tibbles
+- [**3. Reading Data In and Out of the Tidyverse**](#3-reading-data-in-and-out-of-the-tidyverse) (4 videos)
+  - Using projects to simplify file paths
+  - Using read_csv() to read CSV files
+  - Using read_excel() to read data from Excel files
+  - Using haven to import from SPSS and other formats
+- [**4. Grouping and Summarizing Data with the Tidyverse**](#4-grouping-and-summarizing-data-with-the-tidyverse) (10 videos)
+  - Grouping and summarizing data by column or row
+  - Cross tabulations with count()
+  - Column-wise groups: group_by() and mutate()
+  - Column-wise groups: group_by() and summarize()
+  - Column-wise groups: group_by() and reframe()
+  - Column-wise groups: Using the .by argument instead of group_by()
+  - Row-wise groups: rowwise() and c_across()
+  - Remember to ungroup()
+  - Challenge: Find maximum penguin dimension by island
+  - Solution: Find maximum penguin dimension by island
+- [**5. Important Packages and Functions in the Tidyverse**](#5-important-packages-and-functions-in-the-tidyverse) (5 videos)
+  - ggplot2 for beautiful data storytelling
+  - stringr for friendly string manipulation
+  - lubridate for manipulating dates and times
+  - forcats for manipulating factors
+  - purrr for doing many things like iteration
+- [**6. Working Smart with the Tidyverse**](#6-working-smart-with-the-tidyverse) (8 videos)
+  - Handling NAs in the tidyverse with drop_na() and replace_na()
+  - Use case_when() instead of nested if or ifelse()
+  - Use tidy-select functions to work with many columns at once
+  - Using across() in mutate() to modify multiple columns at once
+  - Filtering many columns at once with if_any() and if_all()
+  - Understanding how the tidyverse evolves and deprecates
+  - Challenge: Find all love songs remaining below position 80 in the top 10
+  - Solution: Find all love songs remaining below position 80 in the top 10
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started in the R tidyverse
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/getting-started-in-the-r-tidyverse?u=76281980)
@@ -145,7 +193,7 @@ created: 2026-04-29
 
 ### 1. Tidyverse Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the tidyverse?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980)
@@ -1332,7 +1380,7 @@ created: 2026-04-29
 
 ### 2. Tidy Data: The Fundamental Idea behind the Tidyverse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is tidy data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-tidy-data?u=76281980)
@@ -1889,7 +1937,7 @@ created: 2026-04-29
 
 ### 3. Reading Data In and Out of the Tidyverse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using projects to simplify file paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980)
@@ -2254,7 +2302,7 @@ created: 2026-04-29
 
 ### 4. Grouping and Summarizing Data with the Tidyverse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping and summarizing data by column or row
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/grouping-and-summarising-data-by-column-or-row?u=76281980)
@@ -2870,7 +2918,7 @@ created: 2026-04-29
 
 ### 5. Important Packages and Functions in the Tidyverse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ggplot2 for beautiful data storytelling
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/ggplot2-for-beautiful-data-storytelling?u=76281980)
@@ -3573,7 +3621,7 @@ created: 2026-04-29
 
 ### 6. Working Smart with the Tidyverse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Handling NAs in the tidyverse with drop_na() and replace_na()
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/handling-nas-in-the-tidyverse-with-drop-na-replace-na?u=76281980)
@@ -4207,7 +4255,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980)

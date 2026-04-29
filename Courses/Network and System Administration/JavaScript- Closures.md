@@ -48,14 +48,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Building Blocks of Closures]]** (5 videos)
-- **[[#2. Creating and Using Closures]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Using closures in JavaScript
+  - What you should know
+  - Environment setup and exercise files
+  - Using CoderPad challenges
+- [**1. Building Blocks of Closures**](#1-building-blocks-of-closures) (5 videos)
+  - Local and global scope
+  - Nesting functions
+  - Return a value from an inner function
+  - Create parallel closures
+  - Solution: Create a closure using a nested function
+- [**2. Creating and Using Closures**](#2-creating-and-using-closures) (4 videos)
+  - Implement the module pattern
+  - Avoid unintended closures
+  - Use JS features in place of closures
+  - Solution: Create a module
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing to learn closures
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using closures in JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/using-closures-in-javascript-22184726?u=76281980)
@@ -294,7 +308,7 @@ created: 2026-04-29
 
 ### 1. Building Blocks of Closures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Local and global scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/local-and-global-scope-14366909?u=76281980)
@@ -772,7 +786,7 @@ created: 2026-04-29
 
 ### 2. Creating and Using Closures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement the module pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/implement-the-module-pattern-14372072?u=76281980)
@@ -1168,7 +1182,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to learn closures
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-closures/continuing-to-learn-closures?u=76281980)

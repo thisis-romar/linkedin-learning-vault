@@ -42,17 +42,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. CSS Basics]]** (8 videos)
-- **[[#2. CSS Concepts]]** (7 videos)
-- **[[#3. A Closer Look at the Cascade]]** (3 videos)
-- **[[#4. Layouts]]** (5 videos)
-- **[[#5. Working with CSS]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Time to learn some CSS
+- [**1. CSS Basics**](#1-css-basics) (8 videos)
+  - What is CSS?
+  - What are default browser styles?
+  - What is basic CSS lexicon?
+  - What are basic selector types?
+  - What are CSS combinators?
+  - How does CSS work with HTML?
+  - What options are available to write your styles?
+  - How do browsers render styles?
+- [**2. CSS Concepts**](#2-css-concepts) (7 videos)
+  - Why CSS reset and normalize matter
+  - Working with fonts
+  - Understanding the box model
+  - Setting margins and padding
+  - Working with color
+  - Applying borders and backgrounds
+  - Understanding the units of measurement
+- [**3. A Closer Look at the Cascade**](#3-a-closer-look-at-the-cascade) (3 videos)
+  - Understanding cascading order
+  - Calculating specificity
+  - Considering the rule !important
+- [**4. Layouts**](#4-layouts) (5 videos)
+  - Structuring a page with CSS
+  - Understanding how flexbox works
+  - Understanding how the CSS Grid works
+  - Understanding CSS frameworks
+  - Creating responsive layouts
+- [**5. Working with CSS**](#5-working-with-css) (4 videos)
+  - Organizing your code
+  - Using browser inspection tools
+  - Using the "Can I use..." for a CSS property
+  - Validating your CSS with tools
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about CSS
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Time to learn some CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/time-to-learn-some-css-25724800?u=76281980)
@@ -85,7 +114,7 @@ created: 2026-04-29
 
 ### 1. CSS Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is CSS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/what-is-css?u=76281980)
@@ -719,7 +748,7 @@ created: 2026-04-29
 
 ### 2. CSS Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why CSS reset and normalize matter
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/why-css-reset-and-normalize-matter?u=76281980)
@@ -1377,7 +1406,7 @@ created: 2026-04-29
 
 ### 3. A Closer Look at the Cascade
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cascading order
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/understanding-cascading-order?u=76281980)
@@ -1593,7 +1622,7 @@ created: 2026-04-29
 
 ### 4. Layouts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structuring a page with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/structuring-a-page-with-css?u=76281980)
@@ -1868,7 +1897,7 @@ created: 2026-04-29
 
 ### 5. Working with CSS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing your code
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/organizing-your-code?u=76281980)
@@ -2143,7 +2172,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling/learning-more-about-css?u=76281980)

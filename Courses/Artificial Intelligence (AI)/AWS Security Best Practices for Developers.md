@@ -48,19 +48,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Identity and Access Management]]** (6 videos)
-- **[[#2. Amazon Simple Storage Service (S3)]]** (7 videos)
-- **[[#3. Key Management Service Encryption]]** (5 videos)
-- **[[#4. User Identities with Cognito and Web]]** (6 videos)
-- **[[#5. Certificate Manager]]** (3 videos)
-- **[[#6. Parameter Store and Secrets Manager]]** (3 videos)
-- **[[#7. Security Alerts in AWS]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Securing your application
+  - What you should know
+- [**1. Identity and Access Management**](#1-identity-and-access-management) (6 videos)
+  - Important concepts
+  - Uses and access keys
+  - Roles and policies
+  - IAM key points
+  - Challenge: IAM roles and policies
+  - Solution: IAM roles and policies
+- [**2. Amazon Simple Storage Service (S3)**](#2-amazon-simple-storage-service-s3) (7 videos)
+  - S3 as a static website
+  - Bucket policies
+  - S3 bucket encryption
+  - S3 object versioning and MFA delete
+  - S3 key points
+  - Challenge: S3 presigned URL challenge
+  - Solution: S3 presigned URL challenge
+- [**3. Key Management Service Encryption**](#3-key-management-service-encryption) (5 videos)
+  - Key Management Service (KMS) introduction
+  - Using AWS KMS
+  - KMS key points
+  - Challenge: Key Management Service
+  - Solution: Key Management Service
+- [**4. User Identities with Cognito and Web**](#4-user-identities-with-cognito-and-web) (6 videos)
+  - Cognito concepts
+  - Workflow
+  - Cognito demonstration
+  - Cognito key points
+  - Challenge: Cognito automated login
+  - Solution: Cognito automated login
+- [**5. Certificate Manager**](#5-certificate-manager) (3 videos)
+  - Creating and managing certificates
+  - Using certificates with AWS Resources
+  - AWS Certificates Manager and EC2 instances
+- [**6. Parameter Store and Secrets Manager**](#6-parameter-store-and-secrets-manager) (3 videos)
+  - Parameter Store for sensitive data
+  - Using Parameter Store from EC2
+  - Secrets Manager overview
+- [**7. Security Alerts in AWS**](#7-security-alerts-in-aws) (3 videos)
+  - Root login alerts
+  - Detecting unauthorized instance stops
+  - Checking for unused credentials
+- [**Conclusion**](#conclusion) (1 videos)
+  - Get familiar with AWS tools
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your application
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/securing-your-application?u=76281980)
@@ -113,7 +149,7 @@ created: 2026-04-29
 
 ### 1. Identity and Access Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Important concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/important-concepts?u=76281980)
@@ -504,7 +540,7 @@ created: 2026-04-29
 
 ### 2. Amazon Simple Storage Service (S3)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### S3 as a static website
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/s3-as-a-static-website?u=76281980)
@@ -900,7 +936,7 @@ created: 2026-04-29
 
 ### 3. Key Management Service Encryption
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key Management Service (KMS) introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/key-management-service-kms-introduction?u=76281980)
@@ -1143,7 +1179,7 @@ created: 2026-04-29
 
 ### 4. User Identities with Cognito and Web
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cognito concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/cognito-concepts?u=76281980)
@@ -1616,7 +1652,7 @@ created: 2026-04-29
 
 ### 5. Certificate Manager
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating and managing certificates
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/creating-and-managing-certificates?u=76281980)
@@ -1855,7 +1891,7 @@ created: 2026-04-29
 
 ### 6. Parameter Store and Secrets Manager
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Parameter Store for sensitive data
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/parameter-store-for-sensitive-data?u=76281980)
@@ -2042,7 +2078,7 @@ created: 2026-04-29
 
 ### 7. Security Alerts in AWS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Root login alerts
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/root-login-alerts?u=76281980)
@@ -2266,7 +2302,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get familiar with AWS tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-security-best-practices-for-developers-19179797/get-familiar-with-aws-tools?u=76281980)

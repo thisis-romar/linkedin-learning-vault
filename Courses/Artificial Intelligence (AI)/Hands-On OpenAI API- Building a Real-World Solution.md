@@ -55,18 +55,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Using the Audio API to Transcribe Audio and the Chat Completions API to Create Documents]]** (4 videos)
-- **[[#2. Building the KinderLogger Assistant with the Assistants API]]** (4 videos)
-- **[[#3. Implementing a Retrieval Augmented Generation (RAG) Process in the Assistant]]** (4 videos)
-- **[[#4. Implementing the Web API to Expose the Assistant]]** (6 videos)
-- **[[#5. Identifying Harmful Content Using the Moderations API]]** (4 videos)
-- **[[#6. Creating the KinderLogger GPT]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Building a real-world AI app
+  - What you need to know
+  - What you are going to build throughout this course
+  - Preparing the tools and development environment
+- [**1. Using the Audio API to Transcribe Audio and the Chat Completions API to Create Documents**](#1-using-the-audio-api-to-transcribe-audio-and-the-chat-completions-api-to-create-documents) (4 videos)
+  - Extracting rich information from audio messages
+  - Installing the required library and preparing the code
+  - Transcribing the audio files by using the Audio API
+  - Creating the JSON document using the Chat Completions API
+- [**2. Building the KinderLogger Assistant with the Assistants API**](#2-building-the-kinderlogger-assistant-with-the-assistants-api) (4 videos)
+  - Bringing the KinderLogger assistant idea to life
+  - Creating the assistant using the Assitants API
+  - Creating a new conversation thread and adding a message
+  - Running and testing the conversation thread
+- [**3. Implementing a Retrieval Augmented Generation (RAG) Process in the Assistant**](#3-implementing-a-retrieval-augmented-generation-rag-process-in-the-assistant) (4 videos)
+  - Using private documents and data in the KinderLogger project
+  - Uploading the transcription files to the assistant
+  - Improving the assistant with prompt engineering techniques
+  - Using the assistant on the Assistants Playground
+- [**4. Implementing the Web API to Expose the Assistant**](#4-implementing-the-web-api-to-expose-the-assistant) (6 videos)
+  - Exposing the assistant as a service
+  - Creating the Web API using the FastAPI library
+  - Calling the assistant from the Web API
+  - Implementing logging in the Web API
+  - Building and publishing the Docker container image
+  - Deploying the Azure Container App for the service
+- [**5. Identifying Harmful Content Using the Moderations API**](#5-identifying-harmful-content-using-the-moderations-api) (4 videos)
+  - Applying responsible AI practices in KinderLogger
+  - Implementing the Moderations API in the transcription app
+  - Implementing the Moderations API in the Web API
+  - Building a new image and updating the Azure Container App
+- [**6. Creating the KinderLogger GPT**](#6-creating-the-kinderlogger-gpt) (3 videos)
+  - Using a GPT as a frontend for the KinderLogger project
+  - Creating the GPT and the action for invoking the service
+  - Testing the KinderLogger GPT
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a real-world AI app
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/building-a-real-world-ai-app?u=76281980)
@@ -244,7 +274,7 @@ created: 2026-04-29
 
 ### 1. Using the Audio API to Transcribe Audio and the Chat Completions API to Create Documents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extracting rich information from audio messages
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/extracting-rich-information-from-audio-messages?u=76281980)
@@ -497,7 +527,7 @@ created: 2026-04-29
 
 ### 2. Building the KinderLogger Assistant with the Assistants API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bringing the KinderLogger assistant idea to life
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/bringing-the-kinderlogger-assistant-idea-to-life?u=76281980)
@@ -731,7 +761,7 @@ created: 2026-04-29
 
 ### 3. Implementing a Retrieval Augmented Generation (RAG) Process in the Assistant
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using private documents and data in the KinderLogger project
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-private-documents-and-data-in-the-kinderlogger-project?u=76281980)
@@ -919,7 +949,7 @@ created: 2026-04-29
 
 ### 4. Implementing the Web API to Expose the Assistant
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exposing the assistant as a service
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/exposing-the-assistant-as-a-service?u=76281980)
@@ -1298,7 +1328,7 @@ created: 2026-04-29
 
 ### 5. Identifying Harmful Content Using the Moderations API
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying responsible AI practices in KinderLogger
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/applying-responsible-ai-practices-in-kinderlogger?u=76281980)
@@ -1461,7 +1491,7 @@ created: 2026-04-29
 
 ### 6. Creating the KinderLogger GPT
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using a GPT as a frontend for the KinderLogger project
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/using-a-gpt-as-a-frontend-for-the-kinderlogger-project?u=76281980)
@@ -1644,7 +1674,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-openai-api-building-a-real-world-solution/next-steps?u=76281980)

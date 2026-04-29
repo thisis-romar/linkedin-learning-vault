@@ -49,16 +49,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Initial Setup]]** (7 videos)
-- **[[#2. Spring Models]]** (4 videos)
-- **[[#3. HTTP with Spring]]** (6 videos)
-- **[[#4. Basic Frontend with React]]** (7 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Create your own mighty full-stack app
+  - What you should know
+- [**1. Initial Setup**](#1-initial-setup) (7 videos)
+  - Introduction to Spring
+  - Introduction to React
+  - Overview of the full-stack and MVC
+  - IDE for a Java/JavaScript environment
+  - Introduction to Postman
+  - Initialize a project with Spring Boot
+  - Initialize the React client project
+- [**2. Spring Models**](#2-spring-models) (4 videos)
+  - Data options and JPA
+  - Define first model class
+  - JPA repository
+  - Define example data
+- [**3. HTTP with Spring**](#3-http-with-spring) (6 videos)
+  - Finalize base server
+  - POST endpoint
+  - GET endpoint
+  - GET ID endpoint
+  - PUT endpoint
+  - DELETE endpoint
+- [**4. Basic Frontend with React**](#4-basic-frontend-with-react) (7 videos)
+  - Create contact listing component
+  - Add materialize to the project
+  - Finalize list of contacts component
+  - Create and structure your components
+  - Connect the add contact form to server
+  - Add server controller for CORS
+  - Finalize server controller for CORS
+- [**Conclusion**](#conclusion) (2 videos)
+  - Context and state
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your own mighty full-stack app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-your-own-mighty-full-stack-app?u=76281980)
@@ -120,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Initial Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/introduction-to-spring?u=76281980)
@@ -461,7 +489,7 @@ created: 2026-04-29
 
 ### 2. Spring Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data options and JPA
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/data-options-and-jpa?u=76281980)
@@ -716,7 +744,7 @@ created: 2026-04-29
 
 ### 3. HTTP with Spring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finalize base server
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/finalize-base-server?u=76281980)
@@ -1070,7 +1098,7 @@ created: 2026-04-29
 
 ### 4. Basic Frontend with React
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create contact listing component
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/create-contact-listing-component?u=76281980)
@@ -1770,7 +1798,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Context and state
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring/context-and-state?u=76281980)

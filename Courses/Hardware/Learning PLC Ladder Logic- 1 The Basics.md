@@ -46,17 +46,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. PLC Programming]]** (2 videos)
-- **[[#2. Ladder Logic Basics]]** (8 videos)
-- **[[#3. Rung Operation]]** (10 videos)
-- **[[#4. Timers and Counters]]** (7 videos)
-- **[[#5. Detailed Case Study: Plywood Sheets Process]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Program PLCs with ladder logic
+  - What you should know
+- [**1. PLC Programming**](#1-plc-programming) (2 videos)
+  - PLC programming languages
+  - LogixPro PLC simulation software
+- [**2. Ladder Logic Basics**](#2-ladder-logic-basics) (8 videos)
+  - Programming concept
+  - Input instructions
+  - Output instructions
+  - I/O with a push button and light
+  - I/O with alternating lights
+  - Field devices and program instructions
+  - Normally open (NO) contact with XIC and XIO
+  - Normally closed (NC) contact with XIC and XIO
+- [**3. Rung Operation**](#3-rung-operation) (10 videos)
+  - Multiple inputs
+  - Example of multiple inputs (AND and OR)
+  - Multiple outputs
+  - Seal-in and hold-in instruction
+  - Branching operation and examples
+  - Rung operation case study, part 1
+  - Rung operation case study, part 2
+  - Multiple I/O case study
+  - Latch/unlatch output
+  - Latch/unlatch example
+- [**4. Timers and Counters**](#4-timers-and-counters) (7 videos)
+  - Timer instruction overview
+  - Timer status bits (EN, DN, and TT)
+  - Timer types (TON and TOF) and diagrams
+  - Use a timer to flash a light
+  - Counter instruction
+  - Examples of counter types
+  - Counter and timer case study
+- [**5. Detailed Case Study: Plywood Sheets Process**](#5-detailed-case-study-plywood-sheets-process) (7 videos)
+  - Case overview
+  - Part 1: Counting sheets
+  - Part 2: Running the conveyer
+  - Part 3: Applying paint
+  - Part 4: Programming the second conveyer
+  - Ladder logic program simulation
+  - Part 5: Add stops to complete the program
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Program PLCs with ladder logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/program-plcs-with-ladder-logic-22700400?u=76281980)
@@ -103,7 +140,7 @@ created: 2026-04-29
 
 ### 1. PLC Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PLC programming languages
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/plc-programming-languages?u=76281980)
@@ -277,7 +314,7 @@ created: 2026-04-29
 
 ### 2. Ladder Logic Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Programming concept
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/programming-concept?u=76281980)
@@ -807,7 +844,7 @@ created: 2026-04-29
 
 ### 3. Rung Operation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Multiple inputs
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/multiple-inputs?u=76281980)
@@ -1650,7 +1687,7 @@ created: 2026-04-29
 
 ### 4. Timers and Counters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Timer instruction overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/timer-instruction-overview?u=76281980)
@@ -2351,7 +2388,7 @@ created: 2026-04-29
 
 ### 5. Detailed Case Study: Plywood Sheets Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Case overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/case-overview?u=76281980)
@@ -2776,7 +2813,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-plc-ladder-logic-1-the-basics/next-steps-22803390?u=76281980)

@@ -48,20 +48,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Demystifying Containers and Kubernetes]]** (7 videos)
-- **[[#2. Security Model for Containers and Kubernetes]]** (4 videos)
-- **3. Factor #1: Securing Containerized Application Code** (2 videos)
-- **4. Factor #2: Securing Images** (4 videos)
-- **5. Factor #3: Securing Hosts and Container Working Environment** (4 videos)
-- **6. Factor #4: Securing Applications in Kubernetes** (11 videos)
-- **7. Factor #5: Securing Kubernetes Cluster** (3 videos)
-- **[[#8. Additional Security Considerations]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Protect your containers and Kubernetes ecosystem
+  - What you need to know
+- [**1. Demystifying Containers and Kubernetes**](#1-demystifying-containers-and-kubernetes) (7 videos)
+  - What are containers?
+  - Virtualization
+  - Isolation and OS security features
+  - Container runtime
+  - What is Kubernetes?
+  - Kubernetes master node
+  - Kubernetes worker node
+- [**2. Security Model for Containers and Kubernetes**](#2-security-model-for-containers-and-kubernetes) (4 videos)
+  - Overall technology architecture
+  - Container deployment and orchestration lifecycle
+  - Attack surface and vectors
+  - Five factors
+- [**3. Factor #1: Securing Containerized Application Code**](#3-factor-1-securing-containerized-application-code) (2 videos)
+  - Secure design before code
+  - Secure code
+- [**4. Factor #2: Securing Images**](#4-factor-2-securing-images) (4 videos)
+  - Secure container images, part 1
+  - Secure container images, part 2
+  - Image registries
+  - Image registry access control
+- [**5. Factor #3: Securing Hosts and Container Working Environment**](#5-factor-3-securing-hosts-and-container-working-environment) (4 videos)
+  - Container working environment
+  - Container network security
+  - Container port and interface security
+  - Host OS protection
+- [**6. Factor #4: Securing Applications in Kubernetes**](#6-factor-4-securing-applications-in-kubernetes) (11 videos)
+  - Securing applications in Kubernetes
+  - Pod Security Standard
+  - Access management
+  - Authenticating users
+  - Authenticating service accounts
+  - Authorization
+  - Admission control
+  - Security context
+  - Security Policy
+  - Kubernetes network security
+  - Secrets management
+- [**7. Factor #5: Securing Kubernetes Cluster**](#7-factor-5-securing-kubernetes-cluster) (3 videos)
+  - Cluster security goals
+  - Securing API server traffic
+  - Securing cluster components
+- [**8. Additional Security Considerations**](#8-additional-security-considerations) (2 videos)
+  - Infrastructure security
+  - Logging and monitoring
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect your containers and Kubernetes ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/protect-your-containers-and-kubernetes-ecosystem-21031810?u=76281980)
@@ -104,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Demystifying Containers and Kubernetes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are containers?
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/what-are-containers?u=76281980)
@@ -571,7 +611,7 @@ created: 2026-04-29
 
 ### 2. Security Model for Containers and Kubernetes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overall technology architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/overall-technology-architecture?u=76281980)
@@ -805,7 +845,7 @@ created: 2026-04-29
 
 ### 3. Factor #1: Securing Containerized Application Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure design before code
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-design-before-code?u=76281980)
@@ -954,7 +994,7 @@ created: 2026-04-29
 
 ### 4. Factor #2: Securing Images
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure container images, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/secure-container-images-part-1?u=76281980)
@@ -1338,7 +1378,7 @@ created: 2026-04-29
 
 ### 5. Factor #3: Securing Hosts and Container Working Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Container working environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/container-working-environment?u=76281980)
@@ -1679,7 +1719,7 @@ created: 2026-04-29
 
 ### 6. Factor #4: Securing Applications in Kubernetes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing applications in Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/securing-applications-in-kubernetes?u=76281980)
@@ -2378,7 +2418,7 @@ created: 2026-04-29
 
 ### 7. Factor #5: Securing Kubernetes Cluster
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cluster security goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/cluster-security-goals?u=76281980)
@@ -2509,7 +2549,7 @@ created: 2026-04-29
 
 ### 8. Additional Security Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Infrastructure security
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/infrastructure-security?u=76281980)
@@ -2678,7 +2718,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem/next-steps?u=76281980)

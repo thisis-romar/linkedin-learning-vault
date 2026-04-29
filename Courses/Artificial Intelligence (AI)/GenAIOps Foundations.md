@@ -59,18 +59,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. GenAIOps Fundamentals]]** (5 videos)
-- **[[#2. Model Training in Gen AI]]** (5 videos)
-- **[[#3. Developing Gen AI Applications]]** (6 videos)
-- **[[#4. Model Deployment and Serving]]** (5 videos)
-- **[[#5. Monitoring and Troubleshooting]]** (5 videos)
-- **[[#6. Security and Compliance]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - GenAIOps foundations
+- [**1. GenAIOps Fundamentals**](#1-genaiops-fundamentals) (5 videos)
+  - The machine learning lifecycle
+  - The advent of generative AI
+  - DevOps, MLOps and GenAIOps
+  - The GenAIOps lifecycle
+  - Planning genAI projects
+- [**2. Model Training in Gen AI**](#2-model-training-in-gen-ai) (5 videos)
+  - Training phase in generative AI
+  - Data for evaluaton and fine-tuning
+  - Generative AI automation pipelines
+  - Model lifecycle management
+  - Evaluation and finetuning tracking
+- [**3. Developing Gen AI Applications**](#3-developing-gen-ai-applications) (6 videos)
+  - The generative AI application stack
+  - Prompt management
+  - Memory and embedding management
+  - Agents management
+  - Agent tools integrations
+  - Testing generative AI applications
+- [**4. Model Deployment and Serving**](#4-model-deployment-and-serving) (5 videos)
+  - GenAI deployment patterns
+  - Infrastructure planning
+  - Generative AI deployment pipelines
+  - Scaling generative AI deployments
+  - Guardrails deployments
+- [**5. Monitoring and Troubleshooting**](#5-monitoring-and-troubleshooting) (5 videos)
+  - Generative AI monitoring pipelines
+  - Metrics for generative AI
+  - Generative AI traces
+  - Agent trajectories
+  - Troubleshooting generative AI model behavior
+- [**6. Security and Compliance**](#6-security-and-compliance) (5 videos)
+  - Ethics and compliance
+  - Protection against vulnerabilities
+  - Toxicity and bias in generative AI
+  - Hallucinations
+  - Privacy protection in genAI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAIOps foundations
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/genaiops-foundations?u=76281980)
@@ -99,7 +132,7 @@ created: 2026-04-29
 
 ### 1. GenAIOps Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The machine learning lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-machine-learning-life-cycle?u=76281980)
@@ -436,7 +469,7 @@ created: 2026-04-29
 
 ### 2. Model Training in Gen AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Training phase in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/training-phase-in-gen-ai?u=76281980)
@@ -815,7 +848,7 @@ created: 2026-04-29
 
 ### 3. Developing Gen AI Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The generative AI application stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/the-gen-ai-application-stack?u=76281980)
@@ -1177,7 +1210,7 @@ created: 2026-04-29
 
 ### 4. Model Deployment and Serving
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI deployment patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-deployment-patterns?u=76281980)
@@ -1443,7 +1476,7 @@ created: 2026-04-29
 
 ### 5. Monitoring and Troubleshooting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generative AI monitoring pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/gen-ai-monitoring-pipelines?u=76281980)
@@ -1684,7 +1717,7 @@ created: 2026-04-29
 
 ### 6. Security and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ethics and compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/ethics-and-compliance?u=76281980)
@@ -2000,7 +2033,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/genaiops-foundations/next-steps?u=76281980)

@@ -48,14 +48,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Crafting Authentic Marketing Content with AI]]** (4 videos)
-- **[[#2. Personalizing Content for Impact]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Creating marketing content with AI
+- [**1. Crafting Authentic Marketing Content with AI**](#1-crafting-authentic-marketing-content-with-ai) (4 videos)
+  - Anatomy of a marketing prompt
+  - Provide clear prompt direction
+  - Translate brand identity into tone guidelines
+  - Integrate context for enhanced SEO
+- [**2. Personalizing Content for Impact**](#2-personalizing-content-for-impact) (3 videos)
+  - Meet audience expectations
+  - Tell a story
+  - Add a human touch
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue generating authenticity with AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating marketing content with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/creating-marketing-content-with-ai?u=76281980)
@@ -90,7 +99,7 @@ created: 2026-04-29
 
 ### 1. Crafting Authentic Marketing Content with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Anatomy of a marketing prompt
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980)
@@ -259,7 +268,7 @@ created: 2026-04-29
 
 ### 2. Personalizing Content for Impact
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet audience expectations
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/meet-audience-expectations?u=76281980)
@@ -379,7 +388,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue generating authenticity with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980)

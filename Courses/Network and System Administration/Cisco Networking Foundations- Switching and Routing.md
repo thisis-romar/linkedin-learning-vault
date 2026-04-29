@@ -50,14 +50,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Ethernet Switching]]** (16 videos)
-- **[[#2. IP Routing]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you'll learn
+  - How to get hands-on practice
+- [**1. Ethernet Switching**](#1-ethernet-switching) (16 videos)
+  - MAC addresses
+  - Ethernet switch frame forwarding
+  - Ethernet frame format
+  - VLAN theory
+  - VLAN configuration
+  - Trunking theory
+  - Trunking configuration
+  - Introducing Spanning Tree Protocol (STP)
+  - STP: The backstory
+  - STP Port States
+  - STP example
+  - STP convergence time
+  - STP variants
+  - STP configuration
+  - EtherChannel theory
+  - EtherChannel configuration
+- [**2. IP Routing**](#2-ip-routing) (9 videos)
+  - Packet flow in a routed network
+  - Static and default routes
+  - Configuring static and default routes
+  - Routing protocol selection
+  - Routing protocol categories
+  - RIP theory
+  - Split-horizon and poison reverse
+  - Configuring RIPv2
+  - Configuring RIPng
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/welcome?u=76281980)
@@ -195,7 +224,7 @@ created: 2026-04-29
 
 ### 1. Ethernet Switching
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MAC addresses
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/mac-addresses?u=76281980)
@@ -1682,7 +1711,7 @@ created: 2026-04-29
 
 ### 2. IP Routing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Packet flow in a routed network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/packet-flow-in-a-routed-network?u=76281980)
@@ -2588,7 +2617,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-switching-and-routing/next-steps?u=76281980)

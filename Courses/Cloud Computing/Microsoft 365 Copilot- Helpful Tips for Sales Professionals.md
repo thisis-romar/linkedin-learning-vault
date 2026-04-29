@@ -48,12 +48,18 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Use Case Examples]]** (4 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understand Copilot's role in sales
+  - What you should know
+- [**1. Use Case Examples**](#1-use-case-examples) (4 videos)
+  - Boost customer research and sales preparation
+  - Create a customized pitch
+  - Create an unsolicited proposal
+  - Respond to an RFP
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Copilot's role in sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/understand-copilot-s-role-in-sales?u=76281980)
@@ -100,7 +106,7 @@ created: 2026-04-29
 
 ### 1. Use Case Examples
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Boost customer research and sales preparation
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-copilot-helpful-tips-for-sales-professionals/boost-customer-research-and-sales-preparation?u=76281980)

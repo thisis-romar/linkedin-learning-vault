@@ -49,19 +49,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Connecting Data Science]]** (1 videos)
-- **[[#2. Researching Diseases and Populations]]** (4 videos)
-- **[[#3. Researching Treatment and Outcomes]]** (4 videos)
-- **[[#4. Patient Care]]** (6 videos)
-- **[[#5. Self-Care]]** (3 videos)
-- **[[#6. Medical Administration and Insurance]]** (3 videos)
-- **[[#7. Challenges]]** (3 videos)
-- **[[#8. Continuing Your Data Science of Healthcare Learning Journey]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Healthcare and data science
+- [**1. Connecting Data Science**](#1-connecting-data-science) (1 videos)
+  - Data science and COVID-19
+- [**2. Researching Diseases and Populations**](#2-researching-diseases-and-populations) (4 videos)
+  - Shared history of health and data visualization
+  - Measuring health and disease
+  - Researching diseases in populations
+  - Genetic data and healthcare
+- [**3. Researching Treatment and Outcomes**](#3-researching-treatment-and-outcomes) (4 videos)
+  - Diagnosing diseases
+  - Drug (re)discovery
+  - Predicting outcomes
+  - Treatments and ROI
+- [**4. Patient Care**](#4-patient-care) (6 videos)
+  - Selecting treatments and interventions
+  - Individualized treatment
+  - Robotic surgery
+  - 3D printing and healthcare
+  - Virtual reality in healthcare
+  - Telemedicine
+- [**5. Self-Care**](#5-self-care) (3 videos)
+  - Wearables and health monitoring
+  - Self-serve healthcare
+  - Patient experience
+- [**6. Medical Administration and Insurance**](#6-medical-administration-and-insurance) (3 videos)
+  - Administrative burden for doctors and staff
+  - Blockchain and medical data
+  - Data science and health insurance
+- [**7. Challenges**](#7-challenges) (3 videos)
+  - Limitations and barriers
+  - Data ethics in healthcare
+  - Preparing for an unknown future
+- [**8. Continuing Your Data Science of Healthcare Learning Journey**](#8-continuing-your-data-science-of-healthcare-learning-journey) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Healthcare and data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/healthcare-and-data-science-29600863?u=76281980)
@@ -97,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Connecting Data Science
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science and COVID-19
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/data-science-and-covid-19?u=76281980)
@@ -238,7 +264,7 @@ created: 2026-04-29
 
 ### 2. Researching Diseases and Populations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Shared history of health and data visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/shared-history-of-health-and-data-visualization?u=76281980)
@@ -649,7 +675,7 @@ created: 2026-04-29
 
 ### 3. Researching Treatment and Outcomes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Diagnosing diseases
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/diagnosing-diseases?u=76281980)
@@ -1115,7 +1141,7 @@ created: 2026-04-29
 
 ### 4. Patient Care
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting treatments and interventions
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/selecting-treatments-and-interventions?u=76281980)
@@ -1685,7 +1711,7 @@ created: 2026-04-29
 
 ### 5. Self-Care
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wearables and health monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/wearables-and-health-monitoring?u=76281980)
@@ -2087,7 +2113,7 @@ created: 2026-04-29
 
 ### 6. Medical Administration and Insurance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Administrative burden for doctors and staff
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/administrative-burden-for-doctors-and-staff?u=76281980)
@@ -2390,7 +2416,7 @@ created: 2026-04-29
 
 ### 7. Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Limitations and barriers
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/limitations-and-barriers?u=76281980)
@@ -2780,7 +2806,7 @@ created: 2026-04-29
 
 ### 8. Continuing Your Data Science of Healthcare Learning Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-data-science-of-healthcare-medicine-and-public-health/next-steps-and-additional-resources?u=76281980)

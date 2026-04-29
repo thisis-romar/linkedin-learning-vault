@@ -48,11 +48,16 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. ChatGPT: Perfecting Your Output with Templates in Prompts]]** (5 videos)
+- [**1. ChatGPT: Perfecting Your Output with Templates in Prompts**](#1-chatgpt-perfecting-your-output-with-templates-in-prompts) (5 videos)
+  - Unlock the power of templates: Create impactful ChatGPT prompts with the template pattern
+  - Supercharge your prompts with Markdown: Enhance ChatGPT output like a pro
+  - Elevate your writing: Using Markdown for footnotes and citations in ChatGPT
+  - Advanced Markdown mastery: Perfect ChatGPT prompts for outstanding results
+  - Refine ChatGPT responses: Reduce hallucinations with escape valve techniques
 
 ### 1. ChatGPT: Perfecting Your Output with Templates in Prompts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlock the power of templates: Create impactful ChatGPT prompts with the template pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980)

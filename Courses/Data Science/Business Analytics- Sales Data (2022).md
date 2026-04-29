@@ -46,17 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Sales Data 101]]** (5 videos)
-- **[[#2. Effective Sales Analysis]]** (6 videos)
-- **[[#3. Types of Sales Analysis]]** (4 videos)
-- **[[#4. Tools to Analyze Sales Data]]** (3 videos)
-- **[[#5. Additional Resources]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Generating sales insights
+- [**1. Sales Data 101**](#1-sales-data-101) (5 videos)
+  - Tools to track sales data
+  - Common challenges
+  - Sales metrics to study
+  - Using data source maps
+  - How data is structured
+- [**2. Effective Sales Analysis**](#2-effective-sales-analysis) (6 videos)
+  - Tools for studying your data
+  - Building a PivotChart in Excel
+  - Data visualization basics
+  - Sales dashboard
+  - Reporting infrastructure
+  - Sales and marketing dashboard
+- [**3. Types of Sales Analysis**](#3-types-of-sales-analysis) (4 videos)
+  - Type of sales analysis
+  - Identifying seasonality
+  - Categorical analysis
+  - Regional analysis
+- [**4. Tools to Analyze Sales Data**](#4-tools-to-analyze-sales-data) (3 videos)
+  - Sales analysis with Google Analytics
+  - Sales analysis with Tableau
+  - Sales analysis with Power BI
+- [**5. Additional Resources**](#5-additional-resources) (3 videos)
+  - Tableau forums
+  - Utilizing Reddit
+  - Watching YouTube
+- [**Conclusion**](#conclusion) (1 videos)
+  - Time to analyze
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generating sales insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/generating-sales-insights?u=76281980)
@@ -92,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Sales Data 101
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools to track sales data
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-to-track-sales-data-14574754?u=76281980)
@@ -433,7 +456,7 @@ created: 2026-04-29
 
 ### 2. Effective Sales Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools for studying your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tools-for-studying-your-data?u=76281980)
@@ -813,7 +836,7 @@ created: 2026-04-29
 
 ### 3. Types of Sales Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Type of sales analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/type-of-sales-analysis-14574759?u=76281980)
@@ -1061,7 +1084,7 @@ created: 2026-04-29
 
 ### 4. Tools to Analyze Sales Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sales analysis with Google Analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/sales-analysis-with-google-analytics-14574760?u=76281980)
@@ -1267,7 +1290,7 @@ created: 2026-04-29
 
 ### 5. Additional Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tableau forums
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/tableau-forums-14578686?u=76281980)
@@ -1380,7 +1403,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Time to analyze
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-sales-data-2022/time-to-analyze?u=76281980)

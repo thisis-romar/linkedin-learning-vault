@@ -40,19 +40,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Strategy: Vision, Mission, and Values]]** (6 videos)
-- **[[#2. Analyzing a Market and a Strategy: How Competitive Is a Firm?]]** (5 videos)
-- **[[#3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?]]** (4 videos)
-- **[[#4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values]]** (5 videos)
-- **[[#5. Analytical Strategy Deep Dive: Analyzing Key Market Participants]]** (7 videos)
-- **[[#6. Operational Strategy Deep Dive: Monitoring and Measuring Success]]** (5 videos)
-- **[[#7. Course Review: Data-Informed Strategic Thinking and Decision-Making]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Data-informed strategic thinking
+  - What experience should you have for this course?
+- [**1. What Is Strategy: Vision, Mission, and Values**](#1-what-is-strategy-vision-mission-and-values) (6 videos)
+  - What is strategy, and what role does data science play?
+  - Leadership and management: Strategic challenges
+  - Why strategy?
+  - Three levels of strategic thinking and decision-making
+  - Conceptual strategy: Vision, mission, and values
+  - Practice: How to see a firm's vision
+- [**2. Analyzing a Market and a Strategy: How Competitive Is a Firm?**](#2-analyzing-a-market-and-a-strategy-how-competitive-is-a-firm) (5 videos)
+  - Analytical strategy: Assessing a competitive market
+  - Macrostrategy: Porter's five forces
+  - Microstrategy: SWOT
+  - Using SWOTs to derive strategic options
+  - Practice: How to assess a firm's competitiveness
+- [**3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?**](#3-measuring-and-planning-success-what-does-good-look-like-and-how-do-i-get-there) (4 videos)
+  - Operational strategy: Scorecards and action plans
+  - Milestones and obstacles: Folding back and action planning
+  - Metrics and targets for success: The balanced scorecard
+  - Practice: Aligning key metrics and action plans
+- [**4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values**](#4-conceptual-strategy-deep-dive-developing-and-aligning-vision-mission-and-values) (5 videos)
+  - Deeper conceptual thinking: Values, leadership, and conflict
+  - Creating a compelling vision
+  - Practice: Seeing a firm's vision part two
+  - Aligning mission and vision
+  - Practice: Using regression to create alignment
+- [**5. Analytical Strategy Deep Dive: Analyzing Key Market Participants**](#5-analytical-strategy-deep-dive-analyzing-key-market-participants) (7 videos)
+  - Deeper analytics: Assessing key market participants
+  - Porter's Five (+2) Forces
+  - Practice: Macro-market analytics part two
+  - Assessing variability in markets: Insights from Porter
+  - Practice: Assessing market forces
+  - Competitive advantage: Creating differentiation
+  - Practice: Assessing or creating competitive differentiation
+- [**6. Operational Strategy Deep Dive: Monitoring and Measuring Success**](#6-operational-strategy-deep-dive-monitoring-and-measuring-success) (5 videos)
+  - Deeper operational thinking: The balanced scorecard and action planning
+  - Practice: Using data science to create a scorecard
+  - Action planning: Designing tasks tied to scorecard metrics
+  - Practice: Assessing competitor impacts on your plans
+  - The missing piece: Contingency planning
+- [**7. Course Review: Data-Informed Strategic Thinking and Decision-Making**](#7-course-review-data-informed-strategic-thinking-and-decision-making) (3 videos)
+  - Review of course objectives
+  - What is strategy: Defined in three levels
+  - Supporting analytics, pitfalls, and a one-page summary
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where do you go from here: Other courses of interest
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data-informed strategic thinking
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/data-informed-strategic-thinking?u=76281980)
@@ -106,7 +144,7 @@ created: 2026-04-29
 
 ### 1. What Is Strategy: Vision, Mission, and Values
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is strategy, and what role does data science play?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/what-is-strategy-and-what-role-does-data-science-play?u=76281980)
@@ -737,7 +775,7 @@ created: 2026-04-29
 
 ### 2. Analyzing a Market and a Strategy: How Competitive Is a Firm?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analytical strategy: Assessing a competitive market
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/analytical-strategy-assessing-a-competitive-market?u=76281980)
@@ -1336,7 +1374,7 @@ created: 2026-04-29
 
 ### 3. Measuring and Planning Success: What Does Good Look Like and How Do I Get There?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Operational strategy: Scorecards and action plans
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/operational-strategy-scorecards-and-action-plans?u=76281980)
@@ -1692,7 +1730,7 @@ created: 2026-04-29
 
 ### 4. Conceptual Strategy Deep Dive: Developing and Aligning Vision, Mission, and Values
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deeper conceptual thinking: Values, leadership, and conflict
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-conceptual-thinking-values-leadership-and-conflict?u=76281980)
@@ -2214,7 +2252,7 @@ created: 2026-04-29
 
 ### 5. Analytical Strategy Deep Dive: Analyzing Key Market Participants
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deeper analytics: Assessing key market participants
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-analytics-assessing-key-market-participants?u=76281980)
@@ -2773,7 +2811,7 @@ created: 2026-04-29
 
 ### 6. Operational Strategy Deep Dive: Monitoring and Measuring Success
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deeper operational thinking: The balanced scorecard and action planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/deeper-operational-thinking-the-balanced-scorecard-and-action-planning?u=76281980)
@@ -3306,7 +3344,7 @@ created: 2026-04-29
 
 ### 7. Course Review: Data-Informed Strategic Thinking and Decision-Making
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review of course objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/review-of-course-objectives?u=76281980)
@@ -3419,7 +3457,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where do you go from here: Other courses of interest
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-informed-strategic-thinking-for-senior-analysts-and-data-scientists/where-do-you-go-from-here-other-courses-of-interest?u=76281980)

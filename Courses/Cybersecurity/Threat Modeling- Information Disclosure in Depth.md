@@ -46,18 +46,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Data at Rest]]** (3 videos)
-- **[[#2. Data in Motion]]** (3 videos)
-- **[[#3. Information Disclosure by Processes]]** (2 videos)
-- **[[#4. Side Effects]]** (3 videos)
-- **[[#5. Disclosure in Certain Technologies]]** (3 videos)
-- **[[#6. Defenses]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Allow me to disclose something
+  - Four-question framework
+  - Information disclosure as a part of STRIDE
+- [**1. Data at Rest**](#1-data-at-rest) (3 videos)
+  - Authorized access
+  - Physical layer
+  - Metadata
+- [**2. Data in Motion**](#2-data-in-motion) (3 videos)
+  - Encrypted and unencrypted
+  - Metadata in motion
+  - Non-internet data
+- [**3. Information Disclosure by Processes**](#3-information-disclosure-by-processes) (2 videos)
+  - Intentional disclosure
+  - Metadata and security
+- [**4. Side Effects**](#4-side-effects) (3 videos)
+  - Radios: Intentional and accidental
+  - Timing
+  - Interpretation
+- [**5. Disclosure in Certain Technologies**](#5-disclosure-in-certain-technologies) (3 videos)
+  - Cloud
+  - IoT and mobile
+  - AI and machine learning
+- [**6. Defenses**](#6-defenses) (3 videos)
+  - Metadata management
+  - Secrets and secrets management
+  - Cryptography
+- [**Conclusion**](#conclusion) (1 videos)
+  - Secure by design: Bring confidentiality to your systems
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Allow me to disclose something
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980)
@@ -174,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Data at Rest
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Authorized access
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980)
@@ -299,7 +320,7 @@ created: 2026-04-29
 
 ### 2. Data in Motion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Encrypted and unencrypted
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980)
@@ -419,7 +440,7 @@ created: 2026-04-29
 
 ### 3. Information Disclosure by Processes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intentional disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980)
@@ -495,7 +516,7 @@ created: 2026-04-29
 
 ### 4. Side Effects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Radios: Intentional and accidental
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/radios-intentional-and-accidental?u=76281980)
@@ -606,7 +627,7 @@ created: 2026-04-29
 
 ### 5. Disclosure in Certain Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cloud?u=76281980)
@@ -709,7 +730,7 @@ created: 2026-04-29
 
 ### 6. Defenses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Metadata management
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-management?u=76281980)
@@ -834,7 +855,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure by design: Bring confidentiality to your systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980)

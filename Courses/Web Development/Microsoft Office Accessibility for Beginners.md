@@ -48,14 +48,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Tools for Creating Content]]** (3 videos)
-- **[[#2. Tools for Consuming Content]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Microsoft Office makes content and function acessible to all
+- [**1. Tools for Creating Content**](#1-tools-for-creating-content) (3 videos)
+  - Use the Dictate tool
+  - Request accessible content
+  - Use the Immersive Reader
+- [**2. Tools for Consuming Content**](#2-tools-for-consuming-content) (5 videos)
+  - Have content read out loud
+  - Set alt tags on images
+  - Understanding screen reader considerations
+  - Using the Accessibility Checker
+  - Turn on live captions in Teams and PowerPoint
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learn accessibility options in depth
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Office makes content and function acessible to all
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/microsoft-office-makes-content-and-function-acessible-to-all?u=76281980)
@@ -82,7 +92,7 @@ created: 2026-04-29
 
 ### 1. Tools for Creating Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the Dictate tool
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/use-the-dictate-tool?u=76281980)
@@ -283,7 +293,7 @@ created: 2026-04-29
 
 ### 2. Tools for Consuming Content
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Have content read out loud
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/have-content-read-out-loud?u=76281980)
@@ -631,7 +641,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn accessibility options in depth
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-accessibility-for-beginners/learn-accessibility-options-in-depth?u=76281980)

@@ -47,28 +47,137 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Write Your First Program]]** (5 videos)
-- **[[#2. Primitive Data Types]]** (11 videos)
-- **[[#3. Compound Data Types]]** (3 videos)
-- **[[#4. Functions]]** (5 videos)
-- **[[#5. Program Flow Control]]** (9 videos)
-- **[[#6. Ownership]]** (7 videos)
-- **[[#7. References]]** (7 videos)
-- **[[#8. Modules]]** (6 videos)
-- **[[#9. Input and Output]]** (5 videos)
-- **[[#10. Structs]]** (7 videos)
-- **[[#11. Generic Types]]** (6 videos)
-- **[[#12. Traits]]** (8 videos)
-- **[[#13. Lifetimes]]** (6 videos)
-- **[[#14. Enums]]** (9 videos)
-- **[[#15. Error Handling]]** (6 videos)
-- **[[#16. Collections]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Learn Rust programming
+  - What you should know
+  - What is Rust?
+  - Rust versions
+- [**1. Write Your First Program**](#1-write-your-first-program) (5 videos)
+  - Installing Rust on Windows
+  - Installing Rust on Linux and macOS
+  - Anatomy of a Rust program
+  - Adding comments
+  - Building programs using Cargo
+- [**2. Primitive Data Types**](#2-primitive-data-types) (11 videos)
+  - Declaring variables
+  - Integer data types
+  - Floating-point data types
+  - Arithmetic operations
+  - Formatting print statements
+  - Bitwise operations
+  - Boolean data type and operations
+  - Comparison operations
+  - Char data types
+  - Challenge: Find the average
+  - Solution: Find the average
+- [**3. Compound Data Types**](#3-compound-data-types) (3 videos)
+  - Arrays
+  - Multidimensional arrays
+  - Tuples
+- [**4. Functions**](#4-functions) (5 videos)
+  - Function parameters
+  - Statements vs. expressions
+  - Function return values
+  - Challenge: Convert temperature
+  - Solution: Convert temperature
+- [**5. Program Flow Control**](#5-program-flow-control) (9 videos)
+  - Conditional execution
+  - Multiple conditions
+  - Conditional assignment
+  - Loops
+  - While loops
+  - For loops
+  - Nested loops
+  - Challenge: Max, min, mean
+  - Solution: Max, min, mean
+- [**6. Ownership**](#6-ownership) (7 videos)
+  - Variable scope
+  - Shadowing variables
+  - Stack and heap memory
+  - String data type
+  - Ownership
+  - Moving, cloning, and copying data
+  - Transferring ownership
+- [**7. References**](#7-references) (7 videos)
+  - Borrowing references
+  - Mutable references
+  - Dangling references
+  - Slices
+  - Slices as function parameters
+  - Challenge: Trim spaces
+  - Solution: Trim spaces
+- [**8. Modules**](#8-modules) (6 videos)
+  - Rust Standard Library and prelude
+  - Standard input
+  - Parse strings
+  - Crates
+  - Challenge: Higher or lower
+  - Solution: Higher or lower
+- [**9. Input and Output**](#9-input-and-output) (5 videos)
+  - Command-line arguments
+  - Reading from files
+  - Writing to files
+  - Challenge: Check the roster
+  - Solution: Check the roster
+- [**10. Structs**](#10-structs) (7 videos)
+  - Defining structs
+  - Struct update syntax
+  - Struct methods
+  - Associated functions
+  - Tuple structs
+  - Challenge: Represent shapes
+  - Solution: Represent shapes
+- [**11. Generic Types**](#11-generic-types) (6 videos)
+  - Generic struct definitions
+  - Generic method definitions
+  - Generic function definitions
+  - Box data type
+  - Challenge: Sum boxes
+  - Solution: Sum boxes
+- [**12. Traits**](#12-traits) (8 videos)
+  - Implement traits
+  - Default trait implementation
+  - Derive traits
+  - Trait bounds
+  - Multiple trait bounds
+  - Return types with implemented traits
+  - Challenge: Implement the display trait
+  - Solution: Implement the display trait
+- [**13. Lifetimes**](#13-lifetimes) (6 videos)
+  - The borrow checker
+  - Lifetime annotation syntax
+  - Multiple lifetime annotations
+  - Lifetime elision rules
+  - Struct lifetime annotations
+  - Static lifetime
+- [**14. Enums**](#14-enums) (9 videos)
+  - Define enums
+  - Match operator
+  - Match with default placeholder
+  - Enum methods
+  - Option<T> enum
+  - Matching Option<T>
+  - If-let syntax
+  - Challenge: Represent a location
+  - Solution: Represent a location
+- [**15. Error Handling**](#15-error-handling) (6 videos)
+  - Unrecoverable errors
+  - Result<T, E> enum
+  - Matching Result<T, E> to recover from errors
+  - Propagating errors
+  - Challenge: Handle errors
+  - Solution: Handle errors
+- [**16. Collections**](#16-collections) (4 videos)
+  - Vectors
+  - HashMaps
+  - Challenge: Count words
+  - Solution: Count words
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn Rust programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/learn-rust-programming?u=76281980)
@@ -245,7 +354,7 @@ created: 2026-04-29
 
 ### 1. Write Your First Program
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Rust on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-windows?u=76281980)
@@ -670,7 +779,7 @@ created: 2026-04-29
 
 ### 2. Primitive Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Declaring variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980)
@@ -1756,7 +1865,7 @@ created: 2026-04-29
 
 ### 3. Compound Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/arrays?u=76281980)
@@ -2060,7 +2169,7 @@ created: 2026-04-29
 
 ### 4. Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Function parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980)
@@ -2384,7 +2493,7 @@ created: 2026-04-29
 
 ### 5. Program Flow Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditional execution
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/conditional-execution?u=76281980)
@@ -3012,7 +3121,7 @@ created: 2026-04-29
 
 ### 6. Ownership
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Variable scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/variable-scope?u=76281980)
@@ -3635,7 +3744,7 @@ created: 2026-04-29
 
 ### 7. References
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Borrowing references
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/borrowing-references?u=76281980)
@@ -4082,7 +4191,7 @@ created: 2026-04-29
 
 ### 8. Modules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rust Standard Library and prelude
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980)
@@ -4548,7 +4657,7 @@ created: 2026-04-29
 
 ### 9. Input and Output
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Command-line arguments
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/command-line-arguments?u=76281980)
@@ -4924,7 +5033,7 @@ created: 2026-04-29
 
 ### 10. Structs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining structs
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980)
@@ -5390,7 +5499,7 @@ created: 2026-04-29
 
 ### 11. Generic Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generic struct definitions
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/generic-struct-definitions?u=76281980)
@@ -5878,7 +5987,7 @@ created: 2026-04-29
 
 ### 12. Traits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement traits
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980)
@@ -6368,7 +6477,7 @@ created: 2026-04-29
 
 ### 13. Lifetimes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The borrow checker
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/the-borrow-checker?u=76281980)
@@ -6798,7 +6907,7 @@ created: 2026-04-29
 
 ### 14. Enums
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define enums
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/define-enums?u=76281980)
@@ -7350,7 +7459,7 @@ created: 2026-04-29
 
 ### 15. Error Handling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unrecoverable errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980)
@@ -7750,7 +7859,7 @@ created: 2026-04-29
 
 ### 16. Collections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vectors
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980)
@@ -8134,7 +8243,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980)

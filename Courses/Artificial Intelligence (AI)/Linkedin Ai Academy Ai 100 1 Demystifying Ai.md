@@ -44,18 +44,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to AI]]** (4 videos)
-- **[[#2. Supervised Learning]]** (1 videos)
-- **[[#3. Regression]]** (5 videos)
-- **[[#4. Classification]]** (3 videos)
-- **[[#5. Nonlinear Models]]** (2 videos)
-- **[[#6. Do It Right]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The LinkedIn AI Academy: The imperative of understanding AI
+- [**1. Introduction to AI**](#1-introduction-to-ai) (4 videos)
+  - What is AI?
+  - AI and machine learning
+  - Three pillars of AI: Objectives, data, algorithms
+  - Building real AI applications
+- [**2. Supervised Learning**](#2-supervised-learning) (1 videos)
+  - Supervised learning vs. unsupervised learning
+- [**3. Regression**](#3-regression) (5 videos)
+  - What is regression?
+  - Linear regression
+  - Multiple linear regression
+  - Bias and variance
+  - Evaluating a linear regression model
+- [**4. Classification**](#4-classification) (3 videos)
+  - What is classification?
+  - Logistic regression
+  - Evaluating models and choosing the best
+- [**5. Nonlinear Models**](#5-nonlinear-models) (2 videos)
+  - Why are linear models not enough?
+  - A primer to nonlinear models: Decision trees, neural networks
+- [**6. Do It Right**](#6-do-it-right) (1 videos)
+  - Know your objective, know your data, and listen to the data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing with AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The LinkedIn AI Academy: The imperative of understanding AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/the-linkedin-ai-academy-the-imperative-of-understanding-ai?u=76281980)
@@ -83,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Introduction to AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-ai?u=76281980)
@@ -421,7 +439,7 @@ created: 2026-04-29
 
 ### 2. Supervised Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supervised learning vs. unsupervised learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/supervised-learning-vs-unsupervised-learning?u=76281980)
@@ -485,7 +503,7 @@ created: 2026-04-29
 
 ### 3. Regression
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is regression?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-regression?u=76281980)
@@ -854,7 +872,7 @@ created: 2026-04-29
 
 ### 4. Classification
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is classification?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/what-is-classification?u=76281980)
@@ -1143,7 +1161,7 @@ created: 2026-04-29
 
 ### 5. Nonlinear Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why are linear models not enough?
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/why-are-linear-models-not-enough?u=76281980)
@@ -1280,7 +1298,7 @@ created: 2026-04-29
 
 ### 6. Do It Right
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Know your objective, know your data, and listen to the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/know-your-objective-know-your-data-and-listen-to-the-data?u=76281980)
@@ -1344,7 +1362,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-1-demystifying-ai/continuing-with-ai?u=76281980)

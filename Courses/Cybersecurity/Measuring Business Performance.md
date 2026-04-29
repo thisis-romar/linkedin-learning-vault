@@ -48,16 +48,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Basics of Measuring Business Performance]]** (3 videos)
-- **[[#2. Developing a Metric]]** (3 videos)
-- **[[#3. Systems of Metrics]]** (3 videos)
-- **[[#4. Performance Measurement Tools]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Measuring business performance
+- [**1. Basics of Measuring Business Performance**](#1-basics-of-measuring-business-performance) (3 videos)
+  - Why companies measure
+  - Performance measurement terminology
+  - What should my company measure?
+- [**2. Developing a Metric**](#2-developing-a-metric) (3 videos)
+  - Characteristic of a good metric
+  - Additional considerations in developing good metrics
+  - The four types of data analytics
+- [**3. Systems of Metrics**](#3-systems-of-metrics) (3 videos)
+  - Three categories of performance measurement
+  - Measuring performance with a map
+  - Evaluating a system of metrics
+- [**4. Performance Measurement Tools**](#4-performance-measurement-tools) (2 videos)
+  - Using scorecards to measure and manage performance
+  - Dashboard and data considerations when measuring business performance
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Measuring business performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-business-performance?u=76281980)
@@ -102,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Basics of Measuring Business Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why companies measure
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/why-companies-measure?u=76281980)
@@ -320,7 +333,7 @@ created: 2026-04-29
 
 ### 2. Developing a Metric
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristic of a good metric
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/characteristic-of-a-good-metric?u=76281980)
@@ -597,7 +610,7 @@ created: 2026-04-29
 
 ### 3. Systems of Metrics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three categories of performance measurement
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/three-categories-of-performance-measurement?u=76281980)
@@ -852,7 +865,7 @@ created: 2026-04-29
 
 ### 4. Performance Measurement Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using scorecards to measure and manage performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/using-scorecards-to-measure-and-manage-performance?u=76281980)
@@ -1015,7 +1028,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/next-steps?u=76281980)

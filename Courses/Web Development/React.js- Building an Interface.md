@@ -53,16 +53,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Set Up and Install]]** (5 videos)
-- **[[#2. Getting Started]]** (4 videos)
-- **[[#3. Sort and Search]]** (3 videos)
-- **[[#4. Mutating Data]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why React is so important
+  - Exercise files
+- [**1. Set Up and Install**](#1-set-up-and-install) (5 videos)
+  - Installing requirements
+  - React installation
+  - Customizing your installs
+  - Using React icon components
+  - Installing Tailwind CSS in React
+- [**2. Getting Started**](#2-getting-started) (4 videos)
+  - Your first component
+  - Creating a sub-component Hooks
+  - Getting appointments and debugging
+  - Importing JSON data as a variable
+- [**3. Sort and Search**](#3-sort-and-search) (3 videos)
+  - Passing data to a component
+  - The useState Hook and conditional classes
+  - Passing state and hiding components
+- [**4. Mutating Data**](#4-mutating-data) (6 videos)
+  - useEffect and useCallback Hooks
+  - Deleting records
+  - Searching with a filtered array
+  - Setting up a sort
+  - Programming the sorting interface
+  - Adding a new appointment
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why React is so important
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980)
@@ -158,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Set Up and Install
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980)
@@ -812,7 +833,7 @@ created: 2026-04-29
 
 ### 2. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your first component
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980)
@@ -1176,7 +1197,7 @@ created: 2026-04-29
 
 ### 3. Sort and Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Passing data to a component
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-data-to-a-component?u=76281980)
@@ -1457,7 +1478,7 @@ created: 2026-04-29
 
 ### 4. Mutating Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### useEffect and useCallback Hooks
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980)
@@ -2148,7 +2169,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980)

@@ -50,19 +50,75 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Understanding Open-Source Software]]** (5 videos)
-- **[[#2. Firewalls]]** (6 videos)
-- **[[#3. Host as a Router]]** (10 videos)
-- **[[#4. Host as a Network Firewall]]** (10 videos)
-- **[[#5. Packet Analysis]]** (7 videos)
-- **[[#6. IDSs and Vulnerability Assessment]]** (8 videos)
-- **[[#7. Logging and Monitoring]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Protect your network with free and open-source software
+  - What you should know
+  - Environment setup
+- [**1. Understanding Open-Source Software**](#1-understanding-open-source-software) (5 videos)
+  - What is open-source software?
+  - Open-source software in networking
+  - Open-source solutions in cybersecurity
+  - Open-source vs. commercial software
+  - Costs and savings
+- [**2. Firewalls**](#2-firewalls) (6 videos)
+  - What is a firewall?
+  - Host firewalls
+  - Network firewalls
+  - Static packet filtering vs. stateful packet inspection
+  - Challenge: Disable UFW
+  - Solution: Disable UFW
+- [**3. Host as a Router**](#3-host-as-a-router) (10 videos)
+  - Netfilter and iptables
+  - Setting up a host firewall using iptables
+  - Automating netfilter configuration
+  - Understanding hosts as routers
+  - Adding a network adapter
+  - Testing the second adapter
+  - Setting up IP forwarding
+  - Changing netfilter settings: Part 1
+  - Changing netfilter settings: Part 2
+  - Testing the router
+- [**4. Host as a Network Firewall**](#4-host-as-a-network-firewall) (10 videos)
+  - Setting up hosts as network firewalls
+  - Setting up a web server
+  - Port forwarding
+  - Testing port forwarding
+  - Understanding one-legged DMZ
+  - Understanding true DMZ
+  - Understanding an application proxy firewall
+  - Setting up Squid
+  - Challenge: Fine-tuning the Squid configuration
+  - Solution: Fine-tuning the Squid configuration
+- [**5. Packet Analysis**](#5-packet-analysis) (7 videos)
+  - What is packet analysis?
+  - ARP poisoning example
+  - Packet capturing with Wireshark
+  - Exploring Wireshark's advanced features
+  - Wireshark hands-on
+  - Challenge: Filtering with IP addresses and port numbers
+  - Solution: Filtering with IP addresses and port numbers
+- [**6. IDSs and Vulnerability Assessment**](#6-idss-and-vulnerability-assessment) (8 videos)
+  - What is an IDS?
+  - Introducing Snort
+  - Snort as a packet sniffer
+  - Snort as an IDS: Establishing rules
+  - Snort as an IDS: Detecting pings
+  - What is a network vulnerability assessment?
+  - Nessus
+  - Network scanning with Nessus
+- [**7. Logging and Monitoring**](#7-logging-and-monitoring) (6 videos)
+  - Logging
+  - syslog-ng
+  - Log forwarding: Part 1
+  - Log forwarding: Part 2
+  - Kiwi
+  - SNMP
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Protect your network with free and open-source software
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/protect-your-network-with-free-and-open-source-software?u=76281980)
@@ -153,7 +209,7 @@ created: 2026-04-29
 
 ### 1. Understanding Open-Source Software
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is open-source software?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-open-source-software?u=76281980)
@@ -440,7 +496,7 @@ created: 2026-04-29
 
 ### 2. Firewalls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a firewall?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-a-firewall?u=76281980)
@@ -784,7 +840,7 @@ created: 2026-04-29
 
 ### 3. Host as a Router
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Netfilter and iptables
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/netfilter-and-iptables?u=76281980)
@@ -1487,7 +1543,7 @@ created: 2026-04-29
 
 ### 4. Host as a Network Firewall
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up hosts as network firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/setting-up-hosts-as-network-firewall?u=76281980)
@@ -2140,7 +2196,7 @@ created: 2026-04-29
 
 ### 5. Packet Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is packet analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-packet-analysis?u=76281980)
@@ -2563,7 +2619,7 @@ created: 2026-04-29
 
 ### 6. IDSs and Vulnerability Assessment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an IDS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/what-is-an-ids?u=76281980)
@@ -3127,7 +3183,7 @@ created: 2026-04-29
 
 ### 7. Logging and Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/logging?u=76281980)
@@ -3517,7 +3573,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/protecting-your-network-with-open-source-software-21464358/next-steps?u=76281980)

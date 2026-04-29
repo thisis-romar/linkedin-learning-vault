@@ -51,23 +51,91 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Parallel Computing Hardware]]** (3 videos)
-- **[[#2. Threads and Processes]]** (9 videos)
-- **[[#3. Mutual Exclusion]]** (5 videos)
-- **[[#4. Locks]]** (6 videos)
-- **[[#5. Liveness]]** (8 videos)
-- **[[#6. Synchronization]]** (6 videos)
-- **[[#7. Barriers]]** (5 videos)
-- **[[#8. Asynchronous Tasks]]** (7 videos)
-- **[[#9. Evaluating Parallel Performance]]** (4 videos)
-- **[[#10. Designing Parallel Programs]]** (4 videos)
-- **[[#11. Challenge Problems]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn parallel programming basics
+  - What you should know
+  - Installing Cygwin and Visual Studio Code
+- [**1. Parallel Computing Hardware**](#1-parallel-computing-hardware) (3 videos)
+  - Sequential vs. parallel computing
+  - Parallel computing architectures
+  - Shared versus distributed memory
+- [**2. Threads and Processes**](#2-threads-and-processes) (9 videos)
+  - Thread versus process
+  - Thread versus process: C++ demo
+  - Concurrent versus parallel execution
+  - Execution scheduling
+  - Execution scheduling: C++ demo
+  - Thread life cycle
+  - Thread life cycle: C++ demo
+  - Detached thread
+  - Detached thread: C++ demo
+- [**3. Mutual Exclusion**](#3-mutual-exclusion) (5 videos)
+  - Data race
+  - Data race: C++ demo
+  - Mutual exclusion
+  - Mutual exclusion: C++ demo
+  - Atomic objects: C++ demo
+- [**4. Locks**](#4-locks) (6 videos)
+  - Recursive mutex
+  - Recursive mutex: C++ demo
+  - Try lock
+  - Try lock: C++ demo
+  - Shared mutex
+  - Shared mutex: C++ demo
+- [**5. Liveness**](#5-liveness) (8 videos)
+  - Deadlock
+  - Deadlock: C++ demo
+  - Abandoned lock
+  - Abandoned lock: C++ demo
+  - Starvation
+  - Starvation: C++ demo
+  - Livelock
+  - Livelock: C++ demo
+- [**6. Synchronization**](#6-synchronization) (6 videos)
+  - Condition variable
+  - Condition variable: C++ demo
+  - Producer-consumer
+  - Producer-consumer: C++ demo
+  - Semaphore
+  - Semaphore: C++ demo
+- [**7. Barriers**](#7-barriers) (5 videos)
+  - Race condition
+  - Race condition: C++ demo
+  - Barrier
+  - Barrier: C++ demo
+  - Latch: C++ demo
+- [**8. Asynchronous Tasks**](#8-asynchronous-tasks) (7 videos)
+  - Computational graph
+  - Thread pool
+  - Thread pool: C++ demo
+  - Future
+  - Future: C++ demo
+  - Divide and conquer
+  - Divide and conquer: C++ demo
+- [**9. Evaluating Parallel Performance**](#9-evaluating-parallel-performance) (4 videos)
+  - Speedup, latency, and throughput
+  - Amdahl's law
+  - Measure speedup
+  - Measure speedup: C++ demo
+- [**10. Designing Parallel Programs**](#10-designing-parallel-programs) (4 videos)
+  - Partitioning
+  - Communication
+  - Agglomeration
+  - Mapping
+- [**11. Challenge Problems**](#11-challenge-problems) (7 videos)
+  - Welcome to the challenges!
+  - Challenge: Matrix multiply
+  - Solution: Matrix multiply
+  - Challenge: Merge sort
+  - Solution: Merge sort
+  - Challenge: Download images
+  - Solution: Download images
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn parallel programming basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/learn-parallel-programming-basics?u=76281980)
@@ -160,7 +228,7 @@ created: 2026-04-29
 
 ### 1. Parallel Computing Hardware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sequential vs. parallel computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/sequential-vs-parallel-computing?u=76281980)
@@ -466,7 +534,7 @@ created: 2026-04-29
 
 ### 2. Threads and Processes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Thread versus process
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/thread-versus-process?u=76281980)
@@ -1127,7 +1195,7 @@ created: 2026-04-29
 
 ### 3. Mutual Exclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data race
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/data-race?u=76281980)
@@ -1482,7 +1550,7 @@ created: 2026-04-29
 
 ### 4. Locks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recursive mutex
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/recursive-mutex?u=76281980)
@@ -1892,7 +1960,7 @@ created: 2026-04-29
 
 ### 5. Liveness
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deadlock
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/deadlock?u=76281980)
@@ -2361,7 +2429,7 @@ created: 2026-04-29
 
 ### 6. Synchronization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Condition variable
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/condition-variable?u=76281980)
@@ -2829,7 +2897,7 @@ created: 2026-04-29
 
 ### 7. Barriers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Race condition
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/race-condition?u=76281980)
@@ -3161,7 +3229,7 @@ created: 2026-04-29
 
 ### 8. Asynchronous Tasks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Computational graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/computational-graph?u=76281980)
@@ -3612,7 +3680,7 @@ created: 2026-04-29
 
 ### 9. Evaluating Parallel Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Speedup, latency, and throughput
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/speedup-latency-and-throughput?u=76281980)
@@ -3910,7 +3978,7 @@ created: 2026-04-29
 
 ### 10. Designing Parallel Programs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Partitioning
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/partitioning?u=76281980)
@@ -4195,7 +4263,7 @@ created: 2026-04-29
 
 ### 11. Challenge Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to the challenges!
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/welcome-to-the-challenges?u=76281980)
@@ -4611,7 +4679,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-c-plus-plus/next-steps?u=76281980)

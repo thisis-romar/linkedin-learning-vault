@@ -48,14 +48,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Broken Access Control]]** (6 videos)
-- **[[#2. Cryptographic Failure]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - OWASP Top 10
+- [**1. Broken Access Control**](#1-broken-access-control) (6 videos)
+  - What is broken access control?
+  - Example 1: 2021 Facebook broken access control vulnerability
+  - Example 2: 2021 personal data travel breach
+  - Prevention techniques: Least privilege
+  - Prevention techniques: Record ownership and logging
+  - Prevention techniques: Functional access control testing
+- [**2. Cryptographic Failure**](#2-cryptographic-failure) (6 videos)
+  - What is cryptographic failure?
+  - Example 1: 2021 GoDaddy plaintext passwords
+  - Example 2: Using a broken or risky cryptographic algorithm
+  - Prevention techniques: Data classification
+  - Prevention techniques: Proper key management
+  - Prevention techniques: Secure protocols
+- [**Conclusion**](#conclusion) (1 videos)
+  - OWASP Top 10 keep learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10?u=76281980)
@@ -105,7 +119,7 @@ created: 2026-04-29
 
 ### 1. Broken Access Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is broken access control?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-broken-access-control?u=76281980)
@@ -389,7 +403,7 @@ created: 2026-04-29
 
 ### 2. Cryptographic Failure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cryptographic failure?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/what-is-cryptographic-failure?u=76281980)
@@ -685,7 +699,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OWASP Top 10 keep learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-1-broken-access-control-and-2-cryptographic-failures/owasp-top-10-keep-learning?u=76281980)

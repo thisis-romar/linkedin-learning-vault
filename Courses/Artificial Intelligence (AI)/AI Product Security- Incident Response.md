@@ -55,17 +55,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Understanding AI Incidents]]** (5 videos)
-- **[[#2. Planning for an Incident]]** (6 videos)
-- **[[#3. Detect and Log AI Issues]]** (4 videos)
-- **[[#4. AI Incident Response]]** (2 videos)
-- **[[#5. Incident Communications]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Managing AI incidents to minimize damage
+  - What you should know
+  - Disclaimer
+- [**1. Understanding AI Incidents**](#1-understanding-ai-incidents) (5 videos)
+  - Introduction to Incidents
+  - Incident reporting obligations
+  - AI incident case studies
+  - High-risk AI models
+  - Prohibited AI models
+- [**2. Planning for an Incident**](#2-planning-for-an-incident) (6 videos)
+  - Preparing for an incident
+  - Assessing the threats
+  - Preparing the incident response plan
+  - Upskilling with AI drills
+  - Running an AI crisis exercise
+  - Running an AI IR maturity assessment
+- [**3. Detect and Log AI Issues**](#3-detect-and-log-ai-issues) (4 videos)
+  - Test harness for AI logging
+  - Detecting toxicity
+  - Logging llm-guard
+  - The challenge of hallucinations
+- [**4. AI Incident Response**](#4-ai-incident-response) (2 videos)
+  - Responding to an AI incident
+  - Documenting the response
+- [**5. Incident Communications**](#5-incident-communications) (4 videos)
+  - Introduction to the Knight-Nurse framework
+  - When and how to communicate
+  - What to communicate
+  - Special considerations for AI models
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing AI incidents to minimize damage
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/managing-ai-incidents-to-minimize-damage?u=76281980)
@@ -135,7 +160,7 @@ created: 2026-04-29
 
 ### 1. Understanding AI Incidents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Incidents
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980)
@@ -383,7 +408,7 @@ created: 2026-04-29
 
 ### 2. Planning for an Incident
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for an incident
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980)
@@ -912,7 +937,7 @@ created: 2026-04-29
 
 ### 3. Detect and Log AI Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test harness for AI logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980)
@@ -1164,7 +1189,7 @@ created: 2026-04-29
 
 ### 4. AI Incident Response
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responding to an AI incident
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/responding-to-an-ai-incident?u=76281980)
@@ -1366,7 +1391,7 @@ created: 2026-04-29
 
 ### 5. Incident Communications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the Knight-Nurse framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980)
@@ -1607,7 +1632,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980)

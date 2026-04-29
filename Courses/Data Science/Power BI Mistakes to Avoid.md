@@ -44,16 +44,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Next-Level Power BI]]** (4 videos)
-- **[[#2. Connecting to Data]]** (4 videos)
-- **[[#3. Modeling Data]]** (5 videos)
-- **[[#4. Visualizing and Analyzing Data]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Improve your Power BI skills
+- [**1. Next-Level Power BI**](#1-next-level-power-bi) (4 videos)
+  - Main challenges of Power BI?
+  - Systems thinking vs. ad hoc analysis
+  - Being an effective analyst
+  - Keys to effective data visualization
+- [**2. Connecting to Data**](#2-connecting-to-data) (4 videos)
+  - Don't pull in too much data
+  - Eliminate extra applied steps
+  - Remember to profile your data sources
+  - Remove unnecessary rows and columns
+- [**3. Modeling Data**](#3-modeling-data) (5 videos)
+  - Create a lookup table
+  - Use star schema
+  - Eliminate two-way relationships
+  - Apply user-friendly value replacements
+  - Define the right level of granularity
+- [**4. Visualizing and Analyzing Data**](#4-visualizing-and-analyzing-data) (8 videos)
+  - Visualizing time series data
+  - Use groups to break up the analysis
+  - Use slicers to improve usability
+  - Use a custom tooltip to add detail
+  - Be careful with pie charts
+  - When to use Top-N analysis
+  - The full potential of visualizations
+  - Use color sparingly
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your Power BI skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/improve-your-power-bi-skills?u=76281980)
@@ -83,7 +106,7 @@ created: 2026-04-29
 
 ### 1. Next-Level Power BI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Main challenges of Power BI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/main-challenges-of-power-bi?u=76281980)
@@ -329,7 +352,7 @@ created: 2026-04-29
 
 ### 2. Connecting to Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Don't pull in too much data
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/don-t-pull-in-too-much-data?u=76281980)
@@ -579,7 +602,7 @@ created: 2026-04-29
 
 ### 3. Modeling Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a lookup table
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/create-a-lookup-table?u=76281980)
@@ -948,7 +971,7 @@ created: 2026-04-29
 
 ### 4. Visualizing and Analyzing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing time series data
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/visualizing-time-series-data?u=76281980)
@@ -1370,7 +1393,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-mistakes-to-avoid-27804086/additional-resources?u=76281980)

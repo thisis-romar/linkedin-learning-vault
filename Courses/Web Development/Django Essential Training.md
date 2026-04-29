@@ -45,21 +45,69 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Starting Your Django Project]]** (4 videos)
-- **[[#2. Django Built-In User Management]]** (3 videos)
-- **[[#3. How Django Interacts with Databases]]** (6 videos)
-- **[[#4. Building Dynamic Webpages]]** (6 videos)
-- **[[#5. Building Robust Front-Ends in Django]]** (5 videos)
-- **[[#6. Django Forms: Validation Shouldn’t Be Hard]]** (5 videos)
-- **[[#7. Working with Existing Data]]** (4 videos)
-- **[[#8. Using Django to Store and Display User-Specific Data]]** (5 videos)
-- **[[#9. Login, Logout, and Signup Are Simple]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - What is Django?
+  - What you need to start a Django project
+  - Utilizing the Django documentation
+  - Using Codespaces in this course
+- [**1. Starting Your Django Project**](#1-starting-your-django-project) (4 videos)
+  - Creating a new Django project
+  - The model view template
+  - Minimum working page
+  - Creating your first Django template
+- [**2. Django Built-In User Management**](#2-django-built-in-user-management) (3 videos)
+  - Django admin: Easily visualizing and creating data
+  - Migrations: Making database changes easy
+  - User authentication in two simple steps
+- [**3. How Django Interacts with Databases**](#3-how-django-interacts-with-databases) (6 videos)
+  - Introduction to ORMs
+  - Creating your first model
+  - Using admin for data creation and manipulation
+  - Using Django shell for creating and querying data
+  - </> Code challenge: Adding likes to notes
+  - Solution: Adding likes to notes
+- [**4. Building Dynamic Webpages**](#4-building-dynamic-webpages) (6 videos)
+  - Creating a dynamic template
+  - Creating your first Django dynamic webpage
+  - How can Django can list data with just some small changes
+  - Introduction to Django class-based views: A few classes have the power to change the world
+  - </> Code challenge: Showing just popular notes
+  - Solution: Showing just popular notes
+- [**5. Building Robust Front-Ends in Django**](#5-building-robust-front-ends-in-django) (5 videos)
+  - Static files in Django
+  - An HTML skeleton: How to set up a base structure to every Django template
+  - It's time to add some style
+  - </> Code challenge: Dividing a template into smaller parts
+  - Solution: Dividing a template into smaller parts
+- [**6. Django Forms: Validation Shouldn’t Be Hard**](#6-django-forms-validation-shouldnt-be-hard) (5 videos)
+  - Create a webpage
+  - Understanding how Django handles security in POSTs
+  - Django forms: Powerful validation with minimal work
+  - Django forms are useful for layout as well
+  - Codespaces error and the solution
+- [**7. Working with Existing Data**](#7-working-with-existing-data) (4 videos)
+  - The U in the CRUD: Updating data
+  - The D in the CRUD: Deleting data
+  - </> Code challenge: A button to add a like to a note
+  - Solution: A button to add a like to a note
+- [**8. Using Django to Store and Display User-Specific Data**](#8-using-django-to-store-and-display-user-specific-data) (5 videos)
+  - How to update data stored in your database
+  - Template for update
+  - Endpoint and template for deleting
+  - </> Code challenge: Mark a note as public or private
+  - Solution: Mark a note as public or private
+- [**9. Login, Logout, and Signup Are Simple**](#9-login-logout-and-signup-are-simple) (5 videos)
+  - Adding login and logout pages
+  - Adding a signup page
+  - Finishing touches
+  - </> Code challenge: Create a share link for a public note
+  - Solution: Create a share link for a public note
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Django?
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/what-is-django?u=76281980)
@@ -204,7 +252,7 @@ created: 2026-04-29
 
 ### 1. Starting Your Django Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a new Django project
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-new-django-project?u=76281980)
@@ -511,7 +559,7 @@ created: 2026-04-29
 
 ### 2. Django Built-In User Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Django admin: Easily visualizing and creating data
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/django-admin-easily-visualizing-and-creating-data?u=76281980)
@@ -761,7 +809,7 @@ created: 2026-04-29
 
 ### 3. How Django Interacts with Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to ORMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/introduction-to-orms?u=76281980)
@@ -1198,7 +1246,7 @@ created: 2026-04-29
 
 ### 4. Building Dynamic Webpages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a dynamic template
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/creating-a-dynamic-template?u=76281980)
@@ -1729,7 +1777,7 @@ created: 2026-04-29
 
 ### 5. Building Robust Front-Ends in Django
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Static files in Django
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/static-files-in-django?u=76281980)
@@ -2176,7 +2224,7 @@ created: 2026-04-29
 
 ### 6. Django Forms: Validation Shouldn’t Be Hard
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a webpage
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/create-a-webpage?u=76281980)
@@ -2596,7 +2644,7 @@ created: 2026-04-29
 
 ### 7. Working with Existing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The U in the CRUD: Updating data
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/the-u-in-the-crud-updating-data?u=76281980)
@@ -2984,7 +3032,7 @@ created: 2026-04-29
 
 ### 8. Using Django to Store and Display User-Specific Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to update data stored in your database
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/how-to-update-data-stored-in-your-database?u=76281980)
@@ -3389,7 +3437,7 @@ created: 2026-04-29
 
 ### 9. Login, Logout, and Signup Are Simple
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding login and logout pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/adding-login-and-logout-pages?u=76281980)
@@ -3883,7 +3931,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/django-essential-training-25094632/next-steps?u=76281980)

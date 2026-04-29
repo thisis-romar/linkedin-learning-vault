@@ -49,19 +49,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Data Science Basics]]** (5 videos)
-- **[[#2. Representing Data in Java]]** (3 videos)
-- **[[#3. Data Manipulation Techniques]]** (6 videos)
-- **[[#4. Loading Data in Java]]** (9 videos)
-- **[[#5. Data Visualization with JavaFX]]** (8 videos)
-- **[[#6. Modeling and Machine Learning]]** (3 videos)
-- **[[#7. K-Nearest Neighbors (KNN)]]** (7 videos)
-- **[[#8. Naive Bayes]]** (5 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Data science: Making sense out of chaos
+- [**1. Data Science Basics**](#1-data-science-basics) (5 videos)
+  - What is data science anyway?
+  - Data science examples
+  - Data as a business asset
+  - CRISP-DM: The data science cycle
+  - Types of problems in data science
+- [**2. Representing Data in Java**](#2-representing-data-in-java) (3 videos)
+  - Data formatting in Java
+  - More data formatting
+  - Real-life data difficulties
+- [**3. Data Manipulation Techniques**](#3-data-manipulation-techniques) (6 videos)
+  - Mapping
+  - Filtering
+  - Collecting
+  - Sorting
+  - Challenge: Combining data operations
+  - Solution: Combining data operations
+- [**4. Loading Data in Java**](#4-loading-data-in-java) (9 videos)
+  - Reducing file size
+  - Loading data from text files
+  - Creating a person data class
+  - Converting strings to data objects
+  - Loading tab-separated files
+  - Loading CSVs
+  - Converting CSVs to data objects
+  - Challenge: Manipulating data
+  - Solution: Manipulating data
+- [**5. Data Visualization with JavaFX**](#5-data-visualization-with-javafx) (8 videos)
+  - Setting up JavaFX
+  - Formatting data for a scatterplot
+  - Displaying a scatterplot
+  - Multiple datasets on a scatterplot
+  - Calculating average MPG
+  - Displaying a bar chart
+  - Challenge: Displaying data on a bar chart
+  - Solution: Displaying data on a bar chart
+- [**6. Modeling and Machine Learning**](#6-modeling-and-machine-learning) (3 videos)
+  - Building machine learning models
+  - Supervised vs. unsupervised learning
+  - Overfitting and how to avoid it
+- [**7. K-Nearest Neighbors (KNN)**](#7-k-nearest-neighbors-knn) (7 videos)
+  - K-nearest neighbor basics
+  - Loading flower data
+  - Creating a DataItem interface
+  - Calculating the closest data points
+  - Implementing the DataItem interface
+  - Letting your data points vote
+  - Finishing your KNN classifier
+- [**8. Naive Bayes**](#8-naive-bayes) (5 videos)
+  - Naive Bayes basics
+  - Calculating the possible labels
+  - Splitting your dataset by label
+  - Calculating mean and standard deviation
+  - Calculating datapoint probabilities
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data science: Making sense out of chaos
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-science-making-sense-out-of-chaos?u=76281980)
@@ -96,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Data Science Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data science anyway?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/what-is-data-science-anyway?u=76281980)
@@ -581,7 +628,7 @@ created: 2026-04-29
 
 ### 2. Representing Data in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data formatting in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/data-formatting-in-java?u=76281980)
@@ -890,7 +937,7 @@ created: 2026-04-29
 
 ### 3. Data Manipulation Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/mapping?u=76281980)
@@ -1319,7 +1366,7 @@ created: 2026-04-29
 
 ### 4. Loading Data in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reducing file size
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/reducing-file-size?u=76281980)
@@ -2109,7 +2156,7 @@ created: 2026-04-29
 
 ### 5. Data Visualization with JavaFX
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up JavaFX
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/setting-up-javafx?u=76281980)
@@ -2839,7 +2886,7 @@ created: 2026-04-29
 
 ### 6. Modeling and Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building machine learning models
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/building-machine-learning-models?u=76281980)
@@ -3107,7 +3154,7 @@ created: 2026-04-29
 
 ### 7. K-Nearest Neighbors (KNN)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### K-nearest neighbor basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/k-nearest-neighbor-basics?u=76281980)
@@ -3698,7 +3745,7 @@ created: 2026-04-29
 
 ### 8. Naive Bayes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Naive Bayes basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-for-java-developers/naive-bayes-basics?u=76281980)

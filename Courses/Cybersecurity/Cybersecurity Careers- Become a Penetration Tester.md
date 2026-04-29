@@ -56,16 +56,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Self-Assessment]]** (3 videos)
-- **[[#2. Fundamentals]]** (3 videos)
-- **[[#3. Ethical Hacking Techniques]]** (3 videos)
-- **[[#4. Get Experience]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How do I get into pentesting?
+- [**1. Self-Assessment**](#1-self-assessment) (3 videos)
+  - What is pentesting?
+  - Interaction skills
+  - Technical skills
+- [**2. Fundamentals**](#2-fundamentals) (3 videos)
+  - OS fundamentals
+  - Risk fundamentals
+  - Web and network fundamentals
+- [**3. Ethical Hacking Techniques**](#3-ethical-hacking-techniques) (3 videos)
+  - Penetration testing stages
+  - Linux command-line fundamentals
+  - Tools of the trade required for pentesting
+- [**4. Get Experience**](#4-get-experience) (2 videos)
+  - Hands-on experience
+  - Showing home lab as experience
+- [**Conclusion**](#conclusion) (1 videos)
+  - What are you waiting for?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do I get into pentesting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/how-do-i-get-into-pentesting?u=76281980)
@@ -89,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Self-Assessment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is pentesting?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980)
@@ -355,7 +368,7 @@ created: 2026-04-29
 
 ### 2. Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OS fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980)
@@ -623,7 +636,7 @@ created: 2026-04-29
 
 ### 3. Ethical Hacking Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Penetration testing stages
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980)
@@ -898,7 +911,7 @@ created: 2026-04-29
 
 ### 4. Get Experience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on experience
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980)
@@ -1067,7 +1080,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are you waiting for?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-are-you-waiting-for?u=76281980)

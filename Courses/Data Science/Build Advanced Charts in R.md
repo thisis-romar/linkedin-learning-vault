@@ -48,16 +48,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Explore the Data]]** (2 videos)
-- **[[#2. Chords Diagrams]]** (6 videos)
-- **[[#3. Other Advanced Charts]]** (4 videos)
-- **[[#4. Accessibility and Annotations]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Building advanced charts
+  - What you should know
+  - Using exercise files
+- [**1. Explore the Data**](#1-explore-the-data) (2 videos)
+  - Load and inspect your data
+  - Exploratory charts
+- [**2. Chords Diagrams**](#2-chords-diagrams) (6 videos)
+  - Introduction to {circlize} package
+  - Prepare your data
+  - Create a chord diagram
+  - Customize your chord diagram
+  - Customization options
+  - Create a function
+- [**3. Other Advanced Charts**](#3-other-advanced-charts) (4 videos)
+  - Create advanced charts
+  - Create a sparkline chart
+  - Create a lollipop plot
+  - Create a slope graph
+- [**4. Accessibility and Annotations**](#4-accessibility-and-annotations) (4 videos)
+  - Accessible color palettes
+  - Add charts on the same figure
+  - Add annotations and backgrounds
+  - Further annotation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building advanced charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/building-advanced-charts?u=76281980)
@@ -159,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Explore the Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Load and inspect your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/load-and-inspect-your-data?u=76281980)
@@ -307,7 +327,7 @@ created: 2026-04-29
 
 ### 2. Chords Diagrams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to {circlize} package
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/introduction-to-circlize-package?u=76281980)
@@ -991,7 +1011,7 @@ created: 2026-04-29
 
 ### 3. Other Advanced Charts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create advanced charts
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/create-advanced-charts?u=76281980)
@@ -1444,7 +1464,7 @@ created: 2026-04-29
 
 ### 4. Accessibility and Annotations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessible color palettes
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/accessible-color-palettes?u=76281980)
@@ -1767,7 +1787,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-advanced-charts-in-r/next-steps?u=76281980)

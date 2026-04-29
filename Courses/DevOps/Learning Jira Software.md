@@ -47,18 +47,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Jira Software Features]]** (9 videos)
-- **[[#2. Power User Tips]]** (1 videos)
-- **[[#3. Creating Filters]]** (4 videos)
-- **[[#4. Creating Dashboards]]** (5 videos)
-- **[[#5. Best Practices for Jira Users]]** (1 videos)
-- **[[#6. Creating Boards]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Welcome to Jira Software
+  - Who is this course for?
+  - What do you need for this course?
+  - Important definitions
+- [**1. Jira Software Features**](#1-jira-software-features) (9 videos)
+  - Software project types
+  - Common issue types
+  - Using software workflows
+  - Leveraging backlogs and sprints
+  - Estimating work and tracking time
+  - Using fix versions
+  - Types of boards
+  - Types of reports
+  - Common integrations
+- [**2. Power User Tips**](#2-power-user-tips) (1 videos)
+  - Getting the most from Jira Software
+- [**3. Creating Filters**](#3-creating-filters) (4 videos)
+  - Filter overview
+  - Using filter subscriptions
+  - Challenge: Create a custom filter
+  - Solution: Create a custom filter
+- [**4. Creating Dashboards**](#4-creating-dashboards) (5 videos)
+  - Dashboard overview
+  - Example dashboards
+  - Choosing dashboard gadgets
+  - Challenge: Create a custom dashboard
+  - Solution: Create a custom dashboard
+- [**5. Best Practices for Jira Users**](#5-best-practices-for-jira-users) (1 videos)
+  - What your administrator wishes you knew
+- [**6. Creating Boards**](#6-creating-boards) (4 videos)
+  - Board overview
+  - Ranking issues on boards
+  - Challenge: Create a custom board
+  - Solution: Create a custom board
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional resources for Jira learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to Jira Software
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/welcome-to-jira-software?u=76281980)
@@ -289,7 +318,7 @@ created: 2026-04-29
 
 ### 1. Jira Software Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Software project types
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/software-project-types?u=76281980)
@@ -2352,7 +2381,7 @@ created: 2026-04-29
 
 ### 2. Power User Tips
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the most from Jira Software
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/getting-the-most-from-jira-software?u=76281980)
@@ -2437,7 +2466,7 @@ created: 2026-04-29
 
 ### 3. Creating Filters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Filter overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/filter-overview?u=76281980)
@@ -2713,7 +2742,7 @@ created: 2026-04-29
 
 ### 4. Creating Dashboards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dashboard overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/dashboard-overview?u=76281980)
@@ -2994,7 +3023,7 @@ created: 2026-04-29
 
 ### 5. Best Practices for Jira Users
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What your administrator wishes you knew
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/what-your-administrator-wishes-you-knew?u=76281980)
@@ -3070,7 +3099,7 @@ created: 2026-04-29
 
 ### 6. Creating Boards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Board overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/board-overview?u=76281980)
@@ -3312,7 +3341,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-software-14677108/additional-resources-for-jira-learning?u=76281980)

@@ -52,20 +52,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Get Started with Power BI Desktop]]** (1 videos)
-- **[[#2. Get Data]]** (10 videos)
-- **[[#3. Transform Data with the Power Query Editor]]** (6 videos)
-- **[[#4. Combine, Append, and Merge Data]]** (7 videos)
-- **[[#5. Create a Report with Visualizations]]** (3 videos)
-- **[[#6. Share Your Work]]** (4 videos)
-- **[[#7. Use Copilot with Power BI Desktop]]** (5 videos)
-- **[[#8. Next Steps]]** (1 videos)
-- **[[#Products, Installation, and Requirements]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Model and visualize your data with Power BI Desktop
+- [**1. Get Started with Power BI Desktop**](#1-get-started-with-power-bi-desktop) (1 videos)
+  - Launch Power BI Desktop
+- [**2. Get Data**](#2-get-data) (10 videos)
+  - Power BI data sources: The basics
+  - Connect to a file: Excel
+  - Connect to a file: CSV
+  - Connect to databases
+  - Connect to a web data source
+  - Connect to a SharePoint list
+  - Connect to Microsoft Dataverse
+  - Advanced connection types: DirectQuery and live connections
+  - Open a PBIX file or Excel data model
+  - Change the data source for a PBIX file
+- [**3. Transform Data with the Power Query Editor**](#3-transform-data-with-the-power-query-editor) (6 videos)
+  - Rename columns in the Query Editor
+  - Remove rows and columns and change data types
+  - Reduce rows
+  - Filter, set data types, and replace values
+  - Unpivot columns
+  - Transform columns
+- [**4. Combine, Append, and Merge Data**](#4-combine-append-and-merge-data) (7 videos)
+  - Prep to combine multiple tables
+  - Append data to a query
+  - Add an index column
+  - Clean up data
+  - Relate tables in your model
+  - Hide or display queries
+  - Merge data
+- [**5. Create a Report with Visualizations**](#5-create-a-report-with-visualizations) (3 videos)
+  - Use the Power BI Desktop Report view
+  - Format visualizations and apply themes
+  - Filter with slicers and report and page filters
+- [**6. Share Your Work**](#6-share-your-work) (4 videos)
+  - Sharing: The basics
+  - Publish from Power BI Desktop
+  - Get a PBIX file from the Power BI service
+  - Display Power BI content in Microsoft Teams
+- [**7. Use Copilot with Power BI Desktop**](#7-use-copilot-with-power-bi-desktop) (5 videos)
+  - Start Copilot for the first time
+  - Create a visualization using Copilot
+  - Create a report page using Copilot
+  - Create a multipage report
+  - Create a narrative summary visual using Copilot
+- [**8. Next Steps**](#8-next-steps) (1 videos)
+  - Next steps
+- [**Products, Installation, and Requirements**](#products-installation-and-requirements) (3 videos)
+  - Power BI tools
+  - Install Power BI Desktop
+  - Requirements for Copilot in Power BI Desktop
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Model and visualize your data with Power BI Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/model-and-visualize-your-data-with-power-bi-desktop?u=76281980)
@@ -88,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Power BI Desktop
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Launch Power BI Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/launch-power-bi-desktop-30101002?u=76281980)
@@ -190,7 +231,7 @@ created: 2026-04-29
 
 ### 2. Get Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Power BI data sources: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-data-sources-the-basics?u=76281980)
@@ -1050,7 +1091,7 @@ created: 2026-04-29
 
 ### 3. Transform Data with the Power Query Editor
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rename columns in the Query Editor
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/rename-columns-in-the-query-editor?u=76281980)
@@ -1698,7 +1739,7 @@ created: 2026-04-29
 
 ### 4. Combine, Append, and Merge Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prep to combine multiple tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/prep-to-combine-multiple-tables?u=76281980)
@@ -2430,7 +2471,7 @@ created: 2026-04-29
 
 ### 5. Create a Report with Visualizations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the Power BI Desktop Report view
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/use-the-power-bi-desktop-report-view?u=76281980)
@@ -2754,7 +2795,7 @@ created: 2026-04-29
 
 ### 6. Share Your Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sharing: The basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/sharing-the-basics?u=76281980)
@@ -3036,7 +3077,7 @@ created: 2026-04-29
 
 ### 7. Use Copilot with Power BI Desktop
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start Copilot for the first time
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/start-copilot-for-the-first-time?u=76281980)
@@ -3418,7 +3459,7 @@ created: 2026-04-29
 
 ### 8. Next Steps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/next-steps?u=76281980)
@@ -3464,7 +3505,7 @@ created: 2026-04-29
 
 ### Products, Installation, and Requirements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Power BI tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-power-bi-desktop-25612913/power-bi-tools?u=76281980)

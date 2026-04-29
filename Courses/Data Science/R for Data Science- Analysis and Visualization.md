@@ -57,17 +57,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is R?]]** (2 videos)
-- **[[#2. Getting Started]]** (11 videos)
-- **[[#3. Data Visualization]]** (7 videos)
-- **[[#4. Data Wrangling]]** (3 videos)
-- **[[#5. Data Analysis]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - R for data science
+  - Using the exercise files
+- [**1. What Is R?**](#1-what-is-r) (2 videos)
+  - R in context
+  - A note about AI in R
+- [**2. Getting Started**](#2-getting-started) (11 videos)
+  - Installing R
+  - Installing RStudio
+  - Navigating the RStudio environment
+  - Entering data
+  - Data types and structures
+  - Comments and headers
+  - Packages for R
+  - The tidyverse
+  - Piping commands with |
+  - Sample datasets
+  - Importing data from a spreadsheet
+- [**3. Data Visualization**](#3-data-visualization) (7 videos)
+  - Using colors in R
+  - Creating bar charts
+  - Creating histograms
+  - Creating box plots
+  - Creating scatterplots
+  - Creating line charts
+  - Creating cluster charts
+- [**4. Data Wrangling**](#4-data-wrangling) (3 videos)
+  - Selecting cases and subgroups
+  - Recoding variables
+  - Computing new variables
+- [**5. Data Analysis**](#5-data-analysis) (5 videos)
+  - Computing frequencies
+  - Computing descriptives
+  - Computing correlations
+  - Computing a linear regression
+  - Computing contingency tables
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### R for data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-for-data-science-25381119?u=76281980)
@@ -140,7 +171,7 @@ created: 2026-04-29
 
 ### 1. What Is R?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### R in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/r-in-context-25380142?u=76281980)
@@ -324,7 +355,7 @@ created: 2026-04-29
 
 ### 2. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/installing-r?u=76281980)
@@ -1733,7 +1764,7 @@ created: 2026-04-29
 
 ### 3. Data Visualization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using colors in R
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/using-colors-in-r?u=76281980)
@@ -2935,7 +2966,7 @@ created: 2026-04-29
 
 ### 4. Data Wrangling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting cases and subgroups
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/selecting-cases-and-subgroups?u=76281980)
@@ -3190,7 +3221,7 @@ created: 2026-04-29
 
 ### 5. Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Computing frequencies
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/computing-frequencies-25384059?u=76281980)
@@ -3799,7 +3830,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization/next-steps?u=76281980)

@@ -44,17 +44,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Solution Sales Mindset]]** (3 videos)
-- **[[#2. Developing a Buyer Focus]]** (3 videos)
-- **[[#3. Identifying Objectives and Creating Value]]** (6 videos)
-- **[[#4. Establishing Shared Success]]** (4 videos)
-- **[[#5. Planning for Solution Sales Opportunities]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Getting started with solution sales
+- [**1. The Solution Sales Mindset**](#1-the-solution-sales-mindset) (3 videos)
+  - The solution sales mindset
+  - Peer-level relationships
+  - Have a conversation
+- [**2. Developing a Buyer Focus**](#2-developing-a-buyer-focus) (3 videos)
+  - Qualify who is buying the solution
+  - Qualify potential and fit
+  - Qualify the decision process and funding
+- [**3. Identifying Objectives and Creating Value**](#3-identifying-objectives-and-creating-value) (6 videos)
+  - Take the lead
+  - Create value
+  - Find out the client's need
+  - Identify opportunities and problems
+  - Understand impact and effect
+  - Interactive skills for leading the conversation
+- [**4. Establishing Shared Success**](#4-establishing-shared-success) (4 videos)
+  - Determine progress and value
+  - How to offer solutions
+  - How to address concerns
+  - Move forward with joint commitments
+- [**5. Planning for Solution Sales Opportunities**](#5-planning-for-solution-sales-opportunities) (1 videos)
+  - Plan for success
+- [**Conclusion**](#conclusion) (1 videos)
+  - Practice
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with solution sales
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/getting-started-with-solution-sales?u=76281980)
@@ -108,7 +127,7 @@ created: 2026-04-29
 
 ### 1. The Solution Sales Mindset
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The solution sales mindset
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/the-solution-sales-mindset-8976128?u=76281980)
@@ -350,7 +369,7 @@ created: 2026-04-29
 
 ### 2. Developing a Buyer Focus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Qualify who is buying the solution
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/qualify-who-is-buying-the-solution-8970910?u=76281980)
@@ -581,7 +600,7 @@ created: 2026-04-29
 
 ### 3. Identifying Objectives and Creating Value
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take the lead
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/take-the-lead-8972691?u=76281980)
@@ -1033,7 +1052,7 @@ created: 2026-04-29
 
 ### 4. Establishing Shared Success
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determine progress and value
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/determine-progress-and-value-8973631?u=76281980)
@@ -1309,7 +1328,7 @@ created: 2026-04-29
 
 ### 5. Planning for Solution Sales Opportunities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Plan for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/plan-for-success-8975144?u=76281980)
@@ -1373,7 +1392,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practice
 > [LinkedIn Learning](https://www.linkedin.com/learning/solution-sales/practice-8976131?u=76281980)

@@ -47,17 +47,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Beyond Basic Architecture]]** (8 videos)
-- **[[#2. Define a Business Case]]** (8 videos)
-- **[[#3. Define the Requirement Patterns]]** (7 videos)
-- **[[#4. Advanced Cloud Architecture Design Concepts]]** (9 videos)
-- **[[#5. Other Advanced Topics]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Making decisions around cloud architecture design
+  - What you should know
+- [**1. Beyond Basic Architecture**](#1-beyond-basic-architecture) (8 videos)
+  - Taking your architecture to the next level
+  - Advanced architecture scenario: HR systems
+  - Advanced architecture scenario: Edge computing
+  - Advanced architecture scenario: Containers and Kubernetes
+  - Advanced architecture scenario: Serverless computing
+  - Advanced architecture scenario: Generative AI computing
+  - Advanced architecture scenario: Agentic AI computing
+  - Necessary skills, tools, and processes
+- [**2. Define a Business Case**](#2-define-a-business-case) (8 videos)
+  - Build a business case
+  - Soft costs and benefits
+  - Hard costs and benefits
+  - Economies of optimization
+  - Leveraging AI as a innovative differentiator
+  - Economies of complexity
+  - Challenge: Defining the business case for ABC Inc.
+  - Solution: Defining the business case for ABC Inc.
+- [**3. Define the Requirement Patterns**](#3-define-the-requirement-patterns) (7 videos)
+  - Designing for storage
+  - Designing for compute
+  - Designing for data and database
+  - Designing for secuirty
+  - Designing for governance
+  - Designing for CloudOps and FinOps
+  - Other services to consider
+- [**4. Advanced Cloud Architecture Design Concepts**](#4-advanced-cloud-architecture-design-concepts) (9 videos)
+  - Map requirements to storage
+  - Map requirements to compute
+  - Map requirements to databases
+  - Map to security and governance
+  - Map to cloud operations (CloudOps)
+  - Map requirements to an AI solution
+  - Making sense of it all
+  - Challenge: Defining the cloud architecture requirements for ABC Inc.
+  - Solution: Defining the cloud architecture requirements for ABC Inc.
+- [**5. Other Advanced Topics**](#5-other-advanced-topics) (9 videos)
+  - Performance management
+  - Proactive security
+  - Serverless
+  - Containers and container orchestration
+  - IoT and edge computing
+  - Machine learning, generative AI, agentic AI, and deep learning
+  - Multi-cloud
+  - Low-code and no-code
+  - Emerging technology
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learn to stay state of the art
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making decisions around cloud architecture design
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/making-decisions-around-cloud-architecture-design?u=76281980)
@@ -108,7 +152,7 @@ created: 2026-04-29
 
 ### 1. Beyond Basic Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking your architecture to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/taking-your-architecture-to-the-next-level?u=76281980)
@@ -569,7 +613,7 @@ created: 2026-04-29
 
 ### 2. Define a Business Case
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/build-a-business-case?u=76281980)
@@ -956,7 +1000,7 @@ created: 2026-04-29
 
 ### 3. Define the Requirement Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/designing-for-storage?u=76281980)
@@ -1289,7 +1333,7 @@ created: 2026-04-29
 
 ### 4. Advanced Cloud Architecture Design Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Map requirements to storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/map-requirements-to-storage?u=76281980)
@@ -1819,7 +1863,7 @@ created: 2026-04-29
 
 ### 5. Other Advanced Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Performance management
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/performance-management?u=76281980)
@@ -2335,7 +2379,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to stay state of the art
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-design-decisions-24525835/learn-to-stay-state-of-the-art?u=76281980)

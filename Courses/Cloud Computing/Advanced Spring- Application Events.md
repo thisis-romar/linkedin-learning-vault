@@ -51,16 +51,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Exploring the Power of Spring Events]]** (2 videos)
-- **[[#2. Implementing Custom Spring Events]]** (4 videos)
-- **[[#3. Async and Filtering Events]]** (2 videos)
-- **[[#4. Transactional Events]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Take advantage of Spring events
+  - What you need to know
+- [**1. Exploring the Power of Spring Events**](#1-exploring-the-power-of-spring-events) (2 videos)
+  - Spring events vs. direct method calls
+  - Highlights of Spring events
+- [**2. Implementing Custom Spring Events**](#2-implementing-custom-spring-events) (4 videos)
+  - Create and publish custom events
+  - Implement a new listener for events
+  - Challenge: Create a new event listener
+  - Solution: Create a new event listener
+- [**3. Async and Filtering Events**](#3-async-and-filtering-events) (2 videos)
+  - Implement asynchronous events
+  - Filter events
+- [**4. Transactional Events**](#4-transactional-events) (4 videos)
+  - Transaction bound events
+  - Implement custom transaction event listeners
+  - Challenge: Create a custom transaction event listener
+  - Solution: Create a custom transaction event listener
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take advantage of Spring events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/take-advantage-of-spring-events?u=76281980)
@@ -116,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Exploring the Power of Spring Events
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spring events vs. direct method calls
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/spring-events-vs-direct-method-calls?u=76281980)
@@ -251,7 +266,7 @@ created: 2026-04-29
 
 ### 2. Implementing Custom Spring Events
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and publish custom events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/create-and-publish-custom-events?u=76281980)
@@ -511,7 +526,7 @@ created: 2026-04-29
 
 ### 3. Async and Filtering Events
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement asynchronous events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/implement-asynchronous-events?u=76281980)
@@ -656,7 +671,7 @@ created: 2026-04-29
 
 ### 4. Transactional Events
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transaction bound events
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/transaction-bound-events?u=76281980)
@@ -890,7 +905,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-spring-application-events/next-steps?u=76281980)

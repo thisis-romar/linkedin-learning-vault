@@ -44,16 +44,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Changes When Testing Legacy Code]]** (5 videos)
-- **[[#2. Why Legacy Code Can Be Hard to Test]]** (5 videos)
-- **[[#3. Laying the Foundation]]** (4 videos)
-- **[[#4. Testing Legacy Code]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you need you to know
+  - Exercise files
+- [**1. What Changes When Testing Legacy Code**](#1-what-changes-when-testing-legacy-code) (5 videos)
+  - TDD vs. test after
+  - How the tools change
+  - Quick primer on test doubles
+  - Code coverage and confidence levels
+  - Difficult people
+- [**2. Why Legacy Code Can Be Hard to Test**](#2-why-legacy-code-can-be-hard-to-test) (5 videos)
+  - Bootstrap sequences, part 1
+  - Bootstrap sequences, part 2
+  - Hard-coded dependencies
+  - Difficult deployments
+  - Poor package management practices
+- [**3. Laying the Foundation**](#3-laying-the-foundation) (4 videos)
+  - Just how many tests do we need?
+  - Tests as questions
+  - How we decide what to test?
+  - Real vs. monkey patch vs. double
+- [**4. Testing Legacy Code**](#4-testing-legacy-code) (8 videos)
+  - Why test a legacy application?
+  - Identifying dependencies
+  - Planning a scenario
+  - Building a scenario
+  - Planning real to doubles
+  - Building real to doubles
+  - Refactor your tests
+  - Add getters and setters
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/welcome?u=76281980)
@@ -163,7 +189,7 @@ created: 2026-04-29
 
 ### 1. What Changes When Testing Legacy Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### TDD vs. test after
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/tdd-vs-test-after?u=76281980)
@@ -679,7 +705,7 @@ created: 2026-04-29
 
 ### 2. Why Legacy Code Can Be Hard to Test
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bootstrap sequences, part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/bootstrap-sequences-part-1?u=76281980)
@@ -1296,7 +1322,7 @@ created: 2026-04-29
 
 ### 3. Laying the Foundation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Just how many tests do we need?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/just-how-many-tests-do-we-need?u=76281980)
@@ -1649,7 +1675,7 @@ created: 2026-04-29
 
 ### 4. Testing Legacy Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why test a legacy application?
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/why-test-a-legacy-application?u=76281980)
@@ -2441,7 +2467,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-testing-legacy-applications/next-steps?u=76281980)

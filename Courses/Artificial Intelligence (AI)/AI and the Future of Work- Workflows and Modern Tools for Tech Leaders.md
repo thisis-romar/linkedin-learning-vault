@@ -54,14 +54,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Streamlining AI Workflows with Modern Tools]]** (8 videos)
-- **[[#2. Developing Future-Ready AI Skills]]** (5 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - Why is this important?
+- [**1. Streamlining AI Workflows with Modern Tools**](#1-streamlining-ai-workflows-with-modern-tools) (8 videos)
+  - Data versioning and management
+  - Experiment tracking and management
+  - Model monitoring and performance evaluation
+  - AutoML
+  - Automated pipelines
+  - Explainability and interpretability of models
+  - Model deployment and serving
+  - Tools for working with LLMs
+- [**2. Developing Future-Ready AI Skills**](#2-developing-future-ready-ai-skills) (5 videos)
+  - Assessing and upskilling existing teams
+  - Navigating the hybrid skill set landscape
+  - Creating an environment for experimentation
+  - Emerging trends in how you build AI
+  - Challenges and opportunities for organizations
+- [**Conclusion**](#conclusion) (2 videos)
+  - Recap of key takeaways
+  - Actionable insights for implementing best practices
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/welcome?u=76281980)
@@ -141,7 +158,7 @@ created: 2026-04-29
 
 ### 1. Streamlining AI Workflows with Modern Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data versioning and management
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/data-versioning-and-management?u=76281980)
@@ -654,7 +671,7 @@ created: 2026-04-29
 
 ### 2. Developing Future-Ready AI Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing and upskilling existing teams
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/assessing-and-upskilling-existing-teams?u=76281980)
@@ -1027,7 +1044,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap of key takeaways
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-the-future-of-work-workflows-and-modern-tools-for-tech-leaders/recap-of-key-takeaways?u=76281980)

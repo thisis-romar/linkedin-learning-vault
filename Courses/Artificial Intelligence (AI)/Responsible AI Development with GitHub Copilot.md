@@ -54,14 +54,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Validating AI-Generated Code]]** (5 videos)
-- **[[#2. Customizing Copilot for Your Team]]** (5 videos)
-- **[[#3. Staying Current with AI Tools]]** (5 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to AI validation: Why it matters for production code
+- [**1. Validating AI-Generated Code**](#1-validating-ai-generated-code) (5 videos)
+  - Techniques for verifying AI code: Manual and automated approaches
+  - Identifying security vulnerabilities in AI-generated code
+  - Detecting logical flaws and hallucinations in AI outputs
+  - Challenge: Security audit AI-generated code
+  - Solution: Security audit AI-generated code with best practices
+- [**2. Customizing Copilot for Your Team**](#2-customizing-copilot-for-your-team) (5 videos)
+  - Using copilot-instructions.md for project-specific guidance
+  - Enforcing team coding standards with custom configurations
+  - Challenge: Enforce a custom rule in your codebase
+  - Solution: Enforce a custom rule with Copilot configuration
+  - Testing custom configurations: Validation and effectiveness
+- [**3. Staying Current with AI Tools**](#3-staying-current-with-ai-tools) (5 videos)
+  - Choosing the right LLM for your development needs
+  - Comparing model performance: Benchmarking and quality metrics
+  - Cost-benefit analysis of models: ROI and budget planning
+  - Next steps and continuous learning: Advanced topics and expertise
+  - Community resources and support: Documentation, forums, and contributions
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI validation: Why it matters for production code
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980)
@@ -155,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Validating AI-Generated Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Techniques for verifying AI code: Manual and automated approaches
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/techniques-for-verifying-ai-code-manual-and-automated-approaches?u=76281980)
@@ -531,7 +547,7 @@ created: 2026-04-29
 
 ### 2. Customizing Copilot for Your Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using copilot-instructions.md for project-specific guidance
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980)
@@ -914,7 +930,7 @@ created: 2026-04-29
 
 ### 3. Staying Current with AI Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right LLM for your development needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980)

@@ -56,16 +56,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Common Sense Customer Service: A Two-Step Approach]]** (3 videos)
-- **[[#2. Critical Customer Service Problem-Solving Skills]]** (3 videos)
-- **[[#3. Critical Troubleshooting Skills]]** (3 videos)
-- **[[#4. Customer Service Mindset and Playbook]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Build your customer service skills
+  - Make customer service easy: Standard operating procedures
+- [**1. Common Sense Customer Service: A Two-Step Approach**](#1-common-sense-customer-service-a-two-step-approach) (3 videos)
+  - Explore a model for common sense customer service
+  - How to respond when the customer is right
+  - What to do (or say) when the customer is wrong
+- [**2. Critical Customer Service Problem-Solving Skills**](#2-critical-customer-service-problem-solving-skills) (3 videos)
+  - Diagnose a customer's concerns as the first step
+  - Listen and listen carefully
+  - Validate the client's concerns: Three steps for success
+- [**3. Critical Troubleshooting Skills**](#3-critical-troubleshooting-skills) (3 videos)
+  - Calming down angry and upset customers
+  - Give the customer options in unique situations
+  - Communicate bad news with customers
+- [**4. Customer Service Mindset and Playbook**](#4-customer-service-mindset-and-playbook) (2 videos)
+  - Maintain your mindset during stressful times
+  - Build your own customer service playbook
+- [**Conclusion**](#conclusion) (1 videos)
+  - Being strong at problem-solving and troubleshooting
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your customer service skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/build-your-customer-service-skills?u=76281980)
@@ -165,7 +179,7 @@ created: 2026-04-29
 
 ### 1. Common Sense Customer Service: A Two-Step Approach
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore a model for common sense customer service
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/explore-a-model-for-common-sense-customer-service?u=76281980)
@@ -392,7 +406,7 @@ created: 2026-04-29
 
 ### 2. Critical Customer Service Problem-Solving Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Diagnose a customer's concerns as the first step
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/diagnose-a-customer-s-concerns-as-the-first-step?u=76281980)
@@ -635,7 +649,7 @@ created: 2026-04-29
 
 ### 3. Critical Troubleshooting Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calming down angry and upset customers
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/calming-down-angry-and-upset-customers?u=76281980)
@@ -875,7 +889,7 @@ created: 2026-04-29
 
 ### 4. Customer Service Mindset and Playbook
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintain your mindset during stressful times
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/maintain-your-mindset-during-stressful-times?u=76281980)
@@ -1019,7 +1033,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Being strong at problem-solving and troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting-16015212/being-strong-at-problem-solving-and-troubleshooting?u=76281980)

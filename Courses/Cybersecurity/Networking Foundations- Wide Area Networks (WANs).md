@@ -47,16 +47,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to WAN]]** (5 videos)
-- **[[#2. Private WAN]]** (4 videos)
-- **[[#3. Public WAN]]** (4 videos)
-- **[[#4. Modern WAN]]** (5 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Introduction
+  - What you should know
+- [**1. Introduction to WAN**](#1-introduction-to-wan) (5 videos)
+  - What is WAN?
+  - WAN topologies
+  - WAN terminologies
+  - WAN devices
+  - WAN provider links
+- [**2. Private WAN**](#2-private-wan) (4 videos)
+  - T1/E1 and T3/E3 leased lines for WAN
+  - Circuit-switched WAN connectivity
+  - Packet-switched WAN connectivity
+  - WAN via MPLS
+- [**3. Public WAN**](#3-public-wan) (4 videos)
+  - WAN via DSL
+  - WAN via cable
+  - Wireless WAN via 4G/ 5G
+  - Wireless WAN via Satellite
+- [**4. Modern WAN**](#4-modern-wan) (5 videos)
+  - Dedicated internet access (DIA)
+  - WAN via Fiber Optics
+  - Ethernet WAN and Dark Fiber
+  - Software-defined WAN (SD-WAN)
+  - LoRaWAN
+- [**Conclusion**](#conclusion) (3 videos)
+  - WAN consideration
+  - WAN security and optimization
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/introduction?u=76281980)
@@ -111,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Introduction to WAN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is WAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/what-is-wan?u=76281980)
@@ -481,7 +504,7 @@ created: 2026-04-29
 
 ### 2. Private WAN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### T1/E1 and T3/E3 leased lines for WAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/t1-e1-and-t3-e3-leased-lines-for-wan?u=76281980)
@@ -763,7 +786,7 @@ created: 2026-04-29
 
 ### 3. Public WAN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### WAN via DSL
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-via-dsl?u=76281980)
@@ -1133,7 +1156,7 @@ created: 2026-04-29
 
 ### 4. Modern WAN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dedicated internet access (DIA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/dedicated-internet-access-dia?u=76281980)
@@ -1610,7 +1633,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### WAN consideration
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-wide-area-networks-wans-23860739/wan-consideration?u=76281980)

@@ -53,16 +53,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Setting Up]]** (3 videos)
-- **[[#2. Overview of Security Threats]]** (4 videos)
-- **[[#3. Authentication with Auth0]]** (7 videos)
-- **[[#4. Other React Considerations]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Securing React applications
+  - What you should know
+- [**1. Setting Up**](#1-setting-up) (3 videos)
+  - Initial setup
+  - Set up flow
+  - Set up ESLint
+- [**2. Overview of Security Threats**](#2-overview-of-security-threats) (4 videos)
+  - Introduction to OWASP
+  - Cross-site scripting (XSS) attacks
+  - Cross-site request forgery (CSRF)
+  - Introduction to JSON Web Token (JWT) and what it solves
+- [**3. Authentication with Auth0**](#3-authentication-with-auth0) (7 videos)
+  - Initial setup of your server
+  - Create your API endpoints
+  - Initial Auth0 setup
+  - Adding the files and code from Auth0
+  - Update index for Auth0 integration
+  - Add connections to server
+  - Finalize menu with login
+- [**4. Other React Considerations**](#4-other-react-considerations) (2 videos)
+  - React considerations for security
+  - Strict mode
+- [**Conclusion**](#conclusion) (2 videos)
+  - Best practices update
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing React applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/securing-react-applications?u=76281980)
@@ -132,7 +152,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Initial setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup?u=76281980)
@@ -421,7 +441,7 @@ created: 2026-04-29
 
 ### 2. Overview of Security Threats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to OWASP
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/introduction-to-owasp?u=76281980)
@@ -687,7 +707,7 @@ created: 2026-04-29
 
 ### 3. Authentication with Auth0
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Initial setup of your server
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/initial-setup-of-your-server?u=76281980)
@@ -1453,7 +1473,7 @@ created: 2026-04-29
 
 ### 4. Other React Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### React considerations for security
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/react-considerations-for-security?u=76281980)
@@ -1572,7 +1592,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Best practices update
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-securing-applications-2/best-practices-update?u=76281980)

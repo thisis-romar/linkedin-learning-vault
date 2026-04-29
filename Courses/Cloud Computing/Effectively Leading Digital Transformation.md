@@ -40,17 +40,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Background for Business Transformation]]** (6 videos)
-- **[[#2. Blockers to Successful Transformation]]** (4 videos)
-- **[[#3. Preparing for Your Transformation]]** (6 videos)
-- **[[#4. AI in the Workplace]]** (6 videos)
-- **[[#5. Beyond the Launch]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Being a leader in business transformation
+  - Who is this course for?
+- [**1. Background for Business Transformation**](#1-background-for-business-transformation) (6 videos)
+  - Living in an age of disruption
+  - Defining modern digital and business transformation
+  - Technology as a commodity
+  - Working online
+  - Expanding data through the Internet of Things
+  - Evolution of automation and AI
+- [**2. Blockers to Successful Transformation**](#2-blockers-to-successful-transformation) (4 videos)
+  - Not understanding the problem
+  - Not understanding the need
+  - Not understanding the scope
+  - Not understanding the appetite
+- [**3. Preparing for Your Transformation**](#3-preparing-for-your-transformation) (6 videos)
+  - Identifying what's broken
+  - Mitigating the risk of information accumulation
+  - Streamlining and automating processes
+  - Engaging employees and growing skills
+  - Leveraging customer networks
+  - Innovating through experimentation
+- [**4. AI in the Workplace**](#4-ai-in-the-workplace) (6 videos)
+  - Defining AI
+  - Using AI to analyze and project
+  - Using AI to develop solutions
+  - Protecting security with AI
+  - Possible AI problems for business
+  - Developing ethical AI policies
+- [**5. Beyond the Launch**](#5-beyond-the-launch) (5 videos)
+  - Explaining in plain language
+  - Working through resistance
+  - Modeling behaviors
+  - Keeping communication channels open
+  - Developing a learning culture
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Being a leader in business transformation
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/being-a-leader-in-business-transformation?u=76281980)
@@ -121,7 +151,7 @@ created: 2026-04-29
 
 ### 1. Background for Business Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Living in an age of disruption
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/living-in-an-age-of-disruption?u=76281980)
@@ -486,7 +516,7 @@ created: 2026-04-29
 
 ### 2. Blockers to Successful Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Not understanding the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/not-understanding-the-problem?u=76281980)
@@ -733,7 +763,7 @@ created: 2026-04-29
 
 ### 3. Preparing for Your Transformation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying what's broken
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/identifying-what-s-broken?u=76281980)
@@ -1079,7 +1109,7 @@ created: 2026-04-29
 
 ### 4. AI in the Workplace
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/defining-ai?u=76281980)
@@ -1417,7 +1447,7 @@ created: 2026-04-29
 
 ### 5. Beyond the Launch
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining in plain language
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/explaining-in-plain-language?u=76281980)
@@ -1690,7 +1720,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/effectively-leading-digital-transformation-22877673/next-steps?u=76281980)

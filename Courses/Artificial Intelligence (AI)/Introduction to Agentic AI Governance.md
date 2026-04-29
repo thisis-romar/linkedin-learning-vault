@@ -38,16 +38,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Current State of AI Governance]]** (3 videos)
-- **[[#2. Increased Agency Demands Increased Governance]]** (3 videos)
-- **[[#3. Core Principles of Agentic AI Governance]]** (3 videos)
-- **[[#4. Agentic AI Governance in Action and Future Direction]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Time to govern intelligence
+- [**1. Current State of AI Governance**](#1-current-state-of-ai-governance) (3 videos)
+  - The evolving risks of AI
+  - An overview of the governance landscape
+  - The challenges of governing AI
+- [**2. Increased Agency Demands Increased Governance**](#2-increased-agency-demands-increased-governance) (3 videos)
+  - What is agentic AI?
+  - Understanding the agency of AI
+  - The urgency behind agentic AI governance
+- [**3. Core Principles of Agentic AI Governance**](#3-core-principles-of-agentic-ai-governance) (3 videos)
+  - Transparency
+  - AI safety alignment
+  - Accountability
+- [**4. Agentic AI Governance in Action and Future Direction**](#4-agentic-ai-governance-in-action-and-future-direction) (3 videos)
+  - Best practices for documenting governance in agentic AI
+  - Dimensions of agentic AI governance
+  - The road ahead
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Time to govern intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/time-to-govern-intelligence?u=76281980)
@@ -80,7 +94,7 @@ created: 2026-04-29
 
 ### 1. Current State of AI Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The evolving risks of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/the-evolving-risks-of-ai?u=76281980)
@@ -308,7 +322,7 @@ created: 2026-04-29
 
 ### 2. Increased Agency Demands Increased Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is agentic AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/what-is-agentic-ai?u=76281980)
@@ -543,7 +557,7 @@ created: 2026-04-29
 
 ### 3. Core Principles of Agentic AI Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transparency
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/transparency?u=76281980)
@@ -783,7 +797,7 @@ created: 2026-04-29
 
 ### 4. Agentic AI Governance in Action and Future Direction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Best practices for documenting governance in agentic AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/best-practices-for-documenting-governance-in-agentic-ai?u=76281980)
@@ -1003,7 +1017,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-agentic-ai-governance/next-steps?u=76281980)

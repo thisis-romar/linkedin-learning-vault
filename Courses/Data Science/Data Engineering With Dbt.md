@@ -53,23 +53,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Prepare Your Coding Environment]]** (4 videos)
-- **[[#2. Prepare Your Database Environment]]** (2 videos)
-- **[[#3. Create a dbt Project]]** (1 videos)
-- **[[#4. Prepare Your dbt Environment]]** (3 videos)
-- **[[#5. Your First dbt Model]]** (2 videos)
-- **[[#6. Introduction to dbt Ref Function]]** (3 videos)
-- **[[#7. Implementing Medallion Architecture with dbt]]** (4 videos)
-- **[[#8. Materialization of dbt Models]]** (2 videos)
-- **[[#9. Documentation as Code via dbt]]** (2 videos)
-- **[[#10. Implementing Tests within Your dbt Project]]** (2 videos)
-- **[[#11. Deploying Your dbt Project]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Build your first dbt project
+  - Introducing the dbt project
+  - The project in GitHub Codespaces
+- [**1. Prepare Your Coding Environment**](#1-prepare-your-coding-environment) (4 videos)
+  - Install the dbt Core via pip
+  - Install the dbt connector to DuckDB
+  - Install DuckDB via pip
+  - Update your requirements.txt file within your project
+- [**2. Prepare Your Database Environment**](#2-prepare-your-database-environment) (2 videos)
+  - Create your database file
+  - Import CSV data into your new database
+- [**3. Create a dbt Project**](#3-create-a-dbt-project) (1 videos)
+  - Start your project with dbt init
+- [**4. Prepare Your dbt Environment**](#4-prepare-your-dbt-environment) (3 videos)
+  - Understand the dbt_project.yml file
+  - Create your profiles YAML file
+  - Connect your profiles and project YAML files
+- [**5. Your First dbt Model**](#5-your-first-dbt-model) (2 videos)
+  - Create your first dbt model file
+  - Using the dbt CLI commands
+- [**6. Introduction to dbt Ref Function**](#6-introduction-to-dbt-ref-function) (3 videos)
+  - Create your dbt model utilizing ref
+  - Run your dbt models with the ref syntax
+  - View your dbt project data lineage
+- [**7. Implementing Medallion Architecture with dbt**](#7-implementing-medallion-architecture-with-dbt) (4 videos)
+  - Planning your medallion architecture project
+  - Medallion architecture: Bronze data
+  - Medallion architecture: Silver data
+  - Medallion architecture: Gold data
+- [**8. Materialization of dbt Models**](#8-materialization-of-dbt-models) (2 videos)
+  - Materialization in your dbt project
+  - Implement materialization in your dbt_project.yml file
+- [**9. Documentation as Code via dbt**](#9-documentation-as-code-via-dbt) (2 videos)
+  - Further documentation via schema.yml file
+  - The docs_blocks.md file
+- [**10. Implementing Tests within Your dbt Project**](#10-implementing-tests-within-your-dbt-project) (2 videos)
+  - Creating custom singular tests
+  - Implementing tests within the schema.yml file
+- [**11. Deploying Your dbt Project**](#11-deploying-your-dbt-project) (2 videos)
+  - Utilizing multiple dbt profiles
+  - Deploying with GitHub workflows
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your first dbt project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/build-your-first-dbt-project?u=76281980)
@@ -198,7 +229,7 @@ created: 2026-04-29
 
 ### 1. Prepare Your Coding Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install the dbt Core via pip
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/install-the-dbt-core-via-pip?u=76281980)
@@ -334,7 +365,7 @@ created: 2026-04-29
 
 ### 2. Prepare Your Database Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your database file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-database-file?u=76281980)
@@ -495,7 +526,7 @@ created: 2026-04-29
 
 ### 3. Create a dbt Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start your project with dbt init
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/start-your-project-with-dbt-init?u=76281980)
@@ -544,7 +575,7 @@ created: 2026-04-29
 
 ### 4. Prepare Your dbt Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the dbt_project.yml file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/understand-the-dbt-project-yml-file?u=76281980)
@@ -727,7 +758,7 @@ created: 2026-04-29
 
 ### 5. Your First dbt Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your first dbt model file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-first-dbt-model-file?u=76281980)
@@ -882,7 +913,7 @@ created: 2026-04-29
 
 ### 6. Introduction to dbt Ref Function
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create your dbt model utilizing ref
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/create-your-dbt-model-utilizing-ref?u=76281980)
@@ -1048,7 +1079,7 @@ created: 2026-04-29
 
 ### 7. Implementing Medallion Architecture with dbt
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning your medallion architecture project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/planning-your-medallion-architecture-project?u=76281980)
@@ -1380,7 +1411,7 @@ created: 2026-04-29
 
 ### 8. Materialization of dbt Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Materialization in your dbt project
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/materialization-in-your-dbt-project?u=76281980)
@@ -1486,7 +1517,7 @@ created: 2026-04-29
 
 ### 9. Documentation as Code via dbt
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further documentation via schema.yml file
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/further-documentation-via-schema-yml-file?u=76281980)
@@ -1653,7 +1684,7 @@ created: 2026-04-29
 
 ### 10. Implementing Tests within Your dbt Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating custom singular tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/creating-custom-singular-tests?u=76281980)
@@ -1860,7 +1891,7 @@ created: 2026-04-29
 
 ### 11. Deploying Your dbt Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Utilizing multiple dbt profiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/utilizing-multiple-dbt-profiles?u=76281980)
@@ -2097,7 +2128,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-with-dbt/next-steps?u=76281980)

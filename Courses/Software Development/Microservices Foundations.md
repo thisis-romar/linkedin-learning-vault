@@ -45,16 +45,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Welcome to Microservices]]** (6 videos)
-- **[[#2. Microservices Core Concepts]]** (8 videos)
-- **[[#3. Microservices Advanced Concepts]]** (4 videos)
-- **[[#4. Making Architecture Choices]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - What you need to know
+- [**1. Welcome to Microservices**](#1-welcome-to-microservices) (6 videos)
+  - History of service-based architectures
+  - The monolithic application
+  - Service-oriented architecture
+  - Microservices: The new kid on the block
+  - Microservices: Solver of problems but not the silver bullet
+  - Microservices and cloud native
+- [**2. Microservices Core Concepts**](#2-microservices-core-concepts) (8 videos)
+  - The services
+  - The communication dance
+  - Distribution and scale
+  - The dangers of latency and gridlock
+  - Bounded context
+  - Data domains as a service boundary
+  - No ACID, only BASE
+  - The API layer
+- [**3. Microservices Advanced Concepts**](#3-microservices-advanced-concepts) (4 videos)
+  - Asynchronous communications
+  - Logging and tracing in a microservices architecture
+  - Continuous delivery as a requirement
+  - Hybrid architectures: Hierarchy and service-based
+- [**4. Making Architecture Choices**](#4-making-architecture-choices) (5 videos)
+  - Design considerations
+  - The tradeoffs
+  - An argument for edge services
+  - Embracing DevOps
+  - Monolithic microservices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/welcome?u=76281980)
@@ -131,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Welcome to Microservices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### History of service-based architectures
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/history-of-service-based-architectures?u=76281980)
@@ -577,7 +603,7 @@ created: 2026-04-29
 
 ### 2. Microservices Core Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The services
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/the-services?u=76281980)
@@ -1183,7 +1209,7 @@ created: 2026-04-29
 
 ### 3. Microservices Advanced Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Asynchronous communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/asynchronous-communications?u=76281980)
@@ -1445,7 +1471,7 @@ created: 2026-04-29
 
 ### 4. Making Architecture Choices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/design-considerations?u=76281980)
@@ -1840,7 +1866,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-foundations-23469069/next-steps?u=76281980)

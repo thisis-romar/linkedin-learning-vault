@@ -50,16 +50,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. DevOps for Network Engineers Overview]]** (7 videos)
-- **[[#2. GitLab and CI/CD]]** (9 videos)
-- **[[#3. Network DevOps Examples]]** (4 videos)
-- **[[#4. Testing in DevOps]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - DevOps for network engineers
+  - What you should know
+- [**1. DevOps for Network Engineers Overview**](#1-devops-for-network-engineers-overview) (7 videos)
+  - DevOps principles
+  - DevOps practices
+  - Unique network engineering challenges in DevOps
+  - Prerequisites for this course
+  - Setting up a network DevOps lab
+  - Network automation examples with Python libraries
+  - Network configuration backup example with Ansible
+- [**2. GitLab and CI/CD**](#2-gitlab-and-cicd) (9 videos)
+  - Introduction to Git
+  - Basic Git operations
+  - GitLab fundamentals
+  - Network application example
+  - GitLab DevOps CI/CD pipelines
+  - GitLab pipeline example: Build
+  - GitLab pipeline example: Review and test
+  - GitLab pipeline example: Deploy
+  - GitLab pipeline example: Monitor
+- [**3. Network DevOps Examples**](#3-network-devops-examples) (4 videos)
+  - Network configuration backup with Ansible
+  - GitLab integration for configuration backup
+  - Network API application example
+  - Network API integration with GitLab
+- [**4. Testing in DevOps**](#4-testing-in-devops) (4 videos)
+  - Testing fundamentals
+  - Testing with pytest
+  - Network testing with pyATS
+  - Network testing in GitLab
+- [**Conclusion**](#conclusion) (2 videos)
+  - Next steps
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps for network engineers
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-for-network-engineers?u=76281980)
@@ -137,7 +165,7 @@ created: 2026-04-29
 
 ### 1. DevOps for Network Engineers Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps principles
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/devops-principles?u=76281980)
@@ -1165,7 +1193,7 @@ created: 2026-04-29
 
 ### 2. GitLab and CI/CD
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Git
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/introduction-to-git?u=76281980)
@@ -2230,7 +2258,7 @@ created: 2026-04-29
 
 ### 3. Network DevOps Examples
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Network configuration backup with Ansible
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/network-configuration-backup-with-ansible?u=76281980)
@@ -2761,7 +2789,7 @@ created: 2026-04-29
 
 ### 4. Testing in DevOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing fundamentals
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/testing-fundamentals?u=76281980)
@@ -3165,7 +3193,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/netops-devops-for-network-engineers-automating-networks/next-steps?u=76281980)

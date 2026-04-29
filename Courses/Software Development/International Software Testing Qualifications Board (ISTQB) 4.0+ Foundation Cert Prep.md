@@ -46,18 +46,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Fundamentals of Testing]]** (5 videos)
-- **[[#2. Testing Throughout the Software Development Lifecycle]]** (3 videos)
-- **[[#3. Static Testing]]** (2 videos)
-- **[[#4. Test Analysis and Design]]** (5 videos)
-- **[[#5. Managing the Test Activities]]** (4 videos)
-- **[[#6. Test Tools]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Preparing for the ISTQB Certification
+  - ISTQB Certification
+  - Revision 4.0
+  - Terminology is key
+  - Types of learning objectives
+- [**1. Fundamentals of Testing**](#1-fundamentals-of-testing) (5 videos)
+  - What is testing?
+  - Why is testing necessary?
+  - Testing principles
+  - Test activities, testware, and test roles
+  - Essential skills and good practices in testing
+- [**2. Testing Throughout the Software Development Lifecycle**](#2-testing-throughout-the-software-development-lifecycle) (3 videos)
+  - Testing in the context of the software development lifecycle
+  - Test levels and test types
+  - Maintenance testing
+- [**3. Static Testing**](#3-static-testing) (2 videos)
+  - Static testing basics
+  - Feedback and review process
+- [**4. Test Analysis and Design**](#4-test-analysis-and-design) (5 videos)
+  - Test techniques overview
+  - Black-box test techniques
+  - White-box test techniques
+  - Experience-based test techniques
+  - Collaboration-based test approaches
+- [**5. Managing the Test Activities**](#5-managing-the-test-activities) (4 videos)
+  - Test planning
+  - Risk management
+  - Test monitoring, test control, and test completion
+  - Configuration and defect management
+- [**6. Test Tools**](#6-test-tools) (2 videos)
+  - Tool support for testing
+  - Benefits and risks of test automation
+- [**Conclusion**](#conclusion) (2 videos)
+  - Exam paper example
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for the ISTQB Certification
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/preparing-for-the-istqb-certification?u=76281980)
@@ -368,7 +396,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is testing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/what-is-testing?u=76281980)
@@ -758,7 +786,7 @@ created: 2026-04-29
 
 ### 2. Testing Throughout the Software Development Lifecycle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing in the context of the software development lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/testing-in-the-context-of-a-software-development-lifecycle?u=76281980)
@@ -989,7 +1017,7 @@ created: 2026-04-29
 
 ### 3. Static Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Static testing basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/static-testing-basics?u=76281980)
@@ -1125,7 +1153,7 @@ created: 2026-04-29
 
 ### 4. Test Analysis and Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test techniques overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-techniques-overview?u=76281980)
@@ -1537,7 +1565,7 @@ created: 2026-04-29
 
 ### 5. Managing the Test Activities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/test-planning?u=76281980)
@@ -1877,7 +1905,7 @@ created: 2026-04-29
 
 ### 6. Test Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tool support for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/tool-support-for-testing?u=76281980)
@@ -2018,7 +2046,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exam paper example
 > [LinkedIn Learning](https://www.linkedin.com/learning/international-software-testing-qualifications-board-istqb-4-0-plus-foundation-cert-prep/exam-paper-example?u=76281980)

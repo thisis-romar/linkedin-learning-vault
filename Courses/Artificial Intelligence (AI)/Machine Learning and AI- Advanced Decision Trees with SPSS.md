@@ -51,15 +51,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Understanding QUEST]]** (6 videos)
-- **[[#2. Understanding C5.0]]** (6 videos)
-- **[[#3. Advanced Topics]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Advanced decision trees with SPSS
+  - What you should know
+  - Using the exercise files
+- [**1. Understanding QUEST**](#1-understanding-quest) (6 videos)
+  - Overview
+  - How QUEST handles nominal variables
+  - How QUEST handles ordinal and continuous variables
+  - How QUEST handles missing data
+  - Pruning in QUEST
+  - Stopping rules in QUEST
+- [**2. Understanding C5.0**](#2-understanding-c50) (6 videos)
+  - ID3 and C4.5
+  - Winnowing attributes
+  - Rule sets
+  - Understanding information gain
+  - Pruning in C5.0
+  - How C5.0 handles missing data
+- [**3. Advanced Topics**](#3-advanced-topics) (9 videos)
+  - Ensembles
+  - What is bagging?
+  - Using bagging for feature selection
+  - Random forests
+  - What is boosting?
+  - What is XGBoost?
+  - XGBoost Tree node
+  - Costs and priors
+  - XGBoost Linear
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced decision trees with SPSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/advanced-decision-trees-with-spss?u=76281980)
@@ -160,7 +185,7 @@ created: 2026-04-29
 
 ### 1. Understanding QUEST
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/overview?u=76281980)
@@ -645,7 +670,7 @@ created: 2026-04-29
 
 ### 2. Understanding C5.0
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ID3 and C4.5
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/id3-and-c4-5?u=76281980)
@@ -1127,7 +1152,7 @@ created: 2026-04-29
 
 ### 3. Advanced Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensembles
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/ensembles?u=76281980)
@@ -1858,7 +1883,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-advanced-decision-trees-with-spss/next-steps-23432056?u=76281980)

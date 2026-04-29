@@ -45,21 +45,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Why Cybersecurity?]]** (7 videos)
-- **[[#2. Antivirus]]** (4 videos)
-- **[[#3. Firewalls]]** (7 videos)
-- **[[#4. Network Scanning]]** (2 videos)
-- **[[#5. Network Connections]]** (5 videos)
-- **[[#6. Vulnerability Scanning]]** (5 videos)
-- **[[#7. Web Applications]]** (5 videos)
-- **[[#8. Network Protocols]]** (3 videos)
-- **[[#9. AI Security]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Understanding cybersecurity
+  - What you should know
+  - Disclaimer
+- [**1. Why Cybersecurity?**](#1-why-cybersecurity) (7 videos)
+  - A history of hackers
+  - The cyber kill chain
+  - Stuxnet and the kill chain
+  - Common forms of cyberattack
+  - Viruses, spyware, and adware
+  - Cybercrime and ransomware
+  - Emerging trends in cybersecurity
+- [**2. Antivirus**](#2-antivirus) (4 videos)
+  - Introducing Microsoft Defender Antivirus
+  - Detecting malware with Microsoft Defender
+  - Automating scans with Task Scheduler
+  - Other antivirus solutions
+- [**3. Firewalls**](#3-firewalls) (7 videos)
+  - Why firewalls?
+  - Windows Firewall basics
+  - Advanced Windows Firewall
+  - ZedLan firewall log analyser
+  - Introducing Linux iptables
+  - Setting up a simple iptables firewall
+  - Analyzing firewall rules
+- [**4. Network Scanning**](#4-network-scanning) (2 videos)
+  - Getting started with Nmap
+  - Advanced Nmap options
+- [**5. Network Connections**](#5-network-connections) (5 videos)
+  - Getting started with netcat
+  - Transferring files using netcat
+  - Connecting to services
+  - Remote control with Sliver
+  - Setting up a netcat honeypot
+- [**6. Vulnerability Scanning**](#6-vulnerability-scanning) (5 videos)
+  - Preparing Nessus
+  - Setting up a Nessus policy
+  - Running a Nessus scan
+  - Running an exploit
+  - Checking the configuration
+- [**7. Web Applications**](#7-web-applications) (5 videos)
+  - Combating application level threats
+  - Running an SQL injection attack
+  - Cross-site scripting
+  - Scanning with ZAP
+  - Using a proxy to manipulate web traffic
+- [**8. Network Protocols**](#8-network-protocols) (3 videos)
+  - Explaining data communications
+  - Capturing packets with Wireshark
+  - Making sense of the protocols
+- [**9. AI Security**](#9-ai-security) (4 videos)
+  - Introduction to AI models
+  - Security of AI models
+  - Understanding prompt injections
+  - Securing AI agents
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cybersecurity
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/understanding-cybersecurity?u=76281980)
@@ -173,7 +219,7 @@ created: 2026-04-29
 
 ### 1. Why Cybersecurity?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A history of hackers
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/a-history-of-hackers?u=76281980)
@@ -816,7 +862,7 @@ created: 2026-04-29
 
 ### 2. Antivirus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing Microsoft Defender Antivirus
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introducing-microsoft-defender-antivirus?u=76281980)
@@ -1099,7 +1145,7 @@ created: 2026-04-29
 
 ### 3. Firewalls
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why firewalls?
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/why-firewalls?u=76281980)
@@ -1777,7 +1823,7 @@ created: 2026-04-29
 
 ### 4. Network Scanning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with Nmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-nmap?u=76281980)
@@ -1948,7 +1994,7 @@ created: 2026-04-29
 
 ### 5. Network Connections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with netcat
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/getting-started-with-netcat?u=76281980)
@@ -2359,7 +2405,7 @@ created: 2026-04-29
 
 ### 6. Vulnerability Scanning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing Nessus
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/preparing-nessus?u=76281980)
@@ -2680,7 +2726,7 @@ created: 2026-04-29
 
 ### 7. Web Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Combating application level threats
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/combating-application-level-threats?u=76281980)
@@ -2976,7 +3022,7 @@ created: 2026-04-29
 
 ### 8. Network Protocols
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explaining data communications
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/explaining-data-communications?u=76281980)
@@ -3221,7 +3267,7 @@ created: 2026-04-29
 
 ### 9. AI Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI models
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/introduction-to-ai-models?u=76281980)
@@ -3515,7 +3561,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-cybersecurity-for-it-professionals/what-s-next?u=76281980)

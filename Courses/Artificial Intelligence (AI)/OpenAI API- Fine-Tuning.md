@@ -50,14 +50,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Fine-Tuning Basics]]** (6 videos)
-- **[[#2. Advanced Tools and Features]]** (7 videos)
-- **[[#3. Further Info]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Fine-tuning custom models with the OpenAI API
+  - Exercise files and where to find them
+- [**1. Fine-Tuning Basics**](#1-fine-tuning-basics) (6 videos)
+  - When to create a fine-tuned model
+  - Creating and formatting training data
+  - Testing the training data
+  - Creating a fine-tuning job in the playground
+  - Using a fine-tuned model in the playground
+  - Testing epoch-based checkpoints
+- [**2. Advanced Tools and Features**](#2-advanced-tools-and-features) (7 videos)
+  - Fine-tuning through the API
+  - Uploading training data to the API
+  - Creating a fine-tuning job through the API
+  - Retrieving a fine-tuning job and checking the status
+  - Getting the model name once the job is completed
+  - Using the fine-tuned model through the API
+  - Cancelling a fine-tuning job
+- [**3. Further Info**](#3-further-info) (1 videos)
+  - Additional notes on fine-tuning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fine-tuning custom models with the OpenAI API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-custom-models-with-the-openai-api?u=76281980)
@@ -175,7 +191,7 @@ created: 2026-04-29
 
 ### 1. Fine-Tuning Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to create a fine-tuned model
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/when-to-create-a-fine-tuned-model?u=76281980)
@@ -890,7 +906,7 @@ created: 2026-04-29
 
 ### 2. Advanced Tools and Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fine-tuning through the API
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/fine-tuning-through-the-api?u=76281980)
@@ -1252,7 +1268,7 @@ created: 2026-04-29
 
 ### 3. Further Info
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional notes on fine-tuning
 > [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-fine-tuning-21058733/additional-notes-on-fine-tuning?u=76281980)

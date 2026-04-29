@@ -50,19 +50,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introducing Internationalization]]** (3 videos)
-- **[[#2. Internationalization Concepts]]** (3 videos)
-- **[[#3. Working with Translation Functions in PHP]]** (6 videos)
-- **[[#4. Working with Translation Functions in JavaScript]]** (3 videos)
-- **[[#5. Make a Plugin Translation-Ready]]** (10 videos)
-- **[[#6. Advanced Concepts]]** (3 videos)
-- **[[#7. Contributing to Open Source]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - WordPress internationalization
+  - What you need to know
+  - Project overview and exercise files
+- [**1. Introducing Internationalization**](#1-introducing-internationalization) (3 videos)
+  - What is internationalization?
+  - Why internationalize code?
+  - Internationalization vs. localization
+- [**2. Internationalization Concepts**](#2-internationalization-concepts) (3 videos)
+  - What is gettext?
+  - Using text domains
+  - Translation functions
+- [**3. Working with Translation Functions in PHP**](#3-working-with-translation-functions-in-php) (6 videos)
+  - Translating strings
+  - Translate HTML
+  - Use placeholders
+  - Argument swapping
+  - Working with plurals
+  - Adding context
+- [**4. Working with Translation Functions in JavaScript**](#4-working-with-translation-functions-in-javascript) (3 videos)
+  - Including wp-i18n
+  - Using translation functions
+  - Loading translations
+- [**5. Make a Plugin Translation-Ready**](#5-make-a-plugin-translation-ready) (10 videos)
+  - Introducing the project
+  - Best practices for internationalization
+  - Add text domain and set domain path
+  - Add translation functions to PHP
+  - Create and enqueue a script with wp18n
+  - Add translation functions to JavaScript
+  - Create a translation file
+  - Include an additional translation with your plugin
+  - Generate MO and JSON files
+  - Load translations
+- [**6. Advanced Concepts**](#6-advanced-concepts) (3 videos)
+  - Automating text domains
+  - Language packs
+  - Internationalization Security
+- [**7. Contributing to Open Source**](#7-contributing-to-open-source) (2 videos)
+  - Translating for WordPress with GlotPress
+  - Contributing to GlotPress
+- [**Conclusion**](#conclusion) (1 videos)
+  - What next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### WordPress internationalization
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/wordpress-internationalization?u=76281980)
@@ -176,7 +210,7 @@ created: 2026-04-29
 
 ### 1. Introducing Internationalization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is internationalization?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-internationalization?u=76281980)
@@ -330,7 +364,7 @@ created: 2026-04-29
 
 ### 2. Internationalization Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is gettext?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-is-gettext?u=76281980)
@@ -526,7 +560,7 @@ created: 2026-04-29
 
 ### 3. Working with Translation Functions in PHP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Translating strings
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-strings?u=76281980)
@@ -966,7 +1000,7 @@ created: 2026-04-29
 
 ### 4. Working with Translation Functions in JavaScript
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Including wp-i18n
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/including-wp-i18n?u=76281980)
@@ -1066,7 +1100,7 @@ created: 2026-04-29
 
 ### 5. Make a Plugin Translation-Ready
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/introducing-the-project?u=76281980)
@@ -1802,7 +1836,7 @@ created: 2026-04-29
 
 ### 6. Advanced Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automating text domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/automating-text-domains?u=76281980)
@@ -1919,7 +1953,7 @@ created: 2026-04-29
 
 ### 7. Contributing to Open Source
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Translating for WordPress with GlotPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/translating-for-wordpress-with-glotpress?u=76281980)
@@ -1988,7 +2022,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-internationalization-22343157/what-next?u=76281980)

@@ -49,17 +49,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1.  Installation and Setup]]** (3 videos)
-- **[[#2. Overview of Test-Driven Development and Pytest Features]]** (7 videos)
-- **[[#3. Test Automation with Fixtures and Parametrization]]** (5 videos)
-- **[[#4. Organizing Your Pytest Project]]** (2 videos)
-- **[[#5. Using Pytest with an Existing Project]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Python unit testing with pytest
+  - Why pytest?
+  - Roadmap
+  - Exercise files
+- [**1.  Installation and Setup**](#1-installation-and-setup) (3 videos)
+  - Docker and VS Code (Mac)
+  - Docker and VS Code (PC)
+  - Running pytest with Docker
+- [**2. Overview of Test-Driven Development and Pytest Features**](#2-overview-of-test-driven-development-and-pytest-features) (7 videos)
+  - Overview of TDD
+  - Basic tests and assertions
+  - Exceptions
+  - Challenge: Exceptions
+  - Solution: Exceptions
+  - Happy path testing
+  - Sad path testing
+- [**3. Test Automation with Fixtures and Parametrization**](#3-test-automation-with-fixtures-and-parametrization) (5 videos)
+  - Fixtures to amortize costly operations
+  - Factory fixtures
+  - Parametrization
+  - Challenge: Parametrization
+  - Solution: Parameterization
+- [**4. Organizing Your Pytest Project**](#4-organizing-your-pytest-project) (2 videos)
+  - Using Conftest.py for common functions
+  - Modularizing conftest.py
+- [**5. Using Pytest with an Existing Project**](#5-using-pytest-with-an-existing-project) (3 videos)
+  - Reading tests to surmise understand behavior
+  - Challenge: Adding test coverage
+  - Solution: Adding test coverage
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python unit testing with pytest
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980)
@@ -274,7 +299,7 @@ created: 2026-04-29
 
 ### 1.  Installation and Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Docker and VS Code (Mac)
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-mac?u=76281980)
@@ -589,7 +614,7 @@ created: 2026-04-29
 
 ### 2. Overview of Test-Driven Development and Pytest Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of TDD
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980)
@@ -1484,7 +1509,7 @@ created: 2026-04-29
 
 ### 3. Test Automation with Fixtures and Parametrization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fixtures to amortize costly operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980)
@@ -1916,7 +1941,7 @@ created: 2026-04-29
 
 ### 4. Organizing Your Pytest Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Conftest.py for common functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/using-conftest-py-for-common-functions?u=76281980)
@@ -2045,7 +2070,7 @@ created: 2026-04-29
 
 ### 5. Using Pytest with an Existing Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading tests to surmise understand behavior
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980)
@@ -2236,7 +2261,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980)

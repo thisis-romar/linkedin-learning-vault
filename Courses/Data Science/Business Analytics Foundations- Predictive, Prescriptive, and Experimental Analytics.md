@@ -46,17 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Business Analytics (BA)]]** (5 videos)
-- **[[#2. Predictive Analytics (PRA)]]** (4 videos)
-- **[[#3. Prescriptive Analytics (PSA)]]** (4 videos)
-- **[[#4. Experimental Analytics (EXA)]]** (4 videos)
-- **[[#5. Trust and Safety Considerations]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome
+- [**1. Business Analytics (BA)**](#1-business-analytics-ba) (5 videos)
+  - What is business analytics?
+  - Business analytics compared
+  - Stages of business analytics
+  - Business analytics process
+  - Course use case
+- [**2. Predictive Analytics (PRA)**](#2-predictive-analytics-pra) (4 videos)
+  - PRA definition
+  - PRA tools and techniques
+  - PRA use case
+  - PRA best practices
+- [**3. Prescriptive Analytics (PSA)**](#3-prescriptive-analytics-psa) (4 videos)
+  - PSA definition
+  - PSA tools and techniques
+  - PSA use case
+  - PSA best practices
+- [**4. Experimental Analytics (EXA)**](#4-experimental-analytics-exa) (4 videos)
+  - EXA definition
+  - EXA tools and techniques
+  - EXA use case
+  - EXA best practices
+- [**5. Trust and Safety Considerations**](#5-trust-and-safety-considerations) (4 videos)
+  - Compliance considerations
+  - Data security and protection
+  - Data privacy considerations
+  - Bias in business analytics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/welcome?u=76281980)
@@ -91,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Business Analytics (BA)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is business analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/what-is-business-analytics?u=76281980)
@@ -320,7 +343,7 @@ created: 2026-04-29
 
 ### 2. Predictive Analytics (PRA)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PRA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/pra-definition?u=76281980)
@@ -555,7 +578,7 @@ created: 2026-04-29
 
 ### 3. Prescriptive Analytics (PSA)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PSA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/psa-definition?u=76281980)
@@ -785,7 +808,7 @@ created: 2026-04-29
 
 ### 4. Experimental Analytics (EXA)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### EXA definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/exa-definition?u=76281980)
@@ -986,7 +1009,7 @@ created: 2026-04-29
 
 ### 5. Trust and Safety Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Compliance considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/compliance-considerations?u=76281980)
@@ -1181,7 +1204,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics/next-steps?u=76281980)

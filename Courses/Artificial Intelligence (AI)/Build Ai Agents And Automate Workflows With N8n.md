@@ -48,13 +48,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Building AI Agents with n8n]]** (13 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Making AI agents work for you
+- [**1. Building AI Agents with n8n**](#1-building-ai-agents-with-n8n) (13 videos)
+  - Introducing n8n
+  - The Plan: An AI-powered Slackbot managing a Google Sheet
+  - Creating a new n8n workflow with a trigger
+  - Adding an AI agent and a chat model
+  - Adding a tool to the AI agent
+  - Using a sub-workflow as a tool
+  - Using the filter node to modify data
+  - Creating an MCP server in n8n
+  - Adding tools to the MCP server
+  - Creating a Slackbot
+  - Authenticating Slack
+  - Adding a Slack trigger
+  - Sending messages to Slack
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making AI agents work for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/making-ai-agents-work-for-you?u=76281980)
@@ -85,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Building AI Agents with n8n
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing n8n
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980)
@@ -1333,7 +1348,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980)

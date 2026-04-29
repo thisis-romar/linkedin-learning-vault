@@ -39,16 +39,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Enhancing Candidate Experience with AI-Powered Interview Platforms]]** (2 videos)
-- **[[#2. Preparing for AI-Enhanced Interviews]]** (6 videos)
-- **[[#3. Reducing Bias and Enhancing Fairness]]** (2 videos)
-- **[[#4.  Data-Driven Decision-Making in Interviews]]** (2 videos)
-- **[[#Legal and Ethical Considerations]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Intro to AI in interviewing
+- [**1. Enhancing Candidate Experience with AI-Powered Interview Platforms**](#1-enhancing-candidate-experience-with-ai-powered-interview-platforms) (2 videos)
+  - Overview of AI interview tools and platforms
+  - Leveraging AI platforms to enhance candidate experience
+- [**2. Preparing for AI-Enhanced Interviews**](#2-preparing-for-ai-enhanced-interviews) (6 videos)
+  - Training interviewers to work with AI tools
+  - Preparing candidates for AI interview success
+  - Leveraging AI in structured vs. unstructured interviews
+  - AI for evaluating human skills and cultural fit
+  - AI for technical and coding assessments
+  - Analyzing non-verbal communication and tone with AI
+- [**3. Reducing Bias and Enhancing Fairness**](#3-reducing-bias-and-enhancing-fairness) (2 videos)
+  - AI’s role in reducing bias in interviews
+  - Harnessing AI for Inclusive Interviewing
+- [**4.  Data-Driven Decision-Making in Interviews**](#4-data-driven-decision-making-in-interviews) (2 videos)
+  - Leveraging AI to analyze interview data
+  - AI for predictive analytics in recruiting and interviewing
+- [**Legal and Ethical Considerations**](#legal-and-ethical-considerations) (2 videos)
+  - Navigating legal requirements for AI in interviewing
+  - Understanding data privacy and consent issues
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to AI in interviewing
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/intro-to-ai-in-interviewing?u=76281980)
@@ -82,7 +97,7 @@ created: 2026-04-29
 
 ### 1. Enhancing Candidate Experience with AI-Powered Interview Platforms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AI interview tools and platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/overview-of-ai-interview-tools-and-platforms?u=76281980)
@@ -190,7 +205,7 @@ created: 2026-04-29
 
 ### 2. Preparing for AI-Enhanced Interviews
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Training interviewers to work with AI tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/training-interviewers-to-work-with-ai-tools?u=76281980)
@@ -511,7 +526,7 @@ created: 2026-04-29
 
 ### 3. Reducing Bias and Enhancing Fairness
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI’s role in reducing bias in interviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/ai-s-role-in-reducing-bias-in-interviews?u=76281980)
@@ -613,7 +628,7 @@ created: 2026-04-29
 
 ### 4.  Data-Driven Decision-Making in Interviews
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging AI to analyze interview data
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/leveraging-ai-to-analyze-interview-data?u=76281980)
@@ -723,7 +738,7 @@ created: 2026-04-29
 
 ### Legal and Ethical Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating legal requirements for AI in interviewing
 > [LinkedIn Learning](https://www.linkedin.com/learning/harnessing-ai-for-effective-interviewing/navigating-legal-requirements-for-ai-in-interviewing?u=76281980)

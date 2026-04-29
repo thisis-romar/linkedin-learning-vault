@@ -50,20 +50,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Kali Basics]]** (6 videos)
-- **[[#2. System Shells]]** (6 videos)
-- **[[#3. Exploiting Targets from Kali]]** (5 videos)
-- **[[#4. Passwords]]** (2 videos)
-- **[[#5. Exploiting the Metasploitable Server]]** (9 videos)
-- **[[#6. End-to-End Testing]]** (6 videos)
-- **[[#7. Crafting Exploit Scripts]]** (5 videos)
-- **[[#8. Command and Control with Sliver]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Using Kali Linux as the basis for advanced penetration testing
+  - What you should know
+  - Disclaimer
+- [**1. Kali Basics**](#1-kali-basics) (6 videos)
+  - Testing with Kali Linux
+  - Understanding Kali deployments
+  - Preparing your toolbox
+  - Preparing to use exploits for testing
+  - Managing the Kali menu
+  - Using the LinkedIn Learning penetration testing lab
+- [**2. System Shells**](#2-system-shells) (6 videos)
+  - Introduction to shells
+  - Exploring Kali webshells
+  - Weeving a shell
+  - Generating shellcode with msfvenom
+  - Injecting images with jhead
+  - Using shellcode in exploits
+- [**3. Exploiting Targets from Kali**](#3-exploiting-targets-from-kali) (5 videos)
+  - Exploiting systems with Kali
+  - Exploiting with Python
+  - Exploiting with Perl
+  - Exploiting with C
+  - Exploiting with CPP
+- [**4. Passwords**](#4-passwords) (2 videos)
+  - Obtaining Windows passwords
+  - Obtaining Linux passwords
+- [**5. Exploiting the Metasploitable Server**](#5-exploiting-the-metasploitable-server) (9 videos)
+  - Targeting Metasploitable
+  - Exploiting VSFTPD
+  - Exploiting with ProFTPD
+  - Exploiting Tomcat
+  - Exploiting IRC
+  - Exploiting the distributed compile system
+  - Exploiting network files
+  - Hiding in plain sight
+  - Escalating to root
+- [**6. End-to-End Testing**](#6-end-to-end-testing) (6 videos)
+  - Starting with online labs
+  - Exploiting rejetto
+  - Exploiting the Devel
+  - Time to exploit Cronos
+  - Cronos revisited: Getting to the root
+  - Using a nightmare escalator
+- [**7. Crafting Exploit Scripts**](#7-crafting-exploit-scripts) (5 videos)
+  - Introducing kali-autopilot
+  - Scripting a juicy attack
+  - Attacking the juice shop
+  - Hiving into Windows
+  - Attacking the hives
+- [**8. Command and Control with Sliver**](#8-command-and-control-with-sliver) (2 videos)
+  - Install Sliver server
+  - Implement a Sliver agent
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Kali Linux as the basis for advanced penetration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/using-kali-linux-as-the-basis-for-advanced-penetration-testing?u=76281980)
@@ -160,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Kali Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing with Kali Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/testing-with-kali-linux?u=76281980)
@@ -772,7 +817,7 @@ created: 2026-04-29
 
 ### 2. System Shells
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to shells
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introduction-to-shells?u=76281980)
@@ -1383,7 +1428,7 @@ created: 2026-04-29
 
 ### 3. Exploiting Targets from Kali
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploiting systems with Kali
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/exploiting-systems-with-kali?u=76281980)
@@ -1659,7 +1704,7 @@ created: 2026-04-29
 
 ### 4. Passwords
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Obtaining Windows passwords
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/obtaining-windows-passwords?u=76281980)
@@ -1843,7 +1888,7 @@ created: 2026-04-29
 
 ### 5. Exploiting the Metasploitable Server
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Targeting Metasploitable
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/targeting-metasploitable?u=76281980)
@@ -2406,7 +2451,7 @@ created: 2026-04-29
 
 ### 6. End-to-End Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting with online labs
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/starting-with-online-labs?u=76281980)
@@ -3152,7 +3197,7 @@ created: 2026-04-29
 
 ### 7. Crafting Exploit Scripts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing kali-autopilot
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/introducing-kali-autopilot?u=76281980)
@@ -3496,7 +3541,7 @@ created: 2026-04-29
 
 ### 8. Command and Control with Sliver
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install Sliver server
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/install-silver-server?u=76281980)
@@ -3630,7 +3675,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kali-linux-for-advanced-pen-testing-and-ethical-hacking/next-steps?u=76281980)

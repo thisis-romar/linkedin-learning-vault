@@ -54,18 +54,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. An Introduction to Troubleshooting]]** (1 videos)
-- **[[#2. The Most Common Fixes]]** (5 videos)
-- **[[#3. Troubleshooting Tools]]** (8 videos)
-- **[[#4. Fixing Boot Problems]]** (2 videos)
-- **[[#5. Remote Troubleshooting]]** (3 videos)
-- **[[#6. Troubleshooting Applications]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Learn the basics of troubleshooting in Windows 10
+- [**1. An Introduction to Troubleshooting**](#1-an-introduction-to-troubleshooting) (1 videos)
+  - Windows 10 troubleshooting best practices
+- [**2. The Most Common Fixes**](#2-the-most-common-fixes) (5 videos)
+  - Booting into Safe Mode
+  - Resetting Windows
+  - Restoring Windows
+  - Running Windows Update
+  - Removing a buggy update
+- [**3. Troubleshooting Tools**](#3-troubleshooting-tools) (8 videos)
+  - Working with the Reliability Monitor
+  - Using the Steps Recorder
+  - Using the Security and Maintenance Console
+  - Working with troubleshooters
+  - Cleaning up the hard disk
+  - An introduction to the Event Viewer
+  - An introduction to performance monitoring
+  - What is slowing down the system?
+- [**4. Fixing Boot Problems**](#4-fixing-boot-problems) (2 videos)
+  - Fixing boot problems
+  - Windows startup
+- [**5. Remote Troubleshooting**](#5-remote-troubleshooting) (3 videos)
+  - Using Remote Assistance
+  - Configuring the RDP client
+  - Establishing a Remote Desktop session
+- [**6. Troubleshooting Applications**](#6-troubleshooting-applications) (4 videos)
+  - Reinstalling a Windows Store application
+  - Reinstalling a Win32 application
+  - Repairing a Win32 application
+  - Fixing an application compatibility problem
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn the basics of troubleshooting in Windows 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/learn-the-basics-of-troubleshooting-in-windows-10?u=76281980)
@@ -97,7 +122,7 @@ created: 2026-04-29
 
 ### 1. An Introduction to Troubleshooting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Windows 10 troubleshooting best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/windows-10-troubleshooting-best-practices?u=76281980)
@@ -191,7 +216,7 @@ created: 2026-04-29
 
 ### 2. The Most Common Fixes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Booting into Safe Mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/booting-into-safe-mode?u=76281980)
@@ -675,7 +700,7 @@ created: 2026-04-29
 
 ### 3. Troubleshooting Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with the Reliability Monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/working-with-the-reliability-monitor?u=76281980)
@@ -1386,7 +1411,7 @@ created: 2026-04-29
 
 ### 4. Fixing Boot Problems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fixing boot problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/fixing-boot-problems?u=76281980)
@@ -1577,7 +1602,7 @@ created: 2026-04-29
 
 ### 5. Remote Troubleshooting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Remote Assistance
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/using-remote-assistance?u=76281980)
@@ -1914,7 +1939,7 @@ created: 2026-04-29
 
 ### 6. Troubleshooting Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reinstalling a Windows Store application
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/reinstalling-a-windows-store-application?u=76281980)
@@ -2247,7 +2272,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-troubleshooting-basics/next-steps?u=76281980)

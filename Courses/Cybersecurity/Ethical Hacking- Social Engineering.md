@@ -47,17 +47,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Grasping Social Engineering]]** (4 videos)
-- **[[#2. Social Engineering Mechanisms]]** (8 videos)
-- **[[#3. Misusing Trust]]** (4 videos)
-- **[[#4. Penetration Testing with Social Engineering]]** (5 videos)
-- **[[#5. Avoiding Social Engineering]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Defining social engineering
+  - What you should know
+  - Hacking ethically
+- [**1. Grasping Social Engineering**](#1-grasping-social-engineering) (4 videos)
+  - Hacking the human
+  - Visualizing the victim
+  - Skills of a social engineer
+  - Recognize an attack
+- [**2. Social Engineering Mechanisms**](#2-social-engineering-mechanisms) (8 videos)
+  - Using charm, power, and influence
+  - Employing browsers for social engineering
+  - Evaluating add-ons and extensions
+  - Deploying mobile-based attacks
+  - Manipulating with social media
+  - Disclosing private information
+  - Challenge: Avoiding online dating scams
+  - Solution: Avoiding online dating scams
+- [**3. Misusing Trust**](#3-misusing-trust) (4 videos)
+  - Disgruntled employees
+  - Steal an identity
+  - Challenge: Monitoring your employees
+  - Solution: Monitoring your employees
+- [**4. Penetration Testing with Social Engineering**](#4-penetration-testing-with-social-engineering) (5 videos)
+  - Using email and websites in social engineering
+  - In person and on the phone
+  - Exploring the social engineering toolkit
+  - Going phishing
+  - Using the social engineering toolkit
+- [**5. Avoiding Social Engineering**](#5-avoiding-social-engineering) (5 videos)
+  - Defending against social engineering
+  - Understanding spam
+  - Preventing spoofed email
+  - Preventing insider attacks
+  - Properly disposing of data and media
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining social engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defining-social-engineering-19401131?u=76281980)
@@ -132,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Grasping Social Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hacking the human
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/hacking-the-human-19401132?u=76281980)
@@ -436,7 +466,7 @@ created: 2026-04-29
 
 ### 2. Social Engineering Mechanisms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using charm, power, and influence
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-charm-power-and-influence?u=76281980)
@@ -1085,7 +1115,7 @@ created: 2026-04-29
 
 ### 3. Misusing Trust
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Disgruntled employees
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/disgruntled-employees?u=76281980)
@@ -1365,7 +1395,7 @@ created: 2026-04-29
 
 ### 4. Penetration Testing with Social Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using email and websites in social engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/using-email-and-websites-in-social-engineering?u=76281980)
@@ -1804,7 +1834,7 @@ created: 2026-04-29
 
 ### 5. Avoiding Social Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defending against social engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/defending-against-social-engineering?u=76281980)
@@ -2210,7 +2240,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-social-engineering/next-steps-14035861?u=76281980)

@@ -47,17 +47,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding the Python any() and all() Methods]]** (3 videos)
-- **[[#2. Using the Python enumerate() and zip() Method]]** (3 videos)
-- **[[#3. Understanding the Python reversed() Method]]** (2 videos)
-- **[[#4. Working with Python min() and max()]]** (2 videos)
-- **[[#5. Understanding and Using the Python sorted() Method]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Eight things to know in Python
+  - CoderPad tour
+- [**1. Understanding the Python any() and all() Methods**](#1-understanding-the-python-any-and-all-methods) (3 videos)
+  - Python all() function
+  - Python any() function
+  - Solution: any() and all()
+- [**2. Using the Python enumerate() and zip() Method**](#2-using-the-python-enumerate-and-zip-method) (3 videos)
+  - Python enumerate() function
+  - Python zip() function
+  - Solution: enumerate() and zip()
+- [**3. Understanding the Python reversed() Method**](#3-understanding-the-python-reversed-method) (2 videos)
+  - Python reversed() function
+  - Solution: reversed()
+- [**4. Working with Python min() and max()**](#4-working-with-python-min-and-max) (2 videos)
+  - Python min() and max() function
+  - Solution: min() and max()
+- [**5. Understanding and Using the Python sorted() Method**](#5-understanding-and-using-the-python-sorted-method) (2 videos)
+  - Python sorted() function
+  - Solution: sorted()
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Eight things to know in Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/eight-things-to-know-in-python?u=76281980)
@@ -173,7 +188,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Python any() and all() Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python all() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-all-function?u=76281980)
@@ -362,7 +377,7 @@ created: 2026-04-29
 
 ### 2. Using the Python enumerate() and zip() Method
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python enumerate() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-enumerate-function?u=76281980)
@@ -601,7 +616,7 @@ created: 2026-04-29
 
 ### 3. Understanding the Python reversed() Method
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python reversed() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-reversed-function?u=76281980)
@@ -772,7 +787,7 @@ created: 2026-04-29
 
 ### 4. Working with Python min() and max()
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python min() and max() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-min-and-max-function?u=76281980)
@@ -965,7 +980,7 @@ created: 2026-04-29
 
 ### 5. Understanding and Using the Python sorted() Method
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Python sorted() function
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/python-sorted-function?u=76281980)
@@ -1193,7 +1208,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/8-things-you-must-know-in-python/next-steps?u=76281980)

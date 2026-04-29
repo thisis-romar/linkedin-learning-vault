@@ -58,19 +58,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Vector Databases]]** (5 videos)
-- **[[#2. Milvus Database Concepts]]** (8 videos)
-- **[[#3. Milvus Database Operations]]** (8 videos)
-- **[[#4. Vector DB for LLM Query Caching]]** (5 videos)
-- **[[#5. Introduction to Retrieval Augmented Generation (RAG)]]** (5 videos)
-- **[[#6. Implementing RAG with Milvus]]** (4 videos)
-- **[[#7. Vector Databases Best Practices]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - GenAI with vector databases
+  - Course coverage and prerequisites
+- [**1. Introduction to Vector Databases**](#1-introduction-to-vector-databases) (5 videos)
+  - What is a vector?
+  - Vectorization in NLP
+  - Vector similarity search
+  - Vector databases
+  - Pros and cons of vector databases
+- [**2. Milvus Database Concepts**](#2-milvus-database-concepts) (8 videos)
+  - Introduction to Milvus DB
+  - Milvus architecture
+  - Collections in Milvus
+  - Partitions in Milvus
+  - Indexes in Milvus
+  - Managing data in Milvus
+  - Query and search in Milvus
+  - Set up Milvus and exercise files
+- [**3. Milvus Database Operations**](#3-milvus-database-operations) (8 videos)
+  - Create a connection
+  - Create databases and users
+  - Create collections
+  - Insert data into Milvus
+  - Build an index
+  - Query scalar data
+  - Search vector fields
+  - Delete objects and entities
+- [**4. Vector DB for LLM Query Caching**](#4-vector-db-for-llm-query-caching) (5 videos)
+  - LLMs and caching
+  - Prompt caching workflow
+  - Set up the Milvus cache
+  - Inference process and caching
+  - Cache management
+- [**5. Introduction to Retrieval Augmented Generation (RAG)**](#5-introduction-to-retrieval-augmented-generation-rag) (5 videos)
+  - LLMs as a knowledge source
+  - Introduction to retrieval augmented generation
+  - RAG: Knowledge curation process
+  - RAG question-answering process
+  - Applications of RAG
+- [**6. Implementing RAG with Milvus**](#6-implementing-rag-with-milvus) (4 videos)
+  - Set up Milvus for RAG
+  - Prepare data for the knowledge base
+  - Populate the Milvus database
+  - Answer questions with RAG
+- [**7. Vector Databases Best Practices**](#7-vector-databases-best-practices) (4 videos)
+  - Choose a vector database
+  - Combine vector and scalar data
+  - Distance measure considerations
+  - Tune vector DB performance
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue with LLMs
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI with vector databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/genai-with-vector-databases?u=76281980)
@@ -163,7 +205,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Vector Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a vector?
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/what-is-a-vector?u=76281980)
@@ -437,7 +479,7 @@ created: 2026-04-29
 
 ### 2. Milvus Database Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Milvus DB
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/introduction-to-milvis-db?u=76281980)
@@ -978,7 +1020,7 @@ created: 2026-04-29
 
 ### 3. Milvus Database Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a connection
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/create-a-connection?u=76281980)
@@ -1533,7 +1575,7 @@ created: 2026-04-29
 
 ### 4. Vector DB for LLM Query Caching
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### LLMs and caching
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-and-caching?u=76281980)
@@ -1839,7 +1881,7 @@ created: 2026-04-29
 
 ### 5. Introduction to Retrieval Augmented Generation (RAG)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### LLMs as a knowledge source
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/llms-as-a-knowledge-source?u=76281980)
@@ -2094,7 +2136,7 @@ created: 2026-04-29
 
 ### 6. Implementing RAG with Milvus
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up Milvus for RAG
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/set-up-milvus-for-rag?u=76281980)
@@ -2325,7 +2367,7 @@ created: 2026-04-29
 
 ### 7. Vector Databases Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose a vector database
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/choose-a-vector-database?u=76281980)
@@ -2523,7 +2565,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue with LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/llm-foundations-vector-databases-for-caching-and-retrieval-augmented-generation-rag/continue-with-llms?u=76281980)

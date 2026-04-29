@@ -44,16 +44,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding AI and GenAI's Unique Capabilities]]** (3 videos)
-- **[[#2. Generative AI Technical Concepts]]** (4 videos)
-- **[[#3. Working with Generative AI Tools]]** (2 videos)
-- **[[#4. Data and Quality Considerations]]** (3 videos)
-- **[[#5. Ethics and Compliance]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Answers to your most common AI questions
+- [**1. Understanding AI and GenAI's Unique Capabilities**](#1-understanding-ai-and-genais-unique-capabilities) (3 videos)
+  - A quick history of AI
+  - What's the difference between traditional AI and generative AI?
+  - Why does AI cost so much to create?
+- [**2. Generative AI Technical Concepts**](#2-generative-ai-technical-concepts) (4 videos)
+  - What's an LLM?
+  - What does it mean to train an AI model?
+  - What is a GPU?
+  - What is an AI agent and how can it help you?
+- [**3. Working with Generative AI Tools**](#3-working-with-generative-ai-tools) (2 videos)
+  - What makes an effective prompt?
+  - What is "Chain of Thought" prompting?
+- [**4. Data and Quality Considerations**](#4-data-and-quality-considerations) (3 videos)
+  - Why does quality matter in AI?
+  - How can we ensure data integrity in AI?
+  - How does data quality impact AI outcomes?
+- [**5. Ethics and Compliance**](#5-ethics-and-compliance) (4 videos)
+  - What are the ethical considerations in AI?
+  - How can we practice responsible AI?
+  - What are the regulations and compliance requirements for AI?
+  - The environmental impact of AI: When shouldn't we use it?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Answers to your most common AI questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/answers-to-your-most-common-ai-questions?u=76281980)
@@ -86,7 +103,7 @@ created: 2026-04-29
 
 ### 1. Understanding AI and GenAI's Unique Capabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A quick history of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/a-quick-history-of-ai?u=76281980)
@@ -335,7 +352,7 @@ created: 2026-04-29
 
 ### 2. Generative AI Technical Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's an LLM?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-s-an-llm?u=76281980)
@@ -577,7 +594,7 @@ created: 2026-04-29
 
 ### 3. Working with Generative AI Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes an effective prompt?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-makes-an-effective-prompt?u=76281980)
@@ -717,7 +734,7 @@ created: 2026-04-29
 
 ### 4. Data and Quality Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why does quality matter in AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/why-does-quality-matter-in-ai?u=76281980)
@@ -868,7 +885,7 @@ created: 2026-04-29
 
 ### 5. Ethics and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the ethical considerations in AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/your-top-ai-questions-answered-ai-literacy-for-everyone/what-are-the-ethical-considerations-in-ai?u=76281980)

@@ -43,16 +43,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Cryptocurrency?]]** (4 videos)
-- **[[#2. Creating a Cryptocurrency]]** (5 videos)
-- **[[#3. Investing in Cryptocurrencies]]** (2 videos)
-- **[[#4. The Future of Cryptocurrencies]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Is cryptocurrency the future of money?
+- [**1. What Is Cryptocurrency?**](#1-what-is-cryptocurrency) (4 videos)
+  - The current world of cryptocurrency
+  - Bitcoin and the double-spend problem
+  - Blockchain: The power behind cryptocurrencies
+  - Crypto tokens and tokenomics
+- [**2. Creating a Cryptocurrency**](#2-creating-a-cryptocurrency) (5 videos)
+  - Methods of cryptocurrency creation
+  - What is the role of crypto wallets?
+  - The cryptocurrency mining process
+  - Mining: Choosing the right hardware and software
+  - The challenges of cryptomining
+- [**3. Investing in Cryptocurrencies**](#3-investing-in-cryptocurrencies) (2 videos)
+  - How to buy and sell a cryptocurrency
+  - Cryptocurrency investing techniques and tools
+- [**4. The Future of Cryptocurrencies**](#4-the-future-of-cryptocurrencies) (2 videos)
+  - How countries are responding to crypto
+  - The challenges ahead for cryptocurrency
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps on your cryptocurrency journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Is cryptocurrency the future of money?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/is-cryptocurrency-the-future-of-money?u=76281980)
@@ -98,7 +113,7 @@ created: 2026-04-29
 
 ### 1. What Is Cryptocurrency?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The current world of cryptocurrency
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/the-current-world-of-cryptocurrency?u=76281980)
@@ -479,7 +494,7 @@ created: 2026-04-29
 
 ### 2. Creating a Cryptocurrency
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Methods of cryptocurrency creation
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/methods-of-cryptocurrency-creation?u=76281980)
@@ -984,7 +999,7 @@ created: 2026-04-29
 
 ### 3. Investing in Cryptocurrencies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to buy and sell a cryptocurrency
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-to-buy-and-sell-a-cryptocurrency?u=76281980)
@@ -1193,7 +1208,7 @@ created: 2026-04-29
 
 ### 4. The Future of Cryptocurrencies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How countries are responding to crypto
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/how-countries-are-responding-to-crypto?u=76281980)
@@ -1345,7 +1360,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps on your cryptocurrency journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cryptocurrency-foundations-17185357/next-steps-on-your-cryptocurrency-journey?u=76281980)

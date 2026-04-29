@@ -46,16 +46,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Get Started]]** (2 videos)
-- **[[#2. Work with Email]]** (5 videos)
-- **[[#3. Work with Contacts]]** (2 videos)
-- **[[#4. Work with the Calendar]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Stay organized and collaborate with Outlook
+  - What can you do with Outlook?
+- [**1. Get Started**](#1-get-started) (2 videos)
+  - Add an email account
+  - Navigate the interface
+- [**2. Work with Email**](#2-work-with-email) (5 videos)
+  - Read your mail
+  - Organize your mail
+  - Search your mail
+  - Create, reply to, and forward an email
+  - Work with attachments
+- [**3. Work with Contacts**](#3-work-with-contacts) (2 videos)
+  - Create a new contact
+  - Create a contact group
+- [**4. Work with the Calendar**](#4-work-with-the-calendar) (4 videos)
+  - Navigate the calendar
+  - Create an appointment
+  - Create a meeting
+  - Respond to a meeting invitation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learn more features of Outlook
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stay organized and collaborate with Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/stay-organized-and-collaborate-with-outlook?u=76281980)
@@ -132,7 +148,7 @@ created: 2026-04-29
 
 ### 1. Get Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Add an email account
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/add-an-email-account?u=76281980)
@@ -301,7 +317,7 @@ created: 2026-04-29
 
 ### 2. Work with Email
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Read your mail
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/read-your-mail?u=76281980)
@@ -738,7 +754,7 @@ created: 2026-04-29
 
 ### 3. Work with Contacts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new contact
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/create-a-new-contact?u=76281980)
@@ -905,7 +921,7 @@ created: 2026-04-29
 
 ### 4. Work with the Calendar
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate the calendar
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/navigate-the-calendar?u=76281980)
@@ -1254,7 +1270,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more features of Outlook
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-outlook-desktop-microsoft-365-18902561/learn-more-features-of-outlook?u=76281980)

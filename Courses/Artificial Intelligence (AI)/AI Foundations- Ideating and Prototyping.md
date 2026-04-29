@@ -51,17 +51,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Identifying the Problem]]** (2 videos)
-- **[[#2. Ideation Techniques]]** (2 videos)
-- **[[#3. Building a Prototype]]** (2 videos)
-- **[[#4. Resource Allocation and Funding Strategies]]** (2 videos)
-- **[[#5. Presenting and Refining Your AI Product Idea]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Transforming ideas into impactful AI products
+  - What is AI product ideation?
+  - Why prototyping matters
+- [**1. Identifying the Problem**](#1-identifying-the-problem) (2 videos)
+  - Defining the problem statement
+  - Strategic market research and customer fit
+- [**2. Ideation Techniques**](#2-ideation-techniques) (2 videos)
+  - Brainstorming and concept development
+  - Evaluating AI solutions
+- [**3. Building a Prototype**](#3-building-a-prototype) (2 videos)
+  - Rapid prototyping and iterative testing
+  - Lean startup overview
+- [**4. Resource Allocation and Funding Strategies**](#4-resource-allocation-and-funding-strategies) (2 videos)
+  - Estimating resource needs
+  - Overview of funding options
+- [**5. Presenting and Refining Your AI Product Idea**](#5-presenting-and-refining-your-ai-product-idea) (2 videos)
+  - Pitching your AI product
+  - Refining based on feedback
+- [**Conclusion**](#conclusion) (1 videos)
+  - Recap and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transforming ideas into impactful AI products
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/transforming-ideas-into-impactful-ai-products?u=76281980)
@@ -258,7 +272,7 @@ created: 2026-04-29
 
 ### 1. Identifying the Problem
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the problem statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/defining-the-problem-statement?u=76281980)
@@ -462,7 +476,7 @@ created: 2026-04-29
 
 ### 2. Ideation Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Brainstorming and concept development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/brainstorming-and-concept-development?u=76281980)
@@ -710,7 +724,7 @@ created: 2026-04-29
 
 ### 3. Building a Prototype
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Rapid prototyping and iterative testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/rapid-prototyping-iterative-testing?u=76281980)
@@ -935,7 +949,7 @@ created: 2026-04-29
 
 ### 4. Resource Allocation and Funding Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Estimating resource needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/estimating-resource-needs?u=76281980)
@@ -1190,7 +1204,7 @@ created: 2026-04-29
 
 ### 5. Presenting and Refining Your AI Product Idea
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pitching your AI product
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/pitching-your-ai-product?u=76281980)
@@ -1409,7 +1423,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recap and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-foundations-ideating-and-prototyping/recap-and-next-steps?u=76281980)

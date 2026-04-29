@@ -52,18 +52,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Interview Prep]]** (5 videos)
-- **[[#2. DevOps Business Practices Questions]]** (9 videos)
-- **[[#3. Common DevOps Skills]]** (8 videos)
-- **[[#4. Cloud Services Questions]]** (3 videos)
-- **[[#5. Applications and Services Questions]]** (5 videos)
-- **[[#6. Wrapping Up Your Interview]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Transform your career in DevOps
+  - What you should know
+  - DevOps vs. SRE vs. automation engineer
+- [**1. Interview Prep**](#1-interview-prep) (5 videos)
+  - Preparing for the interview
+  - Researching the opportunity
+  - Getting DevOps experience
+  - Certifications
+  - Methods for answering questions
+- [**2. DevOps Business Practices Questions**](#2-devops-business-practices-questions) (9 videos)
+  - Defining DevOps
+  - The DevOps lifecycle
+  - Lean vs. agile vs. DevOps
+  - CI/CD
+  - Configuration management
+  - Monitoring and alerting
+  - Testing
+  - Challenge
+  - Solution
+- [**3. Common DevOps Skills**](#3-common-devops-skills) (8 videos)
+  - Operating systems
+  - Command line tools
+  - Scripting and programming
+  - Software version control
+  - Troubleshooting
+  - Incident management
+  - Security
+  - Practical uses for AI in DevOps roles
+- [**4. Cloud Services Questions**](#4-cloud-services-questions) (3 videos)
+  - Cloud services and their benefits
+  - Architecting cloud solutions
+  - Infrastructure as Code
+- [**5. Applications and Services Questions**](#5-applications-and-services-questions) (5 videos)
+  - Web servers
+  - Databases
+  - Containers
+  - Challenge
+  - Solution
+- [**6. Wrapping Up Your Interview**](#6-wrapping-up-your-interview) (2 videos)
+  - Asking questions
+  - Following up
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your career in DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/transform-your-career-in-devops-18731967?u=76281980)
@@ -159,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Interview Prep
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for the interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/preparing-for-the-interview?u=76281980)
@@ -570,7 +606,7 @@ created: 2026-04-29
 
 ### 2. DevOps Business Practices Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/defining-devops-18735242?u=76281980)
@@ -1075,7 +1111,7 @@ created: 2026-04-29
 
 ### 3. Common DevOps Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Operating systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/operating-systems-18737070?u=76281980)
@@ -1638,7 +1674,7 @@ created: 2026-04-29
 
 ### 4. Cloud Services Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud services and their benefits
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/cloud-services-and-their-benefits-18733943?u=76281980)
@@ -1829,7 +1865,7 @@ created: 2026-04-29
 
 ### 5. Applications and Services Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Web servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/web-servers-18735243?u=76281980)
@@ -2130,7 +2166,7 @@ created: 2026-04-29
 
 ### 6. Wrapping Up Your Interview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Asking questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/asking-questions-18733942?u=76281980)
@@ -2211,7 +2247,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-devops-interview/next-steps-18730963?u=76281980)

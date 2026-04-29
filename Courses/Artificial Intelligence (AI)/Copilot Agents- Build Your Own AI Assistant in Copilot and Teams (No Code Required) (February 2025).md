@@ -50,13 +50,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Use Agents in Microsoft 365 Copilot]]** (3 videos)
-- **[[#2. Create Your Own Agents]]** (5 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Use agents for specialized AI tasks
+  - Accounts and subscriptions required
+- [**1. Use Agents in Microsoft 365 Copilot**](#1-use-agents-in-microsoft-365-copilot) (3 videos)
+  - Understand how Copilot agents work
+  - Use agents and install new agents
+  - Use an agent with a 3rd party account
+- [**2. Create Your Own Agents**](#2-create-your-own-agents) (5 videos)
+  - Create a basic Copilot agent
+  - Modify and refine a custom agent
+  - Create an agent using knowledge sources
+  - Share an agent with teammates
+  - Explore next steps with Copilot Studio
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use agents for specialized AI tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980)
@@ -155,7 +165,7 @@ created: 2026-04-29
 
 ### 1. Use Agents in Microsoft 365 Copilot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand how Copilot agents work
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980)
@@ -397,7 +407,7 @@ created: 2026-04-29
 
 ### 2. Create Your Own Agents
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a basic Copilot agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980)

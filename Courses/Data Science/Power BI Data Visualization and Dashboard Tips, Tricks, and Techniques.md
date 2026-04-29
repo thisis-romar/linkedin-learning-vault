@@ -45,16 +45,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Get Started in Power BI]]** (8 videos)
-- **[[#2. Editing and Creating Types of Visuals in Power BI]]** (11 videos)
-- **[[#3. Organizing and Interacting with Visuals]]** (8 videos)
-- **[[#4. Report Design and Creation]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Design reports that deliver insights with Power BI
+  - How to use the exercise files and course assets
+- [**1. Get Started in Power BI**](#1-get-started-in-power-bi) (8 videos)
+  - Differentiate Power BI Desktop and Service
+  - Understanding Power BI licensing and using trial accounts
+  - Discover Power BI Service within Microsoft Fabric
+  - Navigate a Power BI report in Desktop
+  - Navigate the four views in Desktop
+  - Navigate the format and analysis panes
+  - Challenge: Create your own report using sample data
+  - Solution: Create your own report using sample data
+- [**2. Editing and Creating Types of Visuals in Power BI**](#2-editing-and-creating-types-of-visuals-in-power-bi) (11 videos)
+  - Understanding the publishing workflow
+  - Mastering bar charts in Power BI
+  - Drilling down line charts with date hierarchies
+  - Display single numbers with KPIs, new card visuals, and gauges
+  - Showcase proportion data with pies and treemaps
+  - Visualize distribution data with histograms and scatterplots
+  - Use maps and choropleths with confidence
+  - Compare table and matrix visuals
+  - Use custom visuals to solve unmet requirements
+  - Challenge: Create a report showing trends in profitability
+  - Solution: Create a report showing trends in profitability
+- [**3. Organizing and Interacting with Visuals**](#3-organizing-and-interacting-with-visuals) (8 videos)
+  - Manipulating visuals within a report
+  - Using new and old slicers to filter your visuals
+  - Prevent frustration with layer order using Selection pane
+  - Learn how visuals filter each other by default and by design
+  - Understand dashboard design principles
+  - Organizing your visuals with bookmarks
+  - Challenge: Improve your report using three new tools
+  - Solution: Improve your report using three new tools
+- [**4. Report Design and Creation**](#4-report-design-and-creation) (6 videos)
+  - Understand when to make a new tab
+  - How to lay out your report page for maximum effect
+  - Use color well for your audience
+  - Mastering responsive design for mobile
+  - Challenge: Design a two tab report
+  - Solution: Design a two tab report
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next for Power BI success
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design reports that deliver insights with Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/design-reports-that-deliver-insights-with-power-bi?u=76281980)
@@ -135,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Get Started in Power BI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Differentiate Power BI Desktop and Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/differentiate-power-bi-desktop-and-service?u=76281980)
@@ -823,7 +859,7 @@ created: 2026-04-29
 
 ### 2. Editing and Creating Types of Visuals in Power BI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the publishing workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understanding-the-publishing-workflow?u=76281980)
@@ -2310,7 +2346,7 @@ created: 2026-04-29
 
 ### 3. Organizing and Interacting with Visuals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manipulating visuals within a report
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/manipulating-visuals-within-a-report?u=76281980)
@@ -3208,7 +3244,7 @@ created: 2026-04-29
 
 ### 4. Report Design and Creation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand when to make a new tab
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/understand-when-to-make-a-new-tab?u=76281980)
@@ -3767,7 +3803,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next for Power BI success
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-visualization-and-dashboard-tips-tricks-and-techniques/what-s-next-for-power-bi-success?u=76281980)

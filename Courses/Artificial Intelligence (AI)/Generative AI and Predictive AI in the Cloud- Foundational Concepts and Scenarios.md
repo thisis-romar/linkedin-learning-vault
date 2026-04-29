@@ -57,17 +57,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. AI Basics]]** (3 videos)
-- **[[#2. Cloud AI Basics]]** (4 videos)
-- **[[#3. Using Predictive AI to Improve Decision-Making]]** (5 videos)
-- **[[#4. Using Predictive AI to Automate More Intelligently]]** (5 videos)
-- **[[#5. Using Generative AI to Create New Business Value]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - AI and the cloud
+- [**1. AI Basics**](#1-ai-basics) (3 videos)
+  - Introduction to AI
+  - AI and big data
+  - AI models and training
+- [**2. Cloud AI Basics**](#2-cloud-ai-basics) (4 videos)
+  - AI, clouds, and quantum computers
+  - AI and cloud automation
+  - Common cloud AI benefits
+  - Common cloud AI challenges
+- [**3. Using Predictive AI to Improve Decision-Making**](#3-using-predictive-ai-to-improve-decision-making) (5 videos)
+  - How humans make decisions
+  - How predictive AI helps humans make decisions
+  - How predictive AI can make decisions on its own
+  - Common cloud AI benefits
+  - Common cloud AI challenges
+- [**4. Using Predictive AI to Automate More Intelligently**](#4-using-predictive-ai-to-automate-more-intelligently) (5 videos)
+  - Automation without AI
+  - How predictive AI can enhance automation: RPA bots
+  - How predictive AI can enhance automation: Chatbots
+  - Common cloud AI benefits
+  - Common cloud AI challenges
+- [**5. Using Generative AI to Create New Business Value**](#5-using-generative-ai-to-create-new-business-value) (5 videos)
+  - Creating new content and ideas without AI
+  - How generative AI can create new business content
+  - How generative AI can create new business ideas
+  - Common cloud AI benefits
+  - Common cloud AI challenges
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980)
@@ -91,7 +115,7 @@ created: 2026-04-29
 
 ### 1. AI Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980)
@@ -218,7 +242,7 @@ created: 2026-04-29
 
 ### 2. Cloud AI Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI, clouds, and quantum computers
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980)
@@ -427,7 +451,7 @@ created: 2026-04-29
 
 ### 3. Using Predictive AI to Improve Decision-Making
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How humans make decisions
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980)
@@ -615,7 +639,7 @@ created: 2026-04-29
 
 ### 4. Using Predictive AI to Automate More Intelligently
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automation without AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980)
@@ -822,7 +846,7 @@ created: 2026-04-29
 
 ### 5. Using Generative AI to Create New Business Value
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating new content and ideas without AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980)
@@ -1067,7 +1091,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980)

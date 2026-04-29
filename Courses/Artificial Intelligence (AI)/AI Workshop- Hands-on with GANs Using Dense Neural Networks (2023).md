@@ -53,15 +53,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introducing Generative Adversarial Networks]]** (5 videos)
-- **[[#2. Stand-Alone Training of Adversaries]]** (6 videos)
-- **[[#3. Training Generative Adversarial Networks]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Understanding generative modeling
+- [**1. Introducing Generative Adversarial Networks**](#1-introducing-generative-adversarial-networks) (5 videos)
+  - Course outline and prerequisites
+  - Set up the virtual environment and run the notebook server
+  - Introducing generative adversarial networks (GANs)
+  - Instantiating the dataset and data loader
+  - Viewing training data
+- [**2. Stand-Alone Training of Adversaries**](#2-stand-alone-training-of-adversaries) (6 videos)
+  - Big picture overview of a GAN
+  - Training the adversaries
+  - The generator architecture and discriminator architecture
+  - Understanding the generator and discriminator outputs
+  - Stand-alone training of discriminator as classification model
+  - Stand-alone training of generator
+- [**3. Training Generative Adversarial Networks**](#3-training-generative-adversarial-networks) (5 videos)
+  - Computing losses for generator and discriminator
+  - Understanding the minimax loss function
+  - Setting up GAN training
+  - Visualizing GAN training results
+  - Problems with GANs and potential mitigations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding generative modeling
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/understanding-generative-modeling?u=76281980)
@@ -167,7 +185,7 @@ created: 2026-04-29
 
 ### 1. Introducing Generative Adversarial Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course outline and prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/course-outline-and-prerequisites?u=76281980)
@@ -608,7 +626,7 @@ created: 2026-04-29
 
 ### 2. Stand-Alone Training of Adversaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Big picture overview of a GAN
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/big-picture-overview-of-a-gan?u=76281980)
@@ -1261,7 +1279,7 @@ created: 2026-04-29
 
 ### 3. Training Generative Adversarial Networks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Computing losses for generator and discriminator
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/computing-losses-for-generator-and-discriminator?u=76281980)
@@ -1805,7 +1823,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-hands-on-with-gans-using-dense-neural-networks-2023/summary-and-next-steps?u=76281980)

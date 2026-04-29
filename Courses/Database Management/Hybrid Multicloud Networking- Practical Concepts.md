@@ -48,15 +48,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Business and Hybrid Multicloud Networking]]** (4 videos)
-- **[[#2. Hybrid Multicloud Network Options]]** (5 videos)
-- **[[#3. Planning a Hybrid Multicloud Network]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Bringing hybrid multicloud networking to the real world
+- [**1. The Business and Hybrid Multicloud Networking**](#1-the-business-and-hybrid-multicloud-networking) (4 videos)
+  - Exploring cloud migration strategies
+  - Starting small and failing fast
+  - Cloud networking is a team sport
+  - Building for the future
+- [**2. Hybrid Multicloud Network Options**](#2-hybrid-multicloud-network-options) (5 videos)
+  - Overview of hybrid multicloud networking options
+  - Virtual private networks
+  - Private connections
+  - Software-defined cloud interconnect (SDCI)
+  - Multicloud networking software
+- [**3. Planning a Hybrid Multicloud Network**](#3-planning-a-hybrid-multicloud-network) (5 videos)
+  - The shifting acquisition landscape
+  - High availability in the cloud
+  - Disaster recovery in the cloud
+  - Capacity planning
+  - Network segmentation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Moving forward with your hybrid multicloud networking
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bringing hybrid multicloud networking to the real world
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/bringing-hybrid-multicloud-networking-to-the-real-world?u=76281980)
@@ -92,7 +108,7 @@ created: 2026-04-29
 
 ### 1. The Business and Hybrid Multicloud Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring cloud migration strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/exploring-cloud-migration-strategies?u=76281980)
@@ -480,7 +496,7 @@ created: 2026-04-29
 
 ### 2. Hybrid Multicloud Network Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of hybrid multicloud networking options
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/overview-of-hybrid-multicloud-networking-options?u=76281980)
@@ -925,7 +941,7 @@ created: 2026-04-29
 
 ### 3. Planning a Hybrid Multicloud Network
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The shifting acquisition landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/the-shifting-acquisition-landscape?u=76281980)
@@ -1477,7 +1493,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving forward with your hybrid multicloud networking
 > [LinkedIn Learning](https://www.linkedin.com/learning/hybrid-multicloud-networking-practical-concepts/moving-forward-with-your-hybrid-multicloud-networking?u=76281980)

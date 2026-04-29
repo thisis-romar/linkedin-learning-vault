@@ -51,17 +51,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (5 videos)
-- **[[#2. Python Basics]]** (9 videos)
-- **[[#3. Working with Files]]** (4 videos)
-- **[[#4. Using Dates and Times]]** (5 videos)
-- **[[#5. Internet Data Formats]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learning Python
+  - What you should know
+  - Exercise files
+- [**1. Getting Started**](#1-getting-started) (5 videos)
+  - Installing Python on Windows
+  - Installing Python on Mac
+  - Choosing an editor or IDE
+  - How to run the Python examples
+  - CoderPad Challenges
+- [**2. Python Basics**](#2-python-basics) (9 videos)
+  - Building Hello World
+  - Variables and expressions
+  - Python functions
+  - Conditional structures
+  - Loops
+  - Classes
+  - Importing and using modules
+  - Using exceptions
+  - Solution: Palindromes
+- [**3. Working with Files**](#3-working-with-files) (4 videos)
+  - Reading and writing files
+  - Working with OS path utilities
+  - Using filesystem shell methods
+  - Solution: Files
+- [**4. Using Dates and Times**](#4-using-dates-and-times) (5 videos)
+  - The date, time, and datetime classes
+  - Formatting time output
+  - Using timedelta objects
+  - Working with calendars
+  - Solution: Dates and times
+- [**5. Internet Data Formats**](#5-internet-data-formats) (4 videos)
+  - Fetching Internet data
+  - Working with JSON data
+  - Parsing and processing HTML
+  - Manipulating XML
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/learning-python-22821893?u=76281980)
@@ -171,7 +202,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Python on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/installing-python-on-windows?u=76281980)
@@ -503,7 +534,7 @@ created: 2026-04-29
 
 ### 2. Python Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building Hello World
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/building-hello-world?u=76281980)
@@ -2119,7 +2150,7 @@ created: 2026-04-29
 
 ### 3. Working with Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading and writing files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/reading-and-writing-files?u=76281980)
@@ -2691,7 +2722,7 @@ created: 2026-04-29
 
 ### 4. Using Dates and Times
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The date, time, and datetime classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/the-date-time-and-datetime-classes?u=76281980)
@@ -3451,7 +3482,7 @@ created: 2026-04-29
 
 ### 5. Internet Data Formats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fetching Internet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/fetching-internet-data?u=76281980)
@@ -4118,7 +4149,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-2021/where-to-go-next?u=76281980)

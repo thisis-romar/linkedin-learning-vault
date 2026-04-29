@@ -42,17 +42,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Competency: A Trust Driver]]** (1 videos)
-- **[[#2. Empathy: A Trust Driver]]** (4 videos)
-- **[[#3. Authenticity: A Trust Driver]]** (3 videos)
-- **[[#4. Team Trust]]** (3 videos)
-- **[[#5. Lost Trust]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why trust matters more than ever
+  - Trust drivers: Competency, empathy, and authenticity
+- [**1. Competency: A Trust Driver**](#1-competency-a-trust-driver) (1 videos)
+  - Be results focused
+- [**2. Empathy: A Trust Driver**](#2-empathy-a-trust-driver) (4 videos)
+  - Convey your warmth and concern
+  - Listen and empathize
+  - Be intentional about touching base
+  - Assume positive intent
+- [**3. Authenticity: A Trust Driver**](#3-authenticity-a-trust-driver) (3 videos)
+  - Make sure your actions match your words
+  - Self disclose to build trust
+  - Avoid bias while detecting trustworthiness
+- [**4. Team Trust**](#4-team-trust) (3 videos)
+  - Build team trust by extending trust
+  - Prepare for inclusive hybrid team meetings
+  - Structure hybrid meetings to build trust
+- [**5. Lost Trust**](#5-lost-trust) (2 videos)
+  - How to manage a betrayal
+  - Apologize and make it right
+- [**Conclusion**](#conclusion) (1 videos)
+  - Evolve with the shifting workplace
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why trust matters more than ever
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/why-trust-matters-more-than-ever?u=76281980)
@@ -170,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Competency: A Trust Driver
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be results focused
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980)
@@ -302,7 +318,7 @@ created: 2026-04-29
 
 ### 2. Empathy: A Trust Driver
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Convey your warmth and concern
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/convey-your-warmth-and-concern?u=76281980)
@@ -651,7 +667,7 @@ created: 2026-04-29
 
 ### 3. Authenticity: A Trust Driver
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make sure your actions match your words
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980)
@@ -910,7 +926,7 @@ created: 2026-04-29
 
 ### 4. Team Trust
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build team trust by extending trust
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/build-team-trust-by-extending-trust?u=76281980)
@@ -1154,7 +1170,7 @@ created: 2026-04-29
 
 ### 5. Lost Trust
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to manage a betrayal
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/how-to-manage-a-betrayal?u=76281980)
@@ -1347,7 +1363,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evolve with the shifting workplace
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/evolve-with-the-shifting-workplace?u=76281980)

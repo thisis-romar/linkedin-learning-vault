@@ -52,16 +52,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Cloud Storage Basics]]** (8 videos)
-- **[[#2. Cloud Services That Leverage Cloud Storage]]** (7 videos)
-- **[[#3. Cloud Storage Planning]]** (7 videos)
-- **[[#4. AWS Cloud Storage]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understanding cloud storage
+  - What you should know
+- [**1. Cloud Storage Basics**](#1-cloud-storage-basics) (8 videos)
+  - Cloud storage types
+  - Block storage
+  - Object storage
+  - File storage
+  - Planning your storage
+  - Creating the business case for cloud storage
+  - Challenge: Which type of storage should you leverage?
+  - Solution: How to think about storage types
+- [**2. Cloud Services That Leverage Cloud Storage**](#2-cloud-services-that-leverage-cloud-storage) (7 videos)
+  - Cloud databases
+  - Cloud file storage
+  - Backup and recovery services
+  - Other cloud services that leverage cloud storage
+  - Sample applications
+  - Challenge: Selecting a backup and recovery storage solution
+  - Solution: Selecting a backup and recovery storage solution
+- [**3. Cloud Storage Planning**](#3-cloud-storage-planning) (7 videos)
+  - Understanding your storage requirements
+  - Defining costs and storage billing models
+  - Defining projected storage growth
+  - Implementation planning
+  - Storage operations
+  - Challenge: Setting up storage operations
+  - Solution: Setting up storage operations
+- [**4. AWS Cloud Storage**](#4-aws-cloud-storage) (5 videos)
+  - Allocating storage instances
+  - Placing data on cloud storage instances
+  - Securing cloud storage instances
+  - Removing storage instances
+  - Usage-based accounting
+- [**Conclusion**](#conclusion) (1 videos)
+  - More about cloud storage
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-cloud-storage?u=76281980)
@@ -117,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Cloud Storage Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud storage types
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-storage-types?u=76281980)
@@ -480,7 +510,7 @@ created: 2026-04-29
 
 ### 2. Cloud Services That Leverage Cloud Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/cloud-databases?u=76281980)
@@ -783,7 +813,7 @@ created: 2026-04-29
 
 ### 3. Cloud Storage Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your storage requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/understanding-your-storage-requirements?u=76281980)
@@ -1159,7 +1189,7 @@ created: 2026-04-29
 
 ### 4. AWS Cloud Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Allocating storage instances
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/allocating-storage-instances?u=76281980)
@@ -1356,7 +1386,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More about cloud storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-storage-concepts-services-cost-control-and-security/more-about-cloud-storage?u=76281980)

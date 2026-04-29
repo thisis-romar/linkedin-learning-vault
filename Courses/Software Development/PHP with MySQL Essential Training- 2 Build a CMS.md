@@ -49,18 +49,64 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Create a Content Management System]]** (3 videos)
-- **[[#2. Build Dynamic Content Navigation]]** (7 videos)
-- **[[#3. Use Context and Options]]** (8 videos)
-- **[[#4. Cookies and Sessions]]** (7 videos)
-- **[[#5. Regulate Page Access]]** (10 videos)
-- **[[#6. Nesting Related Resources]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - PHP with MySQL Essential Training: Build a CMS
+  - How to use the exercise files
+- [**1. Create a Content Management System**](#1-create-a-content-management-system) (3 videos)
+  - Blueprint the application
+  - Set up the database
+  - Set up the project files
+- [**2. Build Dynamic Content Navigation**](#2-build-dynamic-content-navigation) (7 videos)
+  - List subjects
+  - Add pages for each subject
+  - Add page content
+  - Use navigation to select pages
+  - Highlight the current page
+  - Challenge: Collapsing navigation
+  - Solution: Collapsing navigation
+- [**3. Use Context and Options**](#3-use-context-and-options) (8 videos)
+  - The public context
+  - Skip hidden subjects and pages
+  - Use an option for conditional code
+  - Insecure Direct Object Reference (IDOR)
+  - Protect page visibility
+  - Allow HTML in dynamic content
+  - Challenge: Preview content
+  - Solution: Preview content
+- [**4. Cookies and Sessions**](#4-cookies-and-sessions) (7 videos)
+  - Work with cookies
+  - Set and read cookie values
+  - Unset cookie values
+  - Work with sessions
+  - Set and read session values
+  - Challenge: Status messages
+  - Solution: Status messages
+- [**5. Regulate Page Access**](#5-regulate-page-access) (10 videos)
+  - User authentication overview
+  - Create admins table
+  - Challenge: Build admin management
+  - Solution: Build admin management
+  - PHP password functions
+  - Authenticate user access
+  - Require authorization
+  - Log out a user
+  - Optional password updating
+  - Authorized previewing
+- [**6. Nesting Related Resources**](#6-nesting-related-resources) (8 videos)
+  - Understand nested resources
+  - List pages by subject
+  - Use nested links
+  - Use nested redirects
+  - Add page count to each subject
+  - Scope page position by subject
+  - Challenge: Update positions
+  - Solution: Update positions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PHP with MySQL Essential Training: Build a CMS
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980)
@@ -155,7 +201,7 @@ created: 2026-04-29
 
 ### 1. Create a Content Management System
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blueprint the application
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980)
@@ -608,7 +654,7 @@ created: 2026-04-29
 
 ### 2. Build Dynamic Content Navigation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### List subjects
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980)
@@ -1547,7 +1593,7 @@ created: 2026-04-29
 
 ### 3. Use Context and Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The public context
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980)
@@ -2646,7 +2692,7 @@ created: 2026-04-29
 
 ### 4. Cookies and Sessions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with cookies
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980)
@@ -3588,7 +3634,7 @@ created: 2026-04-29
 
 ### 5. Regulate Page Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### User authentication overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/user-authentication-overview-14245854?u=76281980)
@@ -5207,7 +5253,7 @@ created: 2026-04-29
 
 ### 6. Nesting Related Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand nested resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/understand-nested-resources-14244850?u=76281980)
@@ -6628,7 +6674,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980)

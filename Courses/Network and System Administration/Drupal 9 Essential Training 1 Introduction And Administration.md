@@ -43,13 +43,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Content Explained]]** (8 videos)
-- **[[#2. Administration Explained]]** (9 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to the course
+- [**1. Content Explained**](#1-content-explained) (8 videos)
+  - What is Drupal?
+  - Why choose Drupal?
+  - What you need for this course
+  - Terminology explained
+  - Installations explained: Acquia Dev Desktop
+  - Installations explained: Setting up your environment
+  - Installations explained: Manual installation on a web host
+  - Planning explained
+- [**2. Administration Explained**](#2-administration-explained) (9 videos)
+  - Introduction and toolbar tour
+  - Content menu
+  - Structure menu
+  - Appearance menu
+  - Extend menu
+  - Configuration menu
+  - People menu
+  - Reports menu
+  - Help menu
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-to-the-course?u=76281980)
@@ -106,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Content Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Drupal?
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/what-is-drupal?u=76281980)
@@ -1030,7 +1048,7 @@ created: 2026-04-29
 
 ### 2. Administration Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and toolbar tour
 > [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-1-introduction-and-administration/introduction-and-toolbar-tour?u=76281980)

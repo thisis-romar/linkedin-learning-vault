@@ -60,16 +60,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (6 videos)
-- **[[#1. Planning Projects and Releases]]** (3 videos)
-- **[[#2. Developing Software]]** (5 videos)
-- **[[#3. Testing Software]]** (3 videos)
-- **[[#4. Releasing Software]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (6 videos)
+  - Planning and releasing software with Jira
+  - Who is this course for?
+  - What do you need for this course?
+  - Adapting the software development process
+  - Using software development tools
+  - Course use case
+- [**1. Planning Projects and Releases**](#1-planning-projects-and-releases) (3 videos)
+  - Crafting requirements in Confluence
+  - Connecting Confluence spaces to Jira projects
+  - Planning and forecasting in Jira
+- [**2. Developing Software**](#2-developing-software) (5 videos)
+  - Tracking development work in Jira
+  - Using Jira Software features
+  - Configuring boards
+  - Connecting Jira to Bitbucket
+  - Using common Bitbucket features
+- [**3. Testing Software**](#3-testing-software) (3 videos)
+  - Managing test cases in Jira
+  - Executing manual and automated tests
+  - Fixing bugs in Jira
+- [**4. Releasing Software**](#4-releasing-software) (3 videos)
+  - Releasing versions in Jira
+  - Releasing code in Bitbucket
+  - Conducting retrospectives in Confluence
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional resources for Jira learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning and releasing software with Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/planning-and-releasing-software-with-jira?u=76281980)
@@ -417,7 +438,7 @@ created: 2026-04-29
 
 ### 1. Planning Projects and Releases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Crafting requirements in Confluence
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/crafting-requirements-in-confluence?u=76281980)
@@ -930,7 +951,7 @@ created: 2026-04-29
 
 ### 2. Developing Software
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tracking development work in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/tracking-development-work-in-jira?u=76281980)
@@ -1496,7 +1517,7 @@ created: 2026-04-29
 
 ### 3. Testing Software
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing test cases in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/managing-test-cases-in-jira?u=76281980)
@@ -1685,7 +1706,7 @@ created: 2026-04-29
 
 ### 4. Releasing Software
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Releasing versions in Jira
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/releasing-versions-in-jira?u=76281980)
@@ -1978,7 +1999,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823/additional-resources-for-jira-learning?u=76281980)

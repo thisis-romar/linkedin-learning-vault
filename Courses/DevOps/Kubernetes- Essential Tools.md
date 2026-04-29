@@ -46,17 +46,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Kubernetes Command-Line Tools]]** (3 videos)
-- **[[#2. Tools for Running Kubernetes]]** (4 videos)
-- **[[#3. Kubernetes Development Tools]]** (3 videos)
-- **[[#4. Kubernetes Deployment Tools]]** (2 videos)
-- **[[#5. Kubernetes Monitoring Tools]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Unlocking Kubernetes: Your essential tools guide
+  - Prerequisites
+  - An overview of essential Kubernetes tools
+- [**1. Kubernetes Command-Line Tools**](#1-kubernetes-command-line-tools) (3 videos)
+  - kubectl
+  - kubie
+  - K9s
+- [**2. Tools for Running Kubernetes**](#2-tools-for-running-kubernetes) (4 videos)
+  - minikube
+  - kubeadm
+  - kOps
+  - Managed Kubernetes platforms
+- [**3. Kubernetes Development Tools**](#3-kubernetes-development-tools) (3 videos)
+  - Telepresence
+  - Tilt
+  - Lens IDE
+- [**4. Kubernetes Deployment Tools**](#4-kubernetes-deployment-tools) (2 videos)
+  - Helm
+  - Kubespray
+- [**5. Kubernetes Monitoring Tools**](#5-kubernetes-monitoring-tools) (3 videos)
+  - Kubernetes Dashboard
+  - Prometheus
+  - Jaeger
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unlocking Kubernetes: Your essential tools guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/unlocking-kubernetes-your-essential-tools-guide?u=76281980)
@@ -135,7 +154,7 @@ created: 2026-04-29
 
 ### 1. Kubernetes Command-Line Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### kubectl
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980)
@@ -336,7 +355,7 @@ created: 2026-04-29
 
 ### 2. Tools for Running Kubernetes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### minikube
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980)
@@ -527,7 +546,7 @@ created: 2026-04-29
 
 ### 3. Kubernetes Development Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Telepresence
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980)
@@ -736,7 +755,7 @@ created: 2026-04-29
 
 ### 4. Kubernetes Deployment Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Helm
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980)
@@ -867,7 +886,7 @@ created: 2026-04-29
 
 ### 5. Kubernetes Monitoring Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kubernetes Dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980)
@@ -1085,7 +1104,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980)

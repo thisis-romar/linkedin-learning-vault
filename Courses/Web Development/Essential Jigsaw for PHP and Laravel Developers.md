@@ -51,15 +51,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Started with Jigsaw]]** (5 videos)
-- **[[#2. Jigsaw Internals]]** (7 videos)
-- **[[#3. Deploying Jigsaw on Netlify]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to Jigsaw
+- [**1. Getting Started with Jigsaw**](#1-getting-started-with-jigsaw) (5 videos)
+  - What is Jigsaw?
+  - What is a static site generator (SSG)?
+  - Installing Jigsaw
+  - Challenge: Creating a new Jigsaw website
+  - Solution: Creating a new Jigsaw website
+- [**2. Jigsaw Internals**](#2-jigsaw-internals) (7 videos)
+  - File structure
+  - Source directory
+  - Adding content to a Jigsaw website
+  - Collections in Jigsaw
+  - Event listeners in Jigsaw
+  - Challenge: Adding content and customizing Jigsaw
+  - Solution: Adding content and customizing Jigsaw
+- [**3. Deploying Jigsaw on Netlify**](#3-deploying-jigsaw-on-netlify) (5 videos)
+  - Netlify introduction
+  - Uploading Jigsaw website to GitHub
+  - Deploying Jigsaw website to Netlify
+  - Challenge: Deploying a Jigsaw project to Netlify
+  - Solution: Deploying a Jigsaw project to Netlify
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go from here
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Jigsaw
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/introduction-to-jigsaw?u=76281980)
@@ -101,7 +120,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Jigsaw
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Jigsaw?
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/what-is-jigsaw?u=76281980)
@@ -426,7 +445,7 @@ created: 2026-04-29
 
 ### 2. Jigsaw Internals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### File structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/file-structure?u=76281980)
@@ -1107,7 +1126,7 @@ created: 2026-04-29
 
 ### 3. Deploying Jigsaw on Netlify
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Netlify introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/netlify-introduction?u=76281980)
@@ -1464,7 +1483,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-jigsaw-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)

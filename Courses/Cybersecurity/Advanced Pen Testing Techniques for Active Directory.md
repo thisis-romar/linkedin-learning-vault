@@ -48,15 +48,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Introduction to Identities]]** (9 videos)
-- **[[#2. Testing Active Directory]]** (7 videos)
-- **[[#3. Advanced Penetration Testing]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Understand and test the security of identity providers
+  - What you should know
+  - Disclaimer
+- [**1. Introduction to Identities**](#1-introduction-to-identities) (9 videos)
+  - Understand Active Directory's role in security
+  - The LDAP protocol
+  - Interact with LDAP at the command line
+  - The LDAPAdmin tool
+  - What is Active Directory?
+  - Interact with Active Directory at the command line
+  - Access LDAP services with a GUI client
+  - Add users and computers to a domain
+  - Active Directory security audit
+- [**2. Testing Active Directory**](#2-testing-active-directory) (7 videos)
+  - Set up for testing
+  - Extract the AD hashes
+  - Password spraying Active Directory
+  - Kerberos brute-forcing attacks
+  - Use CrackMapExec to access and enumerate AD
+  - Investigate the SYSVOL share
+  - Take advantage of legacy data
+- [**3. Advanced Penetration Testing**](#3-advanced-penetration-testing) (10 videos)
+  - Specific Active Directory attacks
+  - Remote extraction of AD hashes
+  - Carry out a Kerberos roasting
+  - Run a no-preauthentication attack
+  - Forge a golden ticket
+  - Running a shadow attack
+  - Using rubeus to take over the domain
+  - Relaying attacks to get a certificate
+  - Using smartcards to gain privileged access
+  - Set the BloodHound loose
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand and test the security of identity providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-and-test-the-security-of-identity-providers?u=76281980)
@@ -130,7 +160,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Identities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Active Directory's role in security
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/understand-active-directory-s-role-in-security?u=76281980)
@@ -775,7 +805,7 @@ created: 2026-04-29
 
 ### 2. Testing Active Directory
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set up for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/set-up-for-testing?u=76281980)
@@ -1226,7 +1256,7 @@ created: 2026-04-29
 
 ### 3. Advanced Penetration Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Specific Active Directory attacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/specific-active-directory-attacks?u=76281980)
@@ -1985,7 +2015,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-pen-testing-techniques-for-active-directory/next-steps?u=76281980)

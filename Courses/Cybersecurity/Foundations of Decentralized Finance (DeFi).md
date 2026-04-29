@@ -47,15 +47,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What is Decentralized Finance?]]** (6 videos)
-- **[[#2. Yields Available in DeFi]]** (5 videos)
-- **[[#3. Essential Tools of DeFi]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The rapid growth of DeFi
+- [**1. What is Decentralized Finance?**](#1-what-is-decentralized-finance) (6 videos)
+  - What is DeFi?
+  - Money legos
+  - Stablecoins
+  - DEXs
+  - Automated market makers
+  - Decentralized lending platforms
+- [**2. Yields Available in DeFi**](#2-yields-available-in-defi) (5 videos)
+  - Higher-risk adjusted returns
+  - Where do yields come from?
+  - Risk within DeFi yield farming
+  - Yield farming types
+  - Yield farming portfolio
+- [**3. Essential Tools of DeFi**](#3-essential-tools-of-defi) (6 videos)
+  - How to enter the world of DeFi
+  - Set up your DeFi wallet
+  - Join your DeFi community
+  - How to use a DEX
+  - How to add liquidity to an LP
+  - How to loan and borrow in DeFi
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learn more about DeFi
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The rapid growth of DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/the-rapid-growth-of-defi?u=76281980)
@@ -104,7 +123,7 @@ created: 2026-04-29
 
 ### 1. What is Decentralized Finance?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DeFi?
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/what-is-defi?u=76281980)
@@ -439,7 +458,7 @@ created: 2026-04-29
 
 ### 2. Yields Available in DeFi
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Higher-risk adjusted returns
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/higher-risk-adjusted-returns?u=76281980)
@@ -819,7 +838,7 @@ created: 2026-04-29
 
 ### 3. Essential Tools of DeFi
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to enter the world of DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/how-to-enter-the-world-of-defi?u=76281980)
@@ -1492,7 +1511,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more about DeFi
 > [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-decentralized-finance-defi/learn-more-about-defi?u=76281980)

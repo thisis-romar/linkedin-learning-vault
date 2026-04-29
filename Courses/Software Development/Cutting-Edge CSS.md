@@ -49,15 +49,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Core Principles]]** (3 videos)
-- **[[#2. Selectors]]** (3 videos)
-- **[[#3. Layout]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Cutting-edge CSS
+  - Exercise files
+- [**1. Core Principles**](#1-core-principles) (3 videos)
+  - What are logical properties?
+  - Position explained
+  - Why margins collapse
+- [**2. Selectors**](#2-selectors) (3 videos)
+  - Counting with CSS
+  - Container queries
+  - The difference between :is and :where
+- [**3. Layout**](#3-layout) (4 videos)
+  - How the clamp() function works
+  - Beyond viewport width
+  - Flex vs. grid: Content out or layout in?
+  - Making sense of grid-auto-flow
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cutting-edge CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/cutting-edge-css?u=76281980)
@@ -118,7 +131,7 @@ created: 2026-04-29
 
 ### 1. Core Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are logical properties?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/what-are-logical-properties-14445691?u=76281980)
@@ -297,7 +310,7 @@ created: 2026-04-29
 
 ### 2. Selectors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Counting with CSS
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/counting-with-css?u=76281980)
@@ -525,7 +538,7 @@ created: 2026-04-29
 
 ### 3. Layout
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How the clamp() function works
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/how-the-clamp-function-works?u=76281980)
@@ -707,7 +720,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/next-steps?u=76281980)

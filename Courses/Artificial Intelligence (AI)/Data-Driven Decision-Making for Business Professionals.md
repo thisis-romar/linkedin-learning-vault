@@ -45,18 +45,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. You Need Data Now]]** (3 videos)
-- **[[#2. Defining the Problem]]** (3 videos)
-- **[[#3. Identifying Current Data]]** (4 videos)
-- **[[#4. Using Data to Draw Conclusions]]** (3 videos)
-- **[[#5. Visualization of Data]]** (3 videos)
-- **[[#6. Presenting Recommendations]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Getting value from data to draw business conclusions
+- [**1. You Need Data Now**](#1-you-need-data-now) (3 videos)
+  - Why data, why now?
+  - Data drives decision-making
+  - Data context and digital transformation
+- [**2. Defining the Problem**](#2-defining-the-problem) (3 videos)
+  - Identifying the business problem or opportunity
+  - How to break down the business problem into data requirements
+  - Driving to prescriptive questions
+- [**3. Identifying Current Data**](#3-identifying-current-data) (4 videos)
+  - Identifying data you have
+  - Identifying data you need
+  - How to identify and use alternative data sources
+  - How to ask for help with data analysis work
+- [**4. Using Data to Draw Conclusions**](#4-using-data-to-draw-conclusions) (3 videos)
+  - Identifying conclusions, not causation
+  - Important aspects of data conclusions
+  - Translating data conclusions for business decisions
+- [**5. Visualization of Data**](#5-visualization-of-data) (3 videos)
+  - The importance of using visuals to share data
+  - How to present data conclusions in visual formats
+  - Presenting data through the use of storytelling
+- [**6. Presenting Recommendations**](#6-presenting-recommendations) (3 videos)
+  - How to present data in response to business requests
+  - How to identify data gaps
+  - Leveraging data to drive business decisions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Data conclusions
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting value from data to draw business conclusions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/getting-value-from-data-to-draw-business-conclusions?u=76281980)
@@ -101,7 +122,7 @@ created: 2026-04-29
 
 ### 1. You Need Data Now
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why data, why now?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/why-data-why-now?u=76281980)
@@ -292,7 +313,7 @@ created: 2026-04-29
 
 ### 2. Defining the Problem
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying the business problem or opportunity
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-the-business-problem-or-opportunity?u=76281980)
@@ -551,7 +572,7 @@ created: 2026-04-29
 
 ### 3. Identifying Current Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying data you have
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-data-you-have?u=76281980)
@@ -887,7 +908,7 @@ created: 2026-04-29
 
 ### 4. Using Data to Draw Conclusions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying conclusions, not causation
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/identifying-conclusions-not-causation?u=76281980)
@@ -1154,7 +1175,7 @@ created: 2026-04-29
 
 ### 5. Visualization of Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of using visuals to share data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/the-importance-of-using-visuals-to-share-data?u=76281980)
@@ -1436,7 +1457,7 @@ created: 2026-04-29
 
 ### 6. Presenting Recommendations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to present data in response to business requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/how-to-present-data-in-response-to-business-requests?u=76281980)
@@ -1654,7 +1675,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data conclusions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-driven-decision-making-for-business-professionals/data-conclusions?u=76281980)

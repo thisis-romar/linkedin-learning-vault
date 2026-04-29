@@ -51,17 +51,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Threat Modeling Overview]]** (4 videos)
-- **[[#2. What Are You Working on with ML?]]** (5 videos)
-- **[[#3. What Can Go Wrong with ML Security]]** (5 videos)
-- **[[#4. What Can Go Wrong with AI: Trustworthiness]]** (4 videos)
-- **[[#5. What Are You Going to Do about It?]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Threat modeling introduction
+  - What you should know
+- [**1. Threat Modeling Overview**](#1-threat-modeling-overview) (4 videos)
+  - Threat modeling is important when building AI systems
+  - The four-question framework structures your work
+  - Anyone can threat model and you should, now
+  - Trustworthy AI: Threat modeling is better than principles
+- [**2. What Are You Working on with ML?**](#2-what-are-you-working-on-with-ml) (5 videos)
+  - ML for business, offense, defense, and software
+  - Draw your architecture
+  - Deployment architectures influence your threats
+  - Training data is a crucial variable
+  - The stochastic parrot
+- [**3. What Can Go Wrong with ML Security**](#3-what-can-go-wrong-with-ml-security) (5 videos)
+  - The OWASP Top Ten as a checklist
+  - The Berryville Institute Exhaustive List
+  - Microsoft's frameworks for security flaws
+  - Prompt injection
+  - Embarrassing and hostile results
+- [**4. What Can Go Wrong with AI: Trustworthiness**](#4-what-can-go-wrong-with-ai-trustworthiness) (4 videos)
+  - NIST Framework
+  - EU's AI Act
+  - Current harms
+  - Scenarios
+- [**5. What Are You Going to Do about It?**](#5-what-are-you-going-to-do-about-it) (3 videos)
+  - Specific frameworks
+  - Mitigations advance faster than threats
+  - Deploying new technology isn't a one-and-done
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Threat modeling introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-introduction?u=76281980)
@@ -123,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Threat Modeling Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Threat modeling is important when building AI systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/threat-modeling-is-important-when-building-ai-systems?u=76281980)
@@ -311,7 +335,7 @@ created: 2026-04-29
 
 ### 2. What Are You Working on with ML?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### ML for business, offense, defense, and software
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/ml-for-business-offense-defense-and-software?u=76281980)
@@ -567,7 +591,7 @@ created: 2026-04-29
 
 ### 3. What Can Go Wrong with ML Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The OWASP Top Ten as a checklist
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/the-owasp-top-ten-as-a-checklist?u=76281980)
@@ -925,7 +949,7 @@ created: 2026-04-29
 
 ### 4. What Can Go Wrong with AI: Trustworthiness
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### NIST Framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/nist-framework?u=76281980)
@@ -1107,7 +1131,7 @@ created: 2026-04-29
 
 ### 5. What Are You Going to Do about It?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Specific frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/specific-frameworks?u=76281980)
@@ -1247,7 +1271,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/next-steps?u=76281980)

@@ -49,17 +49,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Know the Building Blocks and Internals of Express]]** (3 videos)
-- **[[#2. Use MongoDB and Mongoose to Manage Users]]** (8 videos)
-- **[[#3. Authenticate and Authorize Users]]** (11 videos)
-- **[[#4. Handle File Uploads and Process Images]]** (5 videos)
-- **[[#5. Deployment and Running in Production]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Tackle any project with Express
+  - What you should know
+  - Get your tools ready
+  - Understanding and running the sample project
+- [**1. Know the Building Blocks and Internals of Express**](#1-know-the-building-blocks-and-internals-of-express) (3 videos)
+  - Exploring Express components and APIs
+  - Important Express middleware
+  - Creating a template engine for Express
+- [**2. Use MongoDB and Mongoose to Manage Users**](#2-use-mongodb-and-mongoose-to-manage-users) (8 videos)
+  - Setting up a hosted MongoDB server
+  - Connecting to MongoDB
+  - Adding MongoDB and Mongoose to an Express project
+  - Creating a user schema for Mongoose
+  - Using bcrypt to hash and validate passwords
+  - Adding password encryption and validation to a Mongoose model
+  - Creating a user registration route
+  - Testing the form and reviewing the data in MongoDB
+- [**3. Authenticate and Authorize Users**](#3-authenticate-and-authorize-users) (11 videos)
+  - Understanding cookies and sessions
+  - Adding cookies and sessions to Express
+  - Inspecting the session object
+  - Introduction to Passport
+  - Adding Passport to Express
+  - Setting up an authentication strategy for Passport
+  - Serializing and deserializing users
+  - Creating a login form with Passport
+  - Providing a logout link
+  - Authentication vs. authorization
+  - Protecting routes
+- [**4. Handle File Uploads and Process Images**](#4-handle-file-uploads-and-process-images) (5 videos)
+  - File upload basics
+  - Handling multipart form data with multer
+  - Resizing and storing images with sharp
+  - Creating an image handling middleware
+  - Serving images
+- [**5. Deployment and Running in Production**](#5-deployment-and-running-in-production) (7 videos)
+  - Tuning Express performance: NODE_ENV and compression
+  - Tuning Express performance: Further measures
+  - Add logging
+  - Using the Node.js cluster module
+  - Securing an Express application
+  - Deployment and operation with PM2
+  - Running behind a web server
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tackle any project with Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tackle-any-project-with-express?u=76281980)
@@ -249,7 +288,7 @@ created: 2026-04-29
 
 ### 1. Know the Building Blocks and Internals of Express
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Express components and APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/exploring-express-components-and-apis?u=76281980)
@@ -494,7 +533,7 @@ created: 2026-04-29
 
 ### 2. Use MongoDB and Mongoose to Manage Users
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up a hosted MongoDB server
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/setting-up-a-hosted-mongodb-server?u=76281980)
@@ -987,7 +1026,7 @@ created: 2026-04-29
 
 ### 3. Authenticate and Authorize Users
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cookies and sessions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/understanding-cookies-and-sessions?u=76281980)
@@ -1696,7 +1735,7 @@ created: 2026-04-29
 
 ### 4. Handle File Uploads and Process Images
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### File upload basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/file-upload-basics?u=76281980)
@@ -2128,7 +2167,7 @@ created: 2026-04-29
 
 ### 5. Deployment and Running in Production
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tuning Express performance: NODE_ENV and compression
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/tuning-express-performance-node-env-and-compression?u=76281980)
@@ -2646,7 +2685,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-express/next-steps?u=76281980)

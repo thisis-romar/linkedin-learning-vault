@@ -48,14 +48,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. The Four Pillars of Data Mesh]]** (4 videos)
-- **[[#2. Designing Your First Data Mesh Architecture]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - What is data mesh?
+  - Why data mesh?
+  - The data mesh architecture pattern
+  - An intro to data decentralization
+- [**1. The Four Pillars of Data Mesh**](#1-the-four-pillars-of-data-mesh) (4 videos)
+  - An intro to data domains
+  - Managing data as a product
+  - Self-service access in the data mesh
+  - Federated data governance in action
+- [**2. Designing Your First Data Mesh Architecture**](#2-designing-your-first-data-mesh-architecture) (4 videos)
+  - Choose your data domains
+  - Classify your sub-domains
+  - Select stewards to serve as product owners
+  - Write your own federated standards
+- [**Conclusion**](#conclusion) (1 videos)
+  - Investment in your future
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data mesh?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/what-is-data-mesh?u=76281980)
@@ -261,7 +274,7 @@ created: 2026-04-29
 
 ### 1. The Four Pillars of Data Mesh
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An intro to data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/an-intro-to-data-domains?u=76281980)
@@ -482,7 +495,7 @@ created: 2026-04-29
 
 ### 2. Designing Your First Data Mesh Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose your data domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/choose-your-data-domains?u=76281980)
@@ -786,7 +799,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Investment in your future
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-mesh-architecture-core-concepts/investment-in-your-future?u=76281980)

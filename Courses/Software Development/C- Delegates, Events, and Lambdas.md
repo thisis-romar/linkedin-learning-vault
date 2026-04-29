@@ -52,16 +52,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Getting Started]]** (2 videos)
-- **2. C# Delegates** (5 videos)
-- **3. C# Events** (4 videos)
-- **4. C# Lambdas** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Using C# delegates, events, and lambdas
+  - What you should know
+  - Exercise files on GitHub
+  - Setting up the developer environment
+- [**1. Getting Started**](#1-getting-started) (2 videos)
+  - Overview of C# delegates, events, and lambdas
+  - Common delegate, event, and lambda scenarios
+- [**2. C# Delegates**](#2-c-delegates) (5 videos)
+  - Creating C# delegates
+  - Using anonymous delegates
+  - Using composable delegates
+  - Challenge: Programming delegate
+  - Solution: Programming delegate
+- [**3. C# Events**](#3-c-events) (4 videos)
+  - Creating C# event handlers
+  - Event chaining
+  - Challenge: Programming events
+  - Solution: Programming events
+- [**4. C# Lambdas**](#4-c-lambdas) (4 videos)
+  - Understanding C# lambdas
+  - Using lambdas as delegates
+  - Challenge: Programming lambdas
+  - Solution: Programming lambdas
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using C# delegates, events, and lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/using-c-sharp-delegates-events-and-lambdas-23315218?u=76281980)
@@ -193,7 +213,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of C# delegates, events, and lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/overview-of-c-sharp-delegates-events-and-lambdas?u=76281980)
@@ -320,7 +340,7 @@ created: 2026-04-29
 
 ### 2. C# Delegates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating C# delegates
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-delegates?u=76281980)
@@ -953,7 +973,7 @@ created: 2026-04-29
 
 ### 3. C# Events
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating C# event handlers
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/creating-c-sharp-event-handlers?u=76281980)
@@ -1359,7 +1379,7 @@ created: 2026-04-29
 
 ### 4. C# Lambdas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding C# lambdas
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/understanding-c-sharp-lambdas?u=76281980)
@@ -1674,7 +1694,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go next
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas-14503458/where-to-go-next?u=76281980)

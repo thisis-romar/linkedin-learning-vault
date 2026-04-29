@@ -47,16 +47,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **1. C# Object-Oriented Basics** (5 videos)
-- **[[#2. Class Operations]]** (6 videos)
-- **[[#3. Static Classes and Methods]]** (5 videos)
-- **[[#4. Abstract and Sealed Classes]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Next-level C# OOP
+  - Getting set up
+- [**1. C# Object-Oriented Basics**](#1-c-object-oriented-basics) (5 videos)
+  - Defining classes
+  - Properties
+  - Inheritance
+  - Access modifiers
+  - Anonymous types
+- [**2. Class Operations**](#2-class-operations) (6 videos)
+  - Using object initializers
+  - Read-only members
+  - Init-only properties
+  - Required properties
+  - Challenge: Build an employee class
+  - Solution: Build an employee class
+- [**3. Static Classes and Methods**](#3-static-classes-and-methods) (5 videos)
+  - Static members
+  - Static classes
+  - Static constructors
+  - Challenge: Add static members to employee
+  - Solution: Add static members to employee
+- [**4. Abstract and Sealed Classes**](#4-abstract-and-sealed-classes) (6 videos)
+  - Overview of abstract classes
+  - Defining an abstract class
+  - Abstract methods and properties
+  - Sealed classes
+  - Challenge: Abstract employee class
+  - Solution: Abstract employee class
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next-level C# OOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76281980)
@@ -173,7 +198,7 @@ created: 2026-04-29
 
 ### 1. C# Object-Oriented Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/defining-classes?u=76281980)
@@ -868,7 +893,7 @@ created: 2026-04-29
 
 ### 2. Class Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using object initializers
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/using-object-initializers?u=76281980)
@@ -1409,7 +1434,7 @@ created: 2026-04-29
 
 ### 3. Static Classes and Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Static members
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/static-members?u=76281980)
@@ -1846,7 +1871,7 @@ created: 2026-04-29
 
 ### 4. Abstract and Sealed Classes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of abstract classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/overview-of-abstract-classes?u=76281980)
@@ -2289,7 +2314,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-steps?u=76281980)

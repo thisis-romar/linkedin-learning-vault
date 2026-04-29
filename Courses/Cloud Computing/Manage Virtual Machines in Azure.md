@@ -48,20 +48,62 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Azure VM Basics]]** (4 videos)
-- **[[#2. Architecture]]** (5 videos)
-- **[[#3. Security and Identity]]** (5 videos)
-- **[[#4. Storage]]** (2 videos)
-- **[[#5. Virtual Machine Management, Maintenance, and Protection]]** (5 videos)
-- **[[#6. Networking]]** (5 videos)
-- **[[#7. Applications and Customization]]** (2 videos)
-- **[[#8. Working with VMs]]** (11 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Azure VM management
+  - What you should know
+- [**1. Azure VM Basics**](#1-azure-vm-basics) (4 videos)
+  - Create an Azure VM
+  - Create an Azure VM with a preset configuration
+  - Connect to a Windows virtual machine
+  - Connect to a Linux virtual machine
+- [**2. Architecture**](#2-architecture) (5 videos)
+  - Understand VM availability options
+  - Choose a VM's architecture and size
+  - Work with spot instances
+  - Reserve VM capacity
+  - Create proximity placement groups
+- [**3. Security and Identity**](#3-security-and-identity) (5 videos)
+  - Choose a VM's security type
+  - Assign port rules to a VM
+  - Create managed identities
+  - Connect a VM to the AD
+  - Grant an Azure AD user logon permission
+- [**4. Storage**](#4-storage) (2 videos)
+  - Create and attach a new disk
+  - Attach an existing disk
+- [**5. Virtual Machine Management, Maintenance, and Protection**](#5-virtual-machine-management-maintenance-and-protection) (5 videos)
+  - Enable disaster recovery
+  - Virtual machine patching and hot patching
+  - Shut down virtual machines automatically
+  - Boot diagnostics and alerting
+  - VM tagging
+- [**6. Networking**](#6-networking) (5 videos)
+  - Create a virtual network
+  - Create a subnet
+  - Create a public IP address
+  - Create a virtual network firewall
+  - Create firewall rules
+- [**7. Applications and Customization**](#7-applications-and-customization) (2 videos)
+  - Deploy VM extensions
+  - Instal applications on Azure VMs
+- [**8. Working with VMs**](#8-working-with-vms) (11 videos)
+  - Start, stop, and restart VMs
+  - Make a configuration change to a VM
+  - Monitoring VM performance
+  - Create alert rules
+  - Back up a virtual machine
+  - Restore a VM backup
+  - Monitor VM patching
+  - Use Azure Advisor to check best practice compliance
+  - Examine the VM topology map
+  - Where to learn more
+  - Delete a VM
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to learn more
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure VM management
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/azure-vm-management?u=76281980)
@@ -108,7 +150,7 @@ created: 2026-04-29
 
 ### 1. Azure VM Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an Azure VM
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-an-azure-vm?u=76281980)
@@ -494,7 +536,7 @@ created: 2026-04-29
 
 ### 2. Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand VM availability options
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/understand-vm-availability-options?u=76281980)
@@ -949,7 +991,7 @@ created: 2026-04-29
 
 ### 3. Security and Identity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose a VM's security type
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/choose-a-vm-s-security-type?u=76281980)
@@ -1408,7 +1450,7 @@ created: 2026-04-29
 
 ### 4. Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create and attach a new disk
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-and-attach-a-new-disk?u=76281980)
@@ -1586,7 +1628,7 @@ created: 2026-04-29
 
 ### 5. Virtual Machine Management, Maintenance, and Protection
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Enable disaster recovery
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/enable-disaster-recovery?u=76281980)
@@ -2064,7 +2106,7 @@ created: 2026-04-29
 
 ### 6. Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a virtual network
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/create-a-virtual-network?u=76281980)
@@ -2507,7 +2549,7 @@ created: 2026-04-29
 
 ### 7. Applications and Customization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploy VM extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/deploy-vm-extensions?u=76281980)
@@ -2784,7 +2826,7 @@ created: 2026-04-29
 
 ### 8. Working with VMs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start, stop, and restart VMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/start-stop-and-restart-vms?u=76281980)
@@ -3750,7 +3792,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/manage-virtual-machines-in-azure/where-to-learn-more?u=76281980)

@@ -60,16 +60,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Are ETLs?]]** (6 videos)
-- **[[#2. Extracting and Transforming Data with Python]]** (6 videos)
-- **[[#3. Loading Data into Target Systems]]** (5 videos)
-- **[[#4. Automating ETL Jobs: Scheduling ETL Jobs with Python]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Create an ETL in Python and SQL
+  - Tools used in this course
+- [**1. What Are ETLs?**](#1-what-are-etls) (6 videos)
+  - What are ETLs and how do you create them?
+  - ETL process overview
+  - Exploring your data with pandas (Python) and SQL
+  - Understanding your data
+  - Challenge: Reading data using Python
+  - Solution: Reading data using Python
+- [**2. Extracting and Transforming Data with Python**](#2-extracting-and-transforming-data-with-python) (6 videos)
+  - Loading data from different sources
+  - Extracting your data
+  - Cleaning, preprocessing data, and data formatting
+  - Standardization, handling duplicates, and missing values
+  - Challenge: Extract and transform data using pandas
+  - Solution: Extract and transform data using pandas
+- [**3. Loading Data into Target Systems**](#3-loading-data-into-target-systems) (5 videos)
+  - Introduction to data warehouses and data lakes
+  - Loading data into relational databases
+  - Data quality checks and validation with SQL
+  - Challenge: Transform the data and remove duplicates and nulls
+  - Solution: Transform the data and remove duplicates and nulls
+- [**4. Automating ETL Jobs: Scheduling ETL Jobs with Python**](#4-automating-etl-jobs-scheduling-etl-jobs-with-python) (5 videos)
+  - Querying your data with SQL
+  - Scheduling ETL jobs with Airflow: Part 1
+  - Scheduling ETL jobs with Airflow: Part 2
+  - Challenge: Load the data into a database and automate
+  - Solution: Load the data into a database and automate
+- [**Conclusion**](#conclusion) (1 videos)
+  - Expand your knowledge of ETLs
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an ETL in Python and SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/create-an-etl-in-python-and-sql?u=76281980)
@@ -139,7 +164,7 @@ created: 2026-04-29
 
 ### 1. What Are ETLs?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are ETLs and how do you create them?
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/what-are-etls-and-how-do-you-create-them?u=76281980)
@@ -571,7 +596,7 @@ created: 2026-04-29
 
 ### 2. Extracting and Transforming Data with Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading data from different sources
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/loading-data-from-different-sources?u=76281980)
@@ -1087,7 +1112,7 @@ created: 2026-04-29
 
 ### 3. Loading Data into Target Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data warehouses and data lakes
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/introduction-to-data-warehouses-and-data-lakes?u=76281980)
@@ -1560,7 +1585,7 @@ created: 2026-04-29
 
 ### 4. Automating ETL Jobs: Scheduling ETL Jobs with Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Querying your data with SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/querying-your-data-with-sql?u=76281980)
@@ -2066,7 +2091,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expand your knowledge of ETLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/etl-in-python-and-sql/expand-your-knowledge-of-etls?u=76281980)

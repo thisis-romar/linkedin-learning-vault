@@ -37,15 +37,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introducing Value Stream Maps]]** (4 videos)
-- **[[#2. Create a Manufacturing Value Stream Map]]** (6 videos)
-- **[[#3. Create a Service Value Stream Map]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Capture and present information with value stream mapping
+  - What you should know
+- [**1. Introducing Value Stream Maps**](#1-introducing-value-stream-maps) (4 videos)
+  - Describe the philosophy and goals of value stream maps
+  - Introduce the course scenarios
+  - Identify the components of a value stream map
+  - Read a value stream map
+- [**2. Create a Manufacturing Value Stream Map**](#2-create-a-manufacturing-value-stream-map) (6 videos)
+  - Calculate takt time for the process
+  - Determine process time and cycle time
+  - Calculate process utilization
+  - Determine inventory waiting time
+  - Include information flow times
+  - Calculate total lead time and total processing time
+- [**3. Create a Service Value Stream Map**](#3-create-a-service-value-stream-map) (6 videos)
+  - Calculate takt time for the process
+  - Determine process time and cycle time
+  - Calculate process utilization
+  - Determine inventory waiting time
+  - Include information flow times
+  - Calculate total lead time and total processing time
+- [**Conclusion**](#conclusion) (1 videos)
+  - More resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Capture and present information with value stream mapping
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980)
@@ -99,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Introducing Value Stream Maps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe the philosophy and goals of value stream maps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/describe-the-philosophy-and-goals-of-value-stream-maps?u=76281980)
@@ -386,7 +405,7 @@ created: 2026-04-29
 
 ### 2. Create a Manufacturing Value Stream Map
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate takt time for the process
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980)
@@ -781,7 +800,7 @@ created: 2026-04-29
 
 ### 3. Create a Service Value Stream Map
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculate takt time for the process
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980)
@@ -1118,7 +1137,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/more-resources?u=76281980)

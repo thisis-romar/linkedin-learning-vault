@@ -44,15 +44,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Functional Programming]]** (1 videos)
-- **[[#2. Lambdas]]** (3 videos)
-- **[[#3. Streams]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Java lambdas and streams
+  - What you should know
+  - Using the exercise files
+  - Tour of CoderPad
+- [**1. Functional Programming**](#1-functional-programming) (1 videos)
+  - What is functional programming?
+- [**2. Lambdas**](#2-lambdas) (3 videos)
+  - Functional interfaces
+  - Using lambdas
+  - Using existing interfaces
+- [**3. Streams**](#3-streams) (4 videos)
+  - Understanding streams
+  - Using streams
+  - More streams operations
+  - Advanced streams operations
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with Java
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Java lambdas and streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980)
@@ -322,7 +335,7 @@ created: 2026-04-29
 
 ### 1. Functional Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is functional programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980)
@@ -404,7 +417,7 @@ created: 2026-04-29
 
 ### 2. Lambdas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional interfaces
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980)
@@ -742,7 +755,7 @@ created: 2026-04-29
 
 ### 3. Streams
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding streams
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980)
@@ -1170,7 +1183,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/continuing-on-with-java?u=76281980)

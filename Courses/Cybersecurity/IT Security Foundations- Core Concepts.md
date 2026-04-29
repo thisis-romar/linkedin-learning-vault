@@ -48,18 +48,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Core Security Principles]]** (6 videos)
-- **[[#2. Understanding Malware]]** (5 videos)
-- **[[#3. Breaching Your System]]** (5 videos)
-- **[[#4. Investigating Internet Security]]** (5 videos)
-- **[[#5. Mobile and Wireless Security]]** (4 videos)
-- **[[#6. Secure Devices and Applications]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Tech savvy, tech safe
+  - Discovering resources
+- [**1. Core Security Principles**](#1-core-security-principles) (6 videos)
+  - Providing a secure system
+  - Keeping information safe
+  - Managing risk
+  - Analyzing risk
+  - Avoiding scam artists
+  - Recognizing the Internet of Things
+- [**2. Understanding Malware**](#2-understanding-malware) (5 videos)
+  - Comparing malicious programs
+  - Explaining viruses and worms
+  - Eliminating unwanted surveillance
+  - Holding data hostage
+  - Defending the OS
+- [**3. Breaching Your System**](#3-breaching-your-system) (5 videos)
+  - Stopping the imposters
+  - Getting in the backdoor
+  - Exploiting the unknown
+  - Challenge: Recognizing IoT threats
+  - Solution: Recognizing IoT threats
+- [**4. Investigating Internet Security**](#4-investigating-internet-security) (5 videos)
+  - Accessing cloud resources
+  - Using a secure connection
+  - Accepting cookies
+  - Blocking malicious content
+  - Ensuring browser privacy
+- [**5. Mobile and Wireless Security**](#5-mobile-and-wireless-security) (4 videos)
+  - Securing your Wi-Fi
+  - Sharing a secret
+  - Concealing your access point
+  - Protecting mobile devices
+- [**6. Secure Devices and Applications**](#6-secure-devices-and-applications) (4 videos)
+  - Providing data confidentiality
+  - Ensuring data integrity
+  - Using cryptographic techniques
+  - Securing email
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tech savvy, tech safe
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/tech-savvy-tech-safe?u=76281980)
@@ -123,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Core Security Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing a secure system
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-a-secure-system?u=76281980)
@@ -475,7 +507,7 @@ created: 2026-04-29
 
 ### 2. Understanding Malware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing malicious programs
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/comparing-malicious-programs?u=76281980)
@@ -851,7 +883,7 @@ created: 2026-04-29
 
 ### 3. Breaching Your System
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stopping the imposters
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/stopping-the-imposters?u=76281980)
@@ -1149,7 +1181,7 @@ created: 2026-04-29
 
 ### 4. Investigating Internet Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessing cloud resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/accessing-cloud-resources?u=76281980)
@@ -1517,7 +1549,7 @@ created: 2026-04-29
 
 ### 5. Mobile and Wireless Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing your Wi-Fi
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/securing-your-wi-fi?u=76281980)
@@ -1845,7 +1877,7 @@ created: 2026-04-29
 
 ### 6. Secure Devices and Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing data confidentiality
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/providing-data-confidentiality?u=76281980)
@@ -2159,7 +2191,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-core-concepts-16737118/next-steps?u=76281980)

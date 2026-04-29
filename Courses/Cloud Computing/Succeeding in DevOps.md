@@ -54,15 +54,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (3 videos)
-- **[[#2. Pathways to DevOps]]** (3 videos)
-- **[[#3. Increasing Your Chances of Success]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Your role as a DevOps engineer
+  - Setting the stage for DevOps
+- [**1. Getting Started**](#1-getting-started) (3 videos)
+  - What is unique about DevOps?
+  - DevOps qualifications and training
+  - Learning and hands-on experience in DevOps
+- [**2. Pathways to DevOps**](#2-pathways-to-devops) (3 videos)
+  - DevOps skills for developers
+  - The Ops in DevOps
+  - Entry-level DevOps
+- [**3. Increasing Your Chances of Success**](#3-increasing-your-chances-of-success) (3 videos)
+  - Success tips from a DevOps recruiter
+  - Being a change agent DevOps
+  - Achieving your DevOps goals
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about DevOps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your role as a DevOps engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/your-role-as-a-devops-engineer-15039480?u=76281980)
@@ -123,7 +135,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is unique about DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/what-is-unique-about-devops-15038502?u=76281980)
@@ -265,7 +277,7 @@ created: 2026-04-29
 
 ### 2. Pathways to DevOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps skills for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/devops-skills-for-developers-15042418?u=76281980)
@@ -378,7 +390,7 @@ created: 2026-04-29
 
 ### 3. Increasing Your Chances of Success
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Success tips from a DevOps recruiter
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/success-tips-from-a-devops-recruiter?u=76281980)
@@ -680,7 +692,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about DevOps
 > [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-devops/learning-more-about-devops?u=76281980)

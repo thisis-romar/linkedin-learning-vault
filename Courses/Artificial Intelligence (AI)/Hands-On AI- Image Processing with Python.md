@@ -53,19 +53,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up Our Development Environment]]** (2 videos)
-- **[[#2. The Basics of Image Processing]]** (7 videos)
-- **[[#3. From Color to Black and White]]** (6 videos)
-- **[[#4. Filters]]** (7 videos)
-- **[[#5. Image Scaling]]** (6 videos)
-- **[[#6. Fun with Cuts]]** (5 videos)
-- **[[#7. Morphological Modifications]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Computer vision under the hood
+  - What you should know
+  - Using the exercise files
+- [**1. Setting Up Our Development Environment**](#1-setting-up-our-development-environment) (2 videos)
+  - Testing your environment
+  - Maintaining a clean notebook workspace
+- [**2. The Basics of Image Processing**](#2-the-basics-of-image-processing) (7 videos)
+  - Image representation
+  - Color encoding
+  - Image file management
+  - Resolution
+  - Rotations and flips
+  - Challenge: Manipulate pictures
+  - Solution: Manipulate pictures
+- [**3. From Color to Black and White**](#3-from-color-to-black-and-white) (6 videos)
+  - Average grayscale
+  - Weighted grayscale
+  - Converting grayscale to black and white
+  - Adaptive thresholding
+  - Challenge: Removing color
+  - Solution: Removing color
+- [**4. Filters**](#4-filters) (7 videos)
+  - Convolution filters
+  - Average filters
+  - Median filters
+  - Gaussian filters
+  - Edge-detection filters
+  - Challenge: Convolution filters
+  - Solution: Convolution filters
+- [**5. Image Scaling**](#5-image-scaling) (6 videos)
+  - Image downscaling methods
+  - Downscaling example
+  - Image upscaling methods
+  - Upscaling example
+  - Challenge: Resize a picture
+  - Solution: Resize a picture
+- [**6. Fun with Cuts**](#6-fun-with-cuts) (5 videos)
+  - Image cuts
+  - Stitching two images together
+  - Cuts in panoramic photography
+  - Challenge: Stitch two pictures together
+  - Solution: Stitch two pictures together
+- [**7. Morphological Modifications**](#7-morphological-modifications) (5 videos)
+  - Why modify objects?
+  - Erosion and dilation
+  - Open and close
+  - Challenge: Help a robot
+  - Solution: Help a robot
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Computer vision under the hood
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/computer-vision-under-the-hood?u=76281980)
@@ -238,7 +280,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Our Development Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing your environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/testing-your-environment?u=76281980)
@@ -403,7 +445,7 @@ created: 2026-04-29
 
 ### 2. The Basics of Image Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Image representation
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-representation?u=76281980)
@@ -1000,7 +1042,7 @@ created: 2026-04-29
 
 ### 3. From Color to Black and White
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Average grayscale
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/average-grayscale?u=76281980)
@@ -1398,7 +1440,7 @@ created: 2026-04-29
 
 ### 4. Filters
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Convolution filters
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/convolution-filters?u=76281980)
@@ -1942,7 +1984,7 @@ created: 2026-04-29
 
 ### 5. Image Scaling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Image downscaling methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-downscaling-methods?u=76281980)
@@ -2298,7 +2340,7 @@ created: 2026-04-29
 
 ### 6. Fun with Cuts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Image cuts
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/image-cuts?u=76281980)
@@ -2728,7 +2770,7 @@ created: 2026-04-29
 
 ### 7. Morphological Modifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why modify objects?
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/why-modify-objects?u=76281980)
@@ -3122,7 +3164,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-image-processing-with-python/next-steps?u=76281980)

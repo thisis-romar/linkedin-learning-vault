@@ -50,15 +50,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Foundations for Advanced Prompting]]** (4 videos)
-- **[[#2. Mastering Conversational AI]]** (5 videos)
-- **[[#3. Advanced Context Scaffolding]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course overview
+- [**1. Foundations for Advanced Prompting**](#1-foundations-for-advanced-prompting) (4 videos)
+  - From basic to conversational AI
+  - The power of multiturn interactions
+  - Chat inputs
+  - Chat modes
+- [**2. Mastering Conversational AI**](#2-mastering-conversational-ai) (5 videos)
+  - Crafting multiturn prompts
+  - Iterative refinement techniques
+  - Challenge: Refactor with conversation
+  - Solution: Refactor with conversation
+  - Analyzing your conversational approach
+- [**3. Advanced Context Scaffolding**](#3-advanced-context-scaffolding) (5 videos)
+  - Providing context from multiple files
+  - Leveraging open files for accuracy
+  - Challenge: Generate code from API docs
+  - Solution: Generate code from API docs
+  - Working with unknown codebases
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/course-introduction-27897018?u=76281980)
@@ -82,7 +98,7 @@ created: 2026-04-29
 
 ### 1. Foundations for Advanced Prompting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From basic to conversational AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/from-basic-to-conversational-ai-28117012?u=76281980)
@@ -568,7 +584,7 @@ created: 2026-04-29
 
 ### 2. Mastering Conversational AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Crafting multiturn prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/crafting-multi-turn-prompts-27900012?u=76281980)
@@ -1137,7 +1153,7 @@ created: 2026-04-29
 
 ### 3. Advanced Context Scaffolding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Providing context from multiple files
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/providing-context-from-multiple-files?u=76281980)
@@ -1690,7 +1706,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-prompting-with-github-copilot/conclusion-28117013?u=76281980)

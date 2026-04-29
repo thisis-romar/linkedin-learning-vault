@@ -46,16 +46,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. The Wide World of Infrastructure]]** (8 videos)
-- **[[#2. Adventures in Automation]]** (5 videos)
-- **[[#3. Bringing It All Together]]** (7 videos)
-- **[[#4. With Great Power Comes Great Responsibility]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Make your systems better with infrastructure as code
+  - What you need to know
+- [**1. The Wide World of Infrastructure**](#1-the-wide-world-of-infrastructure) (8 videos)
+  - It's all about the cloud
+  - Bare metal vs. cloud
+  - Not your mother's cloud
+  - Managed services vs. bare cloud
+  - Containers galore
+  - VMs vs. containers
+  - Where'd my server go?
+  - Serverless vs. servers
+- [**2. Adventures in Automation**](#2-adventures-in-automation) (5 videos)
+  - Building the boxes and lines
+  - Everything vs. Terraform
+  - What's in the box?
+  - Declarative vs. imperative
+  - Everything vs. immutable
+- [**3. Bringing It All Together**](#3-bringing-it-all-together) (7 videos)
+  - Provisioning lab overview
+  - AWS
+  - Terraform
+  - Ansible
+  - Docker
+  - Helm charts
+  - Serverless
+- [**4. With Great Power Comes Great Responsibility**](#4-with-great-power-comes-great-responsibility) (10 videos)
+  - What is infrastructure as code?
+  - Continuous integration for infrastructure
+  - Testing infrastructure
+  - Works on my machine
+  - You write it, you run it
+  - Automate all the things
+  - CI for my IaC
+  - The GitOps model
+  - Security and compliance as code
+  - Using AI to create your IaC
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go from here
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Make your systems better with infrastructure as code
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980)
@@ -136,7 +169,7 @@ created: 2026-04-29
 
 ### 1. The Wide World of Infrastructure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### It's all about the cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980)
@@ -864,7 +897,7 @@ created: 2026-04-29
 
 ### 2. Adventures in Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the boxes and lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980)
@@ -1488,7 +1521,7 @@ created: 2026-04-29
 
 ### 3. Bringing It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Provisioning lab overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980)
@@ -2385,7 +2418,7 @@ created: 2026-04-29
 
 ### 4. With Great Power Comes Great Responsibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is infrastructure as code?
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980)
@@ -3491,7 +3524,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980)

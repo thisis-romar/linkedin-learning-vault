@@ -46,15 +46,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Cloning]]** (6 videos)
-- **[[#2. Database Scaling]]** (4 videos)
-- **[[#3. Microservices]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Scaling applications with Node.js
+  - What you should know
+  - Using the exercise files
+- [**1. Cloning**](#1-cloning) (6 videos)
+  - The scale cube
+  - Scaling the x-axis
+  - Forking processes
+  - Using a cluster module
+  - Architecting zero downtime
+  - Working with clusters with PM2
+- [**2. Database Scaling**](#2-database-scaling) (4 videos)
+  - Working with databases
+  - Incorporating a database
+  - Scaling the z-axis
+  - Setting up horizontal partitioning
+- [**3. Microservices**](#3-microservices) (5 videos)
+  - Scaling the y-axis
+  - Decomposing services
+  - Service orchestration
+  - Create an orchestration
+  - Test the orchestration layer
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling applications with Node.js
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980)
@@ -196,7 +215,7 @@ created: 2026-04-29
 
 ### 1. Cloning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The scale cube
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980)
@@ -831,7 +850,7 @@ created: 2026-04-29
 
 ### 2. Database Scaling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980)
@@ -1275,7 +1294,7 @@ created: 2026-04-29
 
 ### 3. Microservices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scaling the y-axis
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980)
@@ -1860,7 +1879,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980)

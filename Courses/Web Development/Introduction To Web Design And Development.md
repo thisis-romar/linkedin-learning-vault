@@ -46,18 +46,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding the Web]]** (4 videos)
-- **[[#2. Planning and Prototyping]]** (4 videos)
-- **[[#3. Three Technologies of the Front End]]** (4 videos)
-- **[[#4. Writing Code]]** (6 videos)
-- **[[#5. Supporting Web Development Technologies]]** (4 videos)
-- **[[#6. Exploring No-Code Solutions]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Web design and development in the code and no-code era
+- [**1. Understanding the Web**](#1-understanding-the-web) (4 videos)
+  - Understanding clients and servers
+  - Understanding the cloud vs. a website
+  - Understanding native apps vs. web apps
+  - Understanding web browsers
+- [**2. Planning and Prototyping**](#2-planning-and-prototyping) (4 videos)
+  - Understanding user experience (UX) and website planning
+  - Understanding user interface (UI) design
+  - Prototyping tools
+  - Graphic design tools
+- [**3. Three Technologies of the Front End**](#3-three-technologies-of-the-front-end) (4 videos)
+  - Understanding HTML
+  - Understanding CSS
+  - Understanding JavaScript
+  - What is a framework?
+- [**4. Writing Code**](#4-writing-code) (6 videos)
+  - Introducing writing code using CodePen
+  - Writing HTML
+  - Writing CSS
+  - Writing JavaScript
+  - Challenge: Write HTML and CSS
+  - Solution: Write HTML and CSS
+- [**5. Supporting Web Development Technologies**](#5-supporting-web-development-technologies) (4 videos)
+  - Choosing an editor for writing code
+  - Keeping files organized with GitHub
+  - Choosing a web host
+  - Registering a domain name
+- [**6. Exploring No-Code Solutions**](#6-exploring-no-code-solutions) (7 videos)
+  - What is the no-code movement?
+  - All-in-one solutions: Content management systems
+  - Selling things online: Shopping cart solutions
+  - Simple website builders for small sites
+  - Complex website builders with fine-grained control
+  - Dashboards and databases
+  - Web app and native app development
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learn more with learning paths
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Web design and development in the code and no-code era
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=76281980)
@@ -99,7 +130,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Web
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding clients and servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-clients-and-servers?u=76281980)
@@ -429,7 +460,7 @@ created: 2026-04-29
 
 ### 2. Planning and Prototyping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding user experience (UX) and website planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=76281980)
@@ -831,7 +862,7 @@ created: 2026-04-29
 
 ### 3. Three Technologies of the Front End
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding HTML
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-html?u=76281980)
@@ -1131,7 +1162,7 @@ created: 2026-04-29
 
 ### 4. Writing Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing writing code using CodePen
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/introducing-writing-code-using-codepen?u=76281980)
@@ -1868,7 +1899,7 @@ created: 2026-04-29
 
 ### 5. Supporting Web Development Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing an editor for writing code
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?u=76281980)
@@ -2172,7 +2203,7 @@ created: 2026-04-29
 
 ### 6. Exploring No-Code Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the no-code movement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/what-is-the-no-code-movement?u=76281980)
@@ -2676,7 +2707,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn more with learning paths
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/learn-more-with-learning-paths-22966796?u=76281980)

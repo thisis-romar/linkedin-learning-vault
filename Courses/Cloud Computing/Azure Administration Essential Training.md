@@ -57,19 +57,58 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Getting Familiar with Microsoft Azure]]** (4 videos)
-- **[[#2. Managing Microsoft Azure resources]]** (10 videos)
-- **[[#3. Microsoft Azure Storage]]** (5 videos)
-- **[[#4. Microsoft Azure  Web Apps]]** (2 videos)
-- **[[#5. Microsoft Azure Virtual Machines]]** (5 videos)
-- **[[#6. Microsoft Microsoft Entra ID]]** (8 videos)
-- **[[#7. Microsoft Azure Networking]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The Essentials of Microsoft Azure
+- [**1. Getting Familiar with Microsoft Azure**](#1-getting-familiar-with-microsoft-azure) (4 videos)
+  - Fundamentals of cloud computing
+  - Fundamentals of cloud service offerings
+  - Microsoft 365 and Microsoft Azure: key concepts
+  - Controlling Azure costs
+- [**2. Managing Microsoft Azure resources**](#2-managing-microsoft-azure-resources) (10 videos)
+  - Azure management tools
+  - Fundamentals of Azure management
+  - Fundamentals of Azure resource hierarchy
+  - Adding resources to Resource groups
+  - Creating resources in an Azure subscription
+  - Managing Azure with Azure PowerShell and Azure CLI
+  - Optimizing Azure with Azure Advisor
+  - Explore Microsoft Defender for Cloud (formerly Azure Security Center and Azure Defender)
+  - Explore Deployment Options (ARM and Bicep)
+  - Getting Azure support
+- [**3. Microsoft Azure Storage**](#3-microsoft-azure-storage) (5 videos)
+  - Exploring Azure storage services
+  - Implementing a storage account
+  - Managing Azure storage account basic settings
+  - Managing Azure storage account advanced settings
+  - Explore Microsoft Purview
+- [**4. Microsoft Azure  Web Apps**](#4-microsoft-azure-web-apps) (2 videos)
+  - Implementing Azure web apps
+  - Managing Azure web apps
+- [**5. Microsoft Azure Virtual Machines**](#5-microsoft-azure-virtual-machines) (5 videos)
+  - Creating virtual machines in Azure
+  - Managing virtual machines in Azure: Basic
+  - Managing virtual machines in Azure: Networking
+  - Managing virtual machines in Azure: Advanced
+  - Connecting to virtual machines in Azure
+- [**6. Microsoft Microsoft Entra ID**](#6-microsoft-microsoft-entra-id) (8 videos)
+  - Exploring Microsoft Entra ID
+  - A look into Microsoft Entra
+  - Exploring Administrative (RBAC) roles
+  - Managing users in Azure AD
+  - Create member users in Azure AD
+  - Enable Multi Factor Authentication for a User
+  - Managing groups in Azure AD
+  - Exploring advanced Azure AD features
+- [**7. Microsoft Azure Networking**](#7-microsoft-azure-networking) (3 videos)
+  - Explore the Azure virtual networking resources
+  - Creating a virtual network
+  - Create a load balancer
+- [**Conclusion**](#conclusion) (1 videos)
+  - Learning more about Microsoft Azure
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Essentials of Microsoft Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76281980)
@@ -95,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Getting Familiar with Microsoft Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals of cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/fundamentals-of-cloud-computing?u=76281980)
@@ -490,7 +529,7 @@ created: 2026-04-29
 
 ### 2. Managing Microsoft Azure resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/azure-management-tools?u=76281980)
@@ -1457,7 +1496,7 @@ created: 2026-04-29
 
 ### 3. Microsoft Azure Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Azure storage services
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-storage-services?u=76281980)
@@ -1950,7 +1989,7 @@ created: 2026-04-29
 
 ### 4. Microsoft Azure  Web Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implementing Azure web apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/implementing-azure-web-apps?u=76281980)
@@ -2146,7 +2185,7 @@ created: 2026-04-29
 
 ### 5. Microsoft Azure Virtual Machines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating virtual machines in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/creating-virtual-machines-in-azure?u=76281980)
@@ -2757,7 +2796,7 @@ created: 2026-04-29
 
 ### 6. Microsoft Microsoft Entra ID
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Microsoft Entra ID
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/exploring-azure-active-directory-ad?u=76281980)
@@ -3526,7 +3565,7 @@ created: 2026-04-29
 
 ### 7. Microsoft Azure Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore the Azure virtual networking resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/explore-the-azure-virtual-networking-resources?u=76281980)
@@ -3758,7 +3797,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning more about Microsoft Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/learning-more-about-microsoft-azure?u=76281980)

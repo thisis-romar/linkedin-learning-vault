@@ -45,15 +45,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The What and Why of Sustainability]]** (5 videos)
-- **[[#2. The Full Life Story]]** (5 videos)
-- **[[#3. Circular ReDesign]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How the economy is transforming
+- [**1. The What and Why of Sustainability**](#1-the-what-and-why-of-sustainability) (5 videos)
+  - Sustainability in business
+  - Introducing the circular economy
+  - The innovation opportunity
+  - Impact
+  - Take action tips: Climate positive actions
+- [**2. The Full Life Story**](#2-the-full-life-story) (5 videos)
+  - Designing waste out of the system
+  - What about recycling?
+  - Life cycle thinking and life cycle maps
+  - Supply chain sustainability
+  - Take action tips: Procurement
+- [**3. Circular ReDesign**](#3-circular-redesign) (5 videos)
+  - Designing for the circular economy
+  - Circular business opportunities
+  - Products as services and Circular ReDesign
+  - Sustainability action planning
+  - Take action tips: Change actions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Innovate for sustainability in your organization
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How the economy is transforming
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/how-the-economy-is-transforming?u=76281980)
@@ -97,7 +114,7 @@ created: 2026-04-29
 
 ### 1. The What and Why of Sustainability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/sustainability-in-business?u=76281980)
@@ -466,7 +483,7 @@ created: 2026-04-29
 
 ### 2. The Full Life Story
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing waste out of the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-waste-out-of-the-system?u=76281980)
@@ -812,7 +829,7 @@ created: 2026-04-29
 
 ### 3. Circular ReDesign
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for the circular economy
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/designing-for-the-circular-economy?u=76281980)
@@ -1155,7 +1172,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Innovate for sustainability in your organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-as-an-innovation-opportunity/innovate-for-sustainability-in-your-organization?u=76281980)

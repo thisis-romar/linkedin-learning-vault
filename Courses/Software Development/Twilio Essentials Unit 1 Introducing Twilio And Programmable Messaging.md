@@ -44,11 +44,18 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Introducing Twilio and Programmable Messaging]]** (7 videos)
+- [**1. Introducing Twilio and Programmable Messaging**](#1-introducing-twilio-and-programmable-messaging) (7 videos)
+  - Introduction to Twilio
+  - Signing up
+  - Introduction to messaging
+  - Send an SMS using the CLI
+  - Receive a text
+  - Dynamic messaging
+  - Review and practice
 
 ### 1. Introducing Twilio and Programmable Messaging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Twilio
 > [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980)

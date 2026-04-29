@@ -48,15 +48,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Basic Inclusion Principles]]** (5 videos)
-- **[[#2. Inclusive Content Practices]]** (4 videos)
-- **[[#3. Inclusive Meeting Technology]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Inclusive workplace basics
+- [**1. Basic Inclusion Principles**](#1-basic-inclusion-principles) (5 videos)
+  - Pillars of success
+  - Fundamental content needs
+  - Vision considerations
+  - Hearing considerations
+  - Learning and neurodiversity
+- [**2. Inclusive Content Practices**](#2-inclusive-content-practices) (4 videos)
+  - Formatting matters
+  - Images and links
+  - Texture vs. color
+  - Spreadsheet tips
+- [**3. Inclusive Meeting Technology**](#3-inclusive-meeting-technology) (6 videos)
+  - Agenda and materials
+  - Creating descriptive introductions
+  - Using webcams
+  - Live captioning
+  - Reading order
+  - Chat and reactions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Review and assess
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusive workplace basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/inclusive-workplace-basics?u=76281980)
@@ -93,7 +110,7 @@ created: 2026-04-29
 
 ### 1. Basic Inclusion Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pillars of success
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/pillars-of-success?u=76281980)
@@ -424,7 +441,7 @@ created: 2026-04-29
 
 ### 2. Inclusive Content Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Formatting matters
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/formatting-matters?u=76281980)
@@ -739,7 +756,7 @@ created: 2026-04-29
 
 ### 3. Inclusive Meeting Technology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Agenda and materials
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/agenda-and-materials?u=76281980)
@@ -1140,7 +1157,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review and assess
 > [LinkedIn Learning](https://www.linkedin.com/learning/supporting-accessibility-in-a-hybrid-workplace/review-and-assess?u=76281980)

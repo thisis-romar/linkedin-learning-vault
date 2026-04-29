@@ -48,14 +48,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting to Know GraphQL]]** (5 videos)
-- **[[#2. Building GraphQL APIs]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Build a GraphQL API with Spring Boot
+  - What you should know
+- [**1. Getting to Know GraphQL**](#1-getting-to-know-graphql) (5 videos)
+  - The power of GraphQL
+  - GraphQL in Java
+  - GraphQL terminology
+  - GraphQL schemas
+  - Using the playground
+- [**2. Building GraphQL APIs**](#2-building-graphql-apis) (8 videos)
+  - Setting up the project
+  - Creating the schema
+  - Creating a Spring Data repository
+  - Creating the GraphQL controller
+  - Mutations
+  - Errors
+  - Challenge: Extending the API
+  - Solution: Extending the API
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a GraphQL API with Spring Boot
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/build-a-graphql-api-with-spring-boot?u=76281980)
@@ -204,7 +220,7 @@ created: 2026-04-29
 
 ### 1. Getting to Know GraphQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of GraphQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/the-power-of-graphql?u=76281980)
@@ -638,7 +654,7 @@ created: 2026-04-29
 
 ### 2. Building GraphQL APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the project
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/setting-up-the-project?u=76281980)
@@ -1528,7 +1544,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-with-graphql/next-steps?u=76281980)

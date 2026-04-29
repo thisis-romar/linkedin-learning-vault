@@ -51,15 +51,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting to KWYRWTS]]** (2 videos)
-- **[[#2. The Standards]]** (14 videos)
-- **[[#3. Beyond the Standards]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Choose wisely
+  - What you should know
+- [**1. Getting to KWYRWTS**](#1-getting-to-kwyrwts) (2 videos)
+  - What are the KWYs?
+  - Getting to KWYs
+- [**2. The Standards**](#2-the-standards) (14 videos)
+  - Chart categories
+  - Comparisons: Bars and columns
+  - Comparisons: Beyond bars
+  - Trends: Line charts
+  - Trends: Beyond the line
+  - Proportions: Pie charts and more
+  - Proportions: Beyond the circle
+  - Relationships: Correlation
+  - Relationships: Hierarchical and network
+  - Relationships: Flow
+  - Distribution: Histograms
+  - Distribution: Beyond histograms
+  - Deviation
+  - Geographic
+- [**3. Beyond the Standards**](#3-beyond-the-standards) (2 videos)
+  - To cumulative or not cumulative?
+  - Outside the box
+- [**Conclusion**](#conclusion) (1 videos)
+  - Wrapping it up
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose wisely
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/choose-wisely?u=76281980)
@@ -109,7 +130,7 @@ created: 2026-04-29
 
 ### 1. Getting to KWYRWTS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are the KWYs?
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/what-are-the-kwys?u=76281980)
@@ -359,7 +380,7 @@ created: 2026-04-29
 
 ### 2. The Standards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Chart categories
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/chart-categories-23470796?u=76281980)
@@ -1838,7 +1859,7 @@ created: 2026-04-29
 
 ### 3. Beyond the Standards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### To cumulative or not cumulative?
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/to-cumulative-or-not-cumulative?u=76281980)
@@ -2128,7 +2149,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrapping it up
 > [LinkedIn Learning](https://www.linkedin.com/learning/picking-the-right-chart-for-your-data/wrapping-it-up?u=76281980)

@@ -41,15 +41,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Control access to Azure]]** (10 videos)
-- **[[#2. Control user access to your apps]]** (6 videos)
-- **[[#3. Control app access to your data]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why security matters for developers
+  - What you should know
+- [**1. Control access to Azure**](#1-control-access-to-azure) (10 videos)
+  - Azure Role Based Access Control (RBAC)
+  - Grant role based access to a user
+  - Azure RBAC roles for development
+  - The contributor role
+  - The User Access Administrator and Owner roles
+  - Custom Azure RBAC roles
+  - Create custom Azure RBAC roles
+  - Management pane vs data pane RBAC roles
+  - Challenge: Design Azure access control
+  - Solution: Design Azure access control design
+- [**2. Control user access to your apps**](#2-control-user-access-to-your-apps) (6 videos)
+  - Register an application to Azure AD
+  - Web application sign in with Azure AD
+  - Securing web application authentication with Azure AD Conditional Access
+  - The Microsoft Authentication Library
+  - Challenge: Internal web app with Azure AD
+  - Solution: Internal web application with Azure AD
+- [**3. Control app access to your data**](#3-control-app-access-to-your-data) (9 videos)
+  - Manage Azure application secrets
+  - Shared Access Signatures in Azure
+  - Azure Key Vault service
+  - Adding secrets to an Azure Key Vault
+  - Azure Key Vault Access Policies
+  - Audit logs
+  - Managed Identity for Azure Resources
+  - Challenge: Design data access controls
+  - Solution: Design data access controls
+- [**Conclusion**](#conclusion) (1 videos)
+  - Developing solutions for Azure and beyond
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why security matters for developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/why-security-matters-for-developers-14526626?u=76281980)
@@ -116,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Control access to Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure Role Based Access Control (RBAC)
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/azure-role-based-access-control-rbac-14525625?u=76281980)
@@ -672,7 +700,7 @@ created: 2026-04-29
 
 ### 2. Control user access to your apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Register an application to Azure AD
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/register-an-application-to-azure-ad?u=76281980)
@@ -1055,7 +1083,7 @@ created: 2026-04-29
 
 ### 3. Control app access to your data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Manage Azure application secrets
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/manage-azure-application-secrets-14528559?u=76281980)
@@ -1645,7 +1673,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing solutions for Azure and beyond
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-developer-associate-az-204-cert-prep-implement-azure-security/developing-solutions-for-azure-and-beyond?u=76281980)

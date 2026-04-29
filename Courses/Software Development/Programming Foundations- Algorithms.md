@@ -57,19 +57,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Overview]]** (3 videos)
-- **[[#2. Common Data Structures]]** (7 videos)
-- **[[#3. Recursion]]** (3 videos)
-- **[[#4. Sorting Information]]** (6 videos)
-- **[[#5. Searching for Data]]** (3 videos)
-- **[[#6. Practical Examples with Data Structures]]** (4 videos)
-- **[[#Glossaries]]** (0 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Algorithms power the world
+  - What you should know
+- [**1. Overview**](#1-overview) (3 videos)
+  - What are algorithms?
+  - Common algorithms in programming
+  - Measuring algorithm performance
+- [**2. Common Data Structures**](#2-common-data-structures) (7 videos)
+  - Introduction to common data structures
+  - Arrays
+  - Linked lists
+  - Linked lists example
+  - Stacks and queues
+  - Stacks and queues example
+  - Dictionaries
+- [**3. Recursion**](#3-recursion) (3 videos)
+  - Understanding recursion
+  - Simple recursion example
+  - Calculating power and factorial
+- [**4. Sorting Information**](#4-sorting-information) (6 videos)
+  - Overview of sorting
+  - The bubble sort
+  - The merge sort
+  - Implementing the merge sort
+  - The quicksort
+  - Implementing the quicksort
+- [**5. Searching for Data**](#5-searching-for-data) (3 videos)
+  - Unordered list search
+  - Binary search
+  - Determine if a list is sorted
+- [**6. Practical Examples with Data Structures**](#6-practical-examples-with-data-structures) (4 videos)
+  - Unique filtering with sets
+  - Value counting with a dictionary
+  - Find max value recursively
+  - Balancing statements with Stack
+- [**Glossaries**](#glossaries) (0 videos)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Algorithms power the world
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/algorithms-power-the-world?u=76281980)
@@ -205,7 +234,7 @@ created: 2026-04-29
 
 ### 1. Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are algorithms?
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/what-are-algorithms?u=76281980)
@@ -462,7 +491,7 @@ created: 2026-04-29
 
 ### 2. Common Data Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to common data structures
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/introduction-to-common-data-structures?u=76281980)
@@ -1052,7 +1081,7 @@ created: 2026-04-29
 
 ### 3. Recursion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding recursion
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/understanding-recursion?u=76281980)
@@ -1324,7 +1353,7 @@ created: 2026-04-29
 
 ### 4. Sorting Information
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of sorting
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/overview-of-sorting?u=76281980)
@@ -1787,7 +1816,7 @@ created: 2026-04-29
 
 ### 5. Searching for Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unordered list search
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unordered-list-search?u=76281980)
@@ -2029,7 +2058,7 @@ created: 2026-04-29
 
 ### 6. Practical Examples with Data Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Unique filtering with sets
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/unique-filtering-with-sets?u=76281980)
@@ -2385,12 +2414,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-algorithms-22973142/next-steps?u=76281980)

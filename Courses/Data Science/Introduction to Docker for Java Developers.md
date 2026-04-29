@@ -50,16 +50,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (4 videos)
-- **[[#2. Understanding Docker]]** (8 videos)
-- **[[#3. Containerization Best Practices]]** (5 videos)
-- **[[#4. Dockerfile Alternatives]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Zero to Zero to Hero
+  - What you should know
+- [**1. Getting Started**](#1-getting-started) (4 videos)
+  - Imagine building and launching a Java app without Java
+  - Installing Docker Desktop
+  - Building, deploying, and launching the Java app
+  - Scaffolding Java applications with Docker
+- [**2. Understanding Docker**](#2-understanding-docker) (8 videos)
+  - Understanding containerization
+  - Comparing images to containers
+  - Writing Dockerfiles
+  - Discover the Docker CLI
+  - Learn Dockerfile instructions
+  - Convert code to a Docker image
+  - Challenge: Modify Dockerfile to remove Forever.java
+  - Solution: Modify Dockerfile to remove Forever.java
+- [**3. Containerization Best Practices**](#3-containerization-best-practices) (5 videos)
+  - Layering in Docker images
+  - Building multistage Docker images
+  - Specify volumes and ports
+  - Docker registry
+  - Container orchestration with Docker Compose
+- [**4. Dockerfile Alternatives**](#4-dockerfile-alternatives) (4 videos)
+  - Ditching the Dockerfile
+  - Cloud Native Buildpacks
+  - Spring Boot Docker plugin
+  - The Google Jib plugin
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Zero to Zero to Hero
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/zero-to-zero-to-hero?u=76281980)
@@ -145,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Imagine building and launching a Java app without Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/imagine-building-and-launching-a-java-app-without-java?u=76281980)
@@ -548,7 +572,7 @@ created: 2026-04-29
 
 ### 2. Understanding Docker
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding containerization
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/understanding-containerization?u=76281980)
@@ -1142,7 +1166,7 @@ created: 2026-04-29
 
 ### 3. Containerization Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Layering in Docker images
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/layering-in-docker-images?u=76281980)
@@ -1901,7 +1925,7 @@ created: 2026-04-29
 
 ### 4. Dockerfile Alternatives
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ditching the Dockerfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/ditching-the-dockerfile?u=76281980)
@@ -2166,7 +2190,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-docker-for-java-developers/next-steps?u=76281980)

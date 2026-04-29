@@ -48,20 +48,82 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Quantum Bits]]** (12 videos)
-- **[[#2. Multiple Quantum Bits]]** (3 videos)
-- **[[#3. Single-Qubit Pauli Gates]]** (10 videos)
-- **[[#4. Single-Qubit Superposition Gates]]** (10 videos)
-- **[[#5. Multi-Qubit Gates]]** (8 videos)
-- **[[#6. Quantum Entanglement]]** (5 videos)
-- **[[#7. Real Quantum Hardware]]** (3 videos)
-- **[[#8. Quantum Algorithms]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Learn quantum computing
+  - What you should know
+  - Qiskit and GitHub Codespaces
+  - Why quantum computing?
+- [**1. Quantum Bits**](#1-quantum-bits) (12 videos)
+  - Classical bits vs. quantum bits
+  - Measuring a qubit
+  - Measure a qubit with Qiskit
+  - Overview of vectors
+  - Overview of complex numbers
+  - Represent qubits as vectors
+  - Represent qubits on the Bloch sphere
+  - State vectors and Bloch spheres with Qiskit
+  - Build a model Bloch sphere
+  - Global and relative phase
+  - Challenge: Create a quantum circuit
+  - Solution: Create a quantum circuit
+- [**2. Multiple Quantum Bits**](#2-multiple-quantum-bits) (3 videos)
+  - Represent multiple qubits
+  - Represent multiple qubits with Qiskit
+  - How much information is in a qubit?
+- [**3. Single-Qubit Pauli Gates**](#3-single-qubit-pauli-gates) (10 videos)
+  - Overview of matrix operations
+  - Quantum logic gates
+  - Pauli-X gate
+  - Pauli-X gate with Qiskit
+  - Pauli-Y gate
+  - Pauli-Y gate with Qiskit
+  - Pauli-Z gate
+  - Pauli-Z gate with Qiskit
+  - Challenge: Binary numbers
+  - Solution: Binary numbers
+- [**4. Single-Qubit Superposition Gates**](#4-single-qubit-superposition-gates) (10 videos)
+  - Hadamard gate
+  - Hadamard gate with Qiskit
+  - Measurement on an arbitrary basis
+  - Phase shift gates
+  - Phase shift gates with Qiskit
+  - Parameterized rotation gates
+  - Parameterized rotation gates with Qiskit
+  - Single-qubit gates on multi-qubit states
+  - Challenge: Random numbers
+  - Solution: Random numbers
+- [**5. Multi-Qubit Gates**](#5-multi-qubit-gates) (8 videos)
+  - Controlled-NOT (CNOT) gate
+  - Controlled-NOT (CNOT) gate with Qiskit
+  - Toffoli gate
+  - Toffoli gate with Qiskit
+  - Swap and Fredkin gates
+  - Swap and Fredkin gates with Qiskit
+  - Challenge: Classical two-bit adder
+  - Solution: Classical two-bit adder
+- [**6. Quantum Entanglement**](#6-quantum-entanglement) (5 videos)
+  - What is quantum entanglement?
+  - Represent entangled qubits
+  - Simulate a bell state with Qiskit
+  - Challenge: Entangle three qubits
+  - Solution: Entangle three qubits
+- [**7. Real Quantum Hardware**](#7-real-quantum-hardware) (3 videos)
+  - Access IBM quantum computers
+  - Use Qiskit with real quantum hardware
+  - Mitigate quantum measurement errors
+- [**8. Quantum Algorithms**](#8-quantum-algorithms) (6 videos)
+  - Superdense coding
+  - Superdense coding with Qiskit
+  - Quantum teleportation
+  - Quantum teleportation with Qiskit
+  - Challenge: Real quantum teleportation
+  - Solution: Real quantum teleportation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your next quantum steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn quantum computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing?u=76281980)
@@ -380,7 +442,7 @@ created: 2026-04-29
 
 ### 1. Quantum Bits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classical bits vs. quantum bits
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/classical-bits-vs-quantum-bits?u=76281980)
@@ -1904,7 +1966,7 @@ created: 2026-04-29
 
 ### 2. Multiple Quantum Bits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Represent multiple qubits
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/represent-multiple-qubits?u=76281980)
@@ -2114,7 +2176,7 @@ created: 2026-04-29
 
 ### 3. Single-Qubit Pauli Gates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of matrix operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/overview-of-matrix-operations?u=76281980)
@@ -2862,7 +2924,7 @@ created: 2026-04-29
 
 ### 4. Single-Qubit Superposition Gates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hadamard gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/hadamard-gate?u=76281980)
@@ -3520,7 +3582,7 @@ created: 2026-04-29
 
 ### 5. Multi-Qubit Gates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Controlled-NOT (CNOT) gate
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/controlled-not-cnot-gate?u=76281980)
@@ -3966,7 +4028,7 @@ created: 2026-04-29
 
 ### 6. Quantum Entanglement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is quantum entanglement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/what-is-quantum-entanglement?u=76281980)
@@ -4377,7 +4439,7 @@ created: 2026-04-29
 
 ### 7. Real Quantum Hardware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Access IBM quantum computers
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/access-ibm-quantum-computers?u=76281980)
@@ -4657,7 +4719,7 @@ created: 2026-04-29
 
 ### 8. Quantum Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Superdense coding
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/superdense-coding?u=76281980)
@@ -5178,7 +5240,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your next quantum steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/quantum-computing-fundamentals/your-next-quantum-steps?u=76281980)

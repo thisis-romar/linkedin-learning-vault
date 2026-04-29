@@ -48,14 +48,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Approaches to Seasonal Smoothing]]** (5 videos)
-- **[[#2. Optimizing Seasonal Forecasts]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why seasonal baseline smoothing will help your regression
+  - Software setup
+- [**1. Approaches to Seasonal Smoothing**](#1-approaches-to-seasonal-smoothing) (5 videos)
+  - Seasonality in a baseline
+  - Defined names and relative references
+  - Diagnosing seasonality
+  - Simple seasonal indexes
+  - Seasonal smoothing and horizontal baselines
+- [**2. Optimizing Seasonal Forecasts**](#2-optimizing-seasonal-forecasts) (3 videos)
+  - Minimizing RMSE
+  - The Excel Forecast Sheet
+  - Prepare to make a seasonal forecast in R
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why seasonal baseline smoothing will help your regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/why-seasonal-baseline-smoothing-will-help-your-regression?u=76281980)
@@ -151,7 +162,7 @@ created: 2026-04-29
 
 ### 1. Approaches to Seasonal Smoothing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Seasonality in a baseline
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/seasonality-in-a-baseline?u=76281980)
@@ -634,7 +645,7 @@ created: 2026-04-29
 
 ### 2. Optimizing Seasonal Forecasts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Minimizing RMSE
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/minimizing-rmse?u=76281980)
@@ -989,7 +1000,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analytics-forecasting-with-seasonal-baseline-smoothing/next-steps?u=76281980)

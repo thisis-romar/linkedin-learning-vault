@@ -53,18 +53,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. A Brief Overview of SQL]]** (7 videos)
-- **[[#2. Patient Care Management]]** (3 videos)
-- **[[#3. Population Health Management]]** (6 videos)
-- **[[#4. Clinical Research]]** (4 videos)
-- **[[#5. Healthcare Administration]]** (5 videos)
-- **[[#6. Final Project: Healthcare Analytics]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - SQL for healthcare: Transforming data into insights
+  - What you need to know
+  - Installing the SQL exercise files
+- [**1. A Brief Overview of SQL**](#1-a-brief-overview-of-sql) (7 videos)
+  - Why use SQL in healthcare?
+  - How to gather data for analysis using SQL
+  - Using aggregate functions to manipulate the data
+  - Using a CASE statement for data classification
+  - Date manipulation in SQL
+  - What are relational databases?
+  - How to gather data from different tables using JOINS
+- [**2. Patient Care Management**](#2-patient-care-management) (3 videos)
+  - How SQL is used in patient care management
+  - Using SQL to recommend individualized treatment
+  - Patient safety monitoring
+- [**3. Population Health Management**](#3-population-health-management) (6 videos)
+  - How to use SQL to manage population health
+  - Risk stratification in SQL
+  - Predictive analytics in population health
+  - Social determinants of health (SDOH) and SQL
+  - Challenge: Risk stratification
+  - Solution: Risk stratification
+- [**4. Clinical Research**](#4-clinical-research) (4 videos)
+  - Using SQL in clinical research
+  - Cohort identification using SQL
+  - Descriptive analytics using SQL in clinical research
+  - Outcome analysis techniques with SQL
+- [**5. Healthcare Administration**](#5-healthcare-administration) (5 videos)
+  - How to use SQL to analyze workflow
+  - Data exchange using SQL
+  - Quality improvement initiatives
+  - Challenge: Appointment analysis
+  - Solution: Appointment analysis
+- [**6. Final Project: Healthcare Analytics**](#6-final-project-healthcare-analytics) (8 videos)
+  - Assignment: Healthcare analytics scenario
+  - Walkthrough: Demographics scenario
+  - Walkthrough: Demographics and diagnosis scenario
+  - Walkthrough: Appointments scenario
+  - Walkthrough: Laboratory scenario
+  - Walkthrough: Laboratory with risk scenario
+  - Walkthrough: Risk scenario
+  - Walkthrough: Readmission scenario
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL for healthcare: Transforming data into insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/sql-for-healthcare-transforming-data-into-insights?u=76281980)
@@ -187,7 +224,7 @@ created: 2026-04-29
 
 ### 1. A Brief Overview of SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use SQL in healthcare?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/why-sql-in-healthcare?u=76281980)
@@ -754,7 +791,7 @@ created: 2026-04-29
 
 ### 2. Patient Care Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How SQL is used in patient care management
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-sql-is-used-in-patient-care-management?u=76281980)
@@ -906,7 +943,7 @@ created: 2026-04-29
 
 ### 3. Population Health Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to use SQL to manage population health
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-manage-population-health?u=76281980)
@@ -1326,7 +1363,7 @@ created: 2026-04-29
 
 ### 4. Clinical Research
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using SQL in clinical research
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/using-sql-in-clinical-research?u=76281980)
@@ -1673,7 +1710,7 @@ created: 2026-04-29
 
 ### 5. Healthcare Administration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to use SQL to analyze workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/how-to-use-sql-to-analyze-workflow?u=76281980)
@@ -2000,7 +2037,7 @@ created: 2026-04-29
 
 ### 6. Final Project: Healthcare Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assignment: Healthcare analytics scenario
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/assignment-healthcare-analytics-scenario?u=76281980)
@@ -2449,7 +2486,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-healthcare-professionals/next-steps?u=76281980)

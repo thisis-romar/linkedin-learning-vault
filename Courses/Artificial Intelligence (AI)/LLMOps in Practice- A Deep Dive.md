@@ -55,16 +55,55 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Build a Basic LLM App]]** (6 videos)
-- **[[#2. First Steps in Ops]]** (7 videos)
-- **[[#3. BYOD with RAG]]** (11 videos)
-- **[[#4. RAG and Ops]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - A deep dive into LLM operations
+  - What are LLMs?
+  - What are transformers?
+  - What is LLMOps?
+- [**1. Build a Basic LLM App**](#1-build-a-basic-llm-app) (6 videos)
+  - Prompting
+  - Advanced prompting
+  - Hosting an app
+  - Create a chatbot
+  - LLM exercise
+  - Adding logging to your server
+- [**2. First Steps in Ops**](#2-first-steps-in-ops) (7 videos)
+  - Coding for logging
+  - Exploring the logging system
+  - RLHF and user feedback
+  - Challenge: Implementing RLHF and user feedback
+  - Demonstrating the ops project completed
+  - Solution: Completing an ops project
+  - Demonstrating the code for the ops
+- [**3. BYOD with RAG**](#3-byod-with-rag) (11 videos)
+  - Retrieval augmented generation (RAG)
+  - Installing and setting up a VectorDB
+  - Create a VectorDB
+  - BYOD to a VectorDB
+  - VectorDB: Hands-on use case
+  - Querying the VectorDB
+  - Demonstration: Querying the VectorDB
+  - Extending your app with RAG
+  - RAG: Showing it in action
+  - Challenge: Complete RAG application
+  - Solution: Complete RAG application
+- [**4. RAG and Ops**](#4-rag-and-ops) (10 videos)
+  - Extending RAG with ops
+  - Logging
+  - Hands-on logging
+  - Metrics
+  - Hands-on metrics
+  - Version management
+  - Hands-on version management
+  - RAG Ops: Updating the data
+  - Hands-on RAG ops
+  - RAG in action: Exercise
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your LLMOps learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A deep dive into LLM operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/a-deep-dive-into-llms-operations?u=76281980)
@@ -381,7 +420,7 @@ created: 2026-04-29
 
 ### 1. Build a Basic LLM App
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompting
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980)
@@ -1203,7 +1242,7 @@ created: 2026-04-29
 
 ### 2. First Steps in Ops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Coding for logging
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980)
@@ -2270,7 +2309,7 @@ created: 2026-04-29
 
 ### 3. BYOD with RAG
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieval augmented generation (RAG)
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980)
@@ -4431,7 +4470,7 @@ created: 2026-04-29
 
 ### 4. RAG and Ops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending RAG with ops
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980)
@@ -6123,7 +6162,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your LLMOps learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/continue-your-llmops-learning-journey?u=76281980)

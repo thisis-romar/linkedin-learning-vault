@@ -51,17 +51,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Azure Speech in Action: Common Use Cases]]** (1 videos)
-- **[[#2. Speech to Text and Transcription]]** (5 videos)
-- **[[#3. Text to Speech]]** (3 videos)
-- **[[#4. Avatars]]** (3 videos)
-- **[[#5. Advanced Speech Capabilities]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - What this course is about
+  - What you should know
+- [**1. Azure Speech in Action: Common Use Cases**](#1-azure-speech-in-action-common-use-cases) (1 videos)
+  - Common scenarios for Azure AI Speech
+- [**2. Speech to Text and Transcription**](#2-speech-to-text-and-transcription) (5 videos)
+  - How speech to text works
+  - Transcription
+  - Customizing speech to text
+  - Choosing between the OpenAI Whisper and Azure Speech models
+  - Speech translation
+- [**3. Text to Speech**](#3-text-to-speech) (3 videos)
+  - Text to speech: Azure Voice Gallery
+  - Audio content creation
+  - Custom voices
+- [**4. Avatars**](#4-avatars) (3 videos)
+  - Combining speech with avatars
+  - Building custom avatars
+  - Live chat avatars
+- [**5. Advanced Speech Capabilities**](#5-advanced-speech-capabilities) (4 videos)
+  - Video translation
+  - Pronunciation assessment
+  - Using Azure Content Understanding for audio and video
+  - Azure Speech vs. real-time LLMs
+- [**Conclusion**](#conclusion) (1 videos)
+  - More resources on Azure Speech
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What this course is about
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980)
@@ -136,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Azure Speech in Action: Common Use Cases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common scenarios for Azure AI Speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980)
@@ -215,7 +234,7 @@ created: 2026-04-29
 
 ### 2. Speech to Text and Transcription
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How speech to text works
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/how-speech-to-text-works?u=76281980)
@@ -638,7 +657,7 @@ created: 2026-04-29
 
 ### 3. Text to Speech
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Text to speech: Azure Voice Gallery
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980)
@@ -984,7 +1003,7 @@ created: 2026-04-29
 
 ### 4. Avatars
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Combining speech with avatars
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980)
@@ -1138,7 +1157,7 @@ created: 2026-04-29
 
 ### 5. Advanced Speech Capabilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Video translation
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/video-translation?u=76281980)
@@ -1394,7 +1413,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More resources on Azure Speech
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980)

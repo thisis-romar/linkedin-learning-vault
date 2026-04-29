@@ -48,16 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (6 videos)
-- **[[#2. Improving the Test]]** (4 videos)
-- **[[#3. JMeter CLI]]** (5 videos)
-- **[[#4. Viewing the Results]]** (4 videos)
-- **[[#Conclusion]]** (0 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Testing with JMeter
+  - What is load testing, and why do we do it?
+- [**1. Getting Started**](#1-getting-started) (6 videos)
+  - Installing graph plugins
+  - Creating a load test
+  - Adding a thread group
+  - Adding a sampler
+  - Adding a listener
+  - Running your first load test
+- [**2. Improving the Test**](#2-improving-the-test) (4 videos)
+  - Adding timers
+  - Adding assertions
+  - Adding HTTP managers
+  - Challenge: Create a simple test plan with Thread Group, Sampler, and Listener
+- [**3. JMeter CLI**](#3-jmeter-cli) (5 videos)
+  - Why use the command line?
+  - Opening JMeter through the CLI
+  - Running your load test through the CLI
+  - Saving CLI results to a .jtl file
+  - Challenge: Run a load test via CLI
+- [**4. Viewing the Results**](#4-viewing-the-results) (4 videos)
+  - Importing a .jtl file to JMeter graphs
+  - Creating an HTML dashboard at CLI runtime
+  - Viewing the dashboard
+  - Pros and cons
+- [**Conclusion**](#conclusion) (0 videos)
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing with JMeter
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980)
@@ -129,7 +150,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing graph plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/installing-graph-plugins?u=76281980)
@@ -409,7 +430,7 @@ created: 2026-04-29
 
 ### 2. Improving the Test
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding timers
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980)
@@ -617,7 +638,7 @@ created: 2026-04-29
 
 ### 3. JMeter CLI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use the command line?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980)
@@ -835,7 +856,7 @@ created: 2026-04-29
 
 ### 4. Viewing the Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importing a .jtl file to JMeter graphs
 > [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980)
@@ -974,7 +995,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ## Instructor

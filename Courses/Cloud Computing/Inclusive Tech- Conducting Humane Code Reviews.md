@@ -58,16 +58,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Why Do We Perform Code Reviews?]]** (4 videos)
-- **[[#2. The Working Team Agreement]]** (4 videos)
-- **[[#3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)]]** (3 videos)
-- **[[#4. Strategies for Better Code Reviews]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Code reviews: heated, but needed
+- [**1. Why Do We Perform Code Reviews?**](#1-why-do-we-perform-code-reviews) (4 videos)
+  - Goal 1: Catch design flaws
+  - Goal 2: Ensure code clarity and coherence
+  - Goal 3: Validate necessity
+  - Goal 4: Confirm functionality
+- [**2. The Working Team Agreement**](#2-the-working-team-agreement) (4 videos)
+  - What's a team working agreement?
+  - Why does my team need a team working agreement?
+  - Challenge: Create a team agreement
+  - Solution: Sample team agreement
+- [**3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)**](#3-developer-pain-points-in-code-reviews-aka-what-not-to-do) (3 videos)
+  - Subjectivity
+  - Tone of voice
+  - Process loopholes
+- [**4. Strategies for Better Code Reviews**](#4-strategies-for-better-code-reviews) (6 videos)
+  - Objectivity
+  - Tools of objectivity
+  - TL;DR Don't be a jerk!
+  - Team working agreement to the rescue!
+  - Challenge: Your code review challenge
+  - Solution: Your code review challenge
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your code reviews
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Code reviews: heated, but needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980)
@@ -138,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Why Do We Perform Code Reviews?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Goal 1: Catch design flaws
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980)
@@ -353,7 +372,7 @@ created: 2026-04-29
 
 ### 2. The Working Team Agreement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's a team working agreement?
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/what-s-a-team-working-agreement?u=76281980)
@@ -512,7 +531,7 @@ created: 2026-04-29
 
 ### 3. Developer Pain Points in Code Reviews (AKA, What Not to Do!)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Subjectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/subjectivity?u=76281980)
@@ -672,7 +691,7 @@ created: 2026-04-29
 
 ### 4. Strategies for Better Code Reviews
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Objectivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/objectivity?u=76281980)
@@ -981,7 +1000,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your code reviews
 > [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980)

@@ -49,18 +49,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. What Is Automation?]]** (3 videos)
-- **[[#2. Jira Automation Concepts]]** (10 videos)
-- **[[#3. Managing Automation Rules]]** (7 videos)
-- **[[#4. Extending Capabilities with Smart Values]]** (8 videos)
-- **[[#5. Use Cases and Examples]]** (9 videos)
-- **[[#6. Automation with Apps]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Automating common Jira activities
+  - Who is this course for?
+  - What do you need for this course?
+  - Important terms and definitions
+- [**1. What Is Automation?**](#1-what-is-automation) (3 videos)
+  - Levels of automation
+  - Automation benefits
+  - Capabilities in Jira
+- [**2. Jira Automation Concepts**](#2-jira-automation-concepts) (10 videos)
+  - Using automation
+  - Using and creating templates
+  - Creating custom rules
+  - Triggering rules
+  - Adding conditions
+  - Using branches
+  - Leveraging actions
+  - Testing rules
+  - Challenge: Create a common rule
+  - Solution: Create a common rule
+- [**3. Managing Automation Rules**](#3-managing-automation-rules) (7 videos)
+  - Maintaining rules
+  - Importing and exporting rules
+  - Documenting rules
+  - Monitoring usage
+  - Troubleshooting errors
+  - Challenge: Back up a rule
+  - Solution: Back up a rule
+- [**4. Extending Capabilities with Smart Values**](#4-extending-capabilities-with-smart-values) (8 videos)
+  - Using smart values
+  - Accessing project and issue data
+  - Working with user properties
+  - Leveraging dates and times
+  - Using conditional logic
+  - Performing calculations
+  - Challenge: Create a rule with smart values
+  - Solution: Create a rule with smart values
+- [**5. Use Cases and Examples**](#5-use-cases-and-examples) (9 videos)
+  - Communicating information
+  - Updating information
+  - Repeating frequent tasks
+  - Syncing information
+  - Performing maintenance
+  - Sending alerts
+  - Calculating information
+  - Challenge: Create an advanced rule
+  - Solution: Create an advanced rule
+- [**6. Automation with Apps**](#6-automation-with-apps) (5 videos)
+  - Post functions with JMWE
+  - Scheduled actions with JMWE
+  - Event-based actions with JMWE
+  - Monitoring config changes with Salto
+  - Test management with Katalon
+- [**Conclusion**](#conclusion) (1 videos)
+  - Additional resources for Jira learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automating common Jira activities
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980)
@@ -307,7 +354,7 @@ created: 2026-04-29
 
 ### 1. What Is Automation?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Levels of automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980)
@@ -457,7 +504,7 @@ created: 2026-04-29
 
 ### 2. Jira Automation Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980)
@@ -1158,7 +1205,7 @@ created: 2026-04-29
 
 ### 3. Managing Automation Rules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Maintaining rules
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/maintaining-rules?u=76281980)
@@ -1695,7 +1742,7 @@ created: 2026-04-29
 
 ### 4. Extending Capabilities with Smart Values
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using smart values
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-smart-values?u=76281980)
@@ -2265,7 +2312,7 @@ created: 2026-04-29
 
 ### 5. Use Cases and Examples
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicating information
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980)
@@ -2671,7 +2718,7 @@ created: 2026-04-29
 
 ### 6. Automation with Apps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Post functions with JMWE
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980)
@@ -3024,7 +3071,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional resources for Jira learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980)

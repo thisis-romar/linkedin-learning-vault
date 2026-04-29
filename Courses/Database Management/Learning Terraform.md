@@ -48,16 +48,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. First Steps with Terraform]]** (4 videos)
-- **[[#2. Terraform in Action]]** (6 videos)
-- **[[#3. Infrastructure as Code]]** (7 videos)
-- **[[#4. Advanced Topics]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn Terraform for your cloud infrastructure
+  - What you need
+- [**1. First Steps with Terraform**](#1-first-steps-with-terraform) (4 videos)
+  - What is Terraform?
+  - Your Terraform code repo
+  - Setting up AWS for Terraform
+  - Terraform Cloud
+- [**2. Terraform in Action**](#2-terraform-in-action) (6 videos)
+  - Terraform plan
+  - First Terraform run
+  - How Terraform works
+  - Terraform states
+  - Editing your code
+  - Understanding Terraform errors
+- [**3. Infrastructure as Code**](#3-infrastructure-as-code) (7 videos)
+  - Resources
+  - Basic resource types
+  - Terraform style
+  - Security group
+  - Using modules
+  - Terraform registry: Providers
+  - Terraform registry: Modules
+- [**4. Advanced Topics**](#4-advanced-topics) (8 videos)
+  - Get ready to scale
+  - Expanding your installation
+  - Variables
+  - Split out your data
+  - Modularize
+  - Deploying environments
+  - Cleaning up: Terraform destroy
+  - Terraform CLI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn Terraform for your cloud infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?u=76281980)
@@ -129,7 +157,7 @@ created: 2026-04-29
 
 ### 1. First Steps with Terraform
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Terraform?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/what-is-terraform?u=76281980)
@@ -489,7 +517,7 @@ created: 2026-04-29
 
 ### 2. Terraform in Action
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Terraform plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/terraform-plan?u=76281980)
@@ -1009,7 +1037,7 @@ created: 2026-04-29
 
 ### 3. Infrastructure as Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/resources?u=76281980)
@@ -1713,7 +1741,7 @@ created: 2026-04-29
 
 ### 4. Advanced Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get ready to scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/get-ready-to-scale-28200077?u=76281980)
@@ -3416,7 +3444,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-terraform-15575129/next-steps?u=76281980)

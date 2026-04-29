@@ -57,17 +57,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Graphs Made Simple: Understanding the Basics]]** (7 videos)
-- **[[#2. Getting Started with Graph Tools]]** (8 videos)
-- **[[#3. Building Your First Knowledge Graph for Graph Retrieval-Augmented Generation (GraphRAG)]]** (8 videos)
-- **[[#4. Connecting Knowledge Graphs to Generative AI]]** (7 videos)
-- **[[#5. Putting It All Together: Creating a Question-Answering Bot with GraphRAG]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Prevent GenAI apps from hallucinating
+  - An example of knowledge graphs at work in AI
+  - Codespaces explainer video
+- [**1. Graphs Made Simple: Understanding the Basics**](#1-graphs-made-simple-understanding-the-basics) (7 videos)
+  - What is a graph?
+  - Recognizing graphs in everyday life
+  - Why are graphs useful?
+  - Nodes, relationships, and properties
+  - Graphs vs. traditional data structures
+  - Knowledge graphs: Connecting information
+  - How graphs power AI
+- [**2. Getting Started with Graph Tools**](#2-getting-started-with-graph-tools) (8 videos)
+  - What is a graph database?
+  - Introduction to Neo4j
+  - Setting up Neo4j
+  - Exploring the Neo4j browser
+  - Cypher basics: Writing your first queries
+  - More cypher: Retrieving nodes and relationships
+  - Connecting Python to Neo4j
+  - Testing your setup with Cypher queries
+- [**3. Building Your First Knowledge Graph for Graph Retrieval-Augmented Generation (GraphRAG)**](#3-building-your-first-knowledge-graph-for-graph-retrieval-augmented-generation-graphrag) (8 videos)
+  - Introduction to Retrieval-Augmented Generation (RAG)
+  - How RAG works with vector embeddings
+  - Improving your RAG with graphs: GraphRAG
+  - Overview of LangChain
+  - Key concepts in LangChain for graph workflows
+  - Populating a knowledge graph into Neo4j using LangChain
+  - Challenge: Query your knowledge graph with Cypher
+  - Solution: Query your knowledge graph with Cypher
+- [**4. Connecting Knowledge Graphs to Generative AI**](#4-connecting-knowledge-graphs-to-generative-ai) (7 videos)
+  - Creating a GraphRAG pipeline with LangChain to query your data
+  - Enhancing your knowledge graph with richer data
+  - Using knowledge graphs in a GraphRAG pipeline
+  - Comparing the GraphRAG results to a traditional vector-based RAG
+  - Evaluating your GraphRAG pipeline
+  - Challenge: Evaluate your GraphRAG application
+  - Solution: Evaluate your GraphRAG application
+- [**5. Putting It All Together: Creating a Question-Answering Bot with GraphRAG**](#5-putting-it-all-together-creating-a-question-answering-bot-with-graphrag) (2 videos)
+  - Introduction to capstone project
+  - Walkthrough of capstone solution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with knowledge graphs, GraphRAG, and GenAI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prevent GenAI apps from hallucinating
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/prevent-genai-apps-from-hallucinating?u=76281980)
@@ -202,7 +238,7 @@ created: 2026-04-29
 
 ### 1. Graphs Made Simple: Understanding the Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a graph?
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph?u=76281980)
@@ -618,7 +654,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Graph Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a graph database?
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/what-is-a-graph-database?u=76281980)
@@ -1079,7 +1115,7 @@ created: 2026-04-29
 
 ### 3. Building Your First Knowledge Graph for Graph Retrieval-Augmented Generation (GraphRAG)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Retrieval-Augmented Generation (RAG)
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-retrieval-augmented-generation-rag?u=76281980)
@@ -1573,7 +1609,7 @@ created: 2026-04-29
 
 ### 4. Connecting Knowledge Graphs to Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a GraphRAG pipeline with LangChain to query your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/creating-a-graphrag-pipeline-with-langchain-to-query-your-data?u=76281980)
@@ -2096,7 +2132,7 @@ created: 2026-04-29
 
 ### 5. Putting It All Together: Creating a Question-Answering Bot with GraphRAG
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to capstone project
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/introduction-to-capstone-project?u=76281980)
@@ -2259,7 +2295,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with knowledge graphs, GraphRAG, and GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/graphrag-essential-training/continuing-on-with-knowledge-graphs-graphrag-and-genai?u=76281980)

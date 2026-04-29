@@ -46,18 +46,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Database Design Basics]]** (4 videos)
-- **[[#2. Data Relationships and Collations]]** (3 videos)
-- **[[#3. Data Normalization]]** (4 videos)
-- **[[#4. Understanding the Physical Relational Design]]** (8 videos)
-- **[[#5. How Developments in AI Affect Database Design]]** (3 videos)
-- **[[#6. Final Project]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - AI-ready data: Learning database design for success
+  - What you should know
+- [**1. Database Design Basics**](#1-database-design-basics) (4 videos)
+  - Types of relational databases
+  - Database schemas
+  - Entity relationship diagrams
+  - Relational database design basics
+- [**2. Data Relationships and Collations**](#2-data-relationships-and-collations) (3 videos)
+  - Determining primary keys
+  - Different data relationships
+  - Collation and character sets
+- [**3. Data Normalization**](#3-data-normalization) (4 videos)
+  - First normal form
+  - Second normal form
+  - Third normal form
+  - Normalization from BCNF to 6NF
+- [**4. Understanding the Physical Relational Design**](#4-understanding-the-physical-relational-design) (8 videos)
+  - Data types that are key to relational databases
+  - How rows and columns impact database design
+  - Types of relationships
+  - Defining primary keys
+  - Automatically increment a field
+  - The importance of foreign keys
+  - What is a null?
+  - Naming convention importance in relational databases
+- [**5. How Developments in AI Affect Database Design**](#5-how-developments-in-ai-affect-database-design) (3 videos)
+  - Architectural overview for AI
+  - Designing for AI
+  - Considerations for AI: Unstructured data and analytics
+- [**6. Final Project**](#6-final-project) (2 videos)
+  - Final project setup: Design your own database
+  - Final project walkthrough: Design your own database
+- [**Conclusion**](#conclusion) (1 videos)
+  - Empower your world: Innovate, act, transform
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI-ready data: Learning database design for success
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980)
@@ -113,7 +140,7 @@ created: 2026-04-29
 
 ### 1. Database Design Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980)
@@ -354,7 +381,7 @@ created: 2026-04-29
 
 ### 2. Data Relationships and Collations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Determining primary keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/determining-primary-keys?u=76281980)
@@ -550,7 +577,7 @@ created: 2026-04-29
 
 ### 3. Data Normalization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### First normal form
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980)
@@ -819,7 +846,7 @@ created: 2026-04-29
 
 ### 4. Understanding the Physical Relational Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data types that are key to relational databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980)
@@ -1267,7 +1294,7 @@ created: 2026-04-29
 
 ### 5. How Developments in AI Affect Database Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Architectural overview for AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980)
@@ -1412,7 +1439,7 @@ created: 2026-04-29
 
 ### 6. Final Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project setup: Design your own database
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980)
@@ -1534,7 +1561,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Empower your world: Innovate, act, transform
 > [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980)

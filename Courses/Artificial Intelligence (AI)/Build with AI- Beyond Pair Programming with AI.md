@@ -47,17 +47,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Tools, Materials, and Environments]]** (5 videos)
-- **[[#2. Looking the AI in the Mouth]]** (9 videos)
-- **[[#3. Iteration, Experimentation, and Expansion]]** (7 videos)
-- **[[#4. Tests and Test-Driven Development]]** (5 videos)
-- **[[#5. Pushing Forward with Conservative Tools]]** (5 videos)
-- **[[#6. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Pair-programming with AI
+  - Prerequisites and how to use the exercise files
+- [**1. Tools, Materials, and Environments**](#1-tools-materials-and-environments) (5 videos)
+  - Tools, materials, and environments
+  - AI as a chatty collaborator
+  - AI in the IDE
+  - AI in the pilot seat
+  - AI and rethinking what a developer is
+- [**2. Looking the AI in the Mouth**](#2-looking-the-ai-in-the-mouth) (9 videos)
+  - Where to start and how to start
+  - Inline generation
+  - Seeding, selecting, and expanding
+  - Generating documentation
+  - Documentation-Driven Development (DDD?)
+  - Chatting with code
+  - Code from a chat (ChatGPT)
+  - Artifacts (Claude)
+  - Knowledge, trust, and conservative models
+- [**3. Iteration, Experimentation, and Expansion**](#3-iteration-experimentation-and-expansion) (7 videos)
+  - Let's build an app together!
+  - Start with a prompt
+  - Use AI to build the layout
+  - Add an interactive map
+  - Use DDD to add an AI chat
+  - AI-driven code iteration
+  - Hallucinations, errors, and how to address them
+- [**4. Tests and Test-Driven Development**](#4-tests-and-test-driven-development) (5 videos)
+  - AI and the renewed importance of tests
+  - Writing tests with AI
+  - Getting AI to set up your test environment
+  - Effective TDD with modern AI tools
+  - The challenges of AI-powered TDD
+- [**5. Pushing Forward with Conservative Tools**](#5-pushing-forward-with-conservative-tools) (5 videos)
+  - Understanding bias in LLMs
+  - Detecting amplified old patterns
+  - Coaching the AI to use modern standards
+  - Documentation-driven AI assistance
+  - Leveraging pattern matching to push forward
+- [**6. Conclusion**](#6-conclusion) (1 videos)
+  - Upskilling is the new skill
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pair-programming with AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/pair-programming-with-ai?u=76281980)
@@ -135,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Tools, Materials, and Environments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tools, materials, and environments
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/tools-materials-and-environments?u=76281980)
@@ -458,7 +492,7 @@ created: 2026-04-29
 
 ### 2. Looking the AI in the Mouth
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to start and how to start
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/where-to-start-and-how-to-start?u=76281980)
@@ -1189,7 +1223,7 @@ created: 2026-04-29
 
 ### 3. Iteration, Experimentation, and Expansion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Let's build an app together!
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/let-s-build-an-app-together?u=76281980)
@@ -2018,7 +2052,7 @@ created: 2026-04-29
 
 ### 4. Tests and Test-Driven Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and the renewed importance of tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/ai-and-the-renewed-importance-of-tests?u=76281980)
@@ -2622,7 +2656,7 @@ created: 2026-04-29
 
 ### 5. Pushing Forward with Conservative Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding bias in LLMs
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/understanding-bias-in-llms?u=76281980)
@@ -2979,7 +3013,7 @@ created: 2026-04-29
 
 ### 6. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Upskilling is the new skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/build-with-ai-beyond-pair-programming-with-ai/upskilling-is-the-new-skill?u=76281980)

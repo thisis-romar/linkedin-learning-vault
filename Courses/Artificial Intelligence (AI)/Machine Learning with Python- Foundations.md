@@ -61,17 +61,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Machine Learning]]** (6 videos)
-- **[[#2. Collecting Data for Machine Learning]]** (2 videos)
-- **[[#3. Understanding Data for Machine Learning]]** (4 videos)
-- **[[#4. Preparing Data for Machine Learning]]** (7 videos)
-- **[[#5. Types of Machine Learning Models]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Machine learning in our world
+  - What you should know
+  - The tools you need
+  - Using the exercise files
+- [**1. Machine Learning**](#1-machine-learning) (6 videos)
+  - What is machine learning?
+  - What is not machine learning?
+  - What is unsupervised learning?
+  - What is supervised learning?
+  - What is reinforcement learning?
+  - What are the steps to machine learning?
+- [**2. Collecting Data for Machine Learning**](#2-collecting-data-for-machine-learning) (2 videos)
+  - Things to consider when collecting data
+  - How to import data in Python
+- [**3. Understanding Data for Machine Learning**](#3-understanding-data-for-machine-learning) (4 videos)
+  - Describe your data
+  - How to summarize data in Python
+  - Visualize your data
+  - How to visualize data in Python
+- [**4. Preparing Data for Machine Learning**](#4-preparing-data-for-machine-learning) (7 videos)
+  - Common data quality issues
+  - How to resolve missing data in Python
+  - Normalizing your data
+  - How to normalize data in Python
+  - Sampling your data
+  - How to sample data in Python
+  - Reducing the dimensionality of your data
+- [**5. Types of Machine Learning Models**](#5-types-of-machine-learning-models) (3 videos)
+  - Classification vs. regression problems
+  - How to build a machine learning model in Python
+  - Common machine learning algorithms
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with applied machine learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning in our world
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/machine-learning-in-our-world-23459526?u=76281980)
@@ -217,7 +244,7 @@ created: 2026-04-29
 
 ### 1. Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is machine learning?
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/what-is-machine-learning?u=76281980)
@@ -771,7 +798,7 @@ created: 2026-04-29
 
 ### 2. Collecting Data for Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Things to consider when collecting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/things-to-consider-when-collecting-data?u=76281980)
@@ -968,7 +995,7 @@ created: 2026-04-29
 
 ### 3. Understanding Data for Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describe your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/describe-your-data?u=76281980)
@@ -1396,7 +1423,7 @@ created: 2026-04-29
 
 ### 4. Preparing Data for Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Common data quality issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/common-data-quality-issues?u=76281980)
@@ -2126,7 +2153,7 @@ created: 2026-04-29
 
 ### 5. Types of Machine Learning Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Classification vs. regression problems
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/classification-vs-regression-problems?u=76281980)
@@ -2381,7 +2408,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with applied machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-with-python-foundations/next-steps-with-applied-machine-learning-23461463?u=76281980)

@@ -44,14 +44,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Get Them to Stay: The Basics]]** (3 videos)
-- **[[#2. Inspire Them to Grow: The Core Work]]** (3 videos)
-- **[[#3. Help Them Love Their Work: The Challenge]]** (3 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Be the manager people won't leave
+- [**1. Get Them to Stay: The Basics**](#1-get-them-to-stay-the-basics) (3 videos)
+  - Be someone people trust, no matter what
+  - Be an example of integrity
+  - Be relentlessly inclusive
+- [**2. Inspire Them to Grow: The Core Work**](#2-inspire-them-to-grow-the-core-work) (3 videos)
+  - Be obsessed with learning and development
+  - Be open to another way
+  - Be an advocate for change
+- [**3. Help Them Love Their Work: The Challenge**](#3-help-them-love-their-work-the-challenge) (3 videos)
+  - Be a next-level mentor
+  - Be a fun-loving boss
+  - Be a leader who isn't afraid to love
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be the manager people won't leave
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-the-manager-people-won-t-leave-23794103?u=76281980)
@@ -83,7 +93,7 @@ created: 2026-04-29
 
 ### 1. Get Them to Stay: The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be someone people trust, no matter what
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-someone-people-trust-no-matter-what-23749098?u=76281980)
@@ -299,7 +309,7 @@ created: 2026-04-29
 
 ### 2. Inspire Them to Grow: The Core Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be obsessed with learning and development
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-obsessed-with-learning-and-development-23789419?u=76281980)
@@ -523,7 +533,7 @@ created: 2026-04-29
 
 ### 3. Help Them Love Their Work: The Challenge
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Be a next-level mentor
 > [LinkedIn Learning](https://www.linkedin.com/learning/be-the-manager-people-won-t-leave/be-a-next-level-mentor-23791279?u=76281980)

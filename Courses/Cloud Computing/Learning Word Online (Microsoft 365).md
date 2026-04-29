@@ -49,15 +49,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Get Started with Word Online]]** (3 videos)
-- **[[#2. Document Basics]]** (7 videos)
-- **[[#3. Sharing and Collaboration]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Get the power of Word in your browser
+  - What you need for this course
+- [**1. Get Started with Word Online**](#1-get-started-with-word-online) (3 videos)
+  - Sign in and create a new document
+  - Rename a document in Word Online
+  - Close, open, and manage documents
+- [**2. Document Basics**](#2-document-basics) (7 videos)
+  - Type or dictate text into a Word document
+  - Use the transcribe feature
+  - Format text and use styles
+  - Apply document formatting in Word Online
+  - Add and format graphics
+  - Use headers and footers in Word Online
+  - Ensure your documents are accessible
+- [**3. Sharing and Collaboration**](#3-sharing-and-collaboration) (4 videos)
+  - Share a document with others
+  - Collaborate, assign tasks, and stop sharing
+  - Save to other formats for sharing
+  - Print documents from Word Online
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to learn more
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get the power of Word in your browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/get-the-power-of-word-in-your-browser?u=76281980)
@@ -117,7 +134,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Word Online
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sign in and create a new document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/sign-in-and-create-a-new-document?u=76281980)
@@ -446,7 +463,7 @@ created: 2026-04-29
 
 ### 2. Document Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Type or dictate text into a Word document
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/type-or-dictate-text-into-a-word-document?u=76281980)
@@ -1527,7 +1544,7 @@ created: 2026-04-29
 
 ### 3. Sharing and Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Share a document with others
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/share-a-document-with-others?u=76281980)
@@ -1946,7 +1963,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to learn more
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-online-microsoft-365-22376019/where-to-learn-more?u=76281980)

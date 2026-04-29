@@ -47,17 +47,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Spring Overview]]** (2 videos)
-- **[[#2. Configuring the ApplicationContext]]** (7 videos)
-- **[[#3. Component Scanning]]** (3 videos)
-- **[[#4. The Bean Lifecycle]]** (10 videos)
-- **[[#5. Aspect-Oriented Programming]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Building blocks of Spring
+  - What you should know
+- [**1. Spring Overview**](#1-spring-overview) (2 videos)
+  - Introduction to Spring
+  - The inversion of control (IoC) container
+- [**2. Configuring the ApplicationContext**](#2-configuring-the-applicationcontext) (7 videos)
+  - Introduction to the ApplicationContext
+  - Configuration of Spring with Java
+  - Work with the environment
+  - Profiles
+  - Spring Expression Language
+  - Bean scopes
+  - Proxies
+- [**3. Component Scanning**](#3-component-scanning) (3 videos)
+  - The component scan
+  - Implementing component scanning
+  - Lifecycle methods
+- [**4. The Bean Lifecycle**](#4-the-bean-lifecycle) (10 videos)
+  - Why the lifecycle is so important
+  - The overall picture
+  - The init phase: Loading bean definitions
+  - Init: Bean factory post-processing
+  - Init: Bean instantiation
+  - Init: Setters
+  - Init: Bean post-processing
+  - Init: Differences based on configuration
+  - The use phase
+  - The destruction phase
+- [**5. Aspect-Oriented Programming**](#5-aspect-oriented-programming) (7 videos)
+  - Aspecting in Spring
+  - Define aspect-oriented programming (AOP) pointcuts
+  - Implement AOP advice: Before
+  - Implement AOP advice: After
+  - Implement AOP advice: Around
+  - Challenge: Building your own aspect
+  - Solution: Building your own aspect
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building blocks of Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/building-blocks-of-spring?u=76281980)
@@ -167,7 +199,7 @@ created: 2026-04-29
 
 ### 1. Spring Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-spring?u=76281980)
@@ -383,7 +415,7 @@ created: 2026-04-29
 
 ### 2. Configuring the ApplicationContext
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the ApplicationContext
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/introduction-to-the-applicationcontext?u=76281980)
@@ -967,7 +999,7 @@ created: 2026-04-29
 
 ### 3. Component Scanning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The component scan
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/the-component-scan?u=76281980)
@@ -1196,7 +1228,7 @@ created: 2026-04-29
 
 ### 4. The Bean Lifecycle
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why the lifecycle is so important
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/why-the-lifecycle-is-so-important?u=76281980)
@@ -1813,7 +1845,7 @@ created: 2026-04-29
 
 ### 5. Aspect-Oriented Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Aspecting in Spring
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/aspecting-in-spring?u=76281980)
@@ -2310,7 +2342,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/spring-framework-in-depth-23924413/next-steps?u=76281980)

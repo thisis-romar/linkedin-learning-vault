@@ -46,15 +46,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Improving on Loops]]** (5 videos)
-- **[[#2. Objects Can Confuse]]** (6 videos)
-- **[[#3. Oh Functions, My Functions]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Learning Javascript: Finding the utility in less common patterns
+  - What you should know
+  - Using the exercise files
+  - How to work with CoderPad challenges
+- [**1. Improving on Loops**](#1-improving-on-loops) (5 videos)
+  - Pain point: Sequential "for" loops become tedious
+  - Solution: Three alternatives sequential "for" loops
+  - Pain point: Processing arrays with loops is inelegant
+  - Solution: Use filter(), map(), and reduce()
+  - Solution: Transform a list of places
+- [**2. Objects Can Confuse**](#2-objects-can-confuse) (6 videos)
+  - Pain point: Copied objects are not actually copies
+  - Solution: JSON.stringify() and JSON.parse()
+  - Pain point: The value of "this" can be hard to follow
+  - Solution: Fix "this" using bind()
+  - ES6+ solution: Arrow functions
+  - Solution: Creating a unique robot army
+- [**3. Oh Functions, My Functions**](#3-oh-functions-my-functions) (7 videos)
+  - Pain point: Send extra parameters to an event handler
+  - Solution: Use bind() a different way
+  - Pain point: Function signature doesn’t accept arrays
+  - Solution: Apply and spread
+  - Pain point: Refactoring function signatures
+  - Solution: Objects for arguments
+  - Solution overview: Story generator
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and thank you
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Javascript: Finding the utility in less common patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/learning-javascript-finding-the-utility-in-less-common-patterns?u=76281980)
@@ -247,7 +270,7 @@ created: 2026-04-29
 
 ### 1. Improving on Loops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pain point: Sequential "for" loops become tedious
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-sequential-for-loops-become-tedious-14183623?u=76281980)
@@ -900,7 +923,7 @@ created: 2026-04-29
 
 ### 2. Objects Can Confuse
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pain point: Copied objects are not actually copies
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-copied-objects-are-not-actually-copies-14181695?u=76281980)
@@ -1583,7 +1606,7 @@ created: 2026-04-29
 
 ### 3. Oh Functions, My Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pain point: Send extra parameters to an event handler
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/pain-point-send-extra-parameters-to-an-event-handler-14183622?u=76281980)
@@ -2262,7 +2285,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and thank you
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-modern-solutions-to-common-challenges/next-steps-and-thank-you-14186129?u=76281980)

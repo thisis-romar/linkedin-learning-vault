@@ -48,19 +48,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started]]** (3 videos)
-- **[[#2. Basics of Python]]** (8 videos)
-- **[[#3. Beyond the Basics]]** (6 videos)
-- **[[#4. Welcome to Part 2]]** (1 videos)
-- **[[#5. Using Dates and Times]]** (5 videos)
-- **[[#6. Working with Files]]** (5 videos)
-- **[[#7. Working with the Internet]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learning Python
+  - Before you get started
+- [**1. Getting Started**](#1-getting-started) (3 videos)
+  - Using the course resources
+  - Installing Python on your computer
+  - CoderPad Challenges
+- [**2. Basics of Python**](#2-basics-of-python) (8 videos)
+  - Building "Hello World"
+  - Variables and simple data types
+  - Sequence data types
+  - Dictionary data types
+  - Conditional decisions
+  - Loops
+  - Defining functions
+  - Solution: Number counter
+- [**3. Beyond the Basics**](#3-beyond-the-basics) (6 videos)
+  - Built-in functions
+  - Solution: Find the longest string
+  - Classes and objects
+  - Importing and using modules
+  - Using exceptions
+  - Solution: Palindromes
+- [**4. Welcome to Part 2**](#4-welcome-to-part-2) (1 videos)
+  - Applying what you've learned
+- [**5. Using Dates and Times**](#5-using-dates-and-times) (5 videos)
+  - The date, time, and datetime classes
+  - Formatting time output
+  - Using timedelta objects
+  - Working with calendars
+  - Solution: Dates and times
+- [**6. Working with Files**](#6-working-with-files) (5 videos)
+  - Writing files
+  - Reading files
+  - Working with the operating system
+  - Using the filesystem
+  - Solution: Files
+- [**7. Working with the Internet**](#7-working-with-the-internet) (3 videos)
+  - Retrieving internet data
+  - Working with JSON data
+  - Manipulating XML
+- [**Conclusion**](#conclusion) (1 videos)
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/learning-python?u=76281980)
@@ -141,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the course resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/using-the-course-resources?u=76281980)
@@ -408,7 +442,7 @@ created: 2026-04-29
 
 ### 2. Basics of Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building "Hello World"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/building-hello-world?u=76281980)
@@ -2059,7 +2093,7 @@ created: 2026-04-29
 
 ### 3. Beyond the Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Built-in functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/built-in-functions?u=76281980)
@@ -2873,7 +2907,7 @@ created: 2026-04-29
 
 ### 4. Welcome to Part 2
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/applying-what-we-ve-learned?u=76281980)
@@ -2903,7 +2937,7 @@ created: 2026-04-29
 
 ### 5. Using Dates and Times
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The date, time, and datetime classes
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/the-date-time-and-datetime-classes?u=76281980)
@@ -3710,7 +3744,7 @@ created: 2026-04-29
 
 ### 6. Working with Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Writing files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/writing-files?u=76281980)
@@ -4436,7 +4470,7 @@ created: 2026-04-29
 
 ### 7. Working with the Internet
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieving internet data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/retrieving-internet-data?u=76281980)
@@ -4915,7 +4949,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-python-25309312/conclusion?u=76281980)

@@ -46,17 +46,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. How to Use Financial Intelligence in Leadership]]** (2 videos)
-- **[[#2. How to Ensure Your Business Health]]** (9 videos)
-- **[[#3. How to Make Smart Capital Allocation Decisions]]** (4 videos)
-- **[[#4. How to Monitor Performance]]** (4 videos)
-- **[[#5. How to Tell Compelling Financial Stories]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Financial intelligence
+  - What you should know
+- [**1. How to Use Financial Intelligence in Leadership**](#1-how-to-use-financial-intelligence-in-leadership) (2 videos)
+  - Why financial intelligence is every leader’s secret weapon
+  - How leaders use financial insights to drive strategic decisions
+- [**2. How to Ensure Your Business Health**](#2-how-to-ensure-your-business-health) (9 videos)
+  - Connecting the dots: How key financial statements reveal business health
+  - The income statement
+  - The balance sheet
+  - The cash flow statement
+  - Let's talk about financial health
+  - Red flags in the income statement
+  - Red flags in the balance sheet
+  - Red flags in the cash flow statement
+  - Red flags cheat sheet
+- [**3. How to Make Smart Capital Allocation Decisions**](#3-how-to-make-smart-capital-allocation-decisions) (4 videos)
+  - How to use capital allocation as a strategic
+  - Where capital comes from and where it goes
+  - How to turn strategy into a capital plan
+  - How to pick the right investments
+- [**4. How to Monitor Performance**](#4-how-to-monitor-performance) (4 videos)
+  - How to translate strategy into measurable execution
+  - How to use long-range plans, budgets, and forecasts
+  - How to spot the gaps before they become problems
+  - What good financial performance really means
+- [**5. How to Tell Compelling Financial Stories**](#5-how-to-tell-compelling-financial-stories) (4 videos)
+  - How to make numbers make sense
+  - How to frame impactful executive updates
+  - How to tailor your message to your audience
+  - How to end your executive updates
+- [**Conclusion**](#conclusion) (1 videos)
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/financial-intelligence?u=76281980)
@@ -118,7 +144,7 @@ created: 2026-04-29
 
 ### 1. How to Use Financial Intelligence in Leadership
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why financial intelligence is every leader’s secret weapon
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/why-financial-intelligence-is-every-leader-s-secret-weapon?u=76281980)
@@ -300,7 +326,7 @@ created: 2026-04-29
 
 ### 2. How to Ensure Your Business Health
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting the dots: How key financial statements reveal business health
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/connecting-the-dots-how-key-financial-statements-reveal-business-health?u=76281980)
@@ -798,7 +824,7 @@ created: 2026-04-29
 
 ### 3. How to Make Smart Capital Allocation Decisions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to use capital allocation as a strategic
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-use-capital-allocation-as-a-strategic?u=76281980)
@@ -1082,7 +1108,7 @@ created: 2026-04-29
 
 ### 4. How to Monitor Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to translate strategy into measurable execution
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-translate-strategy-into-measurable-execution?u=76281980)
@@ -1388,7 +1414,7 @@ created: 2026-04-29
 
 ### 5. How to Tell Compelling Financial Stories
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to make numbers make sense
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/how-to-make-numbers-make-sense?u=76281980)
@@ -1677,7 +1703,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-financial-intelligence-for-business-leaders/conclusion?u=76281980)

@@ -48,17 +48,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Data Representation Applications]]** (4 videos)
-- **[[#2. Application 1: Building Professional Communities]]** (4 videos)
-- **[[#3. Application 2: Jobs Marketplace]]** (4 videos)
-- **[[#4. Industrialization]]** (3 videos)
-- **[[#5. Building Trusted AI Products Responsibly]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The LinkedIn AI Academy: Applying AI at scale
+  - Applications of AI at LinkedIn
+- [**1. Data Representation Applications**](#1-data-representation-applications) (4 videos)
+  - LinkedIn Economic Graph
+  - Standardization part 1: Information extraction and entity resolution
+  - Standardization part 2: GNN applications
+  - Content understanding: Topic modeling and representing content as embeddings
+- [**2. Application 1: Building Professional Communities**](#2-application-1-building-professional-communities) (4 videos)
+  - PYMK and follow recommendations
+  - Helping creators
+  - Optimizing feeds and notifications to nurture communities
+  - Ads for monetizing the feed
+- [**3. Application 2: Jobs Marketplace**](#3-application-2-jobs-marketplace) (4 videos)
+  - Job seeker: recommendations and notifications
+  - LinkedIn Learning recommendations
+  - Recruiter
+  - Jobs marketplace optimization
+- [**4. Industrialization**](#4-industrialization) (3 videos)
+  - Tech stack: Offline, online, and nearline components
+  - Anomaly detection
+  - A/B testing
+- [**5. Building Trusted AI Products Responsibly**](#5-building-trusted-ai-products-responsibly) (4 videos)
+  - Spam classification
+  - Fake accounts
+  - Bias in AI models: Fairness
+  - Explainability
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing on with learning AI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The LinkedIn AI Academy: Applying AI at scale
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/the-linkedin-ai-academy-applying-ai-at-scale?u=76281980)
@@ -164,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Data Representation Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### LinkedIn Economic Graph
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980)
@@ -411,7 +433,7 @@ created: 2026-04-29
 
 ### 2. Application 1: Building Professional Communities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PYMK and follow recommendations
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980)
@@ -689,7 +711,7 @@ created: 2026-04-29
 
 ### 3. Application 2: Jobs Marketplace
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Job seeker: recommendations and notifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980)
@@ -1001,7 +1023,7 @@ created: 2026-04-29
 
 ### 4. Industrialization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tech stack: Offline, online, and nearline components
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980)
@@ -1194,7 +1216,7 @@ created: 2026-04-29
 
 ### 5. Building Trusted AI Products Responsibly
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spam classification
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980)
@@ -1555,7 +1577,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing on with learning AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980)

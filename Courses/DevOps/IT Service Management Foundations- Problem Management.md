@@ -51,18 +51,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. What Is Problem Management?]]** (4 videos)
-- **[[#2. Phase I: Problem Identification]]** (1 videos)
-- **[[#3. Phase II: Problem Control]]** (3 videos)
-- **[[#4. Phase III: Error Control]]** (2 videos)
-- **[[#5. Techniques]]** (7 videos)
-- **[[#6. Tools and Frameworks]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The art of asking the right questions
+  - What you should know
+- [**1. What Is Problem Management?**](#1-what-is-problem-management) (4 videos)
+  - Introduction to problem management
+  - Roles and responsibilities
+  - Key metrics and success factors
+  - Related processes and functions
+- [**2. Phase I: Problem Identification**](#2-phase-i-problem-identification) (1 videos)
+  - Tracking and trending
+- [**3. Phase II: Problem Control**](#3-phase-ii-problem-control) (3 videos)
+  - Selecting high-value targets
+  - Cause analysis
+  - Workarounds and known errors
+- [**4. Phase III: Error Control**](#4-phase-iii-error-control) (2 videos)
+  - Managing known errors
+  - Identifying permanent solutions
+- [**5. Techniques**](#5-techniques) (7 videos)
+  - Clarify and verify
+  - Problem statements
+  - Data gathering
+  - Identifying and testing possible causes
+  - Decision-making
+  - Risk management
+  - Action items and tasks
+- [**6. Tools and Frameworks**](#6-tools-and-frameworks) (5 videos)
+  - Problem clarification tools
+  - Prioritization tools
+  - Possible cause identification
+  - Cause mapping and avoidance tools
+  - Investigation frameworks
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The art of asking the right questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/the-art-of-asking-the-right-questions?u=76281980)
@@ -126,7 +151,7 @@ created: 2026-04-29
 
 ### 1. What Is Problem Management?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to problem management
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/introduction-to-problem-management?u=76281980)
@@ -449,7 +474,7 @@ created: 2026-04-29
 
 ### 2. Phase I: Problem Identification
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tracking and trending
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/tracking-and-trending?u=76281980)
@@ -567,7 +592,7 @@ created: 2026-04-29
 
 ### 3. Phase II: Problem Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Selecting high-value targets
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/selecting-high-value-targets?u=76281980)
@@ -854,7 +879,7 @@ created: 2026-04-29
 
 ### 4. Phase III: Error Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing known errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/managing-known-errors?u=76281980)
@@ -1039,7 +1064,7 @@ created: 2026-04-29
 
 ### 5. Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Clarify and verify
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/clarify-and-verify?u=76281980)
@@ -1660,7 +1685,7 @@ created: 2026-04-29
 
 ### 6. Tools and Frameworks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Problem clarification tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/problem-clarification-tools?u=76281980)
@@ -2126,7 +2151,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-service-management-foundations-problem-management/next-steps?u=76281980)

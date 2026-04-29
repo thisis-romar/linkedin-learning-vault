@@ -46,16 +46,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Preparing Autopsy]]** (7 videos)
-- **[[#2. Ingest Modules]]** (6 videos)
-- **[[#3. Reviewing Results]]** (3 videos)
-- **[[#4. Searching and Reporting]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Hey, where's the data?
+  - Getting the most out of this course
+- [**1. Preparing Autopsy**](#1-preparing-autopsy) (7 videos)
+  - Introduction and installation of Autopsy
+  - Autopsy workflow
+  - Creating a case
+  - What data sources are allowed?
+  - Viewing case logs and output
+  - Challenge: View case logs and output
+  - Solution: View case logs and output
+- [**2. Ingest Modules**](#2-ingest-modules) (6 videos)
+  - Utilizing Automated Analysis in Autopsy
+  - The Extension Mismatch and USB device-attached modules
+  - The Recent Activity and Interesting Files modules
+  - Installing third-party modules
+  - Challenge: Install a third-party module
+  - Solution: Install a third-party module
+- [**3. Reviewing Results**](#3-reviewing-results) (3 videos)
+  - UI layout
+  - The image and video gallery
+  - The timeline tool
+- [**4. Searching and Reporting**](#4-searching-and-reporting) (5 videos)
+  - Searching for keywords and files
+  - Tagging
+  - Generating reports in Autopsy
+  - Challenge: Search for all instances of a file
+  - Solution: Search for all instances of a file
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps: Create your own case and analyze your files
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hey, where's the data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/hey-where-s-the-data?u=76281980)
@@ -120,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Preparing Autopsy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction and installation of Autopsy
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/introduction-and-installation-of-autopsy?u=76281980)
@@ -612,7 +636,7 @@ created: 2026-04-29
 
 ### 2. Ingest Modules
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Utilizing Automated Analysis in Autopsy
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/utilizing-automated-analysis-in-autopsy?u=76281980)
@@ -1216,7 +1240,7 @@ created: 2026-04-29
 
 ### 3. Reviewing Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### UI layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/ui-layout?u=76281980)
@@ -1664,7 +1688,7 @@ created: 2026-04-29
 
 ### 4. Searching and Reporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Searching for keywords and files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/searching-for-keywords-and-files?u=76281980)
@@ -2130,7 +2154,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps: Create your own case and analyze your files
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-autopsy-for-digital-forensics/next-steps-create-your-own-case-and-analyze-your-files?u=76281980)

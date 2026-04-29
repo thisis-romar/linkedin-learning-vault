@@ -78,22 +78,109 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. JavaScript: A Brief Introduction]]** (7 videos)
-- **[[#2. Get Up and Running with JS]]** (4 videos)
-- **[[#3. Objects]]** (15 videos)
-- **[[#4. Sidebar: String Output]]** (4 videos)
-- **[[#5. DOM]]** (11 videos)
-- **[[#6. Sidebar: Variables and Data Types]]** (10 videos)
-- **[[#7. Arrays]]** (5 videos)
-- **[[#8. Functions and Methods]]** (17 videos)
-- **[[#9. Events]]** (8 videos)
-- **[[#10. Troubleshooting and Validating JS]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - JavaScript: The soil from which the modern web grows
+  - How to use the exercise files
+  - Exploring the lab environment
+- [**1. JavaScript: A Brief Introduction**](#1-javascript-a-brief-introduction) (7 videos)
+  - JavaScript: First contact
+  - Navigating the JS landscape
+  - Tools for working with JavaScript
+  - Linting and formatting
+  - Get to know the browser console
+  - JavaScript language basics
+  - Learning JavaScript backward
+- [**2. Get Up and Running with JS**](#2-get-up-and-running-with-js) (4 videos)
+  - JavaScript in an HTML document
+  - JavaScript as an external file
+  - Modern JavaScript loading
+  - JavaScript modules
+- [**3. Objects**](#3-objects) (15 videos)
+  - Objects: A practical introduction
+  - JavaScript objects: The code version
+  - Object containers
+  - Object properties
+  - Accessing objects
+  - Accessing object properties
+  - Practice: Build a new object
+  - Object methods
+  - Practice: Build a new method
+  - Classes: Object blueprints
+  - Object constructors
+  - Practice: Build a new object with a constructor
+  - Global objects
+  - Challenge intro: Create a new object type
+  - Solution: Create a new object type
+- [**4. Sidebar: String Output**](#4-sidebar-string-output) (4 videos)
+  - Mix text and variables with template literals
+  - Traditional string output
+  - Challenge intro: Create a template literal
+  - Solution: Create a template literal
+- [**5. DOM**](#5-dom) (11 videos)
+  - DOM: The Document Object Model
+  - Access elements with querySelector methods
+  - Access elements using older methods
+  - Practice: Find an element
+  - Modifying element classes
+  - Attributes
+  - Inline style
+  - Practice: Modify classes and attributes, and styles
+  - Add DOM elements
+  - Challenge intro: Create elements
+  - Solution: Create elements
+- [**6. Sidebar: Variables and Data Types**](#6-sidebar-variables-and-data-types) (10 videos)
+  - Variables: Containers for everything
+  - Var
+  - Scope
+  - Let
+  - Const
+  - Data types
+  - Assignment vs. comparison
+  - Math operators
+  - Challenge intro: Calculate sales tax
+  - Solution: Calculate sales tax
+- [**7. Arrays**](#7-arrays) (5 videos)
+  - Arrays explained
+  - Arrays in code
+  - Array methods
+  - Challenge intro: Array manipulation
+  - Solution: Array manipulation
+- [**8. Functions and Methods**](#8-functions-and-methods) (17 videos)
+  - The real-world function
+  - Functions and methods
+  - A standard function
+  - The arrow function
+  - Arrow functions and "this"
+  - Practice: Build a function
+  - Pass data to a function with parameters
+  - Return values from a function
+  - Practice: Pass values between functions
+  - Callbacks
+  - Conditional if...else statement
+  - Logical operators
+  - Conditional switch statement
+  - Looping through content
+  - Using the map() array method
+  - Challenge intro: Create a content factory
+  - Solution: Create a content factory
+- [**9. Events**](#9-events) (8 videos)
+  - DOM events explained
+  - Typical DOM events
+  - Event listeners
+  - Practice: Experiment with event listeners
+  - Advanced event listeners and "this"
+  - Pass arguments through event listeners
+  - Challenge intro: Create an event listener
+  - Solution: Create an event listener
+- [**10. Troubleshooting and Validating JS**](#10-troubleshooting-and-validating-js) (2 videos)
+  - Troubleshooting JavaScript in the browser
+  - Making sense of a React component
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps on your learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript: The soil from which the modern web grows
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-the-soil-from-which-the-modern-web-grows?u=76281980)
@@ -247,7 +334,7 @@ created: 2026-04-29
 
 ### 1. JavaScript: A Brief Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript: First contact
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact?u=76281980)
@@ -1048,7 +1135,7 @@ created: 2026-04-29
 
 ### 2. Get Up and Running with JS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript in an HTML document
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/javascript-in-an-html-document?u=76281980)
@@ -1373,7 +1460,7 @@ created: 2026-04-29
 
 ### 3. Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Objects: A practical introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/objects-a-practical-introduction?u=76281980)
@@ -2510,7 +2597,7 @@ created: 2026-04-29
 
 ### 4. Sidebar: String Output
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mix text and variables with template literals
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/mix-text-and-variables-with-template-literals?u=76281980)
@@ -2910,7 +2997,7 @@ created: 2026-04-29
 
 ### 5. DOM
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DOM: The Document Object Model
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/dom-the-document-object-model?u=76281980)
@@ -3852,7 +3939,7 @@ created: 2026-04-29
 
 ### 6. Sidebar: Variables and Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Variables: Containers for everything
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/variables-containers-for-everything?u=76281980)
@@ -4763,7 +4850,7 @@ created: 2026-04-29
 
 ### 7. Arrays
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/arrays-explained?u=76281980)
@@ -5233,7 +5320,7 @@ created: 2026-04-29
 
 ### 8. Functions and Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The real-world function
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/the-real-world-function?u=76281980)
@@ -7081,7 +7168,7 @@ created: 2026-04-29
 
 ### 9. Events
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DOM events explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/dom-events-explained?u=76281980)
@@ -7891,7 +7978,7 @@ created: 2026-04-29
 
 ### 10. Troubleshooting and Validating JS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshooting JavaScript in the browser
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/troubleshooting-javascript-in-the-browser?u=76281980)
@@ -8136,7 +8223,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps on your learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-essential-training/next-steps-on-your-learning-journey?u=76281980)

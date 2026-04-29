@@ -52,16 +52,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Vertex AI Studio]]** (7 videos)
-- **[[#2. Vertex AI Notebooks]]** (7 videos)
-- **[[#3. Model Development]]** (5 videos)
-- **[[#4. Model Deployment]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - GCP and Machine Learning
+  - What you should know
+  - About using cloud services
+- [**1. Vertex AI Studio**](#1-vertex-ai-studio) (7 videos)
+  - Use Vertex AI Model Garden
+  - Design and test language model prompts
+  - Design and test multimodal model prompts
+  - Test image model generative output
+  - Design and test speech generative output
+  - Challenge: Select and test GenAI models
+  - Solution: Select and test GenAI models
+- [**2. Vertex AI Notebooks**](#2-vertex-ai-notebooks) (7 videos)
+  - Understand available services
+  - Use TensorFlow example: MNIST
+  - Use managed and user-managed notebooks
+  - Update notebook instance
+  - Use notebook instances
+  - Challenge: Setup notebook
+  - Solution: Setup notebook
+- [**3. Model Development**](#3-model-development) (5 videos)
+  - Understand Vector Search
+  - Use Vector Search
+  - Understand Feature Store
+  - Challenge: Create a Feature Store
+  - Solution: Create a Feature Store
+- [**4. Model Deployment**](#4-model-deployment) (6 videos)
+  - Use the model registry
+  - Register a model in the registry
+  - Review batch and online endpoints
+  - Understand model pipeline templates
+  - Challenge: Run and evaluate a model pipeline job
+  - Solution: Run and evaluate a model pipeline job
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GCP and Machine Learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/welcome?u=76281980)
@@ -159,7 +188,7 @@ created: 2026-04-29
 
 ### 1. Vertex AI Studio
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use Vertex AI Model Garden
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-vertex-ai-model-garden?u=76281980)
@@ -738,7 +767,7 @@ created: 2026-04-29
 
 ### 2. Vertex AI Notebooks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand available services
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-available-services?u=76281980)
@@ -1342,7 +1371,7 @@ created: 2026-04-29
 
 ### 3. Model Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand Vector Search
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/understand-vector-search?u=76281980)
@@ -1714,7 +1743,7 @@ created: 2026-04-29
 
 ### 4. Model Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use the model registry
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/use-the-model-registry?u=76281980)
@@ -2283,7 +2312,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382/next-steps?u=76281980)

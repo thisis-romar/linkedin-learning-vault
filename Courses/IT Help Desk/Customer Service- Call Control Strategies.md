@@ -46,14 +46,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Call Control Strategies]]** (6 videos)
-- **[[#2. Proactive Conversation Management]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Get customer calls resolved faster
+- [**1. Call Control Strategies**](#1-call-control-strategies) (6 videos)
+  - Give a limited response on your customer call
+  - The snatch-and-flip call control strategy
+  - Ask closed-ended questions on your customer call
+  - Assertively interject on your customer call
+  - Reframe the conversation with your customer
+  - Politely excuse yourself on your customer call
+- [**2. Proactive Conversation Management**](#2-proactive-conversation-management) (2 videos)
+  - When customers feel understood, they talk less
+  - Provide a comprehensive recap of your customer call
+- [**Conclusion**](#conclusion) (1 videos)
+  - Keep building your customer phone skills
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get customer calls resolved faster
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/get-customer-calls-resolved-faster?u=76281980)
@@ -78,7 +88,7 @@ created: 2026-04-29
 
 ### 1. Call Control Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Give a limited response on your customer call
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/give-a-limited-response-on-your-customer-call?u=76281980)
@@ -536,7 +546,7 @@ created: 2026-04-29
 
 ### 2. Proactive Conversation Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When customers feel understood, they talk less
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/when-customers-feel-understood-they-talk-less-22343811?u=76281980)
@@ -663,7 +673,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keep building your customer phone skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/customer-service-call-control-strategies/keep-building-your-customer-phone-skills?u=76281980)

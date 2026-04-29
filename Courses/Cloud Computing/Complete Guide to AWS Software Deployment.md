@@ -50,19 +50,87 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. AWS Elastic Compute Cloud (EC2) Foundations]]** (5 videos)
-- **[[#2. EC2 Creation and Provisioning]]** (13 videos)
-- **[[#3. Deployment Concepts]]** (3 videos)
-- **[[#4. Elastic Beanstalk]]** (10 videos)
-- **[[#5. CodeDeploy]]** (18 videos)
-- **[[#6. Elastic Container Service]]** (7 videos)
-- **[[#7. Automating ECS Deployments]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Welcome to AWS software deployment
+  - What you should know
+  - Initial setup
+  - Navigate the AWS Management Console
+  - Set an AWS budget alarm
+- [**1. AWS Elastic Compute Cloud (EC2) Foundations**](#1-aws-elastic-compute-cloud-ec2-foundations) (5 videos)
+  - Understanding AWS EC2
+  - Understanding AWS load balancers
+  - Understanding AWS Auto Scaling groups
+  - Understanding AWS security groups
+  - Understanding SSH key authentication
+- [**2. EC2 Creation and Provisioning**](#2-ec2-creation-and-provisioning) (13 videos)
+  - Create an AWS EC2 instance
+  - Connect to an EC2 instance with AWS Systems Manager
+  - Understanding AWS CloudFormation
+  - Writing an AWS CloudFormation template
+  - Running an AWS CloudFormation template
+  - Concepts for updating an AWS CloudFormation stack
+  - Practice updating AWS CloudFormation stacks via change sets
+  - Challenge: Use CloudFormation to build an instance with SSM
+  - Solution: Use CloudFormation to build an instance with SSM
+  - Understanding AWS CloudFormation custom resources
+  - Create an AWS CloudFormation custom resource, part 1
+  - Create an AWS CloudFormation custom resource, part 2
+  - CloudFormation teardown
+- [**3. Deployment Concepts**](#3-deployment-concepts) (3 videos)
+  - Architect apps for horizontal scaling
+  - AWS network security for app deployment
+  - Introducing the demo app
+- [**4. Elastic Beanstalk**](#4-elastic-beanstalk) (10 videos)
+  - Understanding AWS Elastic Beanstalk
+  - AWS Elastic Beanstalk deployment options
+  - Initialize an AWS Elastic Beanstalk application
+  - Create an AWS Elastic Beanstalk environment
+  - Customize AWS Elastic Beanstalk with ebextensions
+  - Troubleshoot Elastic Beanstalk and set environment variables
+  - Add a database to AWS Elastic Beanstalk
+  - Deploy and scale an AWS Elastic Beanstalk app
+  - Deploy Docker containers via AWS Elastic Beanstalk
+  - Elastic Beanstalk teardown
+- [**5. CodeDeploy**](#5-codedeploy) (18 videos)
+  - AWS CodeDeploy key concepts
+  - AWS CodeDeploy: AppSpec and lifecycle events
+  - AWS CodeDeploy: IAM setup
+  - AWS CodeDeploy: Instance preparation
+  - AWS CodeDeploy: Auto Scaling group
+  - AWS CodeDeploy: App creation
+  - Install and configure the AWS CLI
+  - AWS CodeDeploy: Adding database and security groups
+  - AWS CodeDeploy: Managing secrets with Secrets Manager
+  - AWS CodeDeploy: AppSpec and deployment
+  - AWS CodeDeploy: Add a load balancer
+  - Troubleshoot AWS CodeDeploy deployments
+  - Understanding AWS CodeBuild
+  - Add AWS CodeBuild support to an app
+  - Integrate AWS CodeBuild into CodePipeline
+  - AWS CodePipeline challenge: Add an approval stage
+  - AWS CodePipeline challenge solution: Add an approval stage
+  - AWS CodeDeploy teardown
+- [**6. Elastic Container Service**](#6-elastic-container-service) (7 videos)
+  - Understanding AWS Elastic Container Service and Fargate
+  - Run the demo app locally with Docker
+  - Create an AWS ECR repository for use with ECS
+  - Create an ECS Fargate cluster and task definition
+  - Deploy a Docker app with an ECS task
+  - Run Docker apps with an ECS service
+  - Scale Docker apps with an ECS service
+- [**7. Automating ECS Deployments**](#7-automating-ecs-deployments) (6 videos)
+  - Challenge: Automating Docker builds on AWS
+  - Solution: CodeBuild for Docker ECR pushes
+  - Automating the Docker build with CodePipeline
+  - Fully automating ECS Docker deployments with CodePipeline
+  - ECS teardown
+  - Understand AWS Copilot
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to AWS software deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/welcome-to-aws-software-deployment?u=76281980)
@@ -374,7 +442,7 @@ created: 2026-04-29
 
 ### 1. AWS Elastic Compute Cloud (EC2) Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AWS EC2
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understanding-aws-ec2?u=76281980)
@@ -1038,7 +1106,7 @@ created: 2026-04-29
 
 ### 2. EC2 Creation and Provisioning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an AWS EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/create-an-aws-ec2-instance?u=76281980)
@@ -2627,7 +2695,7 @@ created: 2026-04-29
 
 ### 3. Deployment Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Architect apps for horizontal scaling
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/architect-apps-for-horizontal-scaling?u=76281980)
@@ -3188,7 +3256,7 @@ created: 2026-04-29
 
 ### 4. Elastic Beanstalk
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AWS Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-beanstalk?u=76281980)
@@ -4641,7 +4709,7 @@ created: 2026-04-29
 
 ### 5. CodeDeploy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS CodeDeploy key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/aws-codedeploy-key-concepts?u=76281980)
@@ -7374,7 +7442,7 @@ created: 2026-04-29
 
 ### 6. Elastic Container Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AWS Elastic Container Service and Fargate
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/understand-aws-elastic-container-service-and-fargate?u=76281980)
@@ -8343,7 +8411,7 @@ created: 2026-04-29
 
 ### 7. Automating ECS Deployments
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Automating Docker builds on AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/challenge-automating-docker-builds-on-aws?u=76281980)
@@ -9221,7 +9289,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-aws-software-deployment/next-steps?u=76281980)

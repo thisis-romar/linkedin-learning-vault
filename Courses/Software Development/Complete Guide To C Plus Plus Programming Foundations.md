@@ -48,21 +48,94 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Getting Started with C++ Foundations]]** (7 videos)
-- **[[#2. Variables and Data Types]]** (12 videos)
-- **[[#3. Expressions and Operations]]** (7 videos)
-- **[[#4. Arrays, Pointers, and Strings]]** (10 videos)
-- **[[#5. Control Statements]]** (6 videos)
-- **[[#6. Functions]]** (6 videos)
-- **[[#7. Creating Your Own Classes]]** (9 videos)
-- **[[#8. The Standard Template Library]]** (8 videos)
-- **[[#9. File Handling]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Getting started with C++
+  - What you should know
+  - Using the exercise files in GitHub Codespaces
+  - Solving challenges in Coderpad
+- [**1. Getting Started with C++ Foundations**](#1-getting-started-with-c-foundations) (7 videos)
+  - About C++
+  - Creating a simple program in C++
+  - Anatomy of a C++ source file
+  - Statements and expressions
+  - Identifiers
+  - Elements of object-oriented programming
+  - Terminal interaction
+- [**2. Variables and Data Types**](#2-variables-and-data-types) (12 videos)
+  - Basic data types
+  - Integer types
+  - Floating point types
+  - Variables
+  - Using variables
+  - Type aliases
+  - Enumerations
+  - Structures
+  - Type casting
+  - Type casting examples
+  - Type inference with auto
+  - Solution: Data types
+- [**3. Expressions and Operations**](#3-expressions-and-operations) (7 videos)
+  - Expressions and assignments
+  - Operators
+  - Increment and decrement operators
+  - Compound assignment operators
+  - Preprocessor directives
+  - Constants
+  - Solution: Calculate an average
+- [**4. Arrays, Pointers, and Strings**](#4-arrays-pointers-and-strings) (10 videos)
+  - Arrays
+  - Pointers
+  - How arrays and pointers are related
+  - Using objects with pointers
+  - The vector class
+  - Using objects with vectors
+  - References
+  - C strings
+  - The string class
+  - Solution: Vector manipulation
+- [**5. Control Statements**](#5-control-statements) (6 videos)
+  - If statements
+  - Switch statements
+  - While loops
+  - Traditional for loops
+  - Ranged for loops
+  - Solution: Calculate resource cost
+- [**6. Functions**](#6-functions) (6 videos)
+  - Overview of functions
+  - Passing values to a function
+  - Returning values from a function
+  - Writing functions
+  - Overloading functions
+  - Challenge: Calculate rhythm game scores
+- [**7. Creating Your Own Classes**](#7-creating-your-own-classes) (9 videos)
+  - Overview of classes and objects
+  - Data members
+  - Function members
+  - Constructors and destructors
+  - Using classes
+  - Header and implementation files
+  - Working with several source files
+  - Operator overload
+  - Solution: Create a person class
+- [**8. The Standard Template Library**](#8-the-standard-template-library) (8 videos)
+  - Understanding templates
+  - Template functions
+  - Template classes
+  - Overview of the STL
+  - Queues and stacks
+  - Advanced concepts: Iterators
+  - Advanced concepts: Algorithms
+  - Solution: Virtual pet schedule
+- [**9. File Handling**](#9-file-handling) (3 videos)
+  - Working with files
+  - Opening a text file for reading
+  - Opening a text file for writing
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/getting-started-with-c-plus-plus?u=76281980)
@@ -475,7 +548,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with C++ Foundations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### About C++
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/about-c-plus-plus?u=76281980)
@@ -1041,7 +1114,7 @@ created: 2026-04-29
 
 ### 2. Variables and Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic data types
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/basic-data-types?u=76281980)
@@ -2058,7 +2131,7 @@ created: 2026-04-29
 
 ### 3. Expressions and Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expressions and assignments
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/expressions-and-assignments?u=76281980)
@@ -2571,7 +2644,7 @@ created: 2026-04-29
 
 ### 4. Arrays, Pointers, and Strings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Arrays
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/arrays?u=76281980)
@@ -3814,7 +3887,7 @@ created: 2026-04-29
 
 ### 5. Control Statements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### If statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/if-statements?u=76281980)
@@ -4315,7 +4388,7 @@ created: 2026-04-29
 
 ### 6. Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-functions?u=76281980)
@@ -4995,7 +5068,7 @@ created: 2026-04-29
 
 ### 7. Creating Your Own Classes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of classes and objects
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/overview-of-classes-and-objects?u=76281980)
@@ -5823,7 +5896,7 @@ created: 2026-04-29
 
 ### 8. The Standard Template Library
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding templates
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/understanding-templates?u=76281980)
@@ -6398,7 +6471,7 @@ created: 2026-04-29
 
 ### 9. File Handling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with files
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/working-with-files?u=76281980)
@@ -6630,7 +6703,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-c-plus-plus-programming-foundations/next-steps?u=76281980)

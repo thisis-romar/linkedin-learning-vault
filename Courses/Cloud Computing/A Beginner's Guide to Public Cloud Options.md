@@ -50,19 +50,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Public Cloud Basics]]** (6 videos)
-- **[[#2. Business Purpose of Public Clouds]]** (5 videos)
-- **[[#3. Public Cloud Platforms]]** (4 videos)
-- **[[#4. Amazon Web Services (AWS)]]** (4 videos)
-- **[[#5. Microsoft Azure]]** (4 videos)
-- **[[#6. Google Cloud Platform (GCP)]]** (4 videos)
-- **[[#7. Other Public Clouds]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understanding public cloud platforms
+  - What you should know
+- [**1. Public Cloud Basics**](#1-public-cloud-basics) (6 videos)
+  - Private versus public cloud
+  - Public cloud deployment models
+  - Types of public clouds
+  - Software as a Service (SaaS)
+  - Platform as a Service (PaaS)
+  - Infrastructure as a Service (IaaS)
+- [**2. Business Purpose of Public Clouds**](#2-business-purpose-of-public-clouds) (5 videos)
+  - Understanding the business case
+  - Considering costs of public clouds
+  - Evolving market
+  - Value of agility
+  - Value of innovation
+- [**3. Public Cloud Platforms**](#3-public-cloud-platforms) (4 videos)
+  - Evaluating public cloud platform offerings
+  - Common patterns
+  - Picking the right solution
+  - Considering costs: Impact and management
+- [**4. Amazon Web Services (AWS)**](#4-amazon-web-services-aws) (4 videos)
+  - Application and data compatibility: AWS
+  - Types of services: AWS
+  - Security and governance: AWS
+  - Operations: AWS
+- [**5. Microsoft Azure**](#5-microsoft-azure) (4 videos)
+  - Application and data compatibility: Azure
+  - Types of services: Azure
+  - Security and governance: Azure
+  - Operations: Azure
+- [**6. Google Cloud Platform (GCP)**](#6-google-cloud-platform-gcp) (4 videos)
+  - Application and data compatibility: GCP
+  - Types of services: GCP
+  - Security and governance: GCP
+  - Operations: GCP
+- [**7. Other Public Clouds**](#7-other-public-clouds) (4 videos)
+  - Oracle
+  - IBM
+  - Alibaba
+  - Other clouds
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding public cloud platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-public-cloud-platforms?u=76281980)
@@ -113,7 +147,7 @@ created: 2026-04-29
 
 ### 1. Public Cloud Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Private versus public cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/private-versus-public-cloud?u=76281980)
@@ -386,7 +420,7 @@ created: 2026-04-29
 
 ### 2. Business Purpose of Public Clouds
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the business case
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/understanding-the-business-case?u=76281980)
@@ -607,7 +641,7 @@ created: 2026-04-29
 
 ### 3. Public Cloud Platforms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating public cloud platform offerings
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/evaluating-public-cloud-platform-offerings?u=76281980)
@@ -800,7 +834,7 @@ created: 2026-04-29
 
 ### 4. Amazon Web Services (AWS)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Application and data compatibility: AWS
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24114340?u=76281980)
@@ -960,7 +994,7 @@ created: 2026-04-29
 
 ### 5. Microsoft Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Application and data compatibility: Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility-24107339?u=76281980)
@@ -1063,7 +1097,7 @@ created: 2026-04-29
 
 ### 6. Google Cloud Platform (GCP)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Application and data compatibility: GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/application-and-data-compatibility?u=76281980)
@@ -1172,7 +1206,7 @@ created: 2026-04-29
 
 ### 7. Other Public Clouds
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Oracle
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/oracle?u=76281980)
@@ -1316,7 +1350,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/a-beginner-s-guide-to-public-cloud-options/next-steps?u=76281980)

@@ -51,20 +51,71 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (6 videos)
-- **[[#1. Preparing for Multicloud]]** (7 videos)
-- **[[#2. Selecting Technology]]** (8 videos)
-- **[[#3. Approaching Ops]]** (5 videos)
-- **[[#4. Approaching Dev]]** (5 videos)
-- **[[#5. Approaching Gov]]** (5 videos)
-- **[[#6. Approaching FinOps]]** (5 videos)
-- **[[#7. Putting Together a Multicloud Strategy]]** (5 videos)
-- **[[#8. Deployment and Testing]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (6 videos)
+  - Planning a multicloud
+  - What is multicloud?
+  - Why multicloud?
+  - Multicloud advantages
+  - Multicloud disadvantages
+  - What you should know
+- [**1. Preparing for Multicloud**](#1-preparing-for-multicloud) (7 videos)
+  - Business case for multicloud
+  - Migration planning
+  - Security planning
+  - Governance planning
+  - Operations planning
+  - Skills and tools needed
+  - Other things to consider
+- [**2. Selecting Technology**](#2-selecting-technology) (8 videos)
+  - Public clouds
+  - Private clouds
+  - Tools for operations
+  - Tools for security
+  - Tools for governance
+  - Connecting legacy systems
+  - Data integration between clouds
+  - Linking things together
+- [**3. Approaching Ops**](#3-approaching-ops) (5 videos)
+  - Building an ops process
+  - Building ops automation
+  - Building reactive ops
+  - Building proactive ops
+  - Case study: Multicloud operations
+- [**4. Approaching Dev**](#4-approaching-dev) (5 videos)
+  - Building a dev process
+  - Building automation
+  - Continuous everything
+  - Integration of dev and ops
+  - Case study: Multicloud development
+- [**5. Approaching Gov**](#5-approaching-gov) (5 videos)
+  - Resource governance and multicloud
+  - Service governance and multicloud
+  - Cost governance and multicloud
+  - Security governance and multicloud
+  - Case study: Multicloud governance
+- [**6. Approaching FinOps**](#6-approaching-finops) (5 videos)
+  - What is multicloud FinOps?
+  - Multicloud cost usage monitoring
+  - Multicloud cost usage reporting
+  - Multicloud cost controls
+  - Case study: Multicloud FinOps
+- [**7. Putting Together a Multicloud Strategy**](#7-putting-together-a-multicloud-strategy) (5 videos)
+  - Logical planning
+  - Physical planning
+  - Building a strategy
+  - Deployment planning
+  - Bringing it all together
+- [**8. Deployment and Testing**](#8-deployment-and-testing) (3 videos)
+  - Staged deployment
+  - Staged testing
+  - Case study: Multicloud deployment and testing
+- [**Conclusion**](#conclusion) (2 videos)
+  - Final considerations for a successful multicloud deployment
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Planning a multicloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/planning-a-multicloud?u=76281980)
@@ -285,7 +336,7 @@ created: 2026-04-29
 
 ### 1. Preparing for Multicloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business case for multicloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980)
@@ -613,7 +664,7 @@ created: 2026-04-29
 
 ### 2. Selecting Technology
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Public clouds
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980)
@@ -931,7 +982,7 @@ created: 2026-04-29
 
 ### 3. Approaching Ops
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building an ops process
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980)
@@ -1118,7 +1169,7 @@ created: 2026-04-29
 
 ### 4. Approaching Dev
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a dev process
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980)
@@ -1306,7 +1357,7 @@ created: 2026-04-29
 
 ### 5. Approaching Gov
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Resource governance and multicloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/resource-governance-and-multicloud?u=76281980)
@@ -1516,7 +1567,7 @@ created: 2026-04-29
 
 ### 6. Approaching FinOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is multicloud FinOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud-finops?u=76281980)
@@ -1666,7 +1717,7 @@ created: 2026-04-29
 
 ### 7. Putting Together a Multicloud Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Logical planning
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/logical-planning?u=76281980)
@@ -1845,7 +1896,7 @@ created: 2026-04-29
 
 ### 8. Deployment and Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Staged deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980)
@@ -1975,7 +2026,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final considerations for a successful multicloud deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980)

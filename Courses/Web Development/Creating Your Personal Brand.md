@@ -44,15 +44,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Personal Branding]]** (3 videos)
-- **[[#2. Creating Your Brand]]** (3 videos)
-- **[[#3. Marketing and Positioning Your Brand]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - What is personal branding?
+- [**1. Personal Branding**](#1-personal-branding) (3 videos)
+  - Creating your personal brand
+  - Creating career opportunities
+  - Building influence
+- [**2. Creating Your Brand**](#2-creating-your-brand) (3 videos)
+  - Defining your current brand
+  - Creating your desired brand
+  - Identifying your target audience
+- [**3. Marketing and Positioning Your Brand**](#3-marketing-and-positioning-your-brand) (5 videos)
+  - Creating a personal marketing strategy
+  - Networking your personal brand
+  - Managing your online reputation
+  - Conveying your personal brand authentically
+  - Creating a perfect elevator pitch
+- [**Conclusion**](#conclusion) (1 videos)
+  - Start today to take control of your brand
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is personal branding?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/what-is-personal-branding?u=76281980)
@@ -81,7 +94,7 @@ created: 2026-04-29
 
 ### 1. Personal Branding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating your personal brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-personal-brand?u=76281980)
@@ -246,7 +259,7 @@ created: 2026-04-29
 
 ### 2. Creating Your Brand
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining your current brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/defining-your-current-brand-2?u=76281980)
@@ -456,7 +469,7 @@ created: 2026-04-29
 
 ### 3. Marketing and Positioning Your Brand
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a personal marketing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-personal-marketing-strategy?u=76281980)
@@ -874,7 +887,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start today to take control of your brand
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/start-today-to-take-control-of-your-brand?u=76281980)

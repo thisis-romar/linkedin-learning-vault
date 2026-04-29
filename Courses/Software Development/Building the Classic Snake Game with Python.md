@@ -49,15 +49,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Python Turtle Graphics]]** (6 videos)
-- **[[#2. The Snake Game]]** (7 videos)
-- **[[#3. Finishing Touches]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Take your Python skills to the next level
+  - What you should know
+- [**1. Introduction to Python Turtle Graphics**](#1-introduction-to-python-turtle-graphics) (6 videos)
+  - Meet turtle graphics
+  - Working with the repository for this course
+  - A starter template for turtle graphics programs
+  - Animation with Python turtle graphics
+  - Global variables
+  - Drawing with stamps
+- [**2. The Snake Game**](#2-the-snake-game) (7 videos)
+  - Snake representation and movement
+  - Basic snake movement program
+  - Controlling the snake's direction
+  - The game loop
+  - Snake food
+  - Keeping score
+  - Game reset
+- [**3. Finishing Touches**](#3-finishing-touches) (5 videos)
+  - Avoiding repetition by using Lambda expressions
+  - Personalizing your game
+  - Adding graphics to the snake game
+  - Adding the snake head to the game
+  - Adding a high-score feature
+- [**Conclusion**](#conclusion) (1 videos)
+  - Integrating material covered
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take your Python skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/take-your-python-skills-to-the-next-level-23405502?u=76281980)
@@ -96,7 +117,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Python Turtle Graphics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet turtle graphics
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/meet-turtle-graphics?u=76281980)
@@ -658,7 +679,7 @@ created: 2026-04-29
 
 ### 2. The Snake Game
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Snake representation and movement
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/snake-representation-and-movement?u=76281980)
@@ -1619,7 +1640,7 @@ created: 2026-04-29
 
 ### 3. Finishing Touches
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding repetition by using Lambda expressions
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/avoiding-repetition-by-using-lambda-expressions?u=76281980)
@@ -2107,7 +2128,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating material covered
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-the-classic-snake-game-with-python/integrating-material-covered?u=76281980)

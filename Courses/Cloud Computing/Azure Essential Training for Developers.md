@@ -49,24 +49,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Cloud Fundamentals]]** (1 videos)
-- **[[#2. Core Azure Concepts]]** (5 videos)
-- **[[#3. Azure App Services]]** (2 videos)
-- **[[#4. Azure Storage]]** (3 videos)
-- **[[#5. Azure Functions]]** (5 videos)
-- **[[#6. Virtual Machines and Batch]]** (3 videos)
-- **[[#7. Kubernetes and Containers in Azure]]** (3 videos)
-- **[[#8. Securing your applications]]** (3 videos)
-- **[[#9. Monitoring your applications]]** (2 videos)
-- **[[#10. Optimizing your applications]]** (3 videos)
-- **[[#11. AI in Azure]]** (4 videos)
-- **[[#12. Interesting Advancements for Developers]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Azure for Developers
+- [**1. Cloud Fundamentals**](#1-cloud-fundamentals) (1 videos)
+  - Cloud Models and Service Types
+- [**2. Core Azure Concepts**](#2-core-azure-concepts) (5 videos)
+  - What is an Azure Subscription?
+  - What is an Azure Resource Group?
+  - Using the Azure Resource Manager
+  - What is an Azure Region?
+  - What is an Azure Availability Zone?
+- [**3. Azure App Services**](#3-azure-app-services) (2 videos)
+  - What is an Azure App Service?
+  - Create an App Service to host an API
+- [**4. Azure Storage**](#4-azure-storage) (3 videos)
+  - What is Azure Blob Storage?
+  - What is Cosmos DB?
+  - Using Azure SQL
+- [**5. Azure Functions**](#5-azure-functions) (5 videos)
+  - What is an Azure Function?
+  - Create a Function with a BlobTrigger
+  - Other function trigger types
+  - When to use Durable Functions
+  - A closer look at Durable Functions
+- [**6. Virtual Machines and Batch**](#6-virtual-machines-and-batch) (3 videos)
+  - Provision a Virtual Machine
+  - Azure Resource Manager templates
+  - What is Azure Batch?
+- [**7. Kubernetes and Containers in Azure**](#7-kubernetes-and-containers-in-azure) (3 videos)
+  - Container and Kubernetes Basics
+  - Create a managed Kubernetes cluster
+  - Create, Publish image to Container Registry
+- [**8. Securing your applications**](#8-securing-your-applications) (3 videos)
+  - Authentication options in Azure
+  - Role-Based vs Claims-Based Authorization
+  - What is Azure Key Vault?
+- [**9. Monitoring your applications**](#9-monitoring-your-applications) (2 videos)
+  - Using Azure Monitor
+  - What is Application Insights?
+- [**10. Optimizing your applications**](#10-optimizing-your-applications) (3 videos)
+  - Using Azure Redis for caching
+  - Using the Azure Content Delivery Network
+  - Kubernetes Service scaling strategies
+- [**11. AI in Azure**](#11-ai-in-azure) (4 videos)
+  - Azure AI and Responsible AI
+  - Azure AI Services
+  - Azure Machine Learning
+  - GitHub Copilot with Azure
+- [**12. Interesting Advancements for Developers**](#12-interesting-advancements-for-developers) (3 videos)
+  - Load testing on Azure App Service
+  - GitHub Advanced Security for Azure DevOps
+  - Azure AI Foundry
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure for Developers
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-for-developers?u=76281980)
@@ -100,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Cloud Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cloud Models and Service Types
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/cloud-models-and-service-types?u=76281980)
@@ -185,7 +224,7 @@ created: 2026-04-29
 
 ### 2. Core Azure Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Azure Subscription?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-subscription?u=76281980)
@@ -567,7 +606,7 @@ created: 2026-04-29
 
 ### 3. Azure App Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Azure App Service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-app-service?u=76281980)
@@ -726,7 +765,7 @@ created: 2026-04-29
 
 ### 4. Azure Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Azure Blob Storage?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-azure-blob-storage?u=76281980)
@@ -1026,7 +1065,7 @@ created: 2026-04-29
 
 ### 5. Azure Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is an Azure Function?
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/what-is-an-azure-function?u=76281980)
@@ -1463,7 +1502,7 @@ created: 2026-04-29
 
 ### 6. Virtual Machines and Batch
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Provision a Virtual Machine
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/provision-a-virtual-machine?u=76281980)
@@ -1772,7 +1811,7 @@ created: 2026-04-29
 
 ### 7. Kubernetes and Containers in Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Container and Kubernetes Basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/container-and-kubernetes-basics?u=76281980)
@@ -2031,7 +2070,7 @@ created: 2026-04-29
 
 ### 8. Securing your applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication options in Azure
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/authentication-options-in-azure?u=76281980)
@@ -2259,7 +2298,7 @@ created: 2026-04-29
 
 ### 9. Monitoring your applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure Monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-monitor?u=76281980)
@@ -2391,7 +2430,7 @@ created: 2026-04-29
 
 ### 10. Optimizing your applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Azure Redis for caching
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/using-azure-redis-for-caching?u=76281980)
@@ -2602,7 +2641,7 @@ created: 2026-04-29
 
 ### 11. AI in Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure AI and Responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/azure-ai-and-responsible-ai?u=76281980)
@@ -2955,7 +2994,7 @@ created: 2026-04-29
 
 ### 12. Interesting Advancements for Developers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Load testing on Azure App Service
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/load-testing-on-azure-app-service?u=76281980)
@@ -3307,7 +3346,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-essential-training-for-developers/next-steps?u=76281980)

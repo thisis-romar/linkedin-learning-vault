@@ -48,17 +48,24 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. Stochastic Processes]]** (1 videos)
-- **[[#2. Financial Data Function]]** (1 videos)
-- **[[#3. Time Series Model Fit]]** (1 videos)
-- **[[#4. Differences]]** (1 videos)
-- **[[#5. MapThread]]** (1 videos)
-- **[[#6. Hyperbolic Distribution]]** (1 videos)
-- **[[#7. Ito Process]]** (1 videos)
+- [**1. Stochastic Processes**](#1-stochastic-processes) (1 videos)
+  - Stochastic processes
+- [**2. Financial Data Function**](#2-financial-data-function) (1 videos)
+  - Financial data function
+- [**3. Time Series Model Fit**](#3-time-series-model-fit) (1 videos)
+  - Time series model fit
+- [**4. Differences**](#4-differences) (1 videos)
+  - Differences
+- [**5. MapThread**](#5-mapthread) (1 videos)
+  - MapThread
+- [**6. Hyperbolic Distribution**](#6-hyperbolic-distribution) (1 videos)
+  - Hyperbolic distribution
+- [**7. Ito Process**](#7-ito-process) (1 videos)
+  - Ito process
 
 ### 1. Stochastic Processes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Stochastic processes
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/stochastic-processes?u=76281980)
@@ -140,7 +147,7 @@ created: 2026-04-29
 
 ### 2. Financial Data Function
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial data function
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/financial-data-function?u=76281980)
@@ -226,7 +233,7 @@ created: 2026-04-29
 
 ### 3. Time Series Model Fit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Time series model fit
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/time-series-model-fit?u=76281980)
@@ -458,7 +465,7 @@ created: 2026-04-29
 
 ### 4. Differences
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Differences
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/differences?u=76281980)
@@ -598,7 +605,7 @@ created: 2026-04-29
 
 ### 5. MapThread
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### MapThread
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/mapthread?u=76281980)
@@ -723,7 +730,7 @@ created: 2026-04-29
 
 ### 6. Hyperbolic Distribution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hyperbolic distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/hyperbolic-distribution?u=76281980)
@@ -1130,7 +1137,7 @@ created: 2026-04-29
 
 ### 7. Ito Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ito process
 > [LinkedIn Learning](https://www.linkedin.com/learning/modeling-market-prices-using-stochastic-processes-with-wolfram-language/ito-process?u=76281980)

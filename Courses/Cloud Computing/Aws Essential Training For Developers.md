@@ -46,22 +46,88 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. AWS Essential Setup]]** (5 videos)
-- **[[#2. On-Premise to AWS]]** (4 videos)
-- **[[#3. IaaS Compute]]** (8 videos)
-- **[[#4. IaaS Networking]]** (9 videos)
-- **[[#5. IaaS Storage]]** (10 videos)
-- **[[#6. Database as a Service (DBaaS)]]** (6 videos)
-- **[[#7. Platform as a Service (PaaS)]]** (5 videos)
-- **[[#8. Software as a Service (SaaS)]]** (3 videos)
-- **[[#9. DevOps with AWS]]** (5 videos)
-- **[[#10. Security on AWS]]** (5 videos)
-- **[[#Conclusion]]** (3 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - What is the best way to use AWS?
+  - How to choose AWS services
+  - What you need to know
+- [**1. AWS Essential Setup**](#1-aws-essential-setup) (5 videos)
+  - The AWS root account
+  - Learn how to create an IAM user group
+  - Learn how to create an IAM user and access key
+  - Break down the bill in AWS
+  - Set a budget to save money
+- [**2. On-Premise to AWS**](#2-on-premise-to-aws) (4 videos)
+  - On-premise infrastructure
+  - Birth of the cloud: EC2 and S3
+  - Where in the world are your AWS services?
+  - Get closer to users with Local Zones
+- [**3. IaaS Compute**](#3-iaas-compute) (8 videos)
+  - Learn how to create an EC2 instance
+  - What is the best EC2 instance type?
+  - Learn how to create a key pair
+  - Set up a web server
+  - Stopping and starting vs. rebooting instances
+  - Right-sizing with EC2 autoscaling
+  - Learn how to create backups with an AMI Snapshot
+  - Saving money in EC2
+- [**4. IaaS Networking**](#4-iaas-networking) (9 videos)
+  - Using security groups as firewalls
+  - Virtual Private Cloud (VPC)
+  - Public and private subnets
+  - Internet and NAT gateways
+  - Static addresses with Elastic IPs
+  - Using VPNs to access private subnets
+  - Scaling with Elastic Load Balancer (ELB)
+  - Learn how to create an Application Load Balancer (ALB)
+  - Point a domain to your EC2s with Route 53
+- [**5. IaaS Storage**](#5-iaas-storage) (10 videos)
+  - Hard drives with Elastic Block Store (EBS)
+  - NAS with Elastic File System (EFS)
+  - Web storage with Simple Storage Service (S3)
+  - Upload a file to S3 from the AWS CLI
+  - Use the SDK to create a file within S3
+  - IAM roles for EC2
+  - Putting together all of the IAM resources
+  - Storing passwords with Secrets Manager
+  - Long-term storage with S3 Glacier
+  - Serve content faster with CloudFront
+- [**6. Database as a Service (DBaaS)**](#6-database-as-a-service-dbaas) (6 videos)
+  - What is database as a service (DBaaS)?
+  - Relational Database Service (RDS)
+  - NoSQL databases
+  - In-memory caches
+  - Big data databases
+  - Buffer data with a message queue
+- [**7. Platform as a Service (PaaS)**](#7-platform-as-a-service-paas) (5 videos)
+  - Hosting web apps with Elastic Beanstalk
+  - Running containers on AWS
+  - Using Kubernetes with AWS
+  - Serverless functions with Lambda
+  - Managing long-running jobs
+- [**8. Software as a Service (SaaS)**](#8-software-as-a-service-saas) (3 videos)
+  - User authentication for your app
+  - Designing backend APIs
+  - Helpful machine learning services
+- [**9. DevOps with AWS**](#9-devops-with-aws) (5 videos)
+  - What is DevOps?
+  - Developer tools within AWS
+  - Infrastructure as Code with AWS
+  - Monitoring with CloudWatch
+  - DevOps using machine learning
+- [**10. Security on AWS**](#10-security-on-aws) (5 videos)
+  - AWS Shield and firewalls with WAF
+  - Spot issues with Inspector, GuardDuty, and Macie
+  - Manage EC2 with Systems Manager
+  - Traceability with CloudTrail and Security Hub
+  - Investigate threats with AWS Detective
+- [**Conclusion**](#conclusion) (3 videos)
+  - Check for unwanted charges
+  - AWS Well-Architected Framework
+  - Getting help from AWS Support
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the best way to use AWS?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-the-best-way-to-use-aws?u=76281980)
@@ -177,7 +243,7 @@ created: 2026-04-29
 
 ### 1. AWS Essential Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The AWS root account
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/the-aws-root-account-22739499?u=76281980)
@@ -532,7 +598,7 @@ created: 2026-04-29
 
 ### 2. On-Premise to AWS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### On-premise infrastructure
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/on-premise-infrastructure?u=76281980)
@@ -777,7 +843,7 @@ created: 2026-04-29
 
 ### 3. IaaS Compute
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn how to create an EC2 instance
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/learn-how-to-create-an-ec2-instance?u=76281980)
@@ -1310,7 +1376,7 @@ created: 2026-04-29
 
 ### 4. IaaS Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using security groups as firewalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/using-security-groups-as-firewalls-22739500?u=76281980)
@@ -1924,7 +1990,7 @@ created: 2026-04-29
 
 ### 5. IaaS Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hard drives with Elastic Block Store (EBS)
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hard-drives-with-elastic-block-store-ebs-22738477?u=76281980)
@@ -2477,7 +2543,7 @@ created: 2026-04-29
 
 ### 6. Database as a Service (DBaaS)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is database as a service (DBaaS)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-database-as-a-service-dbaas?u=76281980)
@@ -2744,7 +2810,7 @@ created: 2026-04-29
 
 ### 7. Platform as a Service (PaaS)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hosting web apps with Elastic Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/hosting-web-apps-with-elastic-beanstalk?u=76281980)
@@ -2994,7 +3060,7 @@ created: 2026-04-29
 
 ### 8. Software as a Service (SaaS)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### User authentication for your app
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/user-authentication-for-your-app-22731603?u=76281980)
@@ -3200,7 +3266,7 @@ created: 2026-04-29
 
 ### 9. DevOps with AWS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DevOps?
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/what-is-devops?u=76281980)
@@ -3489,7 +3555,7 @@ created: 2026-04-29
 
 ### 10. Security on AWS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AWS Shield and firewalls with WAF
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/aws-shield-and-firewalls-with-waf?u=76281980)
@@ -3678,7 +3744,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Check for unwanted charges
 > [LinkedIn Learning](https://www.linkedin.com/learning/aws-essential-training-for-developers-2023/check-for-unwanted-charges?u=76281980)

@@ -62,21 +62,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Data Analytics in the Business World]]** (8 videos)
-- **[[#2. Predictive and Prescriptive Analytics]]** (4 videos)
-- **[[#3. Asking the Right Questions]]** (4 videos)
-- **[[#4. Unlocking the Data Within]]** (4 videos)
-- **[[#5. Understanding Averages]]** (4 videos)
-- **[[#6. Sampling]]** (4 videos)
-- **[[#7. What Is Cherry Picking?]]** (3 videos)
-- **[[#8. Forecasting]]** (4 videos)
-- **[[#9. Correlation versus Causation]]** (4 videos)
-- **[[#10. Continuing Your Learning Journey in Data Analytics]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Making data more useful
+  - What you should know
+- [**1. Data Analytics in the Business World**](#1-data-analytics-in-the-business-world) (8 videos)
+  - Business leaders and data analytics
+  - Why learn data analytics in an AI world?
+  - Introduction to Red30 Tech
+  - Types of data
+  - Case study 1: Performance at a Miami location
+  - Case study 1: Explanation
+  - Challenge: Calculate descriptives
+  - Solution: Calculate descriptives
+- [**2. Predictive and Prescriptive Analytics**](#2-predictive-and-prescriptive-analytics) (4 videos)
+  - Predictive analytics
+  - Challenge: Make predictions
+  - Solution: Make predictions
+  - Prescriptive analytics
+- [**3. Asking the Right Questions**](#3-asking-the-right-questions) (4 videos)
+  - Guidelines for formulating questions
+  - Crafting better questions
+  - Case study 2: What is the right question?
+  - Role of business acumen
+- [**4. Unlocking the Data Within**](#4-unlocking-the-data-within) (4 videos)
+  - Data-collection issues
+  - Case study 3: Unclean data
+  - Case study 3: Explanation
+  - Data failure: When data is just wrong
+- [**5. Understanding Averages**](#5-understanding-averages) (4 videos)
+  - Nature of averages
+  - Case study 4: Conversion rates and benchmark
+  - Case study 4: Explanation
+  - Context is everything
+- [**6. Sampling**](#6-sampling) (4 videos)
+  - Pros and cons
+  - Case study 5: Social media survey
+  - Case study 5: Explanation
+  - Case study 5: Statistical deep dive
+- [**7. What Is Cherry Picking?**](#7-what-is-cherry-picking) (3 videos)
+  - What is cherry picking?
+  - Case study 6: Revenue
+  - Case study 6: Explanation
+- [**8. Forecasting**](#8-forecasting) (4 videos)
+  - Hurricane Matthew
+  - Case study 7: Forecasting customer complaints
+  - Case study 7: Explanation
+  - Issues to consider
+- [**9. Correlation versus Causation**](#9-correlation-versus-causation) (4 videos)
+  - Cause and effect
+  - Case study 8: Boston revenue
+  - Case study 8: Explanation
+  - Causal questions
+- [**10. Continuing Your Learning Journey in Data Analytics**](#10-continuing-your-learning-journey-in-data-analytics) (1 videos)
+  - Continuing your learning journey in data analytics
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making data more useful
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/making-data-more-useful?u=76281980)
@@ -138,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Data Analytics in the Business World
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business leaders and data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/business-leaders-and-data-analytics?u=76281980)
@@ -568,7 +610,7 @@ created: 2026-04-29
 
 ### 2. Predictive and Prescriptive Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/predictive-analytics?u=76281980)
@@ -755,7 +797,7 @@ created: 2026-04-29
 
 ### 3. Asking the Right Questions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Guidelines for formulating questions
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/guidelines-for-formulating-questions?u=76281980)
@@ -977,7 +1019,7 @@ created: 2026-04-29
 
 ### 4. Unlocking the Data Within
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data-collection issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/data-collection-issues?u=76281980)
@@ -1235,7 +1277,7 @@ created: 2026-04-29
 
 ### 5. Understanding Averages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Nature of averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/nature-of-averages?u=76281980)
@@ -1386,7 +1428,7 @@ created: 2026-04-29
 
 ### 6. Sampling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pros and cons
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/pros-and-cons?u=76281980)
@@ -1569,7 +1611,7 @@ created: 2026-04-29
 
 ### 7. What Is Cherry Picking?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is cherry picking?
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/what-is-cherry-picking?u=76281980)
@@ -1746,7 +1788,7 @@ created: 2026-04-29
 
 ### 8. Forecasting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hurricane Matthew
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/hurricane-matthew?u=76281980)
@@ -1953,7 +1995,7 @@ created: 2026-04-29
 
 ### 9. Correlation versus Causation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cause and effect
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/cause-and-effect?u=76281980)
@@ -2125,7 +2167,7 @@ created: 2026-04-29
 
 ### 10. Continuing Your Learning Journey in Data Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your learning journey in data analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-for-business-professionals-24832385/continuing-your-data-analytics-learning-journey?u=76281980)

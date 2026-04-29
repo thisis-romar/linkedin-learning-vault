@@ -44,19 +44,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Overview of Angular]]** (5 videos)
-- **[[#2. Core Building Blocks]]** (8 videos)
-- **[[#3. Common Patterns]]** (7 videos)
-- **[[#4. Coding Essentials]]** (7 videos)
-- **[[#5. Routing and Navigation]]** (6 videos)
-- **[[#6. Reactive Programming]]** (5 videos)
-- **[[#7. Testing and Debugging]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - More than just a framework
+  - What you should know
+  - Using the example code and codespaces
+  - Application overview
+- [**1. Overview of Angular**](#1-overview-of-angular) (5 videos)
+  - History and ownership
+  - Release and support cycles
+  - Angular licensing
+  - Out of the box
+  - Workflow and tooling
+- [**2. Core Building Blocks**](#2-core-building-blocks) (8 videos)
+  - Angular decorators
+  - Angular modules
+  - Angular component decorator
+  - Angular component classes
+  - Reference variables and data binding in Angular templates
+  - Structural directives in Angular templates
+  - Angular standalone components
+  - Angular without ZoneJS (Zoneless)
+- [**3. Common Patterns**](#3-common-patterns) (7 videos)
+  - Overview of Angular pipes
+  - Using built-in Angular pipes
+  - Using custom Angular pipes
+  - Angular services and the injectable decorator
+  - Angular service classes
+  - Angular directive decorator
+  - Angular directive classes
+- [**4. Coding Essentials**](#4-coding-essentials) (7 videos)
+  - Angular project configuration
+  - Application environments and build targets
+  - Injecting dependencies using dependency injection
+  - Declaring dependencies using dependency injection
+  - Providing dependencies using dependency injection
+  - Angular change detection strategies
+  - Angular component lifecycle hooks
+- [**5. Routing and Navigation**](#5-routing-and-navigation) (6 videos)
+  - Defining routes for Angular Router
+  - Using routes with Angular's Router module
+  - Lazy loading Angular routes
+  - Dynamic route parameters in Angular routes
+  - Preloading strategies for Angular Router
+  - Using Angular Router with Angular templates
+- [**6. Reactive Programming**](#6-reactive-programming) (5 videos)
+  - Angular signals and the Signal function
+  - Angular signals and the Computed function
+  - Angular signals and the Effect function
+  - Angular's async pipe
+  - RxJS and Reactive programming in Angular
+- [**7. Testing and Debugging**](#7-testing-and-debugging) (4 videos)
+  - Overview of unit testing
+  - Unit testing without dependency injection
+  - Unit testing with dependency injection
+  - Static code linting in Angular
+- [**Conclusion**](#conclusion) (1 videos)
+  - A deeper look at Angular
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### More than just a framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/more-than-just-a-framework?u=76281980)
@@ -344,7 +391,7 @@ created: 2026-04-29
 
 ### 1. Overview of Angular
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### History and ownership
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/history-and-ownership?u=76281980)
@@ -597,7 +644,7 @@ created: 2026-04-29
 
 ### 2. Core Building Blocks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Angular decorators
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-decorators?u=76281980)
@@ -1353,7 +1400,7 @@ created: 2026-04-29
 
 ### 3. Common Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of Angular pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-angular-pipes?u=76281980)
@@ -2068,7 +2115,7 @@ created: 2026-04-29
 
 ### 4. Coding Essentials
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Angular project configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angularpproject-configuration?u=76281980)
@@ -2655,7 +2702,7 @@ created: 2026-04-29
 
 ### 5. Routing and Navigation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining routes for Angular Router
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/defining-routes-for-angular-router?u=76281980)
@@ -3276,7 +3323,7 @@ created: 2026-04-29
 
 ### 6. Reactive Programming
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Angular signals and the Signal function
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/angular-signals-and-the-signal-function?u=76281980)
@@ -3711,7 +3758,7 @@ created: 2026-04-29
 
 ### 7. Testing and Debugging
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of unit testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/overview-of-unit-testing?u=76281980)
@@ -4130,7 +4177,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A deeper look at Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-essential-training-22884621/a-deeper-look-at-angular?u=76281980)

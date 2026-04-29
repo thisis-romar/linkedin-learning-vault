@@ -47,13 +47,23 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Customizing ESLint Styles]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Setting up ESLint to match your style
+  - What you should know
+  - Using the exercise files for this course
+  - Using GitHub Codespaces with this course
+- [**1. Customizing ESLint Styles**](#1-customizing-eslint-styles) (5 videos)
+  - Turning on checking for a rule
+  - Configuring options for a rule
+  - Troubleshooting ESLint styles
+  - Challenge: Customize ESLint styles
+  - Solution: Customize ESLint styles
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up ESLint to match your style
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/setting-up-eslint-to-match-your-style-25668962?u=76281980)
@@ -314,7 +324,7 @@ created: 2026-04-29
 
 ### 1. Customizing ESLint Styles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Turning on checking for a rule
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/turning-on-checking-for-a-rule?u=76281980)
@@ -886,7 +896,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/eslint-customizing-styles/next-steps?u=76281980)

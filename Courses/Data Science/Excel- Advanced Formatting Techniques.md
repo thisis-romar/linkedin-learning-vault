@@ -49,21 +49,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Formatting and Aligning Text]]** (5 videos)
-- **[[#2. Formatting Numbers and Dates]]** (6 videos)
-- **[[#3. Working with Images and Shapes]]** (3 videos)
-- **[[#4. Conditional Formatting]]** (4 videos)
-- **[[#5. Formatting for Print]]** (3 videos)
-- **[[#6. Workbooks and Worksheets]]** (2 videos)
-- **[[#7. Tables, Slicers, Themes]]** (3 videos)
-- **[[#8. Charts and Graphs]]** (2 videos)
-- **[[#9. Advanced, Random, and Fascinating Formatting]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Advanced formatting in Excel
+- [**1. Formatting and Aligning Text**](#1-formatting-and-aligning-text) (5 videos)
+  - Subscript, underline, and strikethrough text
+  - Center across a selection vs. merged cells
+  - Create angled text for readability and organization
+  - Indent cell contents and add new lines within a cell
+  - Insert symbols: Bullet points, stars, and François
+- [**2. Formatting Numbers and Dates**](#2-formatting-numbers-and-dates) (6 videos)
+  - Dates and custom formatting
+  - Make consistent entries with Find and Replace
+  - Positive and negative numbers
+  - Format hours, minutes, and seconds
+  - M for millions and K for thousands
+  - Format numbers with Power Query
+- [**3. Working with Images and Shapes**](#3-working-with-images-and-shapes) (3 videos)
+  - Group and align shapes
+  - Transform text into shapes with WordArt
+  - Place text inside a shape
+- [**4. Conditional Formatting**](#4-conditional-formatting) (4 videos)
+  - Conditional formatting for duplicates
+  - Highlight fast-approaching dates
+  - Conditional formatting for icons
+  - Conditional formatting for strikethrough fonts
+- [**5. Formatting for Print**](#5-formatting-for-print) (3 videos)
+  - Page numbers and page breaks
+  - Print preview
+  - Format your worksheets to control what gets printed
+- [**6. Workbooks and Worksheets**](#6-workbooks-and-worksheets) (2 videos)
+  - Format multiple sheets at once
+  - Set workbook defaults to open with your preferences
+- [**7. Tables, Slicers, Themes**](#7-tables-slicers-themes) (3 videos)
+  - Format tables
+  - Format slicers
+  - Apply workbook themes and styles
+- [**8. Charts and Graphs**](#8-charts-and-graphs) (2 videos)
+  - Grid lines, legends, and other chart formatting
+  - 3D, shadows, and other advanced chart formatting
+- [**9. Advanced, Random, and Fascinating Formatting**](#9-advanced-random-and-fascinating-formatting) (5 videos)
+  - Install and uninstall fonts
+  - Format your worksheet's background with an image
+  - Manage hyperlinks
+  - Color-picker and RGB code for colors
+  - Clear Formatting
+- [**Conclusion**](#conclusion) (1 videos)
+  - Getting the most from Excel
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced formatting in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980)
@@ -95,7 +130,7 @@ created: 2026-04-29
 
 ### 1. Formatting and Aligning Text
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Subscript, underline, and strikethrough text
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/subscript-underline-and-strikethrough-text?u=76281980)
@@ -883,7 +918,7 @@ created: 2026-04-29
 
 ### 2. Formatting Numbers and Dates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dates and custom formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980)
@@ -1684,7 +1719,7 @@ created: 2026-04-29
 
 ### 3. Working with Images and Shapes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Group and align shapes
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980)
@@ -2077,7 +2112,7 @@ created: 2026-04-29
 
 ### 4. Conditional Formatting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conditional formatting for duplicates
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980)
@@ -2655,7 +2690,7 @@ created: 2026-04-29
 
 ### 5. Formatting for Print
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Page numbers and page breaks
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/page-numbers-and-page-breaks?u=76281980)
@@ -2954,7 +2989,7 @@ created: 2026-04-29
 
 ### 6. Workbooks and Worksheets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Format multiple sheets at once
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-multiple-sheets-at-once?u=76281980)
@@ -3153,7 +3188,7 @@ created: 2026-04-29
 
 ### 7. Tables, Slicers, Themes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Format tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980)
@@ -3488,7 +3523,7 @@ created: 2026-04-29
 
 ### 8. Charts and Graphs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Grid lines, legends, and other chart formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/grid-lines-legends-and-other-chart-formatting?u=76281980)
@@ -3735,7 +3770,7 @@ created: 2026-04-29
 
 ### 9. Advanced, Random, and Fascinating Formatting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install and uninstall fonts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980)
@@ -4190,7 +4225,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting the most from Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980)

@@ -42,18 +42,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Ready for PowerShell]]** (5 videos)
-- **[[#2. Introduction to PowerShell 7]]** (3 videos)
-- **[[#3. Commands and Syntax]]** (6 videos)
-- **[[#4. Scripting and Automation]]** (10 videos)
-- **[[#5. Managing Servers, Operating Systems, and Services]]** (4 videos)
-- **[[#6. PowerShell Remoting]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Get up and running with PowerShell 7
+  - What you should know
+- [**1. Getting Ready for PowerShell**](#1-getting-ready-for-powershell) (5 videos)
+  - Why use PowerShell?
+  - Launch PowerShell as an administrator
+  - Configure the PowerShell console
+  - PowerShell development envionments
+  - Configure development environments for PowerShell
+- [**2. Introduction to PowerShell 7**](#2-introduction-to-powershell-7) (3 videos)
+  - PowerShell 7
+  - Install PowerShell 7
+  - Work with PowerShell modules
+- [**3. Commands and Syntax**](#3-commands-and-syntax) (6 videos)
+  - Discover commands
+  - Explore help
+  - Understand cmdlet syntax
+  - Understand terse commands
+  - Utilize variables
+  - Understand PowerShell objects
+- [**4. Scripting and Automation**](#4-scripting-and-automation) (10 videos)
+  - PowerShell security
+  - Create your first script
+  - Parameter attributes for scripts and functions
+  - Select information
+  - Filter specific data
+  - Control the flow of PowerShell
+  - Ternary operators
+  - Switch statements
+  - Define custom help
+  - Distributing custom PowerShell scripts
+- [**5. Managing Servers, Operating Systems, and Services**](#5-managing-servers-operating-systems-and-services) (4 videos)
+  - Navigate the file system
+  - Manage files and directories
+  - Retrieve data
+  - Work with JSON objects
+- [**6. PowerShell Remoting**](#6-powershell-remoting) (4 videos)
+  - Introduction to PowerShell remoting
+  - Enable PowerShell remoting
+  - Combine commands
+  - Practical PowerShell remoting
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get up and running with PowerShell 7
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7?u=76281980)
@@ -109,7 +144,7 @@ created: 2026-04-29
 
 ### 1. Getting Ready for PowerShell
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use PowerShell?
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/why-use-powershell?u=76281980)
@@ -832,7 +867,7 @@ created: 2026-04-29
 
 ### 2. Introduction to PowerShell 7
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PowerShell 7
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-7?u=76281980)
@@ -1249,7 +1284,7 @@ created: 2026-04-29
 
 ### 3. Commands and Syntax
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover commands
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/discover-commands?u=76281980)
@@ -2358,7 +2393,7 @@ created: 2026-04-29
 
 ### 4. Scripting and Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PowerShell security
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/powershell-security?u=76281980)
@@ -4181,7 +4216,7 @@ created: 2026-04-29
 
 ### 5. Managing Servers, Operating Systems, and Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigate the file system
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/navigate-the-file-system?u=76281980)
@@ -5036,7 +5071,7 @@ created: 2026-04-29
 
 ### 6. PowerShell Remoting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to PowerShell remoting
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/introduction-to-powershell-remoting?u=76281980)
@@ -5655,7 +5690,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/powershell-7-essential-training/next-steps?u=76281980)

@@ -55,16 +55,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Internet Basics]]** (2 videos)
-- **[[#2. Addressing and Routing Information]]** (7 videos)
-- **[[#3. Web Servers]]** (5 videos)
-- **[[#4. Encryption]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - What you should know
+- [**1. Internet Basics**](#1-internet-basics) (2 videos)
+  - How the Internet was born
+  - Who manages the Internet?
+- [**2. Addressing and Routing Information**](#2-addressing-and-routing-information) (7 videos)
+  - Sending and receiving information
+  - The Internet Protocol and IP address
+  - Scaling up the Internet from IPv4 to IPv6
+  - The Domain Name Server and DNS
+  - Routers and directing requests
+  - Packets and fault tolerance
+  - Reliability and TCP
+- [**3. Web Servers**](#3-web-servers) (5 videos)
+  - Identifying a server with URLs
+  - HTTP and requests
+  - Hypertext and HTML
+  - Remembering requests with cookies
+  - Securing requests with SSL and TLS
+- [**4. Encryption**](#4-encryption) (3 videos)
+  - Caesar's cypher and keys
+  - Improving security with longer keys
+  - Symmetric and asymmetric keys
+- [**Conclusion**](#conclusion) (1 videos)
+  - Goodbye
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/welcome?u=76281980)
@@ -137,7 +157,7 @@ created: 2026-04-29
 
 ### 1. Internet Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How the Internet was born
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/how-the-internet-was-born?u=76281980)
@@ -307,7 +327,7 @@ created: 2026-04-29
 
 ### 2. Addressing and Routing Information
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sending and receiving information
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/sending-and-receiving-information?u=76281980)
@@ -731,7 +751,7 @@ created: 2026-04-29
 
 ### 3. Web Servers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying a server with URLs
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/identifying-a-server-with-urls?u=76281980)
@@ -1111,7 +1131,7 @@ created: 2026-04-29
 
 ### 4. Encryption
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Caesar's cypher and keys
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/caesar-s-cypher-and-keys?u=76281980)
@@ -1290,7 +1310,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-the-internet/goodbye?u=76281980)

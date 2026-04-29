@@ -46,18 +46,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. DoS Targets]]** (6 videos)
-- **[[#2. Properties of DoS Attacks]]** (3 videos)
-- **[[#3. DoS in Various Technologies]]** (2 videos)
-- **[[#4. DoS Defenses]]** (2 videos)
-- **[[#5. EOP]]** (4 videos)
-- **[[#6. EOP Defenses]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Let me interrupt you
+  - STRIDE and the four question framework
+- [**1. DoS Targets**](#1-dos-targets) (6 videos)
+  - DoS in context
+  - Attackers fill networks
+  - How attackers redline your CPU
+  - How attackers fill storage
+  - How attackers spend your budget
+  - How attackers drain your battery
+- [**2. Properties of DoS Attacks**](#2-properties-of-dos-attacks) (3 videos)
+  - Persistence and transience of DoS
+  - Naïve to clever: Understanding DoS
+  - Amplified or native: Two modes of DoS
+- [**3. DoS in Various Technologies**](#3-dos-in-various-technologies) (2 videos)
+  - Mobile and IoT denial of service
+  - Cloud denial of service
+- [**4. DoS Defenses**](#4-dos-defenses) (2 videos)
+  - Designing for resilience
+  - Quantity as a defense
+- [**5. EOP**](#5-eop) (4 videos)
+  - What is elevation of privilege?
+  - Privilege and authority
+  - Input corrupts
+  - Main forms of corrupt input
+- [**6. EOP Defenses**](#6-eop-defenses) (9 videos)
+  - Ways to defend against EOP
+  - Validation to defend against elevation
+  - Validate for purpose to prevent elevations
+  - Validation not sanitization for defense
+  - Attenuation in defense
+  - Memory safety as a defensive tool
+  - Stack canaries to protect your code
+  - Sandboxes and isolation protect your environment
+  - Bolt-on or built-in defenses
+- [**Conclusion**](#conclusion) (1 videos)
+  - Security by design
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Let me interrupt you
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/let-me-interrupt-you?u=76281980)
@@ -135,7 +164,7 @@ created: 2026-04-29
 
 ### 1. DoS Targets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DoS in context
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/dos-in-context?u=76281980)
@@ -388,7 +417,7 @@ created: 2026-04-29
 
 ### 2. Properties of DoS Attacks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Persistence and transience of DoS
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/persistence-and-transience-of-dos?u=76281980)
@@ -535,7 +564,7 @@ created: 2026-04-29
 
 ### 3. DoS in Various Technologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mobile and IoT denial of service
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/mobile-and-iot-denial-of-service?u=76281980)
@@ -600,7 +629,7 @@ created: 2026-04-29
 
 ### 4. DoS Defenses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing for resilience
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/designing-for-resilience?u=76281980)
@@ -661,7 +690,7 @@ created: 2026-04-29
 
 ### 5. EOP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is elevation of privilege?
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/what-is-elevation-of-privilege?u=76281980)
@@ -841,7 +870,7 @@ created: 2026-04-29
 
 ### 6. EOP Defenses
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ways to defend against EOP
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/ways-to-defend-against-eop?u=76281980)
@@ -1204,7 +1233,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security by design
 > [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-denial-of-service-and-expansion-of-authority/secruity-by-design?u=76281980)

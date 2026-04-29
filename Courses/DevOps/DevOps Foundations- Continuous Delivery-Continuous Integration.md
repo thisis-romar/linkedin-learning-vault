@@ -46,15 +46,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Continuous Integration and Continuous Delivery]]** (3 videos)
-- **[[#2. Build Your Own Pipeline]]** (15 videos)
-- **[[#3. Putting It All Together]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - DevOps foundations: CD/CI
+  - What you should know
+- [**1. Continuous Integration and Continuous Delivery**](#1-continuous-integration-and-continuous-delivery) (3 videos)
+  - DevOps core concept: CI/CD
+  - Benefits of continuous delivery
+  - Build pipelines in practice
+- [**2. Build Your Own Pipeline**](#2-build-your-own-pipeline) (15 videos)
+  - Introducing the delivery pipeline
+  - Version control practices
+  - Version control in action with Git
+  - Continuous integration systems
+  - Continuous integration in action
+  - Building artifacts
+  - Artifact repositories in action
+  - Testing and continuous delivery
+  - Testing philosophy
+  - Unit testing in action
+  - Application deploy and release
+  - Deployment in action
+  - Integration testing in action
+  - UI testing in action
+  - Security testing in action with Gauntlt
+- [**3. Putting It All Together**](#3-putting-it-all-together) (2 videos)
+  - CI/CD best practices
+  - Continuous delivery in real life
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps foundations: CD/CI
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-foundations-cd-ci?u=76281980)
@@ -146,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Continuous Integration and Continuous Delivery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DevOps core concept: CI/CD
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/devops-core-concept-ci-cd?u=76281980)
@@ -425,7 +448,7 @@ created: 2026-04-29
 
 ### 2. Build Your Own Pipeline
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introducing the delivery pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/introducing-the-delivery-pipeline?u=76281980)
@@ -2404,7 +2427,7 @@ created: 2026-04-29
 
 ### 3. Putting It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### CI/CD best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/ci-cd-best-practices?u=76281980)
@@ -2642,7 +2665,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-continuous-delivery-continuous-integration-14449917/next-steps?u=76281980)

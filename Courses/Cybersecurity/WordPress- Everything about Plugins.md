@@ -47,17 +47,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Plugins]]** (5 videos)
-- **[[#2. Getting Started with Plugins]]** (4 videos)
-- **[[#3. Building a Site with Plugins]]** (8 videos)
-- **[[#4. Troubleshooting Plugins]]** (4 videos)
-- **[[#5. Creating Your Own Plugin]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Everything about WordPress plugins
+  - What you should know before taking this course
+- [**1. Introduction to Plugins**](#1-introduction-to-plugins) (5 videos)
+  - What is a plugin?
+  - Where to find plugins
+  - Exploring the plugin repository page
+  - What makes a good plugin
+  - Plugins in the WordPress file structure
+- [**2. Getting Started with Plugins**](#2-getting-started-with-plugins) (4 videos)
+  - How to install and activate a plugin
+  - How to deactivate and remove plugins
+  - How to safely update and maintain plugins
+  - How to secure plugins with mu-plugins
+- [**3. Building a Site with Plugins**](#3-building-a-site-with-plugins) (8 videos)
+  - Basics of using a plugin
+  - Using design plugins
+  - Using development plugins
+  - Using marketing plugins
+  - Using performance and security plugins
+  - Using maintenance plugins
+  - Using admin plugins
+  - Using plugins in the block editor
+- [**4. Troubleshooting Plugins**](#4-troubleshooting-plugins) (4 videos)
+  - Finding a problem plugin
+  - Manually removing a plugin
+  - Troubleshooting plugins with plugins
+  - Using plugin support channels
+- [**5. Creating Your Own Plugin**](#5-creating-your-own-plugin) (4 videos)
+  - Creating a simple plugin
+  - Creating a complex plugin
+  - Submitting your plugin to the directory
+  - Selling your own plugin
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in your WordPress plugin journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Everything about WordPress plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/everything-about-wordpress-plugins?u=76281980)
@@ -109,7 +137,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Plugins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a plugin?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/what-is-a-plugin?u=76281980)
@@ -474,7 +502,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Plugins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to install and activate a plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/how-to-install-and-activate-a-plugin?u=76281980)
@@ -729,7 +757,7 @@ created: 2026-04-29
 
 ### 3. Building a Site with Plugins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basics of using a plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/basics-of-using-a-plugin?u=76281980)
@@ -1395,7 +1423,7 @@ created: 2026-04-29
 
 ### 4. Troubleshooting Plugins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding a problem plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/finding-a-problem-plugin?u=76281980)
@@ -1665,7 +1693,7 @@ created: 2026-04-29
 
 ### 5. Creating Your Own Plugin
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a simple plugin
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/creating-a-simple-plugin?u=76281980)
@@ -1920,7 +1948,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your WordPress plugin journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-everything-about-plugins/next-steps-in-your-wordpress-plugin-journey?u=76281980)

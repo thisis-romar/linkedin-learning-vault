@@ -45,17 +45,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Role of QA]]** (4 videos)
-- **[[#2. Test Planning]]** (4 videos)
-- **[[#3. Types of Testing QA Focuses On]]** (6 videos)
-- **[[#4. Bug Reporting]]** (6 videos)
-- **[[#Glossaries]]** (0 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Set the standard with quality assurance (QA)
+  - What is quality assurance?
+  - How to ensure quality
+- [**1. The Role of QA**](#1-the-role-of-qa) (4 videos)
+  - Roles and responsibilities
+  - Get involved throughout the SDLC
+  - Collaborate with the team
+  - Set expectations and goals
+- [**2. Test Planning**](#2-test-planning) (4 videos)
+  - Create a test strategy
+  - Make a test plan
+  - Write acceptance criteria
+  - Identify when testing is complete
+- [**3. Types of Testing QA Focuses On**](#3-types-of-testing-qa-focuses-on) (6 videos)
+  - Box testing
+  - Manual testing
+  - UI automation testing
+  - Integration testing
+  - Performance testing
+  - Security testing
+- [**4. Bug Reporting**](#4-bug-reporting) (6 videos)
+  - Identify bugs
+  - Report bugs
+  - Triage bugs
+  - Communicate bugs to the team
+  - Getting bugs fixed
+  - Have bug bashes
+- [**Glossaries**](#glossaries) (0 videos)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set the standard with quality assurance (QA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?u=76281980)
@@ -151,7 +175,7 @@ created: 2026-04-29
 
 ### 1. The Role of QA
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Roles and responsibilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/roles-and-responsibilities?u=76281980)
@@ -427,7 +451,7 @@ created: 2026-04-29
 
 ### 2. Test Planning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a test strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/create-a-test-strategy?u=76281980)
@@ -708,7 +732,7 @@ created: 2026-04-29
 
 ### 3. Types of Testing QA Focuses On
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Box testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/box-testing?u=76281980)
@@ -1070,7 +1094,7 @@ created: 2026-04-29
 
 ### 4. Bug Reporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify bugs
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/identify-bugs?u=76281980)
@@ -1345,12 +1369,12 @@ created: 2026-04-29
 
 ### Glossaries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/next-steps?u=76281980)

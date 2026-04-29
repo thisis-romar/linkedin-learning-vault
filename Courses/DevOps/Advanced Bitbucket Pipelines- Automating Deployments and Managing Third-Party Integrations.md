@@ -48,16 +48,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Pipeline Optimizations]]** (6 videos)
-- **[[#2. Using Pipes in Pipelines]]** (4 videos)
-- **[[#3. Create Custom Pipes]]** (6 videos)
-- **[[#4. Self-Hosted Runners]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Optimize your CI/CD: Advanced techniques with Bitbucket Pipelines
+  - Bitbucket Pipelines review
+- [**1. Pipeline Optimizations**](#1-pipeline-optimizations) (6 videos)
+  - Optimizing pipeline performance and reducing build times
+  - Configure maximum runtime
+  - Configure resource allocation
+  - Use conditional steps
+  - Cache dependencies
+  - Solution: Optimize a pipeline
+- [**2. Using Pipes in Pipelines**](#2-using-pipes-in-pipelines) (4 videos)
+  - Getting to know pipes
+  - Use a pipe in a pipeline configuration
+  - Use a pipe to deploy code to AWS Lambda
+  - Solution: Use pipes in a pipeline
+- [**3. Create Custom Pipes**](#3-create-custom-pipes) (6 videos)
+  - When to use custom pipes
+  - Develop a custom pipe
+  - Test a custom pipe
+  - Deploy a custom pipe to a container registry
+  - Use a custom pipe in a pipeline
+  - Solution: Develop a custom pipe
+- [**4. Self-Hosted Runners**](#4-self-hosted-runners) (6 videos)
+  - When to use self-hosted runners
+  - Self-hosted runner configurations
+  - Compare repository and workspace runners
+  - Install runners in a workspace
+  - Use self-hosted runners in a pipeline
+  - Solution: Deploy a self-hosted runner
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimize your CI/CD: Advanced techniques with Bitbucket Pipelines
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimize-your-ci-cd-advanced-techniques-with-bitbucket-pipelines?u=76281980)
@@ -138,7 +163,7 @@ created: 2026-04-29
 
 ### 1. Pipeline Optimizations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing pipeline performance and reducing build times
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/optimizing-pipeline-performance-and-reducing-build-times?u=76281980)
@@ -562,7 +587,7 @@ created: 2026-04-29
 
 ### 2. Using Pipes in Pipelines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting to know pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/getting-to-know-pipes?u=76281980)
@@ -787,7 +812,7 @@ created: 2026-04-29
 
 ### 3. Create Custom Pipes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to use custom pipes
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-custom-pipes?u=76281980)
@@ -1166,7 +1191,7 @@ created: 2026-04-29
 
 ### 4. Self-Hosted Runners
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to use self-hosted runners
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/when-to-use-self-hosted-runners?u=76281980)
@@ -1583,7 +1608,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-bitbucket-pipelines-automating-deployments-and-managing-third-party-integrations/next-steps?u=76281980)

@@ -48,17 +48,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Set Up Your Environment]]** (3 videos)
-- **[[#2. Understand the File Setup]]** (2 videos)
-- **[[#3. Build a KPI Box Visual Using "Single" Data]]** (14 videos)
-- **[[#4. Build a Scatter Chart Using "Categorical" Data]]** (6 videos)
-- **[[#5. Convert to a Bubble Chart with Group by Data]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Intro to Microsoft Power BI
+  - Who this course is for
+  - What is Power BI?
+  - What is a custom visual?
+- [**1. Set Up Your Environment**](#1-set-up-your-environment) (3 videos)
+  - Understand the target set up
+  - Licensing, software, and version requirements
+  - Create your first (demo) custom visual
+- [**2. Understand the File Setup**](#2-understand-the-file-setup) (2 videos)
+  - Understand the folder structure of your new project
+  - Understand key files and Identify the ones to change
+- [**3. Build a KPI Box Visual Using "Single" Data**](#3-build-a-kpi-box-visual-using-single-data) (14 videos)
+  - See the target visual, data, and formatting
+  - Edit capabilities.json and inspect the resulting data
+  - Edit visual.ts to display a KPI value in Power BI
+  - Edit visual.ts to access the user's formatting choices
+  - Add a responsive SVG using D3
+  - Add rectangles and text to your KPI visual
+  - Use formatting utils API to set text size dynamically
+  - Use font size and fill color from the formatting pane
+  - Challenge: Add fill opacity to the formatting pane
+  - Solution: Add fill opacity to the formatting pane
+  - Challenge: Change the font color the KPI and label
+  - Solution: Change the font color the KPI and label
+  - Challenge: Place label at top or bottom
+  - Solution: Place label at top or bottom
+- [**4. Build a Scatter Chart Using "Categorical" Data**](#4-build-a-scatter-chart-using-categorical-data) (6 videos)
+  - Tell Power BI to accept categorical data
+  - Create D3 linear scales and axes in your custom visual
+  - Add some dots to make a scatterplot
+  - Add some dots to make a scatterplot
+  - Challenge: Make the dots responsive
+  - Solution: Make the dots responsive
+- [**5. Convert to a Bubble Chart with Group by Data**](#5-convert-to-a-bubble-chart-with-group-by-data) (7 videos)
+  - Grouping your data to help make a bubble chart
+  - Create grouped scatter plot data, to allow different colors per category
+  - Update your D3 code to reflect your new grouped data
+  - Add a size dimension to create a bubble chart
+  - Distributing your visual
+  - Challenge: Change the hard coding of colors into dynamic coloring based on an array
+  - Solution: Change the hard coding of colors into dynamic coloring based on an array
+- [**Conclusion**](#conclusion) (1 videos)
+  - Goodbye
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intro to Microsoft Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/intro-to-microsoft-power-bi?u=76281980)
@@ -252,7 +289,7 @@ created: 2026-04-29
 
 ### 1. Set Up Your Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the target set up
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-target-set-up?u=76281980)
@@ -587,7 +624,7 @@ created: 2026-04-29
 
 ### 2. Understand the File Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand the folder structure of your new project
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/understand-the-folder-structure-of-your-new-project?u=76281980)
@@ -926,7 +963,7 @@ created: 2026-04-29
 
 ### 3. Build a KPI Box Visual Using "Single" Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### See the target visual, data, and formatting
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/see-the-target-visual-data-and-formatting-8575930?u=76281980)
@@ -2460,7 +2497,7 @@ created: 2026-04-29
 
 ### 4. Build a Scatter Chart Using "Categorical" Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tell Power BI to accept categorical data
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/tell-power-bi-to-accept-categorical-data-13915998?u=76281980)
@@ -3427,7 +3464,7 @@ created: 2026-04-29
 
 ### 5. Convert to a Bubble Chart with Group by Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping your data to help make a bubble chart
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/grouping-your-data-to-help-make-a-bubble-chart?u=76281980)
@@ -4087,7 +4124,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Goodbye
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-power-bi-custom-visuals-with-d3-js/goodbye?u=76281980)

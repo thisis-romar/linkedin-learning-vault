@@ -49,16 +49,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started with Selenium]]** (10 videos)
-- **[[#2. Structuring Your Tests]]** (7 videos)
-- **[[#3. Running Tests at Scale]]** (5 videos)
-- **[[#4. Enhancing Tests with Modern Tools]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn Selenium for testing
+  - What you should know
+  - Selenium vs. modern frameworks
+- [**1. Getting Started with Selenium**](#1-getting-started-with-selenium) (10 videos)
+  - Setting up the Selenium framework for macOS
+  - Setting up the Selenium framework for Windows
+  - Write your first Selenium test
+  - Locate elements with confidence
+  - Waiting strategy: Page load strategy
+  - Waiting strategy: Elements
+  - Run tests headlessly
+  - Build the framework foundation
+  - Challenge: Fix a failing test
+  - Solution: Fix a failing test
+- [**2. Structuring Your Tests**](#2-structuring-your-tests) (7 videos)
+  - What is a page object model (POM)?
+  - Create a POM
+  - Implement a POM in a test
+  - Data-driven testing
+  - Organize tests with tags
+  - Challenge: Refactor POM function
+  - Solution: Refactor POM function
+- [**3. Running Tests at Scale**](#3-running-tests-at-scale) (5 videos)
+  - Test across browsers locally
+  - What is Selenium Grid?
+  - Run tests using Selenium Grid
+  - Run tests in parallel
+  - Use GitHub Codespaces for test dev
+- [**4. Enhancing Tests with Modern Tools**](#4-enhancing-tests-with-modern-tools) (5 videos)
+  - Capture screenshots on failure
+  - Mock APIs with WireMock
+  - Run tests in CI with GitHub Actions
+  - Challenge: Run tests in CI with GitHub Actions
+  - Solution: Run tests in CI with GitHub Actions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn Selenium for testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/learn-selenium-for-testing?u=76281980)
@@ -202,7 +233,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Selenium
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up the Selenium framework for macOS
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/setting-up-selenium-framework-for-mac?u=76281980)
@@ -819,7 +850,7 @@ created: 2026-04-29
 
 ### 2. Structuring Your Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a page object model (POM)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/what-is-the-page-object-model?u=76281980)
@@ -1274,7 +1305,7 @@ created: 2026-04-29
 
 ### 3. Running Tests at Scale
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test across browsers locally
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/test-across-browsers-locally?u=76281980)
@@ -1717,7 +1748,7 @@ created: 2026-04-29
 
 ### 4. Enhancing Tests with Modern Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Capture screenshots on failure
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/capture-screenshots-on-failure?u=76281980)
@@ -2055,7 +2086,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-selenium-structure-scale-run-and-optimize-automated-tests/next-steps?u=76281980)

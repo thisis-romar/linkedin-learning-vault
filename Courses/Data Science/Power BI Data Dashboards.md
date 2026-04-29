@@ -46,18 +46,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Working with Data]]** (9 videos)
-- **[[#2. Visualizing Data]]** (8 videos)
-- **[[#3. Comparing Multiple Variables]]** (7 videos)
-- **[[#4. Mapping Options]]** (6 videos)
-- **[[#5. Putting It All Together]]** (6 videos)
-- **[[#6. Sharing Your Work]]** (3 videos)
-- **[[#Conclusion ]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Building data dashboards in Power BI
+  - What you should know
+  - Setting up the Power BI model
+  - Building the Power BI ecosystem
+  - Choosing colors
+- [**1. Working with Data**](#1-working-with-data) (9 videos)
+  - Configuring table and matrix visuals
+  - Building hierarchies
+  - Creating lists and bins
+  - Applying filters
+  - Building and using DAX formulas
+  - Using quick measures formulas
+  - Formatting visuals
+  - Adding color gradients to heatmaps
+  - Utilizing report themes
+- [**2. Visualizing Data**](#2-visualizing-data) (8 videos)
+  - Visualizing time-intelligence trends
+  - Using column charts to visualize trends
+  - Ranking categorical totals
+  - Comparing proportions
+  - Setting up histograms
+  - Utilizing scatter plots
+  - Challenge: Visualizing data
+  - Solution: Visualizing data
+- [**3. Comparing Multiple Variables**](#3-comparing-multiple-variables) (7 videos)
+  - Analytics options: Reference, trend, and forecast lines
+  - Creating sparklines to quickly view trends
+  - Leveraging box plots and violin plots
+  - Visualizing flows with Sankey charts
+  - Examining key performance indicators (KPIs)
+  - Challenge: Analyzing multiple variables
+  - Solution: Analyzing multiple variables
+- [**4. Mapping Options**](#4-mapping-options) (6 videos)
+  - Exploring map options
+  - Shape map visual
+  - Drilling through map levels
+  - Mapping flow patterns
+  - Challenge: Map visuals
+  - Solution: Map visuals
+- [**5. Putting It All Together**](#5-putting-it-all-together) (6 videos)
+  - Customing tooltips
+  - Configuring chiclet slicers
+  - Displaying Top N rankings
+  - Syncing slicers between pages
+  - Creating dashboards
+  - Adding nudge prompts to promote interactions
+- [**6. Sharing Your Work**](#6-sharing-your-work) (3 videos)
+  - Creating a phone view
+  - Publishing to Power BI service
+  - Sharing Power BI models
+- [**Conclusion **](#conclusion) (1 videos)
+  - Getting more out of Power BI
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building data dashboards in Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/building-data-dashboards-in-power-bi?u=76281980)
@@ -293,7 +338,7 @@ created: 2026-04-29
 
 ### 1. Working with Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring table and matrix visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/configuring-table-and-matrix-visuals?u=76281980)
@@ -1065,7 +1110,7 @@ created: 2026-04-29
 
 ### 2. Visualizing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visualizing time-intelligence trends
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/visualizing-time-intelligence-trends?u=76281980)
@@ -1623,7 +1668,7 @@ created: 2026-04-29
 
 ### 3. Comparing Multiple Variables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analytics options: Reference, trend, and forecast lines
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/analytics-options-reference-trend-and-forecast-lines?u=76281980)
@@ -1984,7 +2029,7 @@ created: 2026-04-29
 
 ### 4. Mapping Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring map options
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/shape-map-visual?u=76281980)
@@ -2358,7 +2403,7 @@ created: 2026-04-29
 
 ### 5. Putting It All Together
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Customing tooltips
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/customing-tooltips?u=76281980)
@@ -2786,7 +2831,7 @@ created: 2026-04-29
 
 ### 6. Sharing Your Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a phone view
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/creating-a-phone-view?u=76281980)
@@ -3012,7 +3057,7 @@ created: 2026-04-29
 
 ### Conclusion 
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting more out of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-data-dashboards/getting-more-out-of-power-bi?u=76281980)

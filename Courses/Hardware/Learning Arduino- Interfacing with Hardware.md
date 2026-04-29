@@ -48,16 +48,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Interface with an LCD]]** (8 videos)
-- **[[#2. Interface with a 7-Segment LED Directly]]** (9 videos)
-- **[[#3. Interface with a 7-Segment LED Using a Shift Register]]** (7 videos)
-- **[[#4. Interface with a Keypad]]** (10 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Open up your digital world with Arduino
+  - What you should know before watching
+  - The devices used
+- [**1. Interface with an LCD**](#1-interface-with-an-lcd) (8 videos)
+  - Introduction to the liquid crystal display (LCD)
+  - Understanding HD4470 controller
+  - The LCD interface
+  - Wire up the LCD
+  - Coding the LCD interface
+  - Optional review: Understanding "for" loops
+  - Optional review: Understanding arrays
+  - Displaying random numbers and scrolling
+- [**2. Interface with a 7-Segment LED Directly**](#2-interface-with-a-7-segment-led-directly) (9 videos)
+  - Overview of the 7-segment LED
+  - The 7-segment LED component
+  - 7-segment LED display types
+  - Checking a 7-segment LED type
+  - Wiring up the 7-segment LED
+  - Cycle through each LED directly
+  - Cycle through LEDs with a for loop
+  - Understanding the 7-segment LED truth table
+  - Coding 7-segment display showing numbers
+- [**3. Interface with a 7-Segment LED Using a Shift Register**](#3-interface-with-a-7-segment-led-using-a-shift-register) (7 videos)
+  - Understanding the shift register
+  - MC74HC595A shift register overview
+  - Wire up the input and clock signals
+  - Wire up the signals for VCC and GND
+  - Wire up the 7-segment LED
+  - Initializing pins for the shift register
+  - The shiftOut command
+- [**4. Interface with a Keypad**](#4-interface-with-a-keypad) (10 videos)
+  - Introduction to the keypad interface
+  - Wiring up the keypad
+  - Optional review: IF statement
+  - Optional review: The switch...case statement
+  - Understanding two-dimensional arrays
+  - Setup the keypad library
+  - HelloKeypad
+  - Using the keypad with LEDs
+  - Combine the keypad and 7-segment LED
+  - Combine them all: LCD + keypad + LED
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Open up your digital world with Arduino
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/open-up-your-digital-world-with-arduino?u=76281980)
@@ -136,7 +174,7 @@ created: 2026-04-29
 
 ### 1. Interface with an LCD
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the liquid crystal display (LCD)
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-liquid-crystal-display-lcd?u=76281980)
@@ -664,7 +702,7 @@ created: 2026-04-29
 
 ### 2. Interface with a 7-Segment LED Directly
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of the 7-segment LED
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/overview-of-the-7-segment-led?u=76281980)
@@ -1170,7 +1208,7 @@ created: 2026-04-29
 
 ### 3. Interface with a 7-Segment LED Using a Shift Register
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the shift register
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/understanding-the-shift-register?u=76281980)
@@ -1537,7 +1575,7 @@ created: 2026-04-29
 
 ### 4. Interface with a Keypad
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to the keypad interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/introduction-to-the-keypad-interface?u=76281980)
@@ -2228,7 +2266,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-arduino-interfacing-with-hardware/next-steps?u=76281980)

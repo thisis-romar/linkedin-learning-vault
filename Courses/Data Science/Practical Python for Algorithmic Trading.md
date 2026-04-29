@@ -50,17 +50,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Working with Stock Market Data]]** (2 videos)
-- **[[#2. Backtesting with Classification Models]]** (5 videos)
-- **[[#3. Backtesting with Regression Models]]** (4 videos)
-- **[[#4. Backtesting Optimization]]** (4 videos)
-- **[[#5. The Overfitting Problem in Backtesting]]** (8 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Algorithmic trading using machine learning
+  - Maximize your learning
+- [**1. Working with Stock Market Data**](#1-working-with-stock-market-data) (2 videos)
+  - Download and export data
+  - Filter rows and create columns for trading strategies
+- [**2. Backtesting with Classification Models**](#2-backtesting-with-classification-models) (5 videos)
+  - Compute machine learning classification model
+  - First configurations of the strategy class
+  - Simulate the investment strategy step by step
+  - Run the backtest on the strategy
+  - Challenge: Backtest with other tickers
+- [**3. Backtesting with Regression Models**](#3-backtesting-with-regression-models) (4 videos)
+  - Compute machine learning regression model
+  - How to evaluate regression models
+  - Configure and run the backtest with the regression model
+  - How to interpret the backtesting dashboard
+- [**4. Backtesting Optimization**](#4-backtesting-optimization) (4 videos)
+  - Optimizing strategy parameters
+  - Pandas reporting with heatmaps
+  - Smart optimization to save computing time
+  - Challenge: Optimization with other datasets
+- [**5. The Overfitting Problem in Backtesting**](#5-the-overfitting-problem-in-backtesting) (8 videos)
+  - Why machine learning models overfit the data
+  - How to train models within the backtest
+  - Challenge: Train test with other tickers
+  - Walk forward validation in machine learning
+  - Anchored walk forward validation in backtesting
+  - Create library for backtesting strategies
+  - Interpret reports from walk forward validation approaches
+  - Challenge: Walk forward with other tickers
+- [**Conclusion**](#conclusion) (2 videos)
+  - Course summary
+  - What's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Algorithmic trading using machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980)
@@ -160,7 +187,7 @@ created: 2026-04-29
 
 ### 1. Working with Stock Market Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Download and export data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980)
@@ -387,7 +414,7 @@ created: 2026-04-29
 
 ### 2. Backtesting with Classification Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Compute machine learning classification model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980)
@@ -861,7 +888,7 @@ created: 2026-04-29
 
 ### 3. Backtesting with Regression Models
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Compute machine learning regression model
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-regression-model?u=76281980)
@@ -1116,7 +1143,7 @@ created: 2026-04-29
 
 ### 4. Backtesting Optimization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Optimizing strategy parameters
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/optimizing-strategy-parameters?u=76281980)
@@ -1378,7 +1405,7 @@ created: 2026-04-29
 
 ### 5. The Overfitting Problem in Backtesting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why machine learning models overfit the data
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980)
@@ -1967,7 +1994,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980)

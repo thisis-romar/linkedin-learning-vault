@@ -40,21 +40,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Start with Business Goals]]** (3 videos)
-- **[[#2. Recruiting]]** (6 videos)
-- **[[#3. Onboarding]]** (5 videos)
-- **[[#4. Day-To-Day Management]]** (8 videos)
-- **[[#5. Career Pathing and Development]]** (5 videos)
-- **[[#6. Promotions]]** (3 videos)
-- **[[#7. Retention]]** (4 videos)
-- **[[#8. Mentoring vs. Teaching]]** (3 videos)
-- **[[#9. Employee Termination]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - How to recruit, develop, and retain data scientists
+- [**1. Start with Business Goals**](#1-start-with-business-goals) (3 videos)
+  - How to determine the need for data scientists
+  - Practical examples of the types of projects data scientists work on
+  - How to justify increasing the headcount for your company
+- [**2. Recruiting**](#2-recruiting) (6 videos)
+  - How to determine what level of data scientist you need and how many
+  - What are the skills to prioritize when hiring data scientists
+  - Recruit with DEI in mind
+  - How to craft a job description that resonates
+  - How to create a more robust and efficient interview process
+  - How to decide on hiring vs. using automation software
+- [**3. Onboarding**](#3-onboarding) (5 videos)
+  - How to onboard new employees
+  - How to announce a new employee hire
+  - Get your hands dirty: Which activities to focus on in the first 30 days
+  - How to create a skills rubric and assess skills
+  - How to choose an onboarding model: The surveyor vs. the understudy
+- [**4. Day-To-Day Management**](#4-day-to-day-management) (8 videos)
+  - How to choose a management model that works for you
+  - How to manage in-office workers vs. remote workers
+  - Key principles for managing data scientists for a small company
+  - Key principles for managing data scientists for a mid-sized company
+  - Key principles for managing data scientists for a large company
+  - How to determine the appropriate processes to incorporate
+  - How to avoid the Player/Coach trap
+  - How to set priorities for the team: A three-layer approach
+- [**5. Career Pathing and Development**](#5-career-pathing-and-development) (5 videos)
+  - Align an employee's personal goals to the goals of the business
+  - How to help data scientists improve soft skills and hard skills
+  - How to determine when a data scientist should acquire more schooling
+  - Develop an individual data scientist vs. the team as a whole
+  - When to move a data scientist into a different role
+- [**6. Promotions**](#6-promotions) (3 videos)
+  - How to create a pathway to promotion
+  - How to assess whether or not an employee deserves a promotion
+  - How to communicate your plans to promote to the larger organization
+- [**7. Retention**](#7-retention) (4 videos)
+  - How to prevent burnout
+  - When to fight for an employee and when to let go
+  - Make space for new ideas
+  - What to do when all else fails
+- [**8. Mentoring vs. Teaching**](#8-mentoring-vs-teaching) (3 videos)
+  - Mentorship and teaching
+  - How to determine when to mentor and when to teach
+  - Mentor outside of your immediate team
+- [**9. Employee Termination**](#9-employee-termination) (3 videos)
+  - How to avoid unnecessary termination
+  - Which steps should you take before considering terminating an employee
+  - Tips for terminating employees confidently and humanely
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to recruit, develop, and retain data scientists
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980)
@@ -97,7 +139,7 @@ created: 2026-04-29
 
 ### 1. Start with Business Goals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine the need for data scientists
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980)
@@ -297,7 +339,7 @@ created: 2026-04-29
 
 ### 2. Recruiting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine what level of data scientist you need and how many
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-what-level-of-data-scientist-you-need-and-how-many?u=76281980)
@@ -708,7 +750,7 @@ created: 2026-04-29
 
 ### 3. Onboarding
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to onboard new employees
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-onboard-new-employees?u=76281980)
@@ -1069,7 +1111,7 @@ created: 2026-04-29
 
 ### 4. Day-To-Day Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to choose a management model that works for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-a-management-model-that-works-for-you?u=76281980)
@@ -1620,7 +1662,7 @@ created: 2026-04-29
 
 ### 5. Career Pathing and Development
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Align an employee's personal goals to the goals of the business
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980)
@@ -1948,7 +1990,7 @@ created: 2026-04-29
 
 ### 6. Promotions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to create a pathway to promotion
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980)
@@ -2152,7 +2194,7 @@ created: 2026-04-29
 
 ### 7. Retention
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to prevent burnout
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-prevent-burnout?u=76281980)
@@ -2417,7 +2459,7 @@ created: 2026-04-29
 
 ### 8. Mentoring vs. Teaching
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mentorship and teaching
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentorship-and-teaching?u=76281980)
@@ -2613,7 +2655,7 @@ created: 2026-04-29
 
 ### 9. Employee Termination
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to avoid unnecessary termination
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980)
@@ -2818,7 +2860,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980)

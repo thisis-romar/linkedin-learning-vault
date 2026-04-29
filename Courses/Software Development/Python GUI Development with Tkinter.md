@@ -48,20 +48,67 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Getting Started with Python and Tkinter]]** (3 videos)
-- **[[#2. Tkinter Concepts]]** (5 videos)
-- **[[#3. Basic Widgets]]** (6 videos)
-- **[[#4. Organizational Widgets]]** (4 videos)
-- **[[#5. Advanced Widgets]]** (10 videos)
-- **[[#6. Geometry Management]]** (3 videos)
-- **[[#7. Event Handling]]** (5 videos)
-- **[[#8. Building an Application]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Create a GUI for your Python desktop application
+  - What you should know
+  - Using the exercise files
+  - 2023 Update
+- [**1. Getting Started with Python and Tkinter**](#1-getting-started-with-python-and-tkinter) (3 videos)
+  - Installing Python 3 and Tcl/Tk for Windows
+  - Installing Python 3 and Tcl/Tk for Mac
+  - Saying hello to Tkinter
+- [**2. Tkinter Concepts**](#2-tkinter-concepts) (5 videos)
+  - Tk and Tkinter background
+  - Creating and configuring widgets
+  - Managing widget placement
+  - Handling user events
+  - Revisiting Hello, Tkinter!
+- [**3. Basic Widgets**](#3-basic-widgets) (6 videos)
+  - Displaying text and images with labels
+  - Capturing input with buttons
+  - Presenting choices with check buttons and radio buttons
+  - Entering single-line text with the Entry widget
+  - Making selections with the Combobox and Spinbox
+  - Inputting values and displaying status with the Scale and Progressbar
+- [**4. Organizational Widgets**](#4-organizational-widgets) (4 videos)
+  - Organizing widgets with frames
+  - Creating additional top-level windows
+  - Separating widgets within paned windows
+  - Grouping widgeting within a tabbed notebook
+- [**5. Advanced Widgets**](#5-advanced-widgets) (10 videos)
+  - Entering and displaying multiple lines with the Text widget
+  - Adding tags, marks, images, and widgets to the Text widget
+  - Building a hierarchical treeview
+  - Adding columns and selecting items in the Treeview
+  - Building cascading menus
+  - Drawing a basic line on the Canvas
+  - Drawing complex shapes on the Canvas
+  - Attaching a scroll bar to widgets
+  - Configuring widget styles
+  - Prompting users with the Messagebox and dialogs
+- [**6. Geometry Management**](#6-geometry-management) (3 videos)
+  - Using the Pack geometry manager
+  - Using the Grid geometry manager
+  - Using the Place geometry manager
+- [**7. Event Handling**](#7-event-handling) (5 videos)
+  - Configuring command callbacks
+  - Binding to keyboard events
+  - Binding to mouse events
+  - Binding to virtual events
+  - Binding to multiple events
+- [**8. Building an Application**](#8-building-an-application) (6 videos)
+  - Defining project requirements
+  - Planning the design
+  - Creating the widgets
+  - Laying out of the widgets
+  - Binding to events
+  - Finishing the GUI with style
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a GUI for your Python desktop application
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980)
@@ -167,7 +214,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Python and Tkinter
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Python 3 and Tcl/Tk for Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-windows?u=76281980)
@@ -456,7 +503,7 @@ created: 2026-04-29
 
 ### 2. Tkinter Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tk and Tkinter background
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980)
@@ -893,7 +940,7 @@ created: 2026-04-29
 
 ### 3. Basic Widgets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Displaying text and images with labels
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/displaying-text-and-images-with-labels?u=76281980)
@@ -1809,7 +1856,7 @@ created: 2026-04-29
 
 ### 4. Organizational Widgets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing widgets with frames
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/organizing-widgets-with-frames?u=76281980)
@@ -2359,7 +2406,7 @@ created: 2026-04-29
 
 ### 5. Advanced Widgets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Entering and displaying multiple lines with the Text widget
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980)
@@ -4013,7 +4060,7 @@ created: 2026-04-29
 
 ### 6. Geometry Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the Pack geometry manager
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980)
@@ -4654,7 +4701,7 @@ created: 2026-04-29
 
 ### 7. Event Handling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configuring command callbacks
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-command-callbacks?u=76281980)
@@ -5277,7 +5324,7 @@ created: 2026-04-29
 
 ### 8. Building an Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining project requirements
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980)
@@ -5951,7 +5998,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/next-steps?u=76281980)

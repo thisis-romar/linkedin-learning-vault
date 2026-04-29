@@ -45,16 +45,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Security Principles]]** (9 videos)
-- **[[#2. Common Security Threats]]** (7 videos)
-- **[[#3. Cryptography]]** (6 videos)
-- **[[#4. Describe Network Topologies]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Defending the network
+  - What you need to know
+  - Preparing for the CCNA exam
+- [**1. Security Principles**](#1-security-principles) (9 videos)
+  - Secure network overview
+  - Security services
+  - Utilizing SIEM technology
+  - Learning security terms
+  - Staying informed
+  - Network security domains
+  - Zone defense
+  - Challenge: Create a security policy
+  - Solution: Create a security policy
+- [**2. Common Security Threats**](#2-common-security-threats) (7 videos)
+  - Reviewing security services
+  - Attacking the network
+  - Social engineering
+  - Identify malware
+  - Data loss prevention
+  - Challenge: Understanding botnets
+  - Solution: Understanding botnets
+- [**3. Cryptography**](#3-cryptography) (6 videos)
+  - Cryptographic concepts
+  - Describing symmetric encryption
+  - Asymmetric encryption
+  - Protecting integrity using a hash function
+  - Key exchange
+  - Public key infrastructure
+- [**4. Describe Network Topologies**](#4-describe-network-topologies) (7 videos)
+  - Campus area network
+  - Cloud and wide area network
+  - Data center
+  - Small office home office (SOHO)
+  - Securing a virtual environment
+  - Challenge: Cost of a data breach
+  - Solution: Cost of a data breach
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defending the network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/defending-the-network-hiya?u=76281980)
@@ -141,7 +174,7 @@ created: 2026-04-29
 
 ### 1. Security Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure network overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/secure-network-overview?u=76281980)
@@ -762,7 +795,7 @@ created: 2026-04-29
 
 ### 2. Common Security Threats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing security services
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/reviewing-security-services?u=76281980)
@@ -1228,7 +1261,7 @@ created: 2026-04-29
 
 ### 3. Cryptography
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptographic concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/cryptographic-concepts?u=76281980)
@@ -1758,7 +1791,7 @@ created: 2026-04-29
 
 ### 4. Describe Network Topologies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Campus area network
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/campus-area-network?u=76281980)
@@ -2149,7 +2182,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-core-security-concepts/next-steps-2?u=76281980)

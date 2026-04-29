@@ -48,21 +48,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Dynamic Host Configuration Protocol (DHCP) Overview]]** (3 videos)
-- **[[#2. Setting Up DHCP]]** (7 videos)
-- **[[#3. Managing DHCP]]** (5 videos)
-- **[[#4. DHCP Advanced Features]]** (5 videos)
-- **[[#5. Deploying DNS (Domain Name System)]]** (3 videos)
-- **[[#6. DNS Zones]]** (6 videos)
-- **[[#7. DNS Resource Record Types]]** (4 videos)
-- **[[#8. Name Resoution]]** (6 videos)
-- **[[#9. DNS Security]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - DHCP and DNS in WIndows Server 2019
+  - Course organization
+- [**1. Dynamic Host Configuration Protocol (DHCP) Overview**](#1-dynamic-host-configuration-protocol-dhcp-overview) (3 videos)
+  - What is DHCP?
+  - Lease generation
+  - Lease renewal
+- [**2. Setting Up DHCP**](#2-setting-up-dhcp) (7 videos)
+  - Install the DHCP server role
+  - Authorize a DHCP server
+  - Create DHCP scopes
+  - Configure DHCP options
+  - Activate a scope
+  - Configure DHCP clients
+  - Configure DHCP reservations
+- [**3. Managing DHCP**](#3-managing-dhcp) (5 videos)
+  - Components of a DHCP database
+  - Reconcile DHCP scopes
+  - Database statistics
+  - Secure DHCP
+  - Troubleshoot DHCP
+- [**4. DHCP Advanced Features**](#4-dhcp-advanced-features) (5 videos)
+  - Configure DHCP failover
+  - Manage DHCP failover
+  - DHCP in a routed environment
+  - Configure a DHCP relay agent
+  - Test relay agent
+- [**5. Deploying DNS (Domain Name System)**](#5-deploying-dns-domain-name-system) (3 videos)
+  - Install DNS with Active Directory
+  - Install the DNS role independently
+  - DNS client configuration
+- [**6. DNS Zones**](#6-dns-zones) (6 videos)
+  - Create primary forward lookup zones
+  - Configure zone transfers
+  - Create secondary forward lookup zones
+  - Create stub zones
+  - Active Directory–integrated zones
+  - Create reverse lookup zones
+- [**7. DNS Resource Record Types**](#7-dns-resource-record-types) (4 videos)
+  - Host and pointer (PTR) records
+  - Alias (CNAME) record
+  - Mail exchanger (MX) record
+  - Additional resource record types
+- [**8. Name Resoution**](#8-name-resoution) (6 videos)
+  - DNS queries
+  - Testing queries
+  - DNS cache
+  - Forwarding
+  - Conditional forwarding
+  - Caching only DNS servers
+- [**9. DNS Security**](#9-dns-security) (3 videos)
+  - DNS cache locking
+  - DNS socket pool
+  - DNS security extensions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DHCP and DNS in WIndows Server 2019
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dhcp-and-dns-in-windows-server-2019?u=76281980)
@@ -137,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Dynamic Host Configuration Protocol (DHCP) Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is DHCP?
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/what-is-dhcp?u=76281980)
@@ -337,7 +382,7 @@ created: 2026-04-29
 
 ### 2. Setting Up DHCP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install the DHCP server role
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/install-the-dhcp-server-role?u=76281980)
@@ -946,7 +991,7 @@ created: 2026-04-29
 
 ### 3. Managing DHCP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Components of a DHCP database
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/components-of-a-dhcp-database?u=76281980)
@@ -1342,7 +1387,7 @@ created: 2026-04-29
 
 ### 4. DHCP Advanced Features
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Configure DHCP failover
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/configure-dhcp-failover?u=76281980)
@@ -1754,7 +1799,7 @@ created: 2026-04-29
 
 ### 5. Deploying DNS (Domain Name System)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install DNS with Active Directory
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/install-dns-with-active-directory?u=76281980)
@@ -1980,7 +2025,7 @@ created: 2026-04-29
 
 ### 6. DNS Zones
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create primary forward lookup zones
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/create-primary-forward-lookup-zones?u=76281980)
@@ -2536,7 +2581,7 @@ created: 2026-04-29
 
 ### 7. DNS Resource Record Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Host and pointer (PTR) records
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/host-and-pointer-ptr-records?u=76281980)
@@ -2872,7 +2917,7 @@ created: 2026-04-29
 
 ### 8. Name Resoution
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DNS queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-queries?u=76281980)
@@ -3279,7 +3324,7 @@ created: 2026-04-29
 
 ### 9. DNS Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DNS cache locking
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/dns-cache-locking?u=76281980)
@@ -3381,7 +3426,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-dhcp-and-dns/next-steps?u=76281980)

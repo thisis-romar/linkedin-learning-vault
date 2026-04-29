@@ -55,18 +55,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Deployment Options for LLMs]]** (4 videos)
-- **[[#2. Handling API Limitations]]** (5 videos)
-- **[[#3. Deployment Architecture]]** (5 videos)
-- **[[#4. Monitoring LLM Performance]]** (2 videos)
-- **[[#5. Advanced Deployment Techniques]]** (4 videos)
-- **[[#6. Security and Cost Considerations]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Deploying LLMs for production
+  - Working in Google Colab
+- [**1. Deployment Options for LLMs**](#1-deployment-options-for-llms) (4 videos)
+  - Overview of deployment options
+  - Deploying via APIs
+  - Using fine-tuned models for deployment
+  - Custom models: Building and deployment
+- [**2. Handling API Limitations**](#2-handling-api-limitations) (5 videos)
+  - Understanding API limitations
+  - Strategies to handle endpoint uptime limitations
+  - Mitigating latency issues in LLM deployment
+  - Challenge: API limitations for LLM deployment
+  - Solution: API limitations for LLM deployment
+- [**3. Deployment Architecture**](#3-deployment-architecture) (5 videos)
+  - Vector databases for LLM deployment
+  - Agents in LLM deployment
+  - Chains in LLM deployment
+  - Challenge: Deploy a simple RAG application using an API
+  - Solution: Deploying a simple RAG application using an API
+- [**4. Monitoring LLM Performance**](#4-monitoring-llm-performance) (2 videos)
+  - Introduction to LLM performance monitoring
+  - Addressing hallucinations in LLMs
+- [**5. Advanced Deployment Techniques**](#5-advanced-deployment-techniques) (4 videos)
+  - Prompt management for LLM deployment
+  - Evaluating LLMs in production
+  - Challenge: Evaluating LLM systems
+  - Solution: Evaluating LLM systems
+- [**6. Security and Cost Considerations**](#6-security-and-cost-considerations) (5 videos)
+  - Security considerations for LLMs in production
+  - Balancing costs and performance in LLM deployment
+  - Strategies for cost-effective LLM deployment
+  - Challenge: Estimating costs of an LLM API
+  - Solution: Estimating costs of an LLM API
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deploying LLMs for production
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/deploying-llms-for-production?u=76281980)
@@ -152,7 +180,7 @@ created: 2026-04-29
 
 ### 1. Deployment Options for LLMs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of deployment options
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/overview-of-deployment-options?u=76281980)
@@ -450,7 +478,7 @@ created: 2026-04-29
 
 ### 2. Handling API Limitations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding API limitations
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/understanding-api-limitations?u=76281980)
@@ -782,7 +810,7 @@ created: 2026-04-29
 
 ### 3. Deployment Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Vector databases for LLM deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/vector-databases-for-llm-deployment?u=76281980)
@@ -1174,7 +1202,7 @@ created: 2026-04-29
 
 ### 4. Monitoring LLM Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to LLM performance monitoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/introduction-to-llm-performance-monitoring?u=76281980)
@@ -1303,7 +1331,7 @@ created: 2026-04-29
 
 ### 5. Advanced Deployment Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prompt management for LLM deployment
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/prompt-management-for-llm-deployment?u=76281980)
@@ -1558,7 +1586,7 @@ created: 2026-04-29
 
 ### 6. Security and Cost Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security considerations for LLMs in production
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/security-considerations-for-llms-in-production?u=76281980)
@@ -1891,7 +1919,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-llmops-deploying-and-managing-llms-in-production/next-steps?u=76281980)

@@ -52,15 +52,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Generative AI]]** (3 videos)
-- **[[#2. Applying Gen AI to Business Challenges]]** (6 videos)
-- **[[#3. Resources and Ethical Considerations]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Transform your business with gen AI
+- [**1. Introduction to Generative AI**](#1-introduction-to-generative-ai) (3 videos)
+  - What is generative AI?
+  - Explore AI systems
+  - Prompt gen AI models
+- [**2. Applying Gen AI to Business Challenges**](#2-applying-gen-ai-to-business-challenges) (6 videos)
+  - Identify common business challenges
+  - Create engaging content
+  - Personalize customer experiences
+  - Analyze unstructured data
+  - Automate tasks
+  - Share and manage knowledge
+- [**3. Resources and Ethical Considerations**](#3-resources-and-ethical-considerations) (3 videos)
+  - Explore generative AI resources
+  - Choose the right generative AI tools
+  - Practice ethical AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Get started
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Transform your business with gen AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/transform-your-business-with-gen-ai?u=76281980)
@@ -101,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is generative AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/what-is-generative-ai?u=76281980)
@@ -281,7 +295,7 @@ created: 2026-04-29
 
 ### 2. Applying Gen AI to Business Challenges
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify common business challenges
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/identify-common-business-challenges?u=76281980)
@@ -639,7 +653,7 @@ created: 2026-04-29
 
 ### 3. Resources and Ethical Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore generative AI resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/explore-generative-ai-resources?u=76281980)
@@ -806,7 +820,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get started
 > [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-approaches-to-business-challenges/get-started?u=76281980)

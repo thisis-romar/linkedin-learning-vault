@@ -48,15 +48,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Sprint 1: Project Kickoff]]** (9 videos)
-- **[[#2. Sprint 2: Beta]]** (6 videos)
-- **[[#3. Sprint 3: Release 1.0]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Going from requirements to release
+  - What you should know
+  - Case study overview
+  - Using the GitHub repo
+- [**1. Sprint 1: Project Kickoff**](#1-sprint-1-project-kickoff) (9 videos)
+  - Define problem and vision statements
+  - Elicit and specify requirements
+  - Requirement validation
+  - Technology validation
+  - Proof of concept (POC) setup
+  - POC implementation
+  - POC deployment
+  - Challenge: From dev to deploy
+  - Solution: From dev to deploy
+- [**2. Sprint 2: Beta**](#2-sprint-2-beta) (6 videos)
+  - Prepare sprint backlog
+  - Build models
+  - Build code
+  - Deliver and deploy
+  - Challenge
+  - Solution
+- [**3. Sprint 3: Release 1.0**](#3-sprint-3-release-10) (6 videos)
+  - Prepare sprint backlog
+  - Implement 'included' use case
+  - Final release
+  - Refactoring
+  - Challenge
+  - Solution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going from requirements to release
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/going-from-requirements-to-release?u=76281980)
@@ -201,7 +227,7 @@ created: 2026-04-29
 
 ### 1. Sprint 1: Project Kickoff
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define problem and vision statements
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/define-problem-and-vision-statements?u=76281980)
@@ -1130,7 +1156,7 @@ created: 2026-04-29
 
 ### 2. Sprint 2: Beta
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare sprint backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog-2?u=76281980)
@@ -1693,7 +1719,7 @@ created: 2026-04-29
 
 ### 3. Sprint 3: Release 1.0
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare sprint backlog
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/prepare-sprint-backlog?u=76281980)
@@ -2319,7 +2345,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/software-design-from-requirements-to-release/next-steps?u=76281980)

@@ -46,19 +46,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Project/The Mission]]** (2 videos)
-- **[[#2. A Brief Overview of Kubernetes]]** (2 videos)
-- **[[#3. Testing Locally with Docker]]** (7 videos)
-- **[[#4. Running Kubernetes Locally with kind]]** (10 videos)
-- **[[#5. Our First Kubernetes Manifests]]** (7 videos)
-- **[[#6. Our First Helm Chart]]** (7 videos)
-- **[[#7. We'll Do It Live]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Your first project on Kubernetes
+  - What you should know
+  - Configuring AWS access
+- [**1. The Project/The Mission**](#1-the-projectthe-mission) (2 videos)
+  - Our application: Pre-Kubernetes
+  - Our application: Post-Kubernetes
+- [**2. A Brief Overview of Kubernetes**](#2-a-brief-overview-of-kubernetes) (2 videos)
+  - How Docker containers work
+  - What is Kubernetes?
+- [**3. Testing Locally with Docker**](#3-testing-locally-with-docker) (7 videos)
+  - Installing Docker
+  - Writing our project's Dockerfile
+  - Building the Docker image from the Dockerfile
+  - Writing our project's makefile
+  - Testing the website with make
+  - Challenge: Write a teardown make target
+  - Solution: Write a teardown make target
+- [**4. Running Kubernetes Locally with kind**](#4-running-kubernetes-locally-with-kind) (10 videos)
+  - What is kind?
+  - Installing kind
+  - Creating the kind cluster
+  - Creating the kind cluster with make
+  - Creating a local Docker Registry
+  - Creating the local Docker Registry with make
+  - Linking the local Docker Registry to the kind cluster
+  - Linking the kind registry with make
+  - Challenge: Deleting kind clusters with make
+  - Solution: Deleting kind clusters with make
+- [**5. Our First Kubernetes Manifests**](#5-our-first-kubernetes-manifests) (7 videos)
+  - Understanding Kubernetes manifests: Part 1
+  - Understanding Kubernetes manifests: Part 2
+  - Creating a Deployment
+  - Creating a Service
+  - Understanding Ingress and Ingress controllers
+  - Creating the Ingress
+  - Configuring kind to use Ingress controllers
+- [**6. Our First Helm Chart**](#6-our-first-helm-chart) (7 videos)
+  - What is Helm?
+  - Creating our Chart metadata
+  - Creating our Chart values
+  - Templatizing a Deployment
+  - Deploying our Helm Chart with make
+  - Challenge: Change the port number
+  - Solution: Change the port number
+- [**7. We'll Do It Live**](#7-well-do-it-live) (7 videos)
+  - From local testing to EKS: What's changing?
+  - Explaining the kubeconfig
+  - Logging into an AWS EKS cluster with kubectl
+  - Deploy our Docker image into AWS ECR with the Docker CLI
+  - Deploying our Helm Chart into AWS EKS with make
+  - The smoke test: Does it work?
+  - Cleaning up
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your first project on Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980)
@@ -382,7 +428,7 @@ created: 2026-04-29
 
 ### 1. The Project/The Mission
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Our application: Pre-Kubernetes
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980)
@@ -543,7 +589,7 @@ created: 2026-04-29
 
 ### 2. A Brief Overview of Kubernetes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How Docker containers work
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980)
@@ -751,7 +797,7 @@ created: 2026-04-29
 
 ### 3. Testing Locally with Docker
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980)
@@ -1353,7 +1399,7 @@ created: 2026-04-29
 
 ### 4. Running Kubernetes Locally with kind
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is kind?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980)
@@ -2207,7 +2253,7 @@ created: 2026-04-29
 
 ### 5. Our First Kubernetes Manifests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding Kubernetes manifests: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-1?u=76281980)
@@ -2987,7 +3033,7 @@ created: 2026-04-29
 
 ### 6. Our First Helm Chart
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Helm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980)
@@ -3641,7 +3687,7 @@ created: 2026-04-29
 
 ### 7. We'll Do It Live
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From local testing to EKS: What's changing?
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/from-local-testing-to-eks-what-s-changing?u=76281980)
@@ -4261,7 +4307,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980)

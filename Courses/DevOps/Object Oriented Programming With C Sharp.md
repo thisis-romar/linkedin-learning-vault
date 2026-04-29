@@ -47,18 +47,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Using .NET 6]]** (3 videos)
-- **[[#2. Scope]]** (3 videos)
-- **[[#3. Command Pattern]]** (6 videos)
-- **[[#4. Overriding Methods]]** (5 videos)
-- **[[#5. Interfaces]]** (6 videos)
-- **[[#6. Interaction]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Programming an object-oriented text adventure game
+  - What you should know
+- [**1. Using .NET 6**](#1-using-net-6) (3 videos)
+  - Setting up .NET 6
+  - Classes
+  - Extending a class
+- [**2. Scope**](#2-scope) (3 videos)
+  - Scope
+  - Singleton
+  - Partial classes
+- [**3. Command Pattern**](#3-command-pattern) (6 videos)
+  - The room
+  - Room movement
+  - Actions
+  - Execute action
+  - Go action
+  - Action loop
+- [**4. Overriding Methods**](#4-overriding-methods) (5 videos)
+  - Creating rooms
+  - Calculating neighbors
+  - Overriding methods
+  - Joining words
+  - Decorating rooms
+- [**5. Interfaces**](#5-interfaces) (6 videos)
+  - Items
+  - Inventory
+  - Using items
+  - Interfaces
+  - Creating a backpack
+  - Creating a chest
+- [**6. Interaction**](#6-interaction) (4 videos)
+  - Creating a key and gold
+  - Populating items
+  - Take action
+  - Use action
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing with C#
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Programming an object-oriented text adventure game
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/programming-an-object-oriented-text-adventure-game?u=76281980)
@@ -113,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Using .NET 6
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up .NET 6
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/setting-up-dot-net-6?u=76281980)
@@ -390,7 +420,7 @@ created: 2026-04-29
 
 ### 2. Scope
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scope
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/scope?u=76281980)
@@ -711,7 +741,7 @@ created: 2026-04-29
 
 ### 3. Command Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The room
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/the-room?u=76281980)
@@ -1224,7 +1254,7 @@ created: 2026-04-29
 
 ### 4. Overriding Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating rooms
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-rooms?u=76281980)
@@ -1682,7 +1712,7 @@ created: 2026-04-29
 
 ### 5. Interfaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Items
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/items?u=76281980)
@@ -2215,7 +2245,7 @@ created: 2026-04-29
 
 ### 6. Interaction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a key and gold
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/creating-a-key-and-gold?u=76281980)
@@ -2646,7 +2676,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing with C#
 > [LinkedIn Learning](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/continuing-with-c-sharp?u=76281980)

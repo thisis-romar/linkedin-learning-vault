@@ -49,15 +49,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Fundamentals of Machine Learning for Healthcare]]** (14 videos)
-- **[[#2. Machine Learning for Tabular Healthcare Data]]** (6 videos)
-- **[[#3. Machine Learning for Tabular Healthcare Data: Unsupervised]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Understanding machine learning in healthcare
+  - What you should know
+- [**1. Fundamentals of Machine Learning for Healthcare**](#1-fundamentals-of-machine-learning-for-healthcare) (14 videos)
+  - Machine learning, artificial intelligence, and data science
+  - Applications of machine learning in healthcare
+  - How to think about machine learning in healthcare
+  - Machine learning vs. rule-based programming in healthcare
+  - Types of machine learning in healthcare
+  - Healthcare data types for machine learning
+  - Features and labels in machine learning for healthcare
+  - Machine learning models and algorithms in healthcare
+  - Deep learning models and architecture in healthcare
+  - Transfer learning and pretrained models in healthcare
+  - Assessment metrics for machine learning models
+  - Tools and libraries for machine learning
+  - Data privacy and ethics in healthcare machine learning
+  - Career opportunities in machine learning for healthcare
+- [**2. Machine Learning for Tabular Healthcare Data**](#2-machine-learning-for-tabular-healthcare-data) (6 videos)
+  - How to use a Google Colab Notebook
+  - Explore the heart failure clinical record dataset
+  - Classification task: Heart failure outcomes prediction with no feature scaling
+  - Classification task: Heart failure outcomes prediction with feature scaling
+  - Regression task: Predict the heart rejection fraction
+  - Feature importance in regression tasks
+- [**3. Machine Learning for Tabular Healthcare Data: Unsupervised**](#3-machine-learning-for-tabular-healthcare-data-unsupervised) (2 videos)
+  - Clustering task: Localization data for person activity
+  - Dimensionality reduction: Localization data for person activity
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding machine learning in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/understanding-machine-learning-in-healthcare?u=76281980)
@@ -117,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Machine Learning for Healthcare
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Machine learning, artificial intelligence, and data science
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/machine-learning-artificial-intelligence-and-data-science?u=76281980)
@@ -1005,7 +1030,7 @@ created: 2026-04-29
 
 ### 2. Machine Learning for Tabular Healthcare Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to use a Google Colab Notebook
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/how-to-use-google-colaboratory-notebook?u=76281980)
@@ -1622,7 +1647,7 @@ created: 2026-04-29
 
 ### 3. Machine Learning for Tabular Healthcare Data: Unsupervised
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Clustering task: Localization data for person activity
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/clustering-task-localization-data-for-person-activity?u=76281980)
@@ -1855,7 +1880,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-fundamentals-for-healthcare/next-steps?u=76281980)

@@ -48,16 +48,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up]]** (6 videos)
-- **[[#2. Testing with Jest]]** (8 videos)
-- **[[#3. Debugging with Chrome and Extensions]]** (5 videos)
-- **[[#4. ESLint and Types]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Testing and debugging your React apps
+  - Course prerequisites
+  - Introduction to CoderPad
+- [**1. Setting Up**](#1-setting-up) (6 videos)
+  - Your test project
+  - An overview of your toolset
+  - React Developer Tools
+  - Jest introduction
+  - Type checking with Flow
+  - Linting with ESLint
+- [**2. Testing with Jest**](#2-testing-with-jest) (8 videos)
+  - Test strings with matchers
+  - Test numbers with matchers
+  - Solution: Test numbers with matchers
+  - Test arrays and objects with matchers
+  - Solution: Test object with matchers
+  - Code coverage reports
+  - Snapshot testing with Jest
+  - Organize your tests with describe()
+- [**3. Debugging with Chrome and Extensions**](#3-debugging-with-chrome-and-extensions) (5 videos)
+  - Debug with Chrome introduction
+  - Debug with React DevTools
+  - Test your network and performance
+  - Run an audit in Chrome
+  - Debug resources to find answers
+- [**4. ESLint and Types**](#4-eslint-and-types) (3 videos)
+  - Code improvement with ESLint
+  - Solution: Practice ESLint best practices in a component
+  - Type checking with Flow
+- [**Conclusion**](#conclusion) (2 videos)
+  - React StrictMode behaviors
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing and debugging your React apps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/testing-and-debugging-your-react-apps?u=76281980)
@@ -148,7 +175,7 @@ created: 2026-04-29
 
 ### 1. Setting Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your test project
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/your-test-project?u=76281980)
@@ -611,7 +638,7 @@ created: 2026-04-29
 
 ### 2. Testing with Jest
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test strings with matchers
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/test-string-with-matchers?u=76281980)
@@ -1435,7 +1462,7 @@ created: 2026-04-29
 
 ### 3. Debugging with Chrome and Extensions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Debug with Chrome introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/debug-with-chrome-introduction?u=76281980)
@@ -1857,7 +1884,7 @@ created: 2026-04-29
 
 ### 4. ESLint and Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Code improvement with ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/code-improvement-with-eslint?u=76281980)
@@ -2167,7 +2194,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### React StrictMode behaviors
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-testing-and-debugging/react-strict-behaviors?u=76281980)

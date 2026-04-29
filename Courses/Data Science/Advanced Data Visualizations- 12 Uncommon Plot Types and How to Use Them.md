@@ -50,13 +50,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Advanced Data Visualizations]]** (12 videos)
-- **[[#2. Continuing Your Data Viz Learning Journey]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Take your data viz game to the next level
+  - What you should know
+- [**1. Advanced Data Visualizations**](#1-advanced-data-visualizations) (12 videos)
+  - Ridgeline plots
+  - Violin plots
+  - Heat plots
+  - Sparkline plots
+  - Rainbow plots
+  - Table plots
+  - Mosaic plots
+  - Matrix plots
+  - Ternary plots
+  - Chernoff faces
+  - Sankey plots
+  - Dumbbell plots
+- [**2. Continuing Your Data Viz Learning Journey**](#2-continuing-your-data-viz-learning-journey) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take your data viz game to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/take-your-data-viz-game-to-the-next-level?u=76281980)
@@ -135,7 +150,7 @@ created: 2026-04-29
 
 ### 1. Advanced Data Visualizations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ridgeline plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/ridgeline-plots?u=76281980)
@@ -1423,7 +1438,7 @@ created: 2026-04-29
 
 ### 2. Continuing Your Data Viz Learning Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-visualizations-12-uncommon-plot-types-and-how-to-use-them/next-steps-and-additional-resources?u=76281980)

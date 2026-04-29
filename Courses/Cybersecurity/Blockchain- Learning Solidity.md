@@ -49,16 +49,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction and Setup]]** (4 videos)
-- **[[#2. Solidity Basics]]** (8 videos)
-- **[[#3. Your First Contract]]** (4 videos)
-- **[[#4. Solidity Considerations]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Blockchain: Learning Solidity
+  - Course prerequisites
+- [**1. Introduction and Setup**](#1-introduction-and-setup) (4 videos)
+  - Introduction to Solidity
+  - Introduction to smart contracts
+  - The Ethereum virtual machine
+  - Installing the Solidity compiler
+- [**2. Solidity Basics**](#2-solidity-basics) (8 videos)
+  - Solidity syntax basics
+  - Basic syntax of a contract
+  - Types in Solidity
+  - Units and global variables
+  - Other special variables
+  - Functions overview
+  - Operators in Solidity
+  - Conditionals in Solidity
+- [**3. Your First Contract**](#3-your-first-contract) (4 videos)
+  - Set the initial variables
+  - Add your modifiers
+  - Finalize the functions
+  - Test your contract
+- [**4. Solidity Considerations**](#4-solidity-considerations) (2 videos)
+  - Review the style guide
+  - Documentation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue learning Solidity
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blockchain: Learning Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/blockchain-learning-solidity?u=76281980)
@@ -111,7 +132,7 @@ created: 2026-04-29
 
 ### 1. Introduction and Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/introduction-to-solidity?u=76281980)
@@ -299,7 +320,7 @@ created: 2026-04-29
 
 ### 2. Solidity Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solidity syntax basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/solidity-syntax-basics?u=76281980)
@@ -1104,7 +1125,7 @@ created: 2026-04-29
 
 ### 3. Your First Contract
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set the initial variables
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/set-the-initial-variables?u=76281980)
@@ -1488,7 +1509,7 @@ created: 2026-04-29
 
 ### 4. Solidity Considerations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Review the style guide
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/review-the-style-guide?u=76281980)
@@ -1574,7 +1595,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue learning Solidity
 > [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-learning-solidity-22873764/continue-learning-solidity?u=76281980)

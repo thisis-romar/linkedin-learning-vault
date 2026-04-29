@@ -53,17 +53,57 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding the AI Ecosystem]]** (5 videos)
-- **[[#2. AI Models and Architecture]]** (6 videos)
-- **[[#3. AI Datasets]]** (7 videos)
-- **[[#4. AI APIs: Access and Integration]]** (11 videos)
-- **[[#5. AI  Resources and Community]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Getting started with the AI ecosystem
+  - What you should know
+- [**1. Understanding the AI Ecosystem**](#1-understanding-the-ai-ecosystem) (5 videos)
+  - What is interesting about AI?
+  - Components of the AI ecosystem
+  - Open-source vs. closed-source AI systems
+  - AI repositories and hosting platforms
+  - AI ethics, bias, and privacy
+- [**2. AI Models and Architecture**](#2-ai-models-and-architecture) (6 videos)
+  - Introduction to AI models and architecture
+  - NLP architectures: RNNs and transformers
+  - Computer vision architectures: CNNs and vision transformers
+  - Generative architectures: Diffusion and GANs
+  - Multimodal architectures: CLIP and Flamingo
+  - Efficient architectures
+- [**3. AI Datasets**](#3-ai-datasets) (7 videos)
+  - Introduction to AI datasets
+  - Foundational AI image datasets
+  - Explore CIFAR-10 image dataset
+  - Foundational AI text datasets
+  - Explore Brown Corpus text dataset
+  - Foundational AI speech datasets
+  - Explore LibriSpeech dataset
+- [**4. AI APIs: Access and Integration**](#4-ai-apis-access-and-integration) (11 videos)
+  - What are AI application programming interfaces (APIs)?
+  - Explore Hugging Face
+  - Product sentiment analysis with Hugging Face model
+  - Explore OpenAI developer platform
+  - Image generation using OpenAI API
+  - Explore Google AI Studio
+  - Create a conversational chatbot using the Google Gemini API
+  - Explore GitHub Models
+  - Compare GitHub Models and run in Codespaces
+  - Generate code and architecture with GitHub Models
+  - Accessing AI models via cloud providers
+- [**5. AI  Resources and Community**](#5-ai-resources-and-community) (8 videos)
+  - AI development tools and frameworks: IDEs
+  - AI development tools and frameworks: ML frameworks
+  - AI development tools and frameworks: Debugging and versioning
+  - AI development tools and frameworks: Data annotation
+  - AI computing infrastructure
+  - AI research platforms
+  - AI model rankings: Leaderboards, benchmarks, and evaluation trends
+  - AI interoperability standards: Model Context Protocol (MCP)
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with the AI ecosystem
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980)
@@ -115,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Understanding the AI Ecosystem
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is interesting about AI?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980)
@@ -609,7 +649,7 @@ created: 2026-04-29
 
 ### 2. AI Models and Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI models and architecture
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980)
@@ -1223,7 +1263,7 @@ created: 2026-04-29
 
 ### 3. AI Datasets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI datasets
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980)
@@ -1888,7 +1928,7 @@ created: 2026-04-29
 
 ### 4. AI APIs: Access and Integration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are AI application programming interfaces (APIs)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980)
@@ -2924,7 +2964,7 @@ created: 2026-04-29
 
 ### 5. AI  Resources and Community
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI development tools and frameworks: IDEs
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980)
@@ -3634,7 +3674,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980)

@@ -55,18 +55,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Mapping Fundamentals]]** (7 videos)
-- **[[#2. Processing GIS Data from Excel]]** (5 videos)
-- **[[#3. Working with GIS Data Formats]]** (5 videos)
-- **[[#4. Static Maps with ggplot2]]** (10 videos)
-- **[[#5. Interactive Maps with Leaflet]]** (10 videos)
-- **[[#6. CRS, Projections, and Map Tiles]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Why create maps with R?
+  - Base knowledge
+  - GitHub repository and exercise files
+- [**1. Mapping Fundamentals**](#1-mapping-fundamentals) (7 videos)
+  - How to choose a map
+  - Geo marker and scatter plots
+  - Geo bubble charts
+  - Choropleth: Shaded area maps
+  - Hexbin maps or hexagonally binned choropleth
+  - Dot density
+  - Cartograms: Distorted area maps
+- [**2. Processing GIS Data from Excel**](#2-processing-gis-data-from-excel) (5 videos)
+  - Standardize country names with {countrycode}
+  - Join shapefiles with data in Excel files
+  - Convert addresses to coordinates with geocoding
+  - Challenge: Geolocate all US state capitol buildings
+  - Solution: Geolocate all US state capitol buildings
+- [**3. Working with GIS Data Formats**](#3-working-with-gis-data-formats) (5 videos)
+  - GIS data formats: Raster or vector
+  - Vector GIS data: sf and sp
+  - Work with sf datasets and the tidyverse
+  - Challenge: Visualizing continent populations
+  - Solution: Visualizing continent populations
+- [**4. Static Maps with ggplot2**](#4-static-maps-with-ggplot2) (10 videos)
+  - Use geom_sf to visualize geo locations
+  - ggplot2 choropleth and continuous data
+  - ggplot2 choropleth and discrete data
+  - Label maps with ggrepel package
+  - Zoom into regions with coords_sf()
+  - Transform CRS with coord_sf()
+  - Challenge: Label a geobubble chart of Germany's biggest cities
+  - Solution: Label a geobubble chart of Germany's biggest cities
+  - Challenge: Visualize state coastline length with choropleth
+  - Solution: Visualize state coastline length with choropleth
+- [**5. Interactive Maps with Leaflet**](#5-interactive-maps-with-leaflet) (10 videos)
+  - The basics of using Leaflet
+  - Use Leaflet to visualize geo locations
+  - Add labels and pop-ups to Leaflet maps
+  - Leaflet choropleth and continuous data
+  - Leaflet choropleth and discontinuous data
+  - Set a background color with leaflet.extras
+  - Challenge: Add pop-up labels to a map of German cities
+  - Solution: Add pop-up labels to a map of German cities
+  - Challenge: Interactive choropleth of state coastline length
+  - Solution: Interactive choropleth of state coastline length
+- [**6. CRS, Projections, and Map Tiles**](#6-crs-projections-and-map-tiles) (4 videos)
+  - Base maps and tiles
+  - What are projections and CRS?
+  - Geographics vs. projected CRS
+  - How to choose CRS and use them with {sf}
+- [**Conclusion**](#conclusion) (1 videos)
+  - What else can you learn about creating maps in R?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why create maps with R?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/why-create-maps-with-r?u=76281980)
@@ -185,7 +230,7 @@ created: 2026-04-29
 
 ### 1. Mapping Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to choose a map
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/how-to-choose-a-map?u=76281980)
@@ -699,7 +744,7 @@ created: 2026-04-29
 
 ### 2. Processing GIS Data from Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Standardize country names with {countrycode}
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/standardize-country-names-with-countrycode?u=76281980)
@@ -1104,7 +1149,7 @@ created: 2026-04-29
 
 ### 3. Working with GIS Data Formats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GIS data formats: Raster or vector
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/gis-data-formats-raster-or-vector?u=76281980)
@@ -1376,7 +1421,7 @@ created: 2026-04-29
 
 ### 4. Static Maps with ggplot2
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use geom_sf to visualize geo locations
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/use-geom-sf-to-visualize-geo-locations?u=76281980)
@@ -2296,7 +2341,7 @@ created: 2026-04-29
 
 ### 5. Interactive Maps with Leaflet
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basics of using Leaflet
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/the-basics-of-using-leaflet?u=76281980)
@@ -3185,7 +3230,7 @@ created: 2026-04-29
 
 ### 6. CRS, Projections, and Map Tiles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Base maps and tiles
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/base-maps-and-tiles?u=76281980)
@@ -3546,7 +3591,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What else can you learn about creating maps in R?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-maps-with-r/what-else-can-you-learn-about-creating-maps-in-r?u=76281980)

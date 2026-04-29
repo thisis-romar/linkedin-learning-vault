@@ -44,15 +44,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Mechanics of Print-Based CSS]]** (6 videos)
-- **[[#2. Best Practices for Print-Based Styling]]** (10 videos)
-- **[[#3. Beautiful Formatting for Print]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Welcome to CSS print style sheets
+- [**1. Mechanics of Print-Based CSS**](#1-mechanics-of-print-based-css) (6 videos)
+  - Print style sheets and media queries
+  - Creating a print style sheet and linking it to your document
+  - Creating a print media query
+  - Previewing print style sheets without printing
+  - The pitfalls of using dev tools for previewing printing
+  - Understanding screen, print, aural, and the cascade
+- [**2. Best Practices for Print-Based Styling**](#2-best-practices-for-print-based-styling) (10 videos)
+  - Best practices for styling for print
+  - Touring your example page
+  - Hiding irrelevant information for print
+  - Changing webpage layouts for print
+  - Overriding styles intended for screen display
+  - Adding print-only information that is hidden from screens
+  - Writing URLs after links and social media icons
+  - Complex media queries for print and page orientation
+  - Challenge
+  - Solution
+- [**3. Beautiful Formatting for Print**](#3-beautiful-formatting-for-print) (9 videos)
+  - Understanding paged media and CSS fragmentation properties
+  - Setting printing page breaks
+  - Creating columns within longer documents
+  - Adding hyphenation
+  - Controlling widows and orphans
+  - Using @page to create page margins
+  - Coming soon: Additional @page properties
+  - Challenge
+  - Solution
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome to CSS print style sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/welcome?u=76281980)
@@ -89,7 +116,7 @@ created: 2026-04-29
 
 ### 1. Mechanics of Print-Based CSS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Print style sheets and media queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/print-style-sheets-and-media-queries?u=76281980)
@@ -661,7 +688,7 @@ created: 2026-04-29
 
 ### 2. Best Practices for Print-Based Styling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Best practices for styling for print
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/best-practices-for-styling-for-print?u=76281980)
@@ -1746,7 +1773,7 @@ created: 2026-04-29
 
 ### 3. Beautiful Formatting for Print
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding paged media and CSS fragmentation properties
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/understanding-paged-media-and-css-fragmentation-properties?u=76281980)
@@ -2633,7 +2660,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/next-steps-25762079?u=76281980)

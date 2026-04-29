@@ -51,15 +51,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Reliable Sources]]** (6 videos)
-- **[[#2. Mastering Search]]** (5 videos)
-- **[[#3. Community Search and Participation]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Finding what you're looking for
+- [**1. Reliable Sources**](#1-reliable-sources) (6 videos)
+  - Where to find reliable information
+  - Straight from the source
+  - Platform resources
+  - Status reference sites
+  - Specifications vs. implementations
+  - Community resources
+- [**2. Mastering Search**](#2-mastering-search) (5 videos)
+  - Mastering search
+  - Google Search 101
+  - Filter by publishing date
+  - Search engines outperforming internal site search
+  - Searching GitHub
+- [**3. Community Search and Participation**](#3-community-search-and-participation) (5 videos)
+  - Humans, software, and community
+  - Finding your people
+  - Ask questions and start conversations
+  - Ask for help, directly
+  - Share your knowledge
+- [**Conclusion**](#conclusion) (1 videos)
+  - The end
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding what you're looking for
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980)
@@ -95,7 +113,7 @@ created: 2026-04-29
 
 ### 1. Reliable Sources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to find reliable information
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/where-to-find-reliable-information?u=76281980)
@@ -506,7 +524,7 @@ created: 2026-04-29
 
 ### 2. Mastering Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering search
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/mastering-search?u=76281980)
@@ -918,7 +936,7 @@ created: 2026-04-29
 
 ### 3. Community Search and Participation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Humans, software, and community
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/humans-software-and-community?u=76281980)
@@ -1238,7 +1256,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The end
 > [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/the-end?u=76281980)

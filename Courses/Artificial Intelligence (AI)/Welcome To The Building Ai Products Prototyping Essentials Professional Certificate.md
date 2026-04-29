@@ -48,11 +48,12 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building AI products: Prototyping essentials
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building AI products: Prototyping essentials
 > [LinkedIn Learning](https://www.linkedin.com/learning/welcome-to-the-building-ai-products-prototyping-essentials-professional-certificate/building-ai-products-prototyping-essentials?u=76281980)

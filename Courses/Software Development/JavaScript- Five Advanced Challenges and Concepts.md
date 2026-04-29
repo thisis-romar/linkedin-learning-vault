@@ -47,17 +47,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Nested Relationships]]** (5 videos)
-- **[[#2. Classes and Inheritance]]** (5 videos)
-- **[[#3. Singletons and Proxy Objects]]** (5 videos)
-- **[[#4. Observer Pattern]]** (5 videos)
-- **[[#5. Reactive Objects and Factories]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Advance your skills with JavaScript
+  - How this course works
+- [**1. Nested Relationships**](#1-nested-relationships) (5 videos)
+  - Managing nested comments
+  - Using a data map to turn flat arrays into trees
+  - Creating a recursive function to generate a nested array
+  - Solution: Make a nested array
+  - Advanced solution: Add nested comments
+- [**2. Classes and Inheritance**](#2-classes-and-inheritance) (5 videos)
+  - Managing users and capabilities
+  - Creating a class with capabilities
+  - Extending a class with new capabilities
+  - Solution: Create a library with books
+  - Advanced Solution: Users managing other users
+- [**3. Singletons and Proxy Objects**](#3-singletons-and-proxy-objects) (5 videos)
+  - Building robust applications
+  - Using singletons to create unique functions
+  - Using proxy objects to intercept calls to an object or class
+  - Solution: Create a logging system
+  - Advanced solution: Create a data validation system
+- [**4. Observer Pattern**](#4-observer-pattern) (5 videos)
+  - Push info to many nodes
+  - Setting up a basic Observer pattern
+  - Managing observers
+  - Solution: Temperature display
+  - Advanced solution: Stock information
+- [**5. Reactive Objects and Factories**](#5-reactive-objects-and-factories) (5 videos)
+  - Keeping a shopping cart up to date
+  - The basic Reactive pattern
+  - Adding advanced functionality
+  - Solution: Create a Reactive shopping cart
+  - Advanced solution: Create a Reactive object
+- [**Conclusion**](#conclusion) (1 videos)
+  - Wrapping up
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advance your skills with JavaScript
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advance-your-skills-with-javascript?u=76281980)
@@ -167,7 +195,7 @@ created: 2026-04-29
 
 ### 1. Nested Relationships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing nested comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-nested-comments?u=76281980)
@@ -623,7 +651,7 @@ created: 2026-04-29
 
 ### 2. Classes and Inheritance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing users and capabilities
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-users-and-capabilities?u=76281980)
@@ -1190,7 +1218,7 @@ created: 2026-04-29
 
 ### 3. Singletons and Proxy Objects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building robust applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/building-robust-applications?u=76281980)
@@ -1720,7 +1748,7 @@ created: 2026-04-29
 
 ### 4. Observer Pattern
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Push info to many nodes
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/push-info-to-many-nodes?u=76281980)
@@ -2155,7 +2183,7 @@ created: 2026-04-29
 
 ### 5. Reactive Objects and Factories
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Keeping a shopping cart up to date
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980)
@@ -2617,7 +2645,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Wrapping up
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980)

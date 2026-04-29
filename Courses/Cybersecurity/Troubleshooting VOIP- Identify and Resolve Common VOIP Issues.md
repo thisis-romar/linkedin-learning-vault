@@ -38,16 +38,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding VoIP Fundamentals]]** (5 videos)
-- **[[#2. Enhancing VoIP Performance]]** (4 videos)
-- **[[#3. Optimizing DHCP]]** (3 videos)
-- **[[#4. Managing Common SIP Issues]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Ensuring seamless communication
+  - What you need to know
+- [**1. Understanding VoIP Fundamentals**](#1-understanding-voip-fundamentals) (5 videos)
+  - Recognizing key VoIP protocols
+  - Navigating NAT settings for VoIP
+  - Monitoring VoIP health with SNMP
+  - Ensuring security and authentication
+  - Resolving infrastructure misconfigurations
+- [**2. Enhancing VoIP Performance**](#2-enhancing-voip-performance) (4 videos)
+  - Tuning network devices
+  - Ensuring quality of service (QoS)
+  - Optimizing DNS services
+  - Preventing DNS configuration issues
+- [**3. Optimizing DHCP**](#3-optimizing-dhcp) (3 videos)
+  - Managing DHCP servers
+  - Provisioning DHCP
+  - Mitigating 66/150 errors
+- [**4. Managing Common SIP Issues**](#4-managing-common-sip-issues) (4 videos)
+  - Resolving SIP registration issues
+  - Preventing setup and routing challenges
+  - Using a SIP proxy
+  - Identifying SIP communication issues
+- [**Conclusion**](#conclusion) (1 videos)
+  - What’s next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensuring seamless communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/ensuring-seamless-communication?u=76281980)
@@ -106,7 +125,7 @@ created: 2026-04-29
 
 ### 1. Understanding VoIP Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recognizing key VoIP protocols
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/recognizing-key-voip-protocols?u=76281980)
@@ -532,7 +551,7 @@ created: 2026-04-29
 
 ### 2. Enhancing VoIP Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tuning network devices
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/tuning-network-devices?u=76281980)
@@ -923,7 +942,7 @@ created: 2026-04-29
 
 ### 3. Optimizing DHCP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing DHCP servers
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/managing-dhcp-servers?u=76281980)
@@ -1176,7 +1195,7 @@ created: 2026-04-29
 
 ### 4. Managing Common SIP Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Resolving SIP registration issues
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/resolving-sip-registration-issues?u=76281980)
@@ -1545,7 +1564,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What’s next
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-voip-identify-and-resolve-common-voip-issues/what-s-next?u=76281980)

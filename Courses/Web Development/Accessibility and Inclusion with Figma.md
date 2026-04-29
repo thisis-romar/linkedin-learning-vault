@@ -49,18 +49,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Stark]]** (12 videos)
-- **[[#2. Adee]]** (5 videos)
-- **[[#3. Contrast Checkers]]** (3 videos)
-- **[[#4. Humaaans]]** (4 videos)
-- **[[#5. Lokalise]]** (2 videos)
-- **[[#6. Inclusivity Sources]]** (2 videos)
-- **[[#Taking Accessibilty and Inclusivity Forward]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Figma accessibility plugins
+- [**1. Stark**](#1-stark) (12 videos)
+  - Accessibility
+  - Installing the Stark plugin for Figma
+  - Using Stark’s contrast checker
+  - Using Stark’s typography checker
+  - Reviewing alt text
+  - Correct focus order
+  - Using Stark’s vision simulator
+  - Touch targets
+  - Adding landmarks
+  - Add Aria notes
+  - Using Sidekick
+  - The Stark accessibility checklist widget
+- [**2. Adee**](#2-adee) (5 videos)
+  - Installing Adee
+  - Using Adee’s contrast checker
+  - Using the alt text generator
+  - Using Adee’s color blindness simulator
+  - Checking touch sizes
+- [**3. Contrast Checkers**](#3-contrast-checkers) (3 videos)
+  - Installing Able and Ally
+  - Checking color contrast with Able
+  - Checking color contrast with Ally
+- [**4. Humaaans**](#4-humaaans) (4 videos)
+  - Inclusion
+  - Using Humaaans with Figma
+  - Create an onboarding frame
+  - Persona
+- [**5. Lokalise**](#5-lokalise) (2 videos)
+  - An overview of Lokalise
+  - Changing text to French
+- [**6. Inclusivity Sources**](#6-inclusivity-sources) (2 videos)
+  - An overview of inclusive design in Microsoft
+  - Cards for Humanity
+- [**Taking Accessibilty and Inclusivity Forward**](#taking-accessibilty-and-inclusivity-forward) (1 videos)
+  - Next steps for accessible, inclusive design
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Figma accessibility plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/figma-accessibility-plugins?u=76281980)
@@ -88,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Stark
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/accessibility?u=76281980)
@@ -942,7 +972,7 @@ created: 2026-04-29
 
 ### 2. Adee
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Adee
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-adee?u=76281980)
@@ -1338,7 +1368,7 @@ created: 2026-04-29
 
 ### 3. Contrast Checkers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Able and Ally
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/installing-able-and-ally?u=76281980)
@@ -1522,7 +1552,7 @@ created: 2026-04-29
 
 ### 4. Humaaans
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/inclusion?u=76281980)
@@ -1844,7 +1874,7 @@ created: 2026-04-29
 
 ### 5. Lokalise
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of Lokalise
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-lokalise?u=76281980)
@@ -2053,7 +2083,7 @@ created: 2026-04-29
 
 ### 6. Inclusivity Sources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of inclusive design in Microsoft
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/an-overview-of-inclusive-design-by-microsoft?u=76281980)
@@ -2185,7 +2215,7 @@ created: 2026-04-29
 
 ### Taking Accessibilty and Inclusivity Forward
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for accessible, inclusive design
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-inclusion-with-figma/next-steps-for-accessible-inclusive-design?u=76281980)

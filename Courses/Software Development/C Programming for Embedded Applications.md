@@ -53,18 +53,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Embedded Systems]]** (7 videos)
-- **[[#2. Data Types]]** (4 videos)
-- **[[#3. Bit Manipulation]]** (4 videos)
-- **[[#4. Qualifiers]]** (4 videos)
-- **[[#5. Function Alternatives]]** (6 videos)
-- **[[#6. Floating-Point Unit Alternatives]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Getting started in embedded systems
+  - What you should know
+  - Using the exercise files
+- [**1. Embedded Systems**](#1-embedded-systems) (7 videos)
+  - Applications: OS vs. embedded
+  - Memory
+  - Storage
+  - Energy consumption
+  - Processing power
+  - Hardware awareness
+  - C vs. Embedded C
+- [**2. Data Types**](#2-data-types) (4 videos)
+  - Integral types
+  - Floating-point types
+  - A quick analysis of memory usage with Keil
+  - Checking memory usage with Arduino
+- [**3. Bit Manipulation**](#3-bit-manipulation) (4 videos)
+  - Masking
+  - Bit masking with Arduino
+  - Bit fields
+  - A bit field example with Keil
+- [**4. Qualifiers**](#4-qualifiers) (4 videos)
+  - The volatile qualifier
+  - The const qualifier
+  - Protect variables using volatile
+  - Don't let the optimizer remove your while loop
+- [**5. Function Alternatives**](#5-function-alternatives) (6 videos)
+  - Lookup tables
+  - Macro functions
+  - Inline functions
+  - LUT vs. function example in Arduino
+  - LUT vs. function example in Keil
+  - Inline function example in Keil
+- [**6. Floating-Point Unit Alternatives**](#6-floating-point-unit-alternatives) (4 videos)
+  - Software implementation of float
+  - Fixed-point math
+  - Float-point vs. fixed-point example
+  - Float-point unit example in Keil
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started in embedded systems
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/getting-started-in-embedded-systems?u=76281980)
@@ -167,7 +200,7 @@ created: 2026-04-29
 
 ### 1. Embedded Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applications: OS vs. embedded
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/applications-os-vs-embedded?u=76281980)
@@ -560,7 +593,7 @@ created: 2026-04-29
 
 ### 2. Data Types
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integral types
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/integral-types?u=76281980)
@@ -983,7 +1016,7 @@ created: 2026-04-29
 
 ### 3. Bit Manipulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Masking
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/masking?u=76281980)
@@ -1328,7 +1361,7 @@ created: 2026-04-29
 
 ### 4. Qualifiers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The volatile qualifier
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/the-volatile-qualifier?u=76281980)
@@ -1766,7 +1799,7 @@ created: 2026-04-29
 
 ### 5. Function Alternatives
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lookup tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/lookup-tables?u=76281980)
@@ -2358,7 +2391,7 @@ created: 2026-04-29
 
 ### 6. Floating-Point Unit Alternatives
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Software implementation of float
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/software-implementation-of-float?u=76281980)
@@ -2713,7 +2746,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-programming-for-embedded-applications-14537235/next-steps?u=76281980)

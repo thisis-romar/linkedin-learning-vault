@@ -47,17 +47,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up Your Environment]]** (3 videos)
-- **[[#2. Command-Line Basics]]** (7 videos)
-- **[[#3. Files, Directories, and Permissions]]** (15 videos)
-- **[[#4. Common Command-Line Tasks and Tools]]** (14 videos)
-- **[[#5. A Peek at Some More Advanced Topics]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learning Linux command line
+  - What you should know
+  - A very quick intro to Linux
+- [**1. Setting Up Your Environment**](#1-setting-up-your-environment) (3 videos)
+  - Using GitHub Codespaces with this course
+  - Creating a Linux virtual machine
+  - Following along on other platforms
+- [**2. Command-Line Basics**](#2-command-line-basics) (7 videos)
+  - What is the command line?
+  - Understand how commands are structured
+  - Write commands in a shell at the prompt
+  - Finding help for commands
+  - Helpful keyboard shortcuts in the terminal
+  - Challenge: Find command information
+  - Solution: Find command information
+- [**3. Files, Directories, and Permissions**](#3-files-directories-and-permissions) (15 videos)
+  - The Linux file system
+  - Understanding file paths
+  - Navigating the file system
+  - Finding directory and file information
+  - Create and remove directories
+  - Copy, move, and delete files and directories
+  - Find files from the command line
+  - Understand user roles and sudo
+  - Understand file permissions
+  - Modify file permissions
+  - Create hard and symbolic links
+  - Challenge: Fix broken syntax
+  - Solution: Fix broken syntax
+  - Challenge: Practice working with files
+  - Solution: Practice working with files
+- [**4. Common Command-Line Tasks and Tools**](#4-common-command-line-tasks-and-tools) (14 videos)
+  - The importance of modularity
+  - Use pipes to connect commands together
+  - View text files with cat, head, tail, and less
+  - Search for text in files and streams with grep
+  - Manipulate text with awk, sed, and sort
+  - Edit text with Vim
+  - Edit text with nano
+  - Working with tar and zip archives
+  - Challenge: Create and share a file
+  - Solution: Create and share a file
+  - Output redirection
+  - Exploring environment variables and PATH
+  - Challenge: Extract information from a text file
+  - Solution: Extract information from a text file
+- [**5. A Peek at Some More Advanced Topics**](#5-a-peek-at-some-more-advanced-topics) (3 videos)
+  - Find information about your Linux distribution
+  - Find system hardware and disk information
+  - Install and update software with a package manager
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Linux command line
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980)
@@ -206,7 +252,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Your Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using GitHub Codespaces with this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980)
@@ -533,7 +579,7 @@ created: 2026-04-29
 
 ### 2. Command-Line Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is the command line?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980)
@@ -1187,7 +1233,7 @@ created: 2026-04-29
 
 ### 3. Files, Directories, and Permissions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Linux file system
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980)
@@ -2576,7 +2622,7 @@ created: 2026-04-29
 
 ### 4. Common Command-Line Tasks and Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of modularity
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-importance-of-modularity?u=76281980)
@@ -3910,7 +3956,7 @@ created: 2026-04-29
 
 ### 5. A Peek at Some More Advanced Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Find information about your Linux distribution
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980)
@@ -4239,7 +4285,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980)

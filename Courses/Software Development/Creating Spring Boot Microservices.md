@@ -50,21 +50,76 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Spring Framework Introduction]]** (5 videos)
-- **[[#2. Create a Spring Boot Microservice]]** (5 videos)
-- **[[#3. Leverage Spring-Data-JPA Repository Interfaces]]** (8 videos)
-- **[[#4. Expose RESTful API's with Spring Data REST]]** (6 videos)
-- **[[#5. Expose RESTful API's with Spring MVC]]** (7 videos)
-- **[[#6. Best Practices]]** (5 videos)
-- **[[#7. Dockerized Microservices and Databases]]** (4 videos)
-- **[[#8. Create a RESTful MongoDB Microservice]]** (5 videos)
-- **[[#9. Create an API Gateway with Spring Cloud]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Build a RESTful Spring Boot microservice
+  - What you should know
+  - How to use the exercise files
+- [**1. Spring Framework Introduction**](#1-spring-framework-introduction) (5 videos)
+  - Inversion of control pattern
+  - Spring ApplicationContext and Spring Beans
+  - Spring autowiring annotations
+  - Challenge
+  - Solution
+- [**2. Create a Spring Boot Microservice**](#2-create-a-spring-boot-microservice) (5 videos)
+  - Introduction to Spring Initializr
+  - Project setup
+  - Build, deploy, and launch the microservice
+  - Challenge: Add the Actuator dependency
+  - Solution: Add the Actuator dependency
+- [**3. Leverage Spring-Data-JPA Repository Interfaces**](#3-leverage-spring-data-jpa-repository-interfaces) (8 videos)
+  - The domain model
+  - The persistence entities
+  - Declare JPA repositories
+  - Spring Data JPA repository dependency injection
+  - Invoking the repositories
+  - Introduction to Spring Data query methods
+  - Challenge: Create a JPQL query method
+  - Solution: Create a JPQL query method
+- [**4. Expose RESTful API's with Spring Data REST**](#4-expose-restful-apis-with-spring-data-rest) (6 videos)
+  - Create APIs with Spring Data REST
+  - Mapping API endpoints to repositories
+  - Override default behavior
+  - Swagger UI
+  - Challenge: Modify the URL repository keyword
+  - Solution: Modify the URL repository keyword
+- [**5. Expose RESTful API's with Spring MVC**](#5-expose-restful-apis-with-spring-mvc) (7 videos)
+  - Choosing the right framework
+  - Declaring a new RestController
+  - Create the RestController HTTP POST endpoint
+  - Create the RestController HTTP GET endpoint
+  - Create the RestController HTTP PUT, PATCH, and DELETE endpoints
+  - Challenge: Add a PATCH endpoint
+  - Solution: Add a PATCH endpoint
+- [**6. Best Practices**](#6-best-practices) (5 videos)
+  - Global exception handling
+  - Transaction rollback
+  - Add a runtime logger
+  - JUnit, Mockito, and SpringBootTest
+  - API documentation
+- [**7. Dockerized Microservices and Databases**](#7-dockerized-microservices-and-databases) (4 videos)
+  - Why Docker?
+  - Dockerizing a microservice
+  - Spring Boot Docker Compose
+  - Database versioning with Flyway migrate
+- [**8. Create a RESTful MongoDB Microservice**](#8-create-a-restful-mongodb-microservice) (5 videos)
+  - Use cases for an image microservice
+  - Challenge: Create the Spring Boot MongoDB project
+  - Solution: Create the Spring Boot MongoDB project
+  - Image file upload microservice
+  - Spring Data MongoDB documents and repositories
+- [**9. Create an API Gateway with Spring Cloud**](#9-create-an-api-gateway-with-spring-cloud) (6 videos)
+  - Use cases for an API gateway microservice
+  - Routing to the JPA microservice
+  - Routing to the MongoDB microservice
+  - Add Spring Security to the gateway
+  - Orchestrate with Docker Compose
+  - Cleaning up the workspace
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a RESTful Spring Boot microservice
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/build-a-restful-spring-boot-microservices?u=76281980)
@@ -230,7 +285,7 @@ created: 2026-04-29
 
 ### 1. Spring Framework Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inversion of control pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/inversion-of-control-pattern?u=76281980)
@@ -530,7 +585,7 @@ created: 2026-04-29
 
 ### 2. Create a Spring Boot Microservice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Spring Initializr
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/introduction-to-spring-initializer?u=76281980)
@@ -809,7 +864,7 @@ created: 2026-04-29
 
 ### 3. Leverage Spring-Data-JPA Repository Interfaces
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The domain model
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/the-domain-model?u=76281980)
@@ -1382,7 +1437,7 @@ created: 2026-04-29
 
 ### 4. Expose RESTful API's with Spring Data REST
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create APIs with Spring Data REST
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/create-apis-with-spring-data-rest?u=76281980)
@@ -1688,7 +1743,7 @@ created: 2026-04-29
 
 ### 5. Expose RESTful API's with Spring MVC
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/choosing-the-right-framework?u=76281980)
@@ -2317,7 +2372,7 @@ created: 2026-04-29
 
 ### 6. Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Global exception handling
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/global-exception-handling?u=76281980)
@@ -2929,7 +2984,7 @@ created: 2026-04-29
 
 ### 7. Dockerized Microservices and Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why Docker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/why-docker?u=76281980)
@@ -3366,7 +3421,7 @@ created: 2026-04-29
 
 ### 8. Create a RESTful MongoDB Microservice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use cases for an image microservice
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-a-image-microservice?u=76281980)
@@ -3671,7 +3726,7 @@ created: 2026-04-29
 
 ### 9. Create an API Gateway with Spring Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use cases for an API gateway microservice
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/use-cases-for-an-api-gateway-microservice?u=76281980)
@@ -4257,7 +4312,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-spring-boot-microservices/next-steps?u=76281980)

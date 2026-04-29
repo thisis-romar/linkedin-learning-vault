@@ -47,19 +47,50 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Exploring GPT Technology and Effective Use of Prompts]]** (4 videos)
-- **[[#2. Code Optimization with AI]]** (6 videos)
-- **[[#3. Automated Testing and Quality Assurance Enhanced by AI]]** (4 videos)
-- **[[#4. Intelligent Debugging and Issue Resolution Strategies]]** (4 videos)
-- **[[#5. Collaborative Development for Remote Teams with AI]]** (2 videos)
-- **[[#6. AI-Powered Code Documentation Techniques]]** (2 videos)
-- **[[#7. AI Interview Preparation: Technical Questions and Confidence Building]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - AI and developer productivity
+  - What you should know
+  - Understanding the role of AI in software development
+  - Amplifying developer creativity: The AI advantage
+- [**1. Exploring GPT Technology and Effective Use of Prompts**](#1-exploring-gpt-technology-and-effective-use-of-prompts) (4 videos)
+  - Introduction to GPT technology
+  - How GPT works
+  - Prompt engineering strategies
+  - Practical use cases of GPT in software development
+- [**2. Code Optimization with AI**](#2-code-optimization-with-ai) (6 videos)
+  - A disclaimer before we begin
+  - GPT for idea generation
+  - Leveraging AI for code reviews
+  - AI-assisted code completion
+  - Bug detection with AI
+  - AI-powered performance optimization
+- [**3. Automated Testing and Quality Assurance Enhanced by AI**](#3-automated-testing-and-quality-assurance-enhanced-by-ai) (4 videos)
+  - The traditional challenges of software testing
+  - Test data generation with AI
+  - Test script generation with AI
+  - The pros and cons of using AI tools for test scripting
+- [**4. Intelligent Debugging and Issue Resolution Strategies**](#4-intelligent-debugging-and-issue-resolution-strategies) (4 videos)
+  - Understanding common coding errors
+  - GPT-powered debugging tools
+  - Efficient issue identification
+  - Contextual issue resolution
+- [**5. Collaborative Development for Remote Teams with AI**](#5-collaborative-development-for-remote-teams-with-ai) (2 videos)
+  - Collaboration and modern software development
+  - AI-powered communication tools
+- [**6. AI-Powered Code Documentation Techniques**](#6-ai-powered-code-documentation-techniques) (2 videos)
+  - The significance of clear code documentation
+  - Generating your first draft with AI
+- [**7. AI Interview Preparation: Technical Questions and Confidence Building**](#7-ai-interview-preparation-technical-questions-and-confidence-building) (4 videos)
+  - The traditional challenges of acing an interview
+  - Technical interview practice with AI
+  - Behavioral interview preparation with AI
+  - Best practices for interview success
+- [**Conclusion**](#conclusion) (1 videos)
+  - Using AI to improve productivity
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI and developer productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-and-developer-productivity?u=76281980)
@@ -237,7 +268,7 @@ created: 2026-04-29
 
 ### 1. Exploring GPT Technology and Effective Use of Prompts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to GPT technology
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980)
@@ -574,7 +605,7 @@ created: 2026-04-29
 
 ### 2. Code Optimization with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A disclaimer before we begin
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980)
@@ -870,7 +901,7 @@ created: 2026-04-29
 
 ### 3. Automated Testing and Quality Assurance Enhanced by AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The traditional challenges of software testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980)
@@ -1098,7 +1129,7 @@ created: 2026-04-29
 
 ### 4. Intelligent Debugging and Issue Resolution Strategies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding common coding errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-common-coding-errors?u=76281980)
@@ -1357,7 +1388,7 @@ created: 2026-04-29
 
 ### 5. Collaborative Development for Remote Teams with AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collaboration and modern software development
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980)
@@ -1476,7 +1507,7 @@ created: 2026-04-29
 
 ### 6. AI-Powered Code Documentation Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The significance of clear code documentation
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-significance-of-clear-code-documentation?u=76281980)
@@ -1625,7 +1656,7 @@ created: 2026-04-29
 
 ### 7. AI Interview Preparation: Technical Questions and Confidence Building
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The traditional challenges of acing an interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980)
@@ -1903,7 +1934,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using AI to improve productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980)

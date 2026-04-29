@@ -44,16 +44,32 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Assess the Situation]]** (4 videos)
-- **[[#2. Gather Data]]** (3 videos)
-- **[[#3. Make a Deal]]** (3 videos)
-- **[[#4. Measure and Adjust]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Intentional negotiation
+- [**1. Assess the Situation**](#1-assess-the-situation) (4 videos)
+  - Defining the context of the negotiation
+  - Understanding relationships in negotiation
+  - Choosing a negotiation style
+  - Emotion and fairness in negotiation
+- [**2. Gather Data**](#2-gather-data) (3 videos)
+  - Understanding players and positions in negotiation
+  - Structuring a deal in negotiation
+  - Anchoring a deal in negotiation
+- [**3. Make a Deal**](#3-make-a-deal) (3 videos)
+  - Defining your goals in a negotiation
+  - Sequencing a deal in a negotiation
+  - Negotiation techniques
+- [**4. Measure and Adjust**](#4-measure-and-adjust) (3 videos)
+  - Assessing what happened in a negotiation
+  - Changing your approach in a negotiation
+  - Setting up for future deals
+- [**Conclusion**](#conclusion) (2 videos)
+  - Avoiding common negotiation pitfalls
+  - Preparing for negotiation success
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Intentional negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/placeholder-name?u=76281980)
@@ -83,7 +99,7 @@ created: 2026-04-29
 
 ### 1. Assess the Situation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining the context of the negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/defining-the-context-of-the-negotiation?u=76281980)
@@ -354,7 +370,7 @@ created: 2026-04-29
 
 ### 2. Gather Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding players and positions in negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/understanding-players-and-positions-in-negotiation?u=76281980)
@@ -554,7 +570,7 @@ created: 2026-04-29
 
 ### 3. Make a Deal
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Defining your goals in a negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/defining-your-goals-in-a-negotiation?u=76281980)
@@ -734,7 +750,7 @@ created: 2026-04-29
 
 ### 4. Measure and Adjust
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assessing what happened in a negotiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/assessing-what-happened-in-a-negotiation?u=76281980)
@@ -923,7 +939,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Avoiding common negotiation pitfalls
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-negotiation/avoiding-common-negotiation-pitfalls?u=76281980)

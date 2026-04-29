@@ -50,20 +50,62 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Presenting Financial Data]]** (6 videos)
-- **[[#2. Cleaning Up Excel Data for Finance Presentations]]** (5 videos)
-- **[[#3. Dynamic Charting with Formulas and Pivots]]** (4 videos)
-- **[[#4. Building Excel Charts for Presentations]]** (5 videos)
-- **[[#5. Crafting Graphics for Presentations]]** (4 videos)
-- **[[#6. Communicate Your Message with Conditional Formatting]]** (5 videos)
-- **[[#7. Getting Excel Content into PowerPoint]]** (5 videos)
-- **[[#8. Finalizing Your PowerPoint Presentation]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Creating compelling finance presentations
+  - What to know before starting
+- [**1. Presenting Financial Data**](#1-presenting-financial-data) (6 videos)
+  - How financial and nonfinancial data differs in Excel
+  - Communicating finance concepts to your audience
+  - Tools for preparing and presenting financial data
+  - Choosing between Excel and PowerPoint for presentations
+  - Choosing a chart or a table
+  - Selecting the right chart to communicate your message
+- [**2. Cleaning Up Excel Data for Finance Presentations**](#2-cleaning-up-excel-data-for-finance-presentations) (5 videos)
+  - Charting with tables
+  - Summarizing data with PivotTables
+  - Charting with Pivots
+  - Cleaning up data with Power Query
+  - Manipulating data with unpivot in Power Query
+- [**3. Dynamic Charting with Formulas and Pivots**](#3-dynamic-charting-with-formulas-and-pivots) (4 videos)
+  - Building charts based on formulas vs. PivotCharts
+  - Making charts dynamic with dynamic arrays and named ranges
+  - Slicing and filtering data for presentations
+  - Deciding between formulas and PivotCharts
+- [**4. Building Excel Charts for Presentations**](#4-building-excel-charts-for-presentations) (5 videos)
+  - Comparing data with a combo chart on two axes
+  - Show changes over time with a waterfall chart
+  - Displaying model sensitivities with a tornado chart
+  - Building a project schedule visual
+  - Displaying progress with a Gantt chart
+- [**5. Crafting Graphics for Presentations**](#5-crafting-graphics-for-presentations) (4 videos)
+  - Illustrating trends with sparklines
+  - Mapping geospatial data
+  - Adding images and icons in Excel
+  - Adding emojis in Excel
+- [**6. Communicate Your Message with Conditional Formatting**](#6-communicate-your-message-with-conditional-formatting) (5 videos)
+  - Adding meaning to tables with color scales
+  - Finding and drawing attention to anomalies
+  - Giving numbers meaning with data bars
+  - Creating a heatmap with color scales
+  - Creating an actual vs. budget variance report
+- [**7. Getting Excel Content into PowerPoint**](#7-getting-excel-content-into-powerpoint) (5 videos)
+  - Applying Office themes in PowerPoint
+  - Options for copying and pasting from Excel
+  - Linking and embedding visuals from Excel
+  - Creating charts and tables natively in PowerPoint
+  - Adding a Power BI report into PowerPoint
+- [**8. Finalizing Your PowerPoint Presentation**](#8-finalizing-your-powerpoint-presentation) (5 videos)
+  - Pasting Excel content into PowerPoint
+  - Using the PowerPoint Designer
+  - Animating a chart
+  - Animating a table
+  - Sharing your finalized presentation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating compelling finance presentations
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/creating-compelling-finance-presentations-that-make-an-impact?u=76281980)
@@ -127,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Presenting Financial Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How financial and nonfinancial data differs in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/how-financial-and-non-financial-data-differs-in-excel?u=76281980)
@@ -500,7 +542,7 @@ created: 2026-04-29
 
 ### 2. Cleaning Up Excel Data for Finance Presentations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Charting with tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/charting-with-tables?u=76281980)
@@ -841,7 +883,7 @@ created: 2026-04-29
 
 ### 3. Dynamic Charting with Formulas and Pivots
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building charts based on formulas vs. PivotCharts
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/building-charts-based-on-formulas-vs-pivotcharts?u=76281980)
@@ -1151,7 +1193,7 @@ created: 2026-04-29
 
 ### 4. Building Excel Charts for Presentations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comparing data with a combo chart on two axes
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/comparing-data-with-a-combo-chart-on-two-axes?u=76281980)
@@ -1558,7 +1600,7 @@ created: 2026-04-29
 
 ### 5. Crafting Graphics for Presentations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Illustrating trends with sparklines
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/illustrating-trends-with-sparklines?u=76281980)
@@ -1767,7 +1809,7 @@ created: 2026-04-29
 
 ### 6. Communicate Your Message with Conditional Formatting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding meaning to tables with color scales
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/adding-meaning-to-tables-with-color-scales?u=76281980)
@@ -2080,7 +2122,7 @@ created: 2026-04-29
 
 ### 7. Getting Excel Content into PowerPoint
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applying Office themes in PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/applying-office-themes-in-powerpoint?u=76281980)
@@ -2407,7 +2449,7 @@ created: 2026-04-29
 
 ### 8. Finalizing Your PowerPoint Presentation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pasting Excel content into PowerPoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/pasting-excel-content-into-powerpoint?u=76281980)
@@ -2783,7 +2825,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-and-powerpoint-creating-high-impact-financial-presentations/conclusion?u=76281980)

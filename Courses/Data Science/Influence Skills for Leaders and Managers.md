@@ -48,15 +48,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Using Influence to Manage Your Team]]** (5 videos)
-- **[[#2. Using Organizational Influence to Get Things Done]]** (6 videos)
-- **[[#3. Using Influence for Visibility and Impact]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Influencing at the leadership level
+  - Myths and truths about influence
+  - Assess your leadership influence
+- [**1. Using Influence to Manage Your Team**](#1-using-influence-to-manage-your-team) (5 videos)
+  - Inspiring your team to act
+  - Holding your team accountable
+  - Influencing different personalities
+  - Modeling the way
+  - Motivating your team through change
+- [**2. Using Organizational Influence to Get Things Done**](#2-using-organizational-influence-to-get-things-done) (6 videos)
+  - Developing organizational awareness
+  - Building relationships with stakeholders
+  - Influencing outcomes through others
+  - Using influence to advocate for your team
+  - Navigating power struggles
+  - Pushing back tactfully
+- [**3. Using Influence for Visibility and Impact**](#3-using-influence-for-visibility-and-impact) (4 videos)
+  - Earning authority and autonomy
+  - Building a braintrust
+  - Gaining visibility for team accomplishments
+  - Getting executive buy-in
+- [**Conclusion**](#conclusion) (1 videos)
+  - Influence for the greatest good
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Influencing at the leadership level
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-at-the-leadership-level-25859458?u=76281980)
@@ -223,7 +242,7 @@ created: 2026-04-29
 
 ### 1. Using Influence to Manage Your Team
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Inspiring your team to act
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/inspiring-your-team-to-act?u=76281980)
@@ -643,7 +662,7 @@ created: 2026-04-29
 
 ### 2. Using Organizational Influence to Get Things Done
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing organizational awareness
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/developing-organizational-awareness?u=76281980)
@@ -1107,7 +1126,7 @@ created: 2026-04-29
 
 ### 3. Using Influence for Visibility and Impact
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Earning authority and autonomy
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/earning-authority-and-autonomy?u=76281980)
@@ -1480,7 +1499,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Influence for the greatest good
 > [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influence-for-the-greatest-good?u=76281980)

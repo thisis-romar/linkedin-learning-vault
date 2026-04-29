@@ -55,24 +55,102 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. SQL Introduction]]** (4 videos)
-- **[[#2. SQL Basics]]** (7 videos)
-- **[[#3. Data Manipulation]]** (6 videos)
-- **[[#4. Advanced Data Querying]]** (11 videos)
-- **[[#5. SQL Functions]]** (8 videos)
-- **[[#6. SQL Analytical Functions]]** (9 videos)
-- **[[#7. Views and Stored Procedures]]** (6 videos)
-- **[[#8. Indexes and Performance]]** (6 videos)
-- **[[#9. Database Security and User Management]]** (8 videos)
-- **[[#10. Debugging: Common Mistakes and SQL Errors]]** (4 videos)
-- **[[#11. ETL Overview]]** (3 videos)
-- **[[#12. Real-World Project]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - SQL for data engineering
+  - What you should know
+  - Using Codespaces
+- [**1. SQL Introduction**](#1-sql-introduction) (4 videos)
+  - What is SQL and why learn it?
+  - Role of SQL in data engineering
+  - Setting up the SQL environment: Install PostgreSQL
+  - Walkthrough: PostgreSQL
+- [**2. SQL Basics**](#2-sql-basics) (7 videos)
+  - Introduction to databases and tables
+  - SQL syntax and basic queries
+  - Selecting and filtering data
+  - Sorting data with ORDER BY
+  - Combining conditions with AND and OR
+  - Challenge: Combine filter and ORDER BY
+  - Solution: Combine filter and ORDER BY
+- [**3. Data Manipulation**](#3-data-manipulation) (6 videos)
+  - Introduction to data manipulation
+  - Inserting data into tables
+  - Updating existing records
+  - Deleting records from tables
+  - Challenge: Delete records
+  - Solution: Delete records
+- [**4. Advanced Data Querying**](#4-advanced-data-querying) (11 videos)
+  - Introduction to joins
+  - Inner join explained
+  - Left and right joins explained
+  - Full outer joins
+  - Using the UNION operator
+  - Using the CASE statement for conditional logic
+  - Using GROUP BY to aggregate data
+  - Common aggregation functions: SUM, AVG, COUNT, etc.
+  - Filtering GROUP BY results with the HAVING clause
+  - Challenge: Joins
+  - Solution: Joins
+- [**5. SQL Functions**](#5-sql-functions) (8 videos)
+  - Introduction to SQL functions
+  - Using mathematical functions
+  - Working with date functions
+  - Working with time functions
+  - String functions: Concatenation and trimming
+  - String functions: Changing case and extracting substrings
+  - Challenge: Play with strings
+  - Solution: Play with strings
+- [**6. SQL Analytical Functions**](#6-sql-analytical-functions) (9 videos)
+  - Introduction to analytical functions
+  - Using the RANK() function
+  - Using the DENSE_RANK() function
+  - Exploring the ROW_NUMBER() function
+  - Understanding the LAG() and LEAD() functions
+  - Running totals with SUM() OVER()
+  - Calculating moving averages
+  - Challenge: Find out the sum
+  - Solution: Find out the sum
+- [**7. Views and Stored Procedures**](#7-views-and-stored-procedures) (6 videos)
+  - Introduction to views
+  - Creating and using views
+  - Introduction to stored procedures
+  - Creating and executing stored procedures
+  - Challenge: Select via view
+  - Solution: Select via view
+- [**8. Indexes and Performance**](#8-indexes-and-performance) (6 videos)
+  - Introduction to indexes
+  - Creating and managing indexes
+  - Understanding query performance
+  - Basic performance tuning techniques
+  - Challenge: Indexes
+  - Solution: Indexes
+- [**9. Database Security and User Management**](#9-database-security-and-user-management) (8 videos)
+  - Introduction to database security
+  - Understanding users and roles in SQL
+  - Creating users and assigning roles
+  - Granting and revoking permissions
+  - Using roles for permission management
+  - Best practices for managing roles and permissions
+  - Challenge: Create a role
+  - Solution: Create a role
+- [**10. Debugging: Common Mistakes and SQL Errors**](#10-debugging-common-mistakes-and-sql-errors) (4 videos)
+  - Understanding SQL syntax errors
+  - Logical errors in SQL
+  - Debugging NULL values
+  - Practical example: Debugging real SQL issues
+- [**11. ETL Overview**](#11-etl-overview) (3 videos)
+  - What is ETL and its importance
+  - ETL process flow
+  - Common ETL tools
+- [**12. Real-World Project**](#12-real-world-project) (2 videos)
+  - Final project: Insurance claims analysis
+  - Final project solution: Insurance claims analysis
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL for data engineering
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/sql-for-data-engineering-25582464?u=76281980)
@@ -182,7 +260,7 @@ created: 2026-04-29
 
 ### 1. SQL Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is SQL and why learn it?
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-sql-and-why-learn-it?u=76281980)
@@ -731,7 +809,7 @@ created: 2026-04-29
 
 ### 2. SQL Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to databases and tables
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-databases-and-tables?u=76281980)
@@ -1635,7 +1713,7 @@ created: 2026-04-29
 
 ### 3. Data Manipulation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data manipulation
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-data-manipulation?u=76281980)
@@ -2236,7 +2314,7 @@ created: 2026-04-29
 
 ### 4. Advanced Data Querying
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-joins?u=76281980)
@@ -3513,7 +3591,7 @@ created: 2026-04-29
 
 ### 5. SQL Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to SQL functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-sql-functions?u=76281980)
@@ -4315,7 +4393,7 @@ created: 2026-04-29
 
 ### 6. SQL Analytical Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to analytical functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-analytical-functions?u=76281980)
@@ -5195,7 +5273,7 @@ created: 2026-04-29
 
 ### 7. Views and Stored Procedures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to views
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-views?u=76281980)
@@ -5699,7 +5777,7 @@ created: 2026-04-29
 
 ### 8. Indexes and Performance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to indexes
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-indexes?u=76281980)
@@ -6211,7 +6289,7 @@ created: 2026-04-29
 
 ### 9. Database Security and User Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to database security
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/introduction-to-database-security?u=76281980)
@@ -7005,7 +7083,7 @@ created: 2026-04-29
 
 ### 10. Debugging: Common Mistakes and SQL Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding SQL syntax errors
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/understanding-sql-syntax-errors?u=76281980)
@@ -7562,7 +7640,7 @@ created: 2026-04-29
 
 ### 11. ETL Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is ETL and its importance
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/what-is-etl-its-importance?u=76281980)
@@ -7890,7 +7968,7 @@ created: 2026-04-29
 
 ### 12. Real-World Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project: Insurance claims analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/capstone-project-insurance-claims-analysis?u=76281980)
@@ -8204,7 +8282,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-sql-for-data-engineering-from-beginner-to-advanced/next-steps?u=76281980)

@@ -47,19 +47,52 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. GDPR Basics]]** (3 videos)
-- **[[#2. GDPR Responsibilities]]** (3 videos)
-- **[[#3. Technical Components]]** (5 videos)
-- **[[#4. Requirements]]** (4 videos)
-- **[[#5. Data Subject Rights]]** (7 videos)
-- **[[#6. Breach Notification]]** (3 videos)
-- **[[#7. Real-World Guidance]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Getting started with GDPR compliance
+  - Not legal advice disclaimer
+  - Definitions
+- [**1. GDPR Basics**](#1-gdpr-basics) (3 videos)
+  - Overview of GDPR basics
+  - Scope
+  - Important dates
+- [**2. GDPR Responsibilities**](#2-gdpr-responsibilities) (3 videos)
+  - Data controllers and processors
+  - Joint controllers and third-party partners
+  - Data protection officer (DPO)
+- [**3. Technical Components**](#3-technical-components) (5 videos)
+  - Article 24: Responsibilities of the controller
+  - Article 28: Data processor tasks
+  - Run books and processes
+  - PIAs and DPIAs
+  - Trust: A competitive advantage
+- [**4. Requirements**](#4-requirements) (4 videos)
+  - Legal basis
+  - Document activities
+  - Technical measures
+  - Notification
+- [**5. Data Subject Rights**](#5-data-subject-rights) (7 videos)
+  - Access
+  - Correction
+  - Right to be forgotten
+  - Objection
+  - Children's data age 13-16
+  - Portability
+  - Prompt response
+- [**6. Breach Notification**](#6-breach-notification) (3 videos)
+  - Timing
+  - Public relations
+  - Incident response and forensics
+- [**7. Real-World Guidance**](#7-real-world-guidance) (3 videos)
+  - Published guidance summary
+  - Enforcement action examples
+  - UK's Data Protection Act of 2018 and Brexit impacts
+- [**Conclusion**](#conclusion) (2 videos)
+  - Additional references to ensure GDPR compliance
+  - Not legal advice disclaimer
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with GDPR compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/getting-started-with-gdpr-compliance-23861527?u=76281980)
@@ -189,7 +222,7 @@ created: 2026-04-29
 
 ### 1. GDPR Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of GDPR basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980)
@@ -395,7 +428,7 @@ created: 2026-04-29
 
 ### 2. GDPR Responsibilities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data controllers and processors
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-controllers-and-processors?u=76281980)
@@ -591,7 +624,7 @@ created: 2026-04-29
 
 ### 3. Technical Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Article 24: Responsibilities of the controller
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980)
@@ -897,7 +930,7 @@ created: 2026-04-29
 
 ### 4. Requirements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Legal basis
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/legal-basis?u=76281980)
@@ -1197,7 +1230,7 @@ created: 2026-04-29
 
 ### 5. Data Subject Rights
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Access
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980)
@@ -1476,7 +1509,7 @@ created: 2026-04-29
 
 ### 6. Breach Notification
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Timing
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980)
@@ -1663,7 +1696,7 @@ created: 2026-04-29
 
 ### 7. Real-World Guidance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Published guidance summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/published-guidance-summary?u=76281980)
@@ -1819,7 +1852,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Additional references to ensure GDPR compliance
 > [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980)

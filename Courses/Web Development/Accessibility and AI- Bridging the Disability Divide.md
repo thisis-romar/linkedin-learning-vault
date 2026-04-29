@@ -39,15 +39,25 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Design and Innovation]]** (3 videos)
-- **[[#2. AI and Accessibility]]** (3 videos)
-- **[[#3. Accessible Copilots]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Breaking barriers in accessibility and AI
+- [**1. Design and Innovation**](#1-design-and-innovation) (3 videos)
+  - The case for AI innovation
+  - Adopting an innovation framework, part one
+  - Adopting an innovation framework, part two
+- [**2. AI and Accessibility**](#2-ai-and-accessibility) (3 videos)
+  - Integrating APIs
+  - Enriching APIs with your own data
+  - Harnessing generative AI
+- [**3. Accessible Copilots**](#3-accessible-copilots) (2 videos)
+  - Copilot accessibility considerations
+  - Applying responsible AI practices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Bridging the disability divide
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking barriers in accessibility and AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/breaking-barriers-in-accessibility-and-ai?u=76281980)
@@ -78,7 +88,7 @@ created: 2026-04-29
 
 ### 1. Design and Innovation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The case for AI innovation
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/the-case-for-ai-innovation?u=76281980)
@@ -308,7 +318,7 @@ created: 2026-04-29
 
 ### 2. AI and Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Integrating APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/integrating-apis?u=76281980)
@@ -552,7 +562,7 @@ created: 2026-04-29
 
 ### 3. Accessible Copilots
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Copilot accessibility considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/copilot-accessibility-considerations?u=76281980)
@@ -722,7 +732,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bridging the disability divide
 > [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-and-ai-bridging-the-disability-divide/bridging-the-disability-divide?u=76281980)

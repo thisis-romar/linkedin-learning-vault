@@ -50,15 +50,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Value of Data]]** (7 videos)
-- **[[#2. Google Cloud Data Management Solutions]]** (6 videos)
-- **[[#3. Making Data Useful and Accessible]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course introduction
+- [**1. The Value of Data**](#1-the-value-of-data) (7 videos)
+  - Introduction
+  - How data creates value
+  - Unlocking business value from data
+  - Data management concepts
+  - The role of data in digital transformation
+  - The data value chain
+  - Data governance
+- [**2. Google Cloud Data Management Solutions**](#2-google-cloud-data-management-solutions) (6 videos)
+  - Introduction
+  - Unstructured data storage
+  - Structured data storage
+  - Semi-structured data storage
+  - Choosing the right storage product
+  - Database migration and modernization
+- [**3. Making Data Useful and Accessible**](#3-making-data-useful-and-accessible) (4 videos)
+  - Introduction
+  - Business intelligence and insights using Looker
+  - Streaming analytics
+  - Pub/Sub and Dataflow
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-introduction?u=76281980)
@@ -96,7 +115,7 @@ created: 2026-04-29
 
 ### 1. The Value of Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980)
@@ -556,7 +575,7 @@ created: 2026-04-29
 
 ### 2. Google Cloud Data Management Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228171?u=76281980)
@@ -904,7 +923,7 @@ created: 2026-04-29
 
 ### 3. Making Data Useful and Accessible
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980)
@@ -1115,7 +1134,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980)

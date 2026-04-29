@@ -52,18 +52,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Basics of Analysis]]** (3 videos)
-- **[[#2. Distributional Analysis with Continuous Data]]** (4 videos)
-- **[[#3. Distributional Analysis with Discrete Data]]** (3 videos)
-- **[[#4. Visualizing Multiple Distributions]]** (4 videos)
-- **[[#5. Visualizing Relationships]]** (4 videos)
-- **[[#6. Visualizing Multi-Dimensional Relationships]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The value of visual analysis
+- [**1. Basics of Analysis**](#1-basics-of-analysis) (3 videos)
+  - Types of data
+  - Basic graph elements
+  - Univariate, bivariate, and multivariate analysis
+- [**2. Distributional Analysis with Continuous Data**](#2-distributional-analysis-with-continuous-data) (4 videos)
+  - Histograms
+  - Density plots
+  - Strip plots
+  - Box plots
+- [**3. Distributional Analysis with Discrete Data**](#3-distributional-analysis-with-discrete-data) (3 videos)
+  - Bar graphs and dot plots
+  - Pie charts
+  - Radar plots
+- [**4. Visualizing Multiple Distributions**](#4-visualizing-multiple-distributions) (4 videos)
+  - Multiple histogram and density plots
+  - Multiple box and violin plots
+  - Multiple bar graphs and dot plots
+  - Multiple pie and radar plots
+- [**5. Visualizing Relationships**](#5-visualizing-relationships) (4 videos)
+  - Scatter plots
+  - Lines of best fit
+  - Line plots
+  - Table plots
+- [**6. Visualizing Multi-Dimensional Relationships**](#6-visualizing-multi-dimensional-relationships) (3 videos)
+  - Matrix scatter and trellis plots
+  - Bubble plots
+  - Contour plots
+- [**Conclusion**](#conclusion) (1 videos)
+  - Time to visualize
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The value of visual analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/the-value-of-visual-analysis?u=76281980)
@@ -106,7 +129,7 @@ created: 2026-04-29
 
 ### 1. Basics of Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of data
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/types-of-data?u=76281980)
@@ -414,7 +437,7 @@ created: 2026-04-29
 
 ### 2. Distributional Analysis with Continuous Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Histograms
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/histograms?u=76281980)
@@ -724,7 +747,7 @@ created: 2026-04-29
 
 ### 3. Distributional Analysis with Discrete Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bar graphs and dot plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/bar-graphs-and-dot-plots?u=76281980)
@@ -994,7 +1017,7 @@ created: 2026-04-29
 
 ### 4. Visualizing Multiple Distributions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Multiple histogram and density plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/multiple-histogram-and-density-plots?u=76281980)
@@ -1315,7 +1338,7 @@ created: 2026-04-29
 
 ### 5. Visualizing Relationships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scatter plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/scatter-plots?u=76281980)
@@ -1702,7 +1725,7 @@ created: 2026-04-29
 
 ### 6. Visualizing Multi-Dimensional Relationships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Matrix scatter and trellis plots
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/matrix-scatter-and-trellis-plots?u=76281980)
@@ -1978,7 +2001,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Time to visualize
 > [LinkedIn Learning](https://www.linkedin.com/learning/basics-of-data-visualization-analysis/time-to-visualize?u=76281980)

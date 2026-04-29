@@ -50,18 +50,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Installing Our Tools]]** (8 videos)
-- **[[#2. Deploying to AWS ElasticBeanstalk]]** (2 videos)
-- **[[#3. Building Websites]]** (5 videos)
-- **[[#4. Data Access]]** (7 videos)
-- **[[#5. RESTful APIs]]** (6 videos)
-- **[[#6. WebSockets and Crow]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Why use C++ to make a website?
+- [**1. Installing Our Tools**](#1-installing-our-tools) (8 videos)
+  - Installing Docker
+  - Installing Atom
+  - Docker
+  - Adding a volume
+  - Building Crow
+  - Serving the example
+  - Challenge: Modify the example page
+  - Solution: Modify the example page
+- [**2. Deploying to AWS ElasticBeanstalk**](#2-deploying-to-aws-elasticbeanstalk) (2 videos)
+  - Beanstalk
+  - Saving our container to Docker Hub
+- [**3. Building Websites**](#3-building-websites) (5 videos)
+  - Creating HTML pages
+  - Serving HTML pages
+  - Serving static content
+  - Challenge: Create a new webpage
+  - Solution: Create a new webpage
+- [**4. Data Access**](#4-data-access) (7 videos)
+  - Atlas
+  - Uploading JSON data
+  - Adding the MongoDB C++ drivers
+  - Querying Mongo data
+  - Adding dynamic data to a page
+  - Challenge: Create a webpage with data
+  - Solution: Create a webpage with data
+- [**5. RESTful APIs**](#5-restful-apis) (6 videos)
+  - Creating an endpoint
+  - Parsing the path
+  - Reading the query string
+  - Converting to JSON data
+  - Challenge: Create an endpoint
+  - Solution: Create an endpoint
+- [**6. WebSockets and Crow**](#6-websockets-and-crow) (3 videos)
+  - Reviewing the JavaScript client code
+  - Creating the C++ server code
+  - Running WebSocket on Heroku
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use C++ to make a website?
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/why-use-c-plus-plus-to-make-a-website-25621006?u=76281980)
@@ -88,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Installing Our Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/installing-docker?u=76281980)
@@ -759,7 +792,7 @@ created: 2026-04-29
 
 ### 2. Deploying to AWS ElasticBeanstalk
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Beanstalk
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/beanstalk?u=76281980)
@@ -1012,7 +1045,7 @@ created: 2026-04-29
 
 ### 3. Building Websites
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating HTML pages
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-html-pages?u=76281980)
@@ -1504,7 +1537,7 @@ created: 2026-04-29
 
 ### 4. Data Access
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Atlas
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/atlas?u=76281980)
@@ -2523,7 +2556,7 @@ created: 2026-04-29
 
 ### 5. RESTful APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an endpoint
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/creating-an-endpoint?u=76281980)
@@ -3226,7 +3259,7 @@ created: 2026-04-29
 
 ### 6. WebSockets and Crow
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reviewing the JavaScript client code
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/reviewing-the-javascript-client-code?u=76281980)
@@ -3514,7 +3547,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/web-servers-and-apis-using-c-plus-plus/next-steps?u=76281980)

@@ -49,17 +49,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Classes and Objects in Java]]** (7 videos)
-- **[[#2. Encapsulation in Java]]** (6 videos)
-- **[[#3. Inheritance in Java]]** (6 videos)
-- **[[#4. Polymorphism in Java]]** (8 videos)
-- **[[#5. Abstraction in Java]]** (6 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Why learn about object-oriented programming in Java
+  - What is object orientation?
+- [**1. Classes and Objects in Java**](#1-classes-and-objects-in-java) (7 videos)
+  - Using classes as blueprints
+  - Building objects with a constructor
+  - Using concrete instances for application logic
+  - Understanding the difference between class and instance members
+  - Exploring a built-in Java class
+  - Challenge: Build an employee class
+  - Solution: Build an employee class
+- [**2. Encapsulation in Java**](#2-encapsulation-in-java) (6 videos)
+  - What is encapsulation?
+  - Discovering access modifiers
+  - Implementing encapsulation with access modifiers
+  - Exploring encapsulation in Java string class
+  - Challenge: Banking application
+  - Solution: Banking application
+- [**3. Inheritance in Java**](#3-inheritance-in-java) (6 videos)
+  - What is inheritance?
+  - Leveraging different types of inheritance
+  - Using inheritance to reduce code duplication
+  - Discovering inheritance in foundational Java classes
+  - Challenge: Reduce redundant code with inheritance
+  - Solution: Reduce redundant code with inheritance
+- [**4. Polymorphism in Java**](#4-polymorphism-in-java) (8 videos)
+  - What is polymorphism?
+  - Writing reusable algorithms with runtime polymorphism
+  - Exploring different forms in a single object
+  - Accessing specific object forms with instanceof
+  - Writing flexible code with compile-time polymorphism
+  - Exploring how built-in Java classes use polymorphism
+  - Challenge: Reduce complexity with polymorphism
+  - Solution: Reduce complexity with polymorphism
+- [**5. Abstraction in Java**](#5-abstraction-in-java) (6 videos)
+  - What is abstraction?
+  - Using abstract classes in Java to reduce code complexity
+  - Using interfaces in Java to provide conformity
+  - Discovering abstraction in Java source code
+  - Challenge: Leverage abstraction to write simpler applications
+  - Solution: Leverage abstraction to write simpler applications
+- [**Conclusion**](#conclusion) (2 videos)
+  - Identifying code smells and anti-patterns in OOP code
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why learn about object-oriented programming in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/why-learn-about-object-oriented-programming-in-java?u=76281980)
@@ -136,7 +173,7 @@ created: 2026-04-29
 
 ### 1. Classes and Objects in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using classes as blueprints
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-classes-as-blueprints?u=76281980)
@@ -680,7 +717,7 @@ created: 2026-04-29
 
 ### 2. Encapsulation in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is encapsulation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980)
@@ -1081,7 +1118,7 @@ created: 2026-04-29
 
 ### 3. Inheritance in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is inheritance?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-inheritance?u=76281980)
@@ -1461,7 +1498,7 @@ created: 2026-04-29
 
 ### 4. Polymorphism in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is polymorphism?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980)
@@ -2100,7 +2137,7 @@ created: 2026-04-29
 
 ### 5. Abstraction in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is abstraction?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980)
@@ -2579,7 +2616,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identifying code smells and anti-patterns in OOP code
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/identifying-code-smells-and-anti-patterns-in-oop-code?u=76281980)

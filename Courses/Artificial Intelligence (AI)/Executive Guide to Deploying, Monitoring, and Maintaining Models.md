@@ -47,15 +47,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. The Phases of a Machine Learning Project]]** (4 videos)
-- **[[#2. Model Evaluation]]** (2 videos)
-- **[[#3. Scoring]]** (3 videos)
-- **[[#4. Deployment]]** (3 videos)
-- **[[#5. Monitoring and Maintenance]]** (2 videos)
+- [**1. The Phases of a Machine Learning Project**](#1-the-phases-of-a-machine-learning-project) (4 videos)
+  - Data and supervised machine learning
+  - Data engineering and MLOps in the ML lifecycle
+  - Why ML projects fail to be deployed
+  - The basics of ML modeling
+- [**2. Model Evaluation**](#2-model-evaluation) (2 videos)
+  - The business evaluation phase
+  - A deployment checklist
+- [**3. Scoring**](#3-scoring) (3 videos)
+  - Scoring traditional ML models
+  - Scoring a "black box" model
+  - Scoring an ensemble
+- [**4. Deployment**](#4-deployment) (3 videos)
+  - Batch vs. real-time scoring
+  - Data prep and scoring
+  - Combining batch and real-time scoring
+- [**5. Monitoring and Maintenance**](#5-monitoring-and-maintenance) (2 videos)
+  - What is model monitoring?
+  - How often should you rebuild?
 
 ### 1. The Phases of a Machine Learning Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data and supervised machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/data-and-supervised-machine-learning?u=76281980)
@@ -303,7 +317,7 @@ created: 2026-04-29
 
 ### 2. Model Evaluation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The business evaluation phase
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/the-business-evaluation-phase?u=76281980)
@@ -457,7 +471,7 @@ created: 2026-04-29
 
 ### 3. Scoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scoring traditional ML models
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/scoring-traditional-ml-models?u=76281980)
@@ -664,7 +678,7 @@ created: 2026-04-29
 
 ### 4. Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Batch vs. real-time scoring
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/batch-vs-real-time-scoring?u=76281980)
@@ -905,7 +919,7 @@ created: 2026-04-29
 
 ### 5. Monitoring and Maintenance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is model monitoring?
 > [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-deploying-monitoring-and-maintaining-models/what-is-model-monitoring?u=76281980)

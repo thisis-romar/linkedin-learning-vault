@@ -53,17 +53,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Comparing Excel and SQL]]** (2 videos)
-- **[[#2. SQL Basics]]** (7 videos)
-- **[[#3. Working with Functions]]** (4 videos)
-- **[[#4. Organizing Data]]** (5 videos)
-- **[[#5. Combining Data]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Moving from Excel to SQL
+  - Setting up your environment for SQL
+- [**1. Comparing Excel and SQL**](#1-comparing-excel-and-sql) (2 videos)
+  - Spreadsheets vs. databases
+  - What is SQL?
+- [**2. SQL Basics**](#2-sql-basics) (7 videos)
+  - Viewing data in SQL
+  - Identifying columns in SQL
+  - Filtering rows in SQL
+  - Combining filters in SQL
+  - Limiting results in SQL
+  - Comparison operators in SQL
+  - The LIKE operator in SQL
+- [**3. Working with Functions**](#3-working-with-functions) (4 videos)
+  - Using SUM in SQL
+  - AVG, MIN, MAX, and COUNT in SQL
+  - Finding unique values in SQL
+  - UPPER, LOWER, and LENGTH in SQL
+- [**4. Organizing Data**](#4-organizing-data) (5 videos)
+  - Sorting data
+  - Grouping data
+  - Using a pivot table in SQL
+  - Subqueries in SQL
+  - Advanced subqueries in SQL
+- [**5. Combining Data**](#5-combining-data) (3 videos)
+  - Using joins
+  - The different types of joins
+  - Using VLOOKUP, HLOOKUP, and XLOOKUP in SQL
+- [**Conclusion**](#conclusion) (1 videos)
+  - Taking your SQL skills to the next level
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving from Excel to SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/moving-from-excel-to-sql?u=76281980)
@@ -183,7 +207,7 @@ created: 2026-04-29
 
 ### 1. Comparing Excel and SQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Spreadsheets vs. databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/spreadsheets-vs-databases?u=76281980)
@@ -353,7 +377,7 @@ created: 2026-04-29
 
 ### 2. SQL Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Viewing data in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/viewing-data-in-sql?u=76281980)
@@ -948,7 +972,7 @@ created: 2026-04-29
 
 ### 3. Working with Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using SUM in SQL
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-sum-in-sql?u=76281980)
@@ -1238,7 +1262,7 @@ created: 2026-04-29
 
 ### 4. Organizing Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sorting data
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/sorting-data?u=76281980)
@@ -1705,7 +1729,7 @@ created: 2026-04-29
 
 ### 5. Combining Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/using-joins?u=76281980)
@@ -1938,7 +1962,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Taking your SQL skills to the next level
 > [LinkedIn Learning](https://www.linkedin.com/learning/from-excel-to-sql-26502092/taking-your-sql-skills-to-the-next-level?u=76281980)

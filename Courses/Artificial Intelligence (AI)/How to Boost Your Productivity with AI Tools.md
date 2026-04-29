@@ -49,15 +49,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Your Approach to Using AI in Business]]** (8 videos)
-- **[[#2. AI Prompts to Make Your Job Easier]]** (8 videos)
-- **[[#3. AI Prompts to Help Make Your Work Better]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - AI is a dream for productivity
+- [**1. Your Approach to Using AI in Business**](#1-your-approach-to-using-ai-in-business) (8 videos)
+  - The two reasons to use AI in business
+  - Watch this before you start using AI for work
+  - Identifying opportunities to benefit from AI
+  - A different approach to AI prompt writing
+  - Taking responsibility for the output of AI
+  - Organizing your AI prompts
+  - Understanding AI agents and automation
+  - How to work with AI deep research
+- [**2. AI Prompts to Make Your Job Easier**](#2-ai-prompts-to-make-your-job-easier) (8 videos)
+  - Using GenAI to write better email replies
+  - Creating effective project plans with AI assistance
+  - Writing HTML code more effectively with GenAI
+  - How to create better presentations from a document with AI
+  - Developing better social media posts with AI
+  - Using AI to analyze and understand policy documents
+  - How to improve proposal writing with AI assistance
+  - Using AI for data analysis and spreadsheets
+- [**3. AI Prompts to Help Make Your Work Better**](#3-ai-prompts-to-help-make-your-work-better) (8 videos)
+  - Broadening your idea generation with GenAI
+  - Creating effective mind maps with GenAI
+  - Strengthening your debate skills with GenAI
+  - Using AI to challenge conventional thinking
+  - Presenting ideas to stakeholders with GenAI help
+  - Finding your thinking blind spots with AI prompts
+  - Adapting your message for various stakeholders with GenAI
+  - Creating visual aids and graphics with AI assistance
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### AI is a dream for productivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/ai-is-a-dream-for-productivity-29809099?u=76281980)
@@ -126,7 +152,7 @@ created: 2026-04-29
 
 ### 1. Your Approach to Using AI in Business
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The two reasons to use AI in business
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980)
@@ -704,7 +730,7 @@ created: 2026-04-29
 
 ### 2. AI Prompts to Make Your Job Easier
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using GenAI to write better email replies
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980)
@@ -2068,7 +2094,7 @@ created: 2026-04-29
 
 ### 3. AI Prompts to Help Make Your Work Better
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Broadening your idea generation with GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/broadening-your-idea-generation-with-gen-ai-29813073?u=76281980)
@@ -3233,7 +3259,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980)

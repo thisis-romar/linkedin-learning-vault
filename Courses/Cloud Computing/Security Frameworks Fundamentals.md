@@ -49,16 +49,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Frameworks, Regulation, and Risk]]** (6 videos)
-- **[[#2. Security Framework Deep Dive]]** (4 videos)
-- **[[#3. Framework Comparison]]** (4 videos)
-- **[[#4. The Core Security Set]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Security frameworks
+  - Who uses security frameworks?
+  - Why are security frameworks important?
+  - Definitions
+- [**1. Frameworks, Regulation, and Risk**](#1-frameworks-regulation-and-risk) (6 videos)
+  - Major security frameworks
+  - Domain-specific frameworks and guidance
+  - Maturity frameworks
+  - Privacy frameworks
+  - Regulatory frameworks
+  - Risk assessment
+- [**2. Security Framework Deep Dive**](#2-security-framework-deep-dive) (4 videos)
+  - PCI DSS and credit card payments
+  - CIS security controls
+  - NIST 800-53: Guidance for (US) companies
+  - ISO 27001/2: A global approach with certification
+- [**3. Framework Comparison**](#3-framework-comparison) (4 videos)
+  - How the frameworks compare
+  - Mapping the controls to one another
+  - Resources available for mapping controls
+  - Choosing a framework that is relevant to your business
+- [**4. The Core Security Set**](#4-the-core-security-set) (5 videos)
+  - Understanding control families and domains
+  - The measures
+  - The assurances
+  - Enabling technologies
+  - Security mindset
+- [**Conclusion**](#conclusion) (1 videos)
+  - How to get started
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-frameworks?u=76281980)
@@ -260,7 +284,7 @@ created: 2026-04-29
 
 ### 1. Frameworks, Regulation, and Risk
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Major security frameworks
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980)
@@ -696,7 +720,7 @@ created: 2026-04-29
 
 ### 2. Security Framework Deep Dive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### PCI DSS and credit card payments
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980)
@@ -1036,7 +1060,7 @@ created: 2026-04-29
 
 ### 3. Framework Comparison
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How the frameworks compare
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-the-frameworks-compare?u=76281980)
@@ -1279,7 +1303,7 @@ created: 2026-04-29
 
 ### 4. The Core Security Set
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding control families and domains
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/understanding-control-families-and-domains?u=76281980)
@@ -1531,7 +1555,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to get started
 > [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-to-get-started?u=76281980)

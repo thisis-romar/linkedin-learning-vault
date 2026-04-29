@@ -49,19 +49,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. On-Premise vs. Cloud Services]]** (3 videos)
-- **[[#2. Baseline Functionality Available in the Cloud]]** (4 videos)
-- **[[#3. Historical Strengths of Three Major Cloud Providers]]** (3 videos)
-- **[[#4. Compliance in the Cloud]]** (3 videos)
-- **[[#5. Human Resources for the Cloud]]** (3 videos)
-- **[[#6. Prototype for Your Needs]]** (3 videos)
-- **[[#7. Design for Adaptability]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Considering the cloud choices
+  - What you should know
+- [**1. On-Premise vs. Cloud Services**](#1-on-premise-vs-cloud-services) (3 videos)
+  - Solutions before cloud computing
+  - Evaluate urgency of cloud migration
+  - Establish goals for cloud migration
+- [**2. Baseline Functionality Available in the Cloud**](#2-baseline-functionality-available-in-the-cloud) (4 videos)
+  - Current major cloud providers
+  - Storing data and files
+  - Executing code
+  - Analytics and insights
+- [**3. Historical Strengths of Three Major Cloud Providers**](#3-historical-strengths-of-three-major-cloud-providers) (3 videos)
+  - Amazon Web Services
+  - Google Cloud Platform
+  - Microsoft Azure
+- [**4. Compliance in the Cloud**](#4-compliance-in-the-cloud) (3 videos)
+  - Business regulations overview
+  - GDPR (EU data regulations)
+  - HIPAA (US health care regulations)
+- [**5. Human Resources for the Cloud**](#5-human-resources-for-the-cloud) (3 videos)
+  - Assess current skills and needs
+  - Evolve roles and expertise
+  - Prioritize learning and testing
+- [**6. Prototype for Your Needs**](#6-prototype-for-your-needs) (3 videos)
+  - Evaluate specialized functionality
+  - Gather insights through implementation
+  - Image-to-text prototype example
+- [**7. Design for Adaptability**](#7-design-for-adaptability) (3 videos)
+  - Switch cloud providers as needed
+  - Containers for your code
+  - Streamline cloud processes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing the cloud platform journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Considering the cloud choices
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/considering-the-cloud-choices?u=76281980)
@@ -121,7 +146,7 @@ created: 2026-04-29
 
 ### 1. On-Premise vs. Cloud Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solutions before cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/solutions-before-cloud-computing-14491062?u=76281980)
@@ -308,7 +333,7 @@ created: 2026-04-29
 
 ### 2. Baseline Functionality Available in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Current major cloud providers
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/current-major-cloud-providers-14489110?u=76281980)
@@ -600,7 +625,7 @@ created: 2026-04-29
 
 ### 3. Historical Strengths of Three Major Cloud Providers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Amazon Web Services
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/amazon-web-services-14485189?u=76281980)
@@ -788,7 +813,7 @@ created: 2026-04-29
 
 ### 4. Compliance in the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business regulations overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/business-regulations-overview-14490100?u=76281980)
@@ -991,7 +1016,7 @@ created: 2026-04-29
 
 ### 5. Human Resources for the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess current skills and needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/assess-current-skills-and-needs-14485188?u=76281980)
@@ -1157,7 +1182,7 @@ created: 2026-04-29
 
 ### 6. Prototype for Your Needs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluate specialized functionality
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/evaluate-specialized-functionality-14486209?u=76281980)
@@ -1371,7 +1396,7 @@ created: 2026-04-29
 
 ### 7. Design for Adaptability
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Switch cloud providers as needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/switch-cloud-providers-as-needed-14484243?u=76281980)
@@ -1590,7 +1615,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing the cloud platform journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/choosing-a-cloud-platform-for-developers-aws-azure-and-gcp/continuing-the-cloud-platform-journey?u=76281980)

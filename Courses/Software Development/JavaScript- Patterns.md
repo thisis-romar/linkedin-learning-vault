@@ -48,16 +48,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction]]** (5 videos)
-- **[[#2. Creational Patterns]]** (6 videos)
-- **[[#3. Structural Patterns]]** (9 videos)
-- **[[#4. Behavioral Patterns]]** (9 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - JavaScript design patterns
+  - What you should know
+- [**1. Introduction**](#1-introduction) (5 videos)
+  - What is a pattern?
+  - Setting up your base project
+  - Functions as first-class citizens
+  - What is a callback and its role?
+  - CoderPad introduction
+- [**2. Creational Patterns**](#2-creational-patterns) (6 videos)
+  - What are creational patterns?
+  - Class design pattern
+  - Constructor pattern
+  - Singleton pattern
+  - Factory pattern
+  - Abstract factory pattern
+- [**3. Structural Patterns**](#3-structural-patterns) (9 videos)
+  - What are structural patterns?
+  - Module pattern
+  - Mixins pattern
+  - Facade pattern
+  - Flyweight pattern
+  - Decorator pattern
+  - Model-View-Controller (MVC) pattern
+  - Model-View-Presenter (MVP) pattern
+  - Model-View-ViewModel (MVVM) pattern
+- [**4. Behavioral Patterns**](#4-behavioral-patterns) (9 videos)
+  - What are behavioral patterns?
+  - Observer pattern
+  - State pattern
+  - Chain of responsibility
+  - Iterator pattern
+  - Strategy pattern
+  - Memento pattern
+  - Mediator pattern
+  - Command pattern
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JavaScript design patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/javascript-design-patterns?u=76281980)
@@ -111,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a pattern?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-is-a-pattern?u=76281980)
@@ -424,7 +456,7 @@ created: 2026-04-29
 
 ### 2. Creational Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are creational patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-creational-patterns?u=76281980)
@@ -981,7 +1013,7 @@ created: 2026-04-29
 
 ### 3. Structural Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are structural patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-structural-patterns?u=76281980)
@@ -1520,7 +1552,7 @@ created: 2026-04-29
 
 ### 4. Behavioral Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are behavioral patterns?
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/what-are-behavioral-patterns?u=76281980)
@@ -1965,7 +1997,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/javascript-patterns-2/next-steps?u=76281980)

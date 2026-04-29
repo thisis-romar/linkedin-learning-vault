@@ -49,18 +49,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Software Architecture Basics]]** (1 videos)
-- **[[#2. Server-Side Rendering (SSR)]]** (7 videos)
-- **[[#3. State Management Architecture]]** (10 videos)
-- **[[#4. Data Loading and WebSockets]]** (4 videos)
-- **[[#5. Code Splitting]]** (4 videos)
-- **[[#6. Folder Structure and Naming Conventions]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn software architecture with React
+  - What you should know
+- [**1. Software Architecture Basics**](#1-software-architecture-basics) (1 videos)
+  - What is software architecture?
+- [**2. Server-Side Rendering (SSR)**](#2-server-side-rendering-ssr) (7 videos)
+  - Server-side rendering basics
+  - Setting up a simple React app
+  - Basic React SSR
+  - Building and rendering an SSR React app
+  - Routing with server-side rendering
+  - Styling with server-side rendering
+  - Server-side rendering caveats
+- [**3. State Management Architecture**](#3-state-management-architecture) (10 videos)
+  - What is state management?
+  - Small state with the useState Hook
+  - Small state with context
+  - Accessing context inside components
+  - Medium state with Recoil
+  - Sharing Recoil state
+  - Using Recoil selectors
+  - Big state with Redux
+  - Using Redux with components
+  - Big state with MobX
+- [**4. Data Loading and WebSockets**](#4-data-loading-and-websockets) (4 videos)
+  - When should we load data?
+  - Data loading with SSR
+  - Rendering server-side API data
+  - Enhancing SSR with context
+- [**5. Code Splitting**](#5-code-splitting) (4 videos)
+  - Code splitting basics
+  - Route-based code splitting
+  - When to use code splitting
+  - Error boundaries
+- [**6. Folder Structure and Naming Conventions**](#6-folder-structure-and-naming-conventions) (2 videos)
+  - Function vs. feature-based organization
+  - Monoliths, multi-repos, and monorepos
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn software architecture with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/learn-software-architecture-with-react?u=76281980)
@@ -114,7 +145,7 @@ created: 2026-04-29
 
 ### 1. Software Architecture Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is software architecture?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-is-software-architecture?u=76281980)
@@ -214,7 +245,7 @@ created: 2026-04-29
 
 ### 2. Server-Side Rendering (SSR)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Server-side rendering basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/server-side-rendering-basics?u=76281980)
@@ -889,7 +920,7 @@ created: 2026-04-29
 
 ### 3. State Management Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is state management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/what-is-state-management?u=76281980)
@@ -2101,7 +2132,7 @@ created: 2026-04-29
 
 ### 4. Data Loading and WebSockets
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When should we load data?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/when-should-we-load-data?u=76281980)
@@ -2581,7 +2612,7 @@ created: 2026-04-29
 
 ### 5. Code Splitting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Code splitting basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/code-splitting-basics?u=76281980)
@@ -3061,7 +3092,7 @@ created: 2026-04-29
 
 ### 6. Folder Structure and Naming Conventions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Function vs. feature-based organization
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/function-vs-feature-based-organization?u=76281980)
@@ -3236,7 +3267,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-software-architecture/next-steps?u=76281980)

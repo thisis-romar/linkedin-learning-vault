@@ -52,19 +52,65 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (3 videos)
-- **[[#2. How Angular Reports Errors]]** (6 videos)
-- **[[#3. Common Syntax Errors]]** (10 videos)
-- **[[#4. Common Async Errors]]** (4 videos)
-- **[[#5. Unit Testing in Angular]]** (8 videos)
-- **[[#6. End-to-End Testing in Angular]]** (6 videos)
-- **[[#7. Static Code Linting in Angular]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Angular: Testing and debugging
+  - What you should know
+  - Exercise files
+- [**1. Getting Started**](#1-getting-started) (3 videos)
+  - Application overview
+  - Installing project dependencies
+  - Installing Angular CLI
+- [**2. How Angular Reports Errors**](#2-how-angular-reports-errors) (6 videos)
+  - Error handling in Angular
+  - Understanding zones in Angular apps
+  - Angular without ZoneJS (Zoneless)
+  - Add a new file using Angular CLI
+  - Writing a custom error handler class
+  - Changes for Angular v16
+- [**3. Common Syntax Errors**](#3-common-syntax-errors) (10 videos)
+  - Adding a local storage service
+  - Fixing dependency injection errors
+  - Getting and setting data in local storage
+  - Adding a custom Angular pipe
+  - Using regular expressions to find content
+  - Using a pipe to change HTML content
+  - Common pipe errors
+  - Understanding Angular decorators
+  - Challenge: Filter the array of users by locationId
+  - Solution: Filter the array of users by locationId
+- [**4. Common Async Errors**](#4-common-async-errors) (4 videos)
+  - Getting data using REST requests
+  - Updating data using REST requests
+  - Working with observables
+  - Catching errors from an observable
+- [**5. Unit Testing in Angular**](#5-unit-testing-in-angular) (8 videos)
+  - Testing overview
+  - Basic Karma configuration
+  - Testing services
+  - Fixing injection dependency errors
+  - Testing pipes
+  - Testing components
+  - Challenge: Custom test bed wrapper
+  - Solution: Custom test bed wrapper
+- [**6. End-to-End Testing in Angular**](#6-end-to-end-testing-in-angular) (6 videos)
+  - Basic Protractor configuration
+  - End-to-end testing without page objects
+  - End-to-end testing with page objects
+  - Changes for Angular v12
+  - Challenge: Testing filter input
+  - Solution: Testing filter input
+- [**7. Static Code Linting in Angular**](#7-static-code-linting-in-angular) (5 videos)
+  - Installing and running ESLint
+  - Basic ESLint configuration
+  - Fixing lint errors
+  - Installing EditorConfig
+  - Basic EditorConfig configuration
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Angular: Testing and debugging
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980)
@@ -194,7 +240,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Application overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980)
@@ -429,7 +475,7 @@ created: 2026-04-29
 
 ### 2. How Angular Reports Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Error handling in Angular
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/error-handling-in-angular?u=76281980)
@@ -786,7 +832,7 @@ created: 2026-04-29
 
 ### 3. Common Syntax Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding a local storage service
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980)
@@ -1654,7 +1700,7 @@ created: 2026-04-29
 
 ### 4. Common Async Errors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting data using REST requests
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980)
@@ -2101,7 +2147,7 @@ created: 2026-04-29
 
 ### 5. Unit Testing in Angular
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980)
@@ -2927,7 +2973,7 @@ created: 2026-04-29
 
 ### 6. End-to-End Testing in Angular
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic Protractor configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980)
@@ -3462,7 +3508,7 @@ created: 2026-04-29
 
 ### 7. Static Code Linting in Angular
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing and running ESLint
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980)
@@ -3959,7 +4005,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/next-steps?u=76281980)

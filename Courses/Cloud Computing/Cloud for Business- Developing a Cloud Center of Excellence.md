@@ -48,15 +48,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Organizational Structure of a Cloud Center of Excellence (CCoE)]]** (3 videos)
-- **[[#2. Components of a CCoE]]** (6 videos)
-- **[[#3. Analytics and Measuring Success]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Beginning your cloud center of excellence
+  - What is a cloud center of excellence (CCoE)
+  - Why do you need a CCoE?
+  - Creating a cloud center of excellence
+- [**1. Organizational Structure of a Cloud Center of Excellence (CCoE)**](#1-organizational-structure-of-a-cloud-center-of-excellence-ccoe) (3 videos)
+  - Structure and service of a CCoE
+  - Single team and central management
+  - Embedded CCoE ambassadors
+- [**2. Components of a CCoE**](#2-components-of-a-ccoe) (6 videos)
+  - Subject matter experts (SMEs)
+  - Management advocate
+  - Team education, training, and best practices
+  - Cloud partner management and advocacy
+  - Creating and managing tools and processes
+  - External advocacy
+- [**3. Analytics and Measuring Success**](#3-analytics-and-measuring-success) (2 videos)
+  - Power of analytics: Were you successful?
+  - What should you measure?
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go from here
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Beginning your cloud center of excellence
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/beginning-your-cloud-center-of-excellence?u=76281980)
@@ -289,7 +305,7 @@ created: 2026-04-29
 
 ### 1. Organizational Structure of a Cloud Center of Excellence (CCoE)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Structure and service of a CCoE
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/structure-and-service-of-a-ccoe?u=76281980)
@@ -552,7 +568,7 @@ created: 2026-04-29
 
 ### 2. Components of a CCoE
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Subject matter experts (SMEs)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/subject-matter-experts-smes?u=76281980)
@@ -853,7 +869,7 @@ created: 2026-04-29
 
 ### 3. Analytics and Measuring Success
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Power of analytics: Were you successful?
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/power-of-analytics-were-you-successful?u=76281980)
@@ -958,7 +974,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/cloud-for-business-developing-a-cloud-center-of-excellence/where-to-go-from-here?u=76281980)

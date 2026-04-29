@@ -48,16 +48,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Subqueries and Set Operators]]** (4 videos)
-- **[[#2. Advanced Joins]]** (4 videos)
-- **[[#3. More on Grouping]]** (4 videos)
-- **[[#4. Recursions and Cursors]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Course introduction
+  - Agenda
+  - Setting expectations
+- [**1. Subqueries and Set Operators**](#1-subqueries-and-set-operators) (4 videos)
+  - Subqueries
+  - Set operators
+  - Challenge
+  - Solution
+- [**2. Advanced Joins**](#2-advanced-joins) (4 videos)
+  - Self and inequality joins
+  - Lateral joins
+  - Challenge
+  - Solution
+- [**3. More on Grouping**](#3-more-on-grouping) (4 videos)
+  - Ordered set functions
+  - Grouping sets
+  - Challenge
+  - Solution
+- [**4. Recursions and Cursors**](#4-recursions-and-cursors) (2 videos)
+  - Recursions
+  - The cursors curse
+- [**Conclusion**](#conclusion) (1 videos)
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/course-introduction?u=76281980)
@@ -240,7 +258,7 @@ created: 2026-04-29
 
 ### 1. Subqueries and Set Operators
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Subqueries
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/subqueries?u=76281980)
@@ -910,7 +928,7 @@ created: 2026-04-29
 
 ### 2. Advanced Joins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Self and inequality joins
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/self-and-inequality-joins?u=76281980)
@@ -1349,7 +1367,7 @@ created: 2026-04-29
 
 ### 3. More on Grouping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ordered set functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/ordered-set-functions?u=76281980)
@@ -2100,7 +2118,7 @@ created: 2026-04-29
 
 ### 4. Recursions and Cursors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Recursions
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/recursions?u=76281980)
@@ -2492,7 +2510,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/conclusion?u=76281980)

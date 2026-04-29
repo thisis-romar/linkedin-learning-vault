@@ -49,15 +49,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Parsing and Exploring Data]]** (7 videos)
-- **[[#2. Working with Collections]]** (5 videos)
-- **[[#3. Math and Statistics]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Hands-on with advanced Python
+  - What you should know
+  - Getting set up: Codespaces
+  - CoderPad challenges
+  - The sample weather data set
+- [**1. Parsing and Exploring Data**](#1-parsing-and-exploring-data) (7 videos)
+  - Loading and parsing JSON data
+  - Basic data operations
+  - Filtering data
+  - Solution: Filtering
+  - Sorting data
+  - Transforming data
+  - Solution: Transforms
+- [**2. Working with Collections**](#2-working-with-collections) (5 videos)
+  - Count values with defaultdict
+  - Using the reduce function
+  - Grouping data
+  - Working with dates
+  - Solution: Collections
+- [**3. Math and Statistics**](#3-math-and-statistics) (5 videos)
+  - Random values
+  - Random operations on sequences
+  - Solution: Random days
+  - Statistical functions
+  - Solution: Detect outliers
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hands-on with advanced Python
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/hands-on-with-advanced-python?u=76281980)
@@ -317,7 +340,7 @@ created: 2026-04-29
 
 ### 1. Parsing and Exploring Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading and parsing JSON data
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/loading-and-parsing-json-data?u=76281980)
@@ -1123,7 +1146,7 @@ created: 2026-04-29
 
 ### 2. Working with Collections
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Count values with defaultdict
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/count-values-with-defaultdict?u=76281980)
@@ -1912,7 +1935,7 @@ created: 2026-04-29
 
 ### 3. Math and Statistics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Random values
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/random-values?u=76281980)
@@ -2396,7 +2419,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-advanced-python-data-engineering-basics/next-steps?u=76281980)

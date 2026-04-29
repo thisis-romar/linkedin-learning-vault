@@ -49,16 +49,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Object Storage on GCP]]** (5 videos)
-- **[[#2. Relational Databases]]** (5 videos)
-- **[[#3. Non-Relational Databases]]** (3 videos)
-- **[[#4. Data Warehouse and Analytics]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Google Cloud storage and databases
+- [**1. Object Storage on GCP**](#1-object-storage-on-gcp) (5 videos)
+  - Understanding your storage and database options
+  - What does object storage look like?
+  - Popular Google Cloud storage features
+  - Optimizing Cloud Storage Costs with Autoclass
+  - Demo: Migrating data in Cloud Storage
+- [**2. Relational Databases**](#2-relational-databases) (5 videos)
+  - Understanding relational database options on GCP
+  - Enterprise PostgreSQL with AlloyDB
+  - Relational databases: When to use Cloud SQL or Cloud Spanner
+  - The benefits of using Cloud SQL and Cloud Spanner
+  - Demo: Connecting to GCP from a WordPress app
+- [**3. Non-Relational Databases**](#3-non-relational-databases) (3 videos)
+  - Understanding non-relational database options on GCP
+  - Non-relational databases: When to use Cloud Firestore or Cloud Bigtable
+  - Demo: Setting up a Firestore and Bigtable database
+- [**4. Data Warehouse and Analytics**](#4-data-warehouse-and-analytics) (3 videos)
+  - Using BigQuery as a data warehouse
+  - Why use BigQuery instead of Cloud SQL or Cloud Spanner
+  - Demo: Creating an interactive report in Data Studio
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Google Cloud storage and databases
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/google-cloud-storage-and-databases?u=76281980)
@@ -83,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Object Storage on GCP
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding your storage and database options
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-your-storage-and-database-options?u=76281980)
@@ -673,7 +691,7 @@ created: 2026-04-29
 
 ### 2. Relational Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding relational database options on GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-relational-database-options-on-gcp?u=76281980)
@@ -1433,7 +1451,7 @@ created: 2026-04-29
 
 ### 3. Non-Relational Databases
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding non-relational database options on GCP
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/understanding-non-relational-database-options-on-gcp?u=76281980)
@@ -1720,7 +1738,7 @@ created: 2026-04-29
 
 ### 4. Data Warehouse and Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using BigQuery as a data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/using-bigquery-as-a-data-warehouse?u=76281980)
@@ -2020,7 +2038,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-data-and-storage-foundations-24099781/next-steps?u=76281980)

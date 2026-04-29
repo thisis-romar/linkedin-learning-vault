@@ -46,14 +46,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Security Monitoring and Logging Failures]]** (6 videos)
-- **[[#2. Server-Side Request Forgery]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - 2021 OWASP Top 10
+  - OWASP Top 10 series
+- [**1. Security Monitoring and Logging Failures**](#1-security-monitoring-and-logging-failures) (6 videos)
+  - What are security monitoring and logging failures?
+  - Example 1: 2018 Starwood data breach
+  - Example 2: 2021 South Georgia Medical Center insider threat
+  - Prevention technique: Ensure logging includes sufficient user context
+  - Prevention technique: Ensure monitoring and alerting are active and consistent
+  - Prevention technique: Establish an incident response and recovery plan
+- [**2. Server-Side Request Forgery**](#2-server-side-request-forgery) (6 videos)
+  - What is Server-Side Request Forgery (SSRF)?
+  - Example 1: 2019 Capital One breach
+  - Example 2: 2017 GitHub Enterprise chained exploits
+  - Prevention technique: Network layer prevention techniques
+  - Prevention technique: Application layer
+  - Prevention technique: Require authentication for internal services
+- [**Conclusion**](#conclusion) (1 videos)
+  - Explore more of the OWASP Top 10
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### 2021 OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/2021-owasp-top-10?u=76281980)
@@ -117,7 +132,7 @@ created: 2026-04-29
 
 ### 1. Security Monitoring and Logging Failures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are security monitoring and logging failures?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-are-security-monitoring-and-logging-failures?u=76281980)
@@ -432,7 +447,7 @@ created: 2026-04-29
 
 ### 2. Server-Side Request Forgery
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Server-Side Request Forgery (SSRF)?
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/what-is-server-side-request-forgery-ssrf?u=76281980)
@@ -735,7 +750,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore more of the OWASP Top 10
 > [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-9-security-logging-and-monitoring-failures-and-10-server-side-request-forgery/explore-more-of-the-owasp-top-10?u=76281980)

@@ -52,17 +52,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Privacy Landscape]]** (6 videos)
-- **[[#2. Data Classification]]** (7 videos)
-- **[[#3. An Inventory of Your Data and Risk]]** (3 videos)
-- **[[#4. A Deep Dive into Data Inventory]]** (6 videos)
-- **[[#5. Lessons from the Road: How to Do Data Inventory Right]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - Who this course is for
+  - Data classification as part of data governance
+- [**1. The Privacy Landscape**](#1-the-privacy-landscape) (6 videos)
+  - The legal and regulatory landscape
+  - Privacy regulations and ambiguity
+  - Privacy laws and security
+  - Privacy and the user
+  - Challenge: Data classification scenario
+  - Solution: Data classification scenario
+- [**2. Data Classification**](#2-data-classification) (7 videos)
+  - How classification reduces risk around unstructured data
+  - How can data classification help you?
+  - Data classification as part of data governance
+  - How to shape the data classification process
+  - Challenges of data classification
+  - Solutions for data classification
+  - Thought experiment: A sequential data classification
+- [**3. An Inventory of Your Data and Risk**](#3-an-inventory-of-your-data-and-risk) (3 videos)
+  - What is data inventory?
+  - Data inventory and data governance
+  - How can you prep for data inventory?
+- [**4. A Deep Dive into Data Inventory**](#4-a-deep-dive-into-data-inventory) (6 videos)
+  - Data inventory using manual resources and automation
+  - The technical implementation of data inventory
+  - Data inventory architecture
+  - Data inventory metadata
+  - Data inventory and use cases
+  - Evaluating data inventory outcomes
+- [**5. Lessons from the Road: How to Do Data Inventory Right**](#5-lessons-from-the-road-how-to-do-data-inventory-right) (4 videos)
+  - Centralized vs. decentralized
+  - Data inventory successes
+  - Data inventory challenges
+  - Getting executive buy-in for data inventory
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980)
@@ -207,7 +237,7 @@ created: 2026-04-29
 
 ### 1. The Privacy Landscape
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The legal and regulatory landscape
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-legal-and-regulatory-landscape?u=76281980)
@@ -598,7 +628,7 @@ created: 2026-04-29
 
 ### 2. Data Classification
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How classification reduces risk around unstructured data
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980)
@@ -1042,7 +1072,7 @@ created: 2026-04-29
 
 ### 3. An Inventory of Your Data and Risk
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is data inventory?
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980)
@@ -1270,7 +1300,7 @@ created: 2026-04-29
 
 ### 4. A Deep Dive into Data Inventory
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data inventory using manual resources and automation
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980)
@@ -1730,7 +1760,7 @@ created: 2026-04-29
 
 ### 5. Lessons from the Road: How to Do Data Inventory Right
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Centralized vs. decentralized
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980)
@@ -2045,7 +2075,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980)

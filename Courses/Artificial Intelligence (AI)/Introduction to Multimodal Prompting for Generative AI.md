@@ -59,16 +59,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Multimodality]]** (3 videos)
-- **[[#2. GPT-4]]** (5 videos)
-- **[[#3. Gemini]]** (5 videos)
-- **[[#4. Auditory Modalities]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - GenAI with multimodal prompts
+- [**1. Multimodality**](#1-multimodality) (3 videos)
+  - What is multimodality?
+  - Visual modality
+  - Textual and auditory modality
+- [**2. GPT-4**](#2-gpt-4) (5 videos)
+  - GPT-4 and 4o
+  - Text to image in GPT-4
+  - GPT-4 API with various input types
+  - Challenge: Drawing to code
+  - Solution: Drawing to code
+- [**3. Gemini**](#3-gemini) (5 videos)
+  - What is Gemini?
+  - Images in Gemini
+  - Gemini video inputs
+  - Challenge: Video narration
+  - Solution: Video narration
+- [**4. Auditory Modalities**](#4-auditory-modalities) (5 videos)
+  - Audio in generative AI
+  - Prompt and audio
+  - Generating music
+  - Challenge: Soundtrack creation
+  - Solution: Soundtrack creation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GenAI with multimodal prompts
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980)
@@ -101,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Multimodality
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is multimodality?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-multimodality?u=76281980)
@@ -212,7 +232,7 @@ created: 2026-04-29
 
 ### 2. GPT-4
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### GPT-4 and 4o
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-and-4o?u=76281980)
@@ -431,7 +451,7 @@ created: 2026-04-29
 
 ### 3. Gemini
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Gemini?
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980)
@@ -656,7 +676,7 @@ created: 2026-04-29
 
 ### 4. Auditory Modalities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Audio in generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/audio-in-generative-ai?u=76281980)
@@ -809,7 +829,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980)

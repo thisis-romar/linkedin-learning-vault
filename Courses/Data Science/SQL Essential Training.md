@@ -61,24 +61,101 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. The Basics of Database Structures]]** (2 videos)
-- **[[#2. The SQL Stack]]** (2 videos)
-- **[[#3. The SQLite Database Environment]]** (5 videos)
-- **[[#4. Composing Queries]]** (8 videos)
-- **[[#5. Discovering Insights in Data]]** (11 videos)
-- **[[#6. Accessing Data from Multiple Tables]]** (11 videos)
-- **[[#7. SQL Functions]]** (9 videos)
-- **[[#8. Grouping]]** (7 videos)
-- **[[#9. Nesting Queries]]** (7 videos)
-- **[[#10. Stored Queries]]** (5 videos)
-- **[[#11. Adding, Modifying, and Deleting Data]]** (4 videos)
-- **[[#12. Scenario: Mock SQL Interview]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - The data-driven world
+  - What you should know
+  - CoderPad tour
+- [**1. The Basics of Database Structures**](#1-the-basics-of-database-structures) (2 videos)
+  - Relational database theory
+  - The SQLite database engine
+- [**2. The SQL Stack**](#2-the-sql-stack) (2 videos)
+  - WSDA Music (sample database)
+  - Learning tips
+- [**3. The SQLite Database Environment**](#3-the-sqlite-database-environment) (5 videos)
+  - How to access the DB Browser for SQLite software
+  - Load the sample database file
+  - Getting familiar with a database
+  - The browse data area
+  - The query writing area
+- [**4. Composing Queries**](#4-composing-queries) (8 videos)
+  - Queries
+  - Query commenting
+  - Query composition
+  - Query composition best practices
+  - Column custom names
+  - Sorting query results
+  - Limiting query results
+  - Solution: Concise track pricing report
+- [**5. Discovering Insights in Data**](#5-discovering-insights-in-data) (11 videos)
+  - Types of SQL operators
+  - Filter and analyze numeric data
+  - BETWEEN and IN operators
+  - Filter and analyze text data
+  - Search records without an exact match
+  - Filter and analyze using dates
+  - Filter records based on more than one condition
+  - Logical operator OR
+  - Brackets and order
+  - IF THEN logic with CASE
+  - Solution: Categorize tracks by price
+- [**6. Accessing Data from Multiple Tables**](#6-accessing-data-from-multiple-tables) (11 videos)
+  - Joins explained
+  - How tables share a relationship, part 1
+  - How tables share a relationship, part 2
+  - Simplifying JOINs
+  - Types of JOINs
+  - The INNER JOIN
+  - The LEFT JOIN
+  - The RIGHT JOIN
+  - Tables and Entity Relationship diagrams
+  - Joining many tables
+  - Solution:  Analyzing customer support interactions
+- [**7. SQL Functions**](#7-sql-functions) (9 videos)
+  - Calculating with functions
+  - String, date, and aggregate function types
+  - Connecting strings
+  - Separating text
+  - UPPER and LOWER string functions
+  - Date functions
+  - Aggregate functions
+  - Nesting functions
+  - Solution: Customer postal code transformation
+- [**8. Grouping**](#8-grouping) (7 videos)
+  - Grouping your query results
+  - Filtering with a grouped condition
+  - Grouping with the WHERE clause
+  - Grouping with the HAVING clause
+  - Grouping with the WHERE and HAVING clause
+  - Grouping by many fields
+  - Solution: Calculate Average spend per city
+- [**9. Nesting Queries**](#9-nesting-queries) (7 videos)
+  - Subqueries and aggregate functions
+  - SELECT clause subquery
+  - Aggregated subqueries
+  - Non-aggregate subqueries
+  - IN clause subquery
+  - DISTINCT clause subquery
+  - Solution: Uncovering unpopular tracks
+- [**10. Stored Queries**](#10-stored-queries) (5 videos)
+  - View introduction
+  - Creating a view
+  - Editing a view
+  - Joining views
+  - Deleting views
+- [**11. Adding, Modifying, and Deleting Data**](#11-adding-modifying-and-deleting-data) (4 videos)
+  - Analysis and administration
+  - Inserting data
+  - Updating data
+  - Deleting data
+- [**12. Scenario: Mock SQL Interview**](#12-scenario-mock-sql-interview) (2 videos)
+  - Preparing for a Non-Technical Interview
+  - Non-Technical Interview Practice
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and tips
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The data-driven world
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=76281980)
@@ -200,7 +277,7 @@ created: 2026-04-29
 
 ### 1. The Basics of Database Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Relational database theory
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/relational-database-theory-19070437?u=76281980)
@@ -333,7 +410,7 @@ created: 2026-04-29
 
 ### 2. The SQL Stack
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### WSDA Music (sample database)
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/wsda-music-sample-database-19065718?u=76281980)
@@ -409,7 +486,7 @@ created: 2026-04-29
 
 ### 3. The SQLite Database Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to access the DB Browser for SQLite software
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/how-to-access-the-db-browser-for-sqlite-software-19070432?u=76281980)
@@ -630,7 +707,7 @@ created: 2026-04-29
 
 ### 4. Composing Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Queries
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/queries?u=76281980)
@@ -1191,7 +1268,7 @@ created: 2026-04-29
 
 ### 5. Discovering Insights in Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of SQL operators
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/types-of-sql-operators-19068572?u=76281980)
@@ -2070,7 +2147,7 @@ created: 2026-04-29
 
 ### 6. Accessing Data from Multiple Tables
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Joins explained
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/joins-explained-19068584?u=76281980)
@@ -2779,7 +2856,7 @@ created: 2026-04-29
 
 ### 7. SQL Functions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculating with functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/calculating-with-functions-19066645?u=76281980)
@@ -3315,7 +3392,7 @@ created: 2026-04-29
 
 ### 8. Grouping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Grouping your query results
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/grouping-your-query-results-19069541?u=76281980)
@@ -3766,7 +3843,7 @@ created: 2026-04-29
 
 ### 9. Nesting Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Subqueries and aggregate functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/subqueries-and-aggregate-functions-19069540?u=76281980)
@@ -4286,7 +4363,7 @@ created: 2026-04-29
 
 ### 10. Stored Queries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### View introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/view-introduction-19065702?u=76281980)
@@ -4594,7 +4671,7 @@ created: 2026-04-29
 
 ### 11. Adding, Modifying, and Deleting Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analysis and administration
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/analysis-and-administration-19070446?u=76281980)
@@ -4873,7 +4950,7 @@ created: 2026-04-29
 
 ### 12. Scenario: Mock SQL Interview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Preparing for a Non-Technical Interview
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/preparing-for-a-non-technical-interview?u=76281980)
@@ -5018,7 +5095,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-essential-training-20685933/next-steps-and-tips-22822908?u=76281980)

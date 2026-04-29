@@ -55,17 +55,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Installation and First Steps: Node.js and Express]]** (3 videos)
-- **[[#2. Express Basics]]** (6 videos)
-- **[[#3. Express Routing Fundamentals]]** (4 videos)
-- **[[#4. Express Essentials: Middleware]]** (4 videos)
-- **[[#5. Taking Express One Step Further]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Generate server-side code with Express
+  - What you should know
+- [**1. Installation and First Steps: Node.js and Express**](#1-installation-and-first-steps-nodejs-and-express) (3 videos)
+  - What are Node.js and npm?
+  - What is Express?
+  - What is Express Application Generator?
+- [**2. Express Basics**](#2-express-basics) (6 videos)
+  - Getting started: Server and project setup
+  - Mock data is served: Adding data to your server
+  - What are HTTP methods and routes?
+  - Postman: A free tool for testing
+  - Let's GET some data: Creating a basic data endpoint
+  - Serving static files with Express
+- [**3. Express Routing Fundamentals**](#3-express-routing-fundamentals) (4 videos)
+  - What are routing parameters?
+  - What are route handlers?
+  - What are common methods for Express routing?
+  - What is route chaining in Express?
+- [**4. Express Essentials: Middleware**](#4-express-essentials-middleware) (4 videos)
+  - What is middleware?
+  - Out of the box: Built-in middleware with Express
+  - Handling errors: Utilizing middleware for errors
+  - Third-party middleware: Suggestions and how to add it
+- [**5. Taking Express One Step Further**](#5-taking-express-one-step-further) (3 videos)
+  - How to debug your express application
+  - Using express with a database
+  - Security concerns and best practices
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Generate server-side code with Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980)
@@ -133,7 +156,7 @@ created: 2026-04-29
 
 ### 1. Installation and First Steps: Node.js and Express
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are Node.js and npm?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980)
@@ -440,7 +463,7 @@ created: 2026-04-29
 
 ### 2. Express Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started: Server and project setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980)
@@ -1309,7 +1332,7 @@ created: 2026-04-29
 
 ### 3. Express Routing Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are routing parameters?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980)
@@ -1833,7 +1856,7 @@ created: 2026-04-29
 
 ### 4. Express Essentials: Middleware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is middleware?
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980)
@@ -2241,7 +2264,7 @@ created: 2026-04-29
 
 ### 5. Taking Express One Step Further
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to debug your express application
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980)
@@ -2481,7 +2504,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980)

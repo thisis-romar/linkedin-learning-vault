@@ -53,15 +53,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Elicitation and Analysis Overview]]** (6 videos)
-- **[[#2. Elicitation Techniques]]** (6 videos)
-- **[[#3. Analysis Techniques]]** (7 videos)
-- **[[#4. Tailoring to the Project or Product Type]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Start defining and discovering
+- [**1. Elicitation and Analysis Overview**](#1-elicitation-and-analysis-overview) (6 videos)
+  - What are elicitation and analysis?
+  - Role of elicitation and analysis in requirements
+  - Why is it important?
+  - The relationship of elicitation to analysis
+  - Levels of detail in elicitation and analysis
+  - Key mindsets to be successful
+- [**2. Elicitation Techniques**](#2-elicitation-techniques) (6 videos)
+  - Elicitation overview
+  - Interviews
+  - Brainstorming
+  - Observation
+  - Experiments
+  - Workshops
+- [**3. Analysis Techniques**](#3-analysis-techniques) (7 videos)
+  - Analysis overview
+  - Process models
+  - Context diagrams
+  - User stories and story mapping
+  - Decision tables
+  - Data flow diagrams
+  - State and sequence diagrams
+- [**4. Tailoring to the Project or Product Type**](#4-tailoring-to-the-project-or-product-type) (4 videos)
+  - Blending your elicitation and analysis together
+  - New processes, products, and systems
+  - Adding to a process, product, or system
+  - Buying and implementing software
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start defining and discovering
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/start-defining-and-discovering?u=76281980)
@@ -98,7 +122,7 @@ created: 2026-04-29
 
 ### 1. Elicitation and Analysis Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are elicitation and analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/what-are-elicitation-and-analysis?u=76281980)
@@ -482,7 +506,7 @@ created: 2026-04-29
 
 ### 2. Elicitation Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Elicitation overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/elicitation-overview-8360495?u=76281980)
@@ -916,7 +940,7 @@ created: 2026-04-29
 
 ### 3. Analysis Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analysis overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/analysis-overview-8357555?u=76281980)
@@ -1519,7 +1543,7 @@ created: 2026-04-29
 
 ### 4. Tailoring to the Project or Product Type
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Blending your elicitation and analysis together
 > [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-and-analysis/blending-your-elicitation-and-analysis-together-8359573?u=76281980)

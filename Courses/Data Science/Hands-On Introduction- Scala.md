@@ -48,15 +48,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Our First Methods and Testing]]** (6 videos)
-- **[[#2. Implementing Our ETL]]** (4 videos)
-- **[[#3. Refactoring with Config and JSON]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - Build your first Scala app
+  - What you should know
+  - Using GitHub Codespaces
+  - Scala introduction
+  - What we are going to build
+- [**1. Our First Methods and Testing**](#1-our-first-methods-and-testing) (6 videos)
+  - Scala project structure
+  - Our first method
+  - Our first test
+  - Implement our test
+  - Challenge: Testing and higher order functions
+  - Solution: Testing and higher order functions
+- [**2. Implementing Our ETL**](#2-implementing-our-etl) (4 videos)
+  - Traits, generics, givens, and using
+  - Eithers, enums, for comps, and pattern matching
+  - Challenge: Traits, generics, eithers, enums, and pattern matching
+  - Solution: Traits, generics, eithers, enums, and pattern matching
+- [**3. Refactoring with Config and JSON**](#3-refactoring-with-config-and-json) (3 videos)
+  - Adding configuration
+  - Refactoring the tests
+  - JSON implementation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build your first Scala app
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/build-your-first-scala-app?u=76281980)
@@ -305,7 +324,7 @@ created: 2026-04-29
 
 ### 1. Our First Methods and Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scala project structure
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/scala-project-structure?u=76281980)
@@ -974,7 +993,7 @@ created: 2026-04-29
 
 ### 2. Implementing Our ETL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Traits, generics, givens, and using
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/traits-generics-givens-and-using?u=76281980)
@@ -1744,7 +1763,7 @@ created: 2026-04-29
 
 ### 3. Refactoring with Config and JSON
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding configuration
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/adding-configuration?u=76281980)
@@ -2607,7 +2626,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-scala/next-steps?u=76281980)

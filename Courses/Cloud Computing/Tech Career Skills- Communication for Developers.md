@@ -52,18 +52,43 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. You're More Different than You Think]]** (3 videos)
-- **[[#2. Overcoming Barriers of Experience]]** (3 videos)
-- **[[#3. Overcoming Barriers of Motivation]]** (3 videos)
-- **[[#4. Overcoming Barriers of Perspective]]** (4 videos)
-- **[[#5. Overcoming Barriers of Style]]** (3 videos)
-- **[[#6. Using Your New Communication Skills]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Strategies to communicate to wider audience
+  - Why don't people understand?
+- [**1. You're More Different than You Think**](#1-youre-more-different-than-you-think) (3 videos)
+  - Three types of intelligence
+  - The joys and sorrows of groupthink
+  - A note about money and time
+- [**2. Overcoming Barriers of Experience**](#2-overcoming-barriers-of-experience) (3 videos)
+  - Using words that people know
+  - Don't dumb down, smarten up
+  - The magic of stories
+- [**3. Overcoming Barriers of Motivation**](#3-overcoming-barriers-of-motivation) (3 videos)
+  - Why don't they care?
+  - Reigniting hope in technology
+  - Leading through enthusiasm
+- [**4. Overcoming Barriers of Perspective**](#4-overcoming-barriers-of-perspective) (4 videos)
+  - Your success isn't their success
+  - Engineers vs. managers
+  - Finding shared goals
+  - You are both buyer and seller
+- [**5. Overcoming Barriers of Style**](#5-overcoming-barriers-of-style) (3 videos)
+  - Learning about your audience
+  - Format is as important as content
+  - Responding to cultural cues
+- [**6. Using Your New Communication Skills**](#6-using-your-new-communication-skills) (6 videos)
+  - Communicating with clients
+  - Communicating with vendors
+  - Communicating with teammates
+  - Communicating with partners
+  - Communicating with conference audiences
+  - Communicating with the public
+- [**Conclusion**](#conclusion) (1 videos)
+  - Further strengthen communication
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Strategies to communicate to wider audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/strategies-to-communicate-to-wider-audience?u=76281980)
@@ -176,7 +201,7 @@ created: 2026-04-29
 
 ### 1. You're More Different than You Think
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Three types of intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/three-types-of-intelligence?u=76281980)
@@ -388,7 +413,7 @@ created: 2026-04-29
 
 ### 2. Overcoming Barriers of Experience
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using words that people know
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/using-words-that-people-know?u=76281980)
@@ -593,7 +618,7 @@ created: 2026-04-29
 
 ### 3. Overcoming Barriers of Motivation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why don't they care?
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/why-don-t-they-care?u=76281980)
@@ -792,7 +817,7 @@ created: 2026-04-29
 
 ### 4. Overcoming Barriers of Perspective
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your success isn't their success
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/your-success-isn-t-their-success?u=76281980)
@@ -1074,7 +1099,7 @@ created: 2026-04-29
 
 ### 5. Overcoming Barriers of Style
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning about your audience
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/learning-about-your-audience?u=76281980)
@@ -1277,7 +1302,7 @@ created: 2026-04-29
 
 ### 6. Using Your New Communication Skills
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicating with clients
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/communicating-with-clients?u=76281980)
@@ -1681,7 +1706,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further strengthen communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-communication-for-developers/further-strengthen-communication?u=76281980)

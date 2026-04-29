@@ -51,19 +51,56 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Building a Basic Express Application]]** (5 videos)
-- **[[#2. Template Engines]]** (3 videos)
-- **[[#3. Express Routes and Middleware]]** (5 videos)
-- **[[#4. Professional Templating with Express]]** (8 videos)
-- **[[#5. Handling Errors Gracefully]]** (3 videos)
-- **[[#6. Handling Form Data]]** (4 videos)
-- **[[#7. Creating APIs with Express]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Dynamic websites with Node and Express
+  - What you should know
+  - Using the exercise files and GitHub
+  - Setting up your development environment
+- [**1. Building a Basic Express Application**](#1-building-a-basic-express-application) (5 videos)
+  - Create an Express server in three minutes
+  - Building from a HTML page or template
+  - Serving HTML pages and static content
+  - Setting up ESLint and Prettier
+  - Setting up nodemon
+- [**2. Template Engines**](#2-template-engines) (3 videos)
+  - Template engines and Express
+  - Getting to know the EJS template engine
+  - Rendering the index page with EJS
+- [**3. Express Routes and Middleware**](#3-express-routes-and-middleware) (5 videos)
+  - Express middleware and routes
+  - Modular routes with express.Router
+  - Creating routes for all subpages
+  - Add business logic
+  - Add a session management middleware
+- [**4. Professional Templating with Express**](#4-professional-templating-with-express) (8 videos)
+  - Create a site-wide layout
+  - Using partials with EJS
+  - Template variables in more detail
+  - Looping through lists in templates
+  - Creating a list page
+  - Using parameter routes
+  - Challenge: Partials and lists
+  - Solution: Partials and lists
+- [**5. Handling Errors Gracefully**](#5-handling-errors-gracefully) (3 videos)
+  - How to handle errors in express
+  - Creating an error page
+  - Populating the error page
+- [**6. Handling Form Data**](#6-handling-form-data) (4 videos)
+  - Creating a form template
+  - Handling POST requests
+  - Validating and sanitizing user input
+  - Storing data
+- [**7. Creating APIs with Express**](#7-creating-apis-with-express) (4 videos)
+  - A little intro to REST APIs
+  - Creating and testing an API endpoint
+  - Add client side JavaScript
+  - Updating the page from REST
+- [**Conclusion**](#conclusion) (1 videos)
+  - Build on what you've learned
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Dynamic websites with Node and Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/dynamic-websites-with-node-and-express?u=76281980)
@@ -263,7 +300,7 @@ created: 2026-04-29
 
 ### 1. Building a Basic Express Application
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an Express server in three minutes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-an-express-server-in-three-minutes?u=76281980)
@@ -735,7 +772,7 @@ created: 2026-04-29
 
 ### 2. Template Engines
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Template engines and Express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/template-engines-and-express?u=76281980)
@@ -936,7 +973,7 @@ created: 2026-04-29
 
 ### 3. Express Routes and Middleware
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Express middleware and routes
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/express-middleware-and-routes?u=76281980)
@@ -1514,7 +1551,7 @@ created: 2026-04-29
 
 ### 4. Professional Templating with Express
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a site-wide layout
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/create-a-site-wide-layout?u=76281980)
@@ -2457,7 +2494,7 @@ created: 2026-04-29
 
 ### 5. Handling Errors Gracefully
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to handle errors in express
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/how-to-handle-errors-in-express?u=76281980)
@@ -2789,7 +2826,7 @@ created: 2026-04-29
 
 ### 6. Handling Form Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a form template
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/creating-a-form-template?u=76281980)
@@ -3209,7 +3246,7 @@ created: 2026-04-29
 
 ### 7. Creating APIs with Express
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A little intro to REST APIs
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/a-little-intro-to-rest-apis?u=76281980)
@@ -3676,7 +3713,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build on what you've learned
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3/build-on-what-you-ve-learned?u=76281980)

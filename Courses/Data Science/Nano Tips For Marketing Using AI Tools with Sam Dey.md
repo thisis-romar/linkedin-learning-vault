@@ -48,11 +48,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Use AI for Better Marketing]]** (10 videos)
+- [**Use AI for Better Marketing**](#use-ai-for-better-marketing) (10 videos)
+  - Introduction to AI in marketing
+  - AI-powered customer segmentation
+  - Predictive analytics with AI
+  - Chatbots and AI-powered customer support
+  - Personalization through AI
+  - AI-enhanced content recommendations
+  - AI-driven social media marketing
+  - AI and data privacy
+  - AI tools evaluation and selection
+  - Future trends in AI marketing
 
 ### Use AI for Better Marketing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI in marketing
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-marketing-using-ai-tools-with-sam-dey/introduction-to-ai-in-marketing?u=76281980)

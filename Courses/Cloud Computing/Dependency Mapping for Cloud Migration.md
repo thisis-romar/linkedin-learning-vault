@@ -41,16 +41,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Application Dependency and Cloud Services]]** (5 videos)
-- **[[#2. Application Dependency Mapping Techniques]]** (4 videos)
-- **[[#3. Planning for the Migration of Applications Dependencies to the Cloud]]** (4 videos)
-- **[[#4. Using Cloud Service Provider Migration Tools]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The role of application dependency
+- [**1. Application Dependency and Cloud Services**](#1-application-dependency-and-cloud-services) (5 videos)
+  - Application migration overview
+  - Migrating applications to the cloud
+  - Application dependency mapping
+  - Considerations for cloud migration
+  - Detailing app dependencies for cloud migration
+- [**2. Application Dependency Mapping Techniques**](#2-application-dependency-mapping-techniques) (4 videos)
+  - Using installed agents
+  - Using the sweep and pull method
+  - Using network monitoring
+  - Using intelligent traffic-based mapping
+- [**3. Planning for the Migration of Applications Dependencies to the Cloud**](#3-planning-for-the-migration-of-applications-dependencies-to-the-cloud) (4 videos)
+  - Application options for cloud migrations
+  - Establishing a versioning scheme
+  - Documenting middleware configurations
+  - Documenting operating system dependencies
+- [**4. Using Cloud Service Provider Migration Tools**](#4-using-cloud-service-provider-migration-tools) (6 videos)
+  - Using the migration process in Google Cloud
+  - Using the Google Cloud Migrate tool
+  - Working in Microsoft Azure
+  - Using the Azure Migrate tool
+  - Working in Amazon Web Services (AWS)
+  - Using the AWS Server Migration tool
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in cloud migration
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The role of application dependency
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/the-role-of-application-dependency?u=76281980)
@@ -81,7 +102,7 @@ created: 2026-04-29
 
 ### 1. Application Dependency and Cloud Services
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Application migration overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980)
@@ -741,7 +762,7 @@ created: 2026-04-29
 
 ### 2. Application Dependency Mapping Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using installed agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-installed-agents?u=76281980)
@@ -1052,7 +1073,7 @@ created: 2026-04-29
 
 ### 3. Planning for the Migration of Applications Dependencies to the Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Application options for cloud migrations
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980)
@@ -1423,7 +1444,7 @@ created: 2026-04-29
 
 ### 4. Using Cloud Service Provider Migration Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the migration process in Google Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980)
@@ -1989,7 +2010,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in cloud migration
 > [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/next-steps-in-cloud-migration?u=76281980)

@@ -70,16 +70,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is AI and How Is It Used?]]** (2 videos)
-- **[[#2. AI Benefits and Risks]]** (2 videos)
-- **[[#3. AI Application Domains]]** (5 videos)
-- **[[#4. Developing Responsible AI]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Overview of responsible AI
+- [**1. What Is AI and How Is It Used?**](#1-what-is-ai-and-how-is-it-used) (2 videos)
+  - Introduction to artificial intelligence (AI)
+  - AI myths and misunderstandings
+- [**2. AI Benefits and Risks**](#2-ai-benefits-and-risks) (2 videos)
+  - Benefits of AI
+  - Risks of AI
+- [**3. AI Application Domains**](#3-ai-application-domains) (5 videos)
+  - Introduction to AI experts
+  - AI in HR and hiring
+  - AI in social media
+  - AI in healthcare
+  - AI in climate
+- [**4. Developing Responsible AI**](#4-developing-responsible-ai) (4 videos)
+  - Responsible and trustworthy AI
+  - Responsible AI principles and practices
+  - Risk and impact assessment models
+  - Agency and action: Your role in AI
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps and resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of responsible AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980)
@@ -106,7 +121,7 @@ created: 2026-04-29
 
 ### 1. What Is AI and How Is It Used?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to artificial intelligence (AI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980)
@@ -272,7 +287,7 @@ created: 2026-04-29
 
 ### 2. AI Benefits and Risks
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980)
@@ -463,7 +478,7 @@ created: 2026-04-29
 
 ### 3. AI Application Domains
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to AI experts
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980)
@@ -935,7 +950,7 @@ created: 2026-04-29
 
 ### 4. Developing Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Responsible and trustworthy AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980)
@@ -1218,7 +1233,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980)

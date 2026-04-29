@@ -45,16 +45,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Optimising Test Speed in Playwright]]** (7 videos)
-- **[[#2. Reducing Test Flakiness in Playwright]]** (7 videos)
-- **[[#3. Screenshot and Snapshot Testing Best Practices]]** (5 videos)
-- **[[#4. Running Tests on Microsoft Playwright Testing Service]]** (6 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Advanced Playwright techniques
+  - What you should know
+- [**1. Optimising Test Speed in Playwright**](#1-optimising-test-speed-in-playwright) (7 videos)
+  - Green testing: Speed, efficiency and sustainability
+  - Diagnosing performance bottlenecks with VS Code metrics
+  - Using storageState to avoid repeated logins
+  - Configuring project dependencies for cookie setup
+  - Parallelisation: When to use It and when to avoid It
+  - Challenge: Optimise a slow test in VS Code
+  - Solution: Optimise a slow test in VS Code
+- [**2. Reducing Test Flakiness in Playwright**](#2-reducing-test-flakiness-in-playwright) (7 videos)
+  - Mastering flaky tests
+  - Handling Nuxt page hydration issue in tests
+  - Implementing stable locators
+  - Handling external dependencies to minimise flakiness
+  - Running tests multiple times to detect flakiness
+  - Challenge: Fix this flaky test
+  - Solution: Fix this flaky test
+- [**3. Screenshot and Snapshot Testing Best Practices**](#3-screenshot-and-snapshot-testing-best-practices) (5 videos)
+  - Visual testing with screenshots and snapshots
+  - How do you capture a screenshot?
+  - How do you capture a snapshot?
+  - Challenge: Implement a test to screenshot a page
+  - Solution: Implement a test to screenshot a page
+- [**4. Running Tests on Microsoft Playwright Testing Service**](#4-running-tests-on-microsoft-playwright-testing-service) (6 videos)
+  - What is Microsoft Playwright Testing (MPT) service?
+  - Creating a resource on Microsoft Azure
+  - Setting up your framework to run tests on the cloud
+  - Running tests via CLI
+  - Challenge: Run tests against your local server on MPT
+  - Solution: Run tests against your local server on MPT
+- [**Conclusion**](#conclusion) (2 videos)
+  - Final thoughts and best practices
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advanced Playwright techniques
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/advanced-playwright-techniques?u=76281980)
@@ -114,7 +143,7 @@ created: 2026-04-29
 
 ### 1. Optimising Test Speed in Playwright
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Green testing: Speed, efficiency and sustainability
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/green-testing-speed-efficiency-and-sustainability?u=76281980)
@@ -718,7 +747,7 @@ created: 2026-04-29
 
 ### 2. Reducing Test Flakiness in Playwright
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mastering flaky tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/mastering-flaky-tests?u=76281980)
@@ -1163,7 +1192,7 @@ created: 2026-04-29
 
 ### 3. Screenshot and Snapshot Testing Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Visual testing with screenshots and snapshots
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/visual-testing-with-screenshots-and-snapshots?u=76281980)
@@ -1486,7 +1515,7 @@ created: 2026-04-29
 
 ### 4. Running Tests on Microsoft Playwright Testing Service
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Microsoft Playwright Testing (MPT) service?
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/what-is-microsoft-playwright-testing-service?u=76281980)
@@ -1750,7 +1779,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final thoughts and best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-playwright-techniques-optimizing-speed-stability-and-cloud-testing/final-thoughts-and-best-practices?u=76281980)

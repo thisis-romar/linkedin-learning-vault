@@ -46,19 +46,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Introduction to Program Evaluation]]** (4 videos)
-- **[[#2. A/B Testing]]** (5 videos)
-- **[[#3. Beyond A/B Testing and Randomization]]** (2 videos)
-- **[[#4. Matching Methods]]** (5 videos)
-- **[[#5. Difference in Difference]]** (5 videos)
-- **[[#6. Regression Discontinuity]]** (5 videos)
-- **[[#7. Interrupted Time Series]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Going beyond A/B testing
+  - What do I need to know?
+- [**1. Introduction to Program Evaluation**](#1-introduction-to-program-evaluation) (4 videos)
+  - What is program evaluation?
+  - Evaluation in data science
+  - Introduction to causation
+  - Checklist for evaluations
+- [**2. A/B Testing**](#2-ab-testing) (5 videos)
+  - What are randomized studies?
+  - Advantages of A/B testing
+  - Applications for A/B testing in data science
+  - Quality checking A/B testing
+  - Practice A/B testing
+- [**3. Beyond A/B Testing and Randomization**](#3-beyond-ab-testing-and-randomization) (2 videos)
+  - Limitations of A/B testing
+  - Alternatives to A/B testing
+- [**4. Matching Methods**](#4-matching-methods) (5 videos)
+  - When to apply matching methods
+  - Best practices for matching methods
+  - Advantages of matching methods
+  - Interpreting results of matching methods
+  - Practice matching methods
+- [**5. Difference in Difference**](#5-difference-in-difference) (5 videos)
+  - When to apply difference in difference
+  - Best practices for difference in difference
+  - Advantages of difference in difference
+  - Interpreting results of difference in difference
+  - Practice difference in difference
+- [**6. Regression Discontinuity**](#6-regression-discontinuity) (5 videos)
+  - When to apply regression discontinuity
+  - Best practices for regression discontinuity
+  - Advantages of regression discontinuity
+  - Interpreting results of regression discontinuity
+  - Practice regression discontinuity
+- [**7. Interrupted Time Series**](#7-interrupted-time-series) (5 videos)
+  - When to apply interrupted time series
+  - Best practices for interrupted time series
+  - Advantages of interrupted time series
+  - Interpreting results of interrupted time series
+  - Practice interrupted time series
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in program evaluation
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Going beyond A/B testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/going-beyond-a-b-testing?u=76281980)
@@ -121,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Program Evaluation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is program evaluation?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980)
@@ -337,7 +371,7 @@ created: 2026-04-29
 
 ### 2. A/B Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What are randomized studies?
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-are-randomized-studies?u=76281980)
@@ -654,7 +688,7 @@ created: 2026-04-29
 
 ### 3. Beyond A/B Testing and Randomization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Limitations of A/B testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/limitations-of-a-b-testing?u=76281980)
@@ -771,7 +805,7 @@ created: 2026-04-29
 
 ### 4. Matching Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to apply matching methods
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-matching-methods?u=76281980)
@@ -1024,7 +1058,7 @@ created: 2026-04-29
 
 ### 5. Difference in Difference
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to apply difference in difference
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-difference-in-difference?u=76281980)
@@ -1257,7 +1291,7 @@ created: 2026-04-29
 
 ### 6. Regression Discontinuity
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to apply regression discontinuity
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-regression-discontinuity?u=76281980)
@@ -1496,7 +1530,7 @@ created: 2026-04-29
 
 ### 7. Interrupted Time Series
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to apply interrupted time series
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-interrupted-time-series?u=76281980)
@@ -1758,7 +1792,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in program evaluation
 > [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980)

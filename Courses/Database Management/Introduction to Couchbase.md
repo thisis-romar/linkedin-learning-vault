@@ -49,16 +49,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Getting Started with Couchbase Capella]]** (8 videos)
-- **[[#2. Completing Key Value Operations]]** (5 videos)
-- **[[#3. Querying with Couchbase]]** (2 videos)
-- **[[#4. Getting Your Couchbase Database to Perform Effectively]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Couchbase and what it can do for you
+  - Couchbase: Understanding the lexicon
+- [**1. Getting Started with Couchbase Capella**](#1-getting-started-with-couchbase-capella) (8 videos)
+  - Signing up for Capella
+  - Adding users to Capella
+  - Segmenting databases and adding users to projects
+  - Spinning up cluster with buckets, scopes, and collections
+  - Choosing an SDK and an IDE
+  - Connecting to Couchbase through Capella
+  - Challenge: Get your Couchbase up and running
+  - Solution: Get your Couchbase up and running
+- [**2. Completing Key Value Operations**](#2-completing-key-value-operations) (5 videos)
+  - Completing a Get
+  - Completing an INSERT, UPSERT, and DELETE
+  - Handling errors and exceptions
+  - Challenge: Complete a key value operation using Node.js
+  - Solution: Complete a key value operation using Node.js
+- [**3. Querying with Couchbase**](#3-querying-with-couchbase) (2 videos)
+  - SQL and SQL++ and Indexing In Capella
+  - Using JOINs and Parameters with SQL++/N1QL
+- [**4. Getting Your Couchbase Database to Perform Effectively**](#4-getting-your-couchbase-database-to-perform-effectively) (3 videos)
+  - Evaluating database performance
+  - Scaling vertically and horizontally
+  - Applying replication
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Couchbase and what it can do for you
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980)
@@ -196,7 +217,7 @@ created: 2026-04-29
 
 ### 1. Getting Started with Couchbase Capella
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Signing up for Capella
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980)
@@ -806,7 +827,7 @@ created: 2026-04-29
 
 ### 2. Completing Key Value Operations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Completing a Get
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980)
@@ -1051,7 +1072,7 @@ created: 2026-04-29
 
 ### 3. Querying with Couchbase
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL and SQL++ and Indexing In Capella
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980)
@@ -1262,7 +1283,7 @@ created: 2026-04-29
 
 ### 4. Getting Your Couchbase Database to Perform Effectively
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Evaluating database performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/evaluating-database-performance-23462799?u=76281980)
@@ -1517,7 +1538,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980)

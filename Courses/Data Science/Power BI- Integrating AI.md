@@ -54,18 +54,66 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. How Can We Use AI in Power BI?]]** (10 videos)
-- **[[#2. Configuring the Semantic Model and Power Query]]** (8 videos)
-- **[[#3. Analyzing Data Loaded into a Model]]** (4 videos)
-- **[[#4. Analyzing Trends]]** (6 videos)
-- **[[#5. Analyzing Groups]]** (9 videos)
-- **[[#6. Determining Outliers and Anomalies]]** (6 videos)
-- **[[#7. Natural Language Processing Visuals]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - The power of Power BI
+  - What you should know
+  - GitHub data sources
+- [**1. How Can We Use AI in Power BI?**](#1-how-can-we-use-ai-in-power-bi) (10 videos)
+  - Overviewing AI
+  - Utilizing Power BI
+  - Analyzing dataset statistics and distributions
+  - Adding a column using fuzzy matching
+  - Grouping data with fuzzy matching
+  - Merging tables using fuzzy matching
+  - Detecting languages
+  - Extracting key text phrases
+  - Scoring language sentiment
+  - Detecting items in image data
+- [**2. Configuring the Semantic Model and Power Query**](#2-configuring-the-semantic-model-and-power-query) (8 videos)
+  - Choosing Power BI visuals
+  - Leveraging slicers
+  - Defining dimensionality
+  - Building DAX models
+  - Using CALCULATE for DAX measures
+  - Visualizing distributions
+  - Leveraging parameters
+  - Formatting measure units
+- [**3. Analyzing Data Loaded into a Model**](#3-analyzing-data-loaded-into-a-model) (4 videos)
+  - Utilizing the decomposition tree
+  - Discovering key insights with the key influencer visual
+  - Leveraging the Q&A visual
+  - Using the narrative visual
+- [**4. Analyzing Trends**](#4-analyzing-trends) (6 videos)
+  - Finding clusters
+  - Calculating best fit line
+  - Calculating correlations
+  - Visualizing relationships between variable pairs
+  - Analyzing correlations with variable pairs
+  - Creating corrplot
+- [**5. Analyzing Groups**](#5-analyzing-groups) (9 videos)
+  - Calculating linear regression coefficients
+  - Checking outputs for regression models
+  - Making predictions for regression models
+  - Calculating residuals
+  - Using the LINEST DAX function
+  - Utilizing the LINESTX DAX function
+  - Creating a polynomial regression model
+  - Calculating outliers
+  - Using parameters in regression models
+- [**6. Determining Outliers and Anomalies**](#6-determining-outliers-and-anomalies) (6 videos)
+  - Calculating rolling averages
+  - Leveraging anomaly detection
+  - Calculating seasonality trends
+  - Calculating overall trends
+  - Contextualizing outliers versus anomalies
+  - Adding forecasting from the analytics pane
+- [**7. Natural Language Processing Visuals**](#7-natural-language-processing-visuals) (2 videos)
+  - Putting everything together
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of Power BI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980)
@@ -141,7 +189,7 @@ created: 2026-04-29
 
 ### 1. How Can We Use AI in Power BI?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overviewing AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980)
@@ -867,7 +915,7 @@ created: 2026-04-29
 
 ### 2. Configuring the Semantic Model and Power Query
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing Power BI visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/choosing-power-bi-visuals?u=76281980)
@@ -1531,7 +1579,7 @@ created: 2026-04-29
 
 ### 3. Analyzing Data Loaded into a Model
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Utilizing the decomposition tree
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-decomposition-tree?u=76281980)
@@ -1808,7 +1856,7 @@ created: 2026-04-29
 
 ### 4. Analyzing Trends
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding clusters
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980)
@@ -2365,7 +2413,7 @@ created: 2026-04-29
 
 ### 5. Analyzing Groups
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculating linear regression coefficients
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980)
@@ -3079,7 +3127,7 @@ created: 2026-04-29
 
 ### 6. Determining Outliers and Anomalies
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Calculating rolling averages
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980)
@@ -3605,7 +3653,7 @@ created: 2026-04-29
 
 ### 7. Natural Language Processing Visuals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting everything together
 > [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/putting-everything-together?u=76281980)

@@ -42,20 +42,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Ingredients for Ecommerce]]** (2 videos)
-- **[[#2. Getting Paid]]** (4 videos)
-- **[[#3. Calculating Shipping]]** (2 videos)
-- **[[#4. Taxes]]** (3 videos)
-- **[[#5. Using WordPress for Ecommerce]]** (2 videos)
-- **[[#6. Understand Your Market]]** (4 videos)
-- **[[#7. Marketing Your Site]]** (4 videos)
-- **[[#8. Testing and Optimizing]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Build an ecommerce store
+  - What you need to know
+- [**1. Ingredients for Ecommerce**](#1-ingredients-for-ecommerce) (2 videos)
+  - Essential ecommerce features
+  - Shipping, payment, and taxes
+- [**2. Getting Paid**](#2-getting-paid) (4 videos)
+  - Overview of accepting payment
+  - Payment gateways
+  - PayPal, Apple Pay, and Amazon Pay
+  - PCI compliance
+- [**3. Calculating Shipping**](#3-calculating-shipping) (2 videos)
+  - Select a shipping method
+  - Don't underestimate free shipping
+- [**4. Taxes**](#4-taxes) (3 videos)
+  - Understanding taxes
+  - Collecting EU value-added tax (VAT)
+  - Using tax services
+- [**5. Using WordPress for Ecommerce**](#5-using-wordpress-for-ecommerce) (2 videos)
+  - Using native WordPress platforms
+  - Using third-party platforms
+- [**6. Understand Your Market**](#6-understand-your-market) (4 videos)
+  - Choosing a business model
+  - Defining your audience
+  - Organizing your products
+  - Validate your product
+- [**7. Marketing Your Site**](#7-marketing-your-site) (4 videos)
+  - Attract traffic
+  - Increase your average order value
+  - Understanding customer lifetime value
+  - Increasing CLV with repeat customers
+- [**8. Testing and Optimizing**](#8-testing-and-optimizing) (2 videos)
+  - Testing your site
+  - Optimizing your site
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build an ecommerce store
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/build-an-ecommerce-store?u=76281980)
@@ -109,7 +135,7 @@ created: 2026-04-29
 
 ### 1. Ingredients for Ecommerce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Essential ecommerce features
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/essential-ecommerce-features?u=76281980)
@@ -252,7 +278,7 @@ created: 2026-04-29
 
 ### 2. Getting Paid
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of accepting payment
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/overview-of-accepting-payment?u=76281980)
@@ -562,7 +588,7 @@ created: 2026-04-29
 
 ### 3. Calculating Shipping
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Select a shipping method
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/select-a-shipping-method?u=76281980)
@@ -691,7 +717,7 @@ created: 2026-04-29
 
 ### 4. Taxes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding taxes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/understanding-taxes?u=76281980)
@@ -868,7 +894,7 @@ created: 2026-04-29
 
 ### 5. Using WordPress for Ecommerce
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using native WordPress platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/using-native-wordpress-platforms?u=76281980)
@@ -1067,7 +1093,7 @@ created: 2026-04-29
 
 ### 6. Understand Your Market
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing a business model
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/choosing-a-business-model?u=76281980)
@@ -1487,7 +1513,7 @@ created: 2026-04-29
 
 ### 7. Marketing Your Site
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Attract traffic
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/attract-traffic?u=76281980)
@@ -1803,7 +1829,7 @@ created: 2026-04-29
 
 ### 8. Testing and Optimizing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing your site
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/testing-your-site?u=76281980)
@@ -1993,7 +2019,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-2/next-steps?u=76281980)

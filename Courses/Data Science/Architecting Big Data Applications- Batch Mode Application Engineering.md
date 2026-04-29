@@ -53,18 +53,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Big Data Applications]]** (5 videos)
-- **[[#2. Big Data Architecture Principles]]** (5 videos)
-- **[[#3. Batch Application Architecture Principles]]** (5 videos)
-- **[[#4. Use Case 1: Audit Trail Data Archive]]** (6 videos)
-- **[[#5. Use Case 2: Advertising Analytics]]** (6 videos)
-- **[[#6. Use Case 3: Product Recommendations]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Architecting big data applications
+- [**1. Introduction to Big Data Applications**](#1-introduction-to-big-data-applications) (5 videos)
+  - Characteristics of batch processing
+  - Challenges building batch applications
+  - Technologies for batch big data engineering
+  - Use cases for batch big data
+  - Architecture process for data engineering
+- [**2. Big Data Architecture Principles**](#2-big-data-architecture-principles) (5 videos)
+  - Making the choice: Real-time vs. batch
+  - Horizontal scaling
+  - Distributed processing
+  - Technology selection
+  - Technology integrations
+- [**3. Batch Application Architecture Principles**](#3-batch-application-architecture-principles) (5 videos)
+  - Schedule selection
+  - Minimizing data volumes
+  - Uniform load distribution
+  - Using caches
+  - Reprocessing
+- [**4. Use Case 1: Audit Trail Data Archive**](#4-use-case-1-audit-trail-data-archive) (6 videos)
+  - Audit trail: Define the problem
+  - Audit trail: Study requirements
+  - Audit trail: Create a workflow
+  - Audit trail: Scale the workflow
+  - Audit trail: Select technologies
+  - Audit trail: Review final architecture
+- [**5. Use Case 2: Advertising Analytics**](#5-use-case-2-advertising-analytics) (6 videos)
+  - Advertising analytics: Define the problem
+  - Advertising analytics: Study requirements
+  - Advertising analytics: Create a workflow
+  - Advertising analytics: Scale the workflow
+  - Advertising analytics: Select technologies
+  - Advertising analytics: Review final architecture
+- [**6. Use Case 3: Product Recommendations**](#6-use-case-3-product-recommendations) (6 videos)
+  - Product recommendations: Define the problem
+  - Product recommendations: Study requirements
+  - Product recommendations: Create a workflow
+  - Product recommendations: Scale the workflow
+  - Product recommendations: Select technologies
+  - Product recommendations: Review the final architecture
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing to architect big data applications
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Architecting big data applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/architecting-big-data-applications?u=76281980)
@@ -89,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Big Data Applications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Characteristics of batch processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/characteristics-of-batch-processing?u=76281980)
@@ -322,7 +357,7 @@ created: 2026-04-29
 
 ### 2. Big Data Architecture Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making the choice: Real-time vs. batch
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/making-the-choice-real-time-vs-batch?u=76281980)
@@ -659,7 +694,7 @@ created: 2026-04-29
 
 ### 3. Batch Application Architecture Principles
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Schedule selection
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/schedule-selection?u=76281980)
@@ -947,7 +982,7 @@ created: 2026-04-29
 
 ### 4. Use Case 1: Audit Trail Data Archive
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Audit trail: Define the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/audit-trail-define-the-problem?u=76281980)
@@ -1346,7 +1381,7 @@ created: 2026-04-29
 
 ### 5. Use Case 2: Advertising Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Advertising analytics: Define the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/advertising-analytics-define-the-problem?u=76281980)
@@ -1724,7 +1759,7 @@ created: 2026-04-29
 
 ### 6. Use Case 3: Product Recommendations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Product recommendations: Define the problem
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/product-recommendations-define-the-problem?u=76281980)
@@ -2073,7 +2108,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing to architect big data applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-22882694/continuing-to-architect-big-data-applications?u=76281980)

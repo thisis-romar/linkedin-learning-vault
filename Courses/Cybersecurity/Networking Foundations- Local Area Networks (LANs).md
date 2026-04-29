@@ -49,16 +49,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Local Area Network (LAN)]]** (3 videos)
-- **[[#2. Wired LAN]]** (6 videos)
-- **[[#3. Wireless LAN]]** (3 videos)
-- **[[#4. LAN Configurations]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learning networking foundations: LANs
+  - What you should know
+- [**1. Local Area Network (LAN)**](#1-local-area-network-lan) (3 videos)
+  - What is a LAN?
+  - Components of a LAN
+  - LAN topologies
+- [**2. Wired LAN**](#2-wired-lan) (6 videos)
+  - What is Ethernet?
+  - Ethernet standards
+  - Copper cable: Twisted pair
+  - Twisted pair cable configuration
+  - Copper cable: Coaxial cable
+  - Fiber optic cables
+- [**3. Wireless LAN**](#3-wireless-lan) (3 videos)
+  - What is wireless LAN?
+  - Wireless standards
+  - Wireless LAN configuration via SOHO router
+- [**4. LAN Configurations**](#4-lan-configurations) (4 videos)
+  - DHCP: Dynamic Host Configuration Protocol
+  - DNS: Domain Name System
+  - VLAN: Virtual local area network
+  - LAN security
+- [**Conclusion**](#conclusion) (2 videos)
+  - LAN troubleshooting
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning networking foundations: LANs
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/learning-networking-foundations-lans?u=76281980)
@@ -116,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Local Area Network (LAN)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a LAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980)
@@ -450,7 +470,7 @@ created: 2026-04-29
 
 ### 2. Wired LAN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Ethernet?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980)
@@ -989,7 +1009,7 @@ created: 2026-04-29
 
 ### 3. Wireless LAN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is wireless LAN?
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980)
@@ -1281,7 +1301,7 @@ created: 2026-04-29
 
 ### 4. LAN Configurations
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### DHCP: Dynamic Host Configuration Protocol
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980)
@@ -1577,7 +1597,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### LAN troubleshooting
 > [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980)

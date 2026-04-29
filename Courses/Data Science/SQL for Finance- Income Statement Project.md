@@ -49,16 +49,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Balance Sheets and Assets Accounts]]** (13 videos)
-- **[[#2. Balance Sheets: Liability and Owner's Equity Accounts]]** (5 videos)
-- **[[#3. Building the Balance Sheet]]** (5 videos)
-- **[[#4. Income Statement]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The power of SQL in financial reports
+- [**1. Balance Sheets and Assets Accounts**](#1-balance-sheets-and-assets-accounts) (13 videos)
+  - Financial reports
+  - Understanding the project's data
+  - Exploring the user case
+  - Cash Account, part 1: Using CTE
+  - Cash Account, part 2: Using CTE
+  - Cash Account, part 3: Union
+  - Cash Account, part 4: Window function and materialized view
+  - Creating the Accounts Receivable Account
+  - Understanding Property Land and Equipment Account
+  - Window function and depreciation
+  - Completing the depreciation transaction
+  - Challenge: Inventory Account
+  - Solution: Inventory Account
+- [**2. Balance Sheets: Liability and Owner's Equity Accounts**](#2-balance-sheets-liability-and-owners-equity-accounts) (5 videos)
+  - Building the Loan Account
+  - Retained Earnings Account, part 1
+  - Retained Earnings Account, part 2
+  - Challenge: Retained Earnings Account
+  - Solution: Retained Earnings Account
+- [**3. Building the Balance Sheet**](#3-building-the-balance-sheet) (5 videos)
+  - Building the Assets section
+  - Building the Liabilities section
+  - Building the Owner's Equity section
+  - Challenge: Balance sheet year 1
+  - Solution: Balance sheet year 1
+- [**4. Income Statement**](#4-income-statement) (3 videos)
+  - Understanding the income statement
+  - Challenge: Income statement
+  - Solution: Income statement
+- [**Conclusion**](#conclusion) (2 videos)
+  - Balance sheet and income statement considerations
+  - Your SQL journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of SQL in financial reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/the-power-of-sql-in-financial-reports?u=76281980)
@@ -86,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Balance Sheets and Assets Accounts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial reports
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/financial-reports?u=76281980)
@@ -1580,7 +1609,7 @@ created: 2026-04-29
 
 ### 2. Balance Sheets: Liability and Owner's Equity Accounts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the Loan Account
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-loan-account?u=76281980)
@@ -2237,7 +2266,7 @@ created: 2026-04-29
 
 ### 3. Building the Balance Sheet
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building the Assets section
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/building-the-assets-section?u=76281980)
@@ -2755,7 +2784,7 @@ created: 2026-04-29
 
 ### 4. Income Statement
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding the income statement
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/understanding-the-income-statement?u=76281980)
@@ -2931,7 +2960,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Balance sheet and income statement considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-finance-income-statement-project/balance-sheet-and-income-statement-considerations?u=76281980)

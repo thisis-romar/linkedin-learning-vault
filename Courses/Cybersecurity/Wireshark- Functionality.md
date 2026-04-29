@@ -47,15 +47,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Menus and Toolbars]]** (8 videos)
-- **[[#2. Capturing Traffic]]** (9 videos)
-- **[[#3. Personalizing the Interface]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Improve your Wireshark workflow
+  - What you need to know
+- [**1. Menus and Toolbars**](#1-menus-and-toolbars) (8 videos)
+  - File: Open, Import, and Save
+  - Export packets or objects and print
+  - Edit menu
+  - View menu
+  - Statistics menu
+  - Using graphs
+  - Additional menu choices
+  - Exploring the Telephony menu
+- [**2. Capturing Traffic**](#2-capturing-traffic) (9 videos)
+  - Capture options
+  - Use a ring buffer
+  - Challenge: Ring buffer with coloring rules
+  - Solution: Ring buffer with coloring rules
+  - Capture filters
+  - Display filters
+  - Find packets
+  - Mark packets
+  - Fine-tune columns
+- [**3. Personalizing the Interface**](#3-personalizing-the-interface) (7 videos)
+  - File and packet comments
+  - Configuration profiles
+  - Appearance and layout
+  - Columns, font, and colors
+  - Name resolution
+  - Challenge: Create a button
+  - Solution: Create a button
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improve your Wireshark workflow
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/improve-your-wireshark-workflow?u=76281980)
@@ -115,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Menus and Toolbars
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### File: Open, Import, and Save
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/file-open-import-and-save?u=76281980)
@@ -1125,7 +1152,7 @@ created: 2026-04-29
 
 ### 2. Capturing Traffic
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Capture options
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/capture-options?u=76281980)
@@ -1928,7 +1955,7 @@ created: 2026-04-29
 
 ### 3. Personalizing the Interface
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### File and packet comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/file-and-packet-comments?u=76281980)
@@ -2550,7 +2577,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wireshark-functionality/what-s-next?u=76281980)

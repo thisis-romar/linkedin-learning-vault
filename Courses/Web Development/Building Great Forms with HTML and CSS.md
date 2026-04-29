@@ -50,21 +50,90 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Welcome]]** (3 videos)
-- **[[#1. General Form Setup]]** (3 videos)
-- **[[#2. Form Elements]]** (10 videos)
-- **[[#3. Form-Specific CSS]]** (10 videos)
-- **[[#4. Login and Registration Form]]** (8 videos)
-- **[[#5. A Booking Form: Flight, Hotel, Movie, and More]]** (7 videos)
-- **[[#6. Payment Forms]]** (12 videos)
-- **[[#7. Search Form and Filter Forms]]** (7 videos)
-- **[[#8. Accessibility]]** (3 videos)
-- **[[#9. Submission]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Welcome**](#welcome) (3 videos)
+  - Making your forms great
+  - What you should know
+  - Using the exercise files
+- [**1. General Form Setup**](#1-general-form-setup) (3 videos)
+  - How HTML forms work
+  - Basic setup for a form
+  - GET and POST methods
+- [**2. Form Elements**](#2-form-elements) (10 videos)
+  - Fieldsets and legends
+  - Working with labels
+  - New HTML5 form tags
+  - New input types
+  - New input attributes
+  - More input attributes
+  - Form validate options
+  - Input restrictions: Pattern
+  - Buttons
+  - Autocomplete
+- [**3. Form-Specific CSS**](#3-form-specific-css) (10 videos)
+  - Form layout tips
+  - Styling labels and inputs
+  - Focus styles
+  - Using pseudo-classes to be more specific
+  - Custom checkboxes
+  - Radio buttons
+  - Toggle switch
+  - Styling select, part 1
+  - Styling select, part 2
+  - Float labels
+- [**4. Login and Registration Form**](#4-login-and-registration-form) (8 videos)
+  - The registration process
+  - Login form flow chart and landing page
+  - Building the login page
+  - Password visibility
+  - Build and style a sign-up form
+  - Using tooltips for more information
+  - Password strength
+  - Login and registration form summary
+- [**5. A Booking Form: Flight, Hotel, Movie, and More**](#5-a-booking-form-flight-hotel-movie-and-more) (7 videos)
+  - What is a booking form?
+  - Creating custom radio buttons
+  - Making selections
+  - Dates and date pickers
+  - Using the stepper component
+  - Booking form fix for mobile
+  - Booking form summary
+- [**6. Payment Forms**](#6-payment-forms) (12 videos)
+  - Organizing a payment form
+  - Flow and order
+  - Order summary overview
+  - Personal details summary
+  - Payment stepper
+  - Input mask
+  - Auto-populating city and state
+  - Shipping
+  - Handling payment, part 1
+  - Handling payment, part 2
+  - Handling payment, part 3
+  - Review and confirmation pages
+- [**7. Search Form and Filter Forms**](#7-search-form-and-filter-forms) (7 videos)
+  - Search forms: What are they?
+  - Tips for adding search
+  - Add and style a search component
+  - Build a growing search bar
+  - Touchscreen fix
+  - Mobile fix
+  - Displaying search results
+- [**8. Accessibility**](#8-accessibility) (3 videos)
+  - Form accessibility
+  - Labeling and describing with ARIA
+  - Using ARIA
+- [**9. Submission**](#9-submission) (5 videos)
+  - Client-side form validation
+  - CSS validation
+  - JavaScript validation
+  - Good error messages
+  - Success page
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Welcome
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Making your forms great
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980)
@@ -226,7 +295,7 @@ created: 2026-04-29
 
 ### 1. General Form Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How HTML forms work
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980)
@@ -461,7 +530,7 @@ created: 2026-04-29
 
 ### 2. Form Elements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fieldsets and legends
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980)
@@ -1679,7 +1748,7 @@ created: 2026-04-29
 
 ### 3. Form-Specific CSS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Form layout tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980)
@@ -3171,7 +3240,7 @@ created: 2026-04-29
 
 ### 4. Login and Registration Form
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The registration process
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980)
@@ -4289,7 +4358,7 @@ created: 2026-04-29
 
 ### 5. A Booking Form: Flight, Hotel, Movie, and More
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a booking form?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980)
@@ -5304,7 +5373,7 @@ created: 2026-04-29
 
 ### 6. Payment Forms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Organizing a payment form
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980)
@@ -6861,7 +6930,7 @@ created: 2026-04-29
 
 ### 7. Search Form and Filter Forms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Search forms: What are they?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980)
@@ -7825,7 +7894,7 @@ created: 2026-04-29
 
 ### 8. Accessibility
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Form accessibility
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980)
@@ -8188,7 +8257,7 @@ created: 2026-04-29
 
 ### 9. Submission
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Client-side form validation
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980)
@@ -8710,7 +8779,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980)

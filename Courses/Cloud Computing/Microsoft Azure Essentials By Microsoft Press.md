@@ -40,16 +40,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is Cloud Computing?]]** (5 videos)
-- **[[#2. Introduction to Microsoft Azure]]** (5 videos)
-- **[[#3. Azure Services for Modern Workloads]]** (6 videos)
-- **[[#4. Security, Governance, and Cost Essentials]]** (6 videos)
-- **[[#Summary]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Microsoft Azure Essentials Professional Certificate: Introduction
+- [**1. What Is Cloud Computing?**](#1-what-is-cloud-computing) (5 videos)
+  - Learning objectives
+  - The evolution of computing
+  - What “the cloud” really means
+  - Cloud service categories
+  - Cloud deployment models
+- [**2. Introduction to Microsoft Azure**](#2-introduction-to-microsoft-azure) (5 videos)
+  - Learning objectives
+  - What is Microsoft Azure?
+  - Azure architecture basics
+  - Navigating the Azure portal
+  - Core Azure resource types
+- [**3. Azure Services for Modern Workloads**](#3-azure-services-for-modern-workloads) (6 videos)
+  - Learning objectives
+  - Azure storage
+  - Compute and app hosting options
+  - Azure networking for humans
+  - Data and AI services overview
+  - Monitoring and keeping things healthy
+- [**4. Security, Governance, and Cost Essentials**](#4-security-governance-and-cost-essentials) (6 videos)
+  - Learning objectives
+  - Identity basics with Entra ID
+  - Protecting your cloud resources
+  - Governance made simple
+  - Azure pricing and cost management
+  - Putting it all together
+- [**Summary**](#summary) (1 videos)
+  - Microsoft Azure Essentials Professional Certificate: Summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Azure Essentials Professional Certificate: Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-introduction?u=76281980)
@@ -109,7 +133,7 @@ created: 2026-04-29
 
 ### 1. What Is Cloud Computing?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30680026?u=76281980)
@@ -863,7 +887,7 @@ created: 2026-04-29
 
 ### 2. Introduction to Microsoft Azure
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30701004?u=76281980)
@@ -1289,7 +1313,7 @@ created: 2026-04-29
 
 ### 3. Azure Services for Modern Workloads
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives?u=76281980)
@@ -1862,7 +1886,7 @@ created: 2026-04-29
 
 ### 4. Security, Governance, and Cost Essentials
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning objectives
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/learning-objectives-30690032?u=76281980)
@@ -2351,7 +2375,7 @@ created: 2026-04-29
 
 ### Summary
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft Azure Essentials Professional Certificate: Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-essentials-by-microsoft-press/microsoft-azure-essentials-professional-certificate-summary?u=76281980)

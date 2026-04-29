@@ -51,16 +51,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Patient Data Management and Analysis with Excel]]** (7 videos)
-- **[[#2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management]]** (5 videos)
-- **[[#3. Excel for Clinical Use and Research in Healthcare]]** (4 videos)
-- **[[#4. Healthcare Supply Chain Management with Excel]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Benefits of using Excel in healthcare
+  - Why Excel is relevant to healthcare
+  - The anatomy and navigation of the Excel interface
+- [**1. Patient Data Management and Analysis with Excel**](#1-patient-data-management-and-analysis-with-excel) (7 videos)
+  - Creating patient biodata entry forms with Excel
+  - Designing patient care coordination templates with Excel
+  - Analyzing patient demographics with Excel
+  - Performing patient wait time analysis with Excel
+  - Analyzing your patient satisfaction survey with Excel
+  - Build a disease outbreak monitoring dashboard: Part 1
+  - Build a disease outbreak monitoring dashboard: Part 2
+- [**2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management**](#2-excel-for-healthcare-operations-scheduling-tracking-and-project-management) (5 videos)
+  - Creating a nursing staff schedule with Excel: Part 1
+  - Creating a nursing staff schedule with Excel: Part 2
+  - Tracking laboratory test samples and results with Excel
+  - Schedule and track quality improvement meeting attendance
+  - Track project timelines with Gantt charts
+- [**3. Excel for Clinical Use and Research in Healthcare**](#3-excel-for-clinical-use-and-research-in-healthcare) (4 videos)
+  - Creating a medication dosage calculation sheet in Excel
+  - Developing a symptom tracker in Excel: Part 1
+  - Developing a symptom tracker in Excel: Part 2
+  - Creating a patient discharge planning checklist
+- [**4. Healthcare Supply Chain Management with Excel**](#4-healthcare-supply-chain-management-with-excel) (3 videos)
+  - Creating an inventory tracker for an antiretroviral clinic
+  - Forecast stock needs for regional vaccination centers
+  - Pricing management for a community pharmacy inventory
+- [**Conclusion**](#conclusion) (1 videos)
+  - Expanding your skills in healthcare analytics
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefits of using Excel in healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/benefits-of-using-excel-in-healthcare?u=76281980)
@@ -214,7 +237,7 @@ created: 2026-04-29
 
 ### 1. Patient Data Management and Analysis with Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating patient biodata entry forms with Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-patient-biodata-entry-forms-with-excel?u=76281980)
@@ -1105,7 +1128,7 @@ created: 2026-04-29
 
 ### 2. Excel for Healthcare Operations: Scheduling, Tracking, and Project Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a nursing staff schedule with Excel: Part 1
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-nursing-staff-schedule-part-1?u=76281980)
@@ -1601,7 +1624,7 @@ created: 2026-04-29
 
 ### 3. Excel for Clinical Use and Research in Healthcare
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a medication dosage calculation sheet in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-a-medication-dosage-calculation-sheet-in-excel?u=76281980)
@@ -1998,7 +2021,7 @@ created: 2026-04-29
 
 ### 4. Healthcare Supply Chain Management with Excel
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an inventory tracker for an antiretroviral clinic
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/creating-an-inventory-tracker-for-an-antiretroviral-clinic?u=76281980)
@@ -2314,7 +2337,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expanding your skills in healthcare analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-healthcare-practical-applications-and-skills/expanding-your-skills-in-healthcare-analytics?u=76281980)

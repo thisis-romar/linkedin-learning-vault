@@ -55,22 +55,81 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. General Programming Concepts]]** (11 videos)
-- **[[#2. Setup and Workspace]]** (2 videos)
-- **[[#3. Python File Handling]]** (3 videos)
-- **[[#4. Basic Python Data Type]]** (3 videos)
-- **[[#5. Basic Python Data Structures]]** (6 videos)
-- **[[#6. Basic Operations in Python]]** (5 videos)
-- **[[#7. Python Functions and Statements]]** (5 videos)
-- **[[#8. Built-in Functions and Other Operations in Python]]** (14 videos)
-- **[[#9. Code Documentation in Python]]** (4 videos)
-- **[[#10. Libraries]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn Python for healthcare
+  - Python for health sciences and healthcare
+- [**1. General Programming Concepts**](#1-general-programming-concepts) (11 videos)
+  - What is programming?
+  - What are programming languages?
+  - Code editors
+  - Integrated development environment software (IDEs)
+  - Modules, libraries, packages, and systems
+  - Code versioning
+  - Version control and repositories
+  - Package managers and installers
+  - What is Python?
+  - Python naming convention
+  - Python keywords
+- [**2. Setup and Workspace**](#2-setup-and-workspace) (2 videos)
+  - Colaboratory notebook (online)
+  - An overview of the Coderpad coding challenges
+- [**3. Python File Handling**](#3-python-file-handling) (3 videos)
+  - Open Python file
+  - Write Python file
+  - Read Python file
+- [**4. Basic Python Data Type**](#4-basic-python-data-type) (3 videos)
+  - Numeric data
+  - String data
+  - Boolean
+- [**5. Basic Python Data Structures**](#5-basic-python-data-structures) (6 videos)
+  - Lists
+  - Tuples
+  - Sets
+  - Dictionaries
+  - Solution:  Remove an element from a list
+  - Solution: Create a set from a list
+- [**6. Basic Operations in Python**](#6-basic-operations-in-python) (5 videos)
+  - Arithmetic operations
+  - Comparison operations
+  - Logical operations
+  - Solution: Repeat string by integer multiplication
+  - Solution: Integer floor division
+- [**7. Python Functions and Statements**](#7-python-functions-and-statements) (5 videos)
+  - Functions
+  - Conditional statements
+  - For loops
+  - Solution: Define a function
+  - Solution: Iterate over a list with for loop
+- [**8. Built-in Functions and Other Operations in Python**](#8-built-in-functions-and-other-operations-in-python) (14 videos)
+  - Length and count function
+  - Minimum and maximum function
+  - Range and sum function
+  - String case functions
+  - Split and join function
+  - Strip and replace function
+  - Zip function
+  - Map function
+  - Slicing
+  - String formatting
+  - Solution: Return maximum value from a tuple
+  - Solution: Print elements in a list in lowercase
+  - Solution: Zip two lists
+  - Solution: Get list element using negative indexing
+- [**9. Code Documentation in Python**](#9-code-documentation-in-python) (4 videos)
+  - Comments
+  - Docstring
+  - Error messages
+  - Official Python documentation
+- [**10. Libraries**](#10-libraries) (3 videos)
+  - Import statement and aliasing
+  - Install and uninstall Python libraries
+  - Python data analysis libraries
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn Python for healthcare
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980)
@@ -134,7 +193,7 @@ created: 2026-04-29
 
 ### 1. General Programming Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is programming?
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980)
@@ -805,7 +864,7 @@ created: 2026-04-29
 
 ### 2. Setup and Workspace
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Colaboratory notebook (online)
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980)
@@ -871,7 +930,7 @@ created: 2026-04-29
 
 ### 3. Python File Handling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Open Python file
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980)
@@ -981,7 +1040,7 @@ created: 2026-04-29
 
 ### 4. Basic Python Data Type
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Numeric data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980)
@@ -1186,7 +1245,7 @@ created: 2026-04-29
 
 ### 5. Basic Python Data Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Lists
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980)
@@ -1609,7 +1668,7 @@ created: 2026-04-29
 
 ### 6. Basic Operations in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Arithmetic operations
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980)
@@ -1932,7 +1991,7 @@ created: 2026-04-29
 
 ### 7. Python Functions and Statements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Functions
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980)
@@ -2181,7 +2240,7 @@ created: 2026-04-29
 
 ### 8. Built-in Functions and Other Operations in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Length and count function
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980)
@@ -2688,7 +2747,7 @@ created: 2026-04-29
 
 ### 9. Code Documentation in Python
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Comments
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980)
@@ -2925,7 +2984,7 @@ created: 2026-04-29
 
 ### 10. Libraries
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Import statement and aliasing
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980)
@@ -3083,7 +3142,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/next-steps?u=76281980)

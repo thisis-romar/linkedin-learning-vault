@@ -54,21 +54,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is WordPress?]]** (4 videos)
-- **[[#2. Setting Up WordPress]]** (5 videos)
-- **[[#3. WordPress Security]]** (3 videos)
-- **[[#4. Pages]]** (3 videos)
-- **[[#5. Posts]]** (4 videos)
-- **[[#6. Plugins and Themes]]** (3 videos)
-- **[[#7. Design Customization]]** (3 videos)
-- **[[#8. Media Library]]** (2 videos)
-- **[[#9. WordPress Maintenance]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Getting started with WordPress
+- [**1. What Is WordPress?**](#1-what-is-wordpress) (4 videos)
+  - The open-source philosophy
+  - What's new in 6.6?
+  - The difference between .com and .org
+  - Navigating this course
+- [**2. Setting Up WordPress**](#2-setting-up-wordpress) (5 videos)
+  - Choosing hosting and a domain
+  - Launching a WordPress site
+  - Creating user accounts and logging in
+  - Navigating the dashboard
+  - Preparing your WordPress environment
+- [**3. WordPress Security**](#3-wordpress-security) (3 videos)
+  - How secure is WordPress?
+  - Using plugins for extra security
+  - Using code for extra security
+- [**4. Pages**](#4-pages) (3 videos)
+  - Creating a new page
+  - Designing and customizing a page
+  - Managing pages
+- [**5. Posts**](#5-posts) (4 videos)
+  - Creating posts
+  - Designing and customizing a post
+  - Managing posts
+  - Using categories and tags
+- [**6. Plugins and Themes**](#6-plugins-and-themes) (3 videos)
+  - Finding and installing plugins
+  - Finding and installing themes
+  - Customizing themes
+- [**7. Design Customization**](#7-design-customization) (3 videos)
+  - Creating a menu
+  - Creating a footer
+  - More block editor features
+- [**8. Media Library**](#8-media-library) (2 videos)
+  - Adding new media files
+  - Managing media files
+- [**9. WordPress Maintenance**](#9-wordpress-maintenance) (4 videos)
+  - Updating WordPress, plugins, and themes
+  - Site health and troubleshooting
+  - Security maintenance
+  - Performance maintenance
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue the WordPress journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Getting started with WordPress
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/getting-started-with-wordpress?u=76281980)
@@ -101,7 +134,7 @@ created: 2026-04-29
 
 ### 1. What Is WordPress?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The open-source philosophy
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980)
@@ -334,7 +367,7 @@ created: 2026-04-29
 
 ### 2. Setting Up WordPress
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing hosting and a domain
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980)
@@ -845,7 +878,7 @@ created: 2026-04-29
 
 ### 3. WordPress Security
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How secure is WordPress?
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980)
@@ -1045,7 +1078,7 @@ created: 2026-04-29
 
 ### 4. Pages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a new page
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-new-page?u=76281980)
@@ -1421,7 +1454,7 @@ created: 2026-04-29
 
 ### 5. Posts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating posts
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980)
@@ -1750,7 +1783,7 @@ created: 2026-04-29
 
 ### 6. Plugins and Themes
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding and installing plugins
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980)
@@ -2009,7 +2042,7 @@ created: 2026-04-29
 
 ### 7. Design Customization
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating a menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?u=76281980)
@@ -2348,7 +2381,7 @@ created: 2026-04-29
 
 ### 8. Media Library
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Adding new media files
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980)
@@ -2521,7 +2554,7 @@ created: 2026-04-29
 
 ### 9. WordPress Maintenance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Updating WordPress, plugins, and themes
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980)
@@ -2835,7 +2868,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue the WordPress journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/continue-the-wordpress-journey?u=76281980)

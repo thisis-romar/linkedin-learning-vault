@@ -51,14 +51,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. In the Restaurant]]** (12 videos)
-- **[[#2. At the Library]]** (8 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - SQL challenges to test your knowledge
+  - Exploring the databases
+  - CoderPad tour
+- [**1. In the Restaurant**](#1-in-the-restaurant) (12 videos)
+  - Solution: Create invitations for a party
+  - Solution: Create a table to store information
+  - Solution: Print a menu
+  - Solution: Sign a customer up for your loyalty program
+  - Solution: Update a customer's personal information
+  - Solution: Remove information from the database
+  - Solution: Log customer responses to an invitation
+  - Solution: Look up reservations
+  - Solution: Take a reservation
+  - Solution: Take a delivery order
+  - Solution: Track your customer's favorite dishes
+  - Solution: Prepare a report of your top customers
+- [**2. At the Library**](#2-at-the-library) (8 videos)
+  - Solution: Check book availability
+  - Solution: Add new books to the library
+  - Solution: Check out books
+  - Solution: Check for books due back
+  - Solution: Return books to the library
+  - Solution: Encourage patrons to check out books
+  - Solution: Find books to feature for an event
+  - Solution: Book statistics
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in your SQL journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SQL challenges to test your knowledge
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/sql-challenges-to-test-your-knowledge?u=76281980)
@@ -183,7 +207,7 @@ created: 2026-04-29
 
 ### 1. In the Restaurant
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Create invitations for a party
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-create-invitations-for-a-party?u=76281980)
@@ -785,7 +809,7 @@ created: 2026-04-29
 
 ### 2. At the Library
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solution: Check book availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/solution-check-book-availability?u=76281980)
@@ -1221,7 +1245,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your SQL journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-sql-challenges-test-your-knowledge/next-steps-in-your-sql-journey?u=76281980)

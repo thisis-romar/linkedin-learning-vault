@@ -39,17 +39,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding Strategy Analysis Basics]]** (3 videos)
-- **[[#2. Analyzing the Current State]]** (5 videos)
-- **[[#3. Defining the Future State]]** (6 videos)
-- **[[#4. Assessing Risks of Solutions]]** (2 videos)
-- **[[#5. Defining the Change Strategy]]** (2 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Increase success with strategy analysis
+  - Who is this course for?
+- [**1. Understanding Strategy Analysis Basics**](#1-understanding-strategy-analysis-basics) (3 videos)
+  - What is strategy analysis?
+  - Getting started when your company doesn't perform strategy analysis
+  - Strategy analysis key concepts
+- [**2. Analyzing the Current State**](#2-analyzing-the-current-state) (5 videos)
+  - Analyze current state
+  - Technique: Determining root cause
+  - Technique: Business model canvas
+  - Technique: SWOT analysis
+  - Technique: Process modeling
+- [**3. Defining the Future State**](#3-defining-the-future-state) (6 videos)
+  - Define future state
+  - Identifying solution options to analyze
+  - Technique: Elicitation
+  - Technique: Constraints, assumptions, risks, and dependencies
+  - Technique: Gap analysis
+  - Technique: Financial analysis of solution options
+- [**4. Assessing Risks of Solutions**](#4-assessing-risks-of-solutions) (2 videos)
+  - Assess risks
+  - Technique: Risk analysis and management
+- [**5. Defining the Change Strategy**](#5-defining-the-change-strategy) (2 videos)
+  - Define change strategy
+  - Technique: Business cases
+- [**Conclusion**](#conclusion) (2 videos)
+  - Supporting project initiation
+  - Revisiting strategy analysis when changes arise
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Increase success with strategy analysis
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/increase-success-with-strategy-analysis?u=76281980)
@@ -102,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Understanding Strategy Analysis Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is strategy analysis?
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/what-is-strategy-analysis?u=76281980)
@@ -325,7 +347,7 @@ created: 2026-04-29
 
 ### 2. Analyzing the Current State
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze current state
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/analyze-current-state?u=76281980)
@@ -711,7 +733,7 @@ created: 2026-04-29
 
 ### 3. Defining the Future State
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define future state
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-future-state?u=76281980)
@@ -1136,7 +1158,7 @@ created: 2026-04-29
 
 ### 4. Assessing Risks of Solutions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Assess risks
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980)
@@ -1285,7 +1307,7 @@ created: 2026-04-29
 
 ### 5. Defining the Change Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Define change strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-change-strategy?u=76281980)
@@ -1453,7 +1475,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Supporting project initiation
 > [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/supporting-project-initiation?u=76281980)

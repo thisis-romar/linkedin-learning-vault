@@ -54,17 +54,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Exploratory Data Analysis]]** (3 videos)
-- **[[#2. Trends]]** (4 videos)
-- **[[#3. Predictions]]** (5 videos)
-- **[[#4. Dashboard for Consistent Monitoring]]** (3 videos)
-- **[[#5. Final Project]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Do more with data using Python in Excel
+  - What you should know
+- [**1. Exploratory Data Analysis**](#1-exploratory-data-analysis) (3 videos)
+  - Data used in this course
+  - Data preparation for analysis
+  - Augment data: Turn trends into insights
+- [**2. Trends**](#2-trends) (4 videos)
+  - Natural language processing
+  - Python or Excel?
+  - Visualize trends
+  - Final project: Step 1
+- [**3. Predictions**](#3-predictions) (5 videos)
+  - Predictive tools: Shaping future strategies
+  - ARIMA
+  - Advanced visualizations
+  - Outlier detection
+  - Final project: Step 2
+- [**4. Dashboard for Consistent Monitoring**](#4-dashboard-for-consistent-monitoring) (3 videos)
+  - Build an effective dashboard
+  - Build an effective dashboard: Apply your skills
+  - Final project: Step 3
+- [**5. Final Project**](#5-final-project) (1 videos)
+  - Final project walk-through
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Do more with data using Python in Excel
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/do-more-with-data-using-python-in-excel?u=76281980)
@@ -123,7 +142,7 @@ created: 2026-04-29
 
 ### 1. Exploratory Data Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data used in this course
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/data-used-in-this-course?u=76281980)
@@ -318,7 +337,7 @@ created: 2026-04-29
 
 ### 2. Trends
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/natural-language-processing?u=76281980)
@@ -501,7 +520,7 @@ created: 2026-04-29
 
 ### 3. Predictions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Predictive tools: Shaping future strategies
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/predictive-tools-shaping-future-strategies?u=76281980)
@@ -788,7 +807,7 @@ created: 2026-04-29
 
 ### 4. Dashboard for Consistent Monitoring
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build an effective dashboard
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/build-an-effective-dashboard?u=76281980)
@@ -930,7 +949,7 @@ created: 2026-04-29
 
 ### 5. Final Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Final project walk-through
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/final-project-walk-through?u=76281980)
@@ -1005,7 +1024,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-data-analysis-and-visualization/next-steps?u=76281980)

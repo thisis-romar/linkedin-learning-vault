@@ -52,17 +52,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Sampling]]** (3 videos)
-- **[[#2. Sample Size]]** (2 videos)
-- **[[#3. Standard Error]]** (3 videos)
-- **[[#4. Confidence Intervals]]** (5 videos)
-- **[[#5. Hypothesis Tests]]** (6 videos)
-- **[[#6. Continuing Your Statistics Learning Journey]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Discover samples, confidence intervals, and hypothesis testing
+- [**1. Sampling**](#1-sampling) (3 videos)
+  - Sample considerations
+  - Random samples
+  - Alternative to random samples
+- [**2. Sample Size**](#2-sample-size) (2 videos)
+  - The importance of sample size
+  - The central limit theorem
+- [**3. Standard Error**](#3-standard-error) (3 videos)
+  - Standard error for proportions
+  - Sampling distribution of the mean
+  - Standard error for means
+- [**4. Confidence Intervals**](#4-confidence-intervals) (5 videos)
+  - Introduction to confidence intervals
+  - Components of a confidence interval
+  - Creating a 95% confidence interval for a population
+  - Alternative confidence intervals
+  - Confidence intervals with unexpected outcomes
+- [**5. Hypothesis Tests**](#5-hypothesis-tests) (6 videos)
+  - Hypothesis test introduction
+  - Hypothesis test : Step-by-step
+  - One-tailed vs. two-tail tests
+  - Significance test for proportions
+  - Significance test for means
+  - Type one and type two errors
+- [**6. Continuing Your Statistics Learning Journey**](#6-continuing-your-statistics-learning-journey) (1 videos)
+  - Next steps and additional resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Discover samples, confidence intervals, and hypothesis testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/discover-samples-confidence-intervals-and-hypothesis-testing?u=76281980)
@@ -115,7 +136,7 @@ created: 2026-04-29
 
 ### 1. Sampling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sample considerations
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?u=76281980)
@@ -439,7 +460,7 @@ created: 2026-04-29
 
 ### 2. Sample Size
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The importance of sample size
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-importance-of-sample-size?u=76281980)
@@ -622,7 +643,7 @@ created: 2026-04-29
 
 ### 3. Standard Error
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Standard error for proportions
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-proportions?u=76281980)
@@ -895,7 +916,7 @@ created: 2026-04-29
 
 ### 4. Confidence Intervals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to confidence intervals
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/introduction-to-confidence-intervals?u=76281980)
@@ -1383,7 +1404,7 @@ created: 2026-04-29
 
 ### 5. Hypothesis Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Hypothesis test introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-introduction?u=76281980)
@@ -2110,7 +2131,7 @@ created: 2026-04-29
 
 ### 6. Continuing Your Statistics Learning Journey
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps and additional resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980)

@@ -56,18 +56,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Setting Up Java, Maven, and Spring Boot]]** (6 videos)
-- **[[#2. Dockerizing the Project with PostgreSQL]]** (2 videos)
-- **[[#3. Designing the Database Schema and Implementing Full-Text Search]]** (5 videos)
-- **[[#4. Ingesting and Validating Data]]** (3 videos)
-- **[[#5. Implementing Business Logic and Writing Tests]]** (3 videos)
-- **[[#6. Designing and Creating APIs]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Modern Java development
+  - Course overview and objectives
+  - Prerequisites and learning goals
+- [**1. Setting Up Java, Maven, and Spring Boot**](#1-setting-up-java-maven-and-spring-boot) (6 videos)
+  - Setting up Java
+  - Installing Maven
+  - Setting up a Maven project
+  - Setting up Visual Studio Code
+  - Introduction to the Spring Boot framework
+  - Creating a hello world API
+- [**2. Dockerizing the Project with PostgreSQL**](#2-dockerizing-the-project-with-postgresql) (2 videos)
+  - Setting up Docker
+  - Configuring PostgreSQL in Docker
+- [**3. Designing the Database Schema and Implementing Full-Text Search**](#3-designing-the-database-schema-and-implementing-full-text-search) (5 videos)
+  - Designing the book schema
+  - Create a database schema in PostgreSQL
+  - Navigating the database using a web browser
+  - Introduction to full-text search
+  - Implementing full-text search in PostgreSQL
+- [**4. Ingesting and Validating Data**](#4-ingesting-and-validating-data) (3 videos)
+  - Overview of data ingestion
+  - Automating data ingestion
+  - Validating data integrity
+- [**5. Implementing Business Logic and Writing Tests**](#5-implementing-business-logic-and-writing-tests) (3 videos)
+  - Introduction to business logic
+  - Developing business logic functions
+  - Writing unit tests
+- [**6. Designing and Creating APIs**](#6-designing-and-creating-apis) (3 videos)
+  - Developing the service layer
+  - Implementing the book search API
+  - Writing integration tests
+- [**Conclusion**](#conclusion) (1 videos)
+  - Conclusion
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Modern Java development
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/modern-java-development?u=76281980)
@@ -256,7 +282,7 @@ created: 2026-04-29
 
 ### 1. Setting Up Java, Maven, and Spring Boot
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-java?u=76281980)
@@ -827,7 +853,7 @@ created: 2026-04-29
 
 ### 2. Dockerizing the Project with PostgreSQL
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting up Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/setting-up-docker?u=76281980)
@@ -1072,7 +1098,7 @@ created: 2026-04-29
 
 ### 3. Designing the Database Schema and Implementing Full-Text Search
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Designing the book schema
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/designing-the-book-schema?u=76281980)
@@ -1660,7 +1686,7 @@ created: 2026-04-29
 
 ### 4. Ingesting and Validating Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of data ingestion
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/overview-of-data-ingestion?u=76281980)
@@ -2083,7 +2109,7 @@ created: 2026-04-29
 
 ### 5. Implementing Business Logic and Writing Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to business logic
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/introduction-to-business-logic?u=76281980)
@@ -2411,7 +2437,7 @@ created: 2026-04-29
 
 ### 6. Designing and Creating APIs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Developing the service layer
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/developing-the-service-layer?u=76281980)
@@ -2822,7 +2848,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Conclusion
 > [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-book-search-engine-from-scratch-using-java-and-github-copilot/conclusion?u=76281980)

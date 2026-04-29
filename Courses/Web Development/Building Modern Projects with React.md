@@ -57,23 +57,77 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Project Setup]]** (1 videos)
-- **[[#2. Project Overview]]** (2 videos)
-- **[[#3. Creating React Projects from Scratch]]** (5 videos)
-- **[[#4. Creating Projects with Vite, Next.js, Remix, and More]]** (4 videos)
-- **[[#5. Creating a Basic Project]]** (5 videos)
-- **[[#6. Adding Redux]]** (11 videos)
-- **[[#7. Alternatives to Redux]]** (2 videos)
-- **[[#8. Dealing with Side Effects]]** (10 videos)
-- **[[#9. Selectors]]** (4 videos)
-- **[[#10. Styled-Components]]** (3 videos)
-- **[[#11. Testing]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Let's build modern projects with React
+  - What you should know
+- [**1. Project Setup**](#1-project-setup) (1 videos)
+  - Basic setup and exercise files
+- [**2. Project Overview**](#2-project-overview) (2 videos)
+  - Why use the React ecosystem?
+  - Meet the React ecosystem tools
+- [**3. Creating React Projects from Scratch**](#3-creating-react-projects-from-scratch) (5 videos)
+  - Building a React project from scratch
+  - The React entry point
+  - Creating a React script
+  - Using webpack to build a React app
+  - Adding more components
+- [**4. Creating Projects with Vite, Next.js, Remix, and More**](#4-creating-projects-with-vite-nextjs-remix-and-more) (4 videos)
+  - Create a project with Create React App
+  - Create a project with Vite
+  - Create a project with Next.js
+  - Create a project with Remix
+- [**5. Creating a Basic Project**](#5-creating-a-basic-project) (5 videos)
+  - Meet the sample app
+  - Creating the TodoList component
+  - Creating the TodoListItem component
+  - Creating the NewTodoForm component
+  - Putting the app together
+- [**6. Adding Redux**](#6-adding-redux) (11 videos)
+  - Why do we need Redux?
+  - How does Redux work?
+  - Adding Redux to a React app
+  - Creating Redux actions
+  - Creating reducers
+  - Loading data from the store
+  - Dispatching Redux actions
+  - Adding action payloads
+  - Challenge: Adding a Redux flow
+  - Solution: Adding a Redux flow
+  - Redux DevTools
+- [**7. Alternatives to Redux**](#7-alternatives-to-redux) (2 videos)
+  - State management with Recoil
+  - State management with MobX
+- [**8. Dealing with Side Effects**](#8-dealing-with-side-effects) (10 videos)
+  - Why do we need Redux-Thunk?
+  - How does Redux-Thunk work?
+  - The Todos API
+  - Keeping track of the loading state
+  - Loading data with Thunks
+  - Refactoring the to-dos reducer
+  - Using Thunks to create server resources
+  - Using Thunks to delete server resources
+  - Challenge: Using Thunks to update server resources
+  - Solution: Using Thunks to update server resources
+- [**9. Selectors**](#9-selectors) (4 videos)
+  - Why do we need selectors?
+  - Creating selectors
+  - Combining selectors
+  - Using the createSelector function
+- [**10. Styled-Components**](#10-styled-components) (3 videos)
+  - Why do we need styled-components?
+  - Creating a styled-component
+  - Passing props to styled-components
+- [**11. Testing**](#11-testing) (4 videos)
+  - Testing React ecosystems
+  - Testing reducers
+  - Testing selectors
+  - Testing styled-components
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps for building with React
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Let's build modern projects with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/let-s-build-modern-projects-with-react?u=76281980)
@@ -132,7 +186,7 @@ created: 2026-04-29
 
 ### 1. Project Setup
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Basic setup and exercise files
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/basic-setup-exercise-files?u=76281980)
@@ -171,7 +225,7 @@ created: 2026-04-29
 
 ### 2. Project Overview
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why use the React ecosystem?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-use-the-react-ecosystem?u=76281980)
@@ -279,7 +333,7 @@ created: 2026-04-29
 
 ### 3. Creating React Projects from Scratch
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a React project from scratch
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/building-a-react-project-from-scratch?u=76281980)
@@ -829,7 +883,7 @@ created: 2026-04-29
 
 ### 4. Creating Projects with Vite, Next.js, Remix, and More
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a project with Create React App
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/create-a-project-with-create-react-app?u=76281980)
@@ -1332,7 +1386,7 @@ created: 2026-04-29
 
 ### 5. Creating a Basic Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Meet the sample app
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/meet-the-sample-app?u=76281980)
@@ -1958,7 +2012,7 @@ created: 2026-04-29
 
 ### 6. Adding Redux
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do we need Redux?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux?u=76281980)
@@ -2891,7 +2945,7 @@ created: 2026-04-29
 
 ### 7. Alternatives to Redux
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### State management with Recoil
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/state-management-with-recoil?u=76281980)
@@ -3140,7 +3194,7 @@ created: 2026-04-29
 
 ### 8. Dealing with Side Effects
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do we need Redux-Thunk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-redux-thunk?u=76281980)
@@ -4146,7 +4200,7 @@ created: 2026-04-29
 
 ### 9. Selectors
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do we need selectors?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-selectors?u=76281980)
@@ -4409,7 +4463,7 @@ created: 2026-04-29
 
 ### 10. Styled-Components
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why do we need styled-components?
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/why-do-we-need-styled-components?u=76281980)
@@ -4598,7 +4652,7 @@ created: 2026-04-29
 
 ### 11. Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Testing React ecosystems
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/testing-react-ecosystems?u=76281980)
@@ -5002,7 +5056,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps for building with React
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-modern-projects-with-react-24955170/next-steps-for-building-with-react?u=76281980)

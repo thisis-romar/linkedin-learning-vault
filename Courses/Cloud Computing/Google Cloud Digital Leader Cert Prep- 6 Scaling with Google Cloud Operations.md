@@ -48,15 +48,29 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Financial Governance and Managing Cloud Costs]]** (5 videos)
-- **[[#2. Operational Excellence and Reliability at Scale]]** (6 videos)
-- **[[#3. Sustainability with Google Cloud]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Course introduction
+- [**1. Financial Governance and Managing Cloud Costs**](#1-financial-governance-and-managing-cloud-costs) (5 videos)
+  - Introduction
+  - Fundamentals of cloud financial governance
+  - Cloud financial governance best practices
+  - Using the resource hierarchy to control access
+  - Controlling cloud consumption
+- [**2. Operational Excellence and Reliability at Scale**](#2-operational-excellence-and-reliability-at-scale) (6 videos)
+  - Introduction
+  - Fundamentals of cloud reliability
+  - Designing resilient infrastructure and processes
+  - Modernizing operations by using Google Cloud
+  - Google Cloud Customer Care
+  - The life of a support case
+- [**3. Sustainability with Google Cloud**](#3-sustainability-with-google-cloud) (1 videos)
+  - Sustainability with Google Cloud
+- [**Conclusion**](#conclusion) (1 videos)
+  - Course summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-introduction?u=76281980)
@@ -94,7 +108,7 @@ created: 2026-04-29
 
 ### 1. Financial Governance and Managing Cloud Costs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction?u=76281980)
@@ -394,7 +408,7 @@ created: 2026-04-29
 
 ### 2. Operational Excellence and Reliability at Scale
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/introduction-23230143?u=76281980)
@@ -771,7 +785,7 @@ created: 2026-04-29
 
 ### 3. Sustainability with Google Cloud
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sustainability with Google Cloud
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/sustainability-with-google-cloud?u=76281980)
@@ -848,7 +862,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Course summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-6-scaling-with-google-cloud-operations/course-summary?u=76281980)

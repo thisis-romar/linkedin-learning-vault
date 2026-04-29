@@ -47,18 +47,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Get Started with Slack]]** (5 videos)
-- **[[#2. Work with Messages]]** (9 videos)
-- **[[#3. Work with Channels]]** (3 videos)
-- **[[#4. Add Apps to Slack]]** (3 videos)
-- **[[#5. Search and Preferences]]** (3 videos)
-- **[[#6. Create a New Workspace]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Communicate and collaborate with Slack
+  - Slack products and plans
+- [**1. Get Started with Slack**](#1-get-started-with-slack) (5 videos)
+  - Log in to Slack
+  - A quick tour of Slack
+  - Edit your profile
+  - Join or leave a channel
+  - Set your status and availability
+- [**2. Work with Messages**](#2-work-with-messages) (9 videos)
+  - Create a message in a channel
+  - Respond to a message
+  - Share a link to a webpage
+  - Add and share files
+  - Make an announcement
+  - Send a direct message
+  - Make and receive Slack calls
+  - Create a post or snippet
+  - Direct message yourself or Slackbot
+- [**3. Work with Channels**](#3-work-with-channels) (3 videos)
+  - Understand roles and permissions
+  - Create a new channel
+  - Manage a channel
+- [**4. Add Apps to Slack**](#4-add-apps-to-slack) (3 videos)
+  - Install a storage app
+  - Add a poll app to Slack
+  - Install a Slack desktop or mobile app
+- [**5. Search and Preferences**](#5-search-and-preferences) (3 videos)
+  - Search in Slack
+  - Set notification preferences
+  - Set sidebar, message, and theme preferences
+- [**6. Create a New Workspace**](#6-create-a-new-workspace) (1 videos)
+  - Create a new Slack workspace
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicate and collaborate with Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/communicate-and-collaborate-with-slack?u=76281980)
@@ -177,7 +204,7 @@ created: 2026-04-29
 
 ### 1. Get Started with Slack
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Log in to Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/log-in-to-slack?u=76281980)
@@ -616,7 +643,7 @@ created: 2026-04-29
 
 ### 2. Work with Messages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a message in a channel
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-message-in-a-channel?u=76281980)
@@ -1400,7 +1427,7 @@ created: 2026-04-29
 
 ### 3. Work with Channels
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand roles and permissions
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/understand-roles-and-permissions?u=76281980)
@@ -1660,7 +1687,7 @@ created: 2026-04-29
 
 ### 4. Add Apps to Slack
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install a storage app
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/install-a-storage-app?u=76281980)
@@ -1883,7 +1910,7 @@ created: 2026-04-29
 
 ### 5. Search and Preferences
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Search in Slack
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/search-in-slack?u=76281980)
@@ -2273,7 +2300,7 @@ created: 2026-04-29
 
 ### 6. Create a New Workspace
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a new Slack workspace
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/create-a-new-slack-workspace?u=76281980)
@@ -2366,7 +2393,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/slack-essential-training/next-steps?u=76281980)

@@ -48,17 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Problems to Solve]]** (3 videos)
-- **[[#2. The Heart of the Framework]]** (3 videos)
-- **[[#3. Getting Ready to Work]]** (5 videos)
-- **[[#4. Getting Down to Work]]** (4 videos)
-- **[[#5. Wrapping Up a Sprint]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Practicing scrum in your work environment
+- [**1. Problems to Solve**](#1-problems-to-solve) (3 videos)
+  - The scrum approach to project success
+  - The agile revolution
+  - Scrum: The leading project methodology
+- [**2. The Heart of the Framework**](#2-the-heart-of-the-framework) (3 videos)
+  - Solve project problems with scrum
+  - Essential roles for scrum teams
+  - Establish your scrum team
+- [**3. Getting Ready to Work**](#3-getting-ready-to-work) (5 videos)
+  - Set the vision for your project
+  - Write user stories
+  - Set boundaries for success
+  - Story points and estimation in scrum
+  - Create a roadmap and release plan
+- [**4. Getting Down to Work**](#4-getting-down-to-work) (4 videos)
+  - Sprint planning in scrum
+  - Track your scrum progress
+  - The daily scrum or standup meeting
+  - Backlog refinement in scrum
+- [**5. Wrapping Up a Sprint**](#5-wrapping-up-a-sprint) (3 videos)
+  - Get stories done in scrum
+  - Demo the team's work
+  - Assess the team
+- [**Conclusion**](#conclusion) (1 videos)
+  - Deliver successful projects using scrum
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Practicing scrum in your work environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment?u=76281980)
@@ -94,7 +114,7 @@ created: 2026-04-29
 
 ### 1. Problems to Solve
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The scrum approach to project success
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/the-scrum-approach-to-project-success-2?u=76281980)
@@ -291,7 +311,7 @@ created: 2026-04-29
 
 ### 2. The Heart of the Framework
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solve project problems with scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/solve-project-problems-with-scrum-2?u=76281980)
@@ -562,7 +582,7 @@ created: 2026-04-29
 
 ### 3. Getting Ready to Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Set the vision for your project
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/set-the-vision-for-your-project-2?u=76281980)
@@ -963,7 +983,7 @@ created: 2026-04-29
 
 ### 4. Getting Down to Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sprint planning in scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/sprint-planning-in-scrum-2?u=76281980)
@@ -1265,7 +1285,7 @@ created: 2026-04-29
 
 ### 5. Wrapping Up a Sprint
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get stories done in scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/get-stories-done-in-scrum-2?u=76281980)
@@ -1499,7 +1519,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Deliver successful projects using scrum
 > [LinkedIn Learning](https://www.linkedin.com/learning/scrum-the-basics/deliver-successful-projects-using-scrum?u=76281980)

@@ -55,16 +55,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Why]]** (4 videos)
-- **[[#2. Visual Analysis in Six Easy Lessons]]** (6 videos)
-- **[[#3. Visual Communication in 10 Easy Lessons]]** (10 videos)
-- **[[#4. In Practice]]** (3 videos)
-- **[[#5. Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Moving from analysis to visualization
+- [**1. Why**](#1-why) (4 videos)
+  - Humans are visual creatures
+  - Understanding visual perception
+  - Meeting communications challenges
+  - Focus using the KWYs
+- [**2. Visual Analysis in Six Easy Lessons**](#2-visual-analysis-in-six-easy-lessons) (6 videos)
+  - Where to begin? Matrix heatmaps
+  - Where to go next? Distributions
+  - Scatterplot mania
+  - Bars, pies, and lines, why not?
+  - Benchmarking everything
+  - Quick and ugly is fine
+- [**3. Visual Communication in 10 Easy Lessons**](#3-visual-communication-in-10-easy-lessons) (10 videos)
+  - Using the right data
+  - The power of story
+  - Headlines bring focus
+  - Picking the right chart
+  - Simple tips and tools for using color in data visualization
+  - Tips for axes, labeling, and legends
+  - Setting scales in data visualization
+  - Some thoughts about tools
+  - Sketching and wireframing
+  - What about leave-behinds?
+- [**4. In Practice**](#4-in-practice) (3 videos)
+  - Finding the missing link with visuals
+  - Rethinking some charts
+  - The power of simplification: Convincing your bosses
+- [**5. Conclusion**](#5-conclusion) (1 videos)
+  - Further resources
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Moving from analysis to visualization
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/moving-from-analasys-to-visualization?u=76281980)
@@ -93,7 +118,7 @@ created: 2026-04-29
 
 ### 1. Why
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Humans are visual creatures
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/humans-are-visual-creatures?u=76281980)
@@ -587,7 +612,7 @@ created: 2026-04-29
 
 ### 2. Visual Analysis in Six Easy Lessons
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to begin? Matrix heatmaps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/where-to-begin-matrix-heatmaps?u=76281980)
@@ -915,7 +940,7 @@ created: 2026-04-29
 
 ### 3. Visual Communication in 10 Easy Lessons
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the right data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/using-the-right-data?u=76281980)
@@ -2106,7 +2131,7 @@ created: 2026-04-29
 
 ### 4. In Practice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Finding the missing link with visuals
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/finding-the-missing-link-with-visuals?u=76281980)
@@ -2731,7 +2756,7 @@ created: 2026-04-29
 
 ### 5. Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Further resources
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-for-data-analysts-and-analytics/further-resources?u=76281980)

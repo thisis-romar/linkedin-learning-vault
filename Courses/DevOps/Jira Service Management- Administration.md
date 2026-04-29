@@ -49,19 +49,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Using Jira Service Management]]** (6 videos)
-- **[[#2. Jira and JSM Differences]]** (4 videos)
-- **[[#3. Setting Up a Test Environment]]** (3 videos)
-- **[[#4. Managing Project Settings]]** (9 videos)
-- **[[#5. Creating Service Level Agreements]]** (6 videos)
-- **[[#6. Using Automation]]** (4 videos)
-- **[[#7. Using Reporting]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Administration in Jira Service Management
+  - Who is this course for?
+  - What do you need for this course?
+- [**1. Using Jira Service Management**](#1-using-jira-service-management) (6 videos)
+  - What is Jira Service Management?
+  - How is JSM used?
+  - Which application type do you have?
+  - Which deployment type do you have?
+  - Important terms and definitions
+  - Navigating the admin area
+- [**2. Jira and JSM Differences**](#2-jira-and-jsm-differences) (4 videos)
+  - JSM feature overview
+  - Types of users
+  - Additional permissions
+  - Additional notifications
+- [**3. Setting Up a Test Environment**](#3-setting-up-a-test-environment) (3 videos)
+  - Test environment tips
+  - Choose a test environment
+  - Create a test environment
+- [**4. Managing Project Settings**](#4-managing-project-settings) (9 videos)
+  - Create a service project
+  - Leverage workflow differences
+  - Use and create request types
+  - Add agents, customers, and organizations
+  - Configure the customer portal
+  - Manage email requests
+  - Connect to a Confluence knowledge base
+  - Challenge: Create a request type
+  - Solution: Create a request type
+- [**5. Creating Service Level Agreements**](#5-creating-service-level-agreements) (6 videos)
+  - SLA overview
+  - Use and create SLAs
+  - Manage SLA calendars
+  - Troubleshoot SLAs
+  - Challenge: Create an SLA
+  - Solution: Create an SLA
+- [**6. Using Automation**](#6-using-automation) (4 videos)
+  - Automation overview
+  - Create automation rules
+  - Challenge: Create an automation
+  - Solution: Create an automation
+- [**7. Using Reporting**](#7-using-reporting) (6 videos)
+  - Reporting overview
+  - Using reports
+  - Using queues
+  - Measuring customer satisfaction
+  - Challenge: Create a report
+  - Solution: Create a report
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Administration in Jira Service Management
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/administration-in-jira-service-management?u=76281980)
@@ -168,7 +210,7 @@ created: 2026-04-29
 
 ### 1. Using Jira Service Management
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Jira Service Management?
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/what-is-jira-service-management?u=76281980)
@@ -825,7 +867,7 @@ created: 2026-04-29
 
 ### 2. Jira and JSM Differences
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### JSM feature overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/jsm-feature-overview?u=76281980)
@@ -1354,7 +1396,7 @@ created: 2026-04-29
 
 ### 3. Setting Up a Test Environment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Test environment tips
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/test-environment-tips?u=76281980)
@@ -1571,7 +1613,7 @@ created: 2026-04-29
 
 ### 4. Managing Project Settings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a service project
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/create-a-service-project?u=76281980)
@@ -3047,7 +3089,7 @@ created: 2026-04-29
 
 ### 5. Creating Service Level Agreements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### SLA overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/sla-overview?u=76281980)
@@ -3527,7 +3569,7 @@ created: 2026-04-29
 
 ### 6. Using Automation
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Automation overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/automation-overview?u=76281980)
@@ -3924,7 +3966,7 @@ created: 2026-04-29
 
 ### 7. Using Reporting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reporting overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/reporting-overview?u=76281980)
@@ -4300,7 +4342,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jira-service-management-administration/next-steps?u=76281980)

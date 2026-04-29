@@ -51,19 +51,61 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. What Is Pen Testing?]]** (3 videos)
-- **[[#2. Pen Testing Tools]]** (8 videos)
-- **[[#3. Bash Scripting]]** (3 videos)
-- **[[#4. Python Scripting]]** (7 videos)
-- **[[#5. Kali and Metasploit]]** (5 videos)
-- **[[#6. Web Testing]]** (5 videos)
-- **[[#7. Understand Exploit Code]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Establishing a solid foundation to progress into a career of penetration testing
+  - What you should know
+  - Disclaimer
+- [**1. What Is Pen Testing?**](#1-what-is-pen-testing) (3 videos)
+  - Pen testing overview
+  - The cyber kill chain
+  - The MITRE ATT&CK repository
+- [**2. Pen Testing Tools**](#2-pen-testing-tools) (8 videos)
+  - Scanning networks with Nmap
+  - A netcat refresher
+  - Capturing packets with tcpdump
+  - Work with netstat, nbtstat, and arp
+  - Scripting with PowerShell
+  - Extending PowerShell with Nishang
+  - What is Active Directory?
+  - Analyze Active Directory with BloodHound
+- [**3. Bash Scripting**](#3-bash-scripting) (3 videos)
+  - Refreshing your Bash skills
+  - Controlling the flow in a script
+  - Using functions in bash
+- [**4. Python Scripting**](#4-python-scripting) (7 videos)
+  - Refresh your Python skills
+  - Use the system functions
+  - Use networking functions
+  - Work with websites
+  - Access SQLite databases
+  - Using Scapy to work with packets
+  - Leveraging OpenAI for testing
+- [**5. Kali and Metasploit**](#5-kali-and-metasploit) (5 videos)
+  - A Kali refresher
+  - Fuzzing with Spike
+  - Information gathering with Legion
+  - Using Metasploit
+  - Scan targets with GVM
+- [**6. Web Testing**](#6-web-testing) (5 videos)
+  - Approach web testing
+  - Test websites with Burp Suite
+  - Check web servers with Nikto
+  - Fingerprint web servers
+  - Web server penetration using sqlmap
+- [**7. Understand Exploit Code**](#7-understand-exploit-code) (7 videos)
+  - Exploit a target
+  - Finding caves for code injection
+  - Understand code injection
+  - Understand command injection
+  - Understand buffer overflows
+  - Password spraying Active Directory
+  - Find exploit code
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Establishing a solid foundation to progress into a career of penetration testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/establishing-a-solid-foundation-to-progress-into-a-career-of-penetration-testing?u=76281980)
@@ -146,7 +188,7 @@ created: 2026-04-29
 
 ### 1. What Is Pen Testing?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pen testing overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/pen-testing-overview?u=76281980)
@@ -435,7 +477,7 @@ created: 2026-04-29
 
 ### 2. Pen Testing Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scanning networks with Nmap
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/scanning-networks-with-nmap?u=76281980)
@@ -1317,7 +1359,7 @@ created: 2026-04-29
 
 ### 3. Bash Scripting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Refreshing your Bash skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refreshing-your-bash-skills?u=76281980)
@@ -1530,7 +1572,7 @@ created: 2026-04-29
 
 ### 4. Python Scripting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Refresh your Python skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/refresh-your-python-skills?u=76281980)
@@ -2054,7 +2096,7 @@ created: 2026-04-29
 
 ### 5. Kali and Metasploit
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A Kali refresher
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/a-kali-refresher?u=76281980)
@@ -2471,7 +2513,7 @@ created: 2026-04-29
 
 ### 6. Web Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Approach web testing
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/approach-web-testing?u=76281980)
@@ -2849,7 +2891,7 @@ created: 2026-04-29
 
 ### 7. Understand Exploit Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploit a target
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/exploit-a-target?u=76281980)
@@ -3594,7 +3636,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next
 > [LinkedIn Learning](https://www.linkedin.com/learning/penetration-testing-essential-training-24352676/what-s-next?u=76281980)

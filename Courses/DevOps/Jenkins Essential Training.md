@@ -47,18 +47,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Jenkins and DevOps]]** (3 videos)
-- **[[#2. The Jenkins Pipeline]]** (8 videos)
-- **[[#3. Integrate Jenkins with Version Control Systems]]** (6 videos)
-- **[[#4. Agents and Distributed Builds]]** (5 videos)
-- **[[#5. Artifacts and Testing]]** (5 videos)
-- **[[#6. Securing Jenkins]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - From code to production with Jenkins
+  - What you should know
+- [**1. Jenkins and DevOps**](#1-jenkins-and-devops) (3 videos)
+  - Jenkins and the DevOps lifecycle
+  - Challenge: Deploy a Jenkins server
+  - Solution: Deploy a Jenkins server
+- [**2. The Jenkins Pipeline**](#2-the-jenkins-pipeline) (8 videos)
+  - Create a pipeline project
+  - Create a declarative pipeline
+  - Use the pipeline Snippet Generator
+  - Use variables in a pipeline
+  - Parameterize a pipeline
+  - Use conditional expressions and manual approvals
+  - Challenge: Develop a parameterized pipeline
+  - Solution: Develop a parameterized pipeline
+- [**3. Integrate Jenkins with Version Control Systems**](#3-integrate-jenkins-with-version-control-systems) (6 videos)
+  - Pipeline as code with Jenkinsfile
+  - Connect Jenkins to GitHub
+  - Run scripts from the pipeline
+  - Add a status badge to Markdown files
+  - Challenge: Connect Jenkins to GitHub
+  - Solution: Connect Jenkins to GitHub
+- [**4. Agents and Distributed Builds**](#4-agents-and-distributed-builds) (5 videos)
+  - Distribute builds with agents
+  - Add an SSH agent to Jenkins
+  - Add Docker agents to Jenkins
+  - Challenge: Improve a Docker agent pipeline
+  - Solution: Improve a Docker agent pipeline
+- [**5. Artifacts and Testing**](#5-artifacts-and-testing) (5 videos)
+  - Artifacts and fingerprinting
+  - Publish test results and code coverage reports
+  - Use test results to stop a build
+  - Challenge: Create artifacts and reports
+  - Solution: Create artifacts and reports
+- [**6. Securing Jenkins**](#6-securing-jenkins) (5 videos)
+  - Secure Jenkins with user accounts
+  - Configure project-based permissions
+  - Use secrets and credentials
+  - Challenge: Configure users and permissions
+  - Solution: Configure users and permissions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From code to production with Jenkins
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/from-code-to-production-with-jenkins?u=76281980)
@@ -136,7 +171,7 @@ created: 2026-04-29
 
 ### 1. Jenkins and DevOps
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Jenkins and the DevOps lifecycle
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/jenkins-and-the-devops-lifecycle?u=76281980)
@@ -506,7 +541,7 @@ created: 2026-04-29
 
 ### 2. The Jenkins Pipeline
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create a pipeline project
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/create-a-pipeline-project?u=76281980)
@@ -1386,7 +1421,7 @@ created: 2026-04-29
 
 ### 3. Integrate Jenkins with Version Control Systems
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Pipeline as code with Jenkinsfile
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/pipeline-as-code-with-jenkinsfile?u=76281980)
@@ -2016,7 +2051,7 @@ created: 2026-04-29
 
 ### 4. Agents and Distributed Builds
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Distribute builds with agents
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/distribute-builds-with-agents?u=76281980)
@@ -2484,7 +2519,7 @@ created: 2026-04-29
 
 ### 5. Artifacts and Testing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Artifacts and fingerprinting
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/artifacts-and-fingerprinting?u=76281980)
@@ -3041,7 +3076,7 @@ created: 2026-04-29
 
 ### 6. Securing Jenkins
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure Jenkins with user accounts
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/secure-jenkins-with-user-accounts?u=76281980)
@@ -3526,7 +3561,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/jenkins-essential-training-17420152/next-steps?u=76281980)

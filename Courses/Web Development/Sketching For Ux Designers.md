@@ -50,15 +50,38 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Sketching and Design]]** (5 videos)
-- **[[#2. Basic Techniques]]** (9 videos)
-- **[[#3. Other Sketching Formats]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Sketching for UX designers
+- [**1. Sketching and Design**](#1-sketching-and-design) (5 videos)
+  - Why we sketch
+  - When to sketch
+  - Tools you'll need
+  - Digital tools
+  - Choosing the right fidelity
+- [**2. Basic Techniques**](#2-basic-techniques) (9 videos)
+  - Breaking down a mockup
+  - Warming up
+  - Getting started on the sketch
+  - Line weights
+  - Sketching variants
+  - Hatching, cross-hatching, and shading
+  - Markers
+  - Challenge: Design brief
+  - Solution: Design critique
+- [**3. Other Sketching Formats**](#3-other-sketching-formats) (7 videos)
+  - Example: Capture sheets
+  - 3D and perspective
+  - Hatching and shadows
+  - Example: Storyboards
+  - Drawing people simply
+  - Annotations and labels
+  - Digital sketching
+- [**Conclusion**](#conclusion) (1 videos)
+  - What's next with your sketching?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Sketching for UX designers
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-for-ux-designers?u=76281980)
@@ -98,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Sketching and Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why we sketch
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980)
@@ -483,7 +506,7 @@ created: 2026-04-29
 
 ### 2. Basic Techniques
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Breaking down a mockup
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/breaking-down-a-mockup?u=76281980)
@@ -1342,7 +1365,7 @@ created: 2026-04-29
 
 ### 3. Other Sketching Formats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Example: Capture sheets
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/example-capture-sheets?u=76281980)
@@ -2039,7 +2062,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What's next with your sketching?
 > [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980)

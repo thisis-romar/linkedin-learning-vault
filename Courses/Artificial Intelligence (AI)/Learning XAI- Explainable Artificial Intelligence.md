@@ -52,19 +52,51 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding the AI Landscape]]** (3 videos)
-- **[[#2. Bias in GenAI]]** (3 videos)
-- **[[#3. Bias in Model Training]]** (7 videos)
-- **[[#4. Counterfactuals in Bias Analysis]]** (5 videos)
-- **[[#5. Data Sampling for Bias Reduction]]** (7 videos)
-- **[[#6. Post-Training Model Constraints]]** (4 videos)
-- **[[#7. Case Study: Breakdown of a GenAI Story]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - XAI: the key to fair and transparent AI for all
+- [**1. Understanding the AI Landscape**](#1-understanding-the-ai-landscape) (3 videos)
+  - Bias in AI and its impact
+  - How does generative AI work
+  - Challenges of bias mitigation
+- [**2. Bias in GenAI**](#2-bias-in-genai) (3 videos)
+  - Bias in data: "Bad data in, bad data out"
+  - Prompt engineering crash course
+  - Bias in mathetmical assumptions
+- [**3. Bias in Model Training**](#3-bias-in-model-training) (7 videos)
+  - Introduction to GenAI model training
+  - Demographic parity and its applications
+  - Equal opportunity parity for evaluating fairness
+  - Equalized odds parity to compare subgroup performance
+  - HELM
+  - Red-teaming
+  - Exercise: Building an evaluation pipeline
+- [**4. Counterfactuals in Bias Analysis**](#4-counterfactuals-in-bias-analysis) (5 videos)
+  - What is a counterfactual?
+  - Concept of counterfactuals and what-if scenarios
+  - Applications of counterfactuals for transparency
+  - Counterfactual modeling for improved fairness
+  - Exercise: TensorFlow counterfactual
+- [**5. Data Sampling for Bias Reduction**](#5-data-sampling-for-bias-reduction) (7 videos)
+  - The power of sampling data
+  - Data validation and evaluation
+  - Overview of stratified sampling
+  - Sampling based on demographics
+  - Random sampling within stratified groups
+  - Testing model performance across diverse samples
+  - Exercise: Design sampling criteria with RAI principles
+- [**6. Post-Training Model Constraints**](#6-post-training-model-constraints) (4 videos)
+  - Introduction to model constraints to control bias
+  - Power of flagging, pruning, and nudging
+  - Using human-in-the-loop tools
+  - Exercise: Model constraint pipeline
+- [**7. Case Study: Breakdown of a GenAI Story**](#7-case-study-breakdown-of-a-genai-story) (1 videos)
+  - Explore an example of GenAI output
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your XAI learning journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### XAI: the key to fair and transparent AI for all
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/xai-the-key-to-fair-and-transparent-ai-for-all?u=76281980)
@@ -91,7 +123,7 @@ created: 2026-04-29
 
 ### 1. Understanding the AI Landscape
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias in AI and its impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980)
@@ -258,7 +290,7 @@ created: 2026-04-29
 
 ### 2. Bias in GenAI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Bias in data: "Bad data in, bad data out"
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980)
@@ -549,7 +581,7 @@ created: 2026-04-29
 
 ### 3. Bias in Model Training
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to GenAI model training
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-genai-model-training?u=76281980)
@@ -1015,7 +1047,7 @@ created: 2026-04-29
 
 ### 4. Counterfactuals in Bias Analysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is a counterfactual?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980)
@@ -1439,7 +1471,7 @@ created: 2026-04-29
 
 ### 5. Data Sampling for Bias Reduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of sampling data
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/the-power-of-sampling-data?u=76281980)
@@ -2011,7 +2043,7 @@ created: 2026-04-29
 
 ### 6. Post-Training Model Constraints
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to model constraints to control bias
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980)
@@ -2341,7 +2373,7 @@ created: 2026-04-29
 
 ### 7. Case Study: Breakdown of a GenAI Story
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore an example of GenAI output
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980)
@@ -2412,7 +2444,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your XAI learning journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980)

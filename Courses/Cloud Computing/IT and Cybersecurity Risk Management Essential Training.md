@@ -42,16 +42,41 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. What Is IT Risk Management?]]** (6 videos)
-- **[[#2. IT Risk Management in Context]]** (6 videos)
-- **[[#3. IT Risk Management in Practice]]** (6 videos)
-- **[[#4. IT Risk Management on the Job]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Managing risk in IT
+- [**1. What Is IT Risk Management?**](#1-what-is-it-risk-management) (6 videos)
+  - What is IT risk?
+  - What is IT risk appetite?
+  - What is IT risk tolerance?
+  - Types of IT risks
+  - AI in IT and cybersecurity
+  - Making an IT risk decision
+- [**2. IT Risk Management in Context**](#2-it-risk-management-in-context) (6 videos)
+  - IT risk management in small companies
+  - IT risk management in medium companies
+  - IT risk management in large companies
+  - Quantitative vs. qualitative risk assessments
+  - The role of organizational culture
+  - The minimum viable approach
+- [**3. IT Risk Management in Practice**](#3-it-risk-management-in-practice) (6 videos)
+  - Performing the IT risk assessment
+  - Choosing an IT risk management framework
+  - Choosing an IT risk management tool
+  - Determining an acceptable level of IT risk
+  - Using an IT risk register
+  - IT risk management techniques
+- [**4. IT Risk Management on the Job**](#4-it-risk-management-on-the-job) (5 videos)
+  - Choosing the right IT risk management technique
+  - Choosing controls
+  - Implementing controls
+  - Operating controls
+  - Validating controls
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps with managing risk in IT
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing risk in IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/managing-risk-in-it-24395817?u=76281980)
@@ -84,7 +109,7 @@ created: 2026-04-29
 
 ### 1. What Is IT Risk Management?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is IT risk?
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/what-is-it-risk-14510296?u=76281980)
@@ -472,7 +497,7 @@ created: 2026-04-29
 
 ### 2. IT Risk Management in Context
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### IT risk management in small companies
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/it-risk-management-in-small-companies-14512317?u=76281980)
@@ -916,7 +941,7 @@ created: 2026-04-29
 
 ### 3. IT Risk Management in Practice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Performing the IT risk assessment
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/performing-the-it-risk-assessment-14509363?u=76281980)
@@ -1378,7 +1403,7 @@ created: 2026-04-29
 
 ### 4. IT Risk Management on the Job
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choosing the right IT risk management technique
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/choosing-the-right-it-risk-management-technique-24398856?u=76281980)
@@ -1772,7 +1797,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps with managing risk in IT
 > [LinkedIn Learning](https://www.linkedin.com/learning/it-and-cybersecurity-risk-management-essential-training/next-steps-with-managing-risk-in-it-24393848?u=76281980)

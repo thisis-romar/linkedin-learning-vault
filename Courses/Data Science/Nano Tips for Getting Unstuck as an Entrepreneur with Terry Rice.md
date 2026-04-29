@@ -46,11 +46,21 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#1. How to Get Unstuck as an Entrepreneur]]** (10 videos)
+- [**1. How to Get Unstuck as an Entrepreneur**](#1-how-to-get-unstuck-as-an-entrepreneur) (10 videos)
+  - How to determine the vision and mission of your business
+  - Three steps to developing a high-performance mindset
+  - Optimizing your business model and revenue potential
+  - How to create the perfect offer for your audience
+  - Best practices for developing your personal brand
+  - How to get clients for your business
+  - How to manage clients and reduce stress
+  - How to increase your productivity and efficiency
+  - Best practices for building and nurturing a powerful network
+  - How to improve processes and scale your business
 
 ### 1. How to Get Unstuck as an Entrepreneur
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How to determine the vision and mission of your business
 > [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-getting-unstuck-as-an-entrepreneur-with-terry-rice/how-to-determine-the-vision-and-mission-of-your-business?u=76281980)

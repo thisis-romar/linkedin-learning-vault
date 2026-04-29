@@ -53,17 +53,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Docker Explained]]** (5 videos)
-- **[[#2. Installing Docker]]** (4 videos)
-- **[[#3. Using Docker]]** (16 videos)
-- **[[#4. When Things Go Wrong]]** (5 videos)
-- **[[#5. Additional Docker Resources]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Get up and running quick with Docker
+  - What you should know
+  - How to use the exercise files
+- [**1. Docker Explained**](#1-docker-explained) (5 videos)
+  - What is Docker?
+  - Containers vs. virtual machines
+  - The anatomy of a container
+  - The Docker difference
+  - Docker alternatives
+- [**2. Installing Docker**](#2-installing-docker) (4 videos)
+  - Docker Desktop
+  - Install Docker on a Mac with Docker Desktop
+  - Install Docker on Windows with Docker Desktop
+  - Install Docker on Linux
+- [**3. Using Docker**](#3-using-docker) (16 videos)
+  - Exploring the Docker CLI
+  - Create a Docker container
+  - Create a Docker container: The short way
+  - Create a Docker container from Dockerfiles, part 1
+  - Create a Docker container from Dockerfiles, part 2
+  - Create a Docker container with BuildKit
+  - Interact with your container
+  - Stopping and removing the container
+  - Binding ports to your container
+  - Saving data from containers
+  - Introducing the Docker Hub
+  - Pushing images to the Docker registry
+  - Checking your images in Docker Hub
+  - Beyond Docker Hub: Other popular container registries
+  - Challenge: Starting NGINX
+  - Solution: Starting NGINX
+- [**4. When Things Go Wrong**](#4-when-things-go-wrong) (5 videos)
+  - Help! I can't seem to create more containers
+  - Help! My container is really slow
+  - I can't use the Docker client!
+  - Challenge: Fix a broken container
+  - Solution: Fix a broken container
+- [**5. Additional Docker Resources**](#5-additional-docker-resources) (3 videos)
+  - Docker best practices
+  - Taking it to the next level with Docker Compose
+  - Level up even more with Kubernetes
+- [**Conclusion**](#conclusion) (1 videos)
+  - Until next time
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get up and running quick with Docker
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/get-up-and-running-quick-with-docker?u=76281980)
@@ -183,7 +220,7 @@ created: 2026-04-29
 
 ### 1. Docker Explained
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Docker?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/what-is-docker?u=76281980)
@@ -539,7 +576,7 @@ created: 2026-04-29
 
 ### 2. Installing Docker
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Docker Desktop
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-desktop?u=76281980)
@@ -989,7 +1026,7 @@ created: 2026-04-29
 
 ### 3. Using Docker
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring the Docker CLI
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/exploring-the-docker-cli?u=76281980)
@@ -2474,7 +2511,7 @@ created: 2026-04-29
 
 ### 4. When Things Go Wrong
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Help! I can't seem to create more containers
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/help-i-can-t-seem-to-create-more-containers?u=76281980)
@@ -3068,7 +3105,7 @@ created: 2026-04-29
 
 ### 5. Additional Docker Resources
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Docker best practices
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/docker-best-practices?u=76281980)
@@ -3313,7 +3350,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Until next time
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-docker-17236240/until-next-time-17234421?u=76281980)

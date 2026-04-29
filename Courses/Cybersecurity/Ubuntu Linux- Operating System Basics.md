@@ -51,17 +51,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Booting and Starting Up]]** (5 videos)
-- **[[#2. Software and Updates]]** (4 videos)
-- **[[#3. Resources and Reports]]** (8 videos)
-- **[[#4. Automation and Scheduling]]** (2 videos)
-- **[[#5. Recovery and Support]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Welcome
+  - Environment setup
+- [**1. Booting and Starting Up**](#1-booting-and-starting-up) (5 videos)
+  - Booting the system
+  - Configuring and modifying the bootloader
+  - Manage the startup process
+  - Update the kernel
+  - Change kernel parameters
+- [**2. Software and Updates**](#2-software-and-updates) (4 videos)
+  - Updating software
+  - Installing from source
+  - Understanding shared libraries
+  - Explore AppArmor
+- [**3. Resources and Reports**](#3-resources-and-reports) (8 videos)
+  - Examine resource utilization
+  - Working with processes
+  - Explore resource bottlenecks
+  - Explore system hardware
+  - Upgrade or add hardware
+  - Explore system log files
+  - Monitor security and audit the system
+  - System usage reporting
+- [**4. Automation and Scheduling**](#4-automation-and-scheduling) (2 videos)
+  - Schedule and verify tasks
+  - Configuration management and automation
+- [**5. Recovery and Support**](#5-recovery-and-support) (3 videos)
+  - Consider a disaster recovery plan
+  - Train team members and document changes
+  - Incident management
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/welcome?u=76281980)
@@ -128,7 +153,7 @@ created: 2026-04-29
 
 ### 1. Booting and Starting Up
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Booting the system
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/booting-the-system?u=76281980)
@@ -596,7 +621,7 @@ created: 2026-04-29
 
 ### 2. Software and Updates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Updating software
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/updating-software?u=76281980)
@@ -940,7 +965,7 @@ created: 2026-04-29
 
 ### 3. Resources and Reports
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Examine resource utilization
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/examine-resource-utilization?u=76281980)
@@ -1973,7 +1998,7 @@ created: 2026-04-29
 
 ### 4. Automation and Scheduling
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Schedule and verify tasks
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/schedule-and-verify-tasks?u=76281980)
@@ -2188,7 +2213,7 @@ created: 2026-04-29
 
 ### 5. Recovery and Support
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Consider a disaster recovery plan
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/consider-a-disaster-recovery-plan?u=76281980)
@@ -2409,7 +2434,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary
 > [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-operating-system-basics/summary?u=76281980)

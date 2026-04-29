@@ -52,21 +52,87 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Visual Studio Code]]** (3 videos)
-- **[[#2. NumPy Basics]]** (9 videos)
-- **[[#3. pandas]]** (8 videos)
-- **[[#4. Folium and Geospatial Data]]** (5 videos)
-- **[[#5. NYC Taxi Data]]** (8 videos)
-- **[[#6. scikit-learn]]** (8 videos)
-- **[[#7. Plotting]]** (9 videos)
-- **[[#8. Other Packages]]** (6 videos)
-- **[[#9. Development Process]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - The Python scientific stack
+  - What you should know
+  - Using GitHub Codespaces with this course
+  - Setup
+- [**1. Visual Studio Code**](#1-visual-studio-code) (3 videos)
+  - Use code cells
+  - Extensions to the Python language
+  - Understand markdown cells
+- [**2. NumPy Basics**](#2-numpy-basics) (9 videos)
+  - NumPy overview
+  - NumPy arrays
+  - Slicing
+  - Learn boolean indexing
+  - Understand broadcasting
+  - Understand array operations
+  - Understand ufuncs
+  - Challenge: Working with an image
+  - Solution: Working with an image
+- [**3. pandas**](#3-pandas) (8 videos)
+  - pandas overview
+  - Loading CSV files
+  - Parse time
+  - Access rows and columns
+  - Calculate distance
+  - Display speed box plot
+  - Challenge: Taxi data mean speed
+  - Solution: Taxi data mean speed
+- [**4. Folium and Geospatial Data**](#4-folium-and-geospatial-data) (5 videos)
+  - Create an initial map
+  - Draw a track on map
+  - Using geospatial data with shapely
+  - Challenge: Draw the running track
+  - Solution: Draw the running track
+- [**5. NYC Taxi Data**](#5-nyc-taxi-data) (8 videos)
+  - Examine data
+  - Load data from CSV files
+  - Working with categorical data
+  - Work with data: Hourly trip rides
+  - Work with data: Rides per hour
+  - Work with data: Weather data
+  - Challenge: Graphing taxi data
+  - Solution: Graphing taxi data
+- [**6. scikit-learn**](#6-scikit-learn) (8 videos)
+  - scikit-learn introduction
+  - Linear regression
+  - Understand train/test split
+  - Preprocess data
+  - Compose pipelines
+  - Save and load models
+  - Challenge: Handwritten digits
+  - Solution: Handwritten digits
+- [**7. Plotting**](#7-plotting) (9 videos)
+  - Overview of matplotlib
+  - Use styles
+  - Customize pandas output
+  - Plotting with pandas
+  - Use Matplotlib with pandas
+  - Tips and tricks
+  - Other plotting packages
+  - Challenge: Stock data bar charts
+  - Solution: Stock data bar charts
+- [**8. Other Packages**](#8-other-packages) (6 videos)
+  - Other packages overview
+  - Go faster with Numba
+  - Understand deep learning
+  - Work with image processing
+  - Understand NLP: NLTK
+  - Working with bigger data
+- [**9. Development Process**](#9-development-process) (5 videos)
+  - Development process overview
+  - Understand source control
+  - Learn code review
+  - Testing overview
+  - Testing example
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Python scientific stack
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/the-python-scientific-stack?u=76281980)
@@ -276,7 +342,7 @@ created: 2026-04-29
 
 ### 1. Visual Studio Code
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Use code cells
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-code-cells?u=76281980)
@@ -450,7 +516,7 @@ created: 2026-04-29
 
 ### 2. NumPy Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### NumPy overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980)
@@ -989,7 +1055,7 @@ created: 2026-04-29
 
 ### 3. pandas
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### pandas overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980)
@@ -1522,7 +1588,7 @@ created: 2026-04-29
 
 ### 4. Folium and Geospatial Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Create an initial map
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980)
@@ -1862,7 +1928,7 @@ created: 2026-04-29
 
 ### 5. NYC Taxi Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Examine data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/examine-data?u=76281980)
@@ -2477,7 +2543,7 @@ created: 2026-04-29
 
 ### 6. scikit-learn
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### scikit-learn introduction
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980)
@@ -3123,7 +3189,7 @@ created: 2026-04-29
 
 ### 7. Plotting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of matplotlib
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980)
@@ -3659,7 +3725,7 @@ created: 2026-04-29
 
 ### 8. Other Packages
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Other packages overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-packages-overview?u=76281980)
@@ -4194,7 +4260,7 @@ created: 2026-04-29
 
 ### 9. Development Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Development process overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/development-process-overview?u=76281980)
@@ -4447,7 +4513,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/next-steps?u=76281980)

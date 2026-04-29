@@ -48,20 +48,86 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding AI]]** (2 videos)
-- **[[#2. Azure Machine Learning]]** (11 videos)
-- **[[#3. Computer Vision]]** (9 videos)
-- **[[#4. Natural Language Processing]]** (9 videos)
-- **[[#5. Document Intelligence, Content Safety, and Knowledge Mining]]** (9 videos)
-- **[[#6. Generative AI]]** (11 videos)
-- **[[#7. Responsible AI]]** (8 videos)
-- **[[#8. Transform Your Business with Microsoft AI]]** (4 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The essentials of Azure AI
+- [**1. Understanding AI**](#1-understanding-ai) (2 videos)
+  - Definition, history, and evolution of AI
+  - Importance of learning AI
+- [**2. Azure Machine Learning**](#2-azure-machine-learning) (11 videos)
+  - Overview of machine learning
+  - Types of machine learning
+  - Understanding regression
+  - Binary classification
+  - Multiclass classification
+  - Understanding clustering
+  - Neural networks and deep learning
+  - Azure machine learning capabilities
+  - Practical application of machine learning in business
+  - Creating an Azure machine learning resource
+  - Azure machine learning demo
+- [**3. Computer Vision**](#3-computer-vision) (9 videos)
+  - Overview of computer vision
+  - Deep learning for computer vision
+  - Introduction to Azure AI Vision
+  - Introduction to Azure AI Custom Vision
+  - Introduction to facial analysis and Azure AI Face
+  - Practical application of computer vision in business
+  - Creating an Azure AI Vision, Custom Vision, and Face resource
+  - Azure AI Vision demo
+  - Azure AI Custom Vision demo
+- [**4. Natural Language Processing**](#4-natural-language-processing) (9 videos)
+  - Overview of natural language processing
+  - Introduction to Azure AI Language
+  - Introduction to Azure AI Translator
+  - Understanding speech recognition and synthesis
+  - Introduction to Azure AI Speech
+  - Practical application of natural language processing in business
+  - Creating an Azure AI Language and Azure AI Speech resource
+  - Azure AI Language demo
+  - Azure AI Speech demo
+- [**5. Document Intelligence, Content Safety, and Knowledge Mining**](#5-document-intelligence-content-safety-and-knowledge-mining) (9 videos)
+  - Overview of document intelligence
+  - Azure AI Document Intelligence
+  - Introduction to Azure AI Content Safety
+  - Understanding knowledge mining and the elements of a search solution
+  - Introduction to Azure AI Search
+  - Practical application of these technologies in business
+  - Azure AI Document Intelligence demo
+  - Azure AI Content Safety demo
+  - Azure AI Search demo
+- [**6. Generative AI**](#6-generative-ai) (11 videos)
+  - Overview of generative AI
+  - Traditional model development vs. foundation models
+  - Token, embeddings, transformer model
+  - Using language models: LLM vs. SLM
+  - Improving your prompts
+  - Introduction to Microsoft Copilot
+  - Customizing language models
+  - Introduction to Azure AI Foundry
+  - Introduction to Azure OpenAI
+  - Practical application of generative AI in business
+  - Azure AI Foundry demo
+- [**7. Responsible AI**](#7-responsible-ai) (8 videos)
+  - Importance of responsible use of AI
+  - Achieving AI fairness
+  - Achieving AI reliability and safety
+  - Achieving AI privacy and security
+  - Achieving AI inclusivity
+  - Achieving AI transparency
+  - Achieving AI accountability
+  - Real-life samples of responsible AI
+- [**8. Transform Your Business with Microsoft AI**](#8-transform-your-business-with-microsoft-ai) (4 videos)
+  - Microsoft AI approach
+  - Creating an AI strategy for your business
+  - AI opportunities in different industries
+  - Career opportunities in AI
+- [**Conclusion**](#conclusion) (2 videos)
+  - Key takeaways from the course
+  - Resources for further learning
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The essentials of Azure AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/the-essentials-of-azure-ai?u=76281980)
@@ -89,7 +155,7 @@ created: 2026-04-29
 
 ### 1. Understanding AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Definition, history, and evolution of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/definition-history-and-evolution-of-ai?u=76281980)
@@ -239,7 +305,7 @@ created: 2026-04-29
 
 ### 2. Azure Machine Learning
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of machine learning
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-machine-learning?u=76281980)
@@ -948,7 +1014,7 @@ created: 2026-04-29
 
 ### 3. Computer Vision
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of computer vision
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-computer-vision?u=76281980)
@@ -1444,7 +1510,7 @@ created: 2026-04-29
 
 ### 4. Natural Language Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of natural language processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-natural-language-processing?u=76281980)
@@ -1910,7 +1976,7 @@ created: 2026-04-29
 
 ### 5. Document Intelligence, Content Safety, and Knowledge Mining
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of document intelligence
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-document-intelligence?u=76281980)
@@ -2399,7 +2465,7 @@ created: 2026-04-29
 
 ### 6. Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/overview-of-generative-ai?u=76281980)
@@ -3044,7 +3110,7 @@ created: 2026-04-29
 
 ### 7. Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Importance of responsible use of AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/importance-of-responsible-use-of-ai?u=76281980)
@@ -3527,7 +3593,7 @@ created: 2026-04-29
 
 ### 8. Transform Your Business with Microsoft AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Microsoft AI approach
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/microsoft-ai-approach?u=76281980)
@@ -3796,7 +3862,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Key takeaways from the course
 > [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-ai-essentials-workloads-and-machine-learning-on-azure/key-takeaways-from-the-course?u=76281980)

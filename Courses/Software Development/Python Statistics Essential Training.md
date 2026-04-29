@@ -54,16 +54,47 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Loading and Cleaning Data]]** (6 videos)
-- **[[#2. Exploring and Visualizing]]** (9 videos)
-- **[[#3. Linear Regressions]]** (6 videos)
-- **[[#4. Hypothesis Tests]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Being a Python statistics MVP
+  - What you should know
+  - Using GitHub Codespaces with this course
+- [**1. Loading and Cleaning Data**](#1-loading-and-cleaning-data) (6 videos)
+  - Loading data
+  - Strings and categories
+  - Cleaning numbers
+  - Shrinking numbers
+  - Challenge: Clean Ames
+  - Solution: Clean Ames
+- [**2. Exploring and Visualizing**](#2-exploring-and-visualizing) (9 videos)
+  - Categorical exploration
+  - Histograms and distributions
+  - Outliers and Z-scores
+  - Correlations
+  - Scatter plots
+  - Visualizing categorical and numerical values
+  - Comparing two categoricals
+  - Challenge: Explore Ames
+  - Solution: Explore Ames
+- [**3. Linear Regressions**](#3-linear-regressions) (6 videos)
+  - Linear regression
+  - Interpreting linear regression models
+  - Standardizing values
+  - Regression with XGBoost
+  - Challenge: Predict Ames
+  - Solution: Predict Ames
+- [**4. Hypothesis Tests**](#4-hypothesis-tests) (6 videos)
+  - Exploring data
+  - Visualizing distributions
+  - Running statistical tests
+  - Testing for normality
+  - Challenge: Checking square footage distributions
+  - Solution: Checking square footage distributions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Being a Python statistics MVP
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/being-a-python-statistics-mvp?u=76281980)
@@ -187,7 +218,7 @@ created: 2026-04-29
 
 ### 1. Loading and Cleaning Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Loading data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/loading-data?u=76281980)
@@ -1295,7 +1326,7 @@ created: 2026-04-29
 
 ### 2. Exploring and Visualizing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Categorical exploration
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/categorical-exploration?u=76281980)
@@ -2448,7 +2479,7 @@ created: 2026-04-29
 
 ### 3. Linear Regressions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Linear regression
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/linear-regression?u=76281980)
@@ -3258,7 +3289,7 @@ created: 2026-04-29
 
 ### 4. Hypothesis Tests
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring data
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/exploring-data?u=76281980)
@@ -3791,7 +3822,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/python-statistics-essential-training-19258005/next-steps?u=76281980)

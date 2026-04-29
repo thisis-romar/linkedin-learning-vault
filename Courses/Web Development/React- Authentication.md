@@ -57,19 +57,73 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. User Authentication Basics]]** (16 videos)
-- **[[#2. Email Verification]]** (8 videos)
-- **[[#3. Resetting Passwords]]** (5 videos)
-- **[[#4. OAuth]]** (8 videos)
-- **[[#5. Prebuilt Auth Options]]** (6 videos)
-- **[[#6. Best Practices]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
-- **[[#Appendix]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Secure authentication practices in React
+  - The structure of this course
+- [**1. User Authentication Basics**](#1-user-authentication-basics) (16 videos)
+  - What is user authentication?
+  - Basic project setup
+  - Creating private React routes
+  - JSON Web Token basics
+  - Solution: Working with JSON Web Tokens
+  - Adding a sign-up route to the server
+  - Generating JSON Web Tokens
+  - Adding a log-in route to the server
+  - Adding JWTs to the front-end
+  - Parsing JWT data
+  - Adding JWTs to sign-up and log-in pages
+  - Adding JWTs to the user info page
+  - Adding an "update user" route
+  - Adding update functionality to the front-end
+  - State management for tokens
+  - Adding log-out functionality
+- [**2. Email Verification**](#2-email-verification) (8 videos)
+  - The basic email verification process
+  - Setting up an email provider
+  - Creating an email provider API key
+  - Sending emails from Node
+  - Integrating verification tokens
+  - Adding a "please verify email" page
+  - Adding a verify email route
+  - Creating a verification landing page
+- [**3. Resetting Passwords**](#3-resetting-passwords) (5 videos)
+  - The basic password reset process
+  - Adding a "forgot password" page
+  - Sending a "reset password" email
+  - Creating a "reset password" landing page
+  - Adding a "reset password" server endpoint
+- [**4. OAuth**](#4-oauth) (8 videos)
+  - OAuth basics
+  - Setting up OAuth on Google
+  - Adding an OAuth URL route
+  - Creating a "sign-in with Google" button
+  - Adding an OAuth callback route
+  - Loading user info from Google
+  - Creating new users from OAuth data
+  - Handling successful OAuth authentication
+- [**5. Prebuilt Auth Options**](#5-prebuilt-auth-options) (6 videos)
+  - Why prebuilt auth options?
+  - Authentication with Auth0
+  - Authentication with Firebase
+  - Authentication with NextAuth.js
+  - Authentication with Clerk
+  - Authentication with AWS
+- [**6. Best Practices**](#6-best-practices) (7 videos)
+  - Using HTTPS and SSL
+  - Salting and peppering passwords
+  - Solution: Adding salt and pepper
+  - Never trust the front-end
+  - Authentication error handling
+  - Catching & handling errors
+  - Securing your database
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps in your React journey
+- [**Appendix**](#appendix) (1 videos)
+  - A tour of Coderpad
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Secure authentication practices in React
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react?u=76281980)
@@ -183,7 +237,7 @@ created: 2026-04-29
 
 ### 1. User Authentication Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is user authentication?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980)
@@ -2557,7 +2611,7 @@ created: 2026-04-29
 
 ### 2. Email Verification
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basic email verification process
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-email-verification-process?u=76281980)
@@ -3467,7 +3521,7 @@ created: 2026-04-29
 
 ### 3. Resetting Passwords
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The basic password reset process
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-password-reset-process?u=76281980)
@@ -3888,7 +3942,7 @@ created: 2026-04-29
 
 ### 4. OAuth
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### OAuth basics
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980)
@@ -4935,7 +4989,7 @@ created: 2026-04-29
 
 ### 5. Prebuilt Auth Options
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why prebuilt auth options?
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980)
@@ -5331,7 +5385,7 @@ created: 2026-04-29
 
 ### 6. Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using HTTPS and SSL
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980)
@@ -5789,7 +5843,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps in your React journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980)
@@ -5836,7 +5890,7 @@ created: 2026-04-29
 
 ### Appendix
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A tour of Coderpad
 > [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/a-tour-of-coderpad?u=76281980)

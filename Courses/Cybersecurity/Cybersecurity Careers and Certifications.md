@@ -59,19 +59,60 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Understanding the Cybersecurity Career Field]]** (2 videos)
-- **[[#2. Cybersecurity Marketplace]]** (5 videos)
-- **[[#3. Cybersecurity Success Traits]]** (3 videos)
-- **[[#4. Cybersecurity Careers]]** (10 videos)
-- **[[#5. Cybersecurity Certifications]]** (9 videos)
-- **[[#6. Your Cybersecurity Career Path]]** (4 videos)
-- **[[#7. Cybersecurity Career Advice]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Cybersecurity careers and certifications
+  - Who this course is for
+- [**1. Understanding the Cybersecurity Career Field**](#1-understanding-the-cybersecurity-career-field) (2 videos)
+  - An overview of cybersecurity key concepts
+  - Enabling technologies for cybersecurity
+- [**2. Cybersecurity Marketplace**](#2-cybersecurity-marketplace) (5 videos)
+  - Government (FISMA)
+  - Financial institutions (GLBA)
+  - Healthcare (HIPAA)
+  - Corporate (SOX)
+  - Retail (PCI DSS)
+- [**3. Cybersecurity Success Traits**](#3-cybersecurity-success-traits) (3 videos)
+  - Analytical and technology savvy
+  - Self-directed and knowledge hungry
+  - Collaborative and works well with others
+- [**4. Cybersecurity Careers**](#4-cybersecurity-careers) (10 videos)
+  - Cybersecurity careers overview
+  - Cybersecurity career: Specialist or technician
+  - Cybersecurity career: Analyst
+  - Cybersecurity career: Auditor
+  - Cybersecurity career: Consultant
+  - Cybersecurity career: Engineer
+  - Cybersecurity career: Administrator
+  - Cybersecurity career: Architect
+  - Cybersecurity career: Manager
+  - Cybersecurity career: Director
+- [**5. Cybersecurity Certifications**](#5-cybersecurity-certifications) (9 videos)
+  - Cybersecurity certifications overview
+  - Cybersecurity certification: GSEC
+  - Cybersecurity certification: SSCP
+  - Cybersecurity certification: CEH
+  - Cybersecurity certification: OSCP
+  - Cybersecurity certification: CISA
+  - Cybersecurity certification: CISSP
+  - Cybersecurity certification: CISM
+  - Cybersecurity certification: CPP
+- [**6. Your Cybersecurity Career Path**](#6-your-cybersecurity-career-path) (4 videos)
+  - Prerequisites
+  - Getting started: Get certified
+  - Example career path: Penetration tester
+  - Example career path: Security architect
+- [**7. Cybersecurity Career Advice**](#7-cybersecurity-career-advice) (5 videos)
+  - Begin with the end in mind
+  - Network with cybersecurity colleagues
+  - Participate in cybersecurity events
+  - Market yourself
+  - Build depth of knowledge
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continue your career and continuing education journey
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity careers and certifications
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-and-certifications?u=76281980)
@@ -141,7 +182,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Cybersecurity Career Field
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### An overview of cybersecurity key concepts
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/an-overview-of-cybersecurity-key-concepts?u=76281980)
@@ -294,7 +335,7 @@ created: 2026-04-29
 
 ### 2. Cybersecurity Marketplace
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Government (FISMA)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/government-fisma?u=76281980)
@@ -567,7 +608,7 @@ created: 2026-04-29
 
 ### 3. Cybersecurity Success Traits
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analytical and technology savvy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/analytical-and-technology-savvy?u=76281980)
@@ -734,7 +775,7 @@ created: 2026-04-29
 
 ### 4. Cybersecurity Careers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity careers overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-careers-overview?u=76281980)
@@ -1286,7 +1327,7 @@ created: 2026-04-29
 
 ### 5. Cybersecurity Certifications
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cybersecurity certifications overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certifications-overview?u=76281980)
@@ -1688,7 +1729,7 @@ created: 2026-04-29
 
 ### 6. Your Cybersecurity Career Path
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/prerequisites?u=76281980)
@@ -1959,7 +2000,7 @@ created: 2026-04-29
 
 ### 7. Cybersecurity Career Advice
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Begin with the end in mind
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/begin-with-the-end-in-mind?u=76281980)
@@ -2236,7 +2277,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continue your career and continuing education journey
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/continue-your-career-and-continuing-education-journey?u=76281980)

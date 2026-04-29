@@ -44,16 +44,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Define Your Business Model and Strategy]]** (4 videos)
-- **[[#2. Create a Price/Value Positioning Map]]** (3 videos)
-- **[[#3. Research Your Customer's Willingness to Pay]]** (3 videos)
-- **[[#4. Identify the Best Price and Communicate It Effectively]]** (3 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - The power of strategic pricing
+  - Set the best pricing with the 4C marketing framework
+  - Define your pricing challenge
+- [**1. Define Your Business Model and Strategy**](#1-define-your-business-model-and-strategy) (4 videos)
+  - Business model first, then pricing strategy
+  - Define your pricing objectives and constraints
+  - Identify your price carriers
+  - Calculate variable costs, fixed costs, and break-even point
+- [**2. Create a Price/Value Positioning Map**](#2-create-a-pricevalue-positioning-map) (3 videos)
+  - Identify the job-to-be-done to articulate your value proposition
+  - Define your value proposition
+  - Create a price/value positioning map
+- [**3. Research Your Customer's Willingness to Pay**](#3-research-your-customers-willingness-to-pay) (3 videos)
+  - Analyze customer price sensitivity
+  - Analyze customer trade-offs in pricing a product or service
+  - Observe and experiment to find your best price
+- [**4. Identify the Best Price and Communicate It Effectively**](#4-identify-the-best-price-and-communicate-it-effectively) (3 videos)
+  - Run what-if scenarios with three different prices
+  - Decide on the best price based on impact
+  - Communicate your price effectively
+- [**Conclusion**](#conclusion) (2 videos)
+  - Value-based pricing is both customer and profit oriented
+  - Pricing excellence is an organizational capability
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The power of strategic pricing
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/the-power-of-strategic-pricing?u=76281980)
@@ -273,7 +291,7 @@ created: 2026-04-29
 
 ### 1. Define Your Business Model and Strategy
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business model first, then pricing strategy
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/business-model-first-then-pricing-strategy?u=76281980)
@@ -573,7 +591,7 @@ created: 2026-04-29
 
 ### 2. Create a Price/Value Positioning Map
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Identify the job-to-be-done to articulate your value proposition
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/identify-the-job-to-be-done-to-articulate-your-value-proposition?u=76281980)
@@ -862,7 +880,7 @@ created: 2026-04-29
 
 ### 3. Research Your Customer's Willingness to Pay
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Analyze customer price sensitivity
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/analyze-customer-price-sensitivity?u=76281980)
@@ -1202,7 +1220,7 @@ created: 2026-04-29
 
 ### 4. Identify the Best Price and Communicate It Effectively
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Run what-if scenarios with three different prices
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/run-what-if-scenarios-with-three-different-prices?u=76281980)
@@ -1439,7 +1457,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Value-based pricing is both customer and profit oriented
 > [LinkedIn Learning](https://www.linkedin.com/learning/strategic-pricing-for-products-and-services/value-based-pricing-is-both-customer-and-profit-oriented?u=76281980)

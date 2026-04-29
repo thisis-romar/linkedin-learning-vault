@@ -49,16 +49,45 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (3 videos)
-- **[[#2. Registering New Users Handling Passwords]]** (9 videos)
-- **[[#3. Using Passport.js]]** (8 videos)
-- **[[#4. Single Sign-On (SSO)]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Real sites need authentication
+  - What you should know
+  - Loading the exercise files from GitHub
+- [**1. Getting Started**](#1-getting-started) (3 videos)
+  - Prepare your development environment
+  - Set up MongoDB
+  - Set up and understand the playground sample application
+- [**2. Registering New Users Handling Passwords**](#2-registering-new-users-handling-passwords) (9 videos)
+  - Registering new users
+  - Why plaintext passwords are bad
+  - Hashing and validating passwords with bcrypt
+  - Implementing login and logout
+  - Deserializing the logged in user from the database
+  - Offer remember me
+  - Require user verification
+  - Resetting passwords
+  - Implementing the password reset flow
+- [**3. Using Passport.js**](#3-using-passportjs) (8 videos)
+  - Using Passport.js for authentication
+  - Implementing local authentication with Passport.js
+  - Securing routes
+  - Set up and understand the ToDo list sample application
+  - Authenticating API calls
+  - Creating and sending JWT tokens
+  - Implementing JWT authentication with passport
+  - Ensuring object level authorization
+- [**4. Single Sign-On (SSO)**](#4-single-sign-on-sso) (5 videos)
+  - Authentication, authorization, and single sign-on (SSO)
+  - The GitHub OAuth2 authorization (and authentication) flow
+  - Prepare Passport.js for GitHub OAuth2
+  - Extend the application for single sign-on
+  - Finalize and test the single sign-on flow
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Real sites need authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/real-sites-need-authentication?u=76281980)
@@ -214,7 +243,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prepare your development environment
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/prepare-your-development-environment?u=76281980)
@@ -471,7 +500,7 @@ created: 2026-04-29
 
 ### 2. Registering New Users Handling Passwords
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Registering new users
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/registering-new-users?u=76281980)
@@ -1679,7 +1708,7 @@ created: 2026-04-29
 
 ### 3. Using Passport.js
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using Passport.js for authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/using-passport-js-for-authentication?u=76281980)
@@ -2692,7 +2721,7 @@ created: 2026-04-29
 
 ### 4. Single Sign-On (SSO)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Authentication, authorization, and single sign-on (SSO)
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/authentication-authorization-and-single-sign-on-sso?u=76281980)
@@ -3741,7 +3770,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/node-authentication/next-steps?u=76281980)

@@ -51,14 +51,27 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Linux Fundamentals]]** (8 videos)
-- **[[#2. Developing your knowledge]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learning Linux
+  - What is Linux and where do I start?
+- [**1. Linux Fundamentals**](#1-linux-fundamentals) (8 videos)
+  - The kernel
+  - Terminal and desktops
+  - Standard tools
+  - Software and packages
+  - The Linux file system
+  - User and system security
+  - Choosing a Linux distribution
+  - Planning your system
+- [**2. Developing your knowledge**](#2-developing-your-knowledge) (2 videos)
+  - Building your skills
+  - Finding and asking for help
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learning Linux
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/learning-linux?u=76281980)
@@ -160,7 +173,7 @@ created: 2026-04-29
 
 ### 1. Linux Fundamentals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The kernel
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/the-kernel?u=76281980)
@@ -987,7 +1000,7 @@ created: 2026-04-29
 
 ### 2. Developing your knowledge
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building your skills
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/building-your-skills?u=76281980)
@@ -1145,7 +1158,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-linux-2021/next-steps?u=76281980)

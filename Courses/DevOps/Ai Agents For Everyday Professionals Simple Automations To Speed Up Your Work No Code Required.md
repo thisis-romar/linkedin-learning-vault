@@ -49,12 +49,17 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. AI Agents for Everyday Professionals]]** (3 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - When to use and not use an AI agent
+  - What to know before starting
+- [**1. AI Agents for Everyday Professionals**](#1-ai-agents-for-everyday-professionals) (3 videos)
+  - Overview of AI agent interface
+  - Building an AI agent workflow using a template
+  - Building an AI agent workflow from scratch
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### When to use and not use an AI agent
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/when-to-use-and-not-use-an-ai-agent?u=76281980)
@@ -187,7 +192,7 @@ created: 2026-04-29
 
 ### 1. AI Agents for Everyday Professionals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Overview of AI agent interface
 > [LinkedIn Learning](https://www.linkedin.com/learning/ai-agents-for-everyday-professionals-simple-automations-to-speed-up-your-work-no-code-required/overview-of-ai-agent-interface?u=76281980)

@@ -44,16 +44,30 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Access Control]]** (2 videos)
-- **[[#2. Tainted Input]]** (3 videos)
-- **[[#3. Insecure Design]]** (3 videos)
-- **[[#4. Industry Trends]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Learn to secure applications
+  - The most reported vulnerabilities today
+- [**1. Access Control**](#1-access-control) (2 videos)
+  - Improper authentication
+  - Improper authorization
+- [**2. Tainted Input**](#2-tainted-input) (3 videos)
+  - Insecure direct object references (IDOR)
+  - Cross-site scripting (XSS)
+  - Cross-site request forgery (CSRF)
+- [**3. Insecure Design**](#3-insecure-design) (3 videos)
+  - Information disclosure
+  - Open redirect
+  - Business logic errors
+- [**4. Industry Trends**](#4-industry-trends) (3 videos)
+  - Web application firewall (WAF)
+  - DevSecOps
+  - Practice platforms
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn to secure applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/learn-to-secure-applications?u=76281980)
@@ -101,7 +115,7 @@ created: 2026-04-29
 
 ### 1. Access Control
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Improper authentication
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980)
@@ -256,7 +270,7 @@ created: 2026-04-29
 
 ### 2. Tainted Input
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Insecure direct object references (IDOR)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/insecure-direct-object-references-idor?u=76281980)
@@ -479,7 +493,7 @@ created: 2026-04-29
 
 ### 3. Insecure Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Information disclosure
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980)
@@ -689,7 +703,7 @@ created: 2026-04-29
 
 ### 4. Industry Trends
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Web application firewall (WAF)
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980)
@@ -948,7 +962,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980)

@@ -52,16 +52,40 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Decomposition Patterns]]** (6 videos)
-- **[[#2. Integration Patterns]]** (3 videos)
-- **[[#3. Data Patterns]]** (4 videos)
-- **[[#4. Operational Patterns]]** (7 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Solving microservices problems with patterns
+  - Vernacular of microservices
+  - Microservices and cloud native
+- [**1. Decomposition Patterns**](#1-decomposition-patterns) (6 videos)
+  - Decomposition of a system
+  - Domain-based microservices
+  - Business process-based microservices
+  - Atomic transaction-based microservices
+  - Strangler pattern
+  - Sidecar pattern
+- [**2. Integration Patterns**](#2-integration-patterns) (3 videos)
+  - Gateway pattern
+  - Process aggregator pattern
+  - Edge pattern
+- [**3. Data Patterns**](#3-data-patterns) (4 videos)
+  - Single service database
+  - Shared service database
+  - Command Query Responsibility Segregation
+  - Asynchronous eventing
+- [**4. Operational Patterns**](#4-operational-patterns) (7 videos)
+  - Log aggregation patterns
+  - Metrics aggregation patterns
+  - Tracing patterns
+  - External configuration
+  - Service discovery
+  - Continuous delivery
+  - Documentation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Solving microservices problems with patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/solving-microservices-problems-with-patterns?u=76281980)
@@ -217,7 +241,7 @@ created: 2026-04-29
 
 ### 1. Decomposition Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Decomposition of a system
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/decomposition-of-a-system?u=76281980)
@@ -675,7 +699,7 @@ created: 2026-04-29
 
 ### 2. Integration Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gateway pattern
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/gateway-pattern?u=76281980)
@@ -997,7 +1021,7 @@ created: 2026-04-29
 
 ### 3. Data Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Single service database
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/single-service-database?u=76281980)
@@ -1236,7 +1260,7 @@ created: 2026-04-29
 
 ### 4. Operational Patterns
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Log aggregation patterns
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/log-aggregation-patterns?u=76281980)
@@ -1746,7 +1770,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/microservices-design-patterns-23454771/next-steps?u=76281980)

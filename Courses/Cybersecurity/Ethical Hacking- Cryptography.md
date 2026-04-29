@@ -49,18 +49,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction: Diving Into Cryptography]]** (3 videos)
-- **[[#1. Clarifying Cryptography Concepts]]** (2 videos)
-- **[[#2. Types of Cryptography Methods]]** (7 videos)
-- **[[#3. Examining the Fundamental of Cryptographic Algorithms]]** (5 videos)
-- **[[#4. Explaining Public Key Infrastructure (PKI)]]** (5 videos)
-- **[[#5. Investigating Cryptoanalysis]]** (6 videos)
-- **[[#6. Guidelines and Standards]]** (1 videos)
-- **[[#Conclusion]]** (2 videos)
+- [**Introduction: Diving Into Cryptography**](#introduction-diving-into-cryptography) (3 videos)
+  - Take a crack at cryptography
+  - What you should know
+  - Why cryptography?
+- [**1. Clarifying Cryptography Concepts**](#1-clarifying-cryptography-concepts) (2 videos)
+  - Understanding cryptography terminology
+  - Linking cryptography to cybersecurity
+- [**2. Types of Cryptography Methods**](#2-types-of-cryptography-methods) (7 videos)
+  - Symmetric cryptography
+  - Symmetric cryptography, continued
+  - Asymmetric cryptography
+  - Asymmetric cryptography
+  - Hybrid cryptography
+  - Hashing
+  - Hashing, continued
+- [**3. Examining the Fundamental of Cryptographic Algorithms**](#3-examining-the-fundamental-of-cryptographic-algorithms) (5 videos)
+  - Desirable qualities of an algorithm and key
+  - Desirable qualities of an algorithm and key, continued
+  - Common symmetric algorithms
+  - Common asymmetric algorithms
+  - Common hashing algorithms
+- [**4. Explaining Public Key Infrastructure (PKI)**](#4-explaining-public-key-infrastructure-pki) (5 videos)
+  - Fundamentals of public key infrastructure (PKI)
+  - Fundamentals of public key infrastructure (PKI), continued
+  - Implementations of public key infrastructure (PKI)
+  - The SSL and TSL handshake process
+  - Examine a x.509 digital certificate
+- [**5. Investigating Cryptoanalysis**](#5-investigating-cryptoanalysis) (6 videos)
+  - Cryptanalysis goals
+  - Frequency analysis: It’s all about randomness
+  - Three cryptanalytic attack categories
+  - Key management principles
+  - Discovering cryptoanalysis tools
+  - Prevention strategies
+- [**6. Guidelines and Standards**](#6-guidelines-and-standards) (1 videos)
+  - Guidelines and standards in cryptography
+- [**Conclusion**](#conclusion) (2 videos)
+  - Fusion of AI and quantum cryptography: What's next?
+  - Summary of exam expectations
 
 ### Introduction: Diving Into Cryptography
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Take a crack at cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=76281980)
@@ -208,7 +239,7 @@ created: 2026-04-29
 
 ### 1. Clarifying Cryptography Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding cryptography terminology
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/understanding-cryptography-terminology?u=76281980)
@@ -432,7 +463,7 @@ created: 2026-04-29
 
 ### 2. Types of Cryptography Methods
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Symmetric cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/symmetric-cryptography?u=76281980)
@@ -1263,7 +1294,7 @@ created: 2026-04-29
 
 ### 3. Examining the Fundamental of Cryptographic Algorithms
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Desirable qualities of an algorithm and key
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/desirable-qualities-of-an-algorithm-and-key?u=76281980)
@@ -1863,7 +1894,7 @@ created: 2026-04-29
 
 ### 4. Explaining Public Key Infrastructure (PKI)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fundamentals of public key infrastructure (PKI)
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fundamentals-of-public-key-infrastructure-pki?u=76281980)
@@ -2423,7 +2454,7 @@ created: 2026-04-29
 
 ### 5. Investigating Cryptoanalysis
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Cryptanalysis goals
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/cryptanalysis-goals?u=76281980)
@@ -2935,7 +2966,7 @@ created: 2026-04-29
 
 ### 6. Guidelines and Standards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Guidelines and standards in cryptography
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/guidelines-and-standards-in-cryptography?u=76281980)
@@ -3026,7 +3057,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Fusion of AI and quantum cryptography: What's next?
 > [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/fusion-of-ai-quantum-cryptography-what-s-next?u=76281980)

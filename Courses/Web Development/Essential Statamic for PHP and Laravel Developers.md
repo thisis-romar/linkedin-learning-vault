@@ -50,16 +50,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Statamic]]** (3 videos)
-- **[[#2. Getting Started with Statamic]]** (8 videos)
-- **[[#3. Statamic Internals]]** (9 videos)
-- **[[#4. Deploying Statamic on Netlify]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Introduction to Statamic
+- [**1. Introduction to Statamic**](#1-introduction-to-statamic) (3 videos)
+  - What is Statamic?
+  - Statamic vs. WordPress vs. Jigsaw SSG
+  - Statamic as a standalone web app vs. as a Laravel package
+- [**2. Getting Started with Statamic**](#2-getting-started-with-statamic) (8 videos)
+  - Installing Statamic as a standalone project
+  - Installing Statamic as a Laravel package
+  - Statamic starter kits
+  - Creating a user in Statamic
+  - Statamic control panel
+  - Adding and styling content in Statamic
+  - Challenge: Creating a new Statamic project
+  - Solution: Creating a new Statamic project
+- [**3. Statamic Internals**](#3-statamic-internals) (9 videos)
+  - File structure in Statamic
+  - Blueprints, fieldtypes, and fieldsets in Statamic
+  - Assets in Statamic
+  - Antlers, the templating engine in Statamic
+  - Variables in Statamic
+  - Globals in Statamic
+  - Navigation in Statamic
+  - Challenge: Creating a blueprint, a fieldset, and a navigation
+  - Solution: Creating a blueprint, a fieldset, and a navigation
+- [**4. Deploying Statamic on Netlify**](#4-deploying-statamic-on-netlify) (6 videos)
+  - Statamic as an SSG
+  - Introduction to Netlify
+  - Uploading a Statamic website to GitHub
+  - Deploying a Statamic website to Netlify
+  - Challenge: Deploying a Statamic project to Netlify
+  - Solution: Deploying a Statamic project to Netlify
+- [**Conclusion**](#conclusion) (1 videos)
+  - Where to go from here
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to Statamic
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980)
@@ -100,7 +128,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Statamic
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Statamic?
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980)
@@ -277,7 +305,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Statamic
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Installing Statamic as a standalone project
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980)
@@ -937,7 +965,7 @@ created: 2026-04-29
 
 ### 3. Statamic Internals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### File structure in Statamic
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980)
@@ -1956,7 +1984,7 @@ created: 2026-04-29
 
 ### 4. Deploying Statamic on Netlify
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Statamic as an SSG
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980)
@@ -2416,7 +2444,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Where to go from here
 > [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)

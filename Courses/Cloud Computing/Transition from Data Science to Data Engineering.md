@@ -49,17 +49,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Fundamentals of Data Engineering]]** (4 videos)
-- **[[#2. Understanding the Data Repository]]** (4 videos)
-- **[[#3. Data Processing, Security, and Compliance]]** (3 videos)
-- **[[#4. Cloud Computing for Data Engineers]]** (2 videos)
-- **[[#5. Do Not Underestimate Data Quality and Data Governance]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Becoming a data engineer
+- [**1. Fundamentals of Data Engineering**](#1-fundamentals-of-data-engineering) (4 videos)
+  - From data scientist to data engineer
+  - How data science differs from data engineering
+  - Using data to problem-solve
+  - Role of a data engineer
+- [**2. Understanding the Data Repository**](#2-understanding-the-data-repository) (4 videos)
+  - Introduction to data warehouse
+  - Benefits and different aspects of data warehouse
+  - Introduction to data lake
+  - Benefits and different aspects of data lake
+- [**3. Data Processing, Security, and Compliance**](#3-data-processing-security-and-compliance) (3 videos)
+  - Data pipelines and the ETL process
+  - Different types of pipelines
+  - Importance of data security and measures to be taken
+- [**4. Cloud Computing for Data Engineers**](#4-cloud-computing-for-data-engineers) (2 videos)
+  - Introduction to cloud computing
+  - Various cloud platforms to explore
+- [**5. Do Not Underestimate Data Quality and Data Governance**](#5-do-not-underestimate-data-quality-and-data-governance) (2 videos)
+  - Why is data quality important?
+  - Why is data governance important?
+- [**Conclusion**](#conclusion) (1 videos)
+  - Shift from data scientist to data engineer
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Becoming a data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/becoming-a-data-engineer?u=76281980)
@@ -90,7 +107,7 @@ created: 2026-04-29
 
 ### 1. Fundamentals of Data Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### From data scientist to data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/from-data-scientist-to-data-engineer?u=76281980)
@@ -344,7 +361,7 @@ created: 2026-04-29
 
 ### 2. Understanding the Data Repository
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to data warehouse
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-data-warehouse?u=76281980)
@@ -541,7 +558,7 @@ created: 2026-04-29
 
 ### 3. Data Processing, Security, and Compliance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data pipelines and the ETL process
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/data-pipelines-and-the-etl-process?u=76281980)
@@ -784,7 +801,7 @@ created: 2026-04-29
 
 ### 4. Cloud Computing for Data Engineers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to cloud computing
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/introduction-to-cloud-computing?u=76281980)
@@ -901,7 +918,7 @@ created: 2026-04-29
 
 ### 5. Do Not Underestimate Data Quality and Data Governance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why is data quality important?
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/why-is-data-quality-important?u=76281980)
@@ -1022,7 +1039,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Shift from data scientist to data engineer
 > [LinkedIn Learning](https://www.linkedin.com/learning/transition-from-data-science-to-data-engineering/shift-from-data-scientist-to-data-engineer?u=76281980)

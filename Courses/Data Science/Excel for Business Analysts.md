@@ -48,17 +48,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Basics]]** (6 videos)
-- **[[#2. Getting Started with Business Analytics]]** (7 videos)
-- **[[#3. Predictive Tools in Business Analytics]]** (6 videos)
-- **[[#4. Reading Business Analytics Output]]** (8 videos)
-- **[[#5. Business Analytics and AI]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Benefit from business analytics
+- [**1. The Basics**](#1-the-basics) (6 videos)
+  - What is business analytics?
+  - Business analytics and company financials
+  - Basics of business analysis
+  - Finding data for business analytics
+  - Using business analytics for sales prospecting
+  - Testing marketing content with business analytics
+- [**2. Getting Started with Business Analytics**](#2-getting-started-with-business-analytics) (7 videos)
+  - Data access and availability
+  - Integrating data sets
+  - Data and business analytics
+  - Finding a data model
+  - Mapping your data
+  - Dealing with data Issues
+  - Tools for business analysis
+- [**3. Predictive Tools in Business Analytics**](#3-predictive-tools-in-business-analytics) (6 videos)
+  - Business analytics and performance
+  - Using data in hiring plans
+  - Understanding HR issues with data
+  - Troubleshooting at the organization
+  - Forecasting with business analytics data
+  - Making corporate investment decisions
+- [**4. Reading Business Analytics Output**](#4-reading-business-analytics-output) (8 videos)
+  - Examining financial data
+  - Waterfall charts in Excel
+  - Competitor analysis and benchmarking
+  - Growing revenue with business analytics
+  - Business strategy and business analytics
+  - Product pricing with business analytics
+  - Price, volume, and sensitivity analysis
+  - Controlling costs in business
+- [**5. Business Analytics and AI**](#5-business-analytics-and-ai) (3 videos)
+  - Understanding AI tools and BA
+  - Using data with generative AI
+  - Limitations on AI and data
+- [**Conclusion**](#conclusion) (1 videos)
+  - Putting tools into action
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Benefit from business analytics
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980)
@@ -84,7 +116,7 @@ created: 2026-04-29
 
 ### 1. The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is business analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980)
@@ -547,7 +579,7 @@ created: 2026-04-29
 
 ### 2. Getting Started with Business Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Data access and availability
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980)
@@ -1270,7 +1302,7 @@ created: 2026-04-29
 
 ### 3. Predictive Tools in Business Analytics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Business analytics and performance
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980)
@@ -1960,7 +1992,7 @@ created: 2026-04-29
 
 ### 4. Reading Business Analytics Output
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Examining financial data
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980)
@@ -2814,7 +2846,7 @@ created: 2026-04-29
 
 ### 5. Business Analytics and AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding AI tools and BA
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980)
@@ -3243,7 +3275,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Putting tools into action
 > [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980)

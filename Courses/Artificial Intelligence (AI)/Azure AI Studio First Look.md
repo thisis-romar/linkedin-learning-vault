@@ -49,12 +49,17 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1.  Work with Azure Open AI Studio]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Exploring Azure OpenAI Studio
+- [**1.  Work with Azure Open AI Studio**](#1-work-with-azure-open-ai-studio) (4 videos)
+  - Azure AI Studio and the Azure Portal
+  - Key differences between Azure and OpenAI
+  - Use OpenAI chat with Python
+  - Create Dall-E images with Python
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Exploring Azure OpenAI Studio
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/exploring-azure-openai-studio?u=76281980)
@@ -77,7 +82,7 @@ created: 2026-04-29
 
 ### 1.  Work with Azure Open AI Studio
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Azure AI Studio and the Azure Portal
 > [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-studio-first-look/azure-ai-studio-and-the-azure-portal?u=76281980)

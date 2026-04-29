@@ -47,17 +47,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started: Review the Technical Debt]]** (5 videos)
-- **[[#2. Fence in the Technical Debt]]** (6 videos)
-- **[[#3. Improve Your Tools]]** (3 videos)
-- **[[#4. Pay Down Technical Debt]]** (4 videos)
-- **[[#5. Keep Technical Debt at Bay]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Embrace the legacy and tackle the debt
+  - What you should know
+  - Definitions
+- [**1. Getting Started: Review the Technical Debt**](#1-getting-started-review-the-technical-debt) (5 videos)
+  - Familiarize yourself
+  - Remember the prime directive
+  - Take ownership
+  - Set up a dev environment
+  - Skim the code
+- [**2. Fence in the Technical Debt**](#2-fence-in-the-technical-debt) (6 videos)
+  - Technical debt grows without tests
+  - Create a test suite (if one is missing)
+  - Run the test suite
+  - Handle failing tests
+  - Build out test coverage
+  - Build dependency behavior tests
+- [**3. Improve Your Tools**](#3-improve-your-tools) (3 videos)
+  - Aging tools make technical debt worse
+  - Introduce dependency management
+  - Update dependencies and tools
+- [**4. Pay Down Technical Debt**](#4-pay-down-technical-debt) (4 videos)
+  - Remove noise and distractions
+  - Read by refactoring
+  - Isolate external services and devices
+  - Code like a scientist
+- [**5. Keep Technical Debt at Bay**](#5-keep-technical-debt-at-bay) (5 videos)
+  - Technical debt will grow like weeds
+  - Stay test driven
+  - Practice refactoring
+  - Keep code clean
+  - Monitor code quality
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Embrace the legacy and tackle the debt
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/embrace-the-legacy-and-tackle-the-debt?u=76281980)
@@ -177,7 +204,7 @@ created: 2026-04-29
 
 ### 1. Getting Started: Review the Technical Debt
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Familiarize yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/familiarize-yourself?u=76281980)
@@ -571,7 +598,7 @@ created: 2026-04-29
 
 ### 2. Fence in the Technical Debt
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Technical debt grows without tests
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-grows-without-tests?u=76281980)
@@ -892,7 +919,7 @@ created: 2026-04-29
 
 ### 3. Improve Your Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Aging tools make technical debt worse
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/aging-tools-make-technical-debt-worse?u=76281980)
@@ -1133,7 +1160,7 @@ created: 2026-04-29
 
 ### 4. Pay Down Technical Debt
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Remove noise and distractions
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/remove-noise-and-distractions?u=76281980)
@@ -1485,7 +1512,7 @@ created: 2026-04-29
 
 ### 5. Keep Technical Debt at Bay
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Technical debt will grow like weeds
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/technical-debt-will-grow-like-weeds?u=76281980)
@@ -1680,7 +1707,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-dealing-with-legacy-code-and-technical-debt/next-steps?u=76281980)

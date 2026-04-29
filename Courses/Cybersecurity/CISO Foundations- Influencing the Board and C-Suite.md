@@ -50,18 +50,35 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Benefits of Mastering Your Executive Relationships]]** (2 videos)
-- **[[#2. How Can the CISO Tackle the CEO?]]** (3 videos)
-- **[[#3. The Wonders of A CFO Who Gets It]]** (3 videos)
-- **[[#4. The Power Duo Relationship with Your CRO]]** (3 videos)
-- **[[#5. The Friendship between the CIO and the CISO]]** (3 videos)
-- **[[#6. Let’s Take It to the Boardroom!]]** (1 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Gaining executive advocates for a strong security posture
+- [**1. Benefits of Mastering Your Executive Relationships**](#1-benefits-of-mastering-your-executive-relationships) (2 videos)
+  - Navigating your executive relationships
+  - The lens of the four birds
+- [**2. How Can the CISO Tackle the CEO?**](#2-how-can-the-ciso-tackle-the-ceo) (3 videos)
+  - Starting with the biggest executive: Your CEO
+  - Winning over the CEO in your cyber resilience mission
+  - Partnering with your CEO in their first 30 days
+- [**3. The Wonders of A CFO Who Gets It**](#3-the-wonders-of-a-cfo-who-gets-it) (3 videos)
+  - Money: Understanding the CFO
+  - Aligning cyber risk with the CFO role
+  - Changing mindsets on costs and budgets
+- [**4. The Power Duo Relationship with Your CRO**](#4-the-power-duo-relationship-with-your-cro) (3 videos)
+  - The focus areas that are important to your CRO
+  - Connecting the dots with how CROs perceive risks
+  - Cyber and risk: The power duo and trigger questions
+- [**5. The Friendship between the CIO and the CISO**](#5-the-friendship-between-the-cio-and-the-ciso) (3 videos)
+  - Meeting the CIO: Welcome to their world
+  - Innovation and technology: What's the conflict with cyber?
+  - Building friendships and getting their critical support
+- [**6. Let’s Take It to the Boardroom!**](#6-lets-take-it-to-the-boardroom) (1 videos)
+  - Six guidelines for your board
+- [**Conclusion**](#conclusion) (1 videos)
+  - Your role in shaping the organization's culture
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Gaining executive advocates for a strong security posture
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980)
@@ -89,7 +106,7 @@ created: 2026-04-29
 
 ### 1. Benefits of Mastering Your Executive Relationships
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Navigating your executive relationships
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/navigating-your-executive-relationships?u=76281980)
@@ -201,7 +218,7 @@ created: 2026-04-29
 
 ### 2. How Can the CISO Tackle the CEO?
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Starting with the biggest executive: Your CEO
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980)
@@ -370,7 +387,7 @@ created: 2026-04-29
 
 ### 3. The Wonders of A CFO Who Gets It
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Money: Understanding the CFO
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980)
@@ -565,7 +582,7 @@ created: 2026-04-29
 
 ### 4. The Power Duo Relationship with Your CRO
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The focus areas that are important to your CRO
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980)
@@ -720,7 +737,7 @@ created: 2026-04-29
 
 ### 5. The Friendship between the CIO and the CISO
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Meeting the CIO: Welcome to their world
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980)
@@ -886,7 +903,7 @@ created: 2026-04-29
 
 ### 6. Let’s Take It to the Boardroom!
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Six guidelines for your board
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980)
@@ -944,7 +961,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Your role in shaping the organization's culture
 > [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980)

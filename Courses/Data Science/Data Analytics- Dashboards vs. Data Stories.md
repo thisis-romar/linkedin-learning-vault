@@ -48,16 +48,28 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understand the Value of Data]]** (3 videos)
-- **[[#2. Build Effective Dashboards]]** (2 videos)
-- **[[#3. Craft Compelling Data Stories]]** (3 videos)
-- **[[#4. Choose the Right Format for the Job]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Choose the right format for your data
+- [**1. Understand the Value of Data**](#1-understand-the-value-of-data) (3 videos)
+  - Explain why businesses want insights
+  - Solve the problem of unstructured data
+  - Define the role of a data analyst
+- [**2. Build Effective Dashboards**](#2-build-effective-dashboards) (2 videos)
+  - Design dashboards for stakeholder needs
+  - Optimize dashboard layout and filters
+- [**3. Craft Compelling Data Stories**](#3-craft-compelling-data-stories) (3 videos)
+  - Build a compelling narrative
+  - Visualize data with purpose
+  - Conclude with insights and action
+- [**4. Choose the Right Format for the Job**](#4-choose-the-right-format-for-the-job) (2 videos)
+  - Decide between a dashboard and a story
+  - Integrate dashboards and data stories
+- [**Conclusion**](#conclusion) (1 videos)
+  - Share insights confidently
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Choose the right format for your data
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/choose-the-right-format-for-your-data-30275053?u=76281980)
@@ -88,7 +100,7 @@ created: 2026-04-29
 
 ### 1. Understand the Value of Data
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explain why businesses want insights
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/explain-why-businesses-want-insights-30283048?u=76281980)
@@ -325,7 +337,7 @@ created: 2026-04-29
 
 ### 2. Build Effective Dashboards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Design dashboards for stakeholder needs
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/design-dashboards-for-stakeholder-needs-30282071?u=76281980)
@@ -486,7 +498,7 @@ created: 2026-04-29
 
 ### 3. Craft Compelling Data Stories
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Build a compelling narrative
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/build-a-compelling-narrative-30264065?u=76281980)
@@ -745,7 +757,7 @@ created: 2026-04-29
 
 ### 4. Choose the Right Format for the Job
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Decide between a dashboard and a story
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/decide-between-a-dashboard-and-a-story-30281051?u=76281980)
@@ -900,7 +912,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Share insights confidently
 > [LinkedIn Learning](https://www.linkedin.com/learning/data-analytics-dashboards-vs-data-stories-28285407/share-insights-confidently-30282072?u=76281980)

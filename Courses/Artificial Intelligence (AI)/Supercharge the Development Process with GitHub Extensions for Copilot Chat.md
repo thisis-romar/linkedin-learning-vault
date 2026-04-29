@@ -48,12 +48,17 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Using Copilot Extensions]]** (4 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Extending GitHub Copilot Chat
+- [**1. Using Copilot Extensions**](#1-using-copilot-extensions) (4 videos)
+  - Prerequisites for using GitHub Extensions
+  - Installing extensions from the GitHub Marketplace
+  - Using GitHub Extensions in code editors
+  - Using GitHub Copilot on GitHub.com
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Extending GitHub Copilot Chat
 > [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980)
@@ -86,7 +91,7 @@ created: 2026-04-29
 
 ### 1. Using Copilot Extensions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Prerequisites for using GitHub Extensions
 > [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980)

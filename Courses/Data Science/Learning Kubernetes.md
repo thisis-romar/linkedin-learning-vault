@@ -57,18 +57,48 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Kubernetes and the Cloud-Native Ecosystem]]** (3 videos)
-- **[[#2. Setting Up and Getting Oriented]]** (7 videos)
-- **[[#3. Application Deployment]]** (8 videos)
-- **[[#4. Complex Application Deployment]]** (3 videos)
-- **[[#5. Kubernetes Architecture]]** (3 videos)
-- **[[#6. Advanced Topics]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Setting sail on your Kubernetes voyage
+  - What you should know
+- [**1. Kubernetes and the Cloud-Native Ecosystem**](#1-kubernetes-and-the-cloud-native-ecosystem) (3 videos)
+  - What is Kubernetes?
+  - What are containers?
+  - What is cloud native?
+- [**2. Setting Up and Getting Oriented**](#2-setting-up-and-getting-oriented) (7 videos)
+  - Install Docker on Windows
+  - Install Docker on Linux
+  - Install Docker on macOS
+  - Install minikube on Windows
+  - Install minikube on Linux
+  - Install minikube on macOS
+  - Spin up and explore a minikube cluster
+- [**3. Application Deployment**](#3-application-deployment) (8 videos)
+  - Reading and writing YAML
+  - Create a namespace
+  - Deploy an application
+  - Check the health of a pod by looking at the event logs
+  - Check that your application is working with BusyBox
+  - View your application logs
+  - Challenge
+  - Solution
+- [**4. Complex Application Deployment**](#4-complex-application-deployment) (3 videos)
+  - Expose your application to the internet with a LoadBalancer
+  - Add resource requests and limits to your pod
+  - Delete your Kubernetes objects and tear down your cluster
+- [**5. Kubernetes Architecture**](#5-kubernetes-architecture) (3 videos)
+  - The Kubernetes control plane
+  - Kubernetes worker nodes
+  - How the control plane and nodes work together
+- [**6. Advanced Topics**](#6-advanced-topics) (3 videos)
+  - Ways to manage Kubernetes pods
+  - Running stateful workloads
+  - Kubernetes security
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps on your Kubernetes voyage
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Setting sail on your Kubernetes voyage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/setting-sail-on-your-kubernetes-voyage?u=76281980)
@@ -139,7 +169,7 @@ created: 2026-04-29
 
 ### 1. Kubernetes and the Cloud-Native Ecosystem
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Kubernetes?
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/what-is-kubernetes?u=76281980)
@@ -329,7 +359,7 @@ created: 2026-04-29
 
 ### 2. Setting Up and Getting Oriented
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Install Docker on Windows
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/install-docker-on-windows?u=76281980)
@@ -760,7 +790,7 @@ created: 2026-04-29
 
 ### 3. Application Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Reading and writing YAML
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/reading-and-writing-yaml?u=76281980)
@@ -1416,7 +1446,7 @@ created: 2026-04-29
 
 ### 4. Complex Application Deployment
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Expose your application to the internet with a LoadBalancer
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/expose-your-application-to-the-internet-with-a-loadbalancer?u=76281980)
@@ -1635,7 +1665,7 @@ created: 2026-04-29
 
 ### 5. Kubernetes Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The Kubernetes control plane
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/the-kubernetes-control-plane?u=76281980)
@@ -1819,7 +1849,7 @@ created: 2026-04-29
 
 ### 6. Advanced Topics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ways to manage Kubernetes pods
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/ways-to-manage-kubernetes-pods?u=76281980)
@@ -2027,7 +2057,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps on your Kubernetes voyage
 > [LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes-16086900/next-steps-on-your-kubernetes-voyage?u=76281980)

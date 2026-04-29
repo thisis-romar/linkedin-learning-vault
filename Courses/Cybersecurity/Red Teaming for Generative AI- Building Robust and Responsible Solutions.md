@@ -43,16 +43,31 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Red Teaming for Generative AI]]** (3 videos)
-- **[[#2. Red Teaming Techniques for GenAI]]** (2 videos)
-- **[[#3. Red Teaming Process]]** (4 videos)
-- **[[#4. Mitigating Risks and Building Responsible AI]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Leverage red teaming to build generative AI solutions
+- [**1. Introduction to Red Teaming for Generative AI**](#1-introduction-to-red-teaming-for-generative-ai) (3 videos)
+  - Why red teaming for GenAI
+  - Understanding common attack vectors in generative AI systems
+  - Recognizing vulnerability implications
+- [**2. Red Teaming Techniques for GenAI**](#2-red-teaming-techniques-for-genai) (2 videos)
+  - Explore red teaming options for generative AI
+  - Tools and resources for red teaming
+- [**3. Red Teaming Process**](#3-red-teaming-process) (4 videos)
+  - Building a red team
+  - Planning the test
+  - Conducting the test
+  - Reporting on the test
+- [**4. Mitigating Risks and Building Responsible AI**](#4-mitigating-risks-and-building-responsible-ai) (4 videos)
+  - Leveraging best practices for enhancing robustness
+  - Including security measures into the development lifecycle
+  - Leveraging continuous learning
+  - Understanding ethical implications of red teaming
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leverage red teaming to build generative AI solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leverage-red-teaming-to-build-generative-ai-solutions?u=76281980)
@@ -86,7 +101,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Red Teaming for Generative AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why red teaming for GenAI
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/why-red-teaming-for-gen-ai?u=76281980)
@@ -210,7 +225,7 @@ created: 2026-04-29
 
 ### 2. Red Teaming Techniques for GenAI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Explore red teaming options for generative AI
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/explore-red-teaming-options-for-generative-ai?u=76281980)
@@ -301,7 +316,7 @@ created: 2026-04-29
 
 ### 3. Red Teaming Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building a red team
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/building-a-red-team?u=76281980)
@@ -513,7 +528,7 @@ created: 2026-04-29
 
 ### 4. Mitigating Risks and Building Responsible AI
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Leveraging best practices for enhancing robustness
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/leveraging-best-practices-for-enhancing-robustness?u=76281980)
@@ -668,7 +683,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/red-teaming-for-generative-ai-building-robust-and-responsible-solutions/next-steps?u=76281980)

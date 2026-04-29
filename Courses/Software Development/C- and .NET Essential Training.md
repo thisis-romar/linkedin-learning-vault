@@ -53,17 +53,49 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (5 videos)
-- **[[#1. Overview of .NET]]** (4 videos)
-- **[[#2. Working with Strings]]** (5 videos)
-- **[[#3. Using Numbers and Dates]]** (6 videos)
-- **[[#4. Working with Files]]** (6 videos)
-- **[[#5. Regular Expressions]]** (5 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (5 videos)
+  - .NET: The everywhere framework
+  - What you should know
+  - Installing .NET
+  - Exercise Files
+  - Tour of CoderPad
+- [**1. Overview of .NET**](#1-overview-of-net) (4 videos)
+  - What is .NET?
+  - Building a console application
+  - Basic .NET data types
+  - .NET garbage collection
+- [**2. Working with Strings**](#2-working-with-strings) (5 videos)
+  - String interpolation
+  - String formatting
+  - String manipulation
+  - String searching
+  - Solution: Strings
+- [**3. Using Numbers and Dates**](#3-using-numbers-and-dates) (6 videos)
+  - Parsing numbers
+  - Formatting numerical data
+  - Using the DateTime class
+  - Formatting dates and times
+  - Parsing dates
+  - CoderPad Solution: How many days?
+- [**4. Working with Files**](#4-working-with-files) (6 videos)
+  - Creating files
+  - Reading and writing files
+  - Inspecting file information
+  - Working with directories
+  - Challenge: Files and directories
+  - Solution: Files and directories
+- [**5. Regular Expressions**](#5-regular-expressions) (5 videos)
+  - RegEx and .NET
+  - Finding and matching content
+  - Replacing content
+  - Using RegEx timeouts
+  - Solution: Regular expressions
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### .NET: The everywhere framework
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/dot-net-the-everywhere-framework?u=76281980)
@@ -313,7 +345,7 @@ created: 2026-04-29
 
 ### 1. Overview of .NET
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is .NET?
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/what-is-dot-net?u=76281980)
@@ -802,7 +834,7 @@ created: 2026-04-29
 
 ### 2. Working with Strings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### String interpolation
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/string-interpolation?u=76281980)
@@ -1419,7 +1451,7 @@ created: 2026-04-29
 
 ### 3. Using Numbers and Dates
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Parsing numbers
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/parsing-numbers?u=76281980)
@@ -2170,7 +2202,7 @@ created: 2026-04-29
 
 ### 4. Working with Files
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating files
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/creating-files?u=76281980)
@@ -2794,7 +2826,7 @@ created: 2026-04-29
 
 ### 5. Regular Expressions
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### RegEx and .NET
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/regex-and-dot-net?u=76281980)
@@ -3277,7 +3309,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-and-dot-net-essential-training/next-steps?u=76281980)

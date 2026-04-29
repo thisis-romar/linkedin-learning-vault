@@ -41,20 +41,54 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. PC Trouble]]** (4 videos)
-- **[[#2. Startup and Shutdown Issues]]** (7 videos)
-- **[[#3. Problems and Solutions: Windows]]** (7 videos)
-- **[[#4. Problems and Solutions: Mass Storage]]** (3 videos)
-- **[[#5. Problems and Solutions: Printer]]** (3 videos)
-- **[[#6. Problems and Solutions: Monitors and Graphics]]** (2 videos)
-- **[[#7. Problems and Solutions: Peripherals]]** (2 videos)
-- **[[#8. Problems and Solutions: Networking]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Troubleshoot PC issues yourself
+  - What you should know
+- [**1. PC Trouble**](#1-pc-trouble) (4 videos)
+  - Get to the root of all PC trouble
+  - Determine source: hardware or software
+  - Get help on the internet
+  - Try a quick fix
+- [**2. Startup and Shutdown Issues**](#2-startup-and-shutdown-issues) (7 videos)
+  - Access the Windows recovery menu
+  - Create a system repair disk
+  - Deal with startup errors
+  - Access the UEFI and updating the BIOS
+  - Run the memory diagnostic
+  - Find a missing operating system
+  - Work through shutdown issues
+- [**3. Problems and Solutions: Windows**](#3-problems-and-solutions-windows) (7 videos)
+  - Start up in safe mode
+  - Use system restore
+  - Explore the MSCONFIG utility
+  - Access the Task Manager
+  - Work with the Registry Editor
+  - Review events
+  - Fix Windows
+- [**4. Problems and Solutions: Mass Storage**](#4-problems-and-solutions-mass-storage) (3 videos)
+  - Check storage
+  - Free storage
+  - Work in the disk management console
+- [**5. Problems and Solutions: Printer**](#5-problems-and-solutions-printer) (3 videos)
+  - Find printer hardware solutions
+  - Check printer status
+  - Update the printer driver
+- [**6. Problems and Solutions: Monitors and Graphics**](#6-problems-and-solutions-monitors-and-graphics) (2 videos)
+  - Troubleshoot the monitor
+  - Adjust the graphics adapter
+- [**7. Problems and Solutions: Peripherals**](#7-problems-and-solutions-peripherals) (2 videos)
+  - Work with USB connections
+  - Troubleshoot audio
+- [**8. Problems and Solutions: Networking**](#8-problems-and-solutions-networking) (3 videos)
+  - Check network software
+  - Check network hardware
+  - Address the no internet issue
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot PC issues yourself
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-pc-issues-yourself?u=76281980)
@@ -128,7 +162,7 @@ created: 2026-04-29
 
 ### 1. PC Trouble
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get to the root of all PC trouble
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/get-to-the-root-of-all-pc-trouble?u=76281980)
@@ -485,7 +519,7 @@ created: 2026-04-29
 
 ### 2. Startup and Shutdown Issues
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Access the Windows recovery menu
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/access-the-windows-recovery-menu?u=76281980)
@@ -1093,7 +1127,7 @@ created: 2026-04-29
 
 ### 3. Problems and Solutions: Windows
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Start up in safe mode
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/start-up-in-safe-mode?u=76281980)
@@ -1780,7 +1814,7 @@ created: 2026-04-29
 
 ### 4. Problems and Solutions: Mass Storage
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Check storage
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-storage?u=76281980)
@@ -2084,7 +2118,7 @@ created: 2026-04-29
 
 ### 5. Problems and Solutions: Printer
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Find printer hardware solutions
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/find-printer-hardware-solutions?u=76281980)
@@ -2359,7 +2393,7 @@ created: 2026-04-29
 
 ### 6. Problems and Solutions: Monitors and Graphics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Troubleshoot the monitor
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/troubleshoot-the-monitor?u=76281980)
@@ -2556,7 +2590,7 @@ created: 2026-04-29
 
 ### 7. Problems and Solutions: Peripherals
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Work with USB connections
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/work-with-usb-connections?u=76281980)
@@ -2731,7 +2765,7 @@ created: 2026-04-29
 
 ### 8. Problems and Solutions: Networking
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Check network software
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/check-network-software?u=76281980)
@@ -2970,7 +3004,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-common-pc-issues-for-users-13981629/next-steps?u=76281980)

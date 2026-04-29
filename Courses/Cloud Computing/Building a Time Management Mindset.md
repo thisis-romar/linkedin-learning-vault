@@ -44,16 +44,34 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Use the Right Tools]]** (4 videos)
-- **[[#2. Reduce Information Overload]]** (3 videos)
-- **[[#3. How to Prioritize]]** (3 videos)
-- **[[#4. How to Make It Stick]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Live and feel better with time management
+  - Make time management your superpower
+  - Change how you think about time
+- [**1. Use the Right Tools**](#1-use-the-right-tools) (4 videos)
+  - Why you only need three time management tools
+  - Learn to schedule your time effectively
+  - Build more effective calendar habits
+  - Create realistic to-do lists
+- [**2. Reduce Information Overload**](#2-reduce-information-overload) (3 videos)
+  - Understand why time management is information management
+  - Tools for managing information overload
+  - Build your time management system
+- [**3. How to Prioritize**](#3-how-to-prioritize) (3 videos)
+  - Tune into your chronotype to better manage time
+  - Learn how to prioritize when things get hectic
+  - Automate prioritization
+- [**4. How to Make It Stick**](#4-how-to-make-it-stick) (4 videos)
+  - Implement meta-time management
+  - Use time management tools to form habits
+  - Beat the out-of-sight, out-of-mind effect
+  - Leverage your motivation
+- [**Conclusion**](#conclusion) (1 videos)
+  - Time management is a mirror
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Live and feel better with time management
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/live-and-feel-better-with-time-management?u=76281980)
@@ -226,7 +244,7 @@ created: 2026-04-29
 
 ### 1. Use the Right Tools
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why you only need three time management tools
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/why-you-only-need-three-time-management-tools?u=76281980)
@@ -595,7 +613,7 @@ created: 2026-04-29
 
 ### 2. Reduce Information Overload
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understand why time management is information management
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/understand-why-time-management-is-information-management?u=76281980)
@@ -842,7 +860,7 @@ created: 2026-04-29
 
 ### 3. How to Prioritize
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Tune into your chronotype to better manage time
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/tune-into-your-chronotype-to-better-manage-time?u=76281980)
@@ -1094,7 +1112,7 @@ created: 2026-04-29
 
 ### 4. How to Make It Stick
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Implement meta-time management
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/implement-meta-time-management?u=76281980)
@@ -1454,7 +1472,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Time management is a mirror
 > [LinkedIn Learning](https://www.linkedin.com/learning/building-a-time-management-mindset/time-management-is-a-mirror?u=76281980)

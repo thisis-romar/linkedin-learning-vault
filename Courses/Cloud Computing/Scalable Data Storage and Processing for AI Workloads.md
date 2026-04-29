@@ -54,16 +54,36 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Types of Data and Storage Requirements]]** (4 videos)
-- **[[#2. Data Storage in the AI Pipeline]]** (7 videos)
-- **[[#3. Vector Databases and RAGs]]** (3 videos)
-- **[[#4. AI Workloads and Processing]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Scalable solutions for storage and processing
+  - Prerequisites
+- [**1. Types of Data and Storage Requirements**](#1-types-of-data-and-storage-requirements) (4 videos)
+  - Types of data: Structured, semistructured, and unstructured
+  - Understanding structured data
+  - Understanding semistructured data
+  - Understanding unstructured data
+- [**2. Data Storage in the AI Pipeline**](#2-data-storage-in-the-ai-pipeline) (7 videos)
+  - Storage requirements in the AI pipeline
+  - Data storage in the AI workflow
+  - AI storage considerations
+  - AI storage best practices
+  - Cloud storage on Google Cloud
+  - Object storage with Amazon S3
+  - Blob storage on Azure
+- [**3. Vector Databases and RAGs**](#3-vector-databases-and-rags) (3 videos)
+  - Retrieval-augmented generation
+  - Vector databases and embeddings
+  - Semantic search with Pinecone
+- [**4. AI Workloads and Processing**](#4-ai-workloads-and-processing) (3 videos)
+  - Types of AI workloads
+  - Best practices to optimize AI workloads
+  - AI workloads on the cloud
+- [**Conclusion**](#conclusion) (1 videos)
+  - Summary and next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Scalable solutions for storage and processing
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980)
@@ -144,7 +164,7 @@ created: 2026-04-29
 
 ### 1. Types of Data and Storage Requirements
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of data: Structured, semistructured, and unstructured
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980)
@@ -437,7 +457,7 @@ created: 2026-04-29
 
 ### 2. Data Storage in the AI Pipeline
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Storage requirements in the AI pipeline
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980)
@@ -1217,7 +1237,7 @@ created: 2026-04-29
 
 ### 3. Vector Databases and RAGs
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Retrieval-augmented generation
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980)
@@ -1651,7 +1671,7 @@ created: 2026-04-29
 
 ### 4. AI Workloads and Processing
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Types of AI workloads
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980)
@@ -1932,7 +1952,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summary and next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980)

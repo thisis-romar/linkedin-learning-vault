@@ -46,17 +46,44 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Image Essentials]]** (4 videos)
-- **[[#2. Image Formats]]** (4 videos)
-- **[[#3. Images and CSS]]** (6 videos)
-- **[[#4. Responsive Images]]** (7 videos)
-- **[[#5. Figures]]** (2 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Welcome
+  - What you should know
+  - Setting up your computer
+- [**1. Image Essentials**](#1-image-essentials) (4 videos)
+  - Using the img element and src attribute
+  - Accessibility: alt and title attributes
+  - Image size: Width and height
+  - Obtaining images
+- [**2. Image Formats**](#2-image-formats) (4 videos)
+  - Image format overview
+  - GIF and PNG: The format for line art
+  - JPEG: The format for photos
+  - SVG: The format for vector line art
+- [**3. Images and CSS**](#3-images-and-css) (6 videos)
+  - Borders, padding, and spacing
+  - Alignment
+  - Challenge: Images and text
+  - Solution: Images and text
+  - Special effects
+  - Background images
+- [**4. Responsive Images**](#4-responsive-images) (7 videos)
+  - Resolution and pixel density
+  - Handling pixel density
+  - Using srcset and sizes
+  - Testing screen resolutions
+  - Challenge: Use srcset
+  - Solution: Use srcset
+  - Art direction: The picture element
+- [**5. Figures**](#5-figures) (2 videos)
+  - Using figure and figcaption elements
+  - Autonumbering figures with CSS
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Welcome
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/welcome?u=76281980)
@@ -162,7 +189,7 @@ created: 2026-04-29
 
 ### 1. Image Essentials
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using the img element and src attribute
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-the-img-element-and-src-attribute?u=76281980)
@@ -470,7 +497,7 @@ created: 2026-04-29
 
 ### 2. Image Formats
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Image format overview
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/image-format-overview?u=76281980)
@@ -673,7 +700,7 @@ created: 2026-04-29
 
 ### 3. Images and CSS
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Borders, padding, and spacing
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/borders-padding-and-spacing?u=76281980)
@@ -1141,7 +1168,7 @@ created: 2026-04-29
 
 ### 4. Responsive Images
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Resolution and pixel density
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/resolution-and-pixel-density?u=76281980)
@@ -1531,7 +1558,7 @@ created: 2026-04-29
 
 ### 5. Figures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Using figure and figcaption elements
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-figure-and-figcaption-elements?u=76281980)
@@ -1653,7 +1680,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980)

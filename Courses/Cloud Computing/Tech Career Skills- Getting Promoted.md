@@ -54,20 +54,42 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Understanding the Promotion Process]]** (4 videos)
-- **[[#2. Execution and Results]]** (2 videos)
-- **[[#3. Creating Efficiency]]** (2 videos)
-- **[[#4. Software Engineering]]** (2 videos)
-- **[[#5. Design and Architecture]]** (2 videos)
-- **[[#6. Collaboration]]** (2 videos)
-- **[[#7. Citizenship]]** (2 videos)
-- **[[#8. Specific Promotion-Related Activities]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Get promoted in your tech job
+- [**1. Understanding the Promotion Process**](#1-understanding-the-promotion-process) (4 videos)
+  - How promotion cycles work
+  - Promotion ladders, competencies, and levels
+  - Promotion committees
+  - Role of the manager and the engineers
+- [**2. Execution and Results**](#2-execution-and-results) (2 videos)
+  - What the committee is looking for by way of impact
+  - How engineers can show impact
+- [**3. Creating Efficiency**](#3-creating-efficiency) (2 videos)
+  - What the committee is looking for by way of efficiency
+  - How engineers can show efficiency
+- [**4. Software Engineering**](#4-software-engineering) (2 videos)
+  - What the committee is looking for in this key competency
+  - How engineers can demonstrate coding chops
+- [**5. Design and Architecture**](#5-design-and-architecture) (2 videos)
+  - What the committee is looking for by way of design skill
+  - How engineers can show design vision
+- [**6. Collaboration**](#6-collaboration) (2 videos)
+  - What the committee is looking for in collaboration
+  - How engineers can show collaboration
+- [**7. Citizenship**](#7-citizenship) (2 videos)
+  - What the committee is looking for by way of citizenship
+  - How engineers can show citizenship
+- [**8. Specific Promotion-Related Activities**](#8-specific-promotion-related-activities) (4 videos)
+  - Creating an impact resume
+  - How to cultivate references
+  - How to prep for promotion interviews
+  - How to process promotion-related feedback
+- [**Conclusion**](#conclusion) (1 videos)
+  - Boost your career
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Get promoted in your tech job
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/get-promoted-in-your-tech-job?u=76281980)
@@ -100,7 +122,7 @@ created: 2026-04-29
 
 ### 1. Understanding the Promotion Process
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How promotion cycles work
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/how-promotion-cycles-work?u=76281980)
@@ -476,7 +498,7 @@ created: 2026-04-29
 
 ### 2. Execution and Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for by way of impact
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-impact?u=76281980)
@@ -617,7 +639,7 @@ created: 2026-04-29
 
 ### 3. Creating Efficiency
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for by way of efficiency
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-efficiency?u=76281980)
@@ -766,7 +788,7 @@ created: 2026-04-29
 
 ### 4. Software Engineering
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for in this key competency
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-this-key-competency?u=76281980)
@@ -905,7 +927,7 @@ created: 2026-04-29
 
 ### 5. Design and Architecture
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for by way of design skill
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-design-skill?u=76281980)
@@ -1051,7 +1073,7 @@ created: 2026-04-29
 
 ### 6. Collaboration
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for in collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-in-collaboration?u=76281980)
@@ -1194,7 +1216,7 @@ created: 2026-04-29
 
 ### 7. Citizenship
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What the committee is looking for by way of citizenship
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/what-the-committee-is-looking-for-by-way-of-citizenship?u=76281980)
@@ -1326,7 +1348,7 @@ created: 2026-04-29
 
 ### 8. Specific Promotion-Related Activities
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Creating an impact resume
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/creating-an-impact-resume?u=76281980)
@@ -1629,7 +1651,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Boost your career
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-getting-promoted/boost-your-career?u=76281980)

@@ -46,19 +46,53 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. Introduction to Kafka]]** (4 videos)
-- **[[#2. Kafka Scaling Concepts]]** (5 videos)
-- **[[#3. Building a Kafka Cluster]]** (5 videos)
-- **[[#4. Building Scalable Producers]]** (5 videos)
-- **[[#5. Building Scalable Consumers]]** (5 videos)
-- **[[#6. Kafka Best Practices]]** (4 videos)
-- **[[#7. Use Case Project]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - Building robust Kafka applications
+- [**1. Introduction to Kafka**](#1-introduction-to-kafka) (4 videos)
+  - What is Kafka?
+  - Prerequisites for the course
+  - Kafka scaling and resiliency
+  - Setting up the exercise files
+- [**2. Kafka Scaling Concepts**](#2-kafka-scaling-concepts) (5 videos)
+  - A Kafka cluster
+  - Kafka controllers
+  - Replication
+  - Partition leaders
+  - Security
+- [**3. Building a Kafka Cluster**](#3-building-a-kafka-cluster) (5 videos)
+  - Kafka cluster setup
+  - Running the cluster
+  - Creating topics with replication
+  - Kafka clusters in action
+  - Kafka resiliency in action
+- [**4. Building Scalable Producers**](#4-building-scalable-producers) (5 videos)
+  - Producer internals
+  - Producer publishing options
+  - Acknowledgments in Kafka
+  - Additional producer parameters
+  - Java producer options example
+- [**5. Building Scalable Consumers**](#5-building-scalable-consumers) (5 videos)
+  - How consumer works
+  - Batching message consumption
+  - Committing messages
+  - Java consumer example
+  - Multi-threaded consumers
+- [**6. Kafka Best Practices**](#6-kafka-best-practices) (4 videos)
+  - Managing partition counts
+  - Managing messages
+  - Managing consumer settings
+  - Managing resiliency
+- [**7. Use Case Project**](#7-use-case-project) (4 videos)
+  - Kafka applications use case: Problem definition
+  - Setting up topics
+  - Producing data in Java
+  - Consuming data in Java
+- [**Conclusion**](#conclusion) (1 videos)
+  - How do you extend your Kafka learning journey?
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Building robust Kafka applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/building-robust-kafka-applications?u=76281980)
@@ -87,7 +121,7 @@ created: 2026-04-29
 
 ### 1. Introduction to Kafka
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is Kafka?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/what-is-kafka?u=76281980)
@@ -305,7 +339,7 @@ created: 2026-04-29
 
 ### 2. Kafka Scaling Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### A Kafka cluster
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/a-kafka-cluster?u=76281980)
@@ -619,7 +653,7 @@ created: 2026-04-29
 
 ### 3. Building a Kafka Cluster
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kafka cluster setup
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-cluster-setup?u=76281980)
@@ -1095,7 +1129,7 @@ created: 2026-04-29
 
 ### 4. Building Scalable Producers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Producer internals
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/producer-internals?u=76281980)
@@ -1434,7 +1468,7 @@ created: 2026-04-29
 
 ### 5. Building Scalable Consumers
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How consumer works
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-consumer-works?u=76281980)
@@ -1794,7 +1828,7 @@ created: 2026-04-29
 
 ### 6. Kafka Best Practices
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Managing partition counts
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/managing-partition-counts?u=76281980)
@@ -1982,7 +2016,7 @@ created: 2026-04-29
 
 ### 7. Use Case Project
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Kafka applications use case: Problem definition
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/kafka-applications-use-case-problem-definition?u=76281980)
@@ -2137,7 +2171,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### How do you extend your Kafka learning journey?
 > [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-building-scalable-applications-19204536/how-do-you-extend-your-kafka-learning-journey?u=76281980)

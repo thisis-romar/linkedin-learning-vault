@@ -46,19 +46,63 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (3 videos)
-- **[[#1. Getting Started]]** (1 videos)
-- **[[#2. Generics in Java]]** (7 videos)
-- **[[#3. Advanced Data Structures]]** (6 videos)
-- **[[#4. Functional Programming in Java]]** (7 videos)
-- **[[#5. Concurrency in Java]]** (7 videos)
-- **[[#6. Input and Output]]** (6 videos)
-- **[[#7. Working with Files and Directories]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (3 videos)
+  - Learn advanced Java programming
+  - What you should know
+  - Using the exercise files
+- [**1. Getting Started**](#1-getting-started) (1 videos)
+  - Which version of Java to use?
+- [**2. Generics in Java**](#2-generics-in-java) (7 videos)
+  - Introduction to generics in Java
+  - Generic methods in Java
+  - Bounded generics in Java
+  - The Liskov substitution principle in Java
+  - Using wildcards in generic programming
+  - Challenge: Using generics
+  - Solution: Using generics
+- [**3. Advanced Data Structures**](#3-advanced-data-structures) (6 videos)
+  - Collections in Java
+  - Using LinkedLists to structure data
+  - Storing pairs with HashMaps
+  - Using LinkedHashMaps
+  - Challenge: Data structures
+  - Solution: Data structures
+- [**4. Functional Programming in Java**](#4-functional-programming-in-java) (7 videos)
+  - Functional Interfaces in Java
+  - Implementing lambdas in Java
+  - Using method references in Java
+  - Understanding streams in Java
+  - Using streams in Java
+  - Challenge: Functional programming
+  - Solution: Functional programming
+- [**5. Concurrency in Java**](#5-concurrency-in-java) (7 videos)
+  - Introduction to concurrency in Java
+  - The Thread class in Java
+  - The Runnable interface in Java
+  - Using the ExecutorService in Java
+  - Synchronized methods in Java
+  - Challenge: Name
+  - Solution: Name
+- [**6. Input and Output**](#6-input-and-output) (6 videos)
+  - Understanding I/O in Java
+  - Reading from System.in with a Scanner
+  - Reading files with BufferedReader
+  - Using try-with-resources with I/O
+  - Challenge: Input and output
+  - Solution: Input and output
+- [**7. Working with Files and Directories**](#7-working-with-files-and-directories) (6 videos)
+  - Working with files in Java
+  - Creating a new file
+  - Working with directories in Java
+  - Copying files in Java
+  - Challenge: Files and directories
+  - Solution: Files and directories
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Learn advanced Java programming
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980)
@@ -177,7 +221,7 @@ created: 2026-04-29
 
 ### 1. Getting Started
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Which version of Java to use?
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/which-version-of-java-to-use?u=76281980)
@@ -233,7 +277,7 @@ created: 2026-04-29
 
 ### 2. Generics in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to generics in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980)
@@ -792,7 +836,7 @@ created: 2026-04-29
 
 ### 3. Advanced Data Structures
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Collections in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980)
@@ -1300,7 +1344,7 @@ created: 2026-04-29
 
 ### 4. Functional Programming in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Functional Interfaces in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/functional-interfaces-in-java?u=76281980)
@@ -1915,7 +1959,7 @@ created: 2026-04-29
 
 ### 5. Concurrency in Java
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Introduction to concurrency in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-concurrency-in-java?u=76281980)
@@ -2430,7 +2474,7 @@ created: 2026-04-29
 
 ### 6. Input and Output
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Understanding I/O in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-i-o-in-java?u=76281980)
@@ -2933,7 +2977,7 @@ created: 2026-04-29
 
 ### 7. Working with Files and Directories
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Working with files in Java
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-files-in-java?u=76281980)
@@ -3367,7 +3411,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980)

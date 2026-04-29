@@ -47,17 +47,46 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (4 videos)
-- **[[#1. Understand VPN Concepts]]** (7 videos)
-- **[[#2. Discover IP Security (IPsec)]]** (5 videos)
-- **[[#3. Configure a VPN]]** (4 videos)
-- **[[#4. Examine a Remote Access VPN]]** (4 videos)
-- **[[#5. Investigate a Site-to-Site VPN]]** (4 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (4 videos)
+  - Securing data in transit
+  - Discovering resources
+  - Using Packet Tracer
+  - Enrolling in Cisco Network Academy
+- [**1. Understand VPN Concepts**](#1-understand-vpn-concepts) (7 videos)
+  - Describing a VPN
+  - Evaluating types of VPNs
+  - Recognizing VPN topologies
+  - Comparing the main types of VPNs
+  - Dissecting VPN components
+  - Discovering the Cisco ASA
+  - Using the Cisco ASDM
+- [**2. Discover IP Security (IPsec)**](#2-discover-ip-security-ipsec) (5 videos)
+  - Summarizing IPsec
+  - Reviewing IPsec components
+  - Using the IPsec AH
+  - Outlining the IPsec ESP
+  - Evaluating operating modes
+- [**3. Configure a VPN**](#3-configure-a-vpn) (4 videos)
+  - Connecting with an always-on VPN
+  - Comparing hairpin vs. split tunnel
+  - Translating the network address
+  - Traversing through a NAT device
+- [**4. Examine a Remote Access VPN**](#4-examine-a-remote-access-vpn) (4 videos)
+  - Challenge: Clientless SSL VPN
+  - Solution: Clientless SSL VPN
+  - Employing an AnyConnect SSL VPN
+  - Assessing endpoint posture
+- [**5. Investigate a Site-to-Site VPN**](#5-investigate-a-site-to-site-vpn) (4 videos)
+  - Ensuring Perfect Forward Secrecy
+  - Setting up an IPsec site-to-site VPN
+  - Challenge: Configure a site-to-site VPN
+  - Solution: Configure a site-to-site VPN
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Securing data in transit
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/securing-data-in-transit?u=76281980)
@@ -284,7 +313,7 @@ created: 2026-04-29
 
 ### 1. Understand VPN Concepts
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Describing a VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/describing-a-vpn?u=76281980)
@@ -747,7 +776,7 @@ created: 2026-04-29
 
 ### 2. Discover IP Security (IPsec)
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Summarizing IPsec
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/summarizing-ipsec?u=76281980)
@@ -1089,7 +1118,7 @@ created: 2026-04-29
 
 ### 3. Configure a VPN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Connecting with an always-on VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/connecting-with-an-always-on-vpn?u=76281980)
@@ -1405,7 +1434,7 @@ created: 2026-04-29
 
 ### 4. Examine a Remote Access VPN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Challenge: Clientless SSL VPN
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/challenge-clientless-ssl-vpn?u=76281980)
@@ -1655,7 +1684,7 @@ created: 2026-04-29
 
 ### 5. Investigate a Site-to-Site VPN
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Ensuring Perfect Forward Secrecy
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/ensuring-perfect-forward-secrecy?u=76281980)
@@ -2061,7 +2090,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-vpn-17334607/next-steps?u=76281980)

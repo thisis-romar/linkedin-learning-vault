@@ -48,17 +48,37 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (1 videos)
-- **[[#1. The Basics]]** (6 videos)
-- **[[#2. Financial Metrics]]** (3 videos)
-- **[[#3. Forecasting in Finance]]** (3 videos)
-- **[[#4. Performing Forecasting]]** (3 videos)
-- **[[#5. Interpret Forecast Results]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (1 videos)
+  - The role that analytics plays in financial forecasting
+- [**1. The Basics**](#1-the-basics) (6 videos)
+  - What is analytics?
+  - Business intelligence and company financials
+  - Conventional financial forecasting
+  - Basics of financial regression analysis
+  - Predict values with regression analysis
+  - Doing a forecast in Excel
+- [**2. Financial Metrics**](#2-financial-metrics) (3 videos)
+  - Financial forecasting applications
+  - Using data in Excel
+  - Decision-making with data
+- [**3. Forecasting in Finance**](#3-forecasting-in-finance) (3 videos)
+  - Decide on a finance question
+  - Gather financial data
+  - Clean financial data
+- [**4. Performing Forecasting**](#4-performing-forecasting) (3 videos)
+  - Applied forecasting with data
+  - Regressions for forecasting
+  - Using Excel for regressions
+- [**5. Interpret Forecast Results**](#5-interpret-forecast-results) (3 videos)
+  - What do the results mean?
+  - Confidence intervals around the result
+  - Stress testing the results
+- [**Conclusion**](#conclusion) (1 videos)
+  - Continuing your financial forecasting learning path
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The role that analytics plays in financial forecasting
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/the-role-that-analytics-plays-in-financial-forecasting-14241634?u=76281980)
@@ -88,7 +108,7 @@ created: 2026-04-29
 
 ### 1. The Basics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What is analytics?
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-is-analytics-14243266?u=76281980)
@@ -685,7 +705,7 @@ created: 2026-04-29
 
 ### 2. Financial Metrics
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Financial forecasting applications
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/financial-forecasting-applications-14241631?u=76281980)
@@ -1004,7 +1024,7 @@ created: 2026-04-29
 
 ### 3. Forecasting in Finance
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Decide on a finance question
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/decide-on-a-finance-question-14243263?u=76281980)
@@ -1412,7 +1432,7 @@ created: 2026-04-29
 
 ### 4. Performing Forecasting
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Applied forecasting with data
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/applied-forecasting-with-data-14241633?u=76281980)
@@ -1729,7 +1749,7 @@ created: 2026-04-29
 
 ### 5. Interpret Forecast Results
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What do the results mean?
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/what-do-the-results-mean-14239801?u=76281980)
@@ -2075,7 +2095,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Continuing your financial forecasting learning path
 > [LinkedIn Learning](https://www.linkedin.com/learning/financial-forecasting-with-analytics-essential-training/continuing-your-financial-forecasting-learning-path-14238773?u=76281980)

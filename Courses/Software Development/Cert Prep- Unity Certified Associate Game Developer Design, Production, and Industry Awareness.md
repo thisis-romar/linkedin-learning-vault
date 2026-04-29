@@ -46,16 +46,39 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Game Design]]** (6 videos)
-- **[[#2. Team Work]]** (4 videos)
-- **[[#3. Preparing for Industry]]** (4 videos)
-- **[[#4. Developing for Mobile]]** (6 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - The game industry and its components
+  - Companion files
+- [**1. Game Design**](#1-game-design) (6 videos)
+  - Game design documents
+  - Genre, platforms, and mechanics
+  - Game elements
+  - Game design software
+  - Building a game design document
+  - Dos and don'ts on game design documents
+- [**2. Team Work**](#2-team-work) (4 videos)
+  - Version control and project collaboration
+  - Getting started with Collaborate
+  - Using Collaborate
+  - Working with scenes and collaboration
+- [**3. Preparing for Industry**](#3-preparing-for-industry) (4 videos)
+  - Job titles and roles
+  - Communication and collaboration
+  - Project management tools
+  - Using a kanban board
+- [**4. Developing for Mobile**](#4-developing-for-mobile) (6 videos)
+  - Mobile build platforms
+  - Downloading mobile development tools
+  - Preparing to make a build
+  - Creating a build
+  - Using an Android emulator
+  - Mobile testing
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### The game industry and its components
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980)
@@ -101,7 +124,7 @@ created: 2026-04-29
 
 ### 1. Game Design
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Game design documents
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980)
@@ -659,7 +682,7 @@ created: 2026-04-29
 
 ### 2. Team Work
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Version control and project collaboration
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980)
@@ -1017,7 +1040,7 @@ created: 2026-04-29
 
 ### 3. Preparing for Industry
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Job titles and roles
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980)
@@ -1368,7 +1391,7 @@ created: 2026-04-29
 
 ### 4. Developing for Mobile
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Mobile build platforms
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980)
@@ -1859,7 +1882,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980)

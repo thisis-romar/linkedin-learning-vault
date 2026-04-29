@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/getting-started-with-kubernetes
 course_count: 6
 linkedin_topics:
   - DevOps
-louvain_cluster: 0
+louvain_cluster: 6
 tags:
   - learning-path
   - topic/devops

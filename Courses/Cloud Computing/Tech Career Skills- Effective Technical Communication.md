@@ -71,15 +71,33 @@ created: 2026-04-29
 
 ### Chapter Overview
 
-- **[[#Introduction]]** (2 videos)
-- **[[#1. Establish Standards]]** (7 videos)
-- **[[#2. Effective Meetings]]** (5 videos)
-- **[[#3. Handle Challenges to Communication]]** (3 videos)
-- **[[#Conclusion]]** (1 videos)
+- [**Introduction**](#introduction) (2 videos)
+  - Upgrade your technical communication
+  - What you should know
+- [**1. Establish Standards**](#1-establish-standards) (7 videos)
+  - Why standards are needed
+  - Coding standards: Automation
+  - Coding standards: Performing reviews
+  - System processes: Managing projects
+  - System processes: Testing software
+  - People processes: Onboarding
+  - People processes: Mentoring
+- [**2. Effective Meetings**](#2-effective-meetings) (5 videos)
+  - What makes a meeting effective
+  - Agile team meetings: Iteration planning
+  - Agile team meetings: Demo day
+  - Agile team meetings: Retrospectives
+  - Making one-on-ones work
+- [**3. Handle Challenges to Communication**](#3-handle-challenges-to-communication) (3 videos)
+  - Communicating across cultures
+  - Communicating across time zones
+  - When something goes wrong
+- [**Conclusion**](#conclusion) (1 videos)
+  - Next steps
 
 ### Introduction
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Upgrade your technical communication
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/upgrade-your-technical-communication?u=76281980)
@@ -141,7 +159,7 @@ created: 2026-04-29
 
 ### 1. Establish Standards
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Why standards are needed
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/why-standards-are-needed?u=76281980)
@@ -773,7 +791,7 @@ created: 2026-04-29
 
 ### 2. Effective Meetings
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### What makes a meeting effective
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/what-makes-a-meeting-effective?u=76281980)
@@ -1220,7 +1238,7 @@ created: 2026-04-29
 
 ### 3. Handle Challenges to Communication
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Communicating across cultures
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/communicating-across-cultures?u=76281980)
@@ -1501,7 +1519,7 @@ created: 2026-04-29
 
 ### Conclusion
 
-> [[#Table of Contents|↑ Back to Table of Contents]]
+> [↑ Back to Table of Contents](#table-of-contents)
 
 #### Next steps
 > [LinkedIn Learning](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication/next-steps?u=76281980)
